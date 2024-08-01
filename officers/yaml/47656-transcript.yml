@@ -110,9 +110,21 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/1/2024
+  course: PDP1824A
+  title: Western States Public Order Conference
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 1/26/2024
   course: F6R2087A
   title: FBI Basic Negotiation Course
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 1/26/2024
+  course: PDP3211A
+  title: FBI Regional Crisis Negotiations Course
   status: Passed
   score: '0.0'
   hours: '36.00'

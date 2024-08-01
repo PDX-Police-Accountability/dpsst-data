@@ -40,6 +40,7 @@
 | 3/15/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/15/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
+| 3/1/2024 | PDP1856A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 1/30/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
 | 1/30/2024 | PDP2918A | 2024 Wellness In-Service Build Mental Resilience | Passed | 0.0 | 2.00 |
 | 1/30/2024 | PDP1248A | 2024 Wellness In-Service Financial Wellness | Passed | 0.0 | 1.50 |

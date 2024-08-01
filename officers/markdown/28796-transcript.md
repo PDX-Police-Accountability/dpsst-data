@@ -49,6 +49,7 @@
 | 4/5/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 1/26/2024 | F6R2087A | FBI Basic Negotiation Course | Passed | 0.0 | 36.00 |
+| 1/26/2024 | PDP3211A | FBI Regional Crisis Negotiations Course | Passed | 0.0 | 36.00 |
 | 1/19/2024 | PDP0299A | NATIA Basic Networking  IP Cameras | Passed | 0.0 | 40.00 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 30.00 |
 | 1/8/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |

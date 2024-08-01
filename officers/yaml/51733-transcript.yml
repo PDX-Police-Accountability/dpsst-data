@@ -200,6 +200,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/16/2023
+  course: PDP1071A
+  title: 2023 NTOA Crisis Negotiations Conference
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 11/2/2023
   course: PDP2064A
   title: DIR 0612.00 Communication Technology  Procedures

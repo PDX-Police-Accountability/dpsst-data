@@ -112,6 +112,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/9/2024
+  course: PDP3220A
+  title: ATAP Winter Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.75'
 - date: 2/3/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

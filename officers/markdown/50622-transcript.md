@@ -41,6 +41,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/25/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 7/25/2024 | OCP1366A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 7/25/2024 | OCP1366A | Firearms/Use of Force | Instructed | 0.0 | 16.00 |
+| 7/17/2024 | OCP3302A | CIT / BHU / LE Collaboration | Passed | 0.0 | 0.75 |
 | 7/8/2024 | OCP2056A | Anti-Bias Training For Law Enforcement | Passed | 0.0 | 2.00 |
 | 7/3/2024 | OCP0412A | Firearms/Use of Force | Instructed | 0.0 | 4.00 |
 | 6/6/2024 | OCP1306A | Virtra Use Of Force Scenarios | Passed | 0.0 | 0.50 |

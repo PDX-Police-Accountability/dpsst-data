@@ -48,7 +48,9 @@
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Instructed | 0.0 | 8.00 |
 | 3/1/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
+| 2/1/2024 | PDP1824A | Western States Public Order Conference | Passed | 0.0 | 32.00 |
 | 1/26/2024 | F6R2087A | FBI Basic Negotiation Course | Passed | 0.0 | 36.00 |
+| 1/26/2024 | PDP3211A | FBI Regional Crisis Negotiations Course | Passed | 0.0 | 36.00 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 15.00 |
 | 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 12/18/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

@@ -16,10 +16,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/16/2023 | Police Officer | Basic | Required |  |  | 8/16/2024 |
+| 7/30/2024 | Police Officer | Basic | App Recd |  |  | 8/16/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 6/21/2024 |  |
 | Code of Ethics | Law Enforcement Signed | 5/15/2023 |  |
 | Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
 ## Education
@@ -28,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 5/15/2024 | PDP2714A | 2024-1 Advanced Academy Law | Passed | 0.0 | 31.00 |
 | 5/15/2024 | PDP0442A | 2024-1 Advanced Academy SVO | Passed | 0.0 | 3.00 |
 | 5/14/2024 | PDP2374A | 2024-1 Advanced Academy Ethics | Passed | 0.0 | 41.50 |

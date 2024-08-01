@@ -55,12 +55,24 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 7/29/2024
+  course: OCP3412A
+  title: LEDS Re-Certification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/25/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/25/2024
+  course: OCP1366A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/8/2024
   course: OCP2056A
   title: Anti-Bias Training For Law Enforcement

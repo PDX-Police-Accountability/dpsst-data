@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 1/26/2024
+  course: PDP3211A
+  title: FBI Regional Crisis Negotiations Course
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 1/12/2024
   course: PDP0335A
   title: 2024 ECIT In-Service

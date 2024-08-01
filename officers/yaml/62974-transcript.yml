@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/25/2024
+  course: OCP1366A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/19/2024
   course: OCP1024A
   title: LEDS Re-Certification

@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/25/2024
+  course: MFN2540A
+  title: Firearms-Optional Reloads
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/27/2024
   course: BPT1291A
   title: Oregon Case Management Network - Summer 24

@@ -141,6 +141,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 1/26/2024
+  course: PDP3211A
+  title: FBI Regional Crisis Negotiations Course
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 1/19/2024
   course: PDP0299A
   title: NATIA Basic Networking  IP Cameras

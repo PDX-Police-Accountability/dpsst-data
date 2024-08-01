@@ -38,7 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/29/2024 | OCP3412A | LEDS Re-Certification | Passed | 0.0 | 1.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 7/25/2024 | OCP1366A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 7/8/2024 | OCP2056A | Anti-Bias Training For Law Enforcement | Passed | 0.0 | 2.00 |
 | 7/3/2024 | OCP3287A | Taser Certification | Instructed | 0.0 | 4.00 |
 | 6/24/2024 | OCP0462A | 40 MM Certification | Passed | 0.0 | 1.00 |
