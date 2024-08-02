@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2024
+  course: PDP2711A
+  title: Digital Data Subject Matter Expert
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/11/2024
   course: PDP3487A
   title: Forensic Genetic Genealogy Refresher Course

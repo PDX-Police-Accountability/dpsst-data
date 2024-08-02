@@ -36,6 +36,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/16/2024 | PDP3174A | NAMOA Conference | Passed | 0.0 | 23.00 |
+| 5/3/2024 | OSH1870A | Drug Evaluation  Classification School | Instructed | 0.0 | 13.00 |
+| 4/24/2024 | OSH2123A | Drug Evaluation  Classification Pre-School | Instructed | 0.0 | 16.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 3/7/2024 | SAG1393A | Protecting Lives Saving Futures | Instructed | 0.0 | 4.00 |
 | 3/6/2024 | SAG1662A | Protecting Lives Saving Futures | Instructed | 0.0 | 8.00 |

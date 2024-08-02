@@ -50,6 +50,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '23.00'
+- date: 5/3/2024
+  course: OSH1870A
+  title: Drug Evaluation  Classification School
+  status: Instructed
+  score: '0.0'
+  hours: '13.00'
+- date: 4/24/2024
+  course: OSH2123A
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/5/2024
   course: F6R2630A
   title: DUII Multi-Disciplinary Task Force

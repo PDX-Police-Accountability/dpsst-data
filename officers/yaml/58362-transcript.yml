@@ -56,12 +56,6 @@ training_records:
   score: '0.0'
   hours: '3.00'
 - date: 6/26/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '11.00'
-- date: 6/26/2024
   course: OCS3171A
   title: LiDAR/Radar course
   status: Instructed
@@ -2206,10 +2200,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/1/2024
   expiration_date: 3/1/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

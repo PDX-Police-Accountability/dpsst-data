@@ -37,6 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2024 | GLP2393A | Lexipol Training Bulletin Custody and Detention | Passed | 0.0 | 0.50 |
+| 6/30/2024 | GLP0224A | Lexipol Training Bulletin Personnel/Wellness | Passed | 0.0 | 0.50 |
+| 6/30/2024 | GLP2405A | Lexipol Training Bulletin Investigations | Passed | 0.0 | 0.75 |
+| 6/30/2024 | GLP3072A | Lexipol Training Bulletin General Policy Review | Passed | 0.0 | 0.50 |
+| 6/30/2024 | GLP2925A | Lexipol Training Bulletin Search and Seizure | Passed | 0.0 | 0.50 |
+| 6/30/2024 | GLP2323A | Lexipol Training Bulletin Personnel | Passed | 0.0 | 0.50 |
+| 6/30/2024 | GLP3179A | Lexipol Training Bulletin Ethics | Passed | 0.0 | 0.50 |
+| 6/30/2024 | GLP0531A | Lexipol Training Bulletin Use of Force | Passed | 0.0 | 0.75 |
 | 6/18/2024 | GLP2899A | Summer 2024 Handgun/Rifle Qualifications | Passed | 0.0 | 3.00 |
 | 5/26/2024 | GLP3899A | LEDS/CJIS | Passed | 0.0 | 1.00 |
 | 5/16/2024 | EGN3769A | Change Journal Training | Passed | 0.0 | 1.50 |

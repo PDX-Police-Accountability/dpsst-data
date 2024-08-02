@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/13/2024
+  course: PDP0351A
+  title: OSP Grenadier Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/15/2024
   course: SPP2933A
   title: Mobile Field Force

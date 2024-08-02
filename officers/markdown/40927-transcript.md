@@ -43,6 +43,7 @@
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |
 | 5/15/2024 | PDP2949A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 5/2/2024 | PDP2698A | RISS Human Trafficking Summit | Passed | 0.0 | 27.50 |
+| 5/2/2024 | PDP0463A | RISS Human Trafficking Summit | Passed | 0.0 | 25.00 |
 | 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 4/5/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |

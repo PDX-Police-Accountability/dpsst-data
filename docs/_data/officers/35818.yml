@@ -50,6 +50,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2024
+  course: GLP2393A
+  title: Lexipol Training Bulletin Custody and Detention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2024
+  course: GLP0224A
+  title: Lexipol Training Bulletin Personnel/Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2024
+  course: GLP2405A
+  title: Lexipol Training Bulletin Investigations
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 6/30/2024
+  course: GLP3072A
+  title: Lexipol Training Bulletin General Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2024
+  course: GLP2925A
+  title: Lexipol Training Bulletin Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2024
+  course: GLP2323A
+  title: Lexipol Training Bulletin Personnel
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2024
+  course: GLP3179A
+  title: Lexipol Training Bulletin Ethics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2024
+  course: GLP0531A
+  title: Lexipol Training Bulletin Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 6/18/2024
   course: GLP2899A
   title: Summer 2024 Handgun/Rifle Qualifications

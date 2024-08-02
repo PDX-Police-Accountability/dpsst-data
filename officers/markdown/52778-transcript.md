@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2024 | PDP2711A | Digital Data Subject Matter Expert | Passed | 0.0 | 40.00 |
 | 4/11/2024 | PDP3487A | Forensic Genetic Genealogy Refresher Course | Passed | 0.0 | 5.75 |
 | 3/15/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 3/15/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -51,12 +51,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 6/26/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '11.00'
-- date: 6/26/2024
   course: OCS3171A
   title: LiDAR/Radar course
   status: Instructed

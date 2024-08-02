@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/25/2024
+  course: NGP2227A
+  title: Active Shooter Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/30/2024
   course: NGP2004A
   title: Foundations in Ethics for Law Enforcement

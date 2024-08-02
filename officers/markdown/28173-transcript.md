@@ -23,9 +23,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 7/30/2024 | 7/25/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 6/29/2022 | 6/30/2024 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 8/10/2018 |  |
 ## Education
@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/30/2024 | MKL3539A | Adult/Child CPR AED and First Aid | Passed | 0.0 | 2.75 |
 | 5/29/2024 | MKL1824A | Batch Tagging Training | Passed | 0.0 | 1.50 |
 | 4/27/2024 | MKL1007A | Bi-Annual Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/26/2023 | MKL0299A | Defensive Tactics | Passed | 0.0 | 8.00 |

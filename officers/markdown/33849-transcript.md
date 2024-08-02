@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/17/2024 | SMS2001A | Pedestrian Collision Investigations | Passed | 0.0 | 40.00 |
+| 5/17/2024 | PDP0188A | Pedestrian Collision Reconstruction | Passed | 0.0 | 40.00 |
 | 3/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/22/2024 | PDP3362A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |

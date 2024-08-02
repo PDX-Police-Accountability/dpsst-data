@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | PDP1779A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 3/19/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/19/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |

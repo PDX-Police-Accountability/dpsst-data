@@ -87,12 +87,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 6/20/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/20/2024
   course: OCS2497A
   title: Vehicle Extractions and Ambushes
   status: Passed

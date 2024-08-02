@@ -35,7 +35,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/26/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 11.00 |
 | 6/26/2024 | OCS3171A | LiDAR/Radar course | Instructed | 0.0 | 11.00 |
 | 5/15/2024 | VND3612A | Responder Life Peer Support Quarterly Training | Passed | 0.0 | 1.50 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |

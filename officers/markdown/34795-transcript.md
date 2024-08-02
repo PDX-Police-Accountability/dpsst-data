@@ -44,7 +44,6 @@
 | 7/10/2024 | HDA3626A | ONEA Training Institute - Dirty MSB Case Study | Passed | 0.0 | 4.00 |
 | 7/9/2024 | HDA1491A | ONEA Training Institute - General Session | Passed | 0.0 | 4.00 |
 | 7/9/2024 | HDA2853A | ONEA Getting the Sinaloa Cartel with host nation | Passed | 0.0 | 4.00 |
-| 6/20/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
