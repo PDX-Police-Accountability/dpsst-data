@@ -47,6 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2024 | HBS3545A | 2024 March IFAST | Passed | 0.0 | 4.50 |
+| 6/5/2024 | HBS0782A | 2024 March DT's | Passed | 0.0 | 4.50 |
 | 5/31/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/1/2024 | HBS0127A | 2024 April ACAP | Passed | 0.0 | 2.00 |
 | 5/1/2024 | HBS2468A | 2024 April ADA Patrol | Passed | 0.0 | 1.00 |

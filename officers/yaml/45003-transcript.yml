@@ -99,6 +99,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/30/2024
+  course: HBP4110A
+  title: Respectful Workplace - Employee Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2024
+  course: HBP0175A
+  title: Respectful Workplace - Supervisor Trng (Ldrshp)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/31/2024
   course: HBP0527A
   title: PoliceOne HPD Pursuit Intervention Tactics

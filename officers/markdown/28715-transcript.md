@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2024 | HBP0978A | Respectful Workplace - Supervisor Trng (Ethics) | Passed | 0.0 | 1.00 |
+| 6/30/2024 | HBP0175A | Respectful Workplace - Supervisor Trng (Ldrshp) | Passed | 0.0 | 1.00 |
 | 5/31/2024 | HBP0527A | PoliceOne HPD Pursuit Intervention Tactics | Passed | 0.0 | 0.50 |
 | 5/1/2024 | HBP2826A | Search/Siezure, WIN, HB 4002 | Passed | 0.0 | 4.00 |
 | 5/1/2024 | HBP4235A | Range In-service | Passed | 0.0 | 3.00 |

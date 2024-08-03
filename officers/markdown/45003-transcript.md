@@ -44,6 +44,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/24/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 6/30/2024 | HBP4110A | Respectful Workplace - Employee Training | Passed | 0.0 | 1.00 |
+| 6/30/2024 | HBP0175A | Respectful Workplace - Supervisor Trng (Ldrshp) | Passed | 0.0 | 2.00 |
 | 5/31/2024 | HBP0527A | PoliceOne HPD Pursuit Intervention Tactics | Passed | 0.0 | 0.50 |
 | 5/22/2024 | HBP2100A | Range In-service | Passed | 0.0 | 3.00 |
 | 5/22/2024 | HBP0354A | Search/Siezure, WIN, HB 4002 | Passed | 0.0 | 4.00 |

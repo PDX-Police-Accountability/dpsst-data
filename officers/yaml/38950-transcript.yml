@@ -107,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 6/5/2024
+  course: HBS0782A
+  title: 2024 March DT's
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 5/31/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

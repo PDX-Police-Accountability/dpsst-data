@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/31/2024 | EGP1435A | Police Motorcade Training | Passed | 0.0 | 8.00 |
 | 5/16/2024 | PDP3174A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 3/7/2024 | SAG1393A | Protecting Lives Saving Futures | Passed | 0.0 | 4.00 |
 | 3/7/2024 | PDP3292A | Protecting Lives Saving Futures | Passed | 0.0 | 32.00 |

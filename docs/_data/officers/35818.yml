@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/18/2024
+  course: GLP2388A
+  title: Summer 2024 Handgun/Rifle Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/26/2024
   course: GLP3899A
   title: LEDS/CJIS

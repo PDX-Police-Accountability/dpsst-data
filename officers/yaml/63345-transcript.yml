@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2024
+  course: EGP1435A
+  title: Police Motorcade Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/16/2024
   course: PDP3174A
   title: NAMOA Conference

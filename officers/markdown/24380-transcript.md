@@ -23,9 +23,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/31/2020 | Telecommunicator | Advanced | Lapsed | 12/27/2000 | 7/31/2024 |  |
-| 7/31/2020 | Telecommunicator | Basic | Lapsed | 8/4/1994 | 7/31/2024 |  |
-| 7/31/2020 | Telecommunicator | Intermediate | Lapsed | 12/27/2000 | 7/31/2024 |  |
+| 7/31/2024 | Telecommunicator | Advanced | Expired | 12/27/2000 |  |  |
+| 7/31/2024 | Telecommunicator | Basic | Expired | 8/4/1994 |  |  |
+| 7/31/2024 | Telecommunicator | Intermediate | Expired | 12/27/2000 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
