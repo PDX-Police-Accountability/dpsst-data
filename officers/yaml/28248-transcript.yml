@@ -105,6 +105,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/9/2024
+  course: PDP1219A
+  title: Alarm Response Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/25/2024
+  course: PDP0011A
+  title: OEM Oregon Prepared Workshop
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
 - date: 4/11/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

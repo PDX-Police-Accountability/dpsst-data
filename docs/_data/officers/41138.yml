@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/2/2024
+  course: PDP3337A
+  title: Less Lethal Single  4Shot Launcher Armr
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/1/2024
   course: HBS0257A
   title: LMT Single 37/40mm Launcher Armorer Course

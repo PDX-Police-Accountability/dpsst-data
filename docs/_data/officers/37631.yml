@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2024
+  course: PDP4548A
+  title: E0958 All-Hazards Operations Section Chief
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
 - date: 4/19/2024
   course: OAC0500A
   title: 'Honoring the Badge: Understand/Avoid Ethical Pit'

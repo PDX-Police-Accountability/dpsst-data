@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2024
+  course: STS4146A
+  title: LEDS Inquiry Only -- Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/28/2024
   course: STS1556A
   title: Legal Update(s)

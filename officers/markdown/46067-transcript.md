@@ -39,7 +39,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/23/2024 | GPN0916A | Gang Awareness and Identification Training | Instructed | 0.0 | 2.00 |
 | 7/23/2024 | GPN3668A | Gang Awareness and Identification Training | Instructed | 0.0 | 2.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2024 | PDP1257A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
@@ -50,6 +49,7 @@
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/16/2024 | PDP0020A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/10/2024 | PDP2442A | 2024 NWGIA Annual Training Symposium | Passed | 0.0 | 34.00 |
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/12/2024 | SMP2065A | OTOA Warrant Service Training INSTRUCTORS | Passed | 0.0 | 16.00 |
 | 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |

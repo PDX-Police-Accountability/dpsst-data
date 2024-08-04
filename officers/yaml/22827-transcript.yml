@@ -113,6 +113,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/1/2024
+  course: HSU3049A
+  title: The CALM approach, Comprehensive Verbal and
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/30/2024
+  course: HSU4491A
+  title: 2022 Airways Training Video Patient Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/15/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

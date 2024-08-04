@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/17/2024 | PDP0736A | Building Your Leadership Toolbox for Female Ldrs | Passed | 0.0 | 8.00 |
 | 3/10/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 3/10/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/25/2024 | PDP1503A | CrossFit Level 1 Trainer | Passed | 0.0 | 15.00 |

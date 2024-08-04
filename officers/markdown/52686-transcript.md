@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2024 | PDP2652A | Introduction to Hate Crimes | Passed | 0.0 | 2.00 |
 | 4/3/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/3/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 3/4/2024 | PDP0270A | 2024 Axon Taser 7 Instructor Course | Passed | 0.0 | 8.00 |

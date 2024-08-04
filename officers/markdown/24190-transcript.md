@@ -22,11 +22,11 @@
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 7/22/2024 | Police Officer | Basic | App Recd |  | 10/30/2024 |  |
 | 5/1/2024 | Police Officer | Basic | Required |  |  | 11/1/2025 |
-| 1/30/2020 | Police Officer | Advanced | Lapsed | 10/28/1999 | 10/30/2024 |  |
-| 1/30/2020 | Police Officer | Basic | Lapsed | 5/21/1991 | 10/30/2024 |  |
-| 1/30/2020 | Police Officer | Intermediate | Lapsed | 10/28/1999 | 10/30/2024 |  |
-| 1/30/2020 | Police Officer | Management | Lapsed | 1/26/2016 | 10/30/2024 |  |
-| 1/30/2020 | Police Officer | Supervisory | Lapsed | 9/6/2011 | 10/30/2024 |  |
+| 1/30/2020 | Police Officer | Advanced | Lapsed | 10/28/1999 |  |  |
+| 1/30/2020 | Police Officer | Basic | Lapsed | 5/21/1991 |  |  |
+| 1/30/2020 | Police Officer | Intermediate | Lapsed | 10/28/1999 |  |  |
+| 1/30/2020 | Police Officer | Management | Lapsed | 1/26/2016 |  |  |
+| 1/30/2020 | Police Officer | Supervisory | Lapsed | 9/6/2011 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

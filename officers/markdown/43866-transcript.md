@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/25/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 6/24/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 5/17/2024 | PDP0736A | Building Your Leadership Toolbox for Female Ldrs | Passed | 0.0 | 8.00 |
 | 4/12/2024 | PDP0779A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 9.00 |
 | 3/12/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 3/12/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

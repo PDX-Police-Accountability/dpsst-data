@@ -99,12 +99,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 7/23/2024
-  course: GPN0916A
-  title: Gang Awareness and Identification Training
-  status: Instructed
-  score: '0.0'
-  hours: '2.00'
-- date: 7/23/2024
   course: GPN3668A
   title: Gang Awareness and Identification Training
   status: Instructed

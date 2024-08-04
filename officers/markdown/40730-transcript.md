@@ -36,6 +36,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
+| 2/22/2024 | PDP4192A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |
 | 2/5/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 2/5/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/22/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |

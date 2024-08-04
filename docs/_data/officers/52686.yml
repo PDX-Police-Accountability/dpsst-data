@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2024
+  course: PDP2652A
+  title: Introduction to Hate Crimes
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/3/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

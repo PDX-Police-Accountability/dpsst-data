@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2024 | PDP4548A | E0958 All-Hazards Operations Section Chief | Passed | 0.0 | 22.00 |
 | 4/19/2024 | OAC0500A | Honoring the Badge: Understand/Avoid Ethical Pit | Passed | 0.0 | 3.00 |
 | 4/18/2024 | OAC0055A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
 | 4/18/2024 | OAC1042A | Building Culture  Teamwork - Era of Engagement | Passed | 0.0 | 4.00 |

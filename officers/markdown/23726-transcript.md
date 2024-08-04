@@ -45,7 +45,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/23/2024 | GPN0916A | Gang Awareness and Identification Training | Instructed | 0.0 | 2.00 |
 | 7/23/2024 | GPN3668A | Gang Awareness and Identification Training | Instructed | 0.0 | 2.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/21/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |

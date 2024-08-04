@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/16/2024
+  course: WBP2416A
+  title: 1st Watch Wellness - Model  Methodology
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/30/2024
   course: WBP3035A
   title: WPD Quarter 2 Firearms Qualifications

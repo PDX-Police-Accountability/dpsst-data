@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/17/2024 | PDP0736A | Building Your Leadership Toolbox for Female Ldrs | Passed | 0.0 | 8.00 |
 | 3/22/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 3/15/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/15/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |

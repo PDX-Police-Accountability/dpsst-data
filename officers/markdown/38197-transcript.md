@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/10/2024 | PDP0701A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 7/2/2024 | HBS0657A | LMT 4-Shot 40mm Launcher Armorer Course | Passed | 0.0 | 4.00 |
+| 7/2/2024 | PDP3337A | Less Lethal Single  4Shot Launcher Armr | Passed | 0.0 | 16.00 |
 | 7/1/2024 | HBS0257A | LMT Single 37/40mm Launcher Armorer Course | Passed | 0.0 | 4.50 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |

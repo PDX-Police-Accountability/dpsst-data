@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2024
+  course: PDP0736A
+  title: Building Your Leadership Toolbox for Female Ldrs
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/10/2024
   course: PDP1617A
   title: 2024-1 Range Qualification AR-15 Qualification (20
