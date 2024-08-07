@@ -36,18 +36,6 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
-- date: 5/2/2024
-  course: VND3509A
-  title: 2024 RISS Western Region Human Trafficking Summit
-  status: Passed
-  score: '0.0'
-  hours: '28.00'
-- date: 5/2/2024
-  course: PDP0726A
-  title: RISS Human Trafficking Summit
-  status: Passed
-  score: '0.0'
-  hours: '25.00'
 - date: 4/25/2024
   course: PDP3273A
   title: NCFTA Conference

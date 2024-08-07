@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2024 | HRS4435A | Active Threat Response | Passed | 0.0 | 3.00 |
 | 6/13/2024 | HRS2718A | Defensive Tactics Inservice | Passed | 0.0 | 2.00 |
 | 6/5/2024 | REG1495A | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 5/16/2024 | HRS3296A | Spring Firearms Range | Passed | 0.0 | 3.00 |

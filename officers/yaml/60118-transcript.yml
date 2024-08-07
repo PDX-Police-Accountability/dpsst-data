@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/1/2024
+  course: HRS4435A
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/13/2024
   course: HRS2718A
   title: Defensive Tactics Inservice

@@ -38,18 +38,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 5/2/2024
-  course: PDP0983A
-  title: RISS Human Trafficking Summit
-  status: Passed
-  score: '0.0'
-  hours: '27.50'
-- date: 5/2/2024
-  course: PDP2132A
-  title: RISS Human Trafficking Summit
-  status: Passed
-  score: '0.0'
-  hours: '25.00'
 - date: 4/2/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm
