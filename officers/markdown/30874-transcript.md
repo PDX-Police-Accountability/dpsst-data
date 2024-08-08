@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2024 | FGP0050A | 2024 Legal Update | Passed | 0.0 | 1.00 |
+| 6/11/2024 | FGP0297A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |
+| 5/23/2024 | FGP0523A | Supervisors Harr., Discrim.,Workplace Conduct | Passed | 0.0 | 2.50 |
+| 5/23/2024 | FGP0672A | Harrassment, Discrimination, Workplace Conduct | Passed | 0.0 | 2.50 |
 | 5/10/2024 | LOP0556A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 5/1/2024 | FGP2190A | Vehicle Noise Laws  Wildlife Impacts | Passed | 0.0 | 0.50 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |

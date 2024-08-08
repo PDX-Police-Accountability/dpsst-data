@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2024 | PDP2550A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 40.00 |
 | 3/7/2024 | PDP4005A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 6.00 |
 | 1/29/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 1/29/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |

@@ -43,7 +43,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2024 | FGP0050A | 2024 Legal Update | Passed | 0.0 | 1.00 |
+| 6/11/2024 | FGP0297A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |
 | 5/22/2024 | VND1838A | Motorcycle Safety Awareness Training | Passed | 0.0 | 1.00 |
+| 4/30/2024 | FGP0523A | Supervisors Harr., Discrim.,Workplace Conduct | Passed | 0.0 | 2.50 |
+| 4/30/2024 | FGP0672A | Harrassment, Discrimination, Workplace Conduct | Passed | 0.0 | 2.50 |
 | 4/18/2024 | FGP3418A | Annual Defensive Tactics/Con Sim - Make up day | Passed | 0.0 | 8.00 |
 | 3/28/2024 | FGP0412A | ACAP - Airway, Circulatory and Anatomy | Passed | 0.0 | 2.00 |
 | 3/25/2024 | FGP0876A | CPR/First Aid/AED | Passed | 0.0 | 2.00 |

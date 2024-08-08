@@ -99,6 +99,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/18/2024
+  course: 24-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
 - date: 6/30/2024
   course: HBP4110A
   title: Respectful Workplace - Employee Training

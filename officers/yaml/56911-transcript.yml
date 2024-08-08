@@ -37,12 +37,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '60.00'
+- date: 5/18/2024
+  course: PDP4422A
+  title: Oregon Drug Recognition Expert School Cert.
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/3/2024
   course: OSH1870A
   title: Drug Evaluation  Classification School
   status: Passed
   score: '0.0'
   hours: '56.00'
+- date: 5/3/2024
+  course: PDP1207A
+  title: Oregon Drug Recognition Expert School
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 4/24/2024
   course: OSH2123A
   title: Drug Evaluation  Classification Pre-School

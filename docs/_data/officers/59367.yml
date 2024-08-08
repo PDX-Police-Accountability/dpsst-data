@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 7/22/2024
+  course: OCS2496A
+  title: Basic Narcotics
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/27/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

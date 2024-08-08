@@ -33,7 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2024 | PDP4422A | Oregon Drug Recognition Expert School Cert. | Passed | 0.0 | 40.00 |
 | 5/3/2024 | OSH1870A | Drug Evaluation  Classification School | Passed | 0.0 | 56.00 |
+| 5/3/2024 | PDP1207A | Oregon Drug Recognition Expert School | Passed | 0.0 | 72.00 |
 | 4/24/2024 | OSH2123A | Drug Evaluation  Classification Pre-School | Passed | 0.0 | 16.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/5/2024 | PDP4173A | DUII DRE DECP Training Conference | Passed | 0.0 | 14.00 |

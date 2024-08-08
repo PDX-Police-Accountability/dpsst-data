@@ -34,7 +34,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Passed | 0.0 | 60.00 |
+| 5/18/2024 | PDP4422A | Oregon Drug Recognition Expert School Cert. | Passed | 0.0 | 40.00 |
 | 5/3/2024 | OSH1870A | Drug Evaluation  Classification School | Passed | 0.0 | 56.00 |
+| 5/3/2024 | PDP1207A | Oregon Drug Recognition Expert School | Passed | 0.0 | 72.00 |
 | 4/24/2024 | OSH2123A | Drug Evaluation  Classification Pre-School | Passed | 0.0 | 16.00 |
 | 3/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/15/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |

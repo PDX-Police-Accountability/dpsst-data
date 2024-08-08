@@ -87,6 +87,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/18/2024
+  course: 24-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
 - date: 5/30/2024
   course: LOP1938A
   title: Handgun Optic Transition Course

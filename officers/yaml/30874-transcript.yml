@@ -75,6 +75,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2024
+  course: FGP0050A
+  title: 2024 Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/11/2024
+  course: FGP0297A
+  title: Wildfire Smoke / Extreme Heat Precaution Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/23/2024
+  course: FGP0523A
+  title: Supervisors Harr., Discrim.,Workplace Conduct
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/23/2024
+  course: FGP0672A
+  title: Harrassment, Discrimination, Workplace Conduct
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 5/10/2024
   course: LOP0556A
   title: Metro Area Sergeants Academy

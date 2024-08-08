@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/10/2023
+  course: PDP2271A
+  title: Adv. Polygraphy for the Senior Examiner
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/2/2023
   course: PDP0725A
   title: 2023-2 All Sworn In-Service ABLE Scenario
