@@ -81,35 +81,35 @@ certification_records:
   level: Basic
   status: REVOKED
   certificate_date: 10/2/2018
-  expiration_date: 11/3/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 6/17/2022
   certificate: Police Officer
   level: Advanced
   status: REVOKED
   certificate_date: 11/7/2008
-  expiration_date: 11/3/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 6/17/2022
   certificate: Police Officer
   level: Basic
   status: REVOKED
   certificate_date: 12/16/1999
-  expiration_date: 11/3/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 6/17/2022
   certificate: Police Officer
   level: Intermediate
   status: REVOKED
   certificate_date: 11/10/2003
-  expiration_date: 11/3/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 6/17/2022
   certificate: Police Officer
   level: Supervisory
   status: REVOKED
   certificate_date: 9/12/2016
-  expiration_date: 11/3/2026
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 10/1/2021

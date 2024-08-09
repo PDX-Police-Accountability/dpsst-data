@@ -35,7 +35,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
+| 8/1/2024 | REG3810A | DT Striking Defense/Ground Control | Passed | 0.0 | 1.00 |
+| 7/22/2024 | REG2655A | DT | Passed | 0.0 | 1.00 |
+| 7/11/2024 | REG0597A | DT GROUND CONTROL | Passed | 0.0 | 1.00 |
+| 7/8/2024 | REG3252A | DT Ground Control | Passed | 0.0 | 1.00 |
+| 7/1/2024 | REG3883A | DT | Passed | 0.0 | 1.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/27/2024 | REG3422A | Striking/Ground Control | Passed | 0.0 | 1.00 |
+| 6/24/2024 | REG3516A | Two-on-one Ground Control | Passed | 0.0 | 1.00 |
+| 6/20/2024 | REG1568A | Team Takedown, Ground Control | Passed | 0.0 | 1.00 |
 | 5/30/2024 | REG3321A | DT | Passed | 0.0 | 1.00 |
 | 5/23/2024 | REG2866A | DT | Passed | 0.0 | 1.00 |
 | 5/16/2024 | REG1095A | DT | Passed | 0.0 | 1.00 |

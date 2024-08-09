@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
 | 6/26/2024 | SDP4192A | In-Service Taser 7 Refresher | Passed | 0.0 | 4.00 |
 | 6/3/2024 | REG4072A | DT | Passed | 0.0 | 1.00 |
 | 5/30/2024 | REG3321A | DT | Passed | 0.0 | 1.00 |

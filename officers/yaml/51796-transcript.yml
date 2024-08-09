@@ -52,12 +52,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/20/2019
+- status_date: 7/25/2023
   certificate: Police Officer
   level: Basic
   status: REVOKED
   certificate_date: 4/20/2012
-  expiration_date: 9/20/2024
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 4/3/2018

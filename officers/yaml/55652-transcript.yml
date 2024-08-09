@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2024
+  course: PDP0949A
+  title: 2024 Training Red Dot Optic Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 2/28/2024
   course: PDP2239A
   title: 2024-1 Range Qualification Shotgun

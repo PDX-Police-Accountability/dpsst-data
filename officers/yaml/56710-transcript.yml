@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/5/2024
+  course: REG0657A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/26/2024
   course: SDP4192A
   title: In-Service Taser 7 Refresher

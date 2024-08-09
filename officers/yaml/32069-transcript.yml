@@ -40,6 +40,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 8/7/2024
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 9/16/2008
   certificate: Police Officer
   level: Advanced
@@ -62,12 +69,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/5/2024
+  course: REG0657A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/8/2024
+  course: REG3252A
+  title: DT Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2024
+  course: REG3883A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/26/2024
   course: SDP4192A
   title: In-Service Taser 7 Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/24/2024
+  course: REG3516A
+  title: Two-on-one Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/6/2024
   course: REG3689A
   title: DT

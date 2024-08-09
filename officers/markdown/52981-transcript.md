@@ -4,7 +4,7 @@
 | name | Ellison, Mark A. |
 | dpsst_identifier | 52981 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/1/2024 | Portland Police Bureau | Discharged | Police Off |  |  |
 | 1/10/2013 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/17/2014 | Police Officer | Basic | Granted | 6/17/2014 |  |  |
+| 6/17/2014 | Police Officer | Basic | Granted | 6/17/2014 | 11/1/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

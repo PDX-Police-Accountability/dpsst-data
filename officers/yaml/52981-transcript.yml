@@ -3,12 +3,18 @@ header_record:
   name: Ellison, Mark A.
   dpsst_identifier: '52981'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/1/2024
+  agency: Portland Police Bureau
+  action: Discharged
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/10/2013
   agency: Portland Police Bureau
   action: Hired
@@ -21,7 +27,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 6/17/2014
-  expiration_date: ''
+  expiration_date: 11/1/2024
   probation_date: ''
 training_records:
 - date: 11/25/2023

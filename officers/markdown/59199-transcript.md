@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/26/2024 | EGP2303A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/17/2024 | EGP3477A | CPR/First Aid/AED/Narcan | Instructed | 0.0 | 5.00 |
 | 6/20/2024 | EGP2969A | Firearms Training | Passed | 0.0 | 4.00 |
 | 6/20/2024 | EGP1132A | Post-Traumatic Purpose | Passed | 0.0 | 2.50 |

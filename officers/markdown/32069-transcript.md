@@ -20,6 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/7/2024 | Police Officer | Supervisory | App Recd |  |  |  |
 | 9/16/2008 | Police Officer | Advanced | Granted | 9/16/2008 |  |  |
 | 9/16/2008 | Police Officer | Intermediate | Granted | 9/16/2008 |  |  |
 | 1/13/1997 | Police Officer | Basic | Granted | 1/13/1997 |  |  |
@@ -38,7 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
+| 7/8/2024 | REG3252A | DT Ground Control | Passed | 0.0 | 1.00 |
+| 7/1/2024 | REG3883A | DT | Passed | 0.0 | 1.00 |
 | 6/26/2024 | SDP4192A | In-Service Taser 7 Refresher | Passed | 0.0 | 4.00 |
+| 6/24/2024 | REG3516A | Two-on-one Ground Control | Passed | 0.0 | 1.00 |
 | 6/6/2024 | REG3689A | DT | Passed | 0.0 | 1.00 |
 | 6/3/2024 | REG4072A | DT | Passed | 0.0 | 1.00 |
 | 5/13/2024 | REG2508A | DT | Passed | 0.0 | 1.00 |

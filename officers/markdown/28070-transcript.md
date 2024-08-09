@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/22/2024 | MNS2292A | Firerarms Close Quarter Vehicle Training | Passed | 0.0 | 2.00 |
 | 4/18/2024 | MNS0851A | Kloxxado (Narcan) Training | Passed | 0.0 | 1.00 |
 | 2/28/2024 | MNS2952A | Low Light Firearms Training | Passed | 0.0 | 2.00 |
 | 1/31/2024 | VND2911A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

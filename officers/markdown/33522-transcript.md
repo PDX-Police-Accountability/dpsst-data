@@ -18,12 +18,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/24/2024 | Police Officer | Advanced | App Incmpl |  | 9/24/2024 | 7/1/2025 |
-| 7/24/2024 | Police Officer | Basic | App Incmpl |  | 9/24/2024 | 7/1/2025 |
-| 7/24/2024 | Police Officer | Intermediate | App Incmpl |  | 9/24/2024 | 7/1/2025 |
-| 9/21/2023 | Police Officer | Advanced | Lapsed | 11/23/2010 |  |  |
-| 9/21/2023 | Police Officer | Basic | Lapsed | 1/13/1998 |  |  |
-| 9/21/2023 | Police Officer | Intermediate | Lapsed | 11/23/2010 |  |  |
+| 8/7/2024 | Police Officer | Advanced | Reactivatd | 11/23/2010 |  |  |
+| 8/7/2024 | Police Officer | Basic | Reactivatd | 1/13/1998 |  |  |
+| 8/7/2024 | Police Officer | Intermediate | Reactivatd | 11/23/2010 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

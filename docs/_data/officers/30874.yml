@@ -147,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/20/2023
+  course: FGP3486A
+  title: Annual Taser Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/11/2023
   course: FGP2154A
   title: SEMI-ANNUAL FIREARMS TRAINING

@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2024
+  course: SAG0001A
+  title: Cybertip Triage and Open Source Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/30/2024
+  course: SAG0293A
+  title: Cybertip Triage and Open Source Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/15/2024
   course: SAG2700A
   title: Firearms training

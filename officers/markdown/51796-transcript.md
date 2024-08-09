@@ -22,7 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/20/2019 | Police Officer | Basic | REVOKED | 4/20/2012 | 9/20/2024 |  |
+| 7/25/2023 | Police Officer | Basic | REVOKED | 4/20/2012 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

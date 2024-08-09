@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2024 | PDN2324A | Disarming Microaggressions | Passed | 0.0 | 1.00 |
 | 7/9/2024 | PDN1808A | Field Applications-Officer Mental Health | Passed | 0.0 | 1.00 |
 | 6/18/2024 | PDN1412A | Defensive Tactics-Control Techniques | Passed | 0.0 | 1.50 |
 | 6/13/2024 | PDN3949A | Working with Gang Affected Clients | Passed | 0.0 | 1.00 |

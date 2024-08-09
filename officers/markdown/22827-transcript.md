@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2024 | HSU2599A | Honoring the Badge: .Ethical Pitfalls | Passed | 0.0 | 3.00 |
 | 8/1/2024 | HSU3049A | The CALM approach, Comprehensive Verbal and | Passed | 0.0 | 2.00 |
 | 7/30/2024 | HSU4491A | 2022 Airways Training Video Patient Evaluation | Passed | 0.0 | 1.50 |
 | 3/15/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -19,9 +19,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/28/2022 | Police Officer | Advanced | REVOKED | 5/22/2013 | 8/31/2025 |  |
-| 7/28/2022 | Police Officer | Basic | REVOKED | 2/2/1994 | 8/31/2025 |  |
-| 7/28/2022 | Police Officer | Intermediate | REVOKED | 5/22/2013 | 8/31/2025 |  |
+| 7/28/2022 | Police Officer | Advanced | REVOKED | 5/22/2013 |  |  |
+| 7/28/2022 | Police Officer | Basic | REVOKED | 2/2/1994 |  |  |
+| 7/28/2022 | Police Officer | Intermediate | REVOKED | 5/22/2013 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

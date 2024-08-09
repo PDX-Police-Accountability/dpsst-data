@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/13/2024 | PDP0949A | 2024 Training Red Dot Optic Instructor Course | Passed | 0.0 | 20.00 |
 | 2/28/2024 | PDP2239A | 2024-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/28/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/28/2024 | PDP3990A | 2024-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
