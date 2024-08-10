@@ -32,7 +32,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/31/2024 | EGP1435A | Police Motorcade Training | Passed | 0.0 | 8.00 |
+| 6/30/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/22/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/22/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/16/2024 | PDP0403A | NAMOA Conference | Passed | 0.0 | 23.00 |
+| 5/9/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/7/2024 | SAG1393A | Protecting Lives Saving Futures | Passed | 0.0 | 4.00 |
 | 3/7/2024 | PDP3292A | Protecting Lives Saving Futures | Passed | 0.0 | 32.00 |
 | 3/6/2024 | SAG1662A | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |

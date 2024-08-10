@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/22/2024
+  course: PDP3290A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

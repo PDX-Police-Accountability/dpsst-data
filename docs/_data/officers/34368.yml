@@ -96,7 +96,7 @@ certification_records:
 training_records:
 - date: 5/23/2024
   course: BNP4092A
-  title: Control Tactics / ground control
+  title: Control Tactics /Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'

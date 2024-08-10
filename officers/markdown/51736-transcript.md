@@ -34,13 +34,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/3/2024 | PDP1223A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
-| 6/27/2024 | PDP1451A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
-| 6/20/2024 | PDP3960A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
-| 6/20/2024 | PDP3960A | 2024 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
-| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
-| 6/6/2024 | PDP3295A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
-| 5/30/2024 | PDP2184A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 7/3/2024 | PDP1223A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 6/27/2024 | PDP1451A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/24/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/24/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/20/2024 | PDP3960A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 6/20/2024 | PDP3960A | 2024 SERT Training - Firearms | Instructed | 0.0 | 9.00 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 6/6/2024 | PDP3295A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 5/30/2024 | PDP2184A | 2024 SERT Training - Iteration | Passed | 0.0 | 9.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/2/2024 | PDP1247A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP3587A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
@@ -48,6 +51,7 @@
 | 4/3/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 4/3/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/3/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
+| 4/3/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/28/2024 | PDP1314A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 3/21/2024 | PDP2707A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/14/2024 | PDP1559A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

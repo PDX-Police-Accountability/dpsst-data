@@ -44,6 +44,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/24/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/15/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/6/2024
   course: PDP3653A
   title: 2024-1 Range Qual 40mm Less Lethal Qualification
@@ -65,6 +89,24 @@ training_records:
 - date: 4/6/2024
   course: PDP0088A
   title: 2024-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP3088A
+  title: 2023-1  2 CAO Legal Updates for 01 and 02/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP0970A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
   status: Passed
   score: '0.0'
   hours: '0.25'

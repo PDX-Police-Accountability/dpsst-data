@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/1/2024
+  course: PDN3791A
+  title: Wildfire Smoke Exposure Control and Protection
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/1/2024
   course: PDN2190A
   title: First Aid and CPR Infant to Adult

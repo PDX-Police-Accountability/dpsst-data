@@ -39,6 +39,14 @@
 | 5/15/2024 | PDP0146A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/5/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/5/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
+| 4/4/2024 | PDP2643A | SOP 2-8 Catastrophic Weapon Failure Procedure | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP2852A | SOP 2-16 Training Complex Ranges | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3088A | 2023-1  2 CAO Legal Updates for 01 and 02/2023 | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP1349A | SOP 2-10 Central Precinct Range Procedures | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP1231A | SOP 2-11 Range Training and Qualification Policies | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP1193A | SOP 2-4 Ammunition Storing and Distribution | Passed | 0.0 | 0.25 |
 | 2/15/2024 | PDP2063A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |
 | 1/12/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 30.00 |

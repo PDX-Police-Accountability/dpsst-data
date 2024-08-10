@@ -41,7 +41,37 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/13/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 5/28/2024 | PDP2423A | 2024 ECIT Recording Define the Event | Passed | 0.0 | 1.00 |
+| 5/28/2024 | PDP2157A | 2024 ECIT Recording Themes and Values | Passed | 0.0 | 1.50 |
+| 4/30/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/11/2024 | PDP1949A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/11/2024 | PDP2666A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP4455A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP2473A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 4/11/2024 | PDP0051A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP1718A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP0307A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP1713A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 4/11/2024 | PDP3699A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP3888A | 2023-2 TT Body Worn Camera (BWC) Pilot Policy | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP2220A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP4154A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 4/11/2024 | PDP1373A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP0357A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP2913A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP1269A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP3885A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP4172A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 4/10/2024 | PDP3088A | 2023-1  2 CAO Legal Updates for 01 and 02/2023 | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP3004A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP1095A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3086A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
 | 3/31/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 3/31/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/31/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

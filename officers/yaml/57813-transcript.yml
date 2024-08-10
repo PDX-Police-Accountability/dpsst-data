@@ -37,12 +37,60 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/24/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/16/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/14/2024
   course: PDP0886A
   title: 2024 Rapid Response Team (RRT) Monthly Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/16/2024
+  course: PDP2157A
+  title: 2024 ECIT Recording Themes and Values
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/16/2024
+  course: PDP3346A
+  title: 2024 PVO Recorded In-Service
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/15/2024
+  course: PDP2423A
+  title: 2024 ECIT Recording Define the Event
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/24/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/12/2024
   course: PDP0779A
   title: 2023 PPB Honor Guard In Service Training

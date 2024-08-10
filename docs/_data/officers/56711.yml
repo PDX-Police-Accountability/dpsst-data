@@ -36,6 +36,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/26/2024
+  course: PDP2889A
+  title: SOP 14-1 Safety Procedures for the Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/26/2024
+  course: PDP2108A
+  title: SOP 14-2 Building Evacuation Plans
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/26/2024
+  course: PDP2700A
+  title: SOP 14-3 Training Division Building Safety Plan
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/26/2024
+  course: PDP1820A
+  title: SOP 14-4 Hazardous Materials  Biological Hazards
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/14/2024
   course: PDP0886A
   title: 2024 Rapid Response Team (RRT) Monthly Training
@@ -48,6 +72,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/21/2024
+  course: PDP3346A
+  title: 2024 PVO Recorded In-Service
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/20/2024
+  course: PDP0307A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/20/2024
+  course: PDP2220A
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/20/2024
+  course: PDP3088A
+  title: 2023-1  2 CAO Legal Updates for 01 and 02/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/20/2024
+  course: PDP2423A
+  title: 2024 ECIT Recording Define the Event
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/20/2024
+  course: PDP2157A
+  title: 2024 ECIT Recording Themes and Values
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/20/2024
+  course: PDP0970A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/20/2024
+  course: PDP3004A
+  title: 2024-2 TT State v. Wilcox / Civil Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/20/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/25/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2024
+  course: PDP1373A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/13/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

@@ -39,7 +39,7 @@ training_records:
   hours: '40.00'
 - date: 7/3/2024
   course: PDP1223A
-  title: 2024 SERT Training - SCENARIO
+  title: 2024 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
@@ -51,25 +51,37 @@ training_records:
   hours: '0.00'
 - date: 6/27/2024
   course: PDP1257A
-  title: 2024 SERT Training - SCENARIO
+  title: 2024 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/21/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/20/2024
   course: PDP4460A
-  title: 2024 SERT Training - FIREARMS
+  title: 2024 SERT Training - Firearms
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/15/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/13/2024
   course: PDP3208A
-  title: 2024 SERT Training - SCENARIO
+  title: 2024 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
 - date: 5/30/2024
   course: PDP2184A
-  title: 2024 SERT Training - ITERATION
+  title: 2024 SERT Training - Iteration
   status: Passed
   score: '0.0'
   hours: '9.00'
@@ -91,6 +103,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/30/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/25/2024
   course: PDP4113A
   title: 2024 SERT Training - SCENARIO

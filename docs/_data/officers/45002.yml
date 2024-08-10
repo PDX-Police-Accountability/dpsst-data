@@ -44,18 +44,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/28/2024
   course: PDP4332A
   title: OSP DNA Training
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/25/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/10/2024
   course: VND3020A
   title: 28 CFR 23 and WSIN Resources
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/10/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/9/2024
   course: PDP0598A
   title: IAATI Carfax VIN  Temp Tag Fraud Trng

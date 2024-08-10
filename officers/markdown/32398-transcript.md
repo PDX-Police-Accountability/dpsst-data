@@ -36,8 +36,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/10/2024 | PDP0701A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/17/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/17/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |
 | 6/11/2024 | PDP1665A | 2024 FTEP Policy  Procedure | Instructed | 0.0 | 9.00 |
+| 5/27/2024 | PDP3757A | SOP 3-8 Sergeant Mentorship Program Guidelines | Passed | 0.0 | 0.25 |
 | 5/20/2024 | PDP3578A | 2024 FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
 | 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/26/2024 | PDP2818A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

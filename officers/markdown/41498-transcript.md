@@ -38,6 +38,32 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 5/15/2024 | PDP1992A | 2024-1 All Sworn In-Service Wellness Recording | Passed | 0.0 | 1.00 |
+| 5/6/2024 | PDP0914A | SOP 5-2 Reintegration Training for Sworn Member | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP3014A | SOP 1-12 Emergency Callback Procedures | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP2436A | SOP 1-30 Supervisory Certificate Process | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP2569A | SOP 1-32 Completing First Aid CPR Certifications | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP0752A | SOP 10-10 Skills Certification Tracking with LMS | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP1366A | SOP 1-23 Observation of Training | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP0107A | SOP 1-25 Request for Lesson Plans  Trng Materials | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP2235A | SOP 5-1 Attendance at In-Service Training | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP0780A | SOP 5-3 Annual In-Service Training Failures | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2889A | SOP 14-1 Safety Procedures for the Training | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2108A | SOP 14-2 Building Evacuation Plans | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2014A | SOP 1-1 Training Division SOPs | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2790A | SOP 1-5 Assigned Radio Call Numbers | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2700A | SOP 14-3 Training Division Building Safety Plan | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP1820A | SOP 14-4 Hazardous Materials  Biological Hazards | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0671A | SOP 1-26 Evaluation and Testing of New Patrol | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 4/8/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/20/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

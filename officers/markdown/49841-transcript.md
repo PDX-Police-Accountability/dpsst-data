@@ -35,17 +35,28 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/3/2024 | PDP1223A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/3/2024 | PDP1223A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
-| 6/20/2024 | PDP4460A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
-| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
-| 5/30/2024 | PDP2184A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/20/2024 | PDP4460A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 5/30/2024 | PDP2184A | 2024 SERT Training - Iteration | Passed | 0.0 | 9.00 |
 | 5/16/2024 | PDP0020A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/25/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP2852A | SOP 2-16 Training Complex Ranges | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP0671A | SOP 1-26 Evaluation and Testing of New Patrol | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP1349A | SOP 2-10 Central Precinct Range Procedures | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP1231A | SOP 2-11 Range Training and Qualification Policies | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP1193A | SOP 2-4 Ammunition Storing and Distribution | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP0376A | SOP 2-13 AR-15 Program | Passed | 0.0 | 0.25 |
+| 4/19/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/5/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 1.00 |
 | 4/5/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 4/5/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 4/4/2024 | PDP1930A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/3/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 3/28/2024 | PDP1314A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 3/21/2024 | PDP2707A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/14/2024 | PDP1559A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

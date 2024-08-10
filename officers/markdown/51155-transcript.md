@@ -31,6 +31,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP2889A | SOP 14-1 Safety Procedures for the Training | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP2108A | SOP 14-2 Building Evacuation Plans | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP3088A | 2023-1  2 CAO Legal Updates for 01 and 02/2023 | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP2700A | SOP 14-3 Training Division Building Safety Plan | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP1820A | SOP 14-4 Hazardous Materials  Biological Hazards | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP2220A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP3004A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 6/6/2024 | PDP0671A | SOP 1-26 Evaluation and Testing of New Patrol | Passed | 0.0 | 0.25 |
+| 5/2/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 12/16/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/16/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/11/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

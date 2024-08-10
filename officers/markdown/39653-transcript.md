@@ -34,6 +34,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/26/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 4/26/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
+| 4/26/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 4/26/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 4/26/2024 | PDP0671A | SOP 1-26 Evaluation and Testing of New Patrol | Passed | 0.0 | 0.25 |
+| 4/16/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 4/16/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
+| 4/16/2024 | PDP2790A | SOP 1-5 Assigned Radio Call Numbers | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 4/9/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 2/14/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 30.00 |

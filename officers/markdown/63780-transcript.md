@@ -30,10 +30,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/18/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 6/12/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/15/2024 | PDP2714A | 2024-1 Advanced Academy Law | Passed | 0.0 | 31.00 |
 | 5/15/2024 | PDP0442A | 2024-1 Advanced Academy SVO | Passed | 0.0 | 3.00 |
 | 5/14/2024 | PDP2374A | 2024-1 Advanced Academy Ethics | Passed | 0.0 | 41.50 |
 | 5/9/2024 | PDP0275A | 2024-1 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
+| 5/7/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 5/5/2024 | PDP4032A | 2024-1 Advanced Academy PVO | Passed | 0.0 | 48.00 |
 | 5/2/2024 | PDP1893A | 2024-1 Advanced Academy Bike School | Passed | 0.0 | 37.00 |
 | 5/1/2024 | PDP2047A | 2024-1 Advanced Academy Patrol Proc. (FA) | Passed | 0.0 | 120.25 |

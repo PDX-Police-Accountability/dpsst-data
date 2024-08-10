@@ -32,7 +32,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/26/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/14/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/6/2024 | PDP3119A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
+| 4/3/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/7/2024 | SAG1393A | Protecting Lives Saving Futures | Passed | 0.0 | 4.00 |
 | 3/7/2024 | PDP3292A | Protecting Lives Saving Futures | Passed | 0.0 | 32.00 |
 | 3/6/2024 | SAG1662A | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |

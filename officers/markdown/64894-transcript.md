@@ -34,6 +34,8 @@
 | 7/2/2024 | PDP3185A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
 | 6/25/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
+| 6/25/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP0748A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 23.00 |
 | 6/21/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/28/2024 | REG0895A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |

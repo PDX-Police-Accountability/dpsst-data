@@ -57,12 +57,96 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 6/3/2024
+  course: PDP1337A
+  title: SOP 1-19 Instructor Selection Standards
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2024
+  course: PDP0752A
+  title: SOP 10-10 Skills Certification Tracking with LMS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2024
+  course: PDP3935A
+  title: SOP 1-21 Training Division Instructional Design
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2024
+  course: PDP0671A
+  title: SOP 1-26 Evaluation and Testing of New Patrol
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2024
+  course: PDP2235A
+  title: SOP 5-1 Attendance at In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2024
+  course: PDP0914A
+  title: SOP 5-2 Reintegration Training for Sworn Member
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2024
+  course: PDP0780A
+  title: SOP 5-3 Annual In-Service Training Failures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/15/2024
   course: PDP2949A
   title: 2024 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/1/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2024
+  course: PDP0950A
+  title: SOP 13-4 Traumatic Incident Committee (TIC)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2024
+  course: PDP3018A
+  title: SOP 13-5 Police Alcohol Recovery Team (PART)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2024
+  course: PDP1029A
+  title: SOP 13-6 Critical Incident Stress Mngmt (CISM)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2024
+  course: PDP3312A
+  title: SOP 13-7 Member Death Memorial Services  Family
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2024
+  course: PDP0629A
+  title: SOP 13-8 Portland Police Bureau LE Memorial
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2024
+  course: PDP1971A
+  title: SOP 13-1 Employee Assistance Program (EAP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/10/2024
   course: PDP3598A
   title: 2024 CNT Crisis Negotiation Team Annual Training
@@ -87,6 +171,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/4/2024
+  course: PDP1474A
+  title: SOP 1-28 Training Division Take Home Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP2014A
+  title: SOP 1-1 Training Division SOPs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP3014A
+  title: SOP 1-12 Emergency Callback Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP2516A
+  title: SOP 1-14 Training Division Uniforms
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP3673A
+  title: SOP 1-15 Division Records Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP0047A
+  title: SOP 1-3 Subpoena Service to the Training Division
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP2790A
+  title: SOP 1-5 Assigned Radio Call Numbers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP4059A
+  title: SOP 13-2 Portland Police Bureau Chaplain Program
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP4073A
+  title: SOP 13-3 Peer Support Team (effective 10/5/2023)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP1366A
+  title: SOP 1-23 Observation of Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/21/2024
   course: PDP0192A
   title: 2024 CNT Crisis Negotiation Team Annual Training

@@ -43,8 +43,30 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/25/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 6/24/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 6/12/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 5/17/2024 | PDP0736A | Building Your Leadership Toolbox for Female Ldrs | Passed | 0.0 | 8.00 |
+| 5/15/2024 | PDP3757A | SOP 3-8 Sergeant Mentorship Program Guidelines | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP3014A | SOP 1-12 Emergency Callback Procedures | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP2436A | SOP 1-30 Supervisory Certificate Process | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP2569A | SOP 1-32 Completing First Aid CPR Certifications | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP0752A | SOP 10-10 Skills Certification Tracking with LMS | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP1366A | SOP 1-23 Observation of Training | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP0107A | SOP 1-25 Request for Lesson Plans  Trng Materials | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP0914A | SOP 5-2 Reintegration Training for Sworn Member | Passed | 0.0 | 0.25 |
+| 5/13/2024 | PDP0780A | SOP 5-3 Annual In-Service Training Failures | Passed | 0.0 | 0.25 |
+| 5/8/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 5/8/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
+| 5/8/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 5/8/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 5/8/2024 | PDP2790A | SOP 1-5 Assigned Radio Call Numbers | Passed | 0.0 | 0.25 |
+| 5/8/2024 | PDP2014A | SOP 1-1 Training Division SOPs | Passed | 0.0 | 0.25 |
+| 5/8/2024 | PDP0671A | SOP 1-26 Evaluation and Testing of New Patrol | Passed | 0.0 | 0.25 |
+| 5/8/2024 | PDP2235A | SOP 5-1 Attendance at In-Service Training | Passed | 0.0 | 0.25 |
 | 4/12/2024 | PDP0779A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 9.00 |
+| 4/12/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/12/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 3/12/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/14/2024 | PDP2803A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 6.00 |

@@ -37,6 +37,78 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/27/2024
+  course: PDP2666A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2024
+  course: PDP0051A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2024
+  course: PDP0307A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2024
+  course: PDP1373A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/19/2024
+  course: PDP2220A
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/15/2024
+  course: PDP0970A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/13/2024
+  course: PDP3088A
+  title: 2023-1  2 CAO Legal Updates for 01 and 02/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/13/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/7/2024
+  course: PDP3004A
+  title: 2024-2 TT State v. Wilcox / Civil Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/21/2024
   course: PDP1617A
   title: 2024-1 Range Qualification AR-15 Qualification (20

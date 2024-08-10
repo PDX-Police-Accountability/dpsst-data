@@ -42,6 +42,7 @@
 | 7/3/2024 | PDP3971A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/26/2024 | PDP2057A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 6/20/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/19/2024 | PDP1874A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 6/19/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/29/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
@@ -52,6 +53,7 @@
 | 5/8/2024 | PDP1704A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 5/1/2024 | PDP1742A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/1/2024 | PDP1742A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/24/2024 | PDP2051A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/10/2024 | PDP2996A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/3/2024 | PDP2204A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

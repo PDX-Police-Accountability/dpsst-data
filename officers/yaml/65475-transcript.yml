@@ -9,22 +9,22 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
-- date: 8/1/2024
+- date: 10/10/2024
   agency: Portland Police Bureau
   action: Hired
   rank: Police Off
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/1/2024
+- status_date: 10/10/2024
   certificate: Police Officer
   level: Basic
   status: Required
   certificate_date: ''
   expiration_date: ''
-  probation_date: 2/1/2026
+  probation_date: 4/10/2026
 training_records:
-- date: 2/1/2026
+- date: 4/10/2026
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
   status: Required

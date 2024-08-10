@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/19/2024
   course: PDP1702A
   title: 2024 K-9 (K9) Weekly Training
@@ -104,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 5/1/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/25/2024
   course: PDP3663A
   title: 2024 K-9 (K9) Weekly Training

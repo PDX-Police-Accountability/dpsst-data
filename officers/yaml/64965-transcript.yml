@@ -60,6 +60,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 6/26/2024
+  course: PDP2220A
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/26/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/26/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/25/2024
   course: PDP2433A
   title: 2024 FTEP Geography
@@ -72,12 +90,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/25/2024
+  course: PDP0307A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/25/2024
+  course: PDP3086A
+  title: 2023 Portland Community Justice Partnership  RJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/25/2024
+  course: PDP3888A
+  title: 2023-2 TT Body Worn Camera (BWC) Pilot Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/25/2024
+  course: PDP0970A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/25/2024
+  course: PDP3004A
+  title: 2024-2 TT State v. Wilcox / Civil Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/25/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/25/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/25/2024
+  course: PDP1373A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/24/2024
   course: PDP0748A
   title: 2024 FTEP Post DPSST Firearms
   status: Passed
   score: '0.0'
   hours: '23.00'
+- date: 6/22/2024
+  course: PDP2482A
+  title: 2020-10 CAO Legal Updates for 10/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2024
+  course: PDP1805A
+  title: 2023 DIR 0620.00 Body-Worn Camera (BWC) Use
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/21/2024
   course: M10-23A
   title: DPSST Basic Police Course
@@ -90,12 +168,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 5/10/2024
+  course: PDP3290A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/9/2024
   course: REG2564A
   title: INTOX 8000 (Hours included in Basic)
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 4/9/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/29/2024
   course: PDP2489A
   title: ICS-200 Basic Incident Cmnd System for Intl Resp

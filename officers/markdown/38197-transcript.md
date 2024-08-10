@@ -46,6 +46,10 @@
 | 7/2/2024 | PDP3337A | Less Lethal Single  4Shot Launcher Armr | Passed | 0.0 | 16.00 |
 | 7/1/2024 | HBS0257A | LMT Single 37/40mm Launcher Armorer Course | Passed | 0.0 | 4.50 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP3764A | SOP 2-6 Used Service Weapon Sales to Sworn Members | Passed | 0.0 | 0.25 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |
 | 6/4/2024 | OCS1184A | Glock Armorer | Passed | 0.0 | 8.00 |
 | 6/4/2024 | PDP0794A | GLOCK Armorer Course | Passed | 0.0 | 8.00 |

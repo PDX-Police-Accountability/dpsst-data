@@ -49,6 +49,7 @@
 | 5/15/2024 | PDP0760A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/8/2024 | PDP1704A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/1/2024 | PDP1742A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 4/29/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/24/2024 | PDP2051A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/10/2024 | PDP2996A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/3/2024 | PDP2204A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

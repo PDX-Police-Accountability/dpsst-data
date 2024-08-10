@@ -76,12 +76,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/24/2024
+  course: WBP3185A
+  title: Briefing Training - Emergency Medical Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/23/2024
   course: WBP2416A
   title: 1st Watch Wellness - Model  Methodology
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 7/3/2024
+  course: WBP2470A
+  title: OIS Video Debrief - LAPD SE Area 5/19/24
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/30/2024
   course: WBP3035A
   title: WPD Quarter 2 Firearms Qualifications

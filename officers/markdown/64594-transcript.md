@@ -29,6 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/17/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/24/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/13/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/8/2024 | PDP1013A | IS-242 Effective Communication | Passed | 0.0 | 8.00 |
 | 5/7/2024 | PDP0577A | IS-2200 Basic Emerg Ops Ctr Functions | Passed | 0.0 | 4.00 |
 | 5/2/2024 | PDP2984A | 2024  FTEP HAZMAT/WMD Awareness | Passed | 0.0 | 3.00 |
@@ -38,6 +41,7 @@
 | 4/24/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/16/2024 | PDP0696A | RADAR/LIDAR Operator | Passed | 0.0 | 14.00 |
 | 4/16/2024 | REG1677A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 10.00 |
+| 4/12/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/11/2024 | PDP1242A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 4/10/2024 | PDP2581A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 4/9/2024 | PDP3956A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |

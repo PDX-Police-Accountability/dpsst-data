@@ -35,12 +35,23 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/10/2024 | PDP0701A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/17/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 50.00 |
 | 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 40.00 |
 | 5/12/2024 | PDP4222A | Micro Carry | Passed | 0.0 | 8.00 |
 | 5/11/2024 | PDP0904A | Performance Carry | Passed | 0.0 | 8.00 |
+| 4/20/2024 | PDP2643A | SOP 2-8 Catastrophic Weapon Failure Procedure | Passed | 0.0 | 0.25 |
+| 4/17/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
+| 4/17/2024 | PDP2852A | SOP 2-16 Training Complex Ranges | Passed | 0.0 | 0.25 |
+| 4/17/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 4/17/2024 | PDP0671A | SOP 1-26 Evaluation and Testing of New Patrol | Passed | 0.0 | 0.25 |
+| 4/17/2024 | PDP1349A | SOP 2-10 Central Precinct Range Procedures | Passed | 0.0 | 0.25 |
+| 4/17/2024 | PDP1231A | SOP 2-11 Range Training and Qualification Policies | Passed | 0.0 | 0.25 |
+| 4/17/2024 | PDP0376A | SOP 2-13 AR-15 Program | Passed | 0.0 | 0.25 |
+| 4/17/2024 | PDP1193A | SOP 2-4 Ammunition Storing and Distribution | Passed | 0.0 | 0.25 |
 | 4/10/2024 | PDP2865A | WSNIA Training Summit | Passed | 0.0 | 26.00 |
+| 4/3/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/24/2024 | PDP0287A | Concealed Pistol Applications | Passed | 0.0 | 16.00 |
 | 3/8/2024 | PDP2445A | Vehicle Close Quarters Battle Instructor | Passed | 0.0 | 40.00 |
 | 3/1/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |

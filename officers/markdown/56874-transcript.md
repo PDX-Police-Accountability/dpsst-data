@@ -35,6 +35,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/24/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/24/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP2790A | SOP 1-5 Assigned Radio Call Numbers | Passed | 0.0 | 0.25 |
+| 4/16/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 3/1/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 2/16/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 1.00 |
 | 2/16/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

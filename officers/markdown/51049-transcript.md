@@ -34,7 +34,29 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2024 | PDP2889A | SOP 14-1 Safety Procedures for the Training | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP2108A | SOP 14-2 Building Evacuation Plans | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP2014A | SOP 1-1 Training Division SOPs | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP2790A | SOP 1-5 Assigned Radio Call Numbers | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP2700A | SOP 14-3 Training Division Building Safety Plan | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP1820A | SOP 14-4 Hazardous Materials  Biological Hazards | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
 | 5/23/2024 | PDP1546A | 2024 Training Return to Work Firearms | Passed | 0.0 | 4.00 |
+| 5/20/2024 | PDP0307A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 5/20/2024 | PDP3088A | 2023-1  2 CAO Legal Updates for 01 and 02/2023 | Passed | 0.0 | 0.25 |
+| 5/20/2024 | PDP2220A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 5/20/2024 | PDP2423A | 2024 ECIT Recording Define the Event | Passed | 0.0 | 1.00 |
+| 5/20/2024 | PDP2157A | 2024 ECIT Recording Themes and Values | Passed | 0.0 | 1.50 |
+| 5/20/2024 | PDP3346A | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
+| 5/20/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 5/20/2024 | PDP3004A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
+| 5/20/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 5/20/2024 | PDP1373A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 12/18/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/14/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 12/14/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

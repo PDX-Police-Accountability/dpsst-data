@@ -30,6 +30,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 6/12/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/15/2024
   course: PDP2714A
   title: 2024-1 Advanced Academy Law
@@ -54,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 5/7/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/5/2024
   course: PDP4032A
   title: 2024-1 Advanced Academy PVO

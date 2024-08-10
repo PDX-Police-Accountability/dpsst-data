@@ -35,19 +35,29 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/3/2024 | PDP1223A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/3/2024 | PDP1223A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
-| 6/27/2024 | PDP1451A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
-| 6/20/2024 | PDP3960A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
-| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
-| 6/6/2024 | PDP3295A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 6/27/2024 | PDP1451A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/20/2024 | PDP3960A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 6/6/2024 | PDP3295A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 10.00 |
-| 5/30/2024 | PDP2184A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 5/30/2024 | PDP2184A | 2024 SERT Training - Iteration | Passed | 0.0 | 9.00 |
 | 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 10.00 |
-| 5/16/2024 | PDP2185A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/16/2024 | PDP2185A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/2/2024 | PDP1247A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP3587A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 4/10/2024 | PDP1193A | SOP 2-4 Ammunition Storing and Distribution | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP1231A | SOP 2-11 Range Training and Qualification Policies | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP0376A | SOP 2-13 AR-15 Program | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP2852A | SOP 2-16 Training Complex Ranges | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP2643A | SOP 2-8 Catastrophic Weapon Failure Procedure | Passed | 0.0 | 0.25 |
 | 4/4/2024 | PDP1930A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/2/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/21/2024 | PDP2707A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/14/2024 | PDP1559A | 2024 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
 | 3/14/2024 | PDP1559A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

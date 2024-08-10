@@ -35,12 +35,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/26/2024 | PDP2057A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/24/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/19/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 6/16/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/22/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/15/2024 | PDP0760A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/8/2024 | PDP1704A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/1/2024 | PDP1742A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/24/2024 | PDP2051A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 4/2/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/27/2024 | PDP1568A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/20/2024 | PDP1369A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/13/2024 | PDP1062A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

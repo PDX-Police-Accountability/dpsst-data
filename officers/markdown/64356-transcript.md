@@ -29,13 +29,35 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/20/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/14/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/18/2024 | PDP1354A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 4/16/2024 | PDP0696A | RADAR/LIDAR Operator | Passed | 0.0 | 14.00 |
 | 4/16/2024 | REG1677A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 10.00 |
 | 4/11/2024 | PDP3017A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
+| 4/11/2024 | PDP1693A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 4/11/2024 | PDP3086A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
+| 4/11/2024 | PDP0877A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
 | 4/10/2024 | PDP1761A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 27.00 |
 | 4/10/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/5/2024 | PDP0051A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 4/5/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |
+| 4/5/2024 | PDP1095A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 4/5/2024 | PDP0307A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 4/5/2024 | PDP1791A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 4/5/2024 | PDP1373A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 4/4/2024 | PDP1566A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 4/4/2024 | PDP3088A | 2023-1  2 CAO Legal Updates for 01 and 02/2023 | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP2220A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3004A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 4/3/2024 | PDP2666A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 4/3/2024 | PDP1718A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 4/3/2024 | PDP3699A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 4/3/2024 | PDP4388A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 4/2/2024 | PDP4486A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 4/2/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 4/1/2024 | PDP1449A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |

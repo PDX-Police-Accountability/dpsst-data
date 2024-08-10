@@ -36,11 +36,36 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |
+| 6/3/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP0752A | SOP 10-10 Skills Certification Tracking with LMS | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP0671A | SOP 1-26 Evaluation and Testing of New Patrol | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP2235A | SOP 5-1 Attendance at In-Service Training | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP0914A | SOP 5-2 Reintegration Training for Sworn Member | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP0780A | SOP 5-3 Annual In-Service Training Failures | Passed | 0.0 | 0.25 |
 | 5/15/2024 | PDP2949A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/18/2024 | PDP0950A | SOP 13-4 Traumatic Incident Committee (TIC) | Passed | 0.0 | 0.25 |
+| 4/18/2024 | PDP3018A | SOP 13-5 Police Alcohol Recovery Team (PART) | Passed | 0.0 | 0.25 |
+| 4/18/2024 | PDP1029A | SOP 13-6 Critical Incident Stress Mngmt (CISM) | Passed | 0.0 | 0.25 |
+| 4/18/2024 | PDP3312A | SOP 13-7 Member Death Memorial Services  Family | Passed | 0.0 | 0.25 |
+| 4/18/2024 | PDP0629A | SOP 13-8 Portland Police Bureau LE Memorial | Passed | 0.0 | 0.25 |
+| 4/18/2024 | PDP1971A | SOP 13-1 Employee Assistance Program (EAP) | Passed | 0.0 | 0.25 |
 | 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 4/9/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/9/2024 | PDP3990A | 2024-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 4/5/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
+| 4/4/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP2014A | SOP 1-1 Training Division SOPs | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3014A | SOP 1-12 Emergency Callback Procedures | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP2790A | SOP 1-5 Assigned Radio Call Numbers | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP4059A | SOP 13-2 Portland Police Bureau Chaplain Program | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP4073A | SOP 13-3 Peer Support Team (effective 10/5/2023) | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP1366A | SOP 1-23 Observation of Training | Passed | 0.0 | 0.25 |
 | 2/21/2024 | PDP0192A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 10.00 |
 | 2/21/2024 | PDP0192A | 2024 CNT Crisis Negotiation Team Annual Training | Instructed | 0.0 | 10.00 |
 | 1/11/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |

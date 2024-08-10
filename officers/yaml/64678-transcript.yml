@@ -30,6 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/25/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/12/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/9/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/8/2024
   course: PDP1013A
   title: IS-242 Effective Communication
@@ -72,6 +96,66 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/17/2024
+  course: PDP2666A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2024
+  course: PDP4455A
+  title: 2021-9 TT Protecting Workers from the Dangers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2024
+  course: PDP0051A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2024
+  course: PDP2473A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/17/2024
+  course: PDP1095A
+  title: 2023 Directive 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2024
+  course: PDP1718A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2024
+  course: PDP0307A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2024
+  course: PDP1713A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2024
+  course: PDP4172A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 4/17/2024
+  course: PDP1373A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/16/2024
   course: PDP0696A
   title: RADAR/LIDAR Operator
@@ -84,12 +168,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/11/2024
+  course: PDP3086A
+  title: 2023 Portland Community Justice Partnership  RJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/11/2024
+  course: PDP3699A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2024
+  course: PDP3088A
+  title: 2023-1  2 CAO Legal Updates for 01 and 02/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2024
+  course: PDP3888A
+  title: 2023-2 TT Body Worn Camera (BWC) Pilot Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2024
+  course: PDP2220A
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2024
+  course: PDP0970A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2024
+  course: PDP3004A
+  title: 2024-2 TT State v. Wilcox / Civil Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/10/2024
   course: PDP2581A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/10/2024
+  course: PDP1805A
+  title: 2023 DIR 0620.00 Body-Worn Camera (BWC) Use
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/10/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/10/2024
+  course: PDP4154A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/9/2024
   course: PDP3956A
   title: 2024 Mobile Identification Device (MIDD) Training

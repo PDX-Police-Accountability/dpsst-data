@@ -42,6 +42,7 @@
 | 5/15/2024 | PDP0146A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 5/9/2024 | PDP0552A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 5/9/2024 | PDP0552A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 6.00 |
+| 5/6/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/25/2024 | PDP3663A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 4/10/2024 | PDP2202A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 4/10/2024 | PDP2202A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 3.00 |

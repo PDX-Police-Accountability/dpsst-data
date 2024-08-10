@@ -39,6 +39,7 @@
 | 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/28/2024 | PDP4332A | OSP DNA Training | Passed | 0.0 | 2.00 |
+| 5/2/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/21/2024 | OSH1123A | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 30.00 |
 | 3/21/2024 | PDP0461A | OSP Mobile Vehicle and Foot Surveillance | Passed | 0.0 | 27.00 |
 | 2/23/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |

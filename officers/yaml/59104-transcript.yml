@@ -31,12 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/14/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/7/2024
   course: PDP2738A
   title: Intox 8000 - Regional
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 4/29/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/11/2024
   course: PDP1977A
   title: 2024 Standardized Field Sobriety Test Refresher

@@ -38,6 +38,9 @@
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/4/2024 | PDP1930A | 2024 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 4/4/2024 | PDP1930A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/3/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/2/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
+| 4/2/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 3/28/2024 | PDP2670A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 3/28/2024 | PDP2670A | 2024 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
 | 3/28/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |

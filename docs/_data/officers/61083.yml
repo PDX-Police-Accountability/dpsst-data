@@ -30,12 +30,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/14/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/2/2024
   course: PDP1358A
   title: 2024-2 Patrol Rifle Operator Course
   status: Passed
   score: '0.0'
   hours: '60.00'
+- date: 4/23/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/17/2024
   course: GSP2725A
   title: OPCA Spring Seminar - Decoy School

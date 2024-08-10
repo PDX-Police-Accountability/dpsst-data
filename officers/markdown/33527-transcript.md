@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 3/31/2024 | PDP4346A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 2/28/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
 | 2/14/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

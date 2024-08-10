@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/2/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/21/2024
   course: OSH1123A
   title: Mobile Vehicle and Foot Surveillance Training

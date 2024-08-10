@@ -36,12 +36,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/21/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/14/2024
   course: PDP0886A
   title: 2024 Rapid Response Team (RRT) Monthly Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/28/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/11/2024
   course: PDP1254A
   title: 2024 Mobile Identification Device (MIDD) Training

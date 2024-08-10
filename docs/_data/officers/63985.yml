@@ -102,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/3/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/25/2024
   course: PDP3218A
   title: 2024-1 Advanced Academy Crisis Int. Training

@@ -31,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 4/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 2/8/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 2/7/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 2/7/2024 | PDP2822A | 2023 DIR 0620.00 Body-Worn Camera Use and MGMT | Passed | 0.0 | 0.25 |

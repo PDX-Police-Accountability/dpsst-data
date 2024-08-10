@@ -46,6 +46,7 @@
 | 5/9/2024 | PDP3378A | WAVR-21 On Demand Training | Passed | 0.0 | 5.00 |
 | 5/1/2024 | PDP0452A | WSHNA Training Seminar  HNT Competition | Passed | 0.0 | 28.00 |
 | 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 4/10/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/7/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/9/2024 | PDP3220A | ATAP Winter Conference | Passed | 0.0 | 21.75 |

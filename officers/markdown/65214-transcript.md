@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/7/2024 | PDP3290A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 5/27/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 5/23/2024 | PDP0457A | ICS-100 Intro to the Incident Cmnd System | Passed | 0.0 | 2.00 |
 | 5/23/2024 | PDP2371A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |

@@ -37,11 +37,13 @@
 | 7/10/2024 | PDP1969A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/3/2024 | PDP3971A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 6/26/2024 | PDP2057A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 6/20/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/29/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/22/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/22/2024 | PDP1874A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 5/8/2024 | PDP1704A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/2/2024 | PDP2984A | 2024  FTEP HAZMAT/WMD Awareness | Instructed | 0.0 | 3.00 |
+| 4/29/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/26/2024 | PDP0823A | LEIU/IALEIA Annual Training Event | Passed | 0.0 | 36.00 |
 | 4/10/2024 | PDP2996A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/9/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

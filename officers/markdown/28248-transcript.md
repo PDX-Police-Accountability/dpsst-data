@@ -51,6 +51,7 @@
 | 6/27/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/9/2024 | PDP1219A | Alarm Response Training | Passed | 0.0 | 24.00 |
 | 4/25/2024 | PDP0011A | OEM Oregon Prepared Workshop | Passed | 0.0 | 29.00 |
+| 4/22/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/4/2024 | PDP2478A | Homeland Security Exercise  Evaluation | Passed | 0.0 | 16.00 |
 | 3/21/2024 | PDP2087A | FEMA L0105 Public Information Basics | Passed | 0.0 | 24.00 |

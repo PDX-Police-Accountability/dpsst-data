@@ -34,7 +34,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/18/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/16/2024 | PDP3387A | INIA 33rd Annual Interdiction Conference | Passed | 0.0 | 27.00 |
+| 4/25/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/17/2024 | OCS1319A | OPCA Spring Seminar - Decoy School | Passed | 0.0 | 32.00 |
 | 4/17/2024 | PDP1757A | OPCA Spring Conference | Passed | 0.0 | 28.00 |
 | 4/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

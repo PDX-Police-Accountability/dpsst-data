@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2024 | OSH4474A | HTTC - Human Trafficking Training | Passed | 0.0 | 16.00 |
 | 7/31/2024 | SAG0001A | Cybertip Triage and Open Source Intelligence | Passed | 0.0 | 8.00 |
 | 7/30/2024 | SAG0293A | Cybertip Triage and Open Source Intelligence | Passed | 0.0 | 8.00 |
 | 7/15/2024 | SAG2700A | Firearms training | Passed | 0.0 | 2.00 |

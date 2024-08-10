@@ -67,6 +67,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/28/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/16/2024
   course: 24-0004
   title: DPSST Basic Police COD Self-Study

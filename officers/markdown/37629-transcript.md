@@ -37,7 +37,26 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Instructed | 0.0 | 2.25 |
+| 6/19/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 5/15/2024 | PDP3757A | SOP 3-8 Sergeant Mentorship Program Guidelines | Passed | 0.0 | 0.25 |
+| 4/26/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 4/26/2024 | PDP3655A | SOP 3-4 FTO Selection, Standards, Certification | Passed | 0.0 | 0.25 |
+| 4/26/2024 | PDP2092A | SOP 6-1 Crisis Intervention Training | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP2524A | SOP 3-1 Probation Extension Guidelines | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP0454A | SOP 3-2 Vehicle Accidents Involving Probationary | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP1075A | SOP 3-3 Procedures for Performance Summaries | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP2155A | SOP 3-7 Field Training Evaluation Program | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2014A | SOP 1-1 Training Division SOPs | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP4547A | SOP 3-5 New Hire Orientation and Training | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0082A | SOP 3-6 Training Prior to Initial Field Assignment | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2468A | SOP 3-9 Advanced Academy Standards | Passed | 0.0 | 0.25 |
 | 4/9/2024 | PDP2318A | 2024 FTEP Geography | Instructed | 0.0 | 2.00 |
+| 4/4/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/2/2024 | PDP4486A | 2024 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 2/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/21/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |

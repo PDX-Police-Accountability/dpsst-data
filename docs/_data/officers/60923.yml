@@ -37,12 +37,36 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/23/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/16/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/31/2024
   course: OSH0911A
   title: Public Order Basic Course
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 4/18/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/15/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/8/2024
   course: PDP3079A
   title: 2024-1 Field Training Officer (FTO) Certification

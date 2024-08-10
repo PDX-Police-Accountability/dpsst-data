@@ -62,18 +62,36 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/20/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/16/2024
   course: PDP3387A
   title: INIA 33rd Annual Interdiction Conference
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 4/22/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/4/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/3/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/3/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit

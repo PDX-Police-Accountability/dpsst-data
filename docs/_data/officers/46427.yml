@@ -44,12 +44,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/14/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/16/2024
   course: PDP2605A
   title: NAMOA Conference
   status: Passed
   score: '0.0'
   hours: '23.00'
+- date: 4/30/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/11/2024
   course: PDP1254A
   title: 2024 Mobile Identification Device (MIDD) Training

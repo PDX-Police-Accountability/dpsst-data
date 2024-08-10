@@ -30,6 +30,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/15/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/10/2024
   course: PDP0938A
   title: ICS-100 Intro to the Incident Cmmnd System

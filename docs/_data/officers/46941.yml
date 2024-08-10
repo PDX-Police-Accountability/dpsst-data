@@ -57,9 +57,21 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/23/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/13/2024
   course: PDP3208A
-  title: 2024 SERT Training - SCENARIO
+  title: 2024 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
@@ -111,6 +123,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 4/2/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/28/2024
   course: PDP3653A
   title: 2024-1 Range Qual 40mm Less Lethal Qualification

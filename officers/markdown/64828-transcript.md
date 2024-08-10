@@ -34,10 +34,19 @@
 | 7/2/2024 | PDP3185A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
 | 6/25/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
+| 6/25/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP3004A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP3290A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 6/24/2024 | PDP0748A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 23.00 |
 | 6/21/2024 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 5/28/2024 | REG0895A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/9/2024 | REG2564A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 4/18/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 2/29/2024 | PDP2290A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 2/29/2024 | PDP2489A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 2/29/2024 | PDP2019A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

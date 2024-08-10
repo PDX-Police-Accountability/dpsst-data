@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/13/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/31/2024
   course: OSH0911A
   title: Public Order Basic Course
@@ -72,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '60.00'
+- date: 4/25/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/4/2024
   course: PDP0270A
   title: 2024 Axon Taser 7 Instructor Course

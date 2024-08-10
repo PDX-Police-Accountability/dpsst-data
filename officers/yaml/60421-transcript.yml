@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2024
+  course: OSH4474A
+  title: HTTC - Human Trafficking Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/31/2024
   course: SAG0001A
   title: Cybertip Triage and Open Source Intelligence

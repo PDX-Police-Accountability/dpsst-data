@@ -38,9 +38,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/26/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/13/2024 | PDP0351A | OSP Grenadier Training | Passed | 0.0 | 18.00 |
 | 5/3/2024 | PDP4328A | Less Lethal FSDD Chemical Agent Instrctr Cert | Passed | 0.0 | 40.00 |
+| 4/26/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/8/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
 | 3/15/2024 | SPP2933A | Mobile Field Force | Instructed | 0.0 | 20.00 |
 | 3/4/2024 | PDP0270A | 2024 Axon Taser 7 Instructor Course | Passed | 0.0 | 8.00 |
 | 2/23/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |

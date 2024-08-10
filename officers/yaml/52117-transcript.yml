@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/13/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/2/2024
   course: PDP1358A
   title: 2024-2 Patrol Rifle Operator Course
@@ -56,6 +62,48 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '20.00'
+- date: 4/8/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP2643A
+  title: SOP 2-8 Catastrophic Weapon Failure Procedure
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP2852A
+  title: SOP 2-16 Training Complex Ranges
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP1349A
+  title: SOP 2-10 Central Precinct Range Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP1231A
+  title: SOP 2-11 Range Training and Qualification Policies
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP0376A
+  title: SOP 2-13 AR-15 Program
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2024
+  course: PDP1193A
+  title: SOP 2-4 Ammunition Storing and Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/26/2024
   course: PDP1617A
   title: 2024-1 Range Qualification AR-15 Qualification (20

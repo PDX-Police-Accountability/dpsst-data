@@ -33,6 +33,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/12/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 5/11/2024 | PDP3119A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
+| 4/25/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 2/14/2024 | PDP1254A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 2/14/2024 | PDP2916A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/13/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

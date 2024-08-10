@@ -37,6 +37,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/1/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/27/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

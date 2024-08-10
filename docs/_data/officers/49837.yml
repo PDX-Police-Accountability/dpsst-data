@@ -52,37 +52,43 @@ certification_records:
 training_records:
 - date: 7/3/2024
   course: PDP1223A
-  title: 2024 SERT Training - SCENARIO
+  title: 2024 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
 - date: 6/27/2024
   course: PDP1257A
-  title: 2024 SERT Training - SCENARIO
+  title: 2024 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
 - date: 6/20/2024
   course: PDP4460A
-  title: 2024 SERT Training - FIREARMS
+  title: 2024 SERT Training - Firearms
   status: Passed
   score: '0.0'
   hours: '9.00'
 - date: 6/13/2024
   course: PDP3208A
-  title: 2024 SERT Training - SCENARIO
+  title: 2024 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/12/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/6/2024
   course: PDP4321A
-  title: 2024 SERT Training - SCENARIO
+  title: 2024 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
 - date: 5/30/2024
   course: PDP2184A
-  title: 2024 SERT Training - ITERATION
+  title: 2024 SERT Training - Iteration
   status: Passed
   score: '0.0'
   hours: '9.00'
@@ -98,12 +104,138 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/23/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP0950A
+  title: SOP 13-4 Traumatic Incident Committee (TIC)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP3018A
+  title: SOP 13-5 Police Alcohol Recovery Team (PART)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1029A
+  title: SOP 13-6 Critical Incident Stress Mngmt (CISM)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP3312A
+  title: SOP 13-7 Member Death Memorial Services  Family
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP0629A
+  title: SOP 13-8 Portland Police Bureau LE Memorial
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1337A
+  title: SOP 1-19 Instructor Selection Standards
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1474A
+  title: SOP 1-28 Training Division Take Home Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP2014A
+  title: SOP 1-1 Training Division SOPs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP2516A
+  title: SOP 1-14 Training Division Uniforms
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP3673A
+  title: SOP 1-15 Division Records Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP0047A
+  title: SOP 1-3 Subpoena Service to the Training Division
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP0752A
+  title: SOP 10-10 Skills Certification Tracking with LMS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1971A
+  title: SOP 13-1 Employee Assistance Program (EAP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP4059A
+  title: SOP 13-2 Portland Police Bureau Chaplain Program
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP4073A
+  title: SOP 13-3 Peer Support Team (effective 10/5/2023)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP3935A
+  title: SOP 1-21 Training Division Instructional Design
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1349A
+  title: SOP 2-10 Central Precinct Range Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1231A
+  title: SOP 2-11 Range Training and Qualification Policies
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/4/2024
   course: PDP1930A
   title: 2024 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/3/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2024
+  course: PDP2790A
+  title: SOP 1-5 Assigned Radio Call Numbers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/28/2024
   course: PDP2670A
   title: 2024 SERT Training - FIREARMS

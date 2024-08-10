@@ -57,6 +57,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/7/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/12/2024
   course: PDP0779A
   title: 2023 PPB Honor Guard In Service Training

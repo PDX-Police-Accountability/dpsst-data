@@ -75,6 +75,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/16/2024
+  course: PDP3935A
+  title: SOP 1-21 Training Division Instructional Design
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2024
+  course: PDP0671A
+  title: SOP 1-26 Evaluation and Testing of New Patrol
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2024
+  course: PDP1349A
+  title: SOP 2-10 Central Precinct Range Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2024
+  course: PDP1231A
+  title: SOP 2-11 Range Training and Qualification Policies
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2024
+  course: PDP0376A
+  title: SOP 2-13 AR-15 Program
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2024
+  course: PDP2852A
+  title: SOP 2-16 Training Complex Ranges
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2024
+  course: PDP1193A
+  title: SOP 2-4 Ammunition Storing and Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

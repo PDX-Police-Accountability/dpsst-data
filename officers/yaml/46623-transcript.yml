@@ -44,12 +44,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/20/2024
+  course: PDP3935A
+  title: SOP 1-21 Training Division Instructional Design
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/20/2024
+  course: PDP1349A
+  title: SOP 2-10 Central Precinct Range Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/20/2024
+  course: PDP1231A
+  title: SOP 2-11 Range Training and Qualification Policies
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2024
+  course: PDP1337A
+  title: SOP 1-19 Instructor Selection Standards
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/12/2024
   course: PDP0779A
   title: 2023 PPB Honor Guard In Service Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/8/2024
+  course: PDP0671A
+  title: SOP 1-26 Evaluation and Testing of New Patrol
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/22/2024
   course: PDP0335A
   title: 2024 ECIT In-Service

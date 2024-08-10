@@ -50,7 +50,7 @@
 | 6/18/2024 | BNP0091A | Active Threat Response | Passed | 0.0 | 2.50 |
 | 6/18/2024 | BNP0498A | Rescue Task Force | Passed | 0.0 | 1.50 |
 | 6/18/2024 | BNP1481A | Mental Health / Wellness | Passed | 0.0 | 1.00 |
-| 5/22/2024 | BNP4092A | Control Tactics / ground control | Passed | 0.0 | 1.00 |
+| 5/22/2024 | BNP4092A | Control Tactics /Ground Control | Passed | 0.0 | 1.00 |
 | 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |
 | 4/18/2024 | OAC2080A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
 | 4/18/2024 | OAC2330A | Recruiting  Retention Strategies | Passed | 0.0 | 1.00 |

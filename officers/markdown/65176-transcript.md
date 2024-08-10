@@ -33,3 +33,4 @@
 | 5/22/2024 | PDP3539A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 5/20/2024 | PDP3578A | 2024 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 5/14/2024 | PDP3575A | CPR/First Aid | Passed | 0.0 | 4.00 |
+| 4/22/2024 | PDP3290A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

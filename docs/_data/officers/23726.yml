@@ -110,6 +110,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/2/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2024
+  course: PDP3935A
+  title: SOP 1-21 Training Division Instructional Design
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/21/2024
   course: PDP1617A
   title: 2024-1 Range Qualification AR-15 Qualification (20

@@ -33,7 +33,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/14/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Passed | 0.0 | 60.00 |
+| 4/23/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/17/2024 | GSP2725A | OPCA Spring Seminar - Decoy School | Passed | 0.0 | 32.00 |
 | 4/17/2024 | PDP3633A | OPCA Spring Conference | Passed | 0.0 | 28.00 |
 | 3/13/2024 | PDP3917A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |

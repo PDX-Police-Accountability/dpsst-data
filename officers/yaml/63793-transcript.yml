@@ -30,6 +30,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 6/24/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/13/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/15/2024
   course: PDP2714A
   title: 2024-1 Advanced Academy Law
@@ -90,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.50'
+- date: 4/21/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/18/2024
   course: PDP2042A
   title: 2024-1 Advanced Academy Firearms
@@ -108,6 +132,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/2/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/25/2024
   course: PDP3218A
   title: 2024-1 Advanced Academy Crisis Int. Training

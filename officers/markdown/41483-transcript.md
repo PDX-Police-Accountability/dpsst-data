@@ -41,7 +41,45 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/5/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |
 | 6/4/2024 | PDP2458A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/4/2024 | PDP3888A | 2023-2 TT Body Worn Camera (BWC) Pilot Policy | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP2473A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 6/3/2024 | PDP2666A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP0357A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP3885A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP0307A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP3699A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP3088A | 2023-1  2 CAO Legal Updates for 01 and 02/2023 | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP2790A | SOP 1-5 Assigned Radio Call Numbers | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP4172A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 6/3/2024 | PDP2220A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP3346A | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
+| 6/3/2024 | PDP1992A | 2024-1 All Sworn In-Service Wellness Recording | Passed | 0.0 | 1.00 |
+| 6/3/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP4154A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/3/2024 | PDP1373A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 5/31/2024 | PDP0051A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 5/31/2024 | PDP1718A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP2889A | SOP 14-1 Safety Procedures for the Training | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP2913A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP1269A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP1713A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 5/30/2024 | PDP3086A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
+| 5/30/2024 | PDP2014A | SOP 1-1 Training Division SOPs | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP2108A | SOP 14-2 Building Evacuation Plans | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP2700A | SOP 14-3 Training Division Building Safety Plan | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP1820A | SOP 14-4 Hazardous Materials  Biological Hazards | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP3004A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP3290A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 11/18/2022 | NPS10285 | Crisis Intervention | Passed | 0.0 | 5.00 |
 | 11/18/2022 | NPS35781 | Scenario Skills | Passed | 0.0 | 3.00 |
 | 11/17/2022 | NPS05741 | NAMI | Passed | 0.0 | 2.00 |

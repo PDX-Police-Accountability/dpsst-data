@@ -36,7 +36,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/31/2024 | SAG0001A | Cybertip Triage and Open Source Intelligence | Passed | 0.0 | 8.00 |
 | 7/30/2024 | SAG0293A | Cybertip Triage and Open Source Intelligence | Passed | 0.0 | 8.00 |
+| 6/21/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/21/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |
+| 5/20/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 5/15/2024 | PDP2949A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/22/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |

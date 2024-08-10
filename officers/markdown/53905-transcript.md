@@ -37,6 +37,40 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2024 | PDP3757A | SOP 3-8 Sergeant Mentorship Program Guidelines | Passed | 0.0 | 0.25 |
+| 4/25/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP3014A | SOP 1-12 Emergency Callback Procedures | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0752A | SOP 10-10 Skills Certification Tracking with LMS | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP1134A | SOP 11-1 Public Safety Support Specialist Trng | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0055A | SOP 12-1 Cadet Program | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2524A | SOP 3-1 Probation Extension Guidelines | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0454A | SOP 3-2 Vehicle Accidents Involving Probationary | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP1075A | SOP 3-3 Procedures for Performance Summaries | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP3655A | SOP 3-4 FTO Selection, Standards, Certification | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP1366A | SOP 1-23 Observation of Training | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP4547A | SOP 3-5 New Hire Orientation and Training | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0082A | SOP 3-6 Training Prior to Initial Field Assignment | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP2155A | SOP 3-7 Field Training Evaluation Program | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP0914A | SOP 5-2 Reintegration Training for Sworn Member | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP2790A | SOP 1-5 Assigned Radio Call Numbers | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP2643A | SOP 2-8 Catastrophic Weapon Failure Procedure | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP2852A | SOP 2-16 Training Complex Ranges | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP0671A | SOP 1-26 Evaluation and Testing of New Patrol | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP1349A | SOP 2-10 Central Precinct Range Procedures | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP1231A | SOP 2-11 Range Training and Qualification Policies | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP1193A | SOP 2-4 Ammunition Storing and Distribution | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP2468A | SOP 3-9 Advanced Academy Standards | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP2235A | SOP 5-1 Attendance at In-Service Training | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP0780A | SOP 5-3 Annual In-Service Training Failures | Passed | 0.0 | 0.25 |
+| 4/23/2024 | PDP2092A | SOP 6-1 Crisis Intervention Training | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP2014A | SOP 1-1 Training Division SOPs | Passed | 0.0 | 0.25 |
+| 4/4/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 2/23/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 2/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/27/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

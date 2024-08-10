@@ -39,7 +39,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/24/2024 | PDP3818A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
-| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 6/23/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/23/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/15/2024 | PDP0146A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 5/9/2024 | PDP0552A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 5/9/2024 | PDP0552A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 6.00 |
@@ -48,6 +50,7 @@
 | 4/17/2024 | PDP3633A | OPCA Spring Conference | Passed | 0.0 | 28.00 |
 | 4/10/2024 | PDP2202A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 4/3/2024 | PDP1299A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 4/2/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/28/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 3/28/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 3/28/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

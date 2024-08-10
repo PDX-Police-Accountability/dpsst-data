@@ -37,6 +37,7 @@
 | 5/5/2024 | PDP4032A | 2024-1 Advanced Academy PVO | Passed | 0.0 | 48.00 |
 | 5/2/2024 | PDP1893A | 2024-1 Advanced Academy Bike School | Passed | 0.0 | 37.00 |
 | 5/1/2024 | PDP2047A | 2024-1 Advanced Academy Patrol Proc. (FA) | Passed | 0.0 | 120.25 |
+| 4/30/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/25/2024 | PDP3440A | 2024-1 Advanced Academy Public Order | Passed | 0.0 | 13.50 |
 | 4/24/2024 | PDP1807A | 2024-1 Advanced Academy Control Tactics | Passed | 0.0 | 63.00 |
 | 4/22/2024 | PDP1936A | 2024-1 Advanced Academy Wellnesss | Passed | 0.0 | 10.50 |

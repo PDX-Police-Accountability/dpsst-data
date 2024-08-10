@@ -43,8 +43,12 @@
 | 7/1/2024 | REG3883A | DT | Passed | 0.0 | 1.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2024 | REG3422A | Striking/Ground Control | Passed | 0.0 | 1.00 |
+| 6/27/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/27/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/24/2024 | REG3516A | Two-on-one Ground Control | Passed | 0.0 | 1.00 |
 | 6/20/2024 | REG1568A | Team Takedown, Ground Control | Passed | 0.0 | 1.00 |
+| 6/20/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/14/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 5/30/2024 | REG3321A | DT | Passed | 0.0 | 1.00 |
 | 5/23/2024 | REG2866A | DT | Passed | 0.0 | 1.00 |
 | 5/16/2024 | REG1095A | DT | Passed | 0.0 | 1.00 |

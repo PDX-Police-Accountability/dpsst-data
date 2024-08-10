@@ -36,9 +36,35 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/17/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/17/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 60.00 |
 | 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 60.00 |
 | 5/6/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 1.00 |
+| 5/4/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 5/1/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP0047A | SOP 1-3 Subpoena Service to the Training Division | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP2790A | SOP 1-5 Assigned Radio Call Numbers | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP0752A | SOP 10-10 Skills Certification Tracking with LMS | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP4223A | SOP 2-1 Weapon Transactions | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP1349A | SOP 2-10 Central Precinct Range Procedures | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP2667A | SOP 2-18 Lead Hazard Training  Biological | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP3682A | SOP 2-2 Call up Procedure for Weapon Issuance | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP1193A | SOP 2-4 Ammunition Storing and Distribution | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP2014A | SOP 1-1 Training Division SOPs | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP1231A | SOP 2-11 Range Training and Qualification Policies | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP0376A | SOP 2-13 AR-15 Program | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP3595A | SOP 2-14 Assignment, Storage  Inventory | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP3943A | SOP 2-15 HR 218 LE Officers Safety Act of 2004 | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP2852A | SOP 2-16 Training Complex Ranges | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP0338A | SOP 2-5 Service Ammunition Selection  Evaluation | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP3764A | SOP 2-6 Used Service Weapon Sales to Sworn Members | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP0118A | SOP 2-7 Sidearms and Tasers Issued to PFB Arson | Passed | 0.0 | 0.25 |
+| 4/15/2024 | PDP2643A | SOP 2-8 Catastrophic Weapon Failure Procedure | Passed | 0.0 | 0.25 |
 | 4/9/2024 | PDP1640A | D3 Carbine Sharpening | Passed | 0.0 | 16.00 |
 | 2/23/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/23/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |

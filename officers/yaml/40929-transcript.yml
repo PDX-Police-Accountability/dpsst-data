@@ -62,12 +62,132 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 6/10/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP3673A
+  title: SOP 1-15 Division Records Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP1474A
+  title: SOP 1-28 Training Division Take Home Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP2014A
+  title: SOP 1-1 Training Division SOPs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP2516A
+  title: SOP 1-14 Training Division Uniforms
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP0047A
+  title: SOP 1-3 Subpoena Service to the Training Division
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP2790A
+  title: SOP 1-5 Assigned Radio Call Numbers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP0752A
+  title: SOP 10-10 Skills Certification Tracking with LMS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP4223A
+  title: SOP 2-1 Weapon Transactions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP2667A
+  title: SOP 2-18 Lead Hazard Training  Biological
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP3682A
+  title: SOP 2-2 Call up Procedure for Weapon Issuance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP1193A
+  title: SOP 2-4 Ammunition Storing and Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP3935A
+  title: SOP 1-21 Training Division Instructional Design
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP1349A
+  title: SOP 2-10 Central Precinct Range Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP1231A
+  title: SOP 2-11 Range Training and Qualification Policies
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP0376A
+  title: SOP 2-13 AR-15 Program
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP3595A
+  title: SOP 2-14 Assignment, Storage  Inventory
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2024
+  course: PDP2852A
+  title: SOP 2-16 Training Complex Ranges
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/22/2024
   course: PDP3539A
   title: 2024 FTEP New Hire Firearms
   status: Instructed
   score: '0.0'
   hours: '25.00'
+- date: 4/30/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/26/2024
+  course: PDP0338A
+  title: SOP 2-5 Service Ammunition Selection  Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/20/2024
   course: HSU0104A
   title: Spring In-Service 2024 Firearms
@@ -80,6 +200,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 4/6/2024
+  course: PDP0970A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/7/2024
   course: PDP2198A
   title: City of Portland Bloodborne Pathogens

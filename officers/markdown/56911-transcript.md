@@ -34,11 +34,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/21/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/21/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Passed | 0.0 | 60.00 |
 | 5/18/2024 | PDP4422A | Oregon Drug Recognition Expert School Cert. | Passed | 0.0 | 40.00 |
 | 5/3/2024 | OSH1870A | Drug Evaluation  Classification School | Passed | 0.0 | 56.00 |
 | 5/3/2024 | PDP1207A | Oregon Drug Recognition Expert School | Passed | 0.0 | 72.00 |
 | 4/24/2024 | OSH2123A | Drug Evaluation  Classification Pre-School | Passed | 0.0 | 16.00 |
+| 4/6/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 4/2/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/15/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |

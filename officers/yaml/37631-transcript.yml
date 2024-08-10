@@ -82,12 +82,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '22.00'
+- date: 6/20/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/19/2024
   course: OAC0500A
   title: 'Honoring the Badge: Understand/Avoid Ethical Pit'
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/19/2024
+  course: PDP1337A
+  title: SOP 1-19 Instructor Selection Standards
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/18/2024
   course: OAC0055A
   title: Navigating Change Amid Life, Leadership and Loss
@@ -106,6 +118,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 4/11/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2024
+  course: PDP3935A
+  title: SOP 1-21 Training Division Instructional Design
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

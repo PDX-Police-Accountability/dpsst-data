@@ -40,7 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2024 | WBP3185A | Briefing Training - Emergency Medical Response | Passed | 0.0 | 0.50 |
 | 7/23/2024 | WBP2416A | 1st Watch Wellness - Model  Methodology | Passed | 0.0 | 2.50 |
+| 7/3/2024 | WBP2470A | OIS Video Debrief - LAPD SE Area 5/19/24 | Passed | 0.0 | 0.50 |
 | 6/30/2024 | WBP3035A | WPD Quarter 2 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 5/29/2024 | WBP3536A | Officer Survival - Never Give Up the Fight | Passed | 0.0 | 0.50 |
 | 5/15/2024 | WBP2773A | Briefing Training: Active Shooter | Passed | 0.0 | 0.50 |

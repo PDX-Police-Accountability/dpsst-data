@@ -74,24 +74,114 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/13/2024
   course: PDP2536A
   title: 2024 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/27/2024
+  course: PDP1474A
+  title: SOP 1-28 Training Division Take Home Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/27/2024
+  course: PDP2014A
+  title: SOP 1-1 Training Division SOPs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/27/2024
+  course: PDP2516A
+  title: SOP 1-14 Training Division Uniforms
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/27/2024
+  course: PDP3673A
+  title: SOP 1-15 Division Records Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/27/2024
+  course: PDP0047A
+  title: SOP 1-3 Subpoena Service to the Training Division
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/27/2024
+  course: PDP2790A
+  title: SOP 1-5 Assigned Radio Call Numbers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/27/2024
+  course: PDP3935A
+  title: SOP 1-21 Training Division Instructional Design
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/15/2024
   course: PDP2949A
   title: 2024 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/30/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP2643A
+  title: SOP 2-8 Catastrophic Weapon Failure Procedure
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP2852A
+  title: SOP 2-16 Training Complex Ranges
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1349A
+  title: SOP 2-10 Central Precinct Range Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1231A
+  title: SOP 2-11 Range Training and Qualification Policies
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1193A
+  title: SOP 2-4 Ammunition Storing and Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/10/2024
   course: PDP3598A
   title: 2024 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/3/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/13/2024
   course: PDP4432A
   title: 2024 CNT Crisis Negotiation Team Annual Training

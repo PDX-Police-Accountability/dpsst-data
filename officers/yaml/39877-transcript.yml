@@ -44,6 +44,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 4/11/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/19/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

@@ -29,6 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/25/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/15/2024 | PDP2714A | 2024-1 Advanced Academy Law | Passed | 0.0 | 31.00 |
 | 5/15/2024 | PDP0442A | 2024-1 Advanced Academy SVO | Passed | 0.0 | 3.00 |
 | 5/14/2024 | PDP2374A | 2024-1 Advanced Academy Ethics | Passed | 0.0 | 41.50 |
@@ -40,6 +43,7 @@
 | 4/24/2024 | PDP1807A | 2024-1 Advanced Academy Control Tactics | Passed | 0.0 | 63.00 |
 | 4/22/2024 | PDP1936A | 2024-1 Advanced Academy Wellnesss | Passed | 0.0 | 10.50 |
 | 4/18/2024 | PDP2042A | 2024-1 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
+| 4/18/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/25/2024 | PDP3218A | 2024-1 Advanced Academy Crisis Int. Training | Passed | 0.0 | 21.00 |
 | 3/21/2024 | PDP3407A | 2024-1 Advanced Academy Human Traffic | Passed | 0.0 | 2.25 |

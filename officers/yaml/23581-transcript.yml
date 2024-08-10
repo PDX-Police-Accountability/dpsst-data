@@ -56,12 +56,54 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/25/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/25/2024
+  course: PDP2679A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/25/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/20/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/16/2024
   course: PDP0403A
   title: NAMOA Conference
   status: Passed
   score: '0.0'
   hours: '23.00'
+- date: 4/22/2024
+  course: PDP2643A
+  title: SOP 2-8 Catastrophic Weapon Failure Procedure
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1349A
+  title: SOP 2-10 Central Precinct Range Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2024
+  course: PDP1193A
+  title: SOP 2-4 Ammunition Storing and Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/22/2024
   course: PDP4465A
   title: ODOT Police Traffic Safety Conference

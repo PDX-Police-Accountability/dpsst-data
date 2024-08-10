@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 8/7/2024
+  course: OSH4474A
+  title: HTTC - Human Trafficking Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 attribute_records: []
 education_records: []

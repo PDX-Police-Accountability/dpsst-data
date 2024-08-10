@@ -37,6 +37,7 @@
 | 6/24/2024 | BNS1423A | Pursuit Management | Passed | 0.0 | 1.00 |
 | 5/13/2024 | BNS2976A | Breaching, Vehicle pins, High risk veh stops | Passed | 0.0 | 2.00 |
 | 5/13/2024 | BNS4075A | Narcotics recognition and Search and Seizure | Passed | 0.0 | 2.00 |
+| 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 2/22/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/22/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/22/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |

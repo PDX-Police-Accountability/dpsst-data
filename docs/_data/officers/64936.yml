@@ -48,6 +48,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 6/26/2024
+  course: PDP1718A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/26/2024
+  course: PDP3086A
+  title: 2023 Portland Community Justice Partnership  RJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/26/2024
+  course: PDP3372A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/26/2024
+  course: PDP3004A
+  title: 2024-2 TT State v. Wilcox / Civil Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/26/2024
+  course: PDP1834A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/25/2024
   course: PDP2433A
   title: 2024 FTEP Geography
@@ -60,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/25/2024
+  course: PDP3939A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/24/2024
   course: PDP0748A
   title: 2024 FTEP Post DPSST Firearms
