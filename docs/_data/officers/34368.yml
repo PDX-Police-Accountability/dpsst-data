@@ -94,6 +94,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2024
+  course: BNP2615A
+  title: FTO Leadership
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/31/2024
+  course: BNP2615A
+  title: FTO Leadership
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/25/2024
+  course: BNP2615A
+  title: FTO Leadership
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/23/2024
   course: BNP4092A
   title: Control Tactics /Ground Control

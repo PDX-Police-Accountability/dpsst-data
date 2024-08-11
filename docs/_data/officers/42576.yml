@@ -116,6 +116,66 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '20.00'
+- date: 4/26/2024
+  course: PLA2732A
+  title: Infant/Child Fatality Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/26/2024
+  course: PLA3656A
+  title: Trauma Informed Care/Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/25/2024
+  course: PLA1556A
+  title: Practical Forensic Photography
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/25/2024
+  course: PLA3445A
+  title: 'Sex Offenders:  What [.]Professionals Should Know'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/24/2024
+  course: PLA1424A
+  title: Child Abuse Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/24/2024
+  course: PLA1304A
+  title: From Outcry to Conviction
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 4/24/2024
+  course: PLA3988A
+  title: 'Summoned: Why This is More Than A Job'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/23/2024
+  course: PLA1092A
+  title: Suffer From Burnout?  Give 'em the F.I.N.G.E.R.!
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/23/2024
+  course: PLA2333A
+  title: Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 4/23/2024
+  course: PLA0507A
+  title: Small Undercover Operations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/4/2024
   course: PDP1930A
   title: 2024 SERT Training - SCENARIO

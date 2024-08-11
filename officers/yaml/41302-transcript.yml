@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2024
+  course: CMU4526A
+  title: Oregon School Resource Officers Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 6/14/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits

@@ -42,6 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2024 | BNP2615A | FTO Leadership | Instructed | 0.0 | 3.00 |
+| 7/31/2024 | BNP2615A | FTO Leadership | Instructed | 0.0 | 3.00 |
+| 7/25/2024 | BNP2615A | FTO Leadership | Instructed | 0.0 | 2.00 |
 | 5/23/2024 | BNP4092A | Control Tactics /Ground Control | Passed | 0.0 | 1.00 |
 | 3/8/2024 | VND3366A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 2/28/2024 | BNP2971A | Control Tactics | Passed | 0.0 | 1.00 |

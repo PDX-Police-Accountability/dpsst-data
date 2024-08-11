@@ -38,8 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/3/2024 | BNP1141A | Firearms | Passed | 0.0 | 1.25 |
+| 7/25/2024 | BNP2615A | FTO Leadership | Passed | 0.0 | 1.00 |
 | 7/18/2024 | BNP3831A | UAS Training - Thermal Searching, PIX4D, Mapping | Passed | 0.0 | 7.00 |
 | 7/2/2024 | BNP1189A | Building Clearing | Passed | 0.0 | 0.50 |
+| 7/2/2024 | BNP1059A | Building Clearing | Passed | 0.0 | 0.50 |
 | 6/19/2024 | BNP3723A | 40 MM refresher | Passed | 0.0 | 1.00 |
 | 6/19/2024 | BNP0511A | Emergency Vehicle Operation | Passed | 0.0 | 1.00 |
 | 6/19/2024 | BNP0498A | Rescue Task Force | Passed | 0.0 | 1.50 |

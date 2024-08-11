@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/31/2024 | HBP3424A | ODT - Breaching and Distraction Devices | Passed | 0.0 | 1.00 |
 | 6/30/2024 | HBP0978A | Respectful Workplace - Supervisor Trng (Ethics) | Passed | 0.0 | 1.00 |
 | 6/30/2024 | HBP0175A | Respectful Workplace - Supervisor Trng (Ldrshp) | Passed | 0.0 | 1.00 |
 | 5/31/2024 | HBP0527A | PoliceOne HPD Pursuit Intervention Tactics | Passed | 0.0 | 0.50 |

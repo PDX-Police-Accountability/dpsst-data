@@ -49,6 +49,16 @@
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 20.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 20.00 |
+| 4/26/2024 | PLA2732A | Infant/Child Fatality Investigations | Passed | 0.0 | 1.00 |
+| 4/26/2024 | PLA3656A | Trauma Informed Care/Communication | Passed | 0.0 | 1.50 |
+| 4/25/2024 | PLA1556A | Practical Forensic Photography | Passed | 0.0 | 1.00 |
+| 4/25/2024 | PLA3445A | Sex Offenders:  What [.]Professionals Should Know | Passed | 0.0 | 4.00 |
+| 4/24/2024 | PLA1424A | Child Abuse Investigations | Passed | 0.0 | 1.50 |
+| 4/24/2024 | PLA1304A | From Outcry to Conviction | Passed | 0.0 | 1.75 |
+| 4/24/2024 | PLA3988A | Summoned: Why This is More Than A Job | Passed | 0.0 | 1.50 |
+| 4/23/2024 | PLA1092A | Suffer From Burnout?  Give 'em the F.I.N.G.E.R.! | Passed | 0.0 | 1.50 |
+| 4/23/2024 | PLA2333A | Legal Update | Passed | 0.0 | 1.25 |
+| 4/23/2024 | PLA0507A | Small Undercover Operations | Passed | 0.0 | 4.00 |
 | 4/4/2024 | PDP1930A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/21/2024 | PDP2707A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/14/2024 | PDP2935A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |

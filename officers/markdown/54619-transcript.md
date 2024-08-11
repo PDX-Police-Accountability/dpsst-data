@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/31/2024 | HBP3424A | ODT - Breaching and Distraction Devices | Passed | 0.0 | 1.00 |
 | 7/10/2024 | HDA3019A | ONEA Training Institute - Arrest of Chapo | Passed | 0.0 | 4.00 |
 | 7/10/2024 | HDA3017A | ONEA Training Institute - Human Trafficking | Passed | 0.0 | 4.00 |
 | 7/9/2024 | HDA1491A | ONEA Training Institute - General Session | Passed | 0.0 | 4.00 |

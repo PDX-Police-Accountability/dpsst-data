@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/31/2024 | HBP3424A | ODT - Breaching and Distraction Devices | Passed | 0.0 | 1.00 |
 | 6/30/2024 | HBP4110A | Respectful Workplace - Employee Training | Passed | 0.0 | 1.00 |
 | 5/31/2024 | HBP0527A | PoliceOne HPD Pursuit Intervention Tactics | Passed | 0.0 | 0.50 |
 | 5/1/2024 | HBP2826A | Search/Siezure, WIN, HB 4002 | Passed | 0.0 | 4.00 |

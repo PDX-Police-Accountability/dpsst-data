@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/25/2024
+  course: EGP0746A
+  title: SWAT Range Drills - Search Skills
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/25/2024
+  course: EGP1202A
+  title: SWAT Breaching-Search Skills-Tech Deployment
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/23/2024
   course: EGP2902A
   title: AVI Response Training

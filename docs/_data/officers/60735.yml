@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2024
+  course: HDA4214A
+  title: Patrol Officer Response to Street Drugs
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 6/29/2024
   course: PDP3372A
   title: 2024 Safe Training Procedures

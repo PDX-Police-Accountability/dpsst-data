@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2024 | EGP0746A | SWAT Range Drills - Search Skills | Passed | 0.0 | 8.00 |
+| 7/25/2024 | EGP1202A | SWAT Breaching-Search Skills-Tech Deployment | Passed | 0.0 | 9.00 |
 | 5/23/2024 | EGP2902A | AVI Response Training | Passed | 0.0 | 2.50 |
 | 5/23/2024 | EGP3131A | Patrol Breaching Tools  Scenarios | Passed | 0.0 | 2.50 |
 | 5/23/2024 | EGP0755A | San Bernardino, CA Inland Regional Ctr AVI Debrief | Passed | 0.0 | 3.75 |

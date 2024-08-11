@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2024 | HDA4214A | Patrol Officer Response to Street Drugs | Passed | 0.0 | 32.00 |
 | 7/26/2024 | HDA0190A | Basic Narcotics Investigations | Passed | 0.0 | 40.00 |
 | 7/22/2024 | OCS2496A | Basic Narcotics | Passed | 0.0 | 40.00 |
 | 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

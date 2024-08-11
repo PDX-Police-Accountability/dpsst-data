@@ -80,6 +80,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 8/5/2024
+  course: OSH2163A
+  title: Sworn Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/1/2024
+  course: OSH1394A
+  title: Sworn Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 6/3/2024
   course: OSH0055A
   title: Sworn Leadership Training

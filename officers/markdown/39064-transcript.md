@@ -40,6 +40,15 @@
 | 6/8/2024 | TDP4161A | Duty to Intervene 2024 | Passed | 0.0 | 1.00 |
 | 6/1/2024 | TDP2983A | Implicit Bias 2024 | Passed | 0.0 | 1.00 |
 | 5/9/2024 | TDP2098A | Firearms/Use of Force | Passed | 0.0 | 2.50 |
+| 4/26/2024 | PLA2732A | Infant/Child Fatality Investigations | Passed | 0.0 | 1.00 |
+| 4/26/2024 | PLA0025A | Vicarious Trauma | Passed | 0.0 | 1.50 |
+| 4/25/2024 | PLA3895A | Advanced Grooming | Passed | 0.0 | 1.15 |
+| 4/25/2024 | PLA1556A | Practical Forensic Photography | Passed | 0.0 | 1.00 |
+| 4/25/2024 | PLA3445A | Sex Offenders:  What [.]Professionals Should Know | Passed | 0.0 | 4.00 |
+| 4/24/2024 | PLA1304A | From Outcry to Conviction | Passed | 0.0 | 1.75 |
+| 4/24/2024 | PLA3988A | Summoned: Why This is More Than A Job | Passed | 0.0 | 1.50 |
+| 4/23/2024 | PLA1092A | Suffer From Burnout?  Give 'em the F.I.N.G.E.R.! | Passed | 0.0 | 1.50 |
+| 4/23/2024 | PLA2333A | Legal Update | Passed | 0.0 | 1.25 |
 | 4/14/2024 | TDP2900A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 4/6/2024 | TDP0940A | Responding to People with Mental Illness--2024 | Passed | 0.0 | 1.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

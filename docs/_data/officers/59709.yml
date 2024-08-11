@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/3/2024
+  course: BNP1141A
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 7/25/2024
+  course: BNP2615A
+  title: FTO Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/18/2024
   course: BNP3831A
   title: UAS Training - Thermal Searching, PIX4D, Mapping
@@ -51,6 +63,12 @@ training_records:
   hours: '7.00'
 - date: 7/2/2024
   course: BNP1189A
+  title: Building Clearing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/2/2024
+  course: BNP1059A
   title: Building Clearing
   status: Passed
   score: '0.0'

@@ -80,6 +80,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 4/26/2024
+  course: PLA2732A
+  title: Infant/Child Fatality Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/26/2024
+  course: PLA0025A
+  title: Vicarious Trauma
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/25/2024
+  course: PLA3895A
+  title: Advanced Grooming
+  status: Passed
+  score: '0.0'
+  hours: '1.15'
+- date: 4/25/2024
+  course: PLA1556A
+  title: Practical Forensic Photography
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/25/2024
+  course: PLA3445A
+  title: 'Sex Offenders:  What [.]Professionals Should Know'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/24/2024
+  course: PLA1304A
+  title: From Outcry to Conviction
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 4/24/2024
+  course: PLA3988A
+  title: 'Summoned: Why This is More Than A Job'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/23/2024
+  course: PLA1092A
+  title: Suffer From Burnout?  Give 'em the F.I.N.G.E.R.!
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/23/2024
+  course: PLA2333A
+  title: Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 4/14/2024
   course: TDP2900A
   title: Defensive Tactics
