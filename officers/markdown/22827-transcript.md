@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 7/15/2024 | OHSU University Police | Hired | Police Off |  |  |
+| 7/15/2024 | OHSU University Police | Hired | Captain |  |  |
 | 6/20/2024 | Portland Police Bureau | Retired | Dpty Chief |  |  |
 | 9/2/2021 | Portland Police Bureau | Promotion | Dpty Chief |  |  |
 | 1/9/2020 | Portland Police Bureau | Promotion | Asst Chief |  |  |

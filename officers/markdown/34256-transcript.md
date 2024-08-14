@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/12/2024 | BVP3870A | EVOC IST 071224am | Passed | 0.0 | 3.00 |
 | 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/31/2024 | BVP1130A | First Aid and Adult/Child CPR 013124am | Passed | 0.0 | 3.00 |

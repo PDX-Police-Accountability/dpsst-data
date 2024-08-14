@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/6/2024 | PPP3021A | Low Light Firearms Training | Passed | 0.0 | 4.00 |
+| 5/31/2024 | PPP0290A | Expect the Unexpected | Passed | 0.0 | 1.00 |
 | 5/15/2024 | PPP1761A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 4/26/2024 | PPP1683A | K9 Conference | Passed | 0.0 | 40.00 |
 | 3/31/2024 | PPP3048A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |

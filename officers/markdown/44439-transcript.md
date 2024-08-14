@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 10/27/2022 | Portland Police Bureau | Promotion | Sergeant |  |  |
+| 3/17/2022 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 7/8/2004 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/24/2024
+  course: BVP1021A
+  title: EVOC IST 072424am
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/2/2024
   course: BVP0429A
   title: AR Rifle Class
