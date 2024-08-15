@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/9/2024
+  course: 42946A
+  title: 2024 3rd Trimester Survival Skills
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/7/2024
   course: OSH0080A
   title: 2nd Trimester Firearms - Rifle

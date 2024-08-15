@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/25/2023
+  course: LOP3337A
+  title: Taser training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/13/2023
   course: LOP1707A
   title: Firearms Training

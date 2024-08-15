@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 6/27/2024 | VRP3908A | Rifle Qualification and Policy Review | Passed | 0.0 | 4.00 |
 | 6/6/2024 | BPT3631A | RADAR/LIDAR Operator Course | Passed | 0.0 | 8.00 |
 | 6/6/2024 | REG0703A | Radar-Lidar Agency Practical | Passed | 0.0 | 16.00 |

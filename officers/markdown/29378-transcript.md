@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/9/2024 | West Linn Police Department | Resigned | Police Off |  |  |
 | 7/15/2024 | West Linn Police Department | Hired | Police Off |  |  |
 | 10/3/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/2/1996 | Oregon Army National Guard | Resigned | Police Off |  |  |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: 9/18/2025
 training_records:
+- date: 8/12/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
 - date: 6/27/2024
   course: VRP3908A
   title: Rifle Qualification and Policy Review

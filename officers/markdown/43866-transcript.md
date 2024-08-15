@@ -41,8 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/25/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
-| 6/24/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 8/9/2024 | 24-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 6/12/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/11/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 5/17/2024 | PDP0736A | Building Your Leadership Toolbox for Female Ldrs | Passed | 0.0 | 8.00 |
