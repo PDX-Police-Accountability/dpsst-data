@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2024
+  course: MMP4316A
+  title: Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/19/2024
   course: MMP1794A
   title: Calibre Press Online Training Videos, Mar-Apr

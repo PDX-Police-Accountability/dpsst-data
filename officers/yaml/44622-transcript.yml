@@ -63,8 +63,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 8/9/2024
-  course: 42946A
-  title: 2024 3rd Trimester Survival Skills
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '4.00'

@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/6/2024 | PDP0929A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 4/1/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 3/28/2024 | PDP0545A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 24.00 |
 | 3/21/2024 | PDP4366A | CPR/First Aid | Passed | 0.0 | 3.25 |

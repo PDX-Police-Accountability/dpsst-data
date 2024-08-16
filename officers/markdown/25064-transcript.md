@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/8/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 8/7/2024 | MKL2732A | OLCC - CAMP Phase 2 - Amendment Training | Passed | 0.0 | 1.50 |
 | 7/23/2024 | VND0224A | The Importance of Intersectionality | Passed | 0.0 | 0.50 |
 | 7/23/2024 | VND0194A | Results from the Diversity Retention Project | Passed | 0.0 | 1.00 |
 | 7/23/2024 | VND1092A | Diversity return on investment | Passed | 0.0 | 1.50 |

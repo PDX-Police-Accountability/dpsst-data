@@ -69,6 +69,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/7/2024
+  course: MKL2732A
+  title: OLCC - CAMP Phase 2 - Amendment Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/23/2024
   course: VND0224A
   title: The Importance of Intersectionality
