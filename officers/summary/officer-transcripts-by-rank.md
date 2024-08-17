@@ -59,7 +59,6 @@
 | * MISSING | 31017 |  |  |  |  |  | [md](../markdown/31017-transcript.md) - [yaml](../yaml/31017-transcript.yml) |
 | * MISSING | 32393 |  |  |  |  |  | [md](../markdown/32393-transcript.md) - [yaml](../yaml/32393-transcript.yml) |
 | * MISSING | 34055 |  |  |  |  |  | [md](../markdown/34055-transcript.md) - [yaml](../yaml/34055-transcript.yml) |
-| * MISSING | 34916 |  |  |  |  |  | [md](../markdown/34916-transcript.md) - [yaml](../yaml/34916-transcript.yml) |
 | * MISSING | 36610 |  |  |  |  |  | [md](../markdown/36610-transcript.md) - [yaml](../yaml/36610-transcript.yml) |
 | * MISSING | 36717 |  |  |  |  |  | [md](../markdown/36717-transcript.md) - [yaml](../yaml/36717-transcript.yml) |
 | * MISSING | 36905 |  |  |  |  |  | [md](../markdown/36905-transcript.md) - [yaml](../yaml/36905-transcript.yml) |
@@ -682,6 +681,7 @@
 | Maynard, Phillip J. | 34675 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-12-06 | [md](../markdown/34675-transcript.md) - [yaml](../yaml/34675-transcript.yml) |
 | Pryce, Jimmy L. | 34677 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-08-18 | [md](../markdown/34677-transcript.md) - [yaml](../yaml/34677-transcript.yml) |
 | Toops, Mary A. | 34882 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-24 | [md](../markdown/34882-transcript.md) - [yaml](../yaml/34882-transcript.yml) |
+| Porath, Ryan D. | 34916 | Portland Police Bureau | Active | Police Officer | Hired | 2002-01-17 | [md](../markdown/34916-transcript.md) - [yaml](../yaml/34916-transcript.yml) |
 | Persons, Micah D. | 35127 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-03-05 | [md](../markdown/35127-transcript.md) - [yaml](../yaml/35127-transcript.yml) |
 | Fulitano, John A. | 35225 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-06 | [md](../markdown/35225-transcript.md) - [yaml](../yaml/35225-transcript.yml) |
 | Gradwahl, Chad E. | 35226 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-18 | [md](../markdown/35226-transcript.md) - [yaml](../yaml/35226-transcript.yml) |
@@ -915,7 +915,7 @@
 | Ramic, Adi | 51049 | Portland Police Bureau | Active | Police Officer | Hired | 2010-04-01 | [md](../markdown/51049-transcript.md) - [yaml](../yaml/51049-transcript.yml) |
 | Flippo, Zachary R. | 51054 | Portland Police Bureau | Active | Police Officer | Hired | 2010-04-01 | [md](../markdown/51054-transcript.md) - [yaml](../yaml/51054-transcript.yml) |
 | Lehman, Craig F. | 51073 | Portland Police Bureau | Active | Police Officer | Hired | 2012-08-30 | [md](../markdown/51073-transcript.md) - [yaml](../yaml/51073-transcript.yml) |
-| Shelton, Hayley A. | 51155 | Portland Police Bureau | Active | Police Officer | LOA | 2021-06-15 | [md](../markdown/51155-transcript.md) - [yaml](../yaml/51155-transcript.yml) |
+| Shelton, Hayley A. | 51155 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-05-30 | [md](../markdown/51155-transcript.md) - [yaml](../yaml/51155-transcript.yml) |
 | Barth, Dustin L. | 51204 | Portland Police Bureau | Active | Police Officer | Hired | 2015-05-28 | [md](../markdown/51204-transcript.md) - [yaml](../yaml/51204-transcript.yml) |
 | Bryson, Chase N. | 51225 | Portland Police Bureau | Active | Police Officer | Hired | 2011-01-20 | [md](../markdown/51225-transcript.md) - [yaml](../yaml/51225-transcript.yml) |
 | Winter, Justin M. | 51228 | Portland Police Bureau | Active | Police Officer | Hired | 2010-04-01 | [md](../markdown/51228-transcript.md) - [yaml](../yaml/51228-transcript.yml) |

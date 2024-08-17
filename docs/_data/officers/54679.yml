@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/8/2024
+  course: WBP4541A
+  title: Pistol Mounted Optics Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/22/2024
   course: MLP1721A
   title: Red Dot Qualification

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2024 | PDN2967A | Field Applications-Basic Office Safety | Passed | 0.0 | 1.00 |
 | 8/1/2024 | PDN2324A | Disarming Microaggressions | Passed | 0.0 | 1.00 |
 | 7/23/2024 | PDN2247A | Case Management - Working with Resistant Clients | Passed | 0.0 | 1.00 |
 | 7/9/2024 | PDN1808A | Field Applications-Officer Mental Health | Passed | 0.0 | 1.00 |

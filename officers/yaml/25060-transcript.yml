@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/14/2024
+  course: WBP0669A
+  title: 'Critical Incident Debrief: LAPD OIS 6/15/24'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/24/2024
   course: WBP3185A
   title: Briefing Training - Emergency Medical Response

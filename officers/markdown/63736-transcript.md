@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/24/2024 | Police Officer | Basic | App Recd |  |  | 7/19/2024 |
+| 8/15/2024 | Police Officer | Basic | Granted | 8/15/2024 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -29,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 7/22/2024 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 6/24/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/21/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 5/15/2024 | PDP2714A | 2024-1 Advanced Academy Law | Passed | 0.0 | 31.00 |

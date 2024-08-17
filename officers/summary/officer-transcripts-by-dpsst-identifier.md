@@ -560,7 +560,7 @@
 | Carnighan, Lencin F. | 34792 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-07-07 | [md](../markdown/34792-transcript.md) - [yaml](../yaml/34792-transcript.yml) |
 | Nall, Jason M. | 34795 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1999-04-13 | [md](../markdown/34795-transcript.md) - [yaml](../yaml/34795-transcript.yml) |
 | Toops, Mary A. | 34882 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-24 | [md](../markdown/34882-transcript.md) - [yaml](../yaml/34882-transcript.yml) |
-| * MISSING | 34916 |  |  |  |  |  | [md](../markdown/34916-transcript.md) - [yaml](../yaml/34916-transcript.yml) |
+| Porath, Ryan D. | 34916 | Portland Police Bureau | Active | Police Officer | Hired | 2002-01-17 | [md](../markdown/34916-transcript.md) - [yaml](../yaml/34916-transcript.yml) |
 | Wrigley, Nicole R. | 35113 | Portland Police Bureau | Active | Civilian Employee | Hired | 2003-10-23 | [md](../markdown/35113-transcript.md) - [yaml](../yaml/35113-transcript.yml) |
 | McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-01-31 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
 | Persons, Micah D. | 35127 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-03-05 | [md](../markdown/35127-transcript.md) - [yaml](../yaml/35127-transcript.yml) |
@@ -1122,7 +1122,7 @@
 | Ramic, Adi | 51049 | Portland Police Bureau | Active | Police Officer | Hired | 2010-04-01 | [md](../markdown/51049-transcript.md) - [yaml](../yaml/51049-transcript.yml) |
 | Flippo, Zachary R. | 51054 | Portland Police Bureau | Active | Police Officer | Hired | 2010-04-01 | [md](../markdown/51054-transcript.md) - [yaml](../yaml/51054-transcript.yml) |
 | Lehman, Craig F. | 51073 | Portland Police Bureau | Active | Police Officer | Hired | 2012-08-30 | [md](../markdown/51073-transcript.md) - [yaml](../yaml/51073-transcript.yml) |
-| Shelton, Hayley A. | 51155 | Portland Police Bureau | Active | Police Officer | LOA | 2021-06-15 | [md](../markdown/51155-transcript.md) - [yaml](../yaml/51155-transcript.yml) |
+| Shelton, Hayley A. | 51155 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-05-30 | [md](../markdown/51155-transcript.md) - [yaml](../yaml/51155-transcript.yml) |
 | Spangler, Brooks A. | 51194 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2011-02-21 | [md](../markdown/51194-transcript.md) - [yaml](../yaml/51194-transcript.yml) |
 | Barth, Dustin L. | 51204 | Portland Police Bureau | Active | Police Officer | Hired | 2015-05-28 | [md](../markdown/51204-transcript.md) - [yaml](../yaml/51204-transcript.yml) |
 | Bryson, Chase N. | 51225 | Portland Police Bureau | Active | Police Officer | Hired | 2011-01-20 | [md](../markdown/51225-transcript.md) - [yaml](../yaml/51225-transcript.yml) |

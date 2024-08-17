@@ -59,7 +59,6 @@
 | * MISSING | 31017 |  |  |  |  |  | [md](../markdown/31017-transcript.md) - [yaml](../yaml/31017-transcript.yml) |
 | * MISSING | 32393 |  |  |  |  |  | [md](../markdown/32393-transcript.md) - [yaml](../yaml/32393-transcript.yml) |
 | * MISSING | 34055 |  |  |  |  |  | [md](../markdown/34055-transcript.md) - [yaml](../yaml/34055-transcript.yml) |
-| * MISSING | 34916 |  |  |  |  |  | [md](../markdown/34916-transcript.md) - [yaml](../yaml/34916-transcript.yml) |
 | * MISSING | 36610 |  |  |  |  |  | [md](../markdown/36610-transcript.md) - [yaml](../yaml/36610-transcript.yml) |
 | * MISSING | 36717 |  |  |  |  |  | [md](../markdown/36717-transcript.md) - [yaml](../yaml/36717-transcript.yml) |
 | * MISSING | 36905 |  |  |  |  |  | [md](../markdown/36905-transcript.md) - [yaml](../yaml/36905-transcript.yml) |
@@ -1273,6 +1272,7 @@
 | Pontius, Jeffery D. | 32530 | Portland Police Bureau | Active | Detective | Promotion | 2011-11-10 | [md](../markdown/32530-transcript.md) - [yaml](../yaml/32530-transcript.yml) |
 | Pool, Deborah D. | 22571 | Portland Police Bureau | Inactive | Sergeant | Retired | 2015-10-15 | [md](../markdown/22571-transcript.md) - [yaml](../yaml/22571-transcript.yml) |
 | Pool, Michael E. | 29520 | Portland Police Bureau | Active | Sergeant | Promotion | 2007-01-25 | [md](../markdown/29520-transcript.md) - [yaml](../yaml/29520-transcript.yml) |
+| Porath, Ryan D. | 34916 | Portland Police Bureau | Active | Police Officer | Hired | 2002-01-17 | [md](../markdown/34916-transcript.md) - [yaml](../yaml/34916-transcript.yml) |
 | Posey, Darren L. | 29521 | Portland Police Bureau | Inactive | Detective | Retired | 2023-12-06 | [md](../markdown/29521-transcript.md) - [yaml](../yaml/29521-transcript.yml) |
 | Post, Samuel A. | 64976 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64976-transcript.md) - [yaml](../yaml/64976-transcript.yml) |
 | Postula, Kayla H. | 59627 | Portland Police Bureau | Active | Police Officer | Hired | 2019-02-07 | [md](../markdown/59627-transcript.md) - [yaml](../yaml/59627-transcript.yml) |
@@ -1447,7 +1447,7 @@
 | Shearer, Jeffrey G. | 29992 | Portland Police Bureau | Active | Criminalist | Promotion | 2001-08-30 | [md](../markdown/29992-transcript.md) - [yaml](../yaml/29992-transcript.yml) |
 | Sheffer, Kelli D. | 19192 | Portland Police Bureau | Inactive | Commander | Retired | 2018-06-22 | [md](../markdown/19192-transcript.md) - [yaml](../yaml/19192-transcript.yml) |
 | Sheldon, Spencer K. | 36880 | Portland Police Bureau | Active | Police Officer | Hired | 1999-01-21 | [md](../markdown/36880-transcript.md) - [yaml](../yaml/36880-transcript.yml) |
-| Shelton, Hayley A. | 51155 | Portland Police Bureau | Active | Police Officer | LOA | 2021-06-15 | [md](../markdown/51155-transcript.md) - [yaml](../yaml/51155-transcript.yml) |
+| Shelton, Hayley A. | 51155 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-05-30 | [md](../markdown/51155-transcript.md) - [yaml](../yaml/51155-transcript.yml) |
 | Shelton, William C. | 58009 | Portland Police Bureau | Active | Police Officer | Hired | 2017-10-19 | [md](../markdown/58009-transcript.md) - [yaml](../yaml/58009-transcript.yml) |
 | Sheppard, Nathan A. | 46619 | Portland Police Bureau | Active | Lieutenant | Promotion | 2020-03-26 | [md](../markdown/46619-transcript.md) - [yaml](../yaml/46619-transcript.yml) |
 | Sheridan, Timothy M. | 36713 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2003-01-09 | [md](../markdown/36713-transcript.md) - [yaml](../yaml/36713-transcript.yml) |

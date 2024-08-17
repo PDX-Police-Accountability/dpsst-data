@@ -59,7 +59,6 @@
 | * MISSING | 31017 |  |  |  |  |  | [md](../markdown/31017-transcript.md) - [yaml](../yaml/31017-transcript.yml) |
 | * MISSING | 32393 |  |  |  |  |  | [md](../markdown/32393-transcript.md) - [yaml](../yaml/32393-transcript.yml) |
 | * MISSING | 34055 |  |  |  |  |  | [md](../markdown/34055-transcript.md) - [yaml](../yaml/34055-transcript.yml) |
-| * MISSING | 34916 |  |  |  |  |  | [md](../markdown/34916-transcript.md) - [yaml](../yaml/34916-transcript.yml) |
 | * MISSING | 36610 |  |  |  |  |  | [md](../markdown/36610-transcript.md) - [yaml](../yaml/36610-transcript.yml) |
 | * MISSING | 36717 |  |  |  |  |  | [md](../markdown/36717-transcript.md) - [yaml](../yaml/36717-transcript.yml) |
 | * MISSING | 36905 |  |  |  |  |  | [md](../markdown/36905-transcript.md) - [yaml](../yaml/36905-transcript.yml) |
@@ -168,6 +167,7 @@
 | Panter, Colby J. | 34583 | Portland Police Bureau | Active | Police Officer | Hired | 1997-10-24 | [md](../markdown/34583-transcript.md) - [yaml](../yaml/34583-transcript.yml) |
 | Coffey, Kristina M. | 34672 | Portland Police Bureau | Active | Detective | Hired | 2017-07-27 | [md](../markdown/34672-transcript.md) - [yaml](../yaml/34672-transcript.yml) |
 | Toops, Mary A. | 34882 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-24 | [md](../markdown/34882-transcript.md) - [yaml](../yaml/34882-transcript.yml) |
+| Porath, Ryan D. | 34916 | Portland Police Bureau | Active | Police Officer | Hired | 2002-01-17 | [md](../markdown/34916-transcript.md) - [yaml](../yaml/34916-transcript.yml) |
 | Wrigley, Nicole R. | 35113 | Portland Police Bureau | Active | Civilian Employee | Hired | 2003-10-23 | [md](../markdown/35113-transcript.md) - [yaml](../yaml/35113-transcript.yml) |
 | Diaz, Belarmino C. | 35403 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-04-02 | [md](../markdown/35403-transcript.md) - [yaml](../yaml/35403-transcript.yml) |
 | Macaulay, John A. | 35563 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-03 | [md](../markdown/35563-transcript.md) - [yaml](../yaml/35563-transcript.yml) |
@@ -703,7 +703,6 @@
 | Zentner, Davonne R. | 41483 | Portland Police Bureau | Active | Police Officer | LOA | 2022-07-25 | [md](../markdown/41483-transcript.md) - [yaml](../yaml/41483-transcript.yml) |
 | Miller, Huntley J. | 43999 | Portland Police Bureau | Active | Police Officer | LOA | 2022-02-03 | [md](../markdown/43999-transcript.md) - [yaml](../yaml/43999-transcript.yml) |
 | Thurman, Tequila C. | 48256 | Portland Police Bureau | Active | Police Officer | LOA | 2021-02-03 | [md](../markdown/48256-transcript.md) - [yaml](../yaml/48256-transcript.yml) |
-| Shelton, Hayley A. | 51155 | Portland Police Bureau | Active | Police Officer | LOA | 2021-06-15 | [md](../markdown/51155-transcript.md) - [yaml](../yaml/51155-transcript.yml) |
 | Kozawa, Cinda J. | 24580 | Portland Police Bureau | Inactive | Police Officer | Layoff | 2018-02-08 | [md](../markdown/24580-transcript.md) - [yaml](../yaml/24580-transcript.yml) |
 | Park, Paul K. | 29512 | Portland Police Bureau | Inactive | Police Officer | Layoff | 2017-02-23 | [md](../markdown/29512-transcript.md) - [yaml](../yaml/29512-transcript.yml) |
 | Silva, Robert B. | 32114 | Portland Police Bureau | Inactive | Civilian Employee | Layoff | 2019-01-28 | [md](../markdown/32114-transcript.md) - [yaml](../yaml/32114-transcript.yml) |
@@ -1712,6 +1711,7 @@
 | Parker, Neil A., II | 49837 | Portland Police Bureau | Active | Police Officer | Return LOA | 2013-10-04 | [md](../markdown/49837-transcript.md) - [yaml](../yaml/49837-transcript.yml) |
 | Mele, Ryan M. | 50232 | Portland Police Bureau | Active | Police Officer | Return LOA | 2019-12-09 | [md](../markdown/50232-transcript.md) - [yaml](../yaml/50232-transcript.yml) |
 | Hearst, Andrew L. | 50996 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-04-13 | [md](../markdown/50996-transcript.md) - [yaml](../yaml/50996-transcript.yml) |
+| Shelton, Hayley A. | 51155 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-05-30 | [md](../markdown/51155-transcript.md) - [yaml](../yaml/51155-transcript.yml) |
 | Taylor, Brent M. | 51250 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-10-26 | [md](../markdown/51250-transcript.md) - [yaml](../yaml/51250-transcript.yml) |
 | Buck, Joana O. | 52120 | Portland Police Bureau | Active | Sergeant | Return LOA | 2023-04-24 | [md](../markdown/52120-transcript.md) - [yaml](../yaml/52120-transcript.yml) |
 | Green, William D. | 52227 | Portland Police Bureau | Active | Police Officer | Return LOA | 2014-12-20 | [md](../markdown/52227-transcript.md) - [yaml](../yaml/52227-transcript.yml) |
