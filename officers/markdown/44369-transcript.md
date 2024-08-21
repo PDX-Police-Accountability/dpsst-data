@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2024 | STP4091A | Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 5/20/2024 | STP2531A | Firearms Training and Use of Red Dot Training | Passed | 0.0 | 4.00 |
 | 4/20/2024 | STP4181A | Policy Review - Employee Speech, Express, Etc. | Passed | 0.0 | 0.75 |
 | 4/12/2024 | STP0225A | Legal Update | Passed | 0.0 | 1.00 |

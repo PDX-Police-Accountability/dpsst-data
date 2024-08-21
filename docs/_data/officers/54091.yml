@@ -55,6 +55,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 7/29/2024
+  course: PDP1150A
+  title: 2024 AR-15 Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/10/2024
   course: PDP3934A
   title: Red Dot Optic Transition Course

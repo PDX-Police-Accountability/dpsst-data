@@ -38,6 +38,10 @@
 | 4/23/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/17/2024 | GSP2725A | OPCA Spring Seminar - Decoy School | Passed | 0.0 | 32.00 |
 | 4/17/2024 | PDP3633A | OPCA Spring Conference | Passed | 0.0 | 28.00 |
+| 3/28/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
+| 3/28/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
+| 3/28/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |
+| 3/28/2024 | PDP1281A | 2024-1 All Sworn In-Service Taser 7 | Passed | 0.0 | 3.00 |
 | 3/13/2024 | PDP3917A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 3/7/2024 | PDP2761A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 2/27/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

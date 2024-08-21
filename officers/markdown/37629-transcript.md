@@ -55,9 +55,14 @@
 | 4/24/2024 | PDP4547A | SOP 3-5 New Hire Orientation and Training | Passed | 0.0 | 0.25 |
 | 4/24/2024 | PDP0082A | SOP 3-6 Training Prior to Initial Field Assignment | Passed | 0.0 | 0.25 |
 | 4/24/2024 | PDP2468A | SOP 3-9 Advanced Academy Standards | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
+| 4/11/2024 | PDP4233A | 2024-1 All Sworn In-Service PVO/BoxIn | Passed | 0.0 | 1.50 |
+| 4/11/2024 | PDP0063A | 2024-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.50 |
 | 4/9/2024 | PDP2318A | 2024 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 4/4/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/2/2024 | PDP4486A | 2024 FTEP Geography | Instructed | 0.0 | 2.00 |
+| 3/6/2024 | PDP1281A | 2024-1 All Sworn In-Service Taser 7 | Passed | 0.0 | 3.00 |
+| 3/6/2024 | PDP0063A | 2024-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.50 |
 | 2/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/21/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/11/2023 | PDP0228A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |

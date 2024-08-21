@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/23/2024
+  course: PDP2151A
+  title: 2024 Investigator In-Service Case Study
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/20/2024
   course: PDP0307A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

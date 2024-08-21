@@ -41,10 +41,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2024 | OCS3814A | Shield/Low Light/Shoot no Shoot | Instructed | 0.0 | 55.00 |
+| 7/20/2024 | OCS3211A | Shield/Low Light/Shoot-No-Shoot | Passed | 0.0 | 1.00 |
 | 7/11/2024 | OCS2521A | Hades Consulting Pistol/Rifle Training | Passed | 0.0 | 24.00 |
+| 6/24/2024 | OCS4084A | Shooting with Shields | Instructed | 0.0 | 59.00 |
 | 6/21/2024 | OCS3995A | May/June 24 Monthly Firearms/Marksmanship | Instructed | 0.0 | 3.00 |
 | 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
+| 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
 | 5/31/2024 | OCS0728A | May 27 2024 New Hire Firearms | Instructed | 0.0 | 16.00 |
+| 5/24/2024 | OCS1749A | Use of Force Decision Making/Grounded fire | Instructed | 0.0 | 121.00 |
 | 5/21/2024 | OCS3059A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |
 | 5/10/2024 | OCS4026A | May 6th 2024 New Hire Firearms | Instructed | 0.0 | 32.00 |
@@ -56,9 +61,11 @@
 | 4/26/2024 | OCS3866A | March and April 2024 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 4/25/2024 | OCS3042A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 4/24/2024 | OCS0318A | New Rifle Carrier Course | Instructed | 0.0 | 16.00 |
+| 4/24/2024 | OCS2059A | Annual Handgun Qualification | Instructed | 0.0 | 118.00 |
 | 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
 | 4/2/2024 | OCS2183A | July,Aug,Sept 23 and Feb, Mar, April 24 Firearms | Instructed | 0.0 | 6.00 |
 | 3/28/2024 | OCS2583A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
+| 3/24/2024 | OCS0173A | Fundamentals of Marksmanship | Instructed | 0.0 | 75.00 |
 | 3/22/2024 | OCS3372A | Target ID/Positional Shooting/Marksmanship | Instructed | 0.0 | 6.50 |
 | 3/7/2024 | OCS2111A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 3/5/2024 | OCS3704A | March,June,July,August,December Monthly Firearms | Instructed | 0.0 | 5.00 |

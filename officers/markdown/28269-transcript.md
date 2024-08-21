@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2024 | BNP3965A | Control Tactics- Scott V. Vegas update | Passed | 0.0 | 1.00 |
 | 6/18/2024 | BNP3723A | 40 MM refresher | Passed | 0.0 | 1.00 |
 | 6/18/2024 | BNP0511A | Emergency Vehicle Operation | Passed | 0.0 | 1.00 |
 | 6/18/2024 | BNP0091A | Active Threat Response | Passed | 0.0 | 2.50 |

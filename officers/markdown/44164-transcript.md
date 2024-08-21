@@ -66,6 +66,8 @@
 | 4/4/2024 | PDP4073A | SOP 13-3 Peer Support Team (effective 10/5/2023) | Passed | 0.0 | 0.25 |
 | 4/4/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 4/4/2024 | PDP1366A | SOP 1-23 Observation of Training | Passed | 0.0 | 0.25 |
+| 3/6/2024 | PDP1281A | 2024-1 All Sworn In-Service Taser 7 | Passed | 0.0 | 3.00 |
+| 3/6/2024 | PDP0063A | 2024-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.50 |
 | 2/21/2024 | PDP0192A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 10.00 |
 | 2/21/2024 | PDP0192A | 2024 CNT Crisis Negotiation Team Annual Training | Instructed | 0.0 | 10.00 |
 | 1/11/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/29/2024
+  course: PDP1150A
+  title: 2024 AR-15 Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/24/2024
   course: PDP3818A
   title: 2024 K-9 (K9) Weekly Training
@@ -98,6 +104,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 4/22/2024
+  course: PDP1138A
+  title: 2024-1 All Sworn In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/22/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/22/2024
+  course: PDP1595A
+  title: 2024-1 All Sworn In-Service MFF Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/22/2024
+  course: PDP1281A
+  title: 2024-1 All Sworn In-Service Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/10/2024
   course: PDP2202A
   title: 2024 K-9 (K9) Weekly Training

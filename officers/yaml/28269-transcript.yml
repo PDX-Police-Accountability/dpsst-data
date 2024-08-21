@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/13/2024
+  course: BNP3965A
+  title: Control Tactics- Scott V. Vegas update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/18/2024
   course: BNP3723A
   title: 40 MM refresher

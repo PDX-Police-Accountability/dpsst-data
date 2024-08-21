@@ -86,12 +86,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/24/2024
+  course: OCS3814A
+  title: Shield/Low Light/Shoot no Shoot
+  status: Instructed
+  score: '0.0'
+  hours: '55.00'
+- date: 7/20/2024
+  course: OCS3211A
+  title: Shield/Low Light/Shoot-No-Shoot
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/11/2024
   course: OCS2521A
   title: Hades Consulting Pistol/Rifle Training
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 6/24/2024
+  course: OCS4084A
+  title: Shooting with Shields
+  status: Instructed
+  score: '0.0'
+  hours: '59.00'
 - date: 6/21/2024
   course: OCS3995A
   title: May/June 24 Monthly Firearms/Marksmanship
@@ -104,12 +122,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/20/2024
+  course: OCS2501A
+  title: Shooting with Shields
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2024
   course: OCS0728A
   title: May 27 2024 New Hire Firearms
   status: Instructed
   score: '0.0'
   hours: '16.00'
+- date: 5/24/2024
+  course: OCS1749A
+  title: Use of Force Decision Making/Grounded fire
+  status: Instructed
+  score: '0.0'
+  hours: '121.00'
 - date: 5/21/2024
   course: OCS3059A
   title: New Hire Shotgun Orientation
@@ -176,6 +206,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '16.00'
+- date: 4/24/2024
+  course: OCS2059A
+  title: Annual Handgun Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '118.00'
 - date: 4/3/2024
   course: OCS1848A
   title: Ethics- ETHOS training
@@ -194,6 +230,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/24/2024
+  course: OCS0173A
+  title: Fundamentals of Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '75.00'
 - date: 3/22/2024
   course: OCS3372A
   title: Target ID/Positional Shooting/Marksmanship

@@ -48,6 +48,36 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 8/15/2024
+  course: OCS1925A
+  title: Errichment Academy Drugs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/14/2024
+  course: OCS0497A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/8/2024
+  course: OCS1630A
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2024
+  course: OCS0464A
+  title: Wildfire Smoke Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/25/2024
+  course: OCS3337A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/19/2024
   course: M32-20A
   title: Armed Parole and Probation Course
@@ -78,7 +108,11 @@ training_records:
   status: Cancelled
   score: '0.0'
   hours: '0.00'
-attribute_records: []
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/25/2024
+  expiration_date: 7/25/2026
 education_records:
 - date: 3/23/2018
   degree: Bachelor Science

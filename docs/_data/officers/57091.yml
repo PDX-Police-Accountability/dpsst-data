@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/29/2024
+  course: PDP1150A
+  title: 2024 AR-15 Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/4/2024
   course: OCS1184A
   title: Glock Armorer
@@ -62,12 +68,42 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '25.00'
+- date: 5/16/2024
+  course: PDP1138A
+  title: 2024-1 All Sworn In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/16/2024
+  course: PDP1595A
+  title: 2024-1 All Sworn In-Service MFF Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/15/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2024
+  course: PDP1281A
+  title: 2024-1 All Sworn In-Service Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/7/2024
   course: PDP2009A
   title: GLOCK Armorer Course
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/6/2024
+  course: PDP2151A
+  title: 2024 Investigator In-Service Case Study
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/2/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

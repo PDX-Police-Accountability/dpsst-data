@@ -73,6 +73,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/16/2024
+  course: PDP2151A
+  title: 2024 Investigator In-Service Case Study
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/16/2024
+  course: PDP1036A
+  title: 2024 Investigator In-Service Device Warrants
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/16/2024
+  course: PDP4043A
+  title: 2024 Investigator In-Service DFU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/16/2024
+  course: PDP1528A
+  title: 2024 Investigator In-Service Surveillance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/3/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm
@@ -91,6 +115,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/1/2024
+  course: PDP1138A
+  title: 2024-1 All Sworn In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/1/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2024
+  course: PDP1595A
+  title: 2024-1 All Sworn In-Service MFF Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/1/2024
+  course: PDP4233A
+  title: 2024-1 All Sworn In-Service PVO/BoxIn
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/1/2024
+  course: PDP0063A
+  title: 2024-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/4/2024
   course: PDP0270A
   title: 2024 Axon Taser 7 Instructor Course

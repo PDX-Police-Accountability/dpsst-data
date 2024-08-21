@@ -170,6 +170,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/11/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2024
+  course: PDP4233A
+  title: 2024-1 All Sworn In-Service PVO/BoxIn
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/11/2024
+  course: PDP0063A
+  title: 2024-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/9/2024
   course: PDP2318A
   title: 2024 FTEP Geography
@@ -188,6 +206,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 3/6/2024
+  course: PDP1281A
+  title: 2024-1 All Sworn In-Service Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/6/2024
+  course: PDP0063A
+  title: 2024-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/20/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

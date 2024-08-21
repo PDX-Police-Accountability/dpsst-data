@@ -38,18 +38,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/1/2024
+  course: PDP1150A
+  title: 2024 AR-15 Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/2/2024
   course: PDP1358A
   title: 2024-2 Patrol Rifle Operator Course
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 5/24/2024
+  course: PDP1051A
+  title: 2024 AR-15 Instructor In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/19/2024
   course: PDP2721A
   title: 2024-1 Patrol Rifle Operator Course
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 5/9/2024
+  course: PDP1138A
+  title: 2024-1 All Sworn In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/9/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/9/2024
+  course: PDP1595A
+  title: 2024-1 All Sworn In-Service MFF Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/9/2024
+  course: PDP1281A
+  title: 2024-1 All Sworn In-Service Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/4/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

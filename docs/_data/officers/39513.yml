@@ -206,6 +206,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/8/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/8/2024
+  course: PDP1281A
+  title: 2024-1 All Sworn In-Service Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/5/2024
   course: PDP3653A
   title: 2024-1 Range Qual 40mm Less Lethal Qualification

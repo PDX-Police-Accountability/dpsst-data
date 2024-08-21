@@ -44,6 +44,10 @@
 | 5/9/2024 | PDP0552A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 4/25/2024 | PDP3663A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 4/25/2024 | PDP3663A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 6.00 |
+| 4/18/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
+| 4/18/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
+| 4/18/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |
+| 4/18/2024 | PDP1281A | 2024-1 All Sworn In-Service Taser 7 | Passed | 0.0 | 3.00 |
 | 4/17/2024 | GSP4271A | OPCA Spring Seminar - Patrol | Passed | 0.0 | 24.00 |
 | 4/17/2024 | PDP3633A | OPCA Spring Conference | Passed | 0.0 | 28.00 |
 | 4/10/2024 | PDP2202A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |

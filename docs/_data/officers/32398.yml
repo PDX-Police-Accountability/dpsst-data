@@ -92,6 +92,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 5/7/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/7/2024
+  course: PDP4233A
+  title: 2024-1 All Sworn In-Service PVO/BoxIn
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/7/2024
+  course: PDP0063A
+  title: 2024-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/10/2024
   course: PDP3598A
   title: 2024 CNT Crisis Negotiation Team Annual Training
@@ -116,6 +134,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/6/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/6/2024
+  course: PDP1595A
+  title: 2024-1 All Sworn In-Service MFF Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/6/2024
+  course: PDP1281A
+  title: 2024-1 All Sworn In-Service Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/6/2024
+  course: PDP0063A
+  title: 2024-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/23/2024
   course: PDP0335A
   title: 2024 ECIT In-Service

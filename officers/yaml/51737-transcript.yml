@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/25/2024
+  course: PDP1150A
+  title: 2024 AR-15 Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/23/2024
   course: PDP2679A
   title: 2024-3 CAO Legal Updates for BWC
@@ -110,6 +116,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/26/2024
+  course: PDP1138A
+  title: 2024-1 All Sworn In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/26/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/26/2024
+  course: PDP1595A
+  title: 2024-1 All Sworn In-Service MFF Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/26/2024
+  course: PDP4233A
+  title: 2024-1 All Sworn In-Service PVO/BoxIn
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/26/2024
+  course: PDP0063A
+  title: 2024-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/20/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

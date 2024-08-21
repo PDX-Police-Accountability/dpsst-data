@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/10/2024
+  course: PDP1150A
+  title: 2024 AR-15 Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/27/2024
   course: PDP3372A
   title: 2024 Safe Training Procedures
@@ -86,6 +92,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/11/2024
+  course: PDP1138A
+  title: 2024-1 All Sworn In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/11/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2024
+  course: PDP1595A
+  title: 2024-1 All Sworn In-Service MFF Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/11/2024
+  course: PDP4233A
+  title: 2024-1 All Sworn In-Service PVO/BoxIn
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/11/2024
+  course: PDP0063A
+  title: 2024-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/5/2024
   course: F6R2630A
   title: DUII Multi-Disciplinary Task Force

@@ -61,6 +61,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/20/2024
+  course: OCS2501A
+  title: Shooting with Shields
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/20/2024
   course: OCS0967A
   title: Milo
@@ -531,7 +537,7 @@ training_records:
   hours: '2.00'
 - date: 5/3/2022
   course: OCS4479A
-  title: hb 2513 Airway and Circulation
+  title: HB2513 Airway and Circulation
   status: Passed
   score: '0.0'
   hours: '2.00'

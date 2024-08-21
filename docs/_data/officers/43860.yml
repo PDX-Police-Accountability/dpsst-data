@@ -87,6 +87,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/14/2024
+  course: PDP1138A
+  title: 2024-1 All Sworn In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/14/2024
+  course: PDP1595A
+  title: 2024-1 All Sworn In-Service MFF Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/6/2024
+  course: PDP2151A
+  title: 2024 Investigator In-Service Case Study
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/6/2024
+  course: PDP4043A
+  title: 2024 Investigator In-Service DFU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/6/2024
+  course: PDP1528A
+  title: 2024 Investigator In-Service Surveillance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/25/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response
@@ -105,6 +135,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/13/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/13/2024
+  course: PDP1281A
+  title: 2024-1 All Sworn In-Service Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/2/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit

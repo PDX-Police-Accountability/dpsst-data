@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/15/2024
+  course: BNP2553A
+  title: UAS Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 8/3/2024
   course: BNP1141A
   title: Firearms
@@ -103,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 5/17/2024
+  course: BNP3434A
+  title: OPOA FTEP Refresher
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/9/2024
   course: BNP2448A
   title: Domestic Violence Strangulation investigations

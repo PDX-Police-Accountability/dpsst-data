@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/23/2024
+  course: PDS2513A
+  title: Crisis Negotiation Team Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/22/2024
   course: PDS3143A
   title: Corrections Overview

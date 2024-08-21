@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2024 | BNP3965A | Control Tactics- Scott V. Vegas update | Passed | 0.0 | 1.00 |
 | 8/7/2024 | BNP2615A | FTO Leadership | Instructed | 0.0 | 3.00 |
 | 7/31/2024 | BNP2615A | FTO Leadership | Instructed | 0.0 | 3.00 |
 | 7/25/2024 | BNP2615A | FTO Leadership | Instructed | 0.0 | 2.00 |

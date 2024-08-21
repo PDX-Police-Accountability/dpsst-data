@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/15/2024 | BNP2553A | UAS Monthly Training | Passed | 0.0 | 7.50 |
 | 8/3/2024 | BNP1141A | Firearms | Passed | 0.0 | 1.25 |
 | 7/25/2024 | BNP2615A | FTO Leadership | Passed | 0.0 | 1.00 |
 | 7/18/2024 | BNP3831A | UAS Training - Thermal Searching, PIX4D, Mapping | Passed | 0.0 | 7.00 |
@@ -48,6 +49,7 @@
 | 6/19/2024 | BNP0498A | Rescue Task Force | Passed | 0.0 | 1.50 |
 | 6/19/2024 | BNP1481A | Mental Health / Wellness | Passed | 0.0 | 1.00 |
 | 6/19/2024 | BNP0091A | Active Threat Response | Passed | 0.0 | 2.50 |
+| 5/17/2024 | BNP3434A | OPOA FTEP Refresher | Passed | 0.0 | 24.00 |
 | 5/9/2024 | BNP2448A | Domestic Violence Strangulation investigations | Passed | 0.0 | 1.00 |
 | 4/26/2024 | OSH1665A | Basic Detevtive Academy | Passed | 0.0 | 40.00 |
 | 4/16/2024 | BNP4194A | UAS Monthly Training | Passed | 0.0 | 8.00 |

@@ -21,6 +21,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 7/25/2024 | 7/25/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -32,6 +33,11 @@
 | 12/10/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 12/10/2025 | REQAPP | REQUIRED TRAINING: Armed Parole and Probation | Required | 0.0 | 0.00 |
 | 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 8/15/2024 | OCS1925A | Errichment Academy Drugs | Passed | 0.0 | 1.00 |
+| 8/14/2024 | OCS0497A | Firearms Training | Passed | 0.0 | 2.00 |
+| 8/8/2024 | OCS1630A | Firearms Qualification | Passed | 0.0 | 1.00 |
+| 7/31/2024 | OCS0464A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
+| 7/25/2024 | OCS3337A | CPR/First Aid | Passed | 0.0 | 6.00 |
 | 7/19/2024 | M32-20A | Armed Parole and Probation Course | Passed | 0.0 | 80.00 |
 | 6/27/2024 | OCS3568A | Firearms | Passed | 0.0 | 3.00 |
 | 6/25/2024 | OCS2177A | Consim | Passed | 0.0 | 3.00 |

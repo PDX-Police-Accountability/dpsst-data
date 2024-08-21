@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2024 | PDS2513A | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 5/22/2024 | PDS3143A | Corrections Overview | Passed | 0.0 | 6.00 |
 | 5/20/2024 | PDS3034A | May Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 4/16/2024 | PDS0997A | Defensive Tactics | Passed | 0.0 | 4.00 |

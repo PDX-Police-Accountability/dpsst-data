@@ -40,7 +40,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/10/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 5/15/2024 | PDP1992A | 2024-1 All Sworn In-Service Wellness Recording | Passed | 0.0 | 1.00 |
+| 5/15/2024 | PDP4233A | 2024-1 All Sworn In-Service PVO/BoxIn | Passed | 0.0 | 1.50 |
+| 5/14/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
+| 5/14/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |
 | 5/6/2024 | PDP0914A | SOP 5-2 Reintegration Training for Sworn Member | Passed | 0.0 | 0.25 |
+| 5/6/2024 | PDP2151A | 2024 Investigator In-Service Case Study | Passed | 0.0 | 1.00 |
 | 4/25/2024 | PDP1474A | SOP 1-28 Training Division Take Home Vehicles | Passed | 0.0 | 0.25 |
 | 4/25/2024 | PDP3014A | SOP 1-12 Emergency Callback Procedures | Passed | 0.0 | 0.25 |
 | 4/25/2024 | PDP2516A | SOP 1-14 Training Division Uniforms | Passed | 0.0 | 0.25 |
