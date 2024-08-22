@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2024 | PDP3125A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/26/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Instructed | 0.0 | 9.00 |
 | 6/25/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Instructed | 0.0 | 9.00 |

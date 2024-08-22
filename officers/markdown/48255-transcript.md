@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2024 | PDP3854A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 36.00 |
 | 4/28/2024 | PDP2643A | SOP 2-8 Catastrophic Weapon Failure Procedure | Passed | 0.0 | 0.25 |
 | 4/28/2024 | PDP2852A | SOP 2-16 Training Complex Ranges | Passed | 0.0 | 0.25 |
 | 4/28/2024 | PDP1231A | SOP 2-11 Range Training and Qualification Policies | Passed | 0.0 | 0.25 |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/4/2024
+  course: PDP3223A
+  title: 2024 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/30/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

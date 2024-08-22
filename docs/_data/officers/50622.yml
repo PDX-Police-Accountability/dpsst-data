@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/13/2024
+  course: OCP1219A
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/25/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

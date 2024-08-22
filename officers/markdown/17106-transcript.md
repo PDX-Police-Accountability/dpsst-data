@@ -47,9 +47,16 @@
 | 4/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 3/20/2024 | PDA0422A | Defensive Tactics / Use of Force | Passed | 0.0 | 3.00 |
 | 3/1/2024 | PDA3432A | Use of Radio Communications | Passed | 0.0 | 1.00 |
+| 2/6/2024 | F1527553 | Domestic Violence LE Training | Passed | 0.0 | 4.00 |
+| 1/27/2024 | F1527384 | First Aid/BLS/CPR/AED | Passed | 0.0 | 6.00 |
+| 1/11/2024 | F1515156 | Saving Lives with Naloxone | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDA3294A | 2023 Annual Firearms Training  Qualification | Passed | 0.0 | 4.00 |
 | 12/12/2023 | PDA4233A | Use of Force | Passed | 0.0 | 3.00 |
 | 12/12/2023 | PDA0372A | Securus Investigation Training | Passed | 0.0 | 3.00 |
+| 10/11/2023 | F1519171 | Intellectual Property Theft | Passed | 0.0 | 7.00 |
+| 9/19/2023 | F1519634 | Narcan Nasal Spray | Passed | 0.0 | 0.25 |
+| 8/11/2023 | F1538494 | BWC  Evidence.com | Passed | 0.0 | 1.00 |
+| 6/8/2023 | F1533739 | Juvenile Prosecution 101 CLE | Passed | 0.0 | 1.00 |
 | 4/21/2023 | 23-0009 | DPSST Basic Police COD | Passed | 0.0 | 80.00 |
 | 2/2/2022 | PDA2036A | Basic First Aid and Basic Life Support | Passed | 0.0 | 8.00 |
 | 8/26/2019 | PDP02916 | 2019 CHO SPLC Law Enforce Response to Hate Events | Passed | 0.0 | 0.25 |

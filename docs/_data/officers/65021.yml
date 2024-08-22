@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/12/2024
+  course: PDP0006A
+  title: 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/7/2024
+  course: PDP4175A
+  title: 2024 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/6/2024
   course: PDP0929A
   title: WMD/Terrorism Awareness for Emergency Respndrs

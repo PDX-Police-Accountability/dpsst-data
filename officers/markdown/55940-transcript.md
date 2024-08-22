@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2024 | PDP3854A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 36.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/16/2024 | PDP2185A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/14/2024 | HBS1256A | TNT - Night Vision Operations | Passed | 0.0 | 8.00 |

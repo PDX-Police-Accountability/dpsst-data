@@ -116,6 +116,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/6/2024
+  course: F1527553
+  title: Domestic Violence LE Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/27/2024
+  course: F1527384
+  title: First Aid/BLS/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/11/2024
+  course: F1515156
+  title: Saving Lives with Naloxone
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/15/2023
   course: PDA3294A
   title: 2023 Annual Firearms Training  Qualification
@@ -134,6 +152,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/11/2023
+  course: F1519171
+  title: Intellectual Property Theft
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/19/2023
+  course: F1519634
+  title: Narcan Nasal Spray
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/11/2023
+  course: F1538494
+  title: BWC  Evidence.com
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/8/2023
+  course: F1533739
+  title: Juvenile Prosecution 101 CLE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/21/2023
   course: 23-0009
   title: DPSST Basic Police COD

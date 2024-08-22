@@ -30,12 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/7/2024
+  course: PDP4175A
+  title: 2024 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/6/2024
   course: PDP0929A
   title: WMD/Terrorism Awareness for Emergency Respndrs
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 8/1/2024
+  course: PDP2951A
+  title: 2024 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
 - date: 6/25/2024
   course: REG4286A
   title: DID-SFST (Hours included in Basic)

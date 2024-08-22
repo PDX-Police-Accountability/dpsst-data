@@ -93,6 +93,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 8/15/2024
+  course: LOP2738A
+  title: General Pacific FAA Part 107 Remote Pilot
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 5/30/2024
   course: LOP1938A
   title: Handgun Optic Transition Course

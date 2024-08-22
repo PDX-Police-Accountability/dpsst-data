@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/31/2024 | PDP1493A | 2024 UAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 6/30/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/30/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/30/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |

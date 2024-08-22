@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/25/2024
+  course: PDP3854A
+  title: 2024 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 4/28/2024
   course: PDP2643A
   title: SOP 2-8 Catastrophic Weapon Failure Procedure

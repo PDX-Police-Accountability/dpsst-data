@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2024
+  course: PDP1493A
+  title: 2024 UAS Training for Traffic Division
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/25/2024
   course: PDP3372A
   title: 2024 Safe Training Procedures

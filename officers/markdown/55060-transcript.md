@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2024 | PDP0006A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Instructed | 0.0 | 4.00 |
 | 7/17/2024 | PDP0128A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/10/2024 | PDP1969A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/3/2024 | PDP3971A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

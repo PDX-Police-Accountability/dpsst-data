@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 12/2/2027
   probation_date: ''
 training_records:
+- date: 8/4/2024
+  course: PDP3223A
+  title: 2024 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/14/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits

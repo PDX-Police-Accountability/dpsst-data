@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/1/2024
+  course: PDP3125A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/25/2024
+  course: PDP3854A
+  title: 2024 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 7/3/2024
   course: PDP1223A
   title: 2024 SERT Training - Scenario
