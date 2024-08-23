@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/21/2024
+  course: PDP1427A
+  title: ALERRT Active Shooter Response Level 1
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/14/2024
   course: PDP1036A
   title: 2024 Investigator In-Service Device Warrants

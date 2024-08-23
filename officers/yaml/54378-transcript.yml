@@ -63,12 +63,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/18/2024
+  course: PDP3398A
+  title: NATIA Annual Training Conf  Tech Exhibit
+  status: Passed
+  score: '0.0'
+  hours: '24.50'
 - date: 6/28/2024
   course: PDP2550A
   title: Tech. Installations in High Voltage Environment
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 6/28/2024
+  course: PDP4171A
+  title: Tech. Installations in High Voltage Environment
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 6/19/2024
   course: PDP1150A
   title: 2024 AR-15 Operator In-Service

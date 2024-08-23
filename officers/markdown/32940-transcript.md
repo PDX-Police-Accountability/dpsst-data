@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/28/2024 | PDP2550A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 40.00 |
+| 6/28/2024 | PDP4171A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 36.00 |
 | 5/9/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 5/9/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
 | 5/9/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |

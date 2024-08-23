@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2024 | PDP2023A | ONEA Training Institute | Passed | 0.0 | 16.00 |
 | 7/10/2024 | HDA3626A | ONEA Training Institute - Dirty MSB Case Study | Passed | 0.0 | 4.00 |
 | 7/9/2024 | HDA1491A | ONEA Training Institute - General Session | Passed | 0.0 | 4.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

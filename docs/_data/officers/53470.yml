@@ -146,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/11/2024
+  course: PDP0885A
+  title: IVAT Int'l Summit on Violence, Abuse  Trauma
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 3/13/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm
@@ -158,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/13/2024
+  course: PDP4165A
+  title: Oregon DOJ Elder Justice Initiative
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 2/6/2024
   course: PDP3315A
   title: Domestic Violence Law Enforcement Training

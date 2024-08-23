@@ -39,7 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2024 | PDP3398A | NATIA Annual Training Conf  Tech Exhibit | Passed | 0.0 | 24.50 |
 | 6/28/2024 | PDP2550A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 40.00 |
+| 6/28/2024 | PDP4171A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 36.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/21/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |

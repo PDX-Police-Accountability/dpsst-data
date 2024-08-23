@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 6/28/2024
+  course: PDP4171A
+  title: Tech. Installations in High Voltage Environment
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 5/9/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms

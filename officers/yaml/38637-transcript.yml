@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/11/2024
+  course: PDP2023A
+  title: ONEA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/10/2024
   course: HDA3626A
   title: ONEA Training Institute - Dirty MSB Case Study

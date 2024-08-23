@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/11/2024
+  course: PDP2023A
+  title: ONEA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 7/9/2024
   course: HDA1491A
   title: ONEA Training Institute - General Session

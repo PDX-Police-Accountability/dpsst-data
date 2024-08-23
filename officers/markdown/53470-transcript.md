@@ -51,8 +51,10 @@
 | 5/7/2024 | PDP4233A | 2024-1 All Sworn In-Service PVO/BoxIn | Passed | 0.0 | 1.50 |
 | 5/7/2024 | PDP0063A | 2024-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.50 |
 | 4/11/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP0885A | IVAT Int'l Summit on Violence, Abuse  Trauma | Passed | 0.0 | 23.50 |
 | 3/13/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/13/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
+| 3/13/2024 | PDP4165A | Oregon DOJ Elder Justice Initiative | Passed | 0.0 | 6.00 |
 | 2/6/2024 | PDP3315A | Domestic Violence Law Enforcement Training | Passed | 0.0 | 4.00 |
 | 1/4/2024 | PVS0854A | Good Leaders Ask Great Questions | Passed | 0.0 | 8.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

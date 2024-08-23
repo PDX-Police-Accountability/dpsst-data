@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/11/2024
+  course: PDP2023A
+  title: ONEA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 7/10/2024
   course: HDA3626A
   title: ONEA Training Institute - Dirty MSB Case Study
