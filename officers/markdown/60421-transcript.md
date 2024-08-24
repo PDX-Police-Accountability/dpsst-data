@@ -21,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/30/2021 | Police Officer | Advanced | Granted-UR | 6/30/2021 |  |  |
-| 6/30/2021 | Police Officer | Intermediate | Granted-UR | 6/30/2021 |  |  |
-| 1/28/2021 | Police Officer | Basic | Granted-UR | 1/28/2021 |  |  |
+| 6/30/2021 | Police Officer | Advanced | Granted | 6/30/2021 |  |  |
+| 6/30/2021 | Police Officer | Intermediate | Granted | 6/30/2021 |  |  |
+| 1/28/2021 | Police Officer | Basic | Granted | 1/28/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -46,13 +46,36 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/8/2024 | F1540945 | How Team Dynamics Impact Perform. | Passed | 0.0 | 1.00 |
+| 8/1/2024 | F1516435 | Firearms Training | Passed | 0.0 | 4.00 |
+| 7/11/2024 | F1500532 | Self Awareness as Predic. for Success | Passed | 0.0 | 1.00 |
+| 7/2/2024 | F1522517 | Resilience in Law Enforcement | Passed | 0.0 | 1.00 |
 | 6/7/2024 | F1526573 | Firearms | Passed | 0.0 | 3.00 |
 | 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |
 | 3/6/2024 | SPP0424A | Control Tactics - Physical Apprehension Techniques | Passed | 0.0 | 4.00 |
 | 2/15/2024 | SPP1569A | Forensic Intensive Treatment Team (F.I.T.T.) | Passed | 0.0 | 0.50 |
+| 2/1/2024 | F1525689 | Western States Public Order Confer. | Passed | 0.0 | 10.00 |
+| 1/31/2024 | F1529575 | Western States Public Order Confer. | Passed | 0.0 | 10.00 |
+| 1/30/2024 | F1502499 | Western States Public Order Conf. | Passed | 0.0 | 10.00 |
+| 1/29/2024 | F1533706 | Western States Public Order Conf. | Passed | 0.0 | 10.00 |
 | 1/8/2024 | SPP1739A | Legal Update - Lane County DA | Passed | 0.0 | 4.00 |
 | 12/12/2023 | SPP4259A | Use of Force Policy Review | Passed | 0.0 | 3.50 |
 | 11/14/2023 | SPP3540A | Presidia Gel training | Passed | 0.0 | 1.00 |
+| 10/17/2023 | F1503805 | Do You Wany Relief or a Cure? | Passed | 0.0 | 1.25 |
+| 10/16/2023 | F1536826 | Current Issues in Police Psychology | Passed | 0.0 | 2.00 |
+| 10/16/2023 | F1524784 | Handling Cop Criticism | Passed | 0.0 | 1.00 |
+| 10/16/2023 | F1505783 | Leader's Guide to Recruitment | Passed | 0.0 | 1.00 |
+| 10/16/2023 | F1545279 | Social Media for LE | Passed | 0.0 | 1.00 |
+| 10/15/2023 | F1509548 | Building  Sustaining LE Family | Passed | 0.0 | 1.25 |
+| 10/15/2023 | F1522527 | Does Psych Testing Distinguish the Bad | Passed | 0.0 | 1.00 |
+| 10/15/2023 | F1515382 | Stay Engage  Retain the Workforce | Passed | 0.0 | 1.25 |
+| 10/15/2023 | F1528471 | Systems Approach to Managing Police | Passed | 0.0 | 1.00 |
+| 10/15/2023 | F1509854 | Before the Badge | Passed | 0.0 | 1.00 |
+| 10/14/2023 | F1500127 | Moral Injury, Ethical Challenges | Passed | 0.0 | 1.00 |
+| 10/14/2023 | F1515294 | From Protest to Policy | Passed | 0.0 | 1.00 |
+| 10/14/2023 | F1513663 | General Assembly | Passed | 0.0 | 1.50 |
+| 10/14/2023 | F1532709 | Leading your Leaders | Passed | 0.0 | 1.00 |
+| 10/14/2023 | F1511371 | Trust  Empowermeing Victims | Passed | 0.0 | 1.00 |
 | 10/10/2023 | SPP3705A | De-escalation | Passed | 0.0 | 2.00 |
 | 9/8/2023 | F1516640 | Range | Passed | 0.0 | 2.00 |
 | 9/6/2023 | SPP4420A | Background Investigations | Passed | 0.0 | 3.00 |

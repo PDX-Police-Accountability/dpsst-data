@@ -119,6 +119,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/8/2024
+  course: F1540945
+  title: How Team Dynamics Impact Perform.
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/1/2024
+  course: F1516435
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/11/2024
+  course: F1500532
+  title: Self Awareness as Predic. for Success
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/2/2024
+  course: F1522517
+  title: Resilience in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/7/2024
   course: F1526573
   title: Firearms
@@ -143,6 +167,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/1/2024
+  course: F1525689
+  title: Western States Public Order Confer.
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/31/2024
+  course: F1529575
+  title: Western States Public Order Confer.
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/30/2024
+  course: F1502499
+  title: Western States Public Order Conf.
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/29/2024
+  course: F1533706
+  title: Western States Public Order Conf.
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/8/2024
   course: SPP1739A
   title: Legal Update - Lane County DA
@@ -158,6 +206,96 @@ training_records:
 - date: 11/14/2023
   course: SPP3540A
   title: Presidia Gel training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2023
+  course: F1503805
+  title: Do You Wany Relief or a Cure?
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/16/2023
+  course: F1536826
+  title: Current Issues in Police Psychology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/16/2023
+  course: F1524784
+  title: Handling Cop Criticism
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: F1505783
+  title: Leader's Guide to Recruitment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: F1545279
+  title: Social Media for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/15/2023
+  course: F1509548
+  title: Building  Sustaining LE Family
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/15/2023
+  course: F1522527
+  title: Does Psych Testing Distinguish the Bad
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/15/2023
+  course: F1515382
+  title: Stay Engage  Retain the Workforce
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/15/2023
+  course: F1528471
+  title: Systems Approach to Managing Police
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/15/2023
+  course: F1509854
+  title: Before the Badge
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2023
+  course: F1500127
+  title: Moral Injury, Ethical Challenges
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2023
+  course: F1515294
+  title: From Protest to Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2023
+  course: F1513663
+  title: General Assembly
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/14/2023
+  course: F1532709
+  title: Leading your Leaders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2023
+  course: F1511371
+  title: Trust  Empowermeing Victims
   status: Passed
   score: '0.0'
   hours: '1.00'
