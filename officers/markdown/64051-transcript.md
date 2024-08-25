@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/13/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/12/2024 | NGP2357A | Patrol Rifle Training | Passed | 0.0 | 3.00 |
 | 6/27/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/27/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/27/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |

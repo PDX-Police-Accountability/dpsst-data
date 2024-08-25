@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/23/2024
+  course: PDP1688A
+  title: 19th Annual Conference on Crimes Against Women
+  status: Passed
+  score: '0.0'
+  hours: '19.50'
 - date: 5/16/2024
   course: PDP2151A
   title: 2024 Investigator In-Service Case Study

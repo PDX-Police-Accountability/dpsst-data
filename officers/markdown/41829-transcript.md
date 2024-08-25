@@ -40,6 +40,7 @@
 | 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 5/23/2024 | PDP1688A | 19th Annual Conference on Crimes Against Women | Passed | 0.0 | 19.50 |
 | 5/16/2024 | PDP2151A | 2024 Investigator In-Service Case Study | Passed | 0.0 | 2.00 |
 | 5/16/2024 | PDP1036A | 2024 Investigator In-Service Device Warrants | Passed | 0.0 | 2.00 |
 | 5/16/2024 | PDP4043A | 2024 Investigator In-Service DFU | Passed | 0.0 | 2.00 |

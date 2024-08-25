@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/19/2024
+  course: GLP4205A
+  title: Fall 2024 - Rifle  Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/30/2024
   course: GLP2393A
   title: Lexipol Training Bulletin Custody and Detention

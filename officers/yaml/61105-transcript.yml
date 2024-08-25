@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 7/12/2024
+  course: NGP2357A
+  title: Patrol Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/30/2024
   course: NGP2004A
   title: Foundations in Ethics for Law Enforcement

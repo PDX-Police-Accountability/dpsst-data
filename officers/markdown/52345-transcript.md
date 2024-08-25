@@ -38,6 +38,7 @@
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2024 | PDP1257A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/13/2024 | PDP3208A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 5/30/2024 | PDP3654A | Behavioral Threat Assessment Team Training | Passed | 0.0 | 16.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/18/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

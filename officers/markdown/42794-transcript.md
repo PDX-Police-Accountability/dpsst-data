@@ -41,7 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/24/2024 | OCS3814A | Shield/Low Light/Shoot no Shoot | Instructed | 0.0 | 55.00 |
+| 7/24/2024 | OCS3814A | Shield/Low Light/Shoot No Shoot | Instructed | 0.0 | 55.00 |
 | 7/20/2024 | OCS3211A | Shield/Low Light/Shoot-No-Shoot | Passed | 0.0 | 1.00 |
 | 7/11/2024 | OCS2521A | Hades Consulting Pistol/Rifle Training | Passed | 0.0 | 24.00 |
 | 6/24/2024 | OCS4084A | Shooting with Shields | Instructed | 0.0 | 59.00 |
@@ -49,7 +49,7 @@
 | 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
 | 5/31/2024 | OCS0728A | May 27 2024 New Hire Firearms | Instructed | 0.0 | 16.00 |
-| 5/24/2024 | OCS1749A | Use of Force Decision Making/Grounded fire | Instructed | 0.0 | 121.00 |
+| 5/24/2024 | OCS1749A | Use of Force Decision Making/Grounded Fire | Instructed | 0.0 | 121.00 |
 | 5/21/2024 | OCS3059A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |
 | 5/10/2024 | OCS4026A | May 6th 2024 New Hire Firearms | Instructed | 0.0 | 32.00 |

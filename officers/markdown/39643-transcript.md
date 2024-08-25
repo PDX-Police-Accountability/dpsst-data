@@ -38,7 +38,7 @@
 | 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
 | 8/1/2024 | REG3810A | DT Striking Defense/Ground Control | Passed | 0.0 | 1.00 |
 | 7/22/2024 | REG2655A | DT | Passed | 0.0 | 1.00 |
-| 7/11/2024 | REG0597A | DT GROUND CONTROL | Passed | 0.0 | 1.00 |
+| 7/11/2024 | REG0597A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 7/8/2024 | REG3252A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 7/1/2024 | REG3883A | DT | Passed | 0.0 | 1.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
