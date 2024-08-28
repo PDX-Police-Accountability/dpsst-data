@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/19/2024
+  course: GLP3228A
+  title: Prone Subject Control and Cuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/30/2024
   course: GLP2393A
   title: Lexipol Training Bulletin Custody and Detention

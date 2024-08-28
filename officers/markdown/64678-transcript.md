@@ -31,6 +31,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/30/2024 | PLS2469A | PLS 2024 Les 5 Teen Found in the Woods | Passed | 0.0 | 1.00 |
+| 6/30/2024 | PLS1965A | PLS 2024 Les 6 Robbery at Gunpoint | Passed | 0.0 | 1.00 |
 | 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/21/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/12/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |

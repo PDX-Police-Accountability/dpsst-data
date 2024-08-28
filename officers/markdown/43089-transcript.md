@@ -51,6 +51,7 @@
 | 6/25/2024 | REG1938A | Regional Patrol Rifle IC | Instructed | 0.0 | 30.00 |
 | 6/19/2024 | LGS3807A | Patrol Firearms Training | Passed | 0.0 | 4.00 |
 | 6/12/2024 | LGS3166A | Cell Extractions | Passed | 0.0 | 3.00 |
+| 6/1/2024 | LGS0500A | Anti-Bias Training for L.E. | Passed | 0.0 | 1.00 |
 | 5/13/2024 | REG1400A | Handgun IDC | Instructed | 0.0 | 10.00 |
 | 1/24/2024 | LGS4174A | Radio Communications | Passed | 0.0 | 1.00 |
 | 12/13/2023 | LGS3964A | Instructor Development leadership/planning | Instructed | 0.0 | 1.00 |

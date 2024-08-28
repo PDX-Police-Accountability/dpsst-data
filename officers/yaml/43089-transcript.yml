@@ -148,6 +148,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/1/2024
+  course: LGS0500A
+  title: Anti-Bias Training for L.E.
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/13/2024
   course: REG1400A
   title: Handgun IDC

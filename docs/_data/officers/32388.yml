@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/16/2024
+  course: GSP4545A
+  title: AR15/M4 Armorer Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/4/2024
   course: PDS1043A
   title: Domestic Terrorism Investigations
@@ -182,6 +188,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 11/6/2023
+  course: GSP2895A
+  title: 'Ethics: Managing ... Conflicts of Interest'
+  status: Passed
+  score: '0.0'
+  hours: '1.17'
 - date: 10/27/2023
   course: GSP0625A
   title: Barricaded Incident Debrief

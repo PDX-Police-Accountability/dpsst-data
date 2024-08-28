@@ -59,6 +59,7 @@
 | 6/8/2023 | PPP1749A | Wellness and Nutrition | Passed | 0.0 | 1.00 |
 | 4/30/2023 | PPP3551A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
 | 1/24/2023 | PPP31877 | Annual Firearms Qualifications and Training | Passed | 0.0 | 4.00 |
+| 1/24/2023 | PPP0919A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/31/2022 | PPP35492 | Emotional Intelligence | Passed | 0.0 | 2.00 |
 | 10/31/2022 | PPP25478 | Active Shooter Phases and Prevention | Passed | 0.0 | 1.00 |
 | 10/31/2022 | PPP4265A | Use of Force Situations | Passed | 0.0 | 1.00 |

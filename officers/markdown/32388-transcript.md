@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2024 | GSP4545A | AR15/M4 Armorer Course | Passed | 0.0 | 16.00 |
 | 6/4/2024 | PDS1043A | Domestic Terrorism Investigations | Passed | 0.0 | 2.00 |
 | 5/21/2024 | GSP1545A | Glock Armorer's Course | Passed | 0.0 | 8.00 |
 | 4/16/2024 | GSP2530A | High-Risk Explosives Sweep | Passed | 0.0 | 1.50 |
@@ -57,6 +58,7 @@
 | 11/17/2023 | GSP4226A | SWAT Sniper Firearms Range | Instructed | 0.0 | 10.00 |
 | 11/16/2023 | GSP1735A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 11/15/2023 | GSP0416A | SWAT Firearms Range | Instructed | 0.0 | 10.00 |
+| 11/6/2023 | GSP2895A | Ethics: Managing ... Conflicts of Interest | Passed | 0.0 | 1.17 |
 | 10/27/2023 | GSP0625A | Barricaded Incident Debrief | Passed | 0.0 | 4.00 |
 | 10/26/2023 | GSP1671A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |
 | 10/25/2023 | GSP4221A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |

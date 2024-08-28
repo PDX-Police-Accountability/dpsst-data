@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/24/2024
+  course: STP2027A
+  title: Active Shooter Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/5/2024
   course: STP4091A
   title: Firearms Qualification and Training

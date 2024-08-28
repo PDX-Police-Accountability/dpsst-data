@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/30/2024
+  course: PLS2469A
+  title: PLS 2024 Les 5 Teen Found in the Woods
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2024
+  course: PLS1965A
+  title: PLS 2024 Les 6 Robbery at Gunpoint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/25/2024
   course: PDP3372A
   title: 2024 Safe Training Procedures

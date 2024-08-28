@@ -47,6 +47,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/22/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2024 | PPP1962A | Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
+| 7/29/2024 | PPP0690A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/24/2024 | PPP0250A | RDS Firearm Training | Passed | 0.0 | 16.00 |
 | 5/8/2024 | PPP1446A | ALEAN Spring Conference | Passed | 0.0 | 16.00 |

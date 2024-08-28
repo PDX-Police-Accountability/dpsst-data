@@ -194,6 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/24/2023
+  course: PPP0919A
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2022
   course: PPP35492
   title: Emotional Intelligence

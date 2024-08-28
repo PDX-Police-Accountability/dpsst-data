@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/19/2024 | GLP4205A | Fall 2024 - Rifle  Handgun Training | Passed | 0.0 | 3.00 |
+| 8/19/2024 | GLP3228A | Prone Subject Control and Cuffing | Passed | 0.0 | 1.00 |
 | 6/30/2024 | GLP2393A | Lexipol Training Bulletin Custody and Detention | Passed | 0.0 | 0.50 |
 | 6/30/2024 | GLP0224A | Lexipol Training Bulletin Personnel/Wellness | Passed | 0.0 | 0.50 |
 | 6/30/2024 | GLP2405A | Lexipol Training Bulletin Investigations | Passed | 0.0 | 0.75 |

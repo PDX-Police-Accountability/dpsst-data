@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2027 | GSP4457A | Responding to an Unexplained Child Death | Passed | 0.0 | 7.00 |
+| 7/31/2024 | GSP0912A | Intro Ext Verifiable Info in Forensic Interview | Passed | 0.0 | 1.50 |
+| 6/27/2024 | GSP2234A | Inside the Tape-Homicide Investigations | Passed | 0.0 | 18.50 |
 | 5/10/2024 | GSP1531A | Washington Homicide Investigators Association 2024 | Passed | 0.0 | 20.00 |
 | 5/2/2024 | GSP0672A | Finding the Leader in You | Passed | 0.0 | 5.00 |
 | 4/16/2024 | GSP1655A | Handgun In-InService | Instructed | 0.0 | 10.00 |
