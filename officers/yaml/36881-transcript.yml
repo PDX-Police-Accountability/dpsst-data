@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/14/2024
+  course: SAG2271A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/11/2024
   course: SAG3574A
   title: Firearms training

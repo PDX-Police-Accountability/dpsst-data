@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2024 | SAG3615A | ICAC 101 | Instructed | 0.0 | 8.00 |
+| 8/14/2024 | SAG2271A | Firearms training | Instructed | 0.0 | 3.00 |
 | 8/7/2024 | OSH4474A | HTTC - Human Trafficking Training | Passed | 0.0 | 16.00 |
 | 7/31/2024 | SAG0001A | Cybertip Triage and Open Source Intelligence | Passed | 0.0 | 8.00 |
 | 7/30/2024 | SAG0293A | Cybertip Triage and Open Source Intelligence | Passed | 0.0 | 8.00 |

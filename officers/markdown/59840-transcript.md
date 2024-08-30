@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/3/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 8/27/2024 | TRN1117A | Sanctions and Incentives Grid Training | Passed | 0.0 | 1.00 |
 | 8/15/2024 | OCS1925A | Errichment Academy Drugs | Passed | 0.0 | 1.00 |
 | 8/8/2024 | OCS4123A | LS/CMI Basic | Passed | 0.0 | 12.00 |
 | 7/31/2024 | OCS0464A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |

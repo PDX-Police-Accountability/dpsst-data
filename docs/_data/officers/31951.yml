@@ -56,18 +56,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/14/2024
+  course: SAG2271A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/27/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/22/2024
+  course: SAG3927A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/2/2024
   course: VND4524A
   title: Oregon Cold Case Conference
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 4/25/2024
+  course: SAG1580A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/19/2024
+  course: SAG2590A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/2/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit

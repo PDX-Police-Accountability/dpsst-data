@@ -40,6 +40,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 8/28/2024
+  certificate: Police Officer
+  level: Management
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 6/25/2010
   certificate: Police Officer
   level: Supervisory
@@ -69,12 +76,120 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/26/2024
+  course: 24-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/21/2024
+  course: F1533104
+  title: Finding Financial Balace in Retirement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2024
+  course: F1520157
+  title: Contemporary Approaches
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/19/2024
+  course: F1523974
+  title: Critical Thinking in Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/19/2024
+  course: F1514245
+  title: 'Equity: 90 Second Lifestyle'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/19/2024
+  course: F1543805
+  title: 'Equity: Wellness Room for Staff'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/19/2024
+  course: F1538298
+  title: What is Critical Thinking?
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/8/2024
+  course: F1541411
+  title: Leadership Lessons from the Greatest
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 8/5/2024
+  course: F1506618
+  title: 'Equity: Your Stress Response System'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/25/2024
+  course: F1519671
+  title: ADL COE Breifing for PPB
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/24/2024
+  course: F1518643
+  title: FBI Election Crimes Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/19/2024
+  course: F1517216
+  title: Consequences of False Accusations
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/12/2024
   course: PDA4179A
   title: Basic Handgun Skills  Qualification
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/10/2024
+  course: F1534640
+  title: 'Crisis Intervention: Overview'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/10/2024
+  course: F1534150
+  title: LeadsOnline Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/3/2024
+  course: F1504856
+  title: Ethical Considerations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/18/2024
+  course: F1519242
+  title: Developing Your Leadership Brand
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/6/2024
+  course: F1527463
+  title: Moments and Challenges of Leading
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/31/2024
+  course: F1544092
+  title: Lessons from the Greatest TED Talks
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/2/2024
   course: F1514089
   title: Rising Antisemitism in the US

@@ -79,6 +79,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 8/27/2024
+  course: TRN1117A
+  title: Sanctions and Incentives Grid Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/15/2024
   course: OCS1925A
   title: Errichment Academy Drugs

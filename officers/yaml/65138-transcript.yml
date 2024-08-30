@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/30/2024
+  course: REG1017A
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 4/29/2024
   course: M10-23A
   title: DPSST Basic Police Course

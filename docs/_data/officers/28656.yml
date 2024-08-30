@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/19/2024
+  course: LOP2595A
+  title: Emergency Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/31/2023
   course: TGP0442A
   title: Daigle Law Path of the Guardian 2023Q3

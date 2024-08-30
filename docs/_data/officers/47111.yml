@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/19/2024
+  course: BVP0265A
+  title: Use of Force Briefing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2024
   course: BVP3356A
   title: Taser Recertification

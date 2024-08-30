@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2024
+  course: SAG3615A
+  title: ICAC 101
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/14/2024
+  course: SAG2271A
+  title: Firearms training
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/7/2024
   course: OSH4474A
   title: HTTC - Human Trafficking Training

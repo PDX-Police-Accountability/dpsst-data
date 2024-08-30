@@ -54,6 +54,7 @@
 | 4/24/2024 | CAP0909A | Taser / 40mm Use of Force Training | Instructed | 0.0 | 6.00 |
 | 4/4/2024 | CAP2967A | Rifle Qualifications - Fundamentals | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/18/2024 | LOP2419A | Emergency Vehicle Operations | Passed | 0.0 | 9.00 |
 | 1/24/2024 | CAP2263A | Annual Handgun Qualification / Fundamentals | Passed | 0.0 | 3.00 |
 | 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/11/2024 | OAC2104A | Dark Nights of the Soul | Passed | 0.0 | 3.00 |

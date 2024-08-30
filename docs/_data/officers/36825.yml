@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2024
+  course: SAG3615A
+  title: ICAC 101
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/7/2024
   course: PDP2151A
   title: 2024 Investigator In-Service Case Study

@@ -111,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/17/2024
+  course: LOP0094A
+  title: Emergency Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/14/2024
   course: LOP0053A
   title: 40mm Less Lethal Training

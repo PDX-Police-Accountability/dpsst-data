@@ -20,6 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/28/2024 | Police Officer | Management | App Recd |  |  |  |
 | 6/25/2010 | Police Officer | Supervisory | Granted | 6/25/2010 |  |  |
 | 8/3/2004 | Police Officer | Advanced | Granted | 8/3/2004 |  |  |
 | 8/3/2004 | Police Officer | Intermediate | Granted | 8/3/2004 |  |  |
@@ -38,7 +39,25 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
+| 8/21/2024 | F1533104 | Finding Financial Balace in Retirement | Passed | 0.0 | 1.00 |
+| 8/20/2024 | F1520157 | Contemporary Approaches | Passed | 0.0 | 4.00 |
+| 8/19/2024 | F1523974 | Critical Thinking in Public Safety | Passed | 0.0 | 0.25 |
+| 8/19/2024 | F1514245 | Equity: 90 Second Lifestyle | Passed | 0.0 | 0.25 |
+| 8/19/2024 | F1543805 | Equity: Wellness Room for Staff | Passed | 0.0 | 0.25 |
+| 8/19/2024 | F1538298 | What is Critical Thinking? | Passed | 0.0 | 0.25 |
+| 8/8/2024 | F1541411 | Leadership Lessons from the Greatest | Passed | 0.0 | 16.00 |
+| 8/5/2024 | F1506618 | Equity: Your Stress Response System | Passed | 0.0 | 0.25 |
+| 7/25/2024 | F1519671 | ADL COE Breifing for PPB | Passed | 0.0 | 2.00 |
+| 7/24/2024 | F1518643 | FBI Election Crimes Investigations | Passed | 0.0 | 1.00 |
+| 7/19/2024 | F1517216 | Consequences of False Accusations | Passed | 0.0 | 1.50 |
 | 7/12/2024 | PDA4179A | Basic Handgun Skills  Qualification | Passed | 0.0 | 4.00 |
+| 7/10/2024 | F1534640 | Crisis Intervention: Overview | Passed | 0.0 | 4.00 |
+| 7/10/2024 | F1534150 | LeadsOnline Update | Passed | 0.0 | 1.00 |
+| 7/3/2024 | F1504856 | Ethical Considerations | Passed | 0.0 | 1.00 |
+| 6/18/2024 | F1519242 | Developing Your Leadership Brand | Passed | 0.0 | 16.00 |
+| 6/6/2024 | F1527463 | Moments and Challenges of Leading | Passed | 0.0 | 16.00 |
+| 5/31/2024 | F1544092 | Lessons from the Greatest TED Talks | Passed | 0.0 | 16.00 |
 | 5/2/2024 | F1514089 | Rising Antisemitism in the US | Passed | 0.0 | 0.75 |
 | 4/12/2024 | F1524959 | Workforce Equity Strategic Plan | Passed | 0.0 | 3.50 |
 | 4/8/2024 | F1533128 | How Crime Analysts Improve | Passed | 0.0 | 1.00 |

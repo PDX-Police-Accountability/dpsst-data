@@ -16,18 +16,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/19/2023
+- status_date: 8/28/2024
   certificate: Police Officer
   level: Basic
-  status: Required
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 7/19/2024
 training_records:
-- date: 7/19/2024
+- date: 8/27/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
-  status: Required
+  status: Completed
   score: '0.0'
   hours: '50.00'
 - date: 6/26/2024
@@ -559,6 +559,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 7/25/2024
+  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 6/12/2023

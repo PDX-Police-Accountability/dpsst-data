@@ -47,6 +47,7 @@
 | 8/15/2024 | LOP2738A | General Pacific FAA Part 107 Remote Pilot | Passed | 0.0 | 12.00 |
 | 5/30/2024 | LOP1938A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |
 | 4/4/2024 | LOP2975A | Trauma Informed Care | Passed | 0.0 | 2.00 |
+| 3/17/2024 | LOP0094A | Emergency Vehicle Operations | Passed | 0.0 | 9.00 |
 | 2/14/2024 | LOP0053A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |
 | 1/26/2024 | LOP4530A | Firearms Training | Passed | 0.0 | 4.00 |
 | 12/22/2023 | LOP2500A | Confrontational Simulation Training | Passed | 0.0 | 1.50 |

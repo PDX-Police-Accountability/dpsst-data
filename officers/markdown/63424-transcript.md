@@ -16,10 +16,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/10/2022 | Police Officer | Basic | ReqCertExt |  |  | 5/10/2025 |
+| 8/28/2024 | Police Officer | Basic | App Recd |  |  | 5/10/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 7/16/2024 |  |
 | Certification Cards | First Aid and CPR | 3/15/2023 | 3/15/2025 |
 | Code of Ethics | Law Enforcement Signed | 3/4/2023 |  |
 ## Education
@@ -28,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/10/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 5/16/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 5/16/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
 | 5/16/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |

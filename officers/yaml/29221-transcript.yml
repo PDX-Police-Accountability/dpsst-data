@@ -125,6 +125,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/31/2024
+  course: BNP2877A
+  title: Carotid Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2024
+  course: BNP2373A
+  title: Lead Awareness
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2024
+  course: BNP2956A
+  title: Blood Borne Pathogens for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2024
+  course: BNP4131A
+  title: SOP and Policy Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2024
+  course: BNP3073A
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/18/2024
   course: BNP3723A
   title: 40 MM refresher

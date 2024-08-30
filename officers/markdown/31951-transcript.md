@@ -36,8 +36,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2024 | SAG2271A | Firearms training | Passed | 0.0 | 3.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/2/2024 | VND4524A | Oregon Cold Case Conference | Passed | 0.0 | 7.00 |
+| 4/25/2024 | SAG1580A | Firearms training | Passed | 0.0 | 2.00 |
+| 4/19/2024 | SAG2590A | Firearms Training | Passed | 0.0 | 2.00 |
 | 1/2/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/19/2023 | PDP2720A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/19/2023 | PDP0387A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |

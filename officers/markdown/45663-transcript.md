@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2024 | SAG3615A | ICAC 101 | Instructed | 0.0 | 8.00 |
 | 7/15/2024 | SAG2700A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 3.00 |
 | 4/22/2024 | SAG0403A | ICAC 101 | Instructed | 0.0 | 8.00 |

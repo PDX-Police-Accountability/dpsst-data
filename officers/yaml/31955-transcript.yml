@@ -156,6 +156,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/18/2024
+  course: LOP2419A
+  title: Emergency Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/24/2024
   course: CAP2263A
   title: Annual Handgun Qualification / Fundamentals

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2024 | SAG3615A | ICAC 101 | Passed | 0.0 | 8.00 |
 | 5/7/2024 | PDP2151A | 2024 Investigator In-Service Case Study | Passed | 0.0 | 2.00 |
 | 5/7/2024 | PDP1036A | 2024 Investigator In-Service Device Warrants | Passed | 0.0 | 2.00 |
 | 5/7/2024 | PDP4043A | 2024 Investigator In-Service DFU | Passed | 0.0 | 2.00 |
