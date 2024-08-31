@@ -60,6 +60,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2024 | REG1758A | Domestic Violence/Child Death Investigation | Passed | 0.0 | 7.00 |
 | 5/16/2024 | REG0923A | Use of Force 10 (Basic Police) | Passed | 0.0 | 2.00 |
 | 4/24/2024 | REG3981A | Use of Force 5  (Basic Police) | Passed | 0.0 | 2.00 |
 | 4/20/2024 | FSS2573A | CPR, Infant/Adult, AED | Passed | 0.0 | 4.00 |

@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/2/2024
+  course: LOP4317A
+  title: Emergency Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/23/2024
   course: PDS3191A
   title: Range Training

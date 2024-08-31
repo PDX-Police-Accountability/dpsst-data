@@ -58,6 +58,7 @@
 | 4/16/2024 | RRP2628A | OACP Annual Board Meeting | Passed | 0.0 | 2.50 |
 | 4/16/2024 | OAC3442A | Coaching  Mentoring for Succession Planning | Passed | 0.0 | 1.00 |
 | 4/2/2024 | LOP2975A | Trauma Informed Care | Passed | 0.0 | 2.00 |
+| 3/18/2024 | LOP3672A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |
 | 1/26/2024 | LOP4530A | Firearms Training | Passed | 0.0 | 0.75 |
 | 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/11/2024 | OAC2266A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |

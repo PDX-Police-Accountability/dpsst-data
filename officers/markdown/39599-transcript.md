@@ -45,6 +45,7 @@
 | 4/23/2024 | PDS3603A | LE Range | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |
+| 3/18/2024 | LOP3672A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |
 | 2/26/2024 | PDS4516A | Range Training | Passed | 0.0 | 2.00 |
 | 2/12/2024 | PDS2801A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 2/5/2024 | PDS3283A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

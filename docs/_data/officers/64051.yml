@@ -30,12 +30,6 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 7/12/2024
-  course: NGP2357A
-  title: Patrol Rifle Training
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
 - date: 6/27/2024
   course: PDP3372A
   title: 2024 Safe Training Procedures

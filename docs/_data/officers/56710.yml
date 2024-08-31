@@ -170,6 +170,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/22/2024
+  course: LOP0376A
+  title: Emergency Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/21/2024
   course: REG0344A
   title: DT

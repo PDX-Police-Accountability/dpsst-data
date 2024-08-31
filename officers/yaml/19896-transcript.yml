@@ -203,6 +203,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/28/2024
+  course: REG1758A
+  title: Domestic Violence/Child Death Investigation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/16/2024
   course: REG0923A
   title: Use of Force 10 (Basic Police)

@@ -34,6 +34,7 @@
 | 4/5/2024 | PDS0814A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 4/1/2024 | PDS0299A | LE Range | Passed | 0.0 | 2.00 |
 | 3/3/2024 | PDS2737A | EVOC | Passed | 0.0 | 4.00 |
+| 3/3/2024 | LOP1727A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |
 | 3/1/2024 | PDS3651A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
 | 2/26/2024 | PDS4516A | Range Training | Passed | 0.0 | 2.00 |
 | 2/21/2024 | PDS0630A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |

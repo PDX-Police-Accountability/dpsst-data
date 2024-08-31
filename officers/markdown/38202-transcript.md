@@ -46,6 +46,7 @@
 | 4/5/2024 | VND2119A | ICS 400 - Advanced Incident Command System | Passed | 0.0 | 15.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/20/2024 | PDS3491A | EVOC | Passed | 0.0 | 4.00 |
+| 3/20/2024 | LOP2700A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |
 | 2/23/2024 | PDS3191A | Range Training | Passed | 0.0 | 2.00 |
 | 2/9/2024 | VND4222A | ICS-300 Intermediate ICS For Expanding Incidents |  | 0.0 | 0.00 |
 | 1/20/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
