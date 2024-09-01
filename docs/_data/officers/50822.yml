@@ -445,19 +445,13 @@ training_records:
   title: 2023 Mandatory PPB Sergeant's Academy
   status: Passed
   score: '0.0'
-  hours: '137.00'
+  hours: '94.25'
 - date: 5/2/2023
   course: PDP4462A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
-- date: 4/27/2023
-  course: PDP2174A
-  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
-  status: Passed
-  score: '0.0'
-  hours: '27.00'
 - date: 4/19/2023
   course: PDP3133
   title: ICS-100 Intro to the Incident Cmmnd System

@@ -183,7 +183,6 @@
 | 7/7/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 7/6/2022 | PDP12004 | Motor Officer Training at PIR | Instructed | 0.0 | 6.00 |
 | 7/5/2022 | PDP44234 | Motor Officer Training at PIR | Instructed | 0.0 | 6.00 |
-| 6/29/2022 | PDP44069 | Sergeant's Academy | Passed | 0.0 | 88.75 |
 | 6/29/2022 | PDP3047A | 2022 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 88.75 |
 | 6/24/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/9/2022 | PDP39345 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |

@@ -4,7 +4,7 @@
 | name | Hull, Darke P. |
 | dpsst_identifier | 37765 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,16 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/26/2024 | Portland Police Bureau | Resigned | Sergeant |  |  |
 | 11/2/2022 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 8/8/2013 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/12/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/16/2019 | Police Officer | Supervisory | Granted-UR | 8/16/2019 |  |  |
-| 12/13/2011 | Police Officer | Advanced | Granted-UR | 12/13/2011 |  |  |
-| 12/13/2011 | Police Officer | Intermediate | Granted-UR | 12/13/2011 |  |  |
-| 7/31/2000 | Police Officer | Basic | Granted-UR | 7/31/2000 |  |  |
+| 8/16/2019 | Police Officer | Supervisory | Granted-UR | 8/16/2019 | 11/26/2024 |  |
+| 12/13/2011 | Police Officer | Advanced | Granted-UR | 12/13/2011 | 11/26/2024 |  |
+| 12/13/2011 | Police Officer | Intermediate | Granted-UR | 12/13/2011 | 11/26/2024 |  |
+| 7/31/2000 | Police Officer | Basic | Granted-UR | 7/31/2000 | 11/26/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

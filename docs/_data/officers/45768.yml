@@ -68,6 +68,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/21/2024
+  course: PDP1178A
+  title: 2023-2 In Service Trauma Informed Interview Pt 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/21/2024
+  course: PDP1435A
+  title: 2023-2 IS Trauma Informed Interviewing Pt 1
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/12/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits
@@ -79,7 +91,7 @@ training_records:
   title: 2024-1 All Sworn In-Service Firearms
   status: Passed
   score: '0.0'
-  hours: '2.50'
+  hours: '0.00'
 - date: 5/9/2024
   course: PDP2966A
   title: 2024-1 All Sworn In-Service MFF Classroom
@@ -97,7 +109,7 @@ training_records:
   title: 2024-1 All Sworn In-Service Taser 7
   status: Passed
   score: '0.0'
-  hours: '3.00'
+  hours: '0.00'
 - date: 5/1/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response
@@ -133,7 +145,7 @@ training_records:
   title: 2024-1 All Sworn In-Service PVO Box In Refresh
   status: Passed
   score: '0.0'
-  hours: '2.50'
+  hours: '0.00'
 - date: 2/27/2024
   course: PDP2893A
   title: 2024-1 All Sworn In-Service PVO High Speed Lapping
@@ -218,6 +230,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2023
+  course: MAINTMUF
+  title: Maintenance Makeup Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/31/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

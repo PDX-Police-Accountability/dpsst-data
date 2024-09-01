@@ -957,18 +957,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 6/29/2022
-  course: PDP44069
-  title: Sergeant's Academy
-  status: Passed
-  score: '0.0'
-  hours: '88.75'
-- date: 6/29/2022
-  course: PDP15669
-  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
-  status: Passed
-  score: '0.0'
-  hours: '27.00'
-- date: 6/29/2022
   course: PDP3047A
   title: 2022 Mandatory PPB Sergeant's Academy
   status: Passed

@@ -426,7 +426,7 @@ training_records:
   title: 2023 Mandatory PPB Sergeant's Academy
   status: Passed
   score: '0.0'
-  hours: '137.00'
+  hours: '94.25'
 - date: 5/7/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches
@@ -439,12 +439,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
-- date: 4/27/2023
-  course: PDP2174A
-  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
-  status: Passed
-  score: '0.0'
-  hours: '27.00'
 - date: 4/15/2023
   course: PDP0097
   title: IS-700 National Incident Management System

@@ -33,7 +33,6 @@
 | Certification Cards | First Aid and CPR | 4/11/2024 | 4/11/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 1/28/2005 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 1/24/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -75,8 +74,30 @@
 | 4/10/2024 | PDP3088A | 2023-1  2 CAO Legal Updates for 01 and 02/2023 | Passed | 0.0 | 0.25 |
 | 4/10/2024 | PDP3004A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
 | 4/10/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP1926A | 2022-2 In Service Legal Updates Part 2 | Passed | 0.0 | 1.00 |
+| 4/10/2024 | PDP4255A | 2022-2 In Service Legal Updates Part 3 | Passed | 0.0 | 0.50 |
+| 4/10/2024 | PDP0026A | 2022-2 In Service Mental Health / Crisis Intervent | Passed | 0.0 | 1.00 |
+| 4/10/2024 | PDP1753A | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 4/10/2024 | PDP4478A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP0570A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 4/10/2024 | PDP3475A | 2022-2 In Service ABLE | Passed | 0.0 | 2.00 |
+| 4/10/2024 | PDP2475A | 2022-2 In Service Legal Updates Part 1 | Passed | 0.0 | 1.00 |
+| 4/5/2024 | PDP2278A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
+| 4/5/2024 | PDP4020A | 2023-1 In Service MFF Formations Online Recording | Passed | 0.0 | 1.00 |
+| 4/5/2024 | PDP4387A | 2023-1 In service Recorded Training | Passed | 0.0 | 10.00 |
+| 4/5/2024 | PDP3241A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
 | 4/4/2024 | PDP1095A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/4/2024 | PDP3086A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
+| 4/4/2024 | PDP3403A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |
+| 4/4/2024 | PDP2340A | 2023-1 In Service Crowd Mgmt Legal Updates 1 | Passed | 0.0 | 1.00 |
+| 4/4/2024 | PDP4550A | 2023-1 In Service Crowd Mgmt Legal Updates 2 | Passed | 0.0 | 1.00 |
+| 4/4/2024 | PDP3443A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
+| 4/4/2024 | PDP4353A | 2023-1 In Service MFF Arrest Procedures | Passed | 0.0 | 0.50 |
+| 4/3/2024 | PDP0076A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
+| 4/3/2024 | PDP3701A | 2023-1 In Service Crowd Mgmt Use of Force 40mm | Passed | 0.0 | 0.50 |
+| 4/3/2024 | PDP3988A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
+| 4/3/2024 | PDP1558A | 2023-1 In Service Force Reporting Online Recording | Passed | 0.0 | 0.50 |
+| 4/3/2024 | PDP0413A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
 | 3/31/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 3/31/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/31/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2024 | TRN2443A | Sanctions and Incentives Grid Training | Passed | 0.0 | 1.00 |
 | 8/16/2024 | HBN4251A | Defensive Tactics and Decision Making | Passed | 0.0 | 8.00 |
 | 8/8/2024 | HBN3251A | Parole Board Annual Roadshow | Passed | 0.0 | 4.00 |
 | 3/12/2024 | TRN2101A | Statewide Contact Standards  Chrono (session9) | Passed | 0.0 | 1.00 |

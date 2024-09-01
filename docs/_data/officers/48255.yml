@@ -487,7 +487,7 @@ training_records:
   title: 2023 Mandatory PPB Sergeant's Academy
   status: Passed
   score: '0.0'
-  hours: '137.00'
+  hours: '94.25'
 - date: 5/11/2023
   course: PDP2652
   title: 2023 SERT Training - ITERATION
@@ -500,12 +500,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 4/27/2023
-  course: PDP2174A
-  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
-  status: Passed
-  score: '0.0'
-  hours: '27.00'
 - date: 4/20/2023
   course: PDP1249
   title: 2023 SERT Training - ITERATION

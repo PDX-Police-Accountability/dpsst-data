@@ -203,7 +203,6 @@
 | 7/12/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
 | 7/12/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/11/2022 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
-| 6/29/2022 | PDP3047A | 2022 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 66.00 |
 | 6/27/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/27/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/23/2022 | PDP26444 | Sergeant's Academy | Passed | 0.0 | 66.00 |

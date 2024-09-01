@@ -80,6 +80,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/5/2024
+  course: PDP3343A
+  title: 2023-2 In Service Recording Crime Scene Management
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/5/2024
+  course: PDP3175A
+  title: 2023-2 In Service Trauma Informed Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/5/2024
+  course: PDP2789A
+  title: 2023-2 IS Trauma Informed Interview Pt 3
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/4/2024
   course: PDP2458A
   title: CPR/First Aid
@@ -92,6 +110,66 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/4/2024
+  course: PDP1725A
+  title: 2023-1 In Service Crowd Mgmt Baton
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2024
+  course: PDP2340A
+  title: 2023-1 In Service Crowd Mgmt Legal Updates 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2024
+  course: PDP4550A
+  title: 2023-1 In Service Crowd Mgmt Legal Updates 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2024
+  course: PDP4353A
+  title: 2023-1 In Service MFF Arrest Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2024
+  course: PDP2278A
+  title: 2023-1 In Service MFF OPS Planned vs Spontaneous
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2024
+  course: PDP4020A
+  title: 2023-1 In Service MFF Formations Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2024
+  course: PDP4387A
+  title: 2023-1 In service Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/4/2024
+  course: PDP3241A
+  title: 2023-1 In Service Wellness Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2024
+  course: PDP1178A
+  title: 2023-2 In Service Trauma Informed Interview Pt 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2024
+  course: PDP1435A
+  title: 2023-2 IS Trauma Informed Interviewing Pt 1
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/3/2024
   course: PDP2473A
   title: 2023 Axon CEW Annual Update
@@ -200,6 +278,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/3/2024
+  course: PDP3754A
+  title: 2023-1 In Service APRGasMask Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2024
+  course: PDP3443A
+  title: 2023-1 In Service Crowd Mgmt Police Role
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/3/2024
+  course: PDP4380A
+  title: 2023-1 In Service Crowd Mgmt Use of Force 40mm OC
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2024
+  course: PDP3988A
+  title: 2023-1 In Service Crowd Theory Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/3/2024
+  course: PDP1558A
+  title: 2023-1 In Service Force Reporting Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2024
+  course: PDP0413A
+  title: 2023-1 In Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2024
+  course: PDP4157A
+  title: 2024-1 All Sworn In-Service MFF Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2024
   course: PDP0051A
   title: 2023 Active Stolen Vehicles Hotsheet
@@ -212,6 +332,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/31/2024
+  course: PDP4255A
+  title: 2022-2 In Service Legal Updates Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/30/2024
   course: PDP2889A
   title: SOP 14-1 Safety Procedures for the Training
@@ -296,6 +422,84 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/30/2024
+  course: PDP0026A
+  title: 2022-2 In Service Mental Health / Crisis Intervent
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2024
+  course: PDP1706A
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2024
+  course: PDP2556A
+  title: '2022-7 Executive Order: Corrective Action Guide'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/30/2024
+  course: PDP2754A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/30/2024
+  course: PDP1515A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/30/2024
+  course: PDP0064A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/30/2024
+  course: PDP2972A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/30/2024
+  course: PDP3475A
+  title: 2022-2 In Service ABLE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/30/2024
+  course: PDP2475A
+  title: 2022-2 In Service Legal Updates Part 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2024
+  course: PDP1926A
+  title: 2022-2 In Service Legal Updates Part 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2024
+  course: PDP3729A
+  title: 2023-2 In Service Recording Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 5/30/2024
+  course: PDP1152A
+  title: 2023-2 In Service Recording Legal Updates Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 5/30/2024
+  course: PDP2552A
+  title: 2023-2 In Service Recording Legal Updates Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/1/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

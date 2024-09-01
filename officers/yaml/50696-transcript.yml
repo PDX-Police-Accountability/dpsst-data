@@ -1041,12 +1041,6 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
-- date: 6/29/2022
-  course: PDP3047A
-  title: 2022 Mandatory PPB Sergeant's Academy
-  status: Passed
-  score: '0.0'
-  hours: '66.00'
 - date: 6/27/2022
   course: PDP01652
   title: AAR SharePoint Transition

@@ -66,6 +66,7 @@
 | 10/4/2023 | OCS3719A | Use of Force/De-escalation K9 unit training | Passed | 0.0 | 4.00 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
+| 7/30/2023 | OCS0895A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 7/10/2023 | OCS4343A | 2023 Community Caretaking Update Trg Bulletin | Passed | 0.0 | 0.25 |
 | 7/10/2023 | OCS2735A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/26/2023 | OCS3724A | Speed/Marksmanship / MILO use of force | Passed | 0.0 | 2.00 |

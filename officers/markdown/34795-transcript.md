@@ -102,6 +102,7 @@
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
+| 5/15/2023 | OCS0712A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/13/2023 | OCS1599A | Contraband Case Law | Passed | 0.0 | 0.25 |
 | 4/28/2023 | OCS0348A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS1341A | Strangulation and SKIT training | Passed | 0.0 | 0.50 |

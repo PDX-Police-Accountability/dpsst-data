@@ -55,6 +55,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/4/2024
+  course: PDP3175A
+  title: 2023-2 In Service Trauma Informed Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/4/2024
+  course: PDP1178A
+  title: 2023-2 In Service Trauma Informed Interview Pt 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2024
+  course: PDP2789A
+  title: 2023-2 IS Trauma Informed Interview Pt 3
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2024
+  course: PDP1435A
+  title: 2023-2 IS Trauma Informed Interviewing Pt 1
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2024
+  course: PDP2195A
+  title: 2023-2 In Service Recording Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/3/2024
+  course: PDP2775A
+  title: 2023-2 In Service Recording Legal Updates Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 6/3/2024
+  course: PDP2681A
+  title: 2023-2 In Service Recording Legal Updates Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/29/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

@@ -41,17 +41,19 @@
 | 8/8/2024 | PDP4323A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 6/27/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/27/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/21/2024 | PDP1178A | 2023-2 In Service Trauma Informed Interview Pt 2 | Passed | 0.0 | 0.50 |
+| 6/21/2024 | PDP1435A | 2023-2 IS Trauma Informed Interviewing Pt 1 | Passed | 0.0 | 0.50 |
 | 6/12/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
-| 5/9/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
+| 5/9/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 0.00 |
 | 5/9/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
 | 5/9/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |
-| 5/9/2024 | PDP1281A | 2024-1 All Sworn In-Service Taser 7 | Passed | 0.0 | 3.00 |
+| 5/9/2024 | PDP1281A | 2024-1 All Sworn In-Service Taser 7 | Passed | 0.0 | 0.00 |
 | 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/3/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
 | 4/3/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
 | 4/1/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 3/1/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
-| 2/27/2024 | PDP0301A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
+| 2/27/2024 | PDP0301A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 0.00 |
 | 2/27/2024 | PDP2893A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/27/2024 | PDP2194A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/27/2024 | PDP2964A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
@@ -66,6 +68,7 @@
 | 2/20/2024 | PDP0508A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 2/20/2024 | PDP4208A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 2/20/2024 | PDP1708A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 12/31/2023 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 8.00 |
 | 5/31/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |

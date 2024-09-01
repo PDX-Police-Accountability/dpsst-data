@@ -487,7 +487,7 @@ training_records:
   title: 2023 Mandatory PPB Sergeant's Academy
   status: Passed
   score: '0.0'
-  hours: '137.00'
+  hours: '94.25'
 - date: 5/13/2023
   course: PDP2465A
   title: 2022-7 CAO Legal Updates for 07/2022
@@ -518,12 +518,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
-- date: 4/27/2023
-  course: PDP2174A
-  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
-  status: Passed
-  score: '0.0'
-  hours: '27.00'
 - date: 4/14/2023
   course: PDP2247A
   title: 2023-1 AR-15 Satellite Instructor Course

@@ -435,6 +435,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/15/2023
+  course: OCS0712A
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/13/2023
   course: OCS1599A
   title: Contraband Case Law

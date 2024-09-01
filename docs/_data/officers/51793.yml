@@ -854,12 +854,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '88.75'
-- date: 6/29/2022
-  course: PDP3047A
-  title: 2022 Mandatory PPB Sergeant's Academy
-  status: Passed
-  score: '0.0'
-  hours: '88.75'
 - date: 6/5/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

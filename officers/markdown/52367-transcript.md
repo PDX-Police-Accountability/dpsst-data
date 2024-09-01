@@ -200,7 +200,6 @@
 | 8/5/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/31/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/11/2022 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
-| 6/29/2022 | PDP44069 | Sergeant's Academy | Passed | 0.0 | 88.75 |
 | 6/29/2022 | PDP3047A | 2022 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 88.75 |
 | 6/18/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/18/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

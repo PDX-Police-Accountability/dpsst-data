@@ -291,6 +291,78 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/10/2024
+  course: PDP1926A
+  title: 2022-2 In Service Legal Updates Part 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/10/2024
+  course: PDP4255A
+  title: 2022-2 In Service Legal Updates Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/10/2024
+  course: PDP0026A
+  title: 2022-2 In Service Mental Health / Crisis Intervent
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/10/2024
+  course: PDP1753A
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/10/2024
+  course: PDP4478A
+  title: 2022-6 CAO Legal Updates for 06/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/10/2024
+  course: PDP0570A
+  title: 2022-7 CAO Legal Updates for 07/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/10/2024
+  course: PDP3475A
+  title: 2022-2 In Service ABLE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/10/2024
+  course: PDP2475A
+  title: 2022-2 In Service Legal Updates Part 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/5/2024
+  course: PDP2278A
+  title: 2023-1 In Service MFF OPS Planned vs Spontaneous
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/5/2024
+  course: PDP4020A
+  title: 2023-1 In Service MFF Formations Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/5/2024
+  course: PDP4387A
+  title: 2023-1 In service Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/5/2024
+  course: PDP3241A
+  title: 2023-1 In Service Wellness Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/4/2024
   course: PDP1095A
   title: 2023 Directive 650.00 Consent Searches
@@ -300,6 +372,66 @@ training_records:
 - date: 4/4/2024
   course: PDP3086A
   title: 2023 Portland Community Justice Partnership  RJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/4/2024
+  course: PDP3403A
+  title: 2023-1 In Service Crowd Mgmt Baton
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/4/2024
+  course: PDP2340A
+  title: 2023-1 In Service Crowd Mgmt Legal Updates 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2024
+  course: PDP4550A
+  title: 2023-1 In Service Crowd Mgmt Legal Updates 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2024
+  course: PDP3443A
+  title: 2023-1 In Service Crowd Mgmt Police Role
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/4/2024
+  course: PDP4353A
+  title: 2023-1 In Service MFF Arrest Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/3/2024
+  course: PDP0076A
+  title: 2023-1 In Service APRGasMask Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/3/2024
+  course: PDP3701A
+  title: 2023-1 In Service Crowd Mgmt Use of Force 40mm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/3/2024
+  course: PDP3988A
+  title: 2023-1 In Service Crowd Theory Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2024
+  course: PDP1558A
+  title: 2023-1 In Service Force Reporting Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/3/2024
+  course: PDP0413A
+  title: 2023-1 In Service Internal Affairs
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -5026,10 +5158,6 @@ attribute_records:
   value: Signed
   effective_date: 1/28/2005
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 1/24/2024
 education_records:
 - date: 12/16/2001
   degree: Bachelor Arts

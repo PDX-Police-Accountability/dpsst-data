@@ -229,6 +229,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/30/2023
+  course: OCS0895A
+  title: Ambush/Vehicle Extractions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/10/2023
   course: OCS4343A
   title: 2023 Community Caretaking Update Trg Bulletin

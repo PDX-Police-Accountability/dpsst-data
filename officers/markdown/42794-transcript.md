@@ -128,6 +128,7 @@
 | 8/11/2023 | OCS0576A | August 2023 New Hire Firearms | Instructed | 0.0 | 8.00 |
 | 8/10/2023 | OCS4148A | Glock Armorer | Passed | 0.0 | 8.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
+| 7/30/2023 | OCS0895A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 7/26/2023 | OCS1010A | June/July 2023 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 7/26/2023 | OCS1962A | June/July 2023 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 7/25/2023 | OCS3701A | June/July 2023 Monthly Firearms w/pistol/rifle | Instructed | 0.0 | 3.00 |
@@ -149,6 +150,7 @@
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
+| 5/15/2023 | OCS0712A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/12/2023 | OCS0322 | May 2023 New Hire Firearms | Instructed | 0.0 | 20.00 |
 | 5/12/2023 | OCS3604 | Positional/Long Distance Multiple Target Shooting | Instructed | 0.0 | 5.00 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |

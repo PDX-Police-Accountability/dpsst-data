@@ -85,6 +85,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/27/2024
+  course: PDP1178A
+  title: 2023-2 In Service Trauma Informed Interview Pt 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/27/2024
+  course: PDP2789A
+  title: 2023-2 IS Trauma Informed Interview Pt 3
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/27/2024
+  course: PDP1435A
+  title: 2023-2 IS Trauma Informed Interviewing Pt 1
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/26/2024
   course: PDP3673A
   title: SOP 1-15 Division Records Management
@@ -280,6 +298,12 @@ training_records:
 - date: 6/24/2024
   course: PDP1373A
   title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2024
+  course: PDP3180A
+  title: 2021 Training Emergency Entry Recap Video
   status: Passed
   score: '0.0'
   hours: '0.25'

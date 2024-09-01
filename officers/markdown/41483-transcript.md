@@ -43,8 +43,21 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/5/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |
+| 6/5/2024 | PDP3343A | 2023-2 In Service Recording Crime Scene Management | Passed | 0.0 | 1.00 |
+| 6/5/2024 | PDP3175A | 2023-2 In Service Trauma Informed Interviewing | Passed | 0.0 | 2.00 |
+| 6/5/2024 | PDP2789A | 2023-2 IS Trauma Informed Interview Pt 3 | Passed | 0.0 | 1.00 |
 | 6/4/2024 | PDP2458A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/4/2024 | PDP3888A | 2023-2 TT Body Worn Camera (BWC) Pilot Policy | Passed | 0.0 | 0.25 |
+| 6/4/2024 | PDP1725A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |
+| 6/4/2024 | PDP2340A | 2023-1 In Service Crowd Mgmt Legal Updates 1 | Passed | 0.0 | 1.00 |
+| 6/4/2024 | PDP4550A | 2023-1 In Service Crowd Mgmt Legal Updates 2 | Passed | 0.0 | 1.00 |
+| 6/4/2024 | PDP4353A | 2023-1 In Service MFF Arrest Procedures | Passed | 0.0 | 0.50 |
+| 6/4/2024 | PDP2278A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
+| 6/4/2024 | PDP4020A | 2023-1 In Service MFF Formations Online Recording | Passed | 0.0 | 1.00 |
+| 6/4/2024 | PDP4387A | 2023-1 In service Recorded Training | Passed | 0.0 | 10.00 |
+| 6/4/2024 | PDP3241A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
+| 6/4/2024 | PDP1178A | 2023-2 In Service Trauma Informed Interview Pt 2 | Passed | 0.0 | 0.50 |
+| 6/4/2024 | PDP1435A | 2023-2 IS Trauma Informed Interviewing Pt 1 | Passed | 0.0 | 0.50 |
 | 6/3/2024 | PDP2473A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 6/3/2024 | PDP2666A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 6/3/2024 | PDP0357A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
@@ -63,8 +76,16 @@
 | 6/3/2024 | PDP4154A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/3/2024 | PDP1373A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 6/3/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
+| 6/3/2024 | PDP3754A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
+| 6/3/2024 | PDP3443A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
+| 6/3/2024 | PDP4380A | 2023-1 In Service Crowd Mgmt Use of Force 40mm OC | Passed | 0.0 | 0.50 |
+| 6/3/2024 | PDP3988A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
+| 6/3/2024 | PDP1558A | 2023-1 In Service Force Reporting Online Recording | Passed | 0.0 | 0.50 |
+| 6/3/2024 | PDP0413A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
+| 6/3/2024 | PDP4157A | 2024-1 All Sworn In-Service MFF Recording | Passed | 0.0 | 1.00 |
 | 5/31/2024 | PDP0051A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 5/31/2024 | PDP1718A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 5/31/2024 | PDP4255A | 2022-2 In Service Legal Updates Part 3 | Passed | 0.0 | 0.50 |
 | 5/30/2024 | PDP2889A | SOP 14-1 Safety Procedures for the Training | Passed | 0.0 | 0.25 |
 | 5/30/2024 | PDP2913A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 5/30/2024 | PDP1269A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -79,6 +100,19 @@
 | 5/30/2024 | PDP3004A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
 | 5/30/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 5/30/2024 | PDP3290A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 5/30/2024 | PDP0026A | 2022-2 In Service Mental Health / Crisis Intervent | Passed | 0.0 | 1.00 |
+| 5/30/2024 | PDP1706A | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 5/30/2024 | PDP2556A | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP2754A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 5/30/2024 | PDP1515A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP0064A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP2972A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP3475A | 2022-2 In Service ABLE | Passed | 0.0 | 2.00 |
+| 5/30/2024 | PDP2475A | 2022-2 In Service Legal Updates Part 1 | Passed | 0.0 | 1.00 |
+| 5/30/2024 | PDP1926A | 2022-2 In Service Legal Updates Part 2 | Passed | 0.0 | 1.00 |
+| 5/30/2024 | PDP3729A | 2023-2 In Service Recording Legal Updates | Passed | 0.0 | 1.25 |
+| 5/30/2024 | PDP1152A | 2023-2 In Service Recording Legal Updates Part 1 | Passed | 0.0 | 0.75 |
+| 5/30/2024 | PDP2552A | 2023-2 In Service Recording Legal Updates Part 2 | Passed | 0.0 | 0.50 |
 | 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 11/18/2022 | NPS10285 | Crisis Intervention | Passed | 0.0 | 5.00 |
 | 11/18/2022 | NPS35781 | Scenario Skills | Passed | 0.0 | 3.00 |

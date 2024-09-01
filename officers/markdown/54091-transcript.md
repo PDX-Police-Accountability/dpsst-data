@@ -38,6 +38,9 @@
 | 6/27/2024 | PDP0919A | 2023-2 IS Trauma Informed Interviewing Pt 2 | Passed | 0.0 | 0.50 |
 | 6/27/2024 | PDP3346A | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 6/27/2024 | PDP1992A | 2024-1 All Sworn In-Service Wellness Recording | Passed | 0.0 | 1.00 |
+| 6/27/2024 | PDP1178A | 2023-2 In Service Trauma Informed Interview Pt 2 | Passed | 0.0 | 0.50 |
+| 6/27/2024 | PDP2789A | 2023-2 IS Trauma Informed Interview Pt 3 | Passed | 0.0 | 1.00 |
+| 6/27/2024 | PDP1435A | 2023-2 IS Trauma Informed Interviewing Pt 1 | Passed | 0.0 | 0.50 |
 | 6/26/2024 | PDP3673A | SOP 1-15 Division Records Management | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP2220A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
@@ -71,6 +74,7 @@
 | 6/24/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP1373A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 6/24/2024 | PDP3180A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 4/2/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 9/10/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/10/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |

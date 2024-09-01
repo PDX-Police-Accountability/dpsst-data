@@ -493,7 +493,7 @@ training_records:
   title: 2023 Mandatory PPB Sergeant's Academy
   status: Passed
   score: '0.0'
-  hours: '137.00'
+  hours: '94.25'
 - date: 5/21/2023
   course: PDP4467A
   title: 2023 PVO Satellite Instructor School - pt 1
@@ -524,12 +524,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
-- date: 4/27/2023
-  course: PDP2174A
-  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
-  status: Passed
-  score: '0.0'
-  hours: '27.00'
 - date: 4/20/2023
   course: PDP2662A
   title: 2023 Standardized Field Sobriety Test Refresher

@@ -40,6 +40,10 @@
 | 8/8/2024 | PDP4323A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/19/2024 | PDP3175A | 2023-2 In Service Trauma Informed Interviewing | Passed | 0.0 | 2.00 |
+| 6/19/2024 | PDP1178A | 2023-2 In Service Trauma Informed Interview Pt 2 | Passed | 0.0 | 0.50 |
+| 6/19/2024 | PDP2789A | 2023-2 IS Trauma Informed Interview Pt 3 | Passed | 0.0 | 1.00 |
+| 6/19/2024 | PDP1435A | 2023-2 IS Trauma Informed Interviewing Pt 1 | Passed | 0.0 | 0.50 |
 | 4/29/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 4/29/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
 | 4/29/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |
