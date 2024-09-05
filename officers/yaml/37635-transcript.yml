@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2024
+  course: EGP4106A
+  title: SWAT Range Drills - Controlled Pace Searches
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
 - date: 7/25/2024
   course: EGP0746A
   title: SWAT Range Drills - Search Skills

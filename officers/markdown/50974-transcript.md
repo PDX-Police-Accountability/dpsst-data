@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2024 | LOP2261A | West Metro Monthly Motor Training 08/21/2024 | Passed | 0.0 | 6.00 |
+| 7/16/2024 | LOP1319A | West Metro Monthly Motor Training 07/16/2024 | Passed | 0.0 | 6.00 |
 | 6/13/2024 | OCP4100A | SFST Refresher Class | Instructed | 0.0 | 4.00 |
 | 6/10/2024 | OCP4280A | LEDS re-certification | Passed | 0.0 | 1.00 |
 | 5/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

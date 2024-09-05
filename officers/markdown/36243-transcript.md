@@ -45,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2024 | LOP2261A | West Metro Monthly Motor Training 08/21/2024 | Passed | 0.0 | 3.00 |
+| 7/16/2024 | LOP1319A | West Metro Monthly Motor Training 07/16/2024 | Passed | 0.0 | 3.00 |
 | 6/29/2024 | HBS3634A | 2024 March DT's | Passed | 0.0 | 4.50 |
 | 6/29/2024 | HBS3585A | 2024 March IFAST | Passed | 0.0 | 4.50 |
 | 5/31/2024 | VND1640A | ICS-300 Intermediate ICS For Expanding Incidents | Passed | 0.0 | 21.00 |

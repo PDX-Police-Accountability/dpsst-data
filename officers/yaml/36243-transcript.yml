@@ -95,6 +95,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2024
+  course: LOP2261A
+  title: West Metro Monthly Motor Training 08/21/2024
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/16/2024
+  course: LOP1319A
+  title: West Metro Monthly Motor Training 07/16/2024
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/29/2024
   course: HBS3634A
   title: 2024 March DT's

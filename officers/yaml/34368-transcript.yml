@@ -94,6 +94,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/28/2024
+  course: OSH4435A
+  title: Characteristics of Culture - Module 1
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/28/2024
+  course: OSH3631A
+  title: Characteristics of Culture - Module 2 Bias By Us
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/13/2024
   course: BNP3965A
   title: Control Tactics- Scott V. Vegas update

@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/27/2024
+  course: STP3816A
+  title: Adult and Infant CPR/FIRST-AID/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/24/2024
   course: STP2027A
   title: Active Shooter Training

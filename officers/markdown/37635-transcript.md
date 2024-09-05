@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2024 | EGP4106A | SWAT Range Drills - Controlled Pace Searches | Passed | 0.0 | 17.00 |
 | 7/25/2024 | EGP0746A | SWAT Range Drills - Search Skills | Passed | 0.0 | 8.00 |
 | 7/25/2024 | EGP1202A | SWAT Breaching-Search Skills-Tech Deployment | Passed | 0.0 | 9.00 |
 | 5/23/2024 | EGP2902A | AVI Response Training | Passed | 0.0 | 2.50 |

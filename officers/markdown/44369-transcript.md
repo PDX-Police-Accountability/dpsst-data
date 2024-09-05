@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/27/2024 | STP3816A | Adult and Infant CPR/FIRST-AID/AED | Passed | 0.0 | 2.00 |
 | 8/24/2024 | STP2027A | Active Shooter Training | Passed | 0.0 | 4.00 |
 | 8/5/2024 | STP4091A | Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 5/20/2024 | STP2531A | Firearms Training and Use of Red Dot Training | Passed | 0.0 | 4.00 |
