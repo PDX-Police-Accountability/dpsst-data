@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2024 | OCP3101A | Defensive Tactics | Instructed | 0.0 | 7.00 |
 | 8/12/2024 | SMP2480A | Taser Instructor Certification/Recertification | Passed | 0.0 | 16.00 |
 | 7/29/2024 | OCP3412A | LEDS Re-Certification | Passed | 0.0 | 1.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

@@ -52,6 +52,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 8/13/2024
+  certificate: Police Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 2/11/2022
+  expiration_date: 5/13/2029
+  probation_date: ''
 - status_date: 6/3/2024
   certificate: Parole  Probation Officer
   level: Basic
@@ -59,13 +66,6 @@ certification_records:
   certificate_date: ''
   expiration_date: ''
   probation_date: 12/3/2025
-- status_date: 2/11/2022
-  certificate: Police Officer
-  level: Basic
-  status: Granted
-  certificate_date: 2/11/2022
-  expiration_date: 8/13/2024
-  probation_date: ''
 training_records:
 - date: 12/3/2025
   course: M31-21A

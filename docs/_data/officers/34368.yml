@@ -154,6 +154,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/31/2024
+  course: BNP0203A
+  title: Bend PD Emergency Evacuation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2024
+  course: BNP3700A
+  title: Heat Illness and Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2024
+  course: BNP2739A
+  title: HAZCOM HAZMAT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2024
+  course: BNP1143A
+  title: Bend PD and Tri-County Pursuit Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/30/2024
+  course: BNP3371A
+  title: Workplace Harassment and HR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/30/2024
+  course: BNP3282A
+  title: OSHA Wildfire exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/30/2024
+  course: BNP3526A
+  title: Use of Force Policy review and Test
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/25/2024
   course: BNP2615A
   title: FTO Leadership

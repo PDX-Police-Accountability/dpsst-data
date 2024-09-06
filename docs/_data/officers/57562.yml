@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 8/29/2024
+  course: OCP3101A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/12/2024
   course: SMP2480A
   title: Taser Instructor Certification/Recertification

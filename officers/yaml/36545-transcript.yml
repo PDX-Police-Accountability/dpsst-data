@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2024
+  course: HBP0264A
+  title: Domestic and International Terrorist Threats
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/30/2024
   course: HBP4110A
   title: Respectful Workplace - Employee Training

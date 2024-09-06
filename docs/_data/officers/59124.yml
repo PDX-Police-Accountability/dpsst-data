@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/19/2024
+  course: REG2779A
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/24/2024
   course: BVP1021A
   title: EVOC IST 072424am

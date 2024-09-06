@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 9/3/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 4/26/2023
   certificate: Police Officer
   level: Basic
@@ -1311,4 +1318,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 2/21/2022
   expiration_date: ''
-education_records: []
+education_records:
+- date: 12/13/2019
+  degree: Bachelor Arts
+  school: University Of Portland
+  major: Sociology
+  hours: '142.8'

@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2024 | OCP2672A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
+| 8/28/2024 | OCP2123A | Patrol Tactics | Instructed | 0.0 | 5.00 |
 | 8/13/2024 | OCP1219A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/25/2024 | OCP1366A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

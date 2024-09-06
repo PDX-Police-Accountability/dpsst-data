@@ -22,8 +22,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/13/2024 | Police Officer | Basic | Lapsed | 2/11/2022 | 5/13/2029 |  |
 | 6/3/2024 | Parole  Probation Officer | Basic | Required |  |  | 12/3/2025 |
-| 2/11/2022 | Police Officer | Basic | Granted | 2/11/2022 | 8/13/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
