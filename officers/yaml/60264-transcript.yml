@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 7/25/2024
+  course: VND4229A
+  title: Parole Board/DOC Roadshow
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/19/2024
   course: M32-20A
   title: Armed Parole and Probation Course

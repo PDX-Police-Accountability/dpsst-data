@@ -38,6 +38,7 @@
 | 8/8/2024 | OCS1630A | Firearms Qualification | Passed | 0.0 | 1.00 |
 | 7/31/2024 | OCS0464A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 7/25/2024 | OCS3337A | CPR/First Aid | Passed | 0.0 | 6.00 |
+| 7/25/2024 | VND4229A | Parole Board/DOC Roadshow | Passed | 0.0 | 4.00 |
 | 7/19/2024 | M32-20A | Armed Parole and Probation Course | Passed | 0.0 | 80.00 |
 | 6/27/2024 | OCS3568A | Firearms | Passed | 0.0 | 3.00 |
 | 6/27/2024 | OCS0034A | Firearms | Passed | 0.0 | 3.00 |

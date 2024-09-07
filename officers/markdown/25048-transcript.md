@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2024 | SAG1551A | First Aid Training | Passed | 0.0 | 4.00 |
 | 6/12/2024 | AVP2518A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/11/2024 | SAG3574A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/8/2024 | AVP4026A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
@@ -77,7 +78,7 @@
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Instructed | 0.0 | 16.00 |
 | 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |
 | 2/17/2022 | SAG18841 | Firearms | Passed | 0.0 | 1.50 |
-| 2/17/2022 | SAG33300 | TASER X26P Annual Recertification | Passed | 0.0 | 1.50 |
+| 2/17/2022 | SAG33300 | Taser X26P Annual Recertification | Passed | 0.0 | 1.50 |
 | 2/10/2022 | F6R38186 | Officer Involved Shotting Investigations | Instructed | 0.0 | 2.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2021 | 21-CVDLD | 2021 LE Leadership 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2024 | SAG1551A | First Aid Training | Passed | 0.0 | 4.00 |
 | 8/14/2024 | SAG2271A | Firearms training | Passed | 0.0 | 3.00 |
 | 6/11/2024 | SAG3574A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 2.00 |

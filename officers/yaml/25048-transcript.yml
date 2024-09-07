@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2024
+  course: SAG1551A
+  title: First Aid Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/12/2024
   course: AVP2518A
   title: Marion County Leadership Monthly Meeting
@@ -311,7 +317,7 @@ training_records:
   hours: '1.50'
 - date: 2/17/2022
   course: SAG33300
-  title: TASER X26P Annual Recertification
+  title: Taser X26P Annual Recertification
   status: Passed
   score: '0.0'
   hours: '1.50'

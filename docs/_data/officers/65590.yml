@@ -1,0 +1,34 @@
+---
+header_record:
+  name: Topp, William M.
+  dpsst_identifier: '65590'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 9/26/2024
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 9/26/2024
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 3/26/2026
+training_records:
+- date: 3/3/2025
+  course: 25-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []

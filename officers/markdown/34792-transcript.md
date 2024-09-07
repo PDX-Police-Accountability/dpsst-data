@@ -47,7 +47,7 @@
 | 4/19/2024 | ADP3569A | Karly's Law | Passed | 0.0 | 1.00 |
 | 4/19/2024 | ADP3790A | Search Warrant and Seizure | Passed | 0.0 | 1.00 |
 | 4/12/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 3/22/2024 | ADP1228A | TASER Instructor | Passed | 0.0 | 16.00 |
+| 3/22/2024 | ADP1228A | Taser Instructor | Passed | 0.0 | 16.00 |
 | 3/8/2024 | ADP1864A | DT/Wrap Training | Passed | 0.0 | 4.00 |
 | 3/2/2024 | TAP3329A | HAZMAT First Responder Awareness Level 1 | Passed | 0.0 | 1.50 |
 | 2/28/2024 | TAP0313A | TASER Certification/Recert | Instructed | 0.0 | 0.50 |
@@ -67,8 +67,8 @@
 | 9/4/2023 | TAP0394A | DPSST Legal Update May and June 2023 | Passed | 0.0 | 0.75 |
 | 8/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/15/2023 | ADP0017A | Ethos - Principles of Leadership | Passed | 0.0 | 3.00 |
-| 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Instructed | 0.0 | 8.00 |
-| 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Passed | 0.0 | 4.00 |
+| 8/15/2023 | ADP3740A | Taser 7 Annual Recertification | Instructed | 0.0 | 8.00 |
+| 8/15/2023 | ADP3740A | Taser 7 Annual Recertification | Passed | 0.0 | 4.00 |
 | 8/15/2023 | TAP4140A | Heat/Smoke Exposure Training | Passed | 0.0 | 0.50 |
 | 7/10/2023 | TAP0567A | DPSST Traffic Safety News - June 2023 | Passed | 0.0 | 0.75 |
 | 7/5/2023 | TAP2510A | DPSST Legal Update March April 2023 | Passed | 0.0 | 0.75 |
@@ -142,7 +142,7 @@
 | 12/20/2021 | TAP37246 | Tctical Medical Care Evolution Officer Down Trng | Passed | 0.0 | 1.00 |
 | 12/13/2021 | ADP10370 | Taser 7 User Recertification Course | Passed | 0.0 | 1.00 |
 | 12/8/2021 | TAP18183 | Naoloxone Training Protocol / Training Videos | Passed | 0.0 | 1.00 |
-| 12/8/2021 | TAP07502 | TASER CEW Annual Recertification | Passed | 0.0 | 1.50 |
+| 12/8/2021 | TAP07502 | Taser CEW Annual Recertification | Passed | 0.0 | 1.50 |
 | 11/30/2021 | ADP41413 | Taser 7 User Recertification Course (Classroom) | Passed | 0.0 | 1.50 |
 | 11/16/2021 | ADP00567 | Defensive Tactics | Passed | 0.0 | 1.50 |
 | 11/10/2021 | TAP01204 | AVISTA EmergRspndrs Nat Gas and Elect Emrgncy | Passed | 0.0 | 1.00 |

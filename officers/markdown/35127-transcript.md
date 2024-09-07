@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2024 | SAG1551A | First Aid Training | Passed | 0.0 | 4.00 |
 | 5/29/2024 | SAG1582A | Hiding on the Internet: TOR, Darknet | Passed | 0.0 | 2.50 |
 | 5/28/2024 | SAG3155A | Internet Identifiers: Names and Numbers | Passed | 0.0 | 2.00 |
 | 5/16/2024 | SAG3723A | New Approaches to Tech Crime Scene Analysis | Passed | 0.0 | 1.50 |
@@ -68,7 +69,7 @@
 | 5/26/2022 | SAG11522 | Firearms/Use of Force | Passed | 0.0 | 3.00 |
 | 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |
 | 2/17/2022 | SAG18841 | Firearms | Passed | 0.0 | 1.50 |
-| 2/17/2022 | SAG33300 | TASER X26P Annual Recertification | Passed | 0.0 | 1.50 |
+| 2/17/2022 | SAG33300 | Taser X26P Annual Recertification | Passed | 0.0 | 1.50 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/18/2022 | SAG38967 | Firearms | Passed | 0.0 | 2.00 |
 | 12/31/2021 | 21-CVDL3 | 2021 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

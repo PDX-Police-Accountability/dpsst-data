@@ -127,13 +127,13 @@ certification_records:
 training_records:
 - date: 11/29/2022
   course: PDS20641
-  title: In our own voice for law enforcement
+  title: In Our Own Voice for Law Enforcement
   status: Passed
   score: '0.0'
   hours: '1.50'
 - date: 11/29/2022
   course: PDS12425
-  title: In our own voice for law enforcement
+  title: In Our Own Voice for Law Enforcement
   status: Passed
   score: '0.0'
   hours: '1.50'

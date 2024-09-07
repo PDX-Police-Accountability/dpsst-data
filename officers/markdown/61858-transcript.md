@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/20/2024 | MFN0108A | Constructive Possession | Passed | 0.0 | 1.00 |
 | 7/25/2024 | MFN2540A | Firearms-Optional Reloads | Passed | 0.0 | 1.50 |
+| 7/24/2024 | VND0428A | Parole Board/DOC Roadshow | Passed | 0.0 | 4.00 |
 | 6/27/2024 | BPT1291A | Oregon Case Management Network - Summer 24 | Passed | 0.0 | 8.00 |
 | 6/26/2024 | BPT2107A | Oregon Case Management Network - Summer 24 | Passed | 0.0 | 4.00 |
 | 6/25/2024 | TRN0865A | Oregon Case Management Network - Summer 24 | Passed | 0.0 | 4.00 |

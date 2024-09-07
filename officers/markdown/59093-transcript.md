@@ -18,10 +18,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/2/2024 | Emergency Medical Dispatcher | Basic | Expired | 6/17/2019 |  |  |
+| 8/2/2024 | Telecommunicator | Basic | Expired | 6/17/2019 |  |  |
 | 4/23/2024 | Police Officer | Intermediate | Granted | 4/23/2024 |  |  |
 | 3/11/2021 | Police Officer | Basic | Granted | 3/11/2021 |  |  |
-| 8/2/2020 | Emergency Medical Dispatcher | Basic | Lapsed | 6/17/2019 | 8/2/2024 |  |
-| 8/2/2020 | Telecommunicator | Basic | Lapsed | 6/17/2019 | 8/2/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

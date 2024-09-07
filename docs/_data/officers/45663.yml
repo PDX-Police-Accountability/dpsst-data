@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2024
+  course: SAG1551A
+  title: First Aid Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/20/2024
   course: SAG3615A
   title: ICAC 101

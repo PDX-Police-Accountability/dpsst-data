@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2024 | BNP3135A | Inclusive Policing for Leaders | Passed | 0.0 | 6.00 |
 | 8/28/2024 | OSH4435A | Characteristics of Culture - Module 1 | Passed | 0.0 | 3.00 |
 | 8/28/2024 | OSH3631A | Characteristics of Culture - Module 2 Bias By Us | Passed | 0.0 | 3.00 |
 | 8/13/2024 | BNP3965A | Control Tactics- Scott V. Vegas update | Passed | 0.0 | 1.00 |

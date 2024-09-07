@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/8/2024
+  course: VND3807A
+  title: Parole Board/DOC Roadshow
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/7/2024
   course: HBN4251A
   title: Defensive Tactics and Decision Making

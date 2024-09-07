@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2024 | BNP3135A | Inclusive Policing for Leaders | Passed | 0.0 | 6.00 |
 | 8/13/2024 | BNP3965A | Control Tactics- Scott V. Vegas update | Passed | 0.0 | 1.00 |
 | 7/31/2024 | BNP2877A | Carotid Annual Training | Passed | 0.0 | 1.00 |
 | 7/31/2024 | BNP2373A | Lead Awareness | Passed | 0.0 | 0.50 |
