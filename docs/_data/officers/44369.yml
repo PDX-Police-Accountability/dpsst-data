@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/5/2024
+  course: STP2868A
+  title: PPE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/27/2024
   course: STP3816A
   title: Adult and Infant CPR/FIRST-AID/AED
@@ -145,6 +151,12 @@ training_records:
 - date: 4/17/2024
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/17/2024
+  course: STP3470A
+  title: SFST Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2024 | BNP2688A | Shooting while Moving | Passed | 0.0 | 1.00 |
 | 8/15/2024 | BNP2553A | UAS Monthly Training | Passed | 0.0 | 7.50 |
 | 8/3/2024 | BNP1141A | Firearms | Passed | 0.0 | 1.25 |
 | 7/31/2024 | BNP2877A | Carotid Annual Training | Passed | 0.0 | 1.00 |

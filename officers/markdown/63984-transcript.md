@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/16/2023 | Police Officer | Basic | Required |  |  | 9/16/2024 |
+| 3/16/2023 | Police Officer | Basic | ReqCertExt |  |  | 9/16/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/16/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/28/2024 | PDP4332A | OSP DNA Training | Passed | 0.0 | 2.00 |
 | 5/15/2024 | PDP2714A | 2024-1 Advanced Academy Law | Passed | 0.0 | 31.00 |
 | 5/15/2024 | PDP0442A | 2024-1 Advanced Academy SVO | Passed | 0.0 | 3.00 |

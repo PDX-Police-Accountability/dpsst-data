@@ -27,8 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 6/4/2024 | 6/4/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 12/20/2002 |  |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 1/24/2024 |
 ## Education
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/5/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |
 | 6/5/2024 | PDP3343A | 2023-2 In Service Recording Crime Scene Management | Passed | 0.0 | 1.00 |

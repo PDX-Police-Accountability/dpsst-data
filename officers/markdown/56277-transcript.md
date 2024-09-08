@@ -28,9 +28,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/27/2024 | 5/27/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 3/5/2018 |  |
 | Code of Ethics | Signed | 8/14/2016 |  |
 ## Education
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/28/2024 | CAP0787A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 7/25/2024 | CAP3900A | Active Threat Training | Passed | 0.0 | 4.00 |
 | 7/17/2024 | CAP2414A | Positional Shooting/Movement/Shoot_No Shoot | Passed | 0.0 | 2.00 |

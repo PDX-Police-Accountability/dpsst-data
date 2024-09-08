@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2024
+  course: SDP0086A
+  title: Taser 7 Virtual Reality Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/5/2024
   course: REG0657A
   title: DT

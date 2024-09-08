@@ -16,10 +16,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/16/2023 | Police Officer | Basic | Required |  |  | 9/16/2024 |
+| 9/6/2024 | Police Officer | Basic | App Recd |  |  | 9/16/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 7/31/2024 |  |
 | Certification Cards | First Aid and CPR | 1/10/2024 | 1/17/2026 |
 | Code of Ethics | Law Enforcement Signed | 7/17/2023 |  |
 | Certification Cards | First Aid and CPR | 7/13/2023 | 7/13/2025 |
@@ -29,7 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/5/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/17/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |

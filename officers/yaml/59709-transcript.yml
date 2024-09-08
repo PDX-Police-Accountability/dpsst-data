@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/4/2024
+  course: BNP2688A
+  title: Shooting while Moving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/15/2024
   course: BNP2553A
   title: UAS Monthly Training

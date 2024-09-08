@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2024 | SDP0086A | Taser 7 Virtual Reality Training | Passed | 0.0 | 0.50 |
 | 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
 | 7/8/2024 | REG3252A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 7/1/2024 | REG3883A | DT | Passed | 0.0 | 1.00 |
