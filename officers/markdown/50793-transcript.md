@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2024 | PDP0046A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 8/14/2024 | PDP3884A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 6/29/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/29/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

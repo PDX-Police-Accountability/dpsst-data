@@ -75,6 +75,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/23/2024
+  course: PDS0551A
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/23/2024
+  course: PDS0611A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/23/2024
+  course: PDS3269A
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/22/2024
+  course: PDS0208A
+  title: Emergency Management  Facility Evacuation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/22/2024
+  course: PDS3277A
+  title: Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/21/2024
+  course: PDS2081A
+  title: Ethical Behavior
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/19/2024
+  course: PDS1174A
+  title: ADA Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/19/2024
+  course: PDS0869A
+  title: Anti-Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/19/2024
+  course: PDS2312A
+  title: Kinetic Impact Projectile
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/19/2024
+  course: PDS3031A
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/19/2024
+  course: PDS2357A
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/17/2024
   course: PDS4523A
   title: Range

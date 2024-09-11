@@ -50,6 +50,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/17/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 9/6/2024 | SVP3123A | Role in Creating Workplace Culture | Passed | 0.0 | 2.50 |
 | 8/22/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/14/2024 | AVP3190A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 8/8/2024 | WBP4541A | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |

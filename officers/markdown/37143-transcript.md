@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 7/10/2024 | PDP0701A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 6/14/2024 | MFP1824A | CSM-Crisis/Hostage Negotiation Level I | Passed | 0.0 | 40.00 |
 | 6/14/2024 | PDP0194A | Crisis Hostage Negotiation Level I Basic | Passed | 0.0 | 40.00 |

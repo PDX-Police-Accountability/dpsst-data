@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2024 | PDP1959A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
+| 8/15/2024 | PDP2736A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 7/23/2024 | GPN3668A | Gang Awareness and Identification Training | Instructed | 0.0 | 2.00 |
 | 6/28/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 7/10/2024 | PDP0701A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 7/2/2024 | HBS0657A | LMT 4-Shot 40mm Launcher Armorer Course | Passed | 0.0 | 4.00 |
 | 7/2/2024 | PDP3337A | Less Lethal Single  4Shot Launcher Armr | Passed | 0.0 | 16.00 |

@@ -39,6 +39,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2024 | PDS2081A | Ethical Behavior | Passed | 0.0 | 1.00 |
+| 8/16/2024 | PDS2312A | Kinetic Impact Projectile | Passed | 0.0 | 0.50 |
+| 7/31/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
+| 7/26/2024 | PDS0208A | Emergency Management  Facility Evacuation | Passed | 0.0 | 0.50 |
+| 7/26/2024 | PDS0611A | PREA | Passed | 0.0 | 1.00 |
+| 7/25/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
+| 7/24/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
+| 7/24/2024 | PDS0551A | OSHA | Passed | 0.0 | 1.00 |
+| 7/19/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |
+| 7/19/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 7/19/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 7/16/2024 | PDS3943A | MIDD Mobile Fingerprint Device Training | Passed | 0.0 | 1.00 |
 | 7/9/2024 | PDS2214A | Taser | Passed | 0.0 | 8.00 |
 | 6/13/2024 | PDS0131A | Defensive Tactics | Instructed | 0.0 | 4.00 |

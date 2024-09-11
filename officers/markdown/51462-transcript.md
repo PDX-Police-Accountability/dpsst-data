@@ -28,6 +28,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2024 | PDS2312A | Kinetic Impact Projectile | Passed | 0.0 | 0.50 |
+| 8/23/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 8/9/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 8/2/2024 | PDS0208A | Emergency Management  Facility Evacuation | Passed | 0.0 | 0.50 |
+| 8/2/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
+| 7/19/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
 | 6/3/2024 | PDS4272A | Range | Passed | 0.0 | 2.00 |
 | 5/29/2024 | PDS1113A | Monthly Reserve Unit Training | Passed | 0.0 | 2.00 |
 | 5/24/2024 | PDS2109A | Defensive Tactics | Passed | 0.0 | 4.00 |

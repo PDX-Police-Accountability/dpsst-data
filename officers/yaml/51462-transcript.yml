@@ -29,6 +29,42 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 8/23/2024
+  course: PDS2312A
+  title: Kinetic Impact Projectile
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/23/2024
+  course: PDS3269A
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/9/2024
+  course: PDS2357A
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/2/2024
+  course: PDS0208A
+  title: Emergency Management  Facility Evacuation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/2/2024
+  course: PDS3031A
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/19/2024
+  course: PDS1174A
+  title: ADA Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/3/2024
   course: PDS4272A
   title: Range

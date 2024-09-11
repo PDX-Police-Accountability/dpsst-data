@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 7/31/2024 | SAG0001A | Cybertip Triage and Open Source Intelligence | Passed | 0.0 | 8.00 |
 | 7/30/2024 | SAG0293A | Cybertip Triage and Open Source Intelligence | Passed | 0.0 | 8.00 |
 | 6/21/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |

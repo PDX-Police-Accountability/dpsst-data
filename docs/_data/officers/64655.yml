@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/5/2024
+  course: PDP1978A
+  title: 2024 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 7/30/2024
   course: REG1017A
   title: SFST-DID (Hours included in Basic)

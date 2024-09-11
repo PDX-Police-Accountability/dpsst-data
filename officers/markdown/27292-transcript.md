@@ -46,7 +46,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
 | 7/23/2024 | PDS2513A | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
+| 7/23/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
+| 7/18/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
+| 7/18/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
+| 7/18/2024 | PDS0551A | OSHA | Passed | 0.0 | 1.00 |
+| 7/18/2024 | PDS0611A | PREA | Passed | 0.0 | 1.00 |
+| 7/18/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 5/22/2024 | PDS3143A | Corrections Overview | Passed | 0.0 | 6.00 |
 | 5/20/2024 | PDS3034A | May Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 4/16/2024 | PDS0997A | Defensive Tactics | Passed | 0.0 | 4.00 |

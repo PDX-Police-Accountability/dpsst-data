@@ -38,6 +38,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2024 | PDS2081A | Ethical Behavior | Passed | 0.0 | 1.00 |
+| 8/13/2024 | PDS2312A | Kinetic Impact Projectile | Passed | 0.0 | 0.50 |
+| 7/25/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
+| 7/25/2024 | PDS0551A | OSHA | Passed | 0.0 | 1.00 |
+| 7/25/2024 | PDS0611A | PREA | Passed | 0.0 | 1.00 |
+| 7/23/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
+| 7/23/2024 | PDS0208A | Emergency Management  Facility Evacuation | Passed | 0.0 | 0.50 |
+| 7/23/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |
+| 7/23/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
+| 7/23/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 7/23/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 6/7/2024 | PDS0199A | Range | Instructed | 0.0 | 2.00 |
 | 5/15/2024 | PDS4373A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 5/11/2024 | PDS3148A | Range Instructor | Passed | 0.0 | 16.00 |

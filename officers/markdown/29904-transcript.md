@@ -35,6 +35,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 7/22/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
+| 7/22/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |
+| 7/22/2024 | PDS0551A | OSHA | Passed | 0.0 | 1.00 |
+| 7/22/2024 | PDS0611A | PREA | Passed | 0.0 | 1.00 |
+| 7/22/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 7/18/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
+| 7/18/2024 | PDS0208A | Emergency Management  Facility Evacuation | Passed | 0.0 | 0.50 |
+| 7/18/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
 | 6/17/2024 | PDS4523A | Range | Passed | 0.0 | 2.00 |
 | 6/13/2024 | PDS0131A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/15/2024 | PDS3016A | LE Range | Passed | 0.0 | 2.00 |

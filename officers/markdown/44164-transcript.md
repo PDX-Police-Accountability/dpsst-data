@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |
 | 6/3/2024 | PDP1337A | SOP 1-19 Instructor Selection Standards | Passed | 0.0 | 0.25 |
 | 6/3/2024 | PDP0752A | SOP 10-10 Skills Certification Tracking with LMS | Passed | 0.0 | 0.25 |

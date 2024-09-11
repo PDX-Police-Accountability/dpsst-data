@@ -38,6 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/25/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
+| 8/25/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
+| 8/25/2024 | PDS2846A | Foundations in Ethics | Passed | 0.0 | 1.00 |
+| 8/25/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
+| 8/25/2024 | PDS0551A | OSHA | Passed | 0.0 | 1.00 |
+| 8/25/2024 | PDS0611A | PREA | Passed | 0.0 | 1.00 |
+| 8/25/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 8/25/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 5/31/2024 | PDS4006A | Body Scanner Training | Passed | 0.0 | 4.00 |
 | 5/17/2024 | PDS0654A | Corrections Overview | Passed | 0.0 | 6.00 |
 | 5/17/2024 | PDS0811A | Post-Deadly Force | Passed | 0.0 | 2.00 |

@@ -80,12 +80,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2024
+  course: PDS0894A
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/31/2024
+  course: PDS3540A
+  title: Cultural Awareness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/25/2024
   course: PDS3908A
   title: Range
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/3/2024
+  course: PDS1991A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/26/2024
   course: PDS2146A
   title: Defensive Tactics

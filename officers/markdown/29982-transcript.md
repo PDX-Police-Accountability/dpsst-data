@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2024 | SVP3123A | Role in Creating Workplace Culture | Passed | 0.0 | 2.50 |
 | 8/14/2024 | AVP3190A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 7/24/2024 | SVP3272A | EVO In-Service | Instructed | 0.0 | 4.00 |
 | 6/28/2024 | SVP2042A | Defensive Driving Principles | Passed | 0.0 | 1.00 |

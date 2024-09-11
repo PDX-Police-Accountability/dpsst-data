@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/5/2024 | PDP1978A | 2024 FTEP Geography | Passed | 0.0 | 2.50 |
 | 7/30/2024 | REG1017A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 4/29/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 4/24/2024 | PDP0545A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
