@@ -31,6 +31,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/11/2024 | PDP2034A | 2024-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
+| 7/8/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/30/2024 | PLS2469A | PLS 2024 Les 5 Teen Found in the Woods | Passed | 0.0 | 1.00 |
 | 6/30/2024 | PLS1965A | PLS 2024 Les 6 Robbery at Gunpoint | Passed | 0.0 | 1.00 |
 | 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

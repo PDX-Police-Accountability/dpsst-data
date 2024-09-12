@@ -44,6 +44,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/16/2024
+  course: PDP3030A
+  title: 2024-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/16/2024
+  course: PDP1822A
+  title: 2024-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/21/2024
+  course: PDP2586A
+  title: 2024-2 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/21/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/21/2024
+  course: PDP2034A
+  title: 2024-2 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/18/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms

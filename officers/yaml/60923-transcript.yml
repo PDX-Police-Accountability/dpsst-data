@@ -55,6 +55,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/16/2024
+  course: PDP2586A
+  title: 2024-2 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/16/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/16/2024
+  course: PDP3030A
+  title: 2024-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/16/2024
+  course: PDP1822A
+  title: 2024-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/18/2024
   course: PDP3939A
   title: 2024-3 CAO Legal Updates for 03/2024

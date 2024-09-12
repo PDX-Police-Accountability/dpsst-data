@@ -48,6 +48,7 @@
 | 6/5/2024 | PDP3343A | 2023-2 In Service Recording Crime Scene Management | Passed | 0.0 | 1.00 |
 | 6/5/2024 | PDP3175A | 2023-2 In Service Trauma Informed Interviewing | Passed | 0.0 | 2.00 |
 | 6/5/2024 | PDP2789A | 2023-2 IS Trauma Informed Interview Pt 3 | Passed | 0.0 | 1.00 |
+| 6/5/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/4/2024 | PDP2458A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/4/2024 | PDP3888A | 2023-2 TT Body Worn Camera (BWC) Pilot Policy | Passed | 0.0 | 0.25 |
 | 6/4/2024 | PDP1725A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |

@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 7/26/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/18/2024 | PDP3398A | NATIA Annual Training Conf  Tech Exhibit | Passed | 0.0 | 24.50 |
 | 6/28/2024 | PDP2550A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 40.00 |
 | 6/28/2024 | PDP4171A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 36.00 |

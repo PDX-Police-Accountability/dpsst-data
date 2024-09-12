@@ -41,6 +41,7 @@
 | 8/14/2024 | PDP3884A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 8/7/2024 | PDP3884A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 7/24/2024 | PDP3818A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 7/17/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/14/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/12/2024 | PDP1702A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 5/29/2024 | PDP1702A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

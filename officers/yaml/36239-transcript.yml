@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/17/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/13/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits

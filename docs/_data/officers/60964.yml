@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/23/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/22/2024
   course: PDP4264A
   title: Red Dot Optic Transition Course
@@ -78,6 +84,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '60.00'
+- date: 5/17/2024
+  course: PDP2311A
+  title: 2024-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/7/2024
+  course: PDP2586A
+  title: 2024-2 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/7/2024
+  course: PDP3030A
+  title: 2024-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/7/2024
+  course: PDP1822A
+  title: 2024-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/25/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

@@ -44,6 +44,7 @@
 | 6/11/2024 | PDP1665A | 2024 FTEP Policy  Procedure | Instructed | 0.0 | 9.00 |
 | 5/27/2024 | PDP3757A | SOP 3-8 Sergeant Mentorship Program Guidelines | Passed | 0.0 | 0.25 |
 | 5/20/2024 | PDP3578A | 2024 FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
+| 5/9/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/7/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
 | 5/7/2024 | PDP4233A | 2024-1 All Sworn In-Service PVO/BoxIn | Passed | 0.0 | 1.50 |
 | 5/7/2024 | PDP0063A | 2024-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.50 |

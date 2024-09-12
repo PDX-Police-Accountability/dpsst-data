@@ -44,6 +44,7 @@
 | 6/24/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 5/20/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/6/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/21/2024 | OSH1123A | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 30.00 |
 | 3/21/2024 | PDP3426A | OSP Mobile Vehicle and Foot Surveillance | Passed | 0.0 | 27.00 |

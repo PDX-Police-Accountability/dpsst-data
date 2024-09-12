@@ -86,6 +86,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/8/2024
+  course: PDP2311A
+  title: 2024-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/8/2024
+  course: PDP2586A
+  title: 2024-2 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/8/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/6/2024
   course: PDP2151A
   title: 2024 Investigator In-Service Case Study

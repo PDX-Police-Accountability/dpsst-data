@@ -43,6 +43,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2024 | BPT1276A | It's Not About Us | Passed | 0.0 | 2.00 |
+| 9/4/2024 | BPT1072A | Use of Force and Human Factors | Passed | 0.0 | 2.00 |
+| 9/3/2024 | BPT0711A | Adult Learning | Passed | 0.0 | 4.00 |
+| 9/3/2024 | BPT0263A | We've Always Done it This Way | Passed | 0.0 | 4.00 |
 | 2/21/2024 | BPT2630A | Use of Force | Passed | 0.0 | 2.00 |
 | 2/21/2024 | BPT4135A | Vehicle Stop Workshop II | Passed | 0.0 | 1.00 |
 | 2/20/2024 | BPT1042A | Skills Lab Workshop | Passed | 0.0 | 2.00 |

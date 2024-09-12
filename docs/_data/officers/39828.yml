@@ -98,6 +98,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/19/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/19/2024
+  course: PDP1822A
+  title: 2024-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2024
+  course: PDP3030A
+  title: 2024-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/16/2024
   course: PDP3174A
   title: NAMOA Conference

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/11/2024 | HDA2590A | ONEA Training Institute - Cryptocurrency Invest | Passed | 0.0 | 4.00 |
 | 7/11/2024 | HDA1120A | ONEA Training Institute - Cryptocurrency Invest | Passed | 0.0 | 4.00 |
 | 7/11/2024 | PDP2023A | ONEA Training Institute | Passed | 0.0 | 23.50 |

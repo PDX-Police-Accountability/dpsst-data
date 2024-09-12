@@ -62,6 +62,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/18/2024
+  course: PDP2311A
+  title: 2024-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/18/2024
+  course: PDP2586A
+  title: 2024-2 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/18/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/18/2024
+  course: PDP0909A
+  title: 2024-2 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/12/2024
   course: PDP2620A
   title: 2024 Rapid Response Team (RRT) Monthly Training

@@ -61,7 +61,7 @@ training_records:
   hours: '3.00'
 - date: 2/6/2017
   course: ALP42864
-  title: CPR/First Aid (AED included)
+  title: CPR/First Aid (AED Included)
   status: Passed
   score: '0.0'
   hours: '4.00'

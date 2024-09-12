@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 7/8/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/2/2024
   course: PDP3185A
   title: 2024 FTEP Orientation

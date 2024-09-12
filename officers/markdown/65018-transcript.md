@@ -36,6 +36,7 @@
 | 8/7/2024 | PDP4175A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 8/6/2024 | PDP0929A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 8/1/2024 | PDP2951A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 22.00 |
+| 8/1/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/25/2024 | REG4286A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/13/2024 | PDP3290A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 4/1/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

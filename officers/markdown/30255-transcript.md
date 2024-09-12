@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2024 | BPT1276A | It's Not About Us | Passed | 0.0 | 2.00 |
+| 9/4/2024 | BPT1072A | Use of Force and Human Factors | Passed | 0.0 | 2.00 |
+| 9/3/2024 | BPT0711A | Adult Learning | Passed | 0.0 | 4.00 |
+| 9/3/2024 | BPT0263A | We've Always Done it This Way | Passed | 0.0 | 4.00 |
 | 8/30/2024 | REG2098A | EVO Instructor 2 - Driver Evaluation/Documentation | Instructed | 0.0 | 8.00 |
 | 9/22/2023 | REG4146A | Handgun IDC | Passed | 0.0 | 8.00 |
 | 7/21/2023 | REG0074A | Advanced Driver Diagnostics and Behaviors | Instructed | 0.0 | 40.00 |

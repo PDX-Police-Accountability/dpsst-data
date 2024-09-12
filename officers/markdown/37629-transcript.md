@@ -41,6 +41,7 @@
 | 6/19/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/15/2024 | PDP3757A | SOP 3-8 Sergeant Mentorship Program Guidelines | Passed | 0.0 | 0.25 |
+| 5/9/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/26/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
 | 4/26/2024 | PDP3655A | SOP 3-4 FTO Selection, Standards, Certification | Passed | 0.0 | 0.25 |
 | 4/26/2024 | PDP2092A | SOP 6-1 Crisis Intervention Training | Passed | 0.0 | 0.25 |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/9/2024 | WLP0074A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |
 | 7/31/2024 | WLP3877A | Elder Abuse Investigations | Passed | 0.0 | 1.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/24/2024 | WLP0024A | Defensive Tactics - Handcuffing/Hobbles/Scenarios | Passed | 0.0 | 2.00 |

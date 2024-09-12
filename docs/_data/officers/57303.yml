@@ -49,12 +49,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/5/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/2/2024
   course: PDP1358A
   title: 2024-2 Patrol Rifle Operator Course
   status: Passed
   score: '0.0'
   hours: '60.00'
+- date: 5/31/2024
+  course: PDP2311A
+  title: 2024-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/17/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms

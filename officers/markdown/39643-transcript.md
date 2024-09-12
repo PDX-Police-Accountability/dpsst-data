@@ -41,6 +41,8 @@
 | 7/11/2024 | REG0597A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 7/8/2024 | REG3252A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 7/1/2024 | REG3883A | DT | Passed | 0.0 | 1.00 |
+| 6/28/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 6/28/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2024 | REG3422A | Striking/Ground Control | Passed | 0.0 | 1.00 |
 | 6/27/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |

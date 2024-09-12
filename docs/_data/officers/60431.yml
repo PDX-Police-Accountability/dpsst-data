@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/27/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/23/2024
   course: PDP1036A
   title: 2024 Investigator In-Service Device Warrants

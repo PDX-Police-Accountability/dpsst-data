@@ -104,6 +104,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 5/9/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/7/2024
   course: PDP2966A
   title: 2024-1 All Sworn In-Service MFF Classroom

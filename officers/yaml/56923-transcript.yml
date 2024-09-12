@@ -56,6 +56,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/17/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/17/2024
+  course: PDP2034A
+  title: 2024-2 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/1/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

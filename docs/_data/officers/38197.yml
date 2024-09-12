@@ -75,6 +75,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/15/2024
+  course: PDP2311A
+  title: 2024-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/15/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/15/2024
+  course: PDP0909A
+  title: 2024-2 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/10/2024
   course: PDP0701A
   title: 2024 CNT Crisis Negotiation Team Annual Training

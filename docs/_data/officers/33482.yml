@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/21/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/23/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms
@@ -173,6 +179,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/20/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet
@@ -4618,6 +4630,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/25/2023
   expiration_date: 4/25/2025
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022

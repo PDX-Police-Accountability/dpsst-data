@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/9/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/15/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms
@@ -231,6 +237,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 12/31/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/28/2023
   course: PDP3507A
   title: 2023-2 All Sworn In-Service BWC Policy
@@ -5044,6 +5056,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/25/2023

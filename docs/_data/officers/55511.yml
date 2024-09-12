@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/21/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/12/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

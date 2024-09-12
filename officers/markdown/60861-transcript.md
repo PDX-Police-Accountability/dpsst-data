@@ -35,6 +35,7 @@
 | 6/24/2024 | BNS0790A | EVOC - Patrol Vehicle and Armored Rescue Vehicle | Passed | 0.0 | 2.00 |
 | 6/24/2024 | BNS4491A | PIT | Passed | 0.0 | 1.00 |
 | 6/24/2024 | BNS1423A | Pursuit Management | Passed | 0.0 | 1.00 |
+| 5/26/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/13/2024 | BNS2976A | Breaching, Vehicle pins, High risk veh stops | Passed | 0.0 | 2.00 |
 | 5/13/2024 | BNS4075A | Narcotics recognition and Search and Seizure | Passed | 0.0 | 2.00 |
 | 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

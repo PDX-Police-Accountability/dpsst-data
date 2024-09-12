@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/9/2024
+  course: WLP0074A
+  title: Equity in Policing and Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/8/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

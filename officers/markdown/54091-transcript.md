@@ -35,6 +35,7 @@
 | 9/16/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 7/29/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
 | 7/10/2024 | PDP3934A | Red Dot Optic Transition Course | Passed | 0.0 | 15.00 |
+| 7/10/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/27/2024 | PDP0919A | 2023-2 IS Trauma Informed Interviewing Pt 2 | Passed | 0.0 | 0.50 |
 | 6/27/2024 | PDP3346A | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 6/27/2024 | PDP1992A | 2024-1 All Sworn In-Service Wellness Recording | Passed | 0.0 | 1.00 |

@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/12/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/25/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/25/2024 | PDP2034A | 2024-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 5/8/2024 | PDP1013A | IS-242 Effective Communication | Passed | 0.0 | 8.00 |
 | 5/7/2024 | PDP1049A | IS-241 Decision Making  Problem Solving | Passed | 0.0 | 2.00 |
 | 5/7/2024 | PDP0577A | IS-2200 Basic Emerg Ops Ctr Functions | Passed | 0.0 | 4.00 |

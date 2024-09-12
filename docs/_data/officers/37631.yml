@@ -94,6 +94,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/3/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/19/2024
   course: OAC0500A
   title: 'Honoring the Badge: Understand/Avoid Ethical Pit'

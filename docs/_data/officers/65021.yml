@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 8/20/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/12/2024
   course: PDP0006A
   title: 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit

@@ -42,6 +42,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/25/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/25/2024
+  course: PDP0909A
+  title: 2024-2 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/15/2024
   course: PDP4494A
   title: 2024 Rapid Response Team (RRT) Cadre Training

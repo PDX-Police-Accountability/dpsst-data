@@ -41,6 +41,7 @@
 | 6/3/2024 | PDP2195A | 2023-2 In Service Recording Legal Updates | Passed | 0.0 | 1.25 |
 | 6/3/2024 | PDP2775A | 2023-2 In Service Recording Legal Updates Part 1 | Passed | 0.0 | 0.75 |
 | 6/3/2024 | PDP2681A | 2023-2 In Service Recording Legal Updates Part 2 | Passed | 0.0 | 0.50 |
+| 6/2/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/29/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/25/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 4/25/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

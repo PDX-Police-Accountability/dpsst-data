@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/22/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/22/2024 | PDP2034A | 2024-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 7/11/2024 | HDA1707A | ONEA Training Institute - Arrest of Chapo | Passed | 0.0 | 4.00 |
 | 7/11/2024 | HDA1120A | ONEA Training Institute - Cryptocurrency Invest | Passed | 0.0 | 4.00 |
 | 7/11/2024 | HDA2590A | ONEA Training Institute - Cryptocurrency Invest | Passed | 0.0 | 4.00 |

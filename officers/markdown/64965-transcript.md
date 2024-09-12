@@ -50,6 +50,7 @@
 | 6/25/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP1373A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP0748A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 23.00 |
+| 6/24/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/22/2024 | PDP2482A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 6/22/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |
 | 6/21/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |

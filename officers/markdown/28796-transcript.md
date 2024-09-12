@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/8/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 7/18/2024 | PDP3398A | NATIA Annual Training Conf  Tech Exhibit | Passed | 0.0 | 24.50 |
 | 6/28/2024 | PDP0432A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 8.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

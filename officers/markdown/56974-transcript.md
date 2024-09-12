@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/24/2024 | PDP2065A | Palm Prints: Searching Smart | Passed | 0.0 | 24.00 |
 | 4/20/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 4/12/2024 | PDP3385A | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |

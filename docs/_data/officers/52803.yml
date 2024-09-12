@@ -43,6 +43,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/4/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/4/2024
+  course: PDP0909A
+  title: 2024-2 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/25/2024
   course: PDP3372A
   title: 2024 Safe Training Procedures
@@ -61,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/31/2024
+  course: PDP2034A
+  title: 2024-2 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/12/2024
   course: PDP0779A
   title: 2023 PPB Honor Guard In Service Training
