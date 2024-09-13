@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2024
+  course: BVP2961A
+  title: Aug 2024 40 HR Bike Class
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/11/2024
   course: BVP0755A
   title: EVOC IST 071124pm
