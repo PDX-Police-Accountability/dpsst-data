@@ -4,7 +4,7 @@
 | name | Willard, Elizabeth A. |
 | dpsst_identifier | 28929 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,17 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/4/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 6/1/2006 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/9/2001 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 12/30/1993 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 |  |  |
-| 2/6/2008 | Police Officer | Basic | Granted | 2/6/2008 |  |  |
-| 2/6/2008 | Police Officer | Intermediate | Granted | 2/6/2008 |  |  |
-| 12/9/2001 | Police Officer | Basic | Lapsed | 10/12/1994 |  |  |
-| 12/9/2001 | Police Officer | Intermediate | Lapsed | 8/21/2000 |  |  |
+| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 | 12/4/2024 |  |
+| 2/6/2008 | Police Officer | Basic | Reactivatd | 10/12/1994 | 12/4/2024 |  |
+| 2/6/2008 | Police Officer | Intermediate | Reactivatd | 8/21/2000 | 12/4/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

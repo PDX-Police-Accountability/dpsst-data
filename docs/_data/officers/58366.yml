@@ -80,6 +80,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 9/11/2024
+  course: OSH2461A
+  title: Characteristics of Culture Module 1
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/11/2024
+  course: OSH0427A
+  title: Characteristics of Culture Module 1
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/5/2024
   course: OSH2163A
   title: Sworn Leadership Training

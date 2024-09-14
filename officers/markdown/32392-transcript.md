@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2024 | TGP3533A | Firearms Qualification | Instructed | 0.0 | 2.00 |
+| 8/28/2024 | TGP0969A | Firearms Qualification | Instructed | 0.0 | 2.00 |
 | 8/7/2024 | TGP3976A | HTTC - Human Trafficking Training | Passed | 0.0 | 16.00 |
 | 6/11/2024 | TGP0037A | Human Intelligence: AKA Informants | Passed | 0.0 | 8.00 |
 | 5/17/2024 | TGP3743A | Cellebrite Certified Operator  Physical Analyst | Passed | 0.0 | 40.00 |

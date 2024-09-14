@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/11/2024
+  course: OSH0973A
+  title: Active Threat Instructor In-Service Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/9/2024
   course: OSH0400A
   title: 2024 3rd Trimester Survival Skills

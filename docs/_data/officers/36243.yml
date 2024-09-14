@@ -95,6 +95,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2024
+  course: HBS2298A
+  title: LEDs Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/31/2024
+  course: HBS0644A
+  title: LEDs Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/21/2024
   course: LOP2261A
   title: West Metro Monthly Motor Training 08/21/2024

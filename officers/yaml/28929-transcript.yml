@@ -3,12 +3,18 @@ header_record:
   name: Willard, Elizabeth A.
   dpsst_identifier: '28929'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/4/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 6/1/2006
   agency: Portland Police Bureau
   action: Hired
@@ -33,35 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 11/22/2010
-  expiration_date: ''
+  expiration_date: 12/4/2024
   probation_date: ''
 - status_date: 2/6/2008
   certificate: Police Officer
   level: Basic
-  status: Granted
-  certificate_date: 2/6/2008
-  expiration_date: ''
-  probation_date: ''
-- status_date: 2/6/2008
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 2/6/2008
-  expiration_date: ''
-  probation_date: ''
-- status_date: 12/9/2001
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 10/12/1994
-  expiration_date: ''
+  expiration_date: 12/4/2024
   probation_date: ''
-- status_date: 12/9/2001
+- status_date: 2/6/2008
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 8/21/2000
-  expiration_date: ''
+  expiration_date: 12/4/2024
   probation_date: ''
 training_records:
 - date: 6/25/2024

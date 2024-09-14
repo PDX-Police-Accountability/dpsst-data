@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/28/2024
+  course: HBN3233A
+  title: Workplace Discrimination, Harassment  Retaliation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/16/2024
   course: HBN4251A
   title: Defensive Tactics and Decision Making
