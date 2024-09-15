@@ -33,6 +33,8 @@
 | 12/10/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 12/10/2025 | REQAPP | REQUIRED TRAINING: Armed Parole and Probation | Required | 0.0 | 0.00 |
 | 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 9/12/2024 | OCN2174A | Human Trafficking | Passed | 0.0 | 2.00 |
+| 8/21/2024 | OCN2362A | Defensive Tactics Training | Passed | 0.0 | 1.00 |
 | 8/15/2024 | OCS1925A | Errichment Academy Drugs | Passed | 0.0 | 1.00 |
 | 8/14/2024 | OCS0497A | Firearms Training | Passed | 0.0 | 2.00 |
 | 8/8/2024 | OCS1630A | Firearms Qualification | Passed | 0.0 | 1.00 |
@@ -44,4 +46,9 @@
 | 6/27/2024 | OCS0034A | Firearms | Passed | 0.0 | 3.00 |
 | 6/25/2024 | OCS2177A | Consim | Passed | 0.0 | 3.00 |
 | 6/20/2024 | OCS1388A | Device Searches | Passed | 0.0 | 2.00 |
+| 6/4/2024 | OCN3460A | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
+| 6/4/2024 | OCN1590A | Ethics | Passed | 0.0 | 0.50 |
+| 6/4/2024 | OCN4171A | Narcan | Passed | 0.0 | 0.50 |
+| 6/4/2024 | OCN4100A | Mandatory Reporter | Passed | 0.0 | 0.50 |
+| 6/4/2024 | OCN2915A | PREA | Passed | 0.0 | 0.50 |
 | 12/9/2019 | M10-19A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2024 | OSH0750A | OSP Active Shooter Instructor Development Course | Instructed | 0.0 | 4.00 |
 | 9/11/2024 | OSH0973A | Active Threat Instructor In-Service Training | Instructed | 0.0 | 8.00 |
 | 8/9/2024 | OSH0400A | 2024 3rd Trimester Survival Skills | Instructed | 0.0 | 4.00 |
 | 6/7/2024 | OSH0080A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |

@@ -42,7 +42,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/3/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 9/12/2024 | OCN2174A | Human Trafficking | Passed | 0.0 | 2.00 |
 | 8/27/2024 | TRN1117A | Sanctions and Incentives Grid Training | Passed | 0.0 | 1.00 |
+| 8/21/2024 | OCN2362A | Defensive Tactics Training | Passed | 0.0 | 1.00 |
 | 8/15/2024 | OCS1925A | Errichment Academy Drugs | Passed | 0.0 | 1.00 |
 | 8/8/2024 | OCS4123A | LS/CMI Basic | Passed | 0.0 | 12.00 |
 | 7/31/2024 | OCS0464A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
@@ -51,6 +53,11 @@
 | 6/27/2024 | OCS3568A | Firearms | Passed | 0.0 | 3.00 |
 | 6/27/2024 | OCS0034A | Firearms | Passed | 0.0 | 3.00 |
 | 6/25/2024 | OCS2177A | Consim | Passed | 0.0 | 3.00 |
+| 6/4/2024 | OCN3460A | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
+| 6/4/2024 | OCN1590A | Ethics | Passed | 0.0 | 0.50 |
+| 6/4/2024 | OCN4171A | Narcan | Passed | 0.0 | 0.50 |
+| 6/4/2024 | OCN4100A | Mandatory Reporter | Passed | 0.0 | 0.50 |
+| 6/4/2024 | OCN2915A | PREA | Passed | 0.0 | 0.50 |
 | 4/25/2024 | OCP0705A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 4/15/2024 | OCP0856A | DUII Case Law Update | Passed | 0.0 | 0.25 |
 | 3/27/2024 | OCP1380A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2024
+  course: OSH0750A
+  title: OSP Active Shooter Instructor Development Course
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/11/2024
   course: OSH0973A
   title: Active Threat Instructor In-Service Training

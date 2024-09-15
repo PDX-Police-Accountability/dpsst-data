@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2024 | PPP3811A | Sgt. Investigation of Force | Passed | 0.0 | 16.00 |
 | 7/20/2024 | HSU2040A | Supplemental Range | Passed | 0.0 | 2.00 |
 | 6/23/2024 | HSU2040A | Supplemental Range | Passed | 0.0 | 2.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

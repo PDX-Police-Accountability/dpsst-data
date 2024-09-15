@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/13/2024
+  course: ALP2690A
+  title: FBI LEEDA Supervisor Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 8/14/2024
   course: PDP0915A
   title: 2024 CNT Crisis Negotiation Team Annual Training
