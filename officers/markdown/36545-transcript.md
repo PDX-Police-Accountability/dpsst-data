@@ -38,6 +38,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/29/2024 | HBP0264A | Domestic and International Terrorist Threats | Passed | 0.0 | 2.00 |
+| 8/16/2024 | HBP0243A | 2024 IHIA Annual Training Symposium | Passed | 0.0 | 36.00 |
+| 8/7/2024 | HBP1605A | ACAP - Airways Training | Passed | 0.0 | 2.00 |
 | 6/30/2024 | HBP4110A | Respectful Workplace - Employee Training | Passed | 0.0 | 1.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/11/2024 | HBP3017A | Concepts of Force Science | Passed | 0.0 | 3.50 |

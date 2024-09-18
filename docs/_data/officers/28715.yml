@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2024
+  course: HBP0243A
+  title: 2024 IHIA Annual Training Symposium
+  status: Passed
+  score: '0.0'
+  hours: '33.25'
+- date: 8/12/2024
+  course: HBP1976A
+  title: IHIA Conference Leadership Session
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
 - date: 8/8/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

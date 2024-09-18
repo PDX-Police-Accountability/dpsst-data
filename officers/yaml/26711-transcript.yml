@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2024
+  course: HBP1605A
+  title: ACAP - Airways Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/30/2024
   course: HBP0978A
   title: Respectful Workplace - Supervisor Trng (Ethics)

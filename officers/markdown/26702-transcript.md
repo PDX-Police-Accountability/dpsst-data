@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2024 | HBP1605A | ACAP - Airways Training | Passed | 0.0 | 2.00 |
 | 6/30/2024 | HBP4110A | Respectful Workplace - Employee Training | Passed | 0.0 | 1.00 |
 | 5/31/2024 | HBP0527A | PoliceOne HPD Pursuit Intervention Tactics | Passed | 0.0 | 0.50 |
 | 2/28/2024 | HBP1265A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
