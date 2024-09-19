@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/11/2024
+  course: SDP2538A
+  title: HB 4002 Drug Possession Law and Deflection Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/11/2024
+  course: SDP3960A
+  title: Rifle Update and Skills Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/11/2024
+  course: SDP2034A
+  title: Control and De-escalation Safety Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/21/2024
   course: SDP0086A
   title: Taser 7 Virtual Reality Training

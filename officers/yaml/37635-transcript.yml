@@ -63,6 +63,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2024
+  course: EGP0031A
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/12/2024
+  course: EGP1775A
+  title: Child Witness Interviews
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/12/2024
+  course: EGP4023A
+  title: Drug Enforcement  Seizures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/29/2024
   course: EGP4106A
   title: SWAT Range Drills - Controlled Pace Searches

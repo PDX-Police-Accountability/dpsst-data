@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2024 | EGP0031A | Legal Updates | Passed | 0.0 | 1.50 |
+| 9/12/2024 | EGP1775A | Child Witness Interviews | Passed | 0.0 | 2.00 |
+| 9/12/2024 | EGP4023A | Drug Enforcement  Seizures | Passed | 0.0 | 2.00 |
 | 8/29/2024 | EGP4106A | SWAT Range Drills - Controlled Pace Searches | Passed | 0.0 | 17.00 |
 | 7/25/2024 | EGP0746A | SWAT Range Drills - Search Skills | Passed | 0.0 | 8.00 |
 | 7/25/2024 | EGP1202A | SWAT Breaching-Search Skills-Tech Deployment | Passed | 0.0 | 9.00 |

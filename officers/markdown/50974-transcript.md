@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/10/2024 | OCP3494A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 8/21/2024 | LOP2261A | West Metro Monthly Motor Training 08/21/2024 | Passed | 0.0 | 6.00 |
 | 7/16/2024 | LOP1319A | West Metro Monthly Motor Training 07/16/2024 | Passed | 0.0 | 6.00 |
 | 6/13/2024 | OCP4100A | SFST Refresher Class | Instructed | 0.0 | 4.00 |
