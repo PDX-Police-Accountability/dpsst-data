@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/16/2024
+  course: EGP4178A
+  title: Taser 7 Annual Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/26/2024
   course: EGP1887A
   title: Command Leadership Training 2024

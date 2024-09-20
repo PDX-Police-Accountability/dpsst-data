@@ -22,14 +22,12 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 8/14/2024 | 8/14/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/14/2024 | TDP3913A | CRP/First Aid | Passed | 0.0 | 8.00 |
 | 12/8/2020 | 20-0004 | DPSST Basic Police COD Self-Study | Incomplete | 0.0 | 0.00 |
 | 12/2/2020 | PDP05893 | 2020 Advanced Academy Firearms | Passed | 0.0 | 31.50 |
 | 12/2/2020 | PDP10688 | 2020 Advanced Academy Police Vehicle Ops (FA/UoF) | Passed | 0.0 | 15.50 |

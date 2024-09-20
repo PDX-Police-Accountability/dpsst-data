@@ -1928,6 +1928,11 @@ attribute_records:
   effective_date: 1/22/2020
   expiration_date: ''
 education_records:
+- date: 9/15/2020
+  degree: No Degree
+  school: Clackamas Community College
+  major: ''
+  hours: '24.0'
 - date: 3/15/2015
   degree: No Degree
   school: All Other Education Institutes

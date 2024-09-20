@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2024 | EGP4178A | Taser 7 Annual Recertification | Passed | 0.0 | 4.00 |
 | 6/26/2024 | EGP1887A | Command Leadership Training 2024 | Passed | 0.0 | 8.50 |
 | 6/20/2024 | EGP2969A | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/23/2024 | EGP0755A | San Bernardino, CA Inland Regional Ctr AVI Debrief | Passed | 0.0 | 3.75 |

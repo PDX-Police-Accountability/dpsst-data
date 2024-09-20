@@ -29,6 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 9/15/2020 | No Degree | Clackamas Community College |  | 24.0 |
 | 3/15/2015 | No Degree | All Other Education Institutes |  | 14.0 |
 ## Training
 | date | course | title | status | score | hours |

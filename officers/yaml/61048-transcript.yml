@@ -35,12 +35,6 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
-- date: 8/14/2024
-  course: TDP3913A
-  title: CRP/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 12/8/2020
   course: 20-0004
   title: DPSST Basic Police COD Self-Study
@@ -341,9 +335,5 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
-attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/14/2024
-  expiration_date: 8/14/2026
+attribute_records: []
 education_records: []
