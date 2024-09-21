@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/2/2024 | OCS1296A | Tactical Leadership by Caliber Press | Passed | 0.0 | 8.00 |
 | 6/16/2024 | GSP0081A | Basic UAS Ground School | Instructed | 0.0 | 30.00 |
 | 3/7/2024 | GSP0256A | Firearms - Handgun | Passed | 0.0 | 10.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |

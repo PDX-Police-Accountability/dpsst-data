@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/2/2024
+  course: OCS1296A
+  title: Tactical Leadership by Caliber Press
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/16/2024
   course: GSP0081A
   title: Basic UAS Ground School

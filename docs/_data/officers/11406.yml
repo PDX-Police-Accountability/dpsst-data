@@ -156,6 +156,12 @@ certification_records:
   expiration_date: 3/1/2026
   probation_date: ''
 training_records:
+- date: 8/20/2024
+  course: WGP3900A
+  title: DPSST CERTIFICATION PRESENTATION
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/18/2024
   course: OAC0055A
   title: Navigating Change Amid Life, Leadership and Loss

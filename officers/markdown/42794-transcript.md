@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2024 | OCS2024A | February and September 2024 Monthly Firearms | Instructed | 0.0 | 2.00 |
+| 8/27/2024 | OCS2835A | Balancing speed/marksmanship and rifle qual | Instructed | 0.0 | 4.00 |
+| 8/23/2024 | OCS0309A | Balancing speed/marksmanship | Instructed | 0.0 | 2.00 |
+| 8/9/2024 | OCS3294A | August 2024 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 7/24/2024 | OCS3814A | Shield/Low Light/Shoot No Shoot | Instructed | 0.0 | 55.00 |
 | 7/20/2024 | OCS3211A | Shield/Low Light/Shoot-No-Shoot | Passed | 0.0 | 1.00 |
 | 7/11/2024 | OCS2521A | Hades Consulting Pistol/Rifle Training | Passed | 0.0 | 24.00 |

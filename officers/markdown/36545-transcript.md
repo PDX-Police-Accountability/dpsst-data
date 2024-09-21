@@ -27,8 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/1/2024 | 2/1/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/29/2024 | HBP0264A | Domestic and International Terrorist Threats | Passed | 0.0 | 2.00 |
 | 8/16/2024 | HBP0243A | 2024 IHIA Annual Training Symposium | Passed | 0.0 | 36.00 |
 | 8/7/2024 | HBP1605A | ACAP - Airways Training | Passed | 0.0 | 2.00 |

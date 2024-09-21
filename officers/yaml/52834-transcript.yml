@@ -76,6 +76,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/11/2024
+  course: OCS4104A
+  title: 'Accident or Inflicted: Investigator YOU decide'
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 8/11/2024
+  course: OCS1635A
+  title: Banta and Beyond
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 8/11/2024
+  course: OCS3533A
+  title: The Five B's of Child Physical Abuse (pt 1)
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 8/11/2024
+  course: OCS3001A
+  title: The Five B's of Child Physical Abuse (pt 2)
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 8/11/2024
+  course: OCS4017A
+  title: Fundamentals of Interv.  Interrog. in Child abuse
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 8/11/2024
+  course: OCS1126A
+  title: Fund.'s of Interv.  Interrog. in Child abuse 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 7/20/2024
   course: OCS3211A
   title: Shield/Low Light/Shoot-No-Shoot
@@ -88,6 +124,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 6/28/2024
+  course: OCS2757A
+  title: Vehicle Extractions/Ambushes
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/20/2024
   course: OCS2497A
   title: Vehicle Extractions and Ambushes

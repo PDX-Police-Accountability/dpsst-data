@@ -105,6 +105,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 3/19/2024
+  course: PDS3308A
+  title: Report Writing
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 1/11/2024
   course: PDS4396A
   title: Use of Force for Supervisors

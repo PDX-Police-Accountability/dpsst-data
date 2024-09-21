@@ -28,7 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/28/2026 | 1/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
@@ -42,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/28/2026 | OSH1143A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 7/1/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/11/2024 | OSH2461A | Characteristics of Culture Module 1 | Passed | 0.0 | 3.00 |
 | 9/11/2024 | OSH0427A | Characteristics of Culture Module 1 | Passed | 0.0 | 3.00 |
 | 8/5/2024 | OSH2163A | Sworn Leadership Training | Passed | 0.0 | 1.50 |

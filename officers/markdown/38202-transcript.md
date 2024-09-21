@@ -58,7 +58,7 @@
 | 3/20/2024 | PDS3491A | EVOC | Passed | 0.0 | 4.00 |
 | 3/20/2024 | LOP2700A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |
 | 2/23/2024 | PDS3191A | Range Training | Passed | 0.0 | 2.00 |
-| 2/9/2024 | VND4222A | ICS-300 Intermediate ICS For Expanding Incidents |  | 0.0 | 0.00 |
+| 2/9/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 0.00 |
 | 1/20/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 1/19/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/19/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
@@ -74,6 +74,7 @@
 | 12/15/2023 | PDS3548A | OSHA | Passed | 0.0 | 1.00 |
 | 12/1/2023 | PDS2241A | Firearms | Passed | 0.0 | 2.00 |
 | 11/2/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
+| 10/26/2023 | PDS1024A | Use of Force Case Law | Passed | 0.0 | 4.00 |
 | 10/23/2023 | PDS3387A | Pistol/Rifle Qualifications | Passed | 0.0 | 2.00 |
 | 10/16/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |

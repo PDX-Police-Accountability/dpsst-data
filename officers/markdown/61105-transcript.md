@@ -39,6 +39,7 @@
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/25/2024 | NGP2227A | Active Shooter Training | Passed | 0.0 | 6.00 |
 | 7/12/2024 | NGP2357A | Patrol Rifle Training | Passed | 0.0 | 3.00 |
+| 6/30/2024 | NGP2218A | Use of Force | Passed | 0.0 | 2.00 |
 | 5/30/2024 | NGP2004A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/22/2024 | NGP3855A | Low Light Firearms Training | Passed | 0.0 | 1.00 |
 | 1/25/2024 | NGP1256A | Defensive Tactics | Passed | 0.0 | 3.00 |

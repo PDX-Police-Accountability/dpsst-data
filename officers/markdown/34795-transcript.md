@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/27/2024 | OCS2835A | Balancing speed/marksmanship and rifle qual | Passed | 0.0 | 4.00 |
 | 7/11/2024 | HDA2041A | ONEA Training Institute - Pistols  Crystals Case | Passed | 0.0 | 4.00 |
 | 7/10/2024 | HDA3626A | ONEA Training Institute - Dirty MSB Case Study | Passed | 0.0 | 4.00 |
 | 7/9/2024 | HDA1491A | ONEA Training Institute - General Session | Passed | 0.0 | 4.00 |
@@ -59,6 +60,7 @@
 | 3/26/2024 | OCS2678A | CCITF DTs | Passed | 0.0 | 2.00 |
 | 3/19/2024 | OCS0115A | Drawing from concealment, marksmanship | Passed | 0.0 | 4.00 |
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
+| 2/29/2024 | OCS3680A | Striking/Take Down | Passed | 0.0 | 2.00 |
 | 2/28/2024 | OCS2413A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/20/2024 | OCS0994A | Speed from Concealment, Marksmanship, Cover | Passed | 0.0 | 3.00 |
 | 1/23/2024 | OCS4203A | Striking | Passed | 0.0 | 1.00 |

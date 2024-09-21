@@ -28,7 +28,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 3/25/2021 |  |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/23/2024 | PDS0551A | OSHA | Passed | 0.0 | 1.00 |
 | 8/23/2024 | PDS0611A | PREA | Passed | 0.0 | 1.00 |
 | 8/23/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |

@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/2/2024
+  course: PDS3260A
+  title: 40 Hour CIT
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/24/2024
   course: PDS2357A
   title: Taser Recertification

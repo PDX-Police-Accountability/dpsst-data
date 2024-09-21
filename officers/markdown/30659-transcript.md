@@ -26,7 +26,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 12/14/2001 |  |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/25/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
 | 8/25/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
 | 8/25/2024 | PDS2846A | Foundations in Ethics | Passed | 0.0 | 1.00 |

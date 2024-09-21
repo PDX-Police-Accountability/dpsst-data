@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/2/2024 | PDS3260A | 40 Hour CIT | Passed | 0.0 | 40.00 |
 | 7/24/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
 | 7/23/2024 | PDS2513A | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 7/23/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |

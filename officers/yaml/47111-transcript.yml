@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2024
+  course: BVP2772A
+  title: August Range 2024
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/19/2024
   course: BVP0265A
   title: Use of Force Briefing Training

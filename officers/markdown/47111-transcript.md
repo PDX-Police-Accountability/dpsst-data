@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2024 | BVP2772A | August Range 2024 | Passed | 0.0 | 3.00 |
 | 8/19/2024 | BVP0265A | Use of Force Briefing Training | Passed | 0.0 | 1.00 |
 | 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |
 | 2/8/2024 | BVP2564A | 2024 February Range | Passed | 0.0 | 3.00 |

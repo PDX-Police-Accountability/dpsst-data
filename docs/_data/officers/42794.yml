@@ -86,6 +86,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/28/2024
+  course: OCS2024A
+  title: February and September 2024 Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/27/2024
+  course: OCS2835A
+  title: Balancing speed/marksmanship and rifle qual
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/23/2024
+  course: OCS0309A
+  title: Balancing speed/marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/9/2024
+  course: OCS3294A
+  title: August 2024 New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '32.00'
 - date: 7/24/2024
   course: OCS3814A
   title: Shield/Low Light/Shoot No Shoot

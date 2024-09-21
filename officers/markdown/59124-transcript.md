@@ -31,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/27/2024 | BVP3226A | August Range 2024 | Passed | 0.0 | 3.00 |
 | 8/20/2024 | BVP0265A | Use of Force Briefing Training | Passed | 0.0 | 1.00 |
 | 8/19/2024 | REG2779A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 7/24/2024 | BVP1021A | EVOC IST 072424am | Passed | 0.0 | 3.00 |

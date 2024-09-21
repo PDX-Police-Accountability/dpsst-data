@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/27/2024
+  course: OCS2835A
+  title: Balancing speed/marksmanship and rifle qual
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/11/2024
   course: HDA2041A
   title: ONEA Training Institute - Pistols  Crystals Case
@@ -177,6 +183,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 2/29/2024
+  course: OCS3680A
+  title: Striking/Take Down
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/28/2024
   course: OCS2413A
   title: Fundamentals of Marksmanship
