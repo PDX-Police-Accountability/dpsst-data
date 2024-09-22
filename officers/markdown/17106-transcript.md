@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/12/2024 | PDA4179A | Basic Handgun Skills  Qualification | Passed | 0.0 | 4.00 |
 | 5/20/2024 | VND3182A | Infant  Child Death Investigations | Passed | 0.0 | 7.00 |
+| 5/6/2024 | PDA0456A | Prosecutor Database Training | Passed | 0.0 | 11.00 |
 | 4/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 3/20/2024 | PDA0422A | Defensive Tactics / Use of Force | Passed | 0.0 | 3.00 |
 | 3/1/2024 | PDA3432A | Use of Radio Communications | Passed | 0.0 | 1.00 |

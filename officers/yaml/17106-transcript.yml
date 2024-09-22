@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 5/6/2024
+  course: PDA0456A
+  title: Prosecutor Database Training
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
 - date: 4/16/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

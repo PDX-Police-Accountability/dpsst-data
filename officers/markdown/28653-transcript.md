@@ -61,6 +61,7 @@
 | 6/18/2024 | F1519242 | Developing Your Leadership Brand | Passed | 0.0 | 16.00 |
 | 6/6/2024 | F1527463 | Moments and Challenges of Leading | Passed | 0.0 | 16.00 |
 | 5/31/2024 | F1544092 | Lessons from the Greatest TED Talks | Passed | 0.0 | 16.00 |
+| 5/6/2024 | PDA0456A | Prosecutor Database Training | Passed | 0.0 | 11.00 |
 | 5/2/2024 | F1514089 | Rising Antisemitism in the US | Passed | 0.0 | 0.75 |
 | 4/12/2024 | F1524959 | Workforce Equity Strategic Plan | Passed | 0.0 | 3.50 |
 | 4/8/2024 | F1533128 | How Crime Analysts Improve | Passed | 0.0 | 1.00 |
