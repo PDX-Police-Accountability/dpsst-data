@@ -135,12 +135,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 2/22/2024
-  course: TAP3975A
-  title: 2024 ODOT Traffic Safety Conference
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 2/22/2024
   course: REG3588A
   title: 2024 Police Traffic Safety Conference
   status: Passed

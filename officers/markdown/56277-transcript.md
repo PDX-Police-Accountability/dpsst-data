@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2024 | CAP2363A | Precision Rifle | Passed | 0.0 | 2.00 |
 | 9/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/28/2024 | CAP0787A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 7/25/2024 | CAP3900A | Active Threat Training | Passed | 0.0 | 4.00 |

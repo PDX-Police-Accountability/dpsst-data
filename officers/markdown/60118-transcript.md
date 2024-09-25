@@ -31,6 +31,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 3/15/2019 | No Degree | All Other Education Institutes |  | 153.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
@@ -51,6 +52,7 @@
 | 4/9/2024 | OSA1586A | Tactical Combat Casualty Care | Passed | 0.0 | 3.00 |
 | 4/8/2024 | OSA2803A | Leadership | Passed | 0.0 | 10.00 |
 | 4/8/2024 | OSA3254A | Use of Force | Passed | 0.0 | 4.00 |
+| 3/10/2024 | EGS2878A | Ground Search Management | Passed | 0.0 | 40.00 |
 | 12/15/2023 | NGP1809A | SFST Refresher with Wet Lab | Passed | 0.0 | 6.00 |
 | 12/9/2023 | HRS2161A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 11/9/2023 | HRS0918A | Basic Rifle Range | Passed | 0.0 | 2.50 |

@@ -60,6 +60,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/20/2024 | OSH0565A | 3rd Trimester Firearms-Low Light | Passed | 0.0 | 4.00 |
 | 6/26/2024 | OSH0023A | Defensive Tactics - Taser Recertification | Passed | 0.0 | 4.00 |
 | 6/25/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Passed | 0.0 | 80.00 |
 | 6/14/2024 | OSH0111A | 2nd Trimester Firearms | Passed | 0.0 | 8.00 |
@@ -74,7 +75,6 @@
 | 3/1/2024 | OSH4000A | First Aid | Passed | 0.0 | 4.00 |
 | 3/1/2024 | OSH3065A | Nalozone/Narcan | Passed | 0.0 | 0.50 |
 | 2/5/2024 | OSH0318A | Taser 7 New User Certification | Passed | 0.0 | 4.00 |
-| 2/5/2024 | OSH4193A | Taser 7 New User Certification | Passed | 0.0 | 4.00 |
 | 1/25/2024 | OSH1847A | Firearms qualification | Passed | 0.0 | 1.00 |
 | 1/25/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 0.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
