@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/17/2024 | Silverton Police Department | Promotion | Chief |  |  |
 | 4/3/2023 | Silverton Police Department | Promotion | Captain |  |  |
 | 9/20/2021 | Silverton Police Department | Hired | Sergeant |  |  |
 | 9/16/2021 | Portland Police Bureau | Resigned | Police Off |  |  |

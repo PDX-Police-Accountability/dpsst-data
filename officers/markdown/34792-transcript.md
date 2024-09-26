@@ -38,7 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/29/2024 | TAP3522A | Wellness Program 1st Watch training | Passed | 0.0 | 1.00 |
+| 8/29/2024 | TAP3522A | Wellness Program 1st Watch Training | Passed | 0.0 | 1.00 |
 | 8/22/2024 | TAP3542A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/31/2024 | TAP1585A | Defensive Driving Principles | Passed | 0.0 | 1.00 |
 | 7/26/2024 | TAP2374A | ODOT Truck Inspection Course | Passed | 0.0 | 40.00 |

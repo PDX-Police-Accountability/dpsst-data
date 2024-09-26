@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/17/2024
+  agency: Silverton Police Department
+  action: Promotion
+  rank: Chief
+  classification: ''
+  assignment: ''
 - date: 4/3/2023
   agency: Silverton Police Department
   action: Promotion
