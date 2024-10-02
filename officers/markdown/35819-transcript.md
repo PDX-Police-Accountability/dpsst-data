@@ -12,17 +12,20 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/24/2024 | OHSU University Police | Hired | Police Off |  |  |
 | 7/27/2022 | Portland Police Bureau | Retired | Police Off |  |  |
 | 7/23/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/27/2022 | Police Officer | Advanced | Lapsed | 11/22/2010 | 7/27/2027 |  |
-| 10/27/2022 | Police Officer | Basic | Lapsed | 5/4/1999 | 7/27/2027 |  |
-| 10/27/2022 | Police Officer | Intermediate | Lapsed | 11/22/2010 | 7/27/2027 |  |
+| 9/24/2024 | Police Officer | Basic | Required |  |  | 3/24/2026 |
+| 10/27/2022 | Police Officer | Advanced | Lapsed | 11/22/2010 |  |  |
+| 10/27/2022 | Police Officer | Basic | Lapsed | 5/4/1999 |  |  |
+| 10/27/2022 | Police Officer | Intermediate | Lapsed | 11/22/2010 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 9/26/2024 |  |
 | Code of Ethics | Signed | 11/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |

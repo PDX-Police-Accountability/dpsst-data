@@ -79,12 +79,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 9/17/2024
+  course: OCS4496A
+  title: Firearms Low Light
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/12/2024
   course: OCN2174A
   title: Human Trafficking
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/11/2024
+  course: OCS2839A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 8/27/2024
   course: TRN1117A
   title: Sanctions and Incentives Grid Training
@@ -103,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/13/2024
+  course: OCS3058A
+  title: Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/8/2024
   course: OCS4123A
   title: LS/CMI Basic
@@ -128,8 +146,8 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 6/27/2024
-  course: OCS3568A
-  title: Firearms
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '3.00'

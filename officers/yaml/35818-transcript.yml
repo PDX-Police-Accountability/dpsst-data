@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2024
+  course: GLP1718A
+  title: HB 4002 Law Enforcement Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/19/2024
   course: GLP4205A
   title: Fall 2024 - Rifle  Handgun Training

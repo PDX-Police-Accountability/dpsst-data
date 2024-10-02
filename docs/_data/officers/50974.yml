@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2024
+  course: OSH2822A
+  title: Toxicology_  Drugs in Blood Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/10/2024
   course: OCP3494A
   title: Active Threat Response

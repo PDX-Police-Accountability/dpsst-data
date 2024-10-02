@@ -112,6 +112,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2024
+  course: STP2126A
+  title: Bullet Proof Mind
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/12/2024
+  course: STP0798A
+  title: Bullet Proof Mind
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/5/2024
   course: STP2868A
   title: PPE

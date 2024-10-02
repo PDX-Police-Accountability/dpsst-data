@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2024 | EGP0785A | Basic Tactical Medical Instructor Training - FLETC | Passed | 0.0 | 24.00 |
 | 9/12/2024 | EGP0031A | Legal Updates | Passed | 0.0 | 1.50 |
 | 9/12/2024 | EGP1775A | Child Witness Interviews | Passed | 0.0 | 2.00 |
 | 9/12/2024 | EGP4023A | Drug Enforcement  Seizures | Passed | 0.0 | 2.00 |

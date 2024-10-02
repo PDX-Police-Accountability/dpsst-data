@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2024 | MLP3031A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 8/8/2024 | WBP4541A | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |
 | 7/22/2024 | MLP1721A | Red Dot Qualification | Passed | 0.0 | 4.00 |
 | 7/15/2024 | MLP0896A | Red Dot Qualification Course | Passed | 0.0 | 4.00 |

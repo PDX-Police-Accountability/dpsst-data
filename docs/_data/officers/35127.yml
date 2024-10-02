@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2024
+  course: SAG2720A
+  title: Financial Crimes  Digital Evidence Conference
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 8/29/2024
   course: SAG1551A
   title: First Aid Training

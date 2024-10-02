@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/2/2024
+  course: HBP2227A
+  title: PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/16/2024
   course: HBP0243A
   title: 2024 IHIA Annual Training Symposium

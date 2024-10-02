@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/2/2024 | HBP2227A | PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts | Passed | 0.0 | 2.00 |
 | 7/31/2024 | HBP3424A | ODT - Breaching and Distraction Devices | Passed | 0.0 | 1.00 |
 | 7/10/2024 | HDA3019A | ONEA Training Institute - Arrest of Chapo | Passed | 0.0 | 4.00 |
 | 7/10/2024 | HDA3017A | ONEA Training Institute - Human Trafficking | Passed | 0.0 | 4.00 |

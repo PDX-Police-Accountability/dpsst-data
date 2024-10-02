@@ -94,6 +94,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2024
+  course: FGP4258A
+  title: Washington County Bias Crime Symposium/Equity Am
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/19/2024
+  course: FGP4257A
+  title: Washington Co. Bias Symp./Trauma Informed
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/11/2024
+  course: FGP1336A
+  title: DV Offender Risk Form Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/11/2024
+  course: FGP0396A
+  title: DV Offender Risk Form Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2024
+  course: FGP3665A
+  title: WC Deflection Program Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2024
+  course: FGP2353A
+  title: WC Deflection Program Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/15/2024
   course: FGP0050A
   title: 2024 Legal Update

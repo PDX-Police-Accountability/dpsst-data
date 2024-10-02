@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2024 | GLP1718A | HB 4002 Law Enforcement Training | Passed | 0.0 | 1.00 |
 | 8/19/2024 | GLP4205A | Fall 2024 - Rifle  Handgun Training | Passed | 0.0 | 3.00 |
 | 8/19/2024 | GLP3228A | Prone Subject Control and Cuffing | Passed | 0.0 | 1.00 |
 | 8/19/2024 | GLP2258A | 40MM Less Lethal User training | Passed | 0.0 | 3.00 |

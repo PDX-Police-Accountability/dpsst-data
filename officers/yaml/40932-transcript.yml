@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/9/2024
+  course: PDP1450A
+  title: 2024 EAP Suicide Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/11/2024
   course: PDP2460A
   title: 2024 Patrol Procedures Mental Health Encounters

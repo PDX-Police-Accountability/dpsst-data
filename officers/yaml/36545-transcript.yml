@@ -68,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/2/2024
+  course: HBP2227A
+  title: PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/29/2024
   course: HBP0264A
   title: Domestic and International Terrorist Threats

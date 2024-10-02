@@ -45,6 +45,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/9/2024 | BNP3331A | Deschutes County Deflection Program | Instructed | 0.0 | 6.00 |
+| 9/9/2024 | BNP3898A | Firearms Qualifications and Drills | Passed | 0.0 | 1.50 |
+| 9/9/2024 | BNP3628A | Stop the Bleed and MARCH | Passed | 0.0 | 1.50 |
+| 9/9/2024 | BNP4466A | Alcohol and Mental Health | Passed | 0.0 | 0.50 |
+| 9/9/2024 | BNP4091A | Scenarios | Passed | 0.0 | 3.00 |
 | 9/4/2024 | BNP3135A | Inclusive Policing for Leaders | Passed | 0.0 | 6.00 |
 | 8/13/2024 | BNP3965A | Control Tactics- Scott V. Vegas update | Passed | 0.0 | 1.00 |
 | 7/31/2024 | BNP2877A | Carotid Annual Training | Passed | 0.0 | 1.00 |

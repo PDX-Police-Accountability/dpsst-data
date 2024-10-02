@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2024
+  course: EGP0785A
+  title: Basic Tactical Medical Instructor Training - FLETC
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/12/2024
   course: EGP0031A
   title: Legal Updates

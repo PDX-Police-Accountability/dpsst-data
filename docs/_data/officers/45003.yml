@@ -105,6 +105,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 9/2/2024
+  course: HBP2227A
+  title: PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/8/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

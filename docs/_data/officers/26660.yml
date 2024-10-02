@@ -87,6 +87,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 8/28/2024
+  course: HSU4187A
+  title: Sergeant's Investigation of Force
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/27/2024
+  course: HSU4187A
+  title: Sergeant's Investigation of Force
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/20/2024
   course: HSU2040A
   title: Supplemental Range

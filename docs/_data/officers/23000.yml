@@ -125,6 +125,12 @@ certification_records:
   expiration_date: 12/31/2027
   probation_date: ''
 training_records:
+- date: 9/19/2024
+  course: ALN4230A
+  title: Firearms Training / Qualifications (PQC)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/29/2022
   course: PDS20641
   title: In Our Own Voice for Law Enforcement

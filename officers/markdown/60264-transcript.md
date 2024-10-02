@@ -33,16 +33,20 @@
 | 12/10/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 12/10/2025 | REQAPP | REQUIRED TRAINING: Armed Parole and Probation | Required | 0.0 | 0.00 |
 | 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 9/24/2024 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
+| 9/17/2024 | OCS4496A | Firearms Low Light | Passed | 0.0 | 2.00 |
 | 9/12/2024 | OCN2174A | Human Trafficking | Passed | 0.0 | 2.00 |
+| 9/6/2024 | OCS2839A | Use of Force | Passed | 0.0 | 1.25 |
 | 8/21/2024 | OCN2362A | Defensive Tactics Training | Passed | 0.0 | 1.00 |
 | 8/15/2024 | OCS1925A | Errichment Academy Drugs | Passed | 0.0 | 1.00 |
 | 8/14/2024 | OCS0497A | Firearms Training | Passed | 0.0 | 2.00 |
+| 8/13/2024 | OCS3058A | Handcuffing | Passed | 0.0 | 2.00 |
 | 8/8/2024 | OCS1630A | Firearms Qualification | Passed | 0.0 | 1.00 |
 | 7/31/2024 | OCS0464A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 7/25/2024 | OCS3337A | CPR/First Aid | Passed | 0.0 | 6.00 |
 | 7/25/2024 | VND4229A | Parole Board/DOC Roadshow | Passed | 0.0 | 4.00 |
 | 7/19/2024 | M32-20A | Armed Parole and Probation Course | Passed | 0.0 | 80.00 |
-| 6/27/2024 | OCS3568A | Firearms | Passed | 0.0 | 3.00 |
+| 6/27/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 6/27/2024 | OCS0034A | Firearms | Passed | 0.0 | 3.00 |
 | 6/25/2024 | OCS2177A | Consim | Passed | 0.0 | 3.00 |
 | 6/20/2024 | OCS1388A | Device Searches | Passed | 0.0 | 2.00 |

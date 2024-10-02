@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 9/2/2024 | HBP2227A | PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts | Passed | 0.0 | 2.00 |
 | 8/29/2024 | HBP0264A | Domestic and International Terrorist Threats | Passed | 0.0 | 2.00 |
 | 8/16/2024 | HBP0243A | 2024 IHIA Annual Training Symposium | Passed | 0.0 | 36.00 |
 | 8/7/2024 | HBP1605A | ACAP - Airways Training | Passed | 0.0 | 2.00 |

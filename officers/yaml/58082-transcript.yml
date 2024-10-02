@@ -35,6 +35,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 9/19/2024
+  course: FGP4258A
+  title: Washington County Bias Crime Symposium/Equity Am
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/19/2024
+  course: FGP4257A
+  title: Washington Co. Bias Symp./Trauma Informed
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/19/2019
   course: 17T001
   title: Police Field Training Manual

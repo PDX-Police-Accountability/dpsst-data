@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/9/2024
+  course: PDP1450A
+  title: 2024 EAP Suicide Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/27/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

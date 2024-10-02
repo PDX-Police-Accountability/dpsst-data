@@ -42,15 +42,18 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/3/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 9/17/2024 | OCS4496A | Firearms Low Light | Passed | 0.0 | 2.00 |
 | 9/12/2024 | OCN2174A | Human Trafficking | Passed | 0.0 | 2.00 |
+| 9/11/2024 | OCS2839A | Use of Force | Passed | 0.0 | 1.25 |
 | 8/27/2024 | TRN1117A | Sanctions and Incentives Grid Training | Passed | 0.0 | 1.00 |
 | 8/21/2024 | OCN2362A | Defensive Tactics Training | Passed | 0.0 | 1.00 |
 | 8/15/2024 | OCS1925A | Errichment Academy Drugs | Passed | 0.0 | 1.00 |
+| 8/13/2024 | OCS3058A | Handcuffing | Passed | 0.0 | 2.00 |
 | 8/8/2024 | OCS4123A | LS/CMI Basic | Passed | 0.0 | 12.00 |
 | 7/31/2024 | OCS0464A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 7/25/2024 | OCS3337A | CPR/First Aid | Passed | 0.0 | 6.00 |
 | 7/25/2024 | VND4229A | Parole Board/DOC Roadshow | Passed | 0.0 | 4.00 |
-| 6/27/2024 | OCS3568A | Firearms | Passed | 0.0 | 3.00 |
+| 6/27/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 6/27/2024 | OCS0034A | Firearms | Passed | 0.0 | 3.00 |
 | 6/25/2024 | OCS2177A | Consim | Passed | 0.0 | 3.00 |
 | 6/4/2024 | OCN3460A | Bloodborne Pathogens | Passed | 0.0 | 0.50 |

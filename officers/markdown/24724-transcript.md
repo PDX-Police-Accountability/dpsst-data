@@ -43,6 +43,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2024 | FGP4258A | Washington County Bias Crime Symposium/Equity Am | Passed | 0.0 | 7.00 |
+| 9/19/2024 | FGP4257A | Washington Co. Bias Symp./Trauma Informed | Passed | 0.0 | 2.00 |
+| 9/11/2024 | FGP1336A | DV Offender Risk Form Training | Passed | 0.0 | 1.00 |
+| 9/11/2024 | FGP0396A | DV Offender Risk Form Training | Passed | 0.0 | 1.00 |
+| 9/9/2024 | FGP3665A | WC Deflection Program Training | Passed | 0.0 | 1.00 |
+| 9/9/2024 | FGP2353A | WC Deflection Program Training | Passed | 0.0 | 1.00 |
 | 6/15/2024 | FGP0050A | 2024 Legal Update | Passed | 0.0 | 1.00 |
 | 6/11/2024 | FGP0297A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |
 | 5/22/2024 | VND1838A | Motorcycle Safety Awareness Training | Passed | 0.0 | 1.00 |

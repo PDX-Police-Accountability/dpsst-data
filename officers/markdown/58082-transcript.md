@@ -30,6 +30,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2024 | FGP4258A | Washington County Bias Crime Symposium/Equity Am | Passed | 0.0 | 6.00 |
+| 9/19/2024 | FGP4257A | Washington Co. Bias Symp./Trauma Informed | Passed | 0.0 | 2.00 |
 | 4/19/2019 | 17T001 | Police Field Training Manual | Required | 0.0 | 50.00 |
 | 5/16/2018 | PDP41013 | 2018-1 Advanced Academy Orientation and Expectatio | Passed | 0.0 | 2.50 |
 | 5/16/2018 | PDP17344 | 2018-1 Advanced Academy Control Tactics | Passed | 0.0 | 40.75 |

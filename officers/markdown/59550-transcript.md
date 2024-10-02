@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2024 | RMP1982A | Equity | Passed | 0.0 | 1.00 |
+| 9/18/2024 | RMP2754A | Evidence Refresher | Passed | 0.0 | 2.00 |
+| 9/18/2024 | RMP1599A | Ethics | Passed | 0.0 | 1.00 |
+| 9/18/2024 | RMP1225A | Kids Center Child Advocacy | Passed | 0.0 | 2.00 |
+| 9/18/2024 | RMP4498A | Difficult Conversations | Passed | 0.0 | 2.00 |
 | 5/21/2024 | RMP3179A | Qualifications / Red Dot Proficiency | Passed | 0.0 | 8.00 |
 | 4/4/2024 | BNA0172A | DV Strangulation Training | Passed | 0.0 | 0.50 |
 | 3/26/2024 | RMP4525A | EVOC | Passed | 0.0 | 4.00 |

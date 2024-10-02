@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2024
+  course: OSH0861A
+  title: OSP 2024 Survival Skills
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/12/2024
   course: OSH0750A
   title: OSP Active Shooter Instructor Development Course
@@ -71,6 +77,18 @@ training_records:
 - date: 9/11/2024
   course: OSH0973A
   title: Active Threat Instructor In-Service Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/10/2024
+  course: OSH4016A
+  title: Active Threat in service
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/9/2024
+  course: OSH2988A
+  title: 2nd Tri Firearms
   status: Instructed
   score: '0.0'
   hours: '8.00'

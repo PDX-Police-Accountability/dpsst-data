@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2024
+  course: VND2752A
+  title: Intro to Police Union Representation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/8/2024
   course: TDP4161A
   title: Duty to Intervene 2024
