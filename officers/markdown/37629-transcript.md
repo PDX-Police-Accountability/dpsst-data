@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/17/2024 | PDP4167A | 2024 FTEP Orientation | Instructed | 0.0 | 6.00 |
 | 9/5/2024 | PDP1978A | 2024 FTEP Geography | Instructed | 0.0 | 2.50 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Instructed | 0.0 | 2.25 |

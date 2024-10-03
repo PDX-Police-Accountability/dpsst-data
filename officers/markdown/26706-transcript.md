@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2024 | PDS3934A | Use of Force Report Writing | Passed | 0.0 | 1.50 |
+| 9/26/2024 | PDS4134A | CIT ConSims | Passed | 0.0 | 2.00 |
+| 9/26/2024 | PDS1986A | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 9/26/2024 | PDS0319A | Taser Practical | Passed | 0.0 | 0.50 |
 | 6/4/2024 | PDS1917A | Corrections Overview | Passed | 0.0 | 6.00 |
 | 6/4/2024 | PDS2734A | Post-Deadly Force | Passed | 0.0 | 2.00 |
 | 4/15/2024 | PDS3197A | Defensive tactics | Passed | 0.0 | 8.00 |

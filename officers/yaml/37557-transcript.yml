@@ -93,6 +93,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 9/30/2024
+  course: LOP1989A
+  title: Ethics and Code of Conduct, Ethics for Everyone
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2024
+  course: LOP0116A
+  title: 8 Keys to a More Respectful Workplace 02-09
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/13/2024
   course: LOP2297A
   title: Law Enforcement Drone Assoc. Conference 2024

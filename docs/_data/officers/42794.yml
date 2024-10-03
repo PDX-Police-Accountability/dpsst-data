@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2024
+  course: OCS0818A
+  title: September 2024 Sniper Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/28/2024
   course: OCS2024A
   title: February and September 2024 Monthly Firearms

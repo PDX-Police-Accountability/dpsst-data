@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/17/2024
+  course: PDP4167A
+  title: 2024 FTEP Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/5/2024
   course: PDP1978A
   title: 2024 FTEP Geography

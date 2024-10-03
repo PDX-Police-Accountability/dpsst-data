@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2024
+  course: PDS1142A
+  title: Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/12/2024
   course: OSH2822A
   title: Toxicology_  Drugs in Blood Training

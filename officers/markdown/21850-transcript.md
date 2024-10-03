@@ -49,6 +49,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2024 | LOP0116A | 8 Keys to a More Respectful Workplace 02-09 | Passed | 0.0 | 1.00 |
+| 9/30/2024 | LOP1989A | Ethics and Code of Conduct, Ethics for Everyone | Passed | 0.0 | 1.00 |
+| 9/25/2024 | RRP3702A | OACP Fall Board Meeting | Passed | 0.0 | 2.00 |
 | 7/19/2024 | LOP0730A | National Command Course Session 7 | Passed | 0.0 | 40.00 |
 | 5/30/2024 | LOP2897A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |
 | 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |

@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2024
+  course: PDS2374A
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -2624,10 +2630,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/30/2023

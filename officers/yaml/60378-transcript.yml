@@ -22,13 +22,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/3/2019
+- status_date: 1/28/2021
   certificate: Police Officer
   level: Basic
   status: Denied
   certificate_date: ''
-  expiration_date: ''
-  probation_date: 4/3/2021
+  expiration_date: 1/28/2031
+  probation_date: ''
 training_records:
 - date: 11/29/2020
   course: PDP26575

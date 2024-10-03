@@ -111,7 +111,7 @@
 | 2/16/2023 | ALS29343 | Red Dot Training | Passed | 0.0 | 4.00 |
 | 2/16/2023 | ALS41704 | CPR, First Aid and AED | Passed | 0.0 | 4.00 |
 | 2/15/2023 | ALS17369 | WRAP Restraint System Hands On | Passed | 0.0 | 0.50 |
-| 2/9/2023 | ALS40572 | Annual NARCAN Administration Training | Passed | 0.0 | 0.50 |
+| 2/9/2023 | ALS40572 | Annual Narcan Administration Training | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/8/2023 | ALS24773 | Annual Anti-Harassment Training | Passed | 0.0 | 2.00 |
 | 2/7/2023 | ALS44225 | Taser Certification | Passed | 0.0 | 8.00 |

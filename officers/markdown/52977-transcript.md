@@ -29,6 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/31/2024 | Masters Science | All Other Education Institutes |  | 30.0 |
 | 12/10/2011 | Bachelor Arts | Portland State University |  | 81.0 |
 | 6/14/2009 | Associate Science | Portland Community College |  | 135.0 |
 ## Training

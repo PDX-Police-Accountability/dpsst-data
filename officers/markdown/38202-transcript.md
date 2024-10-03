@@ -58,7 +58,6 @@
 | 3/20/2024 | PDS3491A | EVOC | Passed | 0.0 | 4.00 |
 | 3/20/2024 | LOP2700A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |
 | 2/23/2024 | PDS3191A | Range Training | Passed | 0.0 | 2.00 |
-| 2/9/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 0.00 |
 | 1/20/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 1/19/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/19/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |

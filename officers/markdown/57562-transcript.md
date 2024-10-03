@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/10/2024 | OCP3494A | Active Threat Response | Passed | 0.0 | 4.00 |
+| 9/10/2024 | OCP4124A | Wall and Squad Car Tactics | Passed | 0.0 | 6.50 |
 | 8/29/2024 | OCP3101A | Defensive Tactics | Instructed | 0.0 | 7.00 |
 | 8/12/2024 | SMP2480A | Taser Instructor Certification/Recertification | Passed | 0.0 | 16.00 |
 | 7/29/2024 | OCP3412A | LEDS Re-Certification | Passed | 0.0 | 1.00 |

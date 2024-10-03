@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2024
+  course: VND3546A
+  title: Basic Background Investigation
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 8/29/2024
   course: SAG1551A
   title: First Aid Training
@@ -3063,6 +3069,10 @@ attribute_records:
   value: Signed
   effective_date: 9/6/2002
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 10/1/2024
 education_records:
 - date: 12/20/1991
   degree: Bachelor Arts

@@ -131,6 +131,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2024
+  course: LOP0116A
+  title: 8 Keys to a More Respectful Workplace 02-09
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2024
+  course: LOP1989A
+  title: Ethics and Code of Conduct, Ethics for Everyone
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/25/2024
+  course: RRP3702A
+  title: OACP Fall Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/19/2024
   course: LOP0730A
   title: National Command Course Session 7

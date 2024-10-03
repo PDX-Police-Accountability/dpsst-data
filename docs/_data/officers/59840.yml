@@ -146,12 +146,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 6/27/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
-- date: 6/27/2024
   course: OCS0034A
   title: Firearms
   status: Passed

@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 8/13/2024
+  course: PDP2674A
+  title: 2024 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/7/2024
   course: PDP4175A
   title: 2024 FTEP Geography

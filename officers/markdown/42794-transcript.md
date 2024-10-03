@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2024 | OCS0818A | September 2024 Sniper Training | Instructed | 0.0 | 4.00 |
 | 8/28/2024 | OCS2024A | February and September 2024 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 8/27/2024 | OCS2835A | Balancing speed/marksmanship and rifle qual | Instructed | 0.0 | 4.00 |
 | 8/23/2024 | OCS0309A | Balancing speed/marksmanship | Instructed | 0.0 | 2.00 |

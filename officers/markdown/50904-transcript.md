@@ -52,7 +52,6 @@
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 2/28/2024 | OCS1992A | Striking/Take Downs | Passed | 0.0 | 1.00 |
 | 2/28/2024 | OCS2413A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
-| 2/9/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 0.00 |
 | 1/15/2024 | OCS4366A | Milo De-Escalation Decision Making | Passed | 0.0 | 1.00 |
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
 | 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |

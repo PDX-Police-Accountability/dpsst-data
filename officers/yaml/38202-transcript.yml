@@ -176,12 +176,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 2/9/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: ''
-  score: '0.0'
-  hours: '0.00'
 - date: 1/20/2024
   course: PDS2347A
   title: Airway and Circulatory Training

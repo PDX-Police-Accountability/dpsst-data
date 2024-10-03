@@ -29,7 +29,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/17/2024 | PDP4167A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
+| 9/10/2024 | PDP2674A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 9/5/2024 | PDP1978A | 2024 FTEP Geography | Passed | 0.0 | 2.50 |
+| 9/3/2024 | PDP1070A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 3.00 |
 | 8/28/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/30/2024 | REG1017A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 4/29/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

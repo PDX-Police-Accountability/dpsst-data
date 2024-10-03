@@ -53,7 +53,6 @@
 | 7/31/2024 | OCS0464A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 7/25/2024 | OCS3337A | CPR/First Aid | Passed | 0.0 | 6.00 |
 | 7/25/2024 | VND4229A | Parole Board/DOC Roadshow | Passed | 0.0 | 4.00 |
-| 6/27/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 6/27/2024 | OCS0034A | Firearms | Passed | 0.0 | 3.00 |
 | 6/25/2024 | OCS2177A | Consim | Passed | 0.0 | 3.00 |
 | 6/4/2024 | OCN3460A | Bloodborne Pathogens | Passed | 0.0 | 0.50 |

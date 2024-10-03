@@ -39,7 +39,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/31/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 7/23/2024 | HBS2214A | 2024 Ethics Non-Certified | Passed | 0.0 | 1.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/1/2024 | HBS0517A | 2024 February ACAP | Passed | 0.0 | 2.00 |

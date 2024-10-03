@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2024
+  course: PDS1142A
+  title: Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/16/2024
   course: GSP1655A
   title: Handgun In-InService

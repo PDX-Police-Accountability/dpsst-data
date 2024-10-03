@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/10/2024
+  course: OCP4124A
+  title: Wall and Squad Car Tactics
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 8/29/2024
   course: OCP3101A
   title: Defensive Tactics

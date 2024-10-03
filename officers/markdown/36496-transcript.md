@@ -20,14 +20,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/5/2019 | Police Officer | Supervisory | Granted | 8/5/2019 | 9/6/2024 |  |
-| 3/14/2000 | Police Officer | Basic | Granted | 3/14/2000 | 9/6/2024 |  |
+| 9/6/2024 | Police Officer | Basic | Lapsed | 3/14/2000 | 6/6/2029 |  |
+| 9/6/2024 | Police Officer | Supervisory | Lapsed | 8/5/2019 | 6/6/2029 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2024 | PDS1142A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 4/16/2024 | GSP1655A | Handgun In-InService | Passed | 0.0 | 10.00 |
 | 3/13/2024 | GSP0031A | Firearms - Handgun | Passed | 0.0 | 10.00 |
 | 1/31/2024 | GSP2662A | Survival Skills | Passed | 0.0 | 10.00 |

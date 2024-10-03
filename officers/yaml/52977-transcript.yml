@@ -4202,6 +4202,11 @@ attribute_records:
   effective_date: 1/29/2013
   expiration_date: ''
 education_records:
+- date: 8/31/2024
+  degree: Masters Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '30.0'
 - date: 12/10/2011
   degree: Bachelor Arts
   school: Portland State University

@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2024 | RRP3702A | OACP Fall Board Meeting | Passed | 0.0 | 2.00 |
 | 9/9/2024 | BNP3331A | Deschutes County Deflection Program | Instructed | 0.0 | 6.00 |
 | 9/9/2024 | BNP3898A | Firearms Qualifications and Drills | Passed | 0.0 | 1.50 |
 | 9/9/2024 | BNP3628A | Stop the Bleed and MARCH | Passed | 0.0 | 1.50 |

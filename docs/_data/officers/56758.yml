@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/3/2024
+  course: PDP1070A
+  title: 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/24/2024
   course: PDP1150A
   title: 2024 AR-15 Operator In-Service

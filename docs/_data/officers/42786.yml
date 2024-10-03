@@ -114,6 +114,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2024
+  course: RRP3702A
+  title: OACP Fall Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/20/2024
   course: HSU0104A
   title: Spring In-Service 2024 Firearms

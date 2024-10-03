@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2024 | PDS1142A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/12/2024 | OSH2822A | Toxicology_  Drugs in Blood Training | Passed | 0.0 | 0.50 |
 | 9/10/2024 | OCP3494A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 8/21/2024 | LOP2261A | West Metro Monthly Motor Training 08/21/2024 | Passed | 0.0 | 6.00 |

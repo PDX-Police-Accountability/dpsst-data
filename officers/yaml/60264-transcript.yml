@@ -48,12 +48,6 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
-- date: 9/24/2024
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
 - date: 9/17/2024
   course: OCS4496A
   title: Firearms Low Light
@@ -126,12 +120,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '80.00'
-- date: 6/27/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
 - date: 6/27/2024
   course: OCS0034A
   title: Firearms

@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2024
+  course: PDS3934A
+  title: Use of Force Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/26/2024
+  course: PDS4134A
+  title: CIT ConSims
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/26/2024
+  course: PDS1986A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/26/2024
+  course: PDS0319A
+  title: Taser Practical
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/4/2024
   course: PDS1917A
   title: Corrections Overview

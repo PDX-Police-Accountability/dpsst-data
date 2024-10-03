@@ -36,7 +36,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 9/9/2020 | 9/9/2024 |
 | Code of Ethics | Signed | 10/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -54,7 +53,6 @@
 | 8/5/2024 | STP4091A | Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 5/20/2024 | STP2531A | Firearms Training and Use of Red Dot Training | Passed | 0.0 | 4.00 |
 | 4/20/2024 | STP4181A | Policy Review - Employee Speech, Express, Etc. | Passed | 0.0 | 0.75 |
-| 4/17/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 4/17/2024 | STP3470A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 4/12/2024 | STP0225A | Legal Update | Passed | 0.0 | 1.00 |
 | 3/15/2024 | STP0853A | Legal Update | Passed | 0.0 | 1.00 |

@@ -28,6 +28,7 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 9/6/2002 |  |
+| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 10/1/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2024 | VND3546A | Basic Background Investigation | Passed | 0.0 | 16.00 |
 | 8/29/2024 | SAG1551A | First Aid Training | Passed | 0.0 | 4.00 |
 | 8/14/2024 | SAG2271A | Firearms training | Passed | 0.0 | 3.00 |
 | 6/11/2024 | SAG3574A | Firearms training | Passed | 0.0 | 2.00 |
