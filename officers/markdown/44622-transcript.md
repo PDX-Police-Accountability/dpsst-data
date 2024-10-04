@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2024 | OSH4475A | 3rd Trimester Firearms- Low Light | Instructed | 0.0 | 4.00 |
 | 9/25/2024 | OSH0861A | OSP 2024 Survival Skills | Instructed | 0.0 | 4.00 |
 | 9/12/2024 | OSH0750A | OSP Active Shooter Instructor Development Course | Instructed | 0.0 | 4.00 |
 | 9/11/2024 | OSH0973A | Active Threat Instructor In-Service Training | Instructed | 0.0 | 8.00 |

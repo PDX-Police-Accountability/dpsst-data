@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2024 | SVP0207A | Patrol Rifle Qualification and Training | Passed | 0.0 | 1.00 |
 | 9/13/2024 | HBS1575A | FBINAA Fall Retrainer 2024 - Cold Case Study | Passed | 0.0 | 2.00 |
 | 9/6/2024 | SVP3123A | Role in Creating Workplace Culture | Passed | 0.0 | 2.50 |
 | 8/21/2024 | SVP0158A | Update HB3115 | Passed | 0.0 | 0.50 |

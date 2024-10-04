@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2024
+  course: OCP1842A
+  title: Mental Health Diagnosis 101
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/29/2024
   course: OCP2672A
   title: Firearms/Use of Force

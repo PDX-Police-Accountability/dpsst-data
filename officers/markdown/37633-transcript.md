@@ -37,6 +37,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/4/2024 | PDP0046A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 9/4/2024 | PDP0046A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
+| 8/22/2024 | PDP1947A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
+| 8/22/2024 | PDP1947A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 6.00 |
 | 7/24/2024 | PDP3818A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 7/24/2024 | PDP3818A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
 | 7/17/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |

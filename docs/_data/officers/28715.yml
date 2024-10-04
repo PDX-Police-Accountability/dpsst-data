@@ -69,12 +69,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/1/2024
+  course: VND1179A
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/2/2024
   course: HBP2227A
   title: PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/28/2024
+  course: HBP0721A
+  title: Adult Sex Crimes, Exigent Phone Pings
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2024
+  course: HBP2931A
+  title: Tactical De-escalation, Crisis Entry, Rescue
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/16/2024
   course: HBP0243A
   title: 2024 IHIA Annual Training Symposium

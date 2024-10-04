@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2024 | OCP3907A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/10/2024 | OCP3494A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 9/10/2024 | OCP4124A | Wall and Squad Car Tactics | Passed | 0.0 | 6.50 |
 | 8/29/2024 | OCP3101A | Defensive Tactics | Instructed | 0.0 | 7.00 |

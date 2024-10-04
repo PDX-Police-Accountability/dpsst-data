@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2024
+  course: OSH4475A
+  title: 3rd Trimester Firearms- Low Light
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/25/2024
   course: OSH0861A
   title: OSP 2024 Survival Skills

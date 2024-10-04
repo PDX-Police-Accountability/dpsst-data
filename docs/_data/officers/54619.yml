@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/14/2024
+  course: HBP2940A
+  title: Adult Sex Crimes, Exigent Phone Pings
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/14/2024
+  course: HBP1892A
+  title: Tactical De-escalation, Crisis Entry, Rescue
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/31/2024
   course: HBP3424A
   title: ODT - Breaching and Distraction Devices

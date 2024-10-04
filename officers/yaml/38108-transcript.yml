@@ -86,6 +86,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 8/22/2024
+  course: PDP1947A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/7/2024
   course: PDP3884A
   title: 2024 K-9 (K9) Weekly Training

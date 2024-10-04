@@ -88,6 +88,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2024
+  course: OAC3725A
+  title: Election year Threat Extremism in Oregon
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/26/2024
+  course: OAC3203A
+  title: Deal w/people you don't like - Bring Out The Best
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/26/2024
+  course: OAC1618A
+  title: Culture Conundrum Examination within Organization
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/25/2024
+  course: OAC3958A
+  title: '"Challenge for LE Leaders in Todays Social Enviro"'
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 9/25/2024
+  course: OAC0238A
+  title: '"Ignite Your Leadership Potential"'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/24/2024
   course: PDP3372A
   title: 2024 Safe Training Procedures

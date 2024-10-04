@@ -46,6 +46,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2024 | OAC3725A | Election year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
+| 9/26/2024 | OAC3203A | Deal w/people you don't like - Bring Out The Best | Passed | 0.0 | 2.50 |
+| 9/26/2024 | OAC1618A | Culture Conundrum Examination within Organization | Passed | 0.0 | 4.00 |
+| 9/25/2024 | OAC3958A | "Challenge for LE Leaders in Todays Social Enviro" | Passed | 0.0 | 1.25 |
+| 9/25/2024 | OAC0238A | "Ignite Your Leadership Potential" | Passed | 0.0 | 2.00 |
 | 9/18/2024 | CAP2363A | Precision Rifle | Passed | 0.0 | 2.00 |
 | 9/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/28/2024 | CAP0787A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |

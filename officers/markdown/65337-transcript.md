@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/27/2024 | PDP2967A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 6/24/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 6/19/2024 | PDP0579A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 27.00 |
 | 6/18/2024 | PDP0357A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |

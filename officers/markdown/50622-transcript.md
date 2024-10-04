@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2024 | OCP1842A | Mental Health Diagnosis 101 | Passed | 0.0 | 0.50 |
 | 8/29/2024 | OCP2672A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 8/28/2024 | OCP2123A | Patrol Tactics | Instructed | 0.0 | 5.00 |
 | 8/13/2024 | OCP1219A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |

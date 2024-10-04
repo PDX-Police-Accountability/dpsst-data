@@ -36,5 +36,15 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
-attribute_records: []
+- date: 9/30/2024
+  course: PDP4151A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 9/30/2024
+  expiration_date: 9/30/2026
 education_records: []

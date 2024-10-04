@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2024 | OAC3725A | Election year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
+| 9/26/2024 | OAC3203A | Deal w/people you don't like - Bring Out The Best | Passed | 0.0 | 2.50 |
+| 9/26/2024 | OAC1618A | Culture Conundrum Examination within Organization | Passed | 0.0 | 4.00 |
+| 9/25/2024 | OAC3958A | "Challenge for LE Leaders in Todays Social Enviro" | Passed | 0.0 | 1.25 |
+| 9/25/2024 | OAC0238A | "Ignite Your Leadership Potential" | Passed | 0.0 | 2.00 |
 | 9/19/2024 | EGP0785A | Basic Tactical Medical Instructor Training - FLETC | Passed | 0.0 | 24.00 |
 | 9/12/2024 | EGP0031A | Legal Updates | Passed | 0.0 | 1.50 |
 | 9/12/2024 | EGP1775A | Child Witness Interviews | Passed | 0.0 | 2.00 |

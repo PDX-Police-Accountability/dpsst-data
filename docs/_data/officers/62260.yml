@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/27/2024
+  course: PDP2967A
+  title: RADAR/LIDAR Operator
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/30/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits
