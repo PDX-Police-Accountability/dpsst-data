@@ -105,6 +105,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 9/25/2024
+  course: HBP3540A
+  title: HPD Supervisor Force/Tracwire/MFF
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/2/2024
   course: HBP2227A
   title: PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts

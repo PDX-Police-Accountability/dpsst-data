@@ -42,6 +42,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/3/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 9/26/2024 | GPN4247A | WRNA End User Trainning | Passed | 0.0 | 6.00 |
+| 9/25/2024 | GPN4247A | WRNA End User Trainning | Passed | 0.0 | 6.00 |
 | 9/17/2024 | OCS4496A | Firearms Low Light | Passed | 0.0 | 2.00 |
 | 9/12/2024 | OCN2174A | Human Trafficking | Passed | 0.0 | 2.00 |
 | 9/11/2024 | OCS2839A | Use of Force | Passed | 0.0 | 1.25 |

@@ -2590,6 +2590,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 8/29/2024
+  expiration_date: 8/29/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

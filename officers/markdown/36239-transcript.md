@@ -34,6 +34,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/18/2024 | PDP3482A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 9/11/2024 | PDP1129A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/4/2024 | PDP2692A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/28/2024 | PDP0093A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/14/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/8/2024 | PDP2723A | 2024 MEDU Weekly Training (IN-SERVICE) | Passed | 0.0 | 36.00 |
+| 7/31/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/24/2024 | PDP4386A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/17/2024 | PDP0128A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

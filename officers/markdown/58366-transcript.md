@@ -43,6 +43,7 @@
 | 2/28/2026 | OSH1143A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 7/1/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/17/2024 | OSH0441A | Manager Comp. - Public Records Mgmt and Disclosure | Passed | 0.0 | 1.00 |
 | 9/11/2024 | OSH2461A | Characteristics of Culture Module 1 | Passed | 0.0 | 3.00 |
 | 9/11/2024 | OSH0427A | Characteristics of Culture Module 1 | Passed | 0.0 | 3.00 |
 | 8/5/2024 | OSH2163A | Sworn Leadership Training | Passed | 0.0 | 1.50 |

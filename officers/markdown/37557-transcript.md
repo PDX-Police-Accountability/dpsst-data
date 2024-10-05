@@ -29,7 +29,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | CPR | 11/7/2023 | 11/8/2025 |
 | Certification Cards | First Aid | 11/6/2022 | 11/30/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
@@ -44,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2024 | LOP1989A | Ethics and Code of Conduct, Ethics for Everyone | Passed | 0.0 | 1.00 |
 | 9/30/2024 | LOP0116A | 8 Keys to a More Respectful Workplace 02-09 | Passed | 0.0 | 1.00 |
 | 9/26/2024 | OAC3725A | Election year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |

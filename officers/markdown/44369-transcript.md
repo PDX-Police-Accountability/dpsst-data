@@ -47,6 +47,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/12/2024 | STP2126A | Bullet Proof Mind | Passed | 0.0 | 8.00 |
 | 9/12/2024 | STP0798A | Bullet Proof Mind | Passed | 0.0 | 8.00 |
+| 9/12/2024 | HBS2034A | FBINAA Fall Retrainer 2024 - Bulletproof Mind | Passed | 0.0 | 8.00 |
 | 9/5/2024 | STP2868A | PPE | Passed | 0.0 | 1.00 |
 | 8/27/2024 | STP3816A | Adult and Infant CPR/FIRST-AID/AED | Passed | 0.0 | 2.00 |
 | 8/24/2024 | STP2027A | Active Shooter Training | Passed | 0.0 | 4.00 |

@@ -62,6 +62,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2024
+  course: PDP2236A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/11/2024
+  course: PDP1129A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/4/2024
+  course: PDP2692A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/28/2024
+  course: PDP0093A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/21/2024
+  course: PDP0093A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/14/2024
+  course: PDP3482A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/8/2024
+  course: PDP2723A
+  title: 2024 MEDU Weekly Training (IN-SERVICE)
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 7/31/2024
+  course: PDP3482A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/24/2024
   course: PDP4386A
   title: 2024 MEDU Weekly Training

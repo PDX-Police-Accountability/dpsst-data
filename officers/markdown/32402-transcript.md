@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2024 | HBS1135A | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 9/16/2024 | HBS0821A | RDS Transition Course | Passed | 0.0 | 18.00 |
 | 6/6/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/1/2024 | HBS3138A | 2024 MAY ACAP | Passed | 0.0 | 2.00 |

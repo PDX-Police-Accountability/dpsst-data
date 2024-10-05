@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2024
+  course: SDP2089A
+  title: Rifle Update and Skills Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/18/2024
   course: SDP1185A
   title: Handgun Qualification

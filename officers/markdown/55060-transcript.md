@@ -33,7 +33,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2024 | PDP1129A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/4/2024 | PDP2692A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/28/2024 | PDP0093A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/21/2024 | PDP0093A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/14/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/12/2024 | PDP0006A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Instructed | 0.0 | 4.00 |
+| 8/8/2024 | PDP2723A | 2024 MEDU Weekly Training (IN-SERVICE) | Passed | 0.0 | 36.00 |
+| 7/31/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/24/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/24/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/24/2024 | PDP0909A | 2024-2 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |

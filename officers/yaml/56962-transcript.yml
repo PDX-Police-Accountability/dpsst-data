@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2024
+  course: STN0397A
+  title: DV Academy Day 1
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/13/2024
   course: HBN4251A
   title: Defensive Tactics and Decision Making

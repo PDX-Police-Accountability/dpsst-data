@@ -36,8 +36,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 8/6/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/9/2024 | BNP3331A | Deschutes County Deflection Program | Passed | 0.0 | 1.50 |
 | 9/9/2024 | BNP3898A | Firearms Qualifications and Drills | Passed | 0.0 | 1.50 |
 | 9/9/2024 | BNP3628A | Stop the Bleed and MARCH | Passed | 0.0 | 1.50 |

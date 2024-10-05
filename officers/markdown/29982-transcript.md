@@ -44,6 +44,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/25/2024 | SVP0207A | Patrol Rifle Qualification and Training | Passed | 0.0 | 1.00 |
 | 9/13/2024 | HBS1575A | FBINAA Fall Retrainer 2024 - Cold Case Study | Passed | 0.0 | 2.00 |
+| 9/12/2024 | HBS2034A | FBINAA Fall Retrainer 2024 - Bulletproof Mind | Passed | 0.0 | 8.00 |
+| 9/11/2024 | HBS0597A | FBINAA Fall Retrainer 2024 - MH/Family Support | Passed | 0.0 | 2.00 |
 | 9/6/2024 | SVP3123A | Role in Creating Workplace Culture | Passed | 0.0 | 2.50 |
 | 8/21/2024 | SVP0158A | Update HB3115 | Passed | 0.0 | 0.50 |
 | 8/14/2024 | AVP3190A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |

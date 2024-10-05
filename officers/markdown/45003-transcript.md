@@ -45,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/24/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 9/25/2024 | HBP3540A | HPD Supervisor Force/Tracwire/MFF | Passed | 0.0 | 4.00 |
 | 9/2/2024 | HBP2227A | PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts | Passed | 0.0 | 2.00 |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/24/2024 | HBP3730A | ODT - Breaching and Distraction Devices | Passed | 0.0 | 1.00 |

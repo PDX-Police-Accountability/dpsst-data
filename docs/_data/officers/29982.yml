@@ -101,6 +101,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/12/2024
+  course: HBS2034A
+  title: FBINAA Fall Retrainer 2024 - Bulletproof Mind
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/11/2024
+  course: HBS0597A
+  title: FBINAA Fall Retrainer 2024 - MH/Family Support
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/6/2024
   course: SVP3123A
   title: Role in Creating Workplace Culture

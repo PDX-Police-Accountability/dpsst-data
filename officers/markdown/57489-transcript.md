@@ -4,7 +4,7 @@
 | name | Wilson, Garret B. |
 | dpsst_identifier | 57489 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/1/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/19/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/17/2019 | Tigard Police Department | Resigned | Police Off |  |  |
 | 7/17/2017 | Tigard Police Department | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/12/2023 | Police Officer | Intermediate | Granted | 9/12/2023 |  |  |
-| 6/14/2018 | Police Officer | Basic | Granted | 6/14/2018 |  |  |
+| 9/12/2023 | Police Officer | Intermediate | Granted | 9/12/2023 | 1/1/2025 |  |
+| 6/14/2018 | Police Officer | Basic | Granted | 6/14/2018 | 1/1/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

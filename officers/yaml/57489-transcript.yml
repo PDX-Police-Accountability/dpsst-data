@@ -3,12 +3,18 @@ header_record:
   name: Wilson, Garret B.
   dpsst_identifier: '57489'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/1/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 9/19/2019
   agency: Portland Police Bureau
   action: Hired
@@ -33,14 +39,14 @@ certification_records:
   level: Intermediate
   status: Granted
   certificate_date: 9/12/2023
-  expiration_date: ''
+  expiration_date: 1/1/2025
   probation_date: ''
 - status_date: 6/14/2018
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/14/2018
-  expiration_date: ''
+  expiration_date: 1/1/2025
   probation_date: ''
 training_records:
 - date: 7/19/2024

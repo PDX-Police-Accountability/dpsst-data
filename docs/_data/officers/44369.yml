@@ -124,6 +124,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/12/2024
+  course: HBS2034A
+  title: FBINAA Fall Retrainer 2024 - Bulletproof Mind
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/5/2024
   course: STP2868A
   title: PPE
