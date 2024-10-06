@@ -305,7 +305,7 @@
 | Burns, Derald S. | 52316 | Portland Police Bureau | Active | Police Officer | Hired | 2011-12-08 | [md](../markdown/52316-transcript.md) - [yaml](../yaml/52316-transcript.yml) |
 | Burns, Justin L. | 47103 | Portland Police Bureau | Active | Police Officer | Hired | 2006-07-06 | [md](../markdown/47103-transcript.md) - [yaml](../yaml/47103-transcript.yml) |
 | Burns, Sarah C. | 58108 | Portland Police Bureau | Active | Police Officer | Hired | 2017-10-19 | [md](../markdown/58108-transcript.md) - [yaml](../yaml/58108-transcript.yml) |
-| Burton, Bret A. | 43860 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-27 | [md](../markdown/43860-transcript.md) - [yaml](../yaml/43860-transcript.yml) |
+| Burton, Bret A. | 43860 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-12-15 | [md](../markdown/43860-transcript.md) - [yaml](../yaml/43860-transcript.yml) |
 | Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Police Officer | Demotn Vol | 2022-10-20 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Butcher, Jennifer L. | 43484 | Portland Police Bureau | Active | Sergeant | Promotion | 2016-01-14 | [md](../markdown/43484-transcript.md) - [yaml](../yaml/43484-transcript.yml) |
 | Butcher, Kristine M. | 43866 | Portland Police Bureau | Active | Lieutenant | Promotion | 2024-04-25 | [md](../markdown/43866-transcript.md) - [yaml](../yaml/43866-transcript.yml) |
@@ -1496,7 +1496,7 @@
 | Sorensen, Collin J. | 26850 | Portland Police Bureau | Inactive | Police Officer | Retired | 2019-03-13 | [md](../markdown/26850-transcript.md) - [yaml](../yaml/26850-transcript.yml) |
 | Sorensen, Joella A. | 47355 | Portland Police Bureau | Active | Civilian Employee | Hired | 2006-09-11 | [md](../markdown/47355-transcript.md) - [yaml](../yaml/47355-transcript.yml) |
 | Sorenson, Monica D. | 45180 | Portland Police Bureau | Active | Police Officer | Return LOA | 2015-08-27 | [md](../markdown/45180-transcript.md) - [yaml](../yaml/45180-transcript.yml) |
-| Sothern, Sean C. | 28796 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/28796-transcript.md) - [yaml](../yaml/28796-transcript.yml) |
+| Sothern, Sean C. | 28796 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2024-09-30 | [md](../markdown/28796-transcript.md) - [yaml](../yaml/28796-transcript.yml) |
 | Spangler, Brooks A. | 51194 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2011-02-21 | [md](../markdown/51194-transcript.md) - [yaml](../yaml/51194-transcript.yml) |
 | Sparks, Joshua L. | 48052 | Portland Police Bureau | Active | Police Officer | Hired | 2007-03-22 | [md](../markdown/48052-transcript.md) - [yaml](../yaml/48052-transcript.yml) |
 | Sparling, Aaron A. | 45515 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-07-29 | [md](../markdown/45515-transcript.md) - [yaml](../yaml/45515-transcript.yml) |

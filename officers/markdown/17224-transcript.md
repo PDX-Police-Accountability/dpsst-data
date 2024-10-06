@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 25.00 |
 | 7/20/2024 | HSU2040A | Supplemental Range | Instructed | 0.0 | 2.00 |
 | 6/23/2024 | HSU2040A | Supplemental Range | Instructed | 0.0 | 2.00 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 20.00 |

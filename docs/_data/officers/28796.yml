@@ -3,12 +3,18 @@ header_record:
   name: Sothern, Sean C.
   dpsst_identifier: '28796'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/30/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 7/11/2019
   agency: Portland Police Bureau
   action: Promotion
@@ -63,28 +69,28 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/8/2022
-  expiration_date: ''
+  expiration_date: 12/30/2024
   probation_date: ''
 - status_date: 2/8/2022
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/8/2022
-  expiration_date: ''
+  expiration_date: 12/30/2024
   probation_date: ''
 - status_date: 2/2/2022
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 2/2/2022
-  expiration_date: ''
+  expiration_date: 12/30/2024
   probation_date: ''
 - status_date: 10/17/1994
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 10/17/1994
-  expiration_date: ''
+  expiration_date: 12/30/2024
   probation_date: ''
 training_records:
 - date: 8/8/2024

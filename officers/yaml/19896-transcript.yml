@@ -203,6 +203,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2024
+  course: REG3221A
+  title: 2024 Legal Update and Review
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/2/2024
+  course: REG4305A
+  title: 2024 Use of Force Update / Review
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/28/2024
   course: REG1758A
   title: Domestic Violence/Child Death Investigation

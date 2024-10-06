@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 30.00 |
 | 8/28/2024 | PPP3811A | Sgt. Investigation of Force | Passed | 0.0 | 16.00 |
 | 8/28/2024 | HSU4187A | Sergeant's Investigation of Force | Passed | 0.0 | 8.00 |
 | 8/27/2024 | HSU4187A | Sergeant's Investigation of Force | Passed | 0.0 | 8.00 |

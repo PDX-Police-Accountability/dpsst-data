@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 30.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/24/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/11/2024 | PDP2460A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |

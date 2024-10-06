@@ -48,6 +48,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/1/2024
+  course: STN3962A
+  title: DV Academy Day 2
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/24/2024
   course: PDN1980A
   title: LS/CMI

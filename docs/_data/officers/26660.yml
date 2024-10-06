@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2024
+  course: HSU3771A
+  title: Red Dot Sight Course 6
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 8/28/2024
   course: PPP3811A
   title: Sgt. Investigation of Force

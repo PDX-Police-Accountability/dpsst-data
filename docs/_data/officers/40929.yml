@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2024
+  course: HSU3771A
+  title: Red Dot Sight Course 6
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 7/25/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

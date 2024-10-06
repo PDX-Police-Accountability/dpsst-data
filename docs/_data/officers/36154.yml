@@ -62,6 +62,12 @@ certification_records:
   expiration_date: 2/1/2029
   probation_date: ''
 training_records:
+- date: 7/31/2024
+  course: MFP2508A
+  title: ETHOS Academy Leadership Self-Study 2024
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/17/2023
   course: MFP0161A
   title: Child Exploitation, Digital Evid.,  Exigency

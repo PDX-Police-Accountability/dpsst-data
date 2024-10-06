@@ -37,14 +37,14 @@ certification_records:
 - status_date: 9/12/2023
   certificate: Police Officer
   level: Intermediate
-  status: Granted
+  status: Granted-UR
   certificate_date: 9/12/2023
   expiration_date: 1/1/2025
   probation_date: ''
 - status_date: 6/14/2018
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Granted-UR
   certificate_date: 6/14/2018
   expiration_date: 1/1/2025
   probation_date: ''

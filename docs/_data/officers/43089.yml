@@ -130,6 +130,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/1/2024
+  course: REG2550A
+  title: 2024 Legal Update and Review
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/1/2024
+  course: REG0656A
+  title: Use of Force - Update and Review
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/25/2024
   course: REG1938A
   title: Regional Patrol Rifle IC

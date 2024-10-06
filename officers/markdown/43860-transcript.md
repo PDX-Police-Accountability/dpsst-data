@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 10/27/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
+| 12/15/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 9/25/2014 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 6/14/2007 | Portland Police Bureau | Hired | Police Off |  |  |
 | 6/14/2007 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |

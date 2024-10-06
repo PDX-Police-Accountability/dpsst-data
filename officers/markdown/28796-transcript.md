@@ -4,7 +4,7 @@
 | name | Sothern, Sean C. |
 | dpsst_identifier | 28796 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/30/2024 | Portland Police Bureau | Resigned | Sergeant |  |  |
 | 7/11/2019 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 6/5/2012 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 9/23/2011 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -23,10 +24,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/8/2022 | Police Officer | Advanced | Granted | 2/8/2022 |  |  |
-| 2/8/2022 | Police Officer | Intermediate | Granted | 2/8/2022 |  |  |
-| 2/2/2022 | Police Officer | Supervisory | Granted | 2/2/2022 |  |  |
-| 10/17/1994 | Police Officer | Basic | Granted | 10/17/1994 |  |  |
+| 2/8/2022 | Police Officer | Advanced | Granted | 2/8/2022 | 12/30/2024 |  |
+| 2/8/2022 | Police Officer | Intermediate | Granted | 2/8/2022 | 12/30/2024 |  |
+| 2/2/2022 | Police Officer | Supervisory | Granted | 2/2/2022 | 12/30/2024 |  |
+| 10/17/1994 | Police Officer | Basic | Granted | 10/17/1994 | 12/30/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
