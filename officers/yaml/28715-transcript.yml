@@ -77,7 +77,7 @@ training_records:
   hours: '3.00'
 - date: 9/2/2024
   course: HBP2227A
-  title: PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts
+  title: PoliceOne Crisis Intervent. w/Mentally Ill Sub.
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -89,7 +89,7 @@ training_records:
   hours: '1.00'
 - date: 8/28/2024
   course: HBP2931A
-  title: Tactical De-escalation, Crisis Entry, Rescue
+  title: Tactical De-Escalation, Crisis Entry, Rescue
   status: Passed
   score: '0.0'
   hours: '6.00'

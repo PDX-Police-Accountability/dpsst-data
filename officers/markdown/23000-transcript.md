@@ -44,7 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/19/2024 | ALN4230A | Firearms Training / Qualifications (PQC) | Passed | 0.0 | 4.00 |
+| 9/19/2024 | ALN4230A | Firearms Training/Qualifications (PQC) | Passed | 0.0 | 4.00 |
 | 11/29/2022 | PDS20641 | In Our Own Voice for Law Enforcement | Passed | 0.0 | 1.50 |
 | 11/29/2022 | PDS12425 | In Our Own Voice for Law Enforcement | Passed | 0.0 | 1.50 |
 | 11/23/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |

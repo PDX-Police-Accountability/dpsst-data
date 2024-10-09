@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/19/2024
+  course: VND2001A
+  title: Oregon IAAI, Chapter 31 - Arson Training Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 12/31/2021
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/3/2024 | 10/3/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2024 | HRS0394A | 0 | Passed | 0.0 | 4.00 |
 | 8/1/2024 | HRS4435A | Active Threat Response | Passed | 0.0 | 3.00 |
 | 6/13/2024 | HRS2718A | Defensive Tactics Inservice | Passed | 0.0 | 2.00 |
 | 6/5/2024 | REG1495A | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |

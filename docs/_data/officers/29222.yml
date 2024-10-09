@@ -69,18 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/17/2027
-  course: GSP4457A
-  title: Responding to an Unexplained Child Death
-  status: Passed
-  score: '0.0'
-  hours: '7.00'
 - date: 7/31/2024
   course: GSP0912A
   title: Intro Ext Verifiable Info in Forensic Interview
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 7/17/2024
+  course: GSP4457A
+  title: Responding to an Unexplained Child Death
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/27/2024
   course: GSP2234A
   title: Inside the Tape-Homicide Investigations

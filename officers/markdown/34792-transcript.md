@@ -38,7 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/24/2024 | ADP4325A | Patrol Rifle | Passed | 0.0 | 4.00 |
-| 9/9/2024 | ADP0776A | ETHOS Leadership | Passed | 0.0 | 3.00 |
+| 9/9/2024 | ADP0776A | Ethos Leadership | Passed | 0.0 | 3.00 |
 | 8/29/2024 | TAP3522A | Wellness Program 1st Watch Training | Passed | 0.0 | 1.00 |
 | 8/22/2024 | TAP3542A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/31/2024 | TAP1585A | Defensive Driving Principles | Passed | 0.0 | 1.00 |

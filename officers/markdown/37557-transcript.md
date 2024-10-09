@@ -46,13 +46,13 @@
 | 7/1/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 9/30/2024 | LOP1989A | Ethics and Code of Conduct, Ethics for Everyone | Passed | 0.0 | 1.00 |
+| 9/30/2024 | LOP1989A | Ethics and Code of Conduct: Ethics for Everyone | Passed | 0.0 | 1.00 |
 | 9/30/2024 | LOP0116A | 8 Keys to a More Respectful Workplace 02-09 | Passed | 0.0 | 1.00 |
-| 9/26/2024 | OAC3725A | Election year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
-| 9/26/2024 | OAC3203A | Deal w/people you don't like - Bring Out The Best | Passed | 0.0 | 2.50 |
+| 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
+| 9/26/2024 | OAC3203A | Deal w/People You Don't Like - Bring Out The Best | Passed | 0.0 | 2.50 |
 | 9/26/2024 | OAC1618A | Culture Conundrum Examination within Organization | Passed | 0.0 | 4.00 |
-| 9/25/2024 | OAC3958A | "Challenge for LE Leaders in Todays Social Enviro" | Passed | 0.0 | 1.25 |
-| 9/25/2024 | OAC0238A | "Ignite Your Leadership Potential" | Passed | 0.0 | 2.00 |
+| 9/25/2024 | OAC3958A | Challenge for LE Leaders in Todays Social Environ. | Passed | 0.0 | 1.25 |
+| 9/25/2024 | OAC0238A | Ignite Your Leadership Potential | Passed | 0.0 | 2.00 |
 | 9/13/2024 | LOP2297A | Law Enforcement Drone Assoc. Conference 2024 | Passed | 0.0 | 32.00 |
 | 8/15/2024 | LOP2738A | General Pacific FAA Part 107 Remote Pilot | Passed | 0.0 | 12.00 |
 | 5/30/2024 | LOP1938A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |

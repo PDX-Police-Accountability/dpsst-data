@@ -40,9 +40,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/1/2024 | VND1179A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 3.00 |
-| 9/2/2024 | HBP2227A | PoliceOne Crisis Intervntn w/ Mentally Ill Subjcts | Passed | 0.0 | 2.00 |
+| 9/2/2024 | HBP2227A | PoliceOne Crisis Intervent. w/Mentally Ill Sub. | Passed | 0.0 | 2.00 |
 | 8/28/2024 | HBP0721A | Adult Sex Crimes, Exigent Phone Pings | Passed | 0.0 | 1.00 |
-| 8/28/2024 | HBP2931A | Tactical De-escalation, Crisis Entry, Rescue | Passed | 0.0 | 6.00 |
+| 8/28/2024 | HBP2931A | Tactical De-Escalation, Crisis Entry, Rescue | Passed | 0.0 | 6.00 |
 | 8/16/2024 | HBP0243A | 2024 IHIA Annual Training Symposium | Passed | 0.0 | 33.25 |
 | 8/12/2024 | HBP1976A | IHIA Conference Leadership Session | Passed | 0.0 | 2.75 |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

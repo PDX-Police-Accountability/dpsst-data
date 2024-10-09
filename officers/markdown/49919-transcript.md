@@ -39,7 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/28/2024 | HBP0721A | Adult Sex Crimes, Exigent Phone Pings | Passed | 0.0 | 1.00 |
-| 8/28/2024 | HBP2931A | Tactical De-escalation, Crisis Entry, Rescue | Passed | 0.0 | 6.00 |
+| 8/28/2024 | HBP2931A | Tactical De-Escalation, Crisis Entry, Rescue | Passed | 0.0 | 6.00 |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2024 | HBP3424A | ODT - Breaching and Distraction Devices | Passed | 0.0 | 1.00 |
 | 6/30/2024 | HBP4110A | Respectful Workplace - Employee Training | Passed | 0.0 | 1.00 |

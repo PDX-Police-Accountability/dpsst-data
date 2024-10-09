@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 10/3/2024
+  course: HRS0394A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/2/2024
   course: OCS1296A
   title: Tactical Leadership by Caliber Press
@@ -1460,6 +1466,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/3/2024
+  expiration_date: 10/3/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

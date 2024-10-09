@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/3/2024
+  course: HRS0394A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/1/2024
   course: HRS4435A
   title: Active Threat Response
@@ -1933,6 +1939,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/3/2024
+  expiration_date: 10/3/2026
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

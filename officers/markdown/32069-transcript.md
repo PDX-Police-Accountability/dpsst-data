@@ -43,7 +43,7 @@
 | 9/18/2024 | SDP1185A | Handgun Qualification | Instructed | 0.0 | 1.50 |
 | 9/11/2024 | SDP2538A | HB 4002 Drug Possession Law and Deflection Update | Passed | 0.0 | 1.00 |
 | 9/11/2024 | SDP3960A | Rifle Update and Skills Training | Passed | 0.0 | 4.00 |
-| 9/11/2024 | SDP2034A | Control and De-escalation Safety Update | Passed | 0.0 | 2.00 |
+| 9/11/2024 | SDP2034A | Control and De-Escalation Safety Update | Passed | 0.0 | 2.00 |
 | 8/21/2024 | SDP0086A | Taser 7 Virtual Reality Training | Passed | 0.0 | 0.50 |
 | 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
 | 7/8/2024 | REG3252A | DT Ground Control | Passed | 0.0 | 1.00 |

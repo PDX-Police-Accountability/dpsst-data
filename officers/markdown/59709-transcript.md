@@ -38,7 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/4/2024 | BNP2688A | Shooting while Moving | Passed | 0.0 | 1.00 |
+| 9/4/2024 | BNP2688A | Shooting While Moving | Passed | 0.0 | 1.00 |
 | 8/15/2024 | BNP2553A | UAS Monthly Training | Passed | 0.0 | 7.50 |
 | 8/3/2024 | BNP1141A | Firearms | Passed | 0.0 | 1.25 |
 | 7/31/2024 | BNP2877A | Carotid Annual Training | Passed | 0.0 | 1.00 |
@@ -52,7 +52,7 @@
 | 7/31/2024 | BNP1143A | Bend PD and Tri-County Pursuit Policy | Passed | 0.0 | 1.00 |
 | 7/30/2024 | BNP3371A | Workplace Harassment and HR | Passed | 0.0 | 2.00 |
 | 7/30/2024 | BNP3282A | OSHA Wildfire exposure Training | Passed | 0.0 | 1.00 |
-| 7/30/2024 | BNP3526A | Use of Force Policy review and Test | Passed | 0.0 | 1.00 |
+| 7/30/2024 | BNP3526A | Use of Force Policy Review and Test | Passed | 0.0 | 1.00 |
 | 7/25/2024 | BNP2615A | FTO Leadership | Passed | 0.0 | 1.00 |
 | 7/18/2024 | BNP3831A | UAS Training - Thermal Searching, PIX4D, Mapping | Passed | 0.0 | 7.00 |
 | 7/2/2024 | BNP1189A | Building Clearing | Passed | 0.0 | 0.50 |

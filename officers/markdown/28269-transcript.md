@@ -45,12 +45,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/26/2024 | OAC3725A | Election year Threat Extremism in Oregon | Passed | 0.0 | 1.00 |
-| 9/26/2024 | OAC3203A | Deal w/people you don't like - Bring Out The Best | Passed | 0.0 | 2.50 |
+| 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.00 |
+| 9/26/2024 | OAC3203A | Deal w/People You Don't Like - Bring Out The Best | Passed | 0.0 | 2.50 |
 | 9/26/2024 | OAC1618A | Culture Conundrum Examination within Organization | Passed | 0.0 | 4.00 |
 | 9/25/2024 | RRP3702A | OACP Fall Board Meeting | Passed | 0.0 | 2.00 |
-| 9/25/2024 | OAC3958A | "Challenge for LE Leaders in Todays Social Enviro" | Passed | 0.0 | 1.25 |
-| 9/25/2024 | OAC0238A | "Ignite Your Leadership Potential" | Passed | 0.0 | 2.00 |
+| 9/25/2024 | OAC3958A | Challenge for LE Leaders in Todays Social Environ. | Passed | 0.0 | 1.25 |
+| 9/25/2024 | OAC0238A | Ignite Your Leadership Potential | Passed | 0.0 | 2.00 |
 | 9/9/2024 | BNP3331A | Deschutes County Deflection Program | Instructed | 0.0 | 6.00 |
 | 9/9/2024 | BNP3898A | Firearms Qualifications and Drills | Passed | 0.0 | 1.50 |
 | 9/9/2024 | BNP3628A | Stop the Bleed and MARCH | Passed | 0.0 | 1.50 |
@@ -69,7 +69,7 @@
 | 7/31/2024 | BNP1143A | Bend PD and Tri-County Pursuit Policy | Passed | 0.0 | 1.00 |
 | 7/30/2024 | BNP3371A | Workplace Harassment and HR | Passed | 0.0 | 2.00 |
 | 7/30/2024 | BNP3282A | OSHA Wildfire exposure Training | Passed | 0.0 | 1.00 |
-| 7/30/2024 | BNP3526A | Use of Force Policy review and Test | Passed | 0.0 | 1.00 |
+| 7/30/2024 | BNP3526A | Use of Force Policy Review and Test | Passed | 0.0 | 1.00 |
 | 6/18/2024 | BNP3723A | 40 MM refresher | Passed | 0.0 | 1.00 |
 | 6/18/2024 | BNP0511A | Emergency Vehicle Operation | Passed | 0.0 | 1.00 |
 | 6/18/2024 | BNP0091A | Active Threat Response | Passed | 0.0 | 2.50 |

@@ -42,7 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2024 | SAG2720A | Financial Crimes  Digital Evidence Conference | Passed | 0.0 | 15.00 |
 | 8/29/2024 | SAG1551A | First Aid Training | Passed | 0.0 | 4.00 |
-| 7/15/2024 | SAG3641A | Firearms training | Passed | 0.0 | 2.00 |
+| 7/15/2024 | SAG3641A | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/29/2024 | SAG1582A | Hiding on the Internet: TOR, Darknet | Passed | 0.0 | 2.50 |
 | 5/28/2024 | SAG3155A | Internet Identifiers: Names and Numbers | Passed | 0.0 | 2.00 |
 | 5/16/2024 | SAG3723A | New Approaches to Tech Crime Scene Analysis | Passed | 0.0 | 1.50 |

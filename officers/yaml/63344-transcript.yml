@@ -28,13 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 9/12/2024
+- status_date: 10/7/2024
   certificate: Police Officer
   level: Basic
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 10/7/2024
   expiration_date: ''
-  probation_date: 9/18/2025
+  probation_date: ''
 training_records:
 - date: 9/26/2024
   course: VRP2370A

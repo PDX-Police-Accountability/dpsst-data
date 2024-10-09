@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2024
+  course: VND3940A
+  title: Simplifyng Financial Records
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 8/28/2024
   course: TGP3533A
   title: Firearms Qualification

@@ -68,7 +68,7 @@
 | 7/31/2024 | BNP1143A | Bend PD and Tri-County Pursuit Policy | Passed | 0.0 | 1.00 |
 | 7/30/2024 | BNP3371A | Workplace Harassment and HR | Passed | 0.0 | 2.00 |
 | 7/30/2024 | BNP3282A | OSHA Wildfire exposure Training | Passed | 0.0 | 1.00 |
-| 7/30/2024 | BNP3526A | Use of Force Policy review and Test | Passed | 0.0 | 1.00 |
+| 7/30/2024 | BNP3526A | Use of Force Policy Review and Test | Passed | 0.0 | 1.00 |
 | 6/18/2024 | BNP3723A | 40 MM refresher | Passed | 0.0 | 1.00 |
 | 6/18/2024 | BNP0511A | Emergency Vehicle Operation | Passed | 0.0 | 1.00 |
 | 6/18/2024 | BNP0091A | Active Threat Response | Passed | 0.0 | 2.50 |

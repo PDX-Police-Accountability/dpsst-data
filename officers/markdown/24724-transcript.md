@@ -43,17 +43,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/26/2024 | OAC3725A | Election year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
-| 9/26/2024 | OAC3203A | Deal w/people you don't like - Bring Out The Best | Passed | 0.0 | 2.50 |
+| 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
+| 9/26/2024 | OAC3203A | Deal w/People You Don't Like - Bring Out The Best | Passed | 0.0 | 2.50 |
 | 9/26/2024 | OAC1618A | Culture Conundrum Examination within Organization | Passed | 0.0 | 4.00 |
-| 9/25/2024 | OAC3958A | "Challenge for LE Leaders in Todays Social Enviro" | Passed | 0.0 | 1.25 |
-| 9/25/2024 | OAC0238A | "Ignite Your Leadership Potential" | Passed | 0.0 | 2.00 |
+| 9/25/2024 | OAC3958A | Challenge for LE Leaders in Todays Social Environ. | Passed | 0.0 | 1.25 |
+| 9/25/2024 | OAC0238A | Ignite Your Leadership Potential | Passed | 0.0 | 2.00 |
 | 9/19/2024 | FGP4258A | Washington County Bias Crime Symposium/Equity Am | Passed | 0.0 | 7.00 |
 | 9/19/2024 | FGP4257A | Washington Co. Bias Symp./Trauma Informed | Passed | 0.0 | 2.00 |
-| 9/11/2024 | FGP1336A | DV Offender Risk Form Training | Passed | 0.0 | 1.00 |
-| 9/11/2024 | FGP0396A | DV Offender Risk Form Training | Passed | 0.0 | 1.00 |
+| 9/11/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 9/9/2024 | FGP3665A | WC Deflection Program Training | Passed | 0.0 | 1.00 |
-| 9/9/2024 | FGP2353A | WC Deflection Program Training | Passed | 0.0 | 1.00 |
 | 6/15/2024 | FGP0050A | 2024 Legal Update | Passed | 0.0 | 1.00 |
 | 6/11/2024 | FGP0297A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |
 | 5/22/2024 | VND1838A | Motorcycle Safety Awareness Training | Passed | 0.0 | 1.00 |
