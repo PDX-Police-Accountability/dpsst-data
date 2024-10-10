@@ -37,12 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2024 | OSH4502A | 3rd Trimester Firearms- Low Light | Instructed | 0.0 | 4.00 |
 | 9/27/2024 | OSH4475A | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
 | 9/25/2024 | OSH0861A | OSP 2024 Survival Skills | Instructed | 0.0 | 4.00 |
 | 9/12/2024 | OSH0750A | OSP Active Shooter Instructor Development Course | Instructed | 0.0 | 4.00 |
 | 9/11/2024 | OSH0973A | Active Threat Instructor In-Service Training | Instructed | 0.0 | 8.00 |
 | 9/10/2024 | OSH4016A | Active Threat in service | Instructed | 0.0 | 4.00 |
 | 9/9/2024 | OSH2988A | 2nd Tri Firearms | Instructed | 0.0 | 8.00 |
+| 9/5/2024 | REG0824A | Vehicle Stops | Instructed | 0.0 | 6.00 |
 | 8/9/2024 | OSH0400A | 2024 3rd Trimester Survival Skills | Instructed | 0.0 | 4.00 |
 | 6/7/2024 | OSH0080A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 5/31/2024 | OSH3265A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |

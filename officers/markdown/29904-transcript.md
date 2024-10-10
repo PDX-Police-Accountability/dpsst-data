@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2024 | PDS2199A | Leadership | Passed | 0.0 | 4.00 |
 | 7/23/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
 | 7/22/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
 | 7/22/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |

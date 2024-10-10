@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2024 | MMP4204A | Firearms Training | Passed | 0.0 | 3.00 |
 | 7/31/2024 | MMP4316A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 4/19/2024 | MMP1794A | Calibre Press Online Training Videos, Mar-Apr | Passed | 0.0 | 0.50 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

@@ -34,32 +34,32 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/16/2019
-  certificate: Police Officer
-  level: Supervisory
-  status: Granted-UR
-  certificate_date: 8/16/2019
-  expiration_date: 11/26/2024
-  probation_date: ''
-- status_date: 12/13/2011
+- status_date: 10/8/2024
   certificate: Police Officer
   level: Advanced
-  status: Granted-UR
+  status: REVOKED
   certificate_date: 12/13/2011
   expiration_date: 11/26/2024
   probation_date: ''
-- status_date: 12/13/2011
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted-UR
-  certificate_date: 12/13/2011
-  expiration_date: 11/26/2024
-  probation_date: ''
-- status_date: 7/31/2000
+- status_date: 10/8/2024
   certificate: Police Officer
   level: Basic
-  status: Granted-UR
+  status: REVOKED
   certificate_date: 7/31/2000
+  expiration_date: 11/26/2024
+  probation_date: ''
+- status_date: 10/8/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: REVOKED
+  certificate_date: 12/13/2011
+  expiration_date: 11/26/2024
+  probation_date: ''
+- status_date: 10/8/2024
+  certificate: Police Officer
+  level: Supervisory
+  status: REVOKED
+  certificate_date: 8/16/2019
   expiration_date: 11/26/2024
   probation_date: ''
 training_records:

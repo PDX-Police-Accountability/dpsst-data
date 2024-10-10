@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2024
+  course: SAG0905A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/29/2024
   course: SAG1551A
   title: First Aid Training

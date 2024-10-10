@@ -48,7 +48,7 @@
 | 3/6/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 3/6/2024 | PDP0638A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 3/5/2024 | PDP1566A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
-| 3/1/2024 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 3/1/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 1/31/2024 | REG3800A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/11/2024 | REG1606A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/26/2023 | PDP2366A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
