@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2024 | STP0590A | X26P Taser Recertification | Passed | 0.0 | 2.00 |
 | 9/12/2024 | STP2126A | Bullet Proof Mind | Passed | 0.0 | 8.00 |
 | 9/12/2024 | HBS2034A | FBINAA Fall Retrainer 2024 - Bulletproof Mind | Passed | 0.0 | 8.00 |
 | 9/5/2024 | STP2868A | PPE | Passed | 0.0 | 1.00 |

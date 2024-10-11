@@ -44,6 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2024 | SPP2739A | Advanced Policing - Emotional Intellegence | Passed | 0.0 | 1.00 |
+| 10/8/2024 | SPP3695A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
+| 10/8/2024 | SPP2214A | Trauma Informed Sexual Assault Investigations | Passed | 0.0 | 1.00 |
+| 10/8/2024 | SPP4375A | Understanding microaggressions | Passed | 0.0 | 1.00 |
 | 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |
 | 4/18/2024 | OAC0321A | How to be an Awesome Second in Command | Passed | 0.0 | 1.00 |
 | 4/16/2024 | OAC4422A | Critical Issue Briefing HB 4002 | Passed | 0.0 | 1.00 |

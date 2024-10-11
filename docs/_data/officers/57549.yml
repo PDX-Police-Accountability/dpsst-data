@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/3/2024
+  course: VND0763A
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/19/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits

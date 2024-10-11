@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2024 | STN2827A | DV Academy Day 4 | Passed | 0.0 | 8.00 |
 | 10/2/2024 | STN2240A | DV Academy Day 3 | Passed | 0.0 | 8.00 |
 | 10/1/2024 | STN3962A | DV Academy Day 2 | Passed | 0.0 | 8.00 |
 | 9/30/2024 | STN0397A | DV Academy Day 1 | Passed | 0.0 | 4.00 |

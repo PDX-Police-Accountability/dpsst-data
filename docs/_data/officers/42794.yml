@@ -86,12 +86,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2024
+  course: OCS4309A
+  title: 3rd Qtr Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/27/2024
   course: OCS0818A
   title: September 2024 Sniper Training
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 9/24/2024
+  course: OCS4464A
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/1/2024
+  course: OCS2693A
+  title: De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2024
+  course: OCS0329A
+  title: Efficient Holster speed/marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2024
+  course: OCS1950A
+  title: Balancing Speed  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/28/2024
   course: OCS2024A
   title: February and September 2024 Monthly Firearms
@@ -116,6 +146,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '32.00'
+- date: 8/1/2024
+  course: OCS1509A
+  title: 2024 Drug Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/24/2024
   course: OCS3814A
   title: Shield/Low Light/Shoot No Shoot
@@ -134,6 +170,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 6/30/2024
+  course: OCS0499A
+  title: 2nd QTR Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/24/2024
   course: OCS4084A
   title: Shooting with Shields

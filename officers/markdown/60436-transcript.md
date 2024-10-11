@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2024 | OCS4439A | Third Degree | Passed | 0.0 | 24.00 |
 | 7/24/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
 | 6/20/2024 | PDP3960A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 5/16/2024 | PDP0020A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

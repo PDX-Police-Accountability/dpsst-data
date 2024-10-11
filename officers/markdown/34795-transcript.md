@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/27/2024 | OCS2835A | Balancing Speed/Marksmanship and Rifle Qual | Passed | 0.0 | 4.00 |
+| 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |
 | 7/11/2024 | HDA2041A | ONEA Training Institute - Pistols  Crystals Case | Passed | 0.0 | 4.00 |
 | 7/10/2024 | HDA3626A | ONEA Training Institute - Dirty MSB Case Study | Passed | 0.0 | 4.00 |
 | 7/9/2024 | HDA1491A | ONEA Training Institute - General Session | Passed | 0.0 | 4.00 |

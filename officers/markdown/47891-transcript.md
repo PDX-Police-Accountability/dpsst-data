@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2024 | PDP2169A | Renaissance Leadership | Passed | 0.0 | 45.00 |
+| 11/25/2024 | PDP1613A | Renaissance Leadership | Passed | 0.0 | 40.00 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 6/26/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

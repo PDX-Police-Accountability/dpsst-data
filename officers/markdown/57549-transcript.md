@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2024 | VND0763A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/21/2024 | PDP1051A | 2024 AR-15 Instructor In-Service | Passed | 0.0 | 9.00 |
 | 5/19/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

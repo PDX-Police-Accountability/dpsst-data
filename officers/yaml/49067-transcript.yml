@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2024
+  course: OCS2693A
+  title: De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2024
+  course: OCS0329A
+  title: Efficient Holster speed/marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/16/2024
   course: LOP1319A
   title: West Metro Monthly Motor Training 07/16/2024

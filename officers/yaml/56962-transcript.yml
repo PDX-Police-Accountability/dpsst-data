@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/3/2024
+  course: STN2827A
+  title: DV Academy Day 4
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/2/2024
   course: STN2240A
   title: DV Academy Day 3

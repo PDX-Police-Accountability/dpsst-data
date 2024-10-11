@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2024
+  course: STP0590A
+  title: X26P Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/12/2024
   course: STP2126A
   title: Bullet Proof Mind

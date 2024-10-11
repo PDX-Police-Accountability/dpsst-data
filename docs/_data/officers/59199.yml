@@ -67,6 +67,18 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 10/6/2024
+  course: EGP0804A
+  title: Manual Breaching / Searching / Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/6/2024
+  course: EGP2669A
+  title: CS Gas/ Pepperball/ FSDD Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/12/2024
   course: EGP1775A
   title: Child Witness Interviews

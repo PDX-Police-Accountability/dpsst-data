@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2024
+  course: OCS2693A
+  title: De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2024
+  course: OCS0329A
+  title: Efficient Holster speed/marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2024
+  course: OCS1950A
+  title: Balancing Speed  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/1/2024
+  course: OCS1509A
+  title: 2024 Drug Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/25/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

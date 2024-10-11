@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2024 | VND0763A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 8/7/2024 | HDA4214A | Patrol Officer Response to Street Drugs | Passed | 0.0 | 32.00 |
 | 6/29/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/29/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |

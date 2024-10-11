@@ -41,12 +41,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
+| 9/1/2024 | OCS0329A | Efficient Holster speed/marksmanship | Passed | 0.0 | 1.00 |
+| 8/30/2024 | OCS1950A | Balancing Speed  Marksmanship | Passed | 0.0 | 1.00 |
 | 8/11/2024 | OCS4104A | Accident or Inflicted: Investigator YOU decide | Passed | 0.0 | 1.25 |
 | 8/11/2024 | OCS1635A | Banta and Beyond | Passed | 0.0 | 1.25 |
 | 8/11/2024 | OCS3533A | The Five B's of Child Physical Abuse (pt 1) | Passed | 0.0 | 1.25 |
 | 8/11/2024 | OCS3001A | The Five B's of Child Physical Abuse (pt 2) | Passed | 0.0 | 1.25 |
 | 8/11/2024 | OCS4017A | Fundamentals of Interv.  Interrog. in Child abuse | Passed | 0.0 | 1.25 |
 | 8/11/2024 | OCS1126A | Fund.'s of Interv.  Interrog. in Child abuse 2 | Passed | 0.0 | 1.25 |
+| 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |
 | 7/20/2024 | OCS3211A | Shield/Low Light/Shoot-No-Shoot | Passed | 0.0 | 1.00 |
 | 6/28/2024 | OCS0040A | Return to Work DT / Firearms Training | Passed | 0.0 | 6.00 |
 | 6/28/2024 | OCS2757A | Vehicle Extractions/Ambushes | Passed | 0.0 | 2.00 |

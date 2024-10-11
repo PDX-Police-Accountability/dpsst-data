@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2024
+  course: OCS4439A
+  title: Third Degree
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 6/28/2024
   course: PDP2311A
   title: 2024-2 Range Qual AR-15 Qualification (20 Yard)

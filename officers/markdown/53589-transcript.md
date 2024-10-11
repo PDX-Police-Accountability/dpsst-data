@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
+| 9/1/2024 | OCS0329A | Efficient Holster speed/marksmanship | Passed | 0.0 | 1.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
 | 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |

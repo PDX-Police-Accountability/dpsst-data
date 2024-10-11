@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2024
+  course: OCS4439A
+  title: Third Degree
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/29/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm

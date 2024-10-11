@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2024 | BVP2054A | Control Tactics | Passed | 0.0 | 3.00 |
 | 8/16/2024 | BVP2961A | Aug 2024 40 HR Bike Class | Instructed | 0.0 | 40.00 |
 | 7/11/2024 | BVP0755A | EVOC IST 071124pm | Passed | 0.0 | 3.00 |
 | 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |

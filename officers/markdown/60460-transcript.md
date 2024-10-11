@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2024 | OCS4439A | Third Degree | Passed | 0.0 | 24.00 |
 | 5/29/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/29/2024 | PDP1822A | 2024-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 5/29/2024 | PDP3030A | 2024-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

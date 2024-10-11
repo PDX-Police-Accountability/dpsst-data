@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/1/2024
+  course: OCS1509A
+  title: 2024 Drug Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/11/2024
   course: HDA2041A
   title: ONEA Training Institute - Pistols  Crystals Case

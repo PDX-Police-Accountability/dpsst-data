@@ -38,8 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
+| 8/30/2024 | OCS1950A | Balancing Speed  Marksmanship | Passed | 0.0 | 1.00 |
 | 8/22/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |
 | 7/20/2024 | OCS3211A | Shield/Low Light/Shoot-No-Shoot | Passed | 0.0 | 1.00 |
+| 6/30/2024 | OCS0499A | 2nd QTR Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS2132A | Ground Offense Against Punches | Passed | 0.0 | 1.00 |

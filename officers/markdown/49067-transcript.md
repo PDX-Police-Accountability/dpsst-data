@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
+| 9/1/2024 | OCS0329A | Efficient Holster speed/marksmanship | Passed | 0.0 | 1.00 |
 | 7/16/2024 | LOP1319A | West Metro Monthly Motor Training 07/16/2024 | Passed | 0.0 | 6.00 |
 | 6/26/2024 | OCS3171A | LiDAR/Radar course | Instructed | 0.0 | 11.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |

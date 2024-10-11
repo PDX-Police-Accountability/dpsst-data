@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2024 | OCS4439A | Third Degree | Passed | 0.0 | 24.00 |
 | 7/15/2024 | PDP4494A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 9.00 |
 | 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

@@ -38,7 +38,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2024 | OCS1094A | FTO | Passed | 0.0 | 2.00 |
+| 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
+| 8/30/2024 | OCS1950A | Balancing Speed  Marksmanship | Passed | 0.0 | 1.00 |
+| 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |
 | 7/20/2024 | OCS3211A | Shield/Low Light/Shoot-No-Shoot | Passed | 0.0 | 1.00 |
+| 6/30/2024 | OCS0499A | 2nd QTR Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
 | 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |

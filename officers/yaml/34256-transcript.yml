@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2024
+  course: BVP2054A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/5/2024
   course: BVP3726A
   title: August Range 2024

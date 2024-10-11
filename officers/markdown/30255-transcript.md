@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2024 | BPT2245A | ADEPT | Instructed | 0.0 | 20.00 |
 | 9/4/2024 | BPT1276A | It's Not About Us | Passed | 0.0 | 2.00 |
 | 9/4/2024 | BPT1072A | Use of Force and Human Factors | Passed | 0.0 | 2.00 |
 | 9/3/2024 | BPT0711A | Adult Learning | Passed | 0.0 | 4.00 |

@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/8/2024
+  course: SPP4375A
+  title: Understanding microaggressions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/26/2024
   course: OAC3725A
   title: Election Year Threat Extremism in Oregon

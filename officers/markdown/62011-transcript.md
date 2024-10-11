@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2024 | VND0763A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 8/7/2024 | HDA4214A | Patrol Officer Response to Street Drugs | Passed | 0.0 | 32.00 |
 | 7/26/2024 | HDA0190A | Basic Narcotics Investigations | Passed | 0.0 | 40.00 |
 | 7/22/2024 | OCS2496A | Basic Narcotics | Passed | 0.0 | 40.00 |
