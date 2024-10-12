@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2024
+  course: OCS0440A
+  title: OPCA Fall Seminar - Detection
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/17/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm

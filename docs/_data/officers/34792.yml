@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/8/2024
+  course: TAP3464A
+  title: Terry Stops and Patdowns
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/24/2024
   course: ADP4325A
   title: Patrol Rifle

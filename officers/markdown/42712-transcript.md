@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2024 | HBS4128A | Sept. Virtual Session #2 Mental Health | Passed | 0.0 | 2.00 |
+| 10/1/2024 | HBS4364A | Sept. Virtual Session #2 General | Passed | 0.0 | 2.25 |
+| 10/1/2024 | HBS0159A | Sept. Virtual Session #2 Use of Force | Passed | 0.0 | 4.50 |
 | 6/1/2024 | HBS4415A | 2024 MAY ADA JAIL | Passed | 0.0 | 0.50 |
 | 6/1/2024 | HBS3138A | 2024 MAY ACAP | Passed | 0.0 | 2.00 |
 | 6/1/2024 | HBS3435A | 2024 MAY DE-ESCALATION | Passed | 0.0 | 1.50 |

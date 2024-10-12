@@ -28,6 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/8/2018 | Bachelor Science | All Other Education Institutes |  | 123.0 |
+| 9/15/2015 | Associate Arts | All Other Education Institutes |  | 107.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

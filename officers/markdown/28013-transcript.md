@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2024 | PSU4377A | Mobile Response Team Basic Skills Course | Passed | 0.0 | 6.50 |
 | 5/6/2024 | PSU0447A | Officer Survival 1/2 | Passed | 0.0 | 2.00 |
 | 5/5/2024 | PSU0525A | ALERRT Room Entry | Passed | 0.0 | 1.00 |
 | 4/29/2024 | PSU0921A | Adult  Pediatric First Aid/CPR/AED | Passed | 0.0 | 8.00 |

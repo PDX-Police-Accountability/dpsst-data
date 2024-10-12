@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/26/2024
+  course: GLP4065A
+  title: Discrimination  Harassment / DIE Microagressions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/16/2024
   course: EGN3769A
   title: Change Journal Training

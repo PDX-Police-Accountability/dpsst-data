@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2024 | TAP3464A | Terry Stops and Patdowns | Passed | 0.0 | 1.00 |
 | 9/24/2024 | ADP4325A | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 9/9/2024 | ADP0776A | Ethos Leadership | Passed | 0.0 | 3.00 |
 | 8/29/2024 | TAP3522A | Wellness Program 1st Watch Training | Passed | 0.0 | 1.00 |

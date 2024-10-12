@@ -35,7 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/29/2024 | PDP1959A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
+| 8/29/2024 | PDP1959A | 2024 SERT Training - Scenario | Passed | 0.0 | 5.00 |
 | 8/1/2024 | PDP3125A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/3/2024 | PDP1223A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/28/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Instructed | 0.0 | 9.00 |

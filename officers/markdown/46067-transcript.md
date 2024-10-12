@@ -39,7 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/29/2024 | PDP1959A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
+| 8/29/2024 | PDP1959A | 2024 SERT Training - Scenario | Passed | 0.0 | 5.00 |
 | 8/15/2024 | PDP2736A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 7/23/2024 | GPN3668A | Gang Awareness and Identification Training | Instructed | 0.0 | 2.00 |
 | 7/11/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

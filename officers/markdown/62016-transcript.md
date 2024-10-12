@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2024 | PDP2207A | 2024 Firearms Satellite Instructor School | Passed | 0.0 | 90.00 |
 | 8/15/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 5/31/2024 | OSH0911A | Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Passed | 0.0 | 60.00 |

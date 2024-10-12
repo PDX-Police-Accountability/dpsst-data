@@ -93,6 +93,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/10/2024
+  course: MISCMAIN
+  title: 2024 LE Leadership 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/3/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -141,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/22/2024
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 9/13/2024
   course: LOP2297A
   title: Law Enforcement Drone Assoc. Conference 2024
@@ -2739,6 +2751,10 @@ attribute_records:
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 1/1/1950
@@ -2753,7 +2769,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/20/2002

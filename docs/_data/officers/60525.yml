@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2024
+  course: PDP2207A
+  title: 2024 Firearms Satellite Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
 - date: 8/15/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm

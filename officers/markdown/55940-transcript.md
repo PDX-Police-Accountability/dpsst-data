@@ -31,7 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/29/2024 | PDP1959A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
+| 8/29/2024 | PDP1959A | 2024 SERT Training - Scenario | Passed | 0.0 | 5.00 |
 | 8/15/2024 | PDP2736A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 8/7/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/25/2024 | PDP3854A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 36.00 |

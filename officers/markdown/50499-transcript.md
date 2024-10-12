@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/20/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 9/19/2024 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 9/18/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 7/16/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/16/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/26/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 20.00 |
 | 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

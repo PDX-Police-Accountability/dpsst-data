@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2024
+  course: PDP2207A
+  title: 2024 Firearms Satellite Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
 - date: 6/25/2024
   course: PDP1150A
   title: 2024 AR-15 Operator In-Service

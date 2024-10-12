@@ -30,10 +30,11 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | CPR | 11/7/2023 | 11/8/2025 |
 | Certification Cards | First Aid | 11/6/2022 | 11/30/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +46,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 10/10/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2024 | LOP1989A | Ethics and Code of Conduct: Ethics for Everyone | Passed | 0.0 | 1.00 |
 | 9/30/2024 | LOP0116A | 8 Keys to a More Respectful Workplace 02-09 | Passed | 0.0 | 1.00 |
@@ -53,6 +55,7 @@
 | 9/26/2024 | OAC1618A | Culture Conundrum Examination within Organization | Passed | 0.0 | 4.00 |
 | 9/25/2024 | OAC3958A | Challenge for LE Leaders in Todays Social Environ. | Passed | 0.0 | 1.25 |
 | 9/25/2024 | OAC0238A | Ignite Your Leadership Potential | Passed | 0.0 | 2.00 |
+| 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 30.00 |
 | 9/13/2024 | LOP2297A | Law Enforcement Drone Assoc. Conference 2024 | Passed | 0.0 | 32.00 |
 | 8/15/2024 | LOP2738A | General Pacific FAA Part 107 Remote Pilot | Passed | 0.0 | 12.00 |
 | 5/30/2024 | LOP1938A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |

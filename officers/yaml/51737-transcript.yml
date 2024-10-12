@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/20/2024
+  course: PDP2207A
+  title: 2024 Firearms Satellite Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
 - date: 6/28/2024
   course: PDP3372A
   title: 2024 Safe Training Procedures

@@ -33,9 +33,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 3/8/2023 | 3/8/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 10/10/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/8/2024 | SPP2739A | Advanced Policing - Emotional Intellegence | Passed | 0.0 | 1.00 |
 | 10/8/2024 | SPP3695A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
 | 10/8/2024 | SPP2214A | Trauma Informed Sexual Assault Investigations | Passed | 0.0 | 1.00 |

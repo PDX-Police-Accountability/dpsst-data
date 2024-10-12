@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 20.00 |
 | 9/18/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/11/2024 | PDP1129A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/4/2024 | PDP2692A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

@@ -31,7 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 10/25/2023 | 10/25/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
 | Code of Ethics | Signed | 5/4/2001 |  |
@@ -42,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/25/2024 | SVP0207A | Patrol Rifle Qualification and Training | Passed | 0.0 | 1.00 |
 | 9/13/2024 | HBS1575A | FBINAA Fall Retrainer 2024 - Cold Case Study | Passed | 0.0 | 2.00 |
 | 9/12/2024 | HBS2034A | FBINAA Fall Retrainer 2024 - Bulletproof Mind | Passed | 0.0 | 8.00 |

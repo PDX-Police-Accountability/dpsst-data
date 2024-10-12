@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/1/2024
+  course: HBS4128A
+  title: 'Sept. Virtual Session #2 Mental Health'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2024
+  course: HBS4364A
+  title: 'Sept. Virtual Session #2 General'
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/1/2024
+  course: HBS0159A
+  title: 'Sept. Virtual Session #2 Use of Force'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 6/1/2024
   course: HBS4415A
   title: 2024 MAY ADA JAIL

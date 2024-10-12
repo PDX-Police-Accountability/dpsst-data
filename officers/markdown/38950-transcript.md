@@ -46,6 +46,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2024 | HBS4364A | Sept. Virtual Session #2 General | Passed | 0.0 | 2.25 |
+| 10/1/2024 | HBS0159A | Sept. Virtual Session #2 Use of Force | Passed | 0.0 | 4.50 |
+| 10/1/2024 | HBS4128A | Sept. Virtual Session #2 Mental Health | Passed | 0.0 | 2.00 |
 | 9/30/2024 | HBS1135A | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 6/5/2024 | HBS3545A | 2024 March IFAST | Passed | 0.0 | 4.50 |
 | 6/5/2024 | HBS0782A | 2024 March DT's | Passed | 0.0 | 4.50 |

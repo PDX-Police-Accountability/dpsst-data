@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2024 | PDP2207A | 2024 Firearms Satellite Instructor School | Passed | 0.0 | 90.00 |
 | 8/15/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 6/11/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/4/2024 | OCS1184A | Glock Armorer | Passed | 0.0 | 8.00 |

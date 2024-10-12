@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2024
+  course: GSP0866A
+  title: OPCA Fall Seminar - Patrol
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/26/2024
   course: OAC3725A
   title: Election Year Threat Extremism in Oregon

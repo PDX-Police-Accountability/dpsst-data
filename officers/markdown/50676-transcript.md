@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 30.00 |
 | 7/29/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Instructed | 0.0 | 9.00 |
 | 7/19/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
 | 6/25/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Instructed | 0.0 | 9.00 |

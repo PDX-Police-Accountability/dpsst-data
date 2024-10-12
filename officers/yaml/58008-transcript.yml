@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2024
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 7/12/2024
   course: PDP2620A
   title: 2024 Rapid Response Team (RRT) Monthly Training

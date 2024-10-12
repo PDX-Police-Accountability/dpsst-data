@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2024
+  course: HBP2682A
+  title: HPD Policy 318 - Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/5/2024
   course: HBP3816A
   title: Suicide Prevention

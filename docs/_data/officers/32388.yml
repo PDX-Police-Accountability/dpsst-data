@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2024
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/19/2024
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/18/2024
+  course: XDELETE4
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/18/2024
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/16/2024
   course: GSP4545A
   title: AR15/M4 Armorer Course
@@ -4213,6 +4237,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 9/18/2024
+  expiration_date: 9/18/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
