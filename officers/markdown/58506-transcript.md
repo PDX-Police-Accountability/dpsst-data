@@ -28,7 +28,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2017 | No Degree | Mt Hood Community College |  | 114.0 |
+| 6/17/2017 | Associate Science | Mt Hood Community College |  | 114.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

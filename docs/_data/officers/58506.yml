@@ -3016,8 +3016,8 @@ attribute_records:
   effective_date: 3/18/2018
   expiration_date: ''
 education_records:
-- date: 6/15/2017
-  degree: No Degree
+- date: 6/17/2017
+  degree: Associate Science
   school: Mt Hood Community College
   major: ''
   hours: '114.0'

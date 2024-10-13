@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/23/2024
+  agency: Multnomah County District Attorney
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
 - date: 6/28/2024
   agency: Portland Police Bureau
   action: Retired
@@ -34,26 +40,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 9/28/2024
+- status_date: 7/19/2006
   certificate: Police Officer
   level: Advanced
-  status: Lapsed
+  status: Granted
   certificate_date: 7/19/2006
-  expiration_date: 6/28/2029
+  expiration_date: ''
   probation_date: ''
-- status_date: 9/28/2024
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 7/27/1998
-  expiration_date: 6/28/2029
-  probation_date: ''
-- status_date: 9/28/2024
+- status_date: 10/24/2001
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Granted
   certificate_date: 10/24/2001
-  expiration_date: 6/28/2029
+  expiration_date: ''
+  probation_date: ''
+- status_date: 7/27/1998
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 7/27/1998
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 6/27/2024
@@ -4935,6 +4941,14 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/21/2023
