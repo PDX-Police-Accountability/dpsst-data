@@ -31,11 +31,47 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2092 | PDP3816A | 2022-2 IS MH Crisis Intervention Updates | Passed | 0.0 | 1.00 |
+| 2/3/2048 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 12/20/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/16/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
+| 8/16/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/9/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 8/9/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/9/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/9/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 8/9/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/9/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/29/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
+| 7/22/2024 | PDP1972A | 2023-1 In Service MFF Formations Online Recording | Passed | 0.0 | 1.00 |
+| 7/22/2024 | PDP3178A | 2023-1 In service Recorded Training | Passed | 0.0 | 10.00 |
+| 7/21/2024 | PDP2275A | 2023-1 In Service Crowd Mgmt Legal Updates 2 | Passed | 0.0 | 1.00 |
+| 7/21/2024 | PDP2221A | 2023-1 In Service MFF Arrest Procedures | Passed | 0.0 | 0.50 |
+| 7/21/2024 | PDP3070A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
+| 7/21/2024 | PDP1166A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
+| 7/18/2024 | PDP3239A | 2023-1 In Service Crowd Mgmt Legal Updates 1 | Passed | 0.0 | 1.00 |
+| 7/18/2024 | PDP2428A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
+| 7/18/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 7/10/2024 | PDP3934A | Red Dot Optic Transition Course | Passed | 0.0 | 15.00 |
 | 7/10/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/10/2024 | PDP4218A | 2023-1 In Service Crowd Mgmt Baton Online | Passed | 0.0 | 0.50 |
+| 7/10/2024 | PDP3580A | 2023-1 In Service Crowd Mgmt Use of Force 40mm OC | Passed | 0.0 | 0.50 |
+| 7/10/2024 | PDP0774A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
+| 7/10/2024 | PDP2276A | 2023-1 In Service Force Reporting Online Recording | Passed | 0.0 | 0.50 |
+| 7/10/2024 | PDP1252A | 2023-1 In Service Internal Affairs Online | Passed | 0.0 | 0.50 |
+| 7/10/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP3547A | 2023-2 In Service Recording Legal Updates | Passed | 0.0 | 1.25 |
+| 7/9/2024 | PDP2098A | 2023-2 In Service Recording Legal Updates Part 1 | Passed | 0.0 | 0.75 |
+| 7/9/2024 | PDP2035A | 2023-2 In Service Recording Legal Updates Part 2 | Passed | 0.0 | 0.50 |
+| 7/8/2024 | PDP0281A | 2022-2 In Service Legal Updates Part 2 | Passed | 0.0 | 1.00 |
+| 7/8/2024 | PDP4060A | 2022-2 In Service Legal Updates Part 3 | Passed | 0.0 | 0.50 |
+| 7/8/2024 | PDP2947A | 2022-2 In Service Online Recordings | Passed | 0.0 | 6.50 |
+| 7/8/2024 | PDP0717A | 2024-1 All Sworn In-Service MFF Recording | Passed | 0.0 | 1.00 |
+| 7/3/2024 | PDP0797A | 2022-2 In Service ABLE | Passed | 0.0 | 2.00 |
+| 7/3/2024 | PDP3836A | 2022-2 In Service Legal Updates Part 1 | Passed | 0.0 | 1.00 |
+| 7/3/2024 | PDP0445A | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 7/2/2024 | PDP3944A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
 | 6/27/2024 | PDP0919A | 2023-2 IS Trauma Informed Interviewing Pt 2 | Passed | 0.0 | 0.50 |
 | 6/27/2024 | PDP3346A | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 6/27/2024 | PDP1992A | 2024-1 All Sworn In-Service Wellness Recording | Passed | 0.0 | 1.00 |

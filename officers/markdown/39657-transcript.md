@@ -34,6 +34,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 7/25/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/25/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/9/2024 | PDP2652A | Introduction to Hate Crimes | Passed | 0.0 | 2.00 |
 | 7/2/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
@@ -617,6 +627,7 @@
 | 10/24/2008 | 08-0129 | Firearms Training | Passed | 0.0 | 4.00 |
 | 9/17/2008 | 08-1270 | Field Training Officer Update | Passed | 0.0 | 1.50 |
 | 8/15/2008 | 08-0443 | Leadership | Passed | 0.0 | 40.00 |
+| 7/28/2008 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 2/28/2008 | 08-1038 | Interview  Interrogation | Passed | 0.0 | 16.00 |
 | 2/12/2008 | 08-0131 | LEO Flying Armed | Passed | 0.0 | 2.00 |
 | 1/22/2008 | 08-0827 | Informants | Passed | 0.0 | 3.00 |

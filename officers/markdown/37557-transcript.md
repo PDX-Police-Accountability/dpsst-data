@@ -56,6 +56,7 @@
 | 9/25/2024 | OAC3958A | Challenge for LE Leaders in Todays Social Environ. | Passed | 0.0 | 1.25 |
 | 9/25/2024 | OAC0238A | Ignite Your Leadership Potential | Passed | 0.0 | 2.00 |
 | 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 30.00 |
+| 9/22/2024 | GSP3582A | UAS Ground School | Passed | 0.0 | 30.00 |
 | 9/13/2024 | LOP2297A | Law Enforcement Drone Assoc. Conference 2024 | Passed | 0.0 | 32.00 |
 | 8/15/2024 | LOP2738A | General Pacific FAA Part 107 Remote Pilot | Passed | 0.0 | 12.00 |
 | 5/30/2024 | LOP1938A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |

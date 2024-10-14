@@ -37,6 +37,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/19/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 8/3/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 8/3/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 8/3/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/3/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/3/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/3/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 8/3/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 8/3/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 7/17/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 7/17/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 7/17/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 5/31/2024 | OSH2907A | Tactical Rope Operations | Passed | 0.0 | 14.00 |
 | 5/27/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/23/2024 | PDP2151A | 2024 Investigator In-Service Case Study | Passed | 0.0 | 2.00 |
@@ -495,6 +508,7 @@
 | 6/30/2016 | F6C20466 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 2/29/2016 | F6C23868 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 2/29/2016 | F6C35721 | Handgun Qualification Primary Sidearm | Passed | 0.0 | 0.50 |
+| 2/27/2016 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 12/31/2015 | 15-1262 | Video Training Courses | Passed | 0.0 | 1.50 |
 | 12/10/2015 | 15-0272 | Taser Refresher Training | Passed | 0.0 | 2.00 |
 | 12/10/2015 | 15-0100 | Active Shooter | Passed | 0.0 | 1.00 |

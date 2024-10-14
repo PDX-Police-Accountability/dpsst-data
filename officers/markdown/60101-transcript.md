@@ -33,6 +33,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 9/27/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 9/27/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/24/2024 | PDP4129A | 2023 Lead Exposure Prevention Tips | Passed | 0.0 | 0.25 |
+| 8/24/2024 | PDP2252A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 8/24/2024 | PDP0707A | 2023 OSHA Lead Appendix A | Passed | 0.0 | 0.25 |
+| 8/24/2024 | PDP2058A | 2023 OSHA Lead Appendix B | Passed | 0.0 | 0.25 |
+| 8/24/2024 | PDP2356A | 2023 PPB Lead Exposure Information | Passed | 0.0 | 0.25 |
+| 8/24/2024 | PDP0846A | OSHA Quick Card Firing Ranges | Passed | 0.0 | 0.25 |
 | 6/3/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/26/2024 | PDP3088A | 2023-1  2 CAO Legal Updates for 01 and 02/2023 | Passed | 0.0 | 0.25 |
 | 5/26/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |

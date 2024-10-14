@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/22/2024 | VND2712A | North American Standard Part A Inspection Course | Passed | 0.0 | 40.00 |
+| 7/22/2024 | VND2425A | North American Standard Part B Insp Course | Passed | 0.0 | 40.00 |
 | 4/18/2024 | MNS0851A | Kloxxado (Narcan) Training | Passed | 0.0 | 1.00 |
 | 2/28/2024 | MNS2952A | Low Light Firearms Training | Passed | 0.0 | 2.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |

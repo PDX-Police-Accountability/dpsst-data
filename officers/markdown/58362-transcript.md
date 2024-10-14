@@ -45,6 +45,7 @@
 | 6/20/2024 | OCS0454A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
 | 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |
+| 5/7/2024 | VND1097A | SafeSpect Inspection Software Training | Passed | 0.0 | 6.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS2132A | Ground Offense Against Punches | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS1169A | Annual Handgun Qual | Passed | 0.0 | 1.00 |

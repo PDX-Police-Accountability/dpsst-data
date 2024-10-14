@@ -36,6 +36,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2024
+  course: PDP0737A
+  title: 2024 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/27/2024
+  course: PDP1749A
+  title: 2024-3 Tips  Techniques Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2024
+  course: PDP1283A
+  title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/24/2024
+  course: PDP4129A
+  title: 2023 Lead Exposure Prevention Tips
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/24/2024
+  course: PDP2252A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 8/24/2024
+  course: PDP0707A
+  title: 2023 OSHA Lead Appendix A
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/24/2024
+  course: PDP2058A
+  title: 2023 OSHA Lead Appendix B
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/24/2024
+  course: PDP2356A
+  title: 2023 PPB Lead Exposure Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/24/2024
+  course: PDP0846A
+  title: OSHA Quick Card Firing Ranges
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/3/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm

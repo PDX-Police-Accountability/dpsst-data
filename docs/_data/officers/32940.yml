@@ -69,6 +69,18 @@ certification_records:
   expiration_date: 7/19/2029
   probation_date: ''
 training_records:
+- date: 7/2/2024
+  course: PDP2096A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/2/2024
+  course: PDP1749A
+  title: 2024-3 Tips  Techniques Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/28/2024
   course: PDP2550A
   title: Tech. Installations in High Voltage Environment

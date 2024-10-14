@@ -51,12 +51,186 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/4/2024
+  course: PDP3478A
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: PDP2420A
+  title: 2024 ECIT Recording Themes and Values
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/4/2024
+  course: PDP2780A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: PDP4160A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: PDP3890A
+  title: 2023-4 CAO Legal Updates for 04/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: PDP2388A
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: PDP3932A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: PDP1025A
+  title: 2024 ECIT IS Online Recordings
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/4/2024
+  course: PDP4396A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: PDP2096A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: PDP0918A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/4/2024
+  course: PDP3620A
+  title: DIR 0311.50 Investigative Use of Social Media Memo
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/4/2024
+  course: PDP1187A
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP1318A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP2205A
+  title: 2023-1  2 CAO Legal Updates for 01  02/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP1954A
+  title: 2024 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/29/2024
+  course: PDP0311A
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP3193A
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP0737A
+  title: 2024 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/29/2024
+  course: PDP2119A
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP2564A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP1749A
+  title: 2024-3 Tips  Techniques Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP4198A
+  title: 2024-2 TT State v. Wilcox Civil Holds  Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP3738A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP3146A
+  title: 2024-4 CAO Legal Updates for 04/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP4454A
+  title: 2024-7 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP3560A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2024
+  course: PDP1283A
+  title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/28/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/28/2024
+  course: PDP2724A
+  title: 2024 ECIT Recording Define the Event
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/12/2023
   course: PDP2240A
   title: 2023-2 All Sworn In-Service ABLE Scenario
@@ -2220,6 +2394,12 @@ training_records:
 - date: 1/22/2019
   course: PDP14745
   title: 2019 Training Seat Belt Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/19/2019
+  course: PDP0745A
+  title: School Emergency Actions
   status: Passed
   score: '0.0'
   hours: '0.25'

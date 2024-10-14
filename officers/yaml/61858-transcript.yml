@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/10/2024
+  course: MFN1920A
+  title: Expert Analysis Officer Involved Shooting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/26/2024
   course: MFN2213A
   title: Cadence

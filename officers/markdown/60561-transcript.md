@@ -31,6 +31,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2024 | PDP0754A | OSU SOP009 Modified Duty SOP | Passed | 0.0 | 0.50 |
+| 9/10/2024 | PDP3459A | OSU SOP009 Appendix A. Modified Duty Guide | Passed | 0.0 | 0.50 |
+| 9/8/2024 | PDP0597A | OSU Modified Duty  Cold Call-Taking Training | Passed | 0.0 | 0.25 |
+| 9/8/2024 | PDP3459A | OSU SOP009 Appendix A. Modified Duty Guide | Passed | 0.0 | 0.50 |
+| 9/8/2024 | PDP0754A | OSU SOP009 Modified Duty SOP | Passed | 0.0 | 0.50 |
+| 9/7/2024 | PDP2388A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 9/7/2024 | PDP3932A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 9/7/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/6/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/6/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |

@@ -37,6 +37,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 7/25/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/25/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/17/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
@@ -699,6 +709,7 @@
 | 12/31/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 12.00 |
 | 11/29/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 8.00 |
 | 8/2/1999 | 99T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
+| 3/21/1999 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 3/3/1999 | 99P158 | ADVANCED ACAMENY 98-4 | Passed | 0.0 | 422.00 |
 | 11/16/1998 | 98U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
 | 11/13/1998 | 98B014 | DPSST Basic Police | Passed | 0.0 | 376.00 |

@@ -28,11 +28,51 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2077 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/2/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 8/2/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/2/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/2/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 8/2/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/16/2024 | PDP2674A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 7/15/2024 | PDP4395A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 7/11/2024 | PDP1033A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
+| 7/10/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 7/10/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/10/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/10/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP3535A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP0417A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP1092A | 2021 Online In-Service Training PJ Part 3 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP4071A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP0946A | 2021 Online In-Service Training PJ Part 1 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP0166A | 2021 Online In-Service Training PJ Part 2 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP2631A | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP2113A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 7/3/2024 | PDP1111A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP0889A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP0860A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP1167A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP2752A | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP0663A | 2022-9 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP2780A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP1318A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP4186A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP4355A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/3/2024 | PDP4160A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP2205A | 2023-1  2 CAO Legal Updates for 01  02/2023 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP3478A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP3559A | 2023-2 TT BWC Pilot Policy  Procedure FAQ | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP3560A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP3620A | DIR 0311.50 Investigative Use of Social Media Memo | Passed | 0.0 | 0.50 |
+| 7/3/2024 | PDP1187A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
+| 7/3/2024 | PDP1413A | DIR 660.10 Property  Evidence Proc 2018-5 TT | Passed | 0.0 | 0.50 |
 | 7/2/2024 | PDP3185A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
+| 7/1/2024 | PDP2824A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 7/1/2024 | PDP1657A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
+| 7/1/2024 | PDP1441A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
 | 6/25/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 6/25/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |

@@ -42,7 +42,19 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/13/2024 | ALP2690A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 8/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 7/18/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 7/18/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 7/18/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 7/18/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 7/18/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/10/2024 | PDP0701A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 7/9/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/9/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 6/19/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/17/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
@@ -576,6 +588,7 @@
 | 9/27/2017 | PPB24636 | 2017-2 In-Service Crowd Control | Passed | 0.0 | 1.00 |
 | 9/27/2017 | PPB24637 | 2017-2 In-Service Pursuit Policy | Passed | 0.0 | 1.00 |
 | 9/27/2017 | PDP13189 | 2017 Crisis Negotiaton Team Training | Passed | 0.0 | 27.00 |
+| 9/11/2017 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/9/2017 | PDP13189 | 2017 Crisis Negotiaton Team Training | Passed | 0.0 | 8.00 |
 | 6/30/2017 | PPB24454 | Handgun Qualification - Primary Sidearm | Passed | 0.0 | 0.50 |
 | 6/30/2017 | PPB24455 | Handgun Qualification - Secondary Sidearm | Passed | 0.0 | 0.50 |

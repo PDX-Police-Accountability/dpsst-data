@@ -35,10 +35,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
 | 8/1/2024 | REG3810A | DT Striking Defense/Ground Control | Passed | 0.0 | 1.00 |
+| 7/25/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 7/25/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/25/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 7/25/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/22/2024 | REG2655A | DT | Passed | 0.0 | 1.00 |
 | 7/11/2024 | REG0597A | DT Ground Control | Passed | 0.0 | 1.00 |
+| 7/11/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 7/11/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/11/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 7/8/2024 | REG3252A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 7/1/2024 | REG3883A | DT | Passed | 0.0 | 1.00 |
 | 6/28/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
@@ -740,6 +750,7 @@
 | 8/28/2008 | 08-0914 | Personal / Professional Development - Other | Passed | 0.0 | 1.00 |
 | 8/28/2008 | 08-0914 | Personal / Professional Development - Other | Passed | 0.0 | 1.00 |
 | 8/12/2008 | 08-0834 | Investigation Training - Other | Passed | 0.0 | 16.00 |
+| 7/14/2008 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 6/27/2008 | 08-0153 | AR-15 Basic Operator / Qualification | Passed | 0.0 | 10.00 |
 | 2/28/2008 | 08-1038 | Interview  Interrogation | Passed | 0.0 | 16.00 |
 | 2/7/2008 | 08-0131 | LEO Flying Armed | Passed | 0.0 | 2.00 |

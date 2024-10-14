@@ -40,6 +40,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/15/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 7/16/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 7/16/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 7/16/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 7/16/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 7/16/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/10/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 7/10/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/10/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/10/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
@@ -788,6 +798,7 @@
 | 10/24/2008 | 08-0129 | Firearms Training | Passed | 0.0 | 4.00 |
 | 8/29/2008 | 08-0593 | Conference - Other | Passed | 0.0 | 36.00 |
 | 8/28/2008 | 08-0761 | Sex Offender Registration | Passed | 0.0 | 3.00 |
+| 7/22/2008 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 7/10/2008 | 08-0651 | Vice for Patrol | Instructed | 0.0 | 4.00 |
 | 6/24/2008 | 08-0259 | Tactical Entry | Passed | 0.0 | 6.00 |
 | 3/18/2008 | 08-0834 | Investigation Training - Other | Passed | 0.0 | 1.00 |

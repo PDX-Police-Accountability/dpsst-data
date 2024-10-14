@@ -24,6 +24,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2024
+  course: PDP0754A
+  title: OSU SOP009 Modified Duty SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/10/2024
+  course: PDP3459A
+  title: OSU SOP009 Appendix A. Modified Duty Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/8/2024
+  course: PDP0597A
+  title: OSU Modified Duty  Cold Call-Taking Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/8/2024
+  course: PDP3459A
+  title: OSU SOP009 Appendix A. Modified Duty Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/8/2024
+  course: PDP0754A
+  title: OSU SOP009 Modified Duty SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/7/2024
+  course: PDP2388A
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/7/2024
+  course: PDP3932A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/7/2024
+  course: PDP1749A
+  title: 2024-3 Tips  Techniques Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/27/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

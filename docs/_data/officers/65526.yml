@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/15/2024
+  course: PDP2076A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR

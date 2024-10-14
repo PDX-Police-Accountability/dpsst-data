@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | MFN1920A | Expert Analysis Officer Involved Shooting | Passed | 0.0 | 2.00 |
 | 9/26/2024 | MFN2213A | Cadence | Passed | 0.0 | 3.00 |
 | 8/20/2024 | MFN0108A | Constructive Possession | Passed | 0.0 | 1.00 |
 | 8/15/2024 | MFN3761A | Cost Benefit Analysis and Behavior Chain | Instructed | 0.0 | 2.00 |

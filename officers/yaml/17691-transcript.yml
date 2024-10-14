@@ -61,6 +61,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/22/2024
+  course: VND2712A
+  title: North American Standard Part A Inspection Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/22/2024
+  course: VND2425A
+  title: North American Standard Part B Insp Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/18/2024
   course: MNS0851A
   title: Kloxxado (Narcan) Training

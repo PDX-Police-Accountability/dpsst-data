@@ -153,6 +153,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 9/22/2024
+  course: GSP3582A
+  title: UAS Ground School
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 9/13/2024
   course: LOP2297A
   title: Law Enforcement Drone Assoc. Conference 2024

@@ -28,12 +28,55 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/4/2078 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/25/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/17/2024 | PDP4167A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 9/12/2024 | PDP4234A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 9/10/2024 | PDP2674A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 9/5/2024 | PDP1978A | 2024 FTEP Geography | Passed | 0.0 | 2.50 |
 | 9/3/2024 | PDP1070A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 3.00 |
+| 9/3/2024 | PDP0860A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 9/3/2024 | PDP2752A | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 9/3/2024 | PDP0889A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 9/3/2024 | PDP1167A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 9/3/2024 | PDP1413A | DIR 660.10 Property  Evidence Proc 2018-5 TT | Passed | 0.0 | 0.50 |
+| 8/29/2024 | PDP2205A | 2023-1  2 CAO Legal Updates for 01  02/2023 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP3535A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP4186A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP1092A | 2021 Online In-Service Training PJ Part 3 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP2113A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 8/29/2024 | PDP0946A | 2021 Online In-Service Training PJ Part 1 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP0166A | 2021 Online In-Service Training PJ Part 2 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP2631A | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP1111A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP0417A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP1318A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP2780A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP4160A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP3478A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP2388A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP3932A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 8/29/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/29/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP4198A | 2024-2 TT State v. Wilcox Civil Holds  Searches | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP4396A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP3738A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP2076A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 8/29/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 8/29/2024 | PDP1187A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP3620A | DIR 0311.50 Investigative Use of Social Media Memo | Passed | 0.0 | 0.50 |
+| 8/29/2024 | PDP3560A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/23/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 7/30/2024 | REG1017A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |

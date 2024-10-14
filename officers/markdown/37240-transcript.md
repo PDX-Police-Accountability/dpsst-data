@@ -34,7 +34,25 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
+| 9/24/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/4/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/31/2024 | PDP1493A | 2024 UAS Training for Traffic Division | Passed | 0.0 | 3.00 |
+| 7/31/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 7/31/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 7/31/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 7/31/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 7/31/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/9/2024 | PDP0761A | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP1619A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
+| 7/9/2024 | PDP0428A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 7/9/2024 | PDP2126A | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.08 |
+| 7/9/2024 | PDP4497A | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
+| 7/9/2024 | PDP0470A | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
+| 7/8/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 7/8/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/8/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 7/2/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/2/2024 | PDP0909A | 2024-2 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
@@ -47,6 +65,7 @@
 | 5/8/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |
 | 5/8/2024 | PDP4233A | 2024-1 All Sworn In-Service PVO/BoxIn | Passed | 0.0 | 1.50 |
 | 5/8/2024 | PDP0063A | 2024-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.50 |
+| 5/7/2024 | VND1097A | SafeSpect Inspection Software Training | Passed | 0.0 | 6.00 |
 | 4/9/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/28/2024 | PDP2944A | 2024 UAS Training for Traffic Division | Passed | 0.0 | 8.00 |
@@ -835,6 +854,7 @@
 | 4/24/2004 | 04-0470 | DUII Multi-disciplinary Impared Driving | Passed | 0.0 | 16.00 |
 | 4/22/2004 | 04-0129 | Three Flags Pre-Blitz Workshop | Passed | 0.0 | 8.00 |
 | 8/1/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
+| 12/15/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 12/6/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
 | 10/19/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 0.50 |
 | 5/11/2001 | 01CP440 | Crisis Intervention Team Training | Passed | 0.0 | 40.00 |

@@ -37,13 +37,25 @@
 | 9/18/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/18/2024 | PDP3482A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/11/2024 | PDP1129A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/6/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/4/2024 | PDP2692A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/28/2024 | PDP0093A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/14/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/8/2024 | PDP2723A | 2024 MEDU Weekly Training (IN-SERVICE) | Passed | 0.0 | 36.00 |
+| 8/1/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/31/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/24/2024 | PDP4386A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 7/18/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 7/18/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 7/18/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/18/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 7/18/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 7/17/2024 | PDP0128A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 7/11/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 7/11/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 7/11/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 7/11/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/11/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/19/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 6/17/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -980,6 +992,7 @@
 | 12/12/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 8.00 |
 | 7/2/1999 | 99T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 4/26/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 13.00 |
+| 3/20/1999 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 3/3/1999 | 99P158 | ADVANCED ACAMENY 98-4 | Passed | 0.0 | 422.00 |
 | 11/16/1998 | 98U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
 | 11/13/1998 | 98B014 | DPSST Basic Police | Passed | 0.0 | 376.00 |
