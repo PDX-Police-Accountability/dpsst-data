@@ -503,13 +503,13 @@ training_records:
   title: DID/SFST (Hours included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 3/23/2023
   course: REG24193
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 1/18/2023
   course: PDP3612A
   title: CPR/First Aid

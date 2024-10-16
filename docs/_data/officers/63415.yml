@@ -28,7 +28,7 @@ training_records:
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 2/26/2023
   course: PDP26373
   title: IS-700 National Incident Management System

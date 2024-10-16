@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | OSH2451A | 2024 OSP Survival Skills | Instructed | 0.0 | 0.00 |
 | 10/7/2024 | OSH4502A | 3rd Trimester Firearms- Low Light | Instructed | 0.0 | 4.00 |
 | 10/4/2024 | RMP3456A | NTOA Rescue Task Force Instructor Course | Passed | 0.0 | 24.00 |
 | 9/27/2024 | OSH4475A | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |

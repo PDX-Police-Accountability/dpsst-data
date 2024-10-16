@@ -134,8 +134,8 @@
 | 4/18/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 4/18/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
 | 4/18/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
-| 4/17/2023 | REG1512A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
-| 3/23/2023 | REG24193 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
+| 4/17/2023 | REG1512A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 3/23/2023 | REG24193 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 1/19/2023 | PDP27971 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 1/19/2023 | PDP05850 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 1/18/2023 | PDP3612A | CPR/First Aid | Passed | 0.0 | 4.00 |

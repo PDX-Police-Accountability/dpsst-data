@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/5/2024
+  course: HSU0443A
+  title: Axon BWC 4
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/5/2024
+  course: HSU1508A
+  title: Taser 10 Operator
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/29/2024
   course: HSU3771A
   title: Red Dot Sight Course 6

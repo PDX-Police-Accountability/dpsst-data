@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/5/2024 | PPP0308A | Rapid Response Team Firearms Training | Passed | 0.0 | 4.00 |
 | 8/22/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2024 | PPP1962A | Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

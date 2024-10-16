@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2024 | HSU2131A | Fall In-service 2024 Instructor Prep | Passed | 0.0 | 4.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/20/2024 | HSU3008A | Spring In-Service 2024 Vehicle Operations | Instructed | 0.0 | 3.00 |
 | 4/19/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |

@@ -82,13 +82,13 @@
 | 5/15/2023 | PDP0627 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/15/2023 | PDP1608A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
 | 5/12/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 4/17/2023 | REG1512A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 4/17/2023 | REG1512A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 4/14/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/14/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/14/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 4/14/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 4/7/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
-| 3/23/2023 | REG24193 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
+| 3/23/2023 | REG24193 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 1/18/2023 | PDP3612A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 1/17/2023 | PDP27229 | Intro to Handcuffing | Passed | 0.0 | 1.00 |
 | 1/16/2023 | PDP29340 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

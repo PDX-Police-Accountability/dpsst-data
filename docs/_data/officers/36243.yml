@@ -101,12 +101,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 8/31/2024
-  course: HBS0644A
-  title: LEDs Recertification
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 8/21/2024
   course: LOP2261A
   title: West Metro Monthly Motor Training 08/21/2024

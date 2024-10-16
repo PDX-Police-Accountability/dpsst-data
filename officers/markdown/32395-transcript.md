@@ -41,6 +41,7 @@
 | 8/22/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2024 | PPP1962A | Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/2/2024 | PPP0946A | RDS Firearm Training | Passed | 0.0 | 16.00 |
 | 6/6/2024 | PPP3021A | Low Light Firearms Training | Passed | 0.0 | 4.00 |
 | 5/31/2024 | PPP0290A | Expect the Unexpected | Passed | 0.0 | 1.00 |
 | 5/15/2024 | PPP1761A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |

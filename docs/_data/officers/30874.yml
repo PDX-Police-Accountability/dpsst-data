@@ -81,21 +81,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 9/11/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 9/9/2024
   course: FGP3665A
   title: WC Deflection Program Training
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 9/9/2024
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

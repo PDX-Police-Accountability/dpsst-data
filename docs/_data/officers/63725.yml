@@ -443,19 +443,13 @@ training_records:
   title: DID/SFST (Hours included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
-- date: 8/17/2023
-  course: F6R1759A
-  title: Intox 8000
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 8/17/2023
   course: REG3523A
   title: Intox 8000 (Hours included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 7/7/2023
   course: PDP1316A
   title: 2022 HB 2513 Airways

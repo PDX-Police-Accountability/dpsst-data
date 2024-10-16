@@ -49,6 +49,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/5/2024 | HSU0443A | Axon BWC 4 | Passed | 0.0 | 2.00 |
+| 10/5/2024 | HSU1508A | Taser 10 Operator | Passed | 0.0 | 8.00 |
 | 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Passed | 0.0 | 30.00 |
 | 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
 | 9/26/2024 | OAC3203A | Deal w/People You Don't Like - Bring Out The Best | Passed | 0.0 | 2.50 |

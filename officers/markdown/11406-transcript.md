@@ -52,7 +52,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/20/2024 | WGP3900A | DPSST CERTIFICATION PRESENTATION | Passed | 0.0 | 4.00 |
+| 8/20/2024 | WGP3900A | DPSST Certification Presentation | Passed | 0.0 | 4.00 |
 | 4/18/2024 | OAC0055A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
 | 4/17/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |
 | 4/16/2024 | RRP2628A | OACP Annual Board Meeting | Passed | 0.0 | 2.50 |

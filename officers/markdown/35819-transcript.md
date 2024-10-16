@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/5/2024 | HSU0443A | Axon BWC 4 | Passed | 0.0 | 2.00 |
+| 10/5/2024 | HSU1508A | Taser 10 Operator | Passed | 0.0 | 8.00 |
 | 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Passed | 0.0 | 30.00 |
 | 4/5/2023 | PDP0942A | 2023 Training PS3 Support Specialist Coach School | Passed | 0.0 | 8.00 |
 | 6/14/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

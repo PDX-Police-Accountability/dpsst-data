@@ -27,7 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/23/2023 | REG24193 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
+| 3/23/2023 | REG24193 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 2/26/2023 | PDP26373 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 1/23/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 1/17/2023 | PDP27229 | Intro to Handcuffing | Passed | 0.0 | 1.00 |
