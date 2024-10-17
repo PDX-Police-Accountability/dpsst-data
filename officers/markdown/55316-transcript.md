@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Wheeler, Sydne A. |
+| name | Schauer, Sydne A. |
 | dpsst_identifier | 55316 |
 | agency | Portland Police Bureau |
 | employment_status | Active |

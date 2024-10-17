@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2024 | WLP0800A | Leading in Times of Crisis | Passed | 0.0 | 10.00 |
 | 10/6/2024 | WLP0602A | Developing Leadership | Passed | 0.0 | 1.00 |
 | 10/6/2024 | WLP3441A | Essential Traits of Servant Leaders | Passed | 0.0 | 1.50 |
 | 10/6/2024 | WLP0803A | Leadership v. Management | Passed | 0.0 | 1.00 |

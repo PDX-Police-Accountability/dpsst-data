@@ -377,6 +377,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/31/2023
+  course: LOP3023A
+  title: Airway/Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/16/2023
   course: LOP2153A
   title: EVOC/HR Stops/Box-In
@@ -2800,10 +2806,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: CPR
   effective_date: 11/6/2023

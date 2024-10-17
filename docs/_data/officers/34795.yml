@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2024
+  course: NPS3553A
+  title: Fall 2024 OSSA Civil Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/27/2024
   course: OCS2835A
   title: Balancing Speed/Marksmanship and Rifle Qual

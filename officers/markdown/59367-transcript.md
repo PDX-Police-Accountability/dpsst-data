@@ -23,8 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/9/2024 | 1/9/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/20/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 4/14/2019 |  |
 ## Education
@@ -33,7 +33,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/15/2062 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 10/3/2024 | VND0763A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 9/20/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/22/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
@@ -50,6 +49,7 @@
 | 8/14/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/26/2024 | HDA0190A | Basic Narcotics Investigations | Passed | 0.0 | 40.00 |
 | 7/22/2024 | OCS2496A | Basic Narcotics | Passed | 0.0 | 40.00 |
+| 7/15/2024 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 6/7/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/15/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 4/15/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

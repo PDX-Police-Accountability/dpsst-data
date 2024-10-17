@@ -156,6 +156,114 @@ certification_records:
   expiration_date: 3/1/2026
   probation_date: ''
 training_records:
+- date: 10/4/2024
+  course: OAC0651A
+  title: Organizational Culture  Why Chiefs Fail
+  status: Passed
+  score: '0.0'
+  hours: '3.25'
+- date: 10/4/2024
+  course: OAC4520A
+  title: Shaping Public Safety; Emerging; Legislative
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/3/2024
+  course: OAC1837A
+  title: Public Information  Social Media
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/3/2024
+  course: OAC3288A
+  title: Effective Workplace Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/3/2024
+  course: OAC0691A
+  title: Employment Law Trends  Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/3/2024
+  course: OAC4234A
+  title: Organizational  Personal Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/3/2024
+  course: OAC1893A
+  title: Organizational Excellence
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/3/2024
+  course: OAC3822A
+  title: Risk Management  CIS
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/2/2024
+  course: OAC3417A
+  title: Labor Relations  Personnel Issues
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/2/2024
+  course: OAC4280A
+  title: Responding to Officer Involved Critical Incidents
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 10/2/2024
+  course: OAC3483A
+  title: Leading in a Political Environment
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/2/2024
+  course: OAC2690A
+  title: Public Budgeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2024
+  course: OAC1562A
+  title: Supporting the Chief
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2024
+  course: OAC1430A
+  title: City Manager Expectations for Police Chiefs
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2024
+  course: OAC1039A
+  title: Organizatonal Development  Change
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/1/2024
+  course: OAC3170A
+  title: Professional Development for Police Chiefs
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2024
+  course: OAC1725A
+  title: Agency Communication - Good  Bad News
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2024
+  course: OAC0745A
+  title: The Chief's Job Foundations of Leadership
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 8/20/2024
   course: WGP3900A
   title: DPSST Certification Presentation

@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2024
+  course: NGP2961A
+  title: HB4002/Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/8/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

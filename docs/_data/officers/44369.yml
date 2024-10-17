@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2024
+  course: STP0438A
+  title: Policy Review - Communication Security
+  status: Instructed
+  score: '0.0'
+  hours: '0.75'
 - date: 10/7/2024
   course: STP0590A
   title: X26P Taser Recertification

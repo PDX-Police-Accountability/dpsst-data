@@ -52,6 +52,8 @@
 | 3/31/2024 | BBP4005A | De-escalation and Minimizing Use of Force | Passed | 0.0 | 1.00 |
 | 3/21/2024 | BBP2059A | Pistol Qualification and Tactical Range | Passed | 0.0 | 0.50 |
 | 3/21/2024 | BBP0222A | Rifle Qualification and Tactical Range | Passed | 0.0 | 0.50 |
+| 3/21/2024 | BBP4446A | Rifle Qualification and Tactical Range | Passed | 0.0 | 1.00 |
+| 3/21/2024 | BBP1410A | Pistol Qualification and Tactical Range | Passed | 0.0 | 1.00 |
 | 2/29/2024 | BBP0102A | Anti-Bias Training | Passed | 0.0 | 1.00 |
 | 2/29/2024 | BBP0305A | Ethics | Passed | 0.0 | 1.00 |
 | 2/29/2024 | BBP3861A | Sexual Harassment Training | Passed | 0.0 | 1.00 |

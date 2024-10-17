@@ -5,13 +5,14 @@
 | dpsst_identifier | 34674 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/10/2024 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/16/2001 | Portland Police Bureau | Reclassed | Police Off |  |  |
 | 7/7/1997 | Portland Police Bureau | Hired | Civln Emp |  |  |
 ## Certification
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2025 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 9/27/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 9/27/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 9/27/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

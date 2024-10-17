@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | EGP3595A | Deflection | Passed | 0.0 | 1.00 |
 | 10/6/2024 | EGP0804A | Manual Breaching / Searching / Scenario Training | Passed | 0.0 | 8.00 |
 | 10/6/2024 | EGP2669A | CS Gas/ Pepperball/ FSDD Certification | Passed | 0.0 | 4.00 |
 | 9/12/2024 | EGP1775A | Child Witness Interviews | Passed | 0.0 | 2.00 |

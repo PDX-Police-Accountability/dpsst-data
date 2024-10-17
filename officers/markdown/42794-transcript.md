@@ -44,6 +44,8 @@
 | 9/30/2024 | OCS4309A | 3rd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 9/27/2024 | OCS0818A | September 2024 Sniper Training | Instructed | 0.0 | 4.00 |
 | 9/24/2024 | OCS4464A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 9/24/2024 | OCS0835A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 9/19/2024 | OCS3935A | Balancing Speed/Marksmanship/Efficiency | Instructed | 0.0 | 8.00 |
 | 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
 | 9/1/2024 | OCS0329A | Efficient Holster speed/marksmanship | Passed | 0.0 | 1.00 |
 | 8/30/2024 | OCS1950A | Balancing Speed  Marksmanship | Passed | 0.0 | 1.00 |
@@ -53,7 +55,9 @@
 | 8/9/2024 | OCS3294A | August 2024 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |
 | 7/24/2024 | OCS3814A | Shield/Low Light/Shoot No Shoot | Instructed | 0.0 | 55.00 |
+| 7/22/2024 | OCS3730A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 7/20/2024 | OCS3211A | Shield/Low Light/Shoot-No-Shoot | Passed | 0.0 | 1.00 |
+| 7/17/2024 | OCS0553A | AR-15 Range Diagnostics | Passed | 0.0 | 4.00 |
 | 7/11/2024 | OCS2521A | Hades Consulting Pistol/Rifle Training | Passed | 0.0 | 24.00 |
 | 6/30/2024 | OCS0499A | 2nd QTR Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 6/24/2024 | OCS4084A | Shooting with Shields | Instructed | 0.0 | 59.00 |

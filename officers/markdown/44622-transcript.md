@@ -311,6 +311,8 @@
 | 11/30/2014 | 14-0147 | Firearms - Less Lethal | Passed | 0.0 | 0.50 |
 | 11/30/2014 | 14-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 10/26/2014 | 14-0663 | Gang Training - Other | Passed | 0.0 | 2.50 |
+| 10/14/2014 | OSH3896A | OSP 2024 Survival Skills | Instructed | 0.0 | 4.00 |
+| 10/14/2014 | OSH3306A | OSP 2024 Survival Skills | Instructed | 0.0 | 4.00 |
 | 9/30/2014 | 14-0711 | Computer Training - Other | Passed | 0.0 | 18.00 |
 | 7/31/2014 | 14-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 0.50 |
 | 6/30/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |

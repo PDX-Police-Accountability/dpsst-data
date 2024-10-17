@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | EGP3595A | Deflection | Passed | 0.0 | 1.00 |
 | 10/2/2024 | GSP0866A | OPCA Fall Seminar - Patrol | Passed | 0.0 | 24.00 |
 | 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
 | 9/26/2024 | OAC3203A | Deal w/People You Don't Like - Bring Out The Best | Passed | 0.0 | 2.50 |

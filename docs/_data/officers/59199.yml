@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 10/10/2024
+  course: EGP3595A
+  title: Deflection
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/6/2024
   course: EGP0804A
   title: Manual Breaching / Searching / Scenario Training

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2024 | NPS3553A | Fall 2024 OSSA Civil Conference | Passed | 0.0 | 20.00 |
 | 8/27/2024 | OCS2835A | Balancing Speed/Marksmanship and Rifle Qual | Passed | 0.0 | 4.00 |
 | 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |
 | 7/11/2024 | HDA2041A | ONEA Training Institute - Pistols  Crystals Case | Passed | 0.0 | 4.00 |

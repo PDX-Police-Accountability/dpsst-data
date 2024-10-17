@@ -38,7 +38,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | CPR | 11/6/2023 | 11/8/2025 |
 | Certification Cards | First Aid | 11/30/2022 | 11/30/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
@@ -91,6 +90,7 @@
 | 9/5/2023 | LOP1926A | Prison Rape Elimination Act (PREA) | Passed | 0.0 | 0.50 |
 | 8/31/2023 | LOP3530A | Insight to OR Government Ethics Laws | Passed | 0.0 | 1.00 |
 | 8/31/2023 | LOP1204A | Cross-cultural intelligence, Diversity 101 | Passed | 0.0 | 1.00 |
+| 8/31/2023 | LOP3023A | Airway/Circulatory Training | Passed | 0.0 | 2.00 |
 | 6/16/2023 | LOP2153A | EVOC/HR Stops/Box-In | Passed | 0.0 | 3.50 |
 | 6/8/2023 | HUP3953A | Human Strategy Overview | Passed | 0.0 | 0.50 |
 | 5/25/2023 | LOP3247A | Bloodborne Pathogens | Passed | 0.0 | 0.75 |

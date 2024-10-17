@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '50527'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Police Officer
+  rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/10/2024
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 3/5/2009
   agency: Portland Police Bureau
   action: Hired
@@ -56,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/10/2025
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 8/29/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

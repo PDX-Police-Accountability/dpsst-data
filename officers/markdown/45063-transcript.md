@@ -5,13 +5,14 @@
 | dpsst_identifier | 45063 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/10/2024 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 11/18/2004 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2025 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 9/22/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 8/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/6/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

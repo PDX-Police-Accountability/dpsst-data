@@ -30,7 +30,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 10/27/2023 | 10/27/2025 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
@@ -43,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/9/2024 | MMP3765A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 8/28/2024 | MMP4204A | Firearms Training | Passed | 0.0 | 3.00 |
 | 7/31/2024 | MMP4316A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 4/19/2024 | MMP1794A | Calibre Press Online Training Videos, Mar-Apr | Passed | 0.0 | 0.50 |

@@ -5,13 +5,14 @@
 | dpsst_identifier | 53614 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/10/2024 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/2/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 1/15/2021 | Portland Police Bureau | LOA | Police Off |  |  |
 | 9/17/2018 | Portland Police Bureau | Return LOA | Police Off |  |  |
@@ -40,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/14/2046 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/10/2025 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 9/8/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/7/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/7/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

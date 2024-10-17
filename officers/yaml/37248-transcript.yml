@@ -91,7 +91,7 @@ training_records:
   title: 'Directive 0910.00 Update: De Minimis Force'
   status: Passed
   score: '0.0'
-  hours: '0.25'
+  hours: '0.00'
 - date: 8/12/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training
@@ -103,19 +103,19 @@ training_records:
   title: 2024 Oregon State Lead Quick Facts
   status: Passed
   score: '0.0'
-  hours: '0.25'
+  hours: '0.00'
 - date: 8/12/2024
   course: PDP3193A
   title: 2024 OSHA Lead Exposure Quick Card
   status: Passed
   score: '0.0'
-  hours: '0.25'
+  hours: '0.00'
 - date: 8/12/2024
   course: PDP2119A
   title: 2024 PPB Lead Exposures Information
   status: Passed
   score: '0.0'
-  hours: '0.25'
+  hours: '0.00'
 - date: 7/31/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023
@@ -157,7 +157,7 @@ training_records:
   title: 2024-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
-  hours: '0.50'
+  hours: '0.00'
 - date: 7/15/2024
   course: PDP1749A
   title: 2024-3 Tips  Techniques Pursuits
@@ -290,6 +290,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2023
+  course: MAINTMUF
+  title: Maintenance Makeup Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/30/2023
   course: PDP35372
   title: 2022 Naxolone Administration

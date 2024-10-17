@@ -5,13 +5,14 @@
 | dpsst_identifier | 51727 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/10/2024 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/8/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/1/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 8/14/2014 | Portland Police Bureau | Return LOA | Police Off |  |  |
@@ -40,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/14/2041 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/10/2025 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 9/29/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/29/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 8/24/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

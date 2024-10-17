@@ -104,6 +104,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 9/24/2024
+  course: OCS0835A
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/19/2024
+  course: OCS3935A
+  title: Balancing Speed/Marksmanship/Efficiency
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/1/2024
   course: OCS2693A
   title: De-escalation
@@ -158,12 +170,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '55.00'
+- date: 7/22/2024
+  course: OCS3730A
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/20/2024
   course: OCS3211A
   title: Shield/Low Light/Shoot-No-Shoot
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/17/2024
+  course: OCS0553A
+  title: AR-15 Range Diagnostics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/11/2024
   course: OCS2521A
   title: Hades Consulting Pistol/Rifle Training

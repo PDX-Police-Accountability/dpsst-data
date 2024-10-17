@@ -1706,6 +1706,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 10/14/2014
+  course: OSH3896A
+  title: OSP 2024 Survival Skills
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/14/2014
+  course: OSH3306A
+  title: OSP 2024 Survival Skills
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/30/2014
   course: 14-0711
   title: Computer Training - Other

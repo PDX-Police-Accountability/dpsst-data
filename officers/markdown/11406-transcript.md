@@ -52,6 +52,24 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2024 | OAC0651A | Organizational Culture  Why Chiefs Fail | Passed | 0.0 | 3.25 |
+| 10/4/2024 | OAC4520A | Shaping Public Safety; Emerging; Legislative | Passed | 0.0 | 2.00 |
+| 10/3/2024 | OAC1837A | Public Information  Social Media | Passed | 0.0 | 1.00 |
+| 10/3/2024 | OAC3288A | Effective Workplace Investigations | Passed | 0.0 | 1.25 |
+| 10/3/2024 | OAC0691A | Employment Law Trends  Updates | Passed | 0.0 | 1.00 |
+| 10/3/2024 | OAC4234A | Organizational  Personal Wellness | Passed | 0.0 | 1.25 |
+| 10/3/2024 | OAC1893A | Organizational Excellence | Passed | 0.0 | 1.50 |
+| 10/3/2024 | OAC3822A | Risk Management  CIS | Passed | 0.0 | 1.00 |
+| 10/2/2024 | OAC3417A | Labor Relations  Personnel Issues | Passed | 0.0 | 2.00 |
+| 10/2/2024 | OAC4280A | Responding to Officer Involved Critical Incidents | Passed | 0.0 | 1.75 |
+| 10/2/2024 | OAC3483A | Leading in a Political Environment | Passed | 0.0 | 1.50 |
+| 10/2/2024 | OAC2690A | Public Budgeting | Passed | 0.0 | 2.00 |
+| 10/1/2024 | OAC1562A | Supporting the Chief | Passed | 0.0 | 1.00 |
+| 10/1/2024 | OAC1430A | City Manager Expectations for Police Chiefs | Passed | 0.0 | 2.00 |
+| 10/1/2024 | OAC1039A | Organizatonal Development  Change | Passed | 0.0 | 2.50 |
+| 10/1/2024 | OAC3170A | Professional Development for Police Chiefs | Passed | 0.0 | 2.00 |
+| 9/30/2024 | OAC1725A | Agency Communication - Good  Bad News | Passed | 0.0 | 2.00 |
+| 9/30/2024 | OAC0745A | The Chief's Job Foundations of Leadership | Passed | 0.0 | 5.50 |
 | 8/20/2024 | WGP3900A | DPSST Certification Presentation | Passed | 0.0 | 4.00 |
 | 4/18/2024 | OAC0055A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
 | 4/17/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |

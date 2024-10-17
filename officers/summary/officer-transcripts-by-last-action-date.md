@@ -269,7 +269,6 @@
 | Dinnel, Eric R. | 40987 | Portland Police Bureau | Active | Police Officer | Hired | 2001-06-14 | [md](../markdown/40987-transcript.md) - [yaml](../yaml/40987-transcript.yml) |
 | Hasslacher, Wendy I. | 38709 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2001-06-15 | [md](../markdown/38709-transcript.md) - [yaml](../yaml/38709-transcript.yml) |
 | Friderich, Lindsay | 38601 | Portland Police Bureau | Inactive | Civilian Employee | Layoff | 2001-07-01 | [md](../markdown/38601-transcript.md) - [yaml](../yaml/38601-transcript.yml) |
-| Lewton, Ryan S. | 34674 | Portland Police Bureau | Active | Police Officer | Reclassed | 2001-08-16 | [md](../markdown/34674-transcript.md) - [yaml](../yaml/34674-transcript.yml) |
 | Scott, Nathan G. | 41137 | Portland Police Bureau | Active | Police Officer | Hired | 2001-08-16 | [md](../markdown/41137-transcript.md) - [yaml](../yaml/41137-transcript.yml) |
 | Faris, Joshua J. | 41138 | Portland Police Bureau | Active | Police Officer | Hired | 2001-08-16 | [md](../markdown/41138-transcript.md) - [yaml](../yaml/41138-transcript.yml) |
 | Shearer, Jeffrey G. | 29992 | Portland Police Bureau | Active | Criminalist | Promotion | 2001-08-30 | [md](../markdown/29992-transcript.md) - [yaml](../yaml/29992-transcript.yml) |
@@ -334,14 +333,12 @@
 | Waddell, Cheryl M. | 29997 | Portland Police Bureau | Active | Detective | Promotion | 2004-09-23 | [md](../markdown/29997-transcript.md) - [yaml](../yaml/29997-transcript.yml) |
 | Winther, April L. | 29761 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2004-09-24 | [md](../markdown/29761-transcript.md) - [yaml](../yaml/29761-transcript.yml) |
 | Santos, Justin M. | 45024 | Portland Police Bureau | Active | Civilian Employee | Hired | 2004-11-04 | [md](../markdown/45024-transcript.md) - [yaml](../yaml/45024-transcript.yml) |
-| Hughes, John K. | 45063 | Portland Police Bureau | Active | Police Officer | Hired | 2004-11-18 | [md](../markdown/45063-transcript.md) - [yaml](../yaml/45063-transcript.yml) |
 | Scott, Constance M. | 45922 | Portland Police Bureau | Active | Civilian Employee | Hired | 2004-11-18 | [md](../markdown/45922-transcript.md) - [yaml](../yaml/45922-transcript.yml) |
 | Erspamer, Barbara J. | 45864 | Portland Police Bureau | Active | Civilian Employee | Hired | 2004-12-02 | [md](../markdown/45864-transcript.md) - [yaml](../yaml/45864-transcript.yml) |
 | Hawkinson, Summer D. | 45062 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2005-01-11 | [md](../markdown/45062-transcript.md) - [yaml](../yaml/45062-transcript.yml) |
 | Macaulay, John A. | 35563 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-03 | [md](../markdown/35563-transcript.md) - [yaml](../yaml/35563-transcript.yml) |
 | Carmon, Derek L. | 38197 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-03 | [md](../markdown/38197-transcript.md) - [yaml](../yaml/38197-transcript.yml) |
 | Webber, Joseph F. | 44629 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-10 | [md](../markdown/44629-transcript.md) - [yaml](../yaml/44629-transcript.yml) |
-| Worthington, Jason A. | 44630 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-10 | [md](../markdown/44630-transcript.md) - [yaml](../yaml/44630-transcript.yml) |
 | Lackey, Emma M. | 45385 | Portland Police Bureau | Active | Civilian Employee | Hired | 2005-02-24 | [md](../markdown/45385-transcript.md) - [yaml](../yaml/45385-transcript.yml) |
 | Geiger, Bert L. | 21285 | Portland Police Bureau | Active | Civilian Employee | Reclassed | 2005-03-01 | [md](../markdown/21285-transcript.md) - [yaml](../yaml/21285-transcript.yml) |
 | McAllister, Matthew A. | 45405 | Portland Police Bureau | Active | Police Officer | Hired | 2005-03-10 | [md](../markdown/45405-transcript.md) - [yaml](../yaml/45405-transcript.yml) |
@@ -446,7 +443,6 @@
 | Schmautz, Brian C. | 15907 | Portland Police Bureau | Inactive | Sergeant | Retired | 2009-01-30 | [md](../markdown/15907-transcript.md) - [yaml](../yaml/15907-transcript.yml) |
 | Hopper, Meredith L. | 36239 | Portland Police Bureau | Active | Detective | Promotion | 2009-03-05 | [md](../markdown/36239-transcript.md) - [yaml](../yaml/36239-transcript.yml) |
 | Musser, Jennifer M. | 40710 | Portland Police Bureau | Active | Detective | Promotion | 2009-03-05 | [md](../markdown/40710-transcript.md) - [yaml](../yaml/40710-transcript.yml) |
-| DiMatteo, Daniel A. | 50527 | Portland Police Bureau | Active | Police Officer | Hired | 2009-03-05 | [md](../markdown/50527-transcript.md) - [yaml](../yaml/50527-transcript.yml) |
 | Browning, David S. | 48554 | Portland Police Bureau | Active | Police Officer | Return LOA | 2009-03-06 | [md](../markdown/48554-transcript.md) - [yaml](../yaml/48554-transcript.yml) |
 | Green, Kyle L. | 50157 | Portland Police Bureau | Active | Police Officer | Hired | 2009-04-16 | [md](../markdown/50157-transcript.md) - [yaml](../yaml/50157-transcript.yml) |
 | Holwege, Aaron M. | 50429 | Portland Police Bureau | Active | Police Officer | Hired | 2009-04-16 | [md](../markdown/50429-transcript.md) - [yaml](../yaml/50429-transcript.yml) |
@@ -585,7 +581,7 @@
 | Anderson, John W. | 24003 | Portland Police Bureau | Inactive | Sergeant | Retired | 2015-06-24 | [md](../markdown/24003-transcript.md) - [yaml](../yaml/24003-transcript.yml) |
 | Nguepdjo, Thierry R. | 55237 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-09 | [md](../markdown/55237-transcript.md) - [yaml](../yaml/55237-transcript.yml) |
 | Abramson, Michael J. | 55198 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-30 | [md](../markdown/55198-transcript.md) - [yaml](../yaml/55198-transcript.yml) |
-| Wheeler, Sydne A. | 55316 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-30 | [md](../markdown/55316-transcript.md) - [yaml](../yaml/55316-transcript.yml) |
+| Schauer, Sydne A. | 55316 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-30 | [md](../markdown/55316-transcript.md) - [yaml](../yaml/55316-transcript.yml) |
 | Trummer, Daniel Y. | 55317 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-30 | [md](../markdown/55317-transcript.md) - [yaml](../yaml/55317-transcript.yml) |
 | Sorenson, Monica D. | 45180 | Portland Police Bureau | Active | Police Officer | Return LOA | 2015-08-27 | [md](../markdown/45180-transcript.md) - [yaml](../yaml/45180-transcript.yml) |
 | Bailey, Richard D. | 55393 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55393-transcript.md) - [yaml](../yaml/55393-transcript.yml) |
@@ -1132,7 +1128,6 @@
 | Lafrenz, Christopher J. | 34673 | Portland Police Bureau | Active | Police Officer | Return LOA | 2020-11-10 | [md](../markdown/34673-transcript.md) - [yaml](../yaml/34673-transcript.yml) |
 | Robinson, Grover, Jr. | 53905 | Portland Police Bureau | Active | Sergeant | Return LOA | 2020-11-16 | [md](../markdown/53905-transcript.md) - [yaml](../yaml/53905-transcript.yml) |
 | Dran, Arjay H. | 34502 | Portland Police Bureau | Active | Detective | Return LOA | 2020-11-17 | [md](../markdown/34502-transcript.md) - [yaml](../yaml/34502-transcript.yml) |
-| Hutchison, Carrie L. | 42653 | Portland Police Bureau | Active | Police Officer | Return LOA | 2020-11-22 | [md](../markdown/42653-transcript.md) - [yaml](../yaml/42653-transcript.yml) |
 | Stewart, Gerald A. | 59490 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-11-22 | [md](../markdown/59490-transcript.md) - [yaml](../yaml/59490-transcript.yml) |
 | Beedle, Dustin D. | 59709 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-11-23 | [md](../markdown/59709-transcript.md) - [yaml](../yaml/59709-transcript.yml) |
 | Lin, Meng-Tien | 45003 | Portland Police Bureau | Inactive | Detective | Resigned | 2020-11-27 | [md](../markdown/45003-transcript.md) - [yaml](../yaml/45003-transcript.yml) |
@@ -1251,7 +1246,6 @@
 | McKay, RaeLynn D. | 52686 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/52686-transcript.md) - [yaml](../yaml/52686-transcript.yml) |
 | Rethmeier, Taylor D. | 55243 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-07-30 | [md](../markdown/55243-transcript.md) - [yaml](../yaml/55243-transcript.yml) |
 | Shaw, Darrell W. | 28923 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-08-01 | [md](../markdown/28923-transcript.md) - [yaml](../yaml/28923-transcript.yml) |
-| Dery, Joshua O. | 53614 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-08-02 | [md](../markdown/53614-transcript.md) - [yaml](../yaml/53614-transcript.yml) |
 | Klinger, Scott R. | 21705 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-08-03 | [md](../markdown/21705-transcript.md) - [yaml](../yaml/21705-transcript.yml) |
 | Schroeder, Matthew J. | 47848 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-08-04 | [md](../markdown/47848-transcript.md) - [yaml](../yaml/47848-transcript.yml) |
 | McConnell, Peter H. | 28715 | Portland Police Bureau | Inactive | Sergeant | Retired | 2021-08-09 | [md](../markdown/28715-transcript.md) - [yaml](../yaml/28715-transcript.yml) |
@@ -1393,7 +1387,6 @@
 | Askew, Jacob E. | 63218 | Portland Police Bureau | Active | Police Officer | Hired | 2022-08-18 | [md](../markdown/63218-transcript.md) - [yaml](../yaml/63218-transcript.yml) |
 | Carlson, Jeremy A. | 61105 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-08-22 | [md](../markdown/61105-transcript.md) - [yaml](../yaml/61105-transcript.yml) |
 | Sederholm, Alexander J. | 60962 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-08-26 | [md](../markdown/60962-transcript.md) - [yaml](../yaml/60962-transcript.yml) |
-| Jackson, Jakhary J. | 51727 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-08 | [md](../markdown/51727-transcript.md) - [yaml](../yaml/51727-transcript.yml) |
 | Johnson, Jeremiah J. | 63120 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-09-15 | [md](../markdown/63120-transcript.md) - [yaml](../yaml/63120-transcript.yml) |
 | Darby, James P. | 32384 | Portland Police Bureau | Inactive | Sergeant | Retired | 2022-09-20 | [md](../markdown/32384-transcript.md) - [yaml](../yaml/32384-transcript.yml) |
 | Trapp, Todd D. | 56260 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/56260-transcript.md) - [yaml](../yaml/56260-transcript.yml) |
@@ -1733,6 +1726,13 @@
 | Topp, William M. | 65590 | Portland Police Bureau | Active | Police Officer | Hired | 2024-09-26 | [md](../markdown/65590-transcript.md) - [yaml](../yaml/65590-transcript.yml) |
 | Sothern, Sean C. | 28796 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2024-09-30 | [md](../markdown/28796-transcript.md) - [yaml](../yaml/28796-transcript.yml) |
 | Wilson, Garret B. | 57489 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-10-01 | [md](../markdown/57489-transcript.md) - [yaml](../yaml/57489-transcript.yml) |
+| Lewton, Ryan S. | 34674 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-10-10 | [md](../markdown/34674-transcript.md) - [yaml](../yaml/34674-transcript.yml) |
+| Hutchison, Carrie L. | 42653 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-10-10 | [md](../markdown/42653-transcript.md) - [yaml](../yaml/42653-transcript.yml) |
+| Worthington, Jason A. | 44630 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-10-10 | [md](../markdown/44630-transcript.md) - [yaml](../yaml/44630-transcript.yml) |
+| Hughes, John K. | 45063 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-10-10 | [md](../markdown/45063-transcript.md) - [yaml](../yaml/45063-transcript.yml) |
+| DiMatteo, Daniel A. | 50527 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-10-10 | [md](../markdown/50527-transcript.md) - [yaml](../yaml/50527-transcript.yml) |
+| Jackson, Jakhary J. | 51727 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-10-10 | [md](../markdown/51727-transcript.md) - [yaml](../yaml/51727-transcript.yml) |
+| Dery, Joshua O. | 53614 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-10-10 | [md](../markdown/53614-transcript.md) - [yaml](../yaml/53614-transcript.yml) |
 | Cotterell, Mark A. | 65319 | Portland Police Bureau | Active | Police Officer | Hired | 2024-10-10 | [md](../markdown/65319-transcript.md) - [yaml](../yaml/65319-transcript.yml) |
 | Mayeda, Tiffany M. | 65475 | Portland Police Bureau | Active | Police Officer | Hired | 2024-10-10 | [md](../markdown/65475-transcript.md) - [yaml](../yaml/65475-transcript.yml) |
 | Mongeau, Kyle B. | 65649 | Portland Police Bureau | Active | Police Officer | Hired | 2024-10-10 | [md](../markdown/65649-transcript.md) - [yaml](../yaml/65649-transcript.yml) |
