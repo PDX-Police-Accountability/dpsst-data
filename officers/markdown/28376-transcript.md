@@ -979,4 +979,4 @@
 | 12/9/1994 | 94T002 | Corrections Field Training Manual | Passed | 0.0 | 50.00 |
 | 6/24/1994 | 94A090 | BASIC CORRECTIONS CLASS #90 | Passed | 0.0 | 200.00 |
 | 4/7/1993 | 92J094 | METROPOLITAN RESERVE OFFICER ACADEMY | Passed | 0.0 | 224.00 |
-| 9/8/1977 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/8/1977 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

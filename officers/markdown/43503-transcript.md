@@ -417,7 +417,7 @@
 | 2/28/2019 | PDP05437 | Surveillance Detection | Passed | 0.0 | 21.00 |
 | 2/14/2019 | PDP29622 | Addressing threats and violence in the workplace | Passed | 0.0 | 21.00 |
 | 2/7/2019 | PDP09146 | 2019 ATAP Winter Conference | Passed | 0.0 | 24.15 |
-| 2/7/2019 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/7/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/25/2019 | F6D04475 | VIN Training at 2019 Portland Auto Show | Passed | 0.0 | 3.00 |
 | 1/25/2019 | PDP31501 | WSATI Oregon Chapter Auto Show VIN Training | Passed | 0.0 | 3.00 |
 | 1/24/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |

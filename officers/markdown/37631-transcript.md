@@ -829,7 +829,7 @@
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 11.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 81.00 |
 | 12/10/2004 | 04-4777 | ONEA Winter Conference | Passed | 0.0 | 16.00 |
-| 1/10/2003 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/10/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/12/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 50.00 |
 | 7/30/2002 | 02CP879 | Oregon Police Corps 2002 | Passed | 0.0 | 16.00 |
 | 2/27/2002 | 02CP085 | Outlaw Motorcycle Gang | Passed | 0.0 | 4.00 |

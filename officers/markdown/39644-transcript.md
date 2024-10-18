@@ -701,7 +701,7 @@
 | 12/12/2008 | 08-0259 | Tactical Entry | Passed | 0.0 | 10.00 |
 | 9/30/2008 | 08-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/4/2008 | 08-0253 | Crowd / Riot Control | Passed | 0.0 | 10.00 |
-| 7/15/2008 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/15/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/24/2008 | 08-0259 | Tactical Entry | Passed | 0.0 | 6.00 |
 | 5/22/2008 | 08-1105 | Criminal Interdiction | Passed | 0.0 | 24.00 |
 | 5/14/2008 | 08-0129 | Firearms Training | Passed | 0.0 | 4.00 |

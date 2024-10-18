@@ -868,7 +868,7 @@
 | 10/7/2004 | 04-4486 | OSHA "Hearing Safety" Video | Passed | 0.0 | 0.50 |
 | 8/25/2004 | 04-4245 | DUII Legal Update | Passed | 0.0 | 2.00 |
 | 8/17/2004 | 04-0271 | Firearms - Qualifications | Passed | 0.0 | 8.00 |
-| 7/29/2004 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/29/2004 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/23/2004 | 04-3094 | Patrol in Era of Terrorism-Vigilance Video 1 | Passed | 0.0 | 0.50 |
 | 4/30/2004 | 04-0152 | Defensive Tactics Training | Passed | 0.0 | 4.00 |
 | 4/14/2004 | 04-0513 | EVOC Annual Training | Passed | 0.0 | 8.00 |

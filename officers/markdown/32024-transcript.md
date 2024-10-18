@@ -788,4 +788,4 @@
 | 4/5/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 40.00 |
 | 3/29/1996 | 96G200 | BASIC POLICE CLASS NO. 200 | Passed | 0.0 | 320.00 |
 | 3/7/1996 | 96X030 | IMPLIED CONSENT/INTOX. 5000 | Passed | 0.0 | 4.00 |
-| 9/4/1987 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/4/1987 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

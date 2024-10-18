@@ -479,7 +479,7 @@
 | 2/4/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
 | 1/31/2019 | PDP02094 | PPB 2019 Sergeants Academy | Passed | 0.0 | 72.00 |
 | 1/23/2019 | PDP28048 | 2.02 for Managers and Supervisors | Passed | 0.0 | 2.00 |
-| 1/16/2019 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/16/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/5/2019 | PDP42201 | 2019 Training Range Qualification System Update | Passed | 0.0 | 0.25 |
 | 12/14/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |
 | 12/14/2018 | PDP02905 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |

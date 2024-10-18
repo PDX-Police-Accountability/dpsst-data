@@ -865,7 +865,7 @@
 | 2/23/2000 | 00P197 | ADVANCED ACADEMY 99-2 | Passed | 0.0 | 463.00 |
 | 12/31/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 6.00 |
 | 12/27/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 16.00 |
-| 12/26/1998 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/26/1998 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/2/1998 | 98P533 | Police Corps Academy Class 4-Phase 2 | Passed | 0.0 | 493.00 |
 | 9/4/1998 | 98P002 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
 | 8/17/1998 | 98P082 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |

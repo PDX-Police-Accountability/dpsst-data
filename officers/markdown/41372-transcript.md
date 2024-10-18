@@ -550,7 +550,7 @@
 | 10/29/2013 | 13-1285 | K-9 Tactical | Passed | 0.0 | 1.50 |
 | 6/30/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 6/30/2013 | 13-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 4/8/2013 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/8/2013 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/27/2013 | 13-0953 | CPR / First Aid / AED | Passed | 0.0 | 4.50 |
 | 3/26/2013 | 13-1253 | Tactical Emergency Medical Training | Passed | 0.0 | 0.50 |
 | 2/28/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |

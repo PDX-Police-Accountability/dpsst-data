@@ -727,7 +727,7 @@
 | 12/31/2006 | 06-1348 | PPB - Firearms/Use of Force | Passed | 0.0 | 0.00 |
 | 12/1/2005 | 05-2466 | WMD Task Force/Establish State/Reg | Passed | 0.0 | 24.00 |
 | 3/13/2003 | 03-0627 | Basic Fingerprint Class | Passed | 0.0 | 24.00 |
-| 2/17/2003 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/17/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/27/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 20.00 |
 | 11/15/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
 | 10/19/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 32.00 |

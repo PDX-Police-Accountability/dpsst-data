@@ -798,7 +798,7 @@
 | 10/24/2008 | 08-0129 | Firearms Training | Passed | 0.0 | 4.00 |
 | 8/29/2008 | 08-0593 | Conference - Other | Passed | 0.0 | 36.00 |
 | 8/28/2008 | 08-0761 | Sex Offender Registration | Passed | 0.0 | 3.00 |
-| 7/22/2008 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/22/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/10/2008 | 08-0651 | Vice for Patrol | Instructed | 0.0 | 4.00 |
 | 6/24/2008 | 08-0259 | Tactical Entry | Passed | 0.0 | 6.00 |
 | 3/18/2008 | 08-0834 | Investigation Training - Other | Passed | 0.0 | 1.00 |

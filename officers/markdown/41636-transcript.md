@@ -585,7 +585,7 @@
 | 3/31/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 3/31/2014 | 14-0147 | Firearms - Less Lethal | Passed | 0.0 | 0.50 |
 | 3/31/2014 | 14-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 12/28/2013 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/28/2013 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/17/2013 | 13-0101 | Active Shooter - Tactical Response | Passed | 0.0 | 20.00 |
 | 11/30/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 11/30/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |

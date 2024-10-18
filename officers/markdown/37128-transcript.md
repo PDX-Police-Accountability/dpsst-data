@@ -675,7 +675,7 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 11.00 |
 | 7/25/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 20.00 |
 | 11/15/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
-| 8/25/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/25/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/24/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 24.00 |
 | 3/16/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 16.00 |
 | 6/12/2000 | 00T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |

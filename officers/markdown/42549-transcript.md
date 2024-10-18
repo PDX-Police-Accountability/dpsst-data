@@ -579,7 +579,7 @@
 | 6/30/2016 | F6C39733 | Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 6/30/2016 | F6C38757 | Rifle Qualification | Passed | 0.0 | 0.50 |
 | 6/30/2016 | F6C20466 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 6/28/2016 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 6/28/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/31/2016 | F6C36540 | Less Leathal Qualification | Passed | 0.0 | 0.50 |
 | 2/29/2016 | F6C04700 | Emergency Protection Orders | Passed | 0.0 | 0.25 |
 | 1/31/2016 | F6C23868 | Shotgun Qualification | Passed | 0.0 | 0.50 |

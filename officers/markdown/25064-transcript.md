@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2024 | MKL1539A | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 8/8/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2024 | MKL2732A | OLCC - CAMP Phase 2 - Amendment Training | Passed | 0.0 | 1.50 |
 | 7/23/2024 | VND0224A | The Importance of Intersectionality | Passed | 0.0 | 0.50 |

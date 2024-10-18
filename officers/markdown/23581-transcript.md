@@ -809,4 +809,4 @@
 | 11/5/1993 | 93G180 | BASIC POLICE CLASS NO. 180 | Passed | 0.0 | 320.00 |
 | 10/14/1993 | 93J011 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
 | 2/18/1990 | 899235 | PORTLAND POLICE RESERVE ACADEMY | Passed | 0.0 | 294.00 |
-| 7/23/1964 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/23/1964 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

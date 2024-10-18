@@ -632,7 +632,7 @@
 | 8/13/2008 | 08-0672 | School Resource Officer (SRO) Training | Passed | 0.0 | 20.00 |
 | 8/13/2008 | 08-0593 | Conference - Other | Passed | 0.0 | 27.00 |
 | 7/18/2008 | 08-0665 | Gang Resistance Education And Training (GREAT) | Passed | 0.0 | 18.00 |
-| 6/8/2008 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 6/8/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/23/2008 | 08-0259 | Tactical Entry | Passed | 0.0 | 10.00 |
 | 3/20/2008 | 08-0100 | Active Shooter | Passed | 0.0 | 2.00 |
 | 3/20/2008 | 08-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 2.30 |

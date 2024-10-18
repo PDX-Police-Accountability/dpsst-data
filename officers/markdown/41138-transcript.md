@@ -1078,7 +1078,7 @@
 | 9/5/2012 | 12-0109 | Confrontational Simulation | Instructed | 0.0 | 10.00 |
 | 8/31/2012 | 12-0255 | SERT Training | Passed | 0.0 | 20.00 |
 | 8/31/2012 | 12-0138 | SERT Firearms Training | Passed | 0.0 | 20.00 |
-| 8/17/2012 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/17/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/3/2012 | 12-0261 | Basic SWAT School | Passed | 0.0 | 40.00 |
 | 7/31/2012 | 12-0138 | SERT Firearms Training | Passed | 0.0 | 20.00 |
 | 7/31/2012 | 12-0255 | SERT Training | Passed | 0.0 | 10.00 |

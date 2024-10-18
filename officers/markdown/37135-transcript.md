@@ -744,7 +744,7 @@
 | 2/14/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 90.00 |
 | 11/5/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 130.00 |
 | 10/19/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 0.50 |
-| 9/1/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/1/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/11/2001 | 01CP440 | Crisis Intervention Team Training | Passed | 0.0 | 40.00 |
 | 4/5/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 32.00 |
 | 12/31/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 80.00 |

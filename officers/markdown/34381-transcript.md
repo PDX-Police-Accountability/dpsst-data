@@ -747,4 +747,4 @@
 | 12/22/2000 | 00B001 | DPSST Basic Police | Passed | 0.0 | 376.00 |
 | 12/20/2000 | 00P078 | SFST/DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
 | 11/10/2000 | 00P042 | INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
-| 2/16/1994 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/16/1994 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

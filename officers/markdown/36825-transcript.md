@@ -643,7 +643,7 @@
 | 7/20/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 24.00 |
 | 2/26/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 32.00 |
 | 12/31/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 32.00 |
-| 10/26/2000 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/26/2000 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/1/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
 | 1/27/2000 | 99T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 11/30/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 20.00 |

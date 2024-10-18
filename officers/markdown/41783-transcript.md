@@ -526,7 +526,7 @@
 | 9/30/2014 | 14-0711 | Computer Training - Other | Passed | 0.0 | 18.00 |
 | 7/31/2014 | 14-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 7/31/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
-| 5/24/2014 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 5/24/2014 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/21/2014 | 14-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/21/2014 | 14-0129 | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/21/2014 | 14-0114 | Defensive Tactics | Passed | 0.0 | 2.00 |

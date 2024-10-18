@@ -34,7 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/30/2040 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 3/30/2040 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP1959A | 2024 SERT Training - Scenario | Passed | 0.0 | 5.00 |
 | 8/21/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/15/2024 | PDP2736A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
@@ -68,6 +68,7 @@
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 4/12/2024 | SMP2065A | OTOA Warrant Service Training INSTRUCTORS | Passed | 0.0 | 16.00 |
 | 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 4/5/2024 | PDP2055A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 4/4/2024 | PDP1930A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/2/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/28/2024 | PDP2670A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

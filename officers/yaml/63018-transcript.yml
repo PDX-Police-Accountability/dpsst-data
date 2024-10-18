@@ -25,8 +25,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 7/13/2072
-  course: PDP0745A
-  title: School Emergency Actions
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

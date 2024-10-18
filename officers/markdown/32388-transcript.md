@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 10.00 |
 | 9/20/2024 | GSP1167A | Firearms | Instructed | 0.0 | 10.00 |
 | 9/19/2024 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |

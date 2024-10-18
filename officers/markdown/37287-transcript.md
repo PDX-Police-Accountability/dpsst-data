@@ -620,7 +620,7 @@
 | 9/30/2002 | 02CP048 | Street Survival Seminar | Passed | 0.0 | 24.00 |
 | 5/28/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 9.00 |
 | 5/3/2002 | 02CP680 | Outlaw Motorcycle Gangs | Passed | 0.0 | 16.00 |
-| 1/31/2002 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/31/2002 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 11/23/2001 | 01T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 10/25/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 7.00 |
 | 4/13/2001 | 01CP488 | PPB Advanced Academy | Passed | 0.0 | 556.50 |

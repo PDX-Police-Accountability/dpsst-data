@@ -28,8 +28,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/29/2024 | 8/29/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 2/27/2023 | 2/27/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 3/15/2007 |  |
 ## Education
@@ -41,7 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2024 | SAG2720A | Financial Crimes  Digital Evidence Conference | Passed | 0.0 | 15.00 |
-| 8/29/2024 | SAG1551A | First Aid Training | Passed | 0.0 | 4.00 |
+| 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 7/15/2024 | SAG3641A | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/29/2024 | SAG1582A | Hiding on the Internet: TOR, Darknet | Passed | 0.0 | 2.50 |
 | 5/28/2024 | SAG3155A | Internet Identifiers: Names and Numbers | Passed | 0.0 | 2.00 |

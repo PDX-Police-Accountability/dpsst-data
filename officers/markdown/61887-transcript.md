@@ -31,7 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/8/2069 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 6/8/2069 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 30.00 |
 | 9/22/2024 | GSP3582A | UAS Ground School | Passed | 0.0 | 30.00 |
 | 9/12/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

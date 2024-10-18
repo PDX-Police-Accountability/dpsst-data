@@ -27,9 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/29/2024 | 8/29/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 10/19/2022 | 10/19/2024 |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 7/30/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
@@ -41,7 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/29/2024 | SAG1551A | First Aid Training | Passed | 0.0 | 4.00 |
+| 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 8/20/2024 | SAG3615A | ICAC 101 | Instructed | 0.0 | 8.00 |
 | 8/14/2024 | SAG2271A | Firearms training | Instructed | 0.0 | 3.00 |
 | 8/7/2024 | OSH4474A | HTTC - Human Trafficking Training | Passed | 0.0 | 16.00 |

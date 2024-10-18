@@ -861,4 +861,4 @@
 | 8/27/1997 | 97P197 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
 | 8/14/1997 | 97P081 | IMPLIED CONSENT/INTOX 5000 | Passed | 0.0 | 4.00 |
 | 6/8/1997 | 02U001 | Approved In-State Training | Passed | 0.0 | 17.00 |
-| 9/2/1992 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/2/1992 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

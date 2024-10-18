@@ -290,7 +290,7 @@
 | 7/14/2020 | PDP42651 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
 | 7/8/2020 | PDP38171 | 2020-5 Tips  Tech Drug Packaging/Crime Lab Sub | Passed | 0.0 | 0.25 |
 | 6/22/2020 | PDP24243 | 2020-2 City Attorney's Office Legal Updates 2/2020 | Passed | 0.0 | 0.50 |
-| 6/17/2020 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 6/17/2020 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/14/2020 | PDP08328 | 2020 City Attorney's Gathright Decision Refresher | Passed | 0.0 | 0.25 |
 | 5/13/2020 | PDP15453 | 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor | Passed | 0.0 | 0.25 |
 | 4/23/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |

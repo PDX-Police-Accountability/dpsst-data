@@ -32,11 +32,17 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 12/27/2065
-  course: PDP0745A
-  title: School Emergency Actions
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/6/2024
+  course: PDP3457A
+  title: 2024 40mm Less Lethal New Operator
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 9/30/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023

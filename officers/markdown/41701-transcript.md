@@ -519,7 +519,7 @@
 | 5/21/2014 | 14-0720 | Mobile Video | Passed | 0.0 | 1.00 |
 | 5/21/2014 | 14-1116 | Legal/Legislative Update | Passed | 0.0 | 1.25 |
 | 5/21/2014 | 14-1203 | EVOC | Passed | 0.0 | 1.00 |
-| 3/3/2014 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 3/3/2014 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/28/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 2/28/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 2/28/2014 | 14-0167 | Rifle Qualification | Passed | 0.0 | 0.50 |

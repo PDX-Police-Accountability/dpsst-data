@@ -583,7 +583,7 @@
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 12.50 |
-| 2/15/2004 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/15/2004 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/25/2002 | 02CP872 | OSP Hazardous Materials In-Service | Passed | 0.0 | 2.00 |
 | 5/29/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
 | 8/10/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 24.00 |

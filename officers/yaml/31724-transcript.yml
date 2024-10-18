@@ -93,6 +93,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2024
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/23/2024
+  course: BNS0305A
+  title: 40MM
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2024
+  course: BNS1381A
+  title: 40MM
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2024
+  course: BNS0390A
+  title: Use Of Force update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/24/2024
   course: BNS0790A
   title: EVOC - Patrol Vehicle and Armored Rescue Vehicle

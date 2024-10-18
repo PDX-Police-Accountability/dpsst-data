@@ -742,5 +742,5 @@
 | 5/8/1996 | 96X002 | DWI DETECTION/IMPROVED FIELD SOBR. TSTNG | Passed | 0.0 | 24.00 |
 | 5/8/1996 | 96X074 | DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 8.00 |
 | 3/9/1996 | 96X056 | HOMICIDE/DEATH INVESTIGATION | Passed | 0.0 | 8.00 |
-| 4/17/1987 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/17/1987 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/22/1954 | 11-1093 | Civil Law | Passed | 0.0 | 1.00 |

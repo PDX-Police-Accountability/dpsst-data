@@ -958,4 +958,4 @@
 | 8/16/1988 | 889050 | INTOXILYZER | Passed | 0.0 | 4.00 |
 | 7/27/1988 | 885016 | RADAR | Passed | 0.0 | 8.00 |
 | 6/7/1988 | 88P098 | Approved Out-of-State Training | Passed | 0.0 | 501.00 |
-| 8/10/1959 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/10/1959 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

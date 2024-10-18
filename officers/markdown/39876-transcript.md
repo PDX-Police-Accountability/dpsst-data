@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/25/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/25/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/23/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
 | 9/2/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/2/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/2/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -779,7 +780,7 @@
 | 4/8/2009 | 09-1083 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 3/11/2009 | 09-1196 | Motor Officer In-Service Training | Passed | 0.0 | 4.00 |
 | 3/11/2009 | 09-5000 | Instructor | Instructed | 0.0 | 4.00 |
-| 3/4/2009 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 3/4/2009 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/23/2009 | 09-0952 | CPR / First Aid | Passed | 0.0 | 4.00 |
 | 2/11/2009 | 09-1196 | Motor Officer In-Service Training | Passed | 0.0 | 4.00 |
 | 2/11/2009 | 09-5000 | Instructor | Instructed | 0.0 | 2.00 |

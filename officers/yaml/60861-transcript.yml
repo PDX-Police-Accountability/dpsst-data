@@ -25,11 +25,29 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 8/17/2066
-  course: PDP0745A
-  title: School Emergency Actions
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/14/2024
+  course: BNS3545A
+  title: Strangulation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/14/2024
+  course: BNS1058A
+  title: Emergeny Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2024
+  course: BNS3785A
+  title: UOF Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/15/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

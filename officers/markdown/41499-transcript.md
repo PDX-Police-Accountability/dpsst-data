@@ -526,7 +526,7 @@
 | 10/29/2013 | 13-1285 | K-9 Tactical | Passed | 0.0 | 1.50 |
 | 10/29/2013 | 13-0797 | Sex Crimes Response  Investigation | Passed | 0.0 | 10.00 |
 | 10/23/2013 | 13-0953 | CPR / First Aid / AED | Passed | 0.0 | 4.50 |
-| 8/13/2013 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/13/2013 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/30/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 6/14/2013 | 13-0783 | Computer Forensics | Passed | 0.0 | 40.00 |
 | 2/28/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |

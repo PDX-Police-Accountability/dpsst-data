@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/9/2078 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/9/2078 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/29/2024 | PDP3920A | 2018 Detectives How to Spot a Skimmer | Passed | 0.0 | 0.25 |
 | 9/29/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

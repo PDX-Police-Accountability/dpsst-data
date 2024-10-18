@@ -34,7 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/26/2054 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/26/2054 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 10/12/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Passed | 0.0 | 18.00 |
 | 9/26/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 30.00 |
 | 9/22/2024 | GSP3582A | UAS Ground School | Passed | 0.0 | 30.00 |

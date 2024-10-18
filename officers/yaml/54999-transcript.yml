@@ -69,7 +69,7 @@ certification_records:
 training_records:
 - date: 10/3/2024
   course: HRS0394A
-  title: '0'
+  title: CPR and First Aid
   status: Passed
   score: '0.0'
   hours: '4.00'

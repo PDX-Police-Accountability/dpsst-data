@@ -345,7 +345,7 @@
 | 12/2/2020 | PDP03569 | 2020-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 12/2/2020 | PDP19472 | 2020-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/1/2020 | PDP15624 | 2020 City of Portland HRAR 2.02 for Managers/Sups | Passed | 0.0 | 1.00 |
-| 11/29/2020 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 11/29/2020 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 11/11/2020 | PDP27995 | 2020 Presumpt Declination DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
 | 11/11/2020 | PDP34280 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |
 | 10/26/2020 | PDP36872 | 2020 City Attorney's Off Don't Shoot PDX/Hernandez | Passed | 0.0 | 0.25 |

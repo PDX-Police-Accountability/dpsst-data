@@ -630,4 +630,4 @@
 | 11/4/1994 | 94G188 | BASIC POLICE CLASS #188 | Passed | 0.0 | 320.00 |
 | 11/1/1994 | 94X030 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
 | 10/13/1994 | 94J016 | IMPLIED CONSENT/INTOXILYZER | Passed | 0.0 | 4.00 |
-| 11/17/1981 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 11/17/1981 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

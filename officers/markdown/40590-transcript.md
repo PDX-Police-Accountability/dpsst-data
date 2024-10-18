@@ -645,7 +645,7 @@
 | 10/18/2011 | 11-0593 | Conference - Other | Passed | 0.0 | 17.50 |
 | 9/22/2011 | 11-0593 | Conference - Other | Passed | 0.0 | 19.50 |
 | 4/25/2011 | 11-0699 | CAD / MDS / MDT System | Instructed | 0.0 | 16.00 |
-| 2/16/2011 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/16/2011 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/20/2011 | 11-1007 | Instructor Course - Other | Instructed | 0.0 | 8.00 |
 | 1/18/2011 | 11-1007 | Instructor Course - Other | Instructed | 0.0 | 8.00 |
 | 1/14/2011 | 11-1007 | Instructor Course - Other | Instructed | 0.0 | 8.00 |

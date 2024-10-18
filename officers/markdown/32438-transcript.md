@@ -807,4 +807,4 @@
 | 2/5/1998 | 98P082 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
 | 9/19/1997 | 96X074 | DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 8.00 |
 | 7/21/1997 | 97P100 | EVOC-8 HR REFRESHER | Passed | 0.0 | 8.00 |
-| 10/22/1988 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/22/1988 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

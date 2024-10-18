@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 7/9/2024 | STS4146A | LEDS Inquiry Only -- Recertification | Passed | 0.0 | 1.00 |
 | 6/28/2024 | STS1556A | Legal Update(s) | Passed | 0.0 | 2.50 |
 | 5/23/2024 | OSA2591A | Legal Updates Use of Force | Passed | 0.0 | 2.00 |

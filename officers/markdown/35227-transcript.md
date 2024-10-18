@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 7/24/2024 | F1520194 | Crisis Intervention: Focused Response | Passed | 0.0 | 1.00 |
 | 7/16/2024 | F1520194 | Crisis Intervention: Focused Response | Passed | 0.0 | 1.00 |
 | 5/20/2024 | VND3182A | Infant  Child Death Investigations | Passed | 0.0 | 7.00 |

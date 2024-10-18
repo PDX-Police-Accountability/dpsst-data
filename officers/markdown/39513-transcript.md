@@ -1338,7 +1338,7 @@
 | 4/23/2008 | 08-0647 | Community Policing | Passed | 0.0 | 2.00 |
 | 4/23/2008 | 08-0830 | Investigative Interviews | Passed | 0.0 | 1.80 |
 | 4/23/2008 | 08-0915 | Agency Policies / Procedures | Passed | 0.0 | 1.00 |
-| 3/6/2008 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 3/6/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/28/2008 | 08-0276 | Use of Force - Other | Passed | 0.0 | 2.50 |
 | 2/28/2008 | 08-0925 | Use of Force Policy | Passed | 0.0 | 1.00 |
 | 2/28/2008 | 08-1204 | EVOC / PIT | Passed | 0.0 | 5.50 |

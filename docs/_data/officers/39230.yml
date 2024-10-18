@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/10/2024
+  course: EGP2340A
+  title: EVOC Critical Skills
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/16/2024
   course: EGP4178A
   title: Taser 7 Annual Recertification

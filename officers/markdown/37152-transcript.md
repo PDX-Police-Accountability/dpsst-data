@@ -714,7 +714,7 @@
 | 3/6/2002 | 02J07 | Drug Influence Awareness  Detection | Passed | 0.0 | 4.00 |
 | 11/30/2001 | 01CP440 | Crisis Intervention Team Training | Passed | 0.0 | 40.00 |
 | 10/25/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 91.50 |
-| 9/18/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/18/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/27/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 38.00 |
 | 3/5/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 16.00 |
 | 7/18/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 32.00 |

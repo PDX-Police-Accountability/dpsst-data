@@ -727,7 +727,7 @@
 | 2/12/2002 | 02CP420 | Project Far from Home | Passed | 0.0 | 3.00 |
 | 1/3/2002 | 01CP763 | Oregon 2001 Legislative News Laws Training | Passed | 0.0 | 2.00 |
 | 12/13/2001 | 02U001 | Approved In-State Training | Passed | 0.0 | 4.00 |
-| 6/1/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 6/1/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/6/2000 | 00P498 | Legal Update House Bill 2433 | Passed | 0.0 | 2.00 |
 | 9/14/2000 | 00P148 | TOPS COURSE | Passed | 0.0 | 2.00 |
 | 9/12/2000 | 02U001 | Approved In-State Training | Passed | 0.0 | 2.00 |

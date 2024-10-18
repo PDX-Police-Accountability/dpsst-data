@@ -748,7 +748,7 @@
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 19.00 |
-| 1/8/2003 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/8/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/30/2002 | 02CP879 | Oregon Police Corps 2002 | Passed | 0.0 | 16.00 |
 | 7/16/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
 | 11/15/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |

@@ -35,7 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/14/2044 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 3/14/2044 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/21/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/20/2024 | PDP2207A | 2024 Firearms Satellite Instructor School | Passed | 0.0 | 90.00 |
 | 8/15/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

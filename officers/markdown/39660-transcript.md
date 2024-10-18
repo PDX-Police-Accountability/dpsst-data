@@ -806,7 +806,7 @@
 | 10/8/2008 | 08-0577 | K-9 Conference | Passed | 0.0 | 24.00 |
 | 8/25/2008 | 08-0709 | Mobile Data Terminal (MDT) | Passed | 0.0 | 6.00 |
 | 7/31/2008 | 08-0709 | Mobile Data Terminal (MDT) | Instructed | 0.0 | 1.50 |
-| 7/31/2008 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/31/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/2/2008 | 08-0709 | Mobile Data Terminal (MDT) | Passed | 0.0 | 1.50 |
 | 4/30/2008 | 08-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 4/30/2008 | 08-1116 | Legal/Legislative Update | Passed | 0.0 | 1.00 |

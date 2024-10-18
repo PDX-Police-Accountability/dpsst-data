@@ -661,7 +661,7 @@
 | 5/18/2011 | 11-0928 | Workplace - Other | Passed | 0.0 | 0.50 |
 | 5/18/2011 | 11-1116 | Legal/Legislative Update | Passed | 0.0 | 3.00 |
 | 4/25/2011 | 11-0699 | CAD / MDS / MDT System | Passed | 0.0 | 8.00 |
-| 1/29/2011 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/29/2011 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/26/2011 | 11-0953 | CPR / First Aid / AED | Passed | 0.0 | 4.00 |
 | 12/31/2010 | 10-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 12/31/2010 | 10-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.00 |

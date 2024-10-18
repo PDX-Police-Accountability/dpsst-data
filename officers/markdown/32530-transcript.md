@@ -678,4 +678,4 @@
 | 10/22/1998 | 98B012 | BP-SFST  DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
 | 10/19/1998 | 98P082 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
 | 6/10/1998 | 97P210 | LEDS INQUIRY LEVEL TRAINING GUIDE | Passed | 0.0 | 6.00 |
-| 1/22/1989 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/22/1989 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

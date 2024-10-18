@@ -808,7 +808,7 @@
 | 1/31/2007 | 07-0114 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/31/2006 | 06-1348 | PPB - Firearms/Use of Force | Passed | 0.0 | 3.00 |
 | 12/31/2006 | 06-1347 | PPB - Other LE Classes | Passed | 0.0 | 35.00 |
-| 10/5/2006 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/5/2006 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/26/2006 | 06-0032 | Intoxilyzer 8000 | Passed | 0.0 | 4.00 |
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 48.00 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 29.50 |

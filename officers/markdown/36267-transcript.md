@@ -711,7 +711,7 @@
 | 8/2/2000 | 00P149 | RADAR OPERATORS COURSE | Passed | 0.0 | 16.00 |
 | 12/31/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 26.00 |
 | 6/29/1999 | 99T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
-| 4/17/1999 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/17/1999 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/3/1999 | 99P158 | ADVANCED ACAMENY 98-4 | Passed | 0.0 | 422.00 |
 | 12/11/1998 | 98B014 | DPSST Basic Police | Passed | 0.0 | 376.00 |
 | 12/2/1998 | 98P321 | DEFENSIVE TACTICS | Passed | 0.0 | 4.00 |

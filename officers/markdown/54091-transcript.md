@@ -32,7 +32,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/14/2092 | PDP3816A | 2022-2 IS MH Crisis Intervention Updates | Passed | 0.0 | 1.00 |
-| 2/3/2048 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/3/2048 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/20/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/16/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 8/16/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

@@ -769,4 +769,4 @@
 | 4/30/1998 | 98P082 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
 | 12/20/1997 | 97U001 | Approved In-State Training | Passed | 0.0 | 16.00 |
 | 10/18/1997 | 97U001 | Approved In-State Training | Passed | 0.0 | 8.00 |
-| 10/12/1994 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/12/1994 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

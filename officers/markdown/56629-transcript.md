@@ -34,7 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/15/2055 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/15/2055 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/30/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/30/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/25/2024 | PDP2236A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

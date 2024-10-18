@@ -1021,4 +1021,4 @@
 | 11/6/1997 | 96X073 | RADAR OPERATOR TRNG | Passed | 0.0 | 24.00 |
 | 12/9/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 4.00 |
 | 5/30/1996 | 96P163 | 1996 RESERVE OFFICERS ACADEMY | Passed | 0.0 | 345.00 |
-| 9/12/1988 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/12/1988 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

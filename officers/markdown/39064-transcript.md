@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/24/2024 | VND2752A | Intro to Police Union Representation | Passed | 0.0 | 7.00 |
 | 6/8/2024 | TDP4161A | Duty to Intervene 2024 | Passed | 0.0 | 1.00 |
 | 6/1/2024 | TDP2983A | Implicit Bias 2024 | Passed | 0.0 | 1.00 |

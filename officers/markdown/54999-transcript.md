@@ -41,7 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/3/2024 | HRS0394A | 0 | Passed | 0.0 | 4.00 |
+| 10/3/2024 | HRS0394A | CPR and First Aid | Passed | 0.0 | 4.00 |
 | 9/2/2024 | OCS1296A | Tactical Leadership by Caliber Press | Passed | 0.0 | 8.00 |
 | 6/20/2024 | TDP1566A | NORTAC-Range, Carbine qual, HRT | Passed | 0.0 | 4.00 |
 | 5/23/2024 | HRS1520A | Spring Firearms Range | Passed | 0.0 | 3.00 |

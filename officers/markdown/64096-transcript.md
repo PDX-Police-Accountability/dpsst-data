@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/26/2075 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 6/26/2075 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 11/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/13/2024 | PDP2416A | 2020-5 TT Drug Packaging and Crime Lab Submission | Passed | 0.0 | 0.25 |
 | 8/21/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

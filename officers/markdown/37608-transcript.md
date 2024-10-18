@@ -757,7 +757,7 @@
 | 3/2/2005 | 05-0109 | Street Survival - Calibre Press | Passed | 0.0 | 16.00 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 24.50 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 67.00 |
-| 12/18/2002 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/18/2002 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/1/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
 | 4/4/2002 | 02CP580 | Basic Fingerprint Class | Passed | 0.0 | 24.00 |
 | 11/15/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |

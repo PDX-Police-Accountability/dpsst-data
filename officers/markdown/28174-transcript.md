@@ -813,4 +813,4 @@
 | 10/6/1995 | 95G195 | BASIC POLICE NO. 195 | Passed | 0.0 | 320.00 |
 | 9/14/1995 | 95J024 | IMPLIED CONSENT LAWS/INTOXILYZER | Passed | 0.0 | 4.00 |
 | 9/14/1995 | 95U001 | Approved In-State Training | Passed | 0.0 | 26.00 |
-| 2/18/1977 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/18/1977 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

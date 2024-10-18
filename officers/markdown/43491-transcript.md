@@ -480,7 +480,7 @@
 | 3/5/2019 | PDP12870 | 2019-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/26/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
 | 2/26/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
-| 1/26/2019 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/26/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/22/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/22/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
 | 1/8/2019 | PDP42201 | 2019 Training Range Qualification System Update | Passed | 0.0 | 0.25 |

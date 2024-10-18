@@ -38,7 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/7/2028 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/7/2028 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/4/2024 | PDP0046A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 8/22/2024 | PDP1947A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 8/14/2024 | PDP3884A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |

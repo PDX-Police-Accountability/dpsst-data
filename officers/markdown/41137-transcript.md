@@ -784,7 +784,7 @@
 | 12/7/2012 | 12-1126 | Driver Level 2 / Vehicle Inspection Training | Passed | 0.0 | 40.00 |
 | 11/8/2012 | 12-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/14/2012 | 12-1196 | Motor Officer In-Service Training | Passed | 0.0 | 10.00 |
-| 8/16/2012 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/16/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/23/2012 | 12-0129 | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/23/2012 | 12-0253 | Crowd / Riot Control | Passed | 0.0 | 4.00 |
 | 5/23/2012 | 12-0272 | Taser Refresher Training | Passed | 0.0 | 4.00 |

@@ -765,7 +765,7 @@
 | 5/21/2014 | 14-1203 | EVOC | Passed | 0.0 | 1.00 |
 | 4/29/2014 | 14-0577 | K-9 Conference | Passed | 0.0 | 8.00 |
 | 4/28/2014 | 14-0577 | K-9 Conference | Passed | 0.0 | 8.00 |
-| 4/28/2014 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/28/2014 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/31/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 1/31/2014 | 14-0147 | Firearms - Less Lethal | Passed | 0.0 | 0.50 |
 | 1/31/2014 | 14-0167 | Rifle Qualification | Passed | 0.0 | 0.50 |

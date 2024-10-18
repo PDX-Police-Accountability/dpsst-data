@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2024 | TGP2171A | Handgun/Patrol Rifle Training | Passed | 0.0 | 9.00 |
 | 3/24/2024 | TGP2279A | Cultural Competence and Diversity | Passed | 0.0 | 1.00 |
 | 3/24/2024 | TGP3517A | Ethics For Law Enforcement: Introduction | Passed | 0.0 | 2.00 |
 | 3/24/2024 | TGP1457A | Why Words Matter | Passed | 0.0 | 1.00 |

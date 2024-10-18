@@ -590,7 +590,7 @@
 | 8/20/2006 | 06-0032 | Intoxilyzer 8000 | Passed | 0.0 | 4.00 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 8/29/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
-| 12/23/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/23/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/9/2000 | 00P150 | LIDAR OPERATORS COURSE | Passed | 0.0 | 4.00 |
 | 5/9/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 6.00 |
 | 3/10/2000 | 00P149 | RADAR OPERATORS COURSE | Passed | 0.0 | 16.00 |

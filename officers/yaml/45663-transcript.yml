@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2024
+  course: MISCMAIN
+  title: 2024 LE Basic 3-Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/13/2024
   course: BNS1087A
   title: 'Spyder Forensics: Host Based Network Forensics'
@@ -64,7 +70,7 @@ training_records:
   hours: '40.00'
 - date: 8/29/2024
   course: SAG1551A
-  title: First Aid Training
+  title: First Aid/CPR Training
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -3868,16 +3874,16 @@ training_records:
   hours: '0.50'
 attribute_records:
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
 - topic: Certification Cards
   value: First Aid and CPR
-  effective_date: 5/16/2023
-  expiration_date: 5/16/2025
+  effective_date: 8/29/2024
+  expiration_date: 8/29/2026
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
+  value: LE Annual
+  effective_date: 1/1/2024
   expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Signed

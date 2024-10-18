@@ -625,7 +625,7 @@
 | 1/31/2017 | F6C33183 | Handgun Qualification-Primary Sidearm | Passed | 0.0 | 0.50 |
 | 1/31/2017 | F6C27044 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 12/31/2016 | MISCMAIN | 2016 Police Maintenance Basic | Completed | 0.0 | 0.00 |
-| 10/6/2016 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/6/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/4/2016 | F6C04018 | Directive 850.20 Response to Mental Health Crisis | Passed | 0.0 | 1.00 |
 | 10/4/2016 | F6C26901 | Defensive Tactics-Takedowns In-Service 2016 | Passed | 0.0 | 1.00 |
 | 10/4/2016 | F6C19724 | Taser X2 Transition In-Service 2016 | Passed | 0.0 | 3.50 |

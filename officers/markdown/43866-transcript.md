@@ -441,7 +441,7 @@
 | 3/8/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/22/2020 | PDP30360 | 2019-1 PSD Force Inspector Updates Q1-SupsCommand | Passed | 0.0 | 0.25 |
 | 2/21/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
-| 2/5/2020 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/5/2020 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/22/2020 | PDP36066 | Wednesday Night K9 Training | Passed | 0.0 | 3.00 |
 | 1/22/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/15/2020 | PDP36231 | Wednesday Night K9 Training | Passed | 0.0 | 3.00 |

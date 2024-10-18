@@ -545,7 +545,7 @@
 | 9/21/2016 | F6C10614 | Equity Training | Passed | 0.0 | 4.00 |
 | 9/21/2016 | F6C03282 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 9/21/2016 | F6C38166 | TECC In-Service 2016 | Passed | 0.0 | 2.00 |
-| 7/25/2016 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/25/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/19/2016 | F6C20937 | AR-15 Operator's In-Service 2016 | Passed | 0.0 | 10.00 |
 | 7/14/2016 | F6A02253 | ONEA Training Institute | Passed | 0.0 | 20.00 |
 | 6/30/2016 | F6C40819 | Handgun Qualificaiton - Secondary Sidearm | Passed | 0.0 | 0.50 |

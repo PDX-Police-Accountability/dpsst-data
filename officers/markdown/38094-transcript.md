@@ -896,7 +896,7 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 16.50 |
 | 9/14/2004 | 04T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 6/8/2004 | 04U001 | Approved In-State Training | Passed | 0.0 | 544.00 |
-| 4/17/2004 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/17/2004 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/14/2004 | 04-4695 | Portland Police Corps - Advanced Academy | Passed | 0.0 | 544.00 |
 | 2/6/2004 | 04-0143 | SFST Refresher | Passed | 0.0 | 8.00 |
 | 12/18/2003 | 03U001 | Approved In-State Training | Passed | 0.0 | 12.00 |

@@ -483,7 +483,7 @@
 | 2/20/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
 | 1/19/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/19/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
-| 1/15/2019 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/15/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/5/2018 | PDP09911 | 2018 Annual Hearing Conservation Training for OSHA | Passed | 0.0 | 0.25 |
 | 12/5/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |
 | 12/5/2018 | PDP02905 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |

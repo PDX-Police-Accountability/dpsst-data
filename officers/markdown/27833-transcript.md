@@ -909,4 +909,4 @@
 | 2/26/1993 | 93G176 | BASIC POLICE CLASS NO. 176 | Passed | 0.0 | 320.00 |
 | 2/23/1993 | 91K093 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
 | 2/11/1993 | 93J011 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
-| 3/14/1976 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 3/14/1976 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

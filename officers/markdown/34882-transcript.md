@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Passed | 0.0 | 18.00 |
 | 8/19/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/19/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
 | 7/18/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
@@ -727,4 +728,4 @@
 | 5/19/1998 | 98P117 | TRAFFIC OCCUPANT PROTECTION STRATEGIES | Passed | 0.0 | 8.00 |
 | 4/6/1998 | 97P211 | LEDS INQUIRY  ENTRY UPDATE LEVEL TRAINI | Passed | 0.0 | 30.00 |
 | 3/8/1998 | 98P041 | SFST/DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
-| 7/2/1995 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/2/1995 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

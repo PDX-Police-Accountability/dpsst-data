@@ -741,7 +741,7 @@
 | 12/1/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 8.00 |
 | 7/6/1999 | 99T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 4/16/1999 | 99P231 | POLICE CORPS ADVANCED ACADEMY 99-1 | Passed | 0.0 | 204.00 |
-| 12/28/1998 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/28/1998 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/2/1998 | 98P533 | Police Corps Academy Class 4-Phase 2 | Passed | 0.0 | 493.00 |
 | 9/4/1998 | 98P002 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
 | 8/27/1998 | 98U001 | Approved In-State Training | Passed | 0.0 | 2.00 |

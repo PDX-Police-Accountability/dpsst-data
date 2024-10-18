@@ -37,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/4/2038 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/4/2038 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/20/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 9/20/2024 | GSP1167A | Firearms | Passed | 0.0 | 10.00 |
 | 9/19/2024 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |

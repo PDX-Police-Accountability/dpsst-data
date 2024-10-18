@@ -828,4 +828,4 @@
 | 12/29/1994 | 94U001 | Approved In-State Training | Passed | 0.0 | 31.00 |
 | 12/12/1994 | 94U001 | Approved In-State Training | Passed | 0.0 | 8.00 |
 | 12/9/1994 | 94G189 | BASIC POLICE CLASS #189 | Passed | 0.0 | 320.00 |
-| 2/6/1982 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/6/1982 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

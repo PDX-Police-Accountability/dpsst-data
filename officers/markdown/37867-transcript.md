@@ -1433,7 +1433,7 @@
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 1.50 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 37.50 |
 | 3/25/2004 | 04-0085 | WMD Awareness Training | Passed | 0.0 | 8.00 |
-| 9/3/2003 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/3/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/5/2002 | 01CP167 | Radar Operators Course | Passed | 0.0 | 24.00 |
 | 6/24/2002 | 02T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 3/22/2002 | 01CP488 | PPB Advanced Academy | Passed | 0.0 | 568.00 |

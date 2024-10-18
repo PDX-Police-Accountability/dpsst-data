@@ -840,7 +840,7 @@
 | 5/9/2003 | 03-0830 | Crisis Intervention | Passed | 0.0 | 40.00 |
 | 7/9/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 20.00 |
 | 11/15/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
-| 9/9/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/9/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/27/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 24.00 |
 | 1/31/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 46.00 |
 | 3/10/2000 | 00T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |

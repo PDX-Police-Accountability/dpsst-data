@@ -40,7 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/12/2031 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/12/2031 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 11/25/2024 | PDP2169A | Renaissance Leadership | Passed | 0.0 | 45.00 |
 | 11/25/2024 | PDP1613A | Renaissance Leadership | Passed | 0.0 | 40.00 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |

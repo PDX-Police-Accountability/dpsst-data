@@ -38,7 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/30/2057 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/30/2057 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/3/2024 | VND0763A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 30.00 |
 | 9/22/2024 | GSP3582A | UAS Ground School | Passed | 0.0 | 30.00 |

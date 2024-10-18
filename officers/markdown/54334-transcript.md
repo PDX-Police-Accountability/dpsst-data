@@ -31,7 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/3/2048 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/3/2048 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/18/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 8/17/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

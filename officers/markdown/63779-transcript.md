@@ -29,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/13/2074 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/13/2074 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/19/2024 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 8/22/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/22/2024 | PDP0597A | OSU Modified Duty  Cold Call-Taking Training | Passed | 0.0 | 0.25 |

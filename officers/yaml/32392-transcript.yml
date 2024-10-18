@@ -62,12 +62,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2024
+  course: TGP2171A
+  title: Handgun/Patrol Rifle Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/2/2024
   course: VND3940A
   title: Simplifyng Financial Records
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 8/29/2024
+  course: TGP3440A
+  title: Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/28/2024
   course: TGP3533A
   title: Firearms Qualification

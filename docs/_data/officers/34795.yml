@@ -123,6 +123,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/20/2024
+  course: OCS2885A
+  title: 2nd Quarter Corrections Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/20/2024
   course: OCS0671A
   title: Takedowns and Ground defense

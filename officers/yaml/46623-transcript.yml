@@ -22,6 +22,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/16/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 10/11/2023
   certificate: Police Officer
   level: Supervisory
@@ -45,8 +52,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 8/24/2027
-  course: PDP0745A
-  title: School Emergency Actions
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

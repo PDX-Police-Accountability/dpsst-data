@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/10/2024
+  course: RSS4227A
+  title: 2024 OHIA Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 7/9/2024
   course: STS4146A
   title: LEDS Inquiry Only -- Recertification

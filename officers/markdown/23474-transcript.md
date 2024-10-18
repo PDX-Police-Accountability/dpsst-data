@@ -494,4 +494,4 @@
 | 5/22/1990 | 905003 | RADAR CLASSROOM | Passed | 0.0 | 8.00 |
 | 5/8/1990 | 909114 | FIRST RESPONDER AWARENESS | Passed | 0.0 | 4.00 |
 | 5/3/1990 | 90Q005 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
-| 4/7/1964 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/7/1964 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

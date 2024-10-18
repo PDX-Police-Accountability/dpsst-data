@@ -47,6 +47,7 @@
 | 6/1/2024 | HBS2070A | 2024 MAY DEI | Passed | 0.0 | 1.00 |
 | 6/1/2024 | HBS4157A | 2024 MAY ADA PATROL | Passed | 0.0 | 1.00 |
 | 6/1/2024 | HBS1043A | 2024 MAY PREA | Passed | 0.0 | 0.50 |
+| 4/25/2024 | HBS1907A | 2024 National Cyber Crime Conference | Passed | 0.0 | 18.00 |
 | 3/19/2024 | SAG1640A | Retail Theft | Passed | 0.0 | 4.00 |
 | 3/18/2024 | HBS2867A | 2024 March DT's | Passed | 0.0 | 4.50 |
 | 3/18/2024 | HBS3534A | 2024 March IFAST | Passed | 0.0 | 4.50 |

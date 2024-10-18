@@ -646,4 +646,4 @@
 | 3/7/1996 | 96X030 | IMPLIED CONSENT/INTOX. 5000 | Passed | 0.0 | 4.00 |
 | 12/20/1995 | 95N016 | SB504 SPECIAL CAMPUS OFFICER TRAINING | Passed | 0.0 | 8.00 |
 | 8/25/1995 | 95N014 | CAMPUS PUBLIC SAFETY CLASS NO. 9 | Passed | 0.0 | 200.00 |
-| 7/4/1983 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/4/1983 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

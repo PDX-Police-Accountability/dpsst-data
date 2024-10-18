@@ -688,7 +688,7 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 40.00 |
 | 6/27/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
 | 11/15/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 2.00 |
-| 8/23/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/23/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/13/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 24.00 |
 | 2/2/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 16.00 |
 | 5/1/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 1.00 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
 | 8/30/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/10/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/10/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -294,7 +295,7 @@
 | 1/21/2021 | PDP05106 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
 | 1/21/2021 | PDP17893 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 1/21/2021 | PDP13891 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
-| 1/21/2021 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/21/2021 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/1/2021 | PDP18966 | 2021-1 Tips Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 1/1/2021 | PDP10276 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
 | 1/1/2021 | PDP25688 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |

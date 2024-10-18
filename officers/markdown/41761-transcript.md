@@ -545,7 +545,7 @@
 | 5/21/2014 | 14-1116 | Legal/Legislative Update | Passed | 0.0 | 1.25 |
 | 5/21/2014 | 14-0915 | Agency Policies / Procedures | Passed | 0.0 | 0.50 |
 | 5/21/2014 | 14-1203 | EVOC | Passed | 0.0 | 1.00 |
-| 5/2/2014 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 5/2/2014 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/25/2014 | 14-0610 | Child Abuse Summit | Passed | 0.0 | 3.00 |
 | 4/24/2014 | 14-0610 | Child Abuse Summit | Passed | 0.0 | 6.50 |
 | 4/23/2014 | 14-0610 | Child Abuse Summit | Passed | 0.0 | 6.50 |

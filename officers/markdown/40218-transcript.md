@@ -672,7 +672,7 @@
 | 2/26/2010 | 10-1204 | EVOC / PIT | Passed | 0.0 | 4.25 |
 | 2/26/2010 | 10-1203 | EVOC | Passed | 0.0 | 4.25 |
 | 2/9/2010 | 10-0259 | Tactical Entry | Passed | 0.0 | 9.00 |
-| 2/9/2010 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/9/2010 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2009 | 09-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 1.50 |
 | 10/7/2009 | 09-0834 | Investigation Training - Other | Passed | 0.0 | 4.00 |
 | 9/30/2009 | 09-0663 | Gang Training - Other | Passed | 0.0 | 4.00 |

@@ -819,4 +819,4 @@
 | 8/14/1997 | 97P028 | OFFICER SURVIVAL  COMMUNICATION SPANISH | Passed | 0.0 | 24.00 |
 | 7/21/1997 | 97P100 | EVOC-8 HR REFRESHER | Passed | 0.0 | 8.00 |
 | 1/17/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 3.00 |
-| 12/15/1983 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/15/1983 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

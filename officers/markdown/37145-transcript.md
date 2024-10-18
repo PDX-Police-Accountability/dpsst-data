@@ -811,7 +811,7 @@
 | 10/21/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 25.00 |
 | 4/26/2002 | 02CP698 | Field Training Evaluation Program | Passed | 0.0 | 40.00 |
 | 12/10/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 17.00 |
-| 9/11/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/11/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/7/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 16.00 |
 | 3/16/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 16.50 |
 | 5/1/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 31.00 |

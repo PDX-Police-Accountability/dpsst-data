@@ -588,7 +588,7 @@
 | 9/27/2017 | PPB24636 | 2017-2 In-Service Crowd Control | Passed | 0.0 | 1.00 |
 | 9/27/2017 | PPB24637 | 2017-2 In-Service Pursuit Policy | Passed | 0.0 | 1.00 |
 | 9/27/2017 | PDP13189 | 2017 Crisis Negotiaton Team Training | Passed | 0.0 | 27.00 |
-| 9/11/2017 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/11/2017 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/9/2017 | PDP13189 | 2017 Crisis Negotiaton Team Training | Passed | 0.0 | 8.00 |
 | 6/30/2017 | PPB24454 | Handgun Qualification - Primary Sidearm | Passed | 0.0 | 0.50 |
 | 6/30/2017 | PPB24455 | Handgun Qualification - Secondary Sidearm | Passed | 0.0 | 0.50 |

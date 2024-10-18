@@ -446,7 +446,7 @@
 | 2/27/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/26/2019 | PDP21611 | Leadership Training - Civil Rights | Passed | 0.0 | 2.00 |
 | 2/12/2019 | PDP18360 | 2019-1  Supervisor In-Service Active Shooter | Passed | 0.0 | 5.00 |
-| 2/5/2019 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/5/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/28/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/28/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
 | 1/24/2019 | PDP13009 | Active Threat/Mass Casualty Training | Passed | 0.0 | 4.00 |

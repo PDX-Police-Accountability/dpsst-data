@@ -71,7 +71,7 @@ training_records:
   hours: '2.00'
 - date: 8/29/2024
   course: SAG1551A
-  title: First Aid Training
+  title: First Aid/CPR Training
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -2597,7 +2597,7 @@ training_records:
   hours: '4.00'
 attribute_records:
 - topic: Certification Cards
-  value: First Aid
+  value: First Aid and CPR
   effective_date: 8/29/2024
   expiration_date: 8/29/2026
 - topic: Maintenance Requirements
@@ -2612,10 +2612,6 @@ attribute_records:
   value: Signed
   effective_date: 10/29/2010
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 10/1/2024
 education_records:
 - date: 6/20/1980
   degree: No Degree

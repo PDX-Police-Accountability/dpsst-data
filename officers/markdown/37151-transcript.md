@@ -636,7 +636,7 @@
 | 4/16/2004 | 04-0800 | Basic All Terrain Vehicle Operation | Passed | 0.0 | 32.00 |
 | 6/24/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 20.00 |
 | 10/25/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
-| 9/17/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/17/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/11/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 66.00 |
 | 2/12/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 16.00 |
 | 12/31/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 17.00 |

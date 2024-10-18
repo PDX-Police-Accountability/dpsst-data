@@ -800,7 +800,7 @@
 | 5/23/2012 | 12-0918 | Employee Assistance Program | Passed | 0.0 | 0.50 |
 | 5/23/2012 | 12-1223 | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 2/21/2012 | 12-1195 | Bicycle Patrol | Passed | 0.0 | 6.00 |
-| 1/22/2012 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/22/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2011 | 11-0114 | Defensive Tactics | Instructed | 0.0 | 42.50 |
 | 12/31/2011 | 11-0147 | Firearms - Less Lethal | Passed | 0.0 | 10.00 |
 | 12/31/2011 | 11-0114 | Defensive Tactics | Instructed | 0.0 | 27.50 |

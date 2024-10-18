@@ -37,7 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2024 | TGP2171A | Handgun/Patrol Rifle Training | Instructed | 0.0 | 8.00 |
 | 10/2/2024 | VND3940A | Simplifyng Financial Records | Passed | 0.0 | 16.00 |
+| 8/29/2024 | TGP3440A | Handgun Training | Instructed | 0.0 | 2.00 |
 | 8/28/2024 | TGP3533A | Firearms Qualification | Instructed | 0.0 | 2.00 |
 | 8/7/2024 | TGP3976A | HTTC - Human Trafficking Training | Passed | 0.0 | 16.00 |
 | 6/11/2024 | TGP0037A | Human Intelligence: AKA Informants | Passed | 0.0 | 8.00 |

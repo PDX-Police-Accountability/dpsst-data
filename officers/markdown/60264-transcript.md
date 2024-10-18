@@ -51,6 +51,7 @@
 | 6/27/2024 | OCS0034A | Firearms | Passed | 0.0 | 3.00 |
 | 6/25/2024 | OCS2177A | Consim | Passed | 0.0 | 3.00 |
 | 6/20/2024 | OCS1388A | Device Searches | Passed | 0.0 | 2.00 |
+| 6/20/2024 | OCS2885A | 2nd Quarter Corrections Firearms | Passed | 0.0 | 2.00 |
 | 6/4/2024 | OCN3460A | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 6/4/2024 | OCN1590A | Ethics | Passed | 0.0 | 0.50 |
 | 6/4/2024 | OCN4171A | Narcan | Passed | 0.0 | 0.50 |

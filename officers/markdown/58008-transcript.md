@@ -32,7 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/25/2058 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/25/2058 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 20.00 |
 | 9/22/2024 | GSP3582A | UAS Ground School | Instructed | 0.0 | 20.00 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

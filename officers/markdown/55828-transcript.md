@@ -34,7 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/5/2052 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 11/5/2052 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/11/2024 | PDP3748A | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
 | 9/11/2024 | PDP4371A | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |
 | 8/21/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

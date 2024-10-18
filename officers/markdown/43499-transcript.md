@@ -393,7 +393,7 @@
 | 2/26/2019 | PDP25596 | Forensic Evidence Division New Coach Orientation | Passed | 0.0 | 2.00 |
 | 2/24/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/16/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
-| 2/3/2019 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/3/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/19/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/19/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
 | 1/10/2019 | PDP38711 | Digital Processing of Evidentiary Photography | Passed | 0.0 | 21.00 |

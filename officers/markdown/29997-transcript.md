@@ -754,4 +754,4 @@
 | 6/27/1999 | 99B010 | BP/SFST  DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
 | 4/27/1999 | 99P115 | INTOXYLIZER 5000 CERTIFICATION | Passed | 0.0 | 4.00 |
 | 8/26/1997 | 97P318 | OHSA RECERTIFICATION | Passed | 0.0 | 4.00 |
-| 2/15/1982 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/15/1982 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

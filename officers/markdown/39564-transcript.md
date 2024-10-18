@@ -857,7 +857,7 @@
 | 6/20/2008 | 08-0183 | Firearms Instructor Developement Course | Passed | 0.0 | 80.00 |
 | 5/19/2008 | 08-0153 | AR-15 Basic Operator / Qualification | Passed | 0.0 | 10.00 |
 | 4/30/2008 | 08-1270 | Field Training Officer Update | Passed | 0.0 | 1.50 |
-| 4/26/2008 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/26/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/3/2008 | 08-0100 | Active Shooter | Passed | 0.0 | 2.00 |
 | 4/3/2008 | 08-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 2.30 |
 | 4/3/2008 | 08-0129 | Firearms Training | Passed | 0.0 | 4.30 |

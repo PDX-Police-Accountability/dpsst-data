@@ -25,9 +25,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Certification Cards | First Aid and CPR | 8/29/2024 | 8/29/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2024 |
 | Code of Ethics | Signed | 6/15/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,8 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2024 | MISCMAIN | 2024 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/13/2024 | BNS1087A | Spyder Forensics: Host Based Network Forensics | Passed | 0.0 | 40.00 |
-| 8/29/2024 | SAG1551A | First Aid Training | Passed | 0.0 | 4.00 |
+| 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 8/20/2024 | SAG3615A | ICAC 101 | Instructed | 0.0 | 8.00 |
 | 7/15/2024 | SAG2700A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 3.00 |

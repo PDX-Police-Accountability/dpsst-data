@@ -602,7 +602,7 @@
 | 12/14/2010 | 10-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/14/2010 | 10-1203 | EVOC | Passed | 0.0 | 4.00 |
 | 8/27/2010 | 10-0834 | Investigation Training - Other | Passed | 0.0 | 36.00 |
-| 8/6/2010 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/6/2010 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/24/2010 | 10-1040 | Oregon Interviewing Guidlelines | Passed | 0.0 | 1.50 |
 | 12/31/2009 | 09-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.00 |
 | 11/30/2009 | 09-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 4.00 |

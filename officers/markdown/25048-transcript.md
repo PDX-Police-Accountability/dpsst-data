@@ -26,11 +26,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid | 8/29/2024 | 8/29/2026 |
+| Certification Cards | First Aid and CPR | 8/29/2024 | 8/29/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 10/29/2010 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 10/1/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -39,7 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/24/2024 | SAG0905A | Firearms training | Passed | 0.0 | 2.00 |
-| 8/29/2024 | SAG1551A | First Aid Training | Passed | 0.0 | 4.00 |
+| 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 6/12/2024 | AVP2518A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/11/2024 | SAG3574A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/8/2024 | AVP4026A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |

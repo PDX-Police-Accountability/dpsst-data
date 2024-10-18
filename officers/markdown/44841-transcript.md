@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2024 | LOP1989A | Ethics and Code of Conduct: Ethics for Everyone | Passed | 0.0 | 1.00 |
 | 9/30/2024 | LOP0116A | 8 Keys to a More Respectful Workplace 02-09 | Passed | 0.0 | 1.00 |

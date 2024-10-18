@@ -938,4 +938,4 @@
 | 9/1/1995 | 95G194 | BASIC POLICE NO. 194 | Passed | 0.0 | 320.00 |
 | 8/17/1995 | 95J024 | IMPLIED CONSENT LAWS/INTOXILYZER | Passed | 0.0 | 4.00 |
 | 3/7/1994 | 94J075 | 1993-94 METRO RESERVE OFFICER ACADEMY | Passed | 0.0 | 226.00 |
-| 10/26/1980 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/26/1980 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

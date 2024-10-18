@@ -738,4 +738,4 @@
 | 3/14/1997 | 97P349 | Police Corps Academy Class 1 (Continued) | Passed | 0.0 | 200.00 |
 | 3/14/1997 | 96U001 | Approved In-State Training | Passed | 0.0 | 478.00 |
 | 3/6/1997 | 97P220 | SFST/DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
-| 4/29/1990 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/29/1990 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

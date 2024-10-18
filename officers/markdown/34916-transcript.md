@@ -665,4 +665,4 @@
 | 10/27/1998 | 98U001 | Approved In-State Training | Passed | 0.0 | 5.00 |
 | 5/15/1998 | 98P287 | COMBINED AGENCY RESERVE TRAINING IV | Passed | 0.0 | 250.00 |
 | 4/30/1998 | 98P082 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
-| 8/5/1995 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/5/1995 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

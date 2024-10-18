@@ -868,4 +868,4 @@
 | 12/9/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 6.00 |
 | 8/26/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
 | 5/30/1996 | 96P163 | 1996 RESERVE OFFICERS ACADEMY | Passed | 0.0 | 345.00 |
-| 9/5/1988 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/5/1988 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

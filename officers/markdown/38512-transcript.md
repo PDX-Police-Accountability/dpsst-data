@@ -1073,7 +1073,7 @@
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 119.00 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 30.00 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
-| 6/9/2005 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 6/9/2005 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/2/2005 | 05-0168 | Instructor Development Course | Passed | 0.0 | 40.00 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 12.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 9.00 |

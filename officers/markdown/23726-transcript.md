@@ -828,4 +828,4 @@
 | 5/31/1995 | 95X059 | HIGH RISK CAR STOP /EVOC | Passed | 0.0 | 8.00 |
 | 2/17/1994 | 94J042 | COP TALK | Passed | 0.0 | 8.00 |
 | 3/20/1990 | 909006 | OREGON CITY POLICE RESERVE ACADEMY | Passed | 0.0 | 82.00 |
-| 12/15/1964 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/15/1964 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

@@ -575,7 +575,7 @@
 | 12/31/2010 | 10-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 12/31/2010 | 10-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 1.25 |
 | 8/31/2010 | 10-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
-| 8/8/2010 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/8/2010 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/27/2010 | 10-0175 | Tactical Firearms | Passed | 0.0 | 4.00 |
 | 5/27/2010 | 10-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 4.00 |
 | 5/27/2010 | 10-1116 | Legal/Legislative Update | Passed | 0.0 | 2.00 |

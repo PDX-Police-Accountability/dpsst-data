@@ -1112,4 +1112,4 @@
 | 10/31/1997 | 97G212 | BASIC POLICE CLASS NO. 212 | Passed | 0.0 | 320.00 |
 | 10/28/1997 | 97P197 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
 | 10/9/1997 | 97P081 | IMPLIED CONSENT/INTOX 5000 | Passed | 0.0 | 4.00 |
-| 1/20/1994 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/20/1994 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

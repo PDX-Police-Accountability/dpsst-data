@@ -631,7 +631,7 @@
 | 12/31/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 23.00 |
 | 9/17/1999 | 99B010 | BP/SFST  DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
 | 8/2/1999 | 99T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
-| 4/16/1999 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/16/1999 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/3/1999 | 99P158 | ADVANCED ACAMENY 98-4 | Passed | 0.0 | 422.00 |
 | 12/11/1998 | 98P324 | DEFENSIVE TACTICS | Passed | 0.0 | 8.00 |
 | 12/11/1998 | 98B014 | DPSST Basic Police | Passed | 0.0 | 376.00 |

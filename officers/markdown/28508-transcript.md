@@ -685,4 +685,4 @@
 | 5/27/1994 | 94U001 | Approved In-State Training | Passed | 0.0 | 8.00 |
 | 10/5/1993 | 93U001 | Approved In-State Training | Passed | 0.0 | 19.00 |
 | 5/29/1992 | 92U001 | Approved In-State Training | Passed | 0.0 | 8.00 |
-| 1/18/1978 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/18/1978 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

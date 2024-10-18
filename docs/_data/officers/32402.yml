@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/25/2024
+  course: HBS1907A
+  title: 2024 National Cyber Crime Conference
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/19/2024
   course: SAG1640A
   title: Retail Theft

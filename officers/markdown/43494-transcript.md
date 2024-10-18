@@ -495,7 +495,7 @@
 | 3/3/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/18/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
 | 2/6/2019 | PDP17574 | 2019 Det Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
-| 1/29/2019 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/29/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/24/2019 | PDP28615 | Active Threat/Mass Shooter Instructor Training | Passed | 0.0 | 24.00 |
 | 1/20/2019 | PDP33748 | Decision Making Exercises | Instructed | 0.0 | 0.50 |
 | 1/20/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |

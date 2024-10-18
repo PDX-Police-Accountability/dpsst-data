@@ -682,4 +682,4 @@
 | 2/5/1998 | 98P082 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
 | 10/23/1997 | 97P110 | EVOC | Passed | 0.0 | 9.00 |
 | 9/20/1997 | 97P520 | TRC TACTICAL REVOLVER COURSE | Passed | 0.0 | 2.00 |
-| 6/17/1994 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 6/17/1994 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

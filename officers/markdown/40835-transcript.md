@@ -563,7 +563,7 @@
 | 12/31/2011 | 11-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 12/31/2011 | 11-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.25 |
 | 11/23/2011 | 11-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
-| 10/19/2011 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/19/2011 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/18/2011 | 11-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 1.00 |
 | 5/18/2011 | 11-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 4.00 |
 | 5/18/2011 | 11-0129 | Firearms Training | Passed | 0.0 | 4.00 |

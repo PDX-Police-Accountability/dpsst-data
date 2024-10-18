@@ -64,6 +64,7 @@
 | 6/21/2024 | OCS3995A | May/June 24 Monthly Firearms/Marksmanship | Instructed | 0.0 | 3.00 |
 | 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
+| 6/20/2024 | OCS2885A | 2nd Quarter Corrections Firearms | Passed | 0.0 | 2.00 |
 | 5/31/2024 | OCS0728A | May 27 2024 New Hire Firearms | Instructed | 0.0 | 16.00 |
 | 5/24/2024 | OCS1749A | Use of Force Decision Making/Grounded Fire | Instructed | 0.0 | 121.00 |
 | 5/21/2024 | OCS3059A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |

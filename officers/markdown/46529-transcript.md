@@ -37,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/22/2027 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 5/22/2027 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/7/2024 | PDP1619A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
 | 9/7/2024 | PDP0428A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 9/7/2024 | PDP4497A | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |

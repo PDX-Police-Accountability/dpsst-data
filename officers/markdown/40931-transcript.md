@@ -738,7 +738,7 @@
 | 4/19/2012 | 12-0686 | Suicide Intervention Training | Passed | 0.0 | 16.00 |
 | 3/23/2012 | 12-0148 | Less Lethal / Bean Bag | Passed | 0.0 | 20.00 |
 | 3/16/2012 | 12-0721 | Electronics - Other | Passed | 0.0 | 2.00 |
-| 1/23/2012 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/23/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2011 | 11-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/31/2011 | 11-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 12/31/2011 | 11-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 4.25 |

@@ -264,7 +264,7 @@
 | 9/7/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/7/2021 | PDP41288 | 2021-3 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 9/7/2021 | PDP40610 | 2021-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
-| 8/31/2021 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/31/2021 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/30/2021 | PDP34164 | 2021 AR-15 Operators In-Service Training | Passed | 0.0 | 9.00 |
 | 8/30/2021 | PDP01790 | 2021 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 8/17/2021 | PDP42474 | 2021 FTEP Field Training Officer In-Service | Passed | 0.0 | 9.00 |

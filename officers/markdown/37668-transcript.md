@@ -805,7 +805,7 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 18.50 |
 | 12/11/2003 | 03-0872 | OSIN Basic Criminal Intelligence Concepts Training | Passed | 0.0 | 4.00 |
 | 12/5/2003 | 03-1328 | Analytical Investigations II | Passed | 0.0 | 40.00 |
-| 2/16/2003 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 2/16/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/26/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 140.00 |
 | 11/15/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 91.00 |
 | 10/19/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 24.50 |

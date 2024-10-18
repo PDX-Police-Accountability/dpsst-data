@@ -638,7 +638,7 @@
 | 5/17/2012 | 12-0593 | Conference - Other | Passed | 0.0 | 24.00 |
 | 4/16/2012 | 12-1063 | Drug Interdiction | Passed | 0.0 | 8.00 |
 | 3/1/2012 | 12-0721 | Electronics - Other | Passed | 0.0 | 2.00 |
-| 1/17/2012 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/17/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2011 | 11-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/31/2011 | 11-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.75 |
 | 12/13/2011 | 11-0175 | Tactical Firearms | Passed | 0.0 | 4.00 |

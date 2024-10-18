@@ -854,7 +854,7 @@
 | 4/24/2004 | 04-0470 | DUII Multi-disciplinary Impared Driving | Passed | 0.0 | 16.00 |
 | 4/22/2004 | 04-0129 | Three Flags Pre-Blitz Workshop | Passed | 0.0 | 8.00 |
 | 8/1/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
-| 12/15/2001 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/15/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/6/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
 | 10/19/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 0.50 |
 | 5/11/2001 | 01CP440 | Crisis Intervention Team Training | Passed | 0.0 | 40.00 |

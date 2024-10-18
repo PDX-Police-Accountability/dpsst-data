@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/5/2077 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/5/2077 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/17/2024 | PDP4167A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 9/12/2024 | PDP4234A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |

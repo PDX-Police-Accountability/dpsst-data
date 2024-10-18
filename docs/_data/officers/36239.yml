@@ -5793,8 +5793,8 @@ training_records:
   score: '0.0'
   hours: '13.00'
 - date: 3/20/1999
-  course: PDP0745A
-  title: School Emergency Actions
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

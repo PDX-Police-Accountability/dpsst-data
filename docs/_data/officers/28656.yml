@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2024
+  course: TGP2171A
+  title: Handgun/Patrol Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/24/2024
   course: TGP2279A
   title: Cultural Competence and Diversity

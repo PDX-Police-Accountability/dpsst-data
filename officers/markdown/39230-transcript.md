@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/10/2024 | EGP3595A | Deflection | Passed | 0.0 | 1.00 |
+| 10/10/2024 | EGP2340A | EVOC Critical Skills | Passed | 0.0 | 3.00 |
 | 9/16/2024 | EGP4178A | Taser 7 Annual Recertification | Passed | 0.0 | 4.00 |
 | 6/26/2024 | EGP1887A | Command Leadership Training 2024 | Passed | 0.0 | 8.50 |
 | 6/20/2024 | EGP2969A | Firearms Training | Passed | 0.0 | 4.00 |

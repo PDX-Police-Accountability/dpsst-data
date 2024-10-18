@@ -244,7 +244,7 @@
 | 9/20/2021 | PDP42053 | 2021 Training All Sworn Crowd Control Training | Passed | 0.0 | 6.00 |
 | 9/15/2021 | PDP36461 | 2021 OPCA Fall Seminar | Passed | 0.0 | 24.00 |
 | 9/15/2021 | SPP22811 | OPCA Fall Training Seminar | Passed | 0.0 | 16.00 |
-| 9/2/2021 | PDP0745A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/2/2021 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/31/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/31/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/11/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
