@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/11/2024 | BVP2600A | Fall IST EVOC | Passed | 0.0 | 3.00 |
 | 8/19/2024 | BVP0265A | Use of Force Briefing Training | Passed | 0.0 | 1.00 |
 | 7/12/2024 | BVP3870A | EVOC IST 071224am | Passed | 0.0 | 3.00 |
 | 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |

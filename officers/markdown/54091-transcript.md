@@ -31,8 +31,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/14/2092 | PDP3816A | 2022-2 IS MH Crisis Intervention Updates | Passed | 0.0 | 1.00 |
-| 2/3/2048 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/20/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/16/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 8/16/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
@@ -52,6 +50,7 @@
 | 7/18/2024 | PDP3239A | 2023-1 In Service Crowd Mgmt Legal Updates 1 | Passed | 0.0 | 1.00 |
 | 7/18/2024 | PDP2428A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
 | 7/18/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/14/2024 | PDP3816A | 2022-2 IS MH Crisis Intervention Updates | Passed | 0.0 | 1.00 |
 | 7/10/2024 | PDP3934A | Red Dot Optic Transition Course | Passed | 0.0 | 15.00 |
 | 7/10/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/10/2024 | PDP4218A | 2023-1 In Service Crowd Mgmt Baton Online | Passed | 0.0 | 0.50 |

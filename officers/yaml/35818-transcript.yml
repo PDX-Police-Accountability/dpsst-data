@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/5/2024
+  course: GLP1362A
+  title: Detectachem Mobile Drug Test Trainnig
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/1/2024
   course: GLP1718A
   title: HB 4002 Law Enforcement Training

@@ -50,6 +50,8 @@
 | 10/1/2024 | HBS0159A | Sept. Virtual Session #2 Use of Force | Passed | 0.0 | 4.50 |
 | 10/1/2024 | HBS4128A | Sept. Virtual Session #2 Mental Health | Passed | 0.0 | 2.00 |
 | 9/30/2024 | HBS1135A | LEDs Recertification | Passed | 0.0 | 2.00 |
+| 9/12/2024 | HBS1646A | TNT-Tactical Scenarios and Drills | Passed | 0.0 | 5.00 |
+| 9/11/2024 | HBS1464A | Hostage Rescue Drills | Passed | 0.0 | 7.50 |
 | 6/5/2024 | HBS3545A | 2024 March IFAST | Passed | 0.0 | 4.50 |
 | 6/5/2024 | HBS0782A | 2024 March DT's | Passed | 0.0 | 4.50 |
 | 5/31/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

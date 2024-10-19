@@ -69,6 +69,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 9/23/2024
+  course: BNS2636A
+  title: Low Light Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/2/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

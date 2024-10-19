@@ -43,18 +43,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/14/2092
-  course: PDP3816A
-  title: 2022-2 IS MH Crisis Intervention Updates
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 2/3/2048
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 12/20/2025
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
@@ -169,6 +157,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/14/2024
+  course: PDP3816A
+  title: 2022-2 IS MH Crisis Intervention Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/10/2024
   course: PDP3934A
   title: Red Dot Optic Transition Course

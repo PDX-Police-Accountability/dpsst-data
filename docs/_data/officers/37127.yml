@@ -233,4 +233,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/10/2023
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/11/1994
+  degree: Bachelor Science
+  school: Southern Oregon University
+  major: Criminology
+  hours: '194.0'

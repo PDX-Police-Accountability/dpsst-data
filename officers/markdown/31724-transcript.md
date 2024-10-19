@@ -45,6 +45,7 @@
 | 9/23/2024 | BNS0305A | 40MM | Passed | 0.0 | 1.00 |
 | 9/23/2024 | BNS1381A | 40MM | Passed | 0.0 | 1.00 |
 | 9/23/2024 | BNS0390A | Use Of Force update | Passed | 0.0 | 1.00 |
+| 9/23/2024 | BNS2636A | Low Light Firearms | Passed | 0.0 | 2.00 |
 | 6/24/2024 | BNS0790A | EVOC - Patrol Vehicle and Armored Rescue Vehicle | Passed | 0.0 | 2.00 |
 | 6/24/2024 | BNS4491A | PIT | Passed | 0.0 | 1.00 |
 | 6/24/2024 | BNS1423A | Pursuit Management | Passed | 0.0 | 1.00 |

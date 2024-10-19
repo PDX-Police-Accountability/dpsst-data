@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | BVP2140A | Fall IST EVOC | Passed | 0.0 | 3.00 |
 | 9/27/2024 | BVP2054A | Control Tactics | Passed | 0.0 | 3.00 |
 | 8/29/2024 | BVP2772A | August Range 2024 | Passed | 0.0 | 3.00 |
 | 8/19/2024 | BVP0265A | Use of Force Briefing Training | Passed | 0.0 | 1.00 |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2024
+  course: OSH1985A
+  title: 2nd Trimester Defensive Tactics/Taser
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/15/2024
   course: OSH2368A
   title: 2nd Trimester Firearms

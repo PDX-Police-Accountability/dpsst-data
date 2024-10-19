@@ -46,17 +46,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/1/2024
+- status_date: 10/17/2024
   certificate: Police Officer
   level: Basic
-  status: App Recd
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 9/30/2024
-- status_date: 9/26/2020
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 10/18/2010
   expiration_date: ''
   probation_date: ''
@@ -64,9 +57,9 @@ training_records:
 - date: 9/30/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
-  status: Required
+  status: Completed
   score: '0.0'
-  hours: '50.00'
+  hours: '0.00'
 - date: 9/22/2024
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

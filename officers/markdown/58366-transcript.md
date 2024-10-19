@@ -27,9 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 2/28/2026 | 1/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Certification Cards | First Aid and CPR | 2/28/2024 | 1/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
 ## Education
@@ -40,7 +40,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/28/2026 | OSH1143A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 7/1/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
@@ -52,6 +51,7 @@
 | 6/3/2024 | OSH0055A | Sworn Leadership Training | Passed | 0.0 | 2.00 |
 | 5/29/2024 | OSH2558A | OSP Defensive Tactics 1st Trimester 2024 | Passed | 0.0 | 4.00 |
 | 4/1/2024 | OSH0618A | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
+| 2/28/2024 | OSH1143A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 2/15/2024 | EGP0412A | SFST/DUII Refresher | Passed | 0.0 | 4.00 |
 | 12/11/2023 | OSH0030A | Ethics Training | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OSH0243A | Eithics Training | Passed | 0.0 | 1.00 |
