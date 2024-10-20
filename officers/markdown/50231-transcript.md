@@ -38,6 +38,7 @@
 | 7/10/2037 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/12/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
 | 10/6/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
+| 9/20/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 8/6/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

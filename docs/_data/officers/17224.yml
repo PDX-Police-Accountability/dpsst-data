@@ -106,6 +106,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '25.00'
+- date: 9/29/2024
+  course: PDP2777A
+  title: Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
 - date: 9/28/2024
   course: HSU2131A
   title: Fall In-service 2024 Instructor Prep

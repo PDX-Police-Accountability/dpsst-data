@@ -33,8 +33,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | CPR | 1/31/2023 | 1/31/2025 |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
@@ -46,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/1/2024 | HBS4364A | Sept. Virtual Session #2 General | Passed | 0.0 | 2.25 |
 | 10/1/2024 | HBS0159A | Sept. Virtual Session #2 Use of Force | Passed | 0.0 | 4.50 |
 | 10/1/2024 | HBS4128A | Sept. Virtual Session #2 Mental Health | Passed | 0.0 | 2.00 |

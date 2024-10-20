@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2024
+  course: PDP2777A
+  title: Red Dot Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 9/24/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/21/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

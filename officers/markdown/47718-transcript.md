@@ -45,6 +45,7 @@
 | 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 30.00 |
 | 9/22/2024 | GSP3582A | UAS Ground School | Passed | 0.0 | 30.00 |
 | 9/9/2024 | PDP1450A | 2024 EAP Suicide Training | Passed | 0.0 | 4.00 |
+| 9/9/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 8/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/17/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

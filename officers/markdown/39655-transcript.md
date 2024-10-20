@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/5/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/4/2024 | PDP3204A | 2024 Instructor Development Course | Passed | 0.0 | 30.00 |
 | 8/29/2024 | PDP1959A | 2024 SERT Training - Scenario | Passed | 0.0 | 5.00 |
 | 8/12/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

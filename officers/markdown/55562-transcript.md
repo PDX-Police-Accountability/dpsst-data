@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2024 | PDS0163A | Taser Practical | Passed | 0.0 | 0.50 |
+| 10/7/2024 | PDS2092A | Use of Force Report Writing | Passed | 0.0 | 1.50 |
+| 10/7/2024 | PDS1517A | CIT ConSims | Passed | 0.0 | 2.00 |
 | 8/5/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
 | 8/5/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
 | 8/5/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |

@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/22/2077 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/24/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/15/2024 | PDP1111A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 9/11/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/24/2024 | PDP4186A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

@@ -46,6 +46,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2024 | PDS2557A | CIT ConSims | Passed | 0.0 | 2.00 |
+| 10/8/2024 | PDS2348A | Taser Practical | Passed | 0.0 | 0.50 |
+| 10/8/2024 | PDS3859A | Use of Force Report Writing | Passed | 0.0 | 1.50 |
 | 9/26/2024 | PDS2374A | Leadership | Passed | 0.0 | 4.00 |
 | 8/2/2024 | PDS3260A | 40 Hour CIT | Passed | 0.0 | 40.00 |
 | 7/24/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |

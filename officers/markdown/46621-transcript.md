@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2024 | OCS1094A | FTO | Passed | 0.0 | 2.00 |
+| 10/10/2024 | OCS4169A | Annual DV Training | Passed | 0.0 | 1.00 |
 | 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
 | 8/30/2024 | OCS1950A | Balancing Speed  Marksmanship | Passed | 0.0 | 1.00 |
 | 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |

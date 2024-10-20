@@ -141,6 +141,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/17/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/13/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms

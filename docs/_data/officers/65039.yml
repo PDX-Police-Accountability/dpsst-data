@@ -36,6 +36,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/4/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/26/2024
   course: PDP1413A
   title: DIR 660.10 Property  Evidence Proc 2018-5 TT

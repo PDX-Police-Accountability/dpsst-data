@@ -82,6 +82,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 10/18/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/16/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/14/2024
   course: PDP0915A
   title: 2024 CNT Crisis Negotiation Team Annual Training
@@ -4627,8 +4639,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2024
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/20/2023

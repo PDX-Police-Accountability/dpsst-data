@@ -36,7 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 30.00 |
+| 9/29/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
+| 9/17/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 9/5/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/5/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

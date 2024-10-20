@@ -31,6 +31,7 @@
 | 9/4/2075 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 11/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/21/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/6/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/24/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 7/24/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

@@ -51,6 +51,7 @@
 | 9/3/2024 | PDP1070A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 3.00 |
 | 9/2/2024 | PDP4186A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 9/2/2024 | PDP2780A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 9/2/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP2205A | 2023-1  2 CAO Legal Updates for 01  02/2023 | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP3535A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP0417A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |

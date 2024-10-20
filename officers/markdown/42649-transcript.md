@@ -37,8 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2024 | PDP0485A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 10/2/2024 | GSP0866A | OPCA Fall Seminar - Patrol | Passed | 0.0 | 24.00 |
 | 9/4/2024 | PDP0046A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 9/3/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/22/2024 | PDP1947A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 8/22/2024 | PDP1947A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 6.00 |
 | 8/14/2024 | PDP3884A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |

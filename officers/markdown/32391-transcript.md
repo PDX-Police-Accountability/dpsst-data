@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/5/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/16/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/3/2024 | PDP0909A | 2024-2 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 8/2/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

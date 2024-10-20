@@ -45,6 +45,7 @@
 | 10/12/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Passed | 0.0 | 18.00 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 8/29/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/27/2024 | PDP2967A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 8/4/2024 | PDP3223A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 7/18/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |

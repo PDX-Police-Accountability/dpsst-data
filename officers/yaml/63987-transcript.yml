@@ -96,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/3/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/2/2024
   course: PDP3430A
   title: 2021-8 TT Techniques Ballot Measure 110 - Update

@@ -49,6 +49,7 @@
 | 9/13/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 9/13/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/13/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 7/25/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/11/2024 | PDP2460A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 7/9/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |

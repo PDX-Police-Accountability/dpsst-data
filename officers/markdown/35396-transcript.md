@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/30/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/8/2024 | PDP4323A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |

@@ -38,6 +38,7 @@
 | 9/2/2024 | PDP0597A | OSU Modified Duty  Cold Call-Taking Training | Passed | 0.0 | 0.25 |
 | 8/30/2024 | PDP3459A | OSU SOP009 Appendix A. Modified Duty Guide | Passed | 0.0 | 0.50 |
 | 8/30/2024 | PDP0754A | OSU SOP009 Modified Duty SOP | Passed | 0.0 | 0.50 |
+| 8/29/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/20/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/20/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/20/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

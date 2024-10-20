@@ -88,6 +88,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/30/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/19/2024
   course: PDP0737A
   title: 2024 OSHA Heat Illness Prevention with CityLearner

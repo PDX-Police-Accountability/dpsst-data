@@ -45,6 +45,7 @@
 | 9/4/2024 | PDP3620A | DIR 0311.50 Investigative Use of Social Media Memo | Passed | 0.0 | 0.50 |
 | 9/4/2024 | PDP1187A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
 | 9/4/2024 | PDP1413A | DIR 660.10 Property  Evidence Proc 2018-5 TT | Passed | 0.0 | 0.50 |
+| 9/4/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/3/2024 | PDP1070A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 3.00 |
 | 8/29/2024 | PDP3535A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP0417A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |

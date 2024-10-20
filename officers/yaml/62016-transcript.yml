@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 9/26/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/22/2024
   course: PDP0918A
   title: City of Portland Bloodborne Pathogens

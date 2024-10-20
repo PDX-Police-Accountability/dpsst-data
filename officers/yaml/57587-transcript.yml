@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/25/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/22/2024
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

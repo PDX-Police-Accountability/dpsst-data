@@ -50,6 +50,7 @@
 | 9/4/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/4/2024 | PDP3620A | DIR 0311.50 Investigative Use of Social Media Memo | Passed | 0.0 | 0.50 |
 | 9/4/2024 | PDP1187A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
+| 9/4/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP1318A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP2205A | 2023-1  2 CAO Legal Updates for 01  02/2023 | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

@@ -41,7 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 30.00 |
+| 9/29/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 9/28/2024 | HSU2131A | Fall In-service 2024 Instructor Prep | Passed | 0.0 | 4.00 |
 | 8/28/2024 | PPP3811A | Sgt. Investigation of Force | Passed | 0.0 | 16.00 |
 | 8/28/2024 | HSU4187A | Sergeant's Investigation of Force | Passed | 0.0 | 8.00 |

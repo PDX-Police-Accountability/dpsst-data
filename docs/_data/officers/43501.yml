@@ -82,9 +82,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/18/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/11/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/11/2024
+  course: PDP1882A
+  title: School Emergency Actions
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -4855,8 +4867,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2024
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/2/2023

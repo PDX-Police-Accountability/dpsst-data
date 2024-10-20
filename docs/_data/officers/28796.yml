@@ -93,6 +93,12 @@ certification_records:
   expiration_date: 12/30/2024
   probation_date: ''
 training_records:
+- date: 9/7/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/6/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

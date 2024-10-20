@@ -38,6 +38,7 @@
 | 9/18/2024 | PDP3482A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/11/2024 | PDP1129A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/6/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/6/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/4/2024 | PDP2692A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/28/2024 | PDP0093A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/14/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

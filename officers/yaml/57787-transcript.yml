@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/6/2024
+  course: PDP2777A
+  title: Red Dot Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 9/25/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental
@@ -49,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/25/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/27/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

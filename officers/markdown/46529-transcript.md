@@ -44,6 +44,7 @@
 | 9/6/2024 | PDP0761A | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
 | 9/6/2024 | PDP2126A | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.08 |
 | 9/6/2024 | PDP0470A | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
+| 9/1/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/15/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/15/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 8/15/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |

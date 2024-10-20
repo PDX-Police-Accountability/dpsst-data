@@ -81,12 +81,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/6/2024
+  course: PDP2777A
+  title: Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
 - date: 9/29/2024
   course: HSU3771A
   title: Red Dot Sight Course 6
   status: Instructed
   score: '0.0'
   hours: '30.00'
+- date: 9/29/2024
+  course: PDP2777A
+  title: Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
 - date: 9/28/2024
   course: HSU2131A
   title: Fall In-service 2024 Instructor Prep

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2024 | PDP2777A | Red Dot Optic Transition Course | Passed | 0.0 | 25.00 |
 | 9/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/6/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/6/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

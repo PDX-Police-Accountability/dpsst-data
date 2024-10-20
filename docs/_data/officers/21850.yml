@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/18/2024
+  course: MISCMAIN
+  title: 2024 LE Leadership 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/3/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -2806,6 +2812,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
 - topic: Certification Cards
   value: CPR
   effective_date: 11/6/2023
@@ -2817,7 +2827,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/7/2012

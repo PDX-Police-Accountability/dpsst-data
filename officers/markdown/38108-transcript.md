@@ -40,10 +40,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2024 | PDP0485A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 9/30/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/4/2024 | PDP0046A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 9/4/2024 | PDP0046A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
 | 8/27/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/27/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/22/2024 | PDP1947A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 8/7/2024 | PDP3884A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 8/2/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

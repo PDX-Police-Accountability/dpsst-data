@@ -38,6 +38,7 @@
 | 9/26/2024 | PDP1352A | 2024-3 In-Service CAO Legal Updates: Addendum | Passed | 0.0 | 0.25 |
 | 9/26/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 8/29/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/31/2024 | PDP1493A | 2024 UAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 7/23/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |

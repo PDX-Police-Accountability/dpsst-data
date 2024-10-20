@@ -40,6 +40,7 @@
 | 9/3/2024 | PDP0872A | 2021 Legal Bulletin on the Effects of Measure 110 | Passed | 0.0 | 0.50 |
 | 9/3/2024 | PDP2148A | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 9/3/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/3/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/2/2024 | PDP3430A | 2021-8 TT Techniques Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 8/2/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

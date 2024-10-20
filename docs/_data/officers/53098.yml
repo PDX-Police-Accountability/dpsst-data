@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/18/2024
+  course: MISCMAIN
+  title: 2024 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/18/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024
@@ -83,6 +89,12 @@ training_records:
 - date: 9/10/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/10/2024
+  course: PDP1882A
+  title: School Emergency Actions
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -3034,6 +3046,10 @@ training_records:
   hours: '1.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
@@ -3044,7 +3060,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/24/2018

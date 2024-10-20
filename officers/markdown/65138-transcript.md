@@ -65,6 +65,7 @@
 | 9/4/2024 | PDP3620A | DIR 0311.50 Investigative Use of Social Media Memo | Passed | 0.0 | 0.50 |
 | 9/4/2024 | PDP3560A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 9/4/2024 | PDP1187A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
+| 9/4/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/3/2024 | PDP1070A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 3.00 |
 | 8/29/2024 | PDP0860A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP2752A | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |

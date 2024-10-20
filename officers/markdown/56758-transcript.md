@@ -39,6 +39,7 @@
 | 5/24/2055 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/6/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
 | 9/3/2024 | PDP1070A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Instructed | 0.0 | 3.00 |
+| 9/3/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/13/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |

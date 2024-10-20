@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/29/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/30/2024
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

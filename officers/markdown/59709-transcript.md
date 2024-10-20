@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2024 | BNP3852A | UAS Training - Outdoor Tracking | Passed | 0.0 | 5.50 |
 | 10/13/2024 | BNP1181A | Building Clearing | Passed | 0.0 | 2.00 |
 | 9/4/2024 | BNP2688A | Shooting While Moving | Passed | 0.0 | 1.00 |
 | 8/15/2024 | BNP2553A | UAS Monthly Training | Passed | 0.0 | 7.50 |

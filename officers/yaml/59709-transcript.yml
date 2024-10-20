@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2024
+  course: BNP3852A
+  title: UAS Training - Outdoor Tracking
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 10/13/2024
   course: BNP1181A
   title: Building Clearing

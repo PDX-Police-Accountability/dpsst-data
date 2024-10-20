@@ -45,6 +45,7 @@
 | 9/11/2024 | PDP1129A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/11/2024 | PDP1129A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/4/2024 | PDP2692A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 8/31/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP0093A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 8/21/2024 | PDP0093A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/21/2024 | PDP0093A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |

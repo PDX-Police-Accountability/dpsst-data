@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/20/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/12/2024
   course: OCS4439A
   title: Third Degree

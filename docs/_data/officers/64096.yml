@@ -36,6 +36,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/19/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/13/2024
   course: PDP2416A
   title: 2020-5 TT Drug Packaging and Crime Lab Submission

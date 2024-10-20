@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/20/2024 | SAG3615A | ICAC 101 | Passed | 0.0 | 8.00 |
 | 8/1/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

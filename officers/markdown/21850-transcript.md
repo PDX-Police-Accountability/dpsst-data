@@ -38,9 +38,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | CPR | 11/6/2023 | 11/8/2025 |
 | Certification Cards | First Aid | 11/30/2022 | 11/30/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 2/7/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +50,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2024 | LOP0116A | 8 Keys to a More Respectful Workplace 02-09 | Passed | 0.0 | 1.00 |
 | 9/30/2024 | LOP1989A | Ethics and Code of Conduct: Ethics for Everyone | Passed | 0.0 | 1.00 |

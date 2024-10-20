@@ -50,6 +50,7 @@
 | 9/17/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 9/17/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/17/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/17/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 5/13/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 5/13/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
 | 5/13/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |

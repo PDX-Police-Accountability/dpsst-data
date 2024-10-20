@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/27/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/1/2024
   course: PDP3125A
   title: 2024 SERT Training - SCENARIO

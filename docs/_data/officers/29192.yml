@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/12/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/1/2024
   course: PDP2564A
   title: 2024 Safe Training Procedures

@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/3/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/25/2024
   course: PDP2311A
   title: 2024-2 Range Qual AR-15 Qualification (20 Yard)

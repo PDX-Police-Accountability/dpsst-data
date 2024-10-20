@@ -106,6 +106,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/8/2024
+  course: PDS2557A
+  title: CIT ConSims
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/8/2024
+  course: PDS2348A
+  title: Taser Practical
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/8/2024
+  course: PDS3859A
+  title: Use of Force Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/26/2024
   course: PDS2374A
   title: Leadership

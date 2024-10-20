@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/20/2024 | F6R1928A | Fire Alarm Panel Monitoring v2024 | Passed | 0.0 | 1.00 |
 | 7/8/2018 | PDP33173 | SSD Stops Application | Passed | 0.0 | 0.50 |
 | 6/28/2018 | PDP27736 | City Attorneys Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 6/3/2018 | PDP22051 | Detectives How to Spot a Skimmer | Passed | 0.0 | 0.25 |

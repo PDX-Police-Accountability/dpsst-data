@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/13/2024 | ALP2690A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
+| 8/28/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 8/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/18/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

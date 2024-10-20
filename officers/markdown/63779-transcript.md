@@ -20,6 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 9/19/2024 |  |
 | Code of Ethics | Law Enforcement Signed | 5/15/2023 |  |
 | Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
@@ -31,6 +33,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2074 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/19/2024 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
+| 8/29/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/22/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/22/2024 | PDP0597A | OSU Modified Duty  Cold Call-Taking Training | Passed | 0.0 | 0.25 |
 | 8/22/2024 | PDP3459A | OSU SOP009 Appendix A. Modified Duty Guide | Passed | 0.0 | 0.50 |

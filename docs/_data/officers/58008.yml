@@ -37,6 +37,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/6/2024
+  course: PDP2777A
+  title: Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
+- date: 9/29/2024
+  course: PDP2777A
+  title: Red Dot Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 9/22/2024
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
@@ -55,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/18/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/12/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

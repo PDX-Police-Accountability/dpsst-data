@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/19/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/8/2024 | PDP4323A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 8/2/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

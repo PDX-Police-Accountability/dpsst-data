@@ -109,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/30/2024
+  course: PDP1882A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/27/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

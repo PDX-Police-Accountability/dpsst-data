@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 25.00 |
+| 9/29/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 9/28/2024 | HSU2131A | Fall In-service 2024 Instructor Prep | Passed | 0.0 | 4.00 |
 | 7/20/2024 | HSU2040A | Supplemental Range | Instructed | 0.0 | 2.00 |
 | 6/23/2024 | HSU2040A | Supplemental Range | Instructed | 0.0 | 2.00 |
