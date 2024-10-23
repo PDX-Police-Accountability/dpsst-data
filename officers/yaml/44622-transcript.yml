@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/30/2024
+  course: OSH4505A
+  title: DEFENSIVE TACTICS/TASER 2ND TRIMESTER
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/27/2024
   course: OSH4475A
   title: 3rd Trimester Firearms - Low Light

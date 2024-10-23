@@ -49,6 +49,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/18/2024
+  course: WLP3052A
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/9/2024
   course: WLP0074A
   title: Equity in Policing and Public Safety

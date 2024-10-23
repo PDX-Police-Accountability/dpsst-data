@@ -45,6 +45,7 @@
 | 11/25/2024 | PDP2169A | Renaissance Leadership | Passed | 0.0 | 45.00 |
 | 11/25/2024 | PDP1613A | Renaissance Leadership | Passed | 0.0 | 40.00 |
 | 10/18/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/19/2024 | PDP3529A | 2024 CNT Crisis Negotiation Team RILEA Training | Passed | 0.0 | 23.50 |
 | 9/16/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 8/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

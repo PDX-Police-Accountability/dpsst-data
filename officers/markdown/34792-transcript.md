@@ -28,6 +28,7 @@
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 1/10/2008 |  |
+| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 10/21/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -37,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2024 | ADP2035A | TASER 10 Certification | Instructed | 0.0 | 6.00 |
+| 10/18/2024 | ADP1083A | TASER Annual Recertification | Passed | 0.0 | 2.00 |
 | 10/8/2024 | TAP3464A | Terry Stops and Patdowns | Passed | 0.0 | 1.00 |
 | 9/24/2024 | ADP4325A | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 9/9/2024 | ADP0776A | Ethos Leadership | Passed | 0.0 | 3.00 |

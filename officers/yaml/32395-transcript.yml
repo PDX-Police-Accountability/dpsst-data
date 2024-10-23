@@ -74,6 +74,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/15/2024
+  course: PPP2947A
+  title: Gasmask Fit Test
+  status: Passed
+  score: '0.0'
+  hours: '0.30'
 - date: 7/31/2024
   course: PPP1962A
   title: Anti-Bias Training for LE

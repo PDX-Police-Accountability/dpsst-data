@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
+| 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Instructed | 0.0 | 18.00 |
+| 9/12/2024 | PDP0269A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/10/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/10/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/9/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |

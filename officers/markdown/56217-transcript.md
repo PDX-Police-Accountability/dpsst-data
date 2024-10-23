@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/29/2053 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/19/2024 | PDP3529A | 2024 CNT Crisis Negotiation Team RILEA Training | Passed | 0.0 | 23.50 |
 | 9/11/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/6/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/6/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

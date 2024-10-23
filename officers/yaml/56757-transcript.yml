@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/15/2024
+  course: PPP2947A
+  title: Gasmask Fit Test
+  status: Passed
+  score: '0.0'
+  hours: '0.30'
 - date: 8/11/2024
   course: PPP1570A
   title: Anti-Bias Training for LE

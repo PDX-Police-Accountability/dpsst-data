@@ -40,6 +40,9 @@
 | 6/11/2036 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/26/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/23/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
+| 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Instructed | 0.0 | 9.00 |
+| 9/12/2024 | PDP0269A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 8/27/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/27/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/27/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

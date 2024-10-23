@@ -37,6 +37,7 @@
 | 9/25/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/25/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/23/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/19/2024 | PDP3529A | 2024 CNT Crisis Negotiation Team RILEA Training | Passed | 0.0 | 23.50 |
 | 8/26/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/26/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 8/26/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |

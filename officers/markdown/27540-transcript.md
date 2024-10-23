@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2024 | WLP3052A | Firearms Qualification | Passed | 0.0 | 3.00 |
 | 7/30/2024 | WLP3877A | Elder Abuse Investigations | Passed | 0.0 | 1.00 |
 | 7/10/2024 | WLP4198A | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
 | 5/6/2024 | WLP0560A | Establishing Stronger Community Relationships | Passed | 0.0 | 1.00 |

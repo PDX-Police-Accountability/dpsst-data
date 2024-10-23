@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/18/2024
+  course: PDP3529A
+  title: 2024 CNT Crisis Negotiation Team RILEA Training
+  status: Passed
+  score: '0.0'
+  hours: '19.50'
 - date: 9/5/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

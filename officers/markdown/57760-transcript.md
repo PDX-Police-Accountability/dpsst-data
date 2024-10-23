@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2024 | PDP3529A | 2024 CNT Crisis Negotiation Team RILEA Training | Passed | 0.0 | 23.50 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |

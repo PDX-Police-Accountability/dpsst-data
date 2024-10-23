@@ -52,4 +52,4 @@
 | 7/11/2018 | PDP30615 | FTEP 2.02 Training | Passed | 0.0 | 2.00 |
 | 7/11/2018 | PDP39723 | FTEP Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 7/9/2018 | PDP09314 | FTEP Policy and Procedure | Passed | 0.0 | 7.25 |
-| 6/21/2018 | AMP41579 | Ethics Bulletin  Volume #175  June 2018 | Passed | 0.0 | 0.50 |
+| 6/21/2018 | AMP41579 | Ethics Bulletin Volume #175 June 2018 | Passed | 0.0 | 0.50 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/8/2024
+  course: PDP2923A
+  title: 2024 FTEP Geography
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/19/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

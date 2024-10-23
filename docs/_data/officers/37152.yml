@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2024
+  course: PDP1929A
+  title: 2024 SERT Training (RILEA) - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 9/12/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

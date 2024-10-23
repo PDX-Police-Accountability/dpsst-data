@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/14/2024
+  course: PDP0005A
+  title: 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/6/2024
   course: PDP3457A
   title: 2024 40mm Less Lethal New Operator

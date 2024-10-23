@@ -41,6 +41,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/14/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/25/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
+| 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Instructed | 0.0 | 9.00 |
+| 9/12/2024 | PDP0269A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/3/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP1959A | 2024 SERT Training - Scenario | Passed | 0.0 | 5.00 |
 | 8/16/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

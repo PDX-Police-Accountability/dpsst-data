@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/18/2024
+  course: WLP3052A
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/30/2024
   course: WLP3877A
   title: Elder Abuse Investigations

@@ -48,6 +48,7 @@
 | 10/6/2024 | WLP0602A | Developing Leadership | Passed | 0.0 | 1.00 |
 | 10/6/2024 | WLP3441A | Essential Traits of Servant Leaders | Passed | 0.0 | 1.50 |
 | 10/6/2024 | WLP0803A | Leadership v. Management | Passed | 0.0 | 1.00 |
+| 9/18/2024 | WLP3052A | Firearms Qualification | Passed | 0.0 | 3.00 |
 | 9/9/2024 | WLP0074A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2024 | WLP3877A | Elder Abuse Investigations | Passed | 0.0 | 1.00 |

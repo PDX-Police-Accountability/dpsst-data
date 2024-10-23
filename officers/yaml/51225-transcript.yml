@@ -44,6 +44,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/19/2024
+  course: PDP1929A
+  title: 2024 SERT Training (RILEA) - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 9/19/2024
+  course: PDP1929A
+  title: 2024 SERT Training (RILEA) - SCENARIO
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/12/2024
+  course: PDP0269A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/4/2024
   course: PDP1882A
   title: School Emergency Actions

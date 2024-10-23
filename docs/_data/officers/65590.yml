@@ -30,6 +30,24 @@ training_records:
   status: Pending
   score: '0.0'
   hours: '0.00'
+- date: 10/15/2024
+  course: PDP4483A
+  title: 2024 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 10/14/2024
+  course: PDP0005A
+  title: 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/8/2024
+  course: PDP2923A
+  title: 2024 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/30/2024
   course: PDP4151A
   title: CPR/First Aid

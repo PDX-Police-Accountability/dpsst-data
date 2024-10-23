@@ -28,4 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/3/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 10/15/2024 | PDP4483A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
+| 10/14/2024 | PDP0005A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 4.00 |
+| 10/8/2024 | PDP2923A | 2024 FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/30/2024 | PDP4151A | CPR/First Aid | Passed | 0.0 | 3.00 |

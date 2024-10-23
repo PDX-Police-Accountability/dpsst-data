@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2024 | PPP2947A | Gasmask Fit Test | Passed | 0.0 | 0.30 |
 | 7/31/2024 | PPP1570A | Anti-Bias Training for LE | Passed | 0.0 | 1.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/17/2024 | PPP0690A | LEDS Recertification | Passed | 0.0 | 1.00 |

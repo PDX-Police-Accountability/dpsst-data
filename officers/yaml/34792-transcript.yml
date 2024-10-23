@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/18/2024
+  course: ADP2035A
+  title: TASER 10 Certification
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/18/2024
+  course: ADP1083A
+  title: TASER Annual Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/8/2024
   course: TAP3464A
   title: Terry Stops and Patdowns
@@ -3705,6 +3717,10 @@ attribute_records:
   value: Signed
   effective_date: 1/10/2008
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 10/21/2024
 education_records:
 - date: 6/13/2008
   degree: No Degree

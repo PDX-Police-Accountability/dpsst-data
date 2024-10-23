@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/15/2024 | PPP2947A | Gasmask Fit Test | Passed | 0.0 | 0.30 |
 | 8/11/2024 | PPP1570A | Anti-Bias Training for LE | Passed | 0.0 | 1.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/6/2024 | PPP3021A | Low Light Firearms Training | Passed | 0.0 | 4.00 |

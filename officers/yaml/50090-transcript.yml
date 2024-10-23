@@ -56,12 +56,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/16/2024
+  course: PDP0666A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 10/2/2024
   course: GSP0866A
   title: OPCA Fall Seminar - Patrol
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/19/2024
+  course: PDP1929A
+  title: 2024 SERT Training (RILEA) - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 9/14/2024
   course: PDP1882A
   title: School Emergency Actions

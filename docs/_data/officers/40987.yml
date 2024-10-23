@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2024
+  course: PDP3904A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/25/2024
   course: PDP2236A
   title: 2024 MEDU Weekly Training

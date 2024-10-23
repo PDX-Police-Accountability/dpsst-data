@@ -35,6 +35,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/17/2059 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 10/17/2024 | PDP0666A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.50 |
+| 10/17/2024 | PDP0666A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.50 |
 | 10/9/2024 | PDP0485A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 10/2/2024 | GSP0866A | OPCA Fall Seminar - Patrol | Passed | 0.0 | 24.00 |
 | 9/26/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

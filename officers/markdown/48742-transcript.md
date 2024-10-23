@@ -45,7 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/12/2033 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/25/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
-| 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 11/18/2024 | 24-0026 | DPSST Middle Management | Cancelled | 0.0 | 0.00 |
 | 9/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/12/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/9/2024 | PDP1450A | 2024 EAP Suicide Training | Passed | 0.0 | 4.00 |

@@ -94,6 +94,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 9/19/2024
+  course: PDP3529A
+  title: 2024 CNT Crisis Negotiation Team RILEA Training
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 9/9/2024
   course: PDP1450A
   title: 2024 EAP Suicide Training

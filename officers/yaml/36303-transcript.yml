@@ -105,6 +105,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2024
+  course: PDP0666A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 10/9/2024
   course: PDP0485A
   title: 2024 K-9 (K9) Weekly Training
