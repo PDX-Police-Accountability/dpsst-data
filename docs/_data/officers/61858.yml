@@ -42,6 +42,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2024
+  course: BPT4014A
+  title: Oregon Case Management Network - Fall 2024
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/17/2024
+  course: BPT2370A
+  title: Mental Health Supervision Network - Fall 2024
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/16/2024
+  course: BPT3837A
+  title: Mental Health Supervison Network - Fall 2024
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/10/2024
   course: MFN1920A
   title: Expert Analysis Officer Involved Shooting

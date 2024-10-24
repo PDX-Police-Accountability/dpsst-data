@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2024
+  course: WLP3244A
+  title: Red Door Project - Coaching Conversation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/18/2024
   course: WLP3052A
   title: Firearms Qualification

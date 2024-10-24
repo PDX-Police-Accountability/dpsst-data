@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2024 | LGS3546A | Leadership Coaching, Mentoring,  Org. Culture | Passed | 0.0 | 4.00 |
 | 10/1/2024 | REG2550A | 2024 Legal Update and Review | Passed | 0.0 | 3.00 |
 | 10/1/2024 | REG0656A | Use of Force - Update and Review | Passed | 0.0 | 3.00 |
 | 6/25/2024 | REG1938A | Regional Patrol Rifle IC | Instructed | 0.0 | 30.00 |

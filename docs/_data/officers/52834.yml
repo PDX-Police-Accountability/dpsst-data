@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2024
+  course: OCS3265A
+  title: Crimes Against Children Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.25'
 - date: 9/1/2024
   course: OCS2693A
   title: De-escalation

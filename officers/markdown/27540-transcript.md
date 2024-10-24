@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2024 | WLP3244A | Red Door Project - Coaching Conversation | Passed | 0.0 | 2.00 |
 | 9/18/2024 | WLP3052A | Firearms Qualification | Passed | 0.0 | 3.00 |
 | 7/30/2024 | WLP3877A | Elder Abuse Investigations | Passed | 0.0 | 1.00 |
 | 7/10/2024 | WLP4198A | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2024
+  course: GLP1494A
+  title: Defensive Tactics Fall 2024
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/5/2024
   course: GLP1362A
   title: Detectachem Mobile Drug Test Trainnig
