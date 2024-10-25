@@ -47,6 +47,7 @@
 | 8/8/2024 | HBN3251A | Parole Board Annual Roadshow | Passed | 0.0 | 4.00 |
 | 8/8/2024 | VND3807A | Parole Board/DOC Roadshow | Passed | 0.0 | 4.00 |
 | 8/7/2024 | HBN4251A | Defensive Tactics and Decision Making | Passed | 0.0 | 4.00 |
+| 7/3/2024 | HBN0074A | DEI Presentation with Simon tam | Passed | 0.0 | 1.50 |
 | 3/12/2024 | HBN1194A | NARCAN Training and Presentation | Passed | 0.0 | 1.00 |
 | 3/6/2024 | TRN0877A | Statewide Contact Standards  Chrono (session6) | Passed | 0.0 | 1.00 |
 | 2/28/2024 | HBS1654A | Officer Safety - Weapons Familiarization | Passed | 0.0 | 2.00 |

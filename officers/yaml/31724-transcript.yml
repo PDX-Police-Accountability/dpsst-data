@@ -106,8 +106,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 9/23/2024
-  course: BNS1381A
-  title: 40MM
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

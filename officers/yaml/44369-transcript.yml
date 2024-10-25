@@ -2153,6 +2153,10 @@ training_records:
   score: '0.0'
   hours: '5.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/27/2024
+  expiration_date: 8/27/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
@@ -2165,10 +2169,6 @@ attribute_records:
   value: Signed
   effective_date: 10/12/2006
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 10/21/2024
 education_records:
 - date: 12/10/2005
   degree: Bachelor Science

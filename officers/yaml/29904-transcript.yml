@@ -54,27 +54,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 10/2/2024
-  course: PDS2908A
-  title: Leadership
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 9/19/2024
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 9/19/2024
   course: GSP4098A
   title: Firearms
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 9/18/2024
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '10.00'

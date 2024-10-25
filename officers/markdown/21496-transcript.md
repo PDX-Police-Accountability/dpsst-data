@@ -60,6 +60,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2024 | OSH1432A | Patrol Tactics 3 | Passed | 0.0 | 4.00 |
 | 9/20/2024 | OSH0565A | 3rd Trimester Firearms - Low Light | Passed | 0.0 | 4.00 |
 | 6/26/2024 | OSH0023A | Defensive Tactics - Taser Recertification | Passed | 0.0 | 4.00 |
 | 6/25/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Passed | 0.0 | 80.00 |

@@ -68,9 +68,21 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/9/2024
+  course: TAP3344A
+  title: Pipeline Emergency Response Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/8/2024
   course: TAP3464A
   title: Terry Stops and Patdowns
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2024
+  course: TAP0117A
+  title: Willamette Law Online 2024 OR Law Updates
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -110,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 6/30/2024
+  course: TAP3696A
+  title: LEXIPOL Daily Training Bulletins Jan-Jun 2024
+  status: Passed
+  score: '0.0'
+  hours: '5.60'
 - date: 6/14/2024
   course: ADP1060A
   title: Firearms Training
@@ -146,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 3/19/2024
+  course: TAP1897A
+  title: Signal Side Arm Course
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/8/2024
   course: ADP1864A
   title: DT/Wrap Training

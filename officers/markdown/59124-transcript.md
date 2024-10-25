@@ -31,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/15/2024 | BVP4256A | EVOC | Passed | 0.0 | 3.00 |
 | 9/27/2024 | BVP2054A | Control Tactics | Passed | 0.0 | 3.00 |
 | 8/27/2024 | BVP3226A | August Range 2024 | Passed | 0.0 | 3.00 |
 | 8/20/2024 | BVP0265A | Use of Force Briefing Training | Passed | 0.0 | 1.00 |

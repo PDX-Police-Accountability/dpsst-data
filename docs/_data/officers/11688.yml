@@ -54,6 +54,12 @@ certification_records:
   expiration_date: 7/23/2025
   probation_date: ''
 training_records:
+- date: 10/16/2024
+  course: BVP1987A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/26/2020
   course: PDP24243
   title: 2020-2 City Attorney's Office Legal Updates 2/2020

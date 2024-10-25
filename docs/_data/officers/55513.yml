@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2024
+  course: BVP1355A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/27/2024
   course: BVP2054A
   title: Control Tactics

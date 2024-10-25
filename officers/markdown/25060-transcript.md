@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2024 | WBP3560A | Woodburn PD Yearly Policy Review | Passed | 0.0 | 2.00 |
+| 10/7/2024 | WBP0077A | Hazard Communication Standards | Passed | 0.0 | 1.00 |
 | 8/14/2024 | WBP0669A | Critical Incident Debrief: LAPD OIS 6/15/24 | Passed | 0.0 | 0.50 |
 | 7/24/2024 | WBP3185A | Briefing Training - Emergency Medical Response | Passed | 0.0 | 0.50 |
 | 7/23/2024 | WBP2416A | 1st Watch Wellness - Model  Methodology | Passed | 0.0 | 2.50 |

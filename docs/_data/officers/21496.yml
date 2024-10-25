@@ -166,6 +166,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2024
+  course: OSH1432A
+  title: Patrol Tactics 3
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/20/2024
   course: OSH0565A
   title: 3rd Trimester Firearms - Low Light

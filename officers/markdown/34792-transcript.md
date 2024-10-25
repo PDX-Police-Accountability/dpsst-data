@@ -40,19 +40,23 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/18/2024 | ADP2035A | TASER 10 Certification | Instructed | 0.0 | 6.00 |
 | 10/18/2024 | ADP1083A | TASER Annual Recertification | Passed | 0.0 | 2.00 |
+| 10/9/2024 | TAP3344A | Pipeline Emergency Response Training | Passed | 0.0 | 1.00 |
 | 10/8/2024 | TAP3464A | Terry Stops and Patdowns | Passed | 0.0 | 1.00 |
+| 10/1/2024 | TAP0117A | Willamette Law Online 2024 OR Law Updates | Passed | 0.0 | 1.00 |
 | 9/24/2024 | ADP4325A | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 9/9/2024 | ADP0776A | Ethos Leadership | Passed | 0.0 | 3.00 |
 | 8/29/2024 | TAP3522A | Wellness Program 1st Watch Training | Passed | 0.0 | 1.00 |
 | 8/22/2024 | TAP3542A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/31/2024 | TAP1585A | Defensive Driving Principles | Passed | 0.0 | 1.00 |
 | 7/26/2024 | TAP2374A | ODOT Truck Inspection Course | Passed | 0.0 | 40.00 |
+| 6/30/2024 | TAP3696A | LEXIPOL Daily Training Bulletins Jan-Jun 2024 | Passed | 0.0 | 5.60 |
 | 6/14/2024 | ADP1060A | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/19/2024 | ADP0977A | LAP/DV | Passed | 0.0 | 1.00 |
 | 4/19/2024 | ADP3569A | Karly's Law | Passed | 0.0 | 1.00 |
 | 4/19/2024 | ADP3790A | Search Warrant and Seizure | Passed | 0.0 | 1.00 |
 | 4/12/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/22/2024 | ADP1228A | Taser Instructor | Passed | 0.0 | 16.00 |
+| 3/19/2024 | TAP1897A | Signal Side Arm Course | Passed | 0.0 | 0.50 |
 | 3/8/2024 | ADP1864A | DT/Wrap Training | Passed | 0.0 | 4.00 |
 | 3/2/2024 | TAP3329A | HAZMAT First Responder Awareness Level 1 | Passed | 0.0 | 1.50 |
 | 2/28/2024 | TAP0313A | TASER Certification/Recert | Instructed | 0.0 | 0.50 |

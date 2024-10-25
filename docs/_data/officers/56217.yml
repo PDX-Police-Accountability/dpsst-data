@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/8/2024
+  course: VND2419A
+  title: A Collaborative Approach to Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/24/2024
   course: PDP1882A
   title: School Emergency Actions

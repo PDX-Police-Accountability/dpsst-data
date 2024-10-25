@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2024 | BVP1355A | EVOC | Passed | 0.0 | 3.00 |
 | 9/27/2024 | BVP2054A | Control Tactics | Passed | 0.0 | 3.00 |
 | 9/3/2024 | BVP0595A | August Range 2024 | Passed | 0.0 | 3.00 |
 | 7/10/2024 | BVP2012A | EVOC IST 071024pm | Passed | 0.0 | 3.00 |

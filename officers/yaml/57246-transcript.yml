@@ -67,6 +67,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/1/2024
+  course: HBN1871A
+  title: APPA 2024 Conference - Mental Health Sessions
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/1/2024
+  course: HBN0367A
+  title: APPA 2024 Conference - General Sessions
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 3/12/2024
   course: TRN2101A
   title: Statewide Contact Standards  Chrono (session9)
