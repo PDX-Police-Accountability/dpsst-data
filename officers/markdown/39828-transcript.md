@@ -711,7 +711,6 @@
 | 6/4/2009 | 09-1210 | Emotional Survival | Passed | 0.0 | 1.00 |
 | 4/13/2009 | 09-0952 | CPR / First Aid | Passed | 0.0 | 4.00 |
 | 2/18/2009 | 09T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
-| 1/15/2009 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/31/2008 | 08-0709 | Mobile Data Terminal (MDT) | Passed | 0.0 | 1.50 |
 | 10/20/2008 | 08-0129 | Firearms Training | Passed | 0.0 | 67.50 |
 | 10/20/2008 | 08-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 82.50 |

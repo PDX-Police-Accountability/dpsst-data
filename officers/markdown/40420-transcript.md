@@ -616,7 +616,6 @@
 | 4/25/2011 | 11-0699 | CAD / MDS / MDT System | Passed | 0.0 | 8.00 |
 | 2/1/2011 | 11-0953 | CPR / First Aid / AED | Passed | 0.0 | 4.00 |
 | 12/31/2010 | 10-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 5.25 |
-| 8/30/2010 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/27/2010 | 10-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 4.00 |
 | 5/27/2010 | 10-0175 | Tactical Firearms | Passed | 0.0 | 4.00 |
 | 5/27/2010 | 10-1116 | Legal/Legislative Update | Passed | 0.0 | 2.00 |

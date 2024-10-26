@@ -46,6 +46,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/24/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 10/24/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 10/17/2024
   certificate: Police Officer
   level: Basic
@@ -61,17 +75,23 @@ training_records:
   score: '0.0'
   hours: '0.00'
 - date: 9/22/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '30.00'
-- date: 9/22/2024
   course: GSP3582A
   title: UAS Ground School
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 9/12/2024
+  course: PDP3674A
+  title: 2024 Traffic Motors Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/10/2024
+  course: PDP3674A
+  title: 2024 Traffic Motors Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/15/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

@@ -3338,12 +3338,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '12.50'
-- date: 2/15/2004
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 10/25/2002
   course: 02CP872
   title: OSP Hazardous Materials In-Service

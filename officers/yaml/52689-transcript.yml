@@ -51,12 +51,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 4/2/2044
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 9/26/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental

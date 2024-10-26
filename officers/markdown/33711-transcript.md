@@ -764,4 +764,3 @@
 | 6/11/1998 | 98P117 | TRAFFIC OCCUPANT PROTECTION STRATEGIES | Passed | 0.0 | 8.00 |
 | 10/22/1997 | 97U001 | Approved In-State Training | Passed | 0.0 | 7.00 |
 | 5/15/1997 | 97P576 | COMBINED AGENCY RESERVE TRAINING NO.3 | Passed | 0.0 | 255.00 |
-| 4/17/1992 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

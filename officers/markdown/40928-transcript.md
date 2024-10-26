@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/2/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 8/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/29/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/24/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
@@ -744,7 +745,6 @@
 | 5/23/2012 | 12-0918 | Employee Assistance Program | Passed | 0.0 | 0.50 |
 | 5/23/2012 | 12-1223 | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 5/8/2012 | 12-0720 | Mobile Video | Passed | 0.0 | 2.00 |
-| 1/20/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2011 | 11-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 12/31/2011 | 11-0147 | Firearms - Less Lethal | Passed | 0.0 | 10.00 |
 | 12/31/2011 | 11-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 2.00 |

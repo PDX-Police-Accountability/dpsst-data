@@ -480,7 +480,6 @@
 | 10/10/2016 | F6C14062 | AR-15-In-Service 2016 | Passed | 0.0 | 2.00 |
 | 10/10/2016 | F6C01591 | TECC In-Service 2016 | Passed | 0.0 | 2.00 |
 | 10/10/2016 | F6C20891 | Bloodborne Pathogens 2016 | Passed | 0.0 | 0.50 |
-| 10/9/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/31/2016 | F6C20300 | RAPID | Passed | 0.0 | 0.25 |
 | 7/12/2016 | 03889 | Equity Training | Passed | 0.0 | 8.00 |
 | 6/30/2016 | F6C40819 | Handgun Qualificaiton - Secondary Sidearm | Passed | 0.0 | 0.50 |

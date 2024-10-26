@@ -4283,12 +4283,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '26.90'
-- date: 10/7/2006
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 8/23/2006
   course: 06-0032
   title: Intoxilyzer 8000

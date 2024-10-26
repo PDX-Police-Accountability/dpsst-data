@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/12/2024
+  course: PDP3674A
+  title: 2024 Traffic Motors Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/28/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
@@ -4682,12 +4688,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '294.00'
-- date: 7/23/1964
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year

@@ -38,7 +38,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |
-| 9/30/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 9/2/2024 | OCS1296A | Tactical Leadership by Caliber Press | Passed | 0.0 | 8.00 |
 | 6/16/2024 | GSP0081A | Basic UAS Ground School | Instructed | 0.0 | 30.00 |
 | 3/7/2024 | GSP0256A | Firearms - Handgun | Passed | 0.0 | 10.00 |

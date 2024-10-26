@@ -741,7 +741,6 @@
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 81.00 |
-| 3/15/2004 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/21/2003 | 03-0071 | Reid Interviewing and Interrogation | Passed | 0.0 | 21.00 |
 | 8/28/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 20.00 |
 | 4/4/2002 | 02CP580 | Basic Fingerprint Class | Passed | 0.0 | 24.00 |

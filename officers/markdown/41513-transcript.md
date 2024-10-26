@@ -651,7 +651,6 @@
 | 9/24/2013 | 13-0255 | SERT Training | Passed | 0.0 | 4.00 |
 | 9/19/2013 | 13-0953 | CPR / First Aid / AED | Passed | 0.0 | 4.50 |
 | 9/19/2013 | 13-1253 | Tactical Emergency Medical Training | Passed | 0.0 | 0.50 |
-| 8/27/2013 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/22/2013 | 13-1203 | EVOC | Passed | 0.0 | 10.00 |
 | 7/31/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 7/31/2013 | 13-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |

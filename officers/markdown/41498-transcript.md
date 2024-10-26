@@ -761,7 +761,6 @@
 | 10/23/2013 | 13-0443 | Leadership | Passed | 0.0 | 8.00 |
 | 10/2/2013 | 13-0953 | CPR / First Aid / AED | Instructed | 0.0 | 4.50 |
 | 9/11/2013 | 13-0953 | CPR / First Aid / AED | Instructed | 0.0 | 4.50 |
-| 8/12/2013 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/8/2013 | 13-0673 | School Violence | Passed | 0.0 | 22.00 |
 | 6/30/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 6/30/2013 | 13-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |

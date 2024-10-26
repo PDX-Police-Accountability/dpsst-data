@@ -3296,12 +3296,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
-- date: 3/12/2011
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 12/14/2010
   course: 10-0964
   title: Bloodborne Pathogens

@@ -2240,12 +2240,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 3/3/2019
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/20/2019
   course: PDP25362
   title: 2019-1 City Attorney's Legal Updates for Jan 2019

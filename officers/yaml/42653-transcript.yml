@@ -2774,12 +2774,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 10/10/2016
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 6/30/2016
   course: F6C32309
   title: Handgun Qualification - Primary Sidearm

@@ -5978,12 +5978,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '345.00'
-- date: 9/12/1988
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year

@@ -659,7 +659,6 @@
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 10.50 |
 | 3/12/2003 | 03T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
-| 12/28/2002 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/12/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 509.50 |
 | 4/8/2002 | 02CP863 | Portland Police Bureau Advanced Academy | Passed | 0.0 | 508.00 |
 | 3/22/2002 | 02CP113 | DPSST Basic Police | Passed | 0.0 | 376.00 |

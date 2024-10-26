@@ -36,6 +36,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/24/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/10/2024 | PDP3674A | 2024 Traffic Motors Monthly Training | Passed | 0.0 | 8.00 |
 | 9/8/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/8/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/4/2024 | PDP3223A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
@@ -785,7 +786,6 @@
 | 12/7/2012 | 12-1126 | Driver Level 2 / Vehicle Inspection Training | Passed | 0.0 | 40.00 |
 | 11/8/2012 | 12-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/14/2012 | 12-1196 | Motor Officer In-Service Training | Passed | 0.0 | 10.00 |
-| 8/16/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/23/2012 | 12-0129 | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/23/2012 | 12-0253 | Crowd / Riot Control | Passed | 0.0 | 4.00 |
 | 5/23/2012 | 12-0272 | Taser Refresher Training | Passed | 0.0 | 4.00 |

@@ -2978,12 +2978,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 1/22/2016
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 12/31/2015
   course: 15-1262
   title: Video Training Courses

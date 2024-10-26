@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2024
+  course: PDP0553A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/1/2024
   course: PDP2586A
   title: 2024-2 Range Qual 40mm Less Lethal

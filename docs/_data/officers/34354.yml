@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/20/2024
+  course: PDP0715A
+  title: 2024 Rapid Response Team (RRT) Cadre Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/19/2024
   course: PDP3529A
   title: 2024 CNT Crisis Negotiation Team RILEA Training
@@ -6524,12 +6530,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 1/20/1994
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year

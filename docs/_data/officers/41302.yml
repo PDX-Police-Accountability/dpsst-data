@@ -3537,12 +3537,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 1/28/2013
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 12/31/2012
   course: 12-0476
   title: Workplace Substance Abuse

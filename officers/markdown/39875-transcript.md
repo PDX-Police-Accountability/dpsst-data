@@ -657,7 +657,6 @@
 | 4/25/2009 | 09-0115 | Ground Fighting | Passed | 0.0 | 0.50 |
 | 4/13/2009 | 09-0952 | CPR / First Aid | Passed | 0.0 | 4.00 |
 | 3/3/2009 | 09-0114 | Defensive Tactics | Passed | 0.0 | 0.50 |
-| 3/3/2009 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/15/2009 | 09-0114 | Defensive Tactics | Passed | 0.0 | 0.50 |
 | 12/31/2008 | 08-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.75 |
 | 12/31/2008 | 08-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 4.75 |

@@ -41,9 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/2/2024 | PDS2199A | Leadership | Passed | 0.0 | 4.00 |
-| 10/2/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |
-| 9/30/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 8/12/2024 | PDS2312A | Kinetic Impact Projectile | Passed | 0.0 | 0.50 |
 | 7/20/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
 | 7/20/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |

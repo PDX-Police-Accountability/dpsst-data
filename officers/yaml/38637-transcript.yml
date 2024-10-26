@@ -4803,12 +4803,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.50'
-- date: 10/12/2005
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 7/1/2005
   course: 05-0590
   title: LEDS Recertification

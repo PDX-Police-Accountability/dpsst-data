@@ -367,7 +367,6 @@
 | 7/18/2019 | PDP14360 | PSD Directive 630.61, Stolen Vehicles | Passed | 0.0 | 0.25 |
 | 7/11/2019 | PDP01726 | CPR/First Aid | Passed | 0.0 | 1.50 |
 | 6/24/2019 | PDP03202 | 2019-7 UPD TipsTech CAD Study Codes-Track Pursuit | Passed | 0.0 | 0.25 |
-| 6/2/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/22/2019 | PDP40036 | 2019 Training Choke and Carotid Awareness Video | Passed | 0.0 | 0.25 |
 | 5/22/2019 | PDP22335 | 2019-1 PSD Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 5/22/2019 | PDP17498 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |

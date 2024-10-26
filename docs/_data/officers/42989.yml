@@ -3375,12 +3375,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
-- date: 9/11/2017
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 8/9/2017
   course: PDP13189
   title: 2017 Crisis Negotiaton Team Training

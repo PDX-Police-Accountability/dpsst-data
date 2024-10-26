@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/25/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
+| 9/20/2024 | PDP0715A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 4.00 |
 | 9/19/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/3/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/22/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
@@ -673,7 +674,6 @@
 | 2/26/2010 | 10-1204 | EVOC / PIT | Passed | 0.0 | 4.25 |
 | 2/26/2010 | 10-1203 | EVOC | Passed | 0.0 | 4.25 |
 | 2/9/2010 | 10-0259 | Tactical Entry | Passed | 0.0 | 9.00 |
-| 2/9/2010 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2009 | 09-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 1.50 |
 | 10/7/2009 | 09-0834 | Investigation Training - Other | Passed | 0.0 | 4.00 |
 | 9/30/2009 | 09-0663 | Gang Training - Other | Passed | 0.0 | 4.00 |

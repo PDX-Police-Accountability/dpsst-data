@@ -616,7 +616,6 @@
 | 2/27/2013 | 13-0953 | CPR / First Aid / AED | Instructed | 0.0 | 4.50 |
 | 1/31/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 1/31/2013 | 13-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 1/28/2013 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2012 | 12-0476 | Workplace Substance Abuse | Passed | 0.0 | 1.00 |
 | 12/31/2012 | 12-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 12/31/2012 | 12-0721 | Electronics - Other | Passed | 0.0 | 2.00 |

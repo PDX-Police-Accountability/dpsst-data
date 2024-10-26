@@ -4286,12 +4286,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
-- date: 4/17/1987
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 7/22/1954
   course: 11-1093
   title: Civil Law

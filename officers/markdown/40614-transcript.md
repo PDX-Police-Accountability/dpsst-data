@@ -576,7 +576,6 @@
 | 5/27/2011 | 11-0175 | Tactical Firearms | Passed | 0.0 | 30.00 |
 | 4/25/2011 | 11-0699 | CAD / MDS / MDT System | Passed | 0.0 | 8.00 |
 | 3/31/2011 | 11-0820 | Criminal Intelligence Training | Passed | 0.0 | 24.00 |
-| 3/12/2011 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/14/2010 | 10-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/14/2010 | 10-1203 | EVOC | Passed | 0.0 | 4.00 |
 | 9/14/2010 | 10-0884 | Anti-Terrorism Training | Passed | 0.0 | 7.50 |

@@ -721,7 +721,6 @@
 | 12/8/2015 | 15-1075 | Intoxilyzer 8000 | Instructed | 0.0 | 6.00 |
 | 12/7/2015 | 15-1083 | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 11/18/2015 | 15-1070 | Driving Under The Influence | Passed | 0.0 | 4.50 |
-| 10/30/2015 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/15/2015 | 15-0953 | CPR / First Aid / AED | Passed | 0.0 | 2.00 |
 | 9/30/2015 | 15-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 9/30/2015 | 15-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |

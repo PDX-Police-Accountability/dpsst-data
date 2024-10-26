@@ -645,7 +645,6 @@
 | 1/12/2016 | 16-0801 | Homicide Investigation | Passed | 0.0 | 2.00 |
 | 1/12/2016 | 16-0915 | Agency Policies / Procedures | Passed | 0.0 | 2.00 |
 | 1/12/2016 | 16-0925 | Use of Force Policy | Passed | 0.0 | 1.00 |
-| 1/19/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/27/2010 | 10-0175 | Tactical Firearms | Passed | 0.0 | 4.00 |
 | 5/27/2010 | 10-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 4.00 |
 | 5/27/2010 | 10-1116 | Legal/Legislative Update | Passed | 0.0 | 2.00 |

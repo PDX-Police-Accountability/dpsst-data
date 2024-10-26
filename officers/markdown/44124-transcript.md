@@ -301,7 +301,6 @@
 | 10/21/2020 | PDP23847 | 2020-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 10/21/2020 | PDP03569 | 2020-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 10/21/2020 | PDP19472 | 2020-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 10/20/2020 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/18/2020 | PDP33124 | 2020-8 TipsTech Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 10/18/2020 | PDP06968 | 2020-9 Tips  Techniques Car Voucher Program | Passed | 0.0 | 0.25 |
 | 10/7/2020 | PDP11258 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |

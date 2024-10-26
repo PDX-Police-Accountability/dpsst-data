@@ -655,7 +655,6 @@
 | 1/31/2007 | 07-0133 | Range | Passed | 0.0 | 1.00 |
 | 12/31/2006 | 06-1348 | PPB - Firearms/Use of Force | Passed | 0.0 | 12.00 |
 | 12/31/2006 | 06-1347 | PPB - Other LE Classes | Passed | 0.0 | 172.60 |
-| 5/7/2006 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 30.10 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 23.50 |
 | 12/5/2005 | 05-0518 | Crisis Intervention | Passed | 0.0 | 40.00 |

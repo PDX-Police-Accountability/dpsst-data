@@ -1011,12 +1011,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 3/7/2022
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/3/2022
   course: PDP34045
   title: 2022 Training 3M N Series Helmet

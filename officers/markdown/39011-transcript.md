@@ -710,7 +710,6 @@
 | 3/31/2007 | 07-0133 | Range | Passed | 0.0 | 1.00 |
 | 12/31/2006 | 06-1348 | PPB - Firearms/Use of Force | Passed | 0.0 | 3.00 |
 | 12/31/2006 | 06-1347 | PPB - Other LE Classes | Passed | 0.0 | 3.00 |
-| 10/21/2006 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/22/2006 | 06-0032 | Intoxilyzer 8000 | Passed | 0.0 | 4.00 |
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 27.30 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 17.00 |

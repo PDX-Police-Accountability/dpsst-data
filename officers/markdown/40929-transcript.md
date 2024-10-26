@@ -37,12 +37,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/6/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
+| 10/1/2024 | PDP0899A | Red Dot Optic Transition Course | Instructed | 0.0 | 17.00 |
 | 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 30.00 |
 | 9/29/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
+| 9/20/2024 | PDP0715A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 4.00 |
 | 9/17/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 9/5/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/5/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/4/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 10.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/24/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/23/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
@@ -826,7 +829,6 @@
 | 5/23/2012 | 12-1116 | Legal/Legislative Update | Passed | 0.0 | 2.00 |
 | 5/23/2012 | 12-0918 | Employee Assistance Program | Passed | 0.0 | 0.50 |
 | 5/23/2012 | 12-1223 | Patrol Tactics | Instructed | 0.0 | 8.00 |
-| 1/21/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2011 | 11-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/31/2011 | 11-0147 | Firearms - Less Lethal | Passed | 0.0 | 10.00 |
 | 12/31/2011 | 11-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.25 |

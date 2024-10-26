@@ -927,7 +927,6 @@
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 2.00 |
 | 8/3/2004 | 04T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
-| 5/1/2004 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/14/2004 | 04-4695 | Portland Police Corps - Advanced Academy | Passed | 0.0 | 544.00 |
 | 2/6/2004 | 04-0143 | SFST Refresher | Passed | 0.0 | 8.00 |
 | 11/1/2003 | 03U001 | Approved In-State Training | Passed | 0.0 | 26.00 |

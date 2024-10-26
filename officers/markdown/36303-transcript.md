@@ -760,7 +760,6 @@
 | 10/5/1999 | 99P612 | CELL EXTRACTION DYNAMICS | Passed | 0.0 | 4.00 |
 | 8/11/1999 | 99P586 | ASP BATON BASIC CERTIFICATION | Passed | 0.0 | 8.00 |
 | 6/29/1999 | 99P415 | DEFENSIVE TACTICS | Passed | 0.0 | 10.00 |
-| 5/23/1999 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/21/1999 | 99B002 | DPSST Basic Corrections | Passed | 0.0 | 200.00 |
 | 3/29/1999 | 99P136 | CRISIS INTERVENTION TRAINING | Passed | 0.0 | 9.00 |
 | 8/28/1998 | 98B009 | DPSST Campus Public Safety | Passed | 0.0 | 200.00 |

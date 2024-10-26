@@ -642,7 +642,6 @@
 | 7/31/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 7/31/2014 | 14-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 0.50 |
 | 7/25/2014 | PPB23471 | PVO - All Terrain Vehicle Online Certificate | Passed | 0.0 | 1.00 |
-| 7/12/2014 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/25/2014 | 14-1192 | All Terrain Vehicle (ATV) Operation | Passed | 0.0 | 20.00 |
 | 5/25/2014 | PPB24795 | RRT Response to Mass Casualty Incidents | Passed | 0.0 | 20.00 |
 | 5/21/2014 | 14-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

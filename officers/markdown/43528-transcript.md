@@ -453,7 +453,6 @@
 | 3/27/2019 | PDP01895 | 2018-2 City Attorney's Legal Updates for Q12 | Passed | 0.0 | 1.00 |
 | 3/25/2019 | PDP21511 | 2018-5 Updated 100% Collection/Submission Model | Passed | 0.0 | 0.25 |
 | 3/25/2019 | PDP37957 | 2019-2 TT Use of Force/De-escalation QA | Passed | 0.0 | 0.25 |
-| 3/4/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/1/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/19/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
 | 2/17/2019 | PDP40288 | 2019-1 Range Qualification Colt AR-15 (20 Yard) | Passed | 0.0 | 0.50 |

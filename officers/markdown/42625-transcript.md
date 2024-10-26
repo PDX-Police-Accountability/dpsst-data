@@ -703,7 +703,6 @@
 | 10/5/2016 | F6C01931 | TECC In-Service 2016 | Passed | 0.0 | 2.00 |
 | 10/5/2016 | F6C29522 | Bloodborne Pathogens 2016 | Passed | 0.0 | 0.50 |
 | 10/4/2016 | F6C19214 | Use of Force Scenarios In-Service 2016 | Instructed | 0.0 | 1.50 |
-| 9/12/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/6/2016 | PPB24765 | Equitation Lesson | Passed | 0.0 | 0.75 |
 | 8/30/2016 | PPB24765 | Equitation Lesson | Passed | 0.0 | 0.75 |
 | 8/6/2016 | F6C06501 | Foundation  Advancing Horse Riding | Passed | 0.0 | 8.00 |

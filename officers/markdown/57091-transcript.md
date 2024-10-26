@@ -36,9 +36,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/21/2056 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 10/21/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 21.50 |
+| 10/2/2024 | PDP1830A | 2024 FTEP New Hire Firearms | Instructed | 0.0 | 45.00 |
 | 9/17/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/11/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/4/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 10.00 |
+| 8/28/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 22.00 |
+| 8/20/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 19.00 |
+| 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 8/13/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/13/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

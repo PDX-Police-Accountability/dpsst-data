@@ -894,7 +894,6 @@
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 4/11/2005 | 05-0306 | OPCA Spring Seminar | Passed | 0.0 | 8.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 40.30 |
-| 1/12/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/30/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
 | 12/3/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
 | 9/7/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 24.00 |

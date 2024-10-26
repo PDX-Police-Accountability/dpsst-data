@@ -3746,12 +3746,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 8/27/2013
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 8/22/2013
   course: 13-1203
   title: EVOC

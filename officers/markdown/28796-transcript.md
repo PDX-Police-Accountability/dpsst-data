@@ -946,4 +946,3 @@
 | 4/19/1994 | 94U001 | Approved In-State Training | Passed | 0.0 | 25.00 |
 | 2/25/1994 | 94G182 | BASIC POLICE CLASS #182 | Passed | 0.0 | 320.00 |
 | 2/10/1994 | 94J016 | IMPLIED CONSENT/INTOXILYZER | Passed | 0.0 | 4.00 |
-| 11/2/1978 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

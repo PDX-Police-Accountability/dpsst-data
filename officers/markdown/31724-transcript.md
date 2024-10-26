@@ -41,9 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/23/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 9/23/2024 | BNS0305A | 40MM | Passed | 0.0 | 1.00 |
-| 9/23/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 9/23/2024 | BNS0390A | Use Of Force update | Passed | 0.0 | 1.00 |
 | 9/23/2024 | BNS2636A | Low Light Firearms | Passed | 0.0 | 2.00 |
 | 6/24/2024 | BNS0790A | EVOC - Patrol Vehicle and Armored Rescue Vehicle | Passed | 0.0 | 2.00 |
@@ -62,7 +60,7 @@
 | 5/3/2024 | BNS0496A | Intro to Evidence | Passed | 0.0 | 1.00 |
 | 5/3/2024 | BNS0340A | Mechanical Breaching | Passed | 0.0 | 2.00 |
 | 4/29/2024 | BNS0715A | Transport and Sure Lock Restraints | Passed | 0.0 | 2.00 |
-| 4/26/2024 | BNS2341A | First Aid CPR AED Narcan Epi Pen | Passed | 0.0 | 4.00 |
+| 4/26/2024 | BNS2341A | First Aid/CPR/AED/Narcan/Epi Pen | Passed | 0.0 | 4.00 |
 | 4/26/2024 | BNS1665A | TCCC | Passed | 0.0 | 4.00 |
 | 4/22/2024 | BNS3682A | WRAP Restraint | Passed | 0.0 | 1.00 |
 | 4/22/2024 | BNS3014A | Threat Assessment | Passed | 0.0 | 1.00 |

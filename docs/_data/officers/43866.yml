@@ -2487,12 +2487,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/5/2020
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 1/22/2020
   course: PDP36066
   title: Wednesday Night K9 Training

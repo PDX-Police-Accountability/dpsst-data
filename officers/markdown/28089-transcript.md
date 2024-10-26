@@ -825,4 +825,3 @@
 | 6/25/1993 | 93G178 | BASIC POLICE CLASS NO. 178 | Passed | 0.0 | 320.00 |
 | 6/10/1993 | 93J011 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
 | 11/12/1991 | 01U001 | Approved In-State Training | Passed | 0.0 | 2.00 |
-| 11/25/1976 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

@@ -43,12 +43,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 6/5/2073
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 10/12/2024
   course: PDP3457A
   title: 2024 40mm Less Lethal New Operator
@@ -67,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/11/2024
+  course: PDP3674A
+  title: 2024 Traffic Motors Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/29/2024
   course: PDP1882A
   title: School Emergency Actions

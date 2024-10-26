@@ -73,6 +73,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/31/2024
+  course: PSU0772A
+  title: Foundations in Ethics for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2024
+  course: PSU4050A
+  title: PREA Training 2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/12/2024
   course: PSU3745A
   title: MILO 3000 Use of Force scenarios

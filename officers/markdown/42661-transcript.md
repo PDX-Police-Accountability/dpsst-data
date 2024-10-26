@@ -551,7 +551,6 @@
 | 11/30/2016 | F6C38439 | Rifle Qualification | Passed | 0.0 | 0.50 |
 | 11/30/2016 | F6C20060 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 11/30/2016 | F6C29620 | Handgun Qualification - Secondary Sidearm | Passed | 0.0 | 0.50 |
-| 10/18/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/13/2016 | F6C17660 | Directive 850.20 Response to Mental Health Crisis | Passed | 0.0 | 1.00 |
 | 10/13/2016 | F6C21816 | Defensive Tactics-Takedowns In-Service 2016 | Passed | 0.0 | 1.00 |
 | 10/13/2016 | F6C02260 | Taser X2 Transition In-Service 2016 | Passed | 0.0 | 3.50 |

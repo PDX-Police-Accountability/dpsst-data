@@ -652,7 +652,6 @@
 | 12/31/2007 | 07-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 0.50 |
 | 8/17/2007 | 07-0683 | Crisis Intervention | Passed | 0.0 | 40.00 |
 | 7/31/2007 | 07-0133 | Range | Passed | 0.0 | 1.00 |
-| 7/16/2007 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/1/2007 | 07-0716 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 2/28/2007 | 07-0133 | Range | Passed | 0.0 | 1.00 |
 | 2/22/2007 | 07-0870 | AWR-160 WMD Awareness Level Training | Passed | 0.0 | 4.00 |

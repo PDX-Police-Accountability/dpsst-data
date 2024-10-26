@@ -50,7 +50,6 @@
 | 9/25/2024 | OAC0238A | Ignite Your Leadership Potential | Passed | 0.0 | 2.00 |
 | 9/19/2024 | FGP4258A | Washington County Bias Crime Symposium/Equity Am | Passed | 0.0 | 7.00 |
 | 9/19/2024 | FGP4257A | Washington Co. Bias Symp./Trauma Informed | Passed | 0.0 | 2.00 |
-| 9/11/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 9/9/2024 | FGP3665A | WC Deflection Program Training | Passed | 0.0 | 1.00 |
 | 6/15/2024 | FGP0050A | 2024 Legal Update | Passed | 0.0 | 1.00 |
 | 6/11/2024 | FGP0297A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |

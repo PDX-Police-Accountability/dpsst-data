@@ -148,12 +148,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 9/22/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '30.00'
-- date: 9/22/2024
   course: GSP3582A
   title: UAS Ground School
   status: Passed

@@ -664,7 +664,6 @@
 | 5/13/2005 | 05-1010 | Narcotic ID Kits/Basic Competency | Passed | 0.0 | 1.50 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 21.00 |
-| 1/17/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/6/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 31.00 |
 | 1/31/2002 | 02CP291 | Operation Pipeline | Passed | 0.0 | 24.00 |
 | 1/17/2002 | 02CP048 | Street Survival Seminar | Passed | 0.0 | 24.00 |

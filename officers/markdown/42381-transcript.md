@@ -597,7 +597,6 @@
 | 2/29/2016 | F6C23868 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 2/29/2016 | F6C35721 | Handgun Qualification Primary Sidearm | Passed | 0.0 | 0.50 |
 | 1/27/2016 | 16-0647 | Community Policing | Instructed | 0.0 | 2.00 |
-| 1/12/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2015 | 15-1262 | Video Training Courses | Passed | 0.0 | 0.50 |
 | 12/31/2015 | MISCMAIN | 2015 Police Maintenance Basic | Completed | 0.0 | 0.00 |
 | 12/10/2015 | 15-0272 | Taser Refresher Training | Passed | 0.0 | 2.00 |

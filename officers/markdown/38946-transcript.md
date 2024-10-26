@@ -773,7 +773,6 @@
 | 12/31/2006 | 06-1348 | PPB - Firearms/Use of Force | Passed | 0.0 | 63.00 |
 | 12/31/2006 | 06-1347 | PPB - Other LE Classes | Passed | 0.0 | 63.60 |
 | 12/15/2006 | 06-0904 | CISM for Dispatchers | Passed | 0.0 | 16.00 |
-| 8/17/2006 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 91.00 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 35.00 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |

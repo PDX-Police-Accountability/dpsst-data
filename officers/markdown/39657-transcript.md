@@ -628,7 +628,6 @@
 | 10/24/2008 | 08-0129 | Firearms Training | Passed | 0.0 | 4.00 |
 | 9/17/2008 | 08-1270 | Field Training Officer Update | Passed | 0.0 | 1.50 |
 | 8/15/2008 | 08-0443 | Leadership | Passed | 0.0 | 40.00 |
-| 7/28/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/28/2008 | 08-1038 | Interview  Interrogation | Passed | 0.0 | 16.00 |
 | 2/12/2008 | 08-0131 | LEO Flying Armed | Passed | 0.0 | 2.00 |
 | 1/22/2008 | 08-0827 | Informants | Passed | 0.0 | 3.00 |

@@ -642,7 +642,6 @@
 | 1/31/2013 | 13-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 1/31/2013 | 13-0167 | Rifle Qualification | Passed | 0.0 | 0.50 |
 | 1/31/2013 | 13-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 1/27/2013 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/9/2013 | 13-1238 | Traffic Law Enforcement for the 21st Century | Passed | 0.0 | 4.00 |
 | 12/31/2012 | 12-0153 | AR-15 Basic Operator / Qualification | Passed | 0.0 | 20.00 |
 | 12/31/2012 | 12-0924 | Sexual Harassment | Passed | 0.0 | 1.00 |

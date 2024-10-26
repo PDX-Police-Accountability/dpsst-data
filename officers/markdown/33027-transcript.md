@@ -628,4 +628,3 @@
 | 12/31/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 2.00 |
 | 12/6/1996 | 96G206 | BASIC POLICE CLASS NO. 206 | Passed | 0.0 | 320.00 |
 | 11/14/1996 | 96X030 | IMPLIED CONSENT/INTOX. 5000 | Passed | 0.0 | 4.00 |
-| 6/3/1990 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

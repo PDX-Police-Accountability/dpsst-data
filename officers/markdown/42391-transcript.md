@@ -525,7 +525,6 @@
 | 1/31/2016 | F6C23868 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 1/31/2016 | F6C35721 | Handgun Qualification Primary Sidearm | Passed | 0.0 | 0.50 |
 | 1/31/2016 | F6C06689 | eCourts  DV Case Summary Roll Call Video | Passed | 0.0 | 0.25 |
-| 1/22/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2015 | 15-1262 | Video Training Courses | Passed | 0.0 | 0.75 |
 | 12/10/2015 | 15-0272 | Taser Refresher Training | Passed | 0.0 | 2.00 |
 | 12/10/2015 | 15-0100 | Active Shooter | Passed | 0.0 | 1.00 |

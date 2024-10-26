@@ -50,12 +50,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 1/23/2039
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 10/9/2024
   course: PDP0485A
   title: 2024 K-9 (K9) Weekly Training

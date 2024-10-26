@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/21/2024
+  course: PDP0156A
+  title: 2024 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '21.50'
 - date: 10/15/2024
   course: PDP4483A
   title: 2024 FTEP Orientation

@@ -38,12 +38,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 10/26/2054
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 10/12/2024
   course: PDP3457A
   title: 2024 40mm Less Lethal New Operator
@@ -56,12 +50,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 9/22/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '30.00'
 - date: 9/22/2024
   course: GSP3582A
   title: UAS Ground School

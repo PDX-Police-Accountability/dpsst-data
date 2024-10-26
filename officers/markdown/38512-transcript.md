@@ -40,7 +40,6 @@
 | 9/24/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/23/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/23/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
-| 9/22/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 10.00 |
 | 9/22/2024 | GSP3582A | UAS Ground School | Instructed | 0.0 | 10.00 |
 | 9/18/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/18/2024 | PDP3482A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
@@ -1074,7 +1073,6 @@
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 119.00 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 30.00 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
-| 6/9/2005 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/2/2005 | 05-0168 | Instructor Development Course | Passed | 0.0 | 40.00 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 12.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 9.00 |

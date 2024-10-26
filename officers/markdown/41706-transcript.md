@@ -647,7 +647,6 @@
 | 3/31/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 3/31/2014 | 14-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 3/12/2014 | 14-0985 | Hostage / Tactical Negotiation Team (HNT/TNT) Trng | Passed | 0.0 | 6.00 |
-| 3/8/2014 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/20/2014 | 14-0431 | Incident Management | Passed | 0.0 | 1.00 |
 | 2/20/2014 | 14-0448 | Performance Measurement | Passed | 0.0 | 0.50 |
 | 2/20/2014 | 14-0486 | Preventing Sexual Harassment | Passed | 0.0 | 1.50 |

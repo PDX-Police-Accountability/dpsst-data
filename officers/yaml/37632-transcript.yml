@@ -4378,12 +4378,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '17.50'
-- date: 1/11/2003
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 7/11/2002
   course: 02U001
   title: Approved In-State Training

@@ -40,6 +40,7 @@
 | 9/24/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/18/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 8/14/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/14/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
@@ -801,7 +802,6 @@
 | 5/23/2012 | 12-0918 | Employee Assistance Program | Passed | 0.0 | 0.50 |
 | 5/23/2012 | 12-1223 | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 2/21/2012 | 12-1195 | Bicycle Patrol | Passed | 0.0 | 6.00 |
-| 1/22/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2011 | 11-0114 | Defensive Tactics | Instructed | 0.0 | 42.50 |
 | 12/31/2011 | 11-0147 | Firearms - Less Lethal | Passed | 0.0 | 10.00 |
 | 12/31/2011 | 11-0114 | Defensive Tactics | Instructed | 0.0 | 27.50 |

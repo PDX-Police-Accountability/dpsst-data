@@ -626,7 +626,6 @@
 | 1/25/2002 | 02CP147 | Crime Analysis Applications Training | Passed | 0.0 | 36.00 |
 | 2/28/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 35.50 |
 | 12/31/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 40.00 |
-| 10/18/2000 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/13/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 24.00 |
 | 6/23/2000 | 00T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 12/2/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 10.00 |

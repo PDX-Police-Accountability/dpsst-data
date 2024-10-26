@@ -3566,12 +3566,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
-- date: 1/31/2002
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 11/23/2001
   course: 01T001
   title: Police Field Training Manual

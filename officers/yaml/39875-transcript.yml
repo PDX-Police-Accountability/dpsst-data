@@ -3770,12 +3770,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 3/3/2009
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/15/2009
   course: '09-0114'
   title: Defensive Tactics

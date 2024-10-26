@@ -1160,12 +1160,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 8/29/2021
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 8/28/2021
   course: PDP12662
   title: 2021-9 Tips  Tech Dangers of High/Extreme Heat

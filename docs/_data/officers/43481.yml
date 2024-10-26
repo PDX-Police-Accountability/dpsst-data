@@ -2709,12 +2709,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 1/16/2019
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 1/5/2019
   course: PDP42201
   title: 2019 Training Range Qualification System Update

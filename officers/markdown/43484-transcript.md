@@ -429,7 +429,6 @@
 | 1/28/2019 | MISCMAIN | 2019 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/22/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/22/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
-| 1/19/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/3/2019 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |
 | 12/4/2018 | PDP02905 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |

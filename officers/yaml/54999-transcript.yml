@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 10/17/2024
+  course: HRS0854A
+  title: Barricaded Subject Operations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/3/2024
   course: HRS0394A
   title: CPR and First Aid

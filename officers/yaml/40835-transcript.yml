@@ -3223,12 +3223,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 10/19/2011
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 5/18/2011
   course: 11-0121
   title: Patrol Tactics - DT Focus

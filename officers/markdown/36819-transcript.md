@@ -665,7 +665,6 @@
 | 3/12/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 32.00 |
 | 2/5/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 40.00 |
 | 12/31/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
-| 10/20/2000 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/24/2000 | 00P319 | A NEW BREED OF DOMESTIC TERRORISM | Passed | 0.0 | 6.00 |
 | 2/7/2000 | 00T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 12/3/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 26.00 |

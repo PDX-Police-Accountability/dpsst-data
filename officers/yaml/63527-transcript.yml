@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 12/4/2073
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 9/9/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

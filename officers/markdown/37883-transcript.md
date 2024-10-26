@@ -808,7 +808,6 @@
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 10.00 |
-| 9/19/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/26/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 10.50 |
 | 11/8/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
 | 10/24/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 6.50 |

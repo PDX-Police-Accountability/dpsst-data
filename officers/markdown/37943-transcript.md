@@ -1396,7 +1396,6 @@
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 35.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 93.00 |
 | 7/15/2004 | 04-4078 | ONEA 2004 Summer Conference | Passed | 0.0 | 20.00 |
-| 11/18/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/12/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 15.50 |
 | 7/30/2002 | 02CP879 | Oregon Police Corps 2002 | Passed | 0.0 | 16.00 |
 | 5/24/2002 | 02CP436 | Crisis Intervention | Passed | 0.0 | 40.00 |

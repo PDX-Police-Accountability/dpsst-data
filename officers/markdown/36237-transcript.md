@@ -865,7 +865,6 @@
 | 5/1/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
 | 12/31/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 12.00 |
 | 6/25/1999 | 99T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
-| 3/18/1999 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/3/1999 | 99P158 | ADVANCED ACAMENY 98-4 | Passed | 0.0 | 422.00 |
 | 11/18/1998 | 98U001 | Approved In-State Training | Passed | 0.0 | 15.00 |
 | 11/13/1998 | 98B014 | DPSST Basic Police | Passed | 0.0 | 376.00 |

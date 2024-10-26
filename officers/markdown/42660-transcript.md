@@ -571,7 +571,6 @@
 | 10/31/2016 | F6C34510 | Equity Training | Passed | 0.0 | 4.00 |
 | 10/31/2016 | F6C39000 | Bloodborne Pathogens 2016 | Passed | 0.0 | 0.50 |
 | 10/31/2016 | F6C03618 | TECC In-Service 2016 | Passed | 0.0 | 2.00 |
-| 10/17/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 8/31/2016 | F6C20300 | RAPID | Passed | 0.0 | 0.25 |
 | 5/31/2016 | F6C18648 | Handgun Qualification - Primary Sidearm | Passed | 0.0 | 0.50 |
 | 5/31/2016 | F6C38440 | Less Lethal Qualification | Passed | 0.0 | 0.50 |

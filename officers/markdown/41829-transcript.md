@@ -593,7 +593,6 @@
 | 10/21/2014 | 14-0153 | AR-15 Basic Operator / Qualification | Passed | 0.0 | 20.00 |
 | 9/30/2014 | 14-0711 | Computer Training - Other | Passed | 0.0 | 18.00 |
 | 7/31/2014 | 14-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 0.50 |
-| 7/9/2014 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/30/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 6/30/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 6/30/2014 | 14-0167 | Rifle Qualification | Passed | 0.0 | 0.50 |

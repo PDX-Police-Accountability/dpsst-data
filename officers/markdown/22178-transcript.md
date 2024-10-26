@@ -805,4 +805,3 @@
 | 10/3/1990 | 909114 | FIRST RESPONDER AWARENESS | Passed | 0.0 | 4.00 |
 | 8/31/1990 | 905002 | INTOXILYZER | Passed | 0.0 | 4.00 |
 | 6/20/1989 | 899057 | LEDS MANUAL - INTRODUCTORY | Passed | 0.0 | 10.00 |
-| 9/19/1960 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

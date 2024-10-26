@@ -31,12 +31,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 5/26/2062
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 9/27/2024
   course: PDP1882A
   title: School Emergency Actions
@@ -49,6 +43,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/16/2024
+  course: PDP0553A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/15/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

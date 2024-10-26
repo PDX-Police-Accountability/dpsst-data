@@ -94,20 +94,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 9/23/2024
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 9/23/2024
   course: BNS0305A
   title: 40MM
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 9/23/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -221,7 +209,7 @@ training_records:
   hours: '2.00'
 - date: 4/26/2024
   course: BNS2341A
-  title: First Aid CPR AED Narcan Epi Pen
+  title: First Aid/CPR/AED/Narcan/Epi Pen
   status: Passed
   score: '0.0'
   hours: '4.00'

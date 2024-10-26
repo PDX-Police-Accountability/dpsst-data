@@ -669,4 +669,3 @@
 | 6/21/1993 | 93K046 | LEDS INTRODUCTORY LEVEL | Passed | 0.0 | 10.00 |
 | 10/3/1992 | 92U001 | Approved In-State Training | Passed | 0.0 | 5.00 |
 | 2/28/1990 | 90P099 | Approved In-State Training | Passed | 0.0 | 4.00 |
-| 6/21/1975 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

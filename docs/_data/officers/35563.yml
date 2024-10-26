@@ -4182,12 +4182,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
-- date: 5/13/1997
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 4/11/1997
   course: 97U002
   title: Approved Out-of-State Training

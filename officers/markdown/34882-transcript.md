@@ -729,4 +729,3 @@
 | 5/19/1998 | 98P117 | TRAFFIC OCCUPANT PROTECTION STRATEGIES | Passed | 0.0 | 8.00 |
 | 4/6/1998 | 97P211 | LEDS INQUIRY  ENTRY UPDATE LEVEL TRAINI | Passed | 0.0 | 30.00 |
 | 3/8/1998 | 98P041 | SFST/DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
-| 7/2/1995 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

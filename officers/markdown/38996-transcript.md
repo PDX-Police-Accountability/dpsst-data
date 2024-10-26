@@ -783,7 +783,6 @@
 | 1/29/2007 | 07-1228 | Vehicle Stops | Passed | 0.0 | 3.00 |
 | 12/31/2006 | 06-1348 | PPB - Firearms/Use of Force | Passed | 0.0 | 29.00 |
 | 12/31/2006 | 06-1347 | PPB - Other LE Classes | Passed | 0.0 | 30.70 |
-| 10/6/2006 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 15.50 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 23.50 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |

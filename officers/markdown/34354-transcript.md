@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/24/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/20/2024 | PDP0715A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 4.00 |
 | 9/19/2024 | PDP3529A | 2024 CNT Crisis Negotiation Team RILEA Training | Passed | 0.0 | 23.50 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 8/13/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -1114,4 +1115,3 @@
 | 10/31/1997 | 97G212 | BASIC POLICE CLASS NO. 212 | Passed | 0.0 | 320.00 |
 | 10/28/1997 | 97P197 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
 | 10/9/1997 | 97P081 | IMPLIED CONSENT/INTOX 5000 | Passed | 0.0 | 4.00 |
-| 1/20/1994 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

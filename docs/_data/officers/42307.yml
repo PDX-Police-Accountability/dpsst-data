@@ -4160,12 +4160,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
-- date: 10/30/2015
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 10/15/2015
   course: 15-0953
   title: CPR / First Aid / AED

@@ -656,7 +656,6 @@
 | 8/17/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 64.00 |
 | 3/14/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 16.00 |
 | 5/1/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
-| 4/7/2000 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 1/27/2000 | 99T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 12/31/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 20.00 |
 | 11/30/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 28.00 |

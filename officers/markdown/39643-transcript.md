@@ -751,7 +751,6 @@
 | 8/28/2008 | 08-0914 | Personal / Professional Development - Other | Passed | 0.0 | 1.00 |
 | 8/28/2008 | 08-0914 | Personal / Professional Development - Other | Passed | 0.0 | 1.00 |
 | 8/12/2008 | 08-0834 | Investigation Training - Other | Passed | 0.0 | 16.00 |
-| 7/14/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/27/2008 | 08-0153 | AR-15 Basic Operator / Qualification | Passed | 0.0 | 10.00 |
 | 2/28/2008 | 08-1038 | Interview  Interrogation | Passed | 0.0 | 16.00 |
 | 2/7/2008 | 08-0131 | LEO Flying Armed | Passed | 0.0 | 2.00 |

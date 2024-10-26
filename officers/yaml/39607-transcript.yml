@@ -3638,12 +3638,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
-- date: 6/8/2008
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 5/23/2008
   course: '08-0259'
   title: Tactical Entry

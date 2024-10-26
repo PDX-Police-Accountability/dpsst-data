@@ -74,12 +74,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
-- date: 9/30/2024
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 9/25/2024
   course: OCP1842A
   title: Mental Health Diagnosis 101

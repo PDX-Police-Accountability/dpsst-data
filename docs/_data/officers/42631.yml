@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/16/2024
+  course: PDP0553A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/17/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023
@@ -2738,12 +2744,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 9/18/2016
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 6/30/2016
   course: F6C32309
   title: Handgun Qualification - Primary Sidearm

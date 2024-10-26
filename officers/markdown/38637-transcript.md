@@ -827,7 +827,6 @@
 | 12/31/2006 | 06-1347 | PPB - Other LE Classes | Passed | 0.0 | 27.10 |
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 28.80 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 32.50 |
-| 10/12/2005 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 3/18/2005 | 05-0203 | Clan Lab Safety Course | Passed | 0.0 | 40.00 |
 | 3/10/2005 | 05-0140 | Indoor Cannabis Cultivation | Passed | 0.0 | 16.00 |

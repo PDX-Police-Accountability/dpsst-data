@@ -732,7 +732,6 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 34.00 |
 | 12/12/2003 | 03-0358 | PPB Instructor Development Course | Passed | 0.0 | 30.00 |
 | 4/22/2003 | 01CP372 | Urban Rifle | Passed | 0.0 | 16.00 |
-| 12/17/2002 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/26/2002 | 02CP274 | DPSST EVOC Instructor Course | Passed | 0.0 | 216.00 |
 | 1/9/2002 | 02CP083 | Tactical Risk Management Conference | Passed | 0.0 | 8.00 |
 | 12/3/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 41.00 |

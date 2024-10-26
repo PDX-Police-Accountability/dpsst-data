@@ -866,4 +866,3 @@
 | 3/13/1995 | 95G190 | BASIC POLICE CLASS #190 | Passed | 0.0 | 320.00 |
 | 2/16/1995 | 95J024 | IMPLIED CONSENT LAWS/INTOXILYZER | Passed | 0.0 | 4.00 |
 | 11/4/1994 | 94J161 | INTER-AGENCY FIREARMS SKILLS TRNG/UNIFOR | Passed | 0.0 | 8.00 |
-| 8/16/1981 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

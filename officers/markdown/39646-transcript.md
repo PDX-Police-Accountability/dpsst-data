@@ -604,7 +604,6 @@
 | 12/31/2008 | 08-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 4.75 |
 | 8/31/2008 | 08-0153 | AR-15 Basic Operator / Qualification | Passed | 0.0 | 10.00 |
 | 7/31/2008 | 08-0709 | Mobile Data Terminal (MDT) | Passed | 0.0 | 1.50 |
-| 7/17/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 7/2/2008 | 08-0563 | Academy - Other | Passed | 0.0 | 8.00 |
 | 5/30/2008 | 08-1272 | FTO School | Passed | 0.0 | 40.00 |
 | 5/29/2008 | 08-0100 | Active Shooter | Passed | 0.0 | 2.00 |

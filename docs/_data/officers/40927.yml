@@ -3698,12 +3698,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 1/19/2012
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 5/27/2010
   course: 10-0175
   title: Tactical Firearms

@@ -308,7 +308,6 @@
 | 12/7/2020 | PDP10147 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
 | 11/29/2020 | PDP41704 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 11/29/2020 | PDP21399 | 2020 Presumpt Declination DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
-| 11/25/2020 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 11/5/2020 | PDP11585 | 2020 City Attorney's Off IPO/McNally Refresh Train | Passed | 0.0 | 0.50 |
 | 11/5/2020 | PDP34280 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |
 | 10/30/2020 | PDP36872 | 2020 City Attorney's Off Don't Shoot PDX/Hernandez | Passed | 0.0 | 0.25 |

@@ -3098,12 +3098,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 11/1/2015
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 9/30/2015
   course: 15-0141
   title: Handgun Qualification

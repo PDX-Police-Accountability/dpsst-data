@@ -31,7 +31,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/17/2066 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/14/2024 | BNS3545A | Strangulation | Passed | 0.0 | 0.50 |
 | 10/14/2024 | BNS1058A | Emergeny Protection Orders | Passed | 0.0 | 1.00 |
 | 10/14/2024 | BNS3785A | UOF Reporting | Passed | 0.0 | 1.50 |

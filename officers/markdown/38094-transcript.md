@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/29/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/29/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/10/2024 | PDP3674A | 2024 Traffic Motors Monthly Training | Passed | 0.0 | 8.00 |
 | 9/8/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/30/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
@@ -897,7 +898,6 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 16.50 |
 | 9/14/2004 | 04T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
 | 6/8/2004 | 04U001 | Approved In-State Training | Passed | 0.0 | 544.00 |
-| 4/17/2004 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/14/2004 | 04-4695 | Portland Police Corps - Advanced Academy | Passed | 0.0 | 544.00 |
 | 2/6/2004 | 04-0143 | SFST Refresher | Passed | 0.0 | 8.00 |
 | 12/18/2003 | 03U001 | Approved In-State Training | Passed | 0.0 | 12.00 |

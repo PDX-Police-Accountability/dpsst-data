@@ -4292,12 +4292,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '204.00'
-- date: 12/28/1998
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 10/2/1998
   course: 98P533
   title: Police Corps Academy Class 4-Phase 2

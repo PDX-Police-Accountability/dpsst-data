@@ -769,4 +769,3 @@
 | 9/4/1998 | 98B011 | DPSST Basic Police | Passed | 0.0 | 336.00 |
 | 8/10/1998 | 98P082 | IMPLIED CONSENT/INTOXILYZER 5000 | Passed | 0.0 | 4.00 |
 | 8/6/1998 | 98B012 | BP-SFST  DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
-| 7/12/1997 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

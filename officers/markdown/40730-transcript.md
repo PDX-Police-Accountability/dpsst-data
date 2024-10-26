@@ -657,7 +657,6 @@
 | 9/29/2011 | 11-0665 | Gang Resistance Education And Training (GREAT) | Passed | 0.0 | 10.00 |
 | 8/19/2011 | 11-0675 | Traffic Safety For SRO's | Passed | 0.0 | 8.00 |
 | 8/3/2011 | 11-0672 | School Resource Officer (SRO) Training | Passed | 0.0 | 20.00 |
-| 7/6/2011 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/18/2011 | 11-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 1.00 |
 | 5/18/2011 | 11-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 4.00 |
 | 5/18/2011 | 11-0129 | Firearms Training | Passed | 0.0 | 4.00 |

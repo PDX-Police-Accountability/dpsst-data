@@ -751,7 +751,6 @@
 | 6/4/2009 | 09-1211 | Officer Involved Shootings | Passed | 0.0 | 1.50 |
 | 6/4/2009 | 09-1210 | Emotional Survival | Passed | 0.0 | 1.00 |
 | 4/28/2009 | 09-0827 | Informants | Passed | 0.0 | 3.00 |
-| 3/7/2009 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2008 | 08-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 2.25 |
 | 12/31/2008 | 08-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.50 |
 | 12/31/2008 | MISCMAIN | 2008 Police Maintenance Basic | Completed | 0.0 | 0.00 |

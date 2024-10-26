@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2024 | PDP3674A | 2024 Traffic Motors Monthly Training | Passed | 0.0 | 8.00 |
 | 9/5/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/21/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
@@ -540,7 +541,6 @@
 | 9/13/2016 | F6C19180 | Motor Officer Monthly Training - Bi-Annual Quals | Passed | 0.0 | 8.00 |
 | 8/17/2016 | F6C36669 | Motor Officer Monthly Training | Passed | 0.0 | 4.00 |
 | 7/20/2016 | F6C02055 | Motor Officer Monthly Training | Passed | 0.0 | 4.00 |
-| 7/3/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/22/2016 | PPB24773 | Motor Officer Monthly Training - June | Passed | 0.0 | 4.00 |
 | 5/31/2016 | F6C18648 | Handgun Qualification - Primary Sidearm | Passed | 0.0 | 0.50 |
 | 5/31/2016 | F6C12374 | Shotgun Qualification | Passed | 0.0 | 0.50 |

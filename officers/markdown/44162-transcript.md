@@ -318,7 +318,6 @@
 | 1/13/2021 | PDP07959 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 12/22/2020 | PDP37950 | 2020-7 City Attorney's Office Legal Updates 7/2020 | Passed | 0.0 | 0.72 |
 | 12/2/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
-| 11/27/2020 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 11/7/2020 | PDP36872 | 2020 City Attorney's Off Don't Shoot PDX/Hernandez | Passed | 0.0 | 0.25 |
 | 11/7/2020 | PDP19293 | 2020 City Attorney's Off Index Newspapers/SimonTRO | Passed | 0.0 | 0.25 |
 | 11/7/2020 | PDP11585 | 2020 City Attorney's Off IPO/McNally Refresh Train | Passed | 0.0 | 0.50 |

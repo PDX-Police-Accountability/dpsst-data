@@ -722,7 +722,6 @@
 | 6/26/1998 | 98B010 | DPSST Basic Police COD | Passed | 0.0 | 80.00 |
 | 3/20/1998 | 98U002 | Approved Out-of-State Training | Passed | 0.0 | 8.00 |
 | 2/26/1998 | 98U002 | Approved Out-of-State Training | Passed | 0.0 | 8.00 |
-| 5/13/1997 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/11/1997 | 97U002 | Approved Out-of-State Training | Passed | 0.0 | 3.00 |
 | 11/26/1996 | 96U002 | Approved Out-of-State Training | Passed | 0.0 | 2.00 |
 | 9/20/1996 | 96U002 | Approved Out-of-State Training | Passed | 0.0 | 1395.00 |

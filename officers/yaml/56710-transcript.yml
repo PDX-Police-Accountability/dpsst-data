@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2024
+  course: SDP2977A
+  title: Defensive Tactics - C4C
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/2/2024
   course: GSP0866A
   title: OPCA Fall Seminar - Patrol

@@ -34,6 +34,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/24/2024
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 6/25/2012
   certificate: Police Officer
   level: Advanced
@@ -3608,12 +3615,6 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
-- date: 10/6/2016
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 10/4/2016
   course: F6C04018
   title: Directive 850.20 Response to Mental Health Crisis

@@ -1377,7 +1377,6 @@
 | 8/13/2008 | 08-0138 | SERT Firearms Training | Passed | 0.0 | 10.00 |
 | 7/31/2008 | 08-0255 | SERT Training | Passed | 0.0 | 30.00 |
 | 7/30/2008 | 08-0138 | SERT Firearms Training | Passed | 0.0 | 30.00 |
-| 7/26/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/19/2008 | 08-0255 | SERT Training | Passed | 0.0 | 10.00 |
 | 6/18/2008 | 08-0138 | SERT Firearms Training | Passed | 0.0 | 10.00 |
 | 6/13/2008 | 08-0683 | Crisis Intervention | Passed | 0.0 | 40.00 |

@@ -667,7 +667,6 @@
 | 10/10/2008 | 08-0637 | Writing Search Warrarts | Passed | 0.0 | 30.00 |
 | 9/30/2008 | 08-0709 | Mobile Data Terminal (MDT) | Passed | 0.0 | 1.50 |
 | 9/10/2008 | 08-0804 | Narcotics Investigations | Passed | 0.0 | 8.00 |
-| 7/24/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/30/2008 | 08-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 4/30/2008 | 08-1116 | Legal/Legislative Update | Passed | 0.0 | 1.00 |
 | 4/30/2008 | 08-1116 | Legal/Legislative Update | Passed | 0.0 | 2.00 |

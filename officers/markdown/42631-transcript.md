@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/9/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/9/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 7/17/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 7/17/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 7/17/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -484,7 +485,6 @@
 | 10/24/2016 | F6C03028 | Equity Training | Passed | 0.0 | 4.00 |
 | 10/24/2016 | F6C17698 | TECC In-Service 2016 | Passed | 0.0 | 2.00 |
 | 10/24/2016 | F6C17600 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
-| 9/18/2016 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/30/2016 | F6C32309 | Handgun Qualification - Primary Sidearm | Passed | 0.0 | 0.50 |
 | 6/30/2016 | F6C39733 | Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 6/30/2016 | F6C20466 | Shotgun Qualification | Passed | 0.0 | 0.50 |

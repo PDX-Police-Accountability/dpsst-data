@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 8/13/2074
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 9/19/2024
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

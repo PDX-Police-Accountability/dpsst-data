@@ -2000,12 +2000,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 2/12/2020
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/4/2020
   course: PDP18400
   title: Undefined

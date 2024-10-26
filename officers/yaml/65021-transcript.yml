@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: 8/15/2025
 training_records:
-- date: 1/6/2078
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 8/15/2025
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
@@ -54,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/20/2024
+  course: PDP0156A
+  title: 2024 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '19.00'
 - date: 8/13/2024
   course: PDP2674A
   title: 2024 FTEP Post Basic CEW Taser

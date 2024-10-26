@@ -30,5 +30,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/7/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 10/2/2024 | PDP1830A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 20.00 |
 | 9/30/2024 | PDP4151A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 8/8/2024 | PDP2076A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

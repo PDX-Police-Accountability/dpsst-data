@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: 10/11/2025
 training_records:
-- date: 5/4/2078
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 10/11/2025
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
@@ -330,6 +324,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/28/2024
+  course: PDP0156A
+  title: 2024 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
 - date: 8/23/2024
   course: M10-23A
   title: DPSST Basic Police Course

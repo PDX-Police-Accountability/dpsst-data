@@ -38,12 +38,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 6/19/2030
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 10/14/2024
   course: PDP0005A
   title: 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit
@@ -104,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/16/2024
+  course: PDP0553A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/12/2024
   course: PDP2620A
   title: 2024 Rapid Response Team (RRT) Monthly Training

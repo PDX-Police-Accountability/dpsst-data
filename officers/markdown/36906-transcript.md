@@ -659,7 +659,6 @@
 | 4/26/2002 | 02CP698 | Field Training Evaluation Program | Passed | 0.0 | 40.00 |
 | 11/15/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 2.00 |
 | 2/2/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 16.00 |
-| 1/15/2001 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 24.00 |
 | 8/5/2000 | 00U001 | Approved In-State Training | Passed | 0.0 | 17.00 |
 | 3/13/2000 | 00T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |

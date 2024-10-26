@@ -31,18 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 1/24/2060
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 9/23/2024
   course: PDP1882A
   title: School Emergency Actions
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/20/2024
+  course: PDP2321A
+  title: 2024 Rapid Response Team (RRT) Cadre Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/20/2024
+  course: PDP0715A
+  title: 2024 Rapid Response Team (RRT) Cadre Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/12/2024
   course: OCS4439A
   title: Third Degree
@@ -55,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/16/2024
+  course: PDP0553A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/9/2024
+  course: PDP0264A
+  title: 2024 Rapid Response Team (RRT) Cadre Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/30/2024
   course: PDP0761A
   title: 2020 Trng Managing Critical Incidents Well Sgts

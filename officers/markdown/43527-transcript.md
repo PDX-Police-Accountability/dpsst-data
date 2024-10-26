@@ -402,7 +402,6 @@
 | 3/24/2019 | PDP20004 | 2019 Personnel Hearing Conservation Training OSHA | Passed | 0.0 | 0.25 |
 | 3/3/2019 | PDP17574 | 2019 Det Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
 | 3/3/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
-| 3/3/2019 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/20/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
 | 2/3/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 2/3/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |

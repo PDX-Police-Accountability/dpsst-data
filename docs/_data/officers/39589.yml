@@ -4208,12 +4208,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.30'
-- date: 5/21/2008
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/12/2008
   course: '08-0276'
   title: Use of Force - Other

@@ -840,4 +840,3 @@
 | 8/29/1997 | 97G211 | BASIC POLICE CLASS NO. 211 | Passed | 0.0 | 320.00 |
 | 8/27/1997 | 97P197 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
 | 8/14/1997 | 97P081 | IMPLIED CONSENT/INTOX 5000 | Passed | 0.0 | 4.00 |
-| 11/22/1992 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

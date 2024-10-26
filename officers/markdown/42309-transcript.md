@@ -543,7 +543,6 @@
 | 12/10/2015 | 15-1223 | Patrol Tactics | Passed | 0.0 | 4.50 |
 | 12/10/2015 | 15-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 2.00 |
 | 12/4/2015 | 15-0490 | Report Writing for Supervisors | Passed | 0.0 | 4.00 |
-| 11/1/2015 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 9/30/2015 | 15-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 9/30/2015 | 15-0167 | Rifle Qualification | Passed | 0.0 | 0.50 |
 | 9/30/2015 | 15-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |

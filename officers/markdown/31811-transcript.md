@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/10/2024 | PDP3674A | 2024 Traffic Motors Monthly Training | Passed | 0.0 | 8.00 |
 | 9/9/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/9/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 7/31/2024 | PDP1493A | 2024 UAS Training for Traffic Division | Passed | 0.0 | 3.00 |
@@ -953,4 +954,3 @@
 | 7/29/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 26.00 |
 | 6/28/1996 | 96G202 | BASIC POLICE COURSE NO. 202 | Passed | 0.0 | 320.00 |
 | 6/6/1996 | 96X030 | IMPLIED CONSENT/INTOX. 5000 | Passed | 0.0 | 4.00 |
-| 2/3/1987 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

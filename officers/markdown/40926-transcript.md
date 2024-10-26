@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2024 | PDP0899A | Red Dot Optic Transition Course | Passed | 0.0 | 17.00 |
 | 9/25/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/25/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/17/2024 | PDP4396A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
@@ -600,7 +601,6 @@
 | 5/23/2012 | 12-1116 | Legal/Legislative Update | Passed | 0.0 | 2.00 |
 | 5/23/2012 | 12-0918 | Employee Assistance Program | Passed | 0.0 | 0.50 |
 | 5/23/2012 | 12-1223 | Patrol Tactics | Passed | 0.0 | 4.00 |
-| 1/18/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2011 | 11-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/31/2011 | 11-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 2.00 |
 | 11/23/2011 | 11-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

@@ -31,12 +31,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 10/6/2065
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 9/3/2024
   course: PDP1882A
   title: School Emergency Actions

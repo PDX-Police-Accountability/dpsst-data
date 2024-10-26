@@ -1254,4 +1254,3 @@
 | 8/20/1997 | 97P081 | IMPLIED CONSENT/INTOX 5000 | Passed | 0.0 | 4.00 |
 | 8/20/1997 | 97P220 | SFST/DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
 | 7/28/1997 | 97P197 | MEDIC FIRST AID | Passed | 0.0 | 8.00 |
-| 9/7/1994 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |

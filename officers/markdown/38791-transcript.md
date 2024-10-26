@@ -715,7 +715,6 @@
 | 9/1/2006 | 06-0047 | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 4/7/2006 | 06-0220 | IFAST | Passed | 0.0 | 8.00 |
 | 4/3/2006 | 06-0103 | NIMS IS-700 | Passed | 0.0 | 3.00 |
-| 3/15/2006 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/9/2005 | 05-0131 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 12/9/2005 | 05-0823 | Use of Force | Passed | 0.0 | 1.00 |
 | 12/9/2005 | 05-2706 | Police Officer Holds in Corrections | Passed | 0.0 | 1.00 |

@@ -42,6 +42,8 @@
 | 4/2/2024 | PSU0415A | Use of Less Lethal Force/Less Lethal Options | Passed | 0.0 | 0.00 |
 | 4/2/2024 | PSU1333A | Ambush Awareness/Preparation | Passed | 0.0 | 0.00 |
 | 4/2/2024 | PSU2067A | Firearms Tactics | Passed | 0.0 | 0.00 |
+| 3/31/2024 | PSU0772A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
+| 3/31/2024 | PSU4050A | PREA Training 2024 | Passed | 0.0 | 1.00 |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 1.25 |
 | 12/31/2023 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 12/28/2023 | PSU0356A | Firearms Q4 | Passed | 0.0 | 2.00 |

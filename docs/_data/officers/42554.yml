@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/11/2024
+  course: PDP3674A
+  title: 2024 Traffic Motors Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/5/2024
   course: PDP1882A
   title: School Emergency Actions
@@ -3080,12 +3086,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 7/3/2016
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 6/22/2016
   course: PPB24773
   title: Motor Officer Monthly Training - June

@@ -3314,12 +3314,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 6/28/2016
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/31/2016
   course: F6C36540
   title: Less Leathal Qualification

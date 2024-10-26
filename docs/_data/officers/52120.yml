@@ -63,12 +63,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 9/11/2042
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 9/6/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

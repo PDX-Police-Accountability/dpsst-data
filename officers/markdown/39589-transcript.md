@@ -729,7 +729,6 @@
 | 5/28/2008 | 08-0915 | Agency Policies / Procedures | Passed | 0.0 | 1.00 |
 | 5/28/2008 | 08-0647 | Community Policing | Passed | 0.0 | 2.00 |
 | 5/27/2008 | 08-0129 | Firearms Training | Passed | 0.0 | 4.30 |
-| 5/21/2008 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/12/2008 | 08-0276 | Use of Force - Other | Passed | 0.0 | 2.50 |
 | 2/12/2008 | 08-0925 | Use of Force Policy | Passed | 0.0 | 1.00 |
 | 2/12/2008 | 08-1204 | EVOC / PIT | Passed | 0.0 | 5.50 |

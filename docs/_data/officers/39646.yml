@@ -3464,12 +3464,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
-- date: 7/17/2008
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 7/2/2008
   course: '08-0563'
   title: Academy - Other

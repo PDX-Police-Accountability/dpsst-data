@@ -795,7 +795,6 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 27.30 |
 | 10/22/2003 | 03-0943 | ODOT Driver's Hours Cargo Recert | Passed | 0.0 | 8.00 |
 | 8/7/2003 | 03-0358 | PPB Instructor Development Course | Passed | 0.0 | 30.00 |
-| 2/15/2003 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/4/2002 | 03-0251 | SFST Refresher Course | Passed | 0.0 | 8.00 |
 | 11/18/2002 | 02CP222 | Level 2 Driver/Vehicle Roadside Inspection | Passed | 0.0 | 40.00 |
 | 8/13/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 20.00 |

@@ -485,4 +485,3 @@
 | 11/16/2004 | 04-0216 | Radar Operators Course | Passed | 0.0 | 8.00 |
 | 1/1/2004 | F6C03109 | Basic Police Mtn. Bike | Passed | 0.0 | 32.00 |
 | 1/1/2004 | CVP30851 | PLS 2021 Lesson 21 Ethics | Passed | 0.0 | 32.00 |
-| 1/7/1983 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 1.00 |

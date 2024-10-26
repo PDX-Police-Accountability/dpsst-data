@@ -584,7 +584,6 @@
 | 5/23/2012 | 12-1116 | Legal/Legislative Update | Passed | 0.0 | 2.00 |
 | 5/23/2012 | 12-0918 | Employee Assistance Program | Passed | 0.0 | 0.50 |
 | 5/23/2012 | 12-1223 | Patrol Tactics | Passed | 0.0 | 4.00 |
-| 5/22/2012 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 12/31/2011 | 11-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/31/2011 | 11-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 12/31/2011 | 11-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 2.25 |

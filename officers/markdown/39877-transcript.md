@@ -665,7 +665,6 @@
 | 4/21/2009 | 09-0259 | Tactical Entry | Passed | 0.0 | 9.00 |
 | 3/20/2009 | 09-1116 | Legal/Legislative Update | Passed | 0.0 | 3.00 |
 | 3/16/2009 | 09-0952 | CPR / First Aid | Passed | 0.0 | 4.00 |
-| 3/5/2009 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/24/2009 | 09-0133 | Range | Passed | 0.0 | 9.00 |
 | 12/31/2008 | 08-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.00 |
 | 12/26/2008 | 08-0709 | Mobile Data Terminal (MDT) | Passed | 0.0 | 1.50 |

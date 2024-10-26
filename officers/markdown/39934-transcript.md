@@ -742,7 +742,6 @@
 | 6/4/2009 | 09-1223 | Patrol Tactics | Passed | 0.0 | 1.25 |
 | 6/4/2009 | 09-1211 | Officer Involved Shootings | Passed | 0.0 | 1.50 |
 | 6/4/2009 | 09-1210 | Emotional Survival | Passed | 0.0 | 1.00 |
-| 5/1/2009 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/23/2009 | 09-0952 | CPR / First Aid | Passed | 0.0 | 4.00 |
 | 12/31/2008 | 08-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 1.25 |
 | 12/31/2008 | 08-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.25 |

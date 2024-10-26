@@ -28,7 +28,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/9/2078 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/29/2024 | PDP3920A | 2018 Detectives How to Spot a Skimmer | Passed | 0.0 | 0.25 |
 | 9/29/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
@@ -89,6 +88,7 @@
 | 8/29/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/28/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 22.00 |
 | 8/23/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 7/30/2024 | REG1017A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 4/25/2024 | PDP3953A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |

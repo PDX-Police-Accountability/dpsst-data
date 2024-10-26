@@ -56,6 +56,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '25.00'
+- date: 10/1/2024
+  course: PDP0899A
+  title: Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '17.00'
 - date: 9/29/2024
   course: HSU3771A
   title: Red Dot Sight Course 6
@@ -68,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '25.00'
+- date: 9/20/2024
+  course: PDP0715A
+  title: 2024 Rapid Response Team (RRT) Cadre Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/17/2024
   course: PDP1882A
   title: School Emergency Actions
@@ -92,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/4/2024
+  course: PDP0156A
+  title: 2024 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/25/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
@@ -4790,12 +4808,6 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
-- date: 1/21/2012
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 12/31/2011
   course: 11-0716
   title: LEDS Recertification
