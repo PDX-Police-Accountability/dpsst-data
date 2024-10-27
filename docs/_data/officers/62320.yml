@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2024
+  course: PDP0469A
+  title: 2024 Traffic Motorcade Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/12/2024
   course: PDP3674A
   title: 2024 Traffic Motors Monthly Training
@@ -1305,4 +1311,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 3/22/2022
   expiration_date: ''
-education_records: []
+education_records:
+- date: 3/20/2021
+  degree: Bachelor Science
+  school: Portland State University
+  major: Business Administration
+  hours: '180.0'

@@ -4,7 +4,7 @@
 | name | Manzella, Timothy J. |
 | dpsst_identifier | 37242 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,18 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/5/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 3/25/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
-| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 |  |  |
-| 1/4/2000 | Police Officer | Basic | Granted | 1/4/2000 |  |  |
+| 9/5/2024 | Police Officer | Advanced | Lapsed | 11/29/2010 | 6/5/2029 |  |
+| 9/5/2024 | Police Officer | Basic | Lapsed | 1/4/2000 | 6/5/2029 |  |
+| 9/5/2024 | Police Officer | Intermediate | Lapsed | 11/29/2010 | 6/5/2029 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/4/2023 | 4/4/2025 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education

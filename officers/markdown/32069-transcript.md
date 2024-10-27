@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2024 | SDP2246A | Basic Firearms Training | Instructed | 0.0 | 4.00 |
 | 9/25/2024 | SDP2089A | Rifle Update and Skills Training | Passed | 0.0 | 4.00 |
 | 9/18/2024 | SDP1185A | Handgun Qualification | Instructed | 0.0 | 1.50 |
 | 9/11/2024 | SDP2538A | HB 4002 Drug Possession Law and Deflection Update | Passed | 0.0 | 1.00 |

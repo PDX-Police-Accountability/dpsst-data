@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 9/7/2024 | PDP1619A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
 | 9/7/2024 | PDP0428A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 9/7/2024 | PDP4497A | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |

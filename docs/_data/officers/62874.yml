@@ -1001,7 +1001,7 @@ training_records:
   title: SFST/DID (Hours included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 12/27/2022
   course: PDP11803
   title: 2021 Online In-Service Training Mental Wellness
@@ -1025,7 +1025,7 @@ training_records:
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 9/8/2022
   course: PDP32886
   title: FTEP Policy  Procedure Training

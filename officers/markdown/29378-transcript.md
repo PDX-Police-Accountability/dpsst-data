@@ -4,7 +4,7 @@
 | name | Pahlke, Timothy D. |
 | dpsst_identifier | 29378 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/27/2027 | Portland Police Bureau | Retired | Police Off |  |  |
 | 8/9/2024 | West Linn Police Department | Resigned | Police Off |  |  |
 | 7/15/2024 | West Linn Police Department | Hired | Police Off |  |  |
 | 10/3/1996 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,14 +21,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/18/2009 | Police Officer | Advanced | Granted | 2/18/2009 |  |  |
-| 2/18/2009 | Police Officer | Intermediate | Granted | 2/18/2009 |  |  |
-| 7/28/1997 | Police Officer | Basic | Granted | 7/28/1997 |  |  |
+| 9/27/2024 | Police Officer | Advanced | Lapsed | 2/18/2009 | 6/27/2029 |  |
+| 9/27/2024 | Police Officer | Basic | Lapsed | 7/28/1997 | 6/27/2029 |  |
+| 9/27/2024 | Police Officer | Intermediate | Lapsed | 2/18/2009 | 6/27/2029 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/21/2023 | 4/21/2025 |
 | Code of Ethics | Signed | 1/20/2009 |  |
 ## Education

@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2024
+  course: PDP0469A
+  title: 2024 Traffic Motorcade Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/24/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental

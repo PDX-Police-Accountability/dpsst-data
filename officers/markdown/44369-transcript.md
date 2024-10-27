@@ -51,7 +51,10 @@
 | 9/12/2024 | STP2126A | Bullet Proof Mind | Passed | 0.0 | 8.00 |
 | 9/12/2024 | HBS2034A | FBINAA Fall Retrainer 2024 - Bulletproof Mind | Passed | 0.0 | 8.00 |
 | 9/5/2024 | STP2868A | PPE | Passed | 0.0 | 1.00 |
+| 8/29/2024 | OSH1288A | 2024 CJIS Statewide Conference | Passed | 0.0 | 5.00 |
+| 8/28/2024 | OSH0796A | 2024 CJIS Statewide Conference | Passed | 0.0 | 8.00 |
 | 8/27/2024 | STP3816A | Adult and Infant CPR/FIRST-AID/AED | Passed | 0.0 | 2.00 |
+| 8/27/2024 | OSH1368A | 2024 CJIS Statewide Conference | Passed | 0.0 | 5.00 |
 | 8/24/2024 | STP2027A | Active Shooter Training | Passed | 0.0 | 4.00 |
 | 8/5/2024 | STP4091A | Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 5/20/2024 | STP2531A | Firearms Training and Use of Red Dot Training | Passed | 0.0 | 4.00 |

@@ -510,7 +510,7 @@
 | Emmons, Brett W. | 56132 | Portland Police Bureau | Active | Police Officer | Hired | 2016-05-26 | [md](../markdown/56132-transcript.md) - [yaml](../yaml/56132-transcript.yml) |
 | Endicott, Stephen G. | 26710 | Portland Police Bureau | Inactive | Police Officer | Retired | 2019-02-03 | [md](../markdown/26710-transcript.md) - [yaml](../yaml/26710-transcript.yml) |
 | Enez, Joseph E. | 57475 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-07-30 | [md](../markdown/57475-transcript.md) - [yaml](../yaml/57475-transcript.yml) |
-| Engen, Matthew P. | 29983 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/29983-transcript.md) - [yaml](../yaml/29983-transcript.yml) |
+| Engen, Matthew P. | 29983 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2024-06-05 | [md](../markdown/29983-transcript.md) - [yaml](../yaml/29983-transcript.yml) |
 | Engstrom, Timothy G. | 48254 | Portland Police Bureau | Active | Police Officer | Hired | 2007-06-14 | [md](../markdown/48254-transcript.md) - [yaml](../yaml/48254-transcript.yml) |
 | Engstrom, Todd R. | 29982 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-09-16 | [md](../markdown/29982-transcript.md) - [yaml](../yaml/29982-transcript.yml) |
 | Engstrom, Ty D. | 43502 | Portland Police Bureau | Active | Sergeant | Promotion | 2013-01-10 | [md](../markdown/43502-transcript.md) - [yaml](../yaml/43502-transcript.yml) |
@@ -603,7 +603,7 @@
 | Garner, David W. | 30600 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-03-09 | [md](../markdown/30600-transcript.md) - [yaml](../yaml/30600-transcript.yml) |
 | Garrison, Ty K. | 46311 | Portland Police Bureau | Active | Police Officer | Hired | 2005-11-16 | [md](../markdown/46311-transcript.md) - [yaml](../yaml/46311-transcript.yml) |
 | Gates, Kimberly J. | 31892 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-12-12 | [md](../markdown/31892-transcript.md) - [yaml](../yaml/31892-transcript.yml) |
-| Gauger, Troy M. | 33527 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-02-12 | [md](../markdown/33527-transcript.md) - [yaml](../yaml/33527-transcript.yml) |
+| Gauger, Troy M. | 33527 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-06-05 | [md](../markdown/33527-transcript.md) - [yaml](../yaml/33527-transcript.yml) |
 | Gautsche, Susan M. | 24380 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1992-06-18 | [md](../markdown/24380-transcript.md) - [yaml](../yaml/24380-transcript.yml) |
 | Geiger, Bert L. | 21285 | Portland Police Bureau | Active | Civilian Employee | Reclassed | 2005-03-01 | [md](../markdown/21285-transcript.md) - [yaml](../yaml/21285-transcript.yml) |
 | Geist, Richard E. | 34786 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-11-01 | [md](../markdown/34786-transcript.md) - [yaml](../yaml/34786-transcript.yml) |
@@ -1015,7 +1015,7 @@
 | Manipol, Jesse J. | 60707 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-06-10 | [md](../markdown/60707-transcript.md) - [yaml](../yaml/60707-transcript.yml) |
 | Manus, Kathryne E. | 37151 | Portland Police Bureau | Active | Detective | Promotion | 2013-01-10 | [md](../markdown/37151-transcript.md) - [yaml](../yaml/37151-transcript.yml) |
 | Manus, Matthew Q. | 40929 | Portland Police Bureau | Active | Police Officer | Hired | 2001-11-29 | [md](../markdown/40929-transcript.md) - [yaml](../yaml/40929-transcript.yml) |
-| Manzella, Timothy J. | 37242 | Portland Police Bureau | Active | Police Officer | Hired | 1999-03-25 | [md](../markdown/37242-transcript.md) - [yaml](../yaml/37242-transcript.yml) |
+| Manzella, Timothy J. | 37242 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-06-05 | [md](../markdown/37242-transcript.md) - [yaml](../yaml/37242-transcript.yml) |
 | Marcum, Kyffin M. | 52778 | Portland Police Bureau | Active | Detective | Promotion | 2019-11-21 | [md](../markdown/52778-transcript.md) - [yaml](../yaml/52778-transcript.yml) |
 | Marks, Gregory A. | 30496 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1997-08-20 | [md](../markdown/30496-transcript.md) - [yaml](../yaml/30496-transcript.yml) |
 | Marks, Kandi L. | 30396 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-01-12 | [md](../markdown/30396-transcript.md) - [yaml](../yaml/30396-transcript.yml) |
@@ -1216,7 +1216,7 @@
 | Owens, Joyce I. | 18677 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2020-05-28 | [md](../markdown/18677-transcript.md) - [yaml](../yaml/18677-transcript.yml) |
 | Padilla, Martin A. | 37143 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-13 | [md](../markdown/37143-transcript.md) - [yaml](../yaml/37143-transcript.yml) |
 | Pagan, Carlos E., Jr. | 38061 | Portland Police Bureau | Active | Police Officer | Return LOA | 2018-10-02 | [md](../markdown/38061-transcript.md) - [yaml](../yaml/38061-transcript.yml) |
-| Pahlke, Timothy D. | 29378 | Portland Police Bureau | Active | Police Officer | Hired | 1996-10-03 | [md](../markdown/29378-transcript.md) - [yaml](../yaml/29378-transcript.yml) |
+| Pahlke, Timothy D. | 29378 | Portland Police Bureau | Inactive | Police Officer | Retired | 2027-06-27 | [md](../markdown/29378-transcript.md) - [yaml](../yaml/29378-transcript.yml) |
 | Pahlke, Troy T. | 34490 | Portland Police Bureau | Active | Sergeant | Promotion | 2008-06-26 | [md](../markdown/34490-transcript.md) - [yaml](../yaml/34490-transcript.yml) |
 | Paille, Christopher T. | 38838 | Portland Police Bureau | Active | Civilian Employee | Hired | 1999-09-02 | [md](../markdown/38838-transcript.md) - [yaml](../yaml/38838-transcript.yml) |
 | Paisley, Brianne N. | 53471 | Portland Police Bureau | Active | Police Officer | Hired | 2023-05-25 | [md](../markdown/53471-transcript.md) - [yaml](../yaml/53471-transcript.yml) |

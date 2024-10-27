@@ -74,6 +74,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/25/2024
+  course: PDP0469A
+  title: 2024 Traffic Motorcade Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/22/2024
   course: GSP3582A
   title: UAS Ground School
@@ -3411,6 +3417,14 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/16/2024

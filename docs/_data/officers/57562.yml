@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 10/22/2024
+  course: OCP3693A
+  title: Defensive Tactics - Vehicle Extractions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/25/2024
   course: OCP3907A
   title: Firearms/Use of Force

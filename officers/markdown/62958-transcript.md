@@ -154,11 +154,10 @@
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 1/19/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 1/11/2023 | REG3491A | SFST/DID (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 1/11/2023 | REG3491A | SFST/DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/29/2022 | PDP03615 | RADAR/ LiDAR Operator Training | Passed | 0.0 | 14.00 |
 | 12/12/2022 | BPT40870 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
-| 12/12/2022 | BPT11358 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
-| 11/10/2022 | REG24959 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
+| 11/10/2022 | REG24959 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 9/8/2022 | PDP32886 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 9/6/2022 | PDP38929 | Firearms Training | Passed | 0.0 | 7.00 |
 | 9/2/2022 | PDP00747 | Firearms Training | Passed | 0.0 | 9.00 |

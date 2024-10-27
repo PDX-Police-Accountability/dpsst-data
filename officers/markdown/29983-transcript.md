@@ -4,7 +4,7 @@
 | name | Engen, Matthew P. |
 | dpsst_identifier | 29983 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,23 +12,22 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/5/2024 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 2/3/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 6/30/2005 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 10/6/1994 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/8/2024 | Police Officer | Management | Granted | 2/8/2024 |  |  |
-| 9/23/2011 | Police Officer | Supervisory | Granted | 9/23/2011 |  |  |
-| 3/14/2005 | Police Officer | Advanced | Granted | 3/14/2005 |  |  |
-| 7/12/2000 | Police Officer | Intermediate | Granted | 7/12/2000 |  |  |
-| 7/26/1995 | Police Officer | Basic | Granted | 7/26/1995 |  |  |
+| 9/5/2024 | Police Officer | Advanced | Lapsed | 3/14/2005 | 6/5/2029 |  |
+| 9/5/2024 | Police Officer | Basic | Lapsed | 7/26/1995 | 6/5/2029 |  |
+| 9/5/2024 | Police Officer | Intermediate | Lapsed | 7/12/2000 | 6/5/2029 |  |
+| 9/5/2024 | Police Officer | Management | Lapsed | 2/8/2024 | 6/5/2029 |  |
+| 9/5/2024 | Police Officer | Supervisory | Lapsed | 9/23/2011 | 6/5/2029 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 3/14/2005 |  |
 ## Education
 | date | degree | school | major | hours |

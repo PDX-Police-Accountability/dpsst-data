@@ -47,6 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/18/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 8/31/2024 | HBS2298A | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 8/21/2024 | LOP2261A | West Metro Monthly Motor Training 08/21/2024 | Passed | 0.0 | 3.00 |
 | 7/16/2024 | LOP1319A | West Metro Monthly Motor Training 07/16/2024 | Passed | 0.0 | 3.00 |

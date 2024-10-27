@@ -27,6 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 4/16/2024 |  |
 | Certification Cards | First Aid and CPR | 5/13/2023 | 5/13/2025 |
 | Code of Ethics | Signed | 8/14/2009 |  |
@@ -38,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 0.00 |
+| 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 9/22/2024 | GSP3582A | UAS Ground School | Passed | 0.0 | 30.00 |
 | 9/12/2024 | PDP3674A | 2024 Traffic Motors Monthly Training | Passed | 0.0 | 8.00 |
 | 9/10/2024 | PDP3674A | 2024 Traffic Motors Monthly Training | Passed | 0.0 | 8.00 |

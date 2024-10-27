@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 9/24/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/10/2024 | PDP3674A | 2024 Traffic Motors Monthly Training | Passed | 0.0 | 8.00 |

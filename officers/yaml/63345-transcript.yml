@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/25/2024
+  course: PDP0469A
+  title: 2024 Traffic Motorcade Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/19/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

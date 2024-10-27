@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2024
+  course: SDP2246A
+  title: Basic Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/25/2024
   course: SDP2089A
   title: Rifle Update and Skills Training

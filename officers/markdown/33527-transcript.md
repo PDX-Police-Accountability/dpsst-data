@@ -4,7 +4,7 @@
 | name | Gauger, Troy M. |
 | dpsst_identifier | 33527 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,21 +12,20 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/5/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/12/2024 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 2/6/2023 | Portland Police Bureau | LOA | Police Off |  |  |
 | 3/14/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/22/2010 | Police Officer | Advanced | Granted | 3/22/2010 |  |  |
-| 3/22/2010 | Police Officer | Intermediate | Granted | 3/22/2010 |  |  |
-| 1/20/1998 | Police Officer | Basic | Granted | 1/20/1998 |  |  |
+| 9/5/2024 | Police Officer | Advanced | Lapsed | 3/22/2010 | 6/5/2029 |  |
+| 9/5/2024 | Police Officer | Basic | Lapsed | 1/20/1998 | 6/5/2029 |  |
+| 9/5/2024 | Police Officer | Intermediate | Lapsed | 3/22/2010 | 6/5/2029 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/31/2024 | 3/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2025 |
 | Code of Ethics | Signed | 2/5/2010 |  |
 ## Education
 | date | degree | school | major | hours |
