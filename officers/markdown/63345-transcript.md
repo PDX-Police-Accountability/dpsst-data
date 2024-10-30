@@ -95,6 +95,7 @@
 | 10/10/2023 | PDP0162A | Motorcade Training | Passed | 0.0 | 6.00 |
 | 9/26/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/26/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 9/15/2023 | PDP2737A | 2023 Traffic 80 Hour Motorcycle Training Course | Passed | 0.0 | 80.00 |
 | 9/2/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/2/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 8/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |

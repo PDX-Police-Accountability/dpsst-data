@@ -48,6 +48,7 @@
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/10/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/10/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/22/2024 | OSH2593A | Honor Guard Training | Passed | 0.0 | 22.00 |
 | 8/15/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/15/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 8/15/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |

@@ -41,6 +41,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2024 | OCS3386A | 24' SWAT/CNT Week- Intel Gathering  Scenerio | Passed | 0.0 | 6.50 |
+| 9/19/2024 | OCS2473A | 24' SWAT/CNT Week- Final Scenerio 1  2 | Passed | 0.0 | 7.50 |
+| 9/17/2024 | OCS4161A | 24' SWAT/CNT Week- Resiliency  Stress Management | Passed | 0.0 | 3.00 |
+| 9/17/2024 | OCS1256A | 24' SWAT/CNT Week- TPI, 2nd Language, Case Review | Passed | 0.0 | 3.00 |
+| 9/16/2024 | OCS3310A | 24' SWAT/CNT Week- Active Listening w/ drills | Passed | 0.0 | 2.00 |
+| 9/16/2024 | OCS2549A | 24' SWAT/CNT Week- Chemical Munitions | Passed | 0.0 | 1.00 |
+| 9/16/2024 | OCS1122A | 24' SWAT/CNT Week- Chemical Munitions | Passed | 0.0 | 1.00 |
+| 9/16/2024 | OCS3946A | 24' SWAT/CNT Week- Inc. Review  Intel Scenerio | Passed | 0.0 | 2.00 |
+| 9/16/2024 | OCS4406A | 24' SWAT/CNT Week- Veh. Fam.-Ofc. Down Resc. | Passed | 0.0 | 2.00 |
 | 9/15/2024 | OCS3265A | Crimes Against Children Conference | Passed | 0.0 | 21.25 |
 | 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
 | 9/1/2024 | OCS0329A | Efficient Holster speed/marksmanship | Passed | 0.0 | 1.00 |

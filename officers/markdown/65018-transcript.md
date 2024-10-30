@@ -36,6 +36,7 @@
 | 8/13/2024 | PDP2674A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 8/12/2024 | PDP0006A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 4.00 |
 | 8/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/8/2024 | PDP2697A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP4175A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP0889A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 8/7/2024 | PDP0860A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |

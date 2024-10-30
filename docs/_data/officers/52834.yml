@@ -76,6 +76,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2024
+  course: OCS3386A
+  title: 24' SWAT/CNT Week- Intel Gathering  Scenerio
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 9/19/2024
+  course: OCS2473A
+  title: 24' SWAT/CNT Week- Final Scenerio 1  2
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 9/17/2024
+  course: OCS4161A
+  title: 24' SWAT/CNT Week- Resiliency  Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/17/2024
+  course: OCS1256A
+  title: 24' SWAT/CNT Week- TPI, 2nd Language, Case Review
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/16/2024
+  course: OCS3310A
+  title: 24' SWAT/CNT Week- Active Listening w/ drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/16/2024
+  course: OCS2549A
+  title: 24' SWAT/CNT Week- Chemical Munitions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/16/2024
+  course: OCS1122A
+  title: 24' SWAT/CNT Week- Chemical Munitions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/16/2024
+  course: OCS3946A
+  title: 24' SWAT/CNT Week- Inc. Review  Intel Scenerio
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/16/2024
+  course: OCS4406A
+  title: 24' SWAT/CNT Week- Veh. Fam.-Ofc. Down Resc.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/15/2024
   course: OCS3265A
   title: Crimes Against Children Conference

@@ -105,8 +105,8 @@
 | 7/7/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/7/2023 | PDP0308A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 7/7/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
-| 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
-| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |
+| 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 0.00 |
+| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 3/16/2023 | PDP21925 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 3/16/2023 | PDP12023 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 3/16/2023 | PDP06547 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

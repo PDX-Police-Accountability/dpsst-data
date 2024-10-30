@@ -47,6 +47,7 @@
 | 8/8/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/8/2024 | PDP4396A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
 | 8/8/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 8/8/2024 | PDP2697A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP4175A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP2205A | 2023-1  2 CAO Legal Updates for 01  02/2023 | Passed | 0.0 | 0.25 |
 | 8/7/2024 | PDP4071A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |

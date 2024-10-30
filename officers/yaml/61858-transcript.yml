@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2024
+  course: MFN2302A
+  title: Interstate Compact
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/17/2024
   course: BPT4014A
   title: Oregon Case Management Network - Fall 2024

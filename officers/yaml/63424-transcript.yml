@@ -467,13 +467,13 @@ training_records:
   title: DID/SFST (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 5/18/2023
   course: REG1282
   title: Intox 8000 (Hours inlcuded in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 3/15/2023
   course: PDP25309
   title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp

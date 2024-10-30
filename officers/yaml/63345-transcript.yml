@@ -409,6 +409,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/15/2023
+  course: PDP2737A
+  title: 2023 Traffic 80 Hour Motorcycle Training Course
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 9/2/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022

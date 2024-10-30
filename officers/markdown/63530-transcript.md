@@ -109,8 +109,8 @@
 | 7/19/2023 | PDP3143A | 2023 CEW Post Basic Course | Passed | 0.0 | 9.00 |
 | 7/17/2023 | PDP1370A | 2023 FTEP Control Tactics CT Post Basic Academy | Passed | 0.0 | 4.00 |
 | 7/14/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
-| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |
+| 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 0.00 |
+| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 3/15/2023 | PDP1407A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 3/14/2023 | PDP3672A | 2023 Training Introduction to Wellness | Passed | 0.0 | 1.50 |
 | 3/13/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

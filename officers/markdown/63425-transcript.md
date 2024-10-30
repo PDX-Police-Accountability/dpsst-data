@@ -110,8 +110,8 @@
 | 7/7/2023 | PDP2309A | 2023 DIR 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 7/7/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/3/2023 | PDP0308A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
-| 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
-| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |
+| 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 0.00 |
+| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/14/2023 | PDP3672A | 2023 Training Introduction to Wellness | Passed | 0.0 | 1.50 |
 | 3/13/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

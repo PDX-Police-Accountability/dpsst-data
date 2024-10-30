@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2024 | MKL0026A | Customer Service Training | Passed | 0.0 | 1.00 |
+| 10/24/2024 | MKL3775A | OGEC Ethics Update | Passed | 0.0 | 1.00 |
 | 7/30/2024 | MKL3539A | Adult/Child CPR AED and First Aid | Passed | 0.0 | 2.75 |
 | 5/29/2024 | MKL1824A | Batch Tagging Training | Passed | 0.0 | 1.50 |
 | 4/27/2024 | MKL1007A | Bi-Annual Defensive Tactics | Passed | 0.0 | 8.00 |

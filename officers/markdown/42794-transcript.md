@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2024 | OCS3763A | October 2024 Sniper Training | Instructed | 0.0 | 6.00 |
+| 10/10/2024 | OCS1468A | October 2024 New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 9/30/2024 | OCS4309A | 3rd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 9/27/2024 | OCS0818A | September 2024 Sniper Training | Instructed | 0.0 | 4.00 |
 | 9/24/2024 | OCS4464A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2024 | MFN2302A | Interstate Compact | Passed | 0.0 | 1.00 |
 | 10/17/2024 | BPT4014A | Oregon Case Management Network - Fall 2024 | Passed | 0.0 | 8.00 |
 | 10/17/2024 | BPT2370A | Mental Health Supervision Network - Fall 2024 | Passed | 0.0 | 4.00 |
 | 10/16/2024 | BPT3837A | Mental Health Supervison Network - Fall 2024 | Passed | 0.0 | 4.00 |

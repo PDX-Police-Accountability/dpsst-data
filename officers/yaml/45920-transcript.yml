@@ -177,6 +177,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/10/2024
+  course: PDP3031A
+  title: 2024 Traffic 80 Hour Motorcycle Training Course
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 4/30/2024
   course: PDP2643A
   title: SOP 2-8 Catastrophic Weapon Failure Procedure

@@ -32,8 +32,10 @@
 | 10/15/2024 | PDP4483A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 10/14/2024 | PDP0005A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 4.00 |
 | 10/8/2024 | PDP2923A | 2024 FTEP Geography | Passed | 0.0 | 3.00 |
+| 10/8/2024 | PDP2697A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 10/7/2024 | PDP2043A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 10/7/2024 | PDP0293A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 10/6/2024 | PDP0061A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 10/2/2024 | PDP1830A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 20.00 |
+| 10/1/2024 | PDP4379A | 2024 FTEP Intro to Wellness | Passed | 0.0 | 1.00 |
 | 9/30/2024 | PDP4151A | CPR/First Aid | Passed | 0.0 | 3.00 |

@@ -174,8 +174,8 @@
 | 3/7/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/7/2023 | PDP11356 | Control Tactics Training | Passed | 0.0 | 4.00 |
 | 3/6/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
-| 3/2/2023 | REG00018 | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
-| 1/26/2023 | REG17417 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
+| 3/2/2023 | REG00018 | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 0.00 |
+| 1/26/2023 | REG17417 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 12/29/2022 | PDP03615 | RADAR/ LiDAR Operator Training | Passed | 0.0 | 14.00 |
 | 11/5/2022 | PDP10589 | Firearms Training | Passed | 0.0 | 7.00 |
 | 11/4/2022 | PDP26684 | Firearms Training | Passed | 0.0 | 7.00 |

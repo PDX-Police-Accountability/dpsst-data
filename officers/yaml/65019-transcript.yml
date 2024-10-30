@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 8/8/2024
+  course: PDP2697A
+  title: 2024 FTEP Introduction to Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/25/2024
   course: REG4286A
   title: DID-SFST (Hours included in Basic)

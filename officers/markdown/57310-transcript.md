@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2024 | PDP0459A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 9/19/2024 | PDP3529A | 2024 CNT Crisis Negotiation Team RILEA Training | Passed | 0.0 | 23.50 |
 | 9/12/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/9/2024 | PDP1450A | 2024 EAP Suicide Training | Passed | 0.0 | 4.00 |

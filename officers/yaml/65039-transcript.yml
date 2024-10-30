@@ -138,6 +138,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/8/2024
+  course: PDP2697A
+  title: 2024 FTEP Introduction to Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/7/2024
   course: PDP4175A
   title: 2024 FTEP Geography

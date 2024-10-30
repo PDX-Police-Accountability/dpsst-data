@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/8/2024 | PDP2697A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 6/25/2024 | REG4286A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/13/2024 | PDP3290A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 4/1/2024 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |

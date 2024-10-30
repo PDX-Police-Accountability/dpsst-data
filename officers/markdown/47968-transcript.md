@@ -40,6 +40,7 @@
 | 6/6/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 8/28/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/22/2024 | OSH2593A | Honor Guard Training | Passed | 0.0 | 22.00 |
 | 8/19/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/16/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 7/16/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

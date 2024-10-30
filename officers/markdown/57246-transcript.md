@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2024 | HBN1804A | What is Ethics? | Passed | 0.0 | 1.00 |
 | 8/29/2024 | TRN2443A | Sanctions and Incentives Grid Training | Passed | 0.0 | 1.00 |
 | 8/28/2024 | HBN3233A | Workplace Discrimination, Harassment  Retaliation | Passed | 0.0 | 1.00 |
 | 8/16/2024 | HBN4251A | Defensive Tactics and Decision Making | Passed | 0.0 | 8.00 |

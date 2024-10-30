@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2024
+  course: HBN1804A
+  title: What is Ethics?
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/29/2024
   course: TRN2443A
   title: Sanctions and Incentives Grid Training

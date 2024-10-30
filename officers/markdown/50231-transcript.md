@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2024 | PDP0459A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/12/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
 | 10/6/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
 | 9/20/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |

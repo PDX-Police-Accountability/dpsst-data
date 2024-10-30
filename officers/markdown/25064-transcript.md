@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2024 | MKL3775A | OGEC Ethics Update | Passed | 0.0 | 1.00 |
+| 10/24/2024 | MKL0026A | Customer Service Training | Passed | 0.0 | 1.00 |
 | 10/9/2024 | MKL1539A | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 8/8/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2024 | MKL2732A | OLCC - CAMP Phase 2 - Amendment Training | Passed | 0.0 | 1.50 |

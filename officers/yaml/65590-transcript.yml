@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/8/2024
+  course: PDP2697A
+  title: 2024 FTEP Introduction to Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/7/2024
   course: PDP2043A
   title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
@@ -78,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '20.00'
+- date: 10/1/2024
+  course: PDP4379A
+  title: 2024 FTEP Intro to Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/30/2024
   course: PDP4151A
   title: CPR/First Aid

@@ -39,10 +39,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2024 | HBN1804A | What is Ethics? | Passed | 0.0 | 1.00 |
 | 10/3/2024 | STN2827A | DV Academy Day 4 | Passed | 0.0 | 8.00 |
 | 10/2/2024 | STN2240A | DV Academy Day 3 | Passed | 0.0 | 8.00 |
 | 10/1/2024 | STN3962A | DV Academy Day 2 | Passed | 0.0 | 8.00 |
 | 9/30/2024 | STN0397A | DV Academy Day 1 | Passed | 0.0 | 4.00 |
+| 9/26/2024 | HBN2972A | Handcuffing  Office Arrest Procedure | Instructed | 0.0 | 1.00 |
 | 8/13/2024 | HBN4251A | Defensive Tactics and Decision Making | Instructed | 0.0 | 8.00 |
 | 8/8/2024 | HBN3251A | Parole Board Annual Roadshow | Passed | 0.0 | 4.00 |
 | 8/8/2024 | VND3807A | Parole Board/DOC Roadshow | Passed | 0.0 | 4.00 |

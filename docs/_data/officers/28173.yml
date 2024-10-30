@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2024
+  course: MKL0026A
+  title: Customer Service Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2024
+  course: MKL3775A
+  title: OGEC Ethics Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/30/2024
   course: MKL3539A
   title: Adult/Child CPR AED and First Aid

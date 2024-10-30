@@ -58,6 +58,7 @@
 | 8/14/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 8/13/2024 | PDP2674A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 8/12/2024 | PDP0006A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 4.00 |
+| 8/8/2024 | PDP2697A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP4175A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP3535A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 8/7/2024 | PDP0417A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |

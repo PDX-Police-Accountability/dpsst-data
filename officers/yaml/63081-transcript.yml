@@ -863,7 +863,7 @@ training_records:
   title: DID/SFST (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 2/27/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022
@@ -875,7 +875,7 @@ training_records:
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 11/3/2022
   course: PDP22867
   title: ICS-100 Intro to the Incident Cmmnd System

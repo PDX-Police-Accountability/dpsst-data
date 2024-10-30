@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2024
+  course: PDP0459A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/24/2024
   course: PDP1882A
   title: School Emergency Actions

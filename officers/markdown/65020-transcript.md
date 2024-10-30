@@ -38,6 +38,7 @@
 | 8/12/2024 | PDP1657A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
 | 8/12/2024 | PDP1441A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 8/8/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/8/2024 | PDP2697A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP4175A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 8/6/2024 | PDP0929A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 8/5/2024 | PDP4186A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

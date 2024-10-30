@@ -92,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 10/10/2024
+  course: OCS1468A
+  title: October 2024 New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/30/2024
   course: OCS4309A
   title: 3rd Qtr Patrol Shotgun

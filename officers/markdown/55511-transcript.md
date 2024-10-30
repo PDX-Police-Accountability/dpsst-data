@@ -126,9 +126,9 @@
 | 7/7/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/7/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/7/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
-| 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
+| 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 5/26/2023 | HBS1763 | Adult, Child, and Infant CPR AED | Passed | 0.0 | 1.00 |
-| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |
+| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 3/14/2023 | PDP3672A | 2023 Training Introduction to Wellness | Passed | 0.0 | 1.50 |
 | 3/13/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 3/11/2023 | PDP07729 | Pre Academy Firearms Training | Passed | 0.0 | 9.00 |

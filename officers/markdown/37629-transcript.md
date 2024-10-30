@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2024 | PDP0149A | 2024 FTEP Policy  Procedure | Instructed | 0.0 | 5.00 |
 | 10/8/2024 | PDP2923A | 2024 FTEP Geography | Instructed | 0.0 | 3.00 |
 | 9/19/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/17/2024 | PDP4167A | 2024 FTEP Orientation | Instructed | 0.0 | 6.00 |

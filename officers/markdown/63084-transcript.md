@@ -143,10 +143,10 @@
 | 3/20/2023 | PDP12688 | Post Academy Firearms Training | Passed | 0.0 | 9.00 |
 | 3/17/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/7/2023 | PDP11356 | Control Tactics Training | Passed | 0.0 | 4.00 |
-| 3/2/2023 | REG00018 | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
+| 3/2/2023 | REG00018 | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 2/22/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/20/2023 | BPT31690 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
-| 1/26/2023 | REG17417 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
+| 1/26/2023 | REG17417 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 10/28/2022 | PDP12513 | Firearms Training | Passed | 0.0 | 6.00 |
 | 10/27/2022 | PDP43959 | Firearms Training | Passed | 0.0 | 6.00 |
 | 10/26/2022 | PDP04111 | Firearms Training | Passed | 0.0 | 8.00 |

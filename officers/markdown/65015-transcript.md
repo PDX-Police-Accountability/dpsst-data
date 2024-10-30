@@ -42,6 +42,7 @@
 | 8/19/2024 | PDP3560A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 8/19/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP2674A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 8/8/2024 | PDP2697A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP4175A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP4160A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 8/7/2024 | PDP2388A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
