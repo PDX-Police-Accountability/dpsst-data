@@ -60,6 +60,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/1/2018
+  course: PDP2933A
+  title: ICS-200 Basic Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/1/2018
+  course: PDP1679A
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/27/2017
+  course: PDP2131A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

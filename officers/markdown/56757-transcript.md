@@ -43,6 +43,7 @@
 | 5/31/2024 | PPP0290A | Expect the Unexpected | Passed | 0.0 | 1.00 |
 | 5/24/2024 | PPP0955A | ARIDE Refresher | Passed | 0.0 | 4.00 |
 | 5/24/2024 | PPP3830A | New Hire Defensive Tactics | Passed | 0.0 | 16.00 |
+| 5/24/2024 | PPP3786A | Narcan Naloxone Spray Training | Passed | 0.0 | 0.50 |
 | 5/23/2024 | PPP4530A | Intoxilyzer 8000 | Passed | 0.0 | 7.00 |
 | 5/22/2024 | PPP0777A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 5/22/2024 | PPP0916A | TruNarc Analyzer Basic Operator | Passed | 0.0 | 2.00 |

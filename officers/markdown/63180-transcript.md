@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2024 | PDP3196A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 8/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/11/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/11/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/25/2024
+  course: PDP0585A
+  title: 2024 Rapid Repsonse Team Grenadier Basic Course
+  status: Passed
+  score: '0.0'
+  hours: '21.50'
 - date: 8/21/2024
   course: PDP1571A
   title: ICS-400 Adv ICS Cmnd  Gen Staff Complex Inc

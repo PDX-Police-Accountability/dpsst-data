@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/24/2024
+  course: PPP3786A
+  title: Narcan Naloxone Spray Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/23/2024
   course: PPP4530A
   title: Intoxilyzer 8000

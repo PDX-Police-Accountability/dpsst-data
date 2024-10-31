@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2024
+  course: WLP1453A
+  title: WLPD EVOC / Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/7/2024
   course: WLP3244A
   title: Red Door Project - Coaching Conversation

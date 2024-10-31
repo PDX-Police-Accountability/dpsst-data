@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2024 | WLP1453A | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 8.00 |
 | 10/18/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/14/2024 | WLP0800A | Leading in Times of Crisis | Passed | 0.0 | 10.00 |
 | 10/6/2024 | WLP0602A | Developing Leadership | Passed | 0.0 | 1.00 |

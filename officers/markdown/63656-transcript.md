@@ -56,6 +56,7 @@
 | 7/3/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/3/2023 | PDP3777A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/3/2023 | PDP0386A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP1539A | TEEX WMD/Terrorism Awareness | Passed | 0.0 | 8.00 |
 | 5/11/2023 | PDP4184 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/10/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 27.00 |
 | 5/3/2023 | PDP2749A | CPR/First Aid | Passed | 0.0 | 3.00 |

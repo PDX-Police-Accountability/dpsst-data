@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/1/2024
+  course: PDP3196A
+  title: 2024 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/12/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

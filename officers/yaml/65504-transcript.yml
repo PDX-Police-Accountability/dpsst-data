@@ -36,6 +36,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/3/2024
+  course: PDP1679A
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/3/2024
+  course: PDP2131A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/3/2024
+  course: PDP2933A
+  title: ICS-200 Basic Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/2/2024
   course: PDP1830A
   title: 2024 FTEP New Hire Firearms

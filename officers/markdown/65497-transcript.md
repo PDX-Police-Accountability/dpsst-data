@@ -34,3 +34,6 @@
 | 10/1/2024 | PDP4379A | 2024 FTEP Intro to Wellness | Passed | 0.0 | 1.00 |
 | 9/30/2024 | PDP4151A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 8/14/2024 | PDP2076A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 11/1/2018 | PDP2933A | ICS-200 Basic Incident Command System | Passed | 0.0 | 3.00 |
+| 11/1/2018 | PDP1679A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 1/27/2017 | PDP2131A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

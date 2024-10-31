@@ -42,6 +42,7 @@
 | 9/20/2024 | PDP2321A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 2.50 |
 | 9/20/2024 | PDP0715A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 4.00 |
 | 9/6/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/25/2024 | PDP0585A | 2024 Rapid Repsonse Team Grenadier Basic Course | Passed | 0.0 | 21.50 |
 | 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 8/12/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/12/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
