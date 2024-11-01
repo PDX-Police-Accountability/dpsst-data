@@ -35,6 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2024 | HSU4235A | Title IX  Belonging at OHSU | Passed | 0.0 | 3.00 |
+| 10/14/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |
+| 10/13/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
+| 10/13/2024 | HSU2048A | Fall In-Service 2024 PVO | Passed | 0.0 | 2.50 |
+| 10/13/2024 | HSU3080A | Fall In-Service 2024 Defensive Tactics | Passed | 0.0 | 2.50 |
+| 8/10/2024 | HSU4220A | Axon VR T10 Scenarios | Passed | 0.0 | 0.50 |
+| 5/4/2024 | HSU4220A | Axon VR T10 Scenarios | Passed | 0.0 | 0.50 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/15/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 1.00 |
 | 4/15/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |

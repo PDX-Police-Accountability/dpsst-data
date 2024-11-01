@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/25/2024 | Washington County Sheriff's Office | Retired | Dpty Shrf |  |  |
 | 7/1/1998 | Washington County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 6/30/1998 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 5/30/1996 | Portland Police Bureau | Hired | Reserve |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/19/2007 | Police Officer | Advanced | Granted | 7/19/2007 |  |  |
-| 4/24/2002 | Police Officer | Intermediate | Granted | 4/24/2002 |  |  |
-| 7/6/1999 | Police Officer | Basic | Granted | 7/6/1999 |  |  |
+| 7/19/2007 | Police Officer | Advanced | Granted | 7/19/2007 | 1/25/2025 |  |
+| 4/24/2002 | Police Officer | Intermediate | Granted | 4/24/2002 | 1/25/2025 |  |
+| 7/6/1999 | Police Officer | Basic | Granted | 7/6/1999 | 1/25/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

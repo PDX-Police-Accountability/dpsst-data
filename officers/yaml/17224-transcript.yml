@@ -100,6 +100,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2024
+  course: HSU4235A
+  title: Title IX  Belonging at OHSU
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/21/2024
+  course: HSU1199A
+  title: IACP Conference Leadership Track
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 10/14/2024
+  course: HSU2849A
+  title: Fall In-Service 2024 Mobile CAD
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/29/2024
   course: HSU3771A
   title: Red Dot Sight Course 6

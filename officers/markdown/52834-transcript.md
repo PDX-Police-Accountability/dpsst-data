@@ -47,7 +47,6 @@
 | 9/17/2024 | OCS1256A | 24' SWAT/CNT Week- TPI, 2nd Language, Case Review | Passed | 0.0 | 3.00 |
 | 9/16/2024 | OCS3310A | 24' SWAT/CNT Week- Active Listening w/ drills | Passed | 0.0 | 2.00 |
 | 9/16/2024 | OCS2549A | 24' SWAT/CNT Week- Chemical Munitions | Passed | 0.0 | 1.00 |
-| 9/16/2024 | OCS1122A | 24' SWAT/CNT Week- Chemical Munitions | Passed | 0.0 | 1.00 |
 | 9/16/2024 | OCS3946A | 24' SWAT/CNT Week- Inc. Review  Intel Scenerio | Passed | 0.0 | 2.00 |
 | 9/16/2024 | OCS4406A | 24' SWAT/CNT Week- Veh. Fam.-Ofc. Down Resc. | Passed | 0.0 | 2.00 |
 | 9/15/2024 | OCS3265A | Crimes Against Children Conference | Passed | 0.0 | 21.25 |
@@ -57,7 +56,6 @@
 | 8/11/2024 | OCS4104A | Accident or Inflicted: Investigator YOU decide | Passed | 0.0 | 1.25 |
 | 8/11/2024 | OCS1635A | Banta and Beyond | Passed | 0.0 | 1.25 |
 | 8/11/2024 | OCS3533A | The Five B's of Child Physical Abuse (pt 1) | Passed | 0.0 | 1.25 |
-| 8/11/2024 | OCS3001A | The Five B's of Child Physical Abuse (pt 2) | Passed | 0.0 | 1.25 |
 | 8/11/2024 | OCS4017A | Fundamentals of Interv.  Interrog. in Child abuse | Passed | 0.0 | 1.25 |
 | 8/11/2024 | OCS1126A | Fund.'s of Interv.  Interrog. in Child abuse 2 | Passed | 0.0 | 1.25 |
 | 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |

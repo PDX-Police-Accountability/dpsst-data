@@ -84,12 +84,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/25/2024
+  course: SAG1699A
+  title: OR DOJ Elder Abuse Conference
+  status: Passed
+  score: '0.0'
+  hours: '10.50'
+- date: 10/25/2024
+  course: SAG3516A
+  title: OR DOJ Elder Abuse Conference
+  status: Passed
+  score: '0.0'
+  hours: '10.50'
 - date: 9/19/2024
   course: SAG2720A
   title: Financial Crimes  Digital Evidence Conference
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 9/18/2024
+  course: SAG3119A
+  title: FCDE - Ethical Considerations in Fraud Invest.
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/12/2024
   course: PDA4179A
   title: Basic Handgun Skills  Qualification

@@ -31,6 +31,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/11/2024
+  course: PDP2282A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/11/2024
+  course: PDP4496A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 8/30/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

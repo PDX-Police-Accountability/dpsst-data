@@ -50,12 +50,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2024
+  course: HSU2849A
+  title: Fall In-Service 2024 Mobile CAD
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/13/2024
+  course: HSU1332A
+  title: Fall In-Service 2024 Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/13/2024
+  course: HSU2048A
+  title: Fall In-Service 2024 PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/13/2024
+  course: HSU3080A
+  title: Fall In-Service 2024 Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/10/2024
+  course: HSU4220A
+  title: Axon VR T10 Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/23/2024
   course: HSU2040A
   title: Supplemental Range
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/4/2024
+  course: HSU4220A
+  title: Axon VR T10 Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/15/2024
   course: HSU2184A
   title: Spring In-Service 2024 TASER 10

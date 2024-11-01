@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2024 | HSU1332A | Fall In-Service 2024 Firearms | Instructed | 0.0 | 8.00 |
+| 10/13/2024 | HSU1332A | Fall In-Service 2024 Firearms | Instructed | 0.0 | 8.00 |
 | 10/6/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 10/1/2024 | PDP0899A | Red Dot Optic Transition Course | Instructed | 0.0 | 17.00 |
 | 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 30.00 |

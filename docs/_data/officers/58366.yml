@@ -68,7 +68,7 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/1/2025
+- date: 7/1/2026
   course: REQMGMT
   title: 'REQUIRED TRAINING:  Management'
   status: Required

@@ -62,6 +62,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2024
+  course: HBS0168A
+  title: SARTOPO-A User's Guide for Search Management
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/22/2024
+  course: HBS0058A
+  title: SARTOPO-A User's Guide for Search Management
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/21/2024
+  course: HBS0812A
+  title: SARTOPO-A user's guide for Search Management
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 9/7/2024
   course: OCS3213A
   title: Annual DV Training

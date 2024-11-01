@@ -113,12 +113,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 9/16/2024
-  course: OCS1122A
-  title: 24' SWAT/CNT Week- Chemical Munitions
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 9/16/2024
   course: OCS3946A
   title: 24' SWAT/CNT Week- Inc. Review  Intel Scenerio
   status: Passed
@@ -169,12 +163,6 @@ training_records:
 - date: 8/11/2024
   course: OCS3533A
   title: The Five B's of Child Physical Abuse (pt 1)
-  status: Passed
-  score: '0.0'
-  hours: '1.25'
-- date: 8/11/2024
-  course: OCS3001A
-  title: The Five B's of Child Physical Abuse (pt 2)
   status: Passed
   score: '0.0'
   hours: '1.25'

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2024 | STP2240A | Identifying People Under the Influence | Passed | 0.0 | 3.00 |
 | 9/26/2024 | VRP2370A | LEDS Certification | Passed | 0.0 | 1.00 |
 | 8/12/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 6/27/2024 | VRP3908A | Rifle Qualification and Policy Review | Passed | 0.0 | 4.00 |

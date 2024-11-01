@@ -40,6 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2024 | HSU4235A | Title IX  Belonging at OHSU | Passed | 0.0 | 3.00 |
+| 10/19/2024 | HSU2048A | Fall In-Service 2024 PVO | Instructed | 0.0 | 5.00 |
+| 10/18/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |
+| 10/13/2024 | HSU2048A | Fall In-Service 2024 PVO | Instructed | 0.0 | 5.00 |
 | 9/28/2024 | HSU2131A | Fall In-service 2024 Instructor Prep | Passed | 0.0 | 4.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/20/2024 | HSU3008A | Spring In-Service 2024 Vehicle Operations | Instructed | 0.0 | 3.00 |

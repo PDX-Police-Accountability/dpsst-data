@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/19/2024
+  course: HSU1332A
+  title: Fall In-Service 2024 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/13/2024
+  course: HSU1332A
+  title: Fall In-Service 2024 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/6/2024
   course: PDP2777A
   title: Red Dot Optic Transition Course

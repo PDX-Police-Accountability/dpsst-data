@@ -329,6 +329,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/23/2023
+  course: 31194A
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 8/22/2023
   course: PDP1230A
   title: FTEP Hazmat/WMD Awareness APR Gas Mask Ftng

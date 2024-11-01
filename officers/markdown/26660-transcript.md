@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2024 | HSU4235A | Title IX  Belonging at OHSU | Passed | 0.0 | 3.00 |
+| 10/19/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 8.00 |
+| 10/18/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |
+| 10/13/2024 | HSU1332A | Fall In-Service 2024 Firearms | Instructed | 0.0 | 8.00 |
 | 10/6/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 30.00 |
 | 9/29/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
@@ -50,6 +54,7 @@
 | 8/27/2024 | HSU4187A | Sergeant's Investigation of Force | Passed | 0.0 | 8.00 |
 | 7/20/2024 | HSU2040A | Supplemental Range | Passed | 0.0 | 2.00 |
 | 6/23/2024 | HSU2040A | Supplemental Range | Passed | 0.0 | 2.00 |
+| 5/8/2024 | HSU4220A | Axon VR T10 Scenarios | Passed | 0.0 | 0.50 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/20/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/19/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |

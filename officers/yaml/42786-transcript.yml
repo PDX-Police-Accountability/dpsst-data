@@ -114,6 +114,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2024
+  course: HSU1199A
+  title: IACP Conference Leadership Track
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/26/2024
   course: OAC3725A
   title: Election Year Threat Extremism in Oregon

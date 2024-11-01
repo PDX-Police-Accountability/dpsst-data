@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2024 | VND0887A | Sexual Assault Investigations | Passed | 0.0 | 12.00 |
 | 9/25/2024 | PDS1142A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 4/16/2024 | GSP1655A | Handgun In-InService | Passed | 0.0 | 10.00 |
 | 3/13/2024 | GSP0031A | Firearms - Handgun | Passed | 0.0 | 10.00 |

@@ -41,7 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/25/2024 | SAG1699A | OR DOJ Elder Abuse Conference | Passed | 0.0 | 10.50 |
+| 10/25/2024 | SAG3516A | OR DOJ Elder Abuse Conference | Passed | 0.0 | 10.50 |
 | 9/19/2024 | SAG2720A | Financial Crimes  Digital Evidence Conference | Passed | 0.0 | 15.00 |
+| 9/18/2024 | SAG3119A | FCDE - Ethical Considerations in Fraud Invest. | Passed | 0.0 | 1.00 |
 | 7/12/2024 | PDA4179A | Basic Handgun Skills  Qualification | Passed | 0.0 | 4.00 |
 | 5/6/2024 | PDA0456A | Prosecutor Database Training | Passed | 0.0 | 11.00 |
 | 4/10/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |

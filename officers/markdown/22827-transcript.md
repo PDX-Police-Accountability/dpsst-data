@@ -47,6 +47,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
+| 10/19/2024 | HSU2048A | Fall In-Service 2024 PVO | Passed | 0.0 | 2.50 |
+| 10/19/2024 | HSU3080A | Fall In-Service 2024 Defensive Tactics | Passed | 0.0 | 2.50 |
+| 10/18/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/5/2024 | HSU0443A | Axon BWC 4 | Passed | 0.0 | 2.00 |
 | 10/5/2024 | HSU1508A | Taser 10 Operator | Passed | 0.0 | 8.00 |

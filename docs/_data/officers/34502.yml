@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/25/2024
+  course: SAG1699A
+  title: OR DOJ Elder Abuse Conference
+  status: Passed
+  score: '0.0'
+  hours: '10.50'
+- date: 10/25/2024
+  course: SAG3516A
+  title: OR DOJ Elder Abuse Conference
+  status: Passed
+  score: '0.0'
+  hours: '10.50'
 - date: 9/25/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental

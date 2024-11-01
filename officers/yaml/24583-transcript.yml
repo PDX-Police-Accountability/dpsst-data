@@ -52,10 +52,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/15/2019
+- status_date: 5/15/2024
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Expired
   certificate_date: 3/16/1992
   expiration_date: ''
   probation_date: ''

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/22/2024
+  course: VND0887A
+  title: Sexual Assault Investigations
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 9/25/2024
   course: PDS1142A
   title: Mobile Field Force

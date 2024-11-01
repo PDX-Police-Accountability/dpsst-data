@@ -44,6 +44,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '18.00'
+- date: 10/11/2024
+  course: PDP2282A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/11/2024
+  course: PDP4496A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 9/19/2024
   course: PDP1929A
   title: 2024 SERT Training (RILEA) - SCENARIO

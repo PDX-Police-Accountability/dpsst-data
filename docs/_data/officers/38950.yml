@@ -143,6 +143,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.50'
+- date: 7/19/2024
+  course: HBS0423A
+  title: NTOA Leadership Week
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/5/2024
   course: HBS3545A
   title: 2024 March IFAST

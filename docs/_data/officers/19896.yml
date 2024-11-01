@@ -203,6 +203,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2024
+  course: HBS0168A
+  title: SARTOPO-A User's Guide for Search Management
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/22/2024
+  course: HBS0058A
+  title: SARTOPO-A User's Guide for Search Management
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/2/2024
   course: REG3221A
   title: 2024 Legal Update and Review

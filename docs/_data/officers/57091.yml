@@ -56,6 +56,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '21.50'
+- date: 10/11/2024
+  course: PDP2282A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/11/2024
+  course: PDP4496A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 10/2/2024
   course: PDP1830A
   title: 2024 FTEP New Hire Firearms

@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2024
+  course: NGP3635A
+  title: EVOC Refresher
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 10/14/2024
   course: NGP2961A
   title: HB4002/Search  Seizure

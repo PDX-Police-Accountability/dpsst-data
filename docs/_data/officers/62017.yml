@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/11/2024
+  course: PDP2282A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/11/2024
+  course: PDP4496A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 10/6/2024
   course: PDP3457A
   title: 2024 40mm Less Lethal New Operator

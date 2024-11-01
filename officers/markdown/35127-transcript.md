@@ -40,7 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2024 | SAG4294A | Firearms training - Night Range 2024 | Passed | 0.0 | 3.00 |
+| 10/24/2024 | SAG3277A | Taser re-certification 2024 | Passed | 0.0 | 1.00 |
 | 9/19/2024 | SAG2720A | Financial Crimes  Digital Evidence Conference | Passed | 0.0 | 15.00 |
+| 9/18/2024 | SAG3119A | FCDE - Ethical Considerations in Fraud Invest. | Passed | 0.0 | 1.00 |
 | 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 7/15/2024 | SAG3641A | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/29/2024 | SAG1582A | Hiding on the Internet: TOR, Darknet | Passed | 0.0 | 2.50 |

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/5/2024 | HSU4220A | Axon VR T10 Scenarios | Passed | 0.0 | 0.50 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/20/2024 | HSU3008A | Spring In-Service 2024 Vehicle Operations | Passed | 0.0 | 3.00 |
 | 4/20/2024 | HSU4490A | Spring In-Service 2024 Defensive Tactics | Passed | 0.0 | 3.00 |

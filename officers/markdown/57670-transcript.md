@@ -4,7 +4,7 @@
 | name | Le, Stephen T. |
 | dpsst_identifier | 57670 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/24/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 8/23/2017 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/20/2018 | Police Officer | Basic | Granted | 11/20/2018 |  |  |
+| 11/20/2018 | Police Officer | Basic | Granted | 11/20/2018 | 1/24/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

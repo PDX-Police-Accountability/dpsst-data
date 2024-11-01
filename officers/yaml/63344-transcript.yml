@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/19/2024
+  course: STP2240A
+  title: Identifying People Under the Influence
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/26/2024
   course: VRP2370A
   title: LEDS Certification

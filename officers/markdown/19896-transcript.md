@@ -60,6 +60,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2024 | HBS0168A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 6.00 |
+| 10/22/2024 | HBS0058A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 7.00 |
 | 10/2/2024 | REG3221A | 2024 Legal Update and Review | Passed | 0.0 | 3.00 |
 | 10/2/2024 | REG4305A | 2024 Use of Force Update / Review | Passed | 0.0 | 3.00 |
 | 8/28/2024 | REG1758A | Domestic Violence/Child Death Investigation | Passed | 0.0 | 7.00 |

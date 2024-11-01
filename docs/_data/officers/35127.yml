@@ -75,12 +75,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2024
+  course: SAG4294A
+  title: Firearms training - Night Range 2024
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/24/2024
+  course: SAG3277A
+  title: Taser re-certification 2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/19/2024
   course: SAG2720A
   title: Financial Crimes  Digital Evidence Conference
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 9/18/2024
+  course: SAG3119A
+  title: FCDE - Ethical Considerations in Fraud Invest.
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/29/2024
   course: SAG1551A
   title: First Aid/CPR Training

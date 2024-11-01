@@ -38,7 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |
+| 10/13/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
+| 10/13/2024 | HSU2048A | Fall In-Service 2024 PVO | Passed | 0.0 | 2.50 |
+| 10/13/2024 | HSU3080A | Fall In-Service 2024 Defensive Tactics | Passed | 0.0 | 2.50 |
+| 8/10/2024 | HSU4220A | Axon VR T10 Scenarios | Passed | 0.0 | 0.50 |
 | 6/23/2024 | HSU2040A | Supplemental Range | Passed | 0.0 | 2.00 |
+| 5/4/2024 | HSU4220A | Axon VR T10 Scenarios | Passed | 0.0 | 0.50 |
 | 4/15/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 1.00 |
 | 4/15/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
 | 4/15/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
