@@ -32,9 +32,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 7/10/2024 | 7/10/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 7/19/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/27/2024 | WLP1453A | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 4.00 |
 | 10/7/2024 | WLP3244A | Red Door Project - Coaching Conversation | Passed | 0.0 | 2.00 |
 | 9/18/2024 | WLP3052A | Firearms Qualification | Passed | 0.0 | 3.00 |

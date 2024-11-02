@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2024
+  course: GSP2774A
+  title: UAS Ground School
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 9/11/2024
   course: PDP3674A
   title: 2024 Traffic Motors Monthly Training

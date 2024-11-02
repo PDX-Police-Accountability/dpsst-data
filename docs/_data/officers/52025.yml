@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2024
+  course: GSP2774A
+  title: UAS Ground School
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/9/2024
   course: PDP3904A
   title: 2024 MEDU Weekly Training

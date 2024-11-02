@@ -23,8 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 7/30/2024 | 7/25/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 8/10/2018 |  |
@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/24/2024 | MKL0026A | Customer Service Training | Passed | 0.0 | 1.00 |
 | 10/24/2024 | MKL3775A | OGEC Ethics Update | Passed | 0.0 | 1.00 |
 | 7/30/2024 | MKL3539A | Adult/Child CPR AED and First Aid | Passed | 0.0 | 2.75 |

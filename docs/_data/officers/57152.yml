@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/27/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental
@@ -2731,14 +2737,14 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/25/2024
   expiration_date: 1/25/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 6/21/2018

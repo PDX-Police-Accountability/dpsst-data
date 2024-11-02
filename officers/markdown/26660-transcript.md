@@ -30,8 +30,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/19/2024 | 4/19/2026 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/24/2021 |  |
 | Code of Ethics | Signed | 4/10/2001 |  |
 ## Education
@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/28/2024 | HSU4235A | Title IX  Belonging at OHSU | Passed | 0.0 | 3.00 |
 | 10/19/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 8.00 |
 | 10/18/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |

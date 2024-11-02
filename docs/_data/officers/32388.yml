@@ -4257,10 +4257,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 10/13/2022
-  expiration_date: 10/13/2024
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/19/2003

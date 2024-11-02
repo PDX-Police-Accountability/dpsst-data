@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2024 | GSP2774A | UAS Ground School | Passed | 0.0 | 30.00 |
 | 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 9/12/2024 | PDP3674A | 2024 Traffic Motors Monthly Training | Passed | 0.0 | 8.00 |
 | 9/7/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |

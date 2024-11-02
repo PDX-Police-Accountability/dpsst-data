@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2024 | GSP2774A | UAS Ground School | Instructed | 0.0 | 20.00 |
 | 9/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 0.00 |
 | 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 9/22/2024 | GSP3582A | UAS Ground School | Passed | 0.0 | 30.00 |

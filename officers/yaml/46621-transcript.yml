@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/31/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/20/2024
   course: OCS2375A
   title: Pillars to Success  Longevity - OSSA
@@ -3885,14 +3891,14 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/1/2024
   expiration_date: 3/1/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

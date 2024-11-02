@@ -27,7 +27,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 8/23/2023 | 8/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
 | Code of Ethics | Signed | 1/24/2013 |  |
@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/24/2024 | MKL3775A | OGEC Ethics Update | Passed | 0.0 | 1.00 |
 | 10/24/2024 | MKL0026A | Customer Service Training | Passed | 0.0 | 1.00 |
 | 10/9/2024 | MKL1539A | Defensive Tactics | Passed | 0.0 | 8.00 |

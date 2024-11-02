@@ -24,10 +24,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 3/20/2023 | 3/20/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 1/13/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 6/4/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/8/2018 |  |
@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/22/2024 | HBN1804A | What is Ethics? | Passed | 0.0 | 1.00 |
 | 10/3/2024 | STN2827A | DV Academy Day 4 | Passed | 0.0 | 8.00 |
 | 10/2/2024 | STN2240A | DV Academy Day 3 | Passed | 0.0 | 8.00 |

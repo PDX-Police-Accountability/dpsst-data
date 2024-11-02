@@ -23,7 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/25/2023 | 5/25/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/23/2024 | HBN1804A | What is Ethics? | Passed | 0.0 | 1.00 |
 | 8/29/2024 | TRN2443A | Sanctions and Incentives Grid Training | Passed | 0.0 | 1.00 |
 | 8/28/2024 | HBN3233A | Workplace Discrimination, Harassment  Retaliation | Passed | 0.0 | 1.00 |

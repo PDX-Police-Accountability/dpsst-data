@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2024 | GSP2774A | UAS Ground School | Passed | 0.0 | 30.00 |
 | 9/22/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/11/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

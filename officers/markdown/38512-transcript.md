@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2024 | GSP2774A | UAS Ground School | Instructed | 0.0 | 30.00 |
 | 9/30/2024 | PDP1352A | 2024-3 In-Service CAO Legal Updates: Addendum | Passed | 0.0 | 0.25 |
 | 9/25/2024 | PDP2236A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/24/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |

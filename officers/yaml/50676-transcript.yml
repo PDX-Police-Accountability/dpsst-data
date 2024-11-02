@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2024
+  course: GSP2774A
+  title: UAS Ground School
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 9/30/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

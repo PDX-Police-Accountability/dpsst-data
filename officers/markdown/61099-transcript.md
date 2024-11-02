@@ -21,7 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
 | Code of Ethics | Law Enforcement Signed | 12/13/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/19/2024 | SAG2720A | Financial Crimes  Digital Evidence Conference | Passed | 0.0 | 15.00 |
 | 9/18/2024 | SAG3119A | FCDE - Ethical Considerations in Fraud Invest. | Passed | 0.0 | 1.00 |
 | 9/11/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

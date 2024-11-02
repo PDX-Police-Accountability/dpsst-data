@@ -23,8 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/29/2024 | 4/29/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 1/21/2019 |  |
 ## Education
@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/9/2024 | PSU4377A | Mobile Response Team Basic Skills Course | Passed | 0.0 | 6.50 |
 | 5/6/2024 | PSU0447A | Officer Survival 1/2 | Passed | 0.0 | 2.00 |
 | 5/5/2024 | PSU0525A | ALERRT Room Entry | Passed | 0.0 | 1.00 |
