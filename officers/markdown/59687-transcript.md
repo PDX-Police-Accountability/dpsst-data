@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2024 | VND2051A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 10/23/2024 | BPT2949A | Field Training and Evaluation | Passed | 0.0 | 24.00 |
 | 10/19/2024 | WLP1453A | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 8.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

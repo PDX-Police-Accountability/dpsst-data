@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2024 | HBS1964A | InService Session #2 Firearms | Passed | 0.0 | 2.00 |
+| 10/22/2024 | HBS2000A | InService Session #2 DT's | Passed | 0.0 | 4.00 |
 | 10/18/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2024 | HBS1135A | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 9/16/2024 | HBS0821A | RDS Transition Course | Passed | 0.0 | 18.00 |

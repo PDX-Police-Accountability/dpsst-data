@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/12/2024
+  course: GLP3535A
+  title: Courageously Interrupting Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/7/2024
   course: GLP1494A
   title: Defensive Tactics Fall 2024

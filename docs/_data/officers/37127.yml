@@ -90,18 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.50'
-- date: 10/25/2024
-  course: SAG3516A
-  title: OR DOJ Elder Abuse Conference
-  status: Passed
-  score: '0.0'
-  hours: '10.50'
 - date: 9/19/2024
   course: SAG2720A
   title: Financial Crimes  Digital Evidence Conference
   status: Passed
   score: '0.0'
-  hours: '15.00'
+  hours: '14.00'
 - date: 9/18/2024
   course: SAG3119A
   title: FCDE - Ethical Considerations in Fraud Invest.

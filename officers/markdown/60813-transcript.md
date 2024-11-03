@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/6/2024 | OSH1985A | 2nd Trimester Defensive Tactics/Taser | Passed | 0.0 | 3.00 |
+| 8/18/2024 | OSH0173A | EVOC Regional Training | Passed | 0.0 | 6.00 |
 | 7/15/2024 | OSH2368A | 2nd Trimester Firearms | Instructed | 0.0 | 8.00 |
 | 5/20/2024 | OSH3457A | 1st Trimester Defensive Tactics | Passed | 0.0 | 4.00 |
 | 5/16/2024 | OSH1068A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |

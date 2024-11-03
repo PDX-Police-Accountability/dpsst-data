@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2024
+  course: VND1364A
+  title: Group Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 9/25/2024
   course: PDP0469A
   title: 2024 Traffic Motorcade Training

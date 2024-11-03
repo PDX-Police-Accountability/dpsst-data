@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/29/2024 | Amtrak Police Department | Hired | Sergeant |  |  |
 | 6/5/2024 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 2/3/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 6/30/2005 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -24,11 +25,11 @@
 | 10/31/2024 | Police Officer | Intermediate | App Recd |  | 6/5/2029 |  |
 | 10/31/2024 | Police Officer | Management | App Recd |  | 6/5/2029 |  |
 | 10/31/2024 | Police Officer | Supervisory | App Recd |  | 6/5/2029 |  |
-| 9/5/2024 | Police Officer | Advanced | Lapsed | 3/14/2005 | 6/5/2029 |  |
-| 9/5/2024 | Police Officer | Basic | Lapsed | 7/26/1995 | 6/5/2029 |  |
-| 9/5/2024 | Police Officer | Intermediate | Lapsed | 7/12/2000 | 6/5/2029 |  |
-| 9/5/2024 | Police Officer | Management | Lapsed | 2/8/2024 | 6/5/2029 |  |
-| 9/5/2024 | Police Officer | Supervisory | Lapsed | 9/23/2011 | 6/5/2029 |  |
+| 9/5/2024 | Police Officer | Advanced | Lapsed | 3/14/2005 |  |  |
+| 9/5/2024 | Police Officer | Basic | Lapsed | 7/26/1995 |  |  |
+| 9/5/2024 | Police Officer | Intermediate | Lapsed | 7/12/2000 |  |  |
+| 9/5/2024 | Police Officer | Management | Lapsed | 2/8/2024 |  |  |
+| 9/5/2024 | Police Officer | Supervisory | Lapsed | 9/23/2011 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

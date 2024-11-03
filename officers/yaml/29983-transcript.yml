@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/29/2024
+  agency: Amtrak Police Department
+  action: Hired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 6/5/2024
   agency: Portland Police Bureau
   action: Retired
@@ -74,35 +80,35 @@ certification_records:
   level: Advanced
   status: Lapsed
   certificate_date: 3/14/2005
-  expiration_date: 6/5/2029
+  expiration_date: ''
   probation_date: ''
 - status_date: 9/5/2024
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 7/26/1995
-  expiration_date: 6/5/2029
+  expiration_date: ''
   probation_date: ''
 - status_date: 9/5/2024
   certificate: Police Officer
   level: Intermediate
   status: Lapsed
   certificate_date: 7/12/2000
-  expiration_date: 6/5/2029
+  expiration_date: ''
   probation_date: ''
 - status_date: 9/5/2024
   certificate: Police Officer
   level: Management
   status: Lapsed
   certificate_date: 2/8/2024
-  expiration_date: 6/5/2029
+  expiration_date: ''
   probation_date: ''
 - status_date: 9/5/2024
   certificate: Police Officer
   level: Supervisory
   status: Lapsed
   certificate_date: 9/23/2011
-  expiration_date: 6/5/2029
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 4/12/2024

@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/18/2024
+  course: OSH0173A
+  title: EVOC Regional Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/15/2024
   course: OSH2368A
   title: 2nd Trimester Firearms
