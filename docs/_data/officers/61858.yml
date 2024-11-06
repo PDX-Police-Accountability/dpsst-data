@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2024
+  course: MFN0536A
+  title: Striking
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/24/2024
   course: MFN2302A
   title: Interstate Compact

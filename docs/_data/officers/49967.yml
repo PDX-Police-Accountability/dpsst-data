@@ -41,6 +41,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/21/2024
+  course: MNP2521A
+  title: Active shooter in the workplace
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/21/2024
+  course: MNP3540A
+  title: Fire prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/21/2024
+  course: MNP0385A
+  title: Workplace violence
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/4/2024
   course: MNP2028A
   title: Axon Body-Worn Camera training

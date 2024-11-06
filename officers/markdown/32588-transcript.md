@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/2/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 10/30/2024 | HBA2384A | Building Bridges Summit | Passed | 0.0 | 5.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2024 | PDS1043A | Domestic Terrorism Investigations | Passed | 0.0 | 2.00 |
 | 4/19/2024 | GSP4349A | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 36.00 |
