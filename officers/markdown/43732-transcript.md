@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2024 | PDP4267A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 7.00 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |
 | 8/25/2024 | PDP0585A | 2024 Rapid Repsonse Team Grenadier Basic Course | Passed | 0.0 | 21.50 |

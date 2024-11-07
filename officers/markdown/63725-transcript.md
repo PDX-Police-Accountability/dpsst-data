@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2024 | PDP0643A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 9/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/12/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/27/2024 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |

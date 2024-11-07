@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2024 | HRS4059A | Firearms Range | Passed | 0.0 | 4.00 |
+| 10/10/2024 | HRS0482A | Law Enforcement Ethics: Pillars to Success | Passed | 0.0 | 1.00 |
 | 10/3/2024 | HRS0394A | CPR and First Aid | Passed | 0.0 | 4.00 |
 | 8/1/2024 | HRS4435A | Active Threat Response | Passed | 0.0 | 3.00 |
 | 6/13/2024 | HRS2718A | Defensive Tactics Inservice | Passed | 0.0 | 2.00 |

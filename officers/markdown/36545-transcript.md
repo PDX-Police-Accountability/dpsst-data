@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2024 | HBP0889A | Mobile Field Force (MFF) Training | Passed | 0.0 | 4.00 |
+| 10/23/2024 | HBP3961A | Range | Passed | 0.0 | 2.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/2/2024 | HBP2227A | PoliceOne Crisis Intervent. w/Mentally Ill Sub. | Passed | 0.0 | 2.00 |

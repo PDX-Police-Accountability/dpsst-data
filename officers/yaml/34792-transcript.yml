@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2026
+  course: TAP0497A
+  title: First Aid/CPR/AED to include choking
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/18/2024
   course: ADP2035A
   title: TASER 10 Certification
@@ -3729,6 +3735,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/30/2026
+  expiration_date: 10/30/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

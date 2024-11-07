@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2024
+  course: HBP3640A
+  title: Mobile Field Force (MFF) Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/9/2024
+  course: HBP2539A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/23/2024
   course: HBP2682A
   title: HPD Policy 318 - Child Abuse

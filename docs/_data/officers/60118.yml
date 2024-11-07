@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/10/2024
+  course: HRS0482A
+  title: 'Law Enforcement Ethics: Pillars to Success'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/3/2024
   course: HRS0394A
   title: CPR and First Aid

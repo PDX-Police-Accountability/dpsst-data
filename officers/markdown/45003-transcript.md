@@ -45,6 +45,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/24/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 10/16/2024 | HBP3741A | Mobile Field Force (MFF) Training | Passed | 0.0 | 4.00 |
+| 10/16/2024 | HBP3359A | Range | Passed | 0.0 | 4.00 |
 | 9/25/2024 | HBP3540A | HPD Supervisor Force/Tracwire/MFF | Passed | 0.0 | 4.00 |
 | 9/2/2024 | HBP2227A | PoliceOne Crisis Intervent. w/Mentally Ill Sub. | Passed | 0.0 | 2.00 |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

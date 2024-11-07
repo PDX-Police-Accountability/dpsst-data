@@ -25,6 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/30/2026 | 10/30/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 1/10/2008 |  |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2026 | TAP0497A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
 | 10/18/2024 | ADP2035A | TASER 10 Certification | Instructed | 0.0 | 6.00 |
 | 10/18/2024 | ADP1083A | TASER Annual Recertification | Passed | 0.0 | 2.00 |
 | 10/9/2024 | TAP3344A | Pipeline Emergency Response Training | Passed | 0.0 | 1.00 |

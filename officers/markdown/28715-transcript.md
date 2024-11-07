@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2024 | HBP0889A | Mobile Field Force (MFF) Training | Passed | 0.0 | 4.00 |
+| 10/23/2024 | HBP3961A | Range | Passed | 0.0 | 4.00 |
 | 10/1/2024 | VND1179A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 3.00 |
 | 9/2/2024 | HBP2227A | PoliceOne Crisis Intervent. w/Mentally Ill Sub. | Passed | 0.0 | 2.00 |
 | 8/28/2024 | HBP0721A | Adult Sex Crimes, Exigent Phone Pings | Passed | 0.0 | 1.00 |

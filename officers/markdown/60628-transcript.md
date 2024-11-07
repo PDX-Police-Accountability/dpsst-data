@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2024 | PDP3632A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 10/6/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Passed | 0.0 | 18.00 |
 | 10/1/2024 | PDP0899A | Red Dot Optic Transition Course | Passed | 0.0 | 17.00 |
 | 9/30/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |

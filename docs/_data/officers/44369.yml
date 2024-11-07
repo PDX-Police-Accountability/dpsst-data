@@ -155,8 +155,8 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 8/27/2024
-  course: STP3816A
-  title: Adult and Infant CPR/FIRST-AID/AED
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -172,6 +172,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/19/2024
+  course: STP2242A
+  title: Adult and Infant CPR/FIRST-AID/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/5/2024
   course: STP4091A
   title: Firearms Qualification and Training
@@ -2174,6 +2180,10 @@ attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/27/2024
+  expiration_date: 8/27/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/19/2024
   expiration_date: 8/27/2026
 - topic: Maintenance Requirements
   value: LE Annual

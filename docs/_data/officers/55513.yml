@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2024
+  course: OSH0941A
+  title: ARIDE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/17/2024
   course: BVP1355A
   title: EVOC

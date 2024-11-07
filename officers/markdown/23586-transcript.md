@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/30/2024 | Multnomah County Sheriff's Office | Retired | Dpty Shrf |  |  |
 | 1/11/1999 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 12/2/1996 | Portland Police Bureau | Prob Dschg | Reserve |  |  |
 | 2/21/1990 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/25/2000 | Corrections Officer | Basic | Granted | 2/25/2000 |  |  |
+| 2/25/2000 | Corrections Officer | Basic | Granted | 2/25/2000 | 1/30/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

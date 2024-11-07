@@ -105,6 +105,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/16/2024
+  course: HBP3741A
+  title: Mobile Field Force (MFF) Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/16/2024
+  course: HBP3359A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/25/2024
   course: HBP3540A
   title: HPD Supervisor Force/Tracwire/MFF

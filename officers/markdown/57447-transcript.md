@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2024 | PDP4267A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 7.00 |
 | 10/20/2024 | GSP2774A | UAS Ground School | Passed | 0.0 | 30.00 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |

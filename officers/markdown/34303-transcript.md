@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2024 | HBP3640A | Mobile Field Force (MFF) Training | Passed | 0.0 | 4.00 |
+| 10/9/2024 | HBP2539A | Range | Passed | 0.0 | 4.00 |
 | 9/23/2024 | HBP2682A | HPD Policy 318 - Child Abuse | Passed | 0.0 | 1.00 |
 | 9/5/2024 | HBP3816A | Suicide Prevention | Passed | 0.0 | 2.00 |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

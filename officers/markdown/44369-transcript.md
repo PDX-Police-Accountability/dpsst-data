@@ -35,6 +35,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 8/27/2024 | 8/27/2026 |
+| Certification Cards | First Aid and CPR | 8/19/2024 | 8/27/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 10/12/2006 |  |
@@ -53,9 +54,10 @@
 | 9/5/2024 | STP2868A | PPE | Passed | 0.0 | 1.00 |
 | 8/29/2024 | OSH1288A | 2024 CJIS Statewide Conference | Passed | 0.0 | 5.00 |
 | 8/28/2024 | OSH0796A | 2024 CJIS Statewide Conference | Passed | 0.0 | 8.00 |
-| 8/27/2024 | STP3816A | Adult and Infant CPR/FIRST-AID/AED | Passed | 0.0 | 2.00 |
+| 8/27/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 8/27/2024 | OSH1368A | 2024 CJIS Statewide Conference | Passed | 0.0 | 5.00 |
 | 8/24/2024 | STP2027A | Active Shooter Training | Passed | 0.0 | 4.00 |
+| 8/19/2024 | STP2242A | Adult and Infant CPR/FIRST-AID/AED | Passed | 0.0 | 2.00 |
 | 8/5/2024 | STP4091A | Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 5/20/2024 | STP2531A | Firearms Training and Use of Red Dot Training | Passed | 0.0 | 4.00 |
 | 4/20/2024 | STP4181A | Policy Review - Employee Speech, Express, Etc. | Passed | 0.0 | 0.75 |

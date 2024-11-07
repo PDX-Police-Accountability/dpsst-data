@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2024
+  course: HBP0889A
+  title: Mobile Field Force (MFF) Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/23/2024
+  course: HBP3961A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/10/2024
   course: RSS4227A
   title: 2024 OHIA Major Crimes Conference

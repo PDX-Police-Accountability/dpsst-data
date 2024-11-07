@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2024
+  course: PDP4267A
+  title: 2024 Rapid Response Team (RRT) Cadre Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/11/2024
   course: PDP4496A
   title: 2024 Rapid Response Team (RRT) Monthly Training
