@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/9/2024
+  agency: Hillsboro Police Department
+  action: LOA
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 1/11/2016
   agency: Hillsboro Police Department
   action: Reclassed

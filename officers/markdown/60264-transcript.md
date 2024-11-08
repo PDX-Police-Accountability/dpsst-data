@@ -34,6 +34,7 @@
 | 12/10/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 12/10/2025 | REQAPP | REQUIRED TRAINING: Armed Parole and Probation | Required | 0.0 | 0.00 |
 | 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 10/3/2024 | OCS1325A | OC Spray | Passed | 0.0 | 1.00 |
 | 10/1/2024 | STN3962A | DV Academy Day 2 | Passed | 0.0 | 8.00 |
 | 9/24/2024 | PDN1980A | LS/CMI | Passed | 0.0 | 16.00 |
 | 9/17/2024 | OCS4496A | Firearms Low Light | Passed | 0.0 | 2.00 |

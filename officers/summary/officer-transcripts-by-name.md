@@ -974,7 +974,7 @@
 | Lin, Mongchi | 57808 | Portland Police Bureau | Active | Police Officer | Hired | 2017-10-19 | [md](../markdown/57808-transcript.md) - [yaml](../yaml/57808-transcript.yml) |
 | Lindsey, Christopher S. | 42661 | Portland Police Bureau | Active | Captain | Promotion | 2023-07-20 | [md](../markdown/42661-transcript.md) - [yaml](../yaml/42661-transcript.yml) |
 | Linebarger, Debbi J. | 45791 | Portland Police Bureau | Active | Civilian Employee | Hired | 2005-06-20 | [md](../markdown/45791-transcript.md) - [yaml](../yaml/45791-transcript.yml) |
-| Liu, Simeni M. | 63530 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
+| Liu, Simeni M. | 63530 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-11-01 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
 | Livingston, Ariel M. | 57429 | Portland Police Bureau | Active | Police Officer | Hired | 2017-05-25 | [md](../markdown/57429-transcript.md) - [yaml](../yaml/57429-transcript.yml) |
 | Livingston, Brett G. | 23705 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-10 | [md](../markdown/23705-transcript.md) - [yaml](../yaml/23705-transcript.yml) |
 | Livingston, Don K., III | 32588 | Portland Police Bureau | Inactive | Sergeant | Retired | 2023-12-21 | [md](../markdown/32588-transcript.md) - [yaml](../yaml/32588-transcript.yml) |

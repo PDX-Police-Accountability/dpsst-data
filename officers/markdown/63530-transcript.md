@@ -4,7 +4,7 @@
 | name | Liu, Simeni M. |
 | dpsst_identifier | 63530 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/1/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 10/27/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/5/2024 | Police Officer | Basic | Granted | 6/5/2024 |  |  |
+| 6/5/2024 | Police Officer | Basic | Granted | 6/5/2024 | 2/1/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

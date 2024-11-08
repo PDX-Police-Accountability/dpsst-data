@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2024 | F1545106 | Ethical Considerations for Asset For. | Passed | 0.0 | 1.00 |
 | 7/12/2024 | PDA4179A | Basic Handgun Skills  Qualification | Passed | 0.0 | 4.00 |
 | 5/6/2024 | PDA0456A | Prosecutor Database Training | Passed | 0.0 | 11.00 |
 | 3/20/2024 | PDA0422A | Defensive Tactics / Use of Force | Passed | 0.0 | 3.00 |

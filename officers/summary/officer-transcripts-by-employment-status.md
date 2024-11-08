@@ -886,7 +886,6 @@
 | Koback, Robert B. | 63459 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63459-transcript.md) - [yaml](../yaml/63459-transcript.yml) |
 | Ortiz-Hernandez, Diego | 63520 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63520-transcript.md) - [yaml](../yaml/63520-transcript.yml) |
 | Rudakova, Diana L. | 63527 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63527-transcript.md) - [yaml](../yaml/63527-transcript.yml) |
-| Liu, Simeni M. | 63530 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
 | MacIntyre, Nathan W., Jr. | 63589 | Portland Police Bureau | Active | Police Officer | Hired | 2022-11-10 | [md](../markdown/63589-transcript.md) - [yaml](../yaml/63589-transcript.yml) |
 | Purcell, Hannah Z. | 63594 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63594-transcript.md) - [yaml](../yaml/63594-transcript.yml) |
 | Epton, Jason A. | 63601 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63601-transcript.md) - [yaml](../yaml/63601-transcript.yml) |
@@ -1733,6 +1732,7 @@
 | Schultz, Bradley S. | 63344 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-18 | [md](../markdown/63344-transcript.md) - [yaml](../yaml/63344-transcript.yml) |
 | Worthington, Heather D. | 63415 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-05-01 | [md](../markdown/63415-transcript.md) - [yaml](../yaml/63415-transcript.yml) |
 | Pegoski, Billy R. | 63528 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-04-13 | [md](../markdown/63528-transcript.md) - [yaml](../yaml/63528-transcript.yml) |
+| Liu, Simeni M. | 63530 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-11-01 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
 | Brown, Michael R. | 63531 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-03-03 | [md](../markdown/63531-transcript.md) - [yaml](../yaml/63531-transcript.yml) |
 | Milton, Llissel G. | 63598 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-04-16 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |
 | Vega-Garduno, Adolfo | 63655 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-06-25 | [md](../markdown/63655-transcript.md) - [yaml](../yaml/63655-transcript.yml) |
