@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/24/2024 | PDP0597A | OSU Modified Duty  Cold Call-Taking Training | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP3459A | OSU SOP009 Appendix A. Modified Duty Guide | Passed | 0.0 | 0.50 |

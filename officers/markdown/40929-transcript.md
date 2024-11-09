@@ -39,7 +39,10 @@
 | 10/19/2024 | HSU1332A | Fall In-Service 2024 Firearms | Instructed | 0.0 | 8.00 |
 | 10/13/2024 | HSU1332A | Fall In-Service 2024 Firearms | Instructed | 0.0 | 8.00 |
 | 10/6/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
+| 10/3/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
+| 10/3/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/1/2024 | PDP0899A | Red Dot Optic Transition Course | Instructed | 0.0 | 17.00 |
+| 9/30/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
 | 9/29/2024 | HSU3771A | Red Dot Sight Course 6 | Instructed | 0.0 | 30.00 |
 | 9/29/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 9/20/2024 | PDP0715A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 4.00 |

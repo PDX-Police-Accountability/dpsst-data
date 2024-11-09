@@ -93,6 +93,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/30/2024
+  course: LOP0758A
+  title: Taser 10 Certifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/10/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

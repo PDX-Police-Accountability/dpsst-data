@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 11/7/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 8/10/2023
   certificate: Police Officer
   level: Basic
@@ -24,12 +31,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2024
+  course: PDP4500A
+  title: 2024 CHO Introduction to Interpreting in Policing
+  status: Passed
+  score: '0.0'
+  hours: '9.50'
 - date: 10/20/2024
   course: GSP2774A
   title: UAS Ground School
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 10/8/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/25/2024
   course: PDP0469A
   title: 2024 Traffic Motorcade Training

@@ -44,6 +44,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 10/6/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/11/2024
   course: PDP1129A
   title: 2024 MEDU Weekly Training
@@ -65,6 +77,12 @@ training_records:
 - date: 8/28/2024
   course: PDP0093A
   title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/27/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
   status: Passed
   score: '0.0'
   hours: '9.00'

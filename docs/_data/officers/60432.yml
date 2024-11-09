@@ -31,6 +31,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/7/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/28/2024
   course: PDP1882A
   title: School Emergency Actions

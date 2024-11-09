@@ -39,8 +39,34 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/1/2024 | PDP4267A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 7.00 |
+| 10/21/2024 | PDP1082A | 2024 Supervisor In-Service Force Inspector Updates | Passed | 0.0 | 1.00 |
+| 10/21/2024 | PDP3074A | 2024 Supervisor In-Service ICS Refresher | Passed | 0.0 | 2.00 |
+| 10/21/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |
+| 10/21/2024 | PDP2002A | 2024 Supervisor In-Service Overview PSD and IA | Passed | 0.0 | 1.00 |
+| 10/21/2024 | PDP4286A | 2024 Supervisor In-Service Overview of 2020 Unrest | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |
+| 10/8/2024 | PDP4559A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP3463A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/8/2024 | PDP1199A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 10/8/2024 | PDP1880A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP1987A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP0148A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP2459A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP4485A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP1381A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP2028A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP0596A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP2107A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP0183A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/8/2024 | PDP4196A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP3791A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP1699A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/8/2024 | PDP2742A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 10/8/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/26/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
 | 8/25/2024 | PDP0585A | 2024 Rapid Repsonse Team Grenadier Basic Course | Passed | 0.0 | 21.50 |
 | 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 8/1/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |

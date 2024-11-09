@@ -43,12 +43,30 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/1/2024 | PDP4267A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 7.00 |
 | 11/1/2024 | PDP4267A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 7.00 |
+| 10/22/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
+| 10/14/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/6/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
+| 9/30/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
 | 9/24/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/11/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 9/9/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 9/5/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 9/4/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 9/3/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 9/2/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
 | 8/30/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/28/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/27/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/27/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
+| 8/26/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
 | 8/25/2024 | PDP0585A | 2024 Rapid Repsonse Team Grenadier Basic Course | Passed | 0.0 | 21.50 |
+| 8/22/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/21/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/20/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/19/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
 | 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 8/10/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/10/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

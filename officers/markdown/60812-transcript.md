@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/20/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/10/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/9/2024 | PDP3748A | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
 | 8/9/2024 | PDP4371A | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |

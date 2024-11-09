@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/10/2024
+  course: OCS3414A
+  title: Annual DV Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/25/2024
   course: PDP0469A
   title: 2024 Traffic Motorcade Training

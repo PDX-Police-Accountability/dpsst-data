@@ -38,6 +38,34 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2024 | PDP2124A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/30/2024 | PDP0148A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 10/30/2024 | PDP2028A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 10/30/2024 | PDP2084A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
+| 10/30/2024 | PDP2742A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 10/29/2024 | PDP0084A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 10/29/2024 | PDP4559A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/29/2024 | PDP1339A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 10/29/2024 | PDP3463A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/29/2024 | PDP1987A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/29/2024 | PDP1381A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 10/29/2024 | PDP4196A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 10/29/2024 | PDP1699A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/29/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/28/2024 | PDP1910A | 2023-1  2 CAO Legal Updates for 01 - 02/2023 | Passed | 0.0 | 0.25 |
+| 10/28/2024 | PDP1199A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 10/28/2024 | PDP1880A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 10/28/2024 | PDP2459A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 10/28/2024 | PDP4485A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/28/2024 | PDP2107A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 10/28/2024 | PDP0183A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 10/28/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/28/2024 | PDP3791A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 10/24/2024 | PDP2650A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 10/24/2024 | PDP1607A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 10/24/2024 | PDP2250A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 10/24/2024 | PDP0813A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
+| 10/24/2024 | PDP0489A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/22/2024 | VND0439A | ICS 300 Intermediate Incident Command System | Passed | 0.0 | 15.00 |
 | 5/3/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/22/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

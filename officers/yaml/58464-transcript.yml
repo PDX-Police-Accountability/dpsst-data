@@ -31,6 +31,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/11/2024
   course: PDP2282A
   title: 2024 Rapid Response Team (RRT) Monthly Training
@@ -67,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/4/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/2/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

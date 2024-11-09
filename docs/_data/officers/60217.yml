@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/5/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/4/2024
   course: PDP3204A
   title: 2024 Instructor Development Course

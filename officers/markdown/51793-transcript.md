@@ -19,7 +19,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/8/2024 | Police Officer | Supervisory | App Recd |  |  |  |
+| 11/7/2024 | Police Officer | Supervisory | Granted | 11/7/2024 |  |  |
 | 5/9/2023 | Police Officer | Advanced | Granted | 5/9/2023 |  |  |
 | 5/9/2023 | Police Officer | Intermediate | Granted | 5/9/2023 |  |  |
 | 3/21/2017 | Police Officer | Basic | Reactivatd | 8/14/2012 |  |  |
@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |
+| 10/18/2024 | PDP2002A | 2024 Supervisor In-Service Overview PSD and IA | Passed | 0.0 | 1.00 |
+| 10/18/2024 | PDP3074A | 2024 Supervisor In-Service ICS Refresher | Passed | 0.0 | 2.00 |
+| 10/18/2024 | PDP1082A | 2024 Supervisor In-Service Force Inspector Updates | Passed | 0.0 | 1.00 |
+| 10/18/2024 | PDP4286A | 2024 Supervisor In-Service Overview of 2020 Unrest | Passed | 0.0 | 3.00 |
 | 9/27/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/27/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 8/31/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |

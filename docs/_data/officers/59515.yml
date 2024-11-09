@@ -86,6 +86,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2024
+  course: PDP1645A
+  title: 2020 Trng Managing Critical Incidents Sgts Role
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/28/2024
+  course: PDP1175A
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/28/2024
+  course: PDP3269A
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/28/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental
@@ -110,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/20/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/15/2024
   course: PDP2736A
   title: 2024 SERT Training - Firearms

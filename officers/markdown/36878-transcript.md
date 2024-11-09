@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | BVP1081A | First Amendment Assemblies Training | Instructed | 0.0 | 0.50 |
+| 10/28/2024 | BVP1864A | First Amendment Assemblies Training | Passed | 0.0 | 0.50 |
 | 10/11/2024 | BVP2600A | Fall IST EVOC | Passed | 0.0 | 3.00 |
 | 8/19/2024 | BVP0265A | Use of Force Briefing Training | Passed | 0.0 | 1.00 |
 | 7/12/2024 | BVP3870A | EVOC IST 071224am | Passed | 0.0 | 3.00 |

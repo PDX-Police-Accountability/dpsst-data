@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/11/2024
+  course: REG1058A
+  title: Basic Defensive Tactics Workshop and Refresher
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 10/3/2024
   course: STN2827A
   title: DV Academy Day 4

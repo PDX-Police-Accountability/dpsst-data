@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 10/28/2024
+  course: BVP1864A
+  title: First Amendment Assemblies Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/17/2024
   course: BVP1355A
   title: EVOC

@@ -81,6 +81,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 10/22/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/11/2024
   course: PDP4496A
   title: 2024 Rapid Response Team (RRT) Monthly Training
@@ -99,24 +111,120 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '18.00'
+- date: 9/30/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/24/2024
   course: PDP1882A
   title: School Emergency Actions
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/11/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/9/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/5/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/4/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/3/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/2/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/30/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/29/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/28/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/27/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/27/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/26/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/25/2024
   course: PDP0585A
   title: 2024 Rapid Repsonse Team Grenadier Basic Course
   status: Passed
   score: '0.0'
   hours: '21.50'
+- date: 8/22/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/21/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/20/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/19/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/16/2024
   course: PDP0553A
   title: 2024 Rapid Response Team (RRT) Monthly Training

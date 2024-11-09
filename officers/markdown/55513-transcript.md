@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/30/2024 | OSH0941A | ARIDE | Passed | 0.0 | 16.00 |
+| 10/28/2024 | BVP1864A | First Amendment Assemblies Training | Passed | 0.0 | 0.50 |
 | 10/17/2024 | BVP1355A | EVOC | Passed | 0.0 | 3.00 |
 | 9/27/2024 | BVP2054A | Control Tactics | Passed | 0.0 | 3.00 |
 | 9/3/2024 | BVP0595A | August Range 2024 | Passed | 0.0 | 3.00 |

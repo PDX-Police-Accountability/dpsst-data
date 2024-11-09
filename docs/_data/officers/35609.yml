@@ -83,6 +83,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2024
+  course: PDP1082A
+  title: 2024 Supervisor In-Service Force Inspector Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/28/2024
+  course: PDP4286A
+  title: 2024 Supervisor In-Service Overview of 2020 Unrest
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/28/2024
+  course: PDP3074A
+  title: 2024 Supervisor In-Service ICS Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/28/2024
+  course: PDP1527A
+  title: 2024 Supervisor In-Service BHR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/28/2024
+  course: PDP2002A
+  title: 2024 Supervisor In-Service Overview PSD and IA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2024
+  course: PDP3427A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Add
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/11/2024
   course: PDP2282A
   title: 2024 Rapid Response Team (RRT) Monthly Training
@@ -107,6 +155,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/29/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/2/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

@@ -57,6 +57,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 10/25/2024
+  course: PDP1527A
+  title: 2024 Supervisor In-Service BHR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/25/2024
+  course: PDP3074A
+  title: 2024 Supervisor In-Service ICS Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/25/2024
+  course: PDP1082A
+  title: 2024 Supervisor In-Service Force Inspector Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/25/2024
+  course: PDP2002A
+  title: 2024 Supervisor In-Service Overview PSD and IA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/25/2024
+  course: PDP4286A
+  title: 2024 Supervisor In-Service Overview of 2020 Unrest
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/11/2024
   course: PDP2282A
   title: 2024 Rapid Response Team (RRT) Monthly Training

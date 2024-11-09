@@ -38,6 +38,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2024
+  course: PDP1645A
+  title: 2020 Trng Managing Critical Incidents Sgts Role
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/16/2024
+  course: PDP1175A
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/16/2024
+  course: PDP1976A
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/16/2024
+  course: PDP3269A
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/16/2024
+  course: PDP1722A
+  title: UDAR Guide - Approving (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 10/16/2024
+  course: PDP3338A
+  title: UDAR Guide - Coaches Pay (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 10/16/2024
+  course: PDP1968A
+  title: UDAR Guide - Requesting (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 10/14/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/11/2024
   course: PDP2282A
   title: 2024 Rapid Response Team (RRT) Monthly Training

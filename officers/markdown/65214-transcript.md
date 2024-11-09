@@ -29,11 +29,47 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/28/2024 | PDP1048A | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 10/24/2024 | PDP4407A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
 | 10/23/2024 | PDP0515A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 10/21/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 21.50 |
+| 10/21/2024 | PDP3091A | 2018-5 TT100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 10/21/2024 | PDP4559A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/21/2024 | PDP1615A | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 10/21/2024 | PDP1987A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/21/2024 | PDP0622A | DIR 660.10, Property  Evidence Proc/2018-5 TT | Passed | 0.0 | 0.50 |
+| 10/20/2024 | PDP2028A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 10/18/2024 | PDP2041A | 2019-5 TT Enforcement of Protection Orders Full | Passed | 0.0 | 0.25 |
+| 10/18/2024 | PDP0596A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP3847A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP2676A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 10/16/2024 | PDP2046A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP1910A | 2023-1  2 CAO Legal Updates for 01 - 02/2023 | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP1339A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP0148A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP2084A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP2107A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP1699A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/15/2024 | PDP4483A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 10/14/2024 | PDP0005A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 4.00 |
+| 10/10/2024 | PDP0298A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 10/10/2024 | PDP3463A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/10/2024 | PDP3791A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 10/10/2024 | PDP0183A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 10/10/2024 | PDP4196A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 10/10/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/10/2024 | PDP1661A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP3197A | 2021 Online In-Service Language Access Trans | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP2735A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP2124A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP0084A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP1880A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP1199A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 10/9/2024 | PDP2459A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP4485A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP1381A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP2742A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 10/9/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 10/8/2024 | PDP2923A | 2024 FTEP Geography | Passed | 0.0 | 3.00 |
 | 10/8/2024 | PDP2697A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 8/27/2024 | PDP2967A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |

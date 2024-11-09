@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2024
+  course: HBP4497A
+  title: 'Use of Force In-service Wrap-up: Case Law'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/9/2024
   course: HBP3640A
   title: Mobile Field Force (MFF) Training

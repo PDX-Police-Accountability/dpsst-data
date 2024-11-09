@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/26/2024
+  course: PDP4521A
+  title: 2021 Online In-Service Language Access
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/10/2024
   course: PDP1882A
   title: School Emergency Actions

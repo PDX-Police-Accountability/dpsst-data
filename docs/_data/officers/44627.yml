@@ -63,6 +63,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2024
+  course: PDP1082A
+  title: 2024 Supervisor In-Service Force Inspector Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/29/2024
+  course: PDP3074A
+  title: 2024 Supervisor In-Service ICS Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/29/2024
+  course: PDP1527A
+  title: 2024 Supervisor In-Service BHR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/29/2024
+  course: PDP2002A
+  title: 2024 Supervisor In-Service Overview PSD and IA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/29/2024
+  course: PDP4286A
+  title: 2024 Supervisor In-Service Overview of 2020 Unrest
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/17/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023

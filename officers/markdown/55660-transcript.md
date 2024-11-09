@@ -39,6 +39,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2024 | PDP1645A | 2020 Trng Managing Critical Incidents Sgts Role | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP1175A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 10/16/2024 | PDP1976A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
+| 10/16/2024 | PDP3269A | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
+| 10/16/2024 | PDP1722A | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.08 |
+| 10/16/2024 | PDP3338A | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
+| 10/16/2024 | PDP1968A | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
+| 10/14/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
+| 10/14/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |
 | 10/6/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Passed | 0.0 | 18.00 |

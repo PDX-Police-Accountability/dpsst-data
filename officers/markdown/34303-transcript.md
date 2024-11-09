@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2024 | HBP4497A | Use of Force In-service Wrap-up: Case Law | Passed | 0.0 | 0.50 |
 | 10/9/2024 | HBP3640A | Mobile Field Force (MFF) Training | Passed | 0.0 | 4.00 |
 | 10/9/2024 | HBP2539A | Range | Passed | 0.0 | 4.00 |
 | 9/23/2024 | HBP2682A | HPD Policy 318 - Child Abuse | Passed | 0.0 | 1.00 |

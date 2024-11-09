@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 11/4/2024
+  course: OCP4448A
+  title: Robert Libke LODD Case Study
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/22/2024
   course: OCP3693A
   title: Defensive Tactics - Vehicle Extractions

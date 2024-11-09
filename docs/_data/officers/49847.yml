@@ -38,6 +38,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/7/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/7/2024
+  course: PDP2107A
+  title: 2024-7 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/7/2024
+  course: PDP0596A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/7/2024
+  course: PDP4196A
+  title: 2024-3 Tips  Techniques Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/7/2024
+  course: PDP3791A
+  title: 2024-4 CAO Legal Updates for 04/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/26/2024
   course: PDP0737A
   title: 2024 OSHA Heat Illness Prevention with CityLearner

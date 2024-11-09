@@ -43,9 +43,11 @@
 | 10/30/2024 | HBA2384A | Building Bridges Summit | Passed | 0.0 | 5.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2024 | PDS1043A | Domestic Terrorism Investigations | Passed | 0.0 | 2.00 |
+| 5/1/2024 | GSP0718A | Manager: Feedback , May 2024 | Passed | 0.0 | 0.50 |
 | 4/19/2024 | GSP4349A | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 36.00 |
 | 3/18/2024 | GSP4375A | Firearms - Handgun | Passed | 0.0 | 10.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
+| 3/1/2024 | GSP4057A | Manager: Conflict Resolution , March 2024 | Passed | 0.0 | 1.00 |
 | 2/14/2024 | GSP2286A | Red Dot Transition | Passed | 0.0 | 30.00 |
 | 2/5/2024 | GSP3702A | Survival Skills | Passed | 0.0 | 10.00 |
 | 1/18/2024 | GSP2616A | Qucik Reaction Team/Identifying IED's | Instructed | 0.0 | 5.00 |
@@ -54,6 +56,7 @@
 | 1/11/2024 | OAC2266A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
 | 1/11/2024 | OAC2104A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
 | 1/10/2024 | OAC2692A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
+| 1/1/2024 | GSP3807A | Manager: Building Trust , Jan 2024 | Passed | 0.0 | 1.00 |
 | 12/7/2023 | PDP4131A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 12/4/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/4/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |
@@ -106,6 +109,7 @@
 | 8/15/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/10/2023 | PDP3599A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |
 | 8/3/2023 | PDP2129A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 8/1/2023 | GSP0803A | Manager: Difficult Conversations,Aug 2023 | Passed | 0.0 | 1.00 |
 | 7/17/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/13/2023 | PDP2215A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |
 | 7/12/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -120,6 +124,7 @@
 | 6/8/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/8/2023 | PDP2153A | 2023-2 Range Qual Secondary Firearm (50 rd) | Passed | 0.0 | 0.50 |
 | 6/1/2023 | PDP2907A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 6/1/2023 | GSP4037A | Manager Essentials: Human Leadership, June 2023 | Passed | 0.0 | 0.75 |
 | 5/25/2023 | PDP2907A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 5/23/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/23/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

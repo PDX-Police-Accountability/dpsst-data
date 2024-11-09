@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2024 | PDP4500A | 2024 CHO Introduction to Interpreting in Policing | Passed | 0.0 | 9.50 |
 | 8/7/2017 | SMS34815 | Advanced Application of Impact Weapons | Passed | 0.0 | 2.00 |
 | 12/31/2014 | 14-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/31/2014 | 14-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 0.50 |

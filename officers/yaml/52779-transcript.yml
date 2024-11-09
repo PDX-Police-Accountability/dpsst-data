@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/5/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/25/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/28/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/31/2024
   course: PDP1493A
   title: 2024 UAS Training for Traffic Division

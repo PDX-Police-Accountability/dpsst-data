@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/22/2024 | HBN1804A | What is Ethics? | Passed | 0.0 | 1.00 |
+| 10/11/2024 | REG1058A | Basic Defensive Tactics Workshop and Refresher | Passed | 0.0 | 24.00 |
 | 10/3/2024 | STN2827A | DV Academy Day 4 | Passed | 0.0 | 8.00 |
 | 10/2/2024 | STN2240A | DV Academy Day 3 | Passed | 0.0 | 8.00 |
 | 10/1/2024 | STN3962A | DV Academy Day 2 | Passed | 0.0 | 8.00 |

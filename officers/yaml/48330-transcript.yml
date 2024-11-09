@@ -74,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '30.00'
+- date: 5/1/2024
+  course: GSP0718A
+  title: 'Manager: Feedback , May 2024'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/7/2024
   course: GSP0256A
   title: Firearms - Handgun
@@ -86,12 +92,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 3/1/2024
+  course: GSP4057A
+  title: 'Manager: Conflict Resolution , March 2024'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/9/2024
   course: GSP3361A
   title: Survival Skills
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 1/1/2024
+  course: GSP3807A
+  title: 'Manager: Building Trust , Jan 2024'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -134,12 +152,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/1/2023
+  course: GSP0803A
+  title: 'Manager: Difficult Conversations,Aug 2023'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/24/2023
   course: GSP2016A
   title: Advanced Crime Prevention Through Environmental.
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 6/1/2023
+  course: GSP4037A
+  title: 'Manager Essentials: Human Leadership, June 2023'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 5/12/2023
   course: LOP2596A
   title: Metro Area Sergeants Academy

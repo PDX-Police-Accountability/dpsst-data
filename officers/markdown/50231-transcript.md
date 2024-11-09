@@ -37,9 +37,24 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/16/2024 | PDP0459A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/12/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
+| 10/12/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/6/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
+| 9/30/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
 | 9/20/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/5/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 9/4/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 9/3/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 9/2/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/29/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/28/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/27/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/27/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
+| 8/26/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/22/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/21/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/20/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 8/19/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
 | 8/14/2024 | PDP0915A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 8/6/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/6/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

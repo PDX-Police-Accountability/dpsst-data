@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/30/2024
+  agency: Portland Police Bureau
+  action: Mil-LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/7/2019
   agency: Portland Police Bureau
   action: Hired

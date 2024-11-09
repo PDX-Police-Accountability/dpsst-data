@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.50'
+- date: 8/21/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/16/2024
   course: PDP0553A
   title: 2024 Rapid Response Team (RRT) Monthly Training

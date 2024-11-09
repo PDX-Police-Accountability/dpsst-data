@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/22/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 9/20/2024 | GSP1167A | Firearms | Passed | 0.0 | 10.00 |
 | 9/19/2024 | GSP4098A | Firearms | Passed | 0.0 | 10.00 |
 | 9/18/2024 | GSP3238A | Building Searches | Passed | 0.0 | 10.00 |

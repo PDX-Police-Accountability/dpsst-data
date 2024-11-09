@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/21/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/14/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

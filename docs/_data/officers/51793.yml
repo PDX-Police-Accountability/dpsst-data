@@ -34,11 +34,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/8/2024
+- status_date: 11/7/2024
   certificate: Police Officer
   level: Supervisory
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 11/7/2024
   expiration_date: ''
   probation_date: ''
 - status_date: 5/9/2023
@@ -63,6 +63,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/18/2024
+  course: PDP1527A
+  title: 2024 Supervisor In-Service BHR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2024
+  course: PDP2002A
+  title: 2024 Supervisor In-Service Overview PSD and IA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2024
+  course: PDP3074A
+  title: 2024 Supervisor In-Service ICS Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/18/2024
+  course: PDP1082A
+  title: 2024 Supervisor In-Service Force Inspector Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2024
+  course: PDP4286A
+  title: 2024 Supervisor In-Service Overview of 2020 Unrest
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/27/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental

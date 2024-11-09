@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2024 | OCP4448A | Robert Libke LODD Case Study | Passed | 0.0 | 1.50 |
 | 10/22/2024 | OCP3693A | Defensive Tactics - Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 9/25/2024 | OCP3907A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/10/2024 | OCP3494A | Active Threat Response | Passed | 0.0 | 4.00 |

@@ -34,6 +34,8 @@
 | 10/14/2024 | BNS3545A | Strangulation | Passed | 0.0 | 0.50 |
 | 10/14/2024 | BNS1058A | Emergeny Protection Orders | Passed | 0.0 | 1.00 |
 | 10/14/2024 | BNS3785A | UOF Reporting | Passed | 0.0 | 1.50 |
+| 10/10/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
+| 10/10/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/26/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/15/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/15/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

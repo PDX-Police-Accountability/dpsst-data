@@ -38,18 +38,156 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2024
+  course: PDP3463A
+  title: 2024 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2024
+  course: PDP4559A
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2024
+  course: PDP1880A
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2024
+  course: PDP1199A
+  title: 2024 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/22/2024
+  course: PDP1987A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2024
+  course: PDP2459A
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2024
+  course: PDP4485A
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2024
+  course: PDP3791A
+  title: 2024-4 CAO Legal Updates for 04/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2024
+  course: PDP1699A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2024
+  course: PDP1910A
+  title: 2023-1  2 CAO Legal Updates for 01 - 02/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2024
+  course: PDP0148A
+  title: 2023-4 CAO Legal Updates for 04/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2024
+  course: PDP1381A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2024
+  course: PDP2028A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2024
+  course: PDP2107A
+  title: 2024-7 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2024
+  course: PDP0596A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2024
+  course: PDP2742A
+  title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2024
+  course: PDP0145A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/16/2024
   course: PDP0459A
   title: 2024 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/6/2024
+  course: PDP2084A
+  title: 2024-2 TT State v. Wilcox / Civil Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2024
+  course: PDP0183A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2024
+  course: PDP4196A
+  title: 2024-3 Tips  Techniques Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/19/2024
   course: PDP3529A
   title: 2024 CNT Crisis Negotiation Team RILEA Training
   status: Passed
   score: '0.0'
   hours: '23.50'
+- date: 8/26/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/14/2024
   course: PDP0915A
   title: 2024 CNT Crisis Negotiation Team Annual Training

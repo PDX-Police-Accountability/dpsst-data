@@ -44,6 +44,12 @@ certification_records:
   expiration_date: 7/6/2027
   probation_date: ''
 training_records:
+- date: 10/29/2024
+  course: PDP4500A
+  title: 2024 CHO Introduction to Interpreting in Policing
+  status: Passed
+  score: '0.0'
+  hours: '9.50'
 - date: 4/5/2023
   course: PDP0942A
   title: 2023 Training PS3 Support Specialist Coach School

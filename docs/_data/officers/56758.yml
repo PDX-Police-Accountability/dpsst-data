@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 10/31/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/14/2024
   course: PDP0005A
   title: 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit
@@ -86,6 +92,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '18.00'
+- date: 9/11/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/9/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/9/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/3/2024
   course: PDP1070A
   title: 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit
@@ -104,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.50'
+- date: 8/19/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/16/2024
   course: PDP0553A
   title: 2024 Rapid Response Team (RRT) Monthly Training

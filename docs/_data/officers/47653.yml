@@ -98,12 +98,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.50'
+- date: 8/22/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/21/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/20/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/19/2024
+  course: PDP0993A
+  title: 2024 40mm Less Lethal Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/17/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

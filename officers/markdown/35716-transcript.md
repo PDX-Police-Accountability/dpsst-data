@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/22/2024 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 7/21/2011 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 3/15/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 | 3/1/2001 | Seaside Police Department | Resigned | Civln Emp |  |  |

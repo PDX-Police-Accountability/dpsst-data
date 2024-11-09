@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2024 | HBP4497A | Use of Force In-service Wrap-up: Case Law | Passed | 0.0 | 0.50 |
 | 10/23/2024 | HBP0889A | Mobile Field Force (MFF) Training | Passed | 0.0 | 4.00 |
 | 10/23/2024 | HBP3961A | Range | Passed | 0.0 | 4.00 |
 | 10/1/2024 | VND1179A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 3.00 |

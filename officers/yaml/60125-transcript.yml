@@ -16,11 +16,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 9/25/2024
+- status_date: 11/7/2024
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 11/7/2024
   expiration_date: ''
   probation_date: ''
 - status_date: 2/4/2021
@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/13/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/7/2024
   course: PDP1882A
   title: School Emergency Actions

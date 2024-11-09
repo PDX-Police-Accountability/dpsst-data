@@ -81,6 +81,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 10/24/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2024
+  course: PDP1527A
+  title: 2024 Supervisor In-Service BHR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2024
+  course: PDP3074A
+  title: 2024 Supervisor In-Service ICS Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2024
+  course: PDP1082A
+  title: 2024 Supervisor In-Service Force Inspector Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2024
+  course: PDP2002A
+  title: 2024 Supervisor In-Service Overview PSD and IA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2024
+  course: PDP4286A
+  title: 2024 Supervisor In-Service Overview of 2020 Unrest
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/30/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

@@ -31,6 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2024
+  course: PDP4039A
+  title: 2023-2 In Service Trauma Informed Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/10/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/10/2024
+  course: PDP0145A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/25/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023

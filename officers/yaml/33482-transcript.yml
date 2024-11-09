@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/18/2024
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Captain
+  classification: ''
+  assignment: ''
 - date: 5/9/2023
   agency: Portland Police Bureau
   action: Return LOA

@@ -70,6 +70,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2024
+  course: BVP1081A
+  title: First Amendment Assemblies Training
+  status: Instructed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/28/2024
+  course: BVP1864A
+  title: First Amendment Assemblies Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/11/2024
   course: BVP2600A
   title: Fall IST EVOC

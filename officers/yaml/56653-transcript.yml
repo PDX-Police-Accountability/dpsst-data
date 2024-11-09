@@ -44,6 +44,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/9/2024
+  course: PDP3189A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/9/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/8/2024
   course: VND2419A
   title: A Collaborative Approach to Child Abuse

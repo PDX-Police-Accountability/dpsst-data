@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2024
+  course: OCP1920A
+  title: LEDS Re-Certification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/5/2024
+  course: OCP4400A
+  title: 3 Day MRDS Converstion Course
+  status: Instructed
+  score: '0.0'
+  hours: '19.00'
 - date: 9/30/2024
   course: PDS2097A
   title: Mobile Field Force

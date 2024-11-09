@@ -38,6 +38,7 @@
 | 10/14/2024 | OCS4265A | Intoxilyzer 8000 Certification | Instructed | 0.0 | 6.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/10/2024 | OCS4169A | Annual DV Training | Passed | 0.0 | 1.00 |
+| 10/10/2024 | OCS3414A | Annual DV Training | Passed | 0.0 | 1.00 |
 | 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
 | 9/1/2024 | OCS0329A | Efficient Holster speed/marksmanship | Passed | 0.0 | 1.00 |
