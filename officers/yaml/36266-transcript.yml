@@ -3,12 +3,18 @@ header_record:
   name: Traynor, Christopher M.
   dpsst_identifier: '36266'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/1/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 9/21/2006
   agency: Portland Police Bureau
   action: Promotion
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/25/2010
-  expiration_date: ''
+  expiration_date: 2/1/2025
   probation_date: ''
 - status_date: 2/25/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/25/2010
-  expiration_date: ''
+  expiration_date: 2/1/2025
   probation_date: ''
 - status_date: 9/28/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 9/28/1999
-  expiration_date: ''
+  expiration_date: 2/1/2025
   probation_date: ''
 training_records:
 - date: 9/25/2024

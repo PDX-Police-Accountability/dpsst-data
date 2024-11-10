@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/13/2024 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 1/20/2011 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 5/26/2005 | Portland Police Bureau | Hired | Police Off |  |  |
 | 5/24/2005 | Clackamas County Sheriff's Office | Resigned | Dpty Shrf |  |  |

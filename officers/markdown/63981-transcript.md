@@ -20,6 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 8/14/2023 |  |
 | Certification Cards | First Aid and CPR | 8/7/2023 | 8/7/2025 |
 | Certification Cards | First Aid and CPR | 7/11/2023 | 7/11/2025 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/1/2024 | Portland Police Bureau | LOA | Police Off |  |  |
 | 2/26/2024 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 7/25/2022 | Portland Police Bureau | LOA | Police Off |  |  |
 | 8/23/2017 | Portland Police Bureau | Hired | Police Off |  |  |

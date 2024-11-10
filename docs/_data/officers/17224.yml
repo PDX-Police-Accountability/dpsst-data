@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2024
+  course: HSU3408A
+  title: Core Compentancies/ Principles of Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/28/2024
   course: HSU4235A
   title: Title IX  Belonging at OHSU

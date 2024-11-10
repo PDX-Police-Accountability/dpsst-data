@@ -37,6 +37,7 @@
 | 10/3/2024 | OCS1325A | OC Spray | Passed | 0.0 | 1.00 |
 | 10/1/2024 | STN3962A | DV Academy Day 2 | Passed | 0.0 | 8.00 |
 | 9/24/2024 | PDN1980A | LS/CMI | Passed | 0.0 | 16.00 |
+| 9/24/2024 | PDN2369A | LS/CMI | Passed | 0.0 | 16.00 |
 | 9/17/2024 | OCS4496A | Firearms Low Light | Passed | 0.0 | 2.00 |
 | 9/12/2024 | OCN2174A | Human Trafficking | Passed | 0.0 | 2.00 |
 | 9/6/2024 | OCS2839A | Use of Force | Passed | 0.0 | 1.25 |

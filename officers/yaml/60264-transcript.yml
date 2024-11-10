@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 9/24/2024
+  course: PDN2369A
+  title: LS/CMI
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/17/2024
   course: OCS4496A
   title: Firearms Low Light

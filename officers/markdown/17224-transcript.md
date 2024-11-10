@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2024 | HSU3408A | Core Compentancies/ Principles of Leadership | Passed | 0.0 | 4.00 |
 | 10/28/2024 | HSU4235A | Title IX  Belonging at OHSU | Passed | 0.0 | 3.00 |
 | 10/21/2024 | HSU1199A | IACP Conference Leadership Track | Passed | 0.0 | 15.00 |
 | 10/14/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |

@@ -18,14 +18,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/11/2024 | Police Officer | Intermediate | App Recd |  |  |  |
+| 11/8/2024 | Police Officer | Intermediate | Granted | 11/8/2024 |  |  |
 | 2/3/2021 | Police Officer | Basic | Granted | 2/3/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 10/3/2024 | 10/3/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
 | Code of Ethics | Law Enforcement Signed | 1/10/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 9/23/2020 |  |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/24/2024 | HRS4059A | Firearms Range | Passed | 0.0 | 4.00 |
 | 10/10/2024 | HRS0482A | Law Enforcement Ethics: Pillars to Success | Passed | 0.0 | 1.00 |
 | 10/3/2024 | HRS0394A | CPR and First Aid | Passed | 0.0 | 4.00 |
