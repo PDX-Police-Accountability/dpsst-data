@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2024 | FGP1810A | Ethics and Professionalism in LE refresher | Passed | 0.0 | 1.00 |
 | 9/11/2024 | FGP0396A | DV Offender Risk Form Training | Passed | 0.0 | 1.00 |
 | 9/9/2024 | FGP3665A | WC Deflection Program Training | Passed | 0.0 | 1.00 |
 | 6/15/2024 | FGP0050A | 2024 Legal Update | Passed | 0.0 | 1.00 |

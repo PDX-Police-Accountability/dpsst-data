@@ -49,6 +49,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/31/2024
+  course: HRS2510A
+  title: Officer Involved Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/24/2024
   course: HRS4059A
   title: Firearms Range

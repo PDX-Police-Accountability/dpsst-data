@@ -73,6 +73,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/7/2024
+  course: MOS0608A
+  title: NORTAC Night Vision Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/17/2024
   course: HRS0854A
   title: Barricaded Subject Operations

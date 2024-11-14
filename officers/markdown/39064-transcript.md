@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/31/2024 | TDP1118A | House Bill 4002 Implementation | Passed | 0.0 | 1.50 |
+| 10/31/2024 | HRS2510A | Officer Involved Shooting | Passed | 0.0 | 1.00 |
 | 10/20/2024 | TDP3822A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/24/2024 | VND2752A | Intro to Police Union Representation | Passed | 0.0 | 7.00 |

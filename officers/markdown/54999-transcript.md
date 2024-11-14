@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/7/2024 | MOS0608A | NORTAC Night Vision Training | Passed | 0.0 | 4.00 |
 | 10/17/2024 | HRS0854A | Barricaded Subject Operations | Passed | 0.0 | 4.00 |
 | 10/14/2024 | HRS0482A | Law Enforcement Ethics: Pillars to Success | Passed | 0.0 | 1.00 |
 | 10/3/2024 | HRS0394A | CPR and First Aid | Passed | 0.0 | 4.00 |

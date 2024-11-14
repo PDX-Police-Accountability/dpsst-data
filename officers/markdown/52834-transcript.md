@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2024 | OCS2625A | RADAR Lidar Operator Course | Passed | 0.0 | 8.00 |
 | 9/19/2024 | OCS3386A | 24' SWAT/CNT Week- Intel Gathering  Scenerio | Passed | 0.0 | 6.50 |
 | 9/19/2024 | OCS2473A | 24' SWAT/CNT Week- Final Scenerio 1  2 | Passed | 0.0 | 7.50 |
 | 9/17/2024 | OCS4161A | 24' SWAT/CNT Week- Resiliency  Stress Management | Passed | 0.0 | 3.00 |

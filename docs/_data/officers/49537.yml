@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2029
+  course: BPT1888A
+  title: Northwest Regional CIT Conference-Day 1
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 10/29/2024
+  course: BPT0124A
+  title: Northwest Regional CIT Conference-Day 2
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 10/16/2024
   course: PDP0459A
   title: 2024 CNT Crisis Negotiation Team Annual Training

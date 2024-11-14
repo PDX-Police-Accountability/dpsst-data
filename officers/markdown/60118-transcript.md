@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/31/2024 | HRS2510A | Officer Involved Shooting | Passed | 0.0 | 1.00 |
 | 10/24/2024 | HRS4059A | Firearms Range | Passed | 0.0 | 4.00 |
 | 10/10/2024 | HRS0482A | Law Enforcement Ethics: Pillars to Success | Passed | 0.0 | 1.00 |
 | 10/3/2024 | HRS0394A | CPR and First Aid | Passed | 0.0 | 4.00 |

@@ -100,6 +100,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/11/2024
+  course: HSU2860A
+  title: IACP Conference Leadership Track
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/7/2024
+  course: HSU2860A
+  title: IACP Conference Leadership Track
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/5/2024
   course: HSU3408A
   title: Core Compentancies/ Principles of Leadership

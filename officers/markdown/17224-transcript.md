@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/11/2024 | HSU2860A | IACP Conference Leadership Track | Passed | 0.0 | 3.00 |
+| 11/7/2024 | HSU2860A | IACP Conference Leadership Track | Passed | 0.0 | 2.00 |
 | 11/5/2024 | HSU3408A | Core Compentancies/ Principles of Leadership | Passed | 0.0 | 4.00 |
 | 10/28/2024 | HSU4235A | Title IX  Belonging at OHSU | Passed | 0.0 | 3.00 |
 | 10/21/2024 | HSU1199A | IACP Conference Leadership Track | Passed | 0.0 | 15.00 |

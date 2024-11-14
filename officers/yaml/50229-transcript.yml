@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/25/2024
+  course: VND4387A
+  title: Directors Message_Code of Conduct
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/14/2024
   course: TRN4262A
   title: UA Specimen Collection and Packaging-Redwood v2019

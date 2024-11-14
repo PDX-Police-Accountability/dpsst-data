@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/25/2024 | VND4387A | Directors Message_Code of Conduct | Passed | 0.0 | 0.00 |
 | 6/14/2024 | TRN4262A | UA Specimen Collection and Packaging-Redwood v2019 | Passed | 0.0 | 1.00 |
 | 6/13/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/27/2024 | TRN2539A | CCCF Fire Suppression Training v2024 | Passed | 0.0 | 1.00 |

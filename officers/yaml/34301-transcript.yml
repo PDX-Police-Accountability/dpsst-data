@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2024
+  course: VND4387A
+  title: Directors Message_Code of Conduct
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/16/2024
   course: TRN0292A
   title: TruNarc External Training
@@ -181,6 +187,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/15/2024
+  course: VND4020A
+  title: Threat and Risk Assessment v2024
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/14/2024
   course: TRN1331A
   title: DOC - Annual Firearms Training v2024
