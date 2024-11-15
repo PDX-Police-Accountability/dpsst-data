@@ -182,6 +182,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/26/2024
+  course: PDP0505A
+  title: Tactical Trauma Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/13/2024
   course: PDP2536A
   title: 2024 CNT Crisis Negotiation Team Annual Training

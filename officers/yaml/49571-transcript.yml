@@ -127,6 +127,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 7/19/2024
+  course: PDP3234A
+  title: MMBTH Breaching Certification
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/12/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023

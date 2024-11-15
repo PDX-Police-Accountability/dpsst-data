@@ -59,6 +59,7 @@
 | 1/24/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 1/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/20/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
+| 1/9/2024 | PDP1402A | Critical Infra. Security  Resilience Awrnss | Passed | 0.0 | 8.00 |
 | 12/24/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/24/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/19/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

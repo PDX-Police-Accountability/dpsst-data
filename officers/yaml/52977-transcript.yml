@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/4/2024
+  course: PDP0487A
+  title: Extreme Close Quarter Concepts
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/30/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023

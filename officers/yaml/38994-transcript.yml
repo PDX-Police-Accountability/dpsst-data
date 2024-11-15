@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/11/2024
+  course: PDP3838A
+  title: Digital Data Exploitation
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 7/4/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm

@@ -122,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/31/2024
+  course: PDP1897A
+  title: CyberTip Triage  Open-Source Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/30/2024
   course: SAG0293A
   title: Cybertip Triage and Open Source Intelligence

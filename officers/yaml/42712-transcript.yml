@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 9/30/2024
+  course: HBS0963A
+  title: Restraint Chair
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 6/1/2024
   course: HBS4415A
   title: 2024 MAY ADA JAIL

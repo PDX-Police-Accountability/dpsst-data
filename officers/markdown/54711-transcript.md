@@ -53,7 +53,9 @@
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/27/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/24/2024 | PDP4448A | Behavioral Health Assessment | Passed | 0.0 | 8.00 |
 | 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/13/2024 | PDP1031A | ASIST 11 Training | Passed | 0.0 | 14.00 |
 | 5/30/2024 | PDP3654A | Behavioral Threat Assessment Team Training | Passed | 0.0 | 16.00 |
 | 5/16/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 5/16/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

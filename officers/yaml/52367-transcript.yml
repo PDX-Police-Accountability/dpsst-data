@@ -368,6 +368,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/27/2024
+  course: PDP0849A
+  title: Physical  Cybersecurity for Critical Infrastr.
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/26/2024
   course: PDP3653A
   title: 2024-1 Range Qual 40mm Less Lethal Qualification
@@ -422,6 +428,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/11/2024
+  course: PDP3195A
+  title: Threat  Hazard ID  Risk Assessment
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/14/2023
   course: PDP2720A
   title: 2023-2 All Sworn In-Service BWC Policy

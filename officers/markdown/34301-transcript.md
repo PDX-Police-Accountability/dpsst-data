@@ -60,6 +60,7 @@
 | 2/15/2024 | TRN2638A | Ethics v2024 | Passed | 0.0 | 1.00 |
 | 2/15/2024 | TRN1294A | Records Management v2024 | Passed | 0.0 | 1.00 |
 | 2/15/2024 | VND4020A | Threat and Risk Assessment v2024 | Passed | 0.0 | 2.00 |
+| 2/15/2024 | VND3842A | Threat and Risk Assessment v2024 | Passed | 0.0 | 2.00 |
 | 2/14/2024 | TRN1331A | DOC - Annual Firearms Training v2024 | Passed | 0.0 | 8.00 |
 | 2/13/2024 | TRN0161A | DOC - De-Escalation Cycle v2024 | Passed | 0.0 | 3.00 |
 | 2/13/2024 | TRN0183A | DOC - Drug Recognition and Interdiction v2024 | Passed | 0.0 | 3.00 |

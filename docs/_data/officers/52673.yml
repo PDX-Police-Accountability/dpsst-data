@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/4/2024
+  course: PDP0487A
+  title: Extreme Close Quarter Concepts
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/25/2024
   course: PDP2586A
   title: 2024-2 Range Qual 40mm Less Lethal

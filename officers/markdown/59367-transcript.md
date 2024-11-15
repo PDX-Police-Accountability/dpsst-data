@@ -50,6 +50,7 @@
 | 8/14/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 8/9/2024 | PDP3057A | Patrol Officers Response to Street Drugs | Passed | 0.0 | 32.00 |
 | 7/26/2024 | HDA0190A | Basic Narcotics Investigations | Passed | 0.0 | 40.00 |
 | 7/22/2024 | OCS2496A | Basic Narcotics | Passed | 0.0 | 40.00 |
 | 6/7/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

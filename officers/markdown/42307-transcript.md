@@ -46,6 +46,7 @@
 | 8/21/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/4/2024 | PDP3223A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 7/31/2024 | EGP1435A | Police Motorcade Training | Instructed | 0.0 | 8.00 |
+| 7/31/2024 | PDP0905A | Motorcade/Motor Escort Training | Passed | 0.0 | 8.00 |
 | 7/29/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
 | 7/10/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 7/10/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

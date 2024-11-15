@@ -138,6 +138,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/9/2024
+  course: PDP3057A
+  title: Patrol Officers Response to Street Drugs
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 7/26/2024
   course: HDA0190A
   title: Basic Narcotics Investigations

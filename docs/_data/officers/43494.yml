@@ -184,6 +184,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/19/2024
+  course: PDP3473A
+  title: Science of Disaster
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/16/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

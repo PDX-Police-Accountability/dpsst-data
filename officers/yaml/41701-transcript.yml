@@ -230,6 +230,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/11/2024
+  course: PDP2587A
+  title: IVAT Int'l Summit on Violence, Abuse  Trauma
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 4/2/2024
   course: PDP3939A
   title: 2024-3 CAO Legal Updates for 03/2024

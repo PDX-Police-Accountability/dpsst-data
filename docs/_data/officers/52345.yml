@@ -183,6 +183,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/24/2024
+  course: PDP4448A
+  title: Behavioral Health Assessment
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/13/2024
   course: PDP3208A
   title: 2024 SERT Training - Scenario

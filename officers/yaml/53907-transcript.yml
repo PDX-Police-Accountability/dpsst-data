@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/5/2024
+  course: PDP4161A
+  title: Oakland Ceasefire Site Visit
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 8/19/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023

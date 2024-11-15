@@ -193,6 +193,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/15/2024
+  course: VND3842A
+  title: Threat and Risk Assessment v2024
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/14/2024
   course: TRN1331A
   title: DOC - Annual Firearms Training v2024

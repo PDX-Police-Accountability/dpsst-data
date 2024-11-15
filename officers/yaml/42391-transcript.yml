@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/5/2024
+  course: PDP0600A
+  title: Social Media Investigations
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 8/12/2024
   course: PDP3146A
   title: 2024-4 CAO Legal Updates for 04/2024
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/7/2024
+  course: PDP1628A
+  title: Human Trafficking Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/25/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023

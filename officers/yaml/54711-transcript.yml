@@ -152,12 +152,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/24/2024
+  course: PDP4448A
+  title: Behavioral Health Assessment
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/19/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/13/2024
+  course: PDP1031A
+  title: ASIST 11 Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 5/30/2024
   course: PDP3654A
   title: Behavioral Threat Assessment Team Training

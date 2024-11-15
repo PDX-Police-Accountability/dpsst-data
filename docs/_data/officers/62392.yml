@@ -192,6 +192,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/9/2024
+  course: PDP1402A
+  title: Critical Infra. Security  Resilience Awrnss
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/24/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

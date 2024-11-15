@@ -110,6 +110,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 7/31/2024
+  course: PDP0905A
+  title: Motorcade/Motor Escort Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/29/2024
   course: PDP1150A
   title: 2024 AR-15 Operator In-Service

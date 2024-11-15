@@ -46,6 +46,7 @@
 | 8/9/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 8/7/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/25/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 7/11/2024 | PDP3838A | Digital Data Exploitation | Passed | 0.0 | 32.00 |
 | 7/4/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/3/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 7/3/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |

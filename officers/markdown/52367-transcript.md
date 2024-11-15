@@ -89,6 +89,7 @@
 | 4/24/2024 | PDP1231A | SOP 2-11 Range Training and Qualification Policies | Passed | 0.0 | 0.25 |
 | 4/12/2024 | PDP0779A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 9.00 |
 | 4/4/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 2/27/2024 | PDP0849A | Physical  Cybersecurity for Critical Infrastr. | Passed | 0.0 | 8.00 |
 | 2/26/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 2/26/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 2/26/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -98,6 +99,7 @@
 | 2/8/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/8/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 1/16/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
+| 1/11/2024 | PDP3195A | Threat  Hazard ID  Risk Assessment | Passed | 0.0 | 16.00 |
 | 12/14/2023 | PDP2720A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/14/2023 | PDP0387A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 12/14/2023 | PDP1554A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |

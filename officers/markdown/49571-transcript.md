@@ -49,6 +49,7 @@
 | 7/24/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 7/24/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 7/19/2024 | EGP0622A | FETT - MMBTH Breching Course | Passed | 0.0 | 40.00 |
+| 7/19/2024 | PDP3234A | MMBTH Breaching Certification | Passed | 0.0 | 40.00 |
 | 7/12/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 7/12/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/12/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

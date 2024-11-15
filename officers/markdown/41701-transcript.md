@@ -66,6 +66,7 @@
 | 4/25/2024 | PDP4233A | 2024-1 All Sworn In-Service PVO/BoxIn | Passed | 0.0 | 1.50 |
 | 4/25/2024 | PDP0063A | 2024-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.50 |
 | 4/19/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/11/2024 | PDP2587A | IVAT Int'l Summit on Violence, Abuse  Trauma | Passed | 0.0 | 23.50 |
 | 4/2/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 3/13/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/13/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |

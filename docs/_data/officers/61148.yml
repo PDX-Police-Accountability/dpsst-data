@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/12/2024
+  course: PDP3788A
+  title: Interview  Interrogation Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/5/2024
   course: PDP0993A
   title: 2024 40mm Less Lethal Operator In-Service
