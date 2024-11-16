@@ -34,9 +34,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 8/27/2024 | 8/27/2026 |
 | Certification Cards | First Aid and CPR | 8/19/2024 | 8/27/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 10/12/2006 |  |
 ## Education
@@ -47,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2024 | STP2620A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 10/15/2024 | STP0438A | Policy Review - Communication Security | Instructed | 0.0 | 0.75 |
 | 10/7/2024 | STP0590A | X26P Taser Recertification | Passed | 0.0 | 2.00 |

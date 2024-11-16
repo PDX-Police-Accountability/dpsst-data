@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2024
+  course: PDP3389A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/22/2024
   course: PDP1082A
   title: 2024 Supervisor In-Service Force Inspector Updates

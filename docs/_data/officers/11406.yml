@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/30/2023
+  agency: DPSST Use Only
+  action: Resigned
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 3/1/2021
   agency: Woodburn Police Department
   action: Retired
@@ -106,10 +112,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 2/8/2022
+- status_date: 6/30/2023
   certificate: Instructor
   level: ''
-  status: Granted
+  status: Expired
   certificate_date: 2/8/2022
   expiration_date: ''
   probation_date: ''

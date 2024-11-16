@@ -2859,6 +2859,10 @@ training_records:
   hours: '30.00'
 attribute_records:
 - topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 11/12/2024
+  expiration_date: ''
+- topic: Code of Ethics
   value: Signed
   effective_date: 4/24/2014
   expiration_date: ''

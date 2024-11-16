@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2024
+  course: TDP0715A
+  title: Criminal Process for digital evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/31/2024
   course: TDP1118A
   title: House Bill 4002 Implementation
@@ -71,6 +77,12 @@ training_records:
 - date: 10/31/2024
   course: HRS2510A
   title: Officer Involved Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2024
+  course: TDP3710A
+  title: PREA
   status: Passed
   score: '0.0'
   hours: '1.00'

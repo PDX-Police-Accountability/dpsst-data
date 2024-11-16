@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/30/2023 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 4/1/2021 | Canby Police Department | Retired | Chief |  |  |
 | 12/6/2019 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 1/18/2010 | Canby Police Department | Hired | Chief |  |  |
@@ -25,13 +26,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/30/2023 | Instructor |  | Expired | 8/3/2020 |  |  |
 | 7/1/2021 | Police Officer | Advanced | Lapsed | 10/1/2009 | 4/1/2026 |  |
 | 7/1/2021 | Police Officer | Basic | Lapsed | 3/5/1982 | 4/1/2026 |  |
 | 7/1/2021 | Police Officer | Executive | Lapsed | 11/9/2009 | 4/1/2026 |  |
 | 7/1/2021 | Police Officer | Intermediate | Lapsed | 10/1/2009 | 4/1/2026 |  |
 | 7/1/2021 | Police Officer | Management | Lapsed | 10/12/2009 | 4/1/2026 |  |
 | 7/1/2021 | Police Officer | Supervisory | Lapsed | 10/12/2009 | 4/1/2026 |  |
-| 8/3/2020 | Instructor |  | Granted | 8/3/2020 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

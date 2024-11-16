@@ -34,7 +34,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2024 | PDP1320A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 11/6/2024 | PDP1320A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 10/23/2024 | PDP3910A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/20/2024 | GSP2774A | UAS Ground School | Instructed | 0.0 | 10.00 |
+| 10/16/2024 | PDP1599A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/9/2024 | PDP3904A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/30/2024 | PDP1352A | 2024-3 In-Service CAO Legal Updates: Addendum | Passed | 0.0 | 0.25 |
 | 9/30/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |

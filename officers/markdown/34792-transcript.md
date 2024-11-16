@@ -27,6 +27,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 10/30/2026 | 10/30/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Certification Cards | First Aid and CPR | 11/4/2024 | 11/4/2026 |
+| Certification Cards | First Aid and CPR | 10/30/2024 | 10/30/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
@@ -39,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/30/2026 | TAP0497A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
+| 11/4/2024 | TAP0445A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
+| 10/30/2024 | TAP0790A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
 | 10/18/2024 | ADP2035A | TASER 10 Certification | Instructed | 0.0 | 6.00 |
 | 10/18/2024 | ADP1083A | TASER Annual Recertification | Passed | 0.0 | 2.00 |
 | 10/9/2024 | TAP3344A | Pipeline Emergency Response Training | Passed | 0.0 | 1.00 |
@@ -97,6 +101,7 @@
 | 2/22/2023 | TAP17890 | JacksonCountyMHEarlyAssessmentandSupportAlliance | Passed | 0.0 | 1.00 |
 | 2/17/2023 | ADP29249 | Defensive Tactics Training | Passed | 0.0 | 3.00 |
 | 2/17/2023 | ADP29746 | Common Ground Training | Passed | 0.0 | 4.00 |
+| 2/13/2023 | TAP2708A | Anti Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 1/26/2023 | BPT43048 | RADAR/LIDAR Instructor Development Course | Passed | 0.0 | 40.00 |
 | 1/23/2023 | BPT40820 | Instructor Core | Passed | 0.0 | 2.00 |
 | 1/9/2023 | TAP26427 | OSP Forensic Lab submissions for drugs | Passed | 0.0 | 0.50 |

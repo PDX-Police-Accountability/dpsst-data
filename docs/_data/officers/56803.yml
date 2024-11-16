@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2024
+  course: PDP1705A
+  title: 2024 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/26/2024
   course: PDP1880A
   title: 2024 Oregon State Lead Quick Facts
@@ -3707,6 +3713,11 @@ attribute_records:
   effective_date: 2/21/2017
   expiration_date: ''
 education_records:
+- date: 11/6/2024
+  degree: Bachelor Arts
+  school: Oregon State University
+  major: History
+  hours: '170.0'
 - date: 9/15/2017
   degree: No Degree
   school: Clatsop Community College

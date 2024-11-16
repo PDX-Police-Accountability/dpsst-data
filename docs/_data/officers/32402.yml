@@ -98,6 +98,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/1/2024
+  course: HBS3581A
+  title: OSHA-Heat Related Illness
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/30/2024
   course: HBS1135A
   title: LEDs Recertification

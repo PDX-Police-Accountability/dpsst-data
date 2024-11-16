@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2024 | PDP3389A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 10/21/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/17/2024 | PDP0666A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.50 |
 | 10/2/2024 | GSP0866A | OPCA Fall Seminar - Patrol | Passed | 0.0 | 24.00 |

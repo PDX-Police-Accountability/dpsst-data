@@ -20,6 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 11/14/2024 | Police Officer | Advanced | App Recd |  |  |  |
 | 7/24/2020 | Police Officer | Intermediate | Granted | 7/24/2020 |  |  |
 | 11/12/2009 | Police Officer | Basic | Granted | 11/12/2009 |  |  |
 ## Attributes

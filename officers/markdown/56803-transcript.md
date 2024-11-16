@@ -29,11 +29,13 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 11/6/2024 | Bachelor Arts | Oregon State University | History | 170.0 |
 | 9/15/2017 | No Degree | Clatsop Community College |  | 21.0 |
 | 6/15/2016 | No Degree | All Other Education Institutes |  | 7.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | PDP1705A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/26/2024 | PDP1880A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 10/26/2024 | PDP3463A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 10/26/2024 | PDP1199A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

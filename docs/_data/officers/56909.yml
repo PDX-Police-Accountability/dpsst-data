@@ -3,12 +3,18 @@ header_record:
   name: Abby, Jared R.
   dpsst_identifier: '56909'
   agency: Portland Police Bureau
-  employment_status: Active
-  rank: Police Officer
+  employment_status: Inactive
+  rank: Criminalist
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/7/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Criminalst
+  classification: ''
+  assignment: ''
 - date: 9/28/2020
   agency: Portland Police Bureau
   action: Retrn MLOA
@@ -33,14 +39,14 @@ certification_records:
   level: Intermediate
   status: Granted
   certificate_date: 5/26/2022
-  expiration_date: ''
+  expiration_date: 2/7/2025
   probation_date: ''
 - status_date: 10/23/2017
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 10/23/2017
-  expiration_date: ''
+  expiration_date: 2/7/2025
   probation_date: ''
 training_records:
 - date: 10/3/2024

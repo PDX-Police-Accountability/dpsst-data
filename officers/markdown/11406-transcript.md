@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/30/2023 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 3/1/2021 | Woodburn Police Department | Retired | Chief |  |  |
 | 4/19/2019 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 12/14/2015 | Woodburn Police Department | Hired | Chief |  |  |
@@ -31,7 +32,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/8/2022 | Instructor |  | Granted | 2/8/2022 |  |  |
+| 6/30/2023 | Instructor |  | Expired | 2/8/2022 |  |  |
 | 6/1/2021 | Police Officer | Advanced | Lapsed | 6/10/1992 | 3/1/2026 |  |
 | 6/1/2021 | Police Officer | Basic | Lapsed | 5/9/1980 | 3/1/2026 |  |
 | 6/1/2021 | Police Officer | Executive | Lapsed | 10/22/2008 | 3/1/2026 |  |

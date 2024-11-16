@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/11/2024 | NGP4541A | Taser CEW Operator Recertification course | Passed | 0.0 | 2.00 |
 | 10/28/2024 | NGP3635A | EVOC Refresher | Passed | 0.0 | 5.00 |
 | 10/14/2024 | NGP2961A | HB4002/Search  Seizure | Passed | 0.0 | 1.00 |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

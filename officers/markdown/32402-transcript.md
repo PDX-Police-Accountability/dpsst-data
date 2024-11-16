@@ -45,6 +45,7 @@
 | 10/22/2024 | HBS2000A | InService Session #2 DT's | Passed | 0.0 | 4.00 |
 | 10/22/2024 | HBS3601A | InService Session #2 EVO | Passed | 0.0 | 3.00 |
 | 10/18/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/1/2024 | HBS3581A | OSHA-Heat Related Illness | Passed | 0.0 | 0.75 |
 | 9/30/2024 | HBS1135A | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 9/16/2024 | HBS0821A | RDS Transition Course | Passed | 0.0 | 18.00 |
 | 6/6/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

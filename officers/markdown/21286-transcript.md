@@ -43,6 +43,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/9/2024 | BBP2605A | Pistol/rifle qualification and tactical range | Passed | 0.0 | 1.00 |
+| 10/9/2024 | BBP4267A | Pistol/rifle qualification and tactical range | Passed | 0.0 | 1.00 |
+| 10/2/2024 | BBP1969A | 9th Circuit Court Review/Las Vegas Case | Passed | 0.0 | 1.00 |
 | 4/30/2024 | BBP1189A | First Aid/CPR/AED/Chest Seal Application | Passed | 0.0 | 1.50 |
 | 4/30/2024 | BBP3608A | Diabetic Emergencies | Passed | 0.0 | 1.00 |
 | 4/30/2024 | BBP1844A | Naloxone | Passed | 0.0 | 1.00 |

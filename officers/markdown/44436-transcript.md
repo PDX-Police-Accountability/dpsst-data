@@ -35,12 +35,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2024 | PDP1320A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 10/23/2024 | PDP3910A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/20/2024 | GSP2774A | UAS Ground School | Instructed | 0.0 | 30.00 |
 | 10/17/2024 | PDP1082A | 2024 Supervisor In-Service Force Inspector Updates | Passed | 0.0 | 1.00 |
 | 10/17/2024 | PDP3074A | 2024 Supervisor In-Service ICS Refresher | Passed | 0.0 | 2.00 |
 | 10/17/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |
 | 10/17/2024 | PDP2002A | 2024 Supervisor In-Service Overview PSD and IA | Passed | 0.0 | 1.00 |
 | 10/17/2024 | PDP4286A | 2024 Supervisor In-Service Overview of 2020 Unrest | Passed | 0.0 | 3.00 |
+| 10/16/2024 | PDP1599A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 10/16/2024 | PDP1599A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 10/9/2024 | PDP3904A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/6/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/6/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |

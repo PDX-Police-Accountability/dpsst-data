@@ -48,6 +48,7 @@
 | 8/7/2024 | HBP1605A | ACAP - Airways Training | Passed | 0.0 | 2.00 |
 | 6/30/2024 | HBP4110A | Respectful Workplace - Employee Training | Passed | 0.0 | 1.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 6/24/2024 | HBS0312A | PREA | Passed | 0.0 | 1.00 |
 | 6/11/2024 | HBP3017A | Concepts of Force Science | Passed | 0.0 | 3.50 |
 | 6/11/2024 | HBP4217A | Major Crimes Team Training | Passed | 0.0 | 4.00 |
 | 5/31/2024 | HBP0527A | PoliceOne HPD Pursuit Intervention Tactics | Passed | 0.0 | 0.50 |
