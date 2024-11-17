@@ -120,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/4/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/2/2024
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

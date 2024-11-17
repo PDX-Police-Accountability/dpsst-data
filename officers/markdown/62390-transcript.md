@@ -35,6 +35,17 @@
 | 10/3/2024 | VND0763A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 10/3/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/3/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/19/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
+| 9/19/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
+| 9/19/2024 | PDP2644A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
+| 9/19/2024 | PDP2514A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 1.50 |
+| 9/19/2024 | PDP3341A | 2024-3 All Sworn In-Service MFF: Scenarios | Passed | 0.0 | 2.00 |
+| 9/19/2024 | PDP2945A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |
+| 9/18/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 9/18/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 9/18/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
+| 9/18/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
+| 9/18/2024 | PDP3280A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 9/16/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/13/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 9/13/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -50,6 +61,7 @@
 | 8/15/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/8/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 7/8/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 6/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Passed | 0.0 | 50.00 |
 | 5/10/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/7/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |

@@ -55,6 +55,7 @@
 | 8/2/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 8/2/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 8/2/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 8/2/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/1/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
 | 6/28/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/28/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |

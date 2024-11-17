@@ -65,6 +65,7 @@
 | 6/28/2024 | PDP2550A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 40.00 |
 | 6/28/2024 | PDP4171A | Tech. Installations in High Voltage Environment | Passed | 0.0 | 36.00 |
 | 6/19/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
+| 6/19/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/15/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 5/21/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/22/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

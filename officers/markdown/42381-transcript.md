@@ -39,12 +39,16 @@
 | 10/2/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 9/19/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/9/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
+| 9/4/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 9/4/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 9/4/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 9/3/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 9/3/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 9/3/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 9/3/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 9/3/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/3/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/3/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/25/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/25/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/25/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

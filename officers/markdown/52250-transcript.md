@@ -35,6 +35,17 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/25/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/25/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/17/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
+| 9/17/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
+| 9/17/2024 | PDP2644A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
+| 9/17/2024 | PDP3341A | 2024-3 All Sworn In-Service MFF: Scenarios | Passed | 0.0 | 2.00 |
+| 9/17/2024 | PDP2514A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 1.50 |
+| 9/17/2024 | PDP2945A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |
+| 9/16/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 9/16/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 9/16/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
+| 9/16/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
+| 9/16/2024 | PDP3280A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 9/8/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/13/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -53,6 +64,7 @@
 | 6/18/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/18/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/18/2024 | PDP0909A | 2024-2 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
+| 6/12/2024 | PDP2071A | 2024 Body Worn Camera Investigator Trainer Course | Passed | 0.0 | 5.00 |
 | 4/25/2024 | PDP3273A | NCFTA Conference | Passed | 0.0 | 20.00 |
 | 4/16/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/4/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

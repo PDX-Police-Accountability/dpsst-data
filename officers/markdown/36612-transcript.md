@@ -49,6 +49,7 @@
 | 7/18/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/18/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/7/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 6/7/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -38,10 +38,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
+| 10/29/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
+| 10/29/2024 | PDP2644A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
+| 10/29/2024 | PDP2514A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 1.50 |
+| 10/29/2024 | PDP3341A | 2024-3 All Sworn In-Service MFF: Scenarios | Passed | 0.0 | 2.00 |
+| 10/29/2024 | PDP2945A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |
+| 10/28/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 10/28/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 10/28/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
+| 10/28/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
+| 10/28/2024 | PDP3280A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 10/25/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 9/19/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/19/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/21/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 7/29/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/17/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 7/17/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 7/17/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

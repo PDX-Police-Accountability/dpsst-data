@@ -32,6 +32,7 @@
 | 10/2/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/4/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/26/2024 | PDP1413A | DIR 660.10 Property  Evidence Proc 2018-5 TT | Passed | 0.0 | 0.50 |
+| 8/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 8/20/2024 | PDP1294A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 8/13/2024 | PDP2674A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 8/12/2024 | PDP0006A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 4.00 |

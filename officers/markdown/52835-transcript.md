@@ -41,6 +41,7 @@
 | 9/2/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/21/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 8/21/2024 | PDP0909A | 2024-2 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
+| 8/21/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/20/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 7/23/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
@@ -55,6 +56,7 @@
 | 7/1/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/1/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 7/1/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 7/1/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 5/7/2024 | PDP2151A | 2024 Investigator In-Service Case Study | Passed | 0.0 | 2.00 |
 | 5/7/2024 | PDP1036A | 2024 Investigator In-Service Device Warrants | Passed | 0.0 | 2.00 |
 | 5/7/2024 | PDP4043A | 2024 Investigator In-Service DFU | Passed | 0.0 | 2.00 |

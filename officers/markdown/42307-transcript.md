@@ -58,6 +58,7 @@
 | 7/3/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 7/3/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/11/2024 | PDP1790A | 2024 Body Worn Camera Trainer Course | Passed | 0.0 | 4.00 |
 | 5/16/2024 | PDP3174A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 5/16/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 5/6/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

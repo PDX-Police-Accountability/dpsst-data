@@ -45,6 +45,7 @@
 | 9/6/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/4/2024 | PDP2692A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/28/2024 | PDP0093A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/27/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.00 |
 | 8/14/2024 | PDP3482A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/8/2024 | PDP2723A | 2024 MEDU Weekly Training (IN-SERVICE) | Passed | 0.0 | 36.00 |
 | 8/1/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

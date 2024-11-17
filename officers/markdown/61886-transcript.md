@@ -44,6 +44,7 @@
 | 8/7/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 7/20/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/20/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/19/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/12/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/6/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/18/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

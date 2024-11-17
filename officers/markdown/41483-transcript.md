@@ -4,7 +4,7 @@
 | name | Zentner, Davonne R. |
 | dpsst_identifier | 41483 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/7/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 7/25/2022 | Portland Police Bureau | LOA | Police Off |  |  |
 | 3/17/2006 | Portland Police Bureau | Hired | Police Off |  |  |
 | 3/10/2006 | Salem Police Department | Resigned | Police Off |  |  |
@@ -21,14 +22,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/5/2010 | Police Officer | Advanced | Granted | 10/5/2010 |  |  |
-| 11/29/2004 | Police Officer | Intermediate | Granted | 11/29/2004 |  |  |
-| 8/25/2003 | Police Officer | Basic | Granted | 8/25/2003 |  |  |
+| 10/5/2010 | Police Officer | Advanced | Granted | 10/5/2010 | 2/7/2025 |  |
+| 11/29/2004 | Police Officer | Intermediate | Granted | 11/29/2004 | 2/7/2025 |  |
+| 8/25/2003 | Police Officer | Basic | Granted | 8/25/2003 | 2/7/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 6/4/2024 | 6/4/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +54,7 @@
 | 8/8/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/8/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 8/8/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 8/6/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/19/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/5/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |
 | 6/5/2024 | PDP3343A | 2023-2 In Service Recording Crime Scene Management | Passed | 0.0 | 1.00 |

@@ -44,6 +44,7 @@
 | 7/11/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/11/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 7/11/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/11/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/5/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 6/4/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/28/2024 | PDP4332A | OSP DNA Training | Passed | 0.0 | 2.00 |

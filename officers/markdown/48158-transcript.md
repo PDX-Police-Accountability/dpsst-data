@@ -43,6 +43,7 @@
 | 9/24/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 8/28/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/20/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/15/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/7/2024 | PDP1630A | Wharton's Leadership and Management Program | Passed | 0.0 | 45.00 |
 | 7/16/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

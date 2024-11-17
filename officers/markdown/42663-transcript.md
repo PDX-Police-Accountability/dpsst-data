@@ -51,6 +51,7 @@
 | 7/17/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/8/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/8/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 7/8/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/3/2024 | PDP1223A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/27/2024 | PDP1451A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 6/26/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Instructed | 0.0 | 9.00 |

@@ -148,6 +148,78 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/12/2024
+  course: PDP0778A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/12/2024
+  course: PDP2037A
+  title: '2024-3 All Sworn In-Service MFF: APR'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/12/2024
+  course: PDP2644A
+  title: '2024-3 All Sworn In-Service MFF: Formations'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/12/2024
+  course: PDP2514A
+  title: 2024-3 All Sworn In-Service MFF PO Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/12/2024
+  course: PDP3341A
+  title: '2024-3 All Sworn In-Service MFF: Scenarios'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/12/2024
+  course: PDP2945A
+  title: '2024-3 All Sworn In-Service MFF: Use of Force TT'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/11/2024
+  course: PDP1634A
+  title: 2024-3 All Sworn In-Service ABLE (CIT)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/11/2024
+  course: PDP1991A
+  title: 2024-3 All Sworn In-Service ABLE (Ethics)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/11/2024
+  course: PDP0138A
+  title: 2024-3 All Sworn In-Service Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 9/11/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/11/2024
+  course: PDP3280A
+  title: 2024-3 All Sworn In-Service Wellness Elective
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 8/30/2024
+  course: PDP2600A
+  title: 2024 Body Worn Camera Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/27/2024
   course: PDP1882A
   title: School Emergency Actions

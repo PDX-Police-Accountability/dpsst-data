@@ -3,12 +3,18 @@ header_record:
   name: Zentner, Davonne R.
   dpsst_identifier: '41483'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/7/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/25/2022
   agency: Portland Police Bureau
   action: LOA
@@ -51,21 +57,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/5/2010
-  expiration_date: ''
+  expiration_date: 2/7/2025
   probation_date: ''
 - status_date: 11/29/2004
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/29/2004
-  expiration_date: ''
+  expiration_date: 2/7/2025
   probation_date: ''
 - status_date: 8/25/2003
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 8/25/2003
-  expiration_date: ''
+  expiration_date: 2/7/2025
   probation_date: ''
 training_records:
 - date: 10/15/2024
@@ -140,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/6/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/19/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits
@@ -3851,6 +3863,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/4/2024
   expiration_date: 6/4/2026
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2022
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/20/2002

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/13/2024
+  agency: DPSST Use Only
+  action: InstrApp
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 1/24/2008
   agency: Portland Police Bureau
   action: Hired
@@ -74,6 +80,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2024
+  course: PDP1634A
+  title: 2024-3 All Sworn In-Service ABLE (CIT)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2024
+  course: PDP1991A
+  title: 2024-3 All Sworn In-Service ABLE (Ethics)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2024
+  course: PDP0138A
+  title: 2024-3 All Sworn In-Service Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/30/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/30/2024
+  course: PDP3280A
+  title: 2024-3 All Sworn In-Service Wellness Elective
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 10/23/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
@@ -200,6 +236,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/11/2024
+  course: PDP1790A
+  title: 2024 Body Worn Camera Trainer Course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/6/2024
   course: PDP0909A
   title: 2024-2 Range Qual Secondary Firearm (50 Rd)

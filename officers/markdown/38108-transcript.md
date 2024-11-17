@@ -50,6 +50,7 @@
 | 8/27/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/27/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/22/2024 | PDP1947A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 8/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 8/7/2024 | PDP3884A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 8/2/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/2/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/22/2024
+  course: PDP2600A
+  title: 2024 Body Worn Camera Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/8/2024
   course: PDP4323A
   title: 2024 Patrol Procedures Mental Health Encounters

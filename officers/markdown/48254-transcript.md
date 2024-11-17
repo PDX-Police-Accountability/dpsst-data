@@ -39,6 +39,7 @@
 | 10/2/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 9/11/2024 | PDP3674A | 2024 Traffic Motors Monthly Training | Passed | 0.0 | 8.00 |
 | 9/5/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/22/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 8/14/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/14/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |

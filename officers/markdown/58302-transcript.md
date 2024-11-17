@@ -40,6 +40,7 @@
 | 9/20/2024 | PDP2321A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 2.50 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/5/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
+| 8/29/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.00 |
 | 8/28/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/13/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -53,6 +54,7 @@
 | 8/4/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 7/22/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/14/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/30/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/19/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |

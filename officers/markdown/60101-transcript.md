@@ -48,6 +48,11 @@
 | 10/20/2024 | PDP3791A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 10/20/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/20/2024 | PDP1699A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/2/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 10/2/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 10/2/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
+| 10/2/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
+| 10/2/2024 | PDP3280A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 9/27/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 9/27/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 9/27/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
@@ -57,6 +62,7 @@
 | 8/24/2024 | PDP2058A | 2023 OSHA Lead Appendix B | Passed | 0.0 | 0.25 |
 | 8/24/2024 | PDP2356A | 2023 PPB Lead Exposure Information | Passed | 0.0 | 0.25 |
 | 8/24/2024 | PDP0846A | OSHA Quick Card Firing Ranges | Passed | 0.0 | 0.25 |
+| 7/31/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/3/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/26/2024 | PDP3088A | 2023-1  2 CAO Legal Updates for 01 and 02/2023 | Passed | 0.0 | 0.25 |
 | 5/26/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |

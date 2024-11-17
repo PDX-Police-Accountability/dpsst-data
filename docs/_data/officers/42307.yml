@@ -182,6 +182,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/11/2024
+  course: PDP1790A
+  title: 2024 Body Worn Camera Trainer Course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/16/2024
   course: PDP3174A
   title: NAMOA Conference

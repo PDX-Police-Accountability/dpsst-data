@@ -201,6 +201,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/11/2024
+  course: PDP1790A
+  title: 2024 Body Worn Camera Trainer Course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/5/2024
   course: PDP2311A
   title: 2024-2 Range Qual AR-15 Qualification (20 Yard)

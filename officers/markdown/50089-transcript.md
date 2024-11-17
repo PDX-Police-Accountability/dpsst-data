@@ -42,6 +42,7 @@
 | 9/25/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/25/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
+| 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 7/30/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 7/30/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 7/30/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |

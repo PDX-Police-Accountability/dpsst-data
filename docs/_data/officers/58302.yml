@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/29/2024
+  course: PDP0138A
+  title: 2024-3 All Sworn In-Service Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/28/2024
   course: PDP1882A
   title: School Emergency Actions
@@ -134,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/9/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/30/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits

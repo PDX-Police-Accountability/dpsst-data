@@ -140,6 +140,42 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 9/4/2024
+  course: PDP1634A
+  title: 2024-3 All Sworn In-Service ABLE (CIT)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/4/2024
+  course: PDP1991A
+  title: 2024-3 All Sworn In-Service ABLE (Ethics)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/4/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/29/2024
+  course: PDP0138A
+  title: 2024-3 All Sworn In-Service Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/28/2024
+  course: PDP0778A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/27/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/25/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
@@ -194,6 +230,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/22/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 7/15/2024
   course: PDP1749A
   title: 2024-3 Tips  Techniques Pursuits

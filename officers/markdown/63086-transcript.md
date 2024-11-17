@@ -47,6 +47,7 @@
 | 7/22/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/21/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/21/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/2/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 5/16/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 5/16/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

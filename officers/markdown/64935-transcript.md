@@ -53,6 +53,7 @@
 | 7/3/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 7/3/2024 | PDP1413A | DIR 660.10 Property  Evidence Proc 2018-5 TT | Passed | 0.0 | 0.50 |
 | 7/2/2024 | PDP3185A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
+| 7/1/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
 | 6/25/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

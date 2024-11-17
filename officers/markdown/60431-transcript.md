@@ -38,6 +38,17 @@
 | 10/7/2024 | PDP3427A | 2024-3 All Sworn In-Service CAO Legal Updates Add | Passed | 0.0 | 0.25 |
 | 10/7/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/7/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/5/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
+| 9/5/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
+| 9/5/2024 | PDP2644A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
+| 9/5/2024 | PDP2514A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 1.50 |
+| 9/5/2024 | PDP3341A | 2024-3 All Sworn In-Service MFF: Scenarios | Passed | 0.0 | 2.00 |
+| 9/5/2024 | PDP2945A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |
+| 9/4/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 9/4/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 9/4/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
+| 9/4/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
+| 9/4/2024 | PDP3280A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 8/28/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 8/9/2024 | PDP0264A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 9.00 |
@@ -55,6 +66,7 @@
 | 7/17/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 7/15/2024 | PDP4494A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 9.00 |
 | 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 7/10/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/31/2024 | OSH0911A | Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/27/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

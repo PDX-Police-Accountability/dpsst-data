@@ -128,6 +128,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 8/29/2024
+  course: PDP2600A
+  title: 2024 Body Worn Camera Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/28/2024
+  course: PDP2600A
+  title: 2024 Body Worn Camera Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/26/2024
   course: PDP0993A
   title: 2024 40mm Less Lethal Operator In-Service

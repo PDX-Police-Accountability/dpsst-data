@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/11/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/9/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/29/2024
+  course: PDP0138A
+  title: 2024-3 All Sworn In-Service Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/4/2024
   course: PDP0487A
   title: Extreme Close Quarter Concepts
@@ -122,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/22/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 7/9/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023

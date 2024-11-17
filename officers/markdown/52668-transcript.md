@@ -54,6 +54,7 @@
 | 7/24/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/25/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
+| 6/11/2024 | PDP1790A | 2024 Body Worn Camera Trainer Course | Passed | 0.0 | 4.00 |
 | 5/7/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/7/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 5/7/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

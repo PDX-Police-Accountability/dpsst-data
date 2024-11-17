@@ -37,6 +37,7 @@
 | 8/9/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 8/9/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 8/9/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/31/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/20/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/16/2024 | PDP2674A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 7/15/2024 | PDP4395A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
@@ -57,6 +58,7 @@
 | 7/3/2024 | PDP2076A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/3/2024 | PDP1413A | DIR 660.10 Property  Evidence Proc 2018-5 TT | Passed | 0.0 | 0.50 |
 | 7/2/2024 | PDP3185A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
+| 7/1/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/26/2024 | PDP1718A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP3086A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
 | 6/26/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

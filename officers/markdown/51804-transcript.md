@@ -62,6 +62,7 @@
 | 6/27/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/12/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/12/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/11/2024 | PDP1790A | 2024 Body Worn Camera Trainer Course | Passed | 0.0 | 4.00 |
 | 4/11/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/8/2024 | ALS4487A | In-Service DT's | Passed | 0.0 | 4.00 |
 | 4/4/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

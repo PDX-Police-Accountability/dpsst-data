@@ -53,6 +53,7 @@
 | 7/1/2024 | PDP3559A | 2023-2 TT BWC Pilot Policy  Procedure FAQ | Passed | 0.0 | 0.25 |
 | 7/1/2024 | PDP4198A | 2024-2 TT State v. Wilcox Civil Holds  Searches | Passed | 0.0 | 0.25 |
 | 7/1/2024 | PDP3738A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
+| 7/1/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
 | 6/25/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 6/24/2024 | PDP2482A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |

@@ -62,6 +62,7 @@
 | 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/24/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/20/2024 | PDP3960A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 6/20/2024 | PDP3960A | 2024 SERT Training - Firearms | Instructed | 0.0 | 9.00 |
 | 6/13/2024 | PDP3208A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |

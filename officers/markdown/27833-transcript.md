@@ -41,6 +41,7 @@
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/7/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/5/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/25/2024 | PDP0585A | 2024 Rapid Repsonse Team Grenadier Basic Course | Passed | 0.0 | 21.50 |
 | 8/21/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
 | 8/19/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

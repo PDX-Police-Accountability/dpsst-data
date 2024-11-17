@@ -51,6 +51,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
+| 10/29/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
+| 10/29/2024 | PDP2514A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 1.50 |
+| 10/29/2024 | PDP2945A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |
 | 10/28/2024 | PDP1082A | 2024 Supervisor In-Service Force Inspector Updates | Passed | 0.0 | 1.00 |
 | 10/28/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |
 | 10/28/2024 | PDP4286A | 2024 Supervisor In-Service Overview of 2020 Unrest | Passed | 0.0 | 3.00 |
@@ -58,6 +62,9 @@
 | 10/28/2024 | PDP2002A | 2024 Supervisor In-Service Overview PSD and IA | Passed | 0.0 | 1.00 |
 | 10/14/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/14/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/8/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
+| 10/7/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 10/7/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
 | 9/22/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/27/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

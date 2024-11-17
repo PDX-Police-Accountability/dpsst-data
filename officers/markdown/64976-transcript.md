@@ -40,6 +40,7 @@
 | 8/24/2024 | PDP3932A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 8/24/2024 | PDP3620A | DIR 0311.50 Investigative Use of Social Media Memo | Passed | 0.0 | 0.50 |
 | 8/24/2024 | PDP1187A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
+| 8/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 8/20/2024 | PDP1294A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 8/19/2024 | PDP1092A | 2021 Online In-Service Training PJ Part 3 | Passed | 0.0 | 0.25 |
 | 8/19/2024 | PDP0946A | 2021 Online In-Service Training PJ Part 1 | Passed | 0.0 | 0.25 |

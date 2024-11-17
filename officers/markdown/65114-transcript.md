@@ -31,6 +31,7 @@
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/29/2024 | PDP3920A | 2018 Detectives How to Spot a Skimmer | Passed | 0.0 | 0.25 |
 | 9/29/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/18/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 9/17/2024 | PDP4167A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 9/16/2024 | PDP0001A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
 | 9/16/2024 | PDP1184A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |

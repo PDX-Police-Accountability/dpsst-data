@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 9/24/2024 | SAG0905A | Firearms training | Passed | 0.0 | 2.00 |
 | 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 6/12/2024 | AVP2518A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |

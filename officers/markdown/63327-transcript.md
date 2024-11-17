@@ -62,6 +62,7 @@
 | 7/15/2024 | PDP4494A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 9.00 |
 | 7/13/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 6/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/7/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/31/2024 | OSH0911A | Public Order Basic Course | Passed | 0.0 | 30.00 |

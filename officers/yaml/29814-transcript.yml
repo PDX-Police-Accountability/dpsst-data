@@ -173,6 +173,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/29/2024
+  course: PDP1991A
+  title: 2024-3 All Sworn In-Service ABLE (Ethics)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/29/2024
+  course: PDP0138A
+  title: 2024-3 All Sworn In-Service Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/27/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/8/2024
   course: PDP4323A
   title: 2024 Patrol Procedures Mental Health Encounters

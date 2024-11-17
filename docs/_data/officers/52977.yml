@@ -62,12 +62,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/11/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/9/2024
   course: PDP0993A
   title: 2024 40mm Less Lethal Operator In-Service
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/9/2024
+  course: PDP1634A
+  title: 2024-3 All Sworn In-Service ABLE (CIT)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2024
+  course: PDP1991A
+  title: 2024-3 All Sworn In-Service ABLE (Ethics)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/4/2024
   course: PDP0487A
   title: Extreme Close Quarter Concepts
@@ -152,6 +176,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/22/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 7/9/2024
   course: PDP1749A
   title: 2024-3 Tips  Techniques Pursuits

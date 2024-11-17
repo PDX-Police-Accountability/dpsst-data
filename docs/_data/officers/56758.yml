@@ -122,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/27/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/25/2024
   course: PDP0585A
   title: 2024 Rapid Repsonse Team Grenadier Basic Course
@@ -176,6 +182,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/30/2024
+  course: PDP2514A
+  title: 2024-3 All Sworn In-Service MFF PO Events
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/24/2024
   course: PDP1150A
   title: 2024 AR-15 Operator In-Service

@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/21/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/18/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

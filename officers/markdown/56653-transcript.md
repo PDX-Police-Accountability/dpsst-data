@@ -40,6 +40,7 @@
 | 10/8/2024 | VND2419A | A Collaborative Approach to Child Abuse | Passed | 0.0 | 4.00 |
 | 9/20/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/18/2024 | PDP3529A | 2024 CNT Crisis Negotiation Team RILEA Training | Passed | 0.0 | 19.50 |
+| 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/15/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/15/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 8/15/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |

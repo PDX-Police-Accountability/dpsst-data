@@ -52,6 +52,7 @@
 | 9/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/13/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/11/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
+| 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/15/2024 | PDP2736A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 8/1/2024 | PDP3125A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/27/2024 | PDP1257A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |

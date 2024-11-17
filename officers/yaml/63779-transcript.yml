@@ -144,6 +144,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/21/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/17/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits

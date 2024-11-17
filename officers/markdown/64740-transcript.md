@@ -51,6 +51,7 @@
 | 7/3/2024 | PDP3620A | DIR 0311.50 Investigative Use of Social Media Memo | Passed | 0.0 | 0.50 |
 | 7/3/2024 | PDP1187A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
 | 7/2/2024 | PDP3185A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
+| 7/1/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
 | 6/25/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 6/25/2024 | PDP3888A | 2023-2 TT Body Worn Camera (BWC) Pilot Policy | Passed | 0.0 | 0.25 |

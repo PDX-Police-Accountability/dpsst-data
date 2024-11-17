@@ -225,6 +225,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/19/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/14/2024
   course: PDP0886A
   title: 2024 Rapid Response Team (RRT) Monthly Training

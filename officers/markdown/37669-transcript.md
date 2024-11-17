@@ -4,7 +4,7 @@
 | name | Schmidt, Kristen L. |
 | dpsst_identifier | 37669 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/7/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 4/7/2008 | Portland Police Bureau | Retrn MLOA | Police Off |  |  |
 | 7/9/2004 | Portland Police Bureau | Mil-LOA | Police Off |  |  |
 | 7/8/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
-| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 |  |  |
-| 2/22/2001 | Police Officer | Basic | Granted | 2/22/2001 |  |  |
+| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 | 2/7/2025 |  |
+| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 | 2/7/2025 |  |
+| 2/22/2001 | Police Officer | Basic | Granted | 2/22/2001 | 2/7/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -42,6 +43,7 @@
 | 9/21/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/21/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
+| 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/19/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/19/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 8/19/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
@@ -52,6 +54,7 @@
 | 7/18/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 7/18/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 7/18/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/9/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/2/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/2/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 7/2/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |

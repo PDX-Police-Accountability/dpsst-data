@@ -47,6 +47,7 @@
 | 7/1/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/1/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 7/1/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 6/20/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 5/8/2024 | PDP2034A | 2024-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 5/7/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/4/2024 | CVS3874A | DUII/SFST Refresher w/ WetLab | Passed | 0.0 | 4.00 |

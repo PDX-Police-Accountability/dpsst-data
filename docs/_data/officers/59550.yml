@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2024
+  course: RMP1654A
+  title: Firearms / Ground Defense / Weapon Retention
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/3/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

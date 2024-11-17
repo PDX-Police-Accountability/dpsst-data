@@ -217,6 +217,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/19/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/5/2024
   course: PDP1051A
   title: 2024 AR-15 Instructor In-Service

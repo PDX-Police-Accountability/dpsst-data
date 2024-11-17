@@ -53,6 +53,7 @@
 | 9/27/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/14/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP1790A | 2024 Body Worn Camera Trainer Course | Passed | 0.0 | 4.00 |
 | 5/17/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/17/2024 | PDP2034A | 2024-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 5/17/2024 | PDP1822A | 2024-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

@@ -48,6 +48,7 @@
 | 7/31/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/12/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 7/6/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP1790A | 2024 Body Worn Camera Trainer Course | Passed | 0.0 | 4.00 |
 | 5/29/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/29/2024 | PDP1822A | 2024-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 5/29/2024 | PDP3030A | 2024-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

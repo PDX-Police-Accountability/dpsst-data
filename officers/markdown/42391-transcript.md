@@ -45,6 +45,7 @@
 | 9/11/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/11/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP0600A | Social Media Investigations | Passed | 0.0 | 24.00 |
+| 8/21/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/12/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 8/12/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 8/7/2024 | PDP1628A | Human Trafficking Training | Passed | 0.0 | 16.00 |

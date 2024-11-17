@@ -39,6 +39,7 @@
 | 10/1/2024 | PDP0899A | Red Dot Optic Transition Course | Passed | 0.0 | 17.00 |
 | 9/25/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/25/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/18/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 9/17/2024 | PDP4396A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
 | 9/17/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/16/2024 | PDP3478A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |

@@ -43,6 +43,7 @@
 | 10/19/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/26/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 9/26/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 9/19/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/29/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 7/29/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 4/9/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |

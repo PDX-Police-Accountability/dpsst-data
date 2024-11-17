@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/5/2024 | PDP2824A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 8/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 8/20/2024 | PDP1294A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 8/19/2024 | PDP4186A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 8/19/2024 | PDP1092A | 2021 Online In-Service Training PJ Part 3 | Passed | 0.0 | 0.25 |

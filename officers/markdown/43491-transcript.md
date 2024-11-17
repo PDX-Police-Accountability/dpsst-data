@@ -65,6 +65,7 @@
 | 7/2/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/2/2024 | PDP0909A | 2024-2 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 7/1/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 6/11/2024 | PDP1790A | 2024 Body Worn Camera Trainer Course | Passed | 0.0 | 4.00 |
 | 5/16/2024 | PDP0403A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 4/25/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/11/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |

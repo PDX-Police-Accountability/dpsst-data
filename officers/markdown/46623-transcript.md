@@ -70,6 +70,7 @@
 | 7/8/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
 | 6/22/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/22/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/11/2024 | PDP1790A | 2024 Body Worn Camera Trainer Course | Passed | 0.0 | 4.00 |
 | 4/20/2024 | PDP3935A | SOP 1-21 Training Division Instructional Design | Passed | 0.0 | 0.25 |
 | 4/20/2024 | PDP1349A | SOP 2-10 Central Precinct Range Procedures | Passed | 0.0 | 0.25 |
 | 4/20/2024 | PDP1231A | SOP 2-11 Range Training and Qualification Policies | Passed | 0.0 | 0.25 |

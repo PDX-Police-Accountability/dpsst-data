@@ -126,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/24/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/15/2024
   course: PDP2714A
   title: 2024-1 Advanced Academy Law

@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/31/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/20/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm
@@ -198,6 +204,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 7/1/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/26/2024
   course: PDP1718A
   title: 2023 Field Drug Test Kits

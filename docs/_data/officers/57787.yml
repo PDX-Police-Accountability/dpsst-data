@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/28/2024
+  course: PDP2600A
+  title: 2024 Body Worn Camera Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/27/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

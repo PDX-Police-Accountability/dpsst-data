@@ -3,12 +3,18 @@ header_record:
   name: Schmidt, Kristen L.
   dpsst_identifier: '37669'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/7/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 4/7/2008
   agency: Portland Police Bureau
   action: Retrn MLOA
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 2/7/2025
   probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 2/7/2025
   probation_date: ''
 - status_date: 2/22/2001
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/22/2001
-  expiration_date: ''
+  expiration_date: 2/7/2025
   probation_date: ''
 training_records:
 - date: 10/31/2024
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 8/29/2024
+  course: PDP2600A
+  title: 2024 Body Worn Camera Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/19/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training
@@ -146,6 +158,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/9/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/2/2024
   course: PDP2564A
   title: 2024 Safe Training Procedures

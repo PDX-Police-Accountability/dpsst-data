@@ -51,6 +51,7 @@
 | 8/29/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 8/29/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 8/29/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/22/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.00 |
 | 8/8/2024 | PDP4323A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 8/3/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/3/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

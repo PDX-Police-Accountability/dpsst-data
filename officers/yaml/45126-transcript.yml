@@ -183,6 +183,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/12/2024
+  course: PDP2071A
+  title: 2024 Body Worn Camera Investigator Trainer Course
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 5/21/2024
   course: PDP2151A
   title: 2024 Investigator In-Service Case Study

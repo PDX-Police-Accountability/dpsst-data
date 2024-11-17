@@ -132,6 +132,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/26/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '1.33'
 - date: 5/9/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm

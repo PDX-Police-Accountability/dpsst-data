@@ -48,6 +48,7 @@
 | 9/9/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
 | 9/3/2024 | PDP1070A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Instructed | 0.0 | 3.00 |
 | 9/3/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/27/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 8/25/2024 | PDP0585A | 2024 Rapid Repsonse Team Grenadier Basic Course | Passed | 0.0 | 21.50 |
 | 8/19/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
 | 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
@@ -57,6 +58,7 @@
 | 8/13/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 8/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 7/30/2024 | PDP2514A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 2.00 |
 | 7/24/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
 | 7/23/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

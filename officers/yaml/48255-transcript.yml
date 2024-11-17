@@ -200,6 +200,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/29/2024
+  course: PDP2600A
+  title: 2024 Body Worn Camera Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 7/25/2024
   course: PDP3854A
   title: 2024 SERT Training - FIREARMS

@@ -45,6 +45,9 @@
 | 9/11/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/9/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
 | 9/4/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 10.00 |
+| 9/3/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 9/3/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 8/29/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.50 |
 | 8/28/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 22.00 |
 | 8/20/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 19.00 |
 | 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
@@ -56,6 +59,7 @@
 | 8/13/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 8/13/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/29/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
+| 7/22/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 7/17/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/17/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/17/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

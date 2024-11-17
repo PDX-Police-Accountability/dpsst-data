@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/13/2024
+  agency: DPSST Use Only
+  action: InstrApp
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 8/24/2018
   agency: Portland Police Bureau
   action: Resigned

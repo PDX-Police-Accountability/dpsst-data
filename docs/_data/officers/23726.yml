@@ -128,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 8/29/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/14/2024
   course: PDP0918A
   title: City of Portland Bloodborne Pathogens

@@ -38,6 +38,7 @@
 | 9/14/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/24/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/24/2024 | PDP3459A | OSU SOP009 Appendix A. Modified Duty Guide | Passed | 0.0 | 0.50 |
+| 8/2/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/25/2024 | PDP0754A | OSU SOP009 Modified Duty SOP | Passed | 0.0 | 0.50 |
 | 7/24/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 7/24/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

@@ -31,6 +31,7 @@
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/5/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 8/29/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 8/20/2024 | PDP1294A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 8/20/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/20/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 19.00 |

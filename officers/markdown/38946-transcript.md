@@ -48,6 +48,7 @@
 | 10/17/2024 | PDP2002A | 2024 Supervisor In-Service Overview PSD and IA | Passed | 0.0 | 1.00 |
 | 10/17/2024 | PDP3074A | 2024 Supervisor In-Service ICS Refresher | Passed | 0.0 | 2.00 |
 | 10/17/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |
+| 10/8/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 9/23/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/6/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/6/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |

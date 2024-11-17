@@ -133,6 +133,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 8/29/2024
+  course: PDP2600A
+  title: 2024 Body Worn Camera Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 6/27/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

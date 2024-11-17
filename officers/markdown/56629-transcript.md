@@ -66,6 +66,7 @@
 | 6/20/2024 | PDP3030A | 2024-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/19/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 6/16/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/13/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.50 |
 | 5/23/2024 | PDP1036A | 2024 Investigator In-Service Device Warrants | Passed | 0.0 | 2.00 |
 | 5/23/2024 | PDP4043A | 2024 Investigator In-Service DFU | Passed | 0.0 | 2.00 |
 | 5/23/2024 | PDP2151A | 2024 Investigator In-Service Case Study | Passed | 0.0 | 2.00 |

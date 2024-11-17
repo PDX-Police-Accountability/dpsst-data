@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/8/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/2/2024
   course: PDP2564A
   title: 2024 Safe Training Procedures

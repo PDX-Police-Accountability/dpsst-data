@@ -49,6 +49,7 @@
 | 7/10/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 7/10/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 7/2/2024 | PDP3185A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
+| 7/1/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/26/2024 | PDP2220A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

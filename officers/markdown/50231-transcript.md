@@ -40,6 +40,7 @@
 | 10/12/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/6/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
 | 9/30/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
+| 9/23/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 9/20/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |

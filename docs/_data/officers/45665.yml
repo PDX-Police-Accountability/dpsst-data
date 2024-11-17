@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2024
+  course: PDP0138A
+  title: 2024-3 All Sworn In-Service Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/28/2024
+  course: PDP3280A
+  title: 2024-3 All Sworn In-Service Wellness Elective
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 10/17/2024
   course: PDP1527A
   title: 2024 Supervisor In-Service BHR
@@ -117,12 +129,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/29/2024
+  course: PDP1634A
+  title: 2024-3 All Sworn In-Service ABLE (CIT)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/29/2024
+  course: PDP1991A
+  title: 2024-3 All Sworn In-Service ABLE (Ethics)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/12/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/30/2024
+  course: PDP2514A
+  title: 2024-3 All Sworn In-Service MFF PO Events
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/23/2024
   course: PDP3890A
   title: 2023-4 CAO Legal Updates for 04/2023
@@ -183,6 +213,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/22/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 7/15/2024
   course: PDP1749A
   title: 2024-3 Tips  Techniques Pursuits
@@ -195,6 +231,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/17/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/19/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm

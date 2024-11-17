@@ -50,6 +50,7 @@
 | 7/11/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 7/11/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 7/9/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/24/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |

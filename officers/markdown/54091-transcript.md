@@ -86,6 +86,7 @@
 | 6/26/2024 | PDP2220A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/26/2024 | PDP2014A | SOP 1-1 Training Division SOPs | Passed | 0.0 | 0.25 |
+| 6/26/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/25/2024 | PDP2666A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP0357A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP2473A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |

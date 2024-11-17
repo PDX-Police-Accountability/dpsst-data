@@ -42,6 +42,8 @@
 | 9/28/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 9/24/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 9/5/2024 | PDP2644A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
+| 9/5/2024 | PDP3341A | 2024-3 All Sworn In-Service MFF: Scenarios | Passed | 0.0 | 2.00 |
 | 8/25/2024 | PDP0585A | 2024 Rapid Repsonse Team Grenadier Basic Course | Passed | 0.0 | 21.50 |
 | 8/22/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
 | 8/21/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Instructed | 0.0 | 9.00 |
@@ -52,6 +54,7 @@
 | 8/17/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 8/17/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 8/16/2024 | PDP0553A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 7/30/2024 | PDP2514A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 2.00 |
 | 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 7/11/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 7/11/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
@@ -60,6 +63,7 @@
 | 7/2/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/2/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 6/11/2024 | PDP1790A | 2024 Body Worn Camera Trainer Course | Passed | 0.0 | 4.00 |
 | 6/6/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 5/9/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/2/2024 | PDP2984A | 2024  FTEP HAZMAT/WMD Awareness | Instructed | 0.0 | 3.00 |

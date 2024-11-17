@@ -74,6 +74,7 @@
 | 7/1/2024 | PDP2824A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 7/1/2024 | PDP1657A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
 | 7/1/2024 | PDP1441A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 7/1/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
 | 6/25/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 6/25/2024 | PDP1805A | 2023 DIR 0620.00 Body-Worn Camera (BWC) Use | Passed | 0.0 | 0.25 |

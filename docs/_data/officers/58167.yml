@@ -175,6 +175,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/19/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/30/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms

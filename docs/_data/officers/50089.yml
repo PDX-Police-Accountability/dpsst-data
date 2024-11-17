@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 8/29/2024
+  course: PDP2600A
+  title: 2024 Body Worn Camera Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 7/30/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

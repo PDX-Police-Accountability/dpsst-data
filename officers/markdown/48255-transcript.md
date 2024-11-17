@@ -61,6 +61,7 @@
 | 10/6/2024 | PDP4196A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
 | 9/11/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
+| 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 7/25/2024 | PDP3854A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 36.00 |
 | 4/28/2024 | PDP2643A | SOP 2-8 Catastrophic Weapon Failure Procedure | Passed | 0.0 | 0.25 |
 | 4/28/2024 | PDP2852A | SOP 2-16 Training Complex Ranges | Passed | 0.0 | 0.25 |

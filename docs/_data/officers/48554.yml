@@ -56,6 +56,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2024
+  course: PDP0778A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/29/2024
+  course: PDP2037A
+  title: '2024-3 All Sworn In-Service MFF: APR'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/29/2024
+  course: PDP2514A
+  title: 2024-3 All Sworn In-Service MFF PO Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/29/2024
+  course: PDP2945A
+  title: '2024-3 All Sworn In-Service MFF: Use of Force TT'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/9/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
@@ -74,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/11/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/10/2024
   course: PDP1882A
   title: School Emergency Actions
@@ -128,6 +158,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/9/2024
+  course: PDP1634A
+  title: 2024-3 All Sworn In-Service ABLE (CIT)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2024
+  course: PDP1991A
+  title: 2024-3 All Sworn In-Service ABLE (Ethics)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/4/2024
   course: PDP0487A
   title: Extreme Close Quarter Concepts
