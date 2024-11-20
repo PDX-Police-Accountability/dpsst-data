@@ -56,12 +56,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/28/2024
+  course: GLP2871A
+  title: Expert Analysis of OIS in Clear Creek CO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/12/2024
   course: GLP3535A
   title: Courageously Interrupting Bias
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/10/2024
+  course: GLP2871A
+  title: Expert Analysis of OIS in Clear Creek CO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/7/2024
   course: GLP1494A
   title: Defensive Tactics Fall 2024

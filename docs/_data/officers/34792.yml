@@ -56,18 +56,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 10/30/2026
-  course: TAP0497A
-  title: First Aid/CPR/AED to include choking
-  status: Passed
-  score: '0.0'
-  hours: '1.50'
-- date: 11/4/2024
-  course: TAP0445A
-  title: First Aid/CPR/AED to include choking
-  status: Passed
-  score: '0.0'
-  hours: '1.50'
 - date: 10/30/2024
   course: TAP0790A
   title: First Aid/CPR/AED to include choking

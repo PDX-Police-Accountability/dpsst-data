@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2024 | HBS4416A | InService Session #2 Firearms | Passed | 0.0 | 2.00 |
+| 11/9/2024 | HBS1504A | InService Session #2 DT's | Passed | 0.0 | 3.50 |
+| 11/9/2024 | HBS2896A | InService Session #2 EVO | Passed | 0.0 | 3.00 |
 | 10/1/2024 | HBS4128A | Sept. Virtual Session #2 Mental Health | Passed | 0.0 | 2.00 |
 | 10/1/2024 | HBS4364A | Sept. Virtual Session #2 General | Passed | 0.0 | 2.25 |
 | 10/1/2024 | HBS0159A | Sept. Virtual Session #2 Use of Force | Passed | 0.0 | 4.50 |

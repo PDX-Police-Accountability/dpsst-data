@@ -30,6 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/9/2024 | Masters Arts | All Other Education Institutes | Criminal Justice | 33.0 |
 | 8/7/2016 | No Degree | All Other Education Institutes |  | 2.0 |
 | 12/12/2015 | Bachelor Science | All Other Education Institutes | Criminal Justice | 200.5 |
 | 9/15/2014 | No Degree | All Other Education Institutes |  | 9.0 |

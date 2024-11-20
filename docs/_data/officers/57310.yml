@@ -3402,6 +3402,11 @@ attribute_records:
   effective_date: 6/14/2017
   expiration_date: ''
 education_records:
+- date: 8/9/2024
+  degree: Masters Arts
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '33.0'
 - date: 8/7/2016
   degree: No Degree
   school: All Other Education Institutes

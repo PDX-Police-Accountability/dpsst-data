@@ -29,6 +29,42 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 10/1/2024
+  course: MNP2638A
+  title: NAMI newsletter August 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/1/2024
+  course: MNP0855A
+  title: NAMI newsletter July 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2024
+  course: MNP3416A
+  title: NAMI newsletter April 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2024
+  course: MNP3946A
+  title: NAMI newsletter June 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2024
+  course: MNP0732A
+  title: NAMI newsletter May 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2024
+  course: MNP2447A
+  title: NAMI newsletter March 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/4/2024
   course: MNP2048A
   title: EVOC in-service
@@ -65,6 +101,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/4/2024
+  course: MNP2148A
+  title: NAMI newsletter Feb 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/20/2024
   course: MNP3822A
   title: Taser 7 - update training

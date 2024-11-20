@@ -39,7 +39,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/28/2024 | GLP2871A | Expert Analysis of OIS in Clear Creek CO | Passed | 0.0 | 2.00 |
 | 10/12/2024 | GLP3535A | Courageously Interrupting Bias | Passed | 0.0 | 1.00 |
+| 10/10/2024 | GLP2871A | Expert Analysis of OIS in Clear Creek CO | Passed | 0.0 | 2.00 |
 | 10/7/2024 | GLP1494A | Defensive Tactics Fall 2024 | Passed | 0.0 | 3.00 |
 | 10/5/2024 | GLP1362A | Detectachem Mobile Drug Test Trainnig | Passed | 0.0 | 0.50 |
 | 9/1/2024 | GLP1718A | HB 4002 Law Enforcement Training | Passed | 0.0 | 1.00 |

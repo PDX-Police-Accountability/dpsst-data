@@ -111,6 +111,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2024
+  course: APD0064A
+  title: Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/12/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

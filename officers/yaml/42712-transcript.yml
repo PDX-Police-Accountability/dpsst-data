@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/9/2024
+  course: HBS4416A
+  title: 'InService Session #2 Firearms'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/9/2024
+  course: HBS1504A
+  title: 'InService Session #2 DT''s'
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/9/2024
+  course: HBS2896A
+  title: 'InService Session #2 EVO'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/1/2024
   course: HBS4128A
   title: 'Sept. Virtual Session #2 Mental Health'
