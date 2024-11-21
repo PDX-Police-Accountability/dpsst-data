@@ -302,6 +302,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/21/2023
+  course: PDP3405A
+  title: 2023 SERT Training (Rilea) - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/21/2023
+  course: PDP2993A
+  title: 2023 SERT Training (Rilea) - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/20/2023
+  course: PDP4261A
+  title: 2023 SERT Training (Rilea) - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/19/2023
+  course: PDP1988A
+  title: 2023 SERT Training (Rilea) - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/18/2023
   course: PDP1348A
   title: 2023 DIR 0620.00 BWC Use and Management
@@ -326,6 +350,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/18/2023
+  course: PDP0296A
+  title: 2023 SERT Training (Rilea) - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/18/2023
+  course: PDP1575A
+  title: 2023 SERT Training (Rilea) - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/17/2023
+  course: PDP0468A
+  title: 2023 SERT Training (Rilea) - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/7/2023
   course: PDP2240A
   title: 2023-2 All Sworn In-Service ABLE Scenario

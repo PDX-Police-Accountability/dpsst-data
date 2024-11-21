@@ -95,6 +95,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/11/2024
+  course: HBS2533A
+  title: 'InService Session #2 EVO'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/11/2024
+  course: HBS1080A
+  title: 'InService Session #2 Firearms'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/11/2024
+  course: HBS2390A
+  title: 'InService Session #2 DT''s'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/18/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

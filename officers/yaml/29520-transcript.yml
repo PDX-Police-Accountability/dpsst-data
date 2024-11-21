@@ -3,12 +3,18 @@ header_record:
   name: Pool, Michael E.
   dpsst_identifier: '29520'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/12/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 1/25/2007
   agency: Portland Police Bureau
   action: Promotion
@@ -51,28 +57,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 5/5/2009
-  expiration_date: ''
+  expiration_date: 2/12/2025
   probation_date: ''
 - status_date: 5/4/2001
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 5/4/2001
-  expiration_date: ''
+  expiration_date: 2/12/2025
   probation_date: ''
 - status_date: 5/21/1997
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 5/21/1997
-  expiration_date: ''
+  expiration_date: 2/12/2025
   probation_date: ''
 - status_date: 3/20/1996
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/20/1996
-  expiration_date: ''
+  expiration_date: 2/12/2025
   probation_date: ''
 training_records:
 - date: 11/8/2024

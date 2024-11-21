@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/12/2024
+  course: TAP4509A
+  title: Heat/Smoke Exposure City and OSHAWildfire Smoke
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/19/2024
   course: ADP0977A
   title: LAP/DV

@@ -4,7 +4,7 @@
 | name | Engweiler, Ryan P. |
 | dpsst_identifier | 37133 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/14/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/11/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 10/12/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 2/15/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 |  |  |
-| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 |  |  |
-| 6/23/2000 | Police Officer | Basic | Granted | 6/23/2000 |  |  |
+| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 | 2/14/2025 |  |
+| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 | 2/14/2025 |  |
+| 6/23/2000 | Police Officer | Basic | Granted | 6/23/2000 | 2/14/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

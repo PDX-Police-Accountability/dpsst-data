@@ -3,12 +3,18 @@ header_record:
   name: Daniels, Erik D.
   dpsst_identifier: '37138'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/12/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/24/2023
   agency: DPSST Use Only
   action: InstrApp
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 12/17/2008
-  expiration_date: ''
+  expiration_date: 2/12/2025
   probation_date: ''
 - status_date: 12/17/2008
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 12/17/2008
-  expiration_date: ''
+  expiration_date: 2/12/2025
   probation_date: ''
 - status_date: 3/14/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/14/2000
-  expiration_date: ''
+  expiration_date: 2/12/2025
   probation_date: ''
 training_records:
 - date: 7/23/2024

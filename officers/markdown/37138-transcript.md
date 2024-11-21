@@ -4,7 +4,7 @@
 | name | Daniels, Erik D. |
 | dpsst_identifier | 37138 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/12/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/24/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 2/4/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/17/2008 | Police Officer | Advanced | Granted | 12/17/2008 |  |  |
-| 12/17/2008 | Police Officer | Intermediate | Granted | 12/17/2008 |  |  |
-| 3/14/2000 | Police Officer | Basic | Granted | 3/14/2000 |  |  |
+| 12/17/2008 | Police Officer | Advanced | Granted | 12/17/2008 | 2/12/2025 |  |
+| 12/17/2008 | Police Officer | Intermediate | Granted | 12/17/2008 | 2/12/2025 |  |
+| 3/14/2000 | Police Officer | Basic | Granted | 3/14/2000 | 2/12/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

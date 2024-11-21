@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/3/2024
+  course: MNS3587A
+  title: Emergency Vehicle Operations.Nov.24
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/10/2024
   course: MNS3645A
   title: Daylight Qualification

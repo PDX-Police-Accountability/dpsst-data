@@ -4,7 +4,7 @@
 | name | Cioeta, Jerry E. |
 | dpsst_identifier | 33930 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/13/2024 | Portland Police Bureau | Resigned | Sergeant |  |  |
 | 1/14/2016 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 11/1/2001 | Portland Police Bureau | Transfered | Police Off |  |  |
 | 10/31/2001 | Portland Public Schools Police | Resigned | Police Off |  |  |
@@ -21,10 +22,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/29/2019 | Police Officer | Supervisory | Granted | 10/29/2019 |  |  |
-| 5/12/2004 | Police Officer | Advanced | Granted | 5/12/2004 |  |  |
-| 10/3/2000 | Police Officer | Intermediate | Granted | 10/3/2000 |  |  |
-| 3/19/1999 | Police Officer | Basic | Granted | 3/19/1999 |  |  |
+| 10/29/2019 | Police Officer | Supervisory | Granted | 10/29/2019 | 2/13/2025 |  |
+| 5/12/2004 | Police Officer | Advanced | Granted | 5/12/2004 | 2/13/2025 |  |
+| 10/3/2000 | Police Officer | Intermediate | Granted | 10/3/2000 | 2/13/2025 |  |
+| 3/19/1999 | Police Officer | Basic | Granted | 3/19/1999 | 2/13/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -4,7 +4,7 @@
 | name | Pool, Michael E. |
 | dpsst_identifier | 29520 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/12/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/25/2007 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 11/1/2001 | Portland Police Bureau | Transfered | Police Off |  |  |
 | 10/31/2001 | Portland Public Schools Police | Resigned | Police Off |  |  |
@@ -21,10 +22,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/5/2009 | Police Officer | Supervisory | Granted | 5/5/2009 |  |  |
-| 5/4/2001 | Police Officer | Advanced | Granted | 5/4/2001 |  |  |
-| 5/21/1997 | Police Officer | Intermediate | Granted | 5/21/1997 |  |  |
-| 3/20/1996 | Police Officer | Basic | Granted | 3/20/1996 |  |  |
+| 5/5/2009 | Police Officer | Supervisory | Granted | 5/5/2009 | 2/12/2025 |  |
+| 5/4/2001 | Police Officer | Advanced | Granted | 5/4/2001 | 2/12/2025 |  |
+| 5/21/1997 | Police Officer | Intermediate | Granted | 5/21/1997 | 2/12/2025 |  |
+| 3/20/1996 | Police Officer | Basic | Granted | 3/20/1996 | 2/12/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

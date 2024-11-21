@@ -4,7 +4,7 @@
 | name | Hansen, Robb C. |
 | dpsst_identifier | 31459 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,17 +12,18 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/14/2024 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 2/3/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 7/8/2004 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/7/1995 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/8/2024 | Police Officer | Management | Granted | 2/8/2024 |  |  |
-| 9/22/2011 | Police Officer | Supervisory | Granted | 9/22/2011 |  |  |
-| 9/19/2011 | Police Officer | Advanced | Granted | 9/19/2011 |  |  |
-| 9/19/2011 | Police Officer | Intermediate | Granted | 9/19/2011 |  |  |
-| 7/16/1996 | Police Officer | Basic | Granted | 7/16/1996 |  |  |
+| 2/8/2024 | Police Officer | Management | Granted | 2/8/2024 | 2/14/2025 |  |
+| 9/22/2011 | Police Officer | Supervisory | Granted | 9/22/2011 | 2/14/2025 |  |
+| 9/19/2011 | Police Officer | Advanced | Granted | 9/19/2011 | 2/14/2025 |  |
+| 9/19/2011 | Police Officer | Intermediate | Granted | 9/19/2011 | 2/14/2025 |  |
+| 7/16/1996 | Police Officer | Basic | Granted | 7/16/1996 | 2/14/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

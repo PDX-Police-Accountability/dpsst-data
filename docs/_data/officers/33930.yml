@@ -3,12 +3,18 @@ header_record:
   name: Cioeta, Jerry E.
   dpsst_identifier: '33930'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/13/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 1/14/2016
   agency: Portland Police Bureau
   action: Promotion
@@ -51,28 +57,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 10/29/2019
-  expiration_date: ''
+  expiration_date: 2/13/2025
   probation_date: ''
 - status_date: 5/12/2004
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 5/12/2004
-  expiration_date: ''
+  expiration_date: 2/13/2025
   probation_date: ''
 - status_date: 10/3/2000
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/3/2000
-  expiration_date: ''
+  expiration_date: 2/13/2025
   probation_date: ''
 - status_date: 3/19/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/19/1999
-  expiration_date: ''
+  expiration_date: 2/13/2025
   probation_date: ''
 training_records:
 - date: 8/29/2024

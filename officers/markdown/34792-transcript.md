@@ -54,6 +54,7 @@
 | 7/26/2024 | TAP2374A | ODOT Truck Inspection Course | Passed | 0.0 | 40.00 |
 | 6/30/2024 | TAP3696A | LEXIPOL Daily Training Bulletins Jan-Jun 2024 | Passed | 0.0 | 5.60 |
 | 6/14/2024 | ADP1060A | Firearms Training | Passed | 0.0 | 4.00 |
+| 6/12/2024 | TAP4509A | Heat/Smoke Exposure City and OSHAWildfire Smoke | Passed | 0.0 | 1.50 |
 | 4/19/2024 | ADP0977A | LAP/DV | Passed | 0.0 | 1.00 |
 | 4/19/2024 | ADP3569A | Karly's Law | Passed | 0.0 | 1.00 |
 | 4/19/2024 | ADP3790A | Search Warrant and Seizure | Passed | 0.0 | 1.00 |

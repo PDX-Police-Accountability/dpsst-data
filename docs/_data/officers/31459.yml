@@ -3,12 +3,18 @@ header_record:
   name: Hansen, Robb C.
   dpsst_identifier: '31459'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/14/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 2/3/2022
   agency: Portland Police Bureau
   action: Promotion
@@ -33,35 +39,35 @@ certification_records:
   level: Management
   status: Granted
   certificate_date: 2/8/2024
-  expiration_date: ''
+  expiration_date: 2/14/2025
   probation_date: ''
 - status_date: 9/22/2011
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 9/22/2011
-  expiration_date: ''
+  expiration_date: 2/14/2025
   probation_date: ''
 - status_date: 9/19/2011
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 9/19/2011
-  expiration_date: ''
+  expiration_date: 2/14/2025
   probation_date: ''
 - status_date: 9/19/2011
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 9/19/2011
-  expiration_date: ''
+  expiration_date: 2/14/2025
   probation_date: ''
 - status_date: 7/16/1996
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 7/16/1996
-  expiration_date: ''
+  expiration_date: 2/14/2025
   probation_date: ''
 training_records:
 - date: 10/17/2024

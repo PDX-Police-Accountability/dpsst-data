@@ -3,12 +3,18 @@ header_record:
   name: Schleich, Alison L.
   dpsst_identifier: '36817'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Criminalist
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/13/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Criminalst
+  classification: ''
+  assignment: ''
 - date: 10/20/2005
   agency: Portland Police Bureau
   action: Promotion
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 2/13/2025
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 2/13/2025
   probation_date: ''
 - status_date: 6/23/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/23/2000
-  expiration_date: ''
+  expiration_date: 2/13/2025
   probation_date: ''
 training_records:
 - date: 9/24/2024

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2024 | MNS3587A | Emergency Vehicle Operations.Nov.24 | Instructed | 0.0 | 7.00 |
 | 7/22/2024 | VND2712A | North American Standard Part A Inspection Course | Passed | 0.0 | 40.00 |
 | 7/22/2024 | VND2425A | North American Standard Part B Insp Course | Passed | 0.0 | 40.00 |
 | 4/18/2024 | MNS0851A | Kloxxado (Narcan) Training | Passed | 0.0 | 1.00 |

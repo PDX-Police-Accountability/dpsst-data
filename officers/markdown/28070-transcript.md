@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2024 | MNS3587A | Emergency Vehicle Operations.Nov.24 | Passed | 0.0 | 4.00 |
 | 10/10/2024 | MNS3645A | Daylight Qualification | Passed | 0.0 | 2.00 |
 | 7/22/2024 | MNS2292A | Firerarms Close Quarter Vehicle Training | Passed | 0.0 | 2.00 |
 | 4/18/2024 | MNS0851A | Kloxxado (Narcan) Training | Passed | 0.0 | 1.00 |

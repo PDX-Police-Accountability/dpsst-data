@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/3/2024
+  course: MNS3587A
+  title: Emergency Vehicle Operations.Nov.24
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 7/22/2024
   course: VND2712A
   title: North American Standard Part A Inspection Course
