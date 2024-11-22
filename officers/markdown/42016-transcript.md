@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/31/2024 | PDP1705A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/24/2024 | PDP3632A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 10/17/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |

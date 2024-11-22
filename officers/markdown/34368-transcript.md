@@ -42,6 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | BNP0221A | Mental Health- COPLINE | Passed | 0.0 | 0.50 |
+| 11/14/2024 | BNP1602A | ADL- Inclusive Policing | Passed | 0.0 | 3.00 |
+| 11/14/2024 | BNP0569A | Low Light Firearms / Qualifications | Passed | 0.0 | 3.00 |
 | 9/11/2024 | BNP3331A | Deschutes County Deflection Program | Passed | 0.0 | 1.50 |
 | 9/11/2024 | BNP3898A | Firearms Qualifications and Drills | Passed | 0.0 | 1.50 |
 | 9/11/2024 | BNP4091A | Scenarios | Passed | 0.0 | 3.00 |

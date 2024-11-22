@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2024 | MLP0654A | DV Investigations w/ CC DA | Passed | 0.0 | 3.00 |
 | 7/22/2024 | MLP1721A | Red Dot Qualification | Passed | 0.0 | 1.00 |
 | 7/22/2024 | MLP1721A | Red Dot Qualification | Instructed | 0.0 | 6.50 |
 | 7/15/2024 | MLP0896A | Red Dot Qualification Course | Instructed | 0.0 | 4.00 |

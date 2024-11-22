@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/8/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 10/31/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |

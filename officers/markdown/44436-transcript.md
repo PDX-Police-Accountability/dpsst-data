@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2024 | PDP3865A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/6/2024 | PDP1320A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/23/2024 | PDP3910A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/22/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |

@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/29/2024 | PDP0066A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 10/27/2024 | PDP1048A | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 10/24/2024 | PDP4407A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
 | 10/23/2024 | PDP0515A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |

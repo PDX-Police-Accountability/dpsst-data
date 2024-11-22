@@ -29,6 +29,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 11/16/2024
+  course: MNP3752A
+  title: Taser Annual Recertification (Taser 7)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/16/2024
+  course: MNP1913A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/1/2024
   course: MNP2638A
   title: NAMI newsletter August 2024

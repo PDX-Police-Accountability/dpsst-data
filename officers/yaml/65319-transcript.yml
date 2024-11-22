@@ -45,9 +45,9 @@ training_records:
 - date: 11/4/2024
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Withdrew
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
 - date: 10/24/2024
   course: PDP3668A
   title: Amended DOJ Settlement Agreement

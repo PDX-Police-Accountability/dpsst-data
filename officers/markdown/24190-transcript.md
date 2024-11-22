@@ -40,6 +40,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/1/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/16/2024 | F1540385 | OC Spray Training | Passed | 0.0 | 1.00 |
+| 11/16/2024 | F1523037 | Baton Training | Passed | 0.0 | 1.00 |
+| 11/16/2024 | F1515291 | Firearms Training/Certification | Passed | 0.0 | 4.00 |
 | 9/16/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 10/9/2019 | PDP03093 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |
 | 10/9/2019 | PDP08055 | 2019 Chiefs Office SPLC Sovereign Citizen Movement | Passed | 0.0 | 0.25 |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2024 | PDP2493A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 10/30/2024 | PDP3389A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
 | 10/30/2024 | PDP3389A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 10/9/2024 | PDP0485A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
@@ -134,6 +135,9 @@
 | 9/25/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/25/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/25/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 9/13/2023 | PDP3251A | Oregon Police Canine Assoc. Fall Seminar | Passed | 0.0 | 22.00 |
 | 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |

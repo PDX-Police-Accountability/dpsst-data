@@ -52,6 +52,7 @@
 | 10/29/2024 | PDP4196A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 10/29/2024 | PDP1699A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/29/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/29/2024 | PDP0066A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 10/28/2024 | PDP1910A | 2023-1  2 CAO Legal Updates for 01 - 02/2023 | Passed | 0.0 | 0.25 |
 | 10/28/2024 | PDP1199A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 10/28/2024 | PDP1880A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2024 | PDP3865A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/6/2024 | PDP1320A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 11/6/2024 | PDP1320A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/20/2024 | GSP2774A | UAS Ground School | Instructed | 0.0 | 30.00 |

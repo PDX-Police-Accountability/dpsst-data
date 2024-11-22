@@ -113,6 +113,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2024
+  course: BNP0221A
+  title: Mental Health- COPLINE
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/13/2024
+  course: BNP1602A
+  title: ADL- Inclusive Policing
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/13/2024
+  course: BNP0569A
+  title: Low Light Firearms / Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/26/2024
   course: OAC3725A
   title: Election Year Threat Extremism in Oregon

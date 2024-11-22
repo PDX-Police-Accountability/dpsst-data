@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.50'
+- date: 10/19/2024
+  course: PDP0177A
+  title: 2024 Rapid Response Team (RRT) Cadre Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/11/2024
   course: PDP2282A
   title: 2024 Rapid Response Team (RRT) Monthly Training

@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/12/2024 | TDP0715A | Criminal Process for digital evidence | Passed | 0.0 | 2.00 |
+| 11/6/2024 | TDP3953A | Low Light Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 10/31/2024 | TDP1118A | House Bill 4002 Implementation | Passed | 0.0 | 1.50 |
 | 10/31/2024 | HRS2510A | Officer Involved Shooting | Passed | 0.0 | 1.00 |
 | 10/31/2024 | TDP3710A | PREA | Passed | 0.0 | 1.00 |

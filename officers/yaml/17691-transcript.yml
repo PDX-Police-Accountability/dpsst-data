@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 7/1/2024
+  course: MNS1199A
+  title: CIT/De-escaltion
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/18/2024
   course: MNS0851A
   title: Kloxxado (Narcan) Training

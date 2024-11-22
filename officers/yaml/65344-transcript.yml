@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 10/9/2024
+  course: REG0975A
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 8/27/2024
   course: PDP2967A
   title: RADAR/LIDAR Operator

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2024
+  course: PDP1480A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/1/2024
   course: PDP4267A
   title: 2024 Rapid Response Team (RRT) Cadre Training

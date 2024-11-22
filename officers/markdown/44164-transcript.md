@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | PDP1480A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/21/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/16/2024 | PDP0459A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 9/30/2024 | PDP3074A | 2024 Supervisor In-Service ICS Refresher | Passed | 0.0 | 2.00 |

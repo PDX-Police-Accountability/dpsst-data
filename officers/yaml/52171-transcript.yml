@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2024
+  course: PDP2317A
+  title: 2024 Concealed Carry Course
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/19/2024
+  course: PDP0177A
+  title: 2024 Rapid Response Team (RRT) Cadre Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/29/2024
   course: PDP2777A
   title: Red Dot Optic Transition Course

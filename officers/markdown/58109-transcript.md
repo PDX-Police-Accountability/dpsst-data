@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/17/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 10/17/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 10/17/2024 | PDP2644A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
@@ -108,6 +109,13 @@
 | 9/26/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1575A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/11/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/11/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/11/2023 | PDP4163A | 2023-3 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |

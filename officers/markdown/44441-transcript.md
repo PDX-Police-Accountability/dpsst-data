@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2024 | PDP2317A | 2024 Concealed Carry Course | Passed | 0.0 | 4.00 |
 | 10/3/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/3/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |

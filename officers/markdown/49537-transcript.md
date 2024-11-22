@@ -37,8 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/28/2029 | BPT1888A | Northwest Regional CIT Conference-Day 1 | Passed | 0.0 | 6.50 |
+| 11/14/2024 | PDP1480A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/29/2024 | BPT0124A | Northwest Regional CIT Conference-Day 2 | Passed | 0.0 | 6.50 |
+| 10/28/2024 | BPT1888A | Northwest Regional CIT Conference-Day 1 | Passed | 0.0 | 6.50 |
 | 10/16/2024 | PDP0459A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/10/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 10/10/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |

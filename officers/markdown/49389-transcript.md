@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | PDP2683A | 2024 FTEP Orientation | Instructed | 0.0 | 5.50 |
 | 10/15/2024 | PDP4483A | 2024 FTEP Orientation | Instructed | 0.0 | 6.50 |
 | 10/3/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/24/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |

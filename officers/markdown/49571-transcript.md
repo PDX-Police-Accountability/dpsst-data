@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/31/2024 | PDP1705A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/29/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 10/29/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
@@ -150,6 +151,13 @@
 | 9/27/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1077A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |
 | 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/30/2023 | PDP1083A | 2023 FIT Surveillance and Follows | Passed | 0.0 | 5.00 |

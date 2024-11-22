@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | PDP1480A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/16/2024 | PDP0459A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/12/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
 | 10/12/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

@@ -35,8 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/28/2029 | BPT1888A | Northwest Regional CIT Conference-Day 1 | Passed | 0.0 | 6.50 |
 | 10/29/2024 | BPT0124A | Northwest Regional CIT Conference-Day 2 | Passed | 0.0 | 6.50 |
+| 10/28/2024 | BPT1888A | Northwest Regional CIT Conference-Day 1 | Passed | 0.0 | 6.50 |
 | 10/23/2024 | PDP3463A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 10/22/2024 | PDP4559A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
 | 10/22/2024 | PDP1880A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

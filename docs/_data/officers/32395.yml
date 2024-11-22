@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2024
+  course: PPP4465A
+  title: Handgun Qual for Special Assignment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/22/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

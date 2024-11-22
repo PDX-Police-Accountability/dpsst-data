@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/19/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/25/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/25/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
@@ -104,6 +105,12 @@
 | 10/15/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 10/15/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 10/5/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1575A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |
 | 8/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 8/28/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |

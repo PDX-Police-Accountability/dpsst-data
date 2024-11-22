@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2024
+  course: PDP0177A
+  title: 2024 Rapid Response Team (RRT) Cadre Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/11/2024
   course: PDP4496A
   title: 2024 Rapid Response Team (RRT) Monthly Training
@@ -2091,4 +2097,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 12/8/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 12/15/2014
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '25.0'
+- date: 5/17/2013
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '137.0'

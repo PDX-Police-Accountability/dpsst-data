@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/2/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
 | 10/2/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
 | 10/2/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |

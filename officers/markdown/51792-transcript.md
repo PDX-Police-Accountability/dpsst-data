@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2024 | PDP0177A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 4.00 |
 | 10/29/2024 | PDP4500A | 2024 CHO Introduction to Interpreting in Policing | Passed | 0.0 | 9.50 |
 | 10/22/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 10/22/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |

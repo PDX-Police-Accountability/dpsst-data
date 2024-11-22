@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | PDP1480A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/29/2024 | PDP1082A | 2024 Supervisor In-Service Force Inspector Updates | Passed | 0.0 | 1.00 |
 | 10/29/2024 | PDP4286A | 2024 Supervisor In-Service Overview of 2020 Unrest | Passed | 0.0 | 3.00 |
 | 10/29/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |

@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/29/2024 | PDP0066A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 10/28/2024 | PDP2676A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 10/28/2024 | PDP2046A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 10/28/2024 | PDP2041A | 2019-5 TT Enforcement of Protection Orders Full | Passed | 0.0 | 0.25 |

@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2024 | PDP2493A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 11/13/2024 | PDP2493A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
 | 10/30/2024 | PDP3389A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 10/29/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 10/29/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |

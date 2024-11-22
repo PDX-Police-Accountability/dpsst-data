@@ -30,9 +30,12 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/15/2014 | No Degree | All Other Education Institutes |  | 25.0 |
+| 5/17/2013 | Bachelor Arts | All Other Education Institutes |  | 137.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2024 | PDP0177A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 4.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/4/2024 | PDP3427A | 2024-3 All Sworn In-Service CAO Legal Updates Add | Passed | 0.0 | 0.25 |

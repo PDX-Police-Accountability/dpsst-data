@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/10/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/3/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
@@ -98,6 +99,13 @@
 | 9/25/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
 | 9/25/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
 | 9/25/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1575A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/13/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |
 | 9/5/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |

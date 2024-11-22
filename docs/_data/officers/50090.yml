@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2024
+  course: PDP2493A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/17/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
@@ -590,6 +596,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/21/2023
+  course: PDP3405A
+  title: 2023 SERT Training (Rilea) - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/19/2023
+  course: PDP1988A
+  title: 2023 SERT Training (Rilea) - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/17/2023
+  course: PDP0468A
+  title: 2023 SERT Training (Rilea) - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/14/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022

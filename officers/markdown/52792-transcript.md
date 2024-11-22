@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/29/2024 | PDP4500A | 2024 CHO Introduction to Interpreting in Policing | Passed | 0.0 | 9.50 |
+| 10/19/2024 | PDP0177A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 4.00 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |
 | 10/8/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |

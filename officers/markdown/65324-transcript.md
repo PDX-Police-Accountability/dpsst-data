@@ -29,6 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/14/2024 | PDP2683A | 2024 FTEP Orientation | Passed | 0.0 | 5.50 |
+| 11/13/2024 | PDP2853A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
+| 10/9/2024 | REG0975A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 9/19/2024 | REG3913A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 9/11/2024 | PDP2076A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/27/2024 | PDP2967A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |

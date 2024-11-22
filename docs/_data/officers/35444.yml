@@ -152,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/29/2024
+  course: PDP0066A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/28/2024
   course: PDP1910A
   title: 2023-1  2 CAO Legal Updates for 01 - 02/2023

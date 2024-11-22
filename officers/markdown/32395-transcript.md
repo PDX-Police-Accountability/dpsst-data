@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2024 | PPP4465A | Handgun Qual for Special Assignment | Passed | 0.0 | 1.00 |
 | 8/22/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/15/2024 | PPP2947A | Gasmask Fit Test | Passed | 0.0 | 0.30 |
 | 7/31/2024 | PPP1962A | Anti-Bias Training for LE | Passed | 0.0 | 2.00 |

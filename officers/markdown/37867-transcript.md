@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/13/2024 | HSU3080A | Fall In-Service 2024 Defensive Tactics | Instructed | 0.0 | 5.00 |
 | 10/11/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/11/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

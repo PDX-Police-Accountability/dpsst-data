@@ -81,7 +81,6 @@
 | * MISSING | 48578 |  |  |  |  |  | [md](../markdown/48578-transcript.md) - [yaml](../yaml/48578-transcript.yml) |
 | * MISSING | 50436 |  |  |  |  |  | [md](../markdown/50436-transcript.md) - [yaml](../yaml/50436-transcript.yml) |
 | * MISSING | 50649 |  |  |  |  |  | [md](../markdown/50649-transcript.md) - [yaml](../yaml/50649-transcript.yml) |
-| * MISSING | 50706 |  |  |  |  |  | [md](../markdown/50706-transcript.md) - [yaml](../yaml/50706-transcript.yml) |
 | * MISSING | 50999 |  |  |  |  |  | [md](../markdown/50999-transcript.md) - [yaml](../yaml/50999-transcript.yml) |
 | * MISSING | 52344 |  |  |  |  |  | [md](../markdown/52344-transcript.md) - [yaml](../yaml/52344-transcript.yml) |
 | * MISSING | 55708 |  |  |  |  |  | [md](../markdown/55708-transcript.md) - [yaml](../yaml/55708-transcript.yml) |
@@ -364,6 +363,7 @@
 | Clark, Deena J. | 17932 | Portland Police Bureau | Active | Civilian Employee | Hired | 1993-05-17 | [md](../markdown/17932-transcript.md) - [yaml](../yaml/17932-transcript.yml) |
 | Clark, Jacob R. | 43501 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/43501-transcript.md) - [yaml](../yaml/43501-transcript.yml) |
 | Clark, Sara B. | 43492 | Portland Police Bureau | Active | Detective | Promotion | 2019-03-20 | [md](../markdown/43492-transcript.md) - [yaml](../yaml/43492-transcript.yml) |
+| Clark, Thomas M. | 50706 | Portland Police Bureau | Active | Police Officer | Mil-LOA | 2020-10-22 | [md](../markdown/50706-transcript.md) - [yaml](../yaml/50706-transcript.yml) |
 | Clary, Justin L. | 40926 | Portland Police Bureau | Active | Police Officer | Hired | 2001-11-29 | [md](../markdown/40926-transcript.md) - [yaml](../yaml/40926-transcript.yml) |
 | Clevenger, Robert W. | 22506 | Portland Police Bureau | Inactive | Detective | Resigned | 2018-11-29 | [md](../markdown/22506-transcript.md) - [yaml](../yaml/22506-transcript.yml) |
 | Clifton, Brad E. | 37152 | Portland Police Bureau | Active | Detective | Promotion | 2007-08-09 | [md](../markdown/37152-transcript.md) - [yaml](../yaml/37152-transcript.yml) |
@@ -393,7 +393,7 @@
 | Cotterell, Mark A. | 65319 | Portland Police Bureau | Active | Police Officer | Hired | 2024-10-10 | [md](../markdown/65319-transcript.md) - [yaml](../yaml/65319-transcript.yml) |
 | Courtney, Lynn R. | 13609 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-07-09 | [md](../markdown/13609-transcript.md) - [yaml](../yaml/13609-transcript.yml) |
 | Coussens, Mitchell J. | 50465 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-04-07 | [md](../markdown/50465-transcript.md) - [yaml](../yaml/50465-transcript.yml) |
-| Covarrubias, Ramon, Jr. | 65026 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65026-transcript.md) - [yaml](../yaml/65026-transcript.yml) |
+| Covarrubias, Ramon, Jr. | 65026 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-11-13 | [md](../markdown/65026-transcript.md) - [yaml](../yaml/65026-transcript.yml) |
 | Cox, Brandon K. | 50231 | Portland Police Bureau | Active | Police Officer | Hired | 2009-01-22 | [md](../markdown/50231-transcript.md) - [yaml](../yaml/50231-transcript.yml) |
 | Cox, Joseph M. | 49395 | Portland Police Bureau | Inactive | Detective | Resigned | 2023-08-30 | [md](../markdown/49395-transcript.md) - [yaml](../yaml/49395-transcript.yml) |
 | Cox, Michael B. | 39653 | Portland Police Bureau | Active | Police Officer | Hired | 2001-11-29 | [md](../markdown/39653-transcript.md) - [yaml](../yaml/39653-transcript.yml) |

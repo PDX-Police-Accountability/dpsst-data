@@ -49,7 +49,6 @@
 | 10/26/2023 | BPT2208A | Field Training and Evlauation Program / IDC | Passed | 0.0 | 32.00 |
 | 10/11/2023 | PSU4516A | Firearms Training / Qualification | Passed | 0.0 | 2.00 |
 | 8/21/2023 | PSU1346A | Intro to Trauma Informed Care | Passed | 0.0 | 0.50 |
-| 8/21/2023 | PSU0247A | Intro to Trauma Informed Care | Passed | 0.0 | 0.50 |
 | 8/14/2023 | PSU1198A | Taser 7 Basic Operator Course | Instructed | 0.0 | 8.00 |
 | 7/27/2023 | BPT2237A | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 7/21/2023 | HRS1958A | ALERRT Level 1 Active Shooter Response T3 | Passed | 0.0 | 40.00 |

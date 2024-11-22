@@ -139,6 +139,13 @@
 | 10/12/2023 | PDP4301A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 10/6/2023 | BVP1875A | Complete Tactical Casualty Care | Passed | 0.0 | 44.00 |
 | 10/6/2023 | PDP2307A | Complete Tactical Casualty Care | Passed | 0.0 | 42.50 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1575A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/12/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/12/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/11/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |

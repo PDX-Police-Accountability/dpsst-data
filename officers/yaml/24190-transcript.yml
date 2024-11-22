@@ -96,6 +96,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/16/2024
+  course: F1540385
+  title: OC Spray Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/16/2024
+  course: F1523037
+  title: Baton Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/16/2024
+  course: F1515291
+  title: Firearms Training/Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/16/2024
   course: 24-0004
   title: DPSST Basic Police COD Self-Study

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | PDP1480A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/30/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
 | 10/30/2024 | PDP1991A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
 | 10/30/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |

@@ -36,6 +36,7 @@
 | 10/26/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/24/2024 | PDP1645A | 2020 Trng Managing Critical Incidents Sgts Role | Passed | 0.0 | 0.25 |
 | 10/24/2024 | PDP1175A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 10/19/2024 | PDP0177A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 4.00 |
 | 10/15/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |

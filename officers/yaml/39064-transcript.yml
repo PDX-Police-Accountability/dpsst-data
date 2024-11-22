@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/6/2024
+  course: TDP3953A
+  title: Low Light Firearms Qualification and Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/31/2024
   course: TDP1118A
   title: House Bill 4002 Implementation

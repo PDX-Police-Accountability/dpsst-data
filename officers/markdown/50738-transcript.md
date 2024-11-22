@@ -59,6 +59,13 @@
 | 10/27/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
 | 10/27/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |
 | 10/14/2023 | PDP2970A | 2023 Body Worn Camera Policy Recording with KC | Passed | 0.0 | 1.00 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1575A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/12/2023 | PDP0516A | 2023 Body-Worn Camera (BWC) Policy Online | Passed | 0.0 | 1.00 |
 | 9/5/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/5/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |

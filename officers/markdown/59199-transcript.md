@@ -42,6 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | EGP2774A | Bias  Bias Crime Investigations | Passed | 0.0 | 1.50 |
+| 11/14/2024 | EGP0385A | Night Shoot | Passed | 0.0 | 3.00 |
+| 11/14/2024 | EGP2733A | Suicide Prevention | Passed | 0.0 | 3.00 |
 | 10/10/2024 | EGP3595A | Deflection | Passed | 0.0 | 1.00 |
 | 10/10/2024 | EGP2340A | EVOC Critical Skills | Passed | 0.0 | 3.00 |
 | 10/10/2024 | EGP4365A | Firearms Qualification | Passed | 0.0 | 3.00 |

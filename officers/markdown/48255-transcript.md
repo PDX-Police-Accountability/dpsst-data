@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/31/2024 | PDP3987A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 10/18/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |
 | 10/18/2024 | PDP3074A | 2024 Supervisor In-Service ICS Refresher | Passed | 0.0 | 2.00 |
@@ -117,6 +118,14 @@
 | 12/11/2023 | PDP3394A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
 | 11/30/2023 | PDP1400A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 11/2/2023 | PDP1636A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP0870A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 2.50 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1077A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/19/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/4/2023 | PDP3606A | CPR/First Aid | Passed | 0.0 | 1.75 |

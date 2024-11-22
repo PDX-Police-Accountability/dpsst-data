@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | PDP1480A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/30/2024 | HBA2384A | Building Bridges Summit | Passed | 0.0 | 5.00 |
 | 10/24/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/22/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |

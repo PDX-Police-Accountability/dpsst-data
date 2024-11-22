@@ -38,7 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2024 | BNP0752A | Weapons Manipulation | Passed | 0.0 | 1.00 |
 | 11/16/2024 | BNP3952A | Indoor UAS Flight Strategies | Passed | 0.0 | 5.50 |
+| 11/13/2024 | BNP0221A | Mental Health- COPLINE | Passed | 0.0 | 0.50 |
+| 11/13/2024 | BNP1602A | ADL- Inclusive Policing | Passed | 0.0 | 3.00 |
+| 11/13/2024 | BNP0569A | Low Light Firearms / Qualifications | Passed | 0.0 | 3.00 |
 | 10/17/2024 | BNP3852A | UAS Training - Outdoor Tracking | Passed | 0.0 | 5.50 |
 | 10/13/2024 | BNP1181A | Building Clearing | Passed | 0.0 | 2.00 |
 | 9/4/2024 | BNP2688A | Shooting While Moving | Passed | 0.0 | 1.00 |

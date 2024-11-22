@@ -147,6 +147,13 @@
 | 9/30/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/28/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 9/28/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1575A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/15/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/15/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/15/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |

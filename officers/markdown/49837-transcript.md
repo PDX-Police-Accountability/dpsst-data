@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/31/2024 | PDP1705A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/21/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/26/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
@@ -159,6 +160,13 @@
 | 9/28/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 9/28/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 9/28/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1575A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/12/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/12/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 9/5/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |

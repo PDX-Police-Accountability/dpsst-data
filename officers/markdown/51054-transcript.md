@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/31/2024 | PDP1705A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/24/2024 | PDP3632A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 10/17/2024 | PDP2644A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
@@ -126,6 +127,13 @@
 | 9/25/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
 | 9/25/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
 | 9/25/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
+| 9/21/2023 | PDP3405A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 2.00 |
+| 9/21/2023 | PDP2993A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/20/2023 | PDP4261A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.50 |
+| 9/19/2023 | PDP1988A | 2023 SERT Training (Rilea) - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP0296A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/18/2023 | PDP1575A | 2023 SERT Training (Rilea) - ITERATION | Passed | 0.0 | 3.00 |
+| 9/17/2023 | PDP0468A | 2023 SERT Training (Rilea) - CLASSROOM | Passed | 0.0 | 1.50 |
 | 9/2/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/30/2023 | PDP1083A | 2023 FIT Surveillance and Follows | Instructed | 0.0 | 5.00 |

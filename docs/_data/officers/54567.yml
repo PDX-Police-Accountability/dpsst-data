@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2024
+  course: MLP0654A
+  title: DV Investigations w/ CC DA
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/22/2024
   course: MLP1721A
   title: Red Dot Qualification

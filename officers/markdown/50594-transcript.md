@@ -50,6 +50,7 @@
 | 10/21/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 10/21/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 10/21/2024 | PDP3280A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 10/19/2024 | PDP0177A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 4.00 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |
 | 10/9/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

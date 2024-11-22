@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/29/2024
+  course: PDP0066A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/28/2024
   course: PDP2676A
   title: 2021 Online In-Service Procedural Justice
