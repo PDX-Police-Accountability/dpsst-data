@@ -40,6 +40,7 @@
 | 10/23/2024 | HBS0168A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 6.00 |
 | 10/22/2024 | HBS0058A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 7.00 |
 | 10/21/2024 | HBS0812A | SARTOPO-A user's guide for Search Management | Passed | 0.0 | 7.00 |
+| 10/1/2024 | OCS0791A | 2024 Patrol Fall Rifle | Passed | 0.0 | 4.00 |
 | 9/7/2024 | OCS3213A | Annual DV Training | Passed | 0.0 | 1.00 |
 | 9/1/2024 | OCS0329A | Efficient Holster speed/marksmanship | Passed | 0.0 | 1.00 |
 | 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |

@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 10/1/2024
+  course: OCS0791A
+  title: 2024 Patrol Fall Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/7/2024
   course: OCS3213A
   title: Annual DV Training

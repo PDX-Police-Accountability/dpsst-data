@@ -104,6 +104,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 10/1/2024
+  course: OCS0791A
+  title: 2024 Patrol Fall Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/30/2024
   course: OCS4309A
   title: 3rd Qtr Patrol Shotgun

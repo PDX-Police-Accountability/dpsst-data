@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/1/2024
+  course: OCS0791A
+  title: 2024 Patrol Fall Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/1/2024
   course: OCS2693A
   title: De-escalation

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/1/2024
+  agency: Clackamas County Sheriff's Office
+  action: LOA
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
 - date: 6/10/2024
   agency: Clackamas County Sheriff's Office
   action: Hired

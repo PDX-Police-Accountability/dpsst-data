@@ -21,8 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/24/2024 | 1/24/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 7/14/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 8/4/2020 |  |
 ## Education
@@ -31,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/14/2024 | BNS3545A | Strangulation | Passed | 0.0 | 0.50 |
 | 10/14/2024 | BNS1058A | Emergeny Protection Orders | Passed | 0.0 | 1.00 |
 | 10/14/2024 | BNS3785A | UOF Reporting | Passed | 0.0 | 1.50 |

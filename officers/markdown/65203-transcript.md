@@ -73,10 +73,10 @@
 | 10/9/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 10/8/2024 | PDP2923A | 2024 FTEP Geography | Passed | 0.0 | 3.00 |
 | 10/8/2024 | PDP2697A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
+| 10/4/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 8/27/2024 | PDP2967A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 8/21/2024 | REG0839A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/12/2024 | PDP2076A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
-| 5/27/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 5/23/2024 | PDP0457A | ICS-100 Intro to the Incident Cmnd System | Passed | 0.0 | 2.00 |
 | 5/23/2024 | PDP2371A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/23/2024 | PDP2052A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

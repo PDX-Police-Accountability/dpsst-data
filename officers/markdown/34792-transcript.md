@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2024 | ADP0220A | Night Pistol and Shotgun | Passed | 0.0 | 4.00 |
 | 10/30/2024 | TAP0790A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
 | 10/18/2024 | ADP2035A | TASER 10 Certification | Instructed | 0.0 | 6.00 |
 | 10/18/2024 | ADP1083A | TASER Annual Recertification | Passed | 0.0 | 2.00 |

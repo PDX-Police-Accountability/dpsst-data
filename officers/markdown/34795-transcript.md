@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2024 | OCS0791A | 2024 Patrol Fall Rifle | Passed | 0.0 | 4.00 |
 | 9/27/2024 | NPS3553A | Fall 2024 OSSA Civil Conference | Passed | 0.0 | 20.00 |
 | 8/27/2024 | OCS2835A | Balancing Speed/Marksmanship and Rifle Qual | Passed | 0.0 | 4.00 |
 | 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |

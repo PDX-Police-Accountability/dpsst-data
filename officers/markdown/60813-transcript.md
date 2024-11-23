@@ -22,8 +22,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | CPR | 4/4/2023 | 4/30/2025 |
 | Certification Cards | First Aid | 4/4/2023 | 4/30/2025 |
 | Certification Cards | CPR | 3/17/2023 | 3/31/2025 |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2024 | OSH2753A | Ethics | Passed | 0.0 | 1.00 |
 | 9/6/2024 | OSH1985A | 2nd Trimester Defensive Tactics/Taser | Passed | 0.0 | 3.00 |
 | 8/18/2024 | OSH0173A | EVOC Regional Training | Passed | 0.0 | 6.00 |

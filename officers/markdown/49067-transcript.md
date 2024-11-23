@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2024 | OCS4129A | Equity | Passed | 0.0 | 3.00 |
 | 11/9/2024 | OCS2625A | RADAR Lidar Operator Course | Instructed | 0.0 | 8.00 |
 | 10/14/2024 | OCS4265A | Intoxilyzer 8000 Certification | Instructed | 0.0 | 6.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

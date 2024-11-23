@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2024 | REG2226A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 11/9/2024 | OCS2625A | RADAR Lidar Operator Course | Passed | 0.0 | 8.00 |
 | 9/19/2024 | OCS3386A | 24' SWAT/CNT Week- Intel Gathering  Scenerio | Passed | 0.0 | 6.50 |
 | 9/19/2024 | OCS2473A | 24' SWAT/CNT Week- Final Scenerio 1  2 | Passed | 0.0 | 7.50 |

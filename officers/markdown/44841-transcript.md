@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2024 | LOP0818A | Do's and Don'ts of Cultural Inclusion | Passed | 0.0 | 1.00 |
 | 10/30/2024 | LOP0758A | Taser 10 Certifications | Passed | 0.0 | 8.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

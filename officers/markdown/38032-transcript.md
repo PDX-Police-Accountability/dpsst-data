@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/13/2024 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 4/1/2023 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 7/12/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 9/16/1999 | Portland Police Bureau | Hired | Police Off |  |  |

@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/19/2024
+  course: OCS4129A
+  title: Equity
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/31/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/1/2024
+  course: OCS0791A
+  title: 2024 Patrol Fall Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/1/2024
   course: OCS2693A
   title: De-escalation

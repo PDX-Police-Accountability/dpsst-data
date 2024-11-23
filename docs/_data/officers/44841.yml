@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2024
+  course: LOP0818A
+  title: Do's and Don'ts of Cultural Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/30/2024
   course: LOP0758A
   title: Taser 10 Certifications

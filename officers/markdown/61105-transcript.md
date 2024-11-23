@@ -24,10 +24,11 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 6/30/2023 | 6/30/2025 |
 | Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
 | Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/11/2024 | NGP4541A | Taser CEW Operator Recertification course | Passed | 0.0 | 2.00 |
 | 10/28/2024 | NGP3635A | EVOC Refresher | Passed | 0.0 | 5.00 |
 | 10/14/2024 | NGP2961A | HB4002/Search  Seizure | Passed | 0.0 | 1.00 |

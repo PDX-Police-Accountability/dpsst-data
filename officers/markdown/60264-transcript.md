@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/1/2024 | Clackamas County Sheriff's Office | LOA | Par/prob O |  |  |
 | 6/10/2024 | Clackamas County Sheriff's Office | Hired | Par/prob O |  |  |
 | 10/22/2019 | Portland Police Bureau | Resigned | Police Off |  |  |
 ## Certification

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2024 | OSH2146A | PT Survival Skill 3rd Tri | Instructed | 0.0 | 4.00 |
 | 10/28/2024 | OSH2858A | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
 | 10/25/2024 | OSH2277A | 3rd Trimester Firearms-Low Light | Instructed | 0.0 | 4.00 |
 | 10/18/2024 | OSH3811A | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |

@@ -22,7 +22,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/22/2023 | 5/22/2025 |
 | Code of Ethics | Law Enforcement Signed | 10/29/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
@@ -33,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/30/2024 | PDP0177A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 4.00 |
 | 10/19/2024 | PDP0177A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 4.00 |
 | 10/15/2024 | PDP3427A | 2024-3 All Sworn In-Service CAO Legal Updates Add | Passed | 0.0 | 0.25 |
