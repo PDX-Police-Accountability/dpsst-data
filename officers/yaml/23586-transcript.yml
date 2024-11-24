@@ -42,6 +42,30 @@ certification_records:
   expiration_date: 1/30/2025
   probation_date: ''
 training_records:
+- date: 10/12/2024
+  course: PDS1005A
+  title: Range Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/12/2024
+  course: PDS3515A
+  title: Range Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/12/2024
+  course: PDS1595A
+  title: CIT ConSims
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/12/2024
+  course: PDS0961A
+  title: Use of Force Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/8/2024
   course: PDS0389A
   title: Corrections Overview

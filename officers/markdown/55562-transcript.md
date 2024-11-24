@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2024 | PDS0922A | Range Training | Passed | 0.0 | 3.50 |
+| 10/9/2024 | PDS0342A | Range Qualifications | Passed | 0.0 | 0.50 |
 | 10/7/2024 | PDS0163A | Taser Practical | Passed | 0.0 | 0.50 |
 | 10/7/2024 | PDS2092A | Use of Force Report Writing | Passed | 0.0 | 1.50 |
 | 10/7/2024 | PDS1517A | CIT ConSims | Passed | 0.0 | 2.00 |

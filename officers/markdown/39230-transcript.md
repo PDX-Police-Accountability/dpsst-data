@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2024 | EGP3089A | Ethics | Passed | 0.0 | 1.50 |
 | 10/10/2024 | EGP3595A | Deflection | Passed | 0.0 | 1.00 |
 | 10/10/2024 | EGP2340A | EVOC Critical Skills | Passed | 0.0 | 3.00 |
 | 10/10/2024 | EGP4365A | Firearms Qualification | Passed | 0.0 | 3.00 |

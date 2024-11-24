@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2024 | BBP2076A | Use of Force course #UOFC101 Police One Academy | Passed | 0.0 | 2.00 |
 | 10/9/2024 | BBP2605A | Pistol/rifle qualification and tactical range | Passed | 0.0 | 1.00 |
 | 10/9/2024 | BBP4267A | Pistol/rifle qualification and tactical range | Passed | 0.0 | 1.00 |
 | 10/2/2024 | BBP1969A | 9th Circuit Court Review/Las Vegas Case | Passed | 0.0 | 1.00 |

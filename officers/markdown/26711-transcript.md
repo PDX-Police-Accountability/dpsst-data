@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2024 | HBP2632A | PoliceOne Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
 | 9/2/2024 | HBP2227A | PoliceOne Crisis Intervent. w/Mentally Ill Sub. | Passed | 0.0 | 2.00 |
 | 8/7/2024 | HBP1605A | ACAP - Airways Training | Passed | 0.0 | 2.00 |
 | 6/30/2024 | HBP0978A | Respectful Workplace - Supervisor Trng (Ethics) | Passed | 0.0 | 1.00 |

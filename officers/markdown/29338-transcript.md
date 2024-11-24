@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2024 | PDS0245A | Less Lethal | Passed | 0.0 | 2.00 |
 | 8/31/2024 | PDS0894A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 8/31/2024 | PDS3540A | Cultural Awareness | Passed | 0.0 | 1.00 |
 | 6/25/2024 | PDS3908A | Range | Passed | 0.0 | 2.00 |

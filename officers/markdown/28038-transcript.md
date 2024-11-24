@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2024 | PDS0245A | Less Lethal | Passed | 0.0 | 2.00 |
 | 8/2/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |
 | 7/26/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
 | 7/26/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |

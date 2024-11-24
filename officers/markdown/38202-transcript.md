@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/2/2024 | PDS2199A | Leadership | Passed | 0.0 | 4.00 |
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |
+| 9/28/2024 | PDS0245A | Less Lethal | Passed | 0.0 | 2.00 |
 | 8/12/2024 | PDS2312A | Kinetic Impact Projectile | Passed | 0.0 | 0.50 |
 | 7/20/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
 | 7/20/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |

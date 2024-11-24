@@ -33,6 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2024 | PDS1005A | Range Training | Passed | 0.0 | 4.00 |
+| 10/12/2024 | PDS3515A | Range Qualifications | Passed | 0.0 | 0.50 |
+| 10/12/2024 | PDS1595A | CIT ConSims | Passed | 0.0 | 2.00 |
+| 10/12/2024 | PDS0961A | Use of Force Report Writing | Passed | 0.0 | 1.50 |
 | 6/8/2024 | PDS0389A | Corrections Overview | Passed | 0.0 | 6.00 |
 | 3/29/2024 | PDS3207A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/29/2024 | PDS1083A | UNET Range | Passed | 0.0 | 4.00 |

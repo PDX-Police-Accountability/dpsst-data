@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2024
+  course: PDP0004A
+  title: 2024-2 Field Training Officer (FTO)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/30/2024
   course: PDP0177A
   title: 2024 Rapid Response Team (RRT) Cadre Training

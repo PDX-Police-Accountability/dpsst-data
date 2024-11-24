@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2024 | PDS2374A | Leadership | Passed | 0.0 | 4.00 |
+| 9/24/2024 | PDS1480A | Range IDC | Passed | 0.0 | 2.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/13/2024 | PDS2081A | Ethical Behavior | Passed | 0.0 | 1.00 |
 | 8/13/2024 | PDS2312A | Kinetic Impact Projectile | Passed | 0.0 | 0.50 |

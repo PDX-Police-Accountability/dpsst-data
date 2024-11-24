@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2024 | PDS0245A | Less Lethal | Passed | 0.0 | 2.00 |
 | 7/30/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |
 | 7/30/2024 | PDS0551A | OSHA | Passed | 0.0 | 1.00 |
 | 7/30/2024 | PDS0611A | PREA | Passed | 0.0 | 1.00 |

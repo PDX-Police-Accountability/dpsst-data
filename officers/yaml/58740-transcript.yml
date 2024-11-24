@@ -49,6 +49,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/31/2024
+  course: PDP0004A
+  title: 2024-2 Field Training Officer (FTO)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/24/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

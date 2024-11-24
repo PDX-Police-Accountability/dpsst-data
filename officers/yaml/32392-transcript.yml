@@ -62,6 +62,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/15/2024
+  course: VND2374A
+  title: Tragedy At Sandy Hook-Lessons Learned
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/14/2024
+  course: VND3515A
+  title: The Bullet Proof Mind
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/13/2024
+  course: VND4067A
+  title: Sometimes Heroes Need Held
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/12/2024
+  course: VND2267A
+  title: 'Catching Hell: Lessons on Leadership  Wellness'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/4/2024
   course: TGP2171A
   title: Handgun/Patrol Rifle Training

@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2024
+  course: HBP2632A
+  title: PoliceOne Anti-Bias Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/2/2024
   course: HBP2227A
   title: PoliceOne Crisis Intervent. w/Mentally Ill Sub.

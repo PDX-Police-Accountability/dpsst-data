@@ -38,9 +38,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2024 | PDS0245A | Less Lethal | Instructed | 0.0 | 2.00 |
+| 9/24/2024 | PDS1480A | Range IDC | Passed | 0.0 | 2.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/13/2024 | PDS0245A | Less Lethal | Instructed | 0.0 | 2.00 |
+| 9/11/2024 | PDS0245A | Less Lethal | Instructed | 0.0 | 2.00 |
+| 9/5/2024 | PDS0245A | Less Lethal | Instructed | 0.0 | 2.00 |
 | 8/16/2024 | PDS2081A | Ethical Behavior | Passed | 0.0 | 1.00 |
 | 8/16/2024 | PDS2312A | Kinetic Impact Projectile | Passed | 0.0 | 0.50 |
+| 8/8/2024 | PDS2782A | Less Lethal IDC | Passed | 0.0 | 4.00 |
 | 7/31/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
 | 7/26/2024 | PDS0208A | Emergency Management  Facility Evacuation | Passed | 0.0 | 0.50 |
 | 7/26/2024 | PDS0611A | PREA | Passed | 0.0 | 1.00 |

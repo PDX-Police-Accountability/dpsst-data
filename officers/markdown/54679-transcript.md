@@ -40,15 +40,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/23/2024 | MLP3031A | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 8/30/2024 | MLP2840A | Resilience and Stress Management | Passed | 0.0 | 1.00 |
 | 8/8/2024 | WBP4541A | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |
+| 7/31/2024 | MLP1284A | OSHA Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 7/22/2024 | MLP1721A | Red Dot Qualification | Passed | 0.0 | 4.00 |
 | 7/15/2024 | MLP0896A | Red Dot Qualification Course | Passed | 0.0 | 4.00 |
+| 6/27/2024 | MLP2657A | CIS Sexual Harassment Identification/Prevention | Passed | 0.0 | 1.00 |
 | 6/2/2024 | MLP3693A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/31/2024 | MLP2750A | OSHA Heat Illness Prevention | Passed | 0.0 | 1.00 |
 | 5/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/30/2024 | MLP0207A | Ethics  Code of Conduct | Passed | 0.0 | 1.00 |
 | 4/22/2024 | MLP3862A | Adult/Child/Infant First AID, CPR AED | Passed | 0.0 | 3.00 |
 | 4/5/2024 | WBP2170A | HANDGUN INSTRUCTOR DEVELOPMENT COURSE | Passed | 0.0 | 40.00 |
+| 3/28/2024 | MLP2297A | Firearms Qualifications | Passed | 0.0 | 1.50 |
 | 3/1/2024 | MLP2702A | Emergency  Fire Preparedness | Passed | 0.0 | 1.00 |
 | 2/29/2024 | MLP1263A | Why emergency Preparedness Matters | Passed | 0.0 | 1.00 |
 | 2/1/2024 | MLP3480A | OSHA Slips, Trips  Falls | Passed | 0.0 | 1.00 |

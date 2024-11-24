@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2024
+  course: PDP0004A
+  title: 2024-2 Field Training Officer (FTO)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/29/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | BVP3765A | November Range 2024 Pistol 111424 | Passed | 0.0 | 3.00 |
 | 10/28/2024 | BVP1864A | First Amendment Assemblies Training | Passed | 0.0 | 0.50 |
 | 10/10/2024 | BVP2140A | Fall IST EVOC | Passed | 0.0 | 3.00 |
 | 9/27/2024 | BVP2054A | Control Tactics | Passed | 0.0 | 3.00 |

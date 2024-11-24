@@ -81,6 +81,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/12/2024
+  course: VND2267A
+  title: 'Catching Hell: Lessons on Leadership  Wellness'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/12/2024
+  course: VND0127A
+  title: Understand Equity in a LE Environment
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/7/2024
   course: FGP1810A
   title: Ethics and Professionalism in LE refresher

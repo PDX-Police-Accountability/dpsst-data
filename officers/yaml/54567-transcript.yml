@@ -73,6 +73,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/30/2024
+  course: MLP2840A
+  title: Resilience and Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2024
+  course: MLP1284A
+  title: OSHA Wildfire Smoke Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/22/2024
   course: MLP1721A
   title: Red Dot Qualification
@@ -103,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/27/2024
+  course: MLP2657A
+  title: CIS Sexual Harassment Identification/Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/3/2024
   course: MLP3693A
   title: Defensive Tactics

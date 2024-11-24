@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2024
+  course: BVP2327A
+  title: November Range 2024 Pistol 111224
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/27/2024
   course: BVP2054A
   title: Control Tactics

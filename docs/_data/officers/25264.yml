@@ -68,12 +68,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/28/2024
+  course: PDS0245A
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/24/2024
+  course: PDS1480A
+  title: Range IDC
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/13/2024
+  course: PDS0245A
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/11/2024
+  course: PDS0245A
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/5/2024
+  course: PDS0245A
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/16/2024
   course: PDS2081A
   title: Ethical Behavior
@@ -86,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/8/2024
+  course: PDS2782A
+  title: Less Lethal IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/31/2024
   course: PDS1174A
   title: ADA Policy

@@ -89,6 +89,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2024
+  course: SVP3669A
+  title: Defensive Tactics Training
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/18/2024
+  course: SVP0827A
+  title: Balancing Innovation  Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/13/2024
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
