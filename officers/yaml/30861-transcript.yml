@@ -1,0 +1,416 @@
+---
+header_record:
+  name: Monogue, Ryan P.
+  dpsst_identifier: '30861'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Reserve Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/2/2024
+  agency: Deschutes County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 1/1/2024
+  agency: Out of State Employment
+  action: Resigned
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 2/20/2020
+  agency: Out of State Employment
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 9/16/2013
+  agency: Out of State Employment
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 9/14/2013
+  agency: Out of State Employment
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 9/16/2004
+  agency: Out of State Employment
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 9/15/2004
+  agency: Out of State Employment
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/27/1998
+  agency: Out of State Employment
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/26/1998
+  agency: Out of State Employment
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 2/27/1996
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 7/14/1995
+  agency: Out of State Employment
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 5/30/1995
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 8/6/2024
+  certificate: Police Officer
+  level: Advanced
+  status: Granted
+  certificate_date: 8/6/2024
+  expiration_date: ''
+  probation_date: ''
+- status_date: 8/6/2024
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 8/6/2024
+  expiration_date: ''
+  probation_date: ''
+- status_date: 8/6/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: Granted
+  certificate_date: 8/6/2024
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 11/6/2024
+  course: BNS3028A
+  title: Use of Force, Pepperball, 40mm
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/23/2024
+  course: BNS0305A
+  title: 40MM
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2024
+  course: BNS0305A
+  title: 40MM
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/23/2024
+  course: BNS0390A
+  title: Use Of Force update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2024
+  course: BNS2636A
+  title: Low Light Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/28/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 5/10/2024
+  course: BNS2141A
+  title: Active Threat
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/16/2024
+  course: 24-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 4/15/2024
+  course: BNS3728A
+  title: Arrest and Control
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/15/2024
+  course: BNS2857A
+  title: Firearms, Fire Suppression Tools
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/4/2024
+  course: BNS3287A
+  title: Intoxilyzer 8000 operator course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/14/2024
+  course: MISCOOS
+  title: Approved Out of State Training
+  status: Passed
+  score: '0.0'
+  hours: '3433.00'
+- date: 2/9/2024
+  course: BNS2817A
+  title: Introduction to Animal Control
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 2/9/2024
+  course: BNS3807A
+  title: Introduction to Animal Control
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 2/8/2024
+  course: BNS3709A
+  title: Intro to Deschutes County DA's Office
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/7/2024
+  course: BNS0383A
+  title: Evidence entry and submission
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/7/2024
+  course: BNS2925A
+  title: Scenearios and Common Forms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/7/2024
+  course: BNS1817A
+  title: Introduction to Deschutes County Dispatch and 911
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/6/2024
+  course: BNS3693A
+  title: Scenearios and Common Forms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/6/2024
+  course: BNS2340A
+  title: Introduction to CAD
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/6/2024
+  course: BNS4288A
+  title: Introduction to report writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/5/2024
+  course: BNS3755A
+  title: Ethics vs Morals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/5/2024
+  course: BNS0236A
+  title: Working With DHS and Child Welfare
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/5/2024
+  course: BNS2783A
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 2/5/2024
+  course: BNS3491A
+  title: Working with Mental Health /Stabilization Center
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/2/2024
+  course: BNS3080A
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/2/2024
+  course: BNS4226A
+  title: Arrest and Control
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 1/31/2024
+  course: BNS4512A
+  title: 40MM
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/29/2024
+  course: BNS1810A
+  title: Rifle Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2024
+  course: BNS3008A
+  title: Pistol, Rifle
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/24/2024
+  course: BNS2370A
+  title: TCCC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/23/2024
+  course: BNS4427A
+  title: Building searches, High Risk Stops
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/22/2024
+  course: BNS2730A
+  title: Tactical De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/19/2024
+  course: BNS0509A
+  title: PepperBall, OC
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 1/12/2024
+  course: BNS3245A
+  title: Deputy Survival
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/12/2024
+  course: BNS3493A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 1/11/2024
+  course: BNS2401A
+  title: Suicide Prevention, CIT, MH awareness
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/9/2024
+  course: BNS2192A
+  title: Pistol Familiarization, Officer Involved Shooting
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/8/2024
+  course: BNS2472A
+  title: Workplace Ralationships, PREA, Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/5/2024
+  course: BNS4146A
+  title: Radar/Lidar Operator's Course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/5/2024
+  course: BNS4063A
+  title: Radar/Lidar Operator's Course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/2/2024
+  course: BNS1951A
+  title: Core Values- Effective Communication
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/28/2023
+  course: BNS4235A
+  title: The Hobble, The WRAP, Transport restraints
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/16/2023
+  course: BNS2366A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/14/2023
+  course: BNS1313A
+  title: Off Duty Carry, Emergency Restraint Chair
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/9/2023
+  course: BNS0840A
+  title: Taser 7 CQ
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 6/3/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 4/16/2024
+  expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/24/2024
+  expiration_date: 1/5/2026
+education_records:
+- date: 12/20/2003
+  degree: Bachelor of General Studies
+  school: All Other Education Institutes
+  major: Social Sciences
+  hours: '25.0'
+- date: 12/15/1995
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '96.0'
