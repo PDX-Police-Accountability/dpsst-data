@@ -1,0 +1,900 @@
+---
+header_record:
+  name: Odom, Mikayla B.
+  dpsst_identifier: '62499'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/7/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 3/1/2022
+  agency: Oregon State Police
+  action: Prob Dschg
+  rank: Trooper
+  classification: ''
+  assignment: ''
+- date: 1/19/2022
+  agency: Oregon State Police
+  action: Hired
+  rank: Trooper
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 2/20/2024
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 2/20/2024
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 11/21/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/8/2024
+  course: PDP0778A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/8/2024
+  course: PDP2037A
+  title: '2024-3 All Sworn In-Service MFF: APR'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/8/2024
+  course: PDP2644A
+  title: '2024-3 All Sworn In-Service MFF: Formations'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/8/2024
+  course: PDP2514A
+  title: 2024-3 All Sworn In-Service MFF PO Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/8/2024
+  course: PDP3341A
+  title: '2024-3 All Sworn In-Service MFF: Scenarios'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/8/2024
+  course: PDP2945A
+  title: '2024-3 All Sworn In-Service MFF: Use of Force TT'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/7/2024
+  course: PDP1634A
+  title: 2024-3 All Sworn In-Service ABLE (CIT)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/7/2024
+  course: PDP1991A
+  title: 2024-3 All Sworn In-Service ABLE (Ethics)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/7/2024
+  course: PDP0138A
+  title: 2024-3 All Sworn In-Service Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/7/2024
+  course: PDP4446A
+  title: 2024-3 All Sworn In-Service Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/7/2024
+  course: PDP3280A
+  title: 2024-3 All Sworn In-Service Wellness Elective
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/5/2024
+  course: PDP1215A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/5/2024
+  course: PDP0145A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2024
+  course: PDP3890A
+  title: 2023-4 CAO Legal Updates for 04/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2024
+  course: PDP1954A
+  title: 2024 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/27/2024
+  course: PDP0311A
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2024
+  course: PDP0737A
+  title: 2024 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/27/2024
+  course: PDP3193A
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2024
+  course: PDP2119A
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2024
+  course: PDP3146A
+  title: 2024-4 CAO Legal Updates for 04/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2024
+  course: PDP0918A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/27/2024
+  course: PDP1283A
+  title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/22/2024
+  course: PDP2564A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/22/2024
+  course: PDP2096A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/10/2024
+  course: PDP4454A
+  title: 2024-7 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/8/2024
+  course: PDP1434A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/6/2024
+  course: PDP1749A
+  title: 2024-3 Tips  Techniques Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/5/2024
+  course: PDP0018A
+  title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/21/2024
+  course: PDP4034A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2024
+  course: PDP1977A
+  title: 2024 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/27/2024
+  course: PDP1138A
+  title: 2024-1 All Sworn In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/27/2024
+  course: PDP2966A
+  title: 2024-1 All Sworn In-Service MFF Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/27/2024
+  course: PDP1595A
+  title: 2024-1 All Sworn In-Service MFF Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/27/2024
+  course: PDP1281A
+  title: 2024-1 All Sworn In-Service Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/21/2024
+  course: PDP4366A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.25'
+- date: 2/27/2024
+  course: PDP1697A
+  title: 2024-1 All Sworn In-Service PVO Box In Refresh
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/27/2024
+  course: PDP1287A
+  title: 2024-1 All Sworn In-Service PVO High Speed Lapping
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/27/2024
+  course: PDP1122A
+  title: 2024-1 All Sworn In-Service PVO PIT/Post Refresh
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/27/2024
+  course: PDP2537A
+  title: 2024-1 All Sworn In-Service PVO Pursuit Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/4/2024
+  course: PDP4208A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 2/2/2024
+  course: PDP3566A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2024
+  course: PDP2198A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/25/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 1/15/2024
+  course: PDP2811A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2024
+  course: PDP0508A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2024
+  course: PDP0617A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2024
+  course: PDP1708A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/14/2024
+  course: PDP0405A
+  title: 2023 Naxolone 'Narcan' Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/14/2024
+  course: PDP0638A
+  title: 2023 Directive 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2024
+  course: PDP2822A
+  title: 2023 DIR 0620.00 Body-Worn Camera Use and MGMT
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2024
+  course: PDP3527A
+  title: 2023 PCJP and Restorative Justice Referral
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/12/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/25/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/25/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/7/2023
+  course: PDP3864A
+  title: 2023-2 Advanced Academy Bike School
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 8/2/2023
+  course: PDP1995A
+  title: 2023-2 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 7/30/2023
+  course: PDP0289A
+  title: 2023-2 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '43.25'
+- date: 7/27/2023
+  course: PDP2671A
+  title: 2023-2 Advanced Academy PP (Firearms)
+  status: Passed
+  score: '0.0'
+  hours: '105.50'
+- date: 7/25/2023
+  course: PDP0817A
+  title: 2023-2 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 7/25/2023
+  course: PDP1513A
+  title: 2023-2 Advanced Academy Cares
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/25/2023
+  course: PDP2553A
+  title: 2023-2 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/24/2023
+  course: PDP1472A
+  title: 2023-2 Advanced Academy ASU
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2023
+  course: PDP3010A
+  title: 2023-2 Advanced Academy Crime Scene
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2023
+  course: PDP2454A
+  title: 2023-2 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '3.75'
+- date: 7/24/2023
+  course: PDP3266A
+  title: 2023-2 Advanced Academy Human Traffic
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2023
+  course: PDP0989A
+  title: 2023-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 7/20/2023
+  course: PDP1399A
+  title: 2023-2 Advanced Academy CT
+  status: Passed
+  score: '0.0'
+  hours: '64.75'
+- date: 7/19/2023
+  course: PDP4256A
+  title: 2023-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '51.75'
+- date: 7/12/2023
+  course: PDP0328A
+  title: 2023-2 Advanced Academy CIT
+  status: Passed
+  score: '0.0'
+  hours: '20.25'
+- date: 7/10/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/6/2023
+  course: PDP2873A
+  title: 2023-2 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/15/2023
+  course: PDP2450A
+  title: 2023-2 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/15/2023
+  course: PDP2287A
+  title: 2023-2 Advanced Academy Com. Eng.
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/1/2023
+  course: PDP0153A
+  title: 2023 Open Mat Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/17/2023
+  course: PDP0788A
+  title: 2023-2 Advanced Academy Proced. Justice
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/16/2023
+  course: PDP0522A
+  title: 2023 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/11/2023
+  course: PDP3349A
+  title: 2023-2 Advanced Academy PP (Other)
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/1/2023
+  course: PDP2766A
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP1344A
+  title: 2020-10 CAO Legal Updates for 10/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP3142A
+  title: 2018 TOD 100% Collection and Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP0239A
+  title: 2018-5 TT 100% Collection and Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP3829A
+  title: 2022-1 CAO Legal Updates for 01/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP1587A
+  title: 2022-2 CAO Legal Updates for 02/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP4169A
+  title: 2022-4 CAO Legal Updates for 04/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP3894A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2023
+  course: PDP3386A
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP1858A
+  title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/25/2023
+  course: PDP13110
+  title: 2023-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/24/2023
+  course: PDP3352A
+  title: 2023 FTEP Control Tactics Post Basic
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/20/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/20/2023
+  course: PDP4268A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 4/18/2023
+  course: PDP1471A
+  title: 2023 FTEP HAZMAT/WMD Awareness/APR Fitting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/17/2023
+  course: PDP0224A
+  title: 2023 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/14/2023
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 3/24/2023
+  course: REG0348A
+  title: DID/SFST (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/17/2023
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 2/23/2023
+  course: REG09627
+  title: Intox 8000 (Hours Included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/5/2023
+  course: PDP17613
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/5/2023
+  course: PDP37654
+  title: 2022-11 EO Clarification DIR 1010.00  1015.00
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/5/2023
+  course: PDP31260
+  title: 2022-5 CAO Legal Updates for 5/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/3/2023
+  course: PDP33753
+  title: 2022-3 TT Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/3/2023
+  course: PDP33178
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/2/2023
+  course: PDP07079
+  title: 2017-3 CAO Legal Updates for Q3 08/2017
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/2/2023
+  course: PDP34750
+  title: 2017-3 CAO Legal Updates for Q3 7/2017
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/2/2023
+  course: PDP16519
+  title: 2017-3 Legal Updates for Q3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/2/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/29/2022
+  course: PDP03615
+  title: RADAR/ LiDAR Operator Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 11/5/2022
+  course: PDP10589
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/4/2022
+  course: PDP26684
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/3/2022
+  course: PDP13295
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/27/2022
+  course: PDP37771
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/31/2022
+  course: PDP00776
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/31/2022
+  course: PDP38388
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/13/2022
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+- date: 4/12/2022
+  course: OSH42854
+  title: Pre Academy Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '58.00'
+- date: 4/12/2022
+  course: OSH17014
+  title: Pre Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/12/2022
+  course: OSH01102
+  title: Pre Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '54.00'
+- date: 4/12/2022
+  course: OSH40646
+  title: Pre Academy General Hours
+  status: Passed
+  score: '0.0'
+  hours: '77.00'
+- date: 4/12/2022
+  course: OSH3392A
+  title: Pre Academy Contact/Cover
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/12/2022
+  course: OSH2066A
+  title: Pre Academy First Aid Skills
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/12/2022
+  course: OSH2803A
+  title: Pre Academy Force on Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/12/2022
+  course: OSH1667A
+  title: Pre Academy General Hours
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/12/2022
+  course: OSH2413A
+  title: Pre Academy People in Crisis
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/12/2022
+  course: OSH1700A
+  title: Pre Academy Pursuit/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/12/2022
+  course: OSH0921A
+  title: Pre Academy Taser
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/12/2022
+  course: OSH4368A
+  title: Pre Academy Verbal Judo
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 2/28/2022
+  course: F6R37481
+  title: IS-100.c
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/28/2022
+  course: F6R04131
+  title: IS-700.b
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 1/29/2022
+  course: F6M42114
+  title: Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 1/29/2022
+  course: F6M35470
+  title: Naloxone
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/28/2022
+  course: PDP37433
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/28/2022
+  course: PDP15445
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/26/2022
+  course: F6R40252
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 1/19/2022
+  course: F6R19154
+  title: Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/21/2024
+  expiration_date: 3/21/2026
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 1/7/2024
+  expiration_date: ''
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 1/1/1950
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 12/19/2022
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 11/7/2022
+  expiration_date: ''
+education_records:
+- date: 5/6/2024
+  degree: Masters Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '83.3'
+- date: 6/14/2020
+  degree: Bachelor Science
+  school: Portland State University
+  major: Criminology
+  hours: '191.7'

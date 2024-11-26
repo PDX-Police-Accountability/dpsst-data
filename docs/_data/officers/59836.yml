@@ -1,0 +1,141 @@
+---
+header_record:
+  name: Bec, Louie J.
+  dpsst_identifier: '59836'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 9/26/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 9/22/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 1/28/2020
+  agency: Tigard Police Department
+  action: Discharged
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 4/28/2019
+  agency: Tigard Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 12/5/2022
+  course: 22-0009
+  title: DPSST Basic Police COD
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+- date: 8/5/2021
+  course: F6E17055
+  title: Less Lethal Bean Bag Refresher/Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/20/2019
+  course: F6D38256
+  title: Force on Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/19/2019
+  course: TGP02427
+  title: Lawsuits on Demand - Webinar
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2019
+  course: TGP02922
+  title: All Day Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/17/2019
+  course: F6D33835
+  title: WSIN Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/6/2019
+  course: 19-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 7/22/2019
+  course: F6D09202
+  title: Intox 8000 (Hours Included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/8/2019
+  course: TGP35299
+  title: Firearms Training and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/9/2019
+  course: F6D28370
+  title: First Aid/CPR/AED/TCCC/Naloxone
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/8/2019
+  course: TGP02898
+  title: Firearms Training and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/3/2019
+  course: TGP32531
+  title: Defensive Tactics - Recruit Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/2/2019
+  course: F6D00268
+  title: Taser User Training - Initial
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/2/2019
+  course: TGP30996
+  title: ASP and OC - Recruit Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 5/13/2019
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 5/2/2019
+  expiration_date: ''
+education_records:
+- date: 6/15/2019
+  degree: No Degree
+  school: Portland State University
+  major: ''
+  hours: '44.0'
+- date: 12/15/2018
+  degree: No Degree
+  school: Mt Hood Community College
+  major: ''
+  hours: '89.0'

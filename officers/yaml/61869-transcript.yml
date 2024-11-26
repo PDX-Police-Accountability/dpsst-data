@@ -1,0 +1,106 @@
+---
+header_record:
+  name: Keblbek, Kylee R.
+  dpsst_identifier: '61869'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 12/5/2024
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/26/2021
+  agency: Willamette Valley Communications Center
+  action: Resigned
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 5/10/2021
+  agency: Willamette Valley Communications Center
+  action: Hired
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 12/5/2024
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 6/5/2026
+training_records:
+- date: 6/5/2026
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 1/20/2025
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
+- date: 10/18/2021
+  course: M40-21A
+  title: DPSST Basic Telecommunicator Course
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+- date: 6/18/2021
+  course: SMY19526
+  title: APCO EMD
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 6/14/2021
+  course: SMY31033
+  title: CPR 1ST AID ADULT CHILD INFANT AED
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/10/2021
+  course: SMY42179
+  title: WVCC CALL TAKER ACADEMY
+  status: Passed
+  score: '0.0'
+  hours: '208.00'
+- date: 5/24/2021
+  course: SMY39398
+  title: LEDS
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/12/2021
+  course: SMY41507
+  title: WMD/Terrorism
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/12/2021
+  course: SMY18033
+  title: IS 00100.c
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/11/2021
+  course: SMY03579
+  title: Telecommunicator Code Of Ethics
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/16/2021
+  course: SMY18259
+  title: Harassment in the workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+attribute_records: []
+education_records: []
