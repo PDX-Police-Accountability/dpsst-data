@@ -67,6 +67,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 9/15/2024
+  course: MNS1956A
+  title: Legal Update September 2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/22/2024
   course: VND2712A
   title: North American Standard Part A Inspection Course

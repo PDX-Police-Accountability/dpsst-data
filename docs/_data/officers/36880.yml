@@ -3,12 +3,18 @@ header_record:
   name: Sheldon, Spencer K.
   dpsst_identifier: '36880'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/20/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/21/1999
   agency: Portland Police Bureau
   action: Hired
@@ -21,21 +27,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 7/23/2014
-  expiration_date: ''
+  expiration_date: 2/20/2025
   probation_date: ''
 - status_date: 7/23/2014
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 7/23/2014
-  expiration_date: ''
+  expiration_date: 2/20/2025
   probation_date: ''
 - status_date: 6/12/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/12/2000
-  expiration_date: ''
+  expiration_date: 2/20/2025
   probation_date: ''
 training_records:
 - date: 6/27/2024

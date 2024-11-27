@@ -3,12 +3,18 @@ header_record:
   name: Mason, Ronald L.
   dpsst_identifier: '25247'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/21/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 9/27/2023
   agency: Portland Police Bureau
   action: Return LOA
@@ -81,35 +87,35 @@ certification_records:
   level: Management
   status: Granted
   certificate_date: 2/8/2024
-  expiration_date: ''
+  expiration_date: 2/21/2025
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 2/21/2025
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 2/21/2025
   probation_date: ''
 - status_date: 1/9/1998
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 1/9/1998
-  expiration_date: ''
+  expiration_date: 2/21/2025
   probation_date: ''
 - status_date: 5/3/1994
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 5/3/1994
-  expiration_date: ''
+  expiration_date: 2/21/2025
   probation_date: ''
 training_records:
 - date: 7/29/2024

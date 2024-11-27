@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/26/2024
+  course: OCS4170A
+  title: Canine Legal Updates Patrol  Narcotics
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 10/10/2024
   course: OCS4169A
   title: Annual DV Training

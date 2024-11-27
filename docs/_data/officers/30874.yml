@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/11/2024
+  course: FGP2136A
+  title: Fall Range Qualification/Drills
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 11/7/2024
   course: FGP1810A
   title: Ethics and Professionalism in LE refresher

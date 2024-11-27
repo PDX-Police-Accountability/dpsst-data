@@ -3,12 +3,18 @@ header_record:
   name: Wiechmann, Frederick J.
   dpsst_identifier: '30431'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/20/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/24/2022
   agency: Portland Police Bureau
   action: LOA
@@ -27,7 +33,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 11/24/1995
-  expiration_date: ''
+  expiration_date: 2/20/2025
   probation_date: ''
 training_records:
 - date: 5/16/2023
@@ -3171,6 +3177,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2022
 education_records:
 - date: 3/16/1991
   degree: Bachelor Science

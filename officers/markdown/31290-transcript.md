@@ -4,7 +4,7 @@
 | name | Robertson, Scott T. |
 | dpsst_identifier | 31290 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/18/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 8/3/1995 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 |  |  |
-| 2/15/2012 | Police Officer | Intermediate | Granted | 2/15/2012 |  |  |
-| 7/16/1996 | Police Officer | Basic | Granted | 7/16/1996 |  |  |
+| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 | 2/18/2025 |  |
+| 2/15/2012 | Police Officer | Intermediate | Granted | 2/15/2012 | 2/18/2025 |  |
+| 7/16/1996 | Police Officer | Basic | Granted | 7/16/1996 | 2/18/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

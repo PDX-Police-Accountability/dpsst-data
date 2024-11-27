@@ -4,7 +4,7 @@
 | name | Caspar, Andrew H. |
 | dpsst_identifier | 35444 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/22/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/23/2023 | Portland Police Bureau | LOA | Police Off |  |  |
 | 7/1/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 8/26/2019 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -21,9 +22,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/15/2007 | Police Officer | Advanced | Granted | 10/15/2007 |  |  |
-| 10/15/2007 | Police Officer | Intermediate | Granted | 10/15/2007 |  |  |
-| 5/4/1999 | Police Officer | Basic | Granted | 5/4/1999 |  |  |
+| 10/15/2007 | Police Officer | Advanced | Granted | 10/15/2007 | 2/22/2025 |  |
+| 10/15/2007 | Police Officer | Intermediate | Granted | 10/15/2007 | 2/22/2025 |  |
+| 5/4/1999 | Police Officer | Basic | Granted | 5/4/1999 | 2/22/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

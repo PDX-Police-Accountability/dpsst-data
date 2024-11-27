@@ -40,6 +40,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2024 | OSH2753A | Ethics | Passed | 0.0 | 1.00 |
+| 11/7/2024 | OSH3638A | 3rd Trimester Firearms | Instructed | 0.0 | 4.00 |
+| 11/4/2024 | OSH4501A | 3rd Trimester Firearms | Instructed | 0.0 | 4.00 |
+| 10/30/2024 | OSH2639A | 3rd Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 9/6/2024 | OSH1985A | 2nd Trimester Defensive Tactics/Taser | Passed | 0.0 | 3.00 |
 | 8/18/2024 | OSH0173A | EVOC Regional Training | Passed | 0.0 | 6.00 |
 | 7/15/2024 | OSH2368A | 2nd Trimester Firearms | Instructed | 0.0 | 8.00 |

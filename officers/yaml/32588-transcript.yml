@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 9/25/2024
+  course: OCS4182A
+  title: FBI- ELI
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/27/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

@@ -112,6 +112,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2024
+  course: HBP1049A
+  title: PoliceOne Confidence in Use of Force, Reality Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/14/2024
+  course: HBP3430A
+  title: PoliceOne Firearms 4
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/13/2024
   course: HBP2632A
   title: PoliceOne Anti-Bias Training for LE

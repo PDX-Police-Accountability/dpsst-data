@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/18/2024
+  course: MNS1956A
+  title: Legal Update September 2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/22/2024
   course: MNS2292A
   title: Firerarms Close Quarter Vehicle Training

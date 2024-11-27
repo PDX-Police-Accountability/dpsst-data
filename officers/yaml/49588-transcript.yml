@@ -183,6 +183,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/25/2024
+  course: OCS4182A
+  title: FBI- ELI
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 9/23/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/24/2024
+  course: OSH0855A
+  title: Active Threat Response
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/23/2024
+  course: OSH2456A
+  title: Active Threat Response
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/20/2024
   course: OSH2146A
   title: PT Survival Skill 3rd Tri

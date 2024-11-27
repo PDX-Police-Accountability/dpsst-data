@@ -12,18 +12,18 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 6/27/2027 | Portland Police Bureau | Retired | Police Off |  |  |
 | 8/9/2024 | West Linn Police Department | Resigned | Police Off |  |  |
 | 7/15/2024 | West Linn Police Department | Hired | Police Off |  |  |
+| 6/27/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 10/3/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/2/1996 | Oregon Army National Guard | Resigned | Police Off |  |  |
 | 11/16/1991 | Oregon Army National Guard | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/27/2024 | Police Officer | Advanced | Lapsed | 2/18/2009 | 6/27/2029 |  |
-| 9/27/2024 | Police Officer | Basic | Lapsed | 7/28/1997 | 6/27/2029 |  |
-| 9/27/2024 | Police Officer | Intermediate | Lapsed | 2/18/2009 | 6/27/2029 |  |
+| 11/9/2024 | Police Officer | Advanced | Lapsed-UR | 2/18/2009 | 8/9/2029 |  |
+| 11/9/2024 | Police Officer | Basic | Lapsed-UR | 7/28/1997 | 8/9/2029 |  |
+| 11/9/2024 | Police Officer | Intermediate | Lapsed-UR | 2/18/2009 | 8/9/2029 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

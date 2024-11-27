@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/20/2024
+  course: OCS2728A
+  title: PEER training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 8/29/2024
   course: OCP2672A
   title: Firearms/Use of Force

@@ -4,7 +4,7 @@
 | name | Mason, Ronald L. |
 | dpsst_identifier | 25247 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/21/2024 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 9/27/2023 | Portland Police Bureau | Return LOA | Lieutenant |  |  |
 | 10/13/2022 | Portland Police Bureau | LOA | Lieutenant |  |  |
 | 10/29/2020 | Portland Police Bureau | Promotion | Lieutenant |  |  |
@@ -26,11 +27,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/8/2024 | Police Officer | Management | Granted | 2/8/2024 |  |  |
-| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 |  |  |
-| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 |  |  |
-| 1/9/1998 | Police Officer | Intermediate | Granted | 1/9/1998 |  |  |
-| 5/3/1994 | Police Officer | Basic | Granted | 5/3/1994 |  |  |
+| 2/8/2024 | Police Officer | Management | Granted | 2/8/2024 | 2/21/2025 |  |
+| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 | 2/21/2025 |  |
+| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 | 2/21/2025 |  |
+| 1/9/1998 | Police Officer | Intermediate | Granted | 1/9/1998 | 2/21/2025 |  |
+| 5/3/1994 | Police Officer | Basic | Granted | 5/3/1994 | 2/21/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

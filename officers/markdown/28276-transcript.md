@@ -51,6 +51,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/17/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/13/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 11/13/2024 | F6R3273A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 10/23/2024 | SVP3985A | Marion County D.V. Update | Passed | 0.0 | 4.00 |
 | 9/6/2024 | SVP3123A | Role in Creating Workplace Culture | Passed | 0.0 | 2.50 |
 | 8/29/2024 | OSH1288A | 2024 CJIS Statewide Conference | Passed | 0.0 | 5.00 |

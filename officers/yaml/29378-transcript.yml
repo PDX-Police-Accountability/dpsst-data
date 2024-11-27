@@ -9,12 +9,6 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
-- date: 6/27/2027
-  agency: Portland Police Bureau
-  action: Retired
-  rank: Police Off
-  classification: ''
-  assignment: ''
 - date: 8/9/2024
   agency: West Linn Police Department
   action: Resigned
@@ -24,6 +18,12 @@ employment_records:
 - date: 7/15/2024
   agency: West Linn Police Department
   action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 6/27/2024
+  agency: Portland Police Bureau
+  action: Retired
   rank: Police Off
   classification: ''
   assignment: ''
@@ -46,26 +46,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 9/27/2024
+- status_date: 11/9/2024
   certificate: Police Officer
   level: Advanced
-  status: Lapsed
+  status: Lapsed-UR
   certificate_date: 2/18/2009
-  expiration_date: 6/27/2029
+  expiration_date: 8/9/2029
   probation_date: ''
-- status_date: 9/27/2024
+- status_date: 11/9/2024
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Lapsed-UR
   certificate_date: 7/28/1997
-  expiration_date: 6/27/2029
+  expiration_date: 8/9/2029
   probation_date: ''
-- status_date: 9/27/2024
+- status_date: 11/9/2024
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Lapsed-UR
   certificate_date: 2/18/2009
-  expiration_date: 6/27/2029
+  expiration_date: 8/9/2029
   probation_date: ''
 training_records:
 - date: 7/24/2024

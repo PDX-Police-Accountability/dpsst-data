@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/19/2024 | OCS4129A | Equity | Passed | 0.0 | 3.00 |
+| 10/26/2024 | OCS4170A | Canine Legal Updates Patrol  Narcotics | Passed | 0.0 | 24.00 |
 | 10/10/2024 | OCS4169A | Annual DV Training | Passed | 0.0 | 1.00 |
 | 10/10/2024 | OCS3414A | Annual DV Training | Passed | 0.0 | 1.00 |
 | 10/1/2024 | OCS0791A | 2024 Patrol Fall Rifle | Passed | 0.0 | 4.00 |

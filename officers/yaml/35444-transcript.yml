@@ -3,12 +3,18 @@ header_record:
   name: Caspar, Andrew H.
   dpsst_identifier: '35444'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/22/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/23/2023
   agency: Portland Police Bureau
   action: LOA
@@ -51,21 +57,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/15/2007
-  expiration_date: ''
+  expiration_date: 2/22/2025
   probation_date: ''
 - status_date: 10/15/2007
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/15/2007
-  expiration_date: ''
+  expiration_date: 2/22/2025
   probation_date: ''
 - status_date: 5/4/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 5/4/1999
-  expiration_date: ''
+  expiration_date: 2/22/2025
   probation_date: ''
 training_records:
 - date: 10/30/2024

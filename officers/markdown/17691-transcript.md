@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/3/2024 | MNS3587A | Emergency Vehicle Operations.Nov.24 | Instructed | 0.0 | 7.00 |
+| 9/15/2024 | MNS1956A | Legal Update September 2024 | Passed | 0.0 | 1.00 |
 | 7/22/2024 | VND2712A | North American Standard Part A Inspection Course | Passed | 0.0 | 40.00 |
 | 7/22/2024 | VND2425A | North American Standard Part B Insp Course | Passed | 0.0 | 40.00 |
 | 7/1/2024 | MNS1199A | CIT/De-escaltion | Passed | 0.0 | 1.00 |

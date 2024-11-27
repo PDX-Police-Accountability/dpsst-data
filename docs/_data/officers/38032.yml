@@ -3,12 +3,18 @@ header_record:
   name: Bourasa, Stephan J.
   dpsst_identifier: '38032'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/19/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 11/13/2024
   agency: DPSST Use Only
   action: InstrApp
@@ -39,21 +45,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 11/22/2010
-  expiration_date: ''
+  expiration_date: 2/19/2025
   probation_date: ''
 - status_date: 11/22/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/22/2010
-  expiration_date: ''
+  expiration_date: 2/19/2025
   probation_date: ''
 - status_date: 10/3/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 10/3/2000
-  expiration_date: ''
+  expiration_date: 2/19/2025
   probation_date: ''
 training_records:
 - date: 10/9/2024

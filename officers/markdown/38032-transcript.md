@@ -4,7 +4,7 @@
 | name | Bourasa, Stephan J. |
 | dpsst_identifier | 38032 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/19/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 11/13/2024 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 4/1/2023 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 7/12/2020 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 |  |  |
-| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 |  |  |
-| 10/3/2000 | Police Officer | Basic | Granted | 10/3/2000 |  |  |
+| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 | 2/19/2025 |  |
+| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 | 2/19/2025 |  |
+| 10/3/2000 | Police Officer | Basic | Granted | 10/3/2000 | 2/19/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

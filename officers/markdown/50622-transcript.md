@@ -43,6 +43,7 @@
 | 11/5/2024 | OCP4400A | 3 Day MRDS Converstion Course | Instructed | 0.0 | 19.00 |
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/25/2024 | OCP1842A | Mental Health Diagnosis 101 | Passed | 0.0 | 0.50 |
+| 9/20/2024 | OCS2728A | PEER training | Passed | 0.0 | 40.00 |
 | 8/29/2024 | OCP2672A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 8/28/2024 | OCP2123A | Patrol Tactics | Instructed | 0.0 | 5.00 |
 | 8/13/2024 | OCP1219A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |

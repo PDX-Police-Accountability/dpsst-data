@@ -4,7 +4,7 @@
 | name | Sheldon, Spencer K. |
 | dpsst_identifier | 36880 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/20/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/21/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/23/2014 | Police Officer | Advanced | Granted | 7/23/2014 |  |  |
-| 7/23/2014 | Police Officer | Intermediate | Granted | 7/23/2014 |  |  |
-| 6/12/2000 | Police Officer | Basic | Granted | 6/12/2000 |  |  |
+| 7/23/2014 | Police Officer | Advanced | Granted | 7/23/2014 | 2/20/2025 |  |
+| 7/23/2014 | Police Officer | Intermediate | Granted | 7/23/2014 | 2/20/2025 |  |
+| 6/12/2000 | Police Officer | Basic | Granted | 6/12/2000 | 2/20/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
