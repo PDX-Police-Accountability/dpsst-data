@@ -39,6 +39,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
+| Certification Cards | First Aid | 11/14/2024 | 11/14/2026 |
 | Certification Cards | CPR | 11/6/2023 | 11/8/2025 |
 | Certification Cards | First Aid | 11/30/2022 | 11/30/2024 |
 | Code of Ethics | Signed | 2/7/2012 |  |
@@ -49,6 +50,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2024 | LOP2617A | Firearms Training | Passed | 0.0 | 4.00 |
+| 11/14/2024 | LOP2028A | AHA Heartsaver First Aid | Passed | 0.0 | 2.00 |
 | 11/6/2024 | LOP1839A | OC and Control Take Downs | Passed | 0.0 | 2.50 |
 | 10/18/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

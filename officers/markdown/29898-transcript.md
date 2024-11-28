@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/5/2024 | PDS0245A | Less Lethal | Passed | 0.0 | 2.00 |
 | 8/23/2024 | PDS0551A | OSHA | Passed | 0.0 | 1.00 |

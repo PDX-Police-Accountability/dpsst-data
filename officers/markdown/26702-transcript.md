@@ -55,7 +55,7 @@
 | 3/15/2023 | HBP43238 | Respectful Workplace - Employee Course (Equity) | Passed | 0.0 | 1.25 |
 | 1/25/2023 | HBP07719 | Firearms and Use of Force | Passed | 0.0 | 0.00 |
 | 1/12/2023 | HBP03564 | Firearms Qualification | Passed | 0.0 | 0.00 |
-| 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Completed | 0.0 | 8.00 |
+| 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 8.00 |
 | 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2022 | HBP39455 | Ethics Training and Writing Assignment | Passed | 0.0 | 1.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |

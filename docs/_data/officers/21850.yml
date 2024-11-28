@@ -131,6 +131,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2024
+  course: LOP2617A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/14/2024
+  course: LOP2028A
+  title: AHA Heartsaver First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/6/2024
   course: LOP1839A
   title: OC and Control Take Downs
@@ -2822,6 +2834,10 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 11/14/2024
+  expiration_date: 11/14/2026
 - topic: Certification Cards
   value: CPR
   effective_date: 11/6/2023

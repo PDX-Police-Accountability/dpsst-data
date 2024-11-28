@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/10/2024
+  course: PDS1549A
+  title: Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/26/2024
   course: PPP2947A
   title: Gasmask Fit Test

@@ -12,14 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/9/2024 | Union Pacific Railroad Police Department | Hired | Snr Agent |  |  |
 | 6/20/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/21/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/20/2024 | Police Officer | Advanced | Lapsed | 10/18/2010 | 6/20/2029 |  |
-| 9/20/2024 | Police Officer | Basic | Lapsed | 6/12/2000 | 6/20/2029 |  |
-| 9/20/2024 | Police Officer | Intermediate | Lapsed | 10/18/2010 | 6/20/2029 |  |
+| 12/9/2024 | Police Officer | Basic | Required |  |  | 6/9/2026 |
+| 9/20/2024 | Police Officer | Advanced | Lapsed | 10/18/2010 |  |  |
+| 9/20/2024 | Police Officer | Basic | Lapsed | 6/12/2000 |  |  |
+| 9/20/2024 | Police Officer | Intermediate | Lapsed | 10/18/2010 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

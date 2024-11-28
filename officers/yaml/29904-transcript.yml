@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 9/15/2024
+  course: PDS1549A
+  title: Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/23/2024
   course: PDS2357A
   title: Taser Recertification

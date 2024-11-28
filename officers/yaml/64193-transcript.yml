@@ -22,7 +22,7 @@ certification_records:
   status: Required
   certificate_date: ''
   expiration_date: ''
-  probation_date: 12/22/2024
+  probation_date: 12/22/2025
 training_records:
 - date: 12/22/2024
   course: M11-19A

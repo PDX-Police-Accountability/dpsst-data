@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2024 | STP0479A | Cold Case Homicide | Passed | 0.0 | 2.00 |
 | 11/14/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2024 | STP2620A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 10/15/2024 | STP0438A | Policy Review - Communication Security | Instructed | 0.0 | 0.75 |

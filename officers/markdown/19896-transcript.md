@@ -60,6 +60,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2024 | FSS1676A | AXON Taser Instructor Course | Passed | 0.0 | 16.00 |
 | 10/23/2024 | HBS0168A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 6.00 |
 | 10/22/2024 | HBS0058A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 7.00 |
 | 10/2/2024 | REG3221A | 2024 Legal Update and Review | Passed | 0.0 | 3.00 |

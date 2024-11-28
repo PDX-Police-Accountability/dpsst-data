@@ -40,6 +40,7 @@
 | 9/19/2024 | GSP4098A | Firearms | Passed | 0.0 | 10.00 |
 | 9/18/2024 | GSP1049A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 9/18/2024 | GSP3238A | Building Searches | Passed | 0.0 | 10.00 |
+| 9/6/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 7/16/2024 | GSP4545A | AR15/M4 Armorer Course | Passed | 0.0 | 16.00 |
 | 7/15/2024 | OCS4471A | AR-15 Armorer | Passed | 0.0 | 16.00 |
 | 6/4/2024 | PDS1043A | Domestic Terrorism Investigations | Passed | 0.0 | 2.00 |

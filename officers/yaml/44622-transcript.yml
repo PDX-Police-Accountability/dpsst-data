@@ -74,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 11/22/2024
+  course: OSH0582A
+  title: Patrol Tactics- Survival Skills
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/20/2024
   course: OSH2146A
   title: PT Survival Skill 3rd Tri

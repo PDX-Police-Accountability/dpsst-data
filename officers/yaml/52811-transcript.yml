@@ -75,6 +75,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/6/2024
+  course: PDS1549A
+  title: Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/13/2024
   course: PDS2081A
   title: Ethical Behavior

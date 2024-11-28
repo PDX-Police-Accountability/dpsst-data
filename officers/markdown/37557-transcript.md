@@ -31,6 +31,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
+| Certification Cards | First Aid | 11/14/2024 | 11/14/2026 |
 | Certification Cards | CPR | 11/7/2023 | 11/8/2025 |
 | Certification Cards | First Aid | 11/6/2022 | 11/30/2024 |
 | Code of Ethics | Signed | 12/20/2002 |  |
@@ -44,6 +45,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 11/14/2024 | LOP2617A | Firearms Training | Passed | 0.0 | 4.00 |
+| 11/14/2024 | LOP2028A | AHA Heartsaver First Aid | Passed | 0.0 | 2.00 |
 | 10/30/2024 | LOP0758A | Taser 10 Certifications | Passed | 0.0 | 8.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

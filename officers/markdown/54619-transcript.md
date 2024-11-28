@@ -73,7 +73,7 @@
 | 2/24/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/26/2023 | HBS06924 | Vehicle  Pedestrian Takedowns | Passed | 0.0 | 9.00 |
 | 1/3/2023 | HBP18103 | Ethics Training and Writing Assignment | Passed | 0.0 | 1.00 |
-| 12/31/2022 | MAINTMUH | Maintenance Makeup Ethics | Completed | 0.0 | 1.00 |
+| 12/31/2022 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
 | 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2022 | HBS02813 | Introductions to Threat Finance Analysis | Passed | 0.0 | 10.00 |
 | 11/22/2022 | HBS01853 | CNOA 58th Annual Training Institute | Passed | 0.0 | 24.00 |
