@@ -35,7 +35,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/15/2024 | 4/19/2026 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 8/3/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/24/2024 | HSU2541A | Patrol Rifle Course | Instructed | 0.0 | 40.00 |
+| 11/17/2024 | HSU4269A | Patrol Rifle Transition | Instructed | 0.0 | 5.00 |
 | 11/14/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/11/2024 | HSU2860A | IACP Conference Leadership Track | Passed | 0.0 | 3.00 |
 | 11/7/2024 | HSU2860A | IACP Conference Leadership Track | Passed | 0.0 | 2.00 |

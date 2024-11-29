@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2024
+  course: PDS0857A
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/21/2024
   course: PDS1549A
   title: Mobile Field Force

@@ -34,8 +34,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 2/1/2024 | 2/1/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 3/2/2001 |  |
 ## Education
@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2024 | HBP1049A | PoliceOne Confidence in Use of Force, Reality Trng | Passed | 0.0 | 0.50 |
 | 11/14/2024 | HBP3430A | PoliceOne Firearms 4 | Passed | 0.0 | 1.00 |
 | 11/13/2024 | HBP2632A | PoliceOne Anti-Bias Training for LE | Passed | 0.0 | 2.00 |

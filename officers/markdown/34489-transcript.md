@@ -26,8 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 9/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/19/2024 | OCS4129A | Equity | Passed | 0.0 | 3.00 |
 | 10/1/2024 | OCS0791A | 2024 Patrol Fall Rifle | Passed | 0.0 | 4.00 |
 | 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |

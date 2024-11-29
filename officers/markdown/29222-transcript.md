@@ -82,6 +82,7 @@
 | 9/26/2022 | GSP26844 | 2022 40MM Recertification | Passed | 0.0 | 1.00 |
 | 9/16/2022 | GSP27130 | The Internet: Investigations and Intelligence | Passed | 0.0 | 16.00 |
 | 9/14/2022 | GSP03764 | NW Regional Human Trafficking Workshop | Passed | 0.0 | 8.00 |
+| 9/12/2022 | GSP1456A | 2022 PVO In Service | Passed | 0.0 | 10.00 |
 | 8/11/2022 | GSP21949 | 2022 Crimes Against Children Conference | Passed | 0.0 | 16.25 |
 | 7/20/2022 | OCS26614 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
 | 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |

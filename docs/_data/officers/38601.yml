@@ -146,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 9/9/2022
+  course: GSP1456A
+  title: 2022 PVO In Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/6/2022
   course: GSP39308
   title: 2022 Spring Handgun In-Service

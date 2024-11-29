@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2024 | PDS1992A | Firearms - CNT | Passed | 0.0 | 8.00 |
 | 10/8/2024 | PDS2557A | CIT ConSims | Passed | 0.0 | 2.00 |
 | 10/8/2024 | PDS2348A | Taser Practical | Passed | 0.0 | 0.50 |
 | 10/8/2024 | PDS3859A | Use of Force Report Writing | Passed | 0.0 | 1.50 |

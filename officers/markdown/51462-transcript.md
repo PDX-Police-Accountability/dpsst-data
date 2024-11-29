@@ -28,6 +28,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/11/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
+| 10/9/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 8/23/2024 | PDS2312A | Kinetic Impact Projectile | Passed | 0.0 | 0.50 |
 | 8/23/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 8/9/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |

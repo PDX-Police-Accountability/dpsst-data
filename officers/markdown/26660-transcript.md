@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/24/2024 | HSU2541A | Patrol Rifle Course | Instructed | 0.0 | 40.00 |
+| 11/17/2024 | HSU4269A | Patrol Rifle Transition | Passed | 0.0 | 5.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/28/2024 | HSU4235A | Title IX  Belonging at OHSU | Passed | 0.0 | 3.00 |
 | 10/19/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 8.00 |

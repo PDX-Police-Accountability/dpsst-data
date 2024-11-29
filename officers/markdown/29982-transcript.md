@@ -44,7 +44,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/20/2024 | SVP3669A | Defensive Tactics Training | Passed | 0.0 | 3.50 |
 | 11/18/2024 | SVP0827A | Balancing Innovation  Ethics | Passed | 0.0 | 1.50 |
-| 11/13/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 11/13/2024 | F6R3273A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/9/2024 | SYP2775A | Leadership | Passed | 0.0 | 1.50 |

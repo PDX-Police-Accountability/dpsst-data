@@ -86,6 +86,7 @@
 | 11/16/2022 | GSP02372 | Red Dot Transition | Instructed | 0.0 | 30.00 |
 | 10/19/2022 | GSP17903 | Red Dot Transition | Instructed | 0.0 | 30.00 |
 | 10/13/2022 | GSP17921 | CPR and First Aid | Passed | 0.0 | 2.50 |
+| 9/9/2022 | GSP1456A | 2022 PVO In Service | Passed | 0.0 | 10.00 |
 | 6/30/2022 | GSP27508 | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |
 | 6/27/2022 | GSP08384 | 2022 Spring Rifle In Service | Instructed | 0.0 | 10.00 |
 | 5/26/2022 | HBS04306 | Tactical Casualty Care for Law Enforcement | Passed | 0.0 | 8.00 |

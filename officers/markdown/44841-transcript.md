@@ -25,10 +25,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid | 11/14/2024 | 11/14/2026 |
 | Certification Cards | CPR | 11/8/2023 | 11/8/2025 |
 | Certification Cards | First Aid | 11/10/2022 | 11/30/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 10/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2024 | LOP2617A | Firearms Training | Passed | 0.0 | 4.00 |
 | 11/14/2024 | LOP2028A | AHA Heartsaver First Aid | Passed | 0.0 | 2.00 |
 | 11/5/2024 | LOP0818A | Do's and Don'ts of Cultural Inclusion | Passed | 0.0 | 1.00 |

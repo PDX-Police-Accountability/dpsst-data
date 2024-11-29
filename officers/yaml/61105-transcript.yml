@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/26/2024
+  course: NGP1046A
+  title: CIT-Crisis Response, Understanding Mental Illness
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
@@ -1324,10 +1330,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/5/2022
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/25/2020

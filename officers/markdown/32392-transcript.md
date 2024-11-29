@@ -41,6 +41,7 @@
 | 11/14/2024 | VND3515A | The Bullet Proof Mind | Passed | 0.0 | 8.00 |
 | 11/13/2024 | VND4067A | Sometimes Heroes Need Held | Passed | 0.0 | 4.00 |
 | 11/12/2024 | VND2267A | Catching Hell: Lessons on Leadership  Wellness | Passed | 0.0 | 4.00 |
+| 11/7/2024 | TGP2687A | Firearms Training  Qualification | Passed | 0.0 | 4.00 |
 | 10/4/2024 | TGP2171A | Handgun/Patrol Rifle Training | Instructed | 0.0 | 8.00 |
 | 10/2/2024 | VND3940A | Simplifyng Financial Records | Passed | 0.0 | 16.00 |
 | 8/29/2024 | TGP3440A | Handgun Training | Instructed | 0.0 | 2.00 |

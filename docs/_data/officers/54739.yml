@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 10/15/2024
+  course: PDS0857A
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/3/2024
   course: PDS4272A
   title: Range

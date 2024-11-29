@@ -68,6 +68,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2024
+  course: PDS1421A
+  title: Taser Recertification
+  status: Instructed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2024
+  course: PDS3257A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/18/2024
+  course: PDS4167A
+  title: Searches
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/15/2024
+  course: PDS0941A
+  title: Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/15/2024
+  course: PDS0857A
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/28/2024
   course: PDS0245A
   title: Less Lethal

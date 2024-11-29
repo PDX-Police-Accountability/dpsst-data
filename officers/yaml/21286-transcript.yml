@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/20/2024
   course: BBP2076A
   title: 'Use of Force course #UOFC101 Police One Academy'
@@ -2548,14 +2554,14 @@ training_records:
   score: '0.0'
   hours: '280.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/30/2024
   expiration_date: 4/30/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/8/2021

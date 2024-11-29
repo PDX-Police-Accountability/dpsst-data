@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/14/2024
   course: HBP1049A
   title: PoliceOne Confidence in Use of Force, Reality Trng
@@ -1601,14 +1607,14 @@ training_records:
   score: '0.0'
   hours: '282.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/1/2024
   expiration_date: 2/1/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022

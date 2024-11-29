@@ -64,6 +64,7 @@
 | 10/20/2022 | GSP05930 | UAS Team Training | Passed | 0.0 | 10.00 |
 | 9/26/2022 | GSP26844 | 2022 40MM Recertification | Passed | 0.0 | 1.00 |
 | 9/13/2022 | GSP38285 | Leadership: Action and Strategic Planning | Passed | 0.0 | 12.00 |
+| 8/28/2022 | GSP1456A | 2022 PVO In Service | Passed | 0.0 | 10.00 |
 | 8/23/2022 | GSP06837 | UAS Team Training | Passed | 0.0 | 10.00 |
 | 5/21/2022 | GSP1699A | Airway Circulatory In Service | Passed | 0.0 | 2.00 |
 | 5/20/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |

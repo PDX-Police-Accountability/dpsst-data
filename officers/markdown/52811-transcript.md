@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2024 | PDS2776A | Range Qualification | Instructed | 0.0 | 0.50 |
+| 11/2/2024 | PDS4192A | Range Training | Instructed | 0.0 | 3.50 |
+| 10/11/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
+| 10/9/2024 | PDS0857A | Range Qualification | Instructed | 0.0 | 2.00 |
+| 10/3/2024 | PDS0857A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 9/26/2024 | PDS2374A | Leadership | Passed | 0.0 | 4.00 |
 | 9/24/2024 | PDS1480A | Range IDC | Passed | 0.0 | 2.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

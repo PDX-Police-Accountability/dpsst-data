@@ -69,12 +69,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2024
+  course: SDP2785A
+  title: Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2024
+  course: SDP4124A
+  title: Equity - Changing Perspectives COPS Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2024
+  course: SDP4337A
+  title: Equity - Changing Perspectives COPS Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/23/2024
   course: SDP2246A
   title: Basic Firearms Training
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 10/17/2024
+  course: SDP3660A
+  title: Trauma Informed Care (Equity)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2024
+  course: SDP0761A
+  title: LE and knowing about developmental Disabilities
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/25/2024
   course: SDP2089A
   title: Rifle Update and Skills Training

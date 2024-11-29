@@ -100,6 +100,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/24/2024
+  course: HSU2541A
+  title: Patrol Rifle Course
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/17/2024
+  course: HSU4269A
+  title: Patrol Rifle Transition
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 11/14/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance
@@ -5237,10 +5249,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/15/2024
   expiration_date: 4/19/2026
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/3/2004

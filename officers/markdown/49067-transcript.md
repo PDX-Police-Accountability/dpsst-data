@@ -25,8 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 3/11/2024 | 3/11/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 3/6/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/19/2024 | OCS4129A | Equity | Passed | 0.0 | 3.00 |
 | 11/9/2024 | OCS2625A | RADAR Lidar Operator Course | Instructed | 0.0 | 8.00 |
 | 10/14/2024 | OCS4265A | Intoxilyzer 8000 Certification | Instructed | 0.0 | 6.00 |

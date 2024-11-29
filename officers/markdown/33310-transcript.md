@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/26/2024 | MMP2028A | Calibre Press Online Training Videos, Jun-Nov | Passed | 0.0 | 1.75 |
+| 11/5/2024 | MMP2432A | Firearms Training, low light | Passed | 0.0 | 3.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/9/2024 | MMP3765A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 8/28/2024 | MMP4204A | Firearms Training | Passed | 0.0 | 3.00 |

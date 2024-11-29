@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/30/2024 | VND1647A | Conducting Effective Public Safety Backgrounds | Passed | 0.0 | 16.00 |
 | 7/1/2022 | GSP21114 | 2022 Spring Rifle In Service | Passed | 0.0 | 10.00 |
+| 6/12/2022 | GSP1456A | 2022 PVO In Service | Passed | 0.0 | 10.00 |
 | 5/16/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 4/12/2022 | GSP24622 | Airway Circulatory In Service | Passed | 0.0 | 2.00 |
 | 1/5/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

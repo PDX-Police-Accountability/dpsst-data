@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2024 | WLP4174A | Children's Center 101 / Karly's Law | Passed | 0.0 | 1.50 |
 | 10/31/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/27/2024 | WLP1453A | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 4.00 |
 | 10/7/2024 | WLP3244A | Red Door Project - Coaching Conversation | Passed | 0.0 | 2.00 |

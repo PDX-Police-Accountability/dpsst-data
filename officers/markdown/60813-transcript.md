@@ -24,7 +24,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | CPR | 4/4/2023 | 4/30/2025 |
 | Certification Cards | First Aid | 4/4/2023 | 4/30/2025 |
 | Certification Cards | CPR | 3/17/2023 | 3/31/2025 |

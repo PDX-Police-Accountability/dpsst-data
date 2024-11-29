@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/7/2024
+  course: TGP2687A
+  title: Firearms Training  Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/4/2024
   course: TGP2171A
   title: Handgun/Patrol Rifle Training

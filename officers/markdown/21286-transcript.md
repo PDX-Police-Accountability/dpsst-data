@@ -30,8 +30,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/30/2024 | 4/30/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2024 |
 ## Education
@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | BBP2076A | Use of Force course #UOFC101 Police One Academy | Passed | 0.0 | 2.00 |
 | 10/9/2024 | BBP2605A | Pistol/rifle qualification and tactical range | Passed | 0.0 | 1.00 |
 | 10/9/2024 | BBP4267A | Pistol/rifle qualification and tactical range | Passed | 0.0 | 1.00 |

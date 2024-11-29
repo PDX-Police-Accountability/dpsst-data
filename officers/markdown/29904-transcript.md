@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/2/2024 | PDS2199A | Leadership | Passed | 0.0 | 4.00 |
 | 9/19/2024 | GSP4098A | Firearms | Passed | 0.0 | 10.00 |
 | 9/18/2024 | GSP3238A | Building Searches | Passed | 0.0 | 10.00 |

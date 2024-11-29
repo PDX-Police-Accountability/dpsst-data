@@ -4260,18 +4260,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/31/2023
   expiration_date: 3/31/2025
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/5/2013

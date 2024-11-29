@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/26/2024
+  course: MMP2028A
+  title: Calibre Press Online Training Videos, Jun-Nov
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 11/5/2024
+  course: MMP2432A
+  title: Firearms Training, low light
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/10/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

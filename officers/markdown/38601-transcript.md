@@ -52,6 +52,7 @@
 | 1/2/2023 | GSP25014 | 2023 CPR and First Aid | Passed | 0.0 | 6.00 |
 | 12/15/2022 | GSP43316 | 2022 Ethics In Service | Passed | 0.0 | 1.00 |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
+| 9/9/2022 | GSP1456A | 2022 PVO In Service | Passed | 0.0 | 10.00 |
 | 5/6/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 4/12/2022 | GSP24622 | Airway Circulatory In Service | Passed | 0.0 | 2.00 |
 | 2/24/2022 | GSP27988 | Video Evidence Collection | Passed | 0.0 | 8.00 |

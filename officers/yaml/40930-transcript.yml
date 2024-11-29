@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/25/2024
+  course: PDS2768A
+  title: NTOA Public Order Basic Command Certification
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/24/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental

@@ -29,9 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/13/2023 | 4/13/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 11/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2024 | VND2267A | Catching Hell: Lessons on Leadership  Wellness | Passed | 0.0 | 4.00 |
 | 11/12/2024 | VND0127A | Understand Equity in a LE Environment | Passed | 0.0 | 4.00 |

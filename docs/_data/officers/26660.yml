@@ -81,6 +81,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/24/2024
+  course: HSU2541A
+  title: Patrol Rifle Course
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/17/2024
+  course: HSU4269A
+  title: Patrol Rifle Transition
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 10/31/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

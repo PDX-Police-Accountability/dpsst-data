@@ -32,8 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/19/2024 | EGP3089A | Ethics | Passed | 0.0 | 1.50 |
 | 10/10/2024 | EGP3595A | Deflection | Passed | 0.0 | 1.00 |
 | 10/10/2024 | EGP2340A | EVOC Critical Skills | Passed | 0.0 | 3.00 |
