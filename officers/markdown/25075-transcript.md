@@ -37,8 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/11/2024 | WBP2940A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 10/7/2024 | WBP3560A | Woodburn PD Yearly Policy Review | Passed | 0.0 | 2.00 |
 | 10/7/2024 | WBP0077A | Hazard Communication Standards | Passed | 0.0 | 1.00 |
+| 10/2/2024 | WBP1069A | Hazard Communication | Passed | 0.0 | 0.75 |
 | 7/16/2024 | WBP2416A | 1st Watch Wellness - Model  Methodology | Passed | 0.0 | 3.00 |
 | 6/30/2024 | WBP3035A | WPD Quarter 2 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 4/10/2024 | WBP4406A | Dare to Be Great  What's Important Now | Passed | 0.0 | 0.50 |

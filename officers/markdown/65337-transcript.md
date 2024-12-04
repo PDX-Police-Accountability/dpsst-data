@@ -31,6 +31,7 @@
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/14/2024 | PDP2683A | 2024 FTEP Orientation | Passed | 0.0 | 5.50 |
 | 11/13/2024 | PDP2853A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
+| 11/1/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 10/9/2024 | REG0975A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 9/19/2024 | REG3913A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/27/2024 | PDP2967A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
@@ -47,7 +48,6 @@
 | 7/1/2024 | PDP1657A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
 | 7/1/2024 | PDP1441A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 7/1/2024 | PDP3932A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
-| 6/24/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 6/19/2024 | PDP0579A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 27.00 |
 | 6/18/2024 | PDP0357A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 6/18/2024 | PDP2913A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |

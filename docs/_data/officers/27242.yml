@@ -107,6 +107,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2024
+  course: SPP3414A
+  title: Night Shoot Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/10/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

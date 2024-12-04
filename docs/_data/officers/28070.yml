@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2024
+  course: MNS3656A
+  title: Tracwire FTEP Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/3/2024
   course: MNS3587A
   title: Emergency Vehicle Operations.Nov.24
@@ -94,6 +100,12 @@ training_records:
 - date: 6/28/2024
   course: MNS1199A
   title: CIT/De-escaltion
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/12/2024
+  course: MNS3515A
+  title: Sex and Power
   status: Passed
   score: '0.0'
   hours: '1.00'

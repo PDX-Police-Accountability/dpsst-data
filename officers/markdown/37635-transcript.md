@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | EGP4265A | Ethics | Passed | 0.0 | 1.50 |
 | 10/10/2024 | EGP3595A | Deflection | Passed | 0.0 | 1.00 |
 | 10/10/2024 | EGP4365A | Firearms Qualification | Passed | 0.0 | 3.00 |
 | 10/2/2024 | GSP0866A | OPCA Fall Seminar - Patrol | Passed | 0.0 | 24.00 |

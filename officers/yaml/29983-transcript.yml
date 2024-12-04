@@ -111,6 +111,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/28/2024
+  course: APD2076A
+  title: Anti-Bias Training for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 11/14/2024
   course: APD0064A
   title: Pistol Qualification
