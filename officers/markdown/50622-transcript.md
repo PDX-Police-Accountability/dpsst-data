@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/26/2024 | OCP0657A | Firearms/Use of Force | Instructed | 0.0 | 6.00 |
+| 11/21/2024 | OCP0311A | Firearms/Use of Force | Instructed | 0.0 | 7.00 |
 | 11/5/2024 | OCP1920A | LEDS Re-Certification | Passed | 0.0 | 1.00 |
 | 11/5/2024 | OCP4400A | 3 Day MRDS Converstion Course | Instructed | 0.0 | 19.00 |
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |

@@ -127,6 +127,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 5/6/2024
+  course: HBN2570A
+  title: Home Visits, Scenarios, MH First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/12/2024
   course: HBN1194A
   title: NARCAN Training and Presentation

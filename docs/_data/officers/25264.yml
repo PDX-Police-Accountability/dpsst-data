@@ -68,6 +68,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2024
+  course: PDS3621A
+  title: Yoga Mat Class Breath Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/26/2024
+  course: PDS2940A
+  title: Taser
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/25/2024
+  course: PDS3626A
+  title: Yoga Mat Class Foundations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/25/2024
+  course: PDS2883A
+  title: Taser
+  status: Instructed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/29/2024
   course: PDS1421A
   title: Taser Recertification
@@ -98,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/8/2024
+  course: PDS3022A
+  title: Taser
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/28/2024
   course: PDS0245A
   title: Less Lethal

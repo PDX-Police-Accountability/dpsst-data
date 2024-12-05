@@ -152,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/9/2024
+  course: HBS2984A
+  title: When Video Footage  Cop's Memory Don't Match
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/25/2024
   course: HBS1907A
   title: 2024 National Cyber Crime Conference

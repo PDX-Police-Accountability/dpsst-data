@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | PDP1877A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 1.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/23/2024 | PDP0149A | 2024 FTEP Policy  Procedure | Instructed | 0.0 | 5.00 |
 | 10/8/2024 | PDP2923A | 2024 FTEP Geography | Instructed | 0.0 | 3.00 |

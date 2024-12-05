@@ -69,6 +69,42 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/14/2024
+  course: PDP3377A
+  title: '2024-3 All Sworn In-Service MFF: APR'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2024
+  course: PDP1989A
+  title: 2024-3 All Sworn In-Service CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/14/2024
+  course: PDP3683A
+  title: '2024-3 All Sworn In-Service MFF: Formations'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2024
+  course: PDP0625A
+  title: 2024-3 All Sworn In-Service MFF PO Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/14/2024
+  course: PDP3396A
+  title: '2024-3 All Sworn In-Service MFF: Scenarios'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/14/2024
+  course: PDP3493A
+  title: '2024-3 All Sworn In-Service MFF: Use of Force TT'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/28/2024
   course: PDP4286A
   title: 2024 Supervisor In-Service Overview of 2020 Unrest

@@ -46,6 +46,7 @@
 | 8/8/2024 | HBN3251A | Parole Board Annual Roadshow | Passed | 0.0 | 4.00 |
 | 7/1/2024 | HBN1871A | APPA 2024 Conference - Mental Health Sessions | Passed | 0.0 | 3.00 |
 | 7/1/2024 | HBN0367A | APPA 2024 Conference - General Sessions | Passed | 0.0 | 7.50 |
+| 5/10/2024 | HBN2570A | Home Visits, Scenarios, MH First Aid | Passed | 0.0 | 8.00 |
 | 3/12/2024 | TRN2101A | Statewide Contact Standards  Chrono (session9) | Passed | 0.0 | 1.00 |
 | 2/28/2024 | HBS1654A | Officer Safety - Weapons Familiarization | Passed | 0.0 | 2.00 |
 | 2/22/2024 | HBN2648A | Defensive Tactics | Passed | 0.0 | 4.00 |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/5/2024
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 2/20/2020
   agency: Portland Police Bureau
   action: Promotion
@@ -89,6 +95,20 @@ certification_records:
   certificate_date: 10/11/2023
   expiration_date: ''
   probation_date: ''
+- status_date: 2/15/2020
+  certificate: Corrections Officer
+  level: Basic
+  status: Expired
+  certificate_date: 4/12/1999
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Corrections Officer
+  level: Intermediate
+  status: Expired
+  certificate_date: 6/27/2003
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/16/2012
   certificate: Police Officer
   level: Advanced
@@ -108,20 +128,6 @@ certification_records:
   level: Intermediate
   status: Granted
   certificate_date: 2/3/2005
-  expiration_date: ''
-  probation_date: ''
-- status_date: 4/7/2004
-  certificate: Corrections Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 4/12/1999
-  expiration_date: ''
-  probation_date: ''
-- status_date: 4/7/2004
-  certificate: Corrections Officer
-  level: Intermediate
-  status: Lapsed
-  certificate_date: 6/27/2003
   expiration_date: ''
   probation_date: ''
 training_records:

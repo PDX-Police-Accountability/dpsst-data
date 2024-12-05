@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/5/2024 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 2/20/2020 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 6/28/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 | 6/23/2018 | Gresham Police Department | Resigned | Police Off |  |  |
@@ -28,11 +29,11 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 10/11/2023 | Police Officer | Supervisory | Granted | 10/11/2023 |  |  |
+| 2/15/2020 | Corrections Officer | Basic | Expired | 4/12/1999 |  |  |
+| 2/15/2020 | Corrections Officer | Intermediate | Expired | 6/27/2003 |  |  |
 | 2/16/2012 | Police Officer | Advanced | Granted | 2/16/2012 |  |  |
 | 2/3/2005 | Police Officer | Basic | Granted | 2/3/2005 |  |  |
 | 2/3/2005 | Police Officer | Intermediate | Granted | 2/3/2005 |  |  |
-| 4/7/2004 | Corrections Officer | Basic | Lapsed | 4/12/1999 |  |  |
-| 4/7/2004 | Corrections Officer | Intermediate | Lapsed | 6/27/2003 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

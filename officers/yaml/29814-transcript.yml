@@ -107,6 +107,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2024
+  course: PDP3396A
+  title: '2024-3 All Sworn In-Service MFF: Scenarios'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/27/2024
+  course: PDP3683A
+  title: '2024-3 All Sworn In-Service MFF: Formations'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/16/2024 | Portland Police Bureau | LOA | Police Off |  |  |
 | 10/20/2022 | Portland Police Bureau | Demotn Vol | Police Off |  |  |
 | 3/17/2022 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/22/2018 | Portland Police Bureau | Hired | Police Off |  |  |
