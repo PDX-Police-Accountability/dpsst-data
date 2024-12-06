@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2024 | WBP3153A | LEAD Diversion Criteria Update | Passed | 0.0 | 0.50 |
 | 10/22/2024 | WBP1929A | UOF Update  High Risk Stops | Passed | 0.0 | 1.00 |
 | 10/11/2024 | WBP2940A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 10/7/2024 | WBP3560A | Woodburn PD Yearly Policy Review | Passed | 0.0 | 2.00 |

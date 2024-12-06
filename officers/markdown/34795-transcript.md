@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2024 | OCS1237A | Use of Cover/Marksmanship | Passed | 0.0 | 1.00 |
+| 10/26/2024 | OCS0221A | Use of Force/Decision Making | Passed | 0.0 | 1.00 |
+| 10/26/2024 | OCS1723A | De-escalation in Scenario | Passed | 0.0 | 1.00 |
 | 10/1/2024 | OCS0791A | 2024 Patrol Fall Rifle | Passed | 0.0 | 4.00 |
 | 9/27/2024 | NPS3553A | Fall 2024 OSSA Civil Conference | Passed | 0.0 | 20.00 |
 | 8/27/2024 | OCS2835A | Balancing Speed/Marksmanship and Rifle Qual | Passed | 0.0 | 4.00 |
@@ -105,6 +108,7 @@
 | 7/6/2023 | OCS4279A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Passed | 0.0 | 3.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
+| 6/1/2023 | OCS4264A | 2023 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/24/2023 | HDA0288 | Tri-State Narcotics Supervisors/Commanders Summit | Passed | 0.0 | 16.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |

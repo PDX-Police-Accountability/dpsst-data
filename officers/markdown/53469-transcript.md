@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2024 | OCS0221A | Use of Force/Decision Making | Passed | 0.0 | 1.00 |
+| 10/26/2024 | OCS1723A | De-escalation in Scenario | Passed | 0.0 | 1.00 |
 | 10/18/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/1/2024 | OCS0791A | 2024 Patrol Fall Rifle | Passed | 0.0 | 4.00 |
 | 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
@@ -46,6 +48,7 @@
 | 6/28/2024 | PPP3958A | Police Mountain Bike  E-Bike Course | Passed | 0.0 | 9.00 |
 | 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
+| 6/5/2024 | OCS3982A | 2024 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |
 | 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
@@ -91,6 +94,7 @@
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS1132A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
+| 6/1/2023 | OCS4264A | 2023 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/31/2023 | OCS0824A | Child Abduction Table Top Exercise | Passed | 0.0 | 4.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |

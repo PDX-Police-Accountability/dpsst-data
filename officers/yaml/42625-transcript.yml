@@ -176,6 +176,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 4/14/2024
+  course: HSU1916A
+  title: Spring In-Service 2024 Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/10/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms

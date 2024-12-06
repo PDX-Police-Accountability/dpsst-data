@@ -38,7 +38,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/20/2024 | OCS1237A | Use of Cover/Marksmanship | Passed | 0.0 | 1.00 |
 | 11/19/2024 | OCS4129A | Equity | Passed | 0.0 | 3.00 |
+| 10/26/2024 | OCS0221A | Use of Force/Decision Making | Passed | 0.0 | 1.00 |
+| 10/26/2024 | OCS1723A | De-escalation in Scenario | Passed | 0.0 | 1.00 |
 | 10/1/2024 | OCS0791A | 2024 Patrol Fall Rifle | Passed | 0.0 | 4.00 |
 | 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
@@ -50,6 +53,7 @@
 | 7/8/2024 | OCS3314A | Drone thermal recognition and tracking techniques | Passed | 0.0 | 3.00 |
 | 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
+| 6/5/2024 | OCS3982A | 2024 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |
 | 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |
 | 5/7/2024 | VND1097A | SafeSpect Inspection Software Training | Passed | 0.0 | 6.00 |
@@ -88,6 +92,7 @@
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS1132A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
+| 6/1/2023 | OCS4264A | 2023 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/13/2023 | OCS1599A | Contraband Case Law | Passed | 0.0 | 0.25 |

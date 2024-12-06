@@ -38,6 +38,8 @@
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/19/2024 | OCS4129A | Equity | Passed | 0.0 | 3.00 |
 | 10/26/2024 | OCS4170A | Canine Legal Updates Patrol  Narcotics | Passed | 0.0 | 24.00 |
+| 10/26/2024 | OCS0221A | Use of Force/Decision Making | Passed | 0.0 | 1.00 |
+| 10/26/2024 | OCS1723A | De-escalation in Scenario | Passed | 0.0 | 1.00 |
 | 10/10/2024 | OCS4169A | Annual DV Training | Passed | 0.0 | 1.00 |
 | 10/10/2024 | OCS3414A | Annual DV Training | Passed | 0.0 | 1.00 |
 | 10/1/2024 | OCS0791A | 2024 Patrol Fall Rifle | Passed | 0.0 | 4.00 |
@@ -45,6 +47,7 @@
 | 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
+| 6/5/2024 | OCS3982A | 2024 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS1169A | Annual Handgun Qual | Passed | 0.0 | 1.00 |
@@ -80,6 +83,7 @@
 | 6/26/2023 | OCS3724A | Speed/Marksmanship / MILO use of force | Passed | 0.0 | 2.00 |
 | 6/12/2023 | OCS4091A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/12/2023 | OCS0983A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
+| 6/1/2023 | OCS4264A | 2023 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/13/2023 | OCS1599A | Contraband Case Law | Passed | 0.0 | 0.25 |

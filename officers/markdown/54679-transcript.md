@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2024 | OCS2820A | Clackamas County New Hire Patrol Tactics | Passed | 0.0 | 50.00 |
 | 9/23/2024 | MLP3031A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 8/30/2024 | MLP2840A | Resilience and Stress Management | Passed | 0.0 | 1.00 |
 | 8/8/2024 | WBP4541A | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |

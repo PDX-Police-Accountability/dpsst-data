@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2024 | OCS4266A | Taser | Passed | 0.0 | 1.00 |
+| 11/20/2024 | OCS1237A | Use of Cover/Marksmanship | Passed | 0.0 | 1.00 |
+| 10/26/2024 | OCS1723A | De-escalation in Scenario | Passed | 0.0 | 1.00 |
+| 10/26/2024 | OCS0221A | Use of Force/Decision Making | Passed | 0.0 | 1.00 |
 | 10/23/2024 | HBS0168A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 6.00 |
 | 10/22/2024 | HBS0058A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 7.00 |
 | 10/21/2024 | HBS0812A | SARTOPO-A user's guide for Search Management | Passed | 0.0 | 7.00 |
@@ -50,6 +54,7 @@
 | 7/20/2024 | OCS3211A | Shield/Low Light/Shoot-No-Shoot | Passed | 0.0 | 1.00 |
 | 6/28/2024 | PPP0760A | Patrol E-Bike Skills Course | Passed | 0.0 | 3.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
+| 6/5/2024 | OCS3982A | 2024 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |
 | 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
@@ -81,6 +86,7 @@
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS1132A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
+| 6/1/2023 | OCS4264A | 2023 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/13/2023 | OCS1599A | Contraband Case Law | Passed | 0.0 | 0.25 |

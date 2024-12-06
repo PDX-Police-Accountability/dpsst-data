@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/2/2024
+  course: STP3404A
+  title: Firearms Training OIS Range Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/21/2024
   course: STP0479A
   title: Cold Case Homicide

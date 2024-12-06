@@ -39,9 +39,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2024 | OCS1094A | FTO | Passed | 0.0 | 2.00 |
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/20/2024 | OCS4266A | Taser | Passed | 0.0 | 1.00 |
 | 11/19/2024 | OCS4129A | Equity | Passed | 0.0 | 3.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/26/2024 | OCS3881A | Ethics | Passed | 0.0 | 1.00 |
+| 10/26/2024 | OCS0221A | Use of Force/Decision Making | Passed | 0.0 | 1.00 |
+| 10/26/2024 | OCS1723A | De-escalation in Scenario | Passed | 0.0 | 1.00 |
 | 10/20/2024 | OCS2375A | Pillars to Success  Longevity - OSSA | Passed | 0.0 | 1.00 |
 | 10/10/2024 | OCS4169A | Annual DV Training | Passed | 0.0 | 1.00 |
 | 10/10/2024 | OCS3414A | Annual DV Training | Passed | 0.0 | 1.00 |
@@ -52,6 +55,7 @@
 | 7/20/2024 | OCS3211A | Shield/Low Light/Shoot-No-Shoot | Passed | 0.0 | 1.00 |
 | 6/30/2024 | OCS0499A | 2nd QTR Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
+| 6/5/2024 | OCS3982A | 2024 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS2132A | Ground Offense Against Punches | Passed | 0.0 | 1.00 |
@@ -87,6 +91,7 @@
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS1132A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
+| 6/1/2023 | OCS4264A | 2023 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/13/2023 | OCS1599A | Contraband Case Law | Passed | 0.0 | 0.25 |

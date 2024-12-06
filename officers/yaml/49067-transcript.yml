@@ -56,6 +56,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/20/2024
+  course: OCS4266A
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2024
+  course: OCS1237A
+  title: Use of Cover/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/19/2024
   course: OCS4129A
   title: Equity
@@ -68,6 +80,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 10/26/2024
+  course: OCS0221A
+  title: Use of Force/Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2024
+  course: OCS1723A
+  title: De-escalation in Scenario
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/14/2024
   course: OCS4265A
   title: Intoxilyzer 8000 Certification

@@ -48,12 +48,17 @@
 | 9/28/2024 | HSU2131A | Fall In-service 2024 Instructor Prep | Passed | 0.0 | 4.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/20/2024 | HSU3008A | Spring In-Service 2024 Vehicle Operations | Instructed | 0.0 | 3.00 |
+| 4/20/2024 | HSU2387A | Spring In-Service 2024 Vehicle Operations | Instructed | 0.0 | 3.00 |
 | 4/19/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
 | 4/19/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 1.00 |
 | 4/19/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
 | 4/19/2024 | HSU1383A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
 | 4/19/2024 | HSU2593A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
+| 4/19/2024 | HSU1893A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
+| 4/19/2024 | HSU0690A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 1.00 |
+| 4/19/2024 | HSU1108A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
 | 4/14/2024 | HSU3008A | Spring In-Service 2024 Vehicle Operations | Instructed | 0.0 | 3.00 |
+| 4/14/2024 | HSU2387A | Spring In-Service 2024 Vehicle Operations | Instructed | 0.0 | 3.00 |
 | 12/8/2023 | PDP3685A | 2023 Training PVO Refresher Training | Passed | 0.0 | 4.00 |
 | 10/21/2023 | HSU2948A | EVOC | Instructed | 0.0 | 6.00 |
 | 10/20/2023 | HSU2699A | Chief's Message | Passed | 0.0 | 2.00 |

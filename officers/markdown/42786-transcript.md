@@ -55,13 +55,19 @@
 | 9/25/2024 | OAC3958A | Challenge for LE Leaders in Todays Social Environ. | Passed | 0.0 | 1.25 |
 | 9/25/2024 | OAC0238A | Ignite Your Leadership Potential | Passed | 0.0 | 2.00 |
 | 4/20/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
+| 4/20/2024 | HSU1901A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/19/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
 | 4/19/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
 | 4/19/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
 | 4/19/2024 | HSU1383A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
 | 4/19/2024 | HSU2593A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
+| 4/19/2024 | HSU1893A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
+| 4/19/2024 | HSU0690A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
+| 4/19/2024 | HSU1108A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
 | 4/15/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
+| 4/15/2024 | HSU0690A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
 | 4/14/2024 | HSU0104A | Spring In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
+| 4/14/2024 | HSU1901A | Spring In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
 | 10/20/2023 | HSU2699A | Chief's Message | Instructed | 0.0 | 2.00 |
 | 10/20/2023 | HSU1780A | Navigating Injustice | Instructed | 0.0 | 1.00 |
 | 10/20/2023 | HSU1363A | Chief's Message | Instructed | 0.0 | 2.00 |

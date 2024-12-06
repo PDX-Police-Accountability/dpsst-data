@@ -46,6 +46,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2024 | HBS3479A | InService Session #2 DT's | Passed | 0.0 | 4.00 |
+| 11/22/2024 | HBS3713A | InService Session #2 EVO | Passed | 0.0 | 3.00 |
 | 11/6/2024 | HBS1967A | Admin InService #2 Leadership | Instructed | 0.0 | 1.00 |
 | 11/4/2024 | HBS0326A | Admin InService #2 Leadership | Instructed | 0.0 | 1.00 |
 | 10/18/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

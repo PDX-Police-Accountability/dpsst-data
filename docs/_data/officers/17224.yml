@@ -226,6 +226,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/15/2024
+  course: HSU1893A
+  title: Spring In-Service 2024 Body Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/15/2024
+  course: HSU0690A
+  title: Spring In-Service 2024 TASER 10
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/15/2024
+  course: HSU1108A
+  title: Spring In-Service 2024 TASER 10
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/17/2024
   course: HSU3903A
   title: March Supplemental Range

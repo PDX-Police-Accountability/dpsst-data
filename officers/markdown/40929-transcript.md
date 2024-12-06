@@ -100,7 +100,9 @@
 | 4/30/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/26/2024 | PDP0338A | SOP 2-5 Service Ammunition Selection  Evaluation | Passed | 0.0 | 0.25 |
 | 4/20/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
+| 4/20/2024 | HSU1901A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/14/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
+| 4/14/2024 | HSU1901A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/6/2024 | PDP0970A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
 | 4/6/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 2/7/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

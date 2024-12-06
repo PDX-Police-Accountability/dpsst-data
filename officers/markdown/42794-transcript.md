@@ -41,7 +41,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | OCS2517A | November 2024 New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 11/20/2024 | OCS1237A | Use of Cover/Marksmanship | Passed | 0.0 | 1.00 |
+| 11/8/2024 | OCS1765A | November 2024 New Hire Firearms | Instructed | 0.0 | 36.00 |
+| 11/1/2024 | OCS0136A | Use of Cover/Marksmanship | Instructed | 0.0 | 93.00 |
 | 10/30/2024 | OCS3122A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 10/26/2024 | OCS0221A | Use of Force/Decision Making | Passed | 0.0 | 1.00 |
+| 10/20/2024 | OCS1331A | Use of Cover/Marksmanship | Instructed | 0.0 | 84.00 |
 | 10/11/2024 | OCS3763A | October 2024 Sniper Training | Instructed | 0.0 | 6.00 |
 | 10/10/2024 | OCS1468A | October 2024 New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 10/1/2024 | OCS0791A | 2024 Patrol Fall Rifle | Passed | 0.0 | 4.00 |
@@ -50,12 +56,14 @@
 | 9/24/2024 | OCS4464A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 9/24/2024 | OCS0835A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 9/19/2024 | OCS3935A | Balancing Speed/Marksmanship/Efficiency | Instructed | 0.0 | 8.00 |
+| 9/15/2024 | OCS3885A | Efficient Holster speed/marksmanship | Instructed | 0.0 | 55.00 |
 | 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
 | 9/1/2024 | OCS0329A | Efficient Holster speed/marksmanship | Passed | 0.0 | 1.00 |
 | 8/30/2024 | OCS1950A | Balancing Speed  Marksmanship | Passed | 0.0 | 1.00 |
 | 8/28/2024 | OCS2024A | February and September 2024 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 8/27/2024 | OCS2835A | Balancing Speed/Marksmanship and Rifle Qual | Instructed | 0.0 | 4.00 |
 | 8/23/2024 | OCS0309A | Balancing speed/marksmanship | Instructed | 0.0 | 2.00 |
+| 8/20/2024 | OCS4187A | Balancing Speed and Marksmanship | Instructed | 0.0 | 88.00 |
 | 8/9/2024 | OCS3294A | August 2024 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |
 | 7/24/2024 | OCS3814A | Shield/Low Light/Shoot No Shoot | Instructed | 0.0 | 55.00 |
@@ -69,6 +77,7 @@
 | 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2501A | Shooting with Shields | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2885A | 2nd Quarter Corrections Firearms | Passed | 0.0 | 2.00 |
+| 6/5/2024 | OCS3982A | 2024 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/31/2024 | OCS0728A | May 27 2024 New Hire Firearms | Instructed | 0.0 | 16.00 |
 | 5/24/2024 | OCS1749A | Use of Force Decision Making/Grounded Fire | Instructed | 0.0 | 121.00 |
 | 5/21/2024 | OCS3059A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
@@ -169,6 +178,7 @@
 | 6/12/2023 | OCS0983A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Instructed | 0.0 | 3.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
+| 6/1/2023 | OCS4264A | 2023 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/15/2023 | OCS0712A | Ground Fighting | Passed | 0.0 | 1.00 |

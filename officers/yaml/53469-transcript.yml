@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2024
+  course: OCS0221A
+  title: Use of Force/Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2024
+  course: OCS1723A
+  title: De-escalation in Scenario
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/18/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
@@ -116,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/5/2024
+  course: OCS3982A
+  title: 2024 Spring Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/20/2024
   course: OCS0967A
   title: Milo
@@ -386,6 +404,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/1/2023
+  course: OCS4264A
+  title: 2023 Spring Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/31/2023
   course: OCS0824A
   title: Child Abduction Table Top Exercise

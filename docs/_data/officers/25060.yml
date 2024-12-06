@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2024
+  course: WBP3153A
+  title: LEAD Diversion Criteria Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/22/2024
   course: WBP1929A
   title: UOF Update  High Risk Stops
