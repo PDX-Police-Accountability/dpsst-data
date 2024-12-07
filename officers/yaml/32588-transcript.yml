@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2024
+  course: GSP1733A
+  title: 2024 Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/18/2024
   course: 24-0028
   title: DPSST Middle Management F22 Equivalency

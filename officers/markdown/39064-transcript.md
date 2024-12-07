@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/25/2024 | The Dalles Police Department | Promotion | Sergeant |  |  |
 | 12/31/2023 | The Dalles Police Department | Reclassed | Police Off |  |  |
 | 9/1/2023 | The Dalles Police Department | Promotion | Acting Sgt |  |  |
 | 3/12/2002 | The Dalles Police Department | Hired | Police Off |  |  |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2024 | TDP0715A | Criminal Process for digital evidence | Passed | 0.0 | 2.00 |
 | 11/6/2024 | TDP3953A | Low Light Firearms Qualification and Training | Passed | 0.0 | 4.00 |

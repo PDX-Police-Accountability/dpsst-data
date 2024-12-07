@@ -106,6 +106,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 11/13/2024
+  course: WLP2326A
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/19/2024
   course: WLP1453A
   title: WLPD EVOC / Patrol Tactics

@@ -268,6 +268,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/15/2024
+  course: BNP1332A
+  title: Ethics for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/8/2024
   course: VND3366A
   title: Northwest Leadership Seminar

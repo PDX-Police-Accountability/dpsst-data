@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2024
+  course: PSU2471A
+  title: The LGBTQ Community
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2024
+  course: PSU3489A
+  title: Anti-Bias Training for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/31/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

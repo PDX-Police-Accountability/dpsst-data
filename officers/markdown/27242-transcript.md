@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | SPP3968A | Taser Recertification | Passed | 0.0 | 2.00 |
 | 11/18/2024 | SPP3414A | Night Shoot Firearms | Passed | 0.0 | 2.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/8/2024 | SPP2739A | Advanced Policing - Emotional Intellegence | Passed | 0.0 | 1.00 |

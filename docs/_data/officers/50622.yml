@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2024
+  course: OCP2587A
+  title: Basic Rifle Course
+  status: Instructed
+  score: '0.0'
+  hours: '18.00'
 - date: 11/26/2024
   course: OCP0657A
   title: Firearms/Use of Force

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/18/2024
+  agency: Portland Police Bureau
+  action: Mil-LOA
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 2/3/2022
   agency: Portland Police Bureau
   action: Promotion

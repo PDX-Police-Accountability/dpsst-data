@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | OCP2587A | Basic Rifle Course | Passed | 0.0 | 18.00 |
 | 9/25/2024 | OCP3907A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/10/2024 | OCP3494A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 7/25/2024 | OCP1366A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

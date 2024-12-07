@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
 | 7/31/2024 | GSP0912A | Intro Ext Verifiable Info in Forensic Interview | Passed | 0.0 | 1.50 |
 | 7/17/2024 | GSP4457A | Responding to an Unexplained Child Death | Passed | 0.0 | 7.00 |
 | 6/27/2024 | GSP2234A | Inside the Tape-Homicide Investigations | Passed | 0.0 | 18.50 |

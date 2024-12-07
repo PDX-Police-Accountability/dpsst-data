@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | PSU2471A | The LGBTQ Community | Passed | 0.0 | 1.00 |
+| 12/1/2024 | PSU3489A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/9/2024 | PSU4377A | Mobile Response Team Basic Skills Course | Passed | 0.0 | 6.50 |
 | 5/6/2024 | PSU0447A | Officer Survival 1/2 | Passed | 0.0 | 2.00 |

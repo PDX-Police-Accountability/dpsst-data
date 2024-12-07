@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/18/2024 | Portland Police Bureau | Mil-LOA | Lieutenant |  |  |
 | 2/3/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 10/26/2020 | Portland Police Bureau | Retrn MLOA | Sergeant |  |  |
 | 7/10/2019 | Portland Police Bureau | Mil-LOA | Sergeant |  |  |

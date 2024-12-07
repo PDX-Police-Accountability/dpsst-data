@@ -1284,7 +1284,6 @@
 | Dormady, Ross H. | 45813 | Portland Police Bureau | Inactive | Detective | Resigned | 2022-01-28 | [md](../markdown/45813-transcript.md) - [yaml](../yaml/45813-transcript.yml) |
 | Duilio, Kenneth | 34491 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/34491-transcript.md) - [yaml](../yaml/34491-transcript.yml) |
 | Jones, Jason L. | 37668 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/37668-transcript.md) - [yaml](../yaml/37668-transcript.yml) |
-| Helzer, Peter D. | 41782 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/41782-transcript.md) - [yaml](../yaml/41782-transcript.yml) |
 | Foxworth, Derrick L., Jr. | 43483 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/43483-transcript.md) - [yaml](../yaml/43483-transcript.yml) |
 | Staples, Norman A. | 43528 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/43528-transcript.md) - [yaml](../yaml/43528-transcript.yml) |
 | Miller, Huntley J. | 43999 | Portland Police Bureau | Active | Police Officer | LOA | 2022-02-03 | [md](../markdown/43999-transcript.md) - [yaml](../yaml/43999-transcript.yml) |
@@ -1628,6 +1627,7 @@
 | Ng-Petersen, Joseph A. | 65213 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65213-transcript.md) - [yaml](../yaml/65213-transcript.yml) |
 | Lutz, Samuel P. | 65214 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65214-transcript.md) - [yaml](../yaml/65214-transcript.yml) |
 | Milton, Llissel G. | 63598 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-04-16 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |
+| Helzer, Peter D. | 41782 | Portland Police Bureau | Active | Lieutenant | Mil-LOA | 2024-04-18 | [md](../markdown/41782-transcript.md) - [yaml](../yaml/41782-transcript.yml) |
 | Robinson, Timothy K. | 29814 | Portland Police Bureau | Active | Captain | Demotion | 2024-04-25 | [md](../markdown/29814-transcript.md) - [yaml](../yaml/29814-transcript.yml) |
 | Bell, Jeffrey M. | 38996 | Portland Police Bureau | Active | Commander | Demotion | 2024-04-25 | [md](../markdown/38996-transcript.md) - [yaml](../yaml/38996-transcript.yml) |
 | Leasure, Michael C. | 38997 | Portland Police Bureau | Active | Commander | Demotion | 2024-04-25 | [md](../markdown/38997-transcript.md) - [yaml](../yaml/38997-transcript.yml) |

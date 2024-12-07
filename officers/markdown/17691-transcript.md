@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | MNS4507A | Tint Meter Operator Training | Passed | 0.0 | 0.50 |
 | 11/3/2024 | MNS3587A | Emergency Vehicle Operations.Nov.24 | Instructed | 0.0 | 7.00 |
 | 9/15/2024 | MNS1956A | Legal Update September 2024 | Passed | 0.0 | 1.00 |
 | 7/22/2024 | VND2712A | North American Standard Part A Inspection Course | Passed | 0.0 | 40.00 |
@@ -43,6 +44,7 @@
 | 7/1/2024 | MNS1199A | CIT/De-escaltion | Passed | 0.0 | 1.00 |
 | 6/8/2024 | MNS3515A | Sex and Power | Passed | 0.0 | 1.00 |
 | 4/18/2024 | MNS0851A | Kloxxado (Narcan) Training | Passed | 0.0 | 1.00 |
+| 3/27/2024 | MNS1628A | Taser Training | Passed | 0.0 | 2.00 |
 | 2/28/2024 | MNS2952A | Low Light Firearms Training | Passed | 0.0 | 2.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 1/31/2024 | VND2911A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

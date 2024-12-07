@@ -113,6 +113,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/20/2024
+  course: HBS3051A
+  title: Mental Health  Wellness in Policing Summit
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 11/6/2024
   course: HBS1967A
   title: 'Admin InService #2 Leadership'

@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2024 | WLP4174A | Children's Center 101 / Karly's Law | Passed | 0.0 | 1.50 |
+| 11/13/2024 | WLP2326A | Taser Recertification | Passed | 0.0 | 2.00 |
 | 10/19/2024 | WLP1453A | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 8.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/18/2024 | WLP3052A | Firearms Qualification | Passed | 0.0 | 3.00 |

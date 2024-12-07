@@ -39,11 +39,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2024 | GPN1919A | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 10/3/2024 | STN2827A | DV Academy Day 4 | Passed | 0.0 | 8.00 |
 | 10/2/2024 | STN2240A | DV Academy Day 3 | Passed | 0.0 | 8.00 |
 | 10/1/2024 | STN3962A | DV Academy Day 2 | Passed | 0.0 | 8.00 |
 | 9/30/2024 | STN0397A | DV Academy Day 1 | Passed | 0.0 | 4.00 |
 | 9/18/2024 | GPN1685A | Case Mgmt - Communication  Verbal De-Escalation | Passed | 0.0 | 1.50 |
+| 8/22/2024 | GPN3741A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 8/15/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/30/2024 | GPN0297A | Equity, Diversity and Inclusion | Passed | 0.0 | 3.00 |
 | 6/5/2024 | REG1665A | Ethics | Passed | 0.0 | 2.00 |

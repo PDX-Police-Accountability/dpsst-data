@@ -736,7 +736,7 @@
 | Helfrich, West A. | 29194 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-09-01 | [md](../markdown/29194-transcript.md) - [yaml](../yaml/29194-transcript.yml) |
 | Helwig, Heidi J. | 41499 | Portland Police Bureau | Active | Detective | Promotion | 2011-11-10 | [md](../markdown/41499-transcript.md) - [yaml](../yaml/41499-transcript.yml) |
 | Helzer, Grant M. | 63215 | Portland Police Bureau | Active | Police Officer | Hired | 2022-08-18 | [md](../markdown/63215-transcript.md) - [yaml](../yaml/63215-transcript.yml) |
-| Helzer, Peter D. | 41782 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/41782-transcript.md) - [yaml](../yaml/41782-transcript.yml) |
+| Helzer, Peter D. | 41782 | Portland Police Bureau | Active | Lieutenant | Mil-LOA | 2024-04-18 | [md](../markdown/41782-transcript.md) - [yaml](../yaml/41782-transcript.yml) |
 | Hemmerlein, Garrett J. | 56923 | Portland Police Bureau | Active | Police Officer | Hired | 2017-01-01 | [md](../markdown/56923-transcript.md) - [yaml](../yaml/56923-transcript.yml) |
 | Hendrie, David M. | 28637 | Portland Police Bureau | Inactive | Commander | Retired | 2018-10-09 | [md](../markdown/28637-transcript.md) - [yaml](../yaml/28637-transcript.yml) |
 | Hensey, Jason R. | 42309 | Portland Police Bureau | Active | Police Officer | Demotion | 2016-10-01 | [md](../markdown/42309-transcript.md) - [yaml](../yaml/42309-transcript.yml) |

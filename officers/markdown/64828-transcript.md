@@ -31,6 +31,8 @@
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/28/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/25/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/19/2024 | PDP1678A | Firearms Training | Passed | 0.0 | 2.25 |
+| 9/17/2024 | PDP1678A | Firearms Training | Passed | 0.0 | 2.25 |
 | 8/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/2/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 8/2/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

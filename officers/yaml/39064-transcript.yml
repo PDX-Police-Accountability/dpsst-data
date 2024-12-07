@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/25/2024
+  agency: The Dalles Police Department
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 12/31/2023
   agency: The Dalles Police Department
   action: Reclassed
@@ -62,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/25/2025
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

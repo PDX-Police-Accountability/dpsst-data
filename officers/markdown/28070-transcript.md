@@ -46,6 +46,7 @@
 | 6/28/2024 | MNS1199A | CIT/De-escaltion | Passed | 0.0 | 1.00 |
 | 6/12/2024 | MNS3515A | Sex and Power | Passed | 0.0 | 1.00 |
 | 4/18/2024 | MNS0851A | Kloxxado (Narcan) Training | Passed | 0.0 | 1.00 |
+| 3/28/2024 | MNS1628A | Taser Training | Passed | 0.0 | 2.00 |
 | 2/28/2024 | MNS2952A | Low Light Firearms Training | Passed | 0.0 | 2.00 |
 | 1/31/2024 | VND2911A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

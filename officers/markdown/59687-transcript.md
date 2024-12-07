@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2024 | WLP4174A | Children's Center 101 / Karly's Law | Passed | 0.0 | 1.50 |
+| 11/13/2024 | WLP2326A | Taser Recertification | Passed | 0.0 | 2.00 |
 | 10/30/2024 | VND2051A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 10/23/2024 | BPT2949A | Field Training and Evaluation | Passed | 0.0 | 24.00 |
 | 10/19/2024 | WLP1453A | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 8.00 |

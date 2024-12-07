@@ -52,13 +52,6 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/13/2024
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 2/11/2022
-  expiration_date: 5/13/2029
-  probation_date: ''
 - status_date: 6/3/2024
   certificate: Parole  Probation Officer
   level: Basic
@@ -66,6 +59,13 @@ certification_records:
   certificate_date: ''
   expiration_date: ''
   probation_date: 12/3/2025
+- status_date: 2/11/2022
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 2/11/2022
+  expiration_date: ''
+  probation_date: ''
 training_records:
 - date: 12/3/2025
   course: M31-21A
@@ -1258,10 +1258,18 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 7/25/2024
   expiration_date: 7/25/2026
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/4/2023
   expiration_date: 2/4/2025
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/23/2020

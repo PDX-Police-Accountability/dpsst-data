@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/16/2024 | MNP3752A | Taser Annual Recertification (Taser 7) | Passed | 0.0 | 2.00 |
 | 11/16/2024 | MNP1913A | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 11/16/2024 | MNP2404A | Day/Night Firearms Qual/Drills | Passed | 0.0 | 6.00 |
 | 10/1/2024 | MNP2638A | NAMI newsletter August 2024 | Passed | 0.0 | 0.50 |
 | 10/1/2024 | MNP0855A | NAMI newsletter July 2024 | Passed | 0.0 | 0.50 |
 | 6/3/2024 | MNP3416A | NAMI newsletter April 2024 | Passed | 0.0 | 0.50 |

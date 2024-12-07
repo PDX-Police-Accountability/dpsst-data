@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2024 | BNP3255A | Sex Offender Compliance Investigations | Passed | 0.0 | 1.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/17/2024 | BNP0752A | Weapons Manipulation | Passed | 0.0 | 1.00 |
 | 11/16/2024 | BNP3952A | Indoor UAS Flight Strategies | Passed | 0.0 | 5.50 |

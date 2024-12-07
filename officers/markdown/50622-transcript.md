@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | OCP2587A | Basic Rifle Course | Instructed | 0.0 | 18.00 |
 | 11/26/2024 | OCP0657A | Firearms/Use of Force | Instructed | 0.0 | 6.00 |
 | 11/21/2024 | OCP0311A | Firearms/Use of Force | Instructed | 0.0 | 7.00 |
 | 11/5/2024 | OCP1920A | LEDS Re-Certification | Passed | 0.0 | 1.00 |

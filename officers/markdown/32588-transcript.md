@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
 | 11/18/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 10/30/2024 | HBA2384A | Building Bridges Summit | Passed | 0.0 | 5.00 |
 | 10/25/2024 | PDS2768A | NTOA Public Order Basic Command Certification | Passed | 0.0 | 40.00 |

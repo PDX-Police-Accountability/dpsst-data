@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
 | 9/12/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/3/2024 | OSH0972A | 2024 DRE Confernce | Passed | 0.0 | 8.00 |

@@ -71,6 +71,7 @@
 | 7/30/2024 | BNP3526A | Use of Force Policy Review and Test | Passed | 0.0 | 1.00 |
 | 7/25/2024 | BNP2615A | FTO Leadership | Instructed | 0.0 | 2.00 |
 | 5/23/2024 | BNP4092A | Control Tactics /Ground Control | Passed | 0.0 | 1.00 |
+| 4/15/2024 | BNP1332A | Ethics for Law Enforcement | Passed | 0.0 | 3.00 |
 | 3/8/2024 | VND3366A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 2/28/2024 | BNP2971A | Control Tactics | Passed | 0.0 | 1.00 |
 | 2/21/2024 | BNP1684A | DUII refresher | Passed | 0.0 | 4.00 |
