@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/12/2024 | Portland Police Bureau | LOA | Police Off |  |  |
 | 7/9/2012 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

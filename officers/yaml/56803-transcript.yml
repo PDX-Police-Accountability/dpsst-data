@@ -115,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 10/4/2024
+  course: PDP2747A
+  title: 2024 CMC Rope Rescue Technician I/II
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 9/19/2024
   course: PDP1929A
   title: 2024 SERT Training (RILEA) - SCENARIO

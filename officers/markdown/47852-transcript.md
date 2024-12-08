@@ -66,6 +66,8 @@
 | 6/23/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/14/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 4/24/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/24/2024 | PDP3310A | 2024 Palm Prints: Searching Smart | Passed | 0.0 | 24.00 |
+| 4/12/2024 | PDP3711A | 2024 Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
 | 3/28/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 3/28/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
 | 3/28/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |
@@ -79,6 +81,7 @@
 | 2/13/2024 | PDP4003A | 2024 Wellness In-Service Movement Screening | Passed | 0.0 | 1.00 |
 | 2/13/2024 | PDP3452A | 2024 Wellness In-Service Stress Management | Passed | 0.0 | 1.00 |
 | 2/13/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
+| 2/2/2024 | PDP0592A | 2024 Tritech Forensics Crime Scene Investigations | Passed | 0.0 | 40.00 |
 | 1/2/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/6/2023 | PDP3510A | 2023 EAP Wellness | Passed | 0.0 | 6.00 |
 | 11/1/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

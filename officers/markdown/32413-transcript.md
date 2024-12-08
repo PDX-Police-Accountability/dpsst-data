@@ -4,7 +4,7 @@
 | name | Weldon, Carl T. |
 | dpsst_identifier | 32413 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/29/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 2/13/2024 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 1/20/2011 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 5/26/2005 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -24,10 +25,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/2/2012 | Police Officer | Supervisory | Granted | 3/2/2012 |  |  |
-| 3/23/2010 | Police Officer | Advanced | Granted | 3/23/2010 |  |  |
-| 3/17/2005 | Police Officer | Intermediate | Granted | 3/17/2005 |  |  |
-| 7/29/1999 | Police Officer | Basic | Granted | 7/29/1999 |  |  |
+| 3/2/2012 | Police Officer | Supervisory | Granted | 3/2/2012 | 3/1/2025 |  |
+| 3/23/2010 | Police Officer | Advanced | Granted | 3/23/2010 | 3/1/2025 |  |
+| 3/17/2005 | Police Officer | Intermediate | Granted | 3/17/2005 | 3/1/2025 |  |
+| 7/29/1999 | Police Officer | Basic | Granted | 7/29/1999 | 3/1/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

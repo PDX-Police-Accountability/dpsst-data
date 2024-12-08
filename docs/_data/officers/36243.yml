@@ -95,6 +95,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2024
+  course: HBS1371A
+  title: 'Nov. Virtual Session #2 General'
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 12/1/2024
+  course: HBS1382A
+  title: 'Nov. Virtual Session #2 Mental Health'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/1/2024
+  course: HBS2701A
+  title: 'November Virtual Session #2 Use of Force'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 11/11/2024
   course: HBS2533A
   title: 'InService Session #2 EVO'

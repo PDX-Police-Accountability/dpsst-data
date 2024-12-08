@@ -112,6 +112,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/22/2024
+  course: PDP0973A
+  title: 2024 IACP Equipped to Innovate
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 9/26/2024
   course: OAC3725A
   title: Election Year Threat Extremism in Oregon

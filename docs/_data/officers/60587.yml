@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/6/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/12/2024
   course: PDP3377A
   title: '2024-3 All Sworn In-Service MFF: APR'
@@ -2139,8 +2145,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2024
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

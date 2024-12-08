@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/17/2024
+  course: MLP0219A
+  title: Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/30/2024
   course: MLP2840A
   title: Resilience and Stress Management
@@ -148,6 +154,12 @@ training_records:
 - date: 3/28/2024
   course: MLP2297A
   title: Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/28/2024
+  course: MLP2043A
+  title: Pistol Qualification
   status: Passed
   score: '0.0'
   hours: '1.50'

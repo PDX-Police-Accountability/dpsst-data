@@ -29,8 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 3/25/2021 |  |
 | Code of Ethics | Signed | 6/21/2001 |  |
 ## Education
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/11/2024 | PDS2827A | Defining Moments and the Challenge of Leadership | Passed | 0.0 | 16.00 |
 | 10/31/2024 | PDS2657A | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/21/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |

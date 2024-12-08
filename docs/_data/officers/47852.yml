@@ -236,6 +236,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/24/2024
+  course: PDP3310A
+  title: '2024 Palm Prints: Searching Smart'
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/12/2024
+  course: PDP3711A
+  title: 2024 Practical Shooting Incident Reconstruction
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/28/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms
@@ -314,6 +326,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/2/2024
+  course: PDP0592A
+  title: 2024 Tritech Forensics Crime Scene Investigations
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/2/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit

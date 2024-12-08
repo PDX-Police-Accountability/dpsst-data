@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/4/2024
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 5/25/2017
   agency: Portland Police Bureau
   action: Hired
@@ -47,6 +53,12 @@ training_records:
 - date: 10/2/2024
   course: GSP0866A
   title: OPCA Fall Seminar - Patrol
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/2/2024
+  course: PDP0727A
+  title: 2024 OPCA Fall Conference
   status: Passed
   score: '0.0'
   hours: '24.00'

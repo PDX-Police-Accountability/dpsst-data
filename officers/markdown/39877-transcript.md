@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2024 | PDP3051A | LEVA Intl Forensic Video/Audio Analysis | Passed | 0.0 | 40.00 |
 | 10/23/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/16/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 8/28/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

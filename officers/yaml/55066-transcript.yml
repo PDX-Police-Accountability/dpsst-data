@@ -22,11 +22,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/29/2024
+- status_date: 12/6/2024
   certificate: Police Officer
   level: Supervisory
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 12/6/2024
   expiration_date: ''
   probation_date: ''
 - status_date: 2/8/2024
@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/6/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/19/2024
   course: PDP3377A
   title: '2024-3 All Sworn In-Service MFF: APR'
@@ -3660,8 +3666,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2024
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/19/2023

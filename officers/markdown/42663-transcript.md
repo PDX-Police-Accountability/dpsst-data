@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/30/2024 | Portland Police Bureau | LOA | Police Off |  |  |
 | 3/27/2003 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/28/2003 | Police Corps Academy-Participant | Resigned | Cadet |  |  |
 | 9/16/2002 | Police Corps Academy-Participant | Hired | Cadet |  |  |

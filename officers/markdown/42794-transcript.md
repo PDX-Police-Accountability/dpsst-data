@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2024 | OCS1572A | Concealment, Marksmanship, Decision Making | Instructed | 0.0 | 2.00 |
 | 11/27/2024 | OCS2517A | November 2024 New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 11/20/2024 | OCS1237A | Use of Cover/Marksmanship | Passed | 0.0 | 1.00 |
 | 11/8/2024 | OCS1765A | November 2024 New Hire Firearms | Instructed | 0.0 | 36.00 |
@@ -98,6 +99,7 @@
 | 3/24/2024 | OCS0173A | Fundamentals of Marksmanship | Instructed | 0.0 | 75.00 |
 | 3/22/2024 | OCS3372A | Target ID/Positional Shooting/Marksmanship | Instructed | 0.0 | 6.50 |
 | 3/7/2024 | OCS2111A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 3/6/2024 | OCS0225A | First Aid/CPR/AED | Passed | 0.0 | 1.00 |
 | 3/5/2024 | OCS3704A | March,June,July,August,December Monthly Firearms | Instructed | 0.0 | 5.00 |
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 2/28/2024 | OCS2413A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

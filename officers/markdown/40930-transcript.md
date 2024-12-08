@@ -43,6 +43,7 @@
 | 10/29/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |
 | 10/29/2024 | PDP4286A | 2024 Supervisor In-Service Overview of 2020 Unrest | Passed | 0.0 | 3.00 |
 | 10/25/2024 | PDS2768A | NTOA Public Order Basic Command Certification | Passed | 0.0 | 40.00 |
+| 10/25/2024 | PDP0532A | 2024 NTOA Public Order Basic Command | Passed | 0.0 | 40.00 |
 | 9/24/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/18/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |

@@ -3,12 +3,18 @@ header_record:
   name: Stainbrook, Richard A.
   dpsst_identifier: '27833'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/26/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 9/8/2016
   agency: Portland Police Bureau
   action: Promotion
@@ -33,7 +39,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 10/1/1993
-  expiration_date: ''
+  expiration_date: 2/26/2025
   probation_date: ''
 training_records:
 - date: 11/1/2024

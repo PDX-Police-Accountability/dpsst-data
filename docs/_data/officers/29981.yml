@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2024
+  course: OCA3392A
+  title: FBI BAU/VICAP
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 11/13/2024
   course: WLP4174A
   title: Children's Center 101 / Karly's Law

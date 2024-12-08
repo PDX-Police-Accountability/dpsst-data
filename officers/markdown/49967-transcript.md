@@ -28,6 +28,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2024 | MNP0988A | Axon Fleet 3 Operation | Passed | 0.0 | 1.00 |
+| 11/29/2024 | MNP2549A | Anti-bias policing part 2 | Passed | 0.0 | 1.00 |
+| 11/29/2024 | MNP4515A | Anti-bias policing part 1 | Passed | 0.0 | 1.00 |
 | 11/16/2024 | MNP3752A | Taser Annual Recertification (Taser 7) | Passed | 0.0 | 2.00 |
 | 11/16/2024 | MNP1913A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 11/16/2024 | MNP2404A | Day/Night Firearms Qual/Drills | Passed | 0.0 | 6.00 |

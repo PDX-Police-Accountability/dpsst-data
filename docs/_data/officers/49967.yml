@@ -29,6 +29,24 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/3/2024
+  course: MNP0988A
+  title: Axon Fleet 3 Operation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/29/2024
+  course: MNP2549A
+  title: Anti-bias policing part 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/29/2024
+  course: MNP4515A
+  title: Anti-bias policing part 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/16/2024
   course: MNP3752A
   title: Taser Annual Recertification (Taser 7)

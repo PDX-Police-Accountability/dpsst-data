@@ -4,7 +4,7 @@
 | name | Stainbrook, Richard A. |
 | dpsst_identifier | 27833 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/26/2024 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 9/8/2016 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 4/5/2007 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 12/30/1992 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/1/1993 | Police Officer | Basic | Granted | 10/1/1993 |  |  |
+| 10/1/1993 | Police Officer | Basic | Granted | 10/1/1993 | 2/26/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

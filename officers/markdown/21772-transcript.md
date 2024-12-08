@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/3/2024 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 6/4/2008 | Portland Police Bureau | Demotion | Sergeant |  |  |
 | 11/15/2007 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 9/25/2003 | Portland Police Bureau | Promotion | Sergeant |  |  |

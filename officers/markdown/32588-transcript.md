@@ -29,7 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
 | Code of Ethics | Signed | 3/10/2006 |  |
 ## Education
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
 | 11/18/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 10/30/2024 | HBA2384A | Building Bridges Summit | Passed | 0.0 | 5.00 |

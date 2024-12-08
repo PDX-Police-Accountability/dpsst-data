@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2024
+  course: PDP3051A
+  title: LEVA Intl Forensic Video/Audio Analysis
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/23/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp

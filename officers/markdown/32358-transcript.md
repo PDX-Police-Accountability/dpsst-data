@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2024 | OCA3392A | FBI BAU/VICAP | Passed | 0.0 | 7.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/14/2024 | PDP2151A | 2024 Investigator In-Service Case Study | Passed | 0.0 | 3.00 |
 | 5/14/2024 | PDP1036A | 2024 Investigator In-Service Device Warrants | Passed | 0.0 | 2.00 |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/6/2024
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 8/22/2019
   agency: Portland Police Bureau
   action: Hired

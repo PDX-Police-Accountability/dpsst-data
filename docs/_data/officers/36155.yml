@@ -75,6 +75,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/30/2024
+  course: PDP3926A
+  title: 2024 SAKI 9th Annual National Grantees Meeting
+  status: Passed
+  score: '0.0'
+  hours: '16.55'
 - date: 10/25/2024
   course: PDP1082A
   title: 2024 Supervisor In-Service Force Inspector Updates

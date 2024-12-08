@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2024
+  course: BNP1178A
+  title: Distraction Devices Training and Test
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/5/2024
+  course: BNP0819A
+  title: Tactical Mission Debriefs
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/5/2024
+  course: BNP3704A
+  title: Distraction Devices Training and Test
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/19/2024
   course: BNP3309A
   title: Tactical building Clearing (HRT, Slow clear, K9)

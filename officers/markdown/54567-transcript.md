@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/19/2024 | MLP0654A | DV Investigations w/ CC DA | Passed | 0.0 | 3.00 |
+| 11/5/2024 | MLP2204A | Night Range/Red Dot | Instructed | 0.0 | 3.00 |
 | 8/30/2024 | MLP2840A | Resilience and Stress Management | Passed | 0.0 | 1.00 |
 | 7/31/2024 | MLP1284A | OSHA Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 7/22/2024 | MLP1721A | Red Dot Qualification | Passed | 0.0 | 1.00 |

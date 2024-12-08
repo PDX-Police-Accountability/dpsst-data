@@ -3,12 +3,18 @@ header_record:
   name: Weldon, Carl T.
   dpsst_identifier: '32413'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/29/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 2/13/2024
   agency: Portland Police Bureau
   action: LOA
@@ -69,28 +75,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 3/2/2012
-  expiration_date: ''
+  expiration_date: 3/1/2025
   probation_date: ''
 - status_date: 3/23/2010
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 3/23/2010
-  expiration_date: ''
+  expiration_date: 3/1/2025
   probation_date: ''
 - status_date: 3/17/2005
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 3/17/2005
-  expiration_date: ''
+  expiration_date: 3/1/2025
   probation_date: ''
 - status_date: 7/29/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 7/29/1999
-  expiration_date: ''
+  expiration_date: 3/1/2025
   probation_date: ''
 training_records:
 - date: 2/12/2024

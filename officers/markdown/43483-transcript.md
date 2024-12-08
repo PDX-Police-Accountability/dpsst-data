@@ -45,6 +45,7 @@
 | 10/29/2024 | PDP4286A | 2024 Supervisor In-Service Overview of 2020 Unrest | Passed | 0.0 | 3.00 |
 | 10/25/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/25/2024 | PDP3427A | 2024-3 All Sworn In-Service CAO Legal Updates Add | Passed | 0.0 | 0.25 |
+| 10/22/2024 | PDP0973A | 2024 IACP Equipped to Innovate | Passed | 0.0 | 32.00 |
 | 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
 | 9/26/2024 | OAC3203A | Deal w/People You Don't Like - Bring Out The Best | Passed | 0.0 | 2.50 |
 | 9/26/2024 | OAC1618A | Culture Conundrum Examination within Organization | Passed | 0.0 | 4.00 |

@@ -25,7 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/17/2023 | 5/17/2025 |
 | Code of Ethics | Signed | 11/20/2008 |  |
 ## Education
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/26/2024 | PDP3377A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 11/26/2024 | PDP1989A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 11/26/2024 | PDP3683A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
@@ -53,6 +55,7 @@
 | 10/16/2024 | PDP0666A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 10/5/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/2/2024 | GSP0866A | OPCA Fall Seminar - Patrol | Passed | 0.0 | 24.00 |
+| 10/2/2024 | PDP0727A | 2024 OPCA Fall Conference | Passed | 0.0 | 24.00 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
 | 9/14/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/4/2024 | PDP0046A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

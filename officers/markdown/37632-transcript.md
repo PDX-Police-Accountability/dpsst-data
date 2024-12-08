@@ -4,7 +4,7 @@
 | name | Filbert, Michael D. |
 | dpsst_identifier | 37632 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/30/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/18/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 10/19/2021 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 3/22/2021 | DPSST Use Only | InstrApp |  |  | AcadTrng |
@@ -25,10 +26,10 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 5/11/2023 | Instructor |  | Granted | 5/11/2023 |  |  |
-| 9/28/2021 | Police Officer | Supervisory | Granted | 9/28/2021 |  |  |
-| 3/23/2010 | Police Officer | Advanced | Granted | 3/23/2010 |  |  |
-| 3/23/2010 | Police Officer | Intermediate | Granted | 3/23/2010 |  |  |
-| 6/12/2000 | Police Officer | Basic | Granted | 6/12/2000 |  |  |
+| 9/28/2021 | Police Officer | Supervisory | Granted | 9/28/2021 | 3/1/2025 |  |
+| 3/23/2010 | Police Officer | Advanced | Granted | 3/23/2010 | 3/1/2025 |  |
+| 3/23/2010 | Police Officer | Intermediate | Granted | 3/23/2010 | 3/1/2025 |  |
+| 6/12/2000 | Police Officer | Basic | Granted | 6/12/2000 | 3/1/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -26,7 +26,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 3/7/2007 |  |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/19/2024 | PDP3377A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 11/19/2024 | PDP1989A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 11/19/2024 | PDP3683A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
@@ -52,6 +54,7 @@
 | 11/18/2024 | PDP0651A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 11/18/2024 | PDP0318A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 10/31/2024 | VND1364A | Group Crisis Intervention | Passed | 0.0 | 14.00 |
+| 10/31/2024 | PDP3662A | 2024 ICISF Group Crisis Intervention | Passed | 0.0 | 14.00 |
 | 10/29/2024 | PDP2002A | 2024 Supervisor In-Service Overview PSD and IA | Passed | 0.0 | 1.00 |
 | 10/29/2024 | PDP4286A | 2024 Supervisor In-Service Overview of 2020 Unrest | Passed | 0.0 | 3.00 |
 | 10/27/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |

@@ -4,7 +4,7 @@
 | name | Alexander, Gail D. |
 | dpsst_identifier | 37248 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/28/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/22/2024 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 2/1/2023 | Portland Police Bureau | LOA | Police Off |  |  |
 | 1/6/2016 | Portland Police Bureau | Return LOA | Police Off |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/7/2024 | Police Officer | Advanced | Granted | 6/7/2024 |  |  |
-| 6/7/2024 | Police Officer | Intermediate | Granted | 6/7/2024 |  |  |
-| 10/1/2001 | Police Officer | Basic | Granted | 10/1/2001 |  |  |
+| 6/7/2024 | Police Officer | Advanced | Granted | 6/7/2024 | 2/28/2025 |  |
+| 6/7/2024 | Police Officer | Intermediate | Granted | 6/7/2024 | 2/28/2025 |  |
+| 10/1/2001 | Police Officer | Basic | Granted | 10/1/2001 | 2/28/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

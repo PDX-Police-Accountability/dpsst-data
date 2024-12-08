@@ -151,6 +151,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 10/2/2024
+  course: PDP0727A
+  title: 2024 OPCA Fall Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/26/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

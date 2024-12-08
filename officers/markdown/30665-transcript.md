@@ -48,6 +48,7 @@
 | 10/28/2024 | PDP3074A | 2024 Supervisor In-Service ICS Refresher | Passed | 0.0 | 2.00 |
 | 10/28/2024 | PDP2002A | 2024 Supervisor In-Service Overview PSD and IA | Passed | 0.0 | 1.00 |
 | 10/25/2024 | PDS2768A | NTOA Public Order Basic Command Certification | Passed | 0.0 | 40.00 |
+| 10/25/2024 | PDP0532A | 2024 NTOA Public Order Basic Command | Passed | 0.0 | 40.00 |
 | 10/19/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 8/28/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/14/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

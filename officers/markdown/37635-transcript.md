@@ -26,8 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2024 | EGP4265A | Ethics | Passed | 0.0 | 1.50 |
 | 10/10/2024 | EGP3595A | Deflection | Passed | 0.0 | 1.00 |
 | 10/10/2024 | EGP4365A | Firearms Qualification | Passed | 0.0 | 3.00 |

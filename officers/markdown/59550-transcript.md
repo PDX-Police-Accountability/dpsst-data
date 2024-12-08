@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2024 | BNP1178A | Distraction Devices Training and Test | Passed | 0.0 | 3.00 |
+| 12/5/2024 | BNP0819A | Tactical Mission Debriefs | Passed | 0.0 | 3.00 |
+| 12/5/2024 | BNP3704A | Distraction Devices Training and Test | Passed | 0.0 | 2.00 |
 | 11/19/2024 | BNP3309A | Tactical building Clearing (HRT, Slow clear, K9) | Passed | 0.0 | 8.00 |
 | 11/13/2024 | RMP1654A | Firearms / Ground Defense / Weapon Retention | Passed | 0.0 | 7.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

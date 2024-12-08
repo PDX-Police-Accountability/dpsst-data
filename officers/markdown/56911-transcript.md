@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/31/2024 | PDP0004A | 2024-2 Field Training Officer (FTO) | Passed | 0.0 | 40.00 |
+| 10/31/2024 | PDP0697A | 2024 NTOA 24th Annual Crisis Negotiations | Passed | 0.0 | 40.00 |
 | 10/24/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/24/2024 | PDP1976A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
 | 10/24/2024 | PDP3269A | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |

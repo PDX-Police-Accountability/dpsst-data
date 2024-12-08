@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/22/2024 | OCS2820A | Clackamas County New Hire Patrol Tactics | Passed | 0.0 | 50.00 |
 | 9/23/2024 | MLP3031A | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 9/17/2024 | MLP0219A | Rifle Qualification | Passed | 0.0 | 3.00 |
 | 8/30/2024 | MLP2840A | Resilience and Stress Management | Passed | 0.0 | 1.00 |
 | 8/8/2024 | WBP4541A | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |
 | 7/31/2024 | MLP1284A | OSHA Wildfire Smoke Training | Passed | 0.0 | 1.00 |
@@ -54,6 +55,7 @@
 | 4/22/2024 | MLP3862A | Adult/Child/Infant First AID, CPR AED | Passed | 0.0 | 3.00 |
 | 4/5/2024 | WBP2170A | HANDGUN INSTRUCTOR DEVELOPMENT COURSE | Passed | 0.0 | 40.00 |
 | 3/28/2024 | MLP2297A | Firearms Qualifications | Passed | 0.0 | 1.50 |
+| 3/28/2024 | MLP2043A | Pistol Qualification | Passed | 0.0 | 1.50 |
 | 3/1/2024 | MLP2702A | Emergency  Fire Preparedness | Passed | 0.0 | 1.00 |
 | 2/29/2024 | MLP1263A | Why emergency Preparedness Matters | Passed | 0.0 | 1.00 |
 | 2/1/2024 | MLP3480A | OSHA Slips, Trips  Falls | Passed | 0.0 | 1.00 |

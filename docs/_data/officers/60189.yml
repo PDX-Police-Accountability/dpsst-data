@@ -253,6 +253,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 7/12/2024
+  course: PDP0955A
+  title: 2024 FBI Regional Crisis Negotiations Course
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 7/7/2024
   course: PDP1749A
   title: 2024-3 Tips  Techniques Pursuits

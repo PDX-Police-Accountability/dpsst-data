@@ -35,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2024 | PDP1480A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 10/31/2024 | PDP0697A | 2024 NTOA 24th Annual Crisis Negotiations | Passed | 0.0 | 40.00 |
 | 10/16/2024 | PDP0459A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 10/10/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/7/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

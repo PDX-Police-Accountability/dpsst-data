@@ -56,6 +56,7 @@
 | 9/16/2024 | OCS3946A | 24' SWAT/CNT Week- Inc. Review  Intel Scenerio | Passed | 0.0 | 2.00 |
 | 9/16/2024 | OCS4406A | 24' SWAT/CNT Week- Veh. Fam.-Ofc. Down Resc. | Passed | 0.0 | 2.00 |
 | 9/15/2024 | OCS3265A | Crimes Against Children Conference | Passed | 0.0 | 21.25 |
+| 9/15/2024 | OCS3491A | Crimes Against Children Conference | Passed | 0.0 | 21.25 |
 | 9/1/2024 | OCS2693A | De-escalation | Passed | 0.0 | 1.00 |
 | 9/1/2024 | OCS0329A | Efficient Holster speed/marksmanship | Passed | 0.0 | 1.00 |
 | 8/30/2024 | OCS1950A | Balancing Speed  Marksmanship | Passed | 0.0 | 1.00 |

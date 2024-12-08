@@ -49,6 +49,7 @@
 | 10/26/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/26/2024 | PDP1699A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/24/2024 | PDP3632A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
+| 10/4/2024 | PDP2747A | 2024 CMC Rope Rescue Technician I/II | Passed | 0.0 | 32.00 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
 | 9/13/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/13/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |

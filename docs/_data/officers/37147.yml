@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/31/2024
+  course: PDP0697A
+  title: 2024 NTOA 24th Annual Crisis Negotiations
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/24/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

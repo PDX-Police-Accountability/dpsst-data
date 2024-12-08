@@ -105,6 +105,7 @@
 | 12/6/2023 | PDP2274A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
 | 11/15/2023 | PDP0722A | OSFM Fire Code Amendment OFC 2022 | Passed | 0.0 | 8.00 |
 | 11/9/2023 | VND4116A | Traumatic Stress Relief-ASAP | Passed | 0.0 | 32.00 |
+| 11/9/2023 | PDP1792A | 2023 EMDR Traumatic Stress Relief | Passed | 0.0 | 32.00 |
 | 10/31/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/31/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 9/7/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

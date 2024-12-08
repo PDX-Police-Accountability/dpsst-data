@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/5/2024
+  course: MLP2204A
+  title: Night Range/Red Dot
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/30/2024
   course: MLP2840A
   title: Resilience and Stress Management

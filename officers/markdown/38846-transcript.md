@@ -4,7 +4,7 @@
 | name | Morgan, Craig S. |
 | dpsst_identifier | 38846 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/28/2024 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 2/3/2015 | Portland Police Bureau | Return LOA | Lieutenant |  |  |
 | 7/16/2014 | Portland Police Bureau | LOA | Lieutenant |  |  |
 | 7/5/2012 | Portland Police Bureau | Promotion | Lieutenant |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/8/2022 | Police Officer | Management | Granted | 12/8/2022 |  |  |
-| 12/8/2022 | Police Officer | Supervisory | Granted | 12/8/2022 |  |  |
-| 5/3/2001 | Police Officer | Basic | Granted | 5/3/2001 |  |  |
+| 12/8/2022 | Police Officer | Management | Granted | 12/8/2022 | 2/28/2025 |  |
+| 12/8/2022 | Police Officer | Supervisory | Granted | 12/8/2022 | 2/28/2025 |  |
+| 5/3/2001 | Police Officer | Basic | Granted | 5/3/2001 | 2/28/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

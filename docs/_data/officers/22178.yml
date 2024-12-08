@@ -458,6 +458,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 11/9/2023
+  course: PDP1792A
+  title: 2023 EMDR Traumatic Stress Relief
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 10/31/2023
   course: PDP1153A
   title: 2023 Behavioral Health Unit Referrals
