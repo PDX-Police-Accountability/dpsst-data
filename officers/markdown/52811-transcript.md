@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/2/2024 | PDS2776A | Range Qualification | Instructed | 0.0 | 0.50 |
 | 11/2/2024 | PDS4192A | Range Training | Instructed | 0.0 | 3.50 |
+| 10/23/2024 | VND3596A | Collective Bargaining for Public Safety Employees | Passed | 0.0 | 15.00 |
 | 10/11/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/9/2024 | PDS0857A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/3/2024 | PDS0857A | Range Qualification | Instructed | 0.0 | 2.00 |

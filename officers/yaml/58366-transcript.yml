@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/4/2024
+  course: OSH2481A
+  title: Sworn Montly Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/10/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/4/2024
+  course: OSH4140A
+  title: Monthly Sworn Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 8/5/2024
   course: OSH2163A
   title: Sworn Leadership Training

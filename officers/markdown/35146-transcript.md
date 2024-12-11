@@ -40,6 +40,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2024 | GPN1919A | Firearms/Use of Force | Passed | 0.0 | 3.50 |
+| 11/5/2024 | ALN1574A | FVSN - Polygraph Use for DV Offenders | Passed | 0.0 | 2.00 |
+| 11/5/2024 | ALN2843A | FVSN - FARA BIP | Passed | 0.0 | 2.00 |
 | 10/3/2024 | STN2827A | DV Academy Day 4 | Passed | 0.0 | 8.00 |
 | 10/2/2024 | STN2240A | DV Academy Day 3 | Passed | 0.0 | 8.00 |
 | 10/1/2024 | STN3962A | DV Academy Day 2 | Passed | 0.0 | 8.00 |

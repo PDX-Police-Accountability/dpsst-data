@@ -41,11 +41,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 11/4/2024 | OSH2481A | Sworn Montly Leadership Training | Passed | 0.0 | 1.25 |
 | 10/10/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/17/2024 | OSH0441A | Manager Comp. - Public Records Mgmt and Disclosure | Passed | 0.0 | 1.00 |
 | 9/11/2024 | OSH2461A | Characteristics of Culture Module 1 | Passed | 0.0 | 3.00 |
+| 9/4/2024 | OSH4140A | Monthly Sworn Leadership Training | Passed | 0.0 | 1.25 |
 | 8/5/2024 | OSH2163A | Sworn Leadership Training | Passed | 0.0 | 1.50 |
 | 7/1/2024 | OSH1394A | Sworn Leadership Training | Passed | 0.0 | 1.25 |
 | 6/3/2024 | OSH0055A | Sworn Leadership Training | Passed | 0.0 | 2.00 |

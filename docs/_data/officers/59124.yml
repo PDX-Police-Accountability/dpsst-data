@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/19/2024
+  course: BVP2322A
+  title: Takedowns, Ground Control and Vehicle Extractions
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 11/7/2024
   course: BVP1390A
   title: November Range 2024 Pistol 110724

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2024 | BVP2322A | Takedowns, Ground Control and Vehicle Extractions | Passed | 0.0 | 5.50 |
 | 11/12/2024 | BVP1798A | November Range 2024 Pistol Rifle 111224 | Passed | 0.0 | 3.00 |
 | 10/31/2024 | BVP1081A | First Amendment Assemblies Training | Instructed | 0.0 | 0.50 |
 | 10/28/2024 | BVP1864A | First Amendment Assemblies Training | Passed | 0.0 | 0.50 |

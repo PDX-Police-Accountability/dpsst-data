@@ -69,6 +69,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.50'
+- date: 10/23/2024
+  course: VND3596A
+  title: Collective Bargaining for Public Safety Employees
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 10/11/2024
   course: PDS0857A
   title: Range Qualification

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2024 | OSH4406A | Heart and Spirit of Tribal Consultation | Passed | 0.0 | 1.75 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2024 | OSH2753A | Ethics | Passed | 0.0 | 1.00 |
 | 11/7/2024 | OSH3638A | 3rd Trimester Firearms | Instructed | 0.0 | 4.00 |
