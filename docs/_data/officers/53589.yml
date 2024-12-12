@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2024
+  course: OCS2042A
+  title: Equity training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/20/2024
   course: OCS1237A
   title: Use of Cover/Marksmanship

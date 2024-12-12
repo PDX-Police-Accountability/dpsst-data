@@ -38,8 +38,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/6/2024 | MNS0535A | Daylight Qualification | Passed | 0.0 | 2.00 |
 | 12/4/2024 | MNS4507A | Tint Meter Operator Training | Passed | 0.0 | 0.50 |
 | 11/3/2024 | MNS3587A | Emergency Vehicle Operations.Nov.24 | Instructed | 0.0 | 7.00 |
+| 11/2/2024 | MNS4349A | Gas Mask Use and Deployment | Passed | 0.0 | 0.50 |
+| 11/2/2024 | MNS1286A | Mass Casualty Review / Uvalde School Shooting | Passed | 0.0 | 1.50 |
 | 9/15/2024 | MNS1956A | Legal Update September 2024 | Passed | 0.0 | 1.00 |
 | 7/22/2024 | VND2712A | North American Standard Part A Inspection Course | Passed | 0.0 | 40.00 |
 | 7/22/2024 | VND2425A | North American Standard Part B Insp Course | Passed | 0.0 | 40.00 |

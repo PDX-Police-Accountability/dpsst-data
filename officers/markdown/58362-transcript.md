@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2024 | OCS2042A | Equity training | Passed | 0.0 | 3.00 |
 | 11/20/2024 | OCS4266A | Taser | Passed | 0.0 | 1.00 |
 | 11/9/2024 | OCS2625A | RADAR Lidar Operator Course | Instructed | 0.0 | 8.00 |
 | 10/26/2024 | OCS1723A | De-escalation in Scenario | Passed | 0.0 | 1.00 |

@@ -3,12 +3,18 @@ header_record:
   name: Pagan, Carlos E., Jr.
   dpsst_identifier: '38061'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/15/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/2/2018
   agency: Portland Police Bureau
   action: Return LOA
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 4/23/2024
-  expiration_date: ''
+  expiration_date: 2/15/2025
   probation_date: ''
 - status_date: 4/23/2024
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 4/23/2024
-  expiration_date: ''
+  expiration_date: 2/15/2025
   probation_date: ''
 - status_date: 10/5/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 10/5/2000
-  expiration_date: ''
+  expiration_date: 2/15/2025
   probation_date: ''
 training_records:
 - date: 11/21/2024

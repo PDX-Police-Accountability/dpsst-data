@@ -85,8 +85,26 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/2/2024
+  course: MNS4349A
+  title: Gas Mask Use and Deployment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/2/2024
+  course: MNS1286A
+  title: Mass Casualty Review / Uvalde School Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/10/2024
   course: MNS3645A
+  title: Daylight Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/10/2024
+  course: MNS0535A
   title: Daylight Qualification
   status: Passed
   score: '0.0'

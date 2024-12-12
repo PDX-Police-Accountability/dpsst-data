@@ -3,12 +3,18 @@ header_record:
   name: Goss, Ryan W.
   dpsst_identifier: '36267'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/29/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 10/15/2009
   agency: Portland Police Bureau
   action: Promotion

@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/21/2024 | PDP2407A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 22.00 |
 | 11/14/2024 | PDP2683A | 2024 FTEP Orientation | Passed | 0.0 | 5.50 |
 | 11/13/2024 | PDP2853A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 11/1/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |

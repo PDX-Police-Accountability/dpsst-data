@@ -45,7 +45,6 @@
 | 11/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | BBP2076A | Use of Force course #UOFC101 Police One Academy | Passed | 0.0 | 2.00 |
 | 10/9/2024 | BBP2605A | Pistol/rifle qualification and tactical range | Passed | 0.0 | 1.00 |
-| 10/9/2024 | BBP4267A | Pistol/rifle qualification and tactical range | Passed | 0.0 | 1.00 |
 | 10/2/2024 | BBP1969A | 9th Circuit Court Review/Las Vegas Case | Passed | 0.0 | 1.00 |
 | 4/30/2024 | BBP1189A | First Aid/CPR/AED/Chest Seal Application | Passed | 0.0 | 1.50 |
 | 4/30/2024 | BBP3608A | Diabetic Emergencies | Passed | 0.0 | 1.00 |

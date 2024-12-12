@@ -39,6 +39,7 @@
 | 10/5/2024 | PPP0308A | Rapid Response Team Firearms Training | Passed | 0.0 | 4.00 |
 | 8/22/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2024 | PPP1962A | Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
+| 7/30/2024 | PPP1206A | RDS Firearm Training  Certification | Passed | 0.0 | 16.00 |
 | 7/25/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/22/2024 | PDS1760A | Public Order In-Service | Passed | 0.0 | 10.00 |
 | 6/6/2024 | PPP3021A | Low Light Firearms Training | Passed | 0.0 | 4.00 |

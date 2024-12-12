@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/3/2024
+  course: PDP3226A
+  title: 2024 EAP Separation Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/26/2024
   course: PDP1215A
   title: 2024-9 CAO Legal Updates for 09/2024

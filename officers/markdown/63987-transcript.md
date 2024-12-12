@@ -20,10 +20,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/16/2023 | Police Officer | Basic | ReqCertExt |  |  | 9/16/2025 |
+| 12/10/2024 | Police Officer | Basic | App Recd |  |  | 9/16/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 10/8/2024 |  |
 | Code of Ethics | Law Enforcement Signed | 8/14/2023 |  |
 | Certification Cards | First Aid and CPR | 8/7/2023 | 8/7/2025 |
 ## Education
@@ -32,7 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/16/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/5/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 9/23/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/3/2024 | PDP0514A | 2021-3 TT Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 9/3/2024 | PDP3307A | 2021 CAO Ballot Measure 110 documents | Passed | 0.0 | 1.00 |

@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2024
+  course: HBN2855A
+  title: Search and Seizure - Legal and Safe
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/31/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

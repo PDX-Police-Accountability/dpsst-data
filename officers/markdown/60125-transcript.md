@@ -4,7 +4,7 @@
 | name | Suboh, Fahmy J. |
 | dpsst_identifier | 60125 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 12/6/2024 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
+| 12/3/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 8/22/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2024
+  course: PDP2407A
+  title: 2024 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '22.00'
 - date: 10/14/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp

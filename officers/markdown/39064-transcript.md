@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/25/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 12/1/2024 | TDP3228A | Use of Less Lethal Force 2024 | Passed | 0.0 | 1.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2024 | TDP0715A | Criminal Process for digital evidence | Passed | 0.0 | 2.00 |
 | 11/6/2024 | TDP3953A | Low Light Firearms Qualification and Training | Passed | 0.0 | 4.00 |

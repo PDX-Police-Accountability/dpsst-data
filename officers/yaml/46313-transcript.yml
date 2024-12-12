@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/11/2024
+  course: PPP4423A
+  title: RDS Firearm Training  Certification
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/6/2024
   course: PPP3021A
   title: Low Light Firearms Training

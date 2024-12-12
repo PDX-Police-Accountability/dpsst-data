@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/6/2024
+  course: VND3579A
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/23/2024
   course: VND4387A
   title: Directors Message_Code of Conduct

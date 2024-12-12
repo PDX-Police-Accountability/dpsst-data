@@ -63,6 +63,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/3/2024
+  course: PDP3226A
+  title: 2024 EAP Separation Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

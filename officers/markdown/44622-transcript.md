@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2024 | OSH4207A | Patrol Tactics Survival Skills | Instructed | 0.0 | 4.00 |
+| 12/6/2024 | OSH0088A | Patrol Tactics Survival Skills | Instructed | 0.0 | 4.00 |
+| 12/1/2024 | OSH0162A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/24/2024 | OSH0855A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/23/2024 | OSH2456A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/22/2024 | OSH0582A | Patrol Tactics- Survival Skills | Instructed | 0.0 | 8.00 |
