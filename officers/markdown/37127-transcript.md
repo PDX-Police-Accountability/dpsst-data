@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2024 | PDA3796A | Use of Force Policy Review | Passed | 0.0 | 1.00 |
 | 10/25/2024 | SAG1699A | OR DOJ Elder Abuse Conference | Passed | 0.0 | 10.50 |
 | 9/19/2024 | SAG2720A | Financial Crimes  Digital Evidence Conference | Passed | 0.0 | 14.00 |
 | 9/18/2024 | SAG3119A | FCDE - Ethical Considerations in Fraud Invest. | Passed | 0.0 | 1.00 |

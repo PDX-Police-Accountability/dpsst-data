@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | HBS3258A | IMT Training - December | Passed | 0.0 | 8.00 |
 | 12/1/2024 | HBS1371A | Nov. Virtual Session #2 General | Passed | 0.0 | 2.25 |
 | 12/1/2024 | HBS1382A | Nov. Virtual Session #2 Mental Health | Passed | 0.0 | 2.00 |
 | 12/1/2024 | HBS2701A | November Virtual Session #2 Use of Force | Passed | 0.0 | 4.50 |

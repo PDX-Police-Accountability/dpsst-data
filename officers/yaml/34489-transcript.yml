@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/6/2024
+  course: OCS2893A
+  title: FARO Scanner Certification
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
 - date: 11/27/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

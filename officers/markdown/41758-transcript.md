@@ -108,6 +108,7 @@
 | 9/25/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/25/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/25/2023 | PDP4163A | 2023-3 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
+| 9/21/2023 | PDP1286A | 2023 SERT/CNT/CIC Camp Rilea Training | Passed | 0.0 | 28.00 |
 | 9/14/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 9/14/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 9/14/2023 | PDP4082A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |

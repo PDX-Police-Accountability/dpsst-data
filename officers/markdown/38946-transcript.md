@@ -99,6 +99,7 @@
 | 9/26/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 9/22/2023 | PDP4501A | 2023 SERT/CNT/CIC Camp Rilea Training | Passed | 0.0 | 12.00 |
+| 9/21/2023 | PDP1286A | 2023 SERT/CNT/CIC Camp Rilea Training | Passed | 0.0 | 28.00 |
 | 9/7/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 9/7/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 9/7/2023 | PDP4082A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |

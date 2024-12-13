@@ -20,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/17/2024 | Police Officer | Basic | App Incmpl |  | 12/17/2024 |  |
+| 12/11/2024 | Police Officer | Basic | App InProc |  |  |  |
 | 5/1/2024 | Police Officer | Basic | Required |  |  | 11/1/2025 |
 | 1/30/2020 | Police Officer | Advanced | Lapsed | 10/28/1999 |  |  |
 | 1/30/2020 | Police Officer | Basic | Lapsed | 5/21/1991 |  |  |
@@ -39,7 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/1/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/6/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 0.00 |
 | 11/16/2024 | F1540385 | OC Spray Training | Passed | 0.0 | 1.00 |
 | 11/16/2024 | F1523037 | Baton Training | Passed | 0.0 | 1.00 |
 | 11/16/2024 | F1515291 | Firearms Training/Certification | Passed | 0.0 | 4.00 |

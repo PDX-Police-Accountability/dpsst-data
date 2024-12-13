@@ -314,6 +314,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/12/2024
+  course: PDP1289A
+  title: Oregon Tactical Officers Association- Basic SWAT
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/5/2024
   course: PDP1749A
   title: 2024-3 Tips  Techniques Pursuits

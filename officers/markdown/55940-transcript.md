@@ -58,6 +58,7 @@
 | 9/8/2024 | PDP2119A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 9/8/2024 | PDP3193A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 9/8/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 9/6/2024 | PDP1416A | Oregon Tactical Officers Association- Basic Sniper | Instructed | 0.0 | 40.00 |
 | 8/29/2024 | PDP1959A | 2024 SERT Training - Scenario | Passed | 0.0 | 5.00 |
 | 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/26/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |

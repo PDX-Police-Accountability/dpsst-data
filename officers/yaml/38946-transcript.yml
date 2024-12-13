@@ -431,6 +431,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '12.00'
+- date: 9/21/2023
+  course: PDP1286A
+  title: 2023 SERT/CNT/CIC Camp Rilea Training
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 9/7/2023
   course: PDP0822A
   title: 2023-2 All Sworn In-Service BWC Policy

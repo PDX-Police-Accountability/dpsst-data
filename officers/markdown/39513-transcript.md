@@ -79,6 +79,7 @@
 | 7/17/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/17/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/16/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 7/12/2024 | PDP1289A | Oregon Tactical Officers Association- Basic SWAT | Instructed | 0.0 | 40.00 |
 | 7/5/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 7/3/2024 | PDP1223A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/27/2024 | PDP1257A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |

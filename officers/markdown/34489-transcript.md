@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2024 | OCS2893A | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/21/2024 | OCS2042A | Equity training | Passed | 0.0 | 3.00 |
 | 11/20/2024 | OCS1237A | Use of Cover/Marksmanship | Passed | 0.0 | 1.00 |

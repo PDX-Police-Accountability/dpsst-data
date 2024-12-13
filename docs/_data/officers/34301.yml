@@ -73,6 +73,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/6/2024
+  course: VND0860A
+  title: PREA The Law and Your Role  v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/6/2024
+  course: VND1761A
+  title: Protection from Ambient Heat v2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/5/2024
+  course: VND1394A
+  title: DOC - The GUARD1 System v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/5/2024
+  course: VND2898A
+  title: Risk - Vehicle Use and Access
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/5/2024
+  course: VND2839A
+  title: Utilizing WEX Fuel Card for State Vehicle v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/23/2024
   course: VND4387A
   title: Directors Message_Code of Conduct

@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/19/2024 | F1512992 | Ethical Considerations for Asset For. | Passed | 0.0 | 1.00 |
+| 11/8/2024 | PDA3796A | Use of Force Policy Review | Passed | 0.0 | 1.00 |
 | 7/12/2024 | PDA4179A | Basic Handgun Skills  Qualification | Passed | 0.0 | 4.00 |
 | 5/20/2024 | VND3182A | Infant  Child Death Investigations | Passed | 0.0 | 7.00 |
 | 5/6/2024 | PDA0456A | Prosecutor Database Training | Passed | 0.0 | 11.00 |

@@ -43,6 +43,7 @@
 | 9/12/2024 | PDP3286A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 9/10/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/10/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/6/2024 | PDP1416A | Oregon Tactical Officers Association- Basic Sniper | Passed | 0.0 | 40.00 |
 | 8/29/2024 | PDP1959A | 2024 SERT Training - Scenario | Passed | 0.0 | 5.00 |
 | 8/15/2024 | PDP2736A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 8/1/2024 | PDP3125A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

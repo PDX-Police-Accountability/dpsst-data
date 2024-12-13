@@ -164,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/6/2024
+  course: PDP1416A
+  title: Oregon Tactical Officers Association- Basic Sniper
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 8/29/2024
   course: PDP1959A
   title: 2024 SERT Training - Scenario

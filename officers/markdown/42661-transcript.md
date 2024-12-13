@@ -99,6 +99,7 @@
 | 11/14/2023 | PDP2912A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 11/14/2023 | PDP3565A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.50 |
 | 9/22/2023 | PDP4501A | 2023 SERT/CNT/CIC Camp Rilea Training | Passed | 0.0 | 12.00 |
+| 9/21/2023 | PDP1286A | 2023 SERT/CNT/CIC Camp Rilea Training | Passed | 0.0 | 20.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/21/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/7/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |

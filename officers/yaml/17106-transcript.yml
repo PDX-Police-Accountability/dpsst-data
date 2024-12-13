@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/8/2024
+  course: PDA3796A
+  title: Use of Force Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/12/2024
   course: PDA4179A
   title: Basic Handgun Skills  Qualification

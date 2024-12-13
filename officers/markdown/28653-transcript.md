@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2024 | PDA3796A | Use of Force Policy Review | Passed | 0.0 | 1.00 |
 | 9/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/26/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 8/21/2024 | F1533104 | Finding Financial Balace in Retirement | Passed | 0.0 | 1.00 |

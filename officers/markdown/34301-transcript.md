@@ -40,6 +40,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/6/2024 | VND3579A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 11/6/2024 | VND0860A | PREA The Law and Your Role  v2024 | Passed | 0.0 | 1.00 |
+| 11/6/2024 | VND1761A | Protection from Ambient Heat v2024 | Passed | 0.0 | 0.50 |
+| 11/5/2024 | VND1394A | DOC - The GUARD1 System v2023 | Passed | 0.0 | 0.50 |
+| 11/5/2024 | VND2898A | Risk - Vehicle Use and Access | Passed | 0.0 | 0.50 |
+| 11/5/2024 | VND2839A | Utilizing WEX Fuel Card for State Vehicle v2024 | Passed | 0.0 | 1.00 |
 | 10/23/2024 | VND4387A | Directors Message_Code of Conduct | Passed | 0.0 | 0.00 |
 | 5/16/2024 | TRN0292A | TruNarc External Training | Passed | 0.0 | 2.00 |
 | 4/12/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
