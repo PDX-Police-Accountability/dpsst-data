@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | TGP2444A | Balance Between Duty of Care and Use of Force | Passed | 0.0 | 1.25 |
+| 12/11/2024 | TGP1927A | Use of Force Current Trends | Passed | 0.0 | 1.25 |
 | 11/15/2024 | VND2374A | Tragedy At Sandy Hook-Lessons Learned | Passed | 0.0 | 4.00 |
 | 11/14/2024 | VND3515A | The Bullet Proof Mind | Passed | 0.0 | 8.00 |
 | 11/13/2024 | VND4067A | Sometimes Heroes Need Held | Passed | 0.0 | 4.00 |

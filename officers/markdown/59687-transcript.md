@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | ALP2378A | Interview and Interrogations | Passed | 0.0 | 24.00 |
 | 11/13/2024 | WLP4174A | Children's Center 101 / Karly's Law | Passed | 0.0 | 1.50 |
 | 11/13/2024 | WLP2326A | Taser Recertification | Passed | 0.0 | 2.00 |
 | 10/30/2024 | VND2051A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | TAP3727A | OLCC informational | Passed | 0.0 | 1.00 |
+| 12/11/2024 | TAP1320A | Staff Meeting General Topics | Passed | 0.0 | 2.00 |
 | 11/15/2024 | ADP0220A | Night Pistol and Shotgun | Passed | 0.0 | 4.00 |
 | 10/30/2024 | TAP0790A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
 | 10/18/2024 | ADP2035A | TASER 10 Certification | Instructed | 0.0 | 6.00 |

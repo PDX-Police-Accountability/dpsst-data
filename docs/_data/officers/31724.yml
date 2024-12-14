@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2024
+  course: BNS1728A
+  title: Skid Car
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/23/2024
   course: BNS0305A
   title: 40MM

@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2024
+  course: SDP3551A
+  title: Intro to OSHA and Leadership
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

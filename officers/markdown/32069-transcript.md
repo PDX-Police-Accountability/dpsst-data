@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2024 | SDP3551A | Intro to OSHA and Leadership | Passed | 0.0 | 2.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | SDP2785A | Ethics Training | Passed | 0.0 | 1.00 |
 | 11/1/2024 | SDP4124A | Equity - Changing Perspectives COPS Training | Passed | 0.0 | 1.00 |

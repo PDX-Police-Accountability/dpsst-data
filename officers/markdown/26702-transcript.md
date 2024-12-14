@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2024 | HBP1017A | LEDS Recertification or Initial Inquiry | Passed | 0.0 | 1.00 |
 | 9/2/2024 | HBP2227A | PoliceOne Crisis Intervent. w/Mentally Ill Sub. | Passed | 0.0 | 2.00 |
 | 8/7/2024 | HBP1605A | ACAP - Airways Training | Passed | 0.0 | 2.00 |
 | 6/30/2024 | HBP4110A | Respectful Workplace - Employee Training | Passed | 0.0 | 1.00 |

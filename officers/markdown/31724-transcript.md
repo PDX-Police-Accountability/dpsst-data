@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2024 | BNS1728A | Skid Car | Passed | 0.0 | 0.50 |
 | 9/23/2024 | BNS0305A | 40MM | Passed | 0.0 | 1.00 |
 | 9/23/2024 | BNS0390A | Use Of Force update | Passed | 0.0 | 1.00 |
 | 9/23/2024 | BNS2636A | Low Light Firearms | Passed | 0.0 | 2.00 |

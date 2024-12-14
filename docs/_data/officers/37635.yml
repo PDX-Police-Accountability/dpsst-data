@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/9/2024
+  course: EGP2932A
+  title: 'Belonging Module 4: Leading for Equity'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

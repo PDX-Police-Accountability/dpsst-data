@@ -55,12 +55,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2024
+  course: HBP2369A
+  title: ODT - Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/30/2024
   course: HBP4497A
   title: 'Use of Force In-service Wrap-up: Case Law'
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/30/2024
+  course: HBP1017A
+  title: LEDS Recertification or Initial Inquiry
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/23/2024
   course: HBP0889A
   title: Mobile Field Force (MFF) Training

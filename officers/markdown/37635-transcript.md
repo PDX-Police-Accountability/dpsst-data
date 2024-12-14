@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2024 | EGP2932A | Belonging Module 4: Leading for Equity | Passed | 0.0 | 4.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2024 | EGP4265A | Ethics | Passed | 0.0 | 1.50 |
 | 10/10/2024 | EGP3595A | Deflection | Passed | 0.0 | 1.00 |

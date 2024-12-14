@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2024
+  course: ALP2378A
+  title: Interview and Interrogations
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/25/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental

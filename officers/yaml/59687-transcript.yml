@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2024
+  course: ALP2378A
+  title: Interview and Interrogations
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 11/13/2024
   course: WLP4174A
   title: Children's Center 101 / Karly's Law
