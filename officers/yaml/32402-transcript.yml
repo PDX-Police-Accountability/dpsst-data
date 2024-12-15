@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/20/2024
+  course: HBS3592A
+  title: Elder Abuse Symposium
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 11/1/2024
   course: HBS2393A
   title: 'October Virtual Session #2 Mental Health'

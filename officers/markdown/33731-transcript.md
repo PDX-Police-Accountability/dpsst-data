@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | PDN3640A | Addressing Implicit Bias | Passed | 0.0 | 3.00 |
+| 12/1/2024 | PDN3653A | Bloodborne Pathogen Awareness | Passed | 0.0 | 1.00 |
 | 11/19/2024 | PDN2162A | Confrontational Simulation- Tactical Medicine | Passed | 0.0 | 2.00 |
 | 9/16/2024 | PDN4037A | Parole Board DOC Roadshow | Passed | 0.0 | 4.00 |
 | 8/14/2024 | PDN2967A | Field Applications-Basic Office Safety | Passed | 0.0 | 1.00 |

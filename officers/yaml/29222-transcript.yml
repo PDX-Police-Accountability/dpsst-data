@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2024
+  course: MISCMAIN
+  title: 2024 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/11/2024
   course: GSP2088A
   title: 2024 Mental Health In Service
@@ -87,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/15/2024
+  course: GSP1452A
+  title: Crimes Against Children Conference
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 7/31/2024
   course: GSP0912A
   title: Intro Ext Verifiable Info in Forensic Interview
@@ -105,6 +117,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.50'
+- date: 6/7/2024
+  course: GSP2243A
+  title: Developing Combative Speed and Accuracy
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/10/2024
   course: GSP1531A
   title: Washington Homicide Investigators Association 2024
@@ -171,6 +189,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 2/7/2024
+  course: GSP0535A
+  title: Minimal Facts Gathering
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/6/2024
   course: GSP0590A
   title: The language of Lies
@@ -2691,6 +2715,10 @@ attribute_records:
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 1/1/1950
@@ -2701,7 +2729,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/11/2000

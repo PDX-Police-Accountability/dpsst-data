@@ -28,9 +28,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,12 +42,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2024 | GSP2088A | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
+| 8/15/2024 | GSP1452A | Crimes Against Children Conference | Passed | 0.0 | 30.00 |
 | 7/31/2024 | GSP0912A | Intro Ext Verifiable Info in Forensic Interview | Passed | 0.0 | 1.50 |
 | 7/17/2024 | GSP4457A | Responding to an Unexplained Child Death | Passed | 0.0 | 7.00 |
 | 6/27/2024 | GSP2234A | Inside the Tape-Homicide Investigations | Passed | 0.0 | 18.50 |
+| 6/7/2024 | GSP2243A | Developing Combative Speed and Accuracy | Passed | 0.0 | 40.00 |
 | 5/10/2024 | GSP1531A | Washington Homicide Investigators Association 2024 | Passed | 0.0 | 20.00 |
 | 5/2/2024 | GSP0672A | Finding the Leader in You | Passed | 0.0 | 5.00 |
 | 4/16/2024 | GSP1655A | Handgun In-InService | Instructed | 0.0 | 10.00 |
@@ -58,6 +62,7 @@
 | 2/29/2024 | GSP4081A | Firearms | Passed | 0.0 | 20.00 |
 | 2/21/2024 | GSP0453A | Priming: How Available Info Leads to Undesireable. | Passed | 0.0 | 1.50 |
 | 2/12/2024 | GSP3107A | Survival Skills | Passed | 0.0 | 10.00 |
+| 2/7/2024 | GSP0535A | Minimal Facts Gathering | Passed | 0.0 | 1.50 |
 | 2/6/2024 | GSP0590A | The language of Lies | Passed | 0.0 | 3.00 |
 | 1/23/2024 | GSP1591A | The Ready Responder | Passed | 0.0 | 1.25 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

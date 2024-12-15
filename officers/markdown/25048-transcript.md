@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | AVP2471A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 11/13/2024 | F6R3273A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 9/24/2024 | SAG0905A | Firearms training | Passed | 0.0 | 2.00 |
 | 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |

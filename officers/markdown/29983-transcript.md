@@ -20,16 +20,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/31/2024 | Police Officer | Advanced | App Recd |  | 6/5/2029 |  |
-| 10/31/2024 | Police Officer | Basic | App Recd |  | 6/5/2029 |  |
-| 10/31/2024 | Police Officer | Intermediate | App Recd |  | 6/5/2029 |  |
-| 10/31/2024 | Police Officer | Management | App Recd |  | 6/5/2029 |  |
-| 10/31/2024 | Police Officer | Supervisory | App Recd |  | 6/5/2029 |  |
-| 9/5/2024 | Police Officer | Advanced | Lapsed | 3/14/2005 |  |  |
-| 9/5/2024 | Police Officer | Basic | Lapsed | 7/26/1995 |  |  |
-| 9/5/2024 | Police Officer | Intermediate | Lapsed | 7/12/2000 |  |  |
-| 9/5/2024 | Police Officer | Management | Lapsed | 2/8/2024 |  |  |
-| 9/5/2024 | Police Officer | Supervisory | Lapsed | 9/23/2011 |  |  |
+| 12/13/2024 | Police Officer | Advanced | Reactivatd | 3/14/2005 |  |  |
+| 12/13/2024 | Police Officer | Basic | Reactivatd | 7/26/1995 |  |  |
+| 12/13/2024 | Police Officer | Intermediate | Reactivatd | 7/12/2000 |  |  |
+| 12/13/2024 | Police Officer | Management | Reactivatd | 2/8/2024 |  |  |
+| 12/13/2024 | Police Officer | Supervisory | Reactivatd | 9/23/2011 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

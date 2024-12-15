@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2024 | F1505534 | Ethical Considerations for Asset Forf. | Passed | 0.0 | 1.00 |
+| 12/12/2024 | F1514176 | Human Performance Considerations | Passed | 0.0 | 3.00 |
+| 11/22/2024 | F1515024 | DA/MCSO Use of Force Policy Review | Passed | 0.0 | 1.00 |
+| 11/22/2024 | F1510653 | Firearms Qualification - PPB | Passed | 0.0 | 1.00 |
 | 11/8/2024 | PDA3796A | Use of Force Policy Review | Passed | 0.0 | 1.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 7/24/2024 | F1520194 | Crisis Intervention: Focused Response | Passed | 0.0 | 1.00 |

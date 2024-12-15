@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2024 | HBS3592A | Elder Abuse Symposium | Passed | 0.0 | 4.50 |
 | 10/30/2024 | HBP4497A | Use of Force In-service Wrap-up: Case Law | Passed | 0.0 | 0.50 |
 | 10/30/2024 | HBP1017A | LEDS Recertification or Initial Inquiry | Passed | 0.0 | 1.00 |
 | 10/23/2024 | HBP0889A | Mobile Field Force (MFF) Training | Passed | 0.0 | 4.00 |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2024
+  course: OSH1816A
+  title: ARIDE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/31/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

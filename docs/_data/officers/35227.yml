@@ -56,6 +56,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2024
+  course: F1505534
+  title: Ethical Considerations for Asset Forf.
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2024
+  course: F1514176
+  title: Human Performance Considerations
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/22/2024
+  course: F1515024
+  title: DA/MCSO Use of Force Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/22/2024
+  course: F1510653
+  title: Firearms Qualification - PPB
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/8/2024
   course: PDA3796A
   title: Use of Force Policy Review

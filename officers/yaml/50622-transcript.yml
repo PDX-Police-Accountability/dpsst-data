@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2024
+  course: OCP1448A
+  title: Domestic Violence Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 12/4/2024
   course: OCP2587A
   title: Basic Rifle Course
