@@ -111,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/27/2024
+  course: PDP0479A
+  title: CNOA Narcotic  Specialized Unit Supervisor Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/5/2024
   course: PDP1882A
   title: School Emergency Actions

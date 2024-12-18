@@ -46,6 +46,7 @@
 | 11/12/2024 | VND0127A | Understand Equity in a LE Environment | Passed | 0.0 | 4.00 |
 | 11/11/2024 | FGP2136A | Fall Range Qualification/Drills | Passed | 0.0 | 10.00 |
 | 11/7/2024 | FGP1810A | Ethics and Professionalism in LE refresher | Passed | 0.0 | 1.00 |
+| 11/1/2024 | FGP0643A | Ethics  Professionalism in Law Enforcement | Passed | 0.0 | 1.00 |
 | 9/11/2024 | FGP0396A | DV Offender Risk Form Training | Passed | 0.0 | 1.00 |
 | 9/9/2024 | FGP3665A | WC Deflection Program Training | Passed | 0.0 | 1.00 |
 | 6/15/2024 | FGP0050A | 2024 Legal Update | Passed | 0.0 | 1.00 |

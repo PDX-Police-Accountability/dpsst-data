@@ -47,6 +47,7 @@
 | 11/12/2024 | VND0127A | Understand Equity in a LE Environment | Passed | 0.0 | 4.00 |
 | 11/11/2024 | FGP2136A | Fall Range Qualification/Drills | Passed | 0.0 | 10.00 |
 | 11/7/2024 | FGP1810A | Ethics and Professionalism in LE refresher | Passed | 0.0 | 1.00 |
+| 11/1/2024 | FGP0643A | Ethics  Professionalism in Law Enforcement | Passed | 0.0 | 1.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/30/2024 | HBA2384A | Building Bridges Summit | Passed | 0.0 | 5.00 |
 | 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |

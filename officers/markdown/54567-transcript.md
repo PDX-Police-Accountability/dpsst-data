@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | HBS0216A | Less Lethal Impact Munitions Instructor Program | Passed | 0.0 | 8.00 |
 | 11/19/2024 | MLP0654A | DV Investigations w/ CC DA | Passed | 0.0 | 3.00 |
 | 11/5/2024 | MLP2204A | Night Range/Red Dot | Instructed | 0.0 | 3.00 |
 | 8/30/2024 | MLP2840A | Resilience and Stress Management | Passed | 0.0 | 1.00 |

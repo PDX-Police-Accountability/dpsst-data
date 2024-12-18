@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2024
+  course: PPP3270A
+  title: RDS Firearm Training  Qual
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/15/2024
   course: PDS1549A
   title: Mobile Field Force

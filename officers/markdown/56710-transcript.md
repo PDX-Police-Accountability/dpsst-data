@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | SDP0597A | Use of Force Report Training | Passed | 0.0 | 1.00 |
+| 12/11/2024 | SDP1863A | Vehicle Extractions | Passed | 0.0 | 1.00 |
+| 12/11/2024 | SDP3938A | DT's Control Grounded Subject | Passed | 0.0 | 2.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | SDP2785A | Ethics Training | Passed | 0.0 | 1.00 |
 | 10/17/2024 | SDP2977A | Defensive Tactics - C4C | Passed | 0.0 | 1.00 |

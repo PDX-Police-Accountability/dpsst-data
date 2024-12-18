@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2024 | PPP3270A | RDS Firearm Training  Qual | Passed | 0.0 | 16.00 |
 | 9/15/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 8/15/2024 | PPP2947A | Gasmask Fit Test | Passed | 0.0 | 0.30 |
 | 8/11/2024 | PPP1570A | Anti-Bias Training for LE | Passed | 0.0 | 1.00 |

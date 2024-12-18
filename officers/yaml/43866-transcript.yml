@@ -135,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/27/2024
+  course: PDP0248A
+  title: SWAT Command Decision Making  Leadership I
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/26/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental

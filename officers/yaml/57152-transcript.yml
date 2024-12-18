@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 9/19/2024
+  course: PDP1203A
+  title: Financial Crimes and Digital Evidence Conference
+  status: Passed
+  score: '0.0'
+  hours: '15.50'
 - date: 9/18/2024
   course: SAG3119A
   title: FCDE - Ethical Considerations in Fraud Invest.

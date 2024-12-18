@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/1/2024
+  course: FGP0643A
+  title: Ethics  Professionalism in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/31/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

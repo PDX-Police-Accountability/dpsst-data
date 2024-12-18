@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2024
+  course: SDP0597A
+  title: Use of Force Report Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2024
+  course: SDP1863A
+  title: Vehicle Extractions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2024
+  course: SDP3938A
+  title: DT's Control Grounded Subject
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/10/2024
   course: SDP3551A
   title: Intro to OSHA and Leadership

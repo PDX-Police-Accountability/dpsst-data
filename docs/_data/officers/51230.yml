@@ -818,6 +818,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/20/2023
+  course: PDP2558A
+  title: MMBTH Breacher Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/4/2023
   course: PDP2223A
   title: 2023 SERT Training - SCENARIO

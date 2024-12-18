@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/15/2024
+  course: BNS1703A
+  title: Skid Car
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/23/2024
   course: BNS0305A
   title: 40MM

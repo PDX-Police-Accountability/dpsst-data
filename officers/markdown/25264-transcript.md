@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | HBS0216A | Less Lethal Impact Munitions Instructor Program | Passed | 0.0 | 8.00 |
 | 11/27/2024 | PDS3621A | Yoga Mat Class Breath Control | Passed | 0.0 | 1.00 |
 | 11/26/2024 | PDS2940A | Taser | Instructed | 0.0 | 8.00 |
 | 11/25/2024 | PDS3626A | Yoga Mat Class Foundations | Passed | 0.0 | 1.00 |

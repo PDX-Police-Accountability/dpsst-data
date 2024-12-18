@@ -165,6 +165,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/11/2024
+  course: PDP4164A
+  title: All-Hazards Incident Mgmnt Unified Command MGT-314
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 10/3/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp

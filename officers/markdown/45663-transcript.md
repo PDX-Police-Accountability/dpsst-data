@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/26/2024 | SAG0750A | Firearms training | Passed | 0.0 | 3.00 |
 | 10/16/2024 | MISCMAIN | 2024 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/13/2024 | BNS1087A | Spyder Forensics: Host Based Network Forensics | Passed | 0.0 | 40.00 |
 | 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
