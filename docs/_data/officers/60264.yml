@@ -42,12 +42,6 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 12/10/2025
-  course: REQAPP
-  title: 'REQUIRED TRAINING: Armed Parole and Probation'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 10/7/2024
   course: 24-0005
   title: DPSST Basic Parole and Probation

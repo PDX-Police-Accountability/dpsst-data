@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/14/2024
+  course: OCS4097A
+  title: Active Shooter Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/13/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance
