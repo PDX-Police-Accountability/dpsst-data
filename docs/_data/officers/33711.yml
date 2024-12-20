@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/21/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/15/2024
   course: PDP1215A
   title: 2024-9 CAO Legal Updates for 09/2024
@@ -182,6 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/10/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/21/2024
   course: PDP2151A
   title: 2024 Investigator In-Service Case Study

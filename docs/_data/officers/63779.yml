@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/2/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/19/2024
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

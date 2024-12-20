@@ -69,6 +69,7 @@
 | 6/28/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/28/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
+| 6/24/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 6/19/2024 | PDP1702A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 6/3/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/3/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

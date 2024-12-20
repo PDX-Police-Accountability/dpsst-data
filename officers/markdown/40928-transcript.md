@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Instructed | 0.0 | 9.00 |
+| 11/21/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 11/21/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 11/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/1/2024 | PDP4267A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 7.00 |
 | 11/1/2024 | PDP4267A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 7.00 |
 | 10/21/2024 | PDP1082A | 2024 Supervisor In-Service Force Inspector Updates | Passed | 0.0 | 1.00 |
@@ -76,6 +81,7 @@
 | 7/1/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/24/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
+| 6/24/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/8/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/8/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |

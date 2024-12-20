@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/26/2024 | PDP3377A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 11/26/2024 | PDP1989A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
@@ -50,6 +51,11 @@
 | 11/25/2024 | PDP1877A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 11/25/2024 | PDP0651A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 11/25/2024 | PDP0318A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 11/18/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 11/18/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 11/18/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 11/18/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 11/18/2024 | PDP0320A | 2024-3 Range Qualification Secondary Firearm 50 Rd | Passed | 0.0 | 0.50 |
 | 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/31/2024 | PDP3987A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 10/18/2024 | PDP1527A | 2024 Supervisor In-Service BHR | Passed | 0.0 | 1.00 |
@@ -74,6 +80,8 @@
 | 10/8/2024 | PDP2742A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 10/6/2024 | PDP4196A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
+| 9/12/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 9/12/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/11/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
 | 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 7/25/2024 | PDP3854A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 36.00 |
@@ -105,6 +113,7 @@
 | 2/3/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 2/3/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/3/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
+| 2/3/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 2/1/2024 | PDP3116A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/25/2024 | PDP2633A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/18/2024 | PDP1800A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |

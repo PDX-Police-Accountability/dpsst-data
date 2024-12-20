@@ -134,6 +134,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/30/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/19/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024
@@ -257,6 +269,12 @@ training_records:
 - date: 5/17/2024
   course: PDP2311A
   title: 2024-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/17/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
   status: Passed
   score: '0.0'
   hours: '0.50'

@@ -56,6 +56,30 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/4/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/4/2024
+  course: PDP2956A
+  title: 2024-3 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2024
+  course: PDP1762A
+  title: 2024-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/29/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

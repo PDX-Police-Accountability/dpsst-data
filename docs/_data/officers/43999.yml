@@ -123,6 +123,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/17/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2024
+  course: PDP3296A
+  title: 2024-3 Range Qualification Secondary Firearm 25 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/2/2024
   course: PDP1634A
   title: 2024-3 All Sworn In-Service ABLE (CIT)
@@ -201,6 +225,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/19/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/16/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

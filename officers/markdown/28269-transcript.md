@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | BNP4243A | Ethics for Law Enforcement | Passed | 0.0 | 3.00 |
 | 11/13/2024 | BNP0221A | Mental Health- COPLINE | Passed | 0.0 | 0.50 |
 | 11/13/2024 | BNP1602A | ADL- Inclusive Policing | Passed | 0.0 | 3.00 |
 | 11/13/2024 | BNP0569A | Low Light Firearms / Qualifications | Passed | 0.0 | 3.00 |

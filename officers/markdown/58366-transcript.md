@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 12/17/2024 | OSH4355A | Manager Comp.-Lean Six Sigma-Process Improvement | Passed | 0.0 | 1.00 |
 | 11/4/2024 | OSH2481A | Sworn Montly Leadership Training | Passed | 0.0 | 1.25 |
 | 10/10/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |

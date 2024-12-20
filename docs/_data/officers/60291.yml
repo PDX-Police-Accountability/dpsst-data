@@ -28,10 +28,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/1/2024
+- status_date: 12/17/2024
   certificate: Police Officer
   level: Basic
-  status: Lapsed-UR
+  status: REVOKED
   certificate_date: 3/11/2021
   expiration_date: 5/1/2029
   probation_date: ''

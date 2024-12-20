@@ -38,6 +38,7 @@
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | PDP2776A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 11/20/2024 | PDP2776A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 11/14/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/13/2024 | PDP3865A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/6/2024 | PDP1320A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 11/6/2024 | PDP1320A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

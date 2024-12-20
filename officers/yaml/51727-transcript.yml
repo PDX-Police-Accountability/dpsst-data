@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/13/2024
+  course: PDP0679A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/29/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates
@@ -188,6 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/2/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/24/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

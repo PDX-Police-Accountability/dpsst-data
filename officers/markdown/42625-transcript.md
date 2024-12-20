@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/19/2024 | HSU3080A | Fall In-Service 2024 Defensive Tactics | Instructed | 0.0 | 5.00 |
 | 10/13/2024 | HSU3080A | Fall In-Service 2024 Defensive Tactics | Instructed | 0.0 | 5.00 |
 | 10/2/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |

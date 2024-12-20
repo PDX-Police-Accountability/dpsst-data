@@ -47,6 +47,8 @@
 | 9/25/2024 | PDP2126A | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.08 |
 | 9/25/2024 | PDP4497A | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
 | 9/25/2024 | PDP0470A | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
+| 9/10/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 9/10/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/5/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/4/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
 | 8/20/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

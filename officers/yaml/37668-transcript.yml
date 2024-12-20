@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/18/2024
+  agency: DPSST Use Only
+  action: InstrApp
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 2/3/2022
   agency: Portland Police Bureau
   action: Promotion
@@ -107,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2024
+  course: PDP3797A
+  title: 2024 SERT Camp Rilea Training
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 12/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -218,6 +230,18 @@ training_records:
 - date: 10/8/2024
   course: PDP1215A
   title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2024
+  course: PDP0320A
+  title: 2024-3 Range Qualification Secondary Firearm 50 Rd
   status: Passed
   score: '0.0'
   hours: '0.50'

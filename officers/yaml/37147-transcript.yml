@@ -98,6 +98,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/21/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/21/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/21/2024
+  course: PDP0320A
+  title: 2024-3 Range Qualification Secondary Firearm 50 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/16/2024
   course: PDP0459A
   title: 2024 CNT Crisis Negotiation Team Annual Training

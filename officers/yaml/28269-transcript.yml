@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2024
+  course: BNP4243A
+  title: Ethics for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/13/2024
   course: BNP0221A
   title: Mental Health- COPLINE

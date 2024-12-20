@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 10/6/2024
+  course: PDP3839A
+  title: 2024-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/26/2024
   course: PDP1882A
   title: School Emergency Actions
@@ -132,6 +138,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 9/4/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/4/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/22/2024
   course: PDP0918A
   title: City of Portland Bloodborne Pathogens
@@ -243,6 +261,12 @@ training_records:
 - date: 5/17/2024
   course: PDP2311A
   title: 2024-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/17/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
   status: Passed
   score: '0.0'
   hours: '0.50'

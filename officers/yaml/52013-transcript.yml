@@ -75,10 +75,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 4/25/2025
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
+- date: 12/18/2024
+  course: 24-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
   score: '0.0'
   hours: '0.00'
 - date: 11/21/2024
@@ -135,6 +135,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/2/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/2/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/19/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

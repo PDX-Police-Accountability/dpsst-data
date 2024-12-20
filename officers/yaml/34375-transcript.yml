@@ -126,6 +126,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2024
+  course: OSA2697A
+  title: OSSA  CIT Training - Dec 12, 2024
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/11/2024
+  course: OSA0485A
+  title: OSSA Legal Training  - Dec 11, 2024
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/11/2024
+  course: OSA1655A
+  title: OSSA  Employment Law - Dec 11, 2024
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/10/2024
+  course: OSA2090A
+  title: OSSA  Leadership  Communication- Dec 10, 2024
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/9/2024
+  course: OSA3537A
+  title: OSSA Enforcement Command Council - Dec 09, 2024
+  status: Passed
+  score: '0.0'
+  hours: '5.75'
+- date: 12/9/2024
+  course: OSA0141A
+  title: OSSA - Burning Shield - 12/9/2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/19/2024
   course: STS2393A
   title: Firearms training pistol

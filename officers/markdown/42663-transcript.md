@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
+| 12/4/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 12/3/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 12/3/2024 | PDP3296A | 2024-3 Range Qualification Secondary Firearm 25 Rd | Passed | 0.0 | 0.50 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
 | 9/12/2024 | PDP3286A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 9/11/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
@@ -67,6 +71,7 @@
 | 6/6/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/6/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/6/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/6/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 5/30/2024 | PDP2184A | 2024 SERT Training - Iteration | Passed | 0.0 | 9.00 |
 | 5/21/2024 | PDP1051A | 2024 AR-15 Instructor In-Service | Passed | 0.0 | 9.00 |
 | 5/16/2024 | PDP2185A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |

@@ -29,11 +29,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/1/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/25/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/18/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 9/17/2024 | PDP4167A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 9/12/2024 | PDP4234A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 9/10/2024 | PDP2674A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 9/10/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/5/2024 | PDP1978A | 2024 FTEP Geography | Passed | 0.0 | 2.50 |
 | 9/3/2024 | PDP1070A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 3.00 |
 | 9/3/2024 | PDP0860A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |

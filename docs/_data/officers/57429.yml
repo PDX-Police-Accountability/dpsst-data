@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2024
+  course: PDP0679A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -139,6 +145,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 10/8/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/8/2024
+  course: PDP3839A
+  title: 2024-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/8/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/3/2024
   course: PDP1882A
   title: School Emergency Actions
@@ -253,6 +277,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/1/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/17/2024
   course: PDP2311A
   title: 2024-2 Range Qual AR-15 Qualification (20 Yard)

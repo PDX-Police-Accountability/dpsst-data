@@ -48,12 +48,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2024
+  course: PDS2741A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/15/2024
   course: PDS0857A
   title: Range Qualification
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/8/2024
+  course: PDS2666A
+  title: Ethical Behavior for Local Government
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/2/2024
   course: PDS2199A
   title: Leadership
@@ -78,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 9/3/2024
+  course: PDS2755A
+  title: Kinetic Impact Projectile Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/23/2024
   course: PDS2357A
   title: Taser Recertification

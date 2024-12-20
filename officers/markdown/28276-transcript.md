@@ -51,6 +51,17 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/17/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/13/2024 | F6R3273A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
+| 11/7/2024 | OAC4215A | Public Information Basics | Passed | 0.0 | 1.00 |
+| 11/7/2024 | OAC4269A | Public Information Basics | Passed | 0.0 | 1.00 |
+| 11/7/2024 | OAC2974A | Roundtable Wrap-up | Passed | 0.0 | 1.00 |
+| 11/6/2024 | OAC0835A | Police - Community Engagement | Passed | 0.0 | 1.50 |
+| 11/6/2024 | OAC4153A | Oregon DOJ - Tools for Small Agencies | Passed | 0.0 | 1.00 |
+| 11/6/2024 | OAC3216A | Major Event Planning Review - Octoberfest | Passed | 0.0 | 1.25 |
+| 11/6/2024 | OAC0173A | Small Agency Drone Program | Passed | 0.0 | 1.75 |
+| 11/6/2024 | OAC0726A | Responding to Officer Involved Critical Incidents | Passed | 0.0 | 1.50 |
+| 11/5/2024 | OAC3241A | Effective  Legal Hiring | Passed | 0.0 | 1.83 |
+| 11/5/2024 | OAC3930A | Lawsuits - How to Lose Before You Start | Passed | 0.0 | 1.50 |
+| 11/5/2024 | OAC1167A | Roundtable | Passed | 0.0 | 0.75 |
 | 10/23/2024 | SVP3985A | Marion County D.V. Update | Passed | 0.0 | 4.00 |
 | 9/6/2024 | SVP3123A | Role in Creating Workplace Culture | Passed | 0.0 | 2.50 |
 | 8/29/2024 | OSH1288A | 2024 CJIS Statewide Conference | Passed | 0.0 | 5.00 |

@@ -64,12 +64,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2024
+  course: PDP4453A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/12/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/24/2024
   course: PDP1082A
   title: 2024 Supervisor In-Service Force Inspector Updates

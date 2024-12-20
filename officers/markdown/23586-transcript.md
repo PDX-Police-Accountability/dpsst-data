@@ -37,6 +37,14 @@
 | 10/12/2024 | PDS3515A | Range Qualifications | Passed | 0.0 | 0.50 |
 | 10/12/2024 | PDS1595A | CIT ConSims | Passed | 0.0 | 2.00 |
 | 10/12/2024 | PDS0961A | Use of Force Report Writing | Passed | 0.0 | 1.50 |
+| 9/26/2024 | PDS3524A | PREA | Passed | 0.0 | 1.00 |
+| 9/25/2024 | PDS2423A | Anti-Harassment in the Workplace | Passed | 0.0 | 1.00 |
+| 9/25/2024 | PDS3577A | Foundations in Ethics for Corrections | Passed | 0.0 | 1.00 |
+| 9/24/2024 | PDS3650A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 9/24/2024 | PDS2118A | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 9/24/2024 | PDS2263A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 9/22/2024 | PDS4295A | Narcan | Passed | 0.0 | 0.50 |
+| 9/22/2024 | PDS2942A | ADA Policy | Passed | 0.0 | 0.50 |
 | 6/8/2024 | PDS0389A | Corrections Overview | Passed | 0.0 | 6.00 |
 | 3/29/2024 | PDS3207A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/29/2024 | PDS1083A | UNET Range | Passed | 0.0 | 4.00 |

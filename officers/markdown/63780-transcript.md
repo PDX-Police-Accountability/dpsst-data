@@ -33,6 +33,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/3/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/26/2024 | PDP3196A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
+| 9/11/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/9/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/9/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 7/18/2024 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |

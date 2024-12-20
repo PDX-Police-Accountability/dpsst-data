@@ -58,6 +58,7 @@
 | 10/24/2024 | PDP1699A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/24/2024 | PDP2742A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 10/24/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/6/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/27/2024 | PDP2967A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 8/4/2024 | PDP3223A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 7/8/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

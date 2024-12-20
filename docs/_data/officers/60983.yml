@@ -169,6 +169,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/25/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/28/2024
   course: PDP3372A
   title: 2024 Safe Training Procedures

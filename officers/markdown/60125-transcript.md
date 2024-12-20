@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2024 | PDS0272A | Less Lethal Certification | Passed | 0.0 | 5.00 |
+| 12/10/2024 | PDS4528A | Yoga Mat Class 5 Recovery | Passed | 0.0 | 1.00 |
+| 12/10/2024 | PDS3516A | Handcuffing | Passed | 0.0 | 3.00 |
+| 12/9/2024 | PDS4051A | Use of Force Report Writing | Passed | 0.0 | 3.50 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/13/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/26/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
@@ -50,6 +54,7 @@
 | 9/25/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 9/25/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 9/25/2024 | PDP3280A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 9/16/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/7/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/1/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/17/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/14/2024 | PDP3377A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 11/14/2024 | PDP1989A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 11/14/2024 | PDP3683A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
@@ -46,6 +47,8 @@
 | 10/19/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/19/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/19/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 10/1/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 10/1/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/19/2024 | SAG2720A | Financial Crimes  Digital Evidence Conference | Passed | 0.0 | 14.00 |
 | 9/19/2024 | PDP1203A | Financial Crimes and Digital Evidence Conference | Passed | 0.0 | 15.50 |
 | 9/18/2024 | SAG3119A | FCDE - Ethical Considerations in Fraud Invest. | Passed | 0.0 | 1.00 |

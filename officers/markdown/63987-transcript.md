@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 10/8/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/23/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/3/2024 | PDP0514A | 2021-3 TT Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 9/3/2024 | PDP3307A | 2021 CAO Ballot Measure 110 documents | Passed | 0.0 | 1.00 |

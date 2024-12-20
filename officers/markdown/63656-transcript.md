@@ -34,8 +34,10 @@
 | 10/28/2024 | PDP2046A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 10/28/2024 | PDP2041A | 2019-5 TT Enforcement of Protection Orders Full | Passed | 0.0 | 0.25 |
 | 10/24/2024 | PDP4407A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
+| 10/24/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/23/2024 | PDP0515A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 10/21/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 21.50 |
+| 10/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/16/2024 | PDP3197A | 2021 Online In-Service Language Access Trans | Passed | 0.0 | 0.25 |
 | 10/16/2024 | PDP2735A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/16/2024 | PDP2124A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

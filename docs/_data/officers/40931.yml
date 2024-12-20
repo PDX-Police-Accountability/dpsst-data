@@ -118,6 +118,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/18/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/21/2024
   course: PDP1082A
   title: 2024 Supervisor In-Service Force Inspector Updates

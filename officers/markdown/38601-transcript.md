@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2024 | GSP0075A | 2024 Ethics In Service | Passed | 0.0 | 1.00 |
 | 10/22/2024 | VND0887A | Sexual Assault Investigations | Passed | 0.0 | 12.00 |
 | 9/25/2024 | PDS1142A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 4/16/2024 | GSP1655A | Handgun In-InService | Passed | 0.0 | 10.00 |

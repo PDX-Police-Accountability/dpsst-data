@@ -28,7 +28,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2024 | PDS2017A | Range | Passed | 0.0 | 2.00 |
 | 10/15/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
+| 10/3/2024 | PDS4449A | Emergency Management | Passed | 0.0 | 0.50 |
+| 10/3/2024 | PDS3650A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 10/3/2024 | PDS2666A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
+| 10/3/2024 | PDS2753A | Legal Update | Passed | 0.0 | 1.00 |
+| 10/3/2024 | PDS2118A | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 10/3/2024 | PDS3524A | PREA | Passed | 0.0 | 1.00 |
+| 9/5/2024 | PDS2755A | Kinetic Impact Projectile Refresher | Passed | 0.0 | 0.50 |
+| 9/5/2024 | PDS2423A | Anti-Harassment in the Workplace | Passed | 0.0 | 1.00 |
+| 9/5/2024 | PDS2942A | ADA Policy | Passed | 0.0 | 0.50 |
+| 9/5/2024 | PDS4295A | Narcan | Passed | 0.0 | 0.50 |
+| 9/5/2024 | PDS2263A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 6/3/2024 | PDS4272A | Range | Passed | 0.0 | 2.00 |
 | 5/29/2024 | PDS1113A | Monthly Reserve Unit Training | Passed | 0.0 | 2.00 |
 | 5/15/2024 | PDS4373A | Defensive Tactics | Passed | 0.0 | 4.00 |

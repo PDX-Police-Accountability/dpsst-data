@@ -33,6 +33,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/9/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 9/20/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 9/2/2024 | PDP2956A | 2024-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 9/2/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 9/2/2024 | PDP1762A | 2024-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 8/31/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/23/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/16/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

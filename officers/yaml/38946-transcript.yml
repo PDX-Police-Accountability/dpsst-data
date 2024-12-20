@@ -89,6 +89,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2024
+  course: PDP3797A
+  title: 2024 SERT Camp Rilea Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/12/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/28/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp

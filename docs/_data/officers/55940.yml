@@ -139,6 +139,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/3/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2024
+  course: PDP0320A
+  title: 2024-3 Range Qualification Secondary Firearm 50 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/19/2024
   course: PDP1929A
   title: 2024 SERT Training (RILEA) - SCENARIO
@@ -277,6 +295,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 7/25/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/24/2024
   course: PDP2586A
   title: 2024-2 Range Qual 40mm Less Lethal
@@ -451,12 +475,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/1/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/25/2024
   course: PDP2633A
   title: 2024 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/25/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/18/2024
   course: PDP1800A
   title: 2024 SERT Training - CLASSROOM

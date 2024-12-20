@@ -76,6 +76,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2024
+  course: WBP4453A
+  title: Intro to Psychological First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/10/2024
+  course: WBP1492A
+  title: Firearms - Q4 Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/10/2024
+  course: WBP0618A
+  title: Firearms Training - Low Light Range Drills
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/10/2024
+  course: WBP0618A
+  title: Firearms Training - Low Light Range Drills
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/13/2024
   course: WBP3153A
   title: LEAD Diversion Criteria Update

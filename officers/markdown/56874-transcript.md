@@ -37,6 +37,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/25/2024 | PDP1877A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 11/25/2024 | PDP0318A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 11/19/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 11/19/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 11/19/2024 | PDP2956A | 2024-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP1762A | 2024-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/20/2024 | PDP2321A | 2024 Rapid Response Team (RRT) Cadre Training | Instructed | 0.0 | 2.50 |
 | 9/19/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/19/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
@@ -56,6 +61,7 @@
 | 7/22/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 7/9/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
+| 6/25/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 6/24/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |

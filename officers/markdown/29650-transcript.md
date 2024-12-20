@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2024 | PDP1051A | 2024 AR-15 Instructor In-Service | Passed | 0.0 | 9.00 |
+| 5/21/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 5/16/2024 | PDP1779A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 5/9/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 5/9/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

@@ -41,6 +41,7 @@
 | 9/30/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
 | 9/12/2024 | PDP3286A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 9/12/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/10/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/10/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/6/2024 | PDP1416A | Oregon Tactical Officers Association- Basic Sniper | Passed | 0.0 | 40.00 |

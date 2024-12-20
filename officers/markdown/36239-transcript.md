@@ -49,6 +49,7 @@
 | 11/18/2024 | PDP0318A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 11/13/2024 | PDP3865A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/6/2024 | PDP1320A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 10/17/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/16/2024 | PDP1599A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/14/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/14/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

@@ -102,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/24/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/20/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

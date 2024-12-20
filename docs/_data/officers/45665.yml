@@ -69,6 +69,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/30/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/28/2024
   course: PDP0138A
   title: 2024-3 All Sworn In-Service Control Tactics

@@ -98,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/31/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/30/2024
   course: PDP1634A
   title: 2024-3 All Sworn In-Service ABLE (CIT)

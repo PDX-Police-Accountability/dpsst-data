@@ -36,6 +36,7 @@
 | 10/25/2024 | PDP4559A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
 | 10/25/2024 | PDP1987A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 10/24/2024 | PDP4407A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
+| 10/24/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/23/2024 | PDP0515A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 10/22/2024 | PDP2676A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 10/22/2024 | PDP1880A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -45,6 +46,7 @@
 | 10/22/2024 | PDP2084A | 2024-2 TT State v. Wilcox / Civil Holds | Passed | 0.0 | 0.25 |
 | 10/22/2024 | PDP1699A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/21/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 21.50 |
+| 10/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/15/2024 | PDP4483A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 10/14/2024 | PDP0005A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 4.00 |
 | 10/11/2024 | PDP2735A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

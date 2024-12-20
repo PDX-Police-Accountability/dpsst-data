@@ -41,9 +41,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2024 | PDS3739A | Traffic Incident Management | Passed | 0.0 | 2.00 |
+| 10/18/2024 | PDS2666A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
+| 10/17/2024 | PDS2753A | Legal Update | Passed | 0.0 | 1.00 |
+| 10/17/2024 | PDS4449A | Emergency Management | Passed | 0.0 | 0.50 |
+| 10/17/2024 | PDS2755A | Kinetic Impact Projectile Refresher | Passed | 0.0 | 0.50 |
+| 10/17/2024 | PDS3650A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 10/17/2024 | PDS4295A | Narcan | Passed | 0.0 | 0.50 |
+| 10/17/2024 | PDS2118A | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 10/17/2024 | PDS3524A | PREA | Passed | 0.0 | 1.00 |
+| 10/17/2024 | PDS2263A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 10/16/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/21/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/11/2024 | PDS0245A | Less Lethal | Passed | 0.0 | 2.00 |
+| 9/10/2024 | PDS2942A | ADA Policy | Passed | 0.0 | 0.50 |
 | 8/31/2024 | PDS0894A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 8/31/2024 | PDS3540A | Cultural Awareness | Passed | 0.0 | 1.00 |
 | 6/25/2024 | PDS3908A | Range | Passed | 0.0 | 2.00 |

@@ -33,8 +33,10 @@
 | 10/28/2024 | PDP1199A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 10/28/2024 | PDP1048A | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 10/24/2024 | PDP4407A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
+| 10/24/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/23/2024 | PDP0515A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 10/21/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 21.50 |
+| 10/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/16/2024 | PDP1615A | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 10/16/2024 | PDP3091A | 2018-5 TT100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 10/16/2024 | PDP0622A | DIR 660.10, Property  Evidence Proc/2018-5 TT | Passed | 0.0 | 0.50 |

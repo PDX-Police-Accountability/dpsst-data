@@ -105,6 +105,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/31/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2024
+  course: PDP0320A
+  title: 2024-3 Range Qualification Secondary Firearm 50 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/28/2024
   course: PDP4286A
   title: 2024 Supervisor In-Service Overview of 2020 Unrest

@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2024
+  course: BNP4341A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/3/2024
   course: BNP3255A
   title: Sex Offender Compliance Investigations

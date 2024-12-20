@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2024
+  course: PDP0679A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 11/21/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/21/2024
+  course: PDP3839A
+  title: 2024-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/21/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/12/2024
   course: PDP3377A
   title: '2024-3 All Sworn In-Service MFF: APR'
@@ -218,6 +242,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/24/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/23/2024
   course: PDP0737A
   title: 2024 OSHA Heat Illness Prevention with CityLearner

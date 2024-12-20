@@ -35,11 +35,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2024 | PDS2741A | Range | Passed | 0.0 | 2.00 |
 | 10/15/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
+| 10/8/2024 | PDS2666A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
 | 10/2/2024 | PDS2199A | Leadership | Passed | 0.0 | 4.00 |
 | 9/19/2024 | GSP4098A | Firearms | Passed | 0.0 | 10.00 |
 | 9/18/2024 | GSP3238A | Building Searches | Passed | 0.0 | 10.00 |
 | 9/15/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
+| 9/3/2024 | PDS2755A | Kinetic Impact Projectile Refresher | Passed | 0.0 | 0.50 |
 | 7/23/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
 | 7/22/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
 | 7/22/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |

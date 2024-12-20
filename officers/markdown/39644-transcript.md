@@ -34,6 +34,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/31/2024 | PDP2317A | 2024 Concealed Carry Course | Passed | 0.0 | 4.00 |
+| 10/31/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 10/31/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/2/2024 | OCS0440A | OPCA Fall Seminar - Detection | Passed | 0.0 | 24.00 |
 | 10/2/2024 | PDP0727A | 2024 OPCA Fall Conference | Passed | 0.0 | 24.00 |
 | 9/25/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |

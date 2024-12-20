@@ -66,6 +66,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/26/2024
+  course: PDS3524A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/25/2024
+  course: PDS2423A
+  title: Anti-Harassment in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/25/2024
+  course: PDS3577A
+  title: Foundations in Ethics for Corrections
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/24/2024
+  course: PDS3650A
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/24/2024
+  course: PDS2118A
+  title: OSHA  Respiratory Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/24/2024
+  course: PDS2263A
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/22/2024
+  course: PDS4295A
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/22/2024
+  course: PDS2942A
+  title: ADA Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/8/2024
   course: PDS0389A
   title: Corrections Overview

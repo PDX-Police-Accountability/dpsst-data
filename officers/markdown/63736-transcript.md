@@ -35,6 +35,7 @@
 | 10/19/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 10/9/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/29/2024 | PDP3196A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
+| 9/18/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/29/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/22/2024 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 7/15/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

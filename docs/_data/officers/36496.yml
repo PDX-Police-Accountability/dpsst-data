@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/6/2025
+  agency: Oregon City Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 6/6/2024
   agency: Portland Police Bureau
   action: Retired
@@ -40,19 +46,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 1/6/2025
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 7/6/2026
 - status_date: 9/6/2024
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 3/14/2000
-  expiration_date: 6/6/2029
+  expiration_date: ''
   probation_date: ''
 - status_date: 9/6/2024
   certificate: Police Officer
   level: Supervisory
   status: Lapsed
   certificate_date: 8/5/2019
-  expiration_date: 6/6/2029
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 6/10/2024

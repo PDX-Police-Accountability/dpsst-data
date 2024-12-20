@@ -58,6 +58,9 @@
 | 10/29/2024 | PDP2002A | 2024 Supervisor In-Service Overview PSD and IA | Passed | 0.0 | 1.00 |
 | 10/29/2024 | PDP4286A | 2024 Supervisor In-Service Overview of 2020 Unrest | Passed | 0.0 | 3.00 |
 | 10/27/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
+| 10/27/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 10/27/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 10/27/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/14/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 9/15/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
@@ -79,6 +82,7 @@
 | 6/13/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/28/2024 | PDP4332A | OSP DNA Training | Passed | 0.0 | 2.00 |
 | 5/22/2024 | PDP1051A | 2024 AR-15 Instructor In-Service | Passed | 0.0 | 9.00 |
+| 5/22/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 5/10/2024 | PDP3031A | 2024 Traffic 80 Hour Motorcycle Training Course | Passed | 0.0 | 80.00 |
 | 4/30/2024 | PDP2643A | SOP 2-8 Catastrophic Weapon Failure Procedure | Passed | 0.0 | 0.25 |
 | 4/30/2024 | PDP1349A | SOP 2-10 Central Precinct Range Procedures | Passed | 0.0 | 0.25 |

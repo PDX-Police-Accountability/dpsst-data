@@ -66,6 +66,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/13/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/13/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/12/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
@@ -228,6 +240,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/25/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/21/2024
   course: PDP1434A
   title: 2024 Body Worn Camera Training

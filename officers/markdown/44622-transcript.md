@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2024 | OSH3845A | Ethics | Passed | 0.0 | 1.00 |
 | 12/6/2024 | OSH4207A | Patrol Tactics Survival Skills | Instructed | 0.0 | 4.00 |
 | 12/6/2024 | OSH0088A | Patrol Tactics Survival Skills | Instructed | 0.0 | 4.00 |
 | 12/1/2024 | OSH0162A | Active Threat Response | Instructed | 0.0 | 8.00 |

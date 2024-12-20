@@ -48,6 +48,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2024 | OSA2697A | OSSA  CIT Training - Dec 12, 2024 | Passed | 0.0 | 3.50 |
+| 12/11/2024 | OSA0485A | OSSA Legal Training  - Dec 11, 2024 | Passed | 0.0 | 3.50 |
+| 12/11/2024 | OSA1655A | OSSA  Employment Law - Dec 11, 2024 | Passed | 0.0 | 3.50 |
+| 12/10/2024 | OSA2090A | OSSA  Leadership  Communication- Dec 10, 2024 | Passed | 0.0 | 3.50 |
+| 12/9/2024 | OSA3537A | OSSA Enforcement Command Council - Dec 09, 2024 | Passed | 0.0 | 5.75 |
+| 12/9/2024 | OSA0141A | OSSA - Burning Shield - 12/9/2024 | Passed | 0.0 | 1.00 |
 | 11/19/2024 | STS2393A | Firearms training pistol | Passed | 0.0 | 1.00 |
 | 11/19/2024 | STS0929A | Patrol Rifle Training | Passed | 0.0 | 1.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |

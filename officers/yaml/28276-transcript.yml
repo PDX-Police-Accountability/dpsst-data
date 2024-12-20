@@ -141,6 +141,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/7/2024
+  course: OAC4215A
+  title: Public Information Basics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/7/2024
+  course: OAC4269A
+  title: Public Information Basics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/7/2024
+  course: OAC2974A
+  title: Roundtable Wrap-up
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/6/2024
+  course: OAC0835A
+  title: Police - Community Engagement
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/6/2024
+  course: OAC4153A
+  title: Oregon DOJ - Tools for Small Agencies
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/6/2024
+  course: OAC3216A
+  title: Major Event Planning Review - Octoberfest
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/6/2024
+  course: OAC0173A
+  title: Small Agency Drone Program
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 11/6/2024
+  course: OAC0726A
+  title: Responding to Officer Involved Critical Incidents
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/5/2024
+  course: OAC3241A
+  title: Effective  Legal Hiring
+  status: Passed
+  score: '0.0'
+  hours: '1.83'
+- date: 11/5/2024
+  course: OAC3930A
+  title: Lawsuits - How to Lose Before You Start
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/5/2024
+  course: OAC1167A
+  title: Roundtable
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 10/23/2024
   course: SVP3985A
   title: Marion County D.V. Update

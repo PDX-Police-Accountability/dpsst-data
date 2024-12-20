@@ -114,6 +114,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/3/2024
+  course: PDP2956A
+  title: 2024-3 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/3/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/3/2024
+  course: PDP1762A
+  title: 2024-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/23/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

@@ -29,8 +29,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/3/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
 | 10/24/2024 | PDP4407A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
+| 10/24/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/23/2024 | PDP0515A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 10/21/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 21.50 |
+| 10/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/18/2024 | PDP3847A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 10/15/2024 | PDP4483A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 10/14/2024 | PDP0005A | 2024  FTEP HAZMAT/WMD Awareness/APR Gas Mask Fit | Passed | 0.0 | 4.00 |

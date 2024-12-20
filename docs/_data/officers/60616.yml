@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/1/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/31/2024
   course: PDP0004A
   title: 2024-2 Field Training Officer (FTO)
@@ -162,6 +174,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '60.00'
+- date: 5/31/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/16/2024
   course: PDP3174A
   title: NAMOA Conference

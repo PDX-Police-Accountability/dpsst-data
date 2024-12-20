@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/9/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/16/2024
   course: PDP0737A
   title: 2024 OSHA Heat Illness Prevention with CityLearner

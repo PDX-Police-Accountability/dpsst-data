@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2024
+  course: PDP0679A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/19/2024
   course: PDP0177A
   title: 2024 Rapid Response Team (RRT) Cadre Training
@@ -74,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 10/6/2024
+  course: PDP3839A
+  title: 2024-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/4/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
@@ -104,6 +116,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/13/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/13/2024
+  course: PDP0320A
+  title: 2024-3 Range Qualification Secondary Firearm 50 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/17/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

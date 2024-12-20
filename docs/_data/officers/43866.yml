@@ -81,6 +81,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2024
+  course: PDP3797A
+  title: 2024 SERT Camp Rilea Training
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 12/19/2024
+  course: PDP3797A
+  title: 2024 SERT Camp Rilea Training
+  status: Instructed
+  score: '0.0'
+  hours: '28.00'
 - date: 12/3/2024
   course: PDP3226A
   title: 2024 EAP Separation Training
@@ -135,6 +147,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/3/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2024
+  course: PDP0320A
+  title: 2024-3 Range Qualification Secondary Firearm 50 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/27/2024
   course: PDP0248A
   title: SWAT Command Decision Making  Leadership I

@@ -41,6 +41,8 @@
 | 10/8/2024 | PDP2923A | 2024 FTEP Geography | Instructed | 0.0 | 3.00 |
 | 9/19/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/17/2024 | PDP4167A | 2024 FTEP Orientation | Instructed | 0.0 | 6.00 |
+| 9/16/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 9/16/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/6/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP1978A | 2024 FTEP Geography | Instructed | 0.0 | 2.50 |
 | 9/3/2024 | PDP1634A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |

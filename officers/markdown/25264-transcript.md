@@ -38,12 +38,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2024 | PDS0272A | Less Lethal Certification | Instructed | 0.0 | 5.00 |
 | 12/11/2024 | HBS0216A | Less Lethal Impact Munitions Instructor Program | Passed | 0.0 | 8.00 |
+| 12/10/2024 | PDS3516A | Handcuffing | Instructed | 0.0 | 3.00 |
+| 12/5/2024 | PDS2017A | Range | Instructed | 0.0 | 2.00 |
+| 12/3/2024 | PDS3059A | Taser IDC | Passed | 0.0 | 8.00 |
+| 12/2/2024 | PDS2017A | Range | Passed | 0.0 | 2.00 |
 | 11/27/2024 | PDS3621A | Yoga Mat Class Breath Control | Passed | 0.0 | 1.00 |
 | 11/26/2024 | PDS2940A | Taser | Instructed | 0.0 | 8.00 |
 | 11/25/2024 | PDS3626A | Yoga Mat Class Foundations | Passed | 0.0 | 1.00 |
 | 11/25/2024 | PDS2883A | Taser | Instructed | 0.0 | 0.50 |
+| 10/31/2024 | PDS3668A | Radio Procedures | Instructed | 0.0 | 4.00 |
 | 10/29/2024 | PDS1421A | Taser Recertification | Instructed | 0.0 | 0.50 |
+| 10/24/2024 | PDS4162A | ConSim | Instructed | 0.0 | 8.00 |
 | 10/22/2024 | PDS3257A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 10/18/2024 | PDS4167A | Searches | Instructed | 0.0 | 4.00 |
 | 10/15/2024 | PDS0941A | Use of Force | Instructed | 0.0 | 3.50 |
@@ -51,6 +58,7 @@
 | 10/8/2024 | PDS3022A | Taser | Instructed | 0.0 | 8.00 |
 | 9/28/2024 | PDS0245A | Less Lethal | Instructed | 0.0 | 2.00 |
 | 9/24/2024 | PDS1480A | Range IDC | Passed | 0.0 | 2.00 |
+| 9/21/2024 | PDS0537A | Range Qualification | Instructed | 0.0 | 4.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/13/2024 | PDS0245A | Less Lethal | Instructed | 0.0 | 2.00 |
 | 9/11/2024 | PDS0245A | Less Lethal | Instructed | 0.0 | 2.00 |

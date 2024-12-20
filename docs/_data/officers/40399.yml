@@ -57,6 +57,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/23/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/22/2024
   course: PDP1082A
   title: 2024 Supervisor In-Service Force Inspector Updates

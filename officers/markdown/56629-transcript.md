@@ -56,6 +56,9 @@
 | 9/30/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/25/2024 | PDP2236A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/11/2024 | PDP1129A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/10/2024 | PDP2956A | 2024-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 9/10/2024 | PDP1762A | 2024-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 9/10/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/4/2024 | PDP2692A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/2/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP0093A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

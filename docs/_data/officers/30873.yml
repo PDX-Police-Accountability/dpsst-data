@@ -3,12 +3,18 @@ header_record:
   name: Dauchy, Aaron M.
   dpsst_identifier: '30873'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/19/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/3/2020
   agency: Portland Police Bureau
   action: Return LOA
@@ -45,21 +51,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 12/13/2011
-  expiration_date: ''
+  expiration_date: 2/19/2025
   probation_date: ''
 - status_date: 12/13/2011
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 12/13/2011
-  expiration_date: ''
+  expiration_date: 2/19/2025
   probation_date: ''
 - status_date: 11/28/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 11/28/2000
-  expiration_date: ''
+  expiration_date: 2/19/2025
   probation_date: ''
 training_records:
 - date: 10/16/2024
@@ -71,6 +77,18 @@ training_records:
 - date: 10/16/2024
   course: PDP1215A
   title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/10/2024
+  course: PDP3839A
+  title: 2024-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/10/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'

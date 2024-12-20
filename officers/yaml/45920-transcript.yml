@@ -165,6 +165,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/27/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/27/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/27/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/14/2024
   course: PDP1215A
   title: 2024-9 CAO Legal Updates for 09/2024
@@ -291,6 +309,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/22/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/10/2024
   course: PDP3031A
   title: 2024 Traffic 80 Hour Motorcycle Training Course

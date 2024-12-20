@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/13/2024
+  course: PDS1307A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/11/2024
   course: PDS0857A
   title: Range Qualification
@@ -41,6 +47,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/4/2024
+  course: PDS3524A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/27/2024
+  course: PDS2118A
+  title: OSHA  Respiratory Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/20/2024
+  course: PDS2666A
+  title: Ethical Behavior for Local Government
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/13/2024
+  course: PDS2753A
+  title: Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/6/2024
+  course: PDS2423A
+  title: Anti-Harassment in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/23/2024
   course: PDS2312A
   title: Kinetic Impact Projectile

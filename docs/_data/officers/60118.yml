@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2024
+  course: OSA2697A
+  title: OSSA  CIT Training - Dec 12, 2024
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/11/2024
+  course: OSA2858A
+  title: OSSA SARAC - Dec 11, 2024
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/10/2024
+  course: OSA0994A
+  title: OSSA SARAC Meeting - Dec 10, 2024
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/8/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

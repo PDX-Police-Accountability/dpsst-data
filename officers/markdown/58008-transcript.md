@@ -32,14 +32,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 10/12/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |
 | 10/6/2024 | PDP2777A | Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 9/29/2024 | PDP2777A | Red Dot Optic Transition Course | Passed | 0.0 | 25.00 |
+| 9/29/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/22/2024 | GSP3582A | UAS Ground School | Instructed | 0.0 | 20.00 |
 | 9/20/2024 | PDP2321A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 2.50 |
 | 9/20/2024 | PDP0715A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 4.00 |
+| 9/20/2024 | PDP0320A | 2024-3 Range Qualification Secondary Firearm 50 Rd | Passed | 0.0 | 0.50 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/18/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

@@ -80,6 +80,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/16/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/16/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/16/2024
+  course: PDP3296A
+  title: 2024-3 Range Qualification Secondary Firearm 25 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/3/2024
   course: PDP1434A
   title: 2024 Body Worn Camera Training

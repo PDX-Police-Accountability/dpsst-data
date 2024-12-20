@@ -38,7 +38,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/27/2024 | PDP3396A | 2024-3 All Sworn In-Service MFF: Scenarios | Passed | 0.0 | 0.75 |
 | 11/27/2024 | PDP3683A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 0.75 |
+| 11/22/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/20/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 11/20/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/7/2024 | PDP2733A | Colt M4/M16 Armorer Course | Passed | 0.0 | 24.00 |
 | 10/19/2024 | HSU1332A | Fall In-Service 2024 Firearms | Instructed | 0.0 | 8.00 |
 | 10/13/2024 | HSU1332A | Fall In-Service 2024 Firearms | Instructed | 0.0 | 8.00 |

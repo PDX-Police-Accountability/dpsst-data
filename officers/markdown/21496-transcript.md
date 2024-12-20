@@ -60,6 +60,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2024 | 28309A | ARIDE (with Wetlab) | Instructed | 0.0 | 16.00 |
 | 10/16/2024 | OSH1432A | Patrol Tactics 3 | Passed | 0.0 | 4.00 |
 | 9/20/2024 | OSH0565A | 3rd Trimester Firearms - Low Light | Passed | 0.0 | 4.00 |
 | 6/26/2024 | OSH0023A | Defensive Tactics - Taser Recertification | Passed | 0.0 | 4.00 |

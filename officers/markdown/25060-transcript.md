@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2024 | WBP4453A | Intro to Psychological First Aid | Passed | 0.0 | 1.50 |
+| 12/10/2024 | WBP1492A | Firearms - Q4 Qualifications | Passed | 0.0 | 0.50 |
+| 12/10/2024 | WBP0618A | Firearms Training - Low Light Range Drills | Passed | 0.0 | 3.50 |
+| 12/10/2024 | WBP0618A | Firearms Training - Low Light Range Drills | Instructed | 0.0 | 8.00 |
 | 11/13/2024 | WBP3153A | LEAD Diversion Criteria Update | Passed | 0.0 | 0.50 |
 | 10/22/2024 | WBP1929A | UOF Update  High Risk Stops | Passed | 0.0 | 1.00 |
 | 10/11/2024 | WBP2940A | Wildfire Smoke Training | Passed | 0.0 | 1.00 |

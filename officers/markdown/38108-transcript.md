@@ -57,6 +57,8 @@
 | 11/20/2024 | PDP0318A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 11/13/2024 | PDP2493A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/13/2024 | PDP2493A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
+| 11/10/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 11/10/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/17/2024 | PDP0666A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.50 |
 | 10/9/2024 | PDP0485A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 10/6/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
@@ -82,6 +84,7 @@
 | 7/10/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/10/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 6/24/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
+| 6/24/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 6/23/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/23/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/19/2024 | PDP1702A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |

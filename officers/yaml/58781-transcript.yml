@@ -158,6 +158,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/24/2024
+  course: PDP3839A
+  title: 2024-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/24/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/9/2024
   course: PDP0993A
   title: 2024 40mm Less Lethal Operator In-Service

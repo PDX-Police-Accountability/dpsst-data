@@ -88,6 +88,7 @@
 | 3/25/2024 | PDP1281A | 2024-1 All Sworn In-Service Taser 7 | Passed | 0.0 | 3.00 |
 | 3/21/2024 | PDP2707A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/14/2024 | PDP2935A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 2/27/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 2/22/2024 | PDP2495A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/20/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |

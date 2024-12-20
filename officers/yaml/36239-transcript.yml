@@ -128,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 10/17/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/16/2024
   course: PDP1599A
   title: 2024 MEDU Weekly Training

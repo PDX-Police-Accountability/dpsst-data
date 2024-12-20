@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2024
+  course: OCS1759A
+  title: Marksmanship, Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/3/2024
   course: OCS1572A
   title: Concealment, Marksmanship, Decision Making

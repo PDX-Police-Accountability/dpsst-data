@@ -166,6 +166,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2024
+  course: 28309A
+  title: ARIDE (with Wetlab)
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/16/2024
   course: OSH1432A
   title: Patrol Tactics 3

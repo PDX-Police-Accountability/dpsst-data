@@ -56,6 +56,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/4/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/3/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/3/2024
+  course: PDP3296A
+  title: 2024-3 Range Qualification Secondary Firearm 25 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/19/2024
   course: PDP1929A
   title: 2024 SERT Training (RILEA) - SCENARIO
@@ -233,6 +257,12 @@ training_records:
 - date: 6/6/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/6/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
   status: Passed
   score: '0.0'
   hours: '0.50'

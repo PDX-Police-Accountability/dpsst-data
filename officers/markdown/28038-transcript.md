@@ -40,8 +40,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2024 | PDS1307A | Range | Passed | 0.0 | 2.00 |
+| 10/25/2024 | PDS2118A | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 10/25/2024 | PDS3524A | PREA | Passed | 0.0 | 1.00 |
 | 10/11/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/13/2024 | PDS0245A | Less Lethal | Passed | 0.0 | 2.00 |
+| 9/13/2024 | PDS4449A | Emergency Management | Passed | 0.0 | 0.50 |
+| 9/13/2024 | PDS2755A | Kinetic Impact Projectile Refresher | Passed | 0.0 | 0.50 |
+| 9/13/2024 | PDS3650A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 9/13/2024 | PDS2942A | ADA Policy | Passed | 0.0 | 0.50 |
 | 9/6/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 8/2/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |
 | 7/26/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |

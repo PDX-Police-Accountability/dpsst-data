@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/24/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/23/2024
   course: PDP0515A
   title: 2024 Training RegJIN RMS/MRE
@@ -79,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.50'
+- date: 10/21/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/20/2024
   course: PDP2676A
   title: 2021 Online In-Service Procedural Justice

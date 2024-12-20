@@ -102,6 +102,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/13/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/13/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/21/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training
@@ -192,6 +204,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/19/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/29/2024
   course: PDP2311A
   title: 2024-2 Range Qual AR-15 Qualification (20 Yard)

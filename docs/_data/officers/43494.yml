@@ -95,6 +95,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2024
+  course: PDP3797A
+  title: 2024 SERT Camp Rilea Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 12/13/2024
+  course: VND0931A
+  title: CSM- Crisis/Hostage Negotiation Level I
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/20/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/7/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/7/2024
+  course: PDP0320A
+  title: 2024-3 Range Qualification Secondary Firearm 50 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/30/2024
   course: HBA2384A
   title: Building Bridges Summit

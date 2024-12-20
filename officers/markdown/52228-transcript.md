@@ -4,7 +4,7 @@
 | name | Harding, David N. |
 | dpsst_identifier | 52228 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,18 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/16/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/29/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/10/2015 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/29/2011 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/18/2021 | Police Officer | Basic | Reactivatd | 2/28/2013 |  |  |
+| 11/16/2024 | Police Officer | Basic | Lapsed | 2/28/2013 | 8/16/2029 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/9/2023 | 5/9/2025 |
 | Code of Ethics | Law Enforcement Signed | 10/29/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 10/19/2011 |  |

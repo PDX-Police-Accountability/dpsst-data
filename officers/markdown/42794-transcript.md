@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2024 | OCS1759A | Marksmanship, Qualification | Instructed | 0.0 | 3.00 |
 | 12/3/2024 | OCS1572A | Concealment, Marksmanship, Decision Making | Instructed | 0.0 | 2.00 |
 | 11/27/2024 | OCS2517A | November 2024 New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 11/20/2024 | OCS1237A | Use of Cover/Marksmanship | Passed | 0.0 | 1.00 |

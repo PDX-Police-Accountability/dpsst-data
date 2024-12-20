@@ -158,6 +158,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/24/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/24/2024
+  course: PDP3714A
+  title: 2024-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/24/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/8/2024
   course: PDP1882A
   title: School Emergency Actions
@@ -254,6 +272,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/10/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/22/2024
   course: PDP3819A
   title: 2023 Video Evidence Basics for the Police UoF

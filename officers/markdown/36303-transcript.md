@@ -60,6 +60,7 @@
 | 11/25/2024 | PDP0318A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 11/20/2024 | PDP0237A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/20/2024 | PDP0237A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
+| 11/14/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/13/2024 | PDP2493A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 10/17/2024 | PDP0666A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.50 |
 | 10/9/2024 | PDP0485A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |

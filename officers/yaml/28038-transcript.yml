@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2024
+  course: PDS1307A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/25/2024
+  course: PDS2118A
+  title: OSHA  Respiratory Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/25/2024
+  course: PDS3524A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/11/2024
   course: PDS0857A
   title: Range Qualification
@@ -86,6 +104,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/13/2024
+  course: PDS4449A
+  title: Emergency Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/13/2024
+  course: PDS2755A
+  title: Kinetic Impact Projectile Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/13/2024
+  course: PDS3650A
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/13/2024
+  course: PDS2942A
+  title: ADA Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/6/2024
   course: PDS1549A
   title: Mobile Field Force

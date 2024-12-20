@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2024
+  course: PDP0679A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/3/2024
   course: PDP3226A
   title: 2024 EAP Separation Training
@@ -138,6 +144,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/6/2024
+  course: PDP3839A
+  title: 2024-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2024
+  course: PDP3296A
+  title: 2024-3 Range Qualification Secondary Firearm 25 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/29/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental
@@ -147,6 +171,12 @@ training_records:
 - date: 9/29/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/24/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -168,6 +198,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/20/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/20/2024
+  course: PDP0320A
+  title: 2024-3 Range Qualification Secondary Firearm 50 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/28/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

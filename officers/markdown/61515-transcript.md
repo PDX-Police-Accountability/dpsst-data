@@ -39,9 +39,11 @@
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/29/2024 | PDP0066A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 10/24/2024 | PDP4407A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
+| 10/24/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/23/2024 | PDP0515A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 10/22/2024 | PDP2735A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/21/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 21.50 |
+| 10/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/20/2024 | PDP2676A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 10/19/2024 | PDP3197A | 2021 Online In-Service Language Access Trans | Passed | 0.0 | 0.25 |
 | 10/18/2024 | PDP2046A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |

@@ -68,12 +68,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2024
+  course: PDS0272A
+  title: Less Lethal Certification
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 12/11/2024
   course: HBS0216A
   title: Less Lethal Impact Munitions Instructor Program
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/10/2024
+  course: PDS3516A
+  title: Handcuffing
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/5/2024
+  course: PDS2017A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/3/2024
+  course: PDS3059A
+  title: Taser IDC
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/2/2024
+  course: PDS2017A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/27/2024
   course: PDS3621A
   title: Yoga Mat Class Breath Control
@@ -98,12 +128,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '0.50'
+- date: 10/31/2024
+  course: PDS3668A
+  title: Radio Procedures
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/29/2024
   course: PDS1421A
   title: Taser Recertification
   status: Instructed
   score: '0.0'
   hours: '0.50'
+- date: 10/24/2024
+  course: PDS4162A
+  title: ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/22/2024
   course: PDS3257A
   title: Defensive Tactics
@@ -146,6 +188,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/21/2024
+  course: PDS0537A
+  title: Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

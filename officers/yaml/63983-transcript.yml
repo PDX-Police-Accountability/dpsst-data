@@ -35,6 +35,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/5/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2024
+  course: PDP3296A
+  title: 2024-3 Range Qualification Secondary Firearm 25 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/15/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

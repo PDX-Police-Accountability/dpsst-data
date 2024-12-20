@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2024
+  course: PDS2017A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/2/2024
   course: PDS2199A
   title: Leadership
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/6/2024
+  course: PDS2666A
+  title: Ethical Behavior for Local Government
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/12/2024
   course: PDS2312A
   title: Kinetic Impact Projectile

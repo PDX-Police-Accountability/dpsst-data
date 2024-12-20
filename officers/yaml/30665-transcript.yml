@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/22/2024
+  course: PDP1050A
+  title: 2024 DC Police Leadership Academy (DCPLA)
+  status: Passed
+  score: '0.0'
+  hours: '112.50'
 - date: 10/28/2024
   course: PDP1082A
   title: 2024 Supervisor In-Service Force Inspector Updates
@@ -139,6 +145,12 @@ training_records:
 - date: 10/19/2024
   course: PDP1215A
   title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/14/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'

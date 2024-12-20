@@ -120,6 +120,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/30/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/20/2024
   course: PDP1882A
   title: School Emergency Actions
@@ -270,6 +282,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '60.00'
+- date: 5/17/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/4/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms

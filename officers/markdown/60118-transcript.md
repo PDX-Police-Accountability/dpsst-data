@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2024 | OSA2697A | OSSA  CIT Training - Dec 12, 2024 | Passed | 0.0 | 3.50 |
+| 12/11/2024 | OSA2858A | OSSA SARAC - Dec 11, 2024 | Passed | 0.0 | 7.00 |
+| 12/10/2024 | OSA0994A | OSSA SARAC Meeting - Dec 10, 2024 | Passed | 0.0 | 4.00 |
 | 11/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2024 | HRS2510A | Officer Involved Shooting | Passed | 0.0 | 1.00 |
 | 10/24/2024 | HRS4059A | Firearms Range | Passed | 0.0 | 4.00 |

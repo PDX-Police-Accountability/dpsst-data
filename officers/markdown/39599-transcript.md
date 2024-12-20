@@ -40,9 +40,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2024 | PDS2741A | Range | Passed | 0.0 | 2.00 |
 | 10/31/2024 | PDS2657A | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/28/2024 | PDS0245A | Less Lethal | Passed | 0.0 | 2.00 |
 | 9/6/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
+| 9/2/2024 | PDS2755A | Kinetic Impact Projectile Refresher | Passed | 0.0 | 0.50 |
+| 9/2/2024 | PDS2666A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
+| 9/2/2024 | PDS2423A | Anti-Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 7/30/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |
 | 7/30/2024 | PDS0551A | OSHA | Passed | 0.0 | 1.00 |
 | 7/30/2024 | PDS0611A | PREA | Passed | 0.0 | 1.00 |

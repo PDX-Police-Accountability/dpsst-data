@@ -4,7 +4,7 @@
 | name | Dauchy, Aaron M. |
 | dpsst_identifier | 30873 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/19/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/3/2020 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 10/2/2019 | Portland Police Bureau | LOA | Police Off |  |  |
 | 1/7/1999 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/13/2011 | Police Officer | Advanced | Granted | 12/13/2011 |  |  |
-| 12/13/2011 | Police Officer | Intermediate | Granted | 12/13/2011 |  |  |
-| 11/28/2000 | Police Officer | Basic | Granted | 11/28/2000 |  |  |
+| 12/13/2011 | Police Officer | Advanced | Granted | 12/13/2011 | 2/19/2025 |  |
+| 12/13/2011 | Police Officer | Intermediate | Granted | 12/13/2011 | 2/19/2025 |  |
+| 11/28/2000 | Police Officer | Basic | Granted | 11/28/2000 | 2/19/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -43,6 +44,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/16/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/16/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/10/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 10/10/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/1/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/26/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/19/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |

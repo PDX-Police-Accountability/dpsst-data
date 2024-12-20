@@ -122,6 +122,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/9/2024
+  course: PDP2855A
+  title: 2024-3 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/9/2024
+  course: PDP3839A
+  title: 2024-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/9/2024
+  course: PDP4038A
+  title: 2024-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/9/2024
+  course: PDP0320A
+  title: 2024-3 Range Qualification Secondary Firearm 50 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/26/2024
   course: PDP3523A
   title: 2024-3 In-Service CAO Legal Updates Supplemental
@@ -260,6 +284,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/10/2024
+  course: PDP2841A
+  title: 2024-3 Range Qualification AR-15 (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/16/2024
   course: PDP2151A
   title: 2024 Investigator In-Service Case Study

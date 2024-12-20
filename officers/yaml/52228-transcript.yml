@@ -3,12 +3,18 @@ header_record:
   name: Harding, David N.
   dpsst_identifier: '52228'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/16/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/29/2018
   agency: Portland Police Bureau
   action: Hired
@@ -28,12 +34,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 2/18/2021
+- status_date: 11/16/2024
   certificate: Police Officer
   level: Basic
-  status: Reactivatd
+  status: Lapsed
   certificate_date: 2/28/2013
-  expiration_date: ''
+  expiration_date: 8/16/2029
   probation_date: ''
 training_records:
 - date: 4/3/2024
@@ -2977,14 +2983,6 @@ training_records:
   score: '0.0'
   hours: '30.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/9/2023
