@@ -39,6 +39,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
+| 12/5/2024 | PDP0414A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
+| 12/5/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
+| 12/5/2024 | PDP3474A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 1.50 |
+| 12/5/2024 | PDP0800A | 2024-3 All Sworn In-Service MFF: Scenarios | Passed | 0.0 | 2.00 |
+| 12/5/2024 | PDP0945A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |
+| 12/4/2024 | PDP1550A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 12/4/2024 | PDP3186A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 12/4/2024 | PDP1123A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
+| 12/4/2024 | PDP3558A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
+| 12/4/2024 | PDP0972A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 10/29/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/29/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/29/2024 | PDP3296A | 2024-3 Range Qualification Secondary Firearm 25 Rd | Passed | 0.0 | 0.50 |

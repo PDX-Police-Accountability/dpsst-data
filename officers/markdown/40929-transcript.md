@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2024 | PDP3831A | 2024 Training Red Dot Optic Transition Course | Instructed | 0.0 | 26.50 |
 | 11/27/2024 | PDP3396A | 2024-3 All Sworn In-Service MFF: Scenarios | Passed | 0.0 | 0.75 |
 | 11/27/2024 | PDP3683A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 0.75 |
 | 11/22/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

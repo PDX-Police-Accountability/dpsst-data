@@ -75,6 +75,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 12/5/2024
+  course: PDP1764A
+  title: '2024-3 All Sworn In-Service MFF: APR'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/5/2024
+  course: PDP3474A
+  title: 2024-3 All Sworn In-Service MFF PO Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/5/2024
+  course: PDP0945A
+  title: '2024-3 All Sworn In-Service MFF: Use of Force TT'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/27/2024
   course: PDP1877A
   title: 2024-3 All Sworn In-Service Control Tactics

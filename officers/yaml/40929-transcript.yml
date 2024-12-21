@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2024
+  course: PDP3831A
+  title: 2024 Training Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '26.50'
 - date: 11/27/2024
   course: PDP3396A
   title: '2024-3 All Sworn In-Service MFF: Scenarios'

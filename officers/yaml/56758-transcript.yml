@@ -50,12 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2024
+  course: PDP0414A
+  title: '2024-3 All Sworn In-Service MFF: Formations'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/17/2024
+  course: PDP0800A
+  title: '2024-3 All Sworn In-Service MFF: Scenarios'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/13/2024
   course: PDP0679A
   title: 2024 Rapid Response Team (RRT) Monthly Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/2/2024
+  course: PDP3912A
+  title: 2024  FTEP HAZMAT/WMD/APR
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/21/2024
   course: PDP2855A
   title: 2024-3 Range Qualification AR-15 (20 Yard)

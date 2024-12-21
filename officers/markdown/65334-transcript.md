@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/3/2024 | PDP3568A | 2024 Body Worn Camera Training | Passed | 0.0 | 3.00 |
+| 12/2/2024 | PDP3912A | 2024  FTEP HAZMAT/WMD/APR | Passed | 0.0 | 2.00 |
 | 11/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/18/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/14/2024 | PDP2683A | 2024 FTEP Orientation | Passed | 0.0 | 5.50 |

@@ -40,6 +40,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Instructed | 0.0 | 9.00 |
+| 12/9/2024 | PDP3186A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 12/9/2024 | PDP1550A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
 | 11/21/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 11/21/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 11/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

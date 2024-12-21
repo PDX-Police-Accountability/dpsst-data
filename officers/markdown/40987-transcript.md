@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | PDP2062A | 2024 Explosive Disposal Unit (MEDU) Weekly | Passed | 0.0 | 9.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | PDP2776A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/13/2024 | PDP3865A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

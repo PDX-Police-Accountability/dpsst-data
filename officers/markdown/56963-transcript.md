@@ -34,6 +34,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2024 | PDP1123A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
+| 12/3/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
+| 12/2/2024 | PDP3186A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 12/2/2024 | PDP1550A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 12/2/2024 | PDP3558A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 11/14/2024 | PDP3683A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
 | 11/14/2024 | PDP3396A | 2024-3 All Sworn In-Service MFF: Scenarios | Passed | 0.0 | 2.00 |
 | 10/31/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/3/2024
+  course: PDP3568A
+  title: 2024 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/2/2024
+  course: PDP3912A
+  title: 2024  FTEP HAZMAT/WMD/APR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/21/2024
   course: PDP4038A
   title: 2024-3 Range Qualification Primary Firearm

@@ -34,9 +34,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
+| 12/17/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
+| 12/17/2024 | PDP3474A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 1.50 |
+| 12/17/2024 | PDP0945A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |
+| 12/16/2024 | PDP1123A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
+| 12/16/2024 | PDP0972A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 12/11/2024 | HBS0216A | Less Lethal Impact Munitions Instructor Program | Passed | 0.0 | 8.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/3/2024 | PDP3568A | 2024 Body Worn Camera Training | Instructed | 0.0 | 3.00 |
+| 12/2/2024 | PDP3912A | 2024  FTEP HAZMAT/WMD/APR | Instructed | 0.0 | 2.00 |
 | 11/14/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 11/14/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/13/2024 | PDP1511A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |

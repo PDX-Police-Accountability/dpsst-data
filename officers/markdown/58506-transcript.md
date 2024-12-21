@@ -34,6 +34,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/7/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 12/7/2024 | PDP3831A | 2024 Training Red Dot Optic Transition Course | Passed | 0.0 | 26.50 |
+| 11/27/2024 | PDP4007A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |

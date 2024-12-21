@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2024 | PDP3186A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
+| 12/9/2024 | PDP1550A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
+| 12/9/2024 | PDP3558A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 11/27/2024 | PDP1877A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 1.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/23/2024 | PDP0149A | 2024 FTEP Policy  Procedure | Instructed | 0.0 | 5.00 |

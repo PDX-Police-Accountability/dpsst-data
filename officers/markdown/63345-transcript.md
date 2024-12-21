@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/10/2024 | OSH1816A | ARIDE | Passed | 0.0 | 16.00 |
+| 12/10/2024 | PDP2693A | 2024 Adv Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/12/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Passed | 0.0 | 18.00 |
 | 10/12/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

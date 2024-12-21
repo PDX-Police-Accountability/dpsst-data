@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 12/10/2024
+  course: PDP2693A
+  title: 2024 Adv Roadside Impaired Driving Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/31/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

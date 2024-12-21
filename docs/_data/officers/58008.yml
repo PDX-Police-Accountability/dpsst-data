@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/7/2024
+  course: PDP3831A
+  title: 2024 Training Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '26.50'
 - date: 10/12/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp

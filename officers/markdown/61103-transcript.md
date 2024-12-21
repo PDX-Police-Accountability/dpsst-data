@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2024 | PDP3831A | 2024 Training Red Dot Optic Transition Course | Passed | 0.0 | 0.00 |
 | 11/27/2024 | PDP0361A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/21/2024 | PDP2407A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 22.00 |

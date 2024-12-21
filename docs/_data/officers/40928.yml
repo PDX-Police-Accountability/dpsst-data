@@ -68,6 +68,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 12/9/2024
+  course: PDP3186A
+  title: 2024-3 All Sworn In-Service ABLE (CIT)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2024
+  course: PDP1550A
+  title: 2024-3 All Sworn In-Service ABLE (Ethics)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/21/2024
   course: PDP3839A
   title: 2024-3 Range Qualification 40mm Less Lethal

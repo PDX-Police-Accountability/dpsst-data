@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 12/10/2024
+  course: PDP2693A
+  title: 2024 Adv Roadside Impaired Driving Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

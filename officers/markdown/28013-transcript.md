@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2024 | PSU1018A | Firearms - Ballistic Shield Deployment Course | Passed | 0.0 | 8.00 |
 | 12/11/2024 | PSU2902A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 12/4/2024 | PSU2471A | The LGBTQ Community | Passed | 0.0 | 1.00 |
 | 12/1/2024 | PSU3489A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |

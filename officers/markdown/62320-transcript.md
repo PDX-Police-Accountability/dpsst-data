@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/10/2024 | OSH1816A | ARIDE | Passed | 0.0 | 16.00 |
+| 12/10/2024 | PDP2693A | 2024 Adv Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/29/2024 | PDP4500A | 2024 CHO Introduction to Interpreting in Policing | Passed | 0.0 | 9.50 |
 | 10/20/2024 | GSP2774A | UAS Ground School | Passed | 0.0 | 30.00 |

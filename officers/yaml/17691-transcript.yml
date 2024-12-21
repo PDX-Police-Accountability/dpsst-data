@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/4/2024
+  course: MNS3676A
+  title: 2024 CIT Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/3/2024
   course: MNS3587A
   title: Emergency Vehicle Operations.Nov.24
