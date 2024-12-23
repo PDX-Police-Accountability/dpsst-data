@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/18/2024
+  course: MLP2579A
+  title: Taser Training and Updates
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/11/2024
   course: HBS0216A
   title: Less Lethal Impact Munitions Instructor Program

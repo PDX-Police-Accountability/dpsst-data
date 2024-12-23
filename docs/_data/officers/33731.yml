@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/1/2024
+  course: PDN3310A
+  title: Ethics Training for DCJ Sworn Staff
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/19/2024
   course: PDN2162A
   title: Confrontational Simulation- Tactical Medicine

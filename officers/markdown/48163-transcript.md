@@ -41,6 +41,7 @@
 | 12/9/2024 | PDP2527A | 2024 External OSP DNA Training | Passed | 0.0 | 2.50 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2024 | PDP3226A | 2024 EAP Separation Training | Passed | 0.0 | 4.00 |
+| 11/19/2024 | ALP0740A | Mission Planning | Passed | 0.0 | 16.00 |
 | 11/14/2024 | PDP3377A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 11/14/2024 | PDP1989A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 11/14/2024 | PDP3683A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |

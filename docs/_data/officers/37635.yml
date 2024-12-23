@@ -75,6 +75,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/3/2024
+  course: EGP2552A
+  title: Supervisory Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/27/2024
   course: EGP4265A
   title: Ethics

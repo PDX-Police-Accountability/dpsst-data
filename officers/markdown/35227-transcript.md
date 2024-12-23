@@ -36,10 +36,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2024 | F1536832 | Equity  Wellbeing Series | Passed | 0.0 | 1.00 |
+| 12/19/2024 | F1528577 | Gender Inclusion: Cultures of Inclusion | Passed | 0.0 | 1.00 |
+| 12/19/2024 | F1526532 | Are CEDs Safe  Effective | Passed | 0.0 | 1.00 |
 | 12/12/2024 | F1505534 | Ethical Considerations for Asset Forf. | Passed | 0.0 | 1.00 |
 | 12/12/2024 | F1514176 | Human Performance Considerations | Passed | 0.0 | 3.00 |
+| 12/12/2024 | F1539978 | Ethical Consideration for Asset Forf. | Passed | 0.0 | 1.00 |
+| 12/12/2024 | F1536612 | Human Performance Considerations | Passed | 0.0 | 3.00 |
+| 11/23/2024 | F1501365 | Officer Facing 48 Years | Passed | 0.0 | 2.00 |
 | 11/22/2024 | F1515024 | DA/MCSO Use of Force Policy Review | Passed | 0.0 | 1.00 |
 | 11/22/2024 | F1510653 | Firearms Qualification - PPB | Passed | 0.0 | 1.00 |
+| 11/22/2024 | F1506370 | Firearms Qualification - PPB | Passed | 0.0 | 1.00 |
+| 11/22/2024 | F1502052 | MCDA/MCSO Use of Force Policy Rev | Passed | 0.0 | 1.00 |
 | 11/8/2024 | PDA3796A | Use of Force Policy Review | Passed | 0.0 | 1.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 7/24/2024 | F1520194 | Crisis Intervention: Focused Response | Passed | 0.0 | 1.00 |

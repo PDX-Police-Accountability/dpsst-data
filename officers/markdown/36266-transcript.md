@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2024 | SAG2864A | Firearms training | Passed | 0.0 | 2.00 |
 | 11/26/2024 | SAG0750A | Firearms training | Passed | 0.0 | 3.00 |
 | 9/25/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |
 | 9/20/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

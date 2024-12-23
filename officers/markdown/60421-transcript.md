@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2024 | SAG2864A | Firearms training | Instructed | 0.0 | 3.00 |
 | 11/26/2024 | SAG0750A | Firearms training | Instructed | 0.0 | 3.00 |
 | 11/26/2024 | SAG0750A | Firearms training | Passed | 0.0 | 3.00 |
 | 10/24/2024 | SAG4294A | Firearms training - Night Range 2024 | Passed | 0.0 | 3.00 |

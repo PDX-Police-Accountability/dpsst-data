@@ -56,6 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2024
+  course: F1536832
+  title: Equity  Wellbeing Series
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/19/2024
+  course: F1528577
+  title: 'Gender Inclusion: Cultures of Inclusion'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/19/2024
+  course: F1526532
+  title: Are CEDs Safe  Effective
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/12/2024
   course: F1505534
   title: Ethical Considerations for Asset Forf.
@@ -68,6 +86,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/12/2024
+  course: F1539978
+  title: Ethical Consideration for Asset Forf.
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2024
+  course: F1536612
+  title: Human Performance Considerations
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/23/2024
+  course: F1501365
+  title: Officer Facing 48 Years
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/22/2024
   course: F1515024
   title: DA/MCSO Use of Force Policy Review
@@ -77,6 +113,18 @@ training_records:
 - date: 11/22/2024
   course: F1510653
   title: Firearms Qualification - PPB
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/22/2024
+  course: F1506370
+  title: Firearms Qualification - PPB
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/22/2024
+  course: F1502052
+  title: MCDA/MCSO Use of Force Policy Rev
   status: Passed
   score: '0.0'
   hours: '1.00'

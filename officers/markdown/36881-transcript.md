@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2024 | SAG2864A | Firearms training | Passed | 0.0 | 2.00 |
 | 10/24/2024 | SAG4294A | Firearms training - Night Range 2024 | Passed | 0.0 | 3.00 |
 | 10/24/2024 | SAG3277A | Taser re-certification 2024 | Passed | 0.0 | 1.00 |
 | 9/25/2024 | VND3546A | Basic Background Investigation | Passed | 0.0 | 16.00 |

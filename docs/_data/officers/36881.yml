@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2024
+  course: SAG2864A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/24/2024
   course: SAG4294A
   title: Firearms training - Night Range 2024

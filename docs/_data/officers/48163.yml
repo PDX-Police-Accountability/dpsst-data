@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/19/2024
+  course: ALP0740A
+  title: Mission Planning
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/14/2024
   course: PDP3377A
   title: '2024-3 All Sworn In-Service MFF: APR'
