@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2024 | LGS2171A | Striking  Take Downs | Instructed | 0.0 | 8.00 |
 | 10/29/2024 | LGS3065A | Firearms/Use of Force | Instructed | 0.0 | 1.50 |
 | 10/10/2024 | LGS3546A | Leadership Coaching, Mentoring,  Org. Culture | Passed | 0.0 | 4.00 |
 | 10/1/2024 | REG2550A | 2024 Legal Update and Review | Passed | 0.0 | 3.00 |

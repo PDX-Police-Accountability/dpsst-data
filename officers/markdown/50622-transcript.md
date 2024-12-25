@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 12/11/2024 | OCP1448A | Domestic Violence Investigations | Passed | 0.0 | 2.25 |
 | 12/4/2024 | OCP2587A | Basic Rifle Course | Instructed | 0.0 | 18.00 |
 | 11/26/2024 | OCP0657A | Firearms/Use of Force | Instructed | 0.0 | 6.00 |

@@ -62,6 +62,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/13/2024 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 16.00 |
 | 12/13/2024 | PLS1077A | ARIDE (with Wetlab) | Instructed | 0.0 | 16.00 |
+| 11/14/2024 | OSH0431A | Mobile Detect Training | Passed | 0.0 | 1.00 |
 | 10/16/2024 | OSH1432A | Patrol Tactics 3 | Passed | 0.0 | 4.00 |
 | 9/20/2024 | OSH0565A | 3rd Trimester Firearms - Low Light | Passed | 0.0 | 4.00 |
 | 6/26/2024 | OSH0023A | Defensive Tactics - Taser Recertification | Passed | 0.0 | 4.00 |

@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 12/23/2024
+  course: OCP2204A
+  title: Lexipol Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '14.50'
 - date: 12/16/2024
   course: OCP1032A
   title: Defensive Tactics - Armed Subject

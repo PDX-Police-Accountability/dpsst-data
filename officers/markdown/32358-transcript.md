@@ -41,6 +41,7 @@
 | 12/2/2024 | PDA2552A | Basic Handgun Skills  Qualification | Passed | 0.0 | 5.00 |
 | 11/8/2024 | PDA3796A | Use of Force Policy Review | Passed | 0.0 | 1.00 |
 | 11/6/2024 | F1500740 | Ethical Considerations for Asset Forf. | Passed | 0.0 | 1.00 |
+| 11/6/2024 | F1516891 | Ethical Considerations for Asset Forf. | Passed | 0.0 | 1.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/14/2024 | PDP2151A | 2024 Investigator In-Service Case Study | Passed | 0.0 | 3.00 |
 | 5/14/2024 | PDP1036A | 2024 Investigator In-Service Device Warrants | Passed | 0.0 | 2.00 |

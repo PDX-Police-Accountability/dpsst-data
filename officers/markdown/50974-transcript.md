@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 9/26/2024 | PDS1142A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/25/2024 | OCP3907A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/12/2024 | OSH2822A | Toxicology: Drugs in Blood Training | Passed | 0.0 | 0.50 |

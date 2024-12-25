@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/23/2024
+  course: OCP2204A
+  title: Lexipol Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '14.50'
 - date: 12/11/2024
   course: OCP1448A
   title: Domestic Violence Investigations

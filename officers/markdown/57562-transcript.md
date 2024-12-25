@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 12/16/2024 | OCP1032A | Defensive Tactics - Armed Subject | Passed | 0.0 | 1.00 |
 | 12/10/2024 | OCP4182A | Taser Certification | Instructed | 0.0 | 2.00 |
 | 11/4/2024 | OCP4448A | Robert Libke LODD Case Study | Passed | 0.0 | 1.50 |

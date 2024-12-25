@@ -47,6 +47,7 @@
 | 11/23/2024 | OSH2456A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/22/2024 | OSH0582A | Patrol Tactics- Survival Skills | Instructed | 0.0 | 8.00 |
 | 11/20/2024 | OSH2146A | PT Survival Skill 3rd Tri | Instructed | 0.0 | 4.00 |
+| 11/14/2024 | OSH0431A | Mobile Detect Training | Passed | 0.0 | 1.00 |
 | 10/28/2024 | OSH2858A | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
 | 10/25/2024 | OSH2277A | 3rd Trimester Firearms-Low Light | Instructed | 0.0 | 4.00 |
 | 10/18/2024 | OSH3811A | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |

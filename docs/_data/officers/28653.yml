@@ -76,24 +76,156 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2024
+  course: F1544309
+  title: 'Equity: Nervous System Basics'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/20/2024
+  course: F1538594
+  title: 'Equity: Parasympathetic Activation'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2024
+  course: F1544685
+  title: 'Equity: How to Regulate Nerv. Sys.'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/2/2024
   course: PDA2552A
   title: Basic Handgun Skills  Qualification
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 11/26/2024
+  course: F1531008
+  title: 'Equity: Gratitude and Mental Health'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/20/2024
+  course: F1526336
+  title: Shutting Down America's Largest
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/8/2024
   course: PDA3796A
   title: Use of Force Policy Review
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/1/2024
+  course: F1504048
+  title: 'Threat Management: Prosecution'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2024
+  course: F1535677
+  title: Workplace Violence Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2024
+  course: F1511344
+  title: Officer Facing 48 Years
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/16/2024
+  course: F1540619
+  title: Emotional Intel. Inclusive Work
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/16/2024
+  course: F1537734
+  title: Workplace Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/24/2024
+  course: F1516553
+  title: Security Incident Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/23/2024
+  course: F1525230
+  title: Protecting the Public During Election
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/18/2024
+  course: F1513818
+  title: Effective, Responsible AI Use in LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/13/2024
+  course: F1504374
+  title: Threat Assessment Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/4/2024
+  course: F1529053
+  title: Collecting, Safeguarding and Dispo.
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: F1531122
+  title: 'Policy Review: Generative AI Use'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: F1518501
+  title: 'Policy Review: Mobile Devices'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: F1508618
+  title: 'Policy Review: PII-0'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: F1526830
+  title: 'Policy Review: Use of Info. Tech'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: F1510589
+  title: 'Equity: The 90 Secong Life Cycle'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: F1529611
+  title: 'Equity: Using the Wellness Room'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2024
+  course: F1533279
+  title: 'Equity: Welcoming a New Member'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/26/2024
   course: 24-0028
   title: DPSST Middle Management F22 Equivalency

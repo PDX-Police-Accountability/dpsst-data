@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2024 | HBP2794A | Leadership Lessons Greatest TED Talks in History | Passed | 0.0 | 16.00 |
 | 11/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2024 | HBP1049A | PoliceOne Confidence in Use of Force, Reality Trng | Passed | 0.0 | 0.50 |
 | 11/14/2024 | HBP3430A | PoliceOne Firearms 4 | Passed | 0.0 | 1.00 |

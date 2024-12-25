@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/18/2024
+  course: CAP4227A
+  title: Night Shoot - Patrol Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/20/2024
   course: CAP0542A
   title: Handgun Night Shoot

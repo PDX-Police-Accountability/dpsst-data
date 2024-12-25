@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2024 | HBP1206A | PoliceOne Leadership 1-8 | Passed | 0.0 | 8.00 |
 | 11/6/2024 | VND2362A | Trauma Informed Response Training | Passed | 0.0 | 7.00 |
 | 10/30/2024 | HBP4497A | Use of Force In-service Wrap-up: Case Law | Passed | 0.0 | 0.50 |
 | 10/30/2024 | HBP1017A | LEDS Recertification or Initial Inquiry | Passed | 0.0 | 1.00 |

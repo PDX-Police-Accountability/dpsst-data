@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 12/4/2024 | OCP2587A | Basic Rifle Course | Passed | 0.0 | 18.00 |
 | 9/25/2024 | OCP3907A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/10/2024 | OCP3494A | Active Threat Response | Passed | 0.0 | 4.00 |

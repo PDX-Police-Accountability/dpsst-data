@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2024 | CAP4227A | Night Shoot - Patrol Rifle | Instructed | 0.0 | 4.00 |
 | 11/20/2024 | CAP0542A | Handgun Night Shoot | Instructed | 0.0 | 4.00 |
 | 11/6/2024 | CAP0944A | Handgun Night Shoot | Instructed | 0.0 | 4.00 |
 | 10/16/2024 | CAP1686A | Force on Force VCQB - Building Search | Passed | 0.0 | 2.00 |

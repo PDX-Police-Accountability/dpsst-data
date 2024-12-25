@@ -39,9 +39,31 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2024 | F1544309 | Equity: Nervous System Basics | Passed | 0.0 | 0.25 |
+| 12/20/2024 | F1538594 | Equity: Parasympathetic Activation | Passed | 0.0 | 0.25 |
+| 12/9/2024 | F1544685 | Equity: How to Regulate Nerv. Sys. | Passed | 0.0 | 0.25 |
 | 12/2/2024 | PDA2552A | Basic Handgun Skills  Qualification | Passed | 0.0 | 5.00 |
+| 11/26/2024 | F1531008 | Equity: Gratitude and Mental Health | Passed | 0.0 | 0.25 |
+| 11/20/2024 | F1526336 | Shutting Down America's Largest | Passed | 0.0 | 1.00 |
 | 11/8/2024 | PDA3796A | Use of Force Policy Review | Passed | 0.0 | 1.00 |
+| 11/1/2024 | F1504048 | Threat Management: Prosecution | Passed | 0.0 | 1.00 |
+| 11/1/2024 | F1535677 | Workplace Violence Prevention | Passed | 0.0 | 1.00 |
+| 10/17/2024 | F1511344 | Officer Facing 48 Years | Passed | 0.0 | 2.00 |
+| 10/16/2024 | F1540619 | Emotional Intel. Inclusive Work | Passed | 0.0 | 0.25 |
+| 10/16/2024 | F1537734 | Workplace Wellness | Passed | 0.0 | 0.25 |
+| 9/24/2024 | F1516553 | Security Incident Report Writing | Passed | 0.0 | 0.25 |
+| 9/23/2024 | F1525230 | Protecting the Public During Election | Passed | 0.0 | 1.00 |
+| 9/18/2024 | F1513818 | Effective, Responsible AI Use in LE | Passed | 0.0 | 1.00 |
+| 9/13/2024 | F1504374 | Threat Assessment Training | Passed | 0.0 | 4.00 |
 | 9/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/4/2024 | F1529053 | Collecting, Safeguarding and Dispo. | Passed | 0.0 | 0.25 |
+| 9/4/2024 | F1531122 | Policy Review: Generative AI Use | Passed | 0.0 | 0.25 |
+| 9/4/2024 | F1518501 | Policy Review: Mobile Devices | Passed | 0.0 | 0.25 |
+| 9/4/2024 | F1508618 | Policy Review: PII-0 | Passed | 0.0 | 0.25 |
+| 9/4/2024 | F1526830 | Policy Review: Use of Info. Tech | Passed | 0.0 | 0.25 |
+| 9/4/2024 | F1510589 | Equity: The 90 Secong Life Cycle | Passed | 0.0 | 0.25 |
+| 9/4/2024 | F1529611 | Equity: Using the Wellness Room | Passed | 0.0 | 0.25 |
+| 9/4/2024 | F1533279 | Equity: Welcoming a New Member | Passed | 0.0 | 0.25 |
 | 8/26/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 8/21/2024 | F1533104 | Finding Financial Balace in Retirement | Passed | 0.0 | 1.00 |
 | 8/20/2024 | F1520157 | Contemporary Approaches | Passed | 0.0 | 4.00 |

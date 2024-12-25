@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2024
+  course: LGS2171A
+  title: Striking  Take Downs
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/29/2024
   course: LGS3065A
   title: Firearms/Use of Force
