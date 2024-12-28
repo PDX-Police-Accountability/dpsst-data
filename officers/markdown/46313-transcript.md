@@ -12,7 +12,6 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 10/14/2024 | Port of Portland Police Department | LOA | Police Off |  |  |
 | 6/8/2015 | Port of Portland Police Department | Hired | Police Off |  |  |
 | 6/4/2015 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 1/28/2013 | Portland Police Bureau | Return LOA | Police Off |  |  |

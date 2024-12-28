@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/17/2024 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 7/9/2024 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 7/6/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/26/2006 | Portland Police Bureau | Hired | Police Off |  |  |

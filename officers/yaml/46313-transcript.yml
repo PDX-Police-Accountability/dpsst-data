@@ -9,12 +9,6 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
-- date: 10/14/2024
-  agency: Port of Portland Police Department
-  action: LOA
-  rank: Police Off
-  classification: ''
-  assignment: ''
 - date: 6/8/2015
   agency: Port of Portland Police Department
   action: Hired

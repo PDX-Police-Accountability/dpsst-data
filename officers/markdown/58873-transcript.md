@@ -4,7 +4,7 @@
 | name | Barron, Francisco J. |
 | dpsst_identifier | 58873 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,12 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/2/2025 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/29/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/26/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/29/2024 | Police Officer | Basic | Lapsed | 8/30/2019 | 3/1/2029 |  |
+| 1/2/2025 | Police Officer | Basic | Required |  |  | 7/2/2026 |
+| 5/29/2024 | Police Officer | Basic | Lapsed | 8/30/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

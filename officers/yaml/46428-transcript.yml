@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/17/2024
+  agency: Portland Police Bureau
+  action: Return LOA
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 7/9/2024
   agency: Portland Police Bureau
   action: LOA
