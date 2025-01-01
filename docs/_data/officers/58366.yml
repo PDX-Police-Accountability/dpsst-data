@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/20/2024
+  course: OSH0358A
+  title: Hwy. 18 murder case study
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 11/14/2024
   course: OSH0431A
   title: Mobile Detect Training
@@ -92,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/23/2024
+  course: OSH2300A
+  title: Effective Canvassing
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/21/2024
+  course: OSH3910A
+  title: Search Warrants
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/10/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

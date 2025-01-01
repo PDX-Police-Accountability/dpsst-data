@@ -85,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/27/2024
+  course: OCP1766A
+  title: EFC Level 1 Instructor Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/25/2024
   course: OCP3907A
   title: Firearms/Use of Force

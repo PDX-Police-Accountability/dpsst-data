@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | BNP3877A | Control Tactics | Passed | 0.0 | 1.00 |
 | 11/26/2024 | BNP3709A | Low light firearms qualifications | Passed | 0.0 | 1.00 |
 | 11/14/2024 | BNP0221A | Mental Health- COPLINE | Passed | 0.0 | 0.50 |
 | 11/14/2024 | BNP1602A | ADL- Inclusive Policing | Passed | 0.0 | 3.00 |

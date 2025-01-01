@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2024
+  course: HBS2402A
+  title: Hearing Conservation Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

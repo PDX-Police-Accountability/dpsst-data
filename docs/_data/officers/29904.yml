@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/12/2024
+  course: PDS1300A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/15/2024
   course: PDS0857A
   title: Range Qualification

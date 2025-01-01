@@ -25,8 +25,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 11/16/2024
-  course: MFY0831A
-  title: IAED PAI Target Tool
+  course: MFY0477A
+  title: Protocol 34 Automatic Crash Notification
   status: Passed
   score: '0.0'
   hours: '0.50'

@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2024 | PDS2017A | Range | Passed | 0.0 | 2.00 |
+| 12/5/2024 | PDS0714A | Range | Passed | 0.0 | 2.00 |
 | 10/2/2024 | PDS2199A | Leadership | Passed | 0.0 | 4.00 |
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/28/2024 | PDS0245A | Less Lethal | Passed | 0.0 | 2.00 |

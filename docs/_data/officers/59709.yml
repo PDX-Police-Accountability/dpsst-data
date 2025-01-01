@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/11/2024
+  course: BNP3877A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/3/2024
   course: BNP3255A
   title: Sex Offender Compliance Investigations

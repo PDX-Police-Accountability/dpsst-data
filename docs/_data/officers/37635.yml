@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/26/2024
+  course: EGP3791A
+  title: Drug Enforcement HB 4002 Briefing Video
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/13/2024
+  course: EGP2827A
+  title: 'Commanding Success: Police Leadership/Ops Strategy'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/9/2024
   course: EGP2932A
   title: 'Belonging Module 4: Leading for Equity'

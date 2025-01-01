@@ -47,6 +47,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2024 | HSU3308A | Leading DEIB at OHSU | Passed | 0.0 | 1.00 |
+| 10/23/2024 | HSU1014A | Into Action: Inclusion and Respect | Passed | 0.0 | 1.00 |
 | 10/21/2024 | HSU1199A | IACP Conference Leadership Track | Passed | 0.0 | 10.00 |
 | 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
 | 9/26/2024 | OAC3203A | Deal w/People You Don't Like - Bring Out The Best | Passed | 0.0 | 2.50 |
@@ -54,6 +56,8 @@
 | 9/25/2024 | RRP3702A | OACP Fall Board Meeting | Passed | 0.0 | 2.00 |
 | 9/25/2024 | OAC3958A | Challenge for LE Leaders in Todays Social Environ. | Passed | 0.0 | 1.25 |
 | 9/25/2024 | OAC0238A | Ignite Your Leadership Potential | Passed | 0.0 | 2.00 |
+| 9/17/2024 | HSU3887A | Building Supportive Communities - Clery/Title IX | Passed | 0.0 | 1.00 |
+| 7/2/2024 | HSU4200A | Integrity Booster 2024 | Passed | 0.0 | 1.00 |
 | 4/20/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/20/2024 | HSU1901A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/19/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |

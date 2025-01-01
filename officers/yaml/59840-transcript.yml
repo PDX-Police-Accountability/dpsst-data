@@ -73,6 +73,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/23/2024
+  course: OCS1768A
+  title: Trauma Informed Courts
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/18/2024
+  course: OCS4386A
+  title: Trauma Informed Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 12/12/2024
   course: OCS2394A
   title: Enrichment Academy BCP

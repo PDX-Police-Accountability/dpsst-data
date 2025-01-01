@@ -39,11 +39,17 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/13/2024 | PDS0272A | Less Lethal Certification | Instructed | 0.0 | 5.00 |
+| 12/13/2024 | PDS0361A | Less Lethal Certification | Instructed | 0.0 | 5.00 |
 | 12/11/2024 | HBS0216A | Less Lethal Impact Munitions Instructor Program | Passed | 0.0 | 8.00 |
+| 12/11/2024 | PDS2577A | Yoga Mat Class 6 Remove the Armor | Passed | 0.0 | 1.00 |
 | 12/10/2024 | PDS3516A | Handcuffing | Instructed | 0.0 | 3.00 |
+| 12/10/2024 | PDS2949A | Handcuffing | Instructed | 0.0 | 3.00 |
 | 12/5/2024 | PDS2017A | Range | Instructed | 0.0 | 2.00 |
+| 12/5/2024 | PDS0714A | Range | Instructed | 0.0 | 2.00 |
 | 12/3/2024 | PDS3059A | Taser IDC | Passed | 0.0 | 8.00 |
+| 12/3/2024 | PDS0390A | Taser IDC | Passed | 0.0 | 8.00 |
 | 12/2/2024 | PDS2017A | Range | Passed | 0.0 | 2.00 |
+| 12/2/2024 | PDS0714A | Range | Passed | 0.0 | 2.00 |
 | 11/27/2024 | PDS3621A | Yoga Mat Class Breath Control | Passed | 0.0 | 1.00 |
 | 11/26/2024 | PDS2940A | Taser | Instructed | 0.0 | 8.00 |
 | 11/25/2024 | PDS3626A | Yoga Mat Class Foundations | Passed | 0.0 | 1.00 |

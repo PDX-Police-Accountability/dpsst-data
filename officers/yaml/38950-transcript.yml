@@ -101,6 +101,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/18/2024
+  course: HBS3475A
+  title: 'Admin InService #2 (Leadership)'
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/16/2024
+  course: HBS1064A
+  title: 'Admin InService #2 (Leadership)'
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/16/2024
+  course: HBS1064A
+  title: 'Admin InService #2 (Leadership)'
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/22/2024
   course: HBS3479A
   title: 'InService Session #2 DT''s'

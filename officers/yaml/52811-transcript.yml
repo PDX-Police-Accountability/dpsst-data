@@ -63,8 +63,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 12/13/2024
+  course: PDS2420A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/12/2024
   course: PDS2741A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/12/2024
+  course: PDS1300A
   title: Range
   status: Instructed
   score: '0.0'
@@ -75,8 +87,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 12/3/2024
+  course: PDS0714A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/2/2024
   course: PDS2017A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/2/2024
+  course: PDS0714A
   title: Range
   status: Instructed
   score: '0.0'

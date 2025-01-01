@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/13/2024 | PDS1307A | Range | Passed | 0.0 | 2.00 |
+| 12/13/2024 | PDS2420A | Range | Passed | 0.0 | 2.00 |
 | 10/25/2024 | PDS2118A | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
 | 10/25/2024 | PDS3524A | PREA | Passed | 0.0 | 1.00 |
 | 10/11/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |

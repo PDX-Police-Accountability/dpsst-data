@@ -60,6 +60,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2024 | REG0829A | Intoxilyzer 8000 Instructor Course | Passed | 0.0 | 7.00 |
 | 12/13/2024 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 16.00 |
 | 12/13/2024 | PLS1077A | ARIDE (with Wetlab) | Instructed | 0.0 | 16.00 |
 | 11/14/2024 | OSH0431A | Mobile Detect Training | Passed | 0.0 | 1.00 |

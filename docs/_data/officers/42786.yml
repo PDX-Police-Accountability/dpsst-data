@@ -114,6 +114,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/8/2024
+  course: HSU3308A
+  title: Leading DEIB at OHSU
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/23/2024
+  course: HSU1014A
+  title: 'Into Action: Inclusion and Respect'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/21/2024
   course: HSU1199A
   title: IACP Conference Leadership Track
@@ -156,6 +168,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/17/2024
+  course: HSU3887A
+  title: Building Supportive Communities - Clery/Title IX
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/2/2024
+  course: HSU4200A
+  title: Integrity Booster 2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/20/2024
   course: HSU0104A
   title: Spring In-Service 2024 Firearms

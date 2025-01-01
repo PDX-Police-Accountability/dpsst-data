@@ -51,6 +51,7 @@
 | 11/13/2024 | BNP0221A | Mental Health- COPLINE | Passed | 0.0 | 0.50 |
 | 11/13/2024 | BNP1602A | ADL- Inclusive Policing | Passed | 0.0 | 3.00 |
 | 11/13/2024 | BNP0569A | Low Light Firearms / Qualifications | Passed | 0.0 | 3.00 |
+| 10/7/2024 | BNP4462A | Skidcar Training | Passed | 0.0 | 1.00 |
 | 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.00 |
 | 9/26/2024 | OAC3203A | Deal w/People You Don't Like - Bring Out The Best | Passed | 0.0 | 2.50 |
 | 9/26/2024 | OAC1618A | Culture Conundrum Examination within Organization | Passed | 0.0 | 4.00 |

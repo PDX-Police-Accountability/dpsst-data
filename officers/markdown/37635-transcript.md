@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/26/2024 | EGP3791A | Drug Enforcement HB 4002 Briefing Video | Passed | 0.0 | 0.75 |
+| 12/13/2024 | EGP2827A | Commanding Success: Police Leadership/Ops Strategy | Passed | 0.0 | 1.00 |
 | 12/9/2024 | EGP2932A | Belonging Module 4: Leading for Equity | Passed | 0.0 | 4.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2024 | EGP2552A | Supervisory Leadership Training | Passed | 0.0 | 2.00 |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2024 | LOP2422A | Conducting Photo Lineups | Passed | 0.0 | 0.50 |
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2024 | LOP2617A | Firearms Training | Passed | 0.0 | 4.00 |
 | 11/14/2024 | LOP2028A | AHA Heartsaver First Aid | Passed | 0.0 | 2.00 |

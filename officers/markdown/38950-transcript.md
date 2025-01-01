@@ -46,6 +46,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2024 | HBS3475A | Admin InService #2 (Leadership) | Instructed | 0.0 | 1.00 |
+| 12/16/2024 | HBS1064A | Admin InService #2 (Leadership) | Passed | 0.0 | 6.00 |
+| 12/16/2024 | HBS1064A | Admin InService #2 (Leadership) | Instructed | 0.0 | 1.00 |
 | 11/22/2024 | HBS3479A | InService Session #2 DT's | Passed | 0.0 | 4.00 |
 | 11/22/2024 | HBS3713A | InService Session #2 EVO | Passed | 0.0 | 3.00 |
 | 11/20/2024 | HBS3051A | Mental Health  Wellness in Policing Summit | Passed | 0.0 | 21.00 |

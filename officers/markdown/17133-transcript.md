@@ -214,7 +214,7 @@
 | 2/26/2008 | 08-0794 | Child Abuse Investigation | Passed | 0.0 | 4.00 |
 | 1/20/2008 | 08-1203 | EVOC | Passed | 0.0 | 8.00 |
 | 12/14/2007 | 07-0109 | Confrontational Simulation | Passed | 0.0 | 2.00 |
-| 9/19/2007 | 07-0361 | Oregon Association Chief's of Police Conference | Registered | 0.0 | 0.00 |
+| 9/19/2007 | 07-0361 | Oregon Association Chief's of Police Conference | Unknown | 0.0 | 0.00 |
 | 9/6/2007 | 07-0772 | Blood Splatter  Crime Scenes | Passed | 0.0 | 8.00 |
 | 8/6/2007 | 07-0132 | Firearms Qualification | Passed | 0.0 | 2.00 |
 | 2/26/2007 | 07-0914 | Personal / Professional Development - Other | Passed | 0.0 | 1.00 |

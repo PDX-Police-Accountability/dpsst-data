@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/24/2024
+  course: RMP3130A
+  title: Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/5/2024
   course: BNP1178A
   title: Distraction Devices Training and Test

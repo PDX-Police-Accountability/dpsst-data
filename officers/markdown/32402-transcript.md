@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2024 | HBS2402A | Hearing Conservation Video | Passed | 0.0 | 0.25 |
 | 12/1/2024 | HBS1371A | Nov. Virtual Session #2 General | Passed | 0.0 | 2.25 |
 | 11/20/2024 | HBS3592A | Elder Abuse Symposium | Passed | 0.0 | 4.50 |
 | 11/1/2024 | HBS2393A | October Virtual Session #2 Mental Health | Passed | 0.0 | 2.00 |

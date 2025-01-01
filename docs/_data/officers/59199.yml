@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 12/26/2024
+  course: EGP3791A
+  title: Drug Enforcement HB 4002 Briefing Video
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

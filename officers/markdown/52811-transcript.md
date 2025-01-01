@@ -39,9 +39,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/13/2024 | PDS1307A | Range | Instructed | 0.0 | 2.00 |
+| 12/13/2024 | PDS2420A | Range | Instructed | 0.0 | 2.00 |
 | 12/12/2024 | PDS2741A | Range | Instructed | 0.0 | 2.00 |
+| 12/12/2024 | PDS1300A | Range | Instructed | 0.0 | 2.00 |
 | 12/3/2024 | PDS2017A | Range | Instructed | 0.0 | 2.00 |
+| 12/3/2024 | PDS0714A | Range | Instructed | 0.0 | 2.00 |
 | 12/2/2024 | PDS2017A | Range | Instructed | 0.0 | 2.00 |
+| 12/2/2024 | PDS0714A | Range | Instructed | 0.0 | 2.00 |
 | 11/26/2024 | PDS3254A | Range Training IDC | Instructed | 0.0 | 4.00 |
 | 11/2/2024 | PDS2776A | Range Qualification | Instructed | 0.0 | 0.50 |
 | 11/2/2024 | PDS4192A | Range Training | Instructed | 0.0 | 3.50 |

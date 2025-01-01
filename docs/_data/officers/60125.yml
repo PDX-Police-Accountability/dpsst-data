@@ -43,12 +43,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2024
+  course: PDS1198A
+  title: Use of Force Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 12/13/2024
   course: PDS0272A
   title: Less Lethal Certification
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 12/13/2024
+  course: PDS0361A
+  title: Less Lethal Certification
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/11/2024
+  course: PDS4565A
+  title: De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/11/2024
+  course: PDS2577A
+  title: Yoga Mat Class 6 Remove the Armor
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/10/2024
   course: PDS4528A
   title: Yoga Mat Class 5 Recovery
@@ -57,6 +81,18 @@ training_records:
   hours: '1.00'
 - date: 12/10/2024
   course: PDS3516A
+  title: Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/10/2024
+  course: PDS0587A
+  title: Yoga Mat Class 5 Recovery
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/10/2024
+  course: PDS2949A
   title: Handcuffing
   status: Passed
   score: '0.0'

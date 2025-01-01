@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/24/2024 | RMP3130A | Mental Health | Passed | 0.0 | 1.00 |
 | 12/5/2024 | BNP1178A | Distraction Devices Training and Test | Passed | 0.0 | 3.00 |
 | 12/5/2024 | BNP0819A | Tactical Mission Debriefs | Passed | 0.0 | 3.00 |
 | 12/5/2024 | BNP3704A | Distraction Devices Training and Test | Passed | 0.0 | 2.00 |

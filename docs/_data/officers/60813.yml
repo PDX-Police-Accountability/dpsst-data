@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2024
+  course: OSH2372A
+  title: 3rd Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/13/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

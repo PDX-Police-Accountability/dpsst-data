@@ -37,9 +37,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2024 | PDS1198A | Use of Force Report Writing | Passed | 0.0 | 5.50 |
 | 12/13/2024 | PDS0272A | Less Lethal Certification | Passed | 0.0 | 5.00 |
+| 12/13/2024 | PDS0361A | Less Lethal Certification | Passed | 0.0 | 5.00 |
+| 12/11/2024 | PDS4565A | De-Escalation | Passed | 0.0 | 3.00 |
+| 12/11/2024 | PDS2577A | Yoga Mat Class 6 Remove the Armor | Passed | 0.0 | 1.00 |
 | 12/10/2024 | PDS4528A | Yoga Mat Class 5 Recovery | Passed | 0.0 | 1.00 |
 | 12/10/2024 | PDS3516A | Handcuffing | Passed | 0.0 | 3.00 |
+| 12/10/2024 | PDS0587A | Yoga Mat Class 5 Recovery | Passed | 0.0 | 1.00 |
+| 12/10/2024 | PDS2949A | Handcuffing | Passed | 0.0 | 3.00 |
 | 12/9/2024 | PDS4051A | Use of Force Report Writing | Passed | 0.0 | 3.50 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/13/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

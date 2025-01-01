@@ -42,6 +42,7 @@
 | 12/10/2024 | OCP4182A | Taser Certification | Instructed | 0.0 | 2.00 |
 | 11/4/2024 | OCP4448A | Robert Libke LODD Case Study | Passed | 0.0 | 1.50 |
 | 10/22/2024 | OCP3693A | Defensive Tactics - Vehicle Extractions | Passed | 0.0 | 1.00 |
+| 9/27/2024 | OCP1766A | EFC Level 1 Instructor Certification Course | Passed | 0.0 | 40.00 |
 | 9/25/2024 | OCP3907A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/10/2024 | OCP3494A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 9/10/2024 | OCP4124A | Wall and Squad Car Tactics | Passed | 0.0 | 6.50 |

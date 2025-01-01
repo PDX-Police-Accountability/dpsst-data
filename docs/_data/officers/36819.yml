@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/3/2024
+  course: F1514181
+  title: Ethics in Public Service
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/3/2024
+  course: F1513283
+  title: 'Policy Review: Code of Ethics'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/2/2024
   course: PDA2552A
   title: Basic Handgun Skills  Qualification

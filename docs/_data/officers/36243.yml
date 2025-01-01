@@ -101,6 +101,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/4/2024
+  course: HBS2402A
+  title: Hearing Conservation Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/1/2024
   course: HBS1371A
   title: 'Nov. Virtual Session #2 General'
