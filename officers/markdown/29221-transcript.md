@@ -51,6 +51,20 @@
 | 11/26/2024 | BNP3709A | Low light firearms qualifications | Passed | 0.0 | 1.00 |
 | 11/14/2024 | BNP0221A | Mental Health- COPLINE | Passed | 0.0 | 0.50 |
 | 11/14/2024 | BNP1602A | ADL- Inclusive Policing | Passed | 0.0 | 3.00 |
+| 10/22/2024 | F1539007 | 21st Century Tactical Athlete | Passed | 0.0 | 1.00 |
+| 10/22/2024 | F1529805 | 25 Year after Columbine | Passed | 0.0 | 1.50 |
+| 10/21/2024 | F1516700 | A Roadmap to Success | Passed | 0.0 | 1.00 |
+| 10/21/2024 | F1514847 | Filling the Seat or Finding the Fit | Passed | 0.0 | 1.00 |
+| 10/21/2024 | F1527472 | General Assembly | Passed | 0.0 | 1.00 |
+| 10/21/2024 | F1530066 | Speaker Series: A Conversation | Passed | 0.0 | 1.00 |
+| 10/20/2024 | F1525707 | Recommendations from the Critical | Passed | 0.0 | 1.50 |
+| 10/20/2024 | F1531535 | Finding Your Purpose after Retirement | Passed | 0.0 | 1.00 |
+| 10/20/2024 | F1539744 | Investigating Police Suicides | Passed | 0.0 | 1.00 |
+| 10/19/2024 | F1535527 | Artificial Intelligence for Public Safety | Passed | 0.0 | 1.00 |
+| 10/19/2024 | F1527472 | General Assembly | Passed | 0.0 | 1.00 |
+| 10/19/2024 | F1544533 | Int'l Communication  Engagement | Passed | 0.0 | 1.00 |
+| 10/19/2024 | F1538336 | Project Barcode: Tracking Retail Theft | Passed | 0.0 | 1.00 |
+| 10/19/2024 | F1532776 | Transform Your Culture in a Year | Passed | 0.0 | 1.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/9/2024 | BNP3331A | Deschutes County Deflection Program | Passed | 0.0 | 1.50 |
 | 9/9/2024 | BNP3898A | Firearms Qualifications and Drills | Passed | 0.0 | 1.50 |

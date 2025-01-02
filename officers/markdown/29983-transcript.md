@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | APD4116A | Reasonable Suspicion Testing | Passed | 0.0 | 1.50 |
+| 12/24/2024 | APD1546A | Interacting w/ the Mentally Ill as a 1st Responder | Passed | 0.0 | 1.00 |
+| 12/24/2024 | APD1829A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
+| 12/6/2024 | APD0128A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/28/2024 | APD2076A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.50 |
 | 11/14/2024 | APD0064A | Pistol Qualification | Passed | 0.0 | 8.00 |
 | 4/12/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

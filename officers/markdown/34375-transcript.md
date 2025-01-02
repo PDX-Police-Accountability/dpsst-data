@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2024 | STS2651A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/12/2024 | OSA2697A | OSSA  CIT Training - Dec 12, 2024 | Passed | 0.0 | 3.50 |
 | 12/11/2024 | OSA0485A | OSSA Legal Training  - Dec 11, 2024 | Passed | 0.0 | 3.50 |
 | 12/11/2024 | OSA1655A | OSSA  Employment Law - Dec 11, 2024 | Passed | 0.0 | 3.50 |

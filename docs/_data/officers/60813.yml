@@ -1535,10 +1535,6 @@ attribute_records:
   value: First Aid
   effective_date: 3/17/2023
   expiration_date: 3/31/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/12/2021

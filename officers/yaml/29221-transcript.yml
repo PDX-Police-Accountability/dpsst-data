@@ -143,6 +143,90 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/22/2024
+  course: F1539007
+  title: 21st Century Tactical Athlete
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2024
+  course: F1529805
+  title: 25 Year after Columbine
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/21/2024
+  course: F1516700
+  title: A Roadmap to Success
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2024
+  course: F1514847
+  title: Filling the Seat or Finding the Fit
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2024
+  course: F1527472
+  title: General Assembly
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2024
+  course: F1530066
+  title: 'Speaker Series: A Conversation'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2024
+  course: F1525707
+  title: Recommendations from the Critical
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/20/2024
+  course: F1531535
+  title: Finding Your Purpose after Retirement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2024
+  course: F1539744
+  title: Investigating Police Suicides
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2024
+  course: F1535527
+  title: Artificial Intelligence for Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2024
+  course: F1527472
+  title: General Assembly
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2024
+  course: F1544533
+  title: Int'l Communication  Engagement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2024
+  course: F1538336
+  title: 'Project Barcode: Tracking Retail Theft'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2024
+  course: F1532776
+  title: Transform Your Culture in a Year
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/3/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

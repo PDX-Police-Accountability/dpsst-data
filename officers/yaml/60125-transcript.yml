@@ -2180,6 +2180,11 @@ education_records:
   school: Clackamas Community College
   major: ''
   hours: '24.0'
+- date: 9/15/2020
+  degree: No Degree
+  school: Chemeketa Community College
+  major: ''
+  hours: '24.0'
 - date: 3/15/2015
   degree: No Degree
   school: All Other Education Institutes

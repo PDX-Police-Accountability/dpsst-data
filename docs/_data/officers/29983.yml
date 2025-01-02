@@ -76,6 +76,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2024
+  course: APD4116A
+  title: Reasonable Suspicion Testing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/24/2024
+  course: APD1546A
+  title: Interacting w/ the Mentally Ill as a 1st Responder
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/24/2024
+  course: APD1829A
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/6/2024
+  course: APD0128A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/28/2024
   course: APD2076A
   title: Anti-Bias Training for Law Enforcement
