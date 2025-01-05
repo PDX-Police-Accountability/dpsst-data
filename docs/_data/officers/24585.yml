@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/23/2024
+  agency: Portland State University DPS
+  action: LOA
+  rank: Chief
+  classification: ''
+  assignment: ''
 - date: 7/1/2020
   agency: Portland State University DPS
   action: Promotion

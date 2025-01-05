@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/23/2024 | Portland State University DPS | LOA | Chief |  |  |
 | 7/1/2020 | Portland State University DPS | Promotion | Chief |  |  |
 | 2/1/2016 | Portland State University DPS | Hired | Sergeant |  |  |
 | 1/18/2016 | Portland Police Bureau | Retired | Sergeant |  |  |
