@@ -44,12 +44,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/2/2024
+  course: REG3564A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/31/2024
+  course: REG1988A
+  title: Closed Guard - Defense Against Strikes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/28/2024
+  course: REG0667A
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2024
+  course: REG3027A
+  title: Standing and Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2024
+  course: REG4051A
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/18/2024
   course: PDP2855A
   title: 2024-3 Range Qualification AR-15 (20 Yard)
@@ -68,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/14/2024
+  course: REG1599A
+  title: Limb Control, Escapes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/10/2024
+  course: REG1817A
+  title: Side Control DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/3/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
@@ -80,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/3/2024
+  course: REG0954A
+  title: Striking, Guard Retention, Sweeps
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/1/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates
@@ -146,12 +194,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 9/30/2024
+  course: REG2276A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/27/2024
   course: PDP1882A
   title: School Emergency Actions
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/23/2024
+  course: REG0204A
+  title: Weapon Retention  Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/16/2024
+  course: REG2545A
+  title: Control Tactic Ground w/Weapons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/12/2024
+  course: REG2308A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2024
+  course: REG1630A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/23/2024
   course: PDP2600A
   title: 2024 Body Worn Camera Investigator Course
@@ -164,6 +242,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/8/2024
+  course: REG1269A
+  title: Striking, Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/5/2024
   course: REG0657A
   title: DT
@@ -4664,6 +4748,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 7/29/2004
+  course: REG3909A
+  title: Grips  Barriers
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/7/2003
   course: 03-1066
   title: Defensive Tactics - Instructor Development

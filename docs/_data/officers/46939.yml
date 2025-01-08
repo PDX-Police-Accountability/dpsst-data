@@ -92,6 +92,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/10/2024
+  course: PDP4349A
+  title: '2024-3 All Sworn In-Service MFF: Scenarios'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/10/2024
+  course: PDP4560A
+  title: '2024-3 All Sworn In-Service MFF: Formations'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/9/2024
   course: PDP1634A
   title: 2024-3 All Sworn In-Service ABLE (CIT)

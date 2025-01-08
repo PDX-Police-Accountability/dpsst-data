@@ -135,6 +135,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/12/2024
+  course: SVP2366A
+  title: Night Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/13/2024
   course: F6R3273A
   title: Monthly Leadership Meeting

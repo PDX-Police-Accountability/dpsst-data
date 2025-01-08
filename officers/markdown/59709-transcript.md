@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2024 | BNP2622A | Emergency Operations Plan | Passed | 0.0 | 1.00 |
+| 12/30/2024 | BNP0742A | Standard Operating Procedure Updates | Passed | 0.0 | 2.00 |
+| 12/30/2024 | BNP1261A | Fire Lithium Exposure | Passed | 0.0 | 1.00 |
+| 12/30/2024 | BNP4513A | OSHA Hearing Protection | Passed | 0.0 | 1.00 |
+| 12/30/2024 | BNP3065A | Medical Behavioral Emergencies | Passed | 0.0 | 1.00 |
 | 12/17/2024 | BNP4341A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 12/11/2024 | BNP3877A | Control Tactics | Passed | 0.0 | 1.00 |
 | 12/3/2024 | BNP3255A | Sex Offender Compliance Investigations | Passed | 0.0 | 1.00 |

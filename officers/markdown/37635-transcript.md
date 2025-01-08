@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2024 | EGP2889A | ICS240.c:  Leadership  Influence | Passed | 0.0 | 3.50 |
 | 12/26/2024 | EGP3791A | Drug Enforcement HB 4002 Briefing Video | Passed | 0.0 | 0.75 |
 | 12/13/2024 | EGP2827A | Commanding Success: Police Leadership/Ops Strategy | Passed | 0.0 | 1.00 |
 | 12/9/2024 | EGP2932A | Belonging Module 4: Leading for Equity | Passed | 0.0 | 4.00 |

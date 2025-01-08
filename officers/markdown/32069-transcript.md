@@ -45,17 +45,23 @@
 | 12/10/2024 | SDP3551A | Intro to OSHA and Leadership | Passed | 0.0 | 2.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | SDP2785A | Ethics Training | Passed | 0.0 | 1.00 |
+| 11/11/2024 | REG4319A | Arrest  Control/Team Takedowns | Passed | 0.0 | 1.00 |
 | 11/1/2024 | SDP4124A | Equity - Changing Perspectives COPS Training | Passed | 0.0 | 1.00 |
 | 11/1/2024 | SDP4337A | Equity - Changing Perspectives COPS Training | Passed | 0.0 | 1.00 |
 | 10/23/2024 | SDP2246A | Basic Firearms Training | Instructed | 0.0 | 4.00 |
 | 10/17/2024 | SDP3660A | Trauma Informed Care (Equity) | Passed | 0.0 | 1.00 |
 | 10/16/2024 | SDP0761A | LE and knowing about developmental Disabilities | Passed | 0.0 | 1.00 |
+| 9/30/2024 | REG2276A | DT | Passed | 0.0 | 1.00 |
 | 9/25/2024 | SDP2089A | Rifle Update and Skills Training | Passed | 0.0 | 4.00 |
+| 9/23/2024 | REG0204A | Weapon Retention  Control | Passed | 0.0 | 1.00 |
 | 9/18/2024 | SDP1185A | Handgun Qualification | Instructed | 0.0 | 1.50 |
+| 9/16/2024 | REG2545A | Control Tactic Ground w/Weapons | Passed | 0.0 | 1.00 |
 | 9/11/2024 | SDP2538A | HB 4002 Drug Possession Law and Deflection Update | Passed | 0.0 | 1.00 |
 | 9/11/2024 | SDP3960A | Rifle Update and Skills Training | Passed | 0.0 | 4.00 |
 | 9/11/2024 | SDP2034A | Control and De-Escalation Safety Update | Passed | 0.0 | 2.00 |
+| 9/9/2024 | REG1630A | DT | Passed | 0.0 | 1.00 |
 | 8/21/2024 | SDP0086A | Taser 7 Virtual Reality Training | Passed | 0.0 | 0.50 |
+| 8/19/2024 | REG1692A | Ground Control | Passed | 0.0 | 1.00 |
 | 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
 | 7/8/2024 | REG3252A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 7/1/2024 | REG3883A | DT | Passed | 0.0 | 1.00 |
@@ -762,6 +768,7 @@
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 15.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 24.00 |
+| 7/29/2004 | REG3909A | Grips  Barriers | Passed | 0.0 | 1.00 |
 | 12/5/2003 | 03-0246 | ONEA Winter Training Conference | Passed | 0.0 | 16.00 |
 | 12/3/2003 | 03-0872 | OSIN Basic Criminal Intelligence Concepts Training | Passed | 0.0 | 4.00 |
 | 10/22/2003 | 03-0358 | PPB Instructor Development Course | Passed | 0.0 | 30.00 |

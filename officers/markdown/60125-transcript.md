@@ -38,9 +38,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | PDS3224A | ICS-700 | Passed | 0.0 | 3.50 |
+| 1/4/2025 | PDS1276A | Roll Call Training Case Law | Passed | 0.0 | 0.25 |
 | 12/16/2024 | PDS1198A | Use of Force Report Writing | Passed | 0.0 | 5.50 |
 | 12/13/2024 | PDS0272A | Less Lethal Certification | Passed | 0.0 | 5.00 |
 | 12/13/2024 | PDS0361A | Less Lethal Certification | Passed | 0.0 | 5.00 |
+| 12/12/2024 | PDS3811A | ICS-100 | Passed | 0.0 | 2.00 |
+| 12/12/2024 | PDS0984A | OC Training | Passed | 0.0 | 1.00 |
+| 12/12/2024 | PDS3293A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 12/12/2024 | PDS0313A | Taser Recertification | Passed | 0.0 | 1.00 |
 | 12/11/2024 | PDS4565A | De-Escalation | Passed | 0.0 | 3.00 |
 | 12/11/2024 | PDS2577A | Yoga Mat Class 6 Remove the Armor | Passed | 0.0 | 1.00 |
 | 12/10/2024 | PDS4528A | Yoga Mat Class 5 Recovery | Passed | 0.0 | 1.00 |

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | SVP4231A | Night Range | Passed | 0.0 | 3.00 |
 | 11/20/2024 | SVP3669A | Defensive Tactics Training | Passed | 0.0 | 3.50 |
 | 11/18/2024 | SVP0827A | Balancing Innovation  Ethics | Passed | 0.0 | 1.50 |
 | 11/13/2024 | F6R3273A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |

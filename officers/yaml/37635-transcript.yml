@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/30/2024
+  course: EGP2889A
+  title: 'ICS240.c:  Leadership  Influence'
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 12/26/2024
   course: EGP3791A
   title: Drug Enforcement HB 4002 Briefing Video

@@ -43,6 +43,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/30/2024
+  course: BNP2622A
+  title: Emergency Operations Plan
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2024
+  course: BNP0742A
+  title: Standard Operating Procedure Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/30/2024
+  course: BNP1261A
+  title: Fire Lithium Exposure
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2024
+  course: BNP4513A
+  title: OSHA Hearing Protection
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2024
+  course: BNP3065A
+  title: Medical Behavioral Emergencies
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/17/2024
   course: BNP4341A
   title: Firearms/Use of Force

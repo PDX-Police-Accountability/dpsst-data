@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.50'
+- date: 10/21/2024
+  course: REG4051A
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/5/2024
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

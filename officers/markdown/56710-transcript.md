@@ -47,6 +47,7 @@
 | 11/20/2024 | SDP2785A | Ethics Training | Passed | 0.0 | 1.00 |
 | 10/17/2024 | SDP2977A | Defensive Tactics - C4C | Passed | 0.0 | 1.00 |
 | 10/2/2024 | GSP0866A | OPCA Fall Seminar - Patrol | Passed | 0.0 | 24.00 |
+| 8/8/2024 | REG1269A | Striking, Ground Control | Passed | 0.0 | 1.00 |
 | 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
 | 6/26/2024 | SDP4192A | In-Service Taser 7 Refresher | Passed | 0.0 | 4.00 |
 | 6/3/2024 | REG4072A | DT | Passed | 0.0 | 1.00 |

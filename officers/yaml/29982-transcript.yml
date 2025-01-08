@@ -89,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2024
+  course: SVP4231A
+  title: Night Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/20/2024
   course: SVP3669A
   title: Defensive Tactics Training

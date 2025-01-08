@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 8/8/2024
+  course: REG1269A
+  title: Striking, Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/5/2024
   course: REG0657A
   title: DT

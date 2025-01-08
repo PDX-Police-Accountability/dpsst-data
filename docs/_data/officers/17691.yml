@@ -61,6 +61,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2024
+  course: MNS0040A
+  title: Courtroom Testimony and Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/19/2024
+  course: MNS4019A
+  title: Below 100
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/19/2024
+  course: MNS4526A
+  title: Police and People with Intellectual Disabilities
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/19/2024
+  course: MNS0048A
+  title: DUII Investigations and SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -82,6 +106,12 @@ training_records:
 - date: 12/4/2024
   course: MNS3676A
   title: 2024 CIT Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/4/2024
+  course: MNS1953A
+  title: Crisis Intervention Training
   status: Passed
   score: '0.0'
   hours: '3.00'

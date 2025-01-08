@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2025
+  course: PDS3224A
+  title: ICS-700
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 1/4/2025
+  course: PDS1276A
+  title: Roll Call Training Case Law
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/16/2024
   course: PDS1198A
   title: Use of Force Report Writing
@@ -61,6 +73,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 12/12/2024
+  course: PDS3811A
+  title: ICS-100
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/12/2024
+  course: PDS0984A
+  title: OC Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2024
+  course: PDS3293A
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2024
+  course: PDS0313A
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/11/2024
   course: PDS4565A
   title: De-Escalation

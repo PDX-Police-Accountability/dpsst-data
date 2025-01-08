@@ -35,12 +35,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/2/2024 | REG3564A | DT | Passed | 0.0 | 1.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/31/2024 | REG1988A | Closed Guard - Defense Against Strikes | Passed | 0.0 | 1.00 |
+| 10/28/2024 | REG0667A | Ground Control | Passed | 0.0 | 1.00 |
+| 10/24/2024 | REG3027A | Standing and Ground Control | Passed | 0.0 | 1.00 |
+| 10/21/2024 | REG4051A | Ground Control | Passed | 0.0 | 1.00 |
 | 10/18/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 10/18/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/18/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/14/2024 | REG1599A | Limb Control, Escapes | Passed | 0.0 | 1.00 |
+| 10/10/2024 | REG1817A | Side Control DT | Passed | 0.0 | 1.00 |
 | 10/3/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/3/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/3/2024 | REG0954A | Striking, Guard Retention, Sweeps | Passed | 0.0 | 1.00 |
 | 10/1/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 10/1/2024 | PDP2037A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 10/1/2024 | PDP2644A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
@@ -52,9 +60,15 @@
 | 9/30/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 9/30/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 9/30/2024 | PDP3280A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 9/30/2024 | REG2276A | DT | Passed | 0.0 | 1.00 |
 | 9/27/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/23/2024 | REG0204A | Weapon Retention  Control | Passed | 0.0 | 1.00 |
+| 9/16/2024 | REG2545A | Control Tactic Ground w/Weapons | Passed | 0.0 | 1.00 |
+| 9/12/2024 | REG2308A | DT | Passed | 0.0 | 1.00 |
+| 9/9/2024 | REG1630A | DT | Passed | 0.0 | 1.00 |
 | 8/23/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/22/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/8/2024 | REG1269A | Striking, Ground Control | Passed | 0.0 | 1.00 |
 | 8/5/2024 | REG0657A | DT | Passed | 0.0 | 1.00 |
 | 8/1/2024 | REG3810A | DT Striking Defense/Ground Control | Passed | 0.0 | 1.00 |
 | 7/25/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
@@ -805,6 +819,7 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 31.00 |
 | 8/3/2004 | 04-0534 | Lidar - Practical | Passed | 0.0 | 16.00 |
 | 7/31/2004 | 04-0368 | Lidar Operators Course | Passed | 0.0 | 6.00 |
+| 7/29/2004 | REG3909A | Grips  Barriers | Passed | 0.0 | 1.00 |
 | 11/7/2003 | 03-1066 | Defensive Tactics - Instructor Development | Passed | 0.0 | 80.00 |
 | 7/22/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 5.00 |
 | 10/25/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |

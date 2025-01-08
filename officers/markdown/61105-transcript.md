@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | NGP3184A | Roll Call Training Consolidated Roster | Passed | 0.0 | 20.00 |
 | 11/26/2024 | NGP1046A | CIT-Crisis Response, Understanding Mental Illness | Passed | 0.0 | 3.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/11/2024 | NGP4541A | Taser CEW Operator Recertification course | Passed | 0.0 | 2.00 |

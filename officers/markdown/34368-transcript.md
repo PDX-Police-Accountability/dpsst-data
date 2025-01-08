@@ -42,6 +42,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2024 | BNP2622A | Emergency Operations Plan | Passed | 0.0 | 1.00 |
+| 12/30/2024 | BNP0742A | Standard Operating Procedure Updates | Passed | 0.0 | 2.00 |
+| 12/30/2024 | BNP1261A | Fire Lithium Exposure | Passed | 0.0 | 1.00 |
+| 12/30/2024 | BNP4513A | OSHA Hearing Protection | Passed | 0.0 | 1.00 |
+| 12/30/2024 | BNP3065A | Medical Behavioral Emergencies | Passed | 0.0 | 1.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2024 | BNP0221A | Mental Health- COPLINE | Passed | 0.0 | 0.50 |
 | 11/14/2024 | BNP1602A | ADL- Inclusive Policing | Passed | 0.0 | 3.00 |

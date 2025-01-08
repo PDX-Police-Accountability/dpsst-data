@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2024 | MNS0040A | Courtroom Testimony and Report Writing | Passed | 0.0 | 0.50 |
+| 12/16/2024 | MNS0048A | DUII Investigations and SFST Refresher | Passed | 0.0 | 3.00 |
+| 12/16/2024 | MNS4019A | Below 100 | Passed | 0.0 | 3.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/21/2024 | MNS3656A | Tracwire FTEP Training | Passed | 0.0 | 1.50 |
 | 11/3/2024 | MNS3587A | Emergency Vehicle Operations.Nov.24 | Passed | 0.0 | 4.00 |

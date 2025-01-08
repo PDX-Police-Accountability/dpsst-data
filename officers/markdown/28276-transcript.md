@@ -50,6 +50,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/19/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
+| 12/12/2024 | SVP2366A | Night Range | Passed | 0.0 | 3.00 |
 | 11/13/2024 | F6R3273A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 11/7/2024 | OAC4215A | Public Information Basics | Passed | 0.0 | 1.00 |
 | 11/7/2024 | OAC4269A | Public Information Basics | Passed | 0.0 | 1.00 |

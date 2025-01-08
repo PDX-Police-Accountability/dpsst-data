@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/26/2024
+  course: SAG1222A
+  title: 2022 Oregon Sheriff's Airway training video
+  status: Passed
+  score: '0.0'
+  hours: '1.45'
 - date: 11/26/2024
   course: SAG0750A
   title: Firearms training
