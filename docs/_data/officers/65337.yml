@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/18/2024
+  course: PDP3001A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/3/2024
   course: PDP3568A
   title: 2024 Body Worn Camera Training
@@ -42,6 +48,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/2/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/21/2024
   course: PDP2407A
   title: 2024 FTEP Post DPSST Firearms
@@ -72,6 +90,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/6/2024
+  course: PDP2472A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/6/2024
+  course: PDP3576A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2024
+  course: PDP3965A
+  title: 2024 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/1/2024
   course: M10-23A
   title: DPSST Basic Police Course

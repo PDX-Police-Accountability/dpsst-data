@@ -34,6 +34,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/17/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/20/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 11/12/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/25/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/9/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
@@ -48,10 +51,28 @@
 | 7/30/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/30/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 7/30/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 7/30/2024 | PDP2589A | 2024-2 Advanced Academy Bike School | Passed | 0.0 | 26.00 |
 | 7/17/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/17/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 7/8/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/3/2024 | PDP4445A | 2024-2 Advanced Academy Patrol Proc. (FA) | Passed | 0.0 | 94.75 |
+| 7/2/2024 | PDP0610A | 2024-2 Advanced Academy Control Tactics | Passed | 0.0 | 42.00 |
+| 7/2/2024 | PDP3373A | 2024-2 Advanced Academy Law | Passed | 0.0 | 27.50 |
+| 7/2/2024 | PDP2847A | 2024-2 Advanced Academy Wellnesss | Passed | 0.0 | 8.00 |
+| 7/2/2024 | PDP2272A | 2024-2 Advanced Academy PVO | Passed | 0.0 | 24.50 |
+| 7/1/2024 | PDP4397A | 2024-2 Advanced Academy Human Traffic | Passed | 0.0 | 2.25 |
+| 7/1/2024 | PDP2517A | 2024-2 Advanced Academy Firearms | Passed | 0.0 | 40.50 |
+| 6/27/2024 | PDP3325A | 2024-2 Advanced Academy Ethics | Passed | 0.0 | 12.00 |
+| 6/26/2024 | PDP2657A | 2024-2 Advanced Academy CEW | Passed | 0.0 | 2.25 |
+| 6/24/2024 | PDP4524A | 2024-2 Advanced Academy Fitness | Passed | 0.0 | 1.75 |
+| 6/18/2024 | PDP4464A | 2024-2 Advanced Academy Crisis Int. Training | Passed | 0.0 | 21.00 |
+| 6/14/2024 | PDP3092A | 2024-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 6/13/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 5/30/2024 | PDP2177A | 2024-2 Advanced Academy ASU | Passed | 0.0 | 1.00 |
+| 5/30/2024 | PDP0557A | 2024-2 Advanced Academy CSI | Passed | 0.0 | 1.50 |
+| 5/30/2024 | PDP0385A | 2024-2 Advanced Academy Cares | Passed | 0.0 | 1.00 |
+| 5/23/2024 | PDP3833A | 2024-2 Advanced Academy Trauma II | Passed | 0.0 | 4.50 |
+| 5/16/2024 | PDP3784A | 2024-2 Advanced Academy Legit/Proc. Just | Passed | 0.0 | 1.50 |
 | 5/10/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/22/2024 | PDP2666A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 4/22/2024 | PDP4455A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |

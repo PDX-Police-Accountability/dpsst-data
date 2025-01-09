@@ -34,6 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/25/2024 | PDP1853A | 2020 Trng Managing Critical Incidents Well Sgt | Passed | 0.0 | 0.25 |
+| 12/25/2024 | PDP0165A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
+| 12/25/2024 | PDP4558A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 12/25/2024 | PDP2285A | HR Rule 2.02, Prohibition Against Wrkpl Harassment | Passed | 0.0 | 0.25 |
+| 12/25/2024 | PDP1964A | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.08 |
+| 12/25/2024 | PDP0875A | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
+| 12/25/2024 | PDP4024A | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 12/7/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/7/2024 | PDP3831A | 2024 Training Red Dot Optic Transition Course | Passed | 0.0 | 26.50 |
@@ -49,10 +56,15 @@
 | 12/4/2024 | PDP3558A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 12/4/2024 | PDP0972A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 12/3/2024 | PDP3226A | 2024 EAP Separation Training | Passed | 0.0 | 4.00 |
+| 11/27/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 11/27/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 11/22/2024 | PDP3686A | 2023 Body Worn Camera Policy Online Recorded Trng | Passed | 0.0 | 1.00 |
 | 11/21/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 11/21/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/21/2024 | PDP0320A | 2024-3 Range Qualification Secondary Firearm 50 Rd | Passed | 0.0 | 0.50 |
+| 11/20/2024 | PDP2472A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 11/20/2024 | PDP3200A | 2024-3 IS CAO Legal Updates Supplemental Training | Passed | 0.0 | 0.25 |
 | 10/29/2024 | PDP4500A | 2024 CHO Introduction to Interpreting in Policing | Passed | 0.0 | 9.50 |
 | 10/12/2024 | PDP3457A | 2024 40mm Less Lethal New Operator | Instructed | 0.0 | 18.00 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |

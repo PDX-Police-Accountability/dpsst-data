@@ -28,6 +28,23 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/20/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/10/2024 | PDP2593A | DIR 660.10 PE Procedures/2018-5 TT | Passed | 0.0 | 0.50 |
+| 11/27/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 11/27/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP1771A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP0784A | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP3205A | 2023-4 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP2173A | 2023-1  2 CAO Legal Updates for 01  02/2023 | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP0684A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP3420A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP2484A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP3109A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP1654A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP2331A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP1777A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 11/19/2024 | PDP0284A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 11/18/2024 | PDP4423A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 11/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/31/2024 | PDP0769A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 10/31/2024 | PDP2881A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

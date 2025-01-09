@@ -132,6 +132,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/30/2024
+  course: STS2461A
+  title: Implicit Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/12/2024
   course: OSA2697A
   title: OSSA  CIT Training - Dec 12, 2024

@@ -43,6 +43,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/3/2024 | PDP0165A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
+| 12/3/2024 | PDP4558A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 12/3/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 12/3/2024 | PDP2285A | HR Rule 2.02, Prohibition Against Wrkpl Harassment | Passed | 0.0 | 0.25 |
+| 12/3/2024 | PDP1964A | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.08 |
+| 12/3/2024 | PDP0875A | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
+| 12/3/2024 | PDP4024A | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
 | 11/12/2024 | PDP3683A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
 | 11/12/2024 | PDP1989A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 11/12/2024 | PDP3377A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
@@ -54,6 +61,7 @@
 | 11/11/2024 | PDP1877A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 11/11/2024 | PDP0318A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 11/11/2024 | PDP0651A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
+| 11/5/2024 | PDP1853A | 2020 Trng Managing Critical Incidents Well Sgt | Passed | 0.0 | 0.25 |
 | 11/4/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/31/2024 | PDP0004A | 2024-2 Field Training Officer (FTO) | Passed | 0.0 | 40.00 |
 | 10/25/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |

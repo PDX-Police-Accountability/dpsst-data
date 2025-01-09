@@ -74,6 +74,18 @@ certification_records:
   expiration_date: 2/22/2025
   probation_date: ''
 training_records:
+- date: 11/13/2024
+  course: PDP2857A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/13/2024
+  course: PDP3567A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/12/2024
   course: PDP3683A
   title: '2024-3 All Sworn In-Service MFF: Formations'
@@ -140,6 +152,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 11/4/2024
+  course: PDP0684A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2024
+  course: PDP2456A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/30/2024
   course: PDP2124A
   title: 2023 Behavioral Health Unit Referrals

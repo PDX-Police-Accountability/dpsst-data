@@ -104,6 +104,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/27/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/27/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/20/2024
   course: GSP2774A
   title: UAS Ground School

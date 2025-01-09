@@ -36,6 +36,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2024 | PDP3205A | 2023-4 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 12/15/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/15/2024 | PDP3965A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 12/15/2024 | PDP1654A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/15/2024 | PDP1777A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 12/15/2024 | PDP0284A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/15/2024 | PDP2331A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/15/2024 | PDP3128A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 12/15/2024 | PDP2472A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 12/15/2024 | PDP1801A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 12/15/2024 | PDP2921A | 2024-4  CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 12/15/2024 | PDP1424A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/15/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 12/15/2024 | PDP3576A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/13/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/12/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/12/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 12/12/2024 | PDP0414A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
@@ -47,6 +62,7 @@
 | 12/11/2024 | PDP1123A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 12/11/2024 | PDP3558A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 12/11/2024 | PDP0972A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 12/6/2024 | PDP4320A | OSU Modified Duty and Cold Call-Taking Trng | Passed | 0.0 | 0.25 |
 | 4/9/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 4/9/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
 | 4/9/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |

@@ -64,6 +64,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2024
+  course: PDP4385A
+  title: 2024 ECIT Recording Define the Event
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2024
+  course: PDP3867A
+  title: 2024-3 IS PP Shooting at Moving Vehicle Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/12/2024
+  course: PDP4077A
+  title: 2024-3 IS PP Shooting at Moving vehicles Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/12/2024
+  course: PDP0280A
+  title: 2024-3 IS MFF Baton  OC Spray Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2024
+  course: PDP3001A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/5/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/4/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/27/2024
   course: PDP3396A
   title: '2024-3 All Sworn In-Service MFF: Scenarios'

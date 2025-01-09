@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2024
+  course: PDP3001A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2024
+  course: PDP0814A
+  title: 2024-1 Supervisor IS Deminimus Force BWC Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/5/2024
   course: PDP1039A
   title: 2024-3 All Sworn In-Service CAO Legal Updates
@@ -141,6 +153,78 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 12/2/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2024
+  course: PDP4140A
+  title: 2024-1 Online Supervisor IS - Message from the FI
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2024
+  course: PDP4452A
+  title: 2024-1 Supervisor IS Civil Unrest PDX OR 2020 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/2/2024
+  course: PDP3055A
+  title: 2024-1 Supervisor IS Civil Unrest PDX OR 2020 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/2/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/19/2024
+  course: PDP1654A
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/19/2024
+  course: PDP2331A
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/19/2024
+  course: PDP1777A
+  title: 2024 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/19/2024
+  course: PDP0284A
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/19/2024
+  course: PDP0558A
+  title: 2024-1 Supervisor IS BHR Supporting Employee
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/19/2024
+  course: PDP2357A
+  title: 2024-1 Supervisor IS ICS for expanding Incidents
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/19/2024
+  course: PDP4053A
+  title: 2024-1 Supervisor IS Internal Affairs (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/18/2024
   course: PDP3839A
   title: 2024-3 Range Qualification 40mm Less Lethal

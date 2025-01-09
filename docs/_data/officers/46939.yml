@@ -38,6 +38,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/23/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/13/2024
+  course: SAG3660A
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/13/2024
+  course: SAG1872A
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/12/2024
+  course: SAG0585A
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/10/2024
+  course: SAG2579A
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

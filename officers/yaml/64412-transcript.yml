@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/24/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/15/2024
   course: PDP1215A
   title: 2024-9 CAO Legal Updates for 09/2024
@@ -102,24 +114,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/1/2024
+  course: PDP3325A
+  title: 2024-2 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '42.00'
 - date: 7/30/2024
   course: PDP3146A
   title: 2024-4 CAO Legal Updates for 04/2024
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/30/2024
+  course: PDP2589A
+  title: 2024-2 Advanced Academy Bike School
+  status: Passed
+  score: '0.0'
+  hours: '35.00'
+- date: 7/29/2024
+  course: PDP2621A
+  title: 2024-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/23/2024
   course: PDP2564A
   title: 2024 Safe Training Procedures
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/22/2024
+  course: PDP0610A
+  title: 2024-2 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '62.25'
+- date: 7/18/2024
+  course: PDP4445A
+  title: 2024-2 Advanced Academy Patrol Proc. (FA)
+  status: Passed
+  score: '0.0'
+  hours: '94.75'
 - date: 7/17/2024
   course: PDP1434A
   title: 2024 Body Worn Camera Training
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/17/2024
+  course: PDP2272A
+  title: 2024-2 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
+- date: 7/17/2024
+  course: PDP4524A
+  title: 2024-2 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/16/2024
+  course: PDP2517A
+  title: 2024-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '51.75'
 - date: 7/11/2024
   course: PDP2096A
   title: 2024-3 CAO Legal Updates for BWC
@@ -138,6 +198,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/9/2024
+  course: PDP2847A
+  title: 2024-2 Advanced Academy Wellnesss
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/9/2024
+  course: PDP3373A
+  title: 2024-2 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '31.00'
+- date: 7/1/2024
+  course: PDP4397A
+  title: 2024-2 Advanced Academy Human Traffic
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/26/2024
+  course: PDP2657A
+  title: 2024-2 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/18/2024
+  course: PDP4464A
+  title: 2024-2 Advanced Academy Crisis Int. Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 6/14/2024
+  course: PDP3092A
+  title: 2024-2 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/30/2024
+  course: PDP0557A
+  title: 2024-2 Advanced Academy CSI
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/30/2024
+  course: PDP2177A
+  title: 2024-2 Advanced Academy ASU
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2024
+  course: PDP0385A
+  title: 2024-2 Advanced Academy Cares
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/23/2024
+  course: PDP3833A
+  title: 2024-2 Advanced Academy Trauma II
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/16/2024
+  course: PDP3784A
+  title: 2024-2 Advanced Academy Legit/Proc. Just
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/7/2024
   course: PDP1049A
   title: IS-241 Decision Making  Problem Solving

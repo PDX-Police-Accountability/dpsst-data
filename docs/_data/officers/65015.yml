@@ -30,6 +30,66 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/21/2024
+  course: PDP3001A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/21/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/21/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2024
+  course: PDP1771A
+  title: 2018 TOD 100% Collection and Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2024
+  course: PDP0784A
+  title: 2018-5 TT 100% Collection and Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2024
+  course: PDP3731A
+  title: 2023 Portland Community Justice Partnership and RJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/5/2024
+  course: PDP1251A
+  title: 2023 Restorative Justice Referrals and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2024
+  course: PDP2472A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/5/2024
+  course: PDP2593A
+  title: DIR 660.10 PE Procedures/2018-5 TT
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/5/2024
+  course: PDP3576A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/16/2024
   course: PDP4038A
   title: 2024-3 Range Qualification Primary Firearm

@@ -29,6 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/16/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/2/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/2/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 9/18/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 9/18/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 9/18/2024 | PDP0311A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -41,6 +44,20 @@
 | 9/18/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 9/18/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 9/18/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/20/2024 | PDP2517A | 2024-2 Advanced Academy Firearms | Passed | 0.0 | 20.25 |
+| 6/5/2024 | PDP2272A | 2024-2 Advanced Academy PVO | Passed | 0.0 | 13.25 |
+| 6/5/2024 | PDP4445A | 2024-2 Advanced Academy Patrol Proc. (FA) | Passed | 0.0 | 94.75 |
+| 6/4/2024 | PDP4464A | 2024-2 Advanced Academy Crisis Int. Training | Passed | 0.0 | 16.50 |
+| 6/3/2024 | PDP0610A | 2024-2 Advanced Academy Control Tactics | Passed | 0.0 | 21.75 |
+| 5/30/2024 | PDP0557A | 2024-2 Advanced Academy CSI | Passed | 0.0 | 1.50 |
+| 5/30/2024 | PDP2177A | 2024-2 Advanced Academy ASU | Passed | 0.0 | 1.00 |
+| 5/30/2024 | PDP2847A | 2024-2 Advanced Academy Wellnesss | Passed | 0.0 | 3.00 |
+| 5/30/2024 | PDP0385A | 2024-2 Advanced Academy Cares | Passed | 0.0 | 1.00 |
+| 5/23/2024 | PDP3833A | 2024-2 Advanced Academy Trauma II | Passed | 0.0 | 4.50 |
+| 5/21/2024 | PDP3373A | 2024-2 Advanced Academy Law | Passed | 0.0 | 10.00 |
+| 5/16/2024 | PDP3784A | 2024-2 Advanced Academy Legit/Proc. Just | Passed | 0.0 | 1.50 |
+| 5/15/2024 | PDP3325A | 2024-2 Advanced Academy Ethics | Passed | 0.0 | 2.00 |
+| 5/15/2024 | PDP4524A | 2024-2 Advanced Academy Fitness | Passed | 0.0 | 0.50 |
 | 4/16/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/18/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/14/2024 | PDP0644A | 2024 Training RegJIN RMS/MRE Training | Passed | 0.0 | 15.00 |

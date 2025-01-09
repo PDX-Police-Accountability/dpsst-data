@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2024 | HBN1070A | Extremism in Oregon: Roots and Responses | Passed | 0.0 | 2.00 |
 | 11/14/2024 | HBN2855A | Search and Seizure - Legal and Safe | Passed | 0.0 | 8.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/23/2024 | HBN1804A | What is Ethics? | Passed | 0.0 | 1.00 |

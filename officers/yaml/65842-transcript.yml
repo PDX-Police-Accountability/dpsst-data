@@ -30,5 +30,11 @@ training_records:
   status: Pending
   score: '0.0'
   hours: '0.00'
+- date: 12/12/2024
+  course: PDP2451A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 attribute_records: []
 education_records: []

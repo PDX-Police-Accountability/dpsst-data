@@ -28,3 +28,4 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 2/24/2025 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
+| 12/23/2024 | PDP2451A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

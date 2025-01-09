@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/9/2024 | PDP0814A | 2024-1 Supervisor IS Deminimus Force BWC Review | Passed | 0.0 | 1.00 |
 | 12/5/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/5/2024 | PDP0414A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
 | 12/5/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
@@ -50,6 +52,18 @@
 | 12/4/2024 | PDP1123A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 12/4/2024 | PDP3558A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 12/4/2024 | PDP0972A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 12/2/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/2/2024 | PDP4140A | 2024-1 Online Supervisor IS - Message from the FI | Passed | 0.0 | 0.25 |
+| 12/2/2024 | PDP4452A | 2024-1 Supervisor IS Civil Unrest PDX OR 2020 1 | Passed | 0.0 | 1.00 |
+| 12/2/2024 | PDP3055A | 2024-1 Supervisor IS Civil Unrest PDX OR 2020 2 | Passed | 0.0 | 1.00 |
+| 12/2/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP1654A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP2331A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP1777A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 11/19/2024 | PDP0284A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 11/19/2024 | PDP0558A | 2024-1 Supervisor IS BHR Supporting Employee | Passed | 0.0 | 1.00 |
+| 11/19/2024 | PDP2357A | 2024-1 Supervisor IS ICS for expanding Incidents | Passed | 0.0 | 1.00 |
+| 11/19/2024 | PDP4053A | 2024-1 Supervisor IS Internal Affairs (Video) | Passed | 0.0 | 1.00 |
 | 11/18/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 11/18/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/18/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

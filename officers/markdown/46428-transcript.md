@@ -37,6 +37,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2024 | PDP3205A | 2023-4 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP1654A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP1777A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 12/20/2024 | PDP0284A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP2331A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP3128A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP2921A | 2024-4  CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 12/20/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 12/19/2024 | PDP1983A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/19/2024 | PDP3488A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |
 | 12/19/2024 | PDP2986A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |

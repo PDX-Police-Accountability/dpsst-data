@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/27/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/31/2024
   course: PDP0004A
   title: 2024-2 Field Training Officer (FTO)

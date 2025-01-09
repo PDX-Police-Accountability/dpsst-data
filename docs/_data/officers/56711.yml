@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/11/2024
+  course: PDP3001A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/5/2024
   course: PDP1039A
   title: 2024-3 All Sworn In-Service CAO Legal Updates
@@ -102,6 +108,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/3/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/15/2024
   course: PDP2855A
   title: 2024-3 Range Qualification AR-15 (20 Yard)
@@ -120,6 +138,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 11/7/2024
+  course: PDP0165A
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2024
+  course: PDP2285A
+  title: HR Rule 2.02, Prohibition Against Wrkpl Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/7/2024
+  course: PDP1964A
+  title: UDAR Guide - Approving (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 11/7/2024
+  course: PDP0875A
+  title: UDAR Guide - Coaches Pay (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 11/7/2024
+  course: PDP4024A
+  title: UDAR Guide - Requesting (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 11/2/2024
+  course: PDP3200A
+  title: 2024-3 IS CAO Legal Updates Supplemental Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/26/2024
   course: PDP1215A
   title: 2024-9 CAO Legal Updates for 09/2024

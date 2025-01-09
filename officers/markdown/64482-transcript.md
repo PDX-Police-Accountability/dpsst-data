@@ -42,12 +42,31 @@
 | 8/7/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/5/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/5/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 8/1/2024 | PDP3325A | 2024-2 Advanced Academy Ethics | Passed | 0.0 | 42.00 |
+| 7/30/2024 | PDP2589A | 2024-2 Advanced Academy Bike School | Passed | 0.0 | 35.00 |
+| 7/29/2024 | PDP2621A | 2024-2 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
 | 7/23/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 7/22/2024 | PDP0610A | 2024-2 Advanced Academy Control Tactics | Passed | 0.0 | 64.50 |
+| 7/18/2024 | PDP4445A | 2024-2 Advanced Academy Patrol Proc. (FA) | Passed | 0.0 | 94.75 |
 | 7/17/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 7/17/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
+| 7/17/2024 | PDP2272A | 2024-2 Advanced Academy PVO | Passed | 0.0 | 24.50 |
+| 7/17/2024 | PDP4524A | 2024-2 Advanced Academy Fitness | Passed | 0.0 | 4.00 |
+| 7/16/2024 | PDP2517A | 2024-2 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
 | 7/12/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
+| 7/9/2024 | PDP3373A | 2024-2 Advanced Academy Law | Passed | 0.0 | 31.00 |
+| 7/9/2024 | PDP2847A | 2024-2 Advanced Academy Wellnesss | Passed | 0.0 | 9.00 |
 | 7/8/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 7/1/2024 | PDP4397A | 2024-2 Advanced Academy Human Traffic | Passed | 0.0 | 2.25 |
+| 6/26/2024 | PDP2657A | 2024-2 Advanced Academy CEW | Passed | 0.0 | 2.25 |
+| 6/18/2024 | PDP4464A | 2024-2 Advanced Academy Crisis Int. Training | Passed | 0.0 | 21.00 |
+| 6/14/2024 | PDP3092A | 2024-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
+| 5/30/2024 | PDP2177A | 2024-2 Advanced Academy ASU | Passed | 0.0 | 1.00 |
+| 5/30/2024 | PDP0557A | 2024-2 Advanced Academy CSI | Passed | 0.0 | 1.50 |
+| 5/30/2024 | PDP0385A | 2024-2 Advanced Academy Cares | Passed | 0.0 | 1.00 |
+| 5/23/2024 | PDP3833A | 2024-2 Advanced Academy Trauma II | Passed | 0.0 | 4.50 |
 | 5/16/2024 | PDP1713A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 5/16/2024 | PDP3784A | 2024-2 Advanced Academy Legit/Proc. Just | Passed | 0.0 | 1.50 |
 | 5/7/2024 | PDP1049A | IS-241 Decision Making  Problem Solving | Passed | 0.0 | 2.00 |
 | 5/7/2024 | PDP1013A | IS-242 Effective Communication | Passed | 0.0 | 8.00 |
 | 5/7/2024 | PDP0577A | IS-2200 Basic Emerg Ops Ctr Functions | Passed | 0.0 | 4.00 |

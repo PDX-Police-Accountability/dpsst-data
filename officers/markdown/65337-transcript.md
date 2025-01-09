@@ -29,13 +29,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/18/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/3/2024 | PDP3568A | 2024 Body Worn Camera Training | Passed | 0.0 | 3.00 |
 | 12/2/2024 | PDP3912A | 2024  FTEP HAZMAT/WMD/APR | Passed | 0.0 | 2.00 |
+| 12/2/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/2/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 11/21/2024 | PDP2407A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 22.00 |
 | 11/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/18/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/14/2024 | PDP2683A | 2024 FTEP Orientation | Passed | 0.0 | 5.50 |
 | 11/13/2024 | PDP2853A | 2024 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
+| 11/6/2024 | PDP2472A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 11/6/2024 | PDP3576A | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 11/4/2024 | PDP3965A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 11/1/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 10/9/2024 | REG0975A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 9/19/2024 | REG3913A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

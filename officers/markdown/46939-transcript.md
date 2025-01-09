@@ -35,6 +35,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/23/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 12/13/2024 | SAG3660A | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 7.00 |
+| 12/13/2024 | SAG1872A | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 7.00 |
+| 12/12/2024 | SAG0585A | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 7.00 |
+| 12/10/2024 | SAG2579A | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 16.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/29/2024 | PDP4500A | 2024 CHO Introduction to Interpreting in Policing | Passed | 0.0 | 9.50 |
 | 10/26/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

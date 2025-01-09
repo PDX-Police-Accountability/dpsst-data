@@ -27,3 +27,4 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/3/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 12/12/2024 | PDP2451A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

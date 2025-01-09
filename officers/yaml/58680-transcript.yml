@@ -72,6 +72,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/23/2025
+  course: PDP1796A
+  title: 2024-3 IS Air Purifying Respirator (APR) Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/25/2024
+  course: PDP3001A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/25/2024
+  course: PDP3741A
+  title: 2024-3 IS Legal Updates Use of Force Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/23/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2024
+  course: PDP3867A
+  title: 2024-3 IS PP Shooting at Moving Vehicle Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/23/2024
+  course: PDP4077A
+  title: 2024-3 IS PP Shooting at Moving vehicles Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/23/2024
+  course: PDP0280A
+  title: 2024-3 IS MFF Baton  OC Spray Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/23/2024
+  course: PDP0776A
+  title: 2024-3 IS MFF Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/23/2024
+  course: PDP3281A
+  title: 2024-3 IS ABLE Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/23/2024
+  course: PDP1067A
+  title: 2024-3 Supv In-Service Force Inspector Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/19/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp

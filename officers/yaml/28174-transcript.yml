@@ -73,6 +73,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2024
+  course: PDP3001A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/12/2024
+  course: PDP4077A
+  title: 2024-3 IS PP Shooting at Moving vehicles Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/11/2024
+  course: PDP3867A
+  title: 2024-3 IS PP Shooting at Moving Vehicle Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 12/5/2024
   course: PDP1039A
   title: 2024-3 All Sworn In-Service CAO Legal Updates
@@ -139,6 +157,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/27/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/27/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2024
+  course: PDP3686A
+  title: 2023 Body Worn Camera Policy Online Recorded Trng
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/8/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

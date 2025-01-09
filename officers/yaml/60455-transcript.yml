@@ -90,6 +90,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 12/5/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/5/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2024
+  course: PDP1424A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/13/2024
   course: PDP3714A
   title: 2024-3 Range Qualification CEW

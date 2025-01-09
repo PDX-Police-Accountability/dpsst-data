@@ -89,6 +89,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 12/9/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/28/2024
   course: PDP1082A
   title: 2024 Supervisor In-Service Force Inspector Updates

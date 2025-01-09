@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/10/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -108,6 +120,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 11/4/2024
+  course: PDP2472A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/4/2024
+  course: PDP3200A
+  title: 2024-3 IS CAO Legal Updates Supplemental Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/16/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

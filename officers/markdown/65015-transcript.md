@@ -29,6 +29,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/21/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/21/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/21/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 11/5/2024 | PDP1771A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 11/5/2024 | PDP0784A | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 11/5/2024 | PDP3731A | 2023 Portland Community Justice Partnership and RJ | Passed | 0.0 | 0.50 |
+| 11/5/2024 | PDP1251A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 11/5/2024 | PDP2472A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 11/5/2024 | PDP2593A | DIR 660.10 PE Procedures/2018-5 TT | Passed | 0.0 | 0.50 |
+| 11/5/2024 | PDP3576A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 10/16/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/5/2024 | PDP2824A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 8/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |

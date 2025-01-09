@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 12/11/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/5/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/5/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 12/5/2024 | PDP0414A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |
@@ -46,9 +47,17 @@
 | 12/4/2024 | PDP3558A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 12/4/2024 | PDP0972A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 12/3/2024 | PDP3226A | 2024 EAP Separation Training | Passed | 0.0 | 4.00 |
+| 12/3/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/3/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 11/15/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 11/15/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 11/15/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 11/7/2024 | PDP0165A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
+| 11/7/2024 | PDP2285A | HR Rule 2.02, Prohibition Against Wrkpl Harassment | Passed | 0.0 | 0.25 |
+| 11/7/2024 | PDP1964A | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.08 |
+| 11/7/2024 | PDP0875A | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
+| 11/7/2024 | PDP4024A | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
+| 11/2/2024 | PDP3200A | 2024-3 IS CAO Legal Updates Supplemental Training | Passed | 0.0 | 0.25 |
 | 10/26/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/24/2024 | PDP1645A | 2020 Trng Managing Critical Incidents Sgts Role | Passed | 0.0 | 0.25 |
 | 10/24/2024 | PDP1175A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

@@ -108,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/22/2024
+  course: PDP3686A
+  title: 2023 Body Worn Camera Policy Online Recorded Trng
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/31/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp

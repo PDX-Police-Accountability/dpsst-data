@@ -40,6 +40,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2025 | PDP1796A | 2024-3 IS Air Purifying Respirator (APR) Video | Passed | 0.0 | 1.00 |
+| 12/25/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/25/2024 | PDP3741A | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |
+| 12/23/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/23/2024 | PDP3867A | 2024-3 IS PP Shooting at Moving Vehicle Video 1 | Passed | 0.0 | 1.25 |
+| 12/23/2024 | PDP4077A | 2024-3 IS PP Shooting at Moving vehicles Video 2 | Passed | 0.0 | 1.25 |
+| 12/23/2024 | PDP0280A | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
+| 12/23/2024 | PDP0776A | 2024-3 IS MFF Response to Public Order Events | Passed | 0.0 | 1.50 |
+| 12/23/2024 | PDP3281A | 2024-3 IS ABLE Video | Passed | 0.0 | 2.00 |
+| 12/23/2024 | PDP1067A | 2024-3 Supv In-Service Force Inspector Video | Passed | 0.0 | 0.25 |
+| 12/23/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 10/19/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/19/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/19/2024 | PDP0145A | School Emergency Actions | Passed | 0.0 | 0.25 |

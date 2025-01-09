@@ -36,12 +36,174 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/3/2024
+  course: PDP1771A
+  title: 2018 TOD 100% Collection and Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2024
+  course: PDP0784A
+  title: 2018-5 TT 100% Collection and Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2024
+  course: PDP4423A
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/3/2024
+  course: PDP2484A
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2024
+  course: PDP3109A
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2024
+  course: PDP2593A
+  title: DIR 660.10 PE Procedures/2018-5 TT
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/3/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/2/2024
   course: PDP3912A
   title: 2024  FTEP HAZMAT/WMD/APR
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/2/2024
+  course: PDP2127A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2024
+  course: PDP3594A
+  title: 2021 Language Access Translation  Interpretation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2024
+  course: PDP1654A
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2024
+  course: PDP1777A
+  title: 2024 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/2/2024
+  course: PDP0284A
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2024
+  course: PDP2331A
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2024
+  course: PDP4479A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2024
+  course: PDP1801A
+  title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/30/2024
+  course: PDP2857A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/30/2024
+  course: PDP3567A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/29/2024
+  course: PDP2926A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/29/2024
+  course: PDP1750A
+  title: 2024-2 TT State v. Wilcox / Civil Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2024
+  course: PDP4283A
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2024
+  course: PDP3205A
+  title: 2023-4 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2024
+  course: PDP3965A
+  title: 2024 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/24/2024
+  course: PDP2472A
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/24/2024
+  course: PDP1424A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/24/2024
+  course: PDP3576A
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2024
+  course: PDP2173A
+  title: 2023-1  2 CAO Legal Updates for 01  02/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/21/2024
   course: PDP4038A
   title: 2024-3 Range Qualification Primary Firearm
@@ -66,6 +228,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/13/2024
+  course: PDP2921A
+  title: 2024-4  CAO Legal Updates for 04/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/11/2024
+  course: PDP2244A
+  title: 2020-10 CAO Legal Updates for 10/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/11/2024
+  course: PDP3128A
+  title: 2024-7 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/11/2024
+  course: PDP2456A
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/11/2024
+  course: PDP0756A
+  title: 2024-3 CAO Legal Updates for 03/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/11/2024
+  course: PDP1176A
+  title: 2024-3 Tips  Techniques Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2024
+  course: PDP2663A
+  title: 2019-4 Tips  Techniques Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2024
+  course: PDP3099A
+  title: 2019-5 TT Enforcement of Protection Orders Full
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2024
+  course: PDP2451A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/1/2024
   course: M10-23A
   title: DPSST Basic Police Course

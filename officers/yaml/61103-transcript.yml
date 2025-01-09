@@ -31,12 +31,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2024
+  course: PDP3001A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/7/2024
   course: PDP3831A
   title: 2024 Training Red Dot Optic Transition Course
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 12/5/2024
+  course: PDP1444A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/5/2024
+  course: PDP0578A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/27/2024
   course: PDP0361A
   title: 2024 K-9 (K9) Weekly Training
