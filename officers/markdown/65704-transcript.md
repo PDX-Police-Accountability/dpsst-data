@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/31/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 12/31/2024 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 11/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/31/2024 | PDP0769A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 10/31/2024 | PDP2881A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

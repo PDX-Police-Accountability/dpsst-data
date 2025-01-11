@@ -54,11 +54,24 @@
 | 10/2/2024 | PDP1199A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 10/2/2024 | PDP2459A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 10/2/2024 | PDP4485A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/2/2024 | PDP1620A | 2024-3 Advanced Academy Crisis Int. Training | Passed | 0.0 | 21.00 |
+| 10/2/2024 | PDP0913A | 2024-3 Advanced Academy Fitness | Passed | 0.0 | 4.50 |
+| 10/1/2024 | PDP2760A | 2024-3 Advanced Academy Bike School | Passed | 0.0 | 4.50 |
+| 10/1/2024 | PDP3302A | 2024-3 Advanced Academy PVO | Passed | 0.0 | 11.00 |
+| 9/30/2024 | PDP4262A | 2024-3 Advanced Academy Patrol Proc. (FA) | Passed | 0.0 | 29.50 |
+| 9/30/2024 | PDP0999A | 2024-3 Advanced Academy Firearms | Passed | 0.0 | 6.75 |
 | 9/24/2024 | PDP1111A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP4198A | 2024-2 TT State v. Wilcox Civil Holds  Searches | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP3738A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 9/24/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 9/24/2024 | PDP2453A | 2024-3 Advanced Academy Law | Passed | 0.0 | 10.00 |
+| 9/24/2024 | PDP0873A | 2024-3 Advanced Academy Wellnesss | Passed | 0.0 | 2.00 |
+| 9/23/2024 | PDP2263A | 2024-3 Advanced Academy Control Tactics | Passed | 0.0 | 8.50 |
+| 9/19/2024 | PDP1813A | 2024-3 Advanced Academy Ethics | Passed | 0.0 | 2.00 |
+| 9/19/2024 | PDP2997A | 2024-3 Advanced Academy Legit/Proc. Just | Passed | 0.0 | 1.50 |
+| 9/19/2024 | PDP1562A | 2024-3 Advanced Academy CSI | Passed | 0.0 | 1.00 |
+| 9/18/2024 | PDP0979A | 2024-3 Advanced Academy ASU | Passed | 0.0 | 1.00 |
 | 9/6/2024 | TGP2407A | Handgun Red Dot Training | Passed | 0.0 | 8.00 |
 | 8/28/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/28/2024 | PDP0156A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 22.00 |

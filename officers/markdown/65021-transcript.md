@@ -32,9 +32,32 @@
 | 12/19/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/19/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/19/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 12/18/2024 | PDP4296A | 2024-3 Advanced Academy SERT Info | Passed | 0.0 | 1.00 |
+| 12/18/2024 | PDP0085A | 2024-3 Advanced Academy SVO | Passed | 0.0 | 3.00 |
+| 12/18/2024 | PDP1132A | 2024-3 Advanced Academy Comm. Eng. | Passed | 0.0 | 4.50 |
+| 12/17/2024 | PDP3150A | 2024-3 Advanced Academy Human Traffic | Passed | 0.0 | 2.25 |
+| 12/17/2024 | PDP2453A | 2024-3 Advanced Academy Law | Passed | 0.0 | 31.00 |
+| 12/17/2024 | PDP0999A | 2024-3 Advanced Academy Firearms | Passed | 0.0 | 38.25 |
+| 12/17/2024 | PDP0873A | 2024-3 Advanced Academy Wellnesss | Passed | 0.0 | 9.25 |
+| 12/16/2024 | PDP0913A | 2024-3 Advanced Academy Fitness | Passed | 0.0 | 10.75 |
+| 12/11/2024 | PDP2760A | 2024-3 Advanced Academy Bike School | Passed | 0.0 | 37.00 |
+| 12/11/2024 | PDP2263A | 2024-3 Advanced Academy Control Tactics | Passed | 0.0 | 28.50 |
+| 12/11/2024 | PDP4262A | 2024-3 Advanced Academy Patrol Proc. (FA) | Passed | 0.0 | 105.75 |
+| 12/9/2024 | PDP1443A | 2024-3 Advanced Academy Public Order | Passed | 0.0 | 13.50 |
+| 12/5/2024 | PDP4107A | 2024-3 Advanced Academy Equity | Passed | 0.0 | 29.00 |
+| 11/23/2024 | PDP3302A | 2024-3 Advanced Academy PVO | Passed | 0.0 | 46.75 |
 | 11/12/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/12/2024 | PDP3296A | 2024-3 Range Qualification Secondary Firearm 25 Rd | Passed | 0.0 | 0.50 |
+| 10/30/2024 | PDP3244A | 2024-3 Advanced Academy CEW | Passed | 0.0 | 2.25 |
+| 10/21/2024 | PDP1620A | 2024-3 Advanced Academy Crisis Int. Training | Passed | 0.0 | 21.00 |
+| 10/17/2024 | PDP0345A | 2024-3 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 10/5/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/2/2024 | PDP4302A | 2024-3 Advanced Academy Cares | Passed | 0.0 | 1.00 |
+| 9/26/2024 | PDP3815A | 2024-3 Advanced Academy Trauma II | Passed | 0.0 | 4.50 |
+| 9/19/2024 | PDP2997A | 2024-3 Advanced Academy Legit/Proc. Just | Passed | 0.0 | 1.50 |
+| 9/19/2024 | PDP1813A | 2024-3 Advanced Academy Ethics | Passed | 0.0 | 2.00 |
+| 9/19/2024 | PDP1562A | 2024-3 Advanced Academy CSI | Passed | 0.0 | 1.00 |
+| 9/18/2024 | PDP0979A | 2024-3 Advanced Academy ASU | Passed | 0.0 | 1.00 |
 | 8/29/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/21/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 8/20/2024 | PDP1294A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |

@@ -1116,8 +1116,8 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 1/6/2018
-  course: KZP31264
-  title: SFST  Drugs That Impair Driving
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '24.00'

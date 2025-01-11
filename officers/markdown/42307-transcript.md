@@ -23,7 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
 | Code of Ethics | Signed | 9/12/2002 |  |
 ## Education
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/4/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/4/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
@@ -47,6 +49,7 @@
 | 12/2/2024 | PDP1123A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 12/2/2024 | PDP3558A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 12/2/2024 | PDP0972A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 11/24/2024 | PDP0427A | 2024 SFST Refresher | Instructed | 0.0 | 4.00 |
 | 11/21/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 11/21/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/21/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

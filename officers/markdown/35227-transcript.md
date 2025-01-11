@@ -25,9 +25,11 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/12/2023 | 5/12/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 12/21/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2024 | F1536832 | Equity  Wellbeing Series | Passed | 0.0 | 1.00 |
 | 12/19/2024 | F1528577 | Gender Inclusion: Cultures of Inclusion | Passed | 0.0 | 1.00 |
 | 12/19/2024 | F1526532 | Are CEDs Safe  Effective | Passed | 0.0 | 1.00 |

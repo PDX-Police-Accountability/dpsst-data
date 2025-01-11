@@ -50,7 +50,7 @@
 | 2/7/2019 | F6D04090 | SFST/DID BP385 (hours included in basic) | Passed | 0.0 | 0.00 |
 | 1/28/2019 | F6D19771 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 1/21/2019 | F6D36935 | LIDAR Operator Course | Passed | 0.0 | 2.00 |
-| 1/16/2019 | F6D39058 | Radar Operator Course | Passed | 0.0 | 6.00 |
+| 1/16/2019 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
 | 1/16/2019 | F6D04962 | Radar Operator Course- Classroom Only | Passed | 0.0 | 6.00 |
 | 10/26/2018 | BNP02731 | EVOC Training 23 -26 October 2018 | Passed | 0.0 | 1.00 |
 | 9/30/2018 | BBP16991 | Ethics Training | Passed | 0.0 | 1.00 |

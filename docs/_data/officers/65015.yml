@@ -48,6 +48,90 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/18/2024
+  course: PDP4296A
+  title: 2024-3 Advanced Academy SERT Info
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/18/2024
+  course: PDP0085A
+  title: 2024-3 Advanced Academy SVO
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/18/2024
+  course: PDP1132A
+  title: 2024-3 Advanced Academy Comm. Eng.
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 12/17/2024
+  course: PDP3150A
+  title: 2024-3 Advanced Academy Human Traffic
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 12/17/2024
+  course: PDP2453A
+  title: 2024-3 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '31.00'
+- date: 12/17/2024
+  course: PDP0999A
+  title: 2024-3 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '29.25'
+- date: 12/17/2024
+  course: PDP0873A
+  title: 2024-3 Advanced Academy Wellnesss
+  status: Passed
+  score: '0.0'
+  hours: '9.25'
+- date: 12/16/2024
+  course: PDP0913A
+  title: 2024-3 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '9.50'
+- date: 12/11/2024
+  course: PDP2760A
+  title: 2024-3 Advanced Academy Bike School
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 12/11/2024
+  course: PDP2263A
+  title: 2024-3 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '28.50'
+- date: 12/11/2024
+  course: PDP4262A
+  title: 2024-3 Advanced Academy Patrol Proc. (FA)
+  status: Passed
+  score: '0.0'
+  hours: '57.75'
+- date: 12/9/2024
+  course: PDP1443A
+  title: 2024-3 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
+- date: 12/5/2024
+  course: PDP4107A
+  title: 2024-3 Advanced Academy Equity
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
+- date: 11/24/2024
+  course: PDP3302A
+  title: 2024-3 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '46.75'
 - date: 11/5/2024
   course: PDP1771A
   title: 2018 TOD 100% Collection and Submission Model
@@ -90,12 +174,66 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/30/2024
+  course: PDP3244A
+  title: 2024-3 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/21/2024
+  course: PDP1620A
+  title: 2024-3 Advanced Academy Crisis Int. Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 10/17/2024
+  course: PDP0345A
+  title: 2024-3 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/16/2024
   course: PDP4038A
   title: 2024-3 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/2/2024
+  course: PDP4302A
+  title: 2024-3 Advanced Academy Cares
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/26/2024
+  course: PDP3815A
+  title: 2024-3 Advanced Academy Trauma II
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 9/19/2024
+  course: PDP2997A
+  title: 2024-3 Advanced Academy Legit/Proc. Just
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/19/2024
+  course: PDP1813A
+  title: 2024-3 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/19/2024
+  course: PDP1562A
+  title: 2024-3 Advanced Academy CSI
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/18/2024
+  course: PDP0979A
+  title: 2024-3 Advanced Academy ASU
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/5/2024
   course: PDP2824A
   title: 2023 Portland Community Justice Partnership

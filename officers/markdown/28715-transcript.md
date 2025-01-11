@@ -28,8 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/1/2024 | 2/1/2026 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 5/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2024 | HBP1206A | PoliceOne Leadership 1-8 | Passed | 0.0 | 8.00 |
 | 11/6/2024 | VND2362A | Trauma Informed Response Training | Passed | 0.0 | 7.00 |
 | 10/30/2024 | HBP4497A | Use of Force In-service Wrap-up: Case Law | Passed | 0.0 | 0.50 |

@@ -25,8 +25,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/1/2024 | 5/1/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 10/23/2001 |  |
 ## Education
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | PDN3640A | Addressing Implicit Bias | Passed | 0.0 | 3.00 |
 | 12/1/2024 | PDN3653A | Bloodborne Pathogen Awareness | Passed | 0.0 | 1.00 |
 | 12/1/2024 | PDN3310A | Ethics Training for DCJ Sworn Staff | Passed | 0.0 | 1.50 |

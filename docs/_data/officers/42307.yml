@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/9/2025
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/31/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement
@@ -116,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/24/2024
+  course: PDP0427A
+  title: 2024 SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/21/2024
   course: PDP2855A
   title: 2024-3 Range Qualification AR-15 (20 Yard)
@@ -5949,8 +5961,12 @@ attribute_records:
   expiration_date: 12/31/2027
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2024
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/15/2023

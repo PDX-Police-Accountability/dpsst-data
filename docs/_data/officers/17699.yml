@@ -154,8 +154,8 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 1/16/2019
-  course: F6D39058
-  title: Radar Operator Course
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '6.00'

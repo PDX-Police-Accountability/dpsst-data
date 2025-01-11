@@ -69,6 +69,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/18/2024
+  course: PDP1324A
+  title: 2024 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/18/2024
+  course: PDP1368A
+  title: 2024 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/11/2024
+  course: PDP3198A
+  title: 2024 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/27/2024
   course: PDP2062A
   title: 2024 Explosive Disposal Unit (MEDU) Weekly

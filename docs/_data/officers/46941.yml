@@ -57,6 +57,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/12/2024
+  course: PDP3270A
+  title: 2024 K-9 (K9) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '5.75'
+- date: 12/4/2024
+  course: PDP2849A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/28/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

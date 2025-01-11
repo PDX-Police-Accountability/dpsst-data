@@ -209,7 +209,7 @@
 | 1/17/2018 | F6B07115 | ASP/OC | Passed | 0.0 | 2.00 |
 | 1/11/2018 | F6B18317 | Auto Theft Investigations | Passed | 0.0 | 2.50 |
 | 1/10/2018 | F6B33237 | Traffic Law | Passed | 0.0 | 4.00 |
-| 1/6/2018 | KZP31264 | SFST  Drugs That Impair Driving | Passed | 0.0 | 24.00 |
+| 1/6/2018 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 1/6/2018 | REG1285A | SFST  Drugd that Impair Driving | Passed | 0.0 | 24.00 |
 | 1/4/2018 | F6B29247 | Criminal Investigations | Passed | 0.0 | 8.00 |
 | 12/14/2017 | F6B29594 | Firearms Training | Passed | 0.0 | 2.00 |

@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/24/2024
+  course: OCS0715A
+  title: Role of Leadership Problem Oriented Policing
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/13/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

@@ -27,9 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 2/28/2024 | 1/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 2/21/2023 | 2/28/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -37,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/23/2024 | TGP1734A | Ballistics Theory | Passed | 0.0 | 1.00 |
 | 12/11/2024 | TGP2444A | Balance Between Duty of Care and Use of Force | Passed | 0.0 | 1.25 |
 | 12/11/2024 | TGP1927A | Use of Force Current Trends | Passed | 0.0 | 1.25 |

@@ -20,7 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 11/14/2022 |  |
@@ -31,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2024 | PDP0280A | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
 | 12/30/2024 | PDP0776A | 2024-3 IS MFF Response to Public Order Events | Passed | 0.0 | 1.50 |
 | 12/30/2024 | PDP3741A | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |

@@ -27,8 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 9/6/2023 | 9/6/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 12/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2024 | PDP4385A | 2024 ECIT Recording Define the Event | Passed | 0.0 | 1.00 |
 | 12/12/2024 | PDP3867A | 2024-3 IS PP Shooting at Moving Vehicle Video 1 | Passed | 0.0 | 1.25 |
 | 12/12/2024 | PDP4077A | 2024-3 IS PP Shooting at Moving vehicles Video 2 | Passed | 0.0 | 1.25 |

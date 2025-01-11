@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2024
+  course: PDP3270A
+  title: 2024 K-9 (K9) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/11/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement
@@ -62,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/4/2024
+  course: PDP2849A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/3/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

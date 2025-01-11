@@ -25,7 +25,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 8/16/2023 | 8/16/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2026 |
 | Code of Ethics | Signed | 1/11/2016 |  |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2024 | PDP3205A | 2023-4 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 12/15/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/15/2024 | PDP3965A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

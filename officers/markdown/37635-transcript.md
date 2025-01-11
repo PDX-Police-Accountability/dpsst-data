@@ -27,8 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2024 | EGP2889A | ICS240.c:  Leadership  Influence | Passed | 0.0 | 3.50 |
 | 12/26/2024 | EGP3791A | Drug Enforcement HB 4002 Briefing Video | Passed | 0.0 | 0.75 |
 | 12/13/2024 | EGP2827A | Commanding Success: Police Leadership/Ops Strategy | Passed | 0.0 | 1.00 |

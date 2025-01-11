@@ -27,7 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/21/2023 | 4/21/2025 |
 | Code of Ethics | Signed | 6/6/2001 |  |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2024 | OCA3392A | FBI BAU/VICAP | Passed | 0.0 | 7.00 |
 | 12/2/2024 | PDA2552A | Basic Handgun Skills  Qualification | Passed | 0.0 | 5.00 |
 | 11/8/2024 | PDA3796A | Use of Force Policy Review | Passed | 0.0 | 1.00 |
