@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/7/2025
+  course: BNP1180A
+  title: UAS monthly training
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 12/30/2024
   course: BNP2622A
   title: Emergency Operations Plan

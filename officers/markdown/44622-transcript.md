@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | OSH2651A | Pistol Mounted Optic - Instructor | Instructed | 0.0 | 20.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2024 | OSH3845A | Ethics | Passed | 0.0 | 1.00 |
 | 12/6/2024 | OSH4207A | Patrol Tactics Survival Skills | Instructed | 0.0 | 4.00 |

@@ -44,6 +44,7 @@
 | 12/25/2024 | PDP0875A | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
 | 12/25/2024 | PDP4024A | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 12/13/2024 | PDP1772A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 12/7/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/7/2024 | PDP3831A | 2024 Training Red Dot Optic Transition Course | Passed | 0.0 | 26.50 |
 | 12/5/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |

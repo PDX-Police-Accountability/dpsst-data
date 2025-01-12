@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/2/2025 | HRS4052A | NORTAC Less-Lethal Recert: Classroom | Passed | 0.0 | 1.00 |
+| 1/2/2025 | HRS3335A | NORTAC Tactical Decision Making Exercise | Passed | 0.0 | 1.00 |
+| 1/2/2025 | HRS2970A | NORTAC Tactical Scenario Training | Passed | 0.0 | 4.00 |
+| 1/2/2025 | HRS2351A | NORTAC Use of Force Review | Passed | 0.0 | 1.00 |
 | 12/5/2024 | CDS1854A | NORTAC BREACHING / BUILDING CLEARING | Passed | 0.0 | 4.00 |
 | 11/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/7/2024 | MOS0608A | NORTAC Night Vision Training | Passed | 0.0 | 4.00 |

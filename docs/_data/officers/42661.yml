@@ -88,6 +88,42 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/7/2025
+  course: PDP2286A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2025
+  course: PDP2973A
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2025
+  course: PDP3268A
+  title: 2024 ECIT Recording Define the Event
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/7/2025
+  course: PDP1810A
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/31/2024
+  course: MAINTMUC
+  title: Maintenance Makeup CIT/MH
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2024
+  course: MISCMAIN
+  title: 2024 LE Leadership 3-Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/19/2024
   course: PDP3797A
   title: 2024 SERT Camp Rilea Training
@@ -4878,21 +4914,17 @@ training_records:
   hours: '30.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/6/2023
   expiration_date: 7/6/2025
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/13/2004

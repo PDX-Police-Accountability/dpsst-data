@@ -50,12 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2024
+  course: BVP2862A
+  title: City of Beaverton Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/11/2024
   course: BVP4261A
   title: November Range 2024 Pistol Rifle 111124
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/30/2024
+  course: BVP2771A
+  title: Implicit Bias in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/30/2024
+  course: BVP2006A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/17/2024
   course: BVP3920A
   title: EVOC

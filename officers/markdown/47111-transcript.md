@@ -35,13 +35,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | BVP3633A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/14/2024 | BVP3765A | November Range 2024 Pistol 111424 | Passed | 0.0 | 3.00 |
+| 11/13/2024 | BVP2862A | City of Beaverton Ethics in Policing | Passed | 0.0 | 1.00 |
 | 10/28/2024 | BVP1864A | First Amendment Assemblies Training | Passed | 0.0 | 0.50 |
 | 10/10/2024 | BVP2140A | Fall IST EVOC | Passed | 0.0 | 3.00 |
 | 9/27/2024 | BVP2054A | Control Tactics | Passed | 0.0 | 3.00 |
 | 8/29/2024 | BVP2772A | August Range 2024 | Passed | 0.0 | 3.00 |
 | 8/19/2024 | BVP0265A | Use of Force Briefing Training | Passed | 0.0 | 1.00 |
 | 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |
+| 4/18/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
+| 4/18/2024 | BVP2006A | PREA | Passed | 0.0 | 0.50 |
 | 2/8/2024 | BVP2564A | 2024 February Range | Passed | 0.0 | 3.00 |
 | 2/8/2024 | BVP3297A | 2024 February Range | Passed | 0.0 | 3.00 |
 | 1/18/2024 | BVP4076A | First Aid and Adult/Child CRP 11824 am | Passed | 0.0 | 3.00 |

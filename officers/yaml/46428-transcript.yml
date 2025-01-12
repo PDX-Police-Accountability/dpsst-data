@@ -69,6 +69,54 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/7/2025
+  course: PDP1214A
+  title: 2024-1 Sup IS ICS for expanding Incidents Ref
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2025
+  course: PDP2406A
+  title: 2024-1 Sup IS Internal Affairs (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/7/2025
+  course: PDP0992A
+  title: 2024-1 Sup IS - Message from the Force Inspector
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/7/2025
+  course: PDP3278A
+  title: 2024-1 Sup IS BHR Supporting Employee Needs Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2025
+  course: PDP0406A
+  title: 2024-1 Sup IS Civil Unrest PDX OR 2020 (Video 1)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/7/2025
+  course: PDP3961A
+  title: 2024-1 Sup IS Deminimus Force BWC Review (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/31/2024
+  course: MAINTMUL
+  title: Maintenance Makeup Leadership
+  status: Passed
+  score: '0.0'
+  hours: '3.25'
+- date: 12/31/2024
+  course: MISCMAIN
+  title: 2024 LE Leadership 3-Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/20/2024
   course: PDP3205A
   title: 2023-4 CAO Legal Updates for 11/2023
@@ -4973,21 +5021,17 @@ training_records:
   hours: '0.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/13/2023
   expiration_date: 5/13/2025
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/31/2006

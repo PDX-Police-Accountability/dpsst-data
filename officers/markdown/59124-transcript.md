@@ -31,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/30/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 11/19/2024 | BVP2322A | Takedowns, Ground Control and Vehicle Extractions | Passed | 0.0 | 5.50 |
 | 11/7/2024 | BVP1390A | November Range 2024 Pistol 110724 | Passed | 0.0 | 3.00 |
 | 10/28/2024 | BVP1864A | First Amendment Assemblies Training | Passed | 0.0 | 0.50 |

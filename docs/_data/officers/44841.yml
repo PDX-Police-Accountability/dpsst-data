@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2024
+  course: LOP2868A
+  title: Confrontational Simulation Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/19/2024
   course: LOP2422A
   title: Conducting Photo Lineups
@@ -62,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/17/2024
+  course: LOP2968A
+  title: Firearms Policy review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/14/2024
   course: LOP2617A
   title: Firearms Training

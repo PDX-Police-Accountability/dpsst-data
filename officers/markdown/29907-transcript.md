@@ -28,6 +28,9 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 3/15/1994 | No Degree | Portland State University | Psychology | 142.0 |
+| 6/15/1993 | No Degree | Portland Community College |  | 3.0 |
+| 3/15/1993 | No Degree | Mt Hood Community College | Criminal Justice Administration | 87.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

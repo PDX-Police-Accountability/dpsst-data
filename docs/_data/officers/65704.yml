@@ -42,6 +42,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/31/2024
+  course: PDP1453A
+  title: IS-241 Decision Making and Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2024
+  course: PDP4250A
+  title: IS-2200 Basic Emergency Ops Center Functions
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/4/2024
   course: M10-23A
   title: DPSST Basic Police Course

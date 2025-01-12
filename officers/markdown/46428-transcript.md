@@ -26,10 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/13/2023 | 5/13/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 1/31/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +38,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/7/2025 | PDP1214A | 2024-1 Sup IS ICS for expanding Incidents Ref | Passed | 0.0 | 1.00 |
+| 1/7/2025 | PDP2406A | 2024-1 Sup IS Internal Affairs (Video) | Passed | 0.0 | 0.00 |
+| 1/7/2025 | PDP0992A | 2024-1 Sup IS - Message from the Force Inspector | Passed | 0.0 | 0.00 |
+| 1/7/2025 | PDP3278A | 2024-1 Sup IS BHR Supporting Employee Needs Video | Passed | 0.0 | 1.00 |
+| 1/7/2025 | PDP0406A | 2024-1 Sup IS Civil Unrest PDX OR 2020 (Video 1) | Passed | 0.0 | 0.00 |
+| 1/7/2025 | PDP3961A | 2024-1 Sup IS Deminimus Force BWC Review (Video) | Passed | 0.0 | 0.00 |
+| 12/31/2024 | MAINTMUL | Maintenance Makeup Leadership | Passed | 0.0 | 3.25 |
+| 12/31/2024 | MISCMAIN | 2024 LE Leadership 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/20/2024 | PDP3205A | 2023-4 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 12/20/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/20/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |

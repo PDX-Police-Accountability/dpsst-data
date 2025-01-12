@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | EGP2122A | Patrol Briefing:  Albuquerque Video | Passed | 0.0 | 0.50 |
 | 12/26/2024 | EGP3791A | Drug Enforcement HB 4002 Briefing Video | Passed | 0.0 | 0.75 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2024 | EGP2774A | Bias  Bias Crime Investigations | Passed | 0.0 | 1.50 |

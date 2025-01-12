@@ -38,8 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2024 | LOP2868A | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
 | 12/19/2024 | LOP2422A | Conducting Photo Lineups | Passed | 0.0 | 0.50 |
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/17/2024 | LOP2968A | Firearms Policy review | Passed | 0.0 | 0.50 |
 | 11/14/2024 | LOP2617A | Firearms Training | Passed | 0.0 | 4.00 |
 | 11/14/2024 | LOP2028A | AHA Heartsaver First Aid | Passed | 0.0 | 2.00 |
 | 11/5/2024 | LOP0818A | Do's and Don'ts of Cultural Inclusion | Passed | 0.0 | 1.00 |

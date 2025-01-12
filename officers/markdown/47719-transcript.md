@@ -37,7 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2024 | BVP2862A | City of Beaverton Ethics in Policing | Passed | 0.0 | 1.00 |
 | 11/11/2024 | BVP4261A | November Range 2024 Pistol Rifle 111124 | Passed | 0.0 | 3.00 |
+| 10/30/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
+| 10/30/2024 | BVP2006A | PREA | Passed | 0.0 | 0.50 |
 | 10/17/2024 | BVP3920A | EVOC | Passed | 0.0 | 3.00 |
 | 9/27/2024 | BVP2054A | Control Tactics | Passed | 0.0 | 3.00 |
 | 8/16/2024 | BVP2961A | Aug 2024 40 HR Bike Class | Instructed | 0.0 | 40.00 |

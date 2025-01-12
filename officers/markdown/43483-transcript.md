@@ -5,13 +5,14 @@
 | dpsst_identifier | 43483 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Lieutenant |
+| rank | Captain |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/2/2025 | Portland Police Bureau | Promotion | Captain |  |  |
 | 2/3/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 5/4/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/11/2003 | Portland Police Bureau | Hired | Police Off |  |  |

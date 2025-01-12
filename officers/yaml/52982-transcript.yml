@@ -120,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/13/2024
+  course: PDP1772A
+  title: 2024 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/11/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/31/2024 | PDP1143A | 2024 Radar/Lidar | Passed | 0.0 | 11.50 |
 | 10/7/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/3/2024 | PDP1679A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 10/3/2024 | PDP2131A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

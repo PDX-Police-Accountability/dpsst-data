@@ -29,10 +29,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/6/2023 | 7/6/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 4/13/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +41,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/7/2025 | PDP2286A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/7/2025 | PDP2973A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 1/7/2025 | PDP3268A | 2024 ECIT Recording Define the Event | Passed | 0.0 | 0.00 |
+| 1/7/2025 | PDP1810A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 12/31/2024 | MAINTMUC | Maintenance Makeup CIT/MH | Passed | 0.0 | 1.00 |
+| 12/31/2024 | MISCMAIN | 2024 LE Leadership 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2024 | PDP3797A | 2024 SERT Camp Rilea Training | Passed | 0.0 | 21.00 |
 | 12/17/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/17/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |

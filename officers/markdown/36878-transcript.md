@@ -38,7 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2024 | BVP3633A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/19/2024 | BVP2322A | Takedowns, Ground Control and Vehicle Extractions | Passed | 0.0 | 5.50 |
+| 11/13/2024 | BVP2862A | City of Beaverton Ethics in Policing | Passed | 0.0 | 1.00 |
 | 11/12/2024 | BVP1798A | November Range 2024 Pistol Rifle 111224 | Passed | 0.0 | 3.00 |
 | 10/31/2024 | BVP1081A | First Amendment Assemblies Training | Instructed | 0.0 | 0.50 |
 | 10/28/2024 | BVP1864A | First Amendment Assemblies Training | Passed | 0.0 | 0.50 |
@@ -48,6 +50,8 @@
 | 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |
 | 5/24/2024 | BVP1290A | Detective Academy | Instructed | 0.0 | 2.00 |
 | 4/11/2024 | BVP0411A | Beaverton Police 2024 Reserve Academy | Instructed | 0.0 | 3.00 |
+| 4/8/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
+| 4/8/2024 | BVP2006A | PREA | Passed | 0.0 | 0.50 |
 | 1/30/2024 | BVP0092A | First Aid and Adult/Child CPR 013024am | Passed | 0.0 | 3.00 |
 | 1/26/2024 | BVP4344A | Pistol Mounted Optic Class Day 2 Jan.26 | Passed | 0.0 | 8.00 |
 | 1/19/2024 | BVP3068A | Pistol Mounted Optic Class Day 1  Jan.19 | Passed | 0.0 | 8.00 |

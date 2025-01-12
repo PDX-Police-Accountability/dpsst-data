@@ -50,6 +50,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/19/2024 | LOP2422A | Conducting Photo Lineups | Passed | 0.0 | 0.50 |
+| 11/17/2024 | LOP2968A | Firearms Policy review | Passed | 0.0 | 0.50 |
 | 11/14/2024 | LOP2617A | Firearms Training | Passed | 0.0 | 4.00 |
 | 11/14/2024 | LOP2028A | AHA Heartsaver First Aid | Passed | 0.0 | 2.00 |
 | 11/6/2024 | LOP1839A | OC and Control Take Downs | Passed | 0.0 | 2.50 |

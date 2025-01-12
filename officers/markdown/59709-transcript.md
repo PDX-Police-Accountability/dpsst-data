@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/7/2025 | BNP1180A | UAS monthly training | Passed | 0.0 | 6.50 |
 | 12/30/2024 | BNP2622A | Emergency Operations Plan | Passed | 0.0 | 1.00 |
 | 12/30/2024 | BNP0742A | Standard Operating Procedure Updates | Passed | 0.0 | 2.00 |
 | 12/30/2024 | BNP1261A | Fire Lithium Exposure | Passed | 0.0 | 1.00 |

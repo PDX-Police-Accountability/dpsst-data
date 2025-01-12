@@ -74,6 +74,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/2/2025
+  course: HRS4052A
+  title: 'NORTAC Less-Lethal Recert: Classroom'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/2/2025
+  course: HRS3335A
+  title: NORTAC Tactical Decision Making Exercise
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/2/2025
+  course: HRS2970A
+  title: NORTAC Tactical Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/2/2025
+  course: HRS2351A
+  title: NORTAC Use of Force Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/5/2024
   course: CDS1854A
   title: NORTAC BREACHING / BUILDING CLEARING

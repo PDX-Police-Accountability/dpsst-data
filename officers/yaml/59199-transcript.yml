@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 12/31/2024
+  course: EGP2122A
+  title: 'Patrol Briefing:  Albuquerque Video'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/26/2024
   course: EGP3791A
   title: Drug Enforcement HB 4002 Briefing Video

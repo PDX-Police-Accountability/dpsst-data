@@ -70,12 +70,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/14/2024
+  course: BVP3633A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/19/2024
   course: BVP2322A
   title: Takedowns, Ground Control and Vehicle Extractions
   status: Passed
   score: '0.0'
   hours: '5.50'
+- date: 11/13/2024
+  course: BVP2862A
+  title: City of Beaverton Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/12/2024
   course: BVP1798A
   title: November Range 2024 Pistol Rifle 111224
@@ -130,6 +142,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 4/8/2024
+  course: BVP2771A
+  title: Implicit Bias in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/8/2024
+  course: BVP2006A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/30/2024
   course: BVP0092A
   title: First Aid and Adult/Child CPR 013024am
