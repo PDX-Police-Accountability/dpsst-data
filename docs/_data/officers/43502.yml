@@ -999,12 +999,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '20.00'
-- date: 2/28/2023
-  course: BPT13195
-  title: Police Traffic Safety Conference
-  status: Passed
-  score: '0.0'
-  hours: '14.00'
 - date: 2/9/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022
@@ -1017,6 +1011,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/8/2023
+  course: BPT13195
+  title: Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 2/8/2023
   course: PDP28909
   title: ODOT Police Traffic Safety Conference

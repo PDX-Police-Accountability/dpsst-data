@@ -5008,10 +5008,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/11/2024
   expiration_date: 1/11/2026
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/27/2001

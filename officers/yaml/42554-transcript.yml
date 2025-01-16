@@ -776,12 +776,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/28/2023
-  course: BPT13195
-  title: Police Traffic Safety Conference
-  status: Passed
-  score: '0.0'
-  hours: '14.00'
 - date: 2/25/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -806,6 +800,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/8/2023
+  course: BPT13195
+  title: Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 2/8/2023
   course: PDP28909
   title: ODOT Police Traffic Safety Conference

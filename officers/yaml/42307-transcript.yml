@@ -860,12 +860,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/28/2023
-  course: BPT13195
-  title: Police Traffic Safety Conference
-  status: Passed
-  score: '0.0'
-  hours: '14.00'
 - date: 2/16/2023
   course: PDP35372
   title: 2022 Naxolone Administration
@@ -914,6 +908,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/8/2023
+  course: BPT13195
+  title: Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 2/8/2023
   course: PDP28909
   title: ODOT Police Traffic Safety Conference
@@ -5963,10 +5963,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/15/2023

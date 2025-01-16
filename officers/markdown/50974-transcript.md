@@ -79,8 +79,8 @@
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 4/13/2023 | PDP0052A | 2023 Adv Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |
 | 3/23/2023 | OCP4203A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
-| 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/28/2023 | F6R43463 | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 2/8/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 1/31/2023 | OCP4095A | Legislative Update | Passed | 0.0 | 0.50 |
 | 1/18/2023 | LOP3089 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 1/4/2023 | OCP36575 | SFST Refresher Course | Instructed | 0.0 | 4.00 |
