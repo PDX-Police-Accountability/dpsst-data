@@ -29,9 +29,10 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2002 | No Degree | All Other Education Institutes |  | 138.0 |
-| 6/15/1999 | No Degree | All Other Education Institutes |  | 24.0 |
-| 12/18/1998 | Associate Arts | All Other Education Institutes |  | 123.5 |
+| 12/12/2024 | Bachelor Science | All Other Education Institutes |  | 69.6 |
+| 6/15/2002 | No Degree | All Other Education Institutes |  | 92.0 |
+| 6/15/1999 | No Degree | All Other Education Institutes |  | 16.0 |
+| 12/18/1998 | Associate Arts | All Other Education Institutes |  | 82.3 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

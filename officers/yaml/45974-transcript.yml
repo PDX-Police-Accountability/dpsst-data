@@ -4478,18 +4478,23 @@ attribute_records:
   effective_date: 9/13/2005
   expiration_date: ''
 education_records:
+- date: 12/12/2024
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '69.6'
 - date: 6/15/2002
   degree: No Degree
   school: All Other Education Institutes
   major: ''
-  hours: '138.0'
+  hours: '92.0'
 - date: 6/15/1999
   degree: No Degree
   school: All Other Education Institutes
   major: ''
-  hours: '24.0'
+  hours: '16.0'
 - date: 12/18/1998
   degree: Associate Arts
   school: All Other Education Institutes
   major: ''
-  hours: '123.5'
+  hours: '82.3'
