@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/7/2025 | Multnomah County District Attorney | Hired | Investigtr |  |  |
 | 1/3/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 10/24/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 | 4/3/2025 |  |
-| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 | 4/3/2025 |  |
-| 7/27/1998 | Police Officer | Basic | Granted | 7/27/1998 | 4/3/2025 |  |
+| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 |  |  |
+| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 |  |  |
+| 7/27/1998 | Police Officer | Basic | Granted | 7/27/1998 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
