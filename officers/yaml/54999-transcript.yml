@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/9/2025
+  course: HRS2769A
+  title: 'In-Service: Defensive Tactics'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/9/2025
+  course: HRS3180A
+  title: 'In-Service: Use of Force Refresher'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/9/2025
+  course: HRS3268A
+  title: 'In-Service: Active Threat - Rescue Task Force'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/2/2025
   course: HRS4052A
   title: 'NORTAC Less-Lethal Recert: Classroom'

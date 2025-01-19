@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2025 | RRP3588A | OACP ELTS Board Meeting | Passed | 0.0 | 4.00 |
 | 12/19/2024 | LOP2422A | Conducting Photo Lineups | Passed | 0.0 | 0.50 |
 | 11/17/2024 | LOP2968A | Firearms Policy review | Passed | 0.0 | 0.50 |
 | 11/14/2024 | LOP2617A | Firearms Training | Passed | 0.0 | 4.00 |

@@ -85,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 12/18/2024
+  course: OCS1988A
+  title: Ethics  Human Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 12/12/2024
   course: OCS2394A
   title: Enrichment Academy BCP

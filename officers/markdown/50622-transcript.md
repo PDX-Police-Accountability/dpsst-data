@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/15/2025 | 1/15/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/31/2023 | 1/31/2025 |
@@ -40,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2025 | OCP1646A | First Aid  Adult/Child CPR | Passed | 0.0 | 2.50 |
+| 1/14/2025 | OCP3067A | Firearms/Use of Force | Instructed | 0.0 | 6.00 |
+| 1/8/2025 | OCP3206A | OCPD Leadership | Passed | 0.0 | 4.00 |
 | 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 12/11/2024 | OCP1448A | Domestic Violence Investigations | Passed | 0.0 | 2.25 |
 | 12/4/2024 | OCP2587A | Basic Rifle Course | Instructed | 0.0 | 18.00 |
@@ -50,6 +54,7 @@
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/25/2024 | OCP1842A | Mental Health Diagnosis 101 | Passed | 0.0 | 0.50 |
 | 9/20/2024 | OCS2728A | PEER training | Passed | 0.0 | 40.00 |
+| 9/20/2024 | OCP4077A | Managing And Conducting IA Investigations | Passed | 0.0 | 28.00 |
 | 8/29/2024 | OCP2672A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 8/28/2024 | OCP2123A | Patrol Tactics | Instructed | 0.0 | 5.00 |
 | 8/13/2024 | OCP1219A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |

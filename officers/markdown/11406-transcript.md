@@ -53,6 +53,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2025 | RRP3588A | OACP ELTS Board Meeting | Passed | 0.0 | 4.00 |
 | 10/4/2024 | OAC0651A | Organizational Culture  Why Chiefs Fail | Passed | 0.0 | 3.25 |
 | 10/4/2024 | OAC4520A | Shaping Public Safety; Emerging; Legislative | Passed | 0.0 | 2.00 |
 | 10/3/2024 | OAC1837A | Public Information  Social Media | Passed | 0.0 | 1.00 |

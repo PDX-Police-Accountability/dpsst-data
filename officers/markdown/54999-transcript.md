@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | HRS2769A | In-Service: Defensive Tactics | Passed | 0.0 | 3.00 |
+| 1/9/2025 | HRS3180A | In-Service: Use of Force Refresher | Passed | 0.0 | 1.00 |
+| 1/9/2025 | HRS3268A | In-Service: Active Threat - Rescue Task Force | Passed | 0.0 | 2.00 |
 | 1/2/2025 | HRS4052A | NORTAC Less-Lethal Recert: Classroom | Passed | 0.0 | 1.00 |
 | 1/2/2025 | HRS3335A | NORTAC Tactical Decision Making Exercise | Passed | 0.0 | 1.00 |
 | 1/2/2025 | HRS2970A | NORTAC Tactical Scenario Training | Passed | 0.0 | 4.00 |

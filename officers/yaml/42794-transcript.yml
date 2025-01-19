@@ -86,12 +86,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2025
+  course: OCS3163A
+  title: Marksmanship, December 2024 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/15/2025
+  course: OCS3755A
+  title: Marksmanship, December 2024 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/7/2025
+  course: OCS3282A
+  title: 2025 FTU Instructor Course
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
+- date: 12/20/2024
+  course: OCS1524A
+  title: Marksmanship, Movement, Use of Cover
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/20/2024
+  course: OCS1524A
+  title: Marksmanship, Movement, Use of Cover
+  status: Instructed
+  score: '0.0'
+  hours: '48.00'
 - date: 12/16/2024
   course: OCS1759A
   title: Marksmanship, Qualification
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 12/16/2024
+  course: OCS0503A
+  title: Taser and Use of Force Law
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/3/2024
   course: OCS1572A
   title: Concealment, Marksmanship, Decision Making

@@ -55,6 +55,18 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 1/14/2025
+  course: OCP1827A
+  title: Use of Force - Ground Fight Against Armed Subject
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/13/2025
+  course: OCP1527A
+  title: Taser 7 Certification / Re-certification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/23/2024
   course: OCP2204A
   title: Lexipol Daily Training Bulletins

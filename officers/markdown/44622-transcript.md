@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2025 | OSH3076A | 1st Trimester Firearms | Instructed | 0.0 | 2.00 |
 | 1/9/2025 | OSH2651A | Pistol Mounted Optic - Instructor | Instructed | 0.0 | 20.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2024 | OSH3845A | Ethics | Passed | 0.0 | 1.00 |
@@ -115,6 +116,7 @@
 | 4/28/2023 | OSH44417 | Shotgun Training | Passed | 0.0 | 1.00 |
 | 4/26/2023 | OSH27563 | Leadership / Patrol Tactics Instructor In-Service | Passed | 0.0 | 12.00 |
 | 4/26/2023 | OSH27563 | Leadership / Patrol Tactics Instructor In-Service | Instructed | 0.0 | 4.00 |
+| 4/14/2023 | OSH2482A | FW In-Service | Passed | 0.0 | 16.00 |
 | 4/10/2023 | OSH24482 | DT 23 Defensive Tactics 1st Trimester | Passed | 0.0 | 4.00 |
 | 4/2/2023 | OSH21606 | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 3/9/2023 | OSH03931 | Vehicle Based Problem Solving | Passed | 0.0 | 8.00 |

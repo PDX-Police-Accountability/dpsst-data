@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2024 | PPP1016A | Rifle Range | Passed | 0.0 | 4.00 |
 | 9/10/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 8/26/2024 | PPP2947A | Gasmask Fit Test | Passed | 0.0 | 0.30 |
 | 7/31/2024 | PPP1570A | Anti-Bias Training for LE | Passed | 0.0 | 1.00 |

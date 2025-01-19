@@ -114,6 +114,7 @@
 | 8/1/2024 | PDP2951A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 22.00 |
 | 8/1/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/25/2024 | REG4286A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 6/6/2024 | REG1255A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/15/2024 | PDP3290A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 4/1/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 3/28/2024 | PDP0545A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 24.00 |

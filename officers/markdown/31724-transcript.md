@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/6/2025 | BNS1907A | TCCC | Passed | 0.0 | 4.00 |
 | 10/15/2024 | BNS1728A | Skid Car | Passed | 0.0 | 0.50 |
 | 10/15/2024 | BNS1703A | Skid Car | Passed | 0.0 | 0.50 |
 | 9/23/2024 | BNS0305A | 40MM | Passed | 0.0 | 1.00 |

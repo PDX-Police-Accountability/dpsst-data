@@ -75,6 +75,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2025
+  course: OCP1646A
+  title: First Aid  Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 1/14/2025
+  course: OCP3067A
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/8/2025
+  course: OCP3206A
+  title: OCPD Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/23/2024
   course: OCP2204A
   title: Lexipol Daily Training Bulletins
@@ -135,6 +153,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 9/20/2024
+  course: OCP4077A
+  title: Managing And Conducting IA Investigations
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 8/29/2024
   course: OCP2672A
   title: Firearms/Use of Force
@@ -2686,6 +2710,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/15/2025
+  expiration_date: 1/15/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

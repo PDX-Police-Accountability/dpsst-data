@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2025 | RRP3588A | OACP ELTS Board Meeting | Passed | 0.0 | 4.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | SPP3968A | Taser Recertification | Passed | 0.0 | 2.00 |
 | 11/18/2024 | SPP3414A | Night Shoot Firearms | Passed | 0.0 | 2.00 |

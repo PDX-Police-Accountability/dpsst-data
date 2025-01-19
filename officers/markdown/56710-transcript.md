@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/8/2025 | 1/8/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/9/2024 | 1/9/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
@@ -40,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2025 | SDP3182A | WRAP Refresher | Passed | 0.0 | 1.00 |
+| 1/8/2025 | SDP0767A | CPR-Adult, Child, Infant plus First Aid | Passed | 0.0 | 4.00 |
 | 12/11/2024 | SDP0597A | Use of Force Report Training | Passed | 0.0 | 1.00 |
 | 12/11/2024 | SDP1863A | Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 12/11/2024 | SDP3938A | DT's Control Grounded Subject | Passed | 0.0 | 2.00 |

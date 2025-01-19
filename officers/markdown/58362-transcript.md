@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/24/2024 | OCS0715A | Role of Leadership Problem Oriented Policing | Passed | 0.0 | 16.00 |
+| 12/20/2024 | OCS1524A | Marksmanship, Movement, Use of Cover | Passed | 0.0 | 1.00 |
+| 12/16/2024 | OCS0503A | Taser and Use of Force Law | Passed | 0.0 | 2.00 |
 | 12/13/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/21/2024 | OCS2042A | Equity training | Passed | 0.0 | 3.00 |
 | 11/20/2024 | OCS4266A | Taser | Passed | 0.0 | 1.00 |

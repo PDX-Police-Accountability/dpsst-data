@@ -35,6 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/14/2025 | OCP3067A | Firearms/Use of Force | Passed | 0.0 | 6.00 |
+| 1/13/2025 | OCP1527A | Taser 7 Certification / Re-certification | Passed | 0.0 | 4.00 |
+| 1/9/2025 | OCP3704A | Airborne and BBP | Passed | 0.0 | 1.00 |
+| 1/8/2025 | OCP3148A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
+| 1/8/2025 | OCP1095A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 6/10/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 4/9/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/1/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

@@ -546,6 +546,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 6/6/2024
+  course: REG1255A
+  title: INTOX 8000 (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/5/2024
   course: PDP3290A
   title: Amended DOJ Settlement Agreement

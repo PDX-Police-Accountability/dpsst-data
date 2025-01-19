@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2024
+  course: OCS1524A
+  title: Marksmanship, Movement, Use of Cover
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/16/2024
+  course: OCS0503A
+  title: Taser and Use of Force Law
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/14/2024
   course: OCS4097A
   title: Active Shooter Response

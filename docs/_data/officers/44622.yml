@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2025
+  course: OSH3076A
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/9/2025
   course: OSH2651A
   title: Pistol Mounted Optic - Instructor
@@ -530,6 +536,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 4/14/2023
+  course: OSH2482A
+  title: FW In-Service
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/10/2023
   course: OSH24482
   title: DT 23 Defensive Tactics 1st Trimester

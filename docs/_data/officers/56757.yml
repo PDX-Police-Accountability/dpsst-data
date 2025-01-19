@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 9/30/2024
+  course: PPP1016A
+  title: Rifle Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/15/2024
   course: PDS1549A
   title: Mobile Field Force

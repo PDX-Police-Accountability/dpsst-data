@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/15/2025 | PDP4339A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 12/11/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/3/2024 | PDP3568A | 2024 Body Worn Camera Training | Passed | 0.0 | 3.00 |
 | 12/2/2024 | PDP3912A | 2024  FTEP HAZMAT/WMD/APR | Passed | 0.0 | 2.00 |

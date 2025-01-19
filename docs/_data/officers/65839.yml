@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 1/14/2025
+  course: PDP1375A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 12/23/2024
   course: PDP1801A
   title: 'Directive 0910.00 Update: De Minimis Force'

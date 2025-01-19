@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2025
+  course: OCP1646A
+  title: First Aid  Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 12/23/2024
   course: OCP2204A
   title: Lexipol Daily Training Bulletins
@@ -883,6 +889,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/15/2025
+  expiration_date: 1/15/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

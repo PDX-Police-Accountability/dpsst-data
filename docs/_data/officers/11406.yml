@@ -162,6 +162,12 @@ certification_records:
   expiration_date: 3/1/2026
   probation_date: ''
 training_records:
+- date: 1/8/2025
+  course: RRP3588A
+  title: OACP ELTS Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/4/2024
   course: OAC0651A
   title: Organizational Culture  Why Chiefs Fail

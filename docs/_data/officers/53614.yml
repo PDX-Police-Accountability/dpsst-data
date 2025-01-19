@@ -80,6 +80,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 1/10/2025
+  course: PDP4370A
+  title: 2025 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/2/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

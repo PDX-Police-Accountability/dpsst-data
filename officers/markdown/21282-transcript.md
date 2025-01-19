@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2025 | WLP3943A | Respectful Workplace | Passed | 0.0 | 2.00 |
 | 11/13/2024 | WLP4174A | Children's Center 101 / Karly's Law | Passed | 0.0 | 1.50 |
 | 11/13/2024 | WLP2326A | Taser Recertification | Passed | 0.0 | 2.00 |
 | 10/19/2024 | WLP1453A | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 8.00 |
