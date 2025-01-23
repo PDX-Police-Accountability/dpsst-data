@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2025
+  course: PDS0219A
+  title: Communication
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/13/2024
   course: PDS0272A
   title: Less Lethal Certification

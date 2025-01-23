@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2025
+  course: MNS3394A
+  title: Adult and Pediatric First Aid/CPR/AED - BL - r.21
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/16/2024
   course: MNS0040A
   title: Courtroom Testimony and Report Writing
@@ -1190,6 +1196,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/16/2025
+  expiration_date: 1/16/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

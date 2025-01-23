@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2025
+  course: PDP1157A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 12/21/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

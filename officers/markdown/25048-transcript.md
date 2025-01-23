@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2025 | AVP1171A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 12/26/2024 | SAG1222A | 2022 Oregon Sheriff's Airway training video | Passed | 0.0 | 1.45 |
 | 12/11/2024 | AVP2471A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 11/26/2024 | SAG0750A | Firearms training | Passed | 0.0 | 3.00 |

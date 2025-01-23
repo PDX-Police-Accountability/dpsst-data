@@ -25,6 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/20/2025 | 1/20/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/31/2023 | 1/31/2025 |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/20/2025 | OCP3147A | First Aid  Adult / Child CPR | Passed | 0.0 | 2.00 |
 | 1/14/2025 | OCP1827A | Use of Force - Ground Fight Against Armed Subject | Passed | 0.0 | 1.00 |
 | 1/13/2025 | OCP1527A | Taser 7 Certification / Re-certification | Instructed | 0.0 | 4.00 |
 | 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |

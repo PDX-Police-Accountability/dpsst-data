@@ -16,10 +16,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/17/2023 | Police Officer | Basic | ReqCertExt |  |  | 2/17/2026 |
+| 1/21/2025 | Police Officer | Basic | App Recd |  |  | 2/17/2026 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 12/13/2024 |  |
 | Code of Ethics | Law Enforcement Signed | 11/13/2023 |  |
 | Certification Cards | First Aid and CPR | 11/8/2023 | 11/8/2025 |
 ## Education
@@ -28,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/17/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/21/2025 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 12/10/2024 | OSH1816A | ARIDE | Passed | 0.0 | 16.00 |
 | 12/4/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/4/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

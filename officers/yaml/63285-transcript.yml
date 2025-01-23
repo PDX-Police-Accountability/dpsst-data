@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/20/2025
+  course: PDP0507A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 12/25/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

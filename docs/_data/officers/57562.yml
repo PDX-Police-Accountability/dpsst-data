@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 1/20/2025
+  course: OCP3147A
+  title: First Aid  Adult / Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/14/2025
   course: OCP1827A
   title: Use of Force - Ground Fight Against Armed Subject
@@ -1658,6 +1664,10 @@ training_records:
   score: '0.0'
   hours: '1.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/20/2025
+  expiration_date: 1/20/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2025 | PDS0219A | Communication | Instructed | 0.0 | 2.00 |
 | 12/13/2024 | PDS0272A | Less Lethal Certification | Instructed | 0.0 | 5.00 |
 | 12/13/2024 | PDS0361A | Less Lethal Certification | Instructed | 0.0 | 5.00 |
 | 12/11/2024 | HBS0216A | Less Lethal Impact Munitions Instructor Program | Passed | 0.0 | 8.00 |

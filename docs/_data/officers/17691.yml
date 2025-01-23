@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2025
+  course: MNS3394A
+  title: Adult and Pediatric First Aid/CPR/AED - BL - r.21
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
@@ -2966,6 +2972,10 @@ training_records:
   score: '0.0'
   hours: '275.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/13/2025
+  expiration_date: 1/16/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

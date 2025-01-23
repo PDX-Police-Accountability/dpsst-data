@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2025 | SVP1500A | Cell Extractions and Strategy | Passed | 0.0 | 4.00 |
+| 1/15/2025 | AVP1171A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 12/11/2024 | SVP4231A | Night Range | Passed | 0.0 | 3.00 |
 | 11/20/2024 | SVP3669A | Defensive Tactics Training | Passed | 0.0 | 3.50 |
 | 11/18/2024 | SVP0827A | Balancing Innovation  Ethics | Passed | 0.0 | 1.50 |

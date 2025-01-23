@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/16/2025 | 1/16/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2025 |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2025 | MNS3394A | Adult and Pediatric First Aid/CPR/AED - BL - r.21 | Passed | 0.0 | 3.00 |
 | 12/16/2024 | MNS0040A | Courtroom Testimony and Report Writing | Passed | 0.0 | 0.50 |
 | 12/16/2024 | MNS0048A | DUII Investigations and SFST Refresher | Passed | 0.0 | 3.00 |
 | 12/16/2024 | MNS4019A | Below 100 | Passed | 0.0 | 3.00 |
