@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '45895'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Police Officer
+  rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/16/2025
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 7/28/2005
   agency: Portland Police Bureau
   action: Hired

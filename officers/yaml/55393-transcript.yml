@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2025
+  course: PDP1514A
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/13/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

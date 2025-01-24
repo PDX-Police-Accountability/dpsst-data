@@ -35,9 +35,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/13/2025 | REG0726A | Ground Control | Passed | 0.0 | 1.00 |
+| 1/6/2025 | REG4399A | DT | Passed | 0.0 | 1.00 |
+| 1/2/2025 | REG1760A | DT | Passed | 0.0 | 1.00 |
+| 12/26/2024 | REG2777A | Ground Control | Passed | 0.0 | 1.00 |
 | 12/12/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/12/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/12/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 12/9/2024 | REG1508A | Sweeps from Open Guard | Passed | 0.0 | 1.00 |
 | 12/2/2024 | REG3564A | DT | Passed | 0.0 | 1.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2024 | REG1988A | Closed Guard - Defense Against Strikes | Passed | 0.0 | 1.00 |

@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/15/2025 | 1/15/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2025 |
@@ -39,10 +40,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2025 | SDP0679A | Bloodborne Pathogens Training | Passed | 0.0 | 1.00 |
+| 1/15/2025 | SDP0631A | CPR Adult, Child, Infant Plus First Aid | Passed | 0.0 | 4.00 |
+| 1/15/2025 | SDP1609A | WRAP Refresher | Passed | 0.0 | 1.00 |
+| 1/13/2025 | REG0726A | Ground Control | Passed | 0.0 | 1.00 |
+| 1/6/2025 | REG4399A | DT | Passed | 0.0 | 1.00 |
+| 12/30/2024 | REG2144A | DT | Passed | 0.0 | 1.00 |
 | 12/11/2024 | SDP0597A | Use of Force Report Training | Passed | 0.0 | 1.00 |
 | 12/11/2024 | SDP1863A | Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 12/11/2024 | SDP3938A | DT's Control Grounded Subject | Passed | 0.0 | 2.00 |
 | 12/10/2024 | SDP3551A | Intro to OSHA and Leadership | Passed | 0.0 | 2.00 |
+| 12/9/2024 | REG1508A | Sweeps from Open Guard | Passed | 0.0 | 1.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | SDP2785A | Ethics Training | Passed | 0.0 | 1.00 |
 | 11/11/2024 | REG4319A | Arrest  Control/Team Takedowns | Passed | 0.0 | 1.00 |

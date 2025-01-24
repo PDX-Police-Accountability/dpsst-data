@@ -26,6 +26,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/3/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 5/12/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
 | 1/14/2025 | PDP1375A | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 12/12/2024 | PDP2451A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

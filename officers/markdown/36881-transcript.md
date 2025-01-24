@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/26/2024 | SAG1222A | 2022 Oregon Sheriff's Airway training video | Passed | 0.0 | 1.45 |
+| 12/19/2024 | SAG2882A | Missing or Murdered Indigenous Persons | Passed | 0.0 | 3.00 |
 | 12/17/2024 | SAG2864A | Firearms training | Passed | 0.0 | 2.00 |
 | 10/24/2024 | SAG4294A | Firearms training - Night Range 2024 | Passed | 0.0 | 3.00 |
 | 10/24/2024 | SAG3277A | Taser re-certification 2024 | Passed | 0.0 | 1.00 |

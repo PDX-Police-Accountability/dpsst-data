@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2025 | SDP0679A | Bloodborne Pathogens Training | Passed | 0.0 | 1.00 |
+| 1/13/2025 | REG0726A | Ground Control | Passed | 0.0 | 1.00 |
 | 1/8/2025 | SDP3182A | WRAP Refresher | Passed | 0.0 | 1.00 |
 | 1/8/2025 | SDP0767A | CPR-Adult, Child, Infant plus First Aid | Passed | 0.0 | 4.00 |
 | 12/11/2024 | SDP0597A | Use of Force Report Training | Passed | 0.0 | 1.00 |

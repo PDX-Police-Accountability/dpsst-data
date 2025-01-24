@@ -44,6 +44,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2025
+  course: REG0726A
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/6/2025
+  course: REG4399A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/2/2025
+  course: REG1760A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/26/2024
+  course: REG2777A
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/12/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement
@@ -62,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/9/2024
+  course: REG1508A
+  title: Sweeps from Open Guard
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/2/2024
   course: REG3564A
   title: DT

@@ -69,6 +69,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2025
+  course: SDP0679A
+  title: Bloodborne Pathogens Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2025
+  course: SDP0631A
+  title: CPR Adult, Child, Infant Plus First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/15/2025
+  course: SDP1609A
+  title: WRAP Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/13/2025
+  course: REG0726A
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/6/2025
+  course: REG4399A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2024
+  course: REG2144A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/11/2024
   course: SDP0597A
   title: Use of Force Report Training
@@ -93,6 +129,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/9/2024
+  course: REG1508A
+  title: Sweeps from Open Guard
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -4624,6 +4666,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/15/2025
+  expiration_date: 1/15/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

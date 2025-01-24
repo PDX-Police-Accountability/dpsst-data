@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/6/2025
+  course: REG4399A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/10/2024
   course: PDP1039A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

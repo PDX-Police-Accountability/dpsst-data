@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2025
+  course: SDP0679A
+  title: Bloodborne Pathogens Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/13/2025
+  course: REG0726A
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/8/2025
   course: SDP3182A
   title: WRAP Refresher

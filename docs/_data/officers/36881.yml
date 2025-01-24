@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.45'
+- date: 12/19/2024
+  course: SAG2882A
+  title: Missing or Murdered Indigenous Persons
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/17/2024
   course: SAG2864A
   title: Firearms training
