@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2025 | GPN0690A | Behavior Change Plan- Train the Trainer | Passed | 0.0 | 16.00 |
 | 11/20/2024 | MFN2895A | LSCMI Case Management | Passed | 0.0 | 4.00 |
 | 11/19/2024 | MFN2895A | LSCMI Case Management | Passed | 0.0 | 2.00 |
 | 10/31/2024 | MFN0536A | Striking | Passed | 0.0 | 2.00 |

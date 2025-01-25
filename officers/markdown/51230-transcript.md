@@ -32,9 +32,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2025 | PDP0182A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 1/16/2025 | PDP0182A | 2025 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
+| 1/9/2025 | PDP1868A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/3/2025 | PDP3624A | 2024-3 IS ABLE Video | Passed | 0.0 | 1.00 |
 | 1/3/2025 | PDP1145A | 2024-3 IS PP Shooting at Moving Vehicle Video | Passed | 0.0 | 1.25 |
 | 1/3/2025 | PDP2820A | 2024-3 IS PP Shooting at Moving vehicles Video 2 | Passed | 0.0 | 1.25 |
+| 1/2/2025 | PDP2785A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/2/2025 | PDP2785A | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 12/31/2024 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |

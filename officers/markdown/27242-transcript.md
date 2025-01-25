@@ -44,7 +44,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2025 | OAC3757A | A Proactive Approach to Wellness | Passed | 0.0 | 1.00 |
+| 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |
+| 1/9/2025 | OAC2452A | Crisis Leadership Navigating HighStakes Situation | Passed | 0.0 | 3.50 |
+| 1/9/2025 | OAC3294A | Staff Accoutability | Grieveances - Roundtable | Passed | 0.0 | 1.00 |
+| 1/9/2025 | OAC3853A | Frontline Trauma  the Path to Recovery | Passed | 0.0 | 3.00 |
 | 1/8/2025 | RRP3588A | OACP ELTS Board Meeting | Passed | 0.0 | 4.00 |
+| 1/8/2025 | OAC2545A | Use of AI in Policing | Passed | 0.0 | 4.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | SPP3968A | Taser Recertification | Passed | 0.0 | 2.00 |
 | 11/18/2024 | SPP3414A | Night Shoot Firearms | Passed | 0.0 | 2.00 |

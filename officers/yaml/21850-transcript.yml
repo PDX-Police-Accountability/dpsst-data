@@ -131,9 +131,33 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2025
+  course: OAC3842A
+  title: UNLV Active Shooter Debrief
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/9/2025
+  course: OAC2452A
+  title: Crisis Leadership Navigating HighStakes Situation
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 1/9/2025
+  course: OAC3853A
+  title: Frontline Trauma  the Path to Recovery
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/8/2025
   course: RRP3588A
   title: OACP ELTS Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/8/2025
+  course: OAC2545A
+  title: Use of AI in Policing
   status: Passed
   score: '0.0'
   hours: '4.00'

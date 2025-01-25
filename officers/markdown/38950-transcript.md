@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/22/2025 | HBS1949A | WCPOA/WCSO Labor Law Training | Passed | 0.0 | 2.50 |
 | 12/18/2024 | HBS3475A | Admin InService #2 (Leadership) | Instructed | 0.0 | 1.00 |
 | 12/16/2024 | HBS1064A | Admin InService #2 (Leadership) | Passed | 0.0 | 6.00 |
 | 12/16/2024 | HBS1064A | Admin InService #2 (Leadership) | Instructed | 0.0 | 1.00 |

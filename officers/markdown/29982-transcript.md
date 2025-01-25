@@ -44,6 +44,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2025 | SVP1500A | Cell Extractions and Strategy | Passed | 0.0 | 4.00 |
 | 1/15/2025 | AVP1171A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
+| 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |
+| 1/10/2025 | OAC3757A | A Proactive Approach to Wellness | Passed | 0.0 | 1.00 |
+| 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |
+| 1/9/2025 | OAC2452A | Crisis Leadership Navigating HighStakes Situation | Passed | 0.0 | 3.50 |
+| 1/9/2025 | OAC3853A | Frontline Trauma  the Path to Recovery | Passed | 0.0 | 3.00 |
+| 1/8/2025 | OAC2545A | Use of AI in Policing | Passed | 0.0 | 4.00 |
 | 12/11/2024 | SVP4231A | Night Range | Passed | 0.0 | 3.00 |
 | 11/20/2024 | SVP3669A | Defensive Tactics Training | Passed | 0.0 | 3.50 |
 | 11/18/2024 | SVP0827A | Balancing Innovation  Ethics | Passed | 0.0 | 1.50 |

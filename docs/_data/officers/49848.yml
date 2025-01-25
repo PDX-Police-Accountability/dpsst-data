@@ -50,6 +50,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/9/2025
+  course: PDP1868A
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/5/2024
   course: PDP1039A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

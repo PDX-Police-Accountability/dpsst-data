@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2025
+  course: RMP3271A
+  title: 40MM
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/8/2025
+  course: RMP2918A
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/24/2024
   course: RMP3130A
   title: Mental Health

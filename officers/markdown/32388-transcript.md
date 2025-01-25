@@ -35,10 +35,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |
 | 12/11/2024 | GSP2088A | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
+| 12/11/2024 | GSP1104A | Taser X26P Recertification | Passed | 0.0 | 1.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
+| 11/8/2024 | GSP4074A | Firearms Training - Handgun Inservice 2024 | Instructed | 0.0 | 10.00 |
+| 10/21/2024 | GSP4243A | Firearms Training - Rifle Inservice 2024 | Instructed | 0.0 | 10.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
+| 10/2/2024 | GSP2419A | Firearms Training - Rifle Instructor Training | Passed | 0.0 | 10.00 |
 | 9/20/2024 | GSP1167A | Firearms | Instructed | 0.0 | 10.00 |
 | 9/19/2024 | GSP4098A | Firearms | Passed | 0.0 | 10.00 |
 | 9/18/2024 | GSP1049A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |

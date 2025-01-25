@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |
 | 12/30/2024 | BNP2622A | Emergency Operations Plan | Passed | 0.0 | 1.00 |
 | 12/30/2024 | BNP0742A | Standard Operating Procedure Updates | Passed | 0.0 | 2.00 |
 | 12/30/2024 | BNP1261A | Fire Lithium Exposure | Passed | 0.0 | 1.00 |

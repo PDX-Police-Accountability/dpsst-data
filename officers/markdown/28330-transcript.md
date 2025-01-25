@@ -44,6 +44,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |
+| 1/10/2025 | OAC3757A | A Proactive Approach to Wellness | Passed | 0.0 | 1.00 |
+| 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |
+| 1/9/2025 | OAC3294A | Staff Accoutability | Grieveances - Roundtable | Passed | 0.0 | 1.00 |
+| 1/9/2025 | OAC3853A | Frontline Trauma  the Path to Recovery | Passed | 0.0 | 3.00 |
+| 1/8/2025 | OAC2545A | Use of AI in Policing | Passed | 0.0 | 4.00 |
 | 8/22/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2024 | PPP1962A | Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
 | 7/29/2024 | PPP0690A | LEDS Recertification | Passed | 0.0 | 1.00 |

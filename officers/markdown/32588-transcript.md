@@ -30,6 +30,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Certification Cards | First Aid and CPR | 11/12/2024 | 11/12/2026 |
 | Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
 | Code of Ethics | Signed | 3/10/2006 |  |
 ## Education
@@ -39,10 +40,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | OAC2452A | Crisis Leadership Navigating HighStakes Situation | Passed | 0.0 | 3.50 |
+| 1/9/2025 | OAC3853A | Frontline Trauma  the Path to Recovery | Passed | 0.0 | 3.00 |
+| 1/8/2025 | OAC2545A | Use of AI in Policing | Passed | 0.0 | 4.00 |
+| 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |
 | 12/11/2024 | GSP2088A | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
 | 11/18/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
+| 11/12/2024 | GSP3304A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
+| 11/12/2024 | GSP1104A | Taser X26P Recertification | Passed | 0.0 | 1.00 |
 | 10/30/2024 | HBA2384A | Building Bridges Summit | Passed | 0.0 | 5.00 |
 | 10/25/2024 | PDS2768A | NTOA Public Order Basic Command Certification | Passed | 0.0 | 40.00 |
 | 10/25/2024 | GSP3377A | NTOA Public Order Basic Command Cert Course | Passed | 0.0 | 40.00 |

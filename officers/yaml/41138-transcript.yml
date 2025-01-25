@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2025
+  course: PDP0182A
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/9/2025
+  course: PDP1868A
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/10/2024
   course: PDP1039A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

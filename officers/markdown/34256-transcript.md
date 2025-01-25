@@ -44,6 +44,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/14/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/10/2025 | OAC3757A | A Proactive Approach to Wellness | Passed | 0.0 | 1.00 |
+| 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |
+| 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |
+| 1/9/2025 | OAC2452A | Crisis Leadership Navigating HighStakes Situation | Passed | 0.0 | 3.50 |
+| 1/9/2025 | OAC3853A | Frontline Trauma  the Path to Recovery | Passed | 0.0 | 3.00 |
+| 1/8/2025 | OAC2545A | Use of AI in Policing | Passed | 0.0 | 4.00 |
 | 11/15/2024 | BVP2862A | City of Beaverton Ethics in Policing | Passed | 0.0 | 1.00 |
 | 11/12/2024 | BVP2327A | November Range 2024 Pistol 111224 | Passed | 0.0 | 3.00 |
 | 10/28/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |

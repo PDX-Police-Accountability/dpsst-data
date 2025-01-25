@@ -107,6 +107,42 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/10/2025
+  course: OAC3757A
+  title: A Proactive Approach to Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/10/2025
+  course: OAC3842A
+  title: UNLV Active Shooter Debrief
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/10/2025
+  course: OAC4167A
+  title: Next Generation Recruiting  Retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/9/2025
+  course: OAC2452A
+  title: Crisis Leadership Navigating HighStakes Situation
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 1/9/2025
+  course: OAC3853A
+  title: Frontline Trauma  the Path to Recovery
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/8/2025
+  course: OAC2545A
+  title: Use of AI in Policing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/15/2024
   course: BVP2862A
   title: City of Beaverton Ethics in Policing

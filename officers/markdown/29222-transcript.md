@@ -29,6 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Certification Cards | First Aid and CPR | 12/3/2024 | 12/3/2026 |
 | Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
@@ -40,15 +41,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |
 | 12/13/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2024 | GSP2088A | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
+| 12/3/2024 | GSP2412A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
+| 11/20/2024 | GSP1104A | Taser X26P Recertification | Passed | 0.0 | 1.00 |
+| 9/30/2024 | GSP1069A | Firearms Training - Handgun Instructor Training | Passed | 0.0 | 10.00 |
 | 8/15/2024 | GSP1452A | Crimes Against Children Conference | Passed | 0.0 | 30.00 |
 | 7/31/2024 | GSP0912A | Intro Ext Verifiable Info in Forensic Interview | Passed | 0.0 | 1.50 |
 | 7/17/2024 | GSP4457A | Responding to an Unexplained Child Death | Passed | 0.0 | 7.00 |
 | 6/27/2024 | GSP2234A | Inside the Tape-Homicide Investigations | Passed | 0.0 | 18.50 |
 | 6/7/2024 | GSP2243A | Developing Combative Speed and Accuracy | Passed | 0.0 | 40.00 |
+| 5/15/2024 | GSP1918A | Firearms Training - New Hire Handgun Training | Instructed | 0.0 | 10.00 |
 | 5/10/2024 | GSP1531A | Washington Homicide Investigators Association 2024 | Passed | 0.0 | 20.00 |
 | 5/2/2024 | GSP0672A | Finding the Leader in You | Passed | 0.0 | 5.00 |
 | 4/16/2024 | GSP1655A | Handgun In-InService | Instructed | 0.0 | 10.00 |

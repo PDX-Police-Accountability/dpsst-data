@@ -418,6 +418,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/7/2023
+  course: PDP0604A
+  title: 2023 External Training FBI National Academy
+  status: Passed
+  score: '0.0'
+  hours: '264.00'
 - date: 10/27/2023
   course: PDP1153A
   title: 2023 Behavioral Health Unit Referrals
@@ -5362,6 +5368,11 @@ attribute_records:
   effective_date: 10/21/2002
   expiration_date: ''
 education_records:
+- date: 8/6/2021
+  degree: Masters Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '30.0'
 - date: 6/10/2000
   degree: Bachelor Arts
   school: All Other Education Institutes

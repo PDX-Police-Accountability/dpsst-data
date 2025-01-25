@@ -482,7 +482,7 @@
 | * MISSING | 32393 |  |  |  |  |  | [md](../markdown/32393-transcript.md) - [yaml](../yaml/32393-transcript.yml) |
 | Gossman, Rema M. | 32395 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-06-07 | [md](../markdown/32395-transcript.md) - [yaml](../yaml/32395-transcript.yml) |
 | Hern, Paul W. | 32396 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32396-transcript.md) - [yaml](../yaml/32396-transcript.yml) |
-| Klundt, Karl J. | 32398 | Portland Police Bureau | Active | Police Officer | Promotion | 1999-02-15 | [md](../markdown/32398-transcript.md) - [yaml](../yaml/32398-transcript.yml) |
+| Klundt, Karl J. | 32398 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-11-20 | [md](../markdown/32398-transcript.md) - [yaml](../yaml/32398-transcript.yml) |
 | Blair, John C. | 32401 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32401-transcript.md) - [yaml](../yaml/32401-transcript.yml) |
 | Ruhl, Benjamin D. | 32402 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1996-08-06 | [md](../markdown/32402-transcript.md) - [yaml](../yaml/32402-transcript.yml) |
 | * MISSING | 32403 |  |  |  |  |  | [md](../markdown/32403-transcript.md) - [yaml](../yaml/32403-transcript.yml) |
@@ -1274,7 +1274,7 @@
 | Emmons, Brett W. | 56132 | Portland Police Bureau | Active | Police Officer | LOA | 2024-10-01 | [md](../markdown/56132-transcript.md) - [yaml](../yaml/56132-transcript.yml) |
 | Whitmore, Anthony J. | 56159 | Portland Police Bureau | Active | Police Officer | Return LOA | 2019-02-22 | [md](../markdown/56159-transcript.md) - [yaml](../yaml/56159-transcript.yml) |
 | * MISSING | 56186 |  |  |  |  |  | [md](../markdown/56186-transcript.md) - [yaml](../yaml/56186-transcript.yml) |
-| Ivarsson, Emmy M. | 56217 | Portland Police Bureau | Active | Police Officer | Return LOA | 2019-02-20 | [md](../markdown/56217-transcript.md) - [yaml](../yaml/56217-transcript.yml) |
+| Ivarsson, Emmy M. | 56217 | Portland Police Bureau | Active | Detective | Promotion | 2025-01-16 | [md](../markdown/56217-transcript.md) - [yaml](../yaml/56217-transcript.yml) |
 | * MISSING | 56256 |  |  |  |  |  | [md](../markdown/56256-transcript.md) - [yaml](../yaml/56256-transcript.yml) |
 | Trapp, Todd D. | 56260 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/56260-transcript.md) - [yaml](../yaml/56260-transcript.yml) |
 | Aguilar, Hector P. | 56270 | Portland Police Bureau | Active | Police Officer | Hired | 2023-11-09 | [md](../markdown/56270-transcript.md) - [yaml](../yaml/56270-transcript.yml) |

@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2024
+  course: GSP3611A
+  title: Multnomah County Deflection Center (2024)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/13/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
@@ -93,6 +99,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/3/2024
+  course: GSP2412A
+  title: First Aid and Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/20/2024
+  course: GSP1104A
+  title: Taser X26P Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2024
+  course: GSP1069A
+  title: Firearms Training - Handgun Instructor Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/15/2024
   course: GSP1452A
   title: Crimes Against Children Conference
@@ -123,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 5/15/2024
+  course: GSP1918A
+  title: Firearms Training - New Hire Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/10/2024
   course: GSP1531A
   title: Washington Homicide Investigators Association 2024
@@ -2718,6 +2748,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/3/2024
+  expiration_date: 12/3/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/2/2023

@@ -4,7 +4,7 @@
 | name | Klundt, Karl J. |
 | dpsst_identifier | 32398 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,19 +12,20 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/20/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/15/1999 | Portland Police Bureau | Promotion | Police Off |  |  |
 | 5/30/1996 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/27/2005 | Police Officer | Advanced | Granted | 9/27/2005 |  |  |
-| 9/27/2005 | Police Officer | Intermediate | Granted | 9/27/2005 |  |  |
-| 1/28/2000 | Police Officer | Basic | Granted | 1/28/2000 |  |  |
+| 9/27/2005 | Police Officer | Advanced | Granted | 9/27/2005 | 2/20/2025 |  |
+| 9/27/2005 | Police Officer | Intermediate | Granted | 9/27/2005 | 2/20/2025 |  |
+| 1/28/2000 | Police Officer | Basic | Granted | 1/28/2000 | 2/20/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
 | Code of Ethics | Signed | 9/27/2005 |  |
 ## Education

@@ -879,7 +879,7 @@
 | Ionesi, Samuel | 57727 | Portland Police Bureau | Active | Police Officer | Hired | 2017-08-23 | [md](../markdown/57727-transcript.md) - [yaml](../yaml/57727-transcript.yml) |
 | Irvine, Derek J. | 65498 | Portland Police Bureau | Active | Police Officer | Hired | 2024-08-01 | [md](../markdown/65498-transcript.md) - [yaml](../yaml/65498-transcript.yml) |
 | Ismail, Hythum A. | 41302 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/41302-transcript.md) - [yaml](../yaml/41302-transcript.yml) |
-| Ivarsson, Emmy M. | 56217 | Portland Police Bureau | Active | Police Officer | Return LOA | 2019-02-20 | [md](../markdown/56217-transcript.md) - [yaml](../yaml/56217-transcript.yml) |
+| Ivarsson, Emmy M. | 56217 | Portland Police Bureau | Active | Detective | Promotion | 2025-01-16 | [md](../markdown/56217-transcript.md) - [yaml](../yaml/56217-transcript.yml) |
 | Jack, Stephen K. | 52793 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2019-09-04 | [md](../markdown/52793-transcript.md) - [yaml](../yaml/52793-transcript.yml) |
 | Jackson, David | 47782 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-13 | [md](../markdown/47782-transcript.md) - [yaml](../yaml/47782-transcript.yml) |
 | Jackson, Freddie J. | 48392 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/48392-transcript.md) - [yaml](../yaml/48392-transcript.yml) |
@@ -962,7 +962,7 @@
 | Klein, Seth M. | 36834 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2003-01-08 | [md](../markdown/36834-transcript.md) - [yaml](../yaml/36834-transcript.yml) |
 | Kline, Tyler W. | 60983 | Portland Police Bureau | Active | Police Officer | Hired | 2020-03-26 | [md](../markdown/60983-transcript.md) - [yaml](../yaml/60983-transcript.yml) |
 | Klinger, Scott R. | 21705 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-08-03 | [md](../markdown/21705-transcript.md) - [yaml](../yaml/21705-transcript.yml) |
-| Klundt, Karl J. | 32398 | Portland Police Bureau | Active | Police Officer | Promotion | 1999-02-15 | [md](../markdown/32398-transcript.md) - [yaml](../yaml/32398-transcript.yml) |
+| Klundt, Karl J. | 32398 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-11-20 | [md](../markdown/32398-transcript.md) - [yaml](../yaml/32398-transcript.yml) |
 | Knodel, Jimmie | 46506 | Portland Police Bureau | Active | Civilian Employee | Hired | 2003-06-01 | [md](../markdown/46506-transcript.md) - [yaml](../yaml/46506-transcript.yml) |
 | Koback, Robert B. | 63459 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63459-transcript.md) - [yaml](../yaml/63459-transcript.yml) |
 | Koda, Max D. | 60887 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-07-23 | [md](../markdown/60887-transcript.md) - [yaml](../yaml/60887-transcript.yml) |

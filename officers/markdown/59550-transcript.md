@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2025 | RMP3271A | 40MM | Passed | 0.0 | 1.00 |
+| 1/8/2025 | RMP2918A | Taser | Passed | 0.0 | 1.00 |
 | 12/24/2024 | RMP3130A | Mental Health | Passed | 0.0 | 1.00 |
 | 12/5/2024 | BNP1178A | Distraction Devices Training and Test | Passed | 0.0 | 3.00 |
 | 12/5/2024 | BNP0819A | Tactical Mission Debriefs | Passed | 0.0 | 3.00 |

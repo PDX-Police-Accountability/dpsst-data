@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2025 | PDP0182A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 1/9/2025 | PDP1868A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/11/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/15/2024 | PDP2376A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

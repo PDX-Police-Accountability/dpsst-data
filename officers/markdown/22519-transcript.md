@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |
 | 4/30/2024 | VND1647A | Conducting Effective Public Safety Backgrounds | Passed | 0.0 | 16.00 |
 | 7/1/2022 | GSP21114 | 2022 Spring Rifle In Service | Passed | 0.0 | 10.00 |
 | 6/12/2022 | GSP1456A | 2022 PVO In Service | Passed | 0.0 | 10.00 |

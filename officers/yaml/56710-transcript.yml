@@ -116,6 +116,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/27/2024
+  course: HBS2648A
+  title: K9 School
+  status: Passed
+  score: '0.0'
+  hours: '386.00'
 - date: 11/20/2024
   course: SDP2785A
   title: Ethics Training

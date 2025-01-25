@@ -849,7 +849,6 @@
 | Prosser, Todd A. | 30501 | Portland Police Bureau | Active | Detective | Promotion | 2004-07-08 | [md](../markdown/30501-transcript.md) - [yaml](../yaml/30501-transcript.yml) |
 | Quick, Robert R. | 30665 | Portland Police Bureau | Active | Captain | Promotion | 2024-01-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Hubbard, Brian D. | 32024 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/32024-transcript.md) - [yaml](../yaml/32024-transcript.yml) |
-| Klundt, Karl J. | 32398 | Portland Police Bureau | Active | Police Officer | Promotion | 1999-02-15 | [md](../markdown/32398-transcript.md) - [yaml](../yaml/32398-transcript.yml) |
 | Pontius, Jeffery D. | 32530 | Portland Police Bureau | Active | Detective | Promotion | 2011-11-10 | [md](../markdown/32530-transcript.md) - [yaml](../yaml/32530-transcript.yml) |
 | Harris, Sean W. | 32992 | Portland Police Bureau | Active | Detective | Promotion | 2020-05-14 | [md](../markdown/32992-transcript.md) - [yaml](../yaml/32992-transcript.yml) |
 | Powell, Heather C. | 33027 | Portland Police Bureau | Active | Criminalist | Promotion | 2003-07-31 | [md](../markdown/33027-transcript.md) - [yaml](../yaml/33027-transcript.yml) |
@@ -1048,6 +1047,7 @@
 | Ibrahim, Khalid N. | 55066 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/55066-transcript.md) - [yaml](../yaml/55066-transcript.yml) |
 | Oldham, Jackson K. | 55188 | Portland Police Bureau | Active | Detective | Promotion | 2023-05-11 | [md](../markdown/55188-transcript.md) - [yaml](../yaml/55188-transcript.yml) |
 | Namba, Thomas M. | 55828 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/55828-transcript.md) - [yaml](../yaml/55828-transcript.yml) |
+| Ivarsson, Emmy M. | 56217 | Portland Police Bureau | Active | Detective | Promotion | 2025-01-16 | [md](../markdown/56217-transcript.md) - [yaml](../yaml/56217-transcript.yml) |
 | Miller, Jeremiah D. | 56974 | Portland Police Bureau | Active | Criminalist | Promotion | 2023-05-11 | [md](../markdown/56974-transcript.md) - [yaml](../yaml/56974-transcript.yml) |
 | Shiferaw, Robel | 58167 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/58167-transcript.md) - [yaml](../yaml/58167-transcript.yml) |
 | Pettey, Stephen B. | 58781 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-04-25 | [md](../markdown/58781-transcript.md) - [yaml](../yaml/58781-transcript.yml) |
@@ -1641,6 +1641,7 @@
 | Derry, Ryan W. | 32366 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-06-28 | [md](../markdown/32366-transcript.md) - [yaml](../yaml/32366-transcript.yml) |
 | Darby, James P. | 32384 | Portland Police Bureau | Inactive | Sergeant | Retired | 2022-09-20 | [md](../markdown/32384-transcript.md) - [yaml](../yaml/32384-transcript.yml) |
 | Hern, Paul W. | 32396 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32396-transcript.md) - [yaml](../yaml/32396-transcript.yml) |
+| Klundt, Karl J. | 32398 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-11-20 | [md](../markdown/32398-transcript.md) - [yaml](../yaml/32398-transcript.yml) |
 | Blair, John C. | 32401 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32401-transcript.md) - [yaml](../yaml/32401-transcript.yml) |
 | Ball, Robert D. | 32411 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2018-07-04 | [md](../markdown/32411-transcript.md) - [yaml](../yaml/32411-transcript.yml) |
 | Weldon, Carl T. | 32413 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-11-29 | [md](../markdown/32413-transcript.md) - [yaml](../yaml/32413-transcript.yml) |
@@ -1757,7 +1758,6 @@
 | Hristova, Heidi S. | 53470 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-07-23 | [md](../markdown/53470-transcript.md) - [yaml](../yaml/53470-transcript.yml) |
 | Robinson, Grover, Jr. | 53905 | Portland Police Bureau | Active | Sergeant | Return LOA | 2020-11-16 | [md](../markdown/53905-transcript.md) - [yaml](../yaml/53905-transcript.yml) |
 | Whitmore, Anthony J. | 56159 | Portland Police Bureau | Active | Police Officer | Return LOA | 2019-02-22 | [md](../markdown/56159-transcript.md) - [yaml](../yaml/56159-transcript.yml) |
-| Ivarsson, Emmy M. | 56217 | Portland Police Bureau | Active | Police Officer | Return LOA | 2019-02-20 | [md](../markdown/56217-transcript.md) - [yaml](../yaml/56217-transcript.yml) |
 | Bechtel, Lindsey A. | 57093 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-11-07 | [md](../markdown/57093-transcript.md) - [yaml](../yaml/57093-transcript.yml) |
 | Lopez, Carlos, Jr. | 57448 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-06-08 | [md](../markdown/57448-transcript.md) - [yaml](../yaml/57448-transcript.yml) |
 | Kelly, Mark B. | 57474 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-03-04 | [md](../markdown/57474-transcript.md) - [yaml](../yaml/57474-transcript.yml) |

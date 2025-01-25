@@ -40,6 +40,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/6/2021 | Masters Arts | All Other Education Institutes |  | 30.0 |
 | 6/10/2000 | Bachelor Arts | All Other Education Institutes |  | 185.0 |
 ## Training
 | date | course | title | status | score | hours |
@@ -96,6 +97,7 @@
 | 1/2/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 1/2/2024 | PDP2905A | 2023 Video Evidence Basics Use of Force Invest. | Passed | 0.0 | 1.50 |
 | 12/20/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 12/7/2023 | PDP0604A | 2023 External Training FBI National Academy | Passed | 0.0 | 264.00 |
 | 10/27/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/27/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 9/24/2023 | PDP2242A | 2023 Body-Worn Camera Axon User Training | Passed | 0.0 | 1.50 |

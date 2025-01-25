@@ -26,6 +26,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Certification Cards | First Aid and CPR | 10/24/2024 | 10/24/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
 | Code of Ethics | Signed | 7/20/2007 |  |
@@ -37,9 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |
 | 12/11/2024 | GSP2088A | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
+| 11/9/2024 | GSP1104A | Taser X26P Recertification | Passed | 0.0 | 1.00 |
+| 10/24/2024 | GSP3136A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
+| 10/23/2024 | GSP3683A | Firearms Training - Handgun Inservice 2024 | Passed | 0.0 | 10.00 |
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/2/2024 | OCS1296A | Tactical Leadership by Caliber Press | Passed | 0.0 | 8.00 |
 | 6/16/2024 | GSP0081A | Basic UAS Ground School | Instructed | 0.0 | 30.00 |

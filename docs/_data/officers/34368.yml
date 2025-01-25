@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2025
+  course: OAC4167A
+  title: Next Generation Recruiting  Retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/30/2024
   course: BNP2622A
   title: Emergency Operations Plan

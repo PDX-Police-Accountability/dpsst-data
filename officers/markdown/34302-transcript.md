@@ -28,6 +28,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Certification Cards | First Aid and CPR | 10/24/2024 | 10/24/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
 | Code of Ethics | Signed | 8/28/2000 |  |
@@ -39,9 +40,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |
 | 12/11/2024 | GSP2088A | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
+| 10/25/2024 | GSP1110A | Firearms Training - Handgun Inservice 2024 | Passed | 0.0 | 10.00 |
+| 10/24/2024 | GSP3136A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 9/12/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/3/2024 | OSH0972A | 2024 DRE Confernce | Passed | 0.0 | 8.00 |

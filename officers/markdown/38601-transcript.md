@@ -25,6 +25,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Certification Cards | First Aid and CPR | 11/19/2024 | 11/19/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
 | Code of Ethics | Signed | 7/12/2005 |  |
@@ -38,7 +39,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2024 | GSP0075A | 2024 Ethics In Service | Passed | 0.0 | 1.00 |
+| 11/21/2024 | GSP1104A | Taser X26P Recertification | Passed | 0.0 | 1.00 |
+| 11/19/2024 | GSP1467A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 10/22/2024 | VND0887A | Sexual Assault Investigations | Passed | 0.0 | 12.00 |
+| 10/9/2024 | GSP3993A | Firearms Training - Handgun Inservice 2024 | Passed | 0.0 | 10.00 |
 | 9/25/2024 | PDS1142A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 4/16/2024 | GSP1655A | Handgun In-InService | Passed | 0.0 | 10.00 |
 | 3/13/2024 | GSP0031A | Firearms - Handgun | Passed | 0.0 | 10.00 |

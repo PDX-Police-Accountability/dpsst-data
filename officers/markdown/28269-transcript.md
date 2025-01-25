@@ -45,6 +45,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |
+| 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |
+| 1/9/2025 | OAC2452A | Crisis Leadership Navigating HighStakes Situation | Passed | 0.0 | 3.50 |
+| 1/9/2025 | OAC0469A | Increased Cost of Technology- Roundtable | Passed | 0.0 | 1.00 |
+| 1/9/2025 | OAC3853A | Frontline Trauma  the Path to Recovery | Passed | 0.0 | 3.00 |
 | 1/8/2025 | RRP3588A | OACP ELTS Board Meeting | Passed | 0.0 | 4.00 |
 | 12/30/2024 | BNP2622A | Emergency Operations Plan | Passed | 0.0 | 1.00 |
 | 12/30/2024 | BNP0742A | Standard Operating Procedure Updates | Passed | 0.0 | 2.00 |
