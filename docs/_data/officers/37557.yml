@@ -189,6 +189,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 8/31/2024
+  course: LOP2845A
+  title: Handgun Optic Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 8/15/2024
   course: LOP2738A
   title: General Pacific FAA Part 107 Remote Pilot

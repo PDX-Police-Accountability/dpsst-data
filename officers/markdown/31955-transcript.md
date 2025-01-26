@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/22/2025 | CAP3093A | Annual Handgun Qualifications and Fundamentals | Passed | 0.0 | 2.00 |
 | 11/20/2024 | CAP0542A | Handgun Night Shoot | Passed | 0.0 | 2.00 |
 | 10/16/2024 | CAP1686A | Force on Force VCQB - Building Search | Passed | 0.0 | 2.00 |
 | 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |

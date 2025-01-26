@@ -51,6 +51,7 @@
 | 9/30/2024 | LOP1989A | Ethics and Code of Conduct: Ethics for Everyone | Passed | 0.0 | 1.00 |
 | 9/30/2024 | LOP0116A | 8 Keys to a More Respectful Workplace 02-09 | Passed | 0.0 | 1.00 |
 | 9/12/2024 | LOP3432A | OC Refresher  Takedowns/Control Techniques | Passed | 0.0 | 4.00 |
+| 8/31/2024 | LOP2845A | Handgun Optic Refresher | Passed | 0.0 | 0.75 |
 | 5/30/2024 | LOP1938A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |
 | 3/7/2024 | LOP2975A | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 2/14/2024 | LOP0053A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |

@@ -128,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/31/2024
+  course: LOP2845A
+  title: Handgun Optic Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 5/30/2024
   course: LOP1938A
   title: Handgun Optic Transition Course

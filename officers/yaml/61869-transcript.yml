@@ -48,6 +48,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 1/15/2025
+  course: PDP0956A
+  title: 2025 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 1/7/2025
+  course: PDP4284A
+  title: 2025 FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/19/2024
   course: PDP1771A
   title: 2018 TOD 100% Collection and Submission Model

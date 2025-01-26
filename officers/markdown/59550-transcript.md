@@ -23,6 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/8/2025 | 1/8/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/19/2023 | 2/1/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
@@ -37,8 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/21/2025 | BNP0766A | Tactical Physical Qualifications | Passed | 0.0 | 0.50 |
+| 1/21/2025 | BNP1637A | Firearm Training | Passed | 0.0 | 6.00 |
+| 1/21/2025 | BNP2813A | Firearm Qualifications | Passed | 0.0 | 1.00 |
 | 1/8/2025 | RMP3271A | 40MM | Passed | 0.0 | 1.00 |
 | 1/8/2025 | RMP2918A | Taser | Passed | 0.0 | 1.00 |
+| 1/8/2025 | RMP1406A | First Aid  CPR Infant  Adults | Passed | 0.0 | 6.00 |
 | 12/24/2024 | RMP3130A | Mental Health | Passed | 0.0 | 1.00 |
 | 12/5/2024 | BNP1178A | Distraction Devices Training and Test | Passed | 0.0 | 3.00 |
 | 12/5/2024 | BNP0819A | Tactical Mission Debriefs | Passed | 0.0 | 3.00 |

@@ -251,6 +251,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/31/2024
+  course: LOP2845A
+  title: Handgun Optic Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 7/19/2024
   course: LOP0730A
   title: National Command Course Session 7

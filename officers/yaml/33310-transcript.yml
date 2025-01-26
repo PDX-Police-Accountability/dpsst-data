@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2024
+  course: MMP3036A
+  title: MILO
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2024
+  course: MMP3701A
+  title: Calibre Press Roll Call Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/26/2024
   course: MMP2028A
   title: Calibre Press Online Training Videos, Jun-Nov

@@ -40,8 +40,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/26/2024 | TAP0582A | Flock User Training | Passed | 0.0 | 1.00 |
 | 12/11/2024 | TAP3727A | OLCC informational | Passed | 0.0 | 1.00 |
 | 12/11/2024 | TAP1320A | Staff Meeting General Topics | Passed | 0.0 | 2.00 |
+| 12/10/2024 | TAP4501A | Legal Update State v Escudero | Passed | 0.0 | 0.50 |
+| 12/10/2024 | TAP2893A | WLO Update: 2024 OR Law Updates | Passed | 0.0 | 0.50 |
+| 12/9/2024 | TAP3320A | December Legal Updates | Passed | 0.0 | 4.00 |
+| 12/9/2024 | TAP3923A | December Use of Force Updates | Passed | 0.0 | 4.00 |
+| 11/17/2024 | TAP3795A | IssueUpdateHB4002OSPtrainingPossessionLawsGuide | Passed | 0.0 | 0.50 |
 | 11/15/2024 | ADP0220A | Night Pistol and Shotgun | Passed | 0.0 | 4.00 |
 | 10/30/2024 | TAP0790A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
 | 10/18/2024 | ADP2035A | TASER 10 Certification | Instructed | 0.0 | 6.00 |
@@ -51,6 +57,7 @@
 | 10/1/2024 | TAP0117A | Willamette Law Online 2024 OR Law Updates | Passed | 0.0 | 1.00 |
 | 9/24/2024 | ADP4325A | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 9/9/2024 | ADP0776A | Ethos Leadership | Passed | 0.0 | 3.00 |
+| 9/9/2024 | TAP0503A | New Drug Laws Search Seizure Issues | Passed | 0.0 | 0.75 |
 | 8/29/2024 | TAP3522A | Wellness Program 1st Watch Training | Passed | 0.0 | 1.00 |
 | 8/22/2024 | TAP3542A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/31/2024 | TAP1585A | Defensive Driving Principles | Passed | 0.0 | 1.00 |
@@ -68,6 +75,7 @@
 | 3/2/2024 | TAP3329A | HAZMAT First Responder Awareness Level 1 | Passed | 0.0 | 1.50 |
 | 2/28/2024 | TAP0313A | TASER Certification/Recert | Instructed | 0.0 | 0.50 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
+| 2/22/2024 | TAP3902A | Tactical Disengagement and de-escalation | Passed | 0.0 | 1.50 |
 | 2/18/2024 | TAP0996A | BloodBorne Pathogens for First Responders | Passed | 0.0 | 1.00 |
 | 2/15/2024 | TAP4532A | Anti Harassment In The Workplace | Passed | 0.0 | 1.00 |
 | 2/13/2024 | TAP2454A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |

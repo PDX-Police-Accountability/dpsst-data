@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/22/2025
+  course: CAP3093A
+  title: Annual Handgun Qualifications and Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/20/2024
   course: CAP0542A
   title: Handgun Night Shoot

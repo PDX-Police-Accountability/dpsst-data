@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/22/2025 | CAP3093A | Annual Handgun Qualifications and Fundamentals | Passed | 0.0 | 2.00 |
 | 12/18/2024 | CAP4227A | Night Shoot - Patrol Rifle | Instructed | 0.0 | 4.00 |
 | 11/20/2024 | CAP0542A | Handgun Night Shoot | Instructed | 0.0 | 4.00 |
 | 11/6/2024 | CAP0944A | Handgun Night Shoot | Instructed | 0.0 | 4.00 |

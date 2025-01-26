@@ -5,13 +5,14 @@
 | dpsst_identifier | 43999 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/16/2025 | Portland Police Bureau | Promotion | Detective |  |  |
 | 2/3/2022 | Portland Police Bureau | LOA | Police Off |  |  |
 | 6/30/2017 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 1/12/2017 | Portland Police Bureau | Hired | Police Off |  |  |

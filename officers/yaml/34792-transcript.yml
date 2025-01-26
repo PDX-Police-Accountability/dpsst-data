@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/26/2024
+  course: TAP0582A
+  title: Flock User Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/11/2024
   course: TAP3727A
   title: OLCC informational
@@ -68,6 +74,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/10/2024
+  course: TAP4501A
+  title: Legal Update State v Escudero
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/10/2024
+  course: TAP2893A
+  title: 'WLO Update: 2024 OR Law Updates'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/9/2024
+  course: TAP3320A
+  title: December Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/9/2024
+  course: TAP3923A
+  title: December Use of Force Updates
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2024
+  course: TAP3795A
+  title: IssueUpdateHB4002OSPtrainingPossessionLawsGuide
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/15/2024
   course: ADP0220A
   title: Night Pistol and Shotgun
@@ -122,6 +158,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/9/2024
+  course: TAP0503A
+  title: New Drug Laws Search Seizure Issues
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 8/29/2024
   course: TAP3522A
   title: Wellness Program 1st Watch Training
@@ -224,6 +266,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 2/22/2024
+  course: TAP3902A
+  title: Tactical Disengagement and de-escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/18/2024
   course: TAP0996A
   title: BloodBorne Pathogens for First Responders

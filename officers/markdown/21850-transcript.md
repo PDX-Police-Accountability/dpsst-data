@@ -69,6 +69,7 @@
 | 9/25/2024 | RRP3702A | OACP Fall Board Meeting | Passed | 0.0 | 2.00 |
 | 9/25/2024 | OAC3958A | Challenge for LE Leaders in Todays Social Environ. | Passed | 0.0 | 1.25 |
 | 9/25/2024 | OAC0238A | Ignite Your Leadership Potential | Passed | 0.0 | 2.00 |
+| 8/31/2024 | LOP2845A | Handgun Optic Refresher | Passed | 0.0 | 0.75 |
 | 7/19/2024 | LOP0730A | National Command Course Session 7 | Passed | 0.0 | 40.00 |
 | 5/30/2024 | LOP2897A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |
 | 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |

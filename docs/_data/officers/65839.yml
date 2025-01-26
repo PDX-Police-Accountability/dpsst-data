@@ -36,12 +36,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 1/15/2025
+  course: PDP0956A
+  title: 2025 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 1/14/2025
   course: PDP1375A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 1/7/2025
+  course: PDP4284A
+  title: 2025 FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/23/2024
   course: PDP1801A
   title: 'Directive 0910.00 Update: De Minimis Force'

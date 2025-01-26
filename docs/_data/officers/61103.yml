@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2025
+  course: PDP0956A
+  title: 2025 FTEP New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
 - date: 12/12/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement
