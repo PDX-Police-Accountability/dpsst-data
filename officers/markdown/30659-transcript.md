@@ -42,6 +42,7 @@
 | 10/13/2024 | PDS1552A | Defensive Tactics | Passed | 0.0 | 0.50 |
 | 10/13/2024 | PDS3512A | Taser Practical | Passed | 0.0 | 0.50 |
 | 10/13/2024 | PDS1241A | Use of Force Report Writing | Passed | 0.0 | 1.50 |
+| 10/13/2024 | PDS0669A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/25/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
 | 8/25/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |

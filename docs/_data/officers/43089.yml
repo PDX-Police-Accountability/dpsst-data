@@ -130,6 +130,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2025
+  course: LGS1967A
+  title: Firearms Low-Light Annual Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/22/2025
+  course: LGS2824A
+  title: 2025 Firearms Low-Light IDC
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/22/2025
+  course: LGS2824A
+  title: 2025 Firearms Low-Light IDC
+  status: Instructed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

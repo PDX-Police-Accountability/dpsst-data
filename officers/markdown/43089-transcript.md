@@ -48,6 +48,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2025 | LGS1967A | Firearms Low-Light Annual Training | Instructed | 0.0 | 4.00 |
+| 1/22/2025 | LGS2824A | 2025 Firearms Low-Light IDC | Passed | 0.0 | 1.50 |
+| 1/22/2025 | LGS2824A | 2025 Firearms Low-Light IDC | Instructed | 0.0 | 0.25 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/27/2024 | LGS1365A | Duty to Intercede | Passed | 0.0 | 1.00 |
 | 12/16/2024 | LGS2171A | Striking  Take Downs | Instructed | 0.0 | 8.00 |

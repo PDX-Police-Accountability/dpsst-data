@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2025
+  course: VND3554A
+  title: Search Warrants, Not as Painful as you Think
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/12/2024
   course: OSA2697A
   title: OSSA  CIT Training - Dec 12, 2024

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2025 | VND3554A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
 | 12/12/2024 | OSA2697A | OSSA  CIT Training - Dec 12, 2024 | Passed | 0.0 | 3.50 |
 | 12/11/2024 | OSA2858A | OSSA SARAC - Dec 11, 2024 | Passed | 0.0 | 7.00 |
 | 12/10/2024 | OSA0994A | OSSA SARAC Meeting - Dec 10, 2024 | Passed | 0.0 | 4.00 |
