@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/30/2022
+  agency: Wheeler County Sheriff's Office
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
 - date: 12/19/2019
   agency: Wheeler County Sheriff's Office
   action: Hired

@@ -15,6 +15,12 @@ employment_records:
   rank: Detective
   classification: ''
   assignment: ''
+- date: 3/25/2024
+  agency: Portland Police Bureau
+  action: Return LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/3/2022
   agency: Portland Police Bureau
   action: LOA
@@ -5387,7 +5393,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
-  expiration_date: 12/31/2023
+  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/28/2005

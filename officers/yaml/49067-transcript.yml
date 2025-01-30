@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/19/2024
+  course: OCS1978A
+  title: 2024 4th Qtr Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/16/2024
   course: OCS0503A
   title: Taser and Use of Force Law

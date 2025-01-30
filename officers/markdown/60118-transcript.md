@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/23/2025 | HRS2800A | In-Service: Defensive Tactics | Passed | 0.0 | 3.00 |
+| 1/23/2025 | HRS0982A | In-Service: Use of Force Refresher | Passed | 0.0 | 1.00 |
+| 1/23/2025 | HRS3860A | In-Service: Active Threat - Rescue Task Force | Passed | 0.0 | 2.00 |
 | 1/16/2025 | VND3554A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
 | 12/12/2024 | OSA2697A | OSSA  CIT Training - Dec 12, 2024 | Passed | 0.0 | 3.50 |
 | 12/11/2024 | OSA2858A | OSSA SARAC - Dec 11, 2024 | Passed | 0.0 | 7.00 |

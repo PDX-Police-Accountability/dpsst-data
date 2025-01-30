@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/27/2025
+  course: OCP4312A
+  title: Red Dot Sight (RDS) Introduction Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2025
+  course: OCP4402A
+  title: First Aid  Adult / Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 1/14/2025
   course: OCP3067A
   title: Firearms/Use of Force
@@ -4149,6 +4161,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/15/2025
+  expiration_date: 1/15/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/20/2023

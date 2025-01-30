@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/15/2025 | 1/15/2027 |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
 ## Education
 | date | degree | school | major | hours |
@@ -35,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/27/2025 | OCP4312A | Red Dot Sight (RDS) Introduction Course | Passed | 0.0 | 1.00 |
+| 1/15/2025 | OCP4402A | First Aid  Adult / Child CPR | Passed | 0.0 | 2.50 |
 | 1/14/2025 | OCP3067A | Firearms/Use of Force | Passed | 0.0 | 6.00 |
 | 1/13/2025 | OCP1527A | Taser 7 Certification / Re-certification | Passed | 0.0 | 4.00 |
 | 1/9/2025 | OCP3704A | Airborne and BBP | Passed | 0.0 | 1.00 |

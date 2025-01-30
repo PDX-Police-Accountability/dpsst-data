@@ -4,7 +4,7 @@
 | name | Chase, Nicholas A. |
 | dpsst_identifier | 62707 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/14/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/10/2024 | Portland State University DPS | Resigned | Police Off |  |  |
 | 4/11/2024 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/16/2022 | Portland State University DPS | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/26/2023 | Police Officer | Basic | Granted | 6/26/2023 |  |  |
+| 6/26/2023 | Police Officer | Basic | Granted | 6/26/2023 | 4/14/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

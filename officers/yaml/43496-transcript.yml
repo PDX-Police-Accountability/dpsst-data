@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/21/2025
+  course: 25-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -231,12 +237,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 10/13/2024
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 9/27/2024
   course: PDP3714A
   title: 2024-3 Range Qualification CEW

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/30/2022 | Wheeler County Sheriff's Office | Resigned | Reserve |  |  |
 | 12/19/2019 | Wheeler County Sheriff's Office | Hired | Reserve |  |  |
 | 12/12/2012 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 7/29/1993 | Portland Police Bureau | Promotion | Sergeant |  |  |

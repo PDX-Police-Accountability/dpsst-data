@@ -136,6 +136,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 1/24/2025
+  course: LGS0969A
+  title: Low Light Handgun
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/22/2025
   course: LGS2824A
   title: 2025 Firearms Low-Light IDC
@@ -3215,6 +3221,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/24/2025
+  expiration_date: 1/24/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

@@ -4,7 +4,7 @@
 | name | Harris, Jason A. |
 | dpsst_identifier | 34584 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/15/2025 | Portland Police Bureau | Retired | Detective |  |  |
 | 9/25/2014 | Portland Police Bureau | Promotion | Detective |  |  |
 | 10/24/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/13/2012 | Police Officer | Advanced | Granted | 2/13/2012 |  |  |
-| 2/13/2012 | Police Officer | Intermediate | Granted | 2/13/2012 |  |  |
-| 7/22/1998 | Police Officer | Basic | Granted | 7/22/1998 |  |  |
+| 2/13/2012 | Police Officer | Advanced | Granted | 2/13/2012 | 4/15/2025 |  |
+| 2/13/2012 | Police Officer | Intermediate | Granted | 2/13/2012 | 4/15/2025 |  |
+| 7/22/1998 | Police Officer | Basic | Granted | 7/22/1998 | 4/15/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

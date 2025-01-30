@@ -43,9 +43,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2025 | OCS3163A | Marksmanship, December 2024 Firearms | Instructed | 0.0 | 2.00 |
 | 1/15/2025 | OCS3755A | Marksmanship, December 2024 Firearms | Instructed | 0.0 | 2.00 |
+| 1/14/2025 | OCS1652A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 1/7/2025 | OCS3282A | 2025 FTU Instructor Course | Instructed | 0.0 | 20.00 |
 | 12/20/2024 | OCS1524A | Marksmanship, Movement, Use of Cover | Passed | 0.0 | 1.00 |
 | 12/20/2024 | OCS1524A | Marksmanship, Movement, Use of Cover | Instructed | 0.0 | 48.00 |
+| 12/19/2024 | OCS1978A | 2024 4th Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
+| 12/19/2024 | OCS1978A | 2024 4th Qtr Patrol Shotgun | Instructed | 0.0 | 24.00 |
+| 12/18/2024 | OCS1278A | 2024 4th Qtr Corrections Firearms | Instructed | 0.0 | 28.00 |
 | 12/16/2024 | OCS1759A | Marksmanship, Qualification | Instructed | 0.0 | 3.00 |
 | 12/16/2024 | OCS0503A | Taser and Use of Force Law | Passed | 0.0 | 2.00 |
 | 12/3/2024 | OCS1572A | Concealment, Marksmanship, Decision Making | Instructed | 0.0 | 2.00 |

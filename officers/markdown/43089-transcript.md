@@ -37,6 +37,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/24/2025 | 1/24/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/9/2023 | 1/9/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
@@ -49,6 +50,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/24/2025 | LGS1967A | Firearms Low-Light Annual Training | Instructed | 0.0 | 4.00 |
+| 1/24/2025 | LGS0969A | Low Light Handgun | Passed | 0.0 | 2.00 |
 | 1/22/2025 | LGS2824A | 2025 Firearms Low-Light IDC | Passed | 0.0 | 1.50 |
 | 1/22/2025 | LGS2824A | 2025 Firearms Low-Light IDC | Instructed | 0.0 | 0.25 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

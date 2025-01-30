@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 1/16/2025 | Portland Police Bureau | Promotion | Detective |  |  |
+| 3/25/2024 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 2/3/2022 | Portland Police Bureau | LOA | Police Off |  |  |
 | 6/30/2017 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 1/12/2017 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -32,7 +33,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/11/2024 | 4/11/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2025 |
 | Code of Ethics | Signed | 1/28/2005 |  |
 ## Education
 | date | degree | school | major | hours |

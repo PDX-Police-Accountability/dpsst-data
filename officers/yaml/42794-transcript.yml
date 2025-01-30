@@ -98,6 +98,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 1/14/2025
+  course: OCS1652A
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/7/2025
   course: OCS3282A
   title: 2025 FTU Instructor Course
@@ -116,6 +122,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '48.00'
+- date: 12/19/2024
+  course: OCS1978A
+  title: 2024 4th Qtr Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/19/2024
+  course: OCS1978A
+  title: 2024 4th Qtr Patrol Shotgun
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 12/18/2024
+  course: OCS1278A
+  title: 2024 4th Qtr Corrections Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '28.00'
 - date: 12/16/2024
   course: OCS1759A
   title: Marksmanship, Qualification

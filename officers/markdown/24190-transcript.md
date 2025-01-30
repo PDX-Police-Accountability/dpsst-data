@@ -20,13 +20,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/11/2024 | Police Officer | Basic | App InProc |  |  |  |
-| 5/1/2024 | Police Officer | Basic | Required |  |  | 11/1/2025 |
-| 1/30/2020 | Police Officer | Advanced | Lapsed | 10/28/1999 |  |  |
-| 1/30/2020 | Police Officer | Basic | Lapsed | 5/21/1991 |  |  |
-| 1/30/2020 | Police Officer | Intermediate | Lapsed | 10/28/1999 |  |  |
-| 1/30/2020 | Police Officer | Management | Lapsed | 1/26/2016 |  |  |
-| 1/30/2020 | Police Officer | Supervisory | Lapsed | 9/6/2011 |  |  |
+| 1/28/2025 | Police Officer | Advanced | Reactivatd | 10/28/1999 |  |  |
+| 1/28/2025 | Police Officer | Basic | Reactivatd | 5/21/1991 |  |  |
+| 1/28/2025 | Police Officer | Intermediate | Reactivatd | 10/28/1999 |  |  |
+| 1/28/2025 | Police Officer | Management | Reactivatd | 1/26/2016 |  |  |
+| 1/28/2025 | Police Officer | Supervisory | Reactivatd | 9/6/2011 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -43,7 +41,7 @@
 | 11/16/2024 | F1540385 | OC Spray Training | Passed | 0.0 | 1.00 |
 | 11/16/2024 | F1523037 | Baton Training | Passed | 0.0 | 1.00 |
 | 11/16/2024 | F1515291 | Firearms Training/Certification | Passed | 0.0 | 4.00 |
-| 9/16/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
+| 11/5/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Passed | 0.0 | 0.00 |
 | 10/9/2019 | PDP03093 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |
 | 10/9/2019 | PDP08055 | 2019 Chiefs Office SPLC Sovereign Citizen Movement | Passed | 0.0 | 0.25 |
 | 10/9/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |

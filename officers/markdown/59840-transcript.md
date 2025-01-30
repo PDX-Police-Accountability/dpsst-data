@@ -47,6 +47,7 @@
 | 12/23/2024 | OCS1768A | Trauma Informed Courts | Passed | 0.0 | 1.25 |
 | 12/18/2024 | OCS4386A | Trauma Informed Policing | Passed | 0.0 | 1.25 |
 | 12/18/2024 | OCS1988A | Ethics  Human Bias | Passed | 0.0 | 1.25 |
+| 12/18/2024 | OCS1278A | 2024 4th Qtr Corrections Firearms | Passed | 0.0 | 2.00 |
 | 12/12/2024 | OCS2394A | Enrichment Academy BCP | Passed | 0.0 | 2.00 |
 | 12/11/2024 | OCS1098A | Firearms Training | Passed | 0.0 | 2.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
