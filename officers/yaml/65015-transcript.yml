@@ -534,6 +534,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/26/2024
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 6/25/2024
   course: REG4286A
   title: DID-SFST (Hours included in Basic)
@@ -552,12 +558,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 4/1/2024
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 3/28/2024
   course: PDP0545A
   title: 2024 FTEP New Hire Firearms

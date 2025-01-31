@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2025 | SVP2548A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/15/2025 | SVP1500A | Cell Extractions and Strategy | Passed | 0.0 | 4.00 |
 | 1/15/2025 | AVP1171A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |
