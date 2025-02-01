@@ -93,6 +93,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/25/2025
+  course: BNS4361A
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/20/2025
+  course: BNS1644A
+  title: Building Search
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/6/2025
   course: BNS1907A
   title: TCCC

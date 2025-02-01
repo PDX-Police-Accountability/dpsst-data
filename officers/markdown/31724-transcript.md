@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/25/2025 | BNS4361A | Patrol Tactics | Passed | 0.0 | 1.00 |
+| 1/20/2025 | BNS1644A | Building Search | Passed | 0.0 | 2.00 |
 | 1/6/2025 | BNS1907A | TCCC | Passed | 0.0 | 4.00 |
 | 10/15/2024 | BNS1728A | Skid Car | Passed | 0.0 | 0.50 |
 | 10/15/2024 | BNS1703A | Skid Car | Passed | 0.0 | 0.50 |

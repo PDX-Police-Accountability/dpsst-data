@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2025
+  course: OSU2193A
+  title: ICS 400 Expanding Incidents
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 12/3/2024
   course: EGP2552A
   title: Supervisory Leadership Training

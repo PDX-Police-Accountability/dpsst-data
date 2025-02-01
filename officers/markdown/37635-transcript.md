@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/22/2025 | EGP3692A | Street Gang Investigations | Passed | 0.0 | 21.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2024 | EGP2889A | ICS240.c:  Leadership  Influence | Passed | 0.0 | 3.50 |
 | 12/26/2024 | EGP3791A | Drug Enforcement HB 4002 Briefing Video | Passed | 0.0 | 0.75 |

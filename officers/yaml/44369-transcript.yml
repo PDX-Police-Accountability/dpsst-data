@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/27/2025
+  course: STP0978A
+  title: Night Range Qualification and Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/2/2024
   course: STP3404A
   title: Firearms Training OIS Range Scenarios

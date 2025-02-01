@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | OSU2193A | ICS 400 Expanding Incidents | Passed | 0.0 | 15.00 |
 | 12/3/2024 | EGP2552A | Supervisory Leadership Training | Passed | 0.0 | 2.00 |
 | 11/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/19/2024 | EGP3089A | Ethics | Passed | 0.0 | 1.50 |

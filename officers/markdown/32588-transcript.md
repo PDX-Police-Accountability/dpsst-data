@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | GSP3595A | Deciding to diversify your workforce | Passed | 0.0 | 2.00 |
 | 1/9/2025 | OAC2452A | Crisis Leadership Navigating HighStakes Situation | Passed | 0.0 | 3.50 |
 | 1/9/2025 | OAC3853A | Frontline Trauma  the Path to Recovery | Passed | 0.0 | 3.00 |
 | 1/8/2025 | OAC2545A | Use of AI in Policing | Passed | 0.0 | 4.00 |
