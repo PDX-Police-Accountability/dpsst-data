@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2024
+  course: SMS4349A
+  title: Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/18/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

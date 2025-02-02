@@ -34,6 +34,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/29/2025 | 1/31/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
@@ -45,6 +46,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | BNP1420A | First Aid and Adult/ Child CPR | Passed | 0.0 | 2.00 |
+| 1/29/2025 | BNP3559A | Ethos Academy-The magic of the mind | Passed | 0.0 | 3.00 |
+| 1/29/2025 | BNP0181A | Breathworks | Passed | 0.0 | 0.50 |
+| 1/29/2025 | BNP0069A | Taser 10 Certification | Passed | 0.0 | 3.00 |
 | 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |
 | 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |
 | 1/9/2025 | OAC2452A | Crisis Leadership Navigating HighStakes Situation | Passed | 0.0 | 3.50 |

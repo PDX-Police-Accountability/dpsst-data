@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/3/2025 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 9/27/2012 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/1/2012 | Out of State Employment | Resigned | Police Off |  |  |
 | 4/5/1999 | Out of State Employment | Hired | Police Off |  |  |

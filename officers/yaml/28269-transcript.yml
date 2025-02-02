@@ -113,6 +113,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2025
+  course: BNP1420A
+  title: First Aid and Adult/ Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/29/2025
+  course: BNP3559A
+  title: Ethos Academy-The magic of the mind
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/29/2025
+  course: BNP0181A
+  title: Breathworks
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2025
+  course: BNP0069A
+  title: Taser 10 Certification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/10/2025
   course: OAC3842A
   title: UNLV Active Shooter Debrief
@@ -4248,6 +4272,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/29/2025
+  expiration_date: 1/31/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/22/2025
+  course: MFN2731A
+  title: New Shooter Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/15/2025
   course: GPN0690A
   title: Behavior Change Plan- Train the Trainer

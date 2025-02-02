@@ -35,6 +35,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/29/2025 | 1/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
@@ -47,6 +48,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | BNP1420A | First Aid and Adult/ Child CPR | Passed | 0.0 | 2.00 |
+| 1/29/2025 | BNP3559A | Ethos Academy-The magic of the mind | Passed | 0.0 | 3.00 |
+| 1/29/2025 | BNP0181A | Breathworks | Passed | 0.0 | 0.50 |
+| 1/29/2025 | BNP0069A | Taser 10 Certification | Passed | 0.0 | 3.00 |
 | 12/30/2024 | BNP2622A | Emergency Operations Plan | Passed | 0.0 | 1.00 |
 | 12/30/2024 | BNP0742A | Standard Operating Procedure Updates | Passed | 0.0 | 2.00 |
 | 12/30/2024 | BNP1261A | Fire Lithium Exposure | Passed | 0.0 | 1.00 |

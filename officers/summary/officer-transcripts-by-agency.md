@@ -1771,3 +1771,6 @@
 | Caro, Viktor A. | 66003 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66003-transcript.md) - [yaml](../yaml/66003-transcript.yml) |
 | Chu, Grace M. | 66006 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66006-transcript.md) - [yaml](../yaml/66006-transcript.yml) |
 | Pichardo, Alexander | 66032 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66032-transcript.md) - [yaml](../yaml/66032-transcript.yml) |
+| Webb, Steven A. | 66073 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66073-transcript.md) - [yaml](../yaml/66073-transcript.yml) |
+| Simmons, Desmond E. | 66074 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66074-transcript.md) - [yaml](../yaml/66074-transcript.yml) |
+| Stefaniak, Matthew J. | 66080 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66080-transcript.md) - [yaml](../yaml/66080-transcript.yml) |

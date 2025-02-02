@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 1/13/2025
+  course: PDP2390A
+  title: 2025 Training Red Dot Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/26/2024 | TAP0582A | Flock User Training | Passed | 0.0 | 1.00 |
+| 12/18/2024 | TAP4072A | PublicSafetyVideoSurveillanceSystemPolicyReview | Passed | 0.0 | 0.50 |
 | 12/11/2024 | TAP3727A | OLCC informational | Passed | 0.0 | 1.00 |
 | 12/11/2024 | TAP1320A | Staff Meeting General Topics | Passed | 0.0 | 2.00 |
 | 12/10/2024 | TAP4501A | Legal Update State v Escudero | Passed | 0.0 | 0.50 |

@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/27/2025
+  course: SAG2199A
+  title: Ethical Considerations Assest Forfeiture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/26/2024
   course: SAG1222A
   title: 2022 Oregon Sheriff's Airway training video

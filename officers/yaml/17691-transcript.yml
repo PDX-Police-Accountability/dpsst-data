@@ -61,6 +61,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2025
+  course: VND3653A
+  title: Inspection Enforcement Annual Refresh Class
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/29/2025
+  course: VND2461A
+  title: CMV Size and Weight Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/13/2025
   course: MNS3394A
   title: Adult and Pediatric First Aid/CPR/AED - BL - r.21

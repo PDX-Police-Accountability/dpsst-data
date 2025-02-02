@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2025
+  course: PDP2390A
+  title: 2025 Training Red Dot Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 1/10/2025
   course: PDP4370A
   title: 2025 Rapid Response Team (RRT) Monthly Training

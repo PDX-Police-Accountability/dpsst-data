@@ -57,6 +57,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/23/2025
+  course: VND1044A
+  title: Responder Life Peer Support Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/22/2025
+  course: VND2338A
+  title: Peer Support Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/21/2025
+  course: VND0630A
+  title: Culturally Competent Clinician Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/18/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2024
+  course: VND3263A
+  title: North American Standard CMV Inspection Part A
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 12/8/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

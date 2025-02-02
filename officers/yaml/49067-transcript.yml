@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2025
+  course: VND3653A
+  title: Inspection Enforcement Annual Refresh Class
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/29/2025
+  course: VND2461A
+  title: CMV Size and Weight Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/20/2024
   course: OCS1524A
   title: Marksmanship, Movement, Use of Cover

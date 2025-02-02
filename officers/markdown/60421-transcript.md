@@ -27,9 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 8/29/2024 | 8/29/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 7/30/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/26/2024 | SAG1222A | 2022 Oregon Sheriff's Airway training video | Passed | 0.0 | 1.45 |
 | 12/17/2024 | SAG2864A | Firearms training | Instructed | 0.0 | 3.00 |
 | 11/26/2024 | SAG0750A | Firearms training | Instructed | 0.0 | 3.00 |
@@ -64,6 +65,7 @@
 | 3/27/2024 | SAG4007A | Crisis intervention and Descalation | Passed | 0.0 | 0.50 |
 | 3/25/2024 | SAG1585A | Firearms/Use of Force | Instructed | 0.0 | 2.00 |
 | 2/29/2024 | SAG1801A | ICAC 101 | Instructed | 0.0 | 8.00 |
+| 2/2/2024 | SAG3274A | Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 1/26/2024 | MFS3807A | Online Child Exploitation Investigations | Passed | 0.0 | 32.00 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2023 | MAINTMUC | Maintenance Makeup CIT/MH | Passed | 0.0 | 1.50 |
