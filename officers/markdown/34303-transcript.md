@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2024 | HBP2458A | FTO Training | Passed | 0.0 | 20.00 |
 | 10/30/2024 | HBP4497A | Use of Force In-service Wrap-up: Case Law | Passed | 0.0 | 0.50 |
 | 10/30/2024 | HBP1017A | LEDS Recertification or Initial Inquiry | Passed | 0.0 | 1.00 |
 | 10/26/2024 | OCS4170A | Canine Legal Updates Patrol  Narcotics | Passed | 0.0 | 24.00 |

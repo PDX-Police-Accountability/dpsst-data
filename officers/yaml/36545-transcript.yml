@@ -62,12 +62,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2024
+  course: HBP2381A
+  title: Tren de Aragua Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/13/2024
+  course: HBP3429A
+  title: Tren de Aragua - Understanding the Threat
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/20/2024
   course: HBS3592A
   title: Elder Abuse Symposium
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 11/5/2024
+  course: HBP1644A
+  title: FETI  Intro Forensic Experiential Trauma Interview
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 10/30/2024
   course: HBP4497A
   title: 'Use of Force In-service Wrap-up: Case Law'

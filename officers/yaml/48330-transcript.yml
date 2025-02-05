@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 9/11/2024
+  course: GSP0495A
+  title: GPD Sergeants Meeting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/2/2024
   course: OCS1296A
   title: Tactical Leadership by Caliber Press
@@ -122,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/1/2024
+  course: GSP0633A
+  title: GPD Sergeants Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/7/2024
   course: GSP0256A
   title: Firearms - Handgun

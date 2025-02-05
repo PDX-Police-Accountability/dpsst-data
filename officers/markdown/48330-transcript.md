@@ -46,9 +46,11 @@
 | 10/24/2024 | GSP3136A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 10/23/2024 | GSP3683A | Firearms Training - Handgun Inservice 2024 | Passed | 0.0 | 10.00 |
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |
+| 9/11/2024 | GSP0495A | GPD Sergeants Meeting | Passed | 0.0 | 3.00 |
 | 9/2/2024 | OCS1296A | Tactical Leadership by Caliber Press | Passed | 0.0 | 8.00 |
 | 6/16/2024 | GSP0081A | Basic UAS Ground School | Instructed | 0.0 | 30.00 |
 | 5/1/2024 | GSP0718A | Manager: Feedback , May 2024 | Passed | 0.0 | 0.50 |
+| 5/1/2024 | GSP0633A | GPD Sergeants Meeting | Passed | 0.0 | 1.00 |
 | 3/7/2024 | GSP0256A | Firearms - Handgun | Passed | 0.0 | 10.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 3/1/2024 | GSP4057A | Manager: Conflict Resolution , March 2024 | Passed | 0.0 | 1.00 |

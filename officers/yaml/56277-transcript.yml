@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/27/2025
+  course: CAP4265A
+  title: First Aid / CPR Adult  Child
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/22/2025
   course: CAP3093A
   title: Annual Handgun Qualifications and Fundamentals
@@ -1287,6 +1293,10 @@ training_records:
   score: '0.0'
   hours: '24.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/27/2025
+  expiration_date: 1/31/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

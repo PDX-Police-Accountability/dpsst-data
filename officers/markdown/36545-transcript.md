@@ -37,7 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2024 | HBP2381A | Tren de Aragua Overview | Passed | 0.0 | 1.00 |
+| 12/13/2024 | HBP3429A | Tren de Aragua - Understanding the Threat | Passed | 0.0 | 4.00 |
 | 11/20/2024 | HBS3592A | Elder Abuse Symposium | Passed | 0.0 | 4.50 |
+| 11/5/2024 | HBP1644A | FETI  Intro Forensic Experiential Trauma Interview | Passed | 0.0 | 14.00 |
 | 10/30/2024 | HBP4497A | Use of Force In-service Wrap-up: Case Law | Passed | 0.0 | 0.50 |
 | 10/30/2024 | HBP1017A | LEDS Recertification or Initial Inquiry | Passed | 0.0 | 1.00 |
 | 10/23/2024 | HBP0889A | Mobile Field Force (MFF) Training | Passed | 0.0 | 4.00 |

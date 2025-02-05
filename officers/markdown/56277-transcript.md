@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/27/2025 | 1/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/27/2024 | 5/27/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/27/2025 | CAP4265A | First Aid / CPR Adult  Child | Passed | 0.0 | 1.00 |
 | 1/22/2025 | CAP3093A | Annual Handgun Qualifications and Fundamentals | Passed | 0.0 | 2.00 |
 | 12/18/2024 | CAP4227A | Night Shoot - Patrol Rifle | Instructed | 0.0 | 4.00 |
 | 11/20/2024 | CAP0542A | Handgun Night Shoot | Instructed | 0.0 | 4.00 |
