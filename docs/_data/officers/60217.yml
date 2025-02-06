@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/12/2024
+  course: PDP1114A
+  title: 2024 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

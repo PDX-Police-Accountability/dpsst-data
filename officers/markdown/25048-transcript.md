@@ -47,12 +47,14 @@
 | 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 6/12/2024 | AVP2518A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/11/2024 | SAG3574A | Firearms training | Passed | 0.0 | 2.00 |
+| 6/11/2024 | SAG0346A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/8/2024 | AVP4026A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 4/19/2024 | SAG2590A | Firearms Training | Passed | 0.0 | 2.00 |
 | 4/10/2024 | AVP2787A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 3/28/2024 | SAG0418A | National Fusion Center Conference | Passed | 0.0 | 20.00 |
 | 3/25/2024 | SAG0241A | National Fusion Center Directors Meeting/Training | Passed | 0.0 | 8.00 |
 | 3/13/2024 | AVP2469A | Monthly Leadership Meeting | Passed | 0.0 | 1.75 |
+| 2/22/2024 | SAG0543A | Firearms Training | Passed | 0.0 | 2.00 |
 | 2/14/2024 | AVP2257A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/14/2023 | SAG3247A | Firearms training | Passed | 0.0 | 2.00 |

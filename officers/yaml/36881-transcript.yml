@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2025
+  course: SAG1349A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/27/2025
   course: SAG2199A
   title: Ethical Considerations Assest Forfeiture
@@ -128,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/11/2024
+  course: SAG0346A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/22/2024
   course: SAG3927A
   title: Firearms training
@@ -137,6 +149,12 @@ training_records:
 - date: 3/25/2024
   course: SAG1585A
   title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/22/2024
+  course: SAG0543A
+  title: Firearms Training
   status: Passed
   score: '0.0'
   hours: '2.00'

@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | SAG1349A | Firearms training | Passed | 0.0 | 2.00 |
+| 1/29/2025 | SAG1349A | Firearms training | Instructed | 0.0 | 3.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/26/2024 | SAG1222A | 2022 Oregon Sheriff's Airway training video | Passed | 0.0 | 1.45 |
 | 12/17/2024 | SAG2864A | Firearms training | Instructed | 0.0 | 3.00 |
@@ -65,6 +67,8 @@
 | 3/27/2024 | SAG4007A | Crisis intervention and Descalation | Passed | 0.0 | 0.50 |
 | 3/25/2024 | SAG1585A | Firearms/Use of Force | Instructed | 0.0 | 2.00 |
 | 2/29/2024 | SAG1801A | ICAC 101 | Instructed | 0.0 | 8.00 |
+| 2/22/2024 | SAG0543A | Firearms Training | Passed | 0.0 | 2.00 |
+| 2/22/2024 | SAG0543A | Firearms Training | Instructed | 0.0 | 2.00 |
 | 2/2/2024 | SAG3274A | Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 1/26/2024 | MFS3807A | Online Child Exploitation Investigations | Passed | 0.0 | 32.00 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

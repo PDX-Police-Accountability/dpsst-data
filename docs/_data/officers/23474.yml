@@ -144,6 +144,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/29/2025
+  course: RRP1564A
+  title: Oregon Immigration Enforcement Laws
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/30/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

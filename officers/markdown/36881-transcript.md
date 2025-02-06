@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | SAG1349A | Firearms training | Passed | 0.0 | 2.00 |
 | 1/27/2025 | SAG2199A | Ethical Considerations Assest Forfeiture | Passed | 0.0 | 0.00 |
 | 12/31/2024 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -48,8 +49,10 @@
 | 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 8/14/2024 | SAG2271A | Firearms training | Passed | 0.0 | 3.00 |
 | 6/11/2024 | SAG3574A | Firearms training | Passed | 0.0 | 2.00 |
+| 6/11/2024 | SAG0346A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 2.00 |
 | 3/25/2024 | SAG1585A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
+| 2/22/2024 | SAG0543A | Firearms Training | Passed | 0.0 | 2.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2023 | SAG1126A | Oregon Government Ethics Law Overview | Passed | 0.0 | 2.00 |
 | 11/30/2023 | SAG4436A | Firearms, Low light / night range | Passed | 0.0 | 3.00 |

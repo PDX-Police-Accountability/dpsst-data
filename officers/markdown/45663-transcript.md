@@ -53,6 +53,7 @@
 | 4/22/2024 | SAG0403A | ICAC 101 | Instructed | 0.0 | 8.00 |
 | 3/27/2024 | SAG4007A | Crisis intervention and Descalation | Passed | 0.0 | 0.00 |
 | 2/29/2024 | SAG1801A | ICAC 101 | Instructed | 0.0 | 8.00 |
+| 2/22/2024 | SAG0543A | Firearms Training | Passed | 0.0 | 2.00 |
 | 12/31/2023 | MAINTMUC | Maintenance Makeup CIT/MH | Passed | 0.0 | 2.00 |
 | 11/30/2023 | SAG4436A | Firearms, Low light / night range | Passed | 0.0 | 3.00 |
 | 9/26/2023 | SAG3621A | ICAC 101 | Instructed | 0.0 | 7.50 |

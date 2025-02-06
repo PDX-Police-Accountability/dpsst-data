@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2025 | OCS3528A | January 2025 SWAT Sniper Firearms | Instructed | 0.0 | 7.00 |
+| 1/29/2025 | OCS1617A | 2024 Makeup Firearms | Instructed | 0.0 | 4.00 |
 | 1/15/2025 | OCS3163A | Marksmanship, December 2024 Firearms | Instructed | 0.0 | 2.00 |
 | 1/15/2025 | OCS3755A | Marksmanship, December 2024 Firearms | Instructed | 0.0 | 2.00 |
 | 1/14/2025 | OCS1652A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
