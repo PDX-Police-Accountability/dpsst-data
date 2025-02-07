@@ -26,8 +26,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 8/29/2024 | 8/29/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 10/29/2010 |  |
 ## Education
@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2025 | AVP1171A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
+| 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2024 | SAG3647A | Discrimination and Harrasment | Passed | 0.0 | 1.00 |
 | 12/26/2024 | SAG1222A | 2022 Oregon Sheriff's Airway training video | Passed | 0.0 | 1.45 |
 | 12/11/2024 | AVP2471A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |

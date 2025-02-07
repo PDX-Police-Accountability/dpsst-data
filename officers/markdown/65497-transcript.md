@@ -29,7 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/22/2025 | REG2762A | DID-SFST | Passed | 0.0 | 0.00 |
 | 12/31/2024 | PDP1143A | 2024 Radar/Lidar | Passed | 0.0 | 11.50 |
+| 12/31/2024 | REG2067A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 10/7/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/2/2024 | PDP1830A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 10/1/2024 | PDP4379A | 2024 FTEP Intro to Wellness | Passed | 0.0 | 1.00 |

@@ -1513,6 +1513,8 @@
 | Webb, Steven A. | 66073 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66073-transcript.md) - [yaml](../yaml/66073-transcript.yml) |
 | Simmons, Desmond E. | 66074 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66074-transcript.md) - [yaml](../yaml/66074-transcript.yml) |
 | Stefaniak, Matthew J. | 66080 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66080-transcript.md) - [yaml](../yaml/66080-transcript.yml) |
+| McGlothen, Darren W., Jr. | 66084 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66084-transcript.md) - [yaml](../yaml/66084-transcript.yml) |
+| Berdahl, Hannah E. | 66085 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66085-transcript.md) - [yaml](../yaml/66085-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Moore, Gary D. | 15650 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2018-07-04 | [md](../markdown/15650-transcript.md) - [yaml](../yaml/15650-transcript.yml) |
 | Staples, Jeffrey W. | 17133 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1986-06-30 | [md](../markdown/17133-transcript.md) - [yaml](../yaml/17133-transcript.yml) |

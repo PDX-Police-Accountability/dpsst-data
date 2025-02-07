@@ -30,12 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/22/2025
+  course: REG2762A
+  title: DID-SFST
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/31/2024
   course: PDP1143A
   title: 2024 Radar/Lidar
   status: Passed
   score: '0.0'
   hours: '11.50'
+- date: 12/31/2024
+  course: REG2067A
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/7/2024
   course: M10-23A
   title: DPSST Basic Police Course

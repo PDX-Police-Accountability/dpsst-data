@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2025 | NPS1409A | Briefing Training- Suicide Prevention | Passed | 0.0 | 1.50 |
 | 12/11/2024 | VND1384A | Hate  Bias Crimes LE  Prosecutor Symposium | Passed | 0.0 | 6.00 |
 | 12/3/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/3/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
