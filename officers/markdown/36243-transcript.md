@@ -59,6 +59,7 @@
 | 9/25/2024 | PDP0469A | 2024 Traffic Motorcade Training | Passed | 0.0 | 8.00 |
 | 8/31/2024 | HBS2298A | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 8/21/2024 | LOP2261A | West Metro Monthly Motor Training 08/21/2024 | Passed | 0.0 | 3.00 |
+| 7/24/2024 | HBS1002A | Jail Familiarization | Passed | 0.0 | 1.50 |
 | 7/16/2024 | LOP1319A | West Metro Monthly Motor Training 07/16/2024 | Passed | 0.0 | 3.00 |
 | 6/29/2024 | HBS3634A | 2024 March DT's | Passed | 0.0 | 4.50 |
 | 6/29/2024 | HBS3585A | 2024 March IFAST | Passed | 0.0 | 4.50 |

@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/18/2025
+  course: OSH4282A
+  title: OSP - 2025 Patrol Tactics In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '15.00'
 - date: 1/10/2025
   course: OSH3076A
   title: 1st Trimester Firearms

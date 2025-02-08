@@ -75,6 +75,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/9/2025
+  course: EGP2729A
+  title: De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/9/2025
+  course: EGP2388A
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/30/2024
   course: EGP2889A
   title: 'ICS240.c:  Leadership  Influence'
@@ -5002,6 +5014,10 @@ training_records:
   score: '0.0'
   hours: '555.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/9/2025
+  expiration_date: 1/9/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

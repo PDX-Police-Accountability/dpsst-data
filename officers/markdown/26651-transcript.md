@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2025 | PDS1496A | Use of Force Report Writing | Instructed | 0.0 | 2.00 |
+| 1/29/2025 | PDS1975A | Use of Force Report Writing | Instructed | 0.0 | 4.00 |
 | 12/9/2024 | PDS4051A | Use of Force Report Writing | Instructed | 0.0 | 3.50 |
 | 12/9/2024 | PDS1198A | Use of Force Report Writing | Instructed | 0.0 | 5.50 |
 | 6/6/2024 | PDS2695A | Use of Force Report Writing | Instructed | 0.0 | 8.00 |

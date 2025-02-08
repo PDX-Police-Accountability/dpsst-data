@@ -81,6 +81,18 @@ certification_records:
   expiration_date: 8/29/2025
   probation_date: ''
 training_records:
+- date: 1/31/2025
+  course: PDS1496A
+  title: Use of Force Report Writing
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/29/2025
+  course: PDS1975A
+  title: Use of Force Report Writing
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/9/2024
   course: PDS4051A
   title: Use of Force Report Writing

@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/6/2025
+  course: SPP2797A
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/10/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

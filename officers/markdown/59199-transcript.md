@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/9/2025 | 1/9/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
@@ -42,6 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2025 | EGP1455A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/9/2025 | EGP2729A | De-Escalation | Passed | 0.0 | 3.00 |
+| 1/9/2025 | EGP2388A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 12/31/2024 | EGP2122A | Patrol Briefing:  Albuquerque Video | Passed | 0.0 | 0.50 |
 | 12/26/2024 | EGP3791A | Drug Enforcement HB 4002 Briefing Video | Passed | 0.0 | 0.75 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -179,6 +179,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/24/2024
+  course: HBS1002A
+  title: Jail Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/16/2024
   course: LOP1319A
   title: West Metro Monthly Motor Training 07/16/2024

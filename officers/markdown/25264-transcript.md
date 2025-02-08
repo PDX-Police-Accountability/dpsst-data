@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2025 | PDS0048A | Firearm Qualification | Instructed | 0.0 | 2.00 |
 | 1/10/2025 | PDS0219A | Communication | Instructed | 0.0 | 2.00 |
 | 12/13/2024 | PDS0272A | Less Lethal Certification | Instructed | 0.0 | 5.00 |
 | 12/13/2024 | PDS0361A | Less Lethal Certification | Instructed | 0.0 | 5.00 |
