@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/4/2025 | 2/4/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/25/2023 | 4/25/2025 |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/4/2025 | PDP1037A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 1/15/2025 | PDP1514A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2024 | PDP3393A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |

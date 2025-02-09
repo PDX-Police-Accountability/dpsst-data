@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2025 | OCP0130A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 1/29/2025 | VND3653A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 3.00 |
 | 1/29/2025 | VND2461A | CMV Size and Weight Training | Passed | 0.0 | 3.00 |
 | 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |

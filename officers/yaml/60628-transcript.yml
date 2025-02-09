@@ -313,6 +313,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 7/12/2024
+  course: SMP3051A
+  title: 2024 OTOA Basic SWAT STUDENT
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/27/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

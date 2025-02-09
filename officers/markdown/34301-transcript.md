@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2024 | VND4035A | DOC - FS - Force Skills Training IDC v 2023 | Passed | 0.0 | 40.00 |
 | 11/6/2024 | VND3579A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 11/6/2024 | VND0860A | PREA The Law and Your Role  v2024 | Passed | 0.0 | 1.00 |
 | 11/6/2024 | VND1761A | Protection from Ambient Heat v2024 | Passed | 0.0 | 0.50 |

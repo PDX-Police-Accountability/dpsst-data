@@ -459,7 +459,6 @@
 | Brown, Michelle L. | 52707 | Portland Police Bureau | Active | Police Officer | Hired | 2022-08-18 | [md](../markdown/52707-transcript.md) - [yaml](../yaml/52707-transcript.yml) |
 | Russau, Joseph R. | 52771 | Portland Police Bureau | Active | Police Officer | Hired | 2012-09-27 | [md](../markdown/52771-transcript.md) - [yaml](../yaml/52771-transcript.yml) |
 | Haagenson, Jeffrey M. | 52779 | Portland Police Bureau | Active | Police Officer | Hired | 2017-07-27 | [md](../markdown/52779-transcript.md) - [yaml](../yaml/52779-transcript.yml) |
-| Hansen, Matthew J. | 52786 | Portland Police Bureau | Active | Police Officer | Hired | 2012-09-27 | [md](../markdown/52786-transcript.md) - [yaml](../yaml/52786-transcript.yml) |
 | Brooks, David M. | 52787 | Portland Police Bureau | Active | Police Officer | Hired | 2012-09-27 | [md](../markdown/52787-transcript.md) - [yaml](../yaml/52787-transcript.yml) |
 | Lemke, Jena L. | 52801 | Portland Police Bureau | Active | Police Officer | Hired | 2012-09-27 | [md](../markdown/52801-transcript.md) - [yaml](../yaml/52801-transcript.yml) |
 | Hughes, David E. | 52811 | Portland Police Bureau | Active | Reserve Officer | Hired | 2012-09-05 | [md](../markdown/52811-transcript.md) - [yaml](../yaml/52811-transcript.yml) |
@@ -810,7 +809,6 @@
 | Thurman, Tequila C. | 48256 | Portland Police Bureau | Active | Police Officer | LOA | 2021-02-03 | [md](../markdown/48256-transcript.md) - [yaml](../yaml/48256-transcript.yml) |
 | Crooker, James W. | 49709 | Portland Police Bureau | Active | Captain | LOA | 2024-05-29 | [md](../markdown/49709-transcript.md) - [yaml](../yaml/49709-transcript.yml) |
 | Green, William D. | 52227 | Portland Police Bureau | Active | Police Officer | LOA | 2024-11-01 | [md](../markdown/52227-transcript.md) - [yaml](../yaml/52227-transcript.yml) |
-| Budworth, Corey A. | 55392 | Portland Police Bureau | Active | Police Officer | LOA | 2024-05-26 | [md](../markdown/55392-transcript.md) - [yaml](../yaml/55392-transcript.yml) |
 | Emmons, Brett W. | 56132 | Portland Police Bureau | Active | Police Officer | LOA | 2024-10-01 | [md](../markdown/56132-transcript.md) - [yaml](../yaml/56132-transcript.yml) |
 | Young, Andrew K. | 57282 | Portland Police Bureau | Active | Police Officer | LOA | 2024-10-04 | [md](../markdown/57282-transcript.md) - [yaml](../yaml/57282-transcript.yml) |
 | Hughes, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
@@ -1285,6 +1283,7 @@
 | Klauzer, Leland T. | 52113 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2021-09-03 | [md](../markdown/52113-transcript.md) - [yaml](../yaml/52113-transcript.yml) |
 | Harding, David N. | 52228 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-08-16 | [md](../markdown/52228-transcript.md) - [yaml](../yaml/52228-transcript.yml) |
 | Bocciolatt, Timothy J. | 52688 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-11-23 | [md](../markdown/52688-transcript.md) - [yaml](../yaml/52688-transcript.yml) |
+| Hansen, Matthew J. | 52786 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-02-04 | [md](../markdown/52786-transcript.md) - [yaml](../yaml/52786-transcript.yml) |
 | Jack, Stephen K. | 52793 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2019-09-04 | [md](../markdown/52793-transcript.md) - [yaml](../yaml/52793-transcript.yml) |
 | Quintero, Magali | 52834 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2014-05-31 | [md](../markdown/52834-transcript.md) - [yaml](../yaml/52834-transcript.yml) |
 | Grimm, Garrett M. | 53469 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2020-01-01 | [md](../markdown/53469-transcript.md) - [yaml](../yaml/53469-transcript.yml) |
@@ -1765,6 +1764,7 @@
 | Jimenez, Jose J. | 52792 | Portland Police Bureau | Active | Police Officer | Return LOA | 2015-10-13 | [md](../markdown/52792-transcript.md) - [yaml](../yaml/52792-transcript.yml) |
 | Hristova, Heidi S. | 53470 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-07-23 | [md](../markdown/53470-transcript.md) - [yaml](../yaml/53470-transcript.yml) |
 | Robinson, Grover, Jr. | 53905 | Portland Police Bureau | Active | Sergeant | Return LOA | 2020-11-16 | [md](../markdown/53905-transcript.md) - [yaml](../yaml/53905-transcript.yml) |
+| Budworth, Corey A. | 55392 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-12-01 | [md](../markdown/55392-transcript.md) - [yaml](../yaml/55392-transcript.yml) |
 | Whitmore, Anthony J. | 56159 | Portland Police Bureau | Active | Police Officer | Return LOA | 2019-02-22 | [md](../markdown/56159-transcript.md) - [yaml](../yaml/56159-transcript.yml) |
 | Bechtel, Lindsey A. | 57093 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-11-07 | [md](../markdown/57093-transcript.md) - [yaml](../yaml/57093-transcript.yml) |
 | Lopez, Carlos, Jr. | 57448 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-06-08 | [md](../markdown/57448-transcript.md) - [yaml](../yaml/57448-transcript.yml) |

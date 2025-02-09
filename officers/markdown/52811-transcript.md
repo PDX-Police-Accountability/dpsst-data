@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/30/2025 | PDS2762A | February Range IDC | Instructed | 0.0 | 4.00 |
+| 1/7/2025 | PDS0232A | Supervising Patrol Critical Incidents | Passed | 0.0 | 16.00 |
 | 12/13/2024 | PDS1307A | Range | Instructed | 0.0 | 2.00 |
 | 12/13/2024 | PDS2420A | Range | Instructed | 0.0 | 2.00 |
 | 12/12/2024 | PDS2741A | Range | Instructed | 0.0 | 2.00 |

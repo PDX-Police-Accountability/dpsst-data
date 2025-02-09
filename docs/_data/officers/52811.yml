@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2025
+  course: PDS2762A
+  title: February Range IDC
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/7/2025
+  course: PDS0232A
+  title: Supervising Patrol Critical Incidents
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/13/2024
   course: PDS1307A
   title: Range

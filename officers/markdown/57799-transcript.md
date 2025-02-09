@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/9/2025 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 1/7/2025 | PDS0232A | Supervising Patrol Critical Incidents | Passed | 0.0 | 16.00 |
 | 12/29/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/26/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 11/29/2024 | PDP0099A | 2023-2 IS Trauma Informed Interviewing | Passed | 0.0 | 2.00 |

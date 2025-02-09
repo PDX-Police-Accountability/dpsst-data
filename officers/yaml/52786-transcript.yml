@@ -3,12 +3,18 @@ header_record:
   name: Hansen, Matthew J.
   dpsst_identifier: '52786'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/4/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/3/2025
   agency: Multnomah County Sheriff's Office
   action: Hired

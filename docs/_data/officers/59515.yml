@@ -332,6 +332,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 7/12/2024
+  course: SMP3051A
+  title: 2024 OTOA Basic SWAT STUDENT
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/29/2024
   course: PDP2679A
   title: 2024-3 CAO Legal Updates for BWC

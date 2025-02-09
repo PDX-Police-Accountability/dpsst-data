@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2024
+  course: VND4035A
+  title: DOC - FS - Force Skills Training IDC v 2023
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/6/2024
   course: VND3579A
   title: Airway Circulatory Anatomy and Physiology

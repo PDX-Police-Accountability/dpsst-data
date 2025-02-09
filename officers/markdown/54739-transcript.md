@@ -29,7 +29,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/3/2024 | PDS2017A | Range | Passed | 0.0 | 2.00 |
-| 12/3/2024 | PDS0714A | Range | Passed | 0.0 | 2.00 |
 | 10/15/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/3/2024 | PDS4449A | Emergency Management | Passed | 0.0 | 0.50 |
 | 10/3/2024 | PDS3650A | Taser Recertification | Passed | 0.0 | 1.00 |

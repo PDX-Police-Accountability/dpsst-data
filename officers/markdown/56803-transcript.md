@@ -78,6 +78,7 @@
 | 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/15/2024 | PDP2736A | 2024 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 8/1/2024 | PDP3125A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/12/2024 | SMP0094A | 2024 OTOA Basic SWAT INSTRUCTORS | Passed | 0.0 | 40.00 |
 | 6/27/2024 | PDP1257A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/2/2024 | PDP1247A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 4/29/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

@@ -394,7 +394,7 @@
 | Buckingham, Alexander J. | 63678 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63678-transcript.md) - [yaml](../yaml/63678-transcript.yml) |
 | Budey, Grigoriy I. | 51248 | Portland Police Bureau | Active | Police Officer | Hired | 2011-01-20 | [md](../markdown/51248-transcript.md) - [yaml](../yaml/51248-transcript.yml) |
 | Budry, Richard J. | 37043 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/37043-transcript.md) - [yaml](../yaml/37043-transcript.yml) |
-| Budworth, Corey A. | 55392 | Portland Police Bureau | Active | Police Officer | LOA | 2024-05-26 | [md](../markdown/55392-transcript.md) - [yaml](../yaml/55392-transcript.yml) |
+| Budworth, Corey A. | 55392 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-12-01 | [md](../markdown/55392-transcript.md) - [yaml](../yaml/55392-transcript.yml) |
 | Buker, Marc A. | 62439 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-01-03 | [md](../markdown/62439-transcript.md) - [yaml](../yaml/62439-transcript.yml) |
 | Buller, Joshua E. | 47824 | Portland Police Bureau | Active | Police Officer | Hired | 2015-05-07 | [md](../markdown/47824-transcript.md) - [yaml](../yaml/47824-transcript.yml) |
 | Buntrock, Marcelina M. | 37333 | Portland Police Bureau | Active | Civilian Employee | Hired | 1999-04-08 | [md](../markdown/37333-transcript.md) - [yaml](../yaml/37333-transcript.yml) |
@@ -776,7 +776,7 @@
 | Hancock, Sierra N. | 58382 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-09-05 | [md](../markdown/58382-transcript.md) - [yaml](../yaml/58382-transcript.yml) |
 | Hanna, Patricia M. | 23565 | Portland Police Bureau | Active | Civilian Employee | Hired | 1990-02-12 | [md](../markdown/23565-transcript.md) - [yaml](../yaml/23565-transcript.yml) |
 | Hansen, Brian G. | 47111 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-07-27 | [md](../markdown/47111-transcript.md) - [yaml](../yaml/47111-transcript.yml) |
-| Hansen, Matthew J. | 52786 | Portland Police Bureau | Active | Police Officer | Hired | 2012-09-27 | [md](../markdown/52786-transcript.md) - [yaml](../yaml/52786-transcript.yml) |
+| Hansen, Matthew J. | 52786 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-02-04 | [md](../markdown/52786-transcript.md) - [yaml](../yaml/52786-transcript.yml) |
 | Hansen, Michael J. | 49732 | Portland Police Bureau | Active | Police Officer | Hired | 2008-08-14 | [md](../markdown/49732-transcript.md) - [yaml](../yaml/49732-transcript.yml) |
 | Hansen, Robb C. | 31459 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2024-11-14 | [md](../markdown/31459-transcript.md) - [yaml](../yaml/31459-transcript.yml) |
 | Hanson, Jon-Paul L. | 63863 | Portland Police Bureau | Active | Police Officer | Hired | 2023-02-16 | [md](../markdown/63863-transcript.md) - [yaml](../yaml/63863-transcript.yml) |

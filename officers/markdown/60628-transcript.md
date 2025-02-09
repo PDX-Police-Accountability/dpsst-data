@@ -80,6 +80,7 @@
 | 9/12/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 9/12/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/29/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
+| 7/12/2024 | SMP3051A | 2024 OTOA Basic SWAT STUDENT | Passed | 0.0 | 40.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/2/2024 | PDP1247A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

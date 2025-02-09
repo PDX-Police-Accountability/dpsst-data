@@ -49,6 +49,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2025
+  course: VND0331A
+  title: Accessibility for AICs w Disabilities_v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2025
+  course: VND0277A
+  title: CRCI Fire Suppression Training v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2025
+  course: VND0969A
+  title: DOC - Fire Alarm Panel Monitoring v2025_(Volume 1)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2025
+  course: VND2625A
+  title: DOC - PREA What You Should Know v2025_2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2025
+  course: VND3541A
+  title: DOC - Protection from Ambient Heat_v2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/25/2024
   course: VND4387A
   title: Directors Message_Code of Conduct

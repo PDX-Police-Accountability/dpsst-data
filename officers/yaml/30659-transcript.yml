@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2025
+  course: PDS3857A
+  title: Fire Drill E-Shift 1/29/2025 Inverness Jail
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/13/2024
   course: PDS1745A
   title: CIT ConSims

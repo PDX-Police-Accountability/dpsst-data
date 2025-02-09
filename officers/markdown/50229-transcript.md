@@ -35,6 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2025 | VND0331A | Accessibility for AICs w Disabilities_v2025 | Passed | 0.0 | 1.00 |
+| 1/31/2025 | VND0277A | CRCI Fire Suppression Training v2025 | Passed | 0.0 | 1.00 |
+| 1/31/2025 | VND0969A | DOC - Fire Alarm Panel Monitoring v2025_(Volume 1) | Passed | 0.0 | 1.00 |
+| 1/31/2025 | VND2625A | DOC - PREA What You Should Know v2025_2 | Passed | 0.0 | 1.00 |
+| 1/31/2025 | VND3541A | DOC - Protection from Ambient Heat_v2025 | Passed | 0.0 | 0.50 |
 | 10/25/2024 | VND4387A | Directors Message_Code of Conduct | Passed | 0.0 | 0.00 |
 | 6/14/2024 | TRN4262A | UA Specimen Collection and Packaging-Redwood v2019 | Passed | 0.0 | 1.00 |
 | 6/13/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

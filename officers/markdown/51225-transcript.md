@@ -81,6 +81,7 @@
 | 7/23/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 7/23/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/16/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 7/12/2024 | SMP0094A | 2024 OTOA Basic SWAT INSTRUCTORS | Passed | 0.0 | 40.00 |
 | 7/3/2024 | PDP1223A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/27/2024 | PDP1257A | 2024 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/27/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

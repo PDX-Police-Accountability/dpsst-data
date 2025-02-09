@@ -68,8 +68,20 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2025
+  course: PDS2762A
+  title: February Range IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/24/2025
   course: PDS0048A
+  title: Firearm Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/24/2025
+  course: PDS1180A
   title: Firearm Qualification
   status: Instructed
   score: '0.0'

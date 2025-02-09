@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | PDS3857A | Fire Drill E-Shift 1/29/2025 Inverness Jail | Passed | 0.0 | 0.50 |
 | 10/13/2024 | PDS1745A | CIT ConSims | Passed | 0.0 | 2.00 |
 | 10/13/2024 | PDS1552A | Defensive Tactics | Passed | 0.0 | 0.50 |
 | 10/13/2024 | PDS3512A | Taser Practical | Passed | 0.0 | 0.50 |

@@ -320,6 +320,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/12/2024
+  course: SMP0094A
+  title: 2024 OTOA Basic SWAT INSTRUCTORS
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/3/2024
   course: PDP1223A
   title: 2024 SERT Training - Scenario
