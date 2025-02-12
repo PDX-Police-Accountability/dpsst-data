@@ -134,6 +134,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/24/2024
+  course: TDP0494A
+  title: NORTAC-Tactical response/decision making
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/24/2024
+  course: TDP0413A
+  title: NORTAC-Tubular and vehicle assaults
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/17/2024
   course: HRS0854A
   title: Barricaded Subject Operations

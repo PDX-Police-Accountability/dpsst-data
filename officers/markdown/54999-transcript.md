@@ -51,6 +51,8 @@
 | 12/5/2024 | CDS1854A | NORTAC BREACHING / BUILDING CLEARING | Passed | 0.0 | 4.00 |
 | 11/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/7/2024 | MOS0608A | NORTAC Night Vision Training | Passed | 0.0 | 4.00 |
+| 10/24/2024 | TDP0494A | NORTAC-Tactical response/decision making | Passed | 0.0 | 2.00 |
+| 10/24/2024 | TDP0413A | NORTAC-Tubular and vehicle assaults | Passed | 0.0 | 4.00 |
 | 10/17/2024 | HRS0854A | Barricaded Subject Operations | Passed | 0.0 | 4.00 |
 | 10/14/2024 | HRS0482A | Law Enforcement Ethics: Pillars to Success | Passed | 0.0 | 1.00 |
 | 10/3/2024 | HRS0394A | CPR and First Aid | Passed | 0.0 | 4.00 |
