@@ -31,6 +31,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/11/2025 | 2/11/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 3/25/2024 | 3/27/2025 |
@@ -43,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/11/2025 | FGP3863A | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 11/14/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2024 | VND0127A | Understand Equity in a LE Environment | Passed | 0.0 | 4.00 |
 | 11/11/2024 | FGP2136A | Fall Range Qualification/Drills | Passed | 0.0 | 10.00 |

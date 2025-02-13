@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2025 | OCS4033A | NLP Code Enforcement Training | Passed | 0.0 | 1.50 |
 | 12/20/2024 | OCS1524A | Marksmanship, Movement, Use of Cover | Passed | 0.0 | 1.00 |
 | 12/16/2024 | OCS0503A | Taser and Use of Force Law | Passed | 0.0 | 2.00 |
 | 11/20/2024 | OCS4266A | Taser | Passed | 0.0 | 1.00 |

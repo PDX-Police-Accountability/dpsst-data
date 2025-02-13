@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/10/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/18/2025 | OSH4282A | OSP - 2025 Patrol Tactics In-Service | Instructed | 0.0 | 15.00 |
 | 1/10/2025 | OSH3076A | 1st Trimester Firearms | Instructed | 0.0 | 2.00 |
 | 1/9/2025 | OSH2651A | Pistol Mounted Optic - Instructor | Instructed | 0.0 | 20.00 |

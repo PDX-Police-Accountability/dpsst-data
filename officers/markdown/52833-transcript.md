@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | PDP3981A | 2025 sUAS Training for Traffic Division | Instructed | 0.0 | 3.00 |
 | 12/31/2024 | PDP1143A | 2024 Radar/Lidar | Instructed | 0.0 | 11.50 |
 | 12/12/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/12/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |

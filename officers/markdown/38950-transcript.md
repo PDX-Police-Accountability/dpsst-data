@@ -63,6 +63,7 @@
 | 9/30/2024 | HBS1135A | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 9/12/2024 | HBS1646A | TNT-Tactical Scenarios and Drills | Passed | 0.0 | 5.00 |
 | 9/11/2024 | HBS1464A | Hostage Rescue Drills | Passed | 0.0 | 7.50 |
+| 7/31/2024 | HBS3594A | TNT/CNU - Joint Scenario Day | Passed | 0.0 | 1.00 |
 | 7/19/2024 | HBS0423A | NTOA Leadership Week | Passed | 0.0 | 40.00 |
 | 6/5/2024 | HBS3545A | 2024 March IFAST | Passed | 0.0 | 4.50 |
 | 6/5/2024 | HBS0782A | 2024 March DT's | Passed | 0.0 | 4.50 |

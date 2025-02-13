@@ -203,6 +203,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.50'
+- date: 7/31/2024
+  course: HBS3594A
+  title: TNT/CNU - Joint Scenario Day
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/19/2024
   course: HBS0423A
   title: NTOA Leadership Week

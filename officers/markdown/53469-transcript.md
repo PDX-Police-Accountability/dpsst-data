@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2025 | OCS4033A | NLP Code Enforcement Training | Passed | 0.0 | 1.50 |
+| 1/25/2025 | OCS1311A | Peer Support Training | Passed | 0.0 | 4.00 |
 | 10/26/2024 | OCS0221A | Use of Force/Decision Making | Passed | 0.0 | 1.00 |
 | 10/26/2024 | OCS1723A | De-escalation in Scenario | Passed | 0.0 | 1.00 |
 | 10/18/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

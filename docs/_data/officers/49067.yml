@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2025
+  course: OCS3506A
+  title: 2025 1st Qtr Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/29/2025
   course: VND3653A
   title: Inspection Enforcement Annual Refresh Class
@@ -62,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/25/2025
+  course: OCS1311A
+  title: Peer Support Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/20/2024
   course: OCS1524A
   title: Marksmanship, Movement, Use of Cover

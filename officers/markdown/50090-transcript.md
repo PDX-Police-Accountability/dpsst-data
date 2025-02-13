@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/23/2025 | PDP0927A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 12/28/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | PDP2849A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |

@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2025
+  course: PDP3981A
+  title: 2025 sUAS Training for Traffic Division
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/19/2024
   course: PDP4017A
   title: 2024 SFST Refresher

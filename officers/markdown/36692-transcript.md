@@ -25,6 +25,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/4/2025 | ALS3799A | In-Service - Legal Updates | Passed | 0.0 | 2.00 |
+| 2/4/2025 | ALS1411A | In-Service - DUII | Passed | 0.0 | 2.00 |
 | 11/20/2019 | F6D18205 | Highway Drug Investigations for Patrol Day 1 | Passed | 0.0 | 8.00 |
 | 11/20/2019 | F6D38958 | Highway Drug Investigations for Patrol Day 3 | Passed | 0.0 | 4.00 |
 | 10/4/2019 | F6D08246 | Advanced Search and Seizure | Passed | 0.0 | 16.00 |

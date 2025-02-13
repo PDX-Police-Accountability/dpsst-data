@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/6/2025 | BNP2834A | Building Clearing (HRT, Slow Clear, Dynamic) | Passed | 0.0 | 8.00 |
 | 1/21/2025 | BNP0766A | Tactical Physical Qualifications | Passed | 0.0 | 0.50 |
 | 1/21/2025 | BNP1637A | Firearm Training | Passed | 0.0 | 6.00 |
 | 1/21/2025 | BNP2813A | Firearm Qualifications | Passed | 0.0 | 1.00 |

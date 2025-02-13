@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2025
+  course: BNP3111A
+  title: Firearm malfunction / Immediate Action Drills
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/27/2025
   course: BNP1420A
   title: First Aid and Adult/ Child CPR

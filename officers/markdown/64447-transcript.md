@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/21/2025 | Police Officer | Basic | App Recd |  |  | 2/17/2026 |
+| 2/11/2025 | Police Officer | Basic | Granted | 2/11/2025 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -29,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/21/2025 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 1/21/2025 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 12/10/2024 | OSH1816A | ARIDE | Passed | 0.0 | 16.00 |
 | 12/4/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/4/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

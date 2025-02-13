@@ -41,7 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2025 | OCS4339A | Handgun Qualification and Marksmanship | Instructed | 0.0 | 1.00 |
 | 1/31/2025 | OCS3528A | January 2025 SWAT Sniper Firearms | Instructed | 0.0 | 7.00 |
+| 1/31/2025 | OCS3506A | 2025 1st Qtr Patrol Shotgun | Instructed | 0.0 | 22.00 |
 | 1/29/2025 | OCS1617A | 2024 Makeup Firearms | Instructed | 0.0 | 4.00 |
 | 1/15/2025 | OCS3163A | Marksmanship, December 2024 Firearms | Instructed | 0.0 | 2.00 |
 | 1/15/2025 | OCS3755A | Marksmanship, December 2024 Firearms | Instructed | 0.0 | 2.00 |

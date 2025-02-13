@@ -31,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/24/2025 | PDP0837A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/23/2025 | PDP3657A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/13/2025 | PDP2390A | 2025 Training Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 1/10/2025 | PDP1541A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |

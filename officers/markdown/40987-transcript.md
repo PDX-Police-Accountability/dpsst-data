@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2025 | PDP3231A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/29/2025 | PDP1927A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/22/2025 | PDP3036A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 12/18/2024 | PDP1324A | 2024 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |

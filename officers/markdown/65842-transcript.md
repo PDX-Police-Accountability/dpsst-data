@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/12/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 2/4/2025 | PDP2622A | 2025 FTEP Orientation | Passed | 0.0 | 5.00 |
 | 1/15/2025 | PDP0956A | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 1/14/2025 | PDP1375A | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 1/7/2025 | PDP4284A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

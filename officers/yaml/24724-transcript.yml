@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/11/2025
+  course: FGP3863A
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/14/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -4583,6 +4589,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/11/2025
+  expiration_date: 2/11/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2025 | PDP4210A | 2025 RRT Grenadier Cadre Training | Passed | 0.0 | 8.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/23/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

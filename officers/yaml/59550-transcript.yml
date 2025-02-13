@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/6/2025
+  course: BNP2834A
+  title: Building Clearing (HRT, Slow Clear, Dynamic)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/21/2025
   course: BNP0766A
   title: Tactical Physical Qualifications

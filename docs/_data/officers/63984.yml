@@ -42,12 +42,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 11/16/2024
-  course: MFY0477A
-  title: Protocol 34 Automatic Crash Notification
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 11/12/2024
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

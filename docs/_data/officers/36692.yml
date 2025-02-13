@@ -17,6 +17,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/4/2025
+  course: ALS3799A
+  title: In-Service - Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/4/2025
+  course: ALS1411A
+  title: In-Service - DUII
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/20/2019
   course: F6D18205
   title: Highway Drug Investigations for Patrol Day 1

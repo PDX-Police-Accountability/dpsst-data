@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/6/2025
+  course: OCS1907A
+  title: DT reintegration
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/16/2023
   course: OCS2690A
   title: Bias Hate Crime Training

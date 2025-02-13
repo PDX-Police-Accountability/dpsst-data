@@ -86,12 +86,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/5/2025
+  course: OCS4339A
+  title: Handgun Qualification and Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/31/2025
   course: OCS3528A
   title: January 2025 SWAT Sniper Firearms
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 1/31/2025
+  course: OCS3506A
+  title: 2025 1st Qtr Patrol Shotgun
+  status: Instructed
+  score: '0.0'
+  hours: '22.00'
 - date: 1/29/2025
   course: OCS1617A
   title: 2024 Makeup Firearms
