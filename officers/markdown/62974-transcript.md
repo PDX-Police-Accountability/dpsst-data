@@ -35,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/5/2025 | OCP0130A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 1/27/2025 | OCP4312A | Red Dot Sight (RDS) Introduction Course | Passed | 0.0 | 1.00 |
+| 1/17/2025 | OSH3532A | ARIDE | Passed | 0.0 | 16.00 |
 | 1/15/2025 | OCP1646A | First Aid  Adult/Child CPR | Passed | 0.0 | 2.50 |
 | 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 12/4/2024 | OCP2587A | Basic Rifle Course | Passed | 0.0 | 18.00 |

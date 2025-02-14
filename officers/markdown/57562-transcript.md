@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/11/2025 | OCP2030A | Taser 7 Certification | Instructed | 0.0 | 4.00 |
 | 1/27/2025 | OCP4312A | Red Dot Sight (RDS) Introduction Course | Passed | 0.0 | 1.00 |
 | 1/20/2025 | OCP3147A | First Aid  Adult / Child CPR | Passed | 0.0 | 2.00 |
 | 1/14/2025 | OCP1827A | Use of Force - Ground Fight Against Armed Subject | Passed | 0.0 | 1.00 |

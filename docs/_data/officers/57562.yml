@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 2/11/2025
+  course: OCP2030A
+  title: Taser 7 Certification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/27/2025
   course: OCP4312A
   title: Red Dot Sight (RDS) Introduction Course

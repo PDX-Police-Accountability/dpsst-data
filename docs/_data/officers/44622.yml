@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/10/2025
+  course: BPT3380A
+  title: 'STOP Program: Data collection on road'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/18/2025
   course: OSH4282A
   title: OSP - 2025 Patrol Tactics In-Service

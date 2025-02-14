@@ -86,6 +86,30 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 1/17/2025
+  course: PDS1075A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/17/2025
+  course: PDS4023A
+  title: OC Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/15/2025
+  course: PDS3076A
+  title: Basic Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/14/2025
+  course: PDS0092A
+  title: Taser
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/10/2025
   course: PDS0219A
   title: Communication

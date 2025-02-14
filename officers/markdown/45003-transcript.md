@@ -44,6 +44,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/24/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 2/5/2025 | HBP0291A | Monthly Patrol Team Leadership | Passed | 0.0 | 1.50 |
+| 2/5/2025 | HBP3042A | Monthly Patrol Team Leadership | Passed | 0.0 | 1.50 |
 | 12/11/2024 | HBP2458A | FTO Training | Instructed | 0.0 | 20.00 |
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 10/30/2024 | HBP4497A | Use of Force In-service Wrap-up: Case Law | Passed | 0.0 | 0.50 |

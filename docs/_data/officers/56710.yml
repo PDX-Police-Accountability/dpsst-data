@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2025
+  course: OSH1188A
+  title: ARIDE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/15/2025
   course: SDP0679A
   title: Bloodborne Pathogens Training

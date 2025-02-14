@@ -41,6 +41,10 @@
 | 1/30/2025 | PDS2762A | February Range IDC | Passed | 0.0 | 4.00 |
 | 1/24/2025 | PDS0048A | Firearm Qualification | Instructed | 0.0 | 2.00 |
 | 1/24/2025 | PDS1180A | Firearm Qualification | Instructed | 0.0 | 2.00 |
+| 1/17/2025 | PDS1075A | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 1/17/2025 | PDS4023A | OC Training | Instructed | 0.0 | 4.00 |
+| 1/15/2025 | PDS3076A | Basic Firearms | Instructed | 0.0 | 8.00 |
+| 1/14/2025 | PDS0092A | Taser | Instructed | 0.0 | 8.00 |
 | 1/10/2025 | PDS0219A | Communication | Instructed | 0.0 | 2.00 |
 | 12/13/2024 | PDS0272A | Less Lethal Certification | Instructed | 0.0 | 5.00 |
 | 12/13/2024 | PDS0361A | Less Lethal Certification | Instructed | 0.0 | 5.00 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2025 | OSH1188A | ARIDE | Passed | 0.0 | 16.00 |
 | 1/15/2025 | SDP0679A | Bloodborne Pathogens Training | Passed | 0.0 | 1.00 |
 | 1/13/2025 | REG0726A | Ground Control | Passed | 0.0 | 1.00 |
 | 1/8/2025 | SDP3182A | WRAP Refresher | Passed | 0.0 | 1.00 |

@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/17/2025
+  course: OSH3532A
+  title: ARIDE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/15/2025
   course: OCP1646A
   title: First Aid  Adult/Child CPR

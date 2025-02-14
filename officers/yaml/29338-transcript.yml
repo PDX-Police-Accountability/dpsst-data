@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/27/2025
+  course: PDS0180A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

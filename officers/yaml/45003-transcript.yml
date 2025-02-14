@@ -99,6 +99,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 2/5/2025
+  course: HBP0291A
+  title: Monthly Patrol Team Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/5/2025
+  course: HBP3042A
+  title: Monthly Patrol Team Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/11/2024
   course: HBP2458A
   title: FTO Training
