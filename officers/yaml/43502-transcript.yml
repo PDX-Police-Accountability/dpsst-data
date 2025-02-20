@@ -75,6 +75,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 1/8/2025
+  course: PDP3277A
+  title: 2025 SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/3/2024
   course: PDP3226A
   title: 2024 EAP Separation Training

@@ -56,6 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/3/2025
+  course: PSU1611A
+  title: OSSA Airway, Circulatory Anatomy Training
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/31/2024
+  course: MAINTMUA
+  title: Maintenance Makeup ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2024
+  course: MISCMAIN
+  title: 2024 LE Basic 3-Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/18/2024
   course: PSU1018A
   title: Firearms - Ballistic Shield Deployment Course
@@ -1660,6 +1678,10 @@ training_records:
   hours: '4.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
@@ -1667,10 +1689,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/29/2024
   expiration_date: 4/29/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 education_records:
 - date: 3/15/1978
   degree: No Degree

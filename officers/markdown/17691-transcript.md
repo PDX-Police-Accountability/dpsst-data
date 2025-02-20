@@ -37,8 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/4/2025 | MNS3263A | Low Light Qualification/Training | Passed | 0.0 | 2.50 |
 | 1/29/2025 | VND3653A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 3.00 |
 | 1/29/2025 | VND2461A | CMV Size and Weight Training | Passed | 0.0 | 3.00 |
+| 1/21/2025 | MNS1331A | Interdiction Stops | Passed | 0.0 | 0.75 |
 | 1/13/2025 | MNS3394A | Adult and Pediatric First Aid/CPR/AED - BL - r.21 | Passed | 0.0 | 3.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2024 | MNS0040A | Courtroom Testimony and Report Writing | Passed | 0.0 | 0.50 |

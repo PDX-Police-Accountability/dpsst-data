@@ -25,9 +25,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/29/2024 | 4/29/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2025 | PSU1611A | OSSA Airway, Circulatory Anatomy Training | Passed | 0.0 | 0.00 |
+| 12/31/2024 | MAINTMUA | Maintenance Makeup ACAP | Passed | 0.0 | 2.00 |
+| 12/31/2024 | MISCMAIN | 2024 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2024 | PSU1018A | Firearms - Ballistic Shield Deployment Course | Passed | 0.0 | 8.00 |
 | 12/11/2024 | PSU2902A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 12/4/2024 | PSU2471A | The LGBTQ Community | Passed | 0.0 | 1.00 |

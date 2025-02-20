@@ -45,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/10/2025 | HBS0547A | MFF - Public Order Lecture | Passed | 0.0 | 2.00 |
+| 2/10/2025 | HBS0738A | MFF - Public Order | Passed | 0.0 | 7.00 |
 | 1/23/2025 | VND1044A | Responder Life Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/22/2025 | VND2338A | Peer Support Conference | Passed | 0.0 | 8.00 |
 | 12/4/2024 | HBS3258A | IMT Training - December | Passed | 0.0 | 8.00 |

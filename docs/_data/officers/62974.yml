@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/17/2025
+  course: OCP0819A
+  title: Ballistic Shield Deployment
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 2/5/2025
   course: OCP0130A
   title: RDS M17 Pistol Conversion

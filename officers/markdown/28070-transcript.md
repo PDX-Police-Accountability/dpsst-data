@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/4/2025 | MNS3263A | Low Light Qualification/Training | Passed | 0.0 | 2.50 |
+| 1/23/2025 | MNS1331A | Interdiction Stops | Passed | 0.0 | 0.75 |
 | 1/16/2025 | MNS3394A | Adult and Pediatric First Aid/CPR/AED - BL - r.21 | Passed | 0.0 | 3.00 |
 | 12/16/2024 | MNS0040A | Courtroom Testimony and Report Writing | Passed | 0.0 | 0.50 |
 | 12/16/2024 | MNS0048A | DUII Investigations and SFST Refresher | Passed | 0.0 | 3.00 |

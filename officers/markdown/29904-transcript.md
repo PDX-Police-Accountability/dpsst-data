@@ -38,6 +38,7 @@
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2024 | PDS2741A | Range | Passed | 0.0 | 2.00 |
 | 12/12/2024 | PDS1300A | Range | Passed | 0.0 | 2.00 |
+| 10/17/2024 | GSP3454A | River Scenario Based Training | Passed | 0.0 | 10.00 |
 | 10/15/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/8/2024 | PDS2666A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
 | 10/2/2024 | PDS2199A | Leadership | Passed | 0.0 | 4.00 |
@@ -56,6 +57,8 @@
 | 7/18/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
 | 6/17/2024 | PDS4523A | Range | Passed | 0.0 | 2.00 |
 | 6/13/2024 | PDS0131A | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 5/23/2024 | GSP2218A | Area Search K9/UAS Integration | Passed | 0.0 | 10.00 |
+| 5/22/2024 | GSP4444A | Firearms Training | Passed | 0.0 | 10.00 |
 | 4/15/2024 | PDS3016A | LE Range | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |

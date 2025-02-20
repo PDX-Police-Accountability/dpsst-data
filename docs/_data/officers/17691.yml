@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/4/2025
+  course: MNS3263A
+  title: Low Light Qualification/Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 1/29/2025
   course: VND3653A
   title: Inspection Enforcement Annual Refresh Class
@@ -73,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/21/2025
+  course: MNS1331A
+  title: Interdiction Stops
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/13/2025
   course: MNS3394A
   title: Adult and Pediatric First Aid/CPR/AED - BL - r.21

@@ -177,6 +177,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/23/2024
+  course: PDP1589A
+  title: 2024 Demonstration/Event Liaison Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/19/2024
   course: PDP3529A
   title: 2024 CNT Crisis Negotiation Team RILEA Training

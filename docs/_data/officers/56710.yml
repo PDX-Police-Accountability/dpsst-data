@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/12/2025
+  course: SDP1329A
+  title: C4C Basic Principles for Weapon Retention
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/8/2025
   course: OSH1188A
   title: ARIDE

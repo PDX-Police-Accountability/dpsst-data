@@ -95,6 +95,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/10/2025
+  course: HBS0547A
+  title: MFF - Public Order Lecture
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/10/2025
+  course: HBS0738A
+  title: MFF - Public Order
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/23/2025
   course: VND1044A
   title: Responder Life Peer Support Conference

@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2025
+  course: PDP3277A
+  title: 2025 SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/12/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

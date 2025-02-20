@@ -134,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/1/2024
+  course: PDP1589A
+  title: 2024 Demonstration/Event Liaison Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/20/2024
   course: PDP2855A
   title: 2024-3 Range Qualification AR-15 (20 Yard)

@@ -74,6 +74,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/7/2025
+  course: PDS3147A
+  title: CIT
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/7/2025
+  course: PDS1834A
+  title: De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/5/2025
+  course: PDS2435A
+  title: Confrontation Simulation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/4/2025
+  course: PDS4214A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/31/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

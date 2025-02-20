@@ -67,6 +67,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/4/2025
+  course: MNS3263A
+  title: Low Light Qualification/Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 1/23/2025
+  course: MNS1331A
+  title: Interdiction Stops
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/16/2025
   course: MNS3394A
   title: Adult and Pediatric First Aid/CPR/AED - BL - r.21

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/17/2025 | OCP0819A | Ballistic Shield Deployment | Passed | 0.0 | 0.75 |
 | 2/5/2025 | OCP0130A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 1/27/2025 | OCP4312A | Red Dot Sight (RDS) Introduction Course | Passed | 0.0 | 1.00 |
 | 1/17/2025 | OSH3532A | ARIDE | Passed | 0.0 | 16.00 |

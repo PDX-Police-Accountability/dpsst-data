@@ -38,9 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/10/2025 | PDS1588A | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 2/5/2025 | PDS2435A | Confrontation Simulation | Instructed | 0.0 | 3.00 |
+| 2/4/2025 | PDS0421A | Patrol Procedures/Traffic Stops | Instructed | 0.0 | 4.00 |
 | 1/30/2025 | PDS2762A | February Range IDC | Passed | 0.0 | 4.00 |
 | 1/24/2025 | PDS0048A | Firearm Qualification | Instructed | 0.0 | 2.00 |
 | 1/24/2025 | PDS1180A | Firearm Qualification | Instructed | 0.0 | 2.00 |
+| 1/24/2025 | PDS3125A | Range Qualification | Instructed | 0.0 | 2.00 |
+| 1/23/2025 | PDS2353A | Firearms | Instructed | 0.0 | 20.00 |
 | 1/17/2025 | PDS1075A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 1/17/2025 | PDS4023A | OC Training | Instructed | 0.0 | 4.00 |
 | 1/15/2025 | PDS3076A | Basic Firearms | Instructed | 0.0 | 8.00 |

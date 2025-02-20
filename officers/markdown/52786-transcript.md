@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2025 | PDS3147A | CIT | Passed | 0.0 | 4.00 |
+| 2/7/2025 | PDS1834A | De-Escalation | Passed | 0.0 | 4.00 |
+| 2/5/2025 | PDS2435A | Confrontation Simulation | Passed | 0.0 | 3.00 |
+| 2/4/2025 | PDS4214A | PREA | Passed | 0.0 | 2.00 |
 | 12/31/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/2/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/2/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/17/2025
+  course: GSP0641A
+  title: SWAT Sniper Range - Night
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/20/2024
+  course: GSP1469A
+  title: SWAT Sniper Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/18/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video
@@ -68,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 11/22/2024
+  course: GSP0230A
+  title: SWAT Sniper Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -104,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/18/2024
+  course: GSP2838A
+  title: SWAT Sniper Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/17/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates
@@ -140,6 +164,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/17/2024
+  course: GSP3454A
+  title: River Scenario Based Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/16/2024
+  course: GSP2671A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/2/2024
   course: PDP1634A
   title: 2024-3 All Sworn In-Service ABLE (CIT)
@@ -206,6 +242,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 8/23/2024
+  course: GSP0027A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/6/2024
   course: PDP0918A
   title: City of Portland Bloodborne Pathogens
@@ -260,6 +302,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/19/2024
+  course: GSP1598A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/16/2024
   course: PDP2311A
   title: 2024-2 Range Qual AR-15 Qualification (20 Yard)
@@ -302,6 +350,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/21/2024
+  course: GSP3992A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/24/2024
+  course: GSP4111A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/23/2024
+  course: GSP2218A
+  title: Area Search K9/UAS Integration
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/22/2024
+  course: GSP4444A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/16/2024
   course: PDP2151A
   title: 2024 Investigator In-Service Case Study
@@ -356,12 +428,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/19/2024
+  course: GSP2442A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/17/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/22/2024
+  course: GSP3873A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/19/2024
   course: PDP1617A
   title: 2024-1 Range Qualification AR-15 Qualification (20
@@ -386,6 +470,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/23/2024
+  course: GSP1582A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 1/16/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit

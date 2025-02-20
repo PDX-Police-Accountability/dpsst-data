@@ -35,13 +35,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/17/2025 | GSP0641A | SWAT Sniper Range - Night | Instructed | 0.0 | 10.00 |
 | 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |
+| 12/20/2024 | GSP1469A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 12/11/2024 | GSP2088A | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/11/2024 | GSP1104A | Taser X26P Recertification | Passed | 0.0 | 1.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
+| 11/22/2024 | GSP0230A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 11/8/2024 | GSP4074A | Firearms Training - Handgun Inservice 2024 | Instructed | 0.0 | 10.00 |
 | 10/21/2024 | GSP4243A | Firearms Training - Rifle Inservice 2024 | Instructed | 0.0 | 10.00 |
+| 10/18/2024 | GSP2838A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
+| 10/17/2024 | GSP3454A | River Scenario Based Training | Passed | 0.0 | 10.00 |
+| 10/16/2024 | GSP2671A | Firearms Training | Passed | 0.0 | 10.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 10/2/2024 | GSP2419A | Firearms Training - Rifle Instructor Training | Passed | 0.0 | 10.00 |
 | 9/20/2024 | GSP1167A | Firearms | Instructed | 0.0 | 10.00 |
@@ -49,18 +55,27 @@
 | 9/18/2024 | GSP1049A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 9/18/2024 | GSP3238A | Building Searches | Passed | 0.0 | 10.00 |
 | 9/6/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
+| 8/23/2024 | GSP0027A | SWAT Sniper Training | Instructed | 0.0 | 10.00 |
+| 7/19/2024 | GSP1598A | SWAT Sniper Training | Instructed | 0.0 | 10.00 |
 | 7/16/2024 | GSP4545A | AR15/M4 Armorer Course | Passed | 0.0 | 16.00 |
 | 7/15/2024 | OCS4471A | AR-15 Armorer | Passed | 0.0 | 16.00 |
+| 6/21/2024 | GSP3992A | SWAT Sniper Training | Instructed | 0.0 | 10.00 |
 | 6/4/2024 | PDS1043A | Domestic Terrorism Investigations | Passed | 0.0 | 2.00 |
+| 5/24/2024 | GSP4111A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 5/23/2024 | GSP2218A | Area Search K9/UAS Integration | Passed | 0.0 | 10.00 |
+| 5/22/2024 | GSP4444A | Firearms Training | Passed | 0.0 | 10.00 |
 | 5/21/2024 | GSP1545A | Glock Armorer's Course | Passed | 0.0 | 8.00 |
+| 4/19/2024 | GSP2442A | SWAT Sniper Training | Instructed | 0.0 | 10.00 |
 | 4/16/2024 | GSP2530A | High-Risk Explosives Sweep | Passed | 0.0 | 1.50 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/29/2024 | GSP1105A | Stop the Bleed | Passed | 0.0 | 1.00 |
 | 3/25/2024 | GSP1960A | Addressing Female Casualty Care Disparities. | Passed | 0.0 | 1.00 |
+| 3/22/2024 | GSP3873A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 3/19/2024 | GSP4093A | Firearms - Rifle | Instructed | 0.0 | 10.00 |
 | 3/15/2024 | GSP3084A | Firearms - Handgun | Instructed | 0.0 | 10.00 |
 | 3/4/2024 | GSP1868A | Firearms - Handgun | Instructed | 0.0 | 10.00 |
 | 2/26/2024 | GSP2859A | Indicent Debried" Multi-Jurisdictional Response. | Passed | 0.0 | 1.00 |
+| 2/23/2024 | GSP1582A | SWAT Sniper Training | Instructed | 0.0 | 0.00 |
 | 2/14/2024 | GSP1347A | Survival Skills | Passed | 0.0 | 10.00 |
 | 1/30/2024 | GSP0444A | Emergency Trauma Response | Passed | 0.0 | 1.50 |
 | 1/18/2024 | GSP2616A | Qucik Reaction Team/Identifying IED's | Passed | 0.0 | 0.00 |
