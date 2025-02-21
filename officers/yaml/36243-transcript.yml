@@ -95,6 +95,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/14/2025
+  course: HBS3191A
+  title: 2025 February Rifle Updates
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/11/2025
+  course: HBS4478A
+  title: MFF - Public Order
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/11/2025
+  course: HBS0184A
+  title: MFF - Public Order Lecture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/10/2025
   course: HBS0547A
   title: MFF - Public Order Lecture

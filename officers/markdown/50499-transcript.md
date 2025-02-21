@@ -38,12 +38,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/17/2025 | GSP0641A | SWAT Sniper Range - Night | Passed | 0.0 | 10.00 |
+| 1/16/2025 | GSP2341A | 1st Responder Response to Terrorism Acts/40 Quals | Passed | 0.0 | 10.00 |
+| 1/15/2025 | GSP2029A | Firearms | Passed | 0.0 | 10.00 |
 | 12/20/2024 | GSP1469A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 12/19/2024 | GSP1538A | SCBA, Breaching, Equipment Familiarzation | Passed | 0.0 | 10.00 |
 | 12/18/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/18/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 12/18/2024 | GSP1307A | Firearms Training | Passed | 0.0 | 10.00 |
 | 12/9/2024 | PDP2527A | 2024 External OSP DNA Training | Passed | 0.0 | 2.50 |
 | 11/22/2024 | GSP0230A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/21/2024 | GSP0877A | Vehilce Pedestrian Takedowns | Passed | 0.0 | 10.00 |
+| 11/20/2024 | GSP1280A | Firearms Training | Passed | 0.0 | 10.00 |
 | 10/29/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 10/29/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/29/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -70,6 +76,8 @@
 | 9/5/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/23/2024 | GSP0027A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 8/22/2024 | GSP0605A | Hasty/Deliberate Hostage Rescue Tactics | Passed | 0.0 | 10.00 |
+| 8/21/2024 | GSP1177A | Firearms Training | Passed | 0.0 | 10.00 |
 | 8/6/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 8/5/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 8/5/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
@@ -80,6 +88,8 @@
 | 8/5/2024 | PDP3146A | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 8/5/2024 | PDP4454A | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 7/19/2024 | GSP1598A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 7/18/2024 | GSP1189A | Dignitary Protection | Passed | 0.0 | 10.00 |
+| 7/17/2024 | GSP3633A | Firearms Training | Passed | 0.0 | 10.00 |
 | 7/16/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/16/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/26/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
@@ -88,6 +98,8 @@
 | 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/21/2024 | GSP3992A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 6/20/2024 | GSP1278A | Active Shooter/School Clearance | Passed | 0.0 | 10.00 |
+| 6/19/2024 | GSP0038A | Firearms Training | Passed | 0.0 | 10.00 |
 | 5/24/2024 | GSP4111A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 5/23/2024 | GSP2218A | Area Search K9/UAS Integration | Passed | 0.0 | 10.00 |
 | 5/22/2024 | GSP4444A | Firearms Training | Passed | 0.0 | 10.00 |
@@ -101,13 +113,19 @@
 | 5/8/2024 | PDP4233A | 2024-1 All Sworn In-Service PVO/BoxIn | Passed | 0.0 | 1.50 |
 | 5/8/2024 | PDP0063A | 2024-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.50 |
 | 4/19/2024 | GSP2442A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 4/18/2024 | GSP0684A | Warrant Contingencies | Passed | 0.0 | 10.00 |
 | 4/17/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/17/2024 | GSP2495A | Firearms Training | Passed | 0.0 | 10.00 |
 | 3/22/2024 | GSP3873A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 3/21/2024 | GSP2101A | Citizen Rescue and Barricade Resolution | Passed | 0.0 | 10.00 |
+| 3/20/2024 | GSP4196A | Firearms Training | Passed | 0.0 | 10.00 |
 | 3/19/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 3/19/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/8/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 2/23/2024 | GSP1582A | SWAT Sniper Training | Passed | 0.0 | 0.00 |
+| 2/22/2024 | GSP0619A | Citizen Rescue and Barricade Resolution | Passed | 0.0 | 10.00 |
+| 2/21/2024 | GSP1449A | Firearms Training | Passed | 0.0 | 10.00 |
 | 1/16/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 12/22/2023 | GSP0985A | SWAT Sniper Firearms Range | Passed | 0.0 | 10.00 |

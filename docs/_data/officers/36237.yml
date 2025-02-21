@@ -3141,6 +3141,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/5/2017
+  course: PDP1849A
+  title: Gang Investigations
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/28/2017
   course: F6A09241
   title: 28CFR-Part23;RISSintel/RISSafe/De-confliction

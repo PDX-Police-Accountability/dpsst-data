@@ -2606,6 +2606,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '55.50'
+- date: 10/5/2017
+  course: PDP1849A
+  title: Gang Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/27/2017
   course: PDP15608
   title: Sexual Assault Investigations

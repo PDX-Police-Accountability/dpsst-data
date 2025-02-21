@@ -45,6 +45,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/14/2025 | HBS3191A | 2025 February Rifle Updates | Passed | 0.0 | 8.00 |
+| 2/11/2025 | HBS4478A | MFF - Public Order | Passed | 0.0 | 8.00 |
+| 2/11/2025 | HBS0184A | MFF - Public Order Lecture | Passed | 0.0 | 1.00 |
 | 2/10/2025 | HBS0547A | MFF - Public Order Lecture | Passed | 0.0 | 2.00 |
 | 2/10/2025 | HBS0738A | MFF - Public Order | Passed | 0.0 | 7.00 |
 | 1/23/2025 | VND1044A | Responder Life Peer Support Conference | Passed | 0.0 | 8.00 |

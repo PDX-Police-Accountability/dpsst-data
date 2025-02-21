@@ -45,6 +45,7 @@
 | 1/9/2025 | OAC3853A | Frontline Trauma  the Path to Recovery | Passed | 0.0 | 3.00 |
 | 1/8/2025 | OAC2545A | Use of AI in Policing | Passed | 0.0 | 4.00 |
 | 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |
+| 12/19/2024 | GSP1538A | SCBA, Breaching, Equipment Familiarzation | Passed | 0.0 | 10.00 |
 | 12/11/2024 | GSP2088A | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |

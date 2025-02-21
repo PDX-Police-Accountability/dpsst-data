@@ -461,6 +461,7 @@
 | 10/31/2017 | PPB24791 | Intersection Clearing Refresher | Passed | 0.0 | 0.25 |
 | 10/31/2017 | PPB24792 | Responding to People in Elevated Positions | Passed | 0.0 | 0.25 |
 | 10/5/2017 | F6C23380 | Portland Metro Area Detective Academy | Passed | 0.0 | 55.50 |
+| 10/5/2017 | PDP1849A | Gang Investigations | Passed | 0.0 | 2.00 |
 | 9/27/2017 | PDP15608 | Sexual Assault Investigations | Passed | 0.0 | 2.00 |
 | 9/26/2017 | PDP08457 | Cold Case Investigations | Passed | 0.0 | 2.00 |
 | 9/26/2017 | PDP05723 | Legal Issues and Courtroom Testimony | Passed | 0.0 | 3.00 |

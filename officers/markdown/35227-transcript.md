@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/6/2025 | VND3656A | Trauma Informed Response Training | Passed | 0.0 | 6.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2024 | F1536832 | Equity  Wellbeing Series | Passed | 0.0 | 1.00 |
 | 12/19/2024 | F1528577 | Gender Inclusion: Cultures of Inclusion | Passed | 0.0 | 1.00 |

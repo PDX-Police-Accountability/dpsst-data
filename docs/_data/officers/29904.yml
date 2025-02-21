@@ -114,6 +114,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/22/2024
+  course: GSP0605A
+  title: Hasty/Deliberate Hostage Rescue Tactics
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/21/2024
+  course: GSP1177A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/23/2024
   course: PDS2357A
   title: Taser Recertification
@@ -168,6 +180,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/18/2024
+  course: GSP1189A
+  title: Dignitary Protection
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/17/2024
+  course: GSP3633A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/20/2024
+  course: GSP1278A
+  title: Active Shooter/School Clearance
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/19/2024
+  course: GSP0038A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/17/2024
   course: PDS4523A
   title: Range
@@ -188,6 +224,18 @@ training_records:
   hours: '10.00'
 - date: 5/22/2024
   course: GSP4444A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/18/2024
+  course: GSP0684A
+  title: Warrant Contingencies
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/17/2024
+  course: GSP2495A
   title: Firearms Training
   status: Passed
   score: '0.0'
@@ -222,6 +270,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/22/2024
+  course: GSP0619A
+  title: Citizen Rescue and Barricade Resolution
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/21/2024
+  course: GSP1449A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/30/2024
   course: PDS1464A
   title: Cultural Awareness and Diversity

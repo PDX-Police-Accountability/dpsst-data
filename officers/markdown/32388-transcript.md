@@ -36,13 +36,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/17/2025 | GSP0641A | SWAT Sniper Range - Night | Instructed | 0.0 | 10.00 |
+| 1/16/2025 | GSP2341A | 1st Responder Response to Terrorism Acts/40 Quals | Passed | 0.0 | 10.00 |
+| 1/15/2025 | GSP2029A | Firearms | Passed | 0.0 | 10.00 |
 | 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |
 | 12/20/2024 | GSP1469A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
+| 12/19/2024 | GSP1538A | SCBA, Breaching, Equipment Familiarzation | Passed | 0.0 | 10.00 |
+| 12/18/2024 | GSP1307A | Firearms Training | Passed | 0.0 | 10.00 |
 | 12/11/2024 | GSP2088A | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/11/2024 | GSP1104A | Taser X26P Recertification | Passed | 0.0 | 1.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | GSP1733A | 2024 Ethics | Passed | 0.0 | 1.00 |
 | 11/22/2024 | GSP0230A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
+| 11/21/2024 | GSP0877A | Vehilce Pedestrian Takedowns | Passed | 0.0 | 10.00 |
+| 11/20/2024 | GSP1280A | Firearms Training | Passed | 0.0 | 10.00 |
 | 11/8/2024 | GSP4074A | Firearms Training - Handgun Inservice 2024 | Instructed | 0.0 | 10.00 |
 | 10/21/2024 | GSP4243A | Firearms Training - Rifle Inservice 2024 | Instructed | 0.0 | 10.00 |
 | 10/18/2024 | GSP2838A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
@@ -56,26 +62,38 @@
 | 9/18/2024 | GSP3238A | Building Searches | Passed | 0.0 | 10.00 |
 | 9/6/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 8/23/2024 | GSP0027A | SWAT Sniper Training | Instructed | 0.0 | 10.00 |
+| 8/22/2024 | GSP0605A | Hasty/Deliberate Hostage Rescue Tactics | Passed | 0.0 | 10.00 |
+| 8/21/2024 | GSP1177A | Firearms Training | Passed | 0.0 | 10.00 |
 | 7/19/2024 | GSP1598A | SWAT Sniper Training | Instructed | 0.0 | 10.00 |
+| 7/18/2024 | GSP1189A | Dignitary Protection | Passed | 0.0 | 10.00 |
+| 7/17/2024 | GSP3633A | Firearms Training | Passed | 0.0 | 10.00 |
 | 7/16/2024 | GSP4545A | AR15/M4 Armorer Course | Passed | 0.0 | 16.00 |
 | 7/15/2024 | OCS4471A | AR-15 Armorer | Passed | 0.0 | 16.00 |
 | 6/21/2024 | GSP3992A | SWAT Sniper Training | Instructed | 0.0 | 10.00 |
+| 6/20/2024 | GSP1278A | Active Shooter/School Clearance | Passed | 0.0 | 10.00 |
+| 6/19/2024 | GSP0038A | Firearms Training | Instructed | 0.0 | 10.00 |
 | 6/4/2024 | PDS1043A | Domestic Terrorism Investigations | Passed | 0.0 | 2.00 |
 | 5/24/2024 | GSP4111A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 5/23/2024 | GSP2218A | Area Search K9/UAS Integration | Passed | 0.0 | 10.00 |
 | 5/22/2024 | GSP4444A | Firearms Training | Passed | 0.0 | 10.00 |
 | 5/21/2024 | GSP1545A | Glock Armorer's Course | Passed | 0.0 | 8.00 |
 | 4/19/2024 | GSP2442A | SWAT Sniper Training | Instructed | 0.0 | 10.00 |
+| 4/18/2024 | GSP0684A | Warrant Contingencies | Passed | 0.0 | 10.00 |
+| 4/17/2024 | GSP2495A | Firearms Training | Passed | 0.0 | 10.00 |
 | 4/16/2024 | GSP2530A | High-Risk Explosives Sweep | Passed | 0.0 | 1.50 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/29/2024 | GSP1105A | Stop the Bleed | Passed | 0.0 | 1.00 |
 | 3/25/2024 | GSP1960A | Addressing Female Casualty Care Disparities. | Passed | 0.0 | 1.00 |
 | 3/22/2024 | GSP3873A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 3/21/2024 | GSP2101A | Citizen Rescue and Barricade Resolution | Passed | 0.0 | 10.00 |
+| 3/20/2024 | GSP4196A | Firearms Training | Passed | 0.0 | 10.00 |
 | 3/19/2024 | GSP4093A | Firearms - Rifle | Instructed | 0.0 | 10.00 |
 | 3/15/2024 | GSP3084A | Firearms - Handgun | Instructed | 0.0 | 10.00 |
 | 3/4/2024 | GSP1868A | Firearms - Handgun | Instructed | 0.0 | 10.00 |
 | 2/26/2024 | GSP2859A | Indicent Debried" Multi-Jurisdictional Response. | Passed | 0.0 | 1.00 |
 | 2/23/2024 | GSP1582A | SWAT Sniper Training | Instructed | 0.0 | 0.00 |
+| 2/22/2024 | GSP0619A | Citizen Rescue and Barricade Resolution | Passed | 0.0 | 10.00 |
+| 2/21/2024 | GSP1449A | Firearms Training | Passed | 0.0 | 10.00 |
 | 2/14/2024 | GSP1347A | Survival Skills | Passed | 0.0 | 10.00 |
 | 1/30/2024 | GSP0444A | Emergency Trauma Response | Passed | 0.0 | 1.50 |
 | 1/18/2024 | GSP2616A | Qucik Reaction Team/Identifying IED's | Passed | 0.0 | 0.00 |

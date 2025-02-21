@@ -46,6 +46,8 @@
 | 9/18/2024 | GSP3238A | Building Searches | Passed | 0.0 | 10.00 |
 | 9/15/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/3/2024 | PDS2755A | Kinetic Impact Projectile Refresher | Passed | 0.0 | 0.50 |
+| 8/22/2024 | GSP0605A | Hasty/Deliberate Hostage Rescue Tactics | Passed | 0.0 | 10.00 |
+| 8/21/2024 | GSP1177A | Firearms Training | Passed | 0.0 | 10.00 |
 | 7/23/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
 | 7/22/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
 | 7/22/2024 | PDS3277A | Legal Update | Passed | 0.0 | 1.00 |
@@ -55,15 +57,23 @@
 | 7/18/2024 | PDS1174A | ADA Policy | Passed | 0.0 | 0.50 |
 | 7/18/2024 | PDS0208A | Emergency Management  Facility Evacuation | Passed | 0.0 | 0.50 |
 | 7/18/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
+| 7/18/2024 | GSP1189A | Dignitary Protection | Passed | 0.0 | 10.00 |
+| 7/17/2024 | GSP3633A | Firearms Training | Passed | 0.0 | 10.00 |
+| 6/20/2024 | GSP1278A | Active Shooter/School Clearance | Passed | 0.0 | 10.00 |
+| 6/19/2024 | GSP0038A | Firearms Training | Passed | 0.0 | 10.00 |
 | 6/17/2024 | PDS4523A | Range | Passed | 0.0 | 2.00 |
 | 6/13/2024 | PDS0131A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 5/23/2024 | GSP2218A | Area Search K9/UAS Integration | Passed | 0.0 | 10.00 |
 | 5/22/2024 | GSP4444A | Firearms Training | Passed | 0.0 | 10.00 |
+| 4/18/2024 | GSP0684A | Warrant Contingencies | Passed | 0.0 | 10.00 |
+| 4/17/2024 | GSP2495A | Firearms Training | Passed | 0.0 | 10.00 |
 | 4/15/2024 | PDS3016A | LE Range | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |
 | 3/18/2024 | LOP3672A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |
 | 2/29/2024 | PDS2810A | Range Training | Passed | 0.0 | 2.00 |
+| 2/22/2024 | GSP0619A | Citizen Rescue and Barricade Resolution | Passed | 0.0 | 10.00 |
+| 2/21/2024 | GSP1449A | Firearms Training | Passed | 0.0 | 10.00 |
 | 1/30/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 1/29/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/29/2024 | PDS0907A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |

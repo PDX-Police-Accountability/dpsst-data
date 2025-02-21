@@ -551,6 +551,7 @@
 | 11/28/2017 | PDP13014 | Search Warrant Techniques-Active Shooter Refresher | Passed | 0.0 | 10.00 |
 | 11/17/2017 | PPB24644 | Less Lethal 40mm Transition | Passed | 0.0 | 10.00 |
 | 10/31/2017 | PPB24791 | Intersection Clearing Refresher | Passed | 0.0 | 0.25 |
+| 10/5/2017 | PDP1849A | Gang Investigations | Instructed | 0.0 | 2.00 |
 | 9/28/2017 | F6A09241 | 28CFR-Part23;RISSintel/RISSafe/De-confliction | Passed | 0.0 | 2.00 |
 | 9/25/2017 | PPB24665 | DT Instructor In-Service 2017 | Passed | 0.0 | 10.00 |
 | 6/30/2017 | PPB24454 | Handgun Qualification - Primary Sidearm | Passed | 0.0 | 0.50 |

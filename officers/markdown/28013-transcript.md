@@ -36,10 +36,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/3/2025 | PSU1611A | OSSA Airway, Circulatory Anatomy Training | Passed | 0.0 | 0.00 |
+| 2/3/2025 | F1527524 | Equity in Policy  Public Safety | Passed | 0.0 | 3.00 |
 | 12/31/2024 | MAINTMUA | Maintenance Makeup ACAP | Passed | 0.0 | 2.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2024 | PSU1018A | Firearms - Ballistic Shield Deployment Course | Passed | 0.0 | 8.00 |
 | 12/11/2024 | PSU2902A | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 12/6/2024 | F1544855 | Common Ground Conversations | Passed | 0.0 | 8.00 |
 | 12/4/2024 | PSU2471A | The LGBTQ Community | Passed | 0.0 | 1.00 |
 | 12/1/2024 | PSU3489A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

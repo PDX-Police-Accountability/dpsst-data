@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 2/3/2025
+  course: F1527524
+  title: Equity in Policy  Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/31/2024
   course: MAINTMUA
   title: Maintenance Makeup ACAP
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/6/2024
+  course: F1544855
+  title: Common Ground Conversations
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/4/2024
   course: PSU2471A
   title: The LGBTQ Community

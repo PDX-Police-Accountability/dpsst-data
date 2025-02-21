@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/10/2025 | Multnomah County Sheriff's Office | Retired | Reserve |  |  |
 | 7/24/2018 | Multnomah County Sheriff's Office | Hired | Reserve |  |  |
 | 7/4/2018 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 11/6/2014 | Portland Police Bureau | Hired | Reserve |  |  |

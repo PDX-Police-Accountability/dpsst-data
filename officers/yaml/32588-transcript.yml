@@ -105,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/19/2024
+  course: GSP1538A
+  title: SCBA, Breaching, Equipment Familiarzation
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/11/2024
   course: GSP2088A
   title: 2024 Mental Health In Service

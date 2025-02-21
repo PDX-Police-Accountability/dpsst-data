@@ -451,6 +451,7 @@
 | 1/12/2018 | PDP01076 | BHU Mental Health Template Video Non-ECIT Officers | Passed | 0.0 | 0.25 |
 | 10/25/2017 | PDP31802 | Gang Investigations | Instructed | 0.0 | 2.00 |
 | 10/16/2017 | KZP27679 | Failures in Criminal Investigations | Passed | 0.0 | 8.00 |
+| 10/5/2017 | PDP1849A | Gang Investigations | Instructed | 0.0 | 2.00 |
 | 9/28/2017 | F6A09241 | 28CFR-Part23;RISSintel/RISSafe/De-confliction | Passed | 0.0 | 2.00 |
 | 9/14/2017 | PPB24634 | 2017-2 In-Servce Evaluations/Training Debrief | Passed | 0.0 | 1.00 |
 | 9/14/2017 | PPB24639 | 2017-2 In-Service Firearms | Passed | 0.0 | 2.00 |
