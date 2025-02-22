@@ -35,12 +35,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
-- date: 10/7/2024
+- date: 11/8/2024
   course: 24-0005
   title: DPSST Basic Parole and Probation
-  status: Registered
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '200.00'
 - date: 10/3/2024
   course: OCS1325A
   title: OC Spray

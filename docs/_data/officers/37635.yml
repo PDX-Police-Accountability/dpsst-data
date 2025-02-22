@@ -63,6 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2025
+  course: EGP3726A
+  title: Animal Abuse Investigations  Family Violence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/13/2025
+  course: EGP2296A
+  title: HAZMAT
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/13/2025
+  course: EGP0099A
+  title: Radios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2025
+  course: EGP3168A
+  title: Regional Gangs/Prison Gangs/OMGs
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/22/2025
   course: EGP3692A
   title: Street Gang Investigations

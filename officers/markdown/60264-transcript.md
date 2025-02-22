@@ -32,7 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 11/8/2024 | 24-0005 | DPSST Basic Parole and Probation | Passed | 0.0 | 200.00 |
 | 10/3/2024 | OCS1325A | OC Spray | Passed | 0.0 | 1.00 |
 | 10/1/2024 | STN3962A | DV Academy Day 2 | Passed | 0.0 | 8.00 |
 | 9/24/2024 | PDN1980A | LS/CMI | Passed | 0.0 | 16.00 |

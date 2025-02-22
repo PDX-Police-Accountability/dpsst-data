@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 2/3/2025
+  course: TDP2754A
+  title: Bloodborne Pathogens 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/10/2025
   course: OAC3757A
   title: A Proactive Approach to Wellness

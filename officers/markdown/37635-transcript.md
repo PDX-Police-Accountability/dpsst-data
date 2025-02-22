@@ -38,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2025 | EGP3726A | Animal Abuse Investigations  Family Violence | Passed | 0.0 | 2.00 |
+| 2/13/2025 | EGP2296A | HAZMAT | Passed | 0.0 | 4.00 |
+| 2/13/2025 | EGP0099A | Radios | Passed | 0.0 | 1.00 |
+| 2/13/2025 | EGP3168A | Regional Gangs/Prison Gangs/OMGs | Passed | 0.0 | 2.00 |
 | 1/22/2025 | EGP3692A | Street Gang Investigations | Passed | 0.0 | 21.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/9/2025 | EGP2729A | De-Escalation | Passed | 0.0 | 3.00 |
