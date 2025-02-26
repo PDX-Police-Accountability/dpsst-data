@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/19/2025
+  course: PDP0563A
+  title: 2025 FTEP Post DPSST Firearms Roster
+  status: Instructed
+  score: '0.0'
+  hours: '23.00'
 - date: 1/15/2025
   course: PDP0956A
   title: 2025 FTEP New Hire Firearms

@@ -50,6 +50,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/9/2025 | SVP2971A | State Law Restrictions on Immigration Enforcement | Passed | 0.0 | 0.25 |
+| 2/7/2025 | VND1171A | OSMB Swift Water Rescue Course | Passed | 0.0 | 40.00 |
 | 1/18/2025 | SVP3812A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/15/2025 | SVP1500A | Cell Extractions and Strategy | Passed | 0.0 | 4.00 |
 | 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |

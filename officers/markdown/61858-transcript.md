@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2025 | EGN1953A | Oregon Case Management Network - Day 2 | Passed | 0.0 | 2.00 |
+| 2/12/2025 | EGN3814A | Gender Responsive Supervision Network | Passed | 0.0 | 4.00 |
+| 2/12/2025 | EGN1525A | Oregon Case Management Network - Day 1 | Passed | 0.0 | 4.00 |
 | 1/22/2025 | MFN2731A | New Shooter Firearms Training | Passed | 0.0 | 2.00 |
 | 1/15/2025 | GPN0690A | Behavior Change Plan- Train the Trainer | Passed | 0.0 | 16.00 |
 | 11/20/2024 | MFN2895A | LSCMI Case Management | Passed | 0.0 | 4.00 |

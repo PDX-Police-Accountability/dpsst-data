@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 2/19/2025
+  course: PDP0563A
+  title: 2025 FTEP Post DPSST Firearms Roster
+  status: Passed
+  score: '0.0'
+  hours: '23.00'
 - date: 1/22/2025
   course: REG2762A
   title: DID-SFST

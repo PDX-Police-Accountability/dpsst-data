@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/12/2025 | SDP1329A | C4C Basic Principles for Weapon Retention | Instructed | 0.0 | 1.50 |
+| 2/12/2025 | SDP0357A | Taser 7 Recertification | Passed | 0.0 | 4.00 |
 | 2/8/2025 | OSH1188A | ARIDE | Passed | 0.0 | 16.00 |
 | 1/15/2025 | SDP0679A | Bloodborne Pathogens Training | Passed | 0.0 | 1.00 |
 | 1/13/2025 | REG0726A | Ground Control | Passed | 0.0 | 1.00 |

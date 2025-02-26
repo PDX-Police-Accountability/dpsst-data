@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/19/2025
+  course: SAG0168A
+  title: Criminal Intelligence Systems Operating Polices
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2025
+  course: SAG0481A
+  title: Airway Anatomy training
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 1/29/2025
   course: SAG1349A
   title: Firearms training
@@ -77,6 +89,18 @@ training_records:
 - date: 12/31/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/31/2024
+  course: MAINTMUA
+  title: Maintenance Makeup ACAP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2024
+  course: MISCMAIN
+  title: 2024 LE Basic 3-Year Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
@@ -3124,6 +3148,10 @@ training_records:
   hours: '8.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
@@ -3131,10 +3159,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 8/29/2024
   expiration_date: 8/29/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/6/2002

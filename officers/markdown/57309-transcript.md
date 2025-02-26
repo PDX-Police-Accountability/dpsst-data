@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/30/2025 | OCS2612A | January 2025 DT's and MILO | Passed | 0.0 | 1.00 |
 | 1/7/2025 | OCS3282A | 2025 FTU Instructor Course | Passed | 0.0 | 8.00 |
 | 1/6/2025 | OCS1907A | DT reintegration | Passed | 0.0 | 3.00 |
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/20/2025 | Portland State University DPS | Hired | Police Off |  |  |
 | 1/14/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/10/2024 | Portland State University DPS | Resigned | Police Off |  |  |
 | 4/11/2024 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -19,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/26/2023 | Police Officer | Basic | Granted | 6/26/2023 | 4/14/2025 |  |
+| 6/26/2023 | Police Officer | Basic | Granted | 6/26/2023 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -135,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/7/2025
+  course: VND1171A
+  title: OSMB Swift Water Rescue Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/18/2025
   course: SVP3812A
   title: Foundations in Ethics for Law Enforcement

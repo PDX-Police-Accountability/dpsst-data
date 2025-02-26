@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
 | 12/31/2024 | LOP2336A | OC Refresher | Passed | 0.0 | 2.00 |
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 11/17/2024 | LOP2968A | Firearms Policy review | Passed | 0.0 | 0.50 |

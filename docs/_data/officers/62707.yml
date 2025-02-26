@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/20/2025
+  agency: Portland State University DPS
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/14/2025
   agency: Portland Police Bureau
   action: Resigned
@@ -39,7 +45,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 6/26/2023
-  expiration_date: 4/14/2025
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 1/14/2025

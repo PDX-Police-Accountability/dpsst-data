@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/20/2025
+  course: GPN2720A
+  title: Case Management Training Opportunity
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/22/2025
   course: GPN1425A
   title: LSCMI Refresher

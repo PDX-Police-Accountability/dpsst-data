@@ -74,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.50'
+- date: 2/12/2025
+  course: SDP0357A
+  title: Taser 7 Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/8/2025
   course: OSH1188A
   title: ARIDE

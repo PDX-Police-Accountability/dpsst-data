@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/12/2025
+  course: SAG0481A
+  title: Airway Anatomy training
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 1/15/2025
   course: AVP1171A
   title: Monthly Leadership Meeting
@@ -75,12 +81,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/31/2024
+  course: MAINTMUA
+  title: Maintenance Makeup ACAP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/30/2024
   course: SAG3647A
   title: Discrimination and Harrasment
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/30/2024
+  course: MISCMAIN
+  title: 2024 LE Leadership 3-Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/26/2024
   course: SAG1222A
   title: 2022 Oregon Sheriff's Airway training video
@@ -2651,6 +2669,10 @@ training_records:
   hours: '4.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
@@ -2658,10 +2680,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 8/29/2024
   expiration_date: 8/29/2026
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/29/2010

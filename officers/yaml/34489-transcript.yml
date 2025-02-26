@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2025
+  course: OCS2612A
+  title: January 2025 DT's and MILO
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/13/2025
   course: OCS1640A
   title: Drone Training - Aerial search nature area

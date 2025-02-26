@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
+| 1/30/2025 | LOP0547A | Drug Endangered Children for Patrol | Passed | 0.0 | 0.25 |
 | 12/20/2024 | LOP2868A | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
 | 12/19/2024 | LOP2422A | Conducting Photo Lineups | Passed | 0.0 | 0.50 |
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

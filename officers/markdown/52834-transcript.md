@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/30/2025 | OCS2612A | January 2025 DT's and MILO | Passed | 0.0 | 1.00 |
 | 11/20/2024 | OCS4266A | Taser | Passed | 0.0 | 1.00 |
 | 11/20/2024 | OCS1237A | Use of Cover/Marksmanship | Passed | 0.0 | 1.00 |
 | 11/10/2024 | REG2226A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |

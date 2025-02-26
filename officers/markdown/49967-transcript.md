@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2025 | MNP1850A | Axon/Taser - End User Annual Recertification | Passed | 0.0 | 2.00 |
 | 12/3/2024 | MNP0988A | Axon Fleet 3 Operation | Passed | 0.0 | 1.00 |
 | 11/29/2024 | MNP2549A | Anti-bias policing part 2 | Passed | 0.0 | 1.00 |
 | 11/29/2024 | MNP4515A | Anti-bias policing part 1 | Passed | 0.0 | 1.00 |

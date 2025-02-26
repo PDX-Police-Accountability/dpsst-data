@@ -42,6 +42,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2025
+  course: EGN1953A
+  title: Oregon Case Management Network - Day 2
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/12/2025
+  course: EGN3814A
+  title: Gender Responsive Supervision Network
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2025
+  course: EGN1525A
+  title: Oregon Case Management Network - Day 1
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/22/2025
   course: MFN2731A
   title: New Shooter Firearms Training

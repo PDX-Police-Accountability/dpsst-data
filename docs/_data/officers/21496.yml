@@ -166,6 +166,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/20/2025
+  course: OSH1947A
+  title: 'Stop Program: Data Collection on the Road.'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/20/2024
   course: REG0829A
   title: Intoxilyzer 8000 Instructor Course

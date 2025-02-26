@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/18/2025
+  course: PDP1873A
+  title: 2025 FTEP Policy  Procedure
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/3/2025
+  course: PDP1027A
+  title: 2025 FTEP Geography
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/20/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

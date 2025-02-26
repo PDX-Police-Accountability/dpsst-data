@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/12/2025
+  course: SAG0481A
+  title: Airway Anatomy training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/29/2025
   course: SAG2481A
   title: Ethics Guide Reading

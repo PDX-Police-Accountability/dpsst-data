@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2025 | GPN2720A | Case Management Training Opportunity | Passed | 0.0 | 1.50 |
 | 1/22/2025 | GPN1425A | LSCMI Refresher | Passed | 0.0 | 2.50 |
 | 11/13/2024 | GPN1919A | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 11/5/2024 | ALN1574A | FVSN - Polygraph Use for DV Offenders | Passed | 0.0 | 2.00 |

@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/22/2025
+  course: MNP1850A
+  title: Axon/Taser - End User Annual Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/3/2024
   course: MNP0988A
   title: Axon Fleet 3 Operation
