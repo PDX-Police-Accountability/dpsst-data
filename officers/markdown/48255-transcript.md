@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2025 | PDP4400A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 2/13/2025 | PDP4400A | 2025 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
+| 2/6/2025 | PDP0265A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/23/2025 | PDP3657A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/16/2025 | PDP0182A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/9/2025 | PDP1868A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

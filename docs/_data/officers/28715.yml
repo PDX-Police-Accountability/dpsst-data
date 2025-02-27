@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2025
+  course: HBP3738A
+  title: EVOC, Arrest and Control
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 1/29/2025
+  course: HBP0961A
+  title: Safe Evidence Handling
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2025
+  course: HBP1866A
+  title: HUMAN TRAFFICKING
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

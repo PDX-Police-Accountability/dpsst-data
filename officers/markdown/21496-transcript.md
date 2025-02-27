@@ -60,7 +60,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/20/2025 | OSH1947A | Stop Program: Data Collection on the Road. | Passed | 0.0 | 0.50 |
+| 2/20/2025 | OSH1947A | STOP Program: Data Collection on the Road | Passed | 0.0 | 0.50 |
 | 12/20/2024 | REG0829A | Intoxilyzer 8000 Instructor Course | Passed | 0.0 | 7.00 |
 | 12/13/2024 | PLS1077A | ARIDE (with Wetlab) | Instructed | 0.0 | 16.00 |
 | 11/14/2024 | OSH0431A | Mobile Detect Training | Passed | 0.0 | 1.00 |

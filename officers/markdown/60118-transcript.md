@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2025 | HRS0891A | In-Service Training: Exigency Case Law Review | Passed | 0.0 | 1.00 |
+| 2/20/2025 | HRS0644A | In-Service Training: Legal Requests Review | Passed | 0.0 | 1.50 |
+| 2/20/2025 | HRS1435A | In-Service Training: Stop The Bleed | Passed | 0.0 | 2.00 |
+| 2/20/2025 | HRS3504A | In-Service Training: Bodycam Review | Passed | 0.0 | 1.00 |
+| 2/20/2025 | HRS0223A | In-Service Training: DA Updates | Passed | 0.0 | 1.00 |
 | 1/23/2025 | HRS2800A | In-Service: Defensive Tactics | Passed | 0.0 | 3.00 |
 | 1/23/2025 | HRS0982A | In-Service: Use of Force Refresher | Passed | 0.0 | 1.00 |
 | 1/23/2025 | HRS3860A | In-Service: Active Threat - Rescue Task Force | Passed | 0.0 | 2.00 |

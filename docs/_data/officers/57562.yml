@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 2/24/2025
+  course: OCP1139A
+  title: Defensive Tactics - Weapons Based Entaglements
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/11/2025
   course: OCP2030A
   title: Taser 7 Certification
@@ -81,7 +87,7 @@ training_records:
   hours: '1.00'
 - date: 1/13/2025
   course: OCP1527A
-  title: Taser 7 Certification / Re-certification
+  title: Taser 7 Certification/Re-Certification
   status: Instructed
   score: '0.0'
   hours: '4.00'

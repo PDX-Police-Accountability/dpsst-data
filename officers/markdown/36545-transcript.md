@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | HBP3738A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
 | 12/16/2024 | HBP2381A | Tren de Aragua Overview | Passed | 0.0 | 1.00 |
 | 12/13/2024 | HBP3429A | Tren de Aragua - Understanding the Threat | Passed | 0.0 | 4.00 |
 | 11/20/2024 | HBS3592A | Elder Abuse Symposium | Passed | 0.0 | 4.50 |

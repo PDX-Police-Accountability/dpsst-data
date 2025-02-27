@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2025 | PDP2447A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |
+| 2/13/2025 | PDP4037A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |
 | 1/23/2025 | PDP0927A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 12/12/2024 | PDP3270A | 2024 K-9 (K9) Weekly Trng | Passed | 0.0 | 5.75 |
 | 12/11/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |

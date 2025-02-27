@@ -74,6 +74,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2025
+  course: HRS4519A
+  title: 'In-Service Training: Bodycam Review'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2025
+  course: HRS0506A
+  title: 'In-Service Training: DA Updates'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2025
+  course: HRS1270A
+  title: 'In-Service Training: Exigency Case Law'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2025
+  course: HRS2784A
+  title: 'In-Service Training: Legal Requests Review'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/13/2025
+  course: HRS0426A
+  title: 'In-Service Training: Stop The Bleed'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/9/2025
   course: HRS2769A
   title: 'In-Service: Defensive Tactics'

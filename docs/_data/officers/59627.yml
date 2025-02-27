@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2025
+  course: PDP4037A
+  title: 2025 K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '5.25'
 - date: 1/13/2025
   course: PDP2390A
   title: 2025 Training Red Dot Optic Transition Course

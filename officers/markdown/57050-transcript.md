@@ -421,7 +421,7 @@
 | 5/3/2019 | F6D29161 | Woodburn Noise Ordinance Video Training | Passed | 0.0 | 0.50 |
 | 4/9/2019 | F6D34359 | Directed Patrol | Passed | 0.0 | 1.00 |
 | 4/9/2019 | F6D36643 | Traffic Stop Refresher | Passed | 0.0 | 1.00 |
-| 4/9/2019 | F6D27967 | Stop Program | Passed | 0.0 | 0.50 |
+| 4/9/2019 | F6D27967 | STOP Program | Passed | 0.0 | 0.50 |
 | 3/31/2019 | F6D40607 | Quarterly Rifle and Handgun Qualification | Passed | 0.0 | 0.50 |
 | 3/12/2019 | F6D20030 | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 2/12/2019 | F6D43226 | Evidence: Fingerprinting | Passed | 0.0 | 1.00 |

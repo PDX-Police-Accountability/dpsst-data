@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2025 | HBP3738A | EVOC, Arrest and Control | Passed | 0.0 | 2.50 |
+| 1/29/2025 | HBP0961A | Safe Evidence Handling | Passed | 0.0 | 1.00 |
+| 1/29/2025 | HBP1866A | HUMAN TRAFFICKING | Passed | 0.0 | 3.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2024 | HBP1206A | PoliceOne Leadership 1-8 | Passed | 0.0 | 8.00 |
 | 11/6/2024 | VND2362A | Trauma Informed Response Training | Passed | 0.0 | 7.00 |

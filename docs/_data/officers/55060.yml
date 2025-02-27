@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/12/2025
+  course: PDP2948A
+  title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/29/2025
   course: PDP1927A
   title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng

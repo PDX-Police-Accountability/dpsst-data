@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2025 | HBP0704A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
+| 1/8/2025 | HBP0981A | HUMAN TRAFFICKING | Passed | 0.0 | 3.00 |
+| 1/8/2025 | HBP0174A | Safe Evidence Handling | Passed | 0.0 | 1.00 |
 | 11/4/2024 | HBP3595A | Leadership Lessons Greatest Speeches in History | Passed | 0.0 | 16.00 |
 | 10/30/2024 | HBP1017A | LEDS Recertification or Initial Inquiry | Passed | 0.0 | 1.00 |
 | 8/28/2024 | HBP0721A | Adult Sex Crimes, Exigent Phone Pings | Passed | 0.0 | 1.00 |

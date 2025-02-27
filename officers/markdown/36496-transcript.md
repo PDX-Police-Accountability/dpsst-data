@@ -39,7 +39,7 @@
 | 1/27/2025 | OCP4312A | Red Dot Sight (RDS) Introduction Course | Passed | 0.0 | 1.00 |
 | 1/15/2025 | OCP4402A | First Aid  Adult / Child CPR | Passed | 0.0 | 2.50 |
 | 1/14/2025 | OCP3067A | Firearms/Use of Force | Passed | 0.0 | 6.00 |
-| 1/13/2025 | OCP1527A | Taser 7 Certification / Re-certification | Passed | 0.0 | 4.00 |
+| 1/13/2025 | OCP1527A | Taser 7 Certification/Re-Certification | Passed | 0.0 | 4.00 |
 | 1/9/2025 | OCP3704A | Airborne and BBP | Passed | 0.0 | 1.00 |
 | 1/8/2025 | OCP3148A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 1/8/2025 | OCP1095A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |

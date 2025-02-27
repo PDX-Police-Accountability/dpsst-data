@@ -38,11 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2025 | OCP1139A | Defensive Tactics - Weapons Based Entaglements | Passed | 0.0 | 1.00 |
 | 2/11/2025 | OCP2030A | Taser 7 Certification | Instructed | 0.0 | 4.00 |
 | 1/27/2025 | OCP4312A | Red Dot Sight (RDS) Introduction Course | Passed | 0.0 | 1.00 |
 | 1/20/2025 | OCP3147A | First Aid  Adult / Child CPR | Passed | 0.0 | 2.00 |
 | 1/14/2025 | OCP1827A | Use of Force - Ground Fight Against Armed Subject | Passed | 0.0 | 1.00 |
-| 1/13/2025 | OCP1527A | Taser 7 Certification / Re-certification | Instructed | 0.0 | 4.00 |
+| 1/13/2025 | OCP1527A | Taser 7 Certification/Re-Certification | Instructed | 0.0 | 4.00 |
 | 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 12/16/2024 | OCP1032A | Defensive Tactics - Armed Subject | Passed | 0.0 | 1.00 |
 | 12/10/2024 | OCP4182A | Taser Certification | Instructed | 0.0 | 2.00 |

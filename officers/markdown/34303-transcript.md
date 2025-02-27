@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2025 | HBP0704A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
+| 1/8/2025 | HBP0981A | HUMAN TRAFFICKING | Passed | 0.0 | 3.00 |
+| 1/8/2025 | HBP0174A | Safe Evidence Handling | Passed | 0.0 | 1.00 |
 | 12/11/2024 | HBP2458A | FTO Training | Passed | 0.0 | 20.00 |
 | 10/30/2024 | HBP4497A | Use of Force In-service Wrap-up: Case Law | Passed | 0.0 | 0.50 |
 | 10/30/2024 | HBP1017A | LEDS Recertification or Initial Inquiry | Passed | 0.0 | 1.00 |

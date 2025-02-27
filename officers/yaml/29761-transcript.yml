@@ -1,2 +1,131 @@
 ---
-missing_transcript: true
+header_record:
+  name: Winther, April L.
+  dpsst_identifier: '29761'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 2/27/2025
+  agency: Bureau of Emergency Communications
+  action: Hired
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 10/1/2018
+  agency: Bureau of Emergency Communications
+  action: Resigned
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 8/27/2018
+  agency: Bureau of Emergency Communications
+  action: Hired
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 9/24/2004
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 1/21/2000
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 1/20/2000
+  agency: Bureau of Emergency Communications
+  action: Resigned
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 9/16/1999
+  agency: Bureau of Emergency Communications
+  action: Hired
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 9/15/1999
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 7/18/1994
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 2/27/2025
+  certificate: Emergency Medical Dispatcher
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 8/27/2026
+- status_date: 2/27/2025
+  certificate: Telecommunicator
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 8/27/2026
+training_records:
+- date: 8/27/2026
+  course: E50-25A
+  title: Basic EMD Equivalency APCO or  IAED
+  status: Required
+  score: '0.0'
+  hours: '24.00'
+- date: 8/18/2025
+  course: M40-21A
+  title: DPSST Basic Telecommunicator Course
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
+- date: 4/15/2019
+  course: 19-0014
+  title: DPSST Basic Telecommunications
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+- date: 1/31/2011
+  course: 11-0249
+  title: Range 3000
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/5/1999
+  course: 99P090
+  title: EMERGENCY MEDICAL DISPATCH ACADEMY
+  status: Passed
+  score: '0.0'
+  hours: '38.00'
+- date: 11/5/1999
+  course: 99P089
+  title: BOEC BASIC TELECOMMUNICATOR ACADEMY
+  status: Passed
+  score: '0.0'
+  hours: '263.00'
+- date: 6/2/1997
+  course: 96P304
+  title: SPANISH FOR PUBLIC SAFETY EMPLOYEES-BEGI
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
+- date: 11/30/1994
+  course: 93K047
+  title: LEDS INTERMEDIATE LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+attribute_records: []
+education_records: []
