@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/25/2025 | PDS3082A | Underwater Navigation | Passed | 0.0 | 8.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2024 | PDS2017A | Range | Passed | 0.0 | 2.00 |
 | 12/5/2024 | PDS0714A | Range | Passed | 0.0 | 2.00 |

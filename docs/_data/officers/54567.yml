@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/6/2025
+  course: WLP1429A
+  title: Human Trafficking Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/7/2025
   course: PDS0232A
   title: Supervising Patrol Critical Incidents

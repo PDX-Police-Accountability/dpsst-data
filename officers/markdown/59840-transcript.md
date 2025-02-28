@@ -42,7 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/3/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
+| 2/25/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Completed | 0.0 | 50.00 |
 | 2/5/2025 | OCS0451A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/23/2024 | OCS1768A | Trauma Informed Courts | Passed | 0.0 | 1.25 |

@@ -67,10 +67,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 12/3/2025
+- date: 2/25/2025
   course: M31-21A
   title: DPSST Parole and Probation Field Training Manual
-  status: Required
+  status: Completed
   score: '0.0'
   hours: '50.00'
 - date: 2/5/2025

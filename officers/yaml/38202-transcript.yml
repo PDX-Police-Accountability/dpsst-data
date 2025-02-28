@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/25/2025
+  course: PDS3082A
+  title: Underwater Navigation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

@@ -140,12 +140,6 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
-- date: 1/15/2025
-  course: OCS3755A
-  title: Marksmanship, December 2024 Firearms
-  status: Instructed
-  score: '0.0'
-  hours: '2.00'
 - date: 1/14/2025
   course: OCS1652A
   title: New Hire Shotgun Orientation

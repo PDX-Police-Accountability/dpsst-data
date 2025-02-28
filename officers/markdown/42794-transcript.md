@@ -50,7 +50,6 @@
 | 1/30/2025 | OCS2612A | January 2025 DT's and MILO | Instructed | 0.0 | 5.00 |
 | 1/29/2025 | OCS1617A | 2024 Makeup Firearms | Instructed | 0.0 | 4.00 |
 | 1/15/2025 | OCS3163A | Marksmanship, December 2024 Firearms | Instructed | 0.0 | 2.00 |
-| 1/15/2025 | OCS3755A | Marksmanship, December 2024 Firearms | Instructed | 0.0 | 2.00 |
 | 1/14/2025 | OCS1652A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 1/7/2025 | OCS3282A | 2025 FTU Instructor Course | Instructed | 0.0 | 20.00 |
 | 12/20/2024 | OCS1524A | Marksmanship, Movement, Use of Cover | Passed | 0.0 | 1.00 |
