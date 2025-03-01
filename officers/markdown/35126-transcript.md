@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 1/31/2023 | Portland Police Bureau | Retired | Criminalst |  |  |
+| 3/11/2023 | Portland Police Bureau | Retired | Criminalst |  |  |
 | 2/26/2021 | Portland Police Bureau | LOA | Criminalst |  |  |
 | 12/22/2015 | Portland Police Bureau | Return LOA | Criminalst |  |  |
 | 2/11/2015 | Portland Police Bureau | LOA | Criminalst |  |  |
@@ -21,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/1/2023 | Police Officer | Advanced | Lapsed-UR | 2/10/2012 | 1/31/2028 |  |
-| 5/1/2023 | Police Officer | Basic | Lapsed-UR | 11/3/1998 | 1/31/2028 |  |
-| 5/1/2023 | Police Officer | Intermediate | Lapsed-UR | 2/10/2012 | 1/31/2028 |  |
+| 6/11/2023 | Police Officer | Advanced | Lapsed-UR | 2/10/2012 | 3/11/2028 |  |
+| 6/11/2023 | Police Officer | Basic | Lapsed-UR | 11/3/1998 | 3/11/2028 |  |
+| 6/11/2023 | Police Officer | Intermediate | Lapsed-UR | 2/10/2012 | 3/11/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

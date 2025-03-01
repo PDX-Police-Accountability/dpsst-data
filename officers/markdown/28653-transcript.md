@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 2.00 |
+| 2/6/2025 | PDA2369 | The Ethics and Practice of Media Engagement | Passed | 0.0 | 1.00 |
 | 12/20/2024 | F1544309 | Equity: Nervous System Basics | Passed | 0.0 | 0.25 |
 | 12/20/2024 | F1538594 | Equity: Parasympathetic Activation | Passed | 0.0 | 0.25 |
 | 12/9/2024 | F1544685 | Equity: How to Regulate Nerv. Sys. | Passed | 0.0 | 0.25 |

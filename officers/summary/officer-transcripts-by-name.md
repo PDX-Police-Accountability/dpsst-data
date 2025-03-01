@@ -734,6 +734,7 @@
 | Graham, James R. | 62032 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-12-31 | [md](../markdown/62032-transcript.md) - [yaml](../yaml/62032-transcript.yml) |
 | Grahn, Kyle A. | 65666 | Portland Police Bureau | Active | Police Officer | Hired | 2024-10-10 | [md](../markdown/65666-transcript.md) - [yaml](../yaml/65666-transcript.yml) |
 | Gravel, Andrew K. | 54619 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2020-01-01 | [md](../markdown/54619-transcript.md) - [yaml](../yaml/54619-transcript.yml) |
+| Gray, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
 | Greaves, Wade P. | 34586 | Portland Police Bureau | Active | Criminalist | Promotion | 2014-01-09 | [md](../markdown/34586-transcript.md) - [yaml](../yaml/34586-transcript.yml) |
 | Green, Kyle L. | 50157 | Portland Police Bureau | Active | Police Officer | Hired | 2009-04-16 | [md](../markdown/50157-transcript.md) - [yaml](../yaml/50157-transcript.yml) |
 | Green, William D. | 52227 | Portland Police Bureau | Active | Police Officer | LOA | 2024-11-01 | [md](../markdown/52227-transcript.md) - [yaml](../yaml/52227-transcript.yml) |
@@ -862,7 +863,6 @@
 | Hughes, Heather R. | 32358 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-06-28 | [md](../markdown/32358-transcript.md) - [yaml](../yaml/32358-transcript.yml) |
 | Hughes, John K. | 45063 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-10-10 | [md](../markdown/45063-transcript.md) - [yaml](../yaml/45063-transcript.yml) |
 | Hughes, Michele M. | 36818 | Portland Police Bureau | Inactive | Sergeant | Retired | 2023-12-21 | [md](../markdown/36818-transcript.md) - [yaml](../yaml/36818-transcript.yml) |
-| Hughes, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
 | Hull, Darke P. | 37765 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2024-08-26 | [md](../markdown/37765-transcript.md) - [yaml](../yaml/37765-transcript.yml) |
 | Hunt, Jonathan N. | 39646 | Portland Police Bureau | Active | Detective | Promotion | 2012-09-27 | [md](../markdown/39646-transcript.md) - [yaml](../yaml/39646-transcript.yml) |
 | Hunter, Charles W. | 15710 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-09-01 | [md](../markdown/15710-transcript.md) - [yaml](../yaml/15710-transcript.yml) |
@@ -1133,7 +1133,7 @@
 | McGuire, Jeffrey D. | 38994 | Portland Police Bureau | Active | Police Officer | Hired | 2000-03-16 | [md](../markdown/38994-transcript.md) - [yaml](../yaml/38994-transcript.yml) |
 | McHugill, Steven N. | 24736 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-10-20 | [md](../markdown/24736-transcript.md) - [yaml](../yaml/24736-transcript.yml) |
 | McInnis, Roxanne E. | 48565 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2021-10-20 | [md](../markdown/48565-transcript.md) - [yaml](../yaml/48565-transcript.yml) |
-| McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-01-31 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
+| McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-03-11 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
 | McKay, RaeLynn D. | 52686 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/52686-transcript.md) - [yaml](../yaml/52686-transcript.yml) |
 | McKinlay, Jerami E. | 39934 | Portland Police Bureau | Active | Sergeant | Promotion | 2017-11-16 | [md](../markdown/39934-transcript.md) - [yaml](../yaml/39934-transcript.yml) |
 | McLeland, Michael C. | 29224 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1994-07-06 | [md](../markdown/29224-transcript.md) - [yaml](../yaml/29224-transcript.yml) |

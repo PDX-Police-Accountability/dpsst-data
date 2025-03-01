@@ -809,7 +809,7 @@
 | Green, William D. | 52227 | Portland Police Bureau | Active | Police Officer | LOA | 2024-11-01 | [md](../markdown/52227-transcript.md) - [yaml](../yaml/52227-transcript.yml) |
 | Emmons, Brett W. | 56132 | Portland Police Bureau | Active | Police Officer | LOA | 2024-10-01 | [md](../markdown/56132-transcript.md) - [yaml](../yaml/56132-transcript.yml) |
 | Young, Andrew K. | 57282 | Portland Police Bureau | Active | Police Officer | LOA | 2024-10-04 | [md](../markdown/57282-transcript.md) - [yaml](../yaml/57282-transcript.yml) |
-| Hughes, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
+| Gray, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
 | Roush, Kyle D. | 57758 | Portland Police Bureau | Active | Police Officer | LOA | 2024-06-01 | [md](../markdown/57758-transcript.md) - [yaml](../yaml/57758-transcript.yml) |
 | Morales, Nicholas D. | 59830 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-28 | [md](../markdown/59830-transcript.md) - [yaml](../yaml/59830-transcript.yml) |
 | Schultz, Alec R. | 61081 | Portland Police Bureau | Active | Police Officer | LOA | 2024-07-05 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
@@ -1667,7 +1667,7 @@
 | Harris, Jason A. | 34584 | Portland Police Bureau | Inactive | Detective | Retired | 2025-01-15 | [md](../markdown/34584-transcript.md) - [yaml](../yaml/34584-transcript.yml) |
 | Foster, Robert S. | 34671 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-12-07 | [md](../markdown/34671-transcript.md) - [yaml](../yaml/34671-transcript.yml) |
 | Maynard, Phillip J. | 34675 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-12-06 | [md](../markdown/34675-transcript.md) - [yaml](../yaml/34675-transcript.yml) |
-| McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-01-31 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
+| McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-03-11 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
 | Fulitano, John A. | 35225 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-06 | [md](../markdown/35225-transcript.md) - [yaml](../yaml/35225-transcript.yml) |
 | Gradwahl, Chad E. | 35226 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-18 | [md](../markdown/35226-transcript.md) - [yaml](../yaml/35226-transcript.yml) |
 | Merrill, Anthony J. | 35227 | Portland Police Bureau | Inactive | Detective | Retired | 2023-03-22 | [md](../markdown/35227-transcript.md) - [yaml](../yaml/35227-transcript.yml) |

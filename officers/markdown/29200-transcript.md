@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 3.00 |
+| 2/6/2025 | PDA2369 | The Ethics and Practice of Media Engagement | Passed | 0.0 | 1.00 |
 | 12/13/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2024 | OCA3392A | FBI BAU/VICAP | Passed | 0.0 | 7.00 |
 | 12/2/2024 | PDA2552A | Basic Handgun Skills  Qualification | Passed | 0.0 | 5.00 |

@@ -1409,7 +1409,6 @@
 | Ely, Michael A. | 63780 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63780-transcript.md) - [yaml](../yaml/63780-transcript.yml) |
 | Salem, Salem A. | 62818 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-20 | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
 | Surla, Harley L. | 59199 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-30 | [md](../markdown/59199-transcript.md) - [yaml](../yaml/59199-transcript.yml) |
-| McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-01-31 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
 | Wolf, Jason M. | 35396 | Portland Police Bureau | Active | Lieutenant | Promotion | 2023-02-02 | [md](../markdown/35396-transcript.md) - [yaml](../yaml/35396-transcript.yml) |
 | Tsukimura, Lance H. | 32308 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-02-07 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Tobey, Matthew S. | 34492 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-02-15 | [md](../markdown/34492-transcript.md) - [yaml](../yaml/34492-transcript.yml) |
@@ -1420,6 +1419,7 @@
 | Underwood-Zylak, Zachary J. | 63793 | Portland Police Bureau | Active | Police Officer | Hired | 2023-02-23 | [md](../markdown/63793-transcript.md) - [yaml](../yaml/63793-transcript.yml) |
 | Srisongkham, Kenny | 60813 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-03-03 | [md](../markdown/60813-transcript.md) - [yaml](../yaml/60813-transcript.yml) |
 | Brown, Michael R. | 63531 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-03-03 | [md](../markdown/63531-transcript.md) - [yaml](../yaml/63531-transcript.yml) |
+| McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-03-11 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
 | Vargas, Steve D. | 63876 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63876-transcript.md) - [yaml](../yaml/63876-transcript.yml) |
 | Park, Eunhyuk | 63952 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63952-transcript.md) - [yaml](../yaml/63952-transcript.yml) |
 | Hensleigh, Carson E. | 63981 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63981-transcript.md) - [yaml](../yaml/63981-transcript.yml) |
@@ -1668,7 +1668,7 @@
 | Camp, Jaidyn J. | 63354 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-08-25 | [md](../markdown/63354-transcript.md) - [yaml](../yaml/63354-transcript.yml) |
 | Hull, Darke P. | 37765 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2024-08-26 | [md](../markdown/37765-transcript.md) - [yaml](../yaml/37765-transcript.yml) |
 | Morales, Nicholas D. | 59830 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-28 | [md](../markdown/59830-transcript.md) - [yaml](../yaml/59830-transcript.yml) |
-| Hughes, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
+| Gray, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
 | Willard, Elizabeth A. | 28929 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-09-04 | [md](../markdown/28929-transcript.md) - [yaml](../yaml/28929-transcript.yml) |
 | Edwards, John M. | 32391 | Portland Police Bureau | Active | Sergeant | LOA | 2024-09-05 | [md](../markdown/32391-transcript.md) - [yaml](../yaml/32391-transcript.yml) |
 | Orr, Riagan F. | 64051 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-09-12 | [md](../markdown/64051-transcript.md) - [yaml](../yaml/64051-transcript.yml) |

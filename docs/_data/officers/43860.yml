@@ -40,12 +40,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 2/26/2025
+- status_date: 2/27/2025
   certificate: Police Officer
   level: Management
-  status: App Incmpl
-  certificate_date: ''
-  expiration_date: 4/26/2025
+  status: Granted
+  certificate_date: 2/27/2025
+  expiration_date: ''
   probation_date: ''
 - status_date: 8/1/2019
   certificate: Police Officer
@@ -4873,4 +4873,4 @@ education_records:
   degree: Bachelor Arts
   school: All Other Education Institutes
   major: ''
-  hours: '50.3'
+  hours: '201.2'

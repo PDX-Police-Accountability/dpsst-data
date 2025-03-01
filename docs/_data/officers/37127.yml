@@ -84,6 +84,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/26/2025
+  course: PDA2265
+  title: Use of Force update training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/6/2025
+  course: PDA2369
+  title: The Ethics and Practice of Media Engagement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/13/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

@@ -640,7 +640,7 @@
 | Toops, Mary A. | 34882 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-24 | [md](../markdown/34882-transcript.md) - [yaml](../yaml/34882-transcript.yml) |
 | Porath, Ryan D. | 34916 | Portland Police Bureau | Active | Police Officer | Hired | 2002-01-17 | [md](../markdown/34916-transcript.md) - [yaml](../yaml/34916-transcript.yml) |
 | Wrigley, Nicole R. | 35113 | Portland Police Bureau | Active | Civilian Employee | Hired | 2003-10-23 | [md](../markdown/35113-transcript.md) - [yaml](../yaml/35113-transcript.yml) |
-| McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-01-31 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
+| McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-03-11 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
 | Persons, Micah D. | 35127 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-03-05 | [md](../markdown/35127-transcript.md) - [yaml](../yaml/35127-transcript.yml) |
 | Wall, Donald E. | 35146 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2011-11-22 | [md](../markdown/35146-transcript.md) - [yaml](../yaml/35146-transcript.yml) |
 | Fulitano, John A. | 35225 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-06 | [md](../markdown/35225-transcript.md) - [yaml](../yaml/35225-transcript.yml) |
@@ -1357,7 +1357,7 @@
 | Brunelle, Tyler S. | 57447 | Portland Police Bureau | Active | Police Officer | Hired | 2017-05-25 | [md](../markdown/57447-transcript.md) - [yaml](../yaml/57447-transcript.yml) |
 | Lopez, Carlos, Jr. | 57448 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-06-08 | [md](../markdown/57448-transcript.md) - [yaml](../yaml/57448-transcript.yml) |
 | Horecki, Justin D. | 57450 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-04-19 | [md](../markdown/57450-transcript.md) - [yaml](../yaml/57450-transcript.yml) |
-| Hughes, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
+| Gray, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
 | Kelly, Mark B. | 57474 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-03-04 | [md](../markdown/57474-transcript.md) - [yaml](../yaml/57474-transcript.yml) |
 | DeAnda, James A. | 57476 | Portland Police Bureau | Active | Police Officer | Hired | 2017-07-09 | [md](../markdown/57476-transcript.md) - [yaml](../yaml/57476-transcript.yml) |
 | Wilson, Garret B. | 57489 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-10-01 | [md](../markdown/57489-transcript.md) - [yaml](../yaml/57489-transcript.yml) |

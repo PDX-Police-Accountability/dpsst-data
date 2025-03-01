@@ -44,6 +44,7 @@
 | 1/8/2025 | HBP0174A | Safe Evidence Handling | Passed | 0.0 | 1.00 |
 | 11/4/2024 | HBP3595A | Leadership Lessons Greatest Speeches in History | Passed | 0.0 | 16.00 |
 | 10/30/2024 | HBP1017A | LEDS Recertification or Initial Inquiry | Passed | 0.0 | 1.00 |
+| 9/5/2024 | HBP2428 | TruNarc Basic Operator Course | Passed | 0.0 | 2.00 |
 | 8/28/2024 | HBP0721A | Adult Sex Crimes, Exigent Phone Pings | Passed | 0.0 | 1.00 |
 | 8/28/2024 | HBP2931A | Tactical De-Escalation, Crisis Entry, Rescue | Passed | 0.0 | 6.00 |
 | 8/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

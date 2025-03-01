@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 3.00 |
+| 2/6/2025 | PDA2369 | The Ethics and Practice of Media Engagement | Passed | 0.0 | 1.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2024 | F1514181 | Ethics in Public Service | Passed | 0.0 | 0.50 |
 | 12/3/2024 | F1513283 | Policy Review: Code of Ethics | Passed | 0.0 | 0.50 |
