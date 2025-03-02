@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/18/2025 | MFN3712A | Low Light Shooting | Passed | 0.0 | 3.00 |
 | 2/13/2025 | EGN1953A | Oregon Case Management Network - Day 2 | Passed | 0.0 | 2.00 |
 | 2/12/2025 | EGN3814A | Gender Responsive Supervision Network | Passed | 0.0 | 4.00 |
 | 2/12/2025 | EGN1525A | Oregon Case Management Network - Day 1 | Passed | 0.0 | 4.00 |

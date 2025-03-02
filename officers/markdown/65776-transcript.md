@@ -30,6 +30,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 1/20/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 1/16/2025 | PDP1794 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
+| 1/16/2025 | PDP2310A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 1/15/2025 | PDP0956A | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 1/14/2025 | PDP4537A | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 1/7/2025 | PDP4284A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

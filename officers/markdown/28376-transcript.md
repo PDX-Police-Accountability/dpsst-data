@@ -43,7 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/10/2025 | PDP4370A | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
-| 12/13/2024 | PDP1772A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 12/13/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2024 | PDP0165A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
 | 12/3/2024 | PDP4558A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

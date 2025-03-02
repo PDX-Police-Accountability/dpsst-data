@@ -24,7 +24,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/28/2023 | 4/28/2025 |
-| Certification Cards | First Aid and CPR | 1/11/2023 | 1/11/2025 |
 | Code of Ethics | Law Enforcement Signed | 11/22/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
 ## Education
@@ -37,7 +36,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/10/2025 | PDP4370A | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
-| 12/13/2024 | PDP1772A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 12/13/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 11/28/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 11/28/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

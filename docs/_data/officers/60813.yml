@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/25/2025
+  course: OSH2822
+  title: Chainsaw Operator
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/19/2024
   course: OSH2372A
   title: 3rd Trimester Firearms

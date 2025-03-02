@@ -50,7 +50,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
-| 1/29/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 1/29/2025 | RRP1564A | Oregon Immigration Enforcement Laws | Passed | 0.0 | 1.00 |
 | 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |
 | 1/9/2025 | OAC2452A | Crisis Leadership Navigating HighStakes Situation | Passed | 0.0 | 3.50 |

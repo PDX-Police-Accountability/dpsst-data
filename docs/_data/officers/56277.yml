@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/19/2025
+  course: CAP2865A
+  title: CPR / First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/27/2025
   course: CAP4265A
   title: First Aid / CPR Adult  Child
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/8/2025
+  course: CAP1723A
+  title: Taser 10 Instructor Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/18/2024
   course: CAP4227A
   title: Night Shoot - Patrol Rifle

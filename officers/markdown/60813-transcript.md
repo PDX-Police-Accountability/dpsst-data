@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/25/2025 | OSH2822 | Chainsaw Operator | Passed | 0.0 | 4.00 |
 | 12/19/2024 | OSH2372A | 3rd Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 12/13/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/6/2024 | OSH4406A | Heart and Spirit of Tribal Consultation | Passed | 0.0 | 1.75 |

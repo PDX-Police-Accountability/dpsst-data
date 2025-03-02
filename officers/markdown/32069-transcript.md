@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/26/2025 | SDP3225A | TASER Annual Recertification 4hr | Passed | 0.0 | 4.00 |
+| 2/26/2025 | SDP3341A | Defensive Tactics - Control and Escapes | Passed | 0.0 | 1.00 |
 | 1/15/2025 | SDP0679A | Bloodborne Pathogens Training | Passed | 0.0 | 1.00 |
 | 1/15/2025 | SDP0631A | CPR Adult, Child, Infant Plus First Aid | Passed | 0.0 | 4.00 |
 | 1/15/2025 | SDP1609A | WRAP Refresher | Passed | 0.0 | 1.00 |

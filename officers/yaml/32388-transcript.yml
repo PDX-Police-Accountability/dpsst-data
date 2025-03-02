@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/19/2025
+  course: GSP4035A
+  title: Firearms Training/IED Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/17/2025
   course: GSP0641A
   title: SWAT Sniper Range - Night

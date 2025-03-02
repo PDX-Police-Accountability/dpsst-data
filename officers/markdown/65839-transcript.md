@@ -56,3 +56,6 @@
 | 12/9/2024 | PDP2173A | 2023-1  2 CAO Legal Updates for 01  02/2023 | Passed | 0.0 | 0.25 |
 | 11/26/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 11/26/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 3/7/2024 | PDP1042A | IS-700 Intro to National Incident Managment System | Passed | 0.0 | 4.00 |
+| 3/4/2024 | PDP2310A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 2/19/2024 | PDP1794 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

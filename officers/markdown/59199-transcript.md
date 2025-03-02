@@ -33,7 +33,6 @@
 | Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
 | Certification Cards | First Aid and CPR | 7/25/2023 | 7/25/2025 |
 | Code of Ethics | Law Enforcement Signed | 7/6/2023 |  |
-| Certification Cards | First Aid and CPR | 2/16/2023 | 2/16/2025 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 4/24/2019 |  |
 ## Education

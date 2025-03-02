@@ -66,6 +66,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/20/2024
+  course: PDP1794
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/20/2024
+  course: PDP2310A
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/16/2025
+  course: PDP3651A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 12/26/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video
@@ -829,6 +835,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/16/2025
+  expiration_date: 2/16/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
@@ -845,8 +855,4 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 2/20/2023
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/15/2023
-  expiration_date: 2/15/2025
 education_records: []

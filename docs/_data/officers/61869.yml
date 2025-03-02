@@ -210,6 +210,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/15/2023
+  course: PDP2003A
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/18/2021
   course: M40-21A
   title: DPSST Basic Telecommunicator Course

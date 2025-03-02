@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2025 | BNS3186A | Building Clearing/Prep for Retirement | Passed | 0.0 | 3.00 |
 | 1/25/2025 | BNS4361A | Patrol Tactics | Passed | 0.0 | 1.00 |
 | 1/20/2025 | BNS1644A | Building Search | Passed | 0.0 | 2.00 |
 | 1/6/2025 | BNS1907A | TCCC | Passed | 0.0 | 4.00 |

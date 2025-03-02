@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2025
+  course: REG3558A
+  title: Field Training and Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 1/15/2025
   course: WLP3943A
   title: Respectful Workplace
@@ -73,12 +79,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 10/23/2024
-  course: BPT2949A
-  title: Field Training and Evaluation
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
 - date: 10/19/2024
   course: WLP1453A
   title: WLPD EVOC / Patrol Tactics

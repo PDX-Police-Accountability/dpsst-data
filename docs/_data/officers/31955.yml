@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/19/2025
+  course: CAP2865A
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/27/2025
   course: CAP4265A
   title: First Aid / CPR Adult  Child
@@ -4579,10 +4585,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/1/2023
-  expiration_date: 2/1/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/6/2011

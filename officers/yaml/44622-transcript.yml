@@ -63,12 +63,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 2/10/2025
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 2/10/2025
   course: BPT3380A
   title: 'STOP Program: Data Collection on the Road'
   status: Passed

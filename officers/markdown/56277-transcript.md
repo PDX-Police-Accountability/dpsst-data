@@ -42,8 +42,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/19/2025 | CAP2865A | CPR / First Aid | Instructed | 0.0 | 8.00 |
 | 1/27/2025 | CAP4265A | First Aid / CPR Adult  Child | Passed | 0.0 | 1.00 |
 | 1/22/2025 | CAP3093A | Annual Handgun Qualifications and Fundamentals | Passed | 0.0 | 2.00 |
+| 1/8/2025 | CAP1723A | Taser 10 Instructor Certification Course | Passed | 0.0 | 8.00 |
 | 12/18/2024 | CAP4227A | Night Shoot - Patrol Rifle | Instructed | 0.0 | 4.00 |
 | 11/20/2024 | CAP0542A | Handgun Night Shoot | Instructed | 0.0 | 4.00 |
 | 11/6/2024 | CAP0944A | Handgun Night Shoot | Instructed | 0.0 | 4.00 |

@@ -466,8 +466,4 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/23/2023
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/18/2023
-  expiration_date: 1/18/2025
 education_records: []

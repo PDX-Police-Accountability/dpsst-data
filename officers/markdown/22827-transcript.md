@@ -47,7 +47,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/29/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 1/29/2025 | RRP1564A | Oregon Immigration Enforcement Laws | Passed | 0.0 | 1.00 |
 | 10/19/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
 | 10/19/2024 | HSU2048A | Fall In-Service 2024 PVO | Passed | 0.0 | 2.50 |
