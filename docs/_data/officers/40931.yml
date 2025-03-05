@@ -70,11 +70,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/28/2025
+- status_date: 3/3/2025
   certificate: Police Officer
   level: Executive
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 3/3/2025
   expiration_date: ''
   probation_date: ''
 - status_date: 6/22/2021

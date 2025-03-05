@@ -4165,10 +4165,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/15/2025
   expiration_date: 1/15/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/20/2023
-  expiration_date: 4/20/2025
 education_records:
 - date: 12/22/1995
   degree: Bachelor of General Studies

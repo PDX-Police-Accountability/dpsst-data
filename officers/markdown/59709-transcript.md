@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2025 | BNP1169A | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 2/11/2025 | BNP0912A | UAS Monthly Training | Passed | 0.0 | 6.50 |
 | 2/8/2025 | BNP3111A | Firearm malfunction / Immediate Action Drills | Passed | 0.0 | 0.50 |
 | 1/27/2025 | BNP1420A | First Aid and Adult/ Child CPR | Passed | 0.0 | 2.00 |

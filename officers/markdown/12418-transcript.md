@@ -122,7 +122,7 @@
 | 4/11/2018 | F6B15027 | Las Vegas Metro PD "Lessons Learned from Las | Passed | 0.0 | 2.00 |
 | 3/31/2018 | BBP09551 | Civil Rights Training | Passed | 0.0 | 4.00 |
 | 2/28/2018 | F6B04765 | OACP Small Agencies Conference | Passed | 0.0 | 10.00 |
-| 2/28/2018 | BBP05043 | Bloodbourne Pathogens | Passed | 0.0 | 1.00 |
+| 2/28/2018 | BBP05043 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/31/2018 | BBP36499 | Active Shooter | Passed | 0.0 | 2.00 |
 | 12/31/2017 | BBP02142 | Lexipol Daily Training Bulletins | Passed | 0.0 | 18.00 |
 | 12/31/2017 | BBP42581 | Search and Seizure | Passed | 0.0 | 6.00 |
@@ -158,7 +158,7 @@
 | 12/31/2016 | BBP03713 | OC Spray Training | Passed | 0.0 | 1.00 |
 | 12/31/2016 | BBP24873 | Officer Survival | Passed | 0.0 | 5.00 |
 | 11/30/2016 | BBP38987 | BloodBorne Pathogens Training | Passed | 0.0 | 2.00 |
-| 11/30/2016 | BBP27004 | Blood Borne Pathogens and PPE | Passed | 0.0 | 1.00 |
+| 11/30/2016 | BBP27004 | Bloodborne Pathogens and PPE | Passed | 0.0 | 1.00 |
 | 11/30/2016 | BBP32309 | Hazardous Materials Training | Passed | 0.0 | 2.00 |
 | 11/30/2016 | BBP28346 | Cultural Diversity | Passed | 0.0 | 1.00 |
 | 11/30/2016 | BBP40551 | Ethics | Passed | 0.0 | 1.00 |
@@ -167,7 +167,7 @@
 | 10/31/2016 | BBP39328 | Mental Preparedness/Ambush/Off-Duty Safety | Passed | 0.0 | 3.00 |
 | 10/31/2016 | BBP40665 | Anti-Bias Training | Passed | 0.0 | 1.00 |
 | 9/30/2016 | BBP24137 | Alzheimer's Training | Passed | 0.0 | 1.00 |
-| 9/30/2016 | BBP00754 | Excited Delerium Training | Passed | 0.0 | 1.00 |
+| 9/30/2016 | BBP00754 | Excited Delirium Training | Passed | 0.0 | 1.00 |
 | 9/30/2016 | BBP29840 | Suicide Prevention Training | Passed | 0.0 | 2.00 |
 | 9/29/2016 | F6A02480 | OACP/OSSA Fall Leadership Conference | Passed | 0.0 | 8.00 |
 | 9/28/2016 | F6A02479 | OACP/OSSA Fall Leadership Conference | Passed | 0.0 | 4.00 |

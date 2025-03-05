@@ -101,7 +101,7 @@ training_records:
   hours: '2.00'
 - date: 10/9/2024
   course: BBP2605A
-  title: Pistol/rifle qualification and tactical range
+  title: Pistol/Rifle Qualification and Tactical Range
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -137,7 +137,7 @@ training_records:
   hours: '1.00'
 - date: 3/31/2024
   course: BBP4228A
-  title: Airborne and Bloodbourne Pathogens
+  title: Airborne and Bloodborne Pathogens
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -359,7 +359,7 @@ training_records:
   hours: '0.00'
 - date: 2/1/2023
   course: BBP1367A
-  title: Airbourne and Bloodbourne Pathogens
+  title: Airborne and Bloodborne Pathogens
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -539,7 +539,7 @@ training_records:
   hours: '1.00'
 - date: 10/22/2021
   course: BBP30840
-  title: Skid Car training
+  title: Skid Car Training
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -743,7 +743,7 @@ training_records:
   hours: '3.50'
 - date: 5/31/2020
   course: BBP22012
-  title: Excited Delerium
+  title: Excited Delirium
   status: Passed
   score: '0.0'
   hours: '1.00'

@@ -124,13 +124,13 @@ training_records:
   hours: '1.50'
 - date: 10/18/2024
   course: ADP2035A
-  title: TASER 10 Certification
+  title: Taser 10 Certification
   status: Instructed
   score: '0.0'
   hours: '6.00'
 - date: 10/18/2024
   course: ADP1083A
-  title: TASER Annual Recertification
+  title: Taser Annual Recertification
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -316,7 +316,7 @@ training_records:
   hours: '1.00'
 - date: 11/7/2023
   course: ADP1302A
-  title: Night Range-Handgun-Rifle
+  title: 'Night Range: Handgun/Rifle'
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -622,7 +622,7 @@ training_records:
   hours: '0.75'
 - date: 9/28/2022
   course: ADP01784
-  title: Adult Child Infant C.A.R.E. CPR, AED, First Aid
+  title: Adult/Child/Infant C.A.R.E. CPR, AED, First Aid
   status: Passed
   score: '0.0'
   hours: '2.50'
@@ -958,7 +958,7 @@ training_records:
   hours: '4.00'
 - date: 7/22/2021
   course: ADP12587
-  title: Firearm Quals-Rifle, Shotgun, Duty/Off Duty
+  title: 'Firearm Quals: Rifle, Shotgun, Duty/Off Duty'
   status: Passed
   score: '0.0'
   hours: '1.00'

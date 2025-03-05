@@ -51,8 +51,8 @@
 | 11/17/2024 | TAP3795A | IssueUpdateHB4002OSPtrainingPossessionLawsGuide | Passed | 0.0 | 0.50 |
 | 11/15/2024 | ADP0220A | Night Pistol and Shotgun | Passed | 0.0 | 4.00 |
 | 10/30/2024 | TAP0790A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
-| 10/18/2024 | ADP2035A | TASER 10 Certification | Instructed | 0.0 | 6.00 |
-| 10/18/2024 | ADP1083A | TASER Annual Recertification | Passed | 0.0 | 2.00 |
+| 10/18/2024 | ADP2035A | Taser 10 Certification | Instructed | 0.0 | 6.00 |
+| 10/18/2024 | ADP1083A | Taser Annual Recertification | Passed | 0.0 | 2.00 |
 | 10/9/2024 | TAP3344A | Pipeline Emergency Response Training | Passed | 0.0 | 1.00 |
 | 10/8/2024 | TAP3464A | Terry Stops and Patdowns | Passed | 0.0 | 1.00 |
 | 10/1/2024 | TAP0117A | Willamette Law Online 2024 OR Law Updates | Passed | 0.0 | 1.00 |
@@ -83,7 +83,7 @@
 | 2/9/2024 | ADP3715A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |
 | 12/4/2023 | TAP2099A | Mock Trial Training | Passed | 0.0 | 4.00 |
 | 11/7/2023 | TAP4029A | Understanding and Responding to Excited Delirium | Passed | 0.0 | 1.00 |
-| 11/7/2023 | ADP1302A | Night Range-Handgun-Rifle | Passed | 0.0 | 4.00 |
+| 11/7/2023 | ADP1302A | Night Range: Handgun/Rifle | Passed | 0.0 | 4.00 |
 | 10/17/2023 | TAP1238A | 9th Circuit Court of Appeals Update Willamette Law | Passed | 0.0 | 0.75 |
 | 9/27/2023 | TAP1338A | TASER 7 Annual Recert | Instructed | 0.0 | 1.00 |
 | 9/26/2023 | TAP3156A | Active Threat Mass Casualty Reunification | Passed | 0.0 | 6.00 |
@@ -134,7 +134,7 @@
 | 10/5/2022 | TAP34836 | De-escalation Strategies and Techniques | Passed | 0.0 | 0.00 |
 | 10/2/2022 | TAP23191 | WLO Oregon Supreme Court Updates October 2 2022 | Passed | 0.0 | 0.75 |
 | 9/29/2022 | TAP27813 | Case Law Darius Thompson | Passed | 0.0 | 0.75 |
-| 9/28/2022 | ADP01784 | Adult Child Infant C.A.R.E. CPR, AED, First Aid | Passed | 0.0 | 2.50 |
+| 9/28/2022 | ADP01784 | Adult/Child/Infant C.A.R.E. CPR, AED, First Aid | Passed | 0.0 | 2.50 |
 | 9/27/2022 | TAP14109 | OR DOJ Bias Crimes and Incidents FayStetz Waters | Passed | 0.0 | 1.00 |
 | 9/27/2022 | TAP36759 | Killer High The Silent Crisis | Passed | 0.0 | 0.75 |
 | 9/27/2022 | TAP19316 | Oregon CIT Newsletter SpringWinter 2022 | Passed | 0.0 | 0.50 |
@@ -190,7 +190,7 @@
 | 8/11/2021 | TAP18419 | Wildfire Smoke Training Requirements | Passed | 0.0 | 1.00 |
 | 8/4/2021 | TAP23423 | ETHOS Adaptive Ethics Program | Passed | 0.0 | 6.00 |
 | 7/28/2021 | MFS24800 | SFST DUII Refresher | Passed | 0.0 | 4.00 |
-| 7/22/2021 | ADP12587 | Firearm Quals-Rifle, Shotgun, Duty/Off Duty | Passed | 0.0 | 1.00 |
+| 7/22/2021 | ADP12587 | Firearm Quals: Rifle, Shotgun, Duty/Off Duty | Passed | 0.0 | 1.00 |
 | 7/22/2021 | ADP36624 | Firearm Qualifications - Duty, Shotgun,  Off Duty | Passed | 0.0 | 1.00 |
 | 7/16/2021 | TAP18220 | Community Policing Training Online | Passed | 0.0 | 8.00 |
 | 7/16/2021 | TAP14609 | Excited Delirium Signs and Preparation | Passed | 0.0 | 0.50 |

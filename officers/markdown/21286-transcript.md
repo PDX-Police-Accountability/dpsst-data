@@ -44,13 +44,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | BBP2076A | Use of Force course #UOFC101 Police One Academy | Passed | 0.0 | 2.00 |
-| 10/9/2024 | BBP2605A | Pistol/rifle qualification and tactical range | Passed | 0.0 | 1.00 |
+| 10/9/2024 | BBP2605A | Pistol/Rifle Qualification and Tactical Range | Passed | 0.0 | 1.00 |
 | 10/2/2024 | BBP1969A | 9th Circuit Court Review/Las Vegas Case | Passed | 0.0 | 1.00 |
 | 4/30/2024 | BBP1189A | First Aid/CPR/AED/Chest Seal Application | Passed | 0.0 | 1.50 |
 | 4/30/2024 | BBP3608A | Diabetic Emergencies | Passed | 0.0 | 1.00 |
 | 4/30/2024 | BBP1844A | Naloxone | Passed | 0.0 | 1.00 |
 | 4/30/2024 | BBP1110A | Opioid Crisis | Passed | 0.0 | 1.00 |
-| 3/31/2024 | BBP4228A | Airborne and Bloodbourne Pathogens | Passed | 0.0 | 1.00 |
+| 3/31/2024 | BBP4228A | Airborne and Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 3/31/2024 | BBP3221A | Cyber Security | Passed | 0.0 | 1.00 |
 | 3/31/2024 | BBP4005A | De-escalation and Minimizing Use of Force | Passed | 0.0 | 1.00 |
 | 3/21/2024 | BBP2059A | Pistol Qualification and Tactical Range | Passed | 0.0 | 0.50 |
@@ -87,7 +87,7 @@
 | 3/1/2023 | BBP4424A | Community Policing | Passed | 0.0 | 2.00 |
 | 2/28/2023 | BBP02130 | Firearms Training/Qualification | Passed | 0.0 | 1.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 2/1/2023 | BBP1367A | Airbourne and Bloodbourne Pathogens | Passed | 0.0 | 1.00 |
+| 2/1/2023 | BBP1367A | Airborne and Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/1/2023 | BBP3940A | Ambush Awareness and Preparedness | Passed | 0.0 | 1.00 |
 | 2/1/2023 | BBP3867A | Prison Rape Elimination Act | Passed | 0.0 | 1.00 |
 | 12/30/2022 | BBP38345 | Suspects in Medical Distress | Passed | 0.0 | 1.00 |
@@ -117,7 +117,7 @@
 | 11/30/2021 | BBP44260 | Use of Force | Passed | 0.0 | 2.00 |
 | 10/30/2021 | BBP37078 | Hate Crimes | Passed | 0.0 | 1.00 |
 | 10/30/2021 | BBP26511 | Generational Differences | Passed | 0.0 | 1.00 |
-| 10/22/2021 | BBP30840 | Skid Car training | Passed | 0.0 | 0.50 |
+| 10/22/2021 | BBP30840 | Skid Car Training | Passed | 0.0 | 0.50 |
 | 9/30/2021 | BBP40622 | Sexual Harrassment | Passed | 0.0 | 1.00 |
 | 9/30/2021 | BBP16924 | Anti Bias, Implicit Bias | Passed | 0.0 | 2.00 |
 | 5/30/2021 | BBP33902 | Hostage Negotiations | Passed | 0.0 | 2.00 |
@@ -151,7 +151,7 @@
 | 7/14/2020 | BPT41897 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 6/30/2020 | BBP32643 | Ethics Training | Passed | 0.0 | 1.00 |
 | 6/3/2020 | BBP28961 | CPR/First AID/AED Recert | Passed | 0.0 | 3.50 |
-| 5/31/2020 | BBP22012 | Excited Delerium | Passed | 0.0 | 1.00 |
+| 5/31/2020 | BBP22012 | Excited Delirium | Passed | 0.0 | 1.00 |
 | 5/31/2020 | BBP35790 | Suicide by Cop | Passed | 0.0 | 1.00 |
 | 5/31/2019 | MISCMAIN | 2018 LE Annula Required Maintenance | Completed | 0.0 | 0.00 |
 | 5/3/2019 | SMS12254 | Marion County CIT | Passed | 0.0 | 1.00 |

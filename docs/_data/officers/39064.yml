@@ -68,12 +68,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 11/25/2025
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 2/3/2025
   course: TDP2754A
   title: Bloodborne Pathogens 2025

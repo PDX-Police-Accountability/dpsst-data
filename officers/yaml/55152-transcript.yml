@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/26/2025
+  course: VND4176A
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/12/2025
   course: PDP3300A
   title: 2025 CNT Crisis Negotiation Team Annual Training

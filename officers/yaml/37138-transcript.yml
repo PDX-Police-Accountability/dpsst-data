@@ -28,26 +28,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/17/2008
+- status_date: 2/12/2025
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 12/17/2008
-  expiration_date: 2/12/2025
+  expiration_date: 11/12/2029
   probation_date: ''
-- status_date: 12/17/2008
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 12/17/2008
-  expiration_date: 2/12/2025
-  probation_date: ''
-- status_date: 3/14/2000
+- status_date: 2/12/2025
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 3/14/2000
-  expiration_date: 2/12/2025
+  expiration_date: 11/12/2029
+  probation_date: ''
+- status_date: 2/12/2025
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 12/17/2008
+  expiration_date: 11/12/2029
   probation_date: ''
 training_records:
 - date: 7/23/2024
@@ -5259,14 +5259,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/16/2023

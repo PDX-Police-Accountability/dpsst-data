@@ -34,40 +34,40 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 2/8/2024
-  certificate: Police Officer
-  level: Management
-  status: Granted
-  certificate_date: 2/8/2024
-  expiration_date: 2/14/2025
-  probation_date: ''
-- status_date: 9/22/2011
-  certificate: Police Officer
-  level: Supervisory
-  status: Granted
-  certificate_date: 9/22/2011
-  expiration_date: 2/14/2025
-  probation_date: ''
-- status_date: 9/19/2011
+- status_date: 2/14/2025
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 9/19/2011
-  expiration_date: 2/14/2025
+  expiration_date: 11/14/2029
   probation_date: ''
-- status_date: 9/19/2011
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 9/19/2011
-  expiration_date: 2/14/2025
-  probation_date: ''
-- status_date: 7/16/1996
+- status_date: 2/14/2025
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 7/16/1996
-  expiration_date: 2/14/2025
+  expiration_date: 11/14/2029
+  probation_date: ''
+- status_date: 2/14/2025
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 9/19/2011
+  expiration_date: 11/14/2029
+  probation_date: ''
+- status_date: 2/14/2025
+  certificate: Police Officer
+  level: Management
+  status: Lapsed
+  certificate_date: 2/8/2024
+  expiration_date: 11/14/2029
+  probation_date: ''
+- status_date: 2/14/2025
+  certificate: Police Officer
+  level: Supervisory
+  status: Lapsed
+  certificate_date: 9/22/2011
+  expiration_date: 11/14/2029
   probation_date: ''
 training_records:
 - date: 10/17/2024
@@ -5165,14 +5165,6 @@ training_records:
   score: '0.0'
   hours: '30.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/16/2023

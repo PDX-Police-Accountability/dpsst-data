@@ -98,7 +98,7 @@
 | 6/27/2024 | REG3422A | Striking/Ground Control | Passed | 0.0 | 1.00 |
 | 6/27/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/27/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
-| 6/24/2024 | REG3516A | Two-on-one Ground Control | Passed | 0.0 | 1.00 |
+| 6/24/2024 | REG3516A | Two-On-One Ground Control | Passed | 0.0 | 1.00 |
 | 6/20/2024 | REG1568A | Team Takedown, Ground Control | Passed | 0.0 | 1.00 |
 | 6/20/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/14/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
@@ -238,10 +238,10 @@
 | 9/27/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/16/2022 | REG19344 | Take downs and Defending Back Control | Passed | 0.0 | 1.00 |
-| 8/22/2022 | REG27088 | Strike defense, Body lock takedown | Passed | 0.0 | 1.00 |
+| 8/22/2022 | REG27088 | Strike Defense: Body Lock Takedown | Passed | 0.0 | 1.00 |
 | 8/17/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/17/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
-| 8/15/2022 | REG34517 | Body lock take down, Cross side top control | Passed | 0.0 | 1.00 |
+| 8/15/2022 | REG34517 | Body Lock Take Down, Cross Side Top Control | Passed | 0.0 | 1.00 |
 | 8/12/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/12/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 8/12/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
@@ -260,13 +260,13 @@
 | 7/8/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/7/2022 | REG16331 | Collar tie, single leg, knee on hip | Passed | 0.0 | 1.00 |
 | 7/6/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
-| 6/30/2022 | REG30867 | Grip fighting, posture control, getting up | Passed | 0.0 | 1.00 |
+| 6/30/2022 | REG30867 | Grip Fighting, Posture Control, Getting Up | Passed | 0.0 | 1.00 |
 | 6/3/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/3/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/3/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/26/2022 | PDP03081 | Certified Fraud Examiner Exam Review Course | Passed | 0.0 | 38.00 |
 | 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
-| 5/9/2022 | REG33384 | Take down 1  2 officers, ground mobility | Passed | 0.0 | 1.00 |
+| 5/9/2022 | REG33384 | Take Down 1  2 Officers, Ground Mobility | Passed | 0.0 | 1.00 |
 | 5/5/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 5/5/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/29/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |

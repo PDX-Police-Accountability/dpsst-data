@@ -287,7 +287,7 @@ training_records:
   hours: '4.00'
 - date: 6/24/2024
   course: REG3516A
-  title: Two-on-one Ground Control
+  title: Two-On-One Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1061,13 +1061,13 @@ training_records:
   hours: '2.00'
 - date: 8/22/2022
   course: REG27088
-  title: Strike defense, Body lock takedown
+  title: 'Strike Defense: Body Lock Takedown'
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 8/15/2022
   course: REG34517
-  title: Body lock take down, Cross side top control
+  title: Body Lock Take Down, Cross Side Top Control
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1133,7 +1133,7 @@ training_records:
   hours: '1.00'
 - date: 5/26/2022
   course: REG28407
-  title: Striking and weapon retention
+  title: Striking and Weapon Retention
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1145,7 +1145,7 @@ training_records:
   hours: '1.00'
 - date: 5/19/2022
   course: REG33517
-  title: DT Strike defense, 2 officer ground contol
+  title: DT Strike Defense, 2 Officer Ground Contol
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1163,13 +1163,13 @@ training_records:
   hours: '1.00'
 - date: 5/12/2022
   course: REG27497
-  title: DT Lead arm control
+  title: DT Lead Arm Control
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 5/9/2022
   course: REG33384
-  title: Take down 1  2 officers, ground mobility
+  title: Take Down 1  2 Officers, Ground Mobility
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1205,7 +1205,7 @@ training_records:
   hours: '1.00'
 - date: 4/11/2022
   course: REG30849
-  title: Control tactics- Posture control and recovery
+  title: Control tactics- Posture Control and Recovery
   status: Passed
   score: '0.0'
   hours: '1.00'

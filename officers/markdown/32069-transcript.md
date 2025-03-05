@@ -75,7 +75,7 @@
 | 7/8/2024 | REG3252A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 7/1/2024 | REG3883A | DT | Passed | 0.0 | 1.00 |
 | 6/26/2024 | SDP4192A | In-Service Taser 7 Refresher | Passed | 0.0 | 4.00 |
-| 6/24/2024 | REG3516A | Two-on-one Ground Control | Passed | 0.0 | 1.00 |
+| 6/24/2024 | REG3516A | Two-On-One Ground Control | Passed | 0.0 | 1.00 |
 | 6/6/2024 | REG3689A | DT | Passed | 0.0 | 1.00 |
 | 6/3/2024 | REG4072A | DT | Passed | 0.0 | 1.00 |
 | 5/13/2024 | REG2508A | DT | Passed | 0.0 | 1.00 |
@@ -204,8 +204,8 @@
 | 8/24/2022 | SDP37199 | Stop Stick Training | Passed | 0.0 | 1.00 |
 | 8/24/2022 | SDP29859 | MHRT CIT Clinician and Officer Review | Passed | 0.0 | 2.00 |
 | 8/24/2022 | SDP37495 | The Wrap- Restraints Training | Passed | 0.0 | 2.00 |
-| 8/22/2022 | REG27088 | Strike defense, Body lock takedown | Passed | 0.0 | 1.00 |
-| 8/15/2022 | REG34517 | Body lock take down, Cross side top control | Passed | 0.0 | 1.00 |
+| 8/22/2022 | REG27088 | Strike Defense: Body Lock Takedown | Passed | 0.0 | 1.00 |
+| 8/15/2022 | REG34517 | Body Lock Take Down, Cross Side Top Control | Passed | 0.0 | 1.00 |
 | 8/8/2022 | REG35338 | 1/2 Guard Bottom Positional Control, Grip Fighting | Passed | 0.0 | 1.00 |
 | 7/28/2022 | BPT43449 | Weapon Retention, Weapon Control | Passed | 0.0 | 1.00 |
 | 7/25/2022 | BPT13873 | Ground Positional Control | Passed | 0.0 | 1.00 |
@@ -216,19 +216,19 @@
 | 7/13/2022 | SDP04921 | MHRT training - behvioral  cognitive disabilities | Passed | 0.0 | 1.00 |
 | 7/13/2022 | SDP26655 | PREA Training | Passed | 0.0 | 1.00 |
 | 7/7/2022 | REG16331 | Collar tie, single leg, knee on hip | Passed | 0.0 | 1.00 |
-| 5/26/2022 | REG28407 | Striking and weapon retention | Passed | 0.0 | 1.00 |
+| 5/26/2022 | REG28407 | Striking and Weapon Retention | Passed | 0.0 | 1.00 |
 | 5/23/2022 | REG11074 | Limb control and weapon retention standing, ground | Passed | 0.0 | 1.00 |
-| 5/19/2022 | REG33517 | DT Strike defense, 2 officer ground contol | Passed | 0.0 | 1.00 |
+| 5/19/2022 | REG33517 | DT Strike Defense, 2 Officer Ground Contol | Passed | 0.0 | 1.00 |
 | 5/18/2022 | SDP38366 | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
-| 5/12/2022 | REG27497 | DT Lead arm control | Passed | 0.0 | 1.00 |
-| 5/9/2022 | REG33384 | Take down 1  2 officers, ground mobility | Passed | 0.0 | 1.00 |
+| 5/12/2022 | REG27497 | DT Lead Arm Control | Passed | 0.0 | 1.00 |
+| 5/9/2022 | REG33384 | Take Down 1  2 Officers, Ground Mobility | Passed | 0.0 | 1.00 |
 | 5/5/2022 | REG24707 | Ground Control | Passed | 0.0 | 1.00 |
 | 4/20/2022 | SDP10712 | Bloodborne Pathogens and Hazardous Materials | Passed | 0.0 | 2.00 |
 | 4/18/2022 | REG05790 | DT controlling base and recovering base | Passed | 0.0 | 1.00 |
 | 4/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/14/2022 | REG11755 | Control tactics- Structure control and recovery | Passed | 0.0 | 1.00 |
-| 4/11/2022 | REG30849 | Control tactics- Posture control and recovery | Passed | 0.0 | 1.00 |
+| 4/11/2022 | REG30849 | Control tactics- Posture Control and Recovery | Passed | 0.0 | 1.00 |
 | 4/7/2022 | REG03632 | Grip fighting, 2 officer take down, wrestle up | Passed | 0.0 | 1.00 |
 | 4/4/2022 | REG13487 | Take down defense and strikes from the ground | Passed | 0.0 | 1.00 |
 | 3/24/2022 | REG06411 | Ground strike defense | Passed | 0.0 | 1.00 |

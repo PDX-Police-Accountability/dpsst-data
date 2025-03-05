@@ -594,7 +594,7 @@ training_records:
   hours: '10.00'
 - date: 2/28/2018
   course: BBP05043
-  title: Bloodbourne Pathogens
+  title: Bloodborne Pathogens
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -810,7 +810,7 @@ training_records:
   hours: '2.00'
 - date: 11/30/2016
   course: BBP27004
-  title: Blood Borne Pathogens and PPE
+  title: Bloodborne Pathogens and PPE
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -864,7 +864,7 @@ training_records:
   hours: '1.00'
 - date: 9/30/2016
   course: BBP00754
-  title: Excited Delerium Training
+  title: Excited Delirium Training
   status: Passed
   score: '0.0'
   hours: '1.00'
