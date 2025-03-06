@@ -5,13 +5,14 @@
 | dpsst_identifier | 49709 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Captain |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/3/2025 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 5/29/2024 | Portland Police Bureau | LOA | Captain |  |  |
 | 4/25/2024 | Portland Police Bureau | Demotion | Captain |  |  |
 | 7/20/2023 | Portland Police Bureau | Promotion | Commander |  |  |
@@ -33,7 +34,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
 | Code of Ethics | Signed | 6/16/2008 |  |

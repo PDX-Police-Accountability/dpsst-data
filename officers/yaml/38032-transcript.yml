@@ -62,6 +62,12 @@ certification_records:
   expiration_date: 11/19/2029
   probation_date: ''
 training_records:
+- date: 2/26/2025
+  course: M00-19A
+  title: DPSST Adult Learning Core
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/9/2024
   course: PDP1215A
   title: 2024-9 CAO Legal Updates for 09/2024

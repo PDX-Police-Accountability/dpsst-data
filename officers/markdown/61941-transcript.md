@@ -250,6 +250,7 @@
 | 3/21/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
 | 3/21/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 3/17/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 3/1/2022 | F6R31745 | DID/SFST Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 1/13/2022 | REG06674 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 12/27/2021 | PDP27111 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 12/22/2021 | M10-21A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |

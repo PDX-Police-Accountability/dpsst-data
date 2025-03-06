@@ -93,12 +93,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 6/24/2025
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 2/5/2025
   course: HBP0291A
   title: Monthly Patrol Team Leadership
@@ -111,18 +105,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/20/2024
+  course: 24-0026
+  title: DPSST Middle Management
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 12/11/2024
   course: HBP2458A
   title: FTO Training
   status: Instructed
   score: '0.0'
   hours: '20.00'
-- date: 11/18/2024
-  course: 24-0026
-  title: DPSST Middle Management
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 10/30/2024
   course: HBP4497A
   title: 'Use of Force In-service Wrap-up: Case Law'

@@ -106,12 +106,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/7/2025
+  course: PDS2334A
+  title: January Crisis Negotiation Team Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/19/2024
+  course: PDS1484A
+  title: November Crisis Negotiation Team Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/28/2024
   course: PDS1992A
   title: Firearms - CNT

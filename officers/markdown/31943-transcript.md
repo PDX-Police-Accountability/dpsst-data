@@ -5,14 +5,14 @@
 | dpsst_identifier | 31943 |
 | agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Detective |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 6/19/2024 | Portland Police Bureau | Retired | Detective |  |  |
+| 6/19/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 9/10/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/9/1998 | Portland Police Bureau | Resigned | Civln Emp |  |  |
 | 1/11/1996 | Portland Police Bureau | Hired | Civln Emp |  |  |

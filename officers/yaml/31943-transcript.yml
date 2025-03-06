@@ -4,7 +4,7 @@ header_record:
   dpsst_identifier: '31943'
   agency: Portland Police Bureau
   employment_status: Inactive
-  rank: Detective
+  rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
@@ -12,7 +12,7 @@ employment_records:
 - date: 6/19/2024
   agency: Portland Police Bureau
   action: Retired
-  rank: Detective
+  rank: Police Off
   classification: ''
   assignment: ''
 - date: 9/10/1998

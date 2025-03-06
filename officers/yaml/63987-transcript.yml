@@ -627,4 +627,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 8/7/2023
   expiration_date: 8/7/2025
-education_records: []
+education_records:
+- date: 8/26/2016
+  degree: Associate Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '92.0'

@@ -81,12 +81,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/1/2025
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 1/31/2025
   course: LOP1946A
   title: Firearms Training
@@ -99,12 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 11/18/2024
+- date: 12/20/2024
   course: 24-0026
   title: DPSST Middle Management
-  status: Registered
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '80.00'
 - date: 11/17/2024
   course: LOP2968A
   title: Firearms Policy review

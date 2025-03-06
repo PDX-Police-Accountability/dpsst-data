@@ -57,18 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 6/6/2025
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 12/23/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/20/2024
+  course: 24-0026
+  title: DPSST Middle Management
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 12/3/2024
   course: PDP3226A
   title: 2024 EAP Separation Training
@@ -91,12 +91,6 @@ training_records:
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
-  score: '0.0'
-  hours: '0.00'
-- date: 11/18/2024
-  course: 24-0026
-  title: DPSST Middle Management
-  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 10/24/2024

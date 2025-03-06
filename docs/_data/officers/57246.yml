@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/3/2025
+  course: TRN4564A
+  title: Chrono Practices and Contact Standards
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/18/2024
   course: HBN1070A
   title: 'Extremism in Oregon: Roots and Responses'

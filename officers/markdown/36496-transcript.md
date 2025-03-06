@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/30/2025 | Oregon City Police Department | Resigned | Police Off |  |  |
 | 1/6/2025 | Oregon City Police Department | Hired | Police Off |  |  |
 | 6/6/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 9/25/2014 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -21,9 +22,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/6/2025 | Police Officer | Basic | Required |  |  | 7/6/2026 |
-| 9/6/2024 | Police Officer | Basic | Lapsed | 3/14/2000 |  |  |
-| 9/6/2024 | Police Officer | Supervisory | Lapsed | 8/5/2019 |  |  |
+| 9/6/2024 | Police Officer | Basic | Lapsed | 3/14/2000 | 1/30/2030 |  |
+| 9/6/2024 | Police Officer | Supervisory | Lapsed | 8/5/2019 | 1/30/2030 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

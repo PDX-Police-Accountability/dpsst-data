@@ -75,6 +75,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/3/2025
+  course: OCP3156A
+  title: Navigating Ordinances and Risks (Virtual)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: OCP1833A
+  title: Top 10 Things To Get You Sued (Virtual)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: OCP4129A
+  title: Homeless Camping Debate (Virtual)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: OCP1258A
+  title: 'Operational Compliance: Navigating Military Laws'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/15/2025
   course: OCP1646A
   title: First Aid  Adult/Child CPR

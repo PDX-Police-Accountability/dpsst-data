@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/3/2025
+  agency: Forest Grove Police Department
+  action: Resigned
+  rank: Captain
+  classification: ''
+  assignment: ''
 - date: 2/22/2022
   agency: Forest Grove Police Department
   action: Hired
@@ -63,35 +69,35 @@ certification_records:
   level: Management
   status: Granted
   certificate_date: 3/6/2024
-  expiration_date: ''
+  expiration_date: 6/3/2025
   probation_date: ''
 - status_date: 5/24/2022
   certificate: Police Officer
   level: Advanced
   status: Reactivatd
   certificate_date: 9/23/2008
-  expiration_date: ''
+  expiration_date: 6/3/2025
   probation_date: ''
 - status_date: 5/24/2022
   certificate: Police Officer
   level: Basic
   status: Reactivatd
   certificate_date: 2/5/1993
-  expiration_date: ''
+  expiration_date: 6/3/2025
   probation_date: ''
 - status_date: 5/24/2022
   certificate: Police Officer
   level: Intermediate
   status: Reactivatd
   certificate_date: 9/23/2008
-  expiration_date: ''
+  expiration_date: 6/3/2025
   probation_date: ''
 - status_date: 5/24/2022
   certificate: Police Officer
   level: Supervisory
   status: Reactivatd
   certificate_date: 12/17/2008
-  expiration_date: ''
+  expiration_date: 6/3/2025
   probation_date: ''
 training_records:
 - date: 2/11/2025

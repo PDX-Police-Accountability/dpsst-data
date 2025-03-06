@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/3/2025 | Forest Grove Police Department | Resigned | Captain |  |  |
 | 2/22/2022 | Forest Grove Police Department | Hired | Captain |  |  |
 | 1/19/2021 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 11/15/2007 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -23,11 +24,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/6/2024 | Police Officer | Management | Granted | 3/6/2024 |  |  |
-| 5/24/2022 | Police Officer | Advanced | Reactivatd | 9/23/2008 |  |  |
-| 5/24/2022 | Police Officer | Basic | Reactivatd | 2/5/1993 |  |  |
-| 5/24/2022 | Police Officer | Intermediate | Reactivatd | 9/23/2008 |  |  |
-| 5/24/2022 | Police Officer | Supervisory | Reactivatd | 12/17/2008 |  |  |
+| 3/6/2024 | Police Officer | Management | Granted | 3/6/2024 | 6/3/2025 |  |
+| 5/24/2022 | Police Officer | Advanced | Reactivatd | 9/23/2008 | 6/3/2025 |  |
+| 5/24/2022 | Police Officer | Basic | Reactivatd | 2/5/1993 | 6/3/2025 |  |
+| 5/24/2022 | Police Officer | Intermediate | Reactivatd | 9/23/2008 | 6/3/2025 |  |
+| 5/24/2022 | Police Officer | Supervisory | Reactivatd | 12/17/2008 | 6/3/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
