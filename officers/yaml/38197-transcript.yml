@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/11/2025
+  course: PDP3390A
+  title: 2025 Field Training Officer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 2/4/2025
   course: PDP1037A
   title: CPR/First Aid

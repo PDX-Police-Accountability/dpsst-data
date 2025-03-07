@@ -23,6 +23,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 12/18/2023 |  |
+| Certification Cards | First Aid and CPR | 9/23/2023 | 9/30/2025 |
 | Code of Ethics | Law Enforcement Signed | 11/4/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -53,6 +54,7 @@
 | 3/25/2024 | F6R0956A | CORE/RADAR | Passed | 0.0 | 6.00 |
 | 3/14/2024 | REG4012A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
+| 9/23/2023 | BVP4305A | CPR First Aid Adults and Children | Passed | 0.0 | 4.00 |
 | 10/10/2019 | PDP09647 | 2019-8 City Attorney's Office Legal Updates 8/2019 | Passed | 0.0 | 0.25 |
 | 10/8/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |
 | 10/7/2019 | PDP03093 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |

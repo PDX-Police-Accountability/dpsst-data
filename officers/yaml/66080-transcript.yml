@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/26/2025
+  course: PDP0013A
+  title: 2025 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 2/25/2025
   course: PDP1486A
   title: 2025 FTEP Blood Borne Pathogens (BBP)

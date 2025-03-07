@@ -174,6 +174,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/23/2023
+  course: BVP4305A
+  title: CPR First Aid Adults and Children
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/10/2019
   course: PDP09647
   title: 2019-8 City Attorney's Office Legal Updates 8/2019
@@ -635,6 +641,10 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 12/18/2023
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 9/23/2023
+  expiration_date: 9/30/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 11/4/2018

@@ -18,7 +18,7 @@ employment_records:
 certification_records:
 - status_date: 3/4/2025
   certificate: Police Officer
-  level: Basic
+  level: Advanced
   status: Granted
   certificate_date: 3/4/2025
   expiration_date: ''

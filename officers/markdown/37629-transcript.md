@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 2/18/2025 | PDP1873A | 2025 FTEP Policy  Procedure | Instructed | 0.0 | 4.00 |
 | 2/3/2025 | PDP1027A | 2025 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 12/20/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |

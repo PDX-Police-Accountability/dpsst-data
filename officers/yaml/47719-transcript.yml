@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/27/2025
+  course: VND3064A
+  title: PIO 101
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/18/2025
   course: BVP2145A
   title: IST Range February 2025

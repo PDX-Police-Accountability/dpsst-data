@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/11/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 1/8/2025 | PDP3277A | 2025 SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/10/2024 | OSH1816A | ARIDE | Instructed | 0.0 | 16.00 |
 | 12/10/2024 | PDP2693A | 2024 Adv Roadside Impaired Driving Enforcement | Instructed | 0.0 | 16.00 |

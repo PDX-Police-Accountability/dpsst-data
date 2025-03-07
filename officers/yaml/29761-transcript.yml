@@ -85,10 +85,22 @@ training_records:
   status: Required
   score: '0.0'
   hours: '24.00'
+- date: 8/27/2026
+  course: M41-15
+  title: DPSST Basic Telecommunications FTM
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 8/27/2026
+  course: M51-16
+  title: DPSST EMD Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
 - date: 8/18/2025
   course: M40-21A
   title: DPSST Basic Telecommunicator Course
-  status: Pending
+  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 4/15/2019
