@@ -95,6 +95,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2025
+  course: HBS0473A
+  title: Virtual In-Service-PoliceOne Equity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2025
+  course: HBS2128A
+  title: Virtual In-Service-PoliceOne Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/28/2025
+  course: HBS3654A
+  title: Non-Certified Virtual Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2025
+  course: HBS2810A
+  title: Virtual In-Service PoliceOne
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/14/2025
   course: HBS3191A
   title: 2025 February Rifle Updates

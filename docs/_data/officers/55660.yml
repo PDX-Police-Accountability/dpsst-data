@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/20/2025
+  course: PDP2898A
+  title: Stop Stick Online Safety Training - Man Deploy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/19/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service

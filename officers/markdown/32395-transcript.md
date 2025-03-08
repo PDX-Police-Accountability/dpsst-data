@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2024 | PPP1120A | Taser 7 Annual Certification | Passed | 0.0 | 4.00 |
 | 11/4/2024 | PPP4465A | Handgun Qual for Special Assignment | Passed | 0.0 | 1.00 |
 | 9/30/2024 | PPP1273A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 9/30/2024 | PPP1016A | Rifle Range | Passed | 0.0 | 4.00 |

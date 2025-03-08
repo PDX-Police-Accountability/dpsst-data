@@ -36,16 +36,10 @@ certification_records:
   expiration_date: ''
   probation_date: 4/10/2026
 training_records:
-- date: 4/10/2026
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 4/21/2025
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Pending
+  status: Cancelled
   score: '0.0'
   hours: '0.00'
 - date: 11/4/2024

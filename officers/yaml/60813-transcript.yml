@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/13/2025
+  course: OSH4332A
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/19/2024
   course: OSH2372A
   title: 3rd Trimester Firearms

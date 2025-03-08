@@ -39,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2025 | PDS3224A | ICS-700 | Passed | 0.0 | 3.50 |
+| 3/5/2025 | PDS2540A | Intoxilyzer 8000 Certification | Passed | 0.0 | 4.00 |
+| 3/5/2025 | PDS1064A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 1/4/2025 | PDS1276A | Roll Call Training Case Law | Passed | 0.0 | 0.25 |
 | 12/16/2024 | PDS1198A | Use of Force Report Writing | Passed | 0.0 | 5.50 |
 | 12/13/2024 | PDS0272A | Less Lethal Certification | Passed | 0.0 | 5.00 |

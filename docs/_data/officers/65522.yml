@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 2/20/2025
+  course: PDP2898A
+  title: Stop Stick Online Safety Training - Man Deploy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/19/2025
   course: PDP0563A
   title: 2025 FTEP Post DPSST Firearms Roster

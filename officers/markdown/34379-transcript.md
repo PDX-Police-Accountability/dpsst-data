@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2024 | PPP1120A | Taser 7 Annual Certification | Passed | 0.0 | 4.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 8/26/2024 | PPP2947A | Gasmask Fit Test | Passed | 0.0 | 0.30 |
 | 7/31/2024 | PPP1570A | Anti-Bias Training for LE | Passed | 0.0 | 1.00 |

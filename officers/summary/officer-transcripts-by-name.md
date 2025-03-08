@@ -890,7 +890,7 @@
 | Jackson, Kenneth E., II | 50090 | Portland Police Bureau | Active | Police Officer | Hired | 2015-10-22 | [md](../markdown/50090-transcript.md) - [yaml](../yaml/50090-transcript.yml) |
 | Jackson, Marcianne | 28013 | Portland Police Bureau | Inactive | Police Officer | Retired | 2016-10-20 | [md](../markdown/28013-transcript.md) - [yaml](../yaml/28013-transcript.yml) |
 | Jackson, Robert H. | 37241 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-11 | [md](../markdown/37241-transcript.md) - [yaml](../yaml/37241-transcript.yml) |
-| Jackson, Trey S. | 63083 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63083-transcript.md) - [yaml](../yaml/63083-transcript.yml) |
+| Jackson, Trey S. | 63083 | Portland Police Bureau | Active | Police Officer | LOA | 2025-03-01 | [md](../markdown/63083-transcript.md) - [yaml](../yaml/63083-transcript.yml) |
 | Jacobsen, Matthew B. | 50933 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-10-21 | [md](../markdown/50933-transcript.md) - [yaml](../yaml/50933-transcript.yml) |
 | Jacquot, Steven R. | 37153 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-12-04 | [md](../markdown/37153-transcript.md) - [yaml](../yaml/37153-transcript.yml) |
 | Jaime, Zachary H. | 63087 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-02-22 | [md](../markdown/63087-transcript.md) - [yaml](../yaml/63087-transcript.yml) |

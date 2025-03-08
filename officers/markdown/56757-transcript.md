@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/16/2024 | PPP1120A | Taser 7 Annual Certification | Passed | 0.0 | 4.00 |
 | 10/29/2024 | PPP3270A | RDS Firearm Training  Qual | Passed | 0.0 | 16.00 |
 | 9/30/2024 | PPP1016A | Rifle Range | Passed | 0.0 | 4.00 |
 | 9/15/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |

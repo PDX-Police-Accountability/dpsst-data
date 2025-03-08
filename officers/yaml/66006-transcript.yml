@@ -67,8 +67,8 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 4/3/2022
-  course: 28593A
-  title: IS-100.c Intro to Incident Command System
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/3/2022
+  course: PDP1210A
+  title: IS-100.c Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR

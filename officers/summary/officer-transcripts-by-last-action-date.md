@@ -1314,7 +1314,6 @@
 | Schull, Broden R. | 63052 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63052-transcript.md) - [yaml](../yaml/63052-transcript.yml) |
 | Miller, Cory G. | 63080 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63080-transcript.md) - [yaml](../yaml/63080-transcript.yml) |
 | Martinez, Brett L. | 63081 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63081-transcript.md) - [yaml](../yaml/63081-transcript.yml) |
-| Jackson, Trey S. | 63083 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63083-transcript.md) - [yaml](../yaml/63083-transcript.yml) |
 | Huq, Amadeo M. | 63084 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63084-transcript.md) - [yaml](../yaml/63084-transcript.yml) |
 | Duque-Valencia, Juan P. | 63086 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63086-transcript.md) - [yaml](../yaml/63086-transcript.yml) |
 | Maul, John J. | 31386 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-25 | [md](../markdown/31386-transcript.md) - [yaml](../yaml/31386-transcript.yml) |
@@ -1776,3 +1775,4 @@
 | Stefaniak, Matthew J. | 66080 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66080-transcript.md) - [yaml](../yaml/66080-transcript.yml) |
 | McGlothen, Darren W., Jr. | 66084 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66084-transcript.md) - [yaml](../yaml/66084-transcript.yml) |
 | Berdahl, Hannah E. | 66085 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66085-transcript.md) - [yaml](../yaml/66085-transcript.yml) |
+| Jackson, Trey S. | 63083 | Portland Police Bureau | Active | Police Officer | LOA | 2025-03-01 | [md](../markdown/63083-transcript.md) - [yaml](../yaml/63083-transcript.yml) |

@@ -30,8 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 4/21/2025 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
+| 4/21/2025 | M10-23A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
 | 11/4/2024 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
 | 10/24/2024 | PDP3668A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 6/24/2024 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |

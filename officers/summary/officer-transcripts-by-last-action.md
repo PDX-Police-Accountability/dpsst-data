@@ -650,7 +650,6 @@
 | Schull, Broden R. | 63052 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63052-transcript.md) - [yaml](../yaml/63052-transcript.yml) |
 | Miller, Cory G. | 63080 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63080-transcript.md) - [yaml](../yaml/63080-transcript.yml) |
 | Martinez, Brett L. | 63081 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63081-transcript.md) - [yaml](../yaml/63081-transcript.yml) |
-| Jackson, Trey S. | 63083 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63083-transcript.md) - [yaml](../yaml/63083-transcript.yml) |
 | Huq, Amadeo M. | 63084 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63084-transcript.md) - [yaml](../yaml/63084-transcript.yml) |
 | Duque-Valencia, Juan P. | 63086 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63086-transcript.md) - [yaml](../yaml/63086-transcript.yml) |
 | Wolfe, Gavin P. | 63164 | Portland Police Bureau | Active | Police Officer | Hired | 2022-08-18 | [md](../markdown/63164-transcript.md) - [yaml](../yaml/63164-transcript.yml) |
@@ -809,6 +808,7 @@
 | Gray, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | LOA | 2024-08-31 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
 | Roush, Kyle D. | 57758 | Portland Police Bureau | Active | Police Officer | LOA | 2024-06-01 | [md](../markdown/57758-transcript.md) - [yaml](../yaml/57758-transcript.yml) |
 | Schultz, Alec R. | 61081 | Portland Police Bureau | Active | Police Officer | LOA | 2024-07-05 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
+| Jackson, Trey S. | 63083 | Portland Police Bureau | Active | Police Officer | LOA | 2025-03-01 | [md](../markdown/63083-transcript.md) - [yaml](../yaml/63083-transcript.yml) |
 | Baker, Keenan R. | 63669 | Portland Police Bureau | Active | Police Officer | LOA | 2023-09-05 | [md](../markdown/63669-transcript.md) - [yaml](../yaml/63669-transcript.yml) |
 | Monsef, Cyrus | 64193 | Portland Police Bureau | Active | Police Officer | LOA | 2024-06-07 | [md](../markdown/64193-transcript.md) - [yaml](../yaml/64193-transcript.yml) |
 | Silva, Robert B. | 32114 | Portland Police Bureau | Inactive | Civilian Employee | Layoff | 2019-01-28 | [md](../markdown/32114-transcript.md) - [yaml](../yaml/32114-transcript.yml) |

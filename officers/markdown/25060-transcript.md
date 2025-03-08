@@ -85,7 +85,7 @@
 | 4/4/2023 | WBP35225 | Redflex Program Training | Instructed | 0.0 | 1.50 |
 | 3/31/2023 | WBP32501 | WPD Quarter 1 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 3/31/2023 | WBP32501 | WPD Quarter 1 Firearms Qualifications | Instructed | 0.0 | 0.50 |
-| 3/21/2023 | WBP02380 | Defensive Tactics (arrest from vehicle) | Passed | 0.0 | 3.00 |
+| 3/21/2023 | WBP02380 | Defensive Tactics (Arrest from Vehicle) | Passed | 0.0 | 3.00 |
 | 3/15/2023 | WBP07738 | Briefing Training - Hancuffing Techniques | Passed | 0.0 | 0.50 |
 | 3/9/2023 | WBP21933 | Combative Firearms: Developing Speed and Accuracy | Passed | 0.0 | 24.00 |
 | 2/6/2023 | WBP20848 | LEDS - Inquiry Level Recertification | Passed | 0.0 | 1.00 |

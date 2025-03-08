@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2024 | PPP1120A | Taser 7 Annual Certification | Passed | 0.0 | 4.00 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |
 | 10/11/2024 | PDP4496A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 4.50 |
 | 10/5/2024 | PPP0308A | Rapid Response Team Firearms Training | Passed | 0.0 | 4.00 |
