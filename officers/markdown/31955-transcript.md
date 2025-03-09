@@ -48,7 +48,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/19/2025 | CAP2865A | CPR / First Aid | Passed | 0.0 | 4.00 |
 | 1/27/2025 | CAP4265A | First Aid / CPR Adult  Child | Passed | 0.0 | 1.00 |
-| 1/22/2025 | CAP3093A | Annual Handgun Qualifications and Fundamentals | Passed | 0.0 | 2.00 |
+| 1/22/2025 | CAP3093A | Annual Handgun Qualifications/Fundamentals | Passed | 0.0 | 2.00 |
 | 11/20/2024 | CAP0542A | Handgun Night Shoot | Passed | 0.0 | 2.00 |
 | 10/16/2024 | CAP1686A | Force on Force VCQB - Building Search | Passed | 0.0 | 2.00 |
 | 9/26/2024 | OAC3725A | Election Year Threat Extremism in Oregon | Passed | 0.0 | 1.50 |
@@ -68,7 +68,7 @@
 | 4/4/2024 | CAP2967A | Rifle Qualifications - Fundamentals | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/18/2024 | LOP2419A | Emergency Vehicle Operations | Passed | 0.0 | 9.00 |
-| 1/24/2024 | CAP2263A | Annual Handgun Qualification / Fundamentals | Passed | 0.0 | 3.00 |
+| 1/24/2024 | CAP2263A | Annual Handgun Qualification/Fundamentals | Passed | 0.0 | 3.00 |
 | 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/11/2024 | OAC2104A | Dark Nights of the Soul | Passed | 0.0 | 3.00 |
 | 1/10/2024 | OAC2692A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |

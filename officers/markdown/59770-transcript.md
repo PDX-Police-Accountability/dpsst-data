@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2025 | PDP0113A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/14/2025 | PDP0574A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/8/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
@@ -43,6 +44,7 @@
 | 10/7/2024 | PDP0138A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 10/7/2024 | PDP4446A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 10/7/2024 | PDP3280A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 10/4/2024 | PDP4440A | CMC Rope Rescue Technition I/II | Passed | 0.0 | 40.00 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
 | 9/12/2024 | PDP0269A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/5/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

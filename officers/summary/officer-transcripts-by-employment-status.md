@@ -1093,6 +1093,7 @@
 | Stefaniak, Matthew J. | 66080 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66080-transcript.md) - [yaml](../yaml/66080-transcript.yml) |
 | McGlothen, Darren W., Jr. | 66084 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66084-transcript.md) - [yaml](../yaml/66084-transcript.yml) |
 | Berdahl, Hannah E. | 66085 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66085-transcript.md) - [yaml](../yaml/66085-transcript.yml) |
+| Shyshkin, Sam | 66178 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66178-transcript.md) - [yaml](../yaml/66178-transcript.yml) |
 | Ferraris, James C. | 11406 | Portland Police Bureau | Inactive | Commander | Retired | 2011-05-06 | [md](../markdown/11406-transcript.md) - [yaml](../yaml/11406-transcript.yml) |
 | Gill, Peter J. | 11688 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-07-23 | [md](../markdown/11688-transcript.md) - [yaml](../yaml/11688-transcript.yml) |
 | Lucich, Rod H. | 12241 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2008-06-30 | [md](../markdown/12241-transcript.md) - [yaml](../yaml/12241-transcript.yml) |

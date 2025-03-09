@@ -48,6 +48,7 @@
 | 12/9/2024 | TAP3923A | December Use of Force Updates | Passed | 0.0 | 4.00 |
 | 11/17/2024 | TAP3795A | IssueUpdateHB4002OSPtrainingPossessionLawsGuide | Passed | 0.0 | 0.50 |
 | 11/15/2024 | ADP0220A | Night Pistol and Shotgun | Passed | 0.0 | 4.00 |
+| 11/15/2024 | TAP3753A | Mobile Crisis Community Update Nov 2024 | Passed | 0.0 | 0.50 |
 | 10/30/2024 | TAP0790A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
 | 10/18/2024 | ADP2035A | Taser 10 Certification | Instructed | 0.0 | 6.00 |
 | 10/18/2024 | ADP1083A | Taser Annual Recertification | Passed | 0.0 | 2.00 |
@@ -57,6 +58,7 @@
 | 9/24/2024 | ADP4325A | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 9/9/2024 | ADP0776A | Ethos Leadership | Passed | 0.0 | 3.00 |
 | 9/9/2024 | TAP0503A | New Drug Laws Search Seizure Issues | Passed | 0.0 | 0.75 |
+| 9/9/2024 | TAP2078A | Legal Update Ghost Guns | Passed | 0.0 | 0.50 |
 | 8/29/2024 | TAP3522A | Wellness Program 1st Watch Training | Passed | 0.0 | 1.00 |
 | 8/22/2024 | TAP3542A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/31/2024 | TAP1585A | Defensive Driving Principles | Passed | 0.0 | 1.00 |

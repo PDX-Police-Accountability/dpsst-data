@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/3/2025
+  course: PDP0827A
+  title: 2025 Training Return to Work ABLE
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/23/2025
   course: VND1044A
   title: Responder Life Peer Support Conference

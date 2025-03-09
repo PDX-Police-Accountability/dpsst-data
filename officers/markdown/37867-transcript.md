@@ -35,7 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/26/2025 | PDP1491A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 2.00 |
 | 2/25/2025 | VND4176A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 2/20/2025 | PDP0113A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/20/2025 | PDP0113A | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 2/13/2025 | PDP4400A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 2/6/2025 | PDP0265A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 2/3/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |

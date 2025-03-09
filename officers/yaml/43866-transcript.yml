@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2025
+  course: PDP3085A
+  title: CATO SWAT Commander Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 12/19/2024
   course: PDP3797A
   title: 2024 SERT Camp Rilea Training

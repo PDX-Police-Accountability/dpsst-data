@@ -35,6 +35,24 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 3/5/2025
+  course: ALS2332A
+  title: FEMA- ICS 200
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/5/2025
+  course: ALS4286A
+  title: FEMA- ICS 700
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 3/5/2025
+  course: ALS2448A
+  title: FEMA- ICS 100
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/3/2024
   course: PDS2017A
   title: Range

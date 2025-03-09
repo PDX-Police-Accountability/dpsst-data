@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 2/20/2025 | PDP2898A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
 | 2/19/2025 | PDP0563A | 2025 FTEP Post DPSST Firearms Roster | Passed | 0.0 | 23.00 |
 | 1/22/2025 | REG2762A | DID-SFST | Passed | 0.0 | 0.00 |

@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 3/5/2025
+  course: OCP1731A
+  title: RDS M17 Pistol Conversion
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/24/2025
   course: OCP1139A
   title: Defensive Tactics - Weapons Based Entaglements

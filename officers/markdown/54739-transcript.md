@@ -29,6 +29,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2025 | ALS2332A | FEMA- ICS 200 | Passed | 0.0 | 4.00 |
+| 3/5/2025 | ALS4286A | FEMA- ICS 700 | Passed | 0.0 | 3.50 |
+| 3/5/2025 | ALS2448A | FEMA- ICS 100 | Passed | 0.0 | 4.00 |
 | 12/3/2024 | PDS2017A | Range | Passed | 0.0 | 2.00 |
 | 10/15/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/3/2024 | PDS4449A | Emergency Management | Passed | 0.0 | 0.50 |
