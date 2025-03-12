@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2025 | SVP1394A | Annual Taser Recertfication | Passed | 0.0 | 1.00 |
 | 2/9/2025 | SVP2971A | State Law Restrictions on Immigration Enforcement | Passed | 0.0 | 0.25 |
 | 1/28/2025 | SVP2548A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/15/2025 | SVP1500A | Cell Extractions and Strategy | Passed | 0.0 | 4.00 |

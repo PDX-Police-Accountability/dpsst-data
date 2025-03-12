@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2025 | BNS4138A | Welcome to the Patrol Division Leadership Team | Passed | 0.0 | 1.50 |
 | 2/24/2025 | BNS3186A | Building Clearing/Prep for Retirement | Passed | 0.0 | 3.00 |
 | 11/6/2024 | BNS3028A | Use of Force, Pepperball, 40mm | Instructed | 0.0 | 2.00 |
 | 10/11/2024 | BNS1728A | Skid Car | Passed | 0.0 | 0.50 |

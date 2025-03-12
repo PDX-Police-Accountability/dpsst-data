@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 12/12/2024
+  course: LOP2275A
+  title: Yearly fire extinguisher training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/17/2024
   course: LOP2968A
   title: Firearms Policy review

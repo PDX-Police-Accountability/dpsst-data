@@ -89,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/4/2025
+  course: SVP1394A
+  title: Annual Taser Recertfication
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/9/2025
   course: SVP2971A
   title: State Law Restrictions on Immigration Enforcement

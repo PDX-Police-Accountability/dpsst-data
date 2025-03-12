@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/6/2025
+  course: BNP0272A
+  title: Tactical Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/6/2025
   course: BNP2834A
   title: Building Clearing (HRT, Slow Clear, Dynamic)

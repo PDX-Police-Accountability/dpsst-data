@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/7/2025
+  course: PDS2391A
+  title: Search and Seizure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -87,8 +93,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 12/24/2024
-  course: PDS2326A
-  title: Ethics
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

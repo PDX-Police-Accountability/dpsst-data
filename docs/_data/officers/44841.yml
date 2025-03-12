@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2025
+  course: LOP1282A
+  title: Fire Investigation:Essentials
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 1/31/2025
   course: LOP1946A
   title: Firearms Training
@@ -71,6 +77,12 @@ training_records:
 - date: 12/19/2024
   course: LOP2422A
   title: Conducting Photo Lineups
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/12/2024
+  course: LOP2275A
+  title: Yearly fire extinguisher training
   status: Passed
   score: '0.0'
   hours: '0.50'

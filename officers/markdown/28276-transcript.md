@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2025 | SVP1394A | Annual Taser Recertfication | Passed | 0.0 | 1.00 |
 | 2/9/2025 | SVP2971A | State Law Restrictions on Immigration Enforcement | Passed | 0.0 | 0.25 |
 | 2/7/2025 | VND1171A | OSMB Swift Water Rescue Course | Passed | 0.0 | 40.00 |
 | 1/18/2025 | SVP3812A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |

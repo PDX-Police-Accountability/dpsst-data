@@ -99,12 +99,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
-- date: 1/29/2025
-  course: OSU4021A
-  title: ICS 400 Expanding Incidents
-  status: Passed
-  score: '0.0'
-  hours: '15.00'
 - date: 1/9/2025
   course: EGP2729A
   title: De-Escalation
