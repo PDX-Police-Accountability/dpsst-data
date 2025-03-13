@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2025 | OSH1917A | OSP Defensive Tactics - 1st Trimester | Passed | 0.0 | 4.00 |
 | 2/10/2025 | BPT3380A | STOP Program: Data Collection on the Road | Passed | 0.0 | 0.50 |
 | 1/18/2025 | OSH4282A | OSP - 2025 Patrol Tactics In-Service | Instructed | 0.0 | 15.00 |
 | 1/10/2025 | OSH3076A | 1st Trimester Firearms | Instructed | 0.0 | 2.00 |

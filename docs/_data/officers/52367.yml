@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/6/2025
+  course: PDP3723A
+  title: 2025 Instructor Development
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 1/10/2025
   course: PDP4370A
   title: 2025 Rapid Response Team (RRT) Monthly Training
