@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/11/2025 | MKL3073A | LEDs Re-Certification | Passed | 0.0 | 1.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/24/2024 | MKL3775A | OGEC Ethics Update | Passed | 0.0 | 1.00 |
 | 10/24/2024 | MKL0026A | Customer Service Training | Passed | 0.0 | 1.00 |

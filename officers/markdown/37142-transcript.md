@@ -35,6 +35,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/6/2025 | 3/6/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 3/8/2023 | 3/8/2025 |
@@ -46,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/6/2025 | SPP1778A | Adult/Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 2/6/2025 | SPP2797A | Taser Recertification | Passed | 0.0 | 2.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/8/2024 | SPP4375A | Understanding microaggressions | Passed | 0.0 | 1.00 |

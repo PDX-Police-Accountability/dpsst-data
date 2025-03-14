@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/10/2025
+  course: PDP2176A
+  title: TEEX WMD Terrorism Awareness for Emer Resp
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/27/2025
   course: PDP2504A
   title: 2025 FTEP Post Basic CEW Taser

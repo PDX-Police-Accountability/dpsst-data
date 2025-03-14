@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/6/2025
+  course: SPP1778A
+  title: Adult/Pediatric First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/6/2025
   course: SPP2797A
   title: Taser Recertification
@@ -4506,6 +4512,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/6/2025
+  expiration_date: 3/6/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

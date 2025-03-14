@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2025 | PDP0382A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.50 |
 | 2/20/2025 | PDP2447A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |
 | 2/12/2025 | PDP4037A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.50 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 2/13/2025
+  course: BNS1582A
+  title: Pepperball
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/19/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement
