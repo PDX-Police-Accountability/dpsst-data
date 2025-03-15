@@ -21,6 +21,18 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 10/15/2015
+  agency: Military Service
+  action: Resigned
+  rank: Miltry Pol
+  classification: ''
+  assignment: ''
+- date: 4/11/2011
+  agency: Military Service
+  action: Hired
+  rank: Miltry Pol
+  classification: ''
+  assignment: ''
 certification_records:
 - status_date: 3/26/2024
   certificate: Police Officer

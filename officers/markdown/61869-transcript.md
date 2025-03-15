@@ -31,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/21/2025 | PDP2677A | 2025 Radar Lidar Operators Course | Passed | 0.0 | 14.00 |
 | 1/20/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 1/15/2025 | PDP0956A | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 1/14/2025 | PDP4537A | CPR/First Aid | Passed | 0.0 | 2.50 |

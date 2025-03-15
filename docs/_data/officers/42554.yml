@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/21/2025
+  course: PDP2677A
+  title: 2025 Radar Lidar Operators Course
+  status: Instructed
+  score: '0.0'
+  hours: '14.00'
 - date: 2/17/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service

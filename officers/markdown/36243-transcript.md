@@ -44,10 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/28/2025 | HBS0473A | Virtual In-Service-PoliceOne Equity | Passed | 0.0 | 1.00 |
-| 2/28/2025 | HBS2128A | Virtual In-Service-PoliceOne Ethics | Passed | 0.0 | 3.00 |
-| 2/28/2025 | HBS3654A | Non-Certified Virtual Sexual Harassment | Passed | 0.0 | 1.00 |
-| 2/28/2025 | HBS2810A | Virtual In-Service PoliceOne | Passed | 0.0 | 2.00 |
+| 2/28/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 2/28/2025 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
+| 2/28/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 2/28/2025 | XDELETE6 | Pending for Deletion Due to Duplicate or | Passed | 0.0 | 2.00 |
 | 2/14/2025 | HBS3191A | 2025 February Rifle Updates | Passed | 0.0 | 8.00 |
 | 2/11/2025 | HBS4478A | MFF - Public Order | Passed | 0.0 | 8.00 |
 | 2/11/2025 | HBS0184A | MFF - Public Order Lecture | Passed | 0.0 | 1.00 |

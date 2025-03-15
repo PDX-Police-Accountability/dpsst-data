@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2025 | OCS3735A | Feb and March DT's | Passed | 0.0 | 2.00 |
+| 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 1/31/2025 | OCS3506A | 2025 1st Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 1/29/2025 | VND3653A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 3.00 |
 | 1/29/2025 | VND2461A | CMV Size and Weight Training | Passed | 0.0 | 3.00 |

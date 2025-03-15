@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2025 | OCS0163A | Fundamentals of Marksmanship and Qual | Instructed | 0.0 | 3.00 |
+| 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
+| 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Instructed | 0.0 | 21.00 |
 | 2/20/2025 | OCS4448A | Fundamentals of Marksmanship | Instructed | 0.0 | 24.00 |
 | 2/6/2025 | OCS3717A | 2025 Honor Guard Revolver | Instructed | 0.0 | 3.00 |
 | 2/5/2025 | OCS4339A | Handgun Qualification and Marksmanship | Instructed | 0.0 | 1.00 |

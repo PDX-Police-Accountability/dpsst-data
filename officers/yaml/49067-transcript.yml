@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2025
+  course: OCS3735A
+  title: Feb and March DT's
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/27/2025
+  course: OCS2050A
+  title: February 2025 Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/31/2025
   course: OCS3506A
   title: 2025 1st Qtr Patrol Shotgun

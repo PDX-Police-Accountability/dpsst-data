@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 1/30/2025 | OCS2612A | January 2025 DT's and MILO | Passed | 0.0 | 1.00 |
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/21/2024 | OCS2042A | Equity training | Passed | 0.0 | 3.00 |

@@ -14,6 +14,8 @@
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 5/11/2023 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/4/2018 | Portland Police Bureau | Hired | Police Off |  |  |
+| 10/15/2015 | Military Service | Resigned | Miltry Pol |  |  |
+| 4/11/2011 | Military Service | Hired | Miltry Pol |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
