@@ -3,12 +3,18 @@ header_record:
   name: Cotterell, Mark A.
   dpsst_identifier: '65319'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/5/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/10/2024
   agency: Portland Police Bureau
   action: Hired
@@ -27,14 +33,7 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 10/10/2024
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 4/10/2026
+certification_records: []
 training_records:
 - date: 4/21/2025
   course: M10-23A

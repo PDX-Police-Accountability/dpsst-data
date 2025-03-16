@@ -4,7 +4,7 @@
 | name | Hays, Harold F., Jr. |
 | dpsst_identifier | 41498 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,17 +12,18 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/7/2025 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 4/18/2019 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 1/9/2014 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 11/15/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/4/2022 | Police Officer | Management | Granted | 10/4/2022 |  |  |
-| 5/11/2015 | Police Officer | Supervisory | Granted | 5/11/2015 |  |  |
-| 3/23/2010 | Police Officer | Advanced | Granted | 3/23/2010 |  |  |
-| 3/23/2010 | Police Officer | Intermediate | Granted | 3/23/2010 |  |  |
-| 3/11/2003 | Police Officer | Basic | Granted | 3/11/2003 |  |  |
+| 10/4/2022 | Police Officer | Management | Granted | 10/4/2022 | 6/7/2025 |  |
+| 5/11/2015 | Police Officer | Supervisory | Granted | 5/11/2015 | 6/7/2025 |  |
+| 3/23/2010 | Police Officer | Advanced | Granted | 3/23/2010 | 6/7/2025 |  |
+| 3/23/2010 | Police Officer | Intermediate | Granted | 3/23/2010 | 6/7/2025 |  |
+| 3/11/2003 | Police Officer | Basic | Granted | 3/11/2003 | 6/7/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

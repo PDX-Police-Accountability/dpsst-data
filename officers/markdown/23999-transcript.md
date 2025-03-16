@@ -26,11 +26,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/21/2019 | Police Officer | Advanced | Granted | 1/12/2006 |  |  |
-| 4/21/2019 | Police Officer | Basic | Granted | 6/7/1991 |  |  |
-| 4/21/2019 | Police Officer | Intermediate | Granted | 1/12/2006 |  |  |
-| 4/21/2019 | Police Officer | Management | Granted | 2/13/2006 |  |  |
-| 4/21/2019 | Police Officer | Supervisory | Granted | 2/13/2006 |  |  |
+| 1/21/2024 | Police Officer | Advanced | Expired | 1/12/2006 |  |  |
+| 1/21/2024 | Police Officer | Basic | Expired | 6/7/1991 |  |  |
+| 1/21/2024 | Police Officer | Intermediate | Expired | 1/12/2006 |  |  |
+| 1/21/2024 | Police Officer | Management | Expired | 2/13/2006 |  |  |
+| 1/21/2024 | Police Officer | Supervisory | Expired | 2/13/2006 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

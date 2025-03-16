@@ -3,12 +3,18 @@ header_record:
   name: Hays, Harold F., Jr.
   dpsst_identifier: '41498'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/7/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 4/18/2019
   agency: Portland Police Bureau
   action: Promotion
@@ -33,35 +39,35 @@ certification_records:
   level: Management
   status: Granted
   certificate_date: 10/4/2022
-  expiration_date: ''
+  expiration_date: 6/7/2025
   probation_date: ''
 - status_date: 5/11/2015
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 5/11/2015
-  expiration_date: ''
+  expiration_date: 6/7/2025
   probation_date: ''
 - status_date: 3/23/2010
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 3/23/2010
-  expiration_date: ''
+  expiration_date: 6/7/2025
   probation_date: ''
 - status_date: 3/23/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 3/23/2010
-  expiration_date: ''
+  expiration_date: 6/7/2025
   probation_date: ''
 - status_date: 3/11/2003
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/11/2003
-  expiration_date: ''
+  expiration_date: 6/7/2025
   probation_date: ''
 training_records:
 - date: 1/9/2025
