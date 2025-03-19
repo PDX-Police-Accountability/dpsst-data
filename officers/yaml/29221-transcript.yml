@@ -119,6 +119,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2025
+  course: BNP2019A
+  title: Supervisor Academy
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/6/2025
+  course: BNP2111A
+  title: EVOC / Vehicle Placement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/29/2025
   course: BNP1420A
   title: First Aid and Adult/ Child CPR

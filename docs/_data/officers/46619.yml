@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/3/2025
+  course: VND2498A
+  title: OEDI Annual Session
+  status: Passed
+  score: '0.0'
+  hours: '37.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

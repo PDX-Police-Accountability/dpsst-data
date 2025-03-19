@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2025 | EGP3378A | Supervisor Training | Passed | 0.0 | 3.00 |
 | 2/13/2025 | EGP3726A | Animal Abuse Investigations  Family Violence | Passed | 0.0 | 2.00 |
 | 2/13/2025 | EGP2296A | HAZMAT | Passed | 0.0 | 4.00 |
 | 2/13/2025 | EGP0099A | Radios | Passed | 0.0 | 1.00 |

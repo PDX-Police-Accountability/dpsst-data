@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2024 | TGP1034A | Path of the Guardian 2024 (PG24-A1) | Passed | 0.0 | 8.00 |
 | 12/23/2024 | TGP1734A | Ballistics Theory | Passed | 0.0 | 1.00 |
 | 12/11/2024 | TGP2444A | Balance Between Duty of Care and Use of Force | Passed | 0.0 | 1.25 |
 | 12/11/2024 | TGP1927A | Use of Force Current Trends | Passed | 0.0 | 1.25 |

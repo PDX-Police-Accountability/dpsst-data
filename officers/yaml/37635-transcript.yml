@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/5/2025
+  course: EGP3378A
+  title: Supervisor Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/13/2025
   course: EGP3726A
   title: Animal Abuse Investigations  Family Violence

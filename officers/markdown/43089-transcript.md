@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2025 | LGS3482A | Patrol Firearms Moving Targets/Vehicle Deployment | Instructed | 0.0 | 1.00 |
+| 3/12/2025 | LGS3482A | Patrol Firearms Moving Targets/Vehicle Deployment | Passed | 0.0 | 3.00 |
 | 1/29/2025 | LGS4031A | Aircraft Accidents Policy Review-Investigations | Passed | 0.0 | 0.50 |
 | 1/24/2025 | LGS1967A | Firearms Low-Light Annual Training | Instructed | 0.0 | 4.00 |
 | 1/24/2025 | LGS0969A | Low Light Handgun | Passed | 0.0 | 2.00 |

@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/3/2025
+  course: VND2498A
+  title: OEDI Annual Session
+  status: Passed
+  score: '0.0'
+  hours: '37.00'
 - date: 1/15/2025
   course: WLP3943A
   title: Respectful Workplace

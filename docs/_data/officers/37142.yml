@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/26/2025
+  course: VND1609A
+  title: Unpacking the 2025 Drug Threat
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/6/2025
   course: SPP2797A
   title: Taser Recertification

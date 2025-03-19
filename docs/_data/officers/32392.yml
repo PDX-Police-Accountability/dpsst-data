@@ -68,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/31/2024
+  course: TGP1034A
+  title: Path of the Guardian 2024 (PG24-A1)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/23/2024
   course: TGP1734A
   title: Ballistics Theory

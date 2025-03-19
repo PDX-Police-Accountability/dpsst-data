@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | TGP1034A | Path of the Guardian 2024 (PG24-A1) | Passed | 0.0 | 8.00 |
 | 12/5/2024 | SMS4349A | Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 10/18/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/4/2024 | TGP2171A | Handgun/Patrol Rifle Training | Passed | 0.0 | 9.00 |

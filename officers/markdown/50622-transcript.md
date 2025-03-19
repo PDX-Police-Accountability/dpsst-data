@@ -45,6 +45,8 @@
 | 2/27/2025 | OCP4129A | Homeless Camping Debate (Virtual) | Passed | 0.0 | 1.00 |
 | 2/27/2025 | OCP1258A | Operational Compliance: Navigating Military Laws | Passed | 0.0 | 1.00 |
 | 2/26/2025 | VND0783A | Setting the Bar High: Insights from DPSST | Passed | 0.0 | 1.00 |
+| 2/26/2025 | VND2127A | Active Bystandership: A New Take on See Something. | Passed | 0.0 | 1.00 |
+| 2/26/2025 | VND1609A | Unpacking the 2025 Drug Threat | Passed | 0.0 | 1.00 |
 | 1/15/2025 | OCP1646A | First Aid  Adult/Child CPR | Passed | 0.0 | 2.50 |
 | 1/14/2025 | OCP3067A | Firearms/Use of Force | Instructed | 0.0 | 6.00 |
 | 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |

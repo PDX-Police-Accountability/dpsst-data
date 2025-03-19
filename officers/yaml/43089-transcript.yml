@@ -130,6 +130,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2025
+  course: LGS3482A
+  title: Patrol Firearms Moving Targets/Vehicle Deployment
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2025
+  course: LGS3482A
+  title: Patrol Firearms Moving Targets/Vehicle Deployment
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/29/2025
   course: LGS4031A
   title: Aircraft Accidents Policy Review-Investigations

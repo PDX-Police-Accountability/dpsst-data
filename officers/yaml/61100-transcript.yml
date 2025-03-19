@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 2/13/2025
+  course: PDP4147A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -1898,6 +1904,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/13/2025
+  expiration_date: 2/13/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

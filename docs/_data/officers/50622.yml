@@ -105,6 +105,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/26/2025
+  course: VND2127A
+  title: 'Active Bystandership: A New Take on See Something.'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2025
+  course: VND1609A
+  title: Unpacking the 2025 Drug Threat
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/15/2025
   course: OCP1646A
   title: First Aid  Adult/Child CPR

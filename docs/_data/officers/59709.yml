@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/4/2025
+  course: BNP2111A
+  title: EVOC / Vehicle Placement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/24/2025
   course: BNP1169A
   title: Defensive Tactics Scenarios
