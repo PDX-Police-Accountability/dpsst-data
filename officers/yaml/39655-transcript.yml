@@ -46,13 +46,13 @@ certification_records:
 training_records:
 - date: 3/6/2025
   course: PDP2870A
-  title: 2025 SERT Training - FIREARMS
+  title: 2025 SERT Training - Firearms
   status: Passed
   score: '0.0'
   hours: '9.00'
 - date: 2/20/2025
   course: PDP0113A
-  title: 2025 SERT Training - SCENARIO
+  title: 2025 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'

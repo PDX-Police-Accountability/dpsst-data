@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/10/2025
+  course: REG1078A
+  title: Take Downs/Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/3/2025
+  course: REG3712A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/26/2025
   course: SDP3225A
   title: TASER Annual Recertification 4hr
@@ -87,6 +99,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/10/2025
+  course: REG3671A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/27/2025
+  course: REG1315A
+  title: Passing the Legs/Guard
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/15/2025
   course: SDP0679A
   title: Bloodborne Pathogens Training
@@ -114,6 +138,12 @@ training_records:
 - date: 1/6/2025
   course: REG4399A
   title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/3/2025
+  course: REG1209A
+  title: DT Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'

@@ -200,6 +200,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/27/2024
+  course: PDP3496A
+  title: PLET Drug Unit Supervisor Roster
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 7/18/2024
   course: PDP1954A
   title: 2024 Lead Exposure Training

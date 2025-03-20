@@ -50,7 +50,7 @@ certification_records:
 training_records:
 - date: 3/5/2025
   course: PSU2798A
-  title: Firearms Qualification / Shield Refresher
+  title: Firearms Qualification/Shield Refresher
   status: Passed
   score: '0.0'
   hours: '2.00'

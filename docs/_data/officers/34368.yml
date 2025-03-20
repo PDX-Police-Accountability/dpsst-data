@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/14/2025
+  agency: Bend Police Department
+  action: Retired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 3/26/2015
   agency: Bend Police Department
   action: Promotion
@@ -63,35 +69,35 @@ certification_records:
   level: Management
   status: Granted
   certificate_date: 10/7/2016
-  expiration_date: ''
+  expiration_date: 6/14/2025
   probation_date: ''
 - status_date: 5/4/2009
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 5/4/2009
-  expiration_date: ''
+  expiration_date: 6/14/2025
   probation_date: ''
 - status_date: 5/27/2008
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 5/27/2008
-  expiration_date: ''
+  expiration_date: 6/14/2025
   probation_date: ''
 - status_date: 6/17/2003
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 6/17/2003
-  expiration_date: ''
+  expiration_date: 6/14/2025
   probation_date: ''
 - status_date: 2/18/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/18/2000
-  expiration_date: ''
+  expiration_date: 6/14/2025
   probation_date: ''
 training_records:
 - date: 1/28/2025

@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2025
+  course: HBS2309A
+  title: Virtual ADA Compliance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/3/2025
   course: HBS2122A
   title: On Duty PIT

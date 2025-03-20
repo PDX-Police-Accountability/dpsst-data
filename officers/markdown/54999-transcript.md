@@ -46,8 +46,8 @@
 | 2/13/2025 | HRS1270A | In-Service Training: Exigency Case Law | Passed | 0.0 | 1.00 |
 | 2/13/2025 | HRS2784A | In-Service Training: Legal Requests Review | Passed | 0.0 | 1.50 |
 | 2/13/2025 | HRS0426A | In-Service Training: Stop The Bleed | Passed | 0.0 | 2.00 |
-| 2/6/2025 | TDP0765A | NORTAC-Tubular and vehicle assaults | Passed | 0.0 | 4.00 |
-| 2/6/2025 | TDP0016A | NORTAC-Tactical response/decision making | Passed | 0.0 | 2.00 |
+| 2/6/2025 | TDP0765A | NORTAC - Tubular and Vehicle Assaults | Passed | 0.0 | 4.00 |
+| 2/6/2025 | TDP0016A | NORTAC - Tactical Response/Decision Making | Passed | 0.0 | 2.00 |
 | 1/9/2025 | HRS2769A | In-Service: Defensive Tactics | Passed | 0.0 | 3.00 |
 | 1/9/2025 | HRS3180A | In-Service: Use of Force Refresher | Passed | 0.0 | 1.00 |
 | 1/9/2025 | HRS3268A | In-Service: Active Threat - Rescue Task Force | Passed | 0.0 | 2.00 |

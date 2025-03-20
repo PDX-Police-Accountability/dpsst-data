@@ -106,13 +106,13 @@ training_records:
   hours: '2.00'
 - date: 2/6/2025
   course: TDP0765A
-  title: NORTAC-Tubular and vehicle assaults
+  title: NORTAC - Tubular and Vehicle Assaults
   status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 2/6/2025
   course: TDP0016A
-  title: NORTAC-Tactical response/decision making
+  title: NORTAC - Tactical Response/Decision Making
   status: Passed
   score: '0.0'
   hours: '2.00'

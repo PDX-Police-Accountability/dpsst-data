@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2025
+  course: PDP2763A
+  title: NTOA Public Order Basic Command Cert
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/7/2025
   course: PDP4210A
   title: 2025 RRT Grenadier Cadre Training

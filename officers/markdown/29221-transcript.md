@@ -48,7 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/13/2025 | BNP2019A | Supervisor Academy | Passed | 0.0 | 16.00 |
-| 3/6/2025 | BNP2111A | EVOC / Vehicle Placement | Passed | 0.0 | 1.00 |
+| 3/6/2025 | BNP2111A | EVOC/Vehicle Placement | Passed | 0.0 | 1.00 |
 | 1/29/2025 | BNP1420A | First Aid and Adult/ Child CPR | Passed | 0.0 | 2.00 |
 | 1/29/2025 | BNP3559A | Ethos Academy-The magic of the mind | Passed | 0.0 | 3.00 |
 | 1/29/2025 | BNP0181A | Breathworks | Passed | 0.0 | 0.50 |

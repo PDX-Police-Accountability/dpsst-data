@@ -45,7 +45,7 @@ certification_records:
 training_records:
 - date: 3/4/2025
   course: BNP2111A
-  title: EVOC / Vehicle Placement
+  title: EVOC/Vehicle Placement
   status: Passed
   score: '0.0'
   hours: '1.00'

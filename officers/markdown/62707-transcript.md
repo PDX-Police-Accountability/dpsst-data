@@ -34,7 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/5/2025 | PSU2798A | Firearms Qualification / Shield Refresher | Passed | 0.0 | 2.00 |
+| 3/5/2025 | PSU2798A | Firearms Qualification/Shield Refresher | Passed | 0.0 | 2.00 |
 | 3/2/2025 | PSU1187A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 3/2/2025 | PSU0679A | Clery Act | Passed | 0.0 | 2.00 |
 | 3/2/2025 | PSU3972A | Cyber Security Awareness | Passed | 0.0 | 0.75 |

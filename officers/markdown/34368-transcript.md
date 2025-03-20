@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/14/2025 | Bend Police Department | Retired | Lieutenant |  |  |
 | 3/26/2015 | Bend Police Department | Promotion | Lieutenant |  |  |
 | 3/3/2008 | Bend Police Department | Promotion | Sergeant |  |  |
 | 4/28/1999 | Bend Police Department | Reclassed | Police Off |  |  |
@@ -23,11 +24,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/7/2016 | Police Officer | Management | Granted | 10/7/2016 |  |  |
-| 5/4/2009 | Police Officer | Supervisory | Granted | 5/4/2009 |  |  |
-| 5/27/2008 | Police Officer | Advanced | Granted | 5/27/2008 |  |  |
-| 6/17/2003 | Police Officer | Intermediate | Granted | 6/17/2003 |  |  |
-| 2/18/2000 | Police Officer | Basic | Granted | 2/18/2000 |  |  |
+| 10/7/2016 | Police Officer | Management | Granted | 10/7/2016 | 6/14/2025 |  |
+| 5/4/2009 | Police Officer | Supervisory | Granted | 5/4/2009 | 6/14/2025 |  |
+| 5/27/2008 | Police Officer | Advanced | Granted | 5/27/2008 | 6/14/2025 |  |
+| 6/17/2003 | Police Officer | Intermediate | Granted | 6/17/2003 | 6/14/2025 |  |
+| 2/18/2000 | Police Officer | Basic | Granted | 2/18/2000 | 6/14/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

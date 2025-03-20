@@ -52,7 +52,7 @@ certification_records:
 training_records:
 - date: 3/3/2025
   course: PDP0827A
-  title: 2025 Training Return to Work ABLE
+  title: 2025 Training Return to Work
   status: Instructed
   score: '0.0'
   hours: '9.00'

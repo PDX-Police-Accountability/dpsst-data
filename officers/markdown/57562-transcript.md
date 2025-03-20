@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/16/2025 | OCP3102A | Taser 7 Certification | Instructed | 0.0 | 1.50 |
 | 3/5/2025 | OCP1731A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 2/24/2025 | OCP1139A | Defensive Tactics - Weapons Based Entaglements | Passed | 0.0 | 1.00 |
 | 2/11/2025 | OCP2030A | Taser 7 Certification | Instructed | 0.0 | 4.00 |

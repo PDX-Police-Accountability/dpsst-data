@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2025 | HBS2309A | Virtual ADA Compliance | Passed | 0.0 | 1.00 |
 | 2/3/2025 | HBS2122A | On Duty PIT | Passed | 0.0 | 0.50 |
 | 12/4/2024 | HBS2402A | Hearing Conservation Video | Passed | 0.0 | 0.25 |
 | 12/1/2024 | HBS1371A | Nov. Virtual Session #2 General | Passed | 0.0 | 2.25 |

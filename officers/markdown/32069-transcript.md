@@ -39,14 +39,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/10/2025 | REG1078A | Take Downs/Ground Control | Passed | 0.0 | 1.00 |
+| 3/3/2025 | REG3712A | DT | Passed | 0.0 | 1.00 |
 | 2/26/2025 | SDP3225A | TASER Annual Recertification 4hr | Passed | 0.0 | 4.00 |
 | 2/26/2025 | SDP3341A | Defensive Tactics - Control and Escapes | Passed | 0.0 | 1.00 |
 | 2/26/2025 | SDP4498A | Firearms Training | Passed | 0.0 | 2.00 |
+| 2/10/2025 | REG3671A | DT | Passed | 0.0 | 1.00 |
+| 1/27/2025 | REG1315A | Passing the Legs/Guard | Passed | 0.0 | 1.00 |
 | 1/15/2025 | SDP0679A | Bloodborne Pathogens Training | Passed | 0.0 | 1.00 |
 | 1/15/2025 | SDP0631A | CPR Adult, Child, Infant Plus First Aid | Passed | 0.0 | 4.00 |
 | 1/15/2025 | SDP1609A | WRAP Refresher | Passed | 0.0 | 1.00 |
 | 1/13/2025 | REG0726A | Ground Control | Passed | 0.0 | 1.00 |
 | 1/6/2025 | REG4399A | DT | Passed | 0.0 | 1.00 |
+| 1/3/2025 | REG1209A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 12/30/2024 | REG2144A | DT | Passed | 0.0 | 1.00 |
 | 12/11/2024 | SDP0597A | Use of Force Report Training | Passed | 0.0 | 1.00 |
 | 12/11/2024 | SDP1863A | Vehicle Extractions | Passed | 0.0 | 1.00 |

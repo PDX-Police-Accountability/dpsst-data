@@ -35,8 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2025 | REG3712A | DT | Passed | 0.0 | 1.00 |
+| 2/27/2025 | REG2776A | DT | Passed | 0.0 | 1.00 |
+| 2/3/2025 | REG1191A | DT | Passed | 0.0 | 1.00 |
+| 1/30/2025 | REG4567A | DT | Passed | 0.0 | 1.00 |
 | 1/13/2025 | REG0726A | Ground Control | Passed | 0.0 | 1.00 |
 | 1/6/2025 | REG4399A | DT | Passed | 0.0 | 1.00 |
+| 1/3/2025 | REG1209A | DT Ground Control | Passed | 0.0 | 1.00 |
 | 1/2/2025 | REG1760A | DT | Passed | 0.0 | 1.00 |
 | 12/26/2024 | REG2777A | Ground Control | Passed | 0.0 | 1.00 |
 | 12/12/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |

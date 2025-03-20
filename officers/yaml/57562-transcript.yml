@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 3/16/2025
+  course: OCP3102A
+  title: Taser 7 Certification
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/5/2025
   course: OCP1731A
   title: RDS M17 Pistol Conversion

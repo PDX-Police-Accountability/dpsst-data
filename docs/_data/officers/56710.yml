@@ -68,6 +68,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2025
+  course: SDP2748A
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/12/2025
+  course: SDP2718A
+  title: Photo Lineups/In-field Showups
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/12/2025
+  course: SDP1165A
+  title: Drone Deployments and General Info
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/12/2025
+  course: SDP2309A
+  title: Death Investigations and Major Incident Response
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/10/2025
+  course: REG1078A
+  title: Take Downs/Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/3/2025
+  course: REG3712A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: REG2776A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2025
+  course: REG4356A
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/12/2025
   course: SDP1329A
   title: C4C Basic Principles for Weapon Retention
@@ -80,12 +128,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/10/2025
+  course: REG3671A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/8/2025
   course: OSH1188A
   title: ARIDE
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 2/3/2025
+  course: REG1191A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/27/2025
+  course: REG1315A
+  title: Passing the Legs/Guard
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/15/2025
   course: SDP0679A
   title: Bloodborne Pathogens Training
