@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2025
+  course: PDP2497A
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/22/2025
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

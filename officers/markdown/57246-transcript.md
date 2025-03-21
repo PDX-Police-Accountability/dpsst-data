@@ -23,6 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/5/2025 | 3/5/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/25/2023 | 5/25/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2025 | HBN1066A | First Aid/CPR/AED | Passed | 0.0 | 6.00 |
 | 3/3/2025 | TRN4564A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 12/18/2024 | HBN1070A | Extremism in Oregon: Roots and Responses | Passed | 0.0 | 2.00 |
 | 11/14/2024 | HBN2855A | Search and Seizure - Legal and Safe | Passed | 0.0 | 8.00 |

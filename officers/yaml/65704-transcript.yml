@@ -30,12 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 2/26/2025
+  course: REG2129A
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 2/21/2025
   course: PDP2677A
   title: 2025 Radar Lidar Operators Course
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 1/30/2025
+  course: REG0637A
+  title: INTOX 8000
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/31/2024
   course: PDP1453A
   title: IS-241 Decision Making and Problem Solving

@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2025 | BNS0722A | Building Search Scennarios | Passed | 0.0 | 1.00 |
+| 3/17/2025 | BNS2071A | Arrest and Control | Passed | 0.0 | 2.00 |
+| 3/17/2025 | BNS0449A | Mechanical Breaching | Passed | 0.0 | 1.00 |
 | 2/24/2025 | BNS3186A | Building Clearing/Prep for Retirement | Passed | 0.0 | 3.00 |
 | 1/25/2025 | BNS4361A | Patrol Tactics | Passed | 0.0 | 1.00 |
 | 1/20/2025 | BNS1644A | Building Search | Passed | 0.0 | 2.00 |

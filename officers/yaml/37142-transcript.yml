@@ -125,15 +125,69 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/28/2025
+  course: F1509044
+  title: The Truth About Trust
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2025
+  course: F1533829
+  title: Total Worker Health
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/27/2025
   course: VND0085A
   title: Top 10 Things to Get You Sued
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/27/2025
+  course: F1517987
+  title: Employee Conflicts
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: F1513747
+  title: Jumping the Timeline
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/26/2025
   course: VND1609A
   title: Unpacking the 2025 Drug Threat
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2025
+  course: F1517286
+  title: Active Bystandership
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2025
+  course: F1525809
+  title: Setting the Bar High
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2025
+  course: F1518274
+  title: Top 10 Things That Get You Sued
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2025
+  course: F1540774
+  title: 2025 Drug Threat in Oregon
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2025
+  course: F1528459
+  title: A County Sheriff's Perspective
   status: Passed
   score: '0.0'
   hours: '1.00'

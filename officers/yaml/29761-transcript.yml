@@ -103,6 +103,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 3/18/2025
+  course: PMC1464A
+  title: Adult and Child CPR/FA
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/15/2019
   course: 19-0014
   title: DPSST Basic Telecommunications
@@ -139,5 +145,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
-attribute_records: []
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/18/2025
+  expiration_date: 3/18/2027
 education_records: []

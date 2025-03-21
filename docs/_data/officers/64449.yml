@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/13/2025
+  course: PDP2497A
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/27/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

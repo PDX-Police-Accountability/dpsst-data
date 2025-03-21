@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/5/2025
+  course: HBN1066A
+  title: First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/3/2025
   course: TRN4564A
   title: Chrono Practices and Contact Standards
@@ -974,6 +980,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/5/2025
+  expiration_date: 3/5/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

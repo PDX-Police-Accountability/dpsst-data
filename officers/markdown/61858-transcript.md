@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/27/2025 | MFN0552A | Behavior Change Plan | Instructed | 0.0 | 6.00 |
 | 2/18/2025 | MFN3712A | Low Light Shooting | Passed | 0.0 | 3.00 |
 | 2/13/2025 | EGN1953A | Oregon Case Management Network - Day 2 | Passed | 0.0 | 2.00 |
 | 2/12/2025 | EGN3814A | Gender Responsive Supervision Network | Passed | 0.0 | 4.00 |

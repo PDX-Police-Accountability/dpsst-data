@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2025
+  course: PDP1867A
+  title: 2025 SERT Breacher In-Service
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 1/23/2025
   course: PDP3657A
   title: 2025 SERT Training - SCENARIO

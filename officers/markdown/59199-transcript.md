@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2025 | EGP2529A | 2024 Pursuit Events Overview | Passed | 0.0 | 4.00 |
 | 2/13/2025 | EGP2296A | HAZMAT | Passed | 0.0 | 4.00 |
 | 1/9/2025 | EGP1455A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/9/2025 | EGP2729A | De-Escalation | Passed | 0.0 | 3.00 |

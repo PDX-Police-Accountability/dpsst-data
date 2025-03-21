@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/27/2025
+  course: MFN0552A
+  title: Behavior Change Plan
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 2/18/2025
   course: MFN3712A
   title: Low Light Shooting

@@ -48,8 +48,17 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/6/2025 | SPP1778A | Adult/Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
+| 2/28/2025 | F1509044 | The Truth About Trust | Passed | 0.0 | 1.00 |
+| 2/28/2025 | F1533829 | Total Worker Health | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND0085A | Top 10 Things to Get You Sued | Passed | 0.0 | 1.00 |
+| 2/27/2025 | F1517987 | Employee Conflicts | Passed | 0.0 | 1.00 |
+| 2/27/2025 | F1513747 | Jumping the Timeline | Passed | 0.0 | 1.00 |
 | 2/26/2025 | VND1609A | Unpacking the 2025 Drug Threat | Passed | 0.0 | 1.00 |
+| 2/26/2025 | F1517286 | Active Bystandership | Passed | 0.0 | 1.00 |
+| 2/26/2025 | F1525809 | Setting the Bar High | Passed | 0.0 | 1.00 |
+| 2/26/2025 | F1518274 | Top 10 Things That Get You Sued | Passed | 0.0 | 1.00 |
+| 2/26/2025 | F1540774 | 2025 Drug Threat in Oregon | Passed | 0.0 | 1.00 |
+| 2/26/2025 | F1528459 | A County Sheriff's Perspective | Passed | 0.0 | 1.00 |
 | 2/6/2025 | SPP2797A | Taser Recertification | Passed | 0.0 | 2.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/8/2024 | SPP4375A | Understanding microaggressions | Passed | 0.0 | 1.00 |

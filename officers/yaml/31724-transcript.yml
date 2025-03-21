@@ -93,6 +93,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2025
+  course: BNS0722A
+  title: Building Search Scennarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/17/2025
+  course: BNS2071A
+  title: Arrest and Control
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/17/2025
+  course: BNS0449A
+  title: Mechanical Breaching
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/24/2025
   course: BNS3186A
   title: Building Clearing/Prep for Retirement

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2025 | PDP2497A | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 2/25/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 4.00 |
 | 1/29/2025 | PDP3981A | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 1/8/2025 | PDP3277A | 2025 SFST Refresher | Passed | 0.0 | 4.00 |

@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2025 | NGP0483A | Immigration Enforcement | Passed | 0.0 | 0.25 |
+| 3/17/2025 | NGP3280A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
 | 12/31/2024 | NGP3184A | Roll Call Training Consolidated Roster | Passed | 0.0 | 20.00 |
 | 11/26/2024 | NGP1046A | CIT-Crisis Response, Understanding Mental Illness | Passed | 0.0 | 3.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

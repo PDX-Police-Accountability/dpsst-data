@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/18/2025
+  course: TGP0690A
+  title: First Aid/CPR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2024
   course: TGP1034A
   title: Path of the Guardian 2024 (PG24-A1)
@@ -2577,6 +2583,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/18/2025
+  expiration_date: 2/28/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

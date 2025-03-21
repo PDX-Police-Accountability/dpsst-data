@@ -48,7 +48,7 @@
 | 12/12/2024 | PDS3811A | ICS-100 | Passed | 0.0 | 2.00 |
 | 12/12/2024 | PDS0984A | OC Training | Passed | 0.0 | 1.00 |
 | 12/12/2024 | PDS3293A | Taser Recertification | Passed | 0.0 | 1.00 |
-| 12/12/2024 | PDS0313A | Taser Recertification | Passed | 0.0 | 1.00 |
+| 12/12/2024 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/11/2024 | PDS4565A | De-Escalation | Passed | 0.0 | 3.00 |
 | 12/11/2024 | PDS2577A | Yoga Mat Class 6 Remove the Armor | Passed | 0.0 | 1.00 |
 | 12/10/2024 | PDS4528A | Yoga Mat Class 5 Recovery | Passed | 0.0 | 1.00 |

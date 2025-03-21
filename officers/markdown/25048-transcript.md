@@ -37,7 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2025 | AVP2932A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 0.00 |
+| 2/12/2025 | AVP3522A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 1/15/2025 | AVP1171A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2024 | MAINTMUA | Maintenance Makeup ACAP | Passed | 0.0 | 1.00 |
