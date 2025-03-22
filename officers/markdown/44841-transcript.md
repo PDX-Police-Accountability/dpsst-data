@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 2/28/2025 | LOP1282A | Fire Investigation: Essentials | Passed | 0.0 | 72.00 |
 | 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
 | 1/30/2025 | LOP0547A | Drug Endangered Children for Patrol | Passed | 0.0 | 0.25 |

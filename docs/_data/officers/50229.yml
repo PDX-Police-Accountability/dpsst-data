@@ -49,6 +49,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/20/2025
+  course: MISCMAIN
+  title: 2025 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/14/2025
+  course: VND1627A
+  title: Bloodborne Pathogens Infectious Material v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/14/2025
+  course: VND3988A
+  title: DOC - Fire Extinguisher Use and Safety v2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/14/2025
+  course: VND1519A
+  title: DOC - Nasal Naloxone (Narcan) v2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/14/2025
+  course: VND1245A
+  title: DOC - OMS - UIR Memo Basics v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/14/2025
+  course: VND0081A
+  title: DOC - Responding to AIC Health Care Needs v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/14/2025
+  course: VND0686A
+  title: DOC - Suicide Detection and Prevention v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/31/2025
   course: VND0331A
   title: Accessibility for AICs w Disabilities_v2025
@@ -1353,6 +1395,10 @@ training_records:
   hours: '3.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
@@ -1363,7 +1409,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/27/2009

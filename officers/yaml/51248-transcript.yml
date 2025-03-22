@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/11/2025
+  course: VND0242A
+  title: Search Warrants, Not as Painful as you Think
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/15/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

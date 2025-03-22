@@ -23,9 +23,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 1/27/2025 | 1/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 4/20/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 4/14/2019 |  |
 ## Education
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/4/2025 | BNP2111A | EVOC/Vehicle Placement | Passed | 0.0 | 1.00 |
 | 2/24/2025 | BNP1169A | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 2/11/2025 | BNP0912A | UAS Monthly Training | Passed | 0.0 | 6.50 |

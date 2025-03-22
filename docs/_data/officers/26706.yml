@@ -34,26 +34,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/19/2003
+- status_date: 3/19/2025
   certificate: Corrections Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 8/19/2003
-  expiration_date: 3/19/2025
+  expiration_date: 12/19/2029
   probation_date: ''
-- status_date: 12/20/1999
-  certificate: Corrections Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 12/20/1999
-  expiration_date: 3/19/2025
-  probation_date: ''
-- status_date: 1/22/1996
+- status_date: 3/19/2025
   certificate: Corrections Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 1/22/1996
-  expiration_date: 3/19/2025
+  expiration_date: 12/19/2029
+  probation_date: ''
+- status_date: 3/19/2025
+  certificate: Corrections Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 12/20/1999
+  expiration_date: 12/19/2029
   probation_date: ''
 training_records:
 - date: 9/26/2024
@@ -2013,18 +2013,10 @@ training_records:
   score: '0.0'
   hours: '282.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/30/2023
   expiration_date: 9/30/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/19/2003

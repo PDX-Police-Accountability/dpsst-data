@@ -33,8 +33,8 @@
 | 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 2/20/2025 | PDP2898A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
 | 2/19/2025 | PDP0563A | 2025 FTEP Post DPSST Firearms Roster | Passed | 0.0 | 23.00 |
+| 2/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 1/22/2025 | REG2762A | DID-SFST | Passed | 0.0 | 0.00 |
-| 10/7/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/3/2024 | PDP1679A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 10/3/2024 | PDP2131A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 10/3/2024 | PDP2933A | ICS-200 Basic Incident Command System | Passed | 0.0 | 4.00 |

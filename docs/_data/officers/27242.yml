@@ -107,9 +107,27 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2025
+  course: VND4101A
+  title: 2025 Case Law/Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/27/2025
   course: VND0085A
   title: Top 10 Things to Get You Sued
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: VND2709A
+  title: COOP Exercises for Disaster Prepardness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: VND0785A
+  title: Navigating Ordinances and Risks
   status: Passed
   score: '0.0'
   hours: '1.00'

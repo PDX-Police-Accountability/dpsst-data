@@ -137,6 +137,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/28/2025
+  course: VND0304A
+  title: Navigating Deflimation and Disparagement Claims
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2025
+  course: VND2815A
+  title: What, Why and How of Total Worker Health
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/27/2025
   course: VND0085A
   title: Top 10 Things to Get You Sued
@@ -152,6 +164,24 @@ training_records:
 - date: 2/27/2025
   course: F1513747
   title: Jumping the Timeline
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: VND2709A
+  title: COOP Exercises for Disaster Prepardness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: VND3032A
+  title: HR 401 Disciplinay Issues? Employee Conflict?
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: VND0785A
+  title: Navigating Ordinances and Risks
   status: Passed
   score: '0.0'
   hours: '1.00'

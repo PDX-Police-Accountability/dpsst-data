@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2025
+  course: PDP4099A
+  title: SERT Large Caliber Rifle Operations Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/6/2025
   course: PDP2870A
   title: 2025 SERT Training - Firearms

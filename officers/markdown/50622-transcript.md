@@ -44,6 +44,8 @@
 | 2/27/2025 | OCP1833A | Top 10 Things To Get You Sued (Virtual) | Passed | 0.0 | 1.00 |
 | 2/27/2025 | OCP4129A | Homeless Camping Debate (Virtual) | Passed | 0.0 | 1.00 |
 | 2/27/2025 | OCP1258A | Operational Compliance: Navigating Military Laws | Passed | 0.0 | 1.00 |
+| 2/27/2025 | VND0785A | Navigating Ordinances and Risks | Passed | 0.0 | 1.00 |
+| 2/27/2025 | VND2039A | Avoiding Military  Veteran claims | Passed | 0.0 | 1.00 |
 | 2/26/2025 | VND0783A | Setting the Bar High: Insights from DPSST | Passed | 0.0 | 1.00 |
 | 2/26/2025 | VND2127A | Active Bystandership: A New Take on See Something. | Passed | 0.0 | 1.00 |
 | 2/26/2025 | VND1609A | Unpacking the 2025 Drug Threat | Passed | 0.0 | 1.00 |

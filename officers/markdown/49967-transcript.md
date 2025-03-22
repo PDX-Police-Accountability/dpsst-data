@@ -29,6 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/22/2025 | MNP1850A | Axon/Taser - End User Annual Recertification | Passed | 0.0 | 2.00 |
+| 2/22/2025 | MNP1042A | 40mm Less Lethal recertification | Passed | 0.0 | 1.50 |
+| 2/22/2025 | MNP0849A | Tactical First Aid Refresher | Passed | 0.0 | 2.00 |
+| 2/22/2025 | MNP3004A | Henderson House DV Advocate Presentation | Passed | 0.0 | 0.50 |
 | 12/3/2024 | MNP0988A | Axon Fleet 3 Operation | Passed | 0.0 | 1.00 |
 | 11/29/2024 | MNP2549A | Anti-bias policing part 2 | Passed | 0.0 | 1.00 |
 | 11/29/2024 | MNP4515A | Anti-bias policing part 1 | Passed | 0.0 | 1.00 |

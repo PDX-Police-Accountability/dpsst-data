@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/16/2025 | VND1641A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 3/7/2025 | PDS2391A | Search and Seizure Training | Passed | 0.0 | 1.50 |
 | 2/7/2025 | PDS3147A | CIT | Passed | 0.0 | 4.00 |
 | 2/7/2025 | PDS1834A | De-Escalation | Passed | 0.0 | 4.00 |

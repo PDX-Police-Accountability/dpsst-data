@@ -35,6 +35,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/22/2025
+  course: MNP1042A
+  title: 40mm Less Lethal recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/22/2025
+  course: MNP0849A
+  title: Tactical First Aid Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/22/2025
+  course: MNP3004A
+  title: Henderson House DV Advocate Presentation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/3/2024
   course: MNP0988A
   title: Axon Fleet 3 Operation

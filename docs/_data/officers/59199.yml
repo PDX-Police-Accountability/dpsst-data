@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/13/2025
+  course: EGP0261A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/13/2025
   course: EGP2296A
   title: HAZMAT

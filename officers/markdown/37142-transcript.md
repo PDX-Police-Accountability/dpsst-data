@@ -50,9 +50,14 @@
 | 3/6/2025 | SPP1778A | Adult/Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 2/28/2025 | F1509044 | The Truth About Trust | Passed | 0.0 | 1.00 |
 | 2/28/2025 | F1533829 | Total Worker Health | Passed | 0.0 | 1.00 |
+| 2/28/2025 | VND0304A | Navigating Deflimation and Disparagement Claims | Passed | 0.0 | 1.00 |
+| 2/28/2025 | VND2815A | What, Why and How of Total Worker Health | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND0085A | Top 10 Things to Get You Sued | Passed | 0.0 | 1.00 |
 | 2/27/2025 | F1517987 | Employee Conflicts | Passed | 0.0 | 1.00 |
 | 2/27/2025 | F1513747 | Jumping the Timeline | Passed | 0.0 | 1.00 |
+| 2/27/2025 | VND2709A | COOP Exercises for Disaster Prepardness | Passed | 0.0 | 1.00 |
+| 2/27/2025 | VND3032A | HR 401 Disciplinay Issues? Employee Conflict? | Passed | 0.0 | 1.00 |
+| 2/27/2025 | VND0785A | Navigating Ordinances and Risks | Passed | 0.0 | 1.00 |
 | 2/26/2025 | VND1609A | Unpacking the 2025 Drug Threat | Passed | 0.0 | 1.00 |
 | 2/26/2025 | F1517286 | Active Bystandership | Passed | 0.0 | 1.00 |
 | 2/26/2025 | F1525809 | Setting the Bar High | Passed | 0.0 | 1.00 |

@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
+| 3/10/2025 | VND2033A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
 | 11/22/2024 | VND0163A | Krav Maga Force Training IDC - 1, 2  5 | Passed | 0.0 | 40.00 |
 | 11/15/2024 | VRP2492A | Taser 7 Energy Weapons | Passed | 0.0 | 8.00 |
 | 10/19/2024 | STP2240A | Identifying People Under the Influence | Passed | 0.0 | 3.00 |

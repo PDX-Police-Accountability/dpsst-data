@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '23.00'
+- date: 2/14/2025
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 1/22/2025
   course: REG2762A
   title: DID-SFST
@@ -72,12 +78,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
-- date: 10/7/2024
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 10/3/2024
   course: PDP1679A
   title: IS-700 National Incident Management System
