@@ -27,7 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/12/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 9/15/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
 | 2/5/2025 | PDP4527A | TEEX WMD/Terrorism Aware for Emer Respndrs | Passed | 0.0 | 8.00 |
 | 2/4/2025 | PDP2622A | 2025 FTEP Orientation | Passed | 0.0 | 5.00 |
 | 2/3/2025 | PDP1027A | 2025 FTEP Geography | Passed | 0.0 | 2.00 |

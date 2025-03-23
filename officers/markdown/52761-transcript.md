@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2025 | PDP2455A | Nighthawk Advanced Digital Tradecraft | Passed | 0.0 | 28.00 |
 | 2/4/2025 | PDP0686A | Intro to Forensic Experiential Trauma Interview | Passed | 0.0 | 14.00 |
 | 1/23/2025 | VND1044A | Responder Life Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/23/2025 | PDP0900A | 2025 Responder Life NW Peer Support Conference | Passed | 0.0 | 14.00 |

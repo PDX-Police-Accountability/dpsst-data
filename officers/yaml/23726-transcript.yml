@@ -98,6 +98,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2025
+  course: PDP2455A
+  title: Nighthawk Advanced Digital Tradecraft
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 12/18/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2025 | PDP3702A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 3/8/2025 | PDP3138A | HDS Bomb Technician Recertification | Passed | 0.0 | 40.00 |
 | 2/19/2025 | PDP3551A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 2/12/2025 | PDP2948A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 2/5/2025 | PDP3231A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
@@ -112,6 +114,7 @@
 | 4/3/2024 | PDP2204A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/27/2024 | PDP1568A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/20/2024 | PDP1369A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 3/14/2024 | PDP1355A | ATF Explosive Evidence Exploitation | Passed | 0.0 | 40.00 |
 | 3/6/2024 | PDP2565A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 2/28/2024 | PDP2362A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 2/21/2024 | PDP0969A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

@@ -20,6 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/21/2025 | Instructor |  | Granted | 3/21/2025 |  |  |
 | 2/19/2025 | Police Officer | Advanced | Lapsed | 11/22/2010 | 11/19/2029 |  |
 | 2/19/2025 | Police Officer | Basic | Lapsed | 10/3/2000 | 11/19/2029 |  |
 | 2/19/2025 | Police Officer | Intermediate | Lapsed | 11/22/2010 | 11/19/2029 |  |

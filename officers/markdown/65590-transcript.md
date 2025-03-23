@@ -27,7 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/12/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 9/15/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
 | 12/24/2024 | PDP4423A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 12/24/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/21/2024 | PDP1771A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2025
+  course: PDP2455A
+  title: Nighthawk Advanced Digital Tradecraft
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 2/26/2025
   course: VND4176A
   title: 28 CFR 23 and WSIN Resources

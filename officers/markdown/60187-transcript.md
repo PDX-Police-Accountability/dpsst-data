@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/13/2025 | OHSU University Police | Resigned | Police Off |  |  |
 | 9/13/2021 | OHSU University Police | Hired | Police Off |  |  |
 | 8/28/2020 | Portland Police Bureau | Prob Dschg | Police Off |  |  |
 | 10/17/2019 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -22,9 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/19/2024 | 4/19/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/13/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 11/4/2019 |  |
 ## Education

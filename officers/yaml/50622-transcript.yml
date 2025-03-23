@@ -111,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/27/2025
+  course: VND3896A
+  title: 'Homeless Camping Debate: Did the Supreme Court'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/26/2025
   course: VND0783A
   title: 'Setting the Bar High: Insights from DPSST'

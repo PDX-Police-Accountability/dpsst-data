@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/17/2025 | BNP2300A | Domestic Violence LAP Hotline | Passed | 0.0 | 1.00 |
 | 3/4/2025 | BNP2111A | EVOC/Vehicle Placement | Passed | 0.0 | 1.00 |
 | 2/24/2025 | BNP1169A | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 2/11/2025 | BNP0912A | UAS Monthly Training | Passed | 0.0 | 6.50 |

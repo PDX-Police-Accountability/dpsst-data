@@ -49,6 +49,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/17/2025
+  course: BNP2300A
+  title: Domestic Violence LAP Hotline
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/4/2025
   course: BNP2111A
   title: EVOC/Vehicle Placement

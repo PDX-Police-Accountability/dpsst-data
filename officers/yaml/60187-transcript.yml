@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/13/2025
+  agency: OHSU University Police
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 9/13/2021
   agency: OHSU University Police
   action: Hired
@@ -739,18 +745,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/19/2024
   expiration_date: 4/19/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/13/2021

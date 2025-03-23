@@ -48,6 +48,7 @@
 | 2/27/2025 | VND0085A | Top 10 Things to Get You Sued | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND2709A | COOP Exercises for Disaster Prepardness | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND0785A | Navigating Ordinances and Risks | Passed | 0.0 | 1.00 |
+| 2/27/2025 | VND3896A | Homeless Camping Debate: Did the Supreme Court | Passed | 0.0 | 1.00 |
 | 2/26/2025 | VND1609A | Unpacking the 2025 Drug Threat | Passed | 0.0 | 1.00 |
 | 1/10/2025 | OAC3757A | A Proactive Approach to Wellness | Passed | 0.0 | 1.00 |
 | 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |

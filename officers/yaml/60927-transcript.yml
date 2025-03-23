@@ -1971,4 +1971,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 8/31/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/15/2019
+  degree: No Degree
+  school: Lane Community College
+  major: ''
+  hours: '57.0'
+- date: 12/15/2011
+  degree: No Degree
+  school: Western Oregon University
+  major: ''
+  hours: '42.0'

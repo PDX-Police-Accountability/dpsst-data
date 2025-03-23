@@ -1777,3 +1777,7 @@
 | Monsef, Cyrus | 64193 | Portland Police Bureau | Active | Police Officer | Return LOA | 2025-03-10 | [md](../markdown/64193-transcript.md) - [yaml](../yaml/64193-transcript.yml) |
 | Greenlee, Michael J. | 50623 | Portland Police Bureau | Active | Detective | LOA | 2025-03-11 | [md](../markdown/50623-transcript.md) - [yaml](../yaml/50623-transcript.yml) |
 | Shyshkin, Sam | 66178 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66178-transcript.md) - [yaml](../yaml/66178-transcript.yml) |
+| Rivera, Steven | 66199 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66199-transcript.md) - [yaml](../yaml/66199-transcript.yml) |
+| Gotovac, Dejan | 66233 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66233-transcript.md) - [yaml](../yaml/66233-transcript.yml) |
+| Mantia, Tyler J. | 66236 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66236-transcript.md) - [yaml](../yaml/66236-transcript.yml) |
+| Corpus-McLemore, Isaak D. | 66243 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66243-transcript.md) - [yaml](../yaml/66243-transcript.yml) |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/11/2025
+  course: PDP4499A
+  title: OPOA Search Warrants
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 3/10/2025
   course: VND2033A
   title: Search Warrants, Not as Painful as you Think
