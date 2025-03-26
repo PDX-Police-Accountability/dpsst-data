@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2025 | WBP4470A | Crisis Response Team Overview | Passed | 0.0 | 0.75 |
 | 12/17/2024 | WBP4453A | Intro to Psychological First Aid | Passed | 0.0 | 1.50 |
 | 12/10/2024 | WBP1492A | Firearms - Q4 Qualifications | Passed | 0.0 | 0.50 |
 | 12/10/2024 | WBP0618A | Firearms Training - Low Light Range Drills | Passed | 0.0 | 3.50 |

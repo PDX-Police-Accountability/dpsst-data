@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/14/2025 | Springfield Police Department | Resigned | Chief |  |  |
 | 3/28/2022 | Springfield Police Department | Reclassed | Chief |  |  |
 | 5/18/2021 | Springfield Police Department | Hired | Actng Chf |  |  |
 | 8/3/2020 | Portland Police Bureau | Retired | Asst Chief |  |  |
@@ -24,12 +25,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/1/2021 | Police Officer | Advanced | Reactivatd | 10/10/2007 |  |  |
-| 7/1/2021 | Police Officer | Basic | Reactivatd | 4/12/1993 |  |  |
-| 7/1/2021 | Police Officer | Executive | Reactivatd | 8/7/2017 |  |  |
-| 7/1/2021 | Police Officer | Intermediate | Reactivatd | 10/10/2007 |  |  |
-| 7/1/2021 | Police Officer | Management | Reactivatd | 8/7/2017 |  |  |
-| 7/1/2021 | Police Officer | Supervisory | Reactivatd | 9/19/2011 |  |  |
+| 7/1/2021 | Police Officer | Advanced | Reactivatd | 10/10/2007 | 6/14/2025 |  |
+| 7/1/2021 | Police Officer | Basic | Reactivatd | 4/12/1993 | 6/14/2025 |  |
+| 7/1/2021 | Police Officer | Executive | Reactivatd | 8/7/2017 | 6/14/2025 |  |
+| 7/1/2021 | Police Officer | Intermediate | Reactivatd | 10/10/2007 | 6/14/2025 |  |
+| 7/1/2021 | Police Officer | Management | Reactivatd | 8/7/2017 | 6/14/2025 |  |
+| 7/1/2021 | Police Officer | Supervisory | Reactivatd | 9/19/2011 | 6/14/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

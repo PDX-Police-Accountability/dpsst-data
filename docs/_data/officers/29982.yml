@@ -89,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/18/2025
+  course: SVP3092A
+  title: Basic Public Information Officer Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/12/2025
   course: AVP2932A
   title: Monthly Leadership Meeting
@@ -101,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/26/2025
+  course: SVP2039A
+  title: Intro to Handgun Optics Transition
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/12/2025
   course: AVP3522A
   title: Monthly Leadership Meeting

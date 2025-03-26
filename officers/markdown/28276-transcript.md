@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/18/2025 | SVP3092A | Basic Public Information Officer Course | Passed | 0.0 | 8.00 |
 | 3/12/2025 | AVP2932A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 3/4/2025 | SVP1394A | Annual Taser Recertfication | Passed | 0.0 | 1.00 |
 | 2/12/2025 | AVP3522A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |

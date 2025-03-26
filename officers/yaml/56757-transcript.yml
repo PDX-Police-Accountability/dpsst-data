@@ -27,10 +27,22 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 11/3/2017
+  agency: Military Service
+  action: Resigned
+  rank: Miltry Pol
+  classification: ''
+  assignment: ''
 - date: 10/20/2016
   agency: Portland Police Bureau
   action: Hired
   rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 5/11/2011
+  agency: Military Service
+  action: Hired
+  rank: Miltry Pol
   classification: ''
   assignment: ''
 certification_records:

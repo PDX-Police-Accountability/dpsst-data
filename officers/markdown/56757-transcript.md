@@ -15,7 +15,9 @@
 | 4/29/2024 | Port of Portland Police Department | Hired | Police Off |  |  |
 | 8/10/2021 | Portland State University DPS | Hired | Police Off |  |  |
 | 1/31/2018 | Portland Police Bureau | Prob Dschg | Police Off |  |  |
+| 11/3/2017 | Military Service | Resigned | Miltry Pol |  |  |
 | 10/20/2016 | Portland Police Bureau | Hired | Police Off |  |  |
+| 5/11/2011 | Military Service | Hired | Miltry Pol |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |

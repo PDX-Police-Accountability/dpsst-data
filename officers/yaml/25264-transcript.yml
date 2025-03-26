@@ -74,6 +74,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/13/2025
+  course: PDS2114A
+  title: Firearms Intro/Manipulation
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 2/10/2025
   course: PDS1588A
   title: Defensive Tactics

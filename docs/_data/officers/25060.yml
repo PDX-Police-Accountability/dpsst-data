@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/5/2025
+  course: WBP4470A
+  title: Crisis Response Team Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/17/2024
   course: WBP4453A
   title: Intro to Psychological First Aid
