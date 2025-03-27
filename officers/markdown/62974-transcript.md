@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/24/2025 | OCP1315A | To Pursue Or Not | Passed | 0.0 | 1.50 |
 | 2/17/2025 | OCP0819A | Ballistic Shield Deployment | Passed | 0.0 | 0.75 |
 | 2/5/2025 | OCP0130A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 1/27/2025 | OCP4312A | Red Dot Sight (RDS) Introduction Course | Passed | 0.0 | 1.00 |

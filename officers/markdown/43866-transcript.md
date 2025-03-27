@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 1/31/2025 | PDP3085A | CATO SWAT Commander Course | Passed | 0.0 | 40.00 |
 | 12/19/2024 | PDP3797A | 2024 SERT Camp Rilea Training | Passed | 0.0 | 28.00 |
 | 12/19/2024 | PDP3797A | 2024 SERT Camp Rilea Training | Instructed | 0.0 | 28.00 |

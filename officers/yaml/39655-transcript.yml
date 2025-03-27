@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/20/2025
+  course: PDP1499A
+  title: SERT CNT Hostage Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/6/2025
   course: PDP2870A
   title: 2025 SERT Training - Firearms

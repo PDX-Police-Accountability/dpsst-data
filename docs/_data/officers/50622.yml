@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/24/2025
+  course: OCP1315A
+  title: To Pursue Or Not
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/19/2025
+  course: OCP1185A
+  title: RDS M17 Pistol Conversion
+  status: Instructed
+  score: '0.0'
+  hours: '13.00'
 - date: 3/3/2025
   course: OCP3156A
   title: Navigating Ordinances and Risks (Virtual)

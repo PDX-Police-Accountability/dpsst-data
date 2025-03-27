@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2025
+  course: PDP3727A
+  title: SERT Critical Infrastructure Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/13/2025
   course: PDP1867A
   title: 2025 SERT Breacher In-Service

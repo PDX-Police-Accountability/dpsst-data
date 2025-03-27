@@ -196,6 +196,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/24/2023
+  course: BVP4270A
+  title: Wellness
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/23/2023
   course: BVP0934A
   title: City of Beaverton Ethics in  Policing

@@ -105,6 +105,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2025
+  course: PDP2959A
+  title: K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 3/5/2025
   course: PDP0382A
   title: 2025 K-9 (K9) Weekly Training

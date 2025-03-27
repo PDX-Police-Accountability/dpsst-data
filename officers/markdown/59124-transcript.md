@@ -31,6 +31,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2025 | BVP2023A | EVOC Classroom | Passed | 0.0 | 3.00 |
+| 9/28/2025 | BVP3487A | CIS Classes and Social Media | Passed | 0.0 | 4.00 |
+| 9/27/2025 | BVP2102A | Body-worn Camera | Passed | 0.0 | 2.00 |
 | 3/10/2025 | E11BVP22 | FTM Equivalency (Beaverton Police Department) | Completed | 0.0 | 50.00 |
 | 2/21/2025 | BVP1298A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 12/23/2024 | HBS0656A | 2024 Active Threat | Passed | 0.0 | 9.00 |
@@ -53,7 +56,76 @@
 | 3/26/2024 | F6R4290A | LIDAR | Passed | 0.0 | 2.00 |
 | 3/25/2024 | F6R0956A | CORE/RADAR | Passed | 0.0 | 6.00 |
 | 3/14/2024 | REG4012A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 11/16/2023 | BVP3343A | Weapons of Mass Destruction | Passed | 0.0 | 5.00 |
+| 11/9/2023 | BVP2349A | Calls For Service | Passed | 0.0 | 4.50 |
+| 11/8/2023 | BVP1737A | PS Net | Passed | 0.0 | 6.00 |
+| 11/8/2023 | BVP0632A | TracWire | Passed | 0.0 | 2.00 |
+| 11/7/2023 | BVP3863A | EVOC 3 | Passed | 0.0 | 4.50 |
+| 11/7/2023 | BVP0465A | PS Net | Passed | 0.0 | 4.00 |
+| 11/6/2023 | BVP4462A | Domestic Violence/ Strangulation Investigations | Passed | 0.0 | 4.50 |
+| 11/3/2023 | BVP2490A | Building Search - Practical | Passed | 0.0 | 7.50 |
+| 11/2/2023 | BVP1963A | Building Search | Passed | 0.0 | 2.00 |
+| 11/2/2023 | BVP2794A | Control Tactics | Passed | 0.0 | 2.00 |
+| 11/2/2023 | BVP1619A | Crisis Breaching | Passed | 0.0 | 3.50 |
+| 11/1/2023 | BVP0703A | Consim Final | Passed | 0.0 | 7.00 |
+| 10/31/2023 | BVP0220A | Incident Command System | Passed | 0.0 | 3.00 |
+| 10/31/2023 | BVP0644A | Consim Drills | Passed | 0.0 | 4.00 |
+| 10/30/2023 | BVP0783A | Control Tactics | Passed | 0.0 | 3.50 |
+| 10/30/2023 | BVP4250A | Firearms 11 | Passed | 0.0 | 3.50 |
+| 10/27/2023 | BVP1796A | Consim 2 | Passed | 0.0 | 3.50 |
+| 10/27/2023 | BVP2929A | Firearms 10 | Passed | 0.0 | 3.50 |
+| 10/26/2023 | BVP4432A | Traffic Stops - Practical | Passed | 0.0 | 7.00 |
+| 10/25/2023 | BVP3982A | Control Tactics | Passed | 0.0 | 2.50 |
+| 10/25/2023 | BVP0743A | Intro to Controlled Substances | Passed | 0.0 | 1.00 |
+| 10/25/2023 | BVP0202A | Low Light Firearms | Passed | 0.0 | 4.00 |
+| 10/24/2023 | BVP3322A | Control Tactics | Passed | 0.0 | 1.50 |
+| 10/24/2023 | BVP0888A | Critical Incidents | Passed | 0.0 | 2.00 |
+| 10/24/2023 | BVP4270A | Wellness | Passed | 0.0 | 4.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
+| 10/23/2023 | BVP2624A | Firearms 9 | Passed | 0.0 | 3.50 |
+| 10/23/2023 | BVP1848A | Traffic Law | Passed | 0.0 | 2.00 |
+| 10/20/2023 | BVP1613A | Control Tactics | Passed | 0.0 | 1.50 |
+| 10/20/2023 | BVP3890A | Firearms 8 | Passed | 0.0 | 3.50 |
+| 10/20/2023 | BVP1902A | Firearms 5 | Passed | 0.0 | 3.50 |
+| 10/19/2023 | BVP1793A | EVOC 2 | Passed | 0.0 | 7.00 |
+| 10/18/2023 | BVP4248A | Control Tactics | Passed | 0.0 | 2.00 |
+| 10/18/2023 | BVP2306A | Firearms 7 | Passed | 0.0 | 3.50 |
+| 10/18/2023 | BVP2581A | High Risk Stops | Passed | 0.0 | 1.50 |
+| 10/17/2023 | BVP3456A | Firearms 6 | Passed | 0.0 | 3.50 |
+| 10/17/2023 | BVP1012A | OC | Passed | 0.0 | 2.50 |
+| 10/17/2023 | BVP3438A | Traffic Stops, Radio, Codes, Maps | Passed | 0.0 | 1.00 |
+| 10/16/2023 | BVP4360A | Control Tactics | Passed | 0.0 | 1.50 |
+| 10/16/2023 | BVP4140A | Use of Force Report Writing | Passed | 0.0 | 2.00 |
+| 10/13/2023 | BVP3988A | Control Tactics | Passed | 0.0 | 2.00 |
+| 10/13/2023 | BVP1326A | Taser | Passed | 0.0 | 7.50 |
+| 10/12/2023 | BVP1279A | Control Tactics | Passed | 0.0 | 1.50 |
+| 10/12/2023 | BVP3240A | Firearms 4 | Passed | 0.0 | 3.50 |
+| 10/12/2023 | BVP3967A | Tactical Emergency Casualty Care Part 2 | Passed | 0.0 | 2.00 |
+| 10/11/2023 | BVP2179A | EVOC 1 | Passed | 0.0 | 7.00 |
+| 10/10/2023 | BVP1891A | Basic Investigations | Passed | 0.0 | 2.00 |
+| 10/10/2023 | BVP1872A | Firearms 3 | Passed | 0.0 | 3.50 |
+| 10/10/2023 | BVP3469A | Use of Force 3 - Scenarios | Passed | 0.0 | 1.50 |
+| 10/9/2023 | BVP0321A | Control Tactics | Passed | 0.0 | 2.00 |
+| 10/9/2023 | BVP0932A | Search and Seizure 2 | Passed | 0.0 | 2.50 |
+| 10/6/2023 | BVP1803A | Control Tactics | Passed | 0.0 | 2.00 |
+| 10/6/2023 | BVP0634A | De-Escalation Tactics and Practical | Passed | 0.0 | 3.50 |
+| 10/6/2023 | BVP0039A | Use of Force 1 | Passed | 0.0 | 2.00 |
+| 10/5/2023 | BVP2768A | Control Tactics | Passed | 0.0 | 2.00 |
+| 10/5/2023 | BVP3578A | Search and Seizure | Passed | 0.0 | 2.00 |
+| 10/5/2023 | BVP1239A | Tactical Emergency Casualty Care | Passed | 0.0 | 2.50 |
+| 10/4/2023 | BVP2546A | Court Procedures | Passed | 0.0 | 0.50 |
+| 10/4/2023 | BVP0131A | Criminal Law 1 | Passed | 0.0 | 1.50 |
+| 10/4/2023 | BVP2812A | Firearms 2 | Passed | 0.0 | 3.50 |
+| 10/3/2023 | BVP0815A | Consim 1 | Passed | 0.0 | 4.00 |
+| 10/2/2023 | BVP2088A | Firearms 1 | Passed | 0.0 | 3.50 |
+| 10/2/2023 | BVP3601A | High-Risk Handcuffing | Passed | 0.0 | 4.00 |
+| 9/29/2023 | BVP0770A | Handcuffing / Pat-down / Search | Passed | 0.0 | 5.50 |
+| 9/28/2023 | BVP2194A | Bias-based Policing | Passed | 0.0 | 1.00 |
+| 9/28/2023 | BVP1514A | Internal Affairs and Ethics | Passed | 0.0 | 1.00 |
+| 9/28/2023 | BVP0761A | Police Legitimacy Procedural Justice | Passed | 0.0 | 1.50 |
+| 9/27/2023 | BVP4081A | Control Tactics | Passed | 0.0 | 1.50 |
+| 9/26/2023 | BVP1441A | Intro to Control Tactics | Passed | 0.0 | 2.00 |
+| 9/26/2023 | BVP4238A | CJIS/LEDS | Passed | 0.0 | 5.50 |
 | 9/23/2023 | BVP4305A | CPR/First Aid for Adults and Children | Passed | 0.0 | 4.00 |
 | 10/10/2019 | PDP09647 | 2019-8 City Attorney's Office Legal Updates 8/2019 | Passed | 0.0 | 0.25 |
 | 10/8/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |

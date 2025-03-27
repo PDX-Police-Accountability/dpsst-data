@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: 3/25/2025
 training_records:
+- date: 10/9/2025
+  course: BVP2023A
+  title: EVOC Classroom
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/28/2025
+  course: BVP3487A
+  title: CIS Classes and Social Media
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/27/2025
+  course: BVP2102A
+  title: Body-worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/10/2025
   course: E11BVP22
   title: FTM Equivalency (Beaverton Police Department)
@@ -168,12 +186,426 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2023
+  course: BVP3343A
+  title: Weapons of Mass Destruction
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/9/2023
+  course: BVP2349A
+  title: Calls For Service
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/8/2023
+  course: BVP1737A
+  title: PS Net
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/8/2023
+  course: BVP0632A
+  title: TracWire
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2023
+  course: BVP3863A
+  title: EVOC 3
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/7/2023
+  course: BVP0465A
+  title: PS Net
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/6/2023
+  course: BVP4462A
+  title: Domestic Violence/ Strangulation Investigations
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/3/2023
+  course: BVP2490A
+  title: Building Search - Practical
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 11/2/2023
+  course: BVP1963A
+  title: Building Search
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/2/2023
+  course: BVP2794A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/2/2023
+  course: BVP1619A
+  title: Crisis Breaching
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/1/2023
+  course: BVP0703A
+  title: Consim Final
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/31/2023
+  course: BVP0220A
+  title: Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/31/2023
+  course: BVP0644A
+  title: Consim Drills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/30/2023
+  course: BVP0783A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/30/2023
+  course: BVP4250A
+  title: Firearms 11
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/27/2023
+  course: BVP1796A
+  title: Consim 2
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/27/2023
+  course: BVP2929A
+  title: Firearms 10
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/26/2023
+  course: BVP4432A
+  title: Traffic Stops - Practical
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/25/2023
+  course: BVP3982A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/25/2023
+  course: BVP0743A
+  title: Intro to Controlled Substances
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/25/2023
+  course: BVP0202A
+  title: Low Light Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/24/2023
+  course: BVP3322A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/24/2023
+  course: BVP0888A
+  title: Critical Incidents
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/24/2023
+  course: BVP4270A
+  title: Wellness
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/23/2023
   course: BVP0934A
   title: City of Beaverton Ethics in  Policing
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/23/2023
+  course: BVP2624A
+  title: Firearms 9
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/23/2023
+  course: BVP1848A
+  title: Traffic Law
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/2023
+  course: BVP1613A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/20/2023
+  course: BVP3890A
+  title: Firearms 8
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/20/2023
+  course: BVP1902A
+  title: Firearms 5
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/19/2023
+  course: BVP1793A
+  title: EVOC 2
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/18/2023
+  course: BVP4248A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/18/2023
+  course: BVP2306A
+  title: Firearms 7
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/18/2023
+  course: BVP2581A
+  title: High Risk Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/17/2023
+  course: BVP3456A
+  title: Firearms 6
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/17/2023
+  course: BVP1012A
+  title: OC
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/17/2023
+  course: BVP3438A
+  title: Traffic Stops, Radio, Codes, Maps
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: BVP4360A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/16/2023
+  course: BVP4140A
+  title: Use of Force Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/13/2023
+  course: BVP3988A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/13/2023
+  course: BVP1326A
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 10/12/2023
+  course: BVP1279A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/12/2023
+  course: BVP3240A
+  title: Firearms 4
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/12/2023
+  course: BVP3967A
+  title: Tactical Emergency Casualty Care Part 2
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/11/2023
+  course: BVP2179A
+  title: EVOC 1
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/10/2023
+  course: BVP1891A
+  title: Basic Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/10/2023
+  course: BVP1872A
+  title: Firearms 3
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/10/2023
+  course: BVP3469A
+  title: Use of Force 3 - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/9/2023
+  course: BVP0321A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/9/2023
+  course: BVP0932A
+  title: Search and Seizure 2
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/6/2023
+  course: BVP1803A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/6/2023
+  course: BVP0634A
+  title: De-Escalation Tactics and Practical
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/6/2023
+  course: BVP0039A
+  title: Use of Force 1
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/5/2023
+  course: BVP2768A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/5/2023
+  course: BVP3578A
+  title: Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/5/2023
+  course: BVP1239A
+  title: Tactical Emergency Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/4/2023
+  course: BVP2546A
+  title: Court Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2023
+  course: BVP0131A
+  title: Criminal Law 1
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/4/2023
+  course: BVP2812A
+  title: Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/3/2023
+  course: BVP0815A
+  title: Consim 1
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/2/2023
+  course: BVP2088A
+  title: Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/2/2023
+  course: BVP3601A
+  title: High-Risk Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/29/2023
+  course: BVP0770A
+  title: Handcuffing / Pat-down / Search
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 9/28/2023
+  course: BVP2194A
+  title: Bias-based Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/28/2023
+  course: BVP1514A
+  title: Internal Affairs and Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/28/2023
+  course: BVP0761A
+  title: Police Legitimacy Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/27/2023
+  course: BVP4081A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/26/2023
+  course: BVP1441A
+  title: Intro to Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/26/2023
+  course: BVP4238A
+  title: CJIS/LEDS
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 9/23/2023
   course: BVP4305A
   title: CPR/First Aid for Adults and Children
