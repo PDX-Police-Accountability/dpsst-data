@@ -44,6 +44,8 @@
 | 3/3/2025 | OCS0163A | Fundamentals of Marksmanship and Qual | Instructed | 0.0 | 3.00 |
 | 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Instructed | 0.0 | 21.00 |
+| 2/25/2025 | OCS1207A | February 2025 Firearms | Instructed | 0.0 | 3.00 |
+| 2/21/2025 | OCS2988A | February 2025 New Hire Firearms | Instructed | 0.0 | 40.00 |
 | 2/20/2025 | OCS4448A | Fundamentals of Marksmanship | Instructed | 0.0 | 24.00 |
 | 2/6/2025 | OCS3717A | 2025 Honor Guard Revolver | Instructed | 0.0 | 3.00 |
 | 2/5/2025 | OCS4339A | Handgun Qualification and Marksmanship | Instructed | 0.0 | 1.00 |
@@ -52,6 +54,7 @@
 | 1/30/2025 | OCS2612A | January 2025 DT's and MILO | Passed | 0.0 | 1.00 |
 | 1/30/2025 | OCS2612A | January 2025 DT's and MILO | Instructed | 0.0 | 5.00 |
 | 1/29/2025 | OCS1617A | 2024 Makeup Firearms | Instructed | 0.0 | 4.00 |
+| 1/29/2025 | OCS0589A | 2024 Makeup Firearms | Instructed | 0.0 | 4.00 |
 | 1/15/2025 | OCS3163A | Marksmanship, December 2024 Firearms | Instructed | 0.0 | 2.00 |
 | 1/14/2025 | OCS1652A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 1/7/2025 | OCS3282A | 2025 FTU Instructor Course | Instructed | 0.0 | 20.00 |

@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/12/2025
+  course: OCS1937A
+  title: Equity in Policing and Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/30/2025
   course: OCS2612A
   title: January 2025 DT's and MILO

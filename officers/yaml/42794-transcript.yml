@@ -104,6 +104,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '21.00'
+- date: 2/25/2025
+  course: OCS1207A
+  title: February 2025 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/21/2025
+  course: OCS2988A
+  title: February 2025 New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/20/2025
   course: OCS4448A
   title: Fundamentals of Marksmanship
@@ -148,6 +160,12 @@ training_records:
   hours: '5.00'
 - date: 1/29/2025
   course: OCS1617A
+  title: 2024 Makeup Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/29/2025
+  course: OCS0589A
   title: 2024 Makeup Firearms
   status: Instructed
   score: '0.0'

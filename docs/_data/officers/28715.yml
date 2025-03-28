@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/19/2025
+  course: HBP2606A
+  title: Warrant Service (classroom)
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/19/2025
+  course: HBP1270A
+  title: Warrant Service (practical)
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 1/29/2025
   course: HBP3738A
   title: EVOC, Arrest and Control
