@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/19/2025 | 3/19/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2025 | APD2535A | CPR / First Aid | Passed | 0.0 | 7.00 |
 | 12/31/2024 | APD4116A | Reasonable Suspicion Testing | Passed | 0.0 | 1.50 |
 | 12/24/2024 | APD1546A | Interacting w/ the Mentally Ill as a 1st Responder | Passed | 0.0 | 1.00 |
 | 12/24/2024 | APD1829A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |

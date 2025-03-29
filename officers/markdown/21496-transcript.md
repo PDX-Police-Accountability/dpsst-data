@@ -60,6 +60,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/7/2025 | SAG0759A | 2025 Prosecuting the Drugged Driver | Passed | 0.0 | 3.50 |
+| 3/6/2025 | SAG2970A | 2025 Prosecuting the Drugged Driver | Passed | 0.0 | 8.00 |
+| 3/5/2025 | SAG4182A | 2025 Prosecuting the Drugged Driver | Passed | 0.0 | 8.00 |
+| 3/4/2025 | SAG1434A | 2025 Prosecuting the Drugged Driver | Passed | 0.0 | 8.00 |
+| 3/3/2025 | SAG1805A | 2025 Prosecuting the Drugged Driver | Passed | 0.0 | 4.00 |
 | 2/20/2025 | OSH1947A | STOP Program: Data Collection on the Road | Passed | 0.0 | 0.50 |
 | 12/20/2024 | REG0829A | Intoxilyzer 8000 Instructor Course | Passed | 0.0 | 7.00 |
 | 12/13/2024 | PLS1077A | ARIDE (with Wetlab) | Instructed | 0.0 | 16.00 |

@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2025 | SDP2161A | Drone Introduction | Passed | 0.0 | 1.50 |
+| 3/19/2025 | SDP0260A | Eyewitness Idetification Training | Passed | 0.0 | 1.00 |
+| 3/19/2025 | SDP4482A | Major Incidents and Death Investigations | Passed | 0.0 | 1.00 |
 | 3/10/2025 | REG1078A | Take Downs/Ground Control | Passed | 0.0 | 1.00 |
 | 3/3/2025 | REG3712A | DT | Passed | 0.0 | 1.00 |
 | 2/26/2025 | SDP3225A | TASER Annual Recertification 4hr | Passed | 0.0 | 4.00 |

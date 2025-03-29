@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/21/2025
+  course: REG1395A
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/26/2025
   course: REG2129A
   title: SFST-DID (Hours included in Basic)

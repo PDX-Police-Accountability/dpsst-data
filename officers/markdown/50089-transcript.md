@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Wuthrich, Samantha K. |
+| name | Cater, Samantha K. |
 | dpsst_identifier | 50089 |
 | agency | Portland Police Bureau |
 | employment_status | Active |

@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2025
+  course: SDP2161A
+  title: Drone Introduction
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/19/2025
+  course: SDP0260A
+  title: Eyewitness Idetification Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/19/2025
+  course: SDP4482A
+  title: Major Incidents and Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/10/2025
   course: REG1078A
   title: Take Downs/Ground Control

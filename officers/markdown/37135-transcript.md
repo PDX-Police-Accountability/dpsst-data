@@ -45,6 +45,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/21/2025 | PDP2677A | 2025 Radar Lidar Operators Course | Passed | 0.0 | 14.00 |
+| 2/21/2025 | REG1395A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 1/8/2025 | PDP3277A | 2025 SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/13/2024 | VND3263A | North American Standard CMV Inspection Part A | Passed | 0.0 | 40.00 |
 | 12/8/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
