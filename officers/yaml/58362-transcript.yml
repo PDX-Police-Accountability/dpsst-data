@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2025
+  course: OCS2416A
+  title: FTO school
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 2/27/2025
   course: OCS2050A
   title: February 2025 Monthly Firearms

@@ -34,11 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2025 | PSU1189A | MCDA Legal Update: UUV | Passed | 0.0 | 1.50 |
 | 3/5/2025 | PSU2798A | Firearms Qualification/Shield Refresher | Passed | 0.0 | 2.00 |
 | 3/2/2025 | PSU1187A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 3/2/2025 | PSU0679A | Clery Act | Passed | 0.0 | 2.00 |
 | 3/2/2025 | PSU3972A | Cyber Security Awareness | Passed | 0.0 | 0.75 |
 | 2/23/2025 | PSU1605A | FTEP Orientation | Passed | 0.0 | 3.00 |
+| 2/23/2025 | PSU2708A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |
 | 1/14/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/26/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/26/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

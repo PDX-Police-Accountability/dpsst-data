@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/18/2025 | PDS1291A | Search Patterns | Passed | 0.0 | 8.00 |
 | 2/25/2025 | PDS3082A | Underwater Navigation | Passed | 0.0 | 8.00 |
 | 2/25/2025 | PDS1594A | Underwater Searches | Passed | 0.0 | 8.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

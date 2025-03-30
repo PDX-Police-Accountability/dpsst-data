@@ -50,6 +50,84 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/18/2025
+  course: UPR1097A
+  title: Patrol Rifle Training/Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/18/2025
+  course: UPR4280A
+  title: Patrol Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/17/2025
+  course: UPR3372A
+  title: Patrol Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/17/2025
+  course: UPR1570A
+  title: Railroad Safety Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/16/2025
+  course: UPR1591A
+  title: Computer Operations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/15/2025
+  course: UPR0553A
+  title: Krav Maga Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/15/2025
+  course: UPR1253A
+  title: Reality Based Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/15/2025
+  course: UPR0369A
+  title: Glock 17 Handgun Training/Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/14/2025
+  course: UPR0036A
+  title: Straight/Collapsible Baton Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/14/2025
+  course: UPR0334A
+  title: Axon Body Camera
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/14/2025
+  course: UPR2124A
+  title: Glock 17 Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/13/2025
+  course: UPR3560A
+  title: Taser 10 End User
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/13/2025
+  course: UPR1684A
+  title: Sabre Red OC Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/27/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

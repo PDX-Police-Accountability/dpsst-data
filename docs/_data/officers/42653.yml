@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 2/21/2025
+  course: OCS4138A
+  title: FTO school
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

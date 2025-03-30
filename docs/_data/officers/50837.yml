@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/21/2025
+  course: OCS4138A
+  title: FTO school
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 12/12/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

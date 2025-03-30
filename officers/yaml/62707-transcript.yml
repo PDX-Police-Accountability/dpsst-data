@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/20/2025
+  course: PSU1189A
+  title: 'MCDA Legal Update: UUV'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/5/2025
   course: PSU2798A
   title: Firearms Qualification/Shield Refresher
@@ -75,6 +81,12 @@ training_records:
 - date: 2/23/2025
   course: PSU1605A
   title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/23/2025
+  course: PSU2708A
+  title: Equity in Policing and Public Safety
   status: Passed
   score: '0.0'
   hours: '3.00'

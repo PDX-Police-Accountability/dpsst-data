@@ -35,6 +35,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/18/2025 | UPR1097A | Patrol Rifle Training/Qualification | Passed | 0.0 | 4.00 |
+| 2/18/2025 | UPR4280A | Patrol Rifle Training | Passed | 0.0 | 8.00 |
+| 2/17/2025 | UPR3372A | Patrol Rifle Training | Passed | 0.0 | 8.00 |
+| 1/17/2025 | UPR1570A | Railroad Safety Course | Passed | 0.0 | 8.00 |
+| 1/16/2025 | UPR1591A | Computer Operations | Passed | 0.0 | 4.00 |
+| 1/15/2025 | UPR0553A | Krav Maga Defensive Tactics | Passed | 0.0 | 6.00 |
+| 1/15/2025 | UPR1253A | Reality Based Scenarios | Passed | 0.0 | 2.00 |
+| 1/15/2025 | UPR0369A | Glock 17 Handgun Training/Qualification | Passed | 0.0 | 4.00 |
+| 1/14/2025 | UPR0036A | Straight/Collapsible Baton Training | Passed | 0.0 | 1.00 |
+| 1/14/2025 | UPR0334A | Axon Body Camera | Passed | 0.0 | 3.00 |
+| 1/14/2025 | UPR2124A | Glock 17 Handgun Training | Passed | 0.0 | 4.00 |
+| 1/13/2025 | UPR3560A | Taser 10 End User | Passed | 0.0 | 8.00 |
+| 1/13/2025 | UPR1684A | Sabre Red OC Training | Passed | 0.0 | 1.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/23/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/29/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

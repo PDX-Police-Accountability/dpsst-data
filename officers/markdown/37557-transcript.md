@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/14/2025 | LOP1092A | CCDA DV Investigations Presentation | Passed | 0.0 | 2.00 |
 | 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
 | 12/31/2024 | LOP2336A | OC Refresher | Passed | 0.0 | 2.00 |
 | 12/20/2024 | 24-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |

@@ -57,6 +57,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 2/21/2025
+  course: OCS4138A
+  title: FTO school
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 12/26/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

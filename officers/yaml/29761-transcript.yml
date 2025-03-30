@@ -103,6 +103,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 3/27/2025
+  course: PMC1325A
+  title: ProQA EFD
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/18/2025
   course: PMC1464A
   title: Adult and Child CPR/FA

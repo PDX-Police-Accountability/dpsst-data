@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2025
+  course: CAP3056A
+  title: Annual Patrol Rifle Qualification and Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/19/2025
   course: CAP2865A
   title: CPR / First Aid

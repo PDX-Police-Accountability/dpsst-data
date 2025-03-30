@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/17/2025
+  agency: Springfield Police Department
+  action: Promotion
+  rank: Chief
+  classification: ''
+  assignment: ''
 - date: 1/17/2023
   agency: Springfield Police Department
   action: Hired

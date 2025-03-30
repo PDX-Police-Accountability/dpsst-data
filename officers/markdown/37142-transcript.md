@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/17/2025 | Springfield Police Department | Promotion | Chief |  |  |
 | 1/17/2023 | Springfield Police Department | Hired | Dpty Chief |  |  |
 | 1/13/2023 | Portland Police Bureau | Retired | Asst Chief |  |  |
 | 8/4/2020 | Portland Police Bureau | Promotion | Asst Chief |  |  |

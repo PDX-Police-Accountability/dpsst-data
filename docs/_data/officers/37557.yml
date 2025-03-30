@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/14/2025
+  course: LOP1092A
+  title: CCDA DV Investigations Presentation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/31/2025
   course: LOP1946A
   title: Firearms Training

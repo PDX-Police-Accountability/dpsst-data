@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/21/2025
+  course: OCS4138A
+  title: FTO school
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 11/4/2021
   course: PDP27577
   title: ICS-400 Adv ICS Cmd  Gen Staff-Complex Incdnts
