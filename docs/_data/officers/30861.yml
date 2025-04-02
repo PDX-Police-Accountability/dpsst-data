@@ -104,6 +104,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: BNS1693A
+  title: Officer Involved Shooting Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/2/2025
   course: BNS4138A
   title: Welcome to the Patrol Division Leadership Team

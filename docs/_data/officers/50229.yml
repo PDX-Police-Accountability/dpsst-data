@@ -55,6 +55,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/6/2025
+  course: VND2336A
+  title: 2025 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/14/2025
   course: VND1627A
   title: Bloodborne Pathogens Infectious Material v2025
@@ -1406,10 +1412,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/15/2024
   expiration_date: 4/1/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/27/2009

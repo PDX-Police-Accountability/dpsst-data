@@ -39,8 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/19/2025 | HBP2606A | Warrant Service (classroom) | Passed | 0.0 | 2.50 |
-| 2/19/2025 | HBP1270A | Warrant Service (practical) | Passed | 0.0 | 4.50 |
+| 2/19/2025 | HBP2606A | Warrant Service (Classroom) | Passed | 0.0 | 2.50 |
+| 2/19/2025 | HBP1270A | Warrant Service (Practical) | Passed | 0.0 | 4.50 |
 | 1/29/2025 | HBP3738A | EVOC, Arrest and Control | Passed | 0.0 | 2.50 |
 | 1/29/2025 | HBP0961A | Safe Evidence Handling | Passed | 0.0 | 1.00 |
 | 1/29/2025 | HBP1866A | HUMAN TRAFFICKING | Passed | 0.0 | 3.00 |

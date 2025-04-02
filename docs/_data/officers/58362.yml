@@ -52,7 +52,7 @@ certification_records:
 training_records:
 - date: 3/19/2025
   course: OCS2416A
-  title: FTO school
+  title: FTO School
   status: Passed
   score: '0.0'
   hours: '24.00'

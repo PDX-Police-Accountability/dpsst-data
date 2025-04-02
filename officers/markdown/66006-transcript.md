@@ -35,6 +35,5 @@
 | 2/20/2025 | PDP1851A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 2/18/2025 | PDP1873A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 4.00 |
 | 1/21/2024 | PDP2141A | IS-200.C Basic Inc Command System for Initial Resp | Passed | 0.0 | 4.00 |
-| 4/3/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/3/2022 | PDP0262A | IS-700.b Intro to Nation Incident Manage Syst | Passed | 0.0 | 3.00 |
 | 4/3/2022 | PDP1210A | IS-100.c Intro to Incident Command System | Passed | 0.0 | 2.00 |

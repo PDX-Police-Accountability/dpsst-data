@@ -32,7 +32,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | CPR | 5/22/2023 | 5/22/2025 |
@@ -47,10 +46,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/1/2025 | HBS2588A | Virtual-Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
-| 2/28/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
-| 2/28/2025 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
-| 2/28/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
-| 2/28/2025 | XDELETE6 | Pending for Deletion Due to Duplicate or | Passed | 0.0 | 2.00 |
 | 2/28/2025 | HBS2564A | Virtual PREA | Passed | 0.0 | 1.00 |
 | 2/28/2025 | HBS3212A | Virtual Sexual Harassment Prevention - LE | Passed | 0.0 | 1.00 |
 | 2/14/2025 | HBS3191A | 2025 February Rifle Updates | Passed | 0.0 | 8.00 |

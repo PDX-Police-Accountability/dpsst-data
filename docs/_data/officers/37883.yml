@@ -45,12 +45,6 @@ training_records:
   score: '0.0'
   hours: '9.00'
 - date: 2/28/2025
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '27.00'
-- date: 2/28/2025
   course: OCS4548A
   title: GRIN - Group Crisis - Assisting Individuals
   status: Passed

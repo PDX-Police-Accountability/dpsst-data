@@ -33,7 +33,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/9/2025 | BVP2023A | EVOC Classroom | Passed | 0.0 | 3.00 |
 | 9/28/2025 | BVP3487A | CIS Classes and Social Media | Passed | 0.0 | 4.00 |
-| 9/27/2025 | BVP2102A | Body-worn Camera | Passed | 0.0 | 2.00 |
+| 9/27/2025 | BVP2102A | Body-Worn Camera | Passed | 0.0 | 2.00 |
 | 3/10/2025 | E11BVP22 | FTM Equivalency (Beaverton Police Department) | Completed | 0.0 | 50.00 |
 | 2/21/2025 | BVP1298A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 12/23/2024 | HBS0656A | 2024 Active Threat | Passed | 0.0 | 9.00 |
@@ -62,7 +62,7 @@
 | 11/8/2023 | BVP0632A | TracWire | Passed | 0.0 | 2.00 |
 | 11/7/2023 | BVP3863A | EVOC 3 | Passed | 0.0 | 4.50 |
 | 11/7/2023 | BVP0465A | PS Net | Passed | 0.0 | 4.00 |
-| 11/6/2023 | BVP4462A | Domestic Violence/ Strangulation Investigations | Passed | 0.0 | 4.50 |
+| 11/6/2023 | BVP4462A | Domestic Violence/Strangulation Investigations | Passed | 0.0 | 4.50 |
 | 11/3/2023 | BVP2490A | Building Search - Practical | Passed | 0.0 | 7.50 |
 | 11/2/2023 | BVP1963A | Building Search | Passed | 0.0 | 2.00 |
 | 11/2/2023 | BVP2794A | Control Tactics | Passed | 0.0 | 2.00 |
@@ -119,8 +119,8 @@
 | 10/3/2023 | BVP0815A | Consim 1 | Passed | 0.0 | 4.00 |
 | 10/2/2023 | BVP2088A | Firearms 1 | Passed | 0.0 | 3.50 |
 | 10/2/2023 | BVP3601A | High-Risk Handcuffing | Passed | 0.0 | 4.00 |
-| 9/29/2023 | BVP0770A | Handcuffing / Pat-down / Search | Passed | 0.0 | 5.50 |
-| 9/28/2023 | BVP2194A | Bias-based Policing | Passed | 0.0 | 1.00 |
+| 9/29/2023 | BVP0770A | Handcuffing/Pat-down/Search | Passed | 0.0 | 5.50 |
+| 9/28/2023 | BVP2194A | Bias-Based Policing | Passed | 0.0 | 1.00 |
 | 9/28/2023 | BVP1514A | Internal Affairs and Ethics | Passed | 0.0 | 1.00 |
 | 9/28/2023 | BVP0761A | Police Legitimacy Procedural Justice | Passed | 0.0 | 1.50 |
 | 9/27/2023 | BVP4081A | Control Tactics | Passed | 0.0 | 1.50 |

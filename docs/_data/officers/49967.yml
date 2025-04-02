@@ -55,7 +55,7 @@ training_records:
   hours: '0.50'
 - date: 1/10/2025
   course: MNP1237A
-  title: NAMI newsletter November 2024
+  title: NAMI Newsletter November 2024
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -79,13 +79,13 @@ training_records:
   hours: '1.00'
 - date: 11/29/2024
   course: MNP0603A
-  title: NAMI newsletter October 2024
+  title: NAMI Newsletter October 2024
   status: Passed
   score: '0.0'
   hours: '0.50'
 - date: 11/29/2024
   course: MNP0604A
-  title: NAMI newsletter September 2024
+  title: NAMI Newsletter September 2024
   status: Passed
   score: '0.0'
   hours: '0.50'

@@ -34,7 +34,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/3/2025 | PDP0827A | 2025 Training Return to Work | Instructed | 0.0 | 9.00 |
-| 2/28/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 27.00 |
 | 2/28/2025 | OCS4548A | GRIN - Group Crisis - Assisting Individuals | Passed | 0.0 | 27.00 |
 | 2/25/2025 | VND4176A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 2/11/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |

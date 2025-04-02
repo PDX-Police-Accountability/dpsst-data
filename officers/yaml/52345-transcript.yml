@@ -65,7 +65,7 @@ training_records:
   hours: '9.00'
 - date: 2/21/2025
   course: OCS4138A
-  title: FTO school
+  title: FTO School
   status: Passed
   score: '0.0'
   hours: '36.00'

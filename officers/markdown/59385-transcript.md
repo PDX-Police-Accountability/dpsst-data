@@ -34,7 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/20/2025 | PSU2669A | Q1 Qualification / Shooting  Moving | Passed | 0.0 | 1.50 |
+| 3/20/2025 | PSU2669A | Q1 Qualification/Shooting  Moving | Passed | 0.0 | 1.50 |
 | 3/11/2025 | VND0242A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
 | 2/4/2025 | PSU2708A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |
 | 12/18/2024 | PSU1018A | Firearms - Ballistic Shield Deployment Course | Passed | 0.0 | 8.00 |

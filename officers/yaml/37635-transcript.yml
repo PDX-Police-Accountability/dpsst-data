@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2025
+  course: EGP3469A
+  title: SWAT Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/26/2025
+  course: EGP4353A
+  title: XSAT Medical Training-TCCC
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/13/2025
   course: EGP2529A
   title: 2024 Pursuit Events Overview

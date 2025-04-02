@@ -42,7 +42,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 1/21/2025 | OSH1334A | Manager Comp.-Legistlative Processes/Goal Setting | Passed | 0.0 | 1.00 |
-| 1/21/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/17/2024 | OSH4355A | Manager Comp.-Lean Six Sigma-Process Improvement | Passed | 0.0 | 1.00 |
 | 11/20/2024 | OSH0358A | Hwy. 18 murder case study | Passed | 0.0 | 2.50 |
 | 11/14/2024 | OSH0431A | Mobile Detect Training | Passed | 0.0 | 1.00 |

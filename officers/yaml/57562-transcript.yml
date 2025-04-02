@@ -57,7 +57,7 @@ certification_records:
 training_records:
 - date: 3/24/2025
   course: OCP1315A
-  title: To Pursue Or Not
+  title: To Pursue or Not
   status: Passed
   score: '0.0'
   hours: '1.50'

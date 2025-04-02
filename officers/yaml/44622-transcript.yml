@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/21/2025
+  course: OSH1045A
+  title: Active Threat Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/10/2025
   course: OSH2536A
   title: 2025 Defensive Tactics - 1st Trimester

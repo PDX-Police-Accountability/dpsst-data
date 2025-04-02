@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/26/2025 | EGP3469A | SWAT Firearms | Passed | 0.0 | 3.00 |
+| 3/26/2025 | EGP4353A | XSAT Medical Training-TCCC | Passed | 0.0 | 3.00 |
 | 3/13/2025 | EGP2529A | 2024 Pursuit Events Overview | Passed | 0.0 | 4.00 |
 | 3/5/2025 | EGP3378A | Supervisor Training | Passed | 0.0 | 3.00 |
 | 2/13/2025 | EGP3726A | Animal Abuse Investigations  Family Violence | Passed | 0.0 | 2.00 |

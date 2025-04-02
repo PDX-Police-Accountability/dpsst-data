@@ -71,13 +71,13 @@ certification_records:
 training_records:
 - date: 2/19/2025
   course: HBP2606A
-  title: Warrant Service (classroom)
+  title: Warrant Service (Classroom)
   status: Passed
   score: '0.0'
   hours: '2.50'
 - date: 2/19/2025
   course: HBP1270A
-  title: Warrant Service (practical)
+  title: Warrant Service (Practical)
   status: Passed
   score: '0.0'
   hours: '4.50'

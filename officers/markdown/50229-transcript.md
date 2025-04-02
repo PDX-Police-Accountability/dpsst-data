@@ -27,7 +27,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/15/2024 | 4/1/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 2/27/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/6/2025 | VND2336A | 2025 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 2/14/2025 | VND1627A | Bloodborne Pathogens Infectious Material v2025 | Passed | 0.0 | 1.00 |
 | 2/14/2025 | VND3988A | DOC - Fire Extinguisher Use and Safety v2025 | Passed | 0.0 | 0.50 |
 | 2/14/2025 | VND1519A | DOC - Nasal Naloxone (Narcan) v2025 | Passed | 0.0 | 0.50 |
