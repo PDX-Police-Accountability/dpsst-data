@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/24/2025 | OCP1315A | To Pursue or Not | Passed | 0.0 | 1.50 |
+| 3/24/2025 | OCP1808A | Contempt Of Cop. Ethical Decision Making | Passed | 0.0 | 1.25 |
 | 3/16/2025 | OCP3102A | Taser 7 Certification | Instructed | 0.0 | 1.50 |
 | 3/5/2025 | OCP1731A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 2/24/2025 | OCP1139A | Defensive Tactics - Weapons Based Entaglements | Passed | 0.0 | 1.00 |
@@ -49,6 +50,7 @@
 | 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 12/16/2024 | OCP1032A | Defensive Tactics - Armed Subject | Passed | 0.0 | 1.00 |
 | 12/10/2024 | OCP4182A | Taser Certification | Instructed | 0.0 | 2.00 |
+| 11/20/2024 | OCP4306A | DEI Workgroup | Passed | 0.0 | 2.00 |
 | 11/4/2024 | OCP4448A | Robert Libke LODD Case Study | Passed | 0.0 | 1.50 |
 | 10/22/2024 | OCP3693A | Defensive Tactics - Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 9/27/2024 | OCP1766A | EFC Level 1 Instructor Certification Course | Passed | 0.0 | 40.00 |

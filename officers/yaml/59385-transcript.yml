@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/4/2025
+  course: PSU3753A
+  title: Equity in Policing and Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/18/2024
   course: PSU1018A
   title: Firearms - Ballistic Shield Deployment Course

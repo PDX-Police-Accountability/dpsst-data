@@ -32,6 +32,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/12/2025 | PDP2828A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 2/13/2025 | PDP3412A | 2025 SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/2/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/2/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 10/9/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |

@@ -103,6 +103,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 3/31/2025
+  course: PMC3401A
+  title: ProQA EMD
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/27/2025
   course: PMC1325A
   title: ProQA EFD

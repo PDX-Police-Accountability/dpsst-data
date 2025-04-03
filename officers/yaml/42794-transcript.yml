@@ -86,6 +86,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2025
+  course: OCS4478A
+  title: March 2025 Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '31.00'
+- date: 3/26/2025
+  course: OCS0732A
+  title: 2025 1st Qtr Corrections Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '36.00'
+- date: 3/26/2025
+  course: OCS4478A
+  title: March 2025 Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/3/2025
   course: OCS0163A
   title: Fundamentals of Marksmanship and Qual

@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/24/2025 | OCP1315A | To Pursue or Not | Passed | 0.0 | 1.50 |
+| 3/24/2025 | OCP1808A | Contempt Of Cop. Ethical Decision Making | Passed | 0.0 | 1.25 |
 | 3/19/2025 | OCP1185A | RDS M17 Pistol Conversion | Instructed | 0.0 | 13.00 |
 | 3/3/2025 | OCP3156A | Navigating Ordinances and Risks (Virtual) | Passed | 0.0 | 1.00 |
 | 2/27/2025 | OCP1833A | Top 10 Things To Get You Sued (Virtual) | Passed | 0.0 | 1.00 |
@@ -68,6 +69,7 @@
 | 11/21/2024 | OCP0311A | Firearms/Use of Force | Instructed | 0.0 | 7.00 |
 | 11/5/2024 | OCP1920A | LEDS Re-Certification | Passed | 0.0 | 1.00 |
 | 11/5/2024 | OCP4400A | 3 Day MRDS Converstion Course | Instructed | 0.0 | 19.00 |
+| 10/14/2024 | OCP4147A | DEI Workgroup | Passed | 0.0 | 2.00 |
 | 9/30/2024 | PDS2097A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/25/2024 | OCP1842A | Mental Health Diagnosis 101 | Passed | 0.0 | 0.50 |
 | 9/20/2024 | OCS2728A | PEER training | Passed | 0.0 | 40.00 |

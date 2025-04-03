@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/27/2025
+  course: PDP4029A
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/20/2025
   course: PDP0113A
   title: 2025 SERT Training - Scenario

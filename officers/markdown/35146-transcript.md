@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2025 | REG0880A | Defensive Tactics Instructor Workshop / Refresher | Passed | 0.0 | 24.00 |
 | 3/3/2025 | TRN4564A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 2/20/2025 | GPN2720A | Case Management Training Opportunity | Passed | 0.0 | 1.50 |
 | 1/22/2025 | GPN1425A | LSCMI Refresher | Passed | 0.0 | 2.50 |

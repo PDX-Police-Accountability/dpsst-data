@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP4029A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/25/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 2/13/2025 | PDP4400A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 2/6/2025 | PDP0265A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

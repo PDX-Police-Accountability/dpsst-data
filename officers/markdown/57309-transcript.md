@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 3/19/2025 | OCS2416A | FTO School | Passed | 0.0 | 24.00 |
 | 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 1/30/2025 | OCS2612A | January 2025 DT's and MILO | Passed | 0.0 | 1.00 |

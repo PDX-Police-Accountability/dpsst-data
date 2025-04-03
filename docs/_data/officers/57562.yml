@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 3/24/2025
+  course: OCP1808A
+  title: Contempt Of Cop. Ethical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 3/16/2025
   course: OCP3102A
   title: Taser 7 Certification
@@ -125,6 +131,12 @@ training_records:
   course: OCP4182A
   title: Taser Certification
   status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/20/2024
+  course: OCP4306A
+  title: DEI Workgroup
+  status: Passed
   score: '0.0'
   hours: '2.00'
 - date: 11/4/2024

@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 3/24/2025
+  course: OCP1808A
+  title: Contempt Of Cop. Ethical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 3/19/2025
   course: OCP1185A
   title: RDS M17 Pistol Conversion
@@ -243,6 +249,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '19.00'
+- date: 10/14/2024
+  course: OCP4147A
+  title: DEI Workgroup
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/30/2024
   course: PDS2097A
   title: Mobile Field Force

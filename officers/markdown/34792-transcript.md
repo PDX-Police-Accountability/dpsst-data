@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2025 | REG4010A | Emergency Vehicle Operations - Skill Refresher | Passed | 0.0 | 4.00 |
+| 1/29/2025 | TAP1945A | Investigating Strangulation | Passed | 0.0 | 2.75 |
 | 12/26/2024 | TAP0582A | Flock User Training | Passed | 0.0 | 1.00 |
 | 12/18/2024 | TAP4072A | PublicSafetyVideoSurveillanceSystemPolicyReview | Passed | 0.0 | 0.50 |
 | 12/11/2024 | TAP3727A | OLCC informational | Passed | 0.0 | 1.00 |

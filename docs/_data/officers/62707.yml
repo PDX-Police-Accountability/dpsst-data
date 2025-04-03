@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/23/2025
+  course: PSU3753A
+  title: Equity in Policing and Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/14/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

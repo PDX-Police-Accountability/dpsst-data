@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Instructed | 0.0 | 31.00 |
+| 3/26/2025 | OCS0732A | 2025 1st Qtr Corrections Firearms | Instructed | 0.0 | 36.00 |
+| 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 3/3/2025 | OCS0163A | Fundamentals of Marksmanship and Qual | Instructed | 0.0 | 3.00 |
 | 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Instructed | 0.0 | 21.00 |

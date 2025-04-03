@@ -107,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '37.00'
+- date: 2/22/2025
+  course: WLP1666A
+  title: Leading in Times of Crisis
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/15/2025
   course: WLP3943A
   title: Respectful Workplace

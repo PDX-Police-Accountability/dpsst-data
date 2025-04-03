@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/5/2025
+  course: MLP2154A
+  title: MOPD New Carrier Less Lethal Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/6/2025
   course: WLP1429A
   title: Human Trafficking Training

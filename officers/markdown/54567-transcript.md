@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
+| 3/5/2025 | MLP2154A | MOPD New Carrier Less Lethal Qualification | Instructed | 0.0 | 4.00 |
 | 2/6/2025 | WLP1429A | Human Trafficking Training | Passed | 0.0 | 16.00 |
 | 1/7/2025 | PDS0232A | Supervising Patrol Critical Incidents | Passed | 0.0 | 16.00 |
 | 12/18/2024 | MLP2579A | Taser Training and Updates | Passed | 0.0 | 3.00 |

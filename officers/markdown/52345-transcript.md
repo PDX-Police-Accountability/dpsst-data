@@ -37,7 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 9.00 |
-| 2/21/2025 | OCS4138A | FTO School | Passed | 0.0 | 36.00 |
+| 2/21/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 36.00 |
 | 1/23/2025 | VND1044A | Responder Life Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/23/2025 | PDP3464A | Responder Life NW Peer Support Conference | Passed | 0.0 | 14.00 |
 | 1/22/2025 | VND2338A | Peer Support Conference | Passed | 0.0 | 8.00 |

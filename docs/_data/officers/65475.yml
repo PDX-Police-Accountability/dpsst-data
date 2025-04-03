@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/27/2025
+  course: PDP3708A
+  title: Stop Stick Online Safety Training - Man Deploy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/26/2025
   course: REG2129A
   title: SFST-DID (Hours included in Basic)

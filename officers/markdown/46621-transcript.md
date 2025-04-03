@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 1/30/2025 | OCS2612A | January 2025 DT's and MILO | Passed | 0.0 | 1.00 |
 | 12/16/2024 | OCS0503A | Taser and Use of Force Law | Passed | 0.0 | 2.00 |
 | 12/12/2024 | OCS1094A | FTO | Passed | 0.0 | 2.00 |

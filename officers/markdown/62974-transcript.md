@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/24/2025 | OCP1315A | To Pursue or Not | Passed | 0.0 | 1.50 |
+| 3/24/2025 | OCP1808A | Contempt Of Cop. Ethical Decision Making | Passed | 0.0 | 1.25 |
 | 2/17/2025 | OCP0819A | Ballistic Shield Deployment | Passed | 0.0 | 0.75 |
 | 2/5/2025 | OCP0130A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 1/27/2025 | OCP4312A | Red Dot Sight (RDS) Introduction Course | Passed | 0.0 | 1.00 |
@@ -40,6 +41,7 @@
 | 1/15/2025 | OCP1646A | First Aid  Adult/Child CPR | Passed | 0.0 | 2.50 |
 | 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 12/4/2024 | OCP2587A | Basic Rifle Course | Passed | 0.0 | 18.00 |
+| 11/20/2024 | OCP4306A | DEI Workgroup | Passed | 0.0 | 2.00 |
 | 9/25/2024 | OCP3907A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/10/2024 | OCP3494A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 7/25/2024 | OCP1366A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

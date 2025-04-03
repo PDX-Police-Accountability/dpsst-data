@@ -37,6 +37,8 @@
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Instructed | 0.0 | 9.00 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Instructed | 0.0 | 9.00 |
+| 2/27/2025 | PDP4029A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP4029A | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 2/26/2025 | PDP1491A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 2/25/2025 | VND4176A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 2/20/2025 | PDP0113A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |

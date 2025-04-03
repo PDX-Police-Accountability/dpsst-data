@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2025 | PSU2669A | Q1 Qualification/Shooting  Moving | Passed | 0.0 | 1.50 |
+| 2/4/2025 | PSU3753A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |
 | 2/3/2025 | PSU1611A | OSSA Airway, Circulatory Anatomy Training | Passed | 0.0 | 0.00 |
 | 2/3/2025 | F1527524 | Equity in Policy  Public Safety | Passed | 0.0 | 3.00 |
 | 12/31/2024 | MAINTMUA | Maintenance Makeup ACAP | Passed | 0.0 | 2.00 |

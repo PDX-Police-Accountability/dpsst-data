@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/13/2025
+  course: PDP3412A
+  title: 2025 SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/29/2025
   course: PDP3981A
   title: 2025 sUAS Training for Traffic Division

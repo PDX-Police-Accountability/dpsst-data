@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2025
+  course: OCS4478A
+  title: March 2025 Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/27/2025
   course: OCS2050A
   title: February 2025 Monthly Firearms
@@ -69,8 +75,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 2/21/2025
-  course: OCS4138A
-  title: FTO School
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '36.00'

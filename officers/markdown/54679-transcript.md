@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2025 | MLP2154A | MOPD New Carrier Less Lethal Qualification | Instructed | 0.0 | 4.00 |
 | 12/18/2024 | MLP2579A | Taser Training and Updates | Passed | 0.0 | 3.00 |
 | 12/11/2024 | HBS0216A | Less Lethal Impact Munitions Instructor Program | Passed | 0.0 | 8.00 |
 | 11/22/2024 | OCS2820A | Clackamas County New Hire Patrol Tactics | Passed | 0.0 | 50.00 |

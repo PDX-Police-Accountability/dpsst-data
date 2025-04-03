@@ -38,9 +38,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/24/2025 | OCP1315A | To Pursue or Not | Passed | 0.0 | 1.50 |
+| 3/24/2025 | OCP1808A | Contempt Of Cop. Ethical Decision Making | Passed | 0.0 | 1.25 |
 | 2/5/2025 | OCP0130A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 1/29/2025 | VND3653A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 3.00 |
 | 1/29/2025 | VND2461A | CMV Size and Weight Training | Passed | 0.0 | 3.00 |
+| 1/8/2025 | OCP2487A | DEI Workgroup | Passed | 0.0 | 2.00 |
 | 12/23/2024 | OCP2204A | Lexipol Daily Training Bulletins | Passed | 0.0 | 14.50 |
 | 9/26/2024 | PDS1142A | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 9/25/2024 | OCP3907A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: REG4010A
+  title: Emergency Vehicle Operations - Skill Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/29/2025
+  course: TAP1945A
+  title: Investigating Strangulation
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
 - date: 12/26/2024
   course: TAP0582A
   title: Flock User Training

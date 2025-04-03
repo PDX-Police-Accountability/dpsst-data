@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2025
+  course: OCS4478A
+  title: March 2025 Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/13/2025
   course: OCS3735A
   title: Feb and March DT's

@@ -30,6 +30,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 2/13/2025
+  course: PDP3412A
+  title: 2025 SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/12/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

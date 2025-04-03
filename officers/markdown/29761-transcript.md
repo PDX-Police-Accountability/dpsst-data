@@ -40,6 +40,7 @@
 | 8/27/2026 | M41-15 | DPSST Basic Telecommunications FTM | Required | 0.0 | 50.00 |
 | 8/27/2026 | M51-16 | DPSST EMD Field Training Manual | Required | 0.0 | 50.00 |
 | 8/18/2025 | M40-21A | DPSST Basic Telecommunicator Course | Registered | 0.0 | 0.00 |
+| 3/31/2025 | PMC3401A | ProQA EMD | Passed | 0.0 | 24.00 |
 | 3/27/2025 | PMC1325A | ProQA EFD | Passed | 0.0 | 16.00 |
 | 3/18/2025 | PMC1464A | Adult and Child CPR/FA | Passed | 0.0 | 4.00 |
 | 4/15/2019 | 19-0014 | DPSST Basic Telecommunications | Cancelled | 0.0 | 0.00 |

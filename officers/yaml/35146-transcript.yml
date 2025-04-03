@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: REG0880A
+  title: Defensive Tactics Instructor Workshop / Refresher
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/3/2025
   course: TRN4564A
   title: Chrono Practices and Contact Standards
