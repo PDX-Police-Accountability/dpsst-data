@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/28/2025
+  course: HSU2180A
+  title: Supervising Patrol Critical Incidents - Online
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/24/2024
   course: HSU2541A
   title: Patrol Rifle Course

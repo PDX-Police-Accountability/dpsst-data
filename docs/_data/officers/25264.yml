@@ -68,12 +68,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/1/2025
+  course: PDS2727A
+  title: AXON VR IDC
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 3/25/2025
+  course: PDS3616A
+  title: Patrol Tactics/Breaching/Searches
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/24/2025
+  course: PDS2360A
+  title: LE Con-SIMS
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/20/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/20/2025
+  course: PDS3348A
+  title: Range Training
+  status: Instructed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/13/2025
   course: PDS2114A
   title: Firearms Intro/Manipulation

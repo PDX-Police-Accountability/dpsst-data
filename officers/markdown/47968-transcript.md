@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2025 | PDP2906A | FBI-LEEDS Executive Leadership Institute | Passed | 0.0 | 28.00 |
 | 12/23/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/20/2024 | 24-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 12/3/2024 | PDP3226A | 2024 EAP Separation Training | Passed | 0.0 | 4.00 |

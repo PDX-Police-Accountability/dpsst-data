@@ -57,12 +57,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 2/7/2025
+  course: PDP2187A
+  title: FBI-LEEDS Executive Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 1/23/2025
   course: VND1044A
   title: Responder Life Peer Support Conference
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/23/2025
+  course: PDP2258A
+  title: Responder Life NW Peer Support Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 1/22/2025
   course: VND2338A
   title: Peer Support Conference

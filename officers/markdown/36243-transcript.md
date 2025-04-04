@@ -32,6 +32,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 2/28/2025 | 2/28/2027 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | CPR | 5/22/2023 | 5/22/2025 |
@@ -48,6 +49,7 @@
 | 3/1/2025 | HBS2588A | Virtual-Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 2/28/2025 | HBS2564A | Virtual PREA | Passed | 0.0 | 1.00 |
 | 2/28/2025 | HBS3212A | Virtual Sexual Harassment Prevention - LE | Passed | 0.0 | 1.00 |
+| 2/28/2025 | HBS1380A | CPR/First Aid/AED Adult  Pediatric | Passed | 0.0 | 3.00 |
 | 2/14/2025 | HBS3191A | 2025 February Rifle Updates | Passed | 0.0 | 8.00 |
 | 2/11/2025 | HBS4478A | MFF - Public Order | Passed | 0.0 | 8.00 |
 | 2/11/2025 | HBS0184A | MFF - Public Order Lecture | Passed | 0.0 | 1.00 |

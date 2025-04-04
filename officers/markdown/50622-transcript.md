@@ -41,7 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/24/2025 | OCP1315A | To Pursue or Not | Passed | 0.0 | 1.50 |
-| 3/24/2025 | OCP1808A | Contempt Of Cop. Ethical Decision Making | Passed | 0.0 | 1.25 |
+| 3/24/2025 | OCP1808A | Contempt Of Cop: Ethical Decision Making | Passed | 0.0 | 1.25 |
 | 3/19/2025 | OCP1185A | RDS M17 Pistol Conversion | Instructed | 0.0 | 13.00 |
 | 3/3/2025 | OCP3156A | Navigating Ordinances and Risks (Virtual) | Passed | 0.0 | 1.00 |
 | 2/27/2025 | OCP1833A | Top 10 Things To Get You Sued (Virtual) | Passed | 0.0 | 1.00 |

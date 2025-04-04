@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2025 | PDP1687A | FTEP Post Basic Control Tactics | Instructed | 0.0 | 4.00 |
+| 3/26/2025 | PDP3746A | FTEP Post Basic Firearms | Instructed | 0.0 | 23.00 |
+| 3/17/2025 | PDP1012A | FTEP Post Basic Firearms | Instructed | 0.0 | 23.00 |
 | 2/19/2025 | PDP0563A | 2025 FTEP Post DPSST Firearms Roster | Instructed | 0.0 | 23.00 |
 | 1/15/2025 | PDP0956A | 2025 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 1/10/2025 | PDP4370A | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

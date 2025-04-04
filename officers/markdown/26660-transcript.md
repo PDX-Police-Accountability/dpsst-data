@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2025 | HSU2180A | Supervising Patrol Critical Incidents - Online | Passed | 0.0 | 16.00 |
 | 11/24/2024 | HSU2541A | Patrol Rifle Course | Instructed | 0.0 | 40.00 |
 | 11/17/2024 | HSU4269A | Patrol Rifle Transition | Passed | 0.0 | 5.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

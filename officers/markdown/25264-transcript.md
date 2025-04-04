@@ -38,7 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2025 | PDS2727A | AXON VR IDC | Passed | 0.0 | 7.00 |
+| 3/25/2025 | PDS3616A | Patrol Tactics/Breaching/Searches | Instructed | 0.0 | 8.00 |
+| 3/24/2025 | PDS2360A | LE Con-SIMS | Instructed | 0.0 | 8.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/20/2025 | PDS3348A | Range Training | Instructed | 0.0 | 18.00 |
 | 3/13/2025 | PDS2114A | Firearms Intro/Manipulation | Instructed | 0.0 | 7.00 |
 | 2/10/2025 | PDS1588A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 2/5/2025 | PDS2435A | Confrontation Simulation | Instructed | 0.0 | 3.00 |

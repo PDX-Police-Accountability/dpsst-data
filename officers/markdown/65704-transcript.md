@@ -28,7 +28,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/1/2025 | PDP3586A | Hazmat/WMD Awareness / Gas Mask | Passed | 0.0 | 3.00 |
 | 3/27/2025 | PDP3708A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
+| 3/27/2025 | PDP1687A | FTEP Post Basic Control Tactics | Passed | 0.0 | 4.00 |
+| 3/26/2025 | PDP3746A | FTEP Post Basic Firearms | Passed | 0.0 | 23.00 |
 | 3/21/2025 | REG1395A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 2/26/2025 | REG2129A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/21/2025 | PDP2677A | 2025 Radar Lidar Operators Course | Passed | 0.0 | 14.00 |

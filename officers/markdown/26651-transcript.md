@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2025 | PDS1623A | Report Writing | Instructed | 0.0 | 4.00 |
 | 1/31/2025 | PDS1496A | Use of Force Report Writing | Instructed | 0.0 | 2.00 |
 | 1/31/2025 | PDS3414A | Use of Force Report Writing | Instructed | 0.0 | 2.00 |
 | 1/29/2025 | PDS1975A | Use of Force Report Writing | Instructed | 0.0 | 4.00 |

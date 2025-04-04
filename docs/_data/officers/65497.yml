@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/11/2025
+  course: PDP2208A
+  title: Hazmat/WMD Awareness / Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/10/2025
   course: PDP2176A
   title: TEEX WMD Terrorism Awareness for Emer Resp

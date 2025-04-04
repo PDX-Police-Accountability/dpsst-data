@@ -51,6 +51,7 @@
 | 11/13/2024 | F6R3273A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 9/24/2024 | SAG0905A | Firearms training | Passed | 0.0 | 2.00 |
 | 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
+| 8/29/2024 | SAG2543A | First Aid / CPR Training | Passed | 0.0 | 4.00 |
 | 6/12/2024 | AVP2518A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/11/2024 | SAG3574A | Firearms training | Passed | 0.0 | 2.00 |
 | 6/11/2024 | SAG0346A | Firearms training | Passed | 0.0 | 2.00 |

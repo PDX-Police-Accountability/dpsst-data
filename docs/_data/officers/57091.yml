@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: PDP1687A
+  title: FTEP Post Basic Control Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/26/2025
+  course: PDP3746A
+  title: FTEP Post Basic Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '23.00'
+- date: 3/17/2025
+  course: PDP1012A
+  title: FTEP Post Basic Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '23.00'
 - date: 2/19/2025
   course: PDP0563A
   title: 2025 FTEP Post DPSST Firearms Roster

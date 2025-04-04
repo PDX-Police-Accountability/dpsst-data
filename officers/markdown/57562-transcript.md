@@ -38,7 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/24/2025 | OCP1315A | To Pursue or Not | Passed | 0.0 | 1.50 |
-| 3/24/2025 | OCP1808A | Contempt Of Cop. Ethical Decision Making | Passed | 0.0 | 1.25 |
+| 3/24/2025 | OCP1808A | Contempt Of Cop: Ethical Decision Making | Passed | 0.0 | 1.25 |
 | 3/16/2025 | OCP3102A | Taser 7 Certification | Instructed | 0.0 | 1.50 |
 | 3/5/2025 | OCP1731A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 2/24/2025 | OCP1139A | Defensive Tactics - Weapons Based Entaglements | Passed | 0.0 | 1.00 |
@@ -282,7 +282,7 @@
 | 2/13/2018 | F6B38237 | Trauma Intervention Program - Self Care | Passed | 0.0 | 1.50 |
 | 2/4/2018 | F6B28252 | Use of Force | Passed | 0.0 | 2.00 |
 | 1/15/2018 | F6B21628 | DPSST Updates | Passed | 0.0 | 0.50 |
-| 12/18/2017 | 05528 | Fall Defensive Tactics-AIT | Passed | 0.0 | 3.50 |
+| 12/18/2017 | 05528 | Fall Defensive Tactics - AIT | Passed | 0.0 | 3.50 |
 | 12/18/2017 | 30908 | Fall ConSim - AIT | Passed | 0.0 | 3.50 |
 | 12/18/2017 | F6B09008 | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 11/10/2017 | 17-0001 | DPSST Basic Corrections | Passed | 0.0 | 240.00 |

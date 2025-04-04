@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2025
+  course: PDP3746A
+  title: FTEP Post Basic Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '23.00'
 - date: 1/10/2025
   course: PDP4370A
   title: 2025 Rapid Response Team (RRT) Monthly Training

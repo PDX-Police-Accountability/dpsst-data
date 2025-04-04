@@ -390,7 +390,7 @@
 | 8/31/2016 | F6C20300 | RAPID | Passed | 0.0 | 0.25 |
 | 7/31/2016 | 41967 | Handgun Qualification - Primary Sidearm | Passed | 0.0 | 0.50 |
 | 7/31/2016 | 04236 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 7/1/2016 | 11635 | Essential Foresnic Techniques 1 | Passed | 0.0 | 32.00 |
+| 7/1/2016 | 11635 | Essential Forensic Techniques 1 | Passed | 0.0 | 32.00 |
 | 3/31/2016 | F6C23868 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 3/31/2016 | F6C35721 | Handgun Qualification Primary Sidearm | Passed | 0.0 | 0.50 |
 | 12/31/2015 | 15-1262 | Video Training Courses | Passed | 0.0 | 0.75 |

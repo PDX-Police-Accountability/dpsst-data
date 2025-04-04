@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/7/2025
+  course: PDP2187A
+  title: FBI-LEEDS Executive Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 1/10/2025
   course: OAC3757A
   title: A Proactive Approach to Wellness

@@ -295,8 +295,8 @@
 | 2/7/2018 | F6B21347 | Swat Entry Training | Passed | 0.0 | 8.00 |
 | 2/6/2018 | F6B34620 | Swat Entry Training | Passed | 0.0 | 8.50 |
 | 1/10/2018 | F6B20581 | Swat Entry Training | Passed | 0.0 | 4.00 |
-| 12/21/2017 | 29215 | Survival Skills/Taser Recert. | Instructed | 0.0 | 4.00 |
-| 12/21/2017 | 29704 | Survival Skills/Taser Recert. | Instructed | 0.0 | 4.00 |
+| 12/21/2017 | 29215 | Survival Skills/Taser Recertification | Instructed | 0.0 | 4.00 |
+| 12/21/2017 | 29704 | Survival Skills/Taser Recertification | Instructed | 0.0 | 4.00 |
 | 12/18/2017 | F6C07289 | Survival Skills/ Taser Recert. | Instructed | 0.0 | 4.00 |
 | 12/15/2017 | F6C26147 | Naloxone Training | Passed | 0.0 | 1.00 |
 | 12/12/2017 | F6C38907 | Survival Skills/Taser Recert. | Instructed | 0.0 | 4.00 |

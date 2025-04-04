@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/1/2025
+  course: SDP2225A
+  title: Redkite Leadership DISC Management 1 of 4
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 3/19/2025
   course: SDP2161A
   title: Drone Introduction

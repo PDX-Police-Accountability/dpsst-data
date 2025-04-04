@@ -53,7 +53,7 @@
 | 2/1/2017 | F6C18738 | Police Legal Science December 2016 | Passed | 0.0 | 1.00 |
 | 1/15/2017 | F6C09209 | Police Legal September 2016 | Passed | 0.0 | 1.00 |
 | 12/1/2016 | F6C41456 | iLearn Domestic Violence/Professionalism | Passed | 0.0 | 1.00 |
-| 10/1/2016 | 02588 | PLS August 2016/ Dispatching/Call Taking | Passed | 0.0 | 1.00 |
+| 10/1/2016 | 02588 | PLS August 2016/Dispatching/Call Taking | Passed | 0.0 | 1.00 |
 | 10/1/2016 | F6C28701 | Police Legal August 2016 Dispatching/Call taking | Passed | 0.0 | 1.00 |
 | 8/1/2016 | F6C15454 | Police Legal/June 2016 | Passed | 0.0 | 1.00 |
 | 7/1/2016 | F6C27003 | DPSST Ethics  Revocation Bulletins | Passed | 0.0 | 2.00 |

@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2025
+  course: MKL0163A
+  title: Public Safety-In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 3/13/2025
+  course: MKL2626A
+  title: Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/17/2024
   course: MKL4372A
   title: Gang Training

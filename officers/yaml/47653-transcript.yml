@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/11/2025
+  course: PDP2208A
+  title: Hazmat/WMD Awareness / Gas Mask
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/27/2025
   course: PDP2504A
   title: 2025 FTEP Post Basic CEW Taser

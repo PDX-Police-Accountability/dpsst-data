@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/1/2025 | 4/1/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2025 | HBS4266A | CPR/First Aid/AED Adult  Pediatric | Passed | 0.0 | 2.00 |
 | 2/28/2025 | HBS2309A | Virtual ADA Compliance | Passed | 0.0 | 1.00 |
 | 2/3/2025 | HBS2122A | On Duty PIT | Passed | 0.0 | 0.50 |
 | 12/4/2024 | HBS2402A | Hearing Conservation Video | Passed | 0.0 | 0.25 |

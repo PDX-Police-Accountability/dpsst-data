@@ -64,8 +64,8 @@ training_records:
   score: '0.0'
   hours: '9.00'
 - date: 2/21/2025
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: OCS2608A
+  title: FBI LEEDA- SLI
   status: Passed
   score: '0.0'
   hours: '36.00'
