@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2025
+  course: PDP3499A
+  title: Bevel Gardner  Assoc Practical Crime Scene Proc
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 12/20/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/11/2025 | EGP4133A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 1/29/2025 | OSU2193A | ICS 400 Expanding Incidents | Passed | 0.0 | 15.00 |
 | 1/9/2025 | EGP2729A | De-Escalation | Passed | 0.0 | 3.00 |
 | 1/9/2025 | EGP1455A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

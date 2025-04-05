@@ -54,6 +54,7 @@
 | 10/24/2024 | SAG3277A | Taser re-certification 2024 | Instructed | 0.0 | 1.00 |
 | 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 8/29/2024 | SAG2543A | First Aid / CPR Training | Passed | 0.0 | 4.00 |
+| 8/29/2024 | SAG2651A | First Aid / CPR Training | Passed | 0.0 | 4.00 |
 | 8/20/2024 | SAG3615A | ICAC 101 | Instructed | 0.0 | 8.00 |
 | 8/14/2024 | SAG2271A | Firearms training | Instructed | 0.0 | 3.00 |
 | 8/7/2024 | OSH4474A | HTTC - Human Trafficking Training | Passed | 0.0 | 16.00 |

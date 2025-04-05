@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/18/2025 | BNP0935A | Hostage Rescue Mini-scenarios | Passed | 0.0 | 8.00 |
 | 3/6/2025 | BNP0272A | Tactical Firearms Training | Passed | 0.0 | 1.00 |
 | 2/6/2025 | BNP2834A | Building Clearing (HRT, Slow Clear, Dynamic) | Passed | 0.0 | 8.00 |
 | 1/21/2025 | BNP0766A | Tactical Physical Qualifications | Passed | 0.0 | 0.50 |

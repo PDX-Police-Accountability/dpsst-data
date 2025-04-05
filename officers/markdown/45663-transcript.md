@@ -49,6 +49,7 @@
 | 9/13/2024 | BNS1087A | Spyder Forensics: Host Based Network Forensics | Passed | 0.0 | 40.00 |
 | 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 8/29/2024 | SAG2543A | First Aid / CPR Training | Passed | 0.0 | 4.00 |
+| 8/29/2024 | SAG2651A | First Aid / CPR Training | Passed | 0.0 | 4.00 |
 | 8/20/2024 | SAG3615A | ICAC 101 | Instructed | 0.0 | 8.00 |
 | 7/15/2024 | SAG2700A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 3.00 |

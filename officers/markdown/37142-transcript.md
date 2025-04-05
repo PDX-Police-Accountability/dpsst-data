@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2025 | SPP4265A | Firearms Training | Passed | 0.0 | 4.00 |
 | 3/6/2025 | SPP1778A | Adult/Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 2/28/2025 | F1509044 | The Truth About Trust | Passed | 0.0 | 1.00 |
 | 2/28/2025 | F1533829 | Total Worker Health | Passed | 0.0 | 1.00 |

@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/29/2024
+  course: SAG2651A
+  title: First Aid / CPR Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/20/2024
   course: SAG3615A
   title: ICAC 101

@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/6/2024
+  course: PDP3329A
+  title: Enhanced All-Haz Incident Managmt Uni Comm
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

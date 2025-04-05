@@ -40,6 +40,7 @@
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
 | Code of Ethics | Signed | 4/24/2002 |  |
+| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 4/3/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

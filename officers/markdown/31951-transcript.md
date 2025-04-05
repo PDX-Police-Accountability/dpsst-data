@@ -26,6 +26,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Certification Cards | First Aid and CPR | 8/29/2024 | 8/1/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
 | Code of Ethics | Signed | 10/1/2010 |  |
@@ -41,6 +42,7 @@
 | 12/26/2024 | SAG1222A | 2022 Oregon Sheriff's Airway training video | Passed | 0.0 | 1.45 |
 | 10/24/2024 | SAG4294A | Firearms training - Night Range 2024 | Passed | 0.0 | 3.00 |
 | 10/24/2024 | SAG3277A | Taser re-certification 2024 | Passed | 0.0 | 1.00 |
+| 8/29/2024 | SAG1572A | First Aid Training | Passed | 0.0 | 4.00 |
 | 8/14/2024 | SAG2271A | Firearms training | Passed | 0.0 | 3.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 2.00 |
