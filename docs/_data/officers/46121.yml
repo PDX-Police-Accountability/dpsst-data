@@ -36,6 +36,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/7/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/7/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/7/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/7/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/7/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/20/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/25/2025 | 3/25/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/6/2023 | 4/6/2025 |
@@ -37,8 +38,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/25/2025 | PDP1271A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 3/24/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
+| 2/25/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/11/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/11/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/11/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 2/1/2025 | PDP3371A | 2025 Training Red Dot Optic Transition Course | Passed | 0.0 | 18.00 |
+| 1/15/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/2/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/12/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/12/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 12/12/2024 | PDP0414A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |

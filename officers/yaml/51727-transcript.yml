@@ -74,6 +74,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 3/21/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/21/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/21/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/10/2025
   course: PDP4370A
   title: 2025 Rapid Response Team (RRT) Monthly Training

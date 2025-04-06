@@ -30,6 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/27/2025
+  course: PDP0466A
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2025
+  course: PDP3282A
+  title: 2021 In-Serv Language Access-Translation  Interp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2025
+  course: PDP0302A
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/20/2025
   course: M10-23A
   title: DPSST Basic Police Course

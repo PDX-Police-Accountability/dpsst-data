@@ -80,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/18/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/18/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/17/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service
@@ -92,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/11/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/30/2025
   course: PDP0926A
   title: 2025 SERT Training - SCENARIO
@@ -104,6 +122,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/20/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/19/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

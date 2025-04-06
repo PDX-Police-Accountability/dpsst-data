@@ -32,7 +32,28 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/8/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 2/7/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/7/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 1/15/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 1/15/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/13/2025 | PDP2390A | 2025 Training Red Dot Optic Transition Course | Passed | 0.0 | 25.00 |
+| 1/8/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP2226A | 2023-4 City Attorney Legal Update for April 23 | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP3154A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP3629A | 2024 DIR 0640.80 Bias Event Response | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP3665A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 1/8/2025 | PDP1452A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP0807A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP0601A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
+| 1/8/2025 | PDP2930A | 2024-3 City Attorney Legal Updates March 2024 | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP2664A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP1202A | 2024-3 City Attorney Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 2/9/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/23/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 1/23/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |

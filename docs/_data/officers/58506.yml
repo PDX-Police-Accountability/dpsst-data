@@ -67,6 +67,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/21/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/19/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/19/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/19/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/19/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/27/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

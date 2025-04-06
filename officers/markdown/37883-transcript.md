@@ -33,11 +33,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2025 | PDP1021A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 3/19/2025 | PDP1622A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/3/2025 | PDP0827A | 2025 Training Return to Work | Instructed | 0.0 | 9.00 |
 | 2/28/2025 | OCS4548A | GRIN - Group Crisis - Assisting Individuals | Passed | 0.0 | 27.00 |
 | 2/25/2025 | VND4176A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 2/18/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 2/11/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
+| 2/11/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/15/2025 | PDP1514A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |
+| 1/13/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/11/2024 | PDP4453A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 10.00 |
 | 12/5/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/5/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |

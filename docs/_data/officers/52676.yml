@@ -50,6 +50,90 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2025
+  course: PDP1113A
+  title: 2024-5 Naloxone Adm Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/30/2025
+  course: PDP3199A
+  title: 2024-3 In-Serv PP Shooting at Moving Veh Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/30/2025
+  course: PDP0820A
+  title: 2024-3 In-Serv PP Shooting at Moving Veh Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/29/2025
+  course: PDP3391A
+  title: 2024-3 In-Serv Legal Updates Use of Force Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/29/2025
+  course: PDP0245A
+  title: 2024-3 In-Serv Legal Updates Use of Force Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/29/2025
+  course: PDP2625A
+  title: 2024-3 In-Service ABLE for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/29/2025
+  course: PDP4269A
+  title: 2024-3 In-Service Air Purifying Resp Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/28/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/28/2025
+  course: PDP0362A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/28/2025
+  course: PDP1957A
+  title: 2024 ECIT Dispatch Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/28/2025
+  course: PDP4253A
+  title: 2024-3 In-Serv CAO Legal Updates Supp Tra Mat
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/28/2025
+  course: PDP4449A
+  title: 2024-3 In-Serv MFF Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/28/2025
+  course: PDP1680A
+  title: 2024-3 In-Service MFF Baton  OC Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/28/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/28/2024
   course: PDP2600A
   title: 2024 Body Worn Camera Investigator Course

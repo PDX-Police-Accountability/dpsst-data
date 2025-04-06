@@ -24,12 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/28/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/6/2025
   course: PDP3723A
   title: 2025 Instructor Development
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 2/1/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/10/2025
   course: PDP4370A
   title: 2025 Rapid Response Team (RRT) Monthly Training

@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -105,6 +111,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 1/7/2025
+  course: PDP2373A
+  title: 2024-1 Sup In-Service BHR Support Employee Needs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2025
+  course: PDP3736A
+  title: 2024-1 Sup In-Service Civil Unrest Port 2020 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2025
+  course: PDP3104A
+  title: 2024-1 Sup In-Service Civil Unrest Port 2020 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2025
+  course: PDP4188A
+  title: 2024-1 Sup In-Service Deminimus Force BWC Rev
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2025
+  course: PDP2496A
+  title: 2024-1 Sup In-Service Incid Comnd Sys ICS Exp Inci
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2025
+  course: PDP3726A
+  title: 2024-1 Sup In-Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2025
+  course: PDP1591A
+  title: 2024-1 Sup In-Service Message from Force Insp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/31/2024
   course: MAINTMUL
   title: Maintenance Makeup Leadership

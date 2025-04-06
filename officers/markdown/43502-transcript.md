@@ -41,10 +41,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/16/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 3/26/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
+| 3/17/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 3/17/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 3/17/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 3/7/2025 | PDP4258A | 2025 Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 2/7/2025 | PDP2962A | FBI-LEEDS Executive Leadership Institute | Passed | 0.0 | 25.00 |
+| 1/13/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/8/2025 | PDP3277A | 2025 SFST Refresher | Passed | 0.0 | 4.00 |
+| 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/19/2024 | PDP0214A | NOLS Wilderness First Responder Re-Cert | Passed | 0.0 | 23.00 |
 | 12/3/2024 | PDP3226A | 2024 EAP Separation Training | Passed | 0.0 | 4.00 |
 | 12/2/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |

@@ -41,6 +41,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/19/2025 | PDP2959A | K-9 Weekly Training | Passed | 0.0 | 5.00 |
+| 3/16/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 3/16/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 3/16/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 1/30/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 1/5/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/12/2024 | PDP3270A | 2024 K-9 (K9) Weekly Trng | Passed | 0.0 | 5.75 |
 | 12/12/2024 | PDP3270A | 2024 K-9 (K9) Weekly Trng | Instructed | 0.0 | 5.75 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -1565,7 +1565,6 @@
 | Tha, Yo | 65018 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65018-transcript.md) - [yaml](../yaml/65018-transcript.yml) |
 | Avant, Zachary W. | 65020 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65020-transcript.md) - [yaml](../yaml/65020-transcript.yml) |
 | Rapae, Cody E. | 65021 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65021-transcript.md) - [yaml](../yaml/65021-transcript.yml) |
-| Moosavi, Sayed J. | 65034 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65034-transcript.md) - [yaml](../yaml/65034-transcript.yml) |
 | Kelly, Cameron A. | 65039 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65039-transcript.md) - [yaml](../yaml/65039-transcript.yml) |
 | Hall, Daniel E. | 59367 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-02-16 | [md](../markdown/59367-transcript.md) - [yaml](../yaml/59367-transcript.yml) |
 | Watts, Nola | 45768 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-02-20 | [md](../markdown/45768-transcript.md) - [yaml](../yaml/45768-transcript.yml) |
@@ -1776,6 +1775,7 @@
 | Hays, Harold F., Jr. | 41498 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2025-03-07 | [md](../markdown/41498-transcript.md) - [yaml](../yaml/41498-transcript.yml) |
 | Monsef, Cyrus | 64193 | Portland Police Bureau | Active | Police Officer | Return LOA | 2025-03-10 | [md](../markdown/64193-transcript.md) - [yaml](../yaml/64193-transcript.yml) |
 | Greenlee, Michael J. | 50623 | Portland Police Bureau | Active | Detective | LOA | 2025-03-11 | [md](../markdown/50623-transcript.md) - [yaml](../yaml/50623-transcript.yml) |
+| Moosavi, Sayed J. | 65034 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-03-24 | [md](../markdown/65034-transcript.md) - [yaml](../yaml/65034-transcript.yml) |
 | Shyshkin, Sam | 66178 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66178-transcript.md) - [yaml](../yaml/66178-transcript.yml) |
 | Rivera, Steven | 66199 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66199-transcript.md) - [yaml](../yaml/66199-transcript.yml) |
 | Gotovac, Dejan | 66233 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66233-transcript.md) - [yaml](../yaml/66233-transcript.yml) |

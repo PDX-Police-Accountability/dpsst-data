@@ -40,10 +40,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2025 | PDP1021A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 3/19/2025 | PDP1622A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/6/2025 | PDP3723A | 2025 Instructor Development | Passed | 0.0 | 28.00 |
 | 2/26/2025 | PDP0013A | 2025 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 2/12/2025 | PDP3300A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 2/6/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/5/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 1/15/2025 | PDP1514A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |
+| 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/12/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/12/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 12/12/2024 | PDP3474A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 1.50 |

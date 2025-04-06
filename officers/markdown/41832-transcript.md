@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/7/2025 | PDP2187A | FBI-LEEDS Executive Leadership Institute | Passed | 0.0 | 28.00 |
+| 2/7/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/10/2025 | OAC3757A | A Proactive Approach to Wellness | Passed | 0.0 | 1.00 |
 | 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -24,6 +24,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: PDP2684A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 3/26/2025
+  course: PDP1113A
+  title: 2024-5 Naloxone Adm Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/7/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/2/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/27/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video
@@ -1831,6 +1855,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/27/2025
+  expiration_date: 3/27/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

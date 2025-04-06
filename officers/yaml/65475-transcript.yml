@@ -36,6 +36,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/31/2025
+  course: PDP0367A
+  title: 2018 TOD 100% Collection and Submission
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2025
+  course: PDP3093A
+  title: 2018-5 TT 100% Collection and Sub for FA  Casing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2025
+  course: PDP3665A
+  title: 2024 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/31/2025
+  course: PDP1452A
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2025
+  course: PDP0807A
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2025
+  course: PDP0601A
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/27/2025
   course: PDP3708A
   title: Stop Stick Online Safety Training - Man Deploy

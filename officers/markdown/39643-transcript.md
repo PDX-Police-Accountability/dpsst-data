@@ -37,8 +37,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/3/2025 | REG3712A | DT | Passed | 0.0 | 1.00 |
 | 2/27/2025 | REG2776A | DT | Passed | 0.0 | 1.00 |
+| 2/13/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/13/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/13/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/13/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 2/3/2025 | REG1191A | DT | Passed | 0.0 | 1.00 |
 | 1/30/2025 | REG4567A | DT | Passed | 0.0 | 1.00 |
+| 1/30/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/13/2025 | REG0726A | Ground Control | Passed | 0.0 | 1.00 |
 | 1/6/2025 | REG4399A | DT | Passed | 0.0 | 1.00 |
 | 1/3/2025 | REG1209A | DT Ground Control | Passed | 0.0 | 1.00 |

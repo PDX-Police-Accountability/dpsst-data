@@ -24,12 +24,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/13/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/8/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/8/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/28/2025
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 1/16/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/8/2025
   course: PDP3277A
   title: 2025 SFST Refresher

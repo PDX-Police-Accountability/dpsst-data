@@ -29,6 +29,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/27/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP2664A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
+| 1/27/2025 | PDP2143A | 2024-2 TT State v. Wilcox Civil Holds and Search | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP2930A | 2024-3 City Attorney Legal Updates March 2024 | Passed | 0.0 | 0.25 |
 | 1/20/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 1/16/2025 | PDP1794 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 1/16/2025 | PDP2310A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

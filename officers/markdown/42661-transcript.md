@@ -40,6 +40,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/14/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 3/14/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 3/14/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 3/14/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 1/21/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |
 | 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -51,6 +56,9 @@
 | 1/7/2025 | PDP2973A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 1/7/2025 | PDP3268A | 2024 ECIT Recording Define the Event | Passed | 0.0 | 0.00 |
 | 1/7/2025 | PDP1810A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 1/7/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/7/2025 | PDP3115A | 2024 ECIT Define the Event | Passed | 0.0 | 1.00 |
+| 1/7/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 12/31/2024 | MAINTMUC | Maintenance Makeup CIT/MH | Passed | 0.0 | 1.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Leadership 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2024 | PDP3797A | 2024 SERT Camp Rilea Training | Passed | 0.0 | 21.00 |

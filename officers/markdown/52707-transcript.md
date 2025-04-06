@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 3/8/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
+| 3/8/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/21/2025 | PDP4253A | 2024-3 In-Serv CAO Legal Updates Supp Tra Mat | Passed | 0.0 | 0.25 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/6/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/26/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |

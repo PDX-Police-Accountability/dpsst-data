@@ -75,18 +75,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/11/2025
+  course: PDP1113A
+  title: 2024-5 Naloxone Adm Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/6/2025
   course: PDP3723A
   title: 2025 Instructor Development
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 2/12/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/12/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/12/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/12/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/5/2025
+  course: PDP1758A
+  title: 2022 Sworn Super In-Serv Crit Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 1/5/2025
+  course: PDP3187A
+  title: 2022 Sworn Super In-Serv PIO
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 1/5/2025
+  course: PDP0777A
+  title: 2022 Sworn Super In-Serv PSC/IA
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 1/5/2025
+  course: PDP0647A
+  title: 2022 Sworn Super In-Serv PSC/IA 2
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
 - date: 12/19/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

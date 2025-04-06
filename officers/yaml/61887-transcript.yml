@@ -24,12 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/5/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/30/2024
   course: PDP0280A
   title: 2024-3 IS MFF Baton  OC Spray Video

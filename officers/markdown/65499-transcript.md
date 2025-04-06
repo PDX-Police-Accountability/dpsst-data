@@ -31,8 +31,36 @@
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/11/2025 | PDP2208A | Hazmat/WMD Awareness / Gas Mask | Passed | 0.0 | 3.00 |
 | 3/10/2025 | PDP2176A | TEEX WMD Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
+| 3/10/2025 | PDP0466A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP3301A | 2021 In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 3/10/2025 | PDP4514A | 2023-12 City Attorney Legal Updates for Jan  Feb | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP3282A | 2021 In-Serv Language Access-Translation  Interp | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP3154A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP1937A | 2021 In-Service Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP1382A | 2021 In-Service Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP1170A | 2021 In-Service Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP2861A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP2226A | 2023-4 City Attorney Legal Update for April 23 | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP0302A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP3629A | 2024 DIR 0640.80 Bias Event Response | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP3665A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 3/10/2025 | PDP2664A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP0601A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP1452A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP0807A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP1202A | 2024-3 City Attorney Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP2930A | 2024-3 City Attorney Legal Updates March 2024 | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 2/24/2025 | PDP0367A | 2018 TOD 100% Collection and Submission | Passed | 0.0 | 0.25 |
+| 2/24/2025 | PDP3093A | 2018-5 TT 100% Collection and Sub for FA  Casing | Passed | 0.0 | 0.25 |
+| 2/24/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
+| 2/24/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
 | 2/20/2025 | PDP2898A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
+| 2/20/2025 | PDP1643A | 2020-1 City Attorney Legal Updates for Oct 2020 | Passed | 0.0 | 0.25 |
 | 2/19/2025 | PDP0563A | 2025 FTEP Post DPSST Firearms Roster | Passed | 0.0 | 23.00 |
 | 2/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 1/22/2025 | REG2762A | DID-SFST | Passed | 0.0 | 0.00 |

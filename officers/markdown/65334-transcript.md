@@ -29,6 +29,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/6/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/6/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/6/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/6/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 1/23/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 1/13/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/3/2024 | PDP3568A | 2024 Body Worn Camera Training | Passed | 0.0 | 3.00 |
 | 12/3/2024 | PDP1771A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 12/3/2024 | PDP0784A | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |

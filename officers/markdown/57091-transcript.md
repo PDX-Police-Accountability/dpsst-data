@@ -40,8 +40,14 @@
 | 3/26/2025 | PDP3746A | FTEP Post Basic Firearms | Instructed | 0.0 | 23.00 |
 | 3/17/2025 | PDP1012A | FTEP Post Basic Firearms | Instructed | 0.0 | 23.00 |
 | 2/19/2025 | PDP0563A | 2025 FTEP Post DPSST Firearms Roster | Instructed | 0.0 | 23.00 |
+| 2/18/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/18/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/18/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 2/12/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/12/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 1/15/2025 | PDP0956A | 2025 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 1/10/2025 | PDP4370A | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 1/10/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 12/18/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 12/12/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |

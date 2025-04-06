@@ -29,6 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/3/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 1/4/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/4/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 12/18/2024 | PDP0085A | 2024-3 Advanced Academy SVO | Passed | 0.0 | 3.00 |
 | 12/18/2024 | PDP1132A | 2024-3 Advanced Academy Comm. Eng. | Passed | 0.0 | 4.50 |
 | 12/18/2024 | PDP4296A | 2024-3 Advanced Academy SERT Info | Passed | 0.0 | 1.00 |

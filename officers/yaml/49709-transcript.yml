@@ -111,6 +111,90 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/26/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/5/2025
+  course: PDP2226A
+  title: 2023-4 City Attorney Legal Update for April 23
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/5/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/5/2025
+  course: PDP1957A
+  title: 2024 ECIT Dispatch Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/5/2025
+  course: PDP3665A
+  title: 2024 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/5/2025
+  course: PDP1452A
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/5/2025
+  course: PDP0362A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/5/2025
+  course: PDP0807A
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/5/2025
+  course: PDP0601A
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/5/2025
+  course: PDP2664A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/5/2025
+  course: PDP1202A
+  title: 2024-3 City Attorney Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/4/2025
+  course: PDP4252A
+  title: 2024-7 COA Legal Updates for July 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/4/2025
+  course: PDP4503A
+  title: 2024-9 CAO Legal Updates for September 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/4/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/1/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

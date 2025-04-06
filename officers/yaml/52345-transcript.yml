@@ -63,6 +63,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/6/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/6/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/6/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/6/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/21/2025
   course: OCS2608A
   title: FBI LEEDA- SLI
@@ -93,6 +117,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 1/13/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/9/2025
   course: PDP1868A
   title: 2025 SERT Training - SCENARIO

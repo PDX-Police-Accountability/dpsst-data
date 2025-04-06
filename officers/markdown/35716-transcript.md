@@ -39,8 +39,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/11/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
 | 3/6/2025 | PDP3723A | 2025 Instructor Development | Passed | 0.0 | 28.00 |
+| 2/12/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/12/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/12/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/12/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/12/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/5/2025 | PDP1758A | 2022 Sworn Super In-Serv Crit Incident Management | Passed | 0.0 | 2.75 |
+| 1/5/2025 | PDP3187A | 2022 Sworn Super In-Serv PIO | Passed | 0.0 | 2.75 |
+| 1/5/2025 | PDP0777A | 2022 Sworn Super In-Serv PSC/IA | Passed | 0.0 | 2.75 |
+| 1/5/2025 | PDP0647A | 2022 Sworn Super In-Serv PSC/IA 2 | Passed | 0.0 | 2.75 |
 | 12/19/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/9/2024 | PDP0814A | 2024-1 Supervisor IS Deminimus Force BWC Review | Passed | 0.0 | 1.00 |
 | 12/5/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |

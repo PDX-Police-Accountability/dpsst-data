@@ -24,12 +24,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/22/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/20/2025
   course: PDP1499A
   title: SERT CNT Hostage Scenario Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/16/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/16/2025
+  course: PDP1957A
+  title: 2024 ECIT Dispatch Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/13/2025
   course: PDP1867A
   title: 2025 SERT Breacher In-Service
@@ -48,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/16/2025
+  course: PDP4253A
+  title: 2024-3 In-Serv CAO Legal Updates Supp Tra Mat
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/14/2025
   course: PDP0574A
   title: 2025 SERT Training - SCENARIO

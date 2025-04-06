@@ -38,7 +38,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/7/2025 | EGP2485A | Dialgue Officer Training | Passed | 0.0 | 40.00 |
 | 11/16/2024 | PPP1120A | Taser 7 Annual Certification | Passed | 0.0 | 4.00 |
 | 10/29/2024 | PPP3270A | RDS Firearm Training  Qual | Passed | 0.0 | 16.00 |
 | 9/30/2024 | PPP1016A | Rifle Range | Passed | 0.0 | 4.00 |

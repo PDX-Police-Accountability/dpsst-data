@@ -30,6 +30,42 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/27/2025
+  course: PDP0362A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2025
+  course: PDP2664A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2025
+  course: PDP4252A
+  title: 2024-7 COA Legal Updates for July 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2025
+  course: PDP4503A
+  title: 2024-9 CAO Legal Updates for September 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/27/2025
+  course: PDP2143A
+  title: 2024-2 TT State v. Wilcox Civil Holds and Search
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2025
+  course: PDP2930A
+  title: 2024-3 City Attorney Legal Updates March 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/20/2025
   course: M10-23A
   title: DPSST Basic Police Course

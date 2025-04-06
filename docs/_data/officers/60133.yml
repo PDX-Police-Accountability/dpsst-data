@@ -31,6 +31,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/14/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/26/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/23/2025
   course: VND1044A
   title: Responder Life Peer Support Conference
@@ -49,6 +61,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/4/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/26/2024
   course: PDP0578A
   title: Emergency Operations Plan (EOP) VLP

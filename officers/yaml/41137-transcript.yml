@@ -44,18 +44,42 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 2/16/2025
+  course: PDP4116A
+  title: 2025 SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/11/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 1/30/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/8/2025
   course: PDP3277A
   title: 2025 SFST Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/6/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2025
+  course: PDP1957A
+  title: 2024 ECIT Dispatch Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/10/2024
   course: OSH1816A
   title: ARIDE

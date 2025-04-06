@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/7/2025 | PDP1214A | 2024-1 Sup IS ICS for expanding Incidents Ref | Passed | 0.0 | 1.00 |
 | 1/7/2025 | PDP2406A | 2024-1 Sup IS Internal Affairs (Video) | Passed | 0.0 | 0.00 |
@@ -44,6 +45,13 @@
 | 1/7/2025 | PDP3278A | 2024-1 Sup IS BHR Supporting Employee Needs Video | Passed | 0.0 | 1.00 |
 | 1/7/2025 | PDP0406A | 2024-1 Sup IS Civil Unrest PDX OR 2020 (Video 1) | Passed | 0.0 | 0.00 |
 | 1/7/2025 | PDP3961A | 2024-1 Sup IS Deminimus Force BWC Review (Video) | Passed | 0.0 | 0.00 |
+| 1/7/2025 | PDP2373A | 2024-1 Sup In-Service BHR Support Employee Needs | Passed | 0.0 | 1.00 |
+| 1/7/2025 | PDP3736A | 2024-1 Sup In-Service Civil Unrest Port 2020 1 | Passed | 0.0 | 1.00 |
+| 1/7/2025 | PDP3104A | 2024-1 Sup In-Service Civil Unrest Port 2020 2 | Passed | 0.0 | 1.00 |
+| 1/7/2025 | PDP4188A | 2024-1 Sup In-Service Deminimus Force BWC Rev | Passed | 0.0 | 1.00 |
+| 1/7/2025 | PDP2496A | 2024-1 Sup In-Service Incid Comnd Sys ICS Exp Inci | Passed | 0.0 | 1.00 |
+| 1/7/2025 | PDP3726A | 2024-1 Sup In-Service Internal Affairs | Passed | 0.0 | 1.00 |
+| 1/7/2025 | PDP1591A | 2024-1 Sup In-Service Message from Force Insp | Passed | 0.0 | 0.25 |
 | 12/31/2024 | MAINTMUL | Maintenance Makeup Leadership | Passed | 0.0 | 3.25 |
 | 12/31/2024 | MISCMAIN | 2024 LE Leadership 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/20/2024 | PDP3205A | 2023-4 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |

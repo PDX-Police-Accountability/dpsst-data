@@ -24,6 +24,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/22/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/23/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/12/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/4/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/4/2025
+  course: PDP1953A
+  title: 2020-1 City Attorney Legal Updates for Jan 2020
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/1/2025
+  course: PDP2580A
+  title: 2017-3 City Attorney Office Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/1/2025
+  course: PDP4326A
+  title: 2024-10 CAO Legal Updates for July  August 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/23/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

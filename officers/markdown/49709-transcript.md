@@ -50,6 +50,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/26/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/5/2025 | PDP2226A | 2023-4 City Attorney Legal Update for April 23 | Passed | 0.0 | 0.25 |
+| 2/5/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 2/5/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
+| 2/5/2025 | PDP3665A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 2/5/2025 | PDP1452A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 2/5/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 2/5/2025 | PDP0807A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 2/5/2025 | PDP0601A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 2/5/2025 | PDP2664A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 2/5/2025 | PDP1202A | 2024-3 City Attorney Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 2/4/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
+| 2/4/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
+| 2/4/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/3/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 4/1/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

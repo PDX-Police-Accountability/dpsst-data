@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 1/13/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 12/12/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/12/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 12/12/2024 | PDP0414A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |

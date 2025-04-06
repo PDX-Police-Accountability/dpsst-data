@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/21/2025
   course: PDP2677A
   title: 2025 Radar Lidar Operators Course
@@ -98,12 +104,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 2/6/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/8/2025
   course: PDP3277A
   title: 2025 SFST Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/1/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/13/2024
   course: VND3263A
   title: North American Standard CMV Inspection Part A

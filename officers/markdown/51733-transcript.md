@@ -34,7 +34,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2025 | PDP1021A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 3/19/2025 | PDP1622A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 2/6/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/6/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 12/3/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/3/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
 | 12/3/2024 | PDP3474A | 2024-3 All Sworn In-Service MFF PO Events | Passed | 0.0 | 1.50 |

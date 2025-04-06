@@ -45,6 +45,11 @@
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Instructed | 0.0 | 9.00 |
 | 3/5/2025 | PDP0910A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 2/14/2025 | PDP0574A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/12/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/12/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/12/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 2/11/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/11/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 2/6/2025 | PDP0112A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/23/2025 | PDP3657A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

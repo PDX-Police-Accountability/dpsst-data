@@ -37,11 +37,15 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/26/2025 | PDP3889A | EDU Sustainment Training | Passed | 0.0 | 9.00 |
 | 3/19/2025 | PDP3702A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 3/14/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 9.00 |
 | 3/12/2025 | PDP2611A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 3/12/2025 | PDP2611A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
+| 3/5/2025 | PDP2630A | 2025 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
+| 2/26/2025 | PDP4259A | 2025 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
 | 2/19/2025 | PDP3551A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 2/19/2025 | PDP3551A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
+| 1/31/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/29/2025 | PDP1927A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/22/2025 | PDP3036A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |

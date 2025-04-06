@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/25/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/13/2025
   course: PDP1867A
   title: 2025 SERT Breacher In-Service
@@ -62,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/7/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/23/2025
   course: PDP3657A
   title: 2025 SERT Training - SCENARIO

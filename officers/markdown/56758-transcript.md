@@ -38,10 +38,18 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/1/2025 | PDP3586A | Hazmat/WMD Awareness / Gas Mask | Instructed | 0.0 | 3.00 |
 | 3/11/2025 | PDP2208A | Hazmat/WMD Awareness / Gas Mask | Instructed | 0.0 | 3.00 |
+| 3/11/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
+| 2/20/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/18/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/18/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/18/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/18/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 2/10/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 2/7/2025 | PDP4210A | 2025 RRT Grenadier Cadre Training | Passed | 0.0 | 8.00 |
 | 1/13/2025 | PDP2390A | 2025 Training Red Dot Optic Transition Course | Passed | 0.0 | 25.00 |
 | 1/10/2025 | PDP4370A | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/19/2024 | PDP1983A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/19/2024 | PDP3488A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |
 | 12/19/2024 | PDP4560A | 2024-3 All Sworn In-Service MFF: Formations | Passed | 0.0 | 1.00 |

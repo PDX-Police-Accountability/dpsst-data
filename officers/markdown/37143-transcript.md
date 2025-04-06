@@ -38,7 +38,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
+| 3/20/2025 | PDP1021A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 3/19/2025 | PDP1622A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 2/12/2025 | PDP3300A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 2/6/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/6/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/6/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/6/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 1/22/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 1/22/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/15/2025 | PDP1514A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |
 | 12/19/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/11/2024 | PDP4453A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 10.00 |

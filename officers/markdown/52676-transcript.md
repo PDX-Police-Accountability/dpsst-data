@@ -37,6 +37,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
+| 1/30/2025 | PDP3199A | 2024-3 In-Serv PP Shooting at Moving Veh Video 1 | Passed | 0.0 | 1.25 |
+| 1/30/2025 | PDP0820A | 2024-3 In-Serv PP Shooting at Moving Veh Video 2 | Passed | 0.0 | 1.25 |
+| 1/29/2025 | PDP3391A | 2024-3 In-Serv Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
+| 1/29/2025 | PDP0245A | 2024-3 In-Serv Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |
+| 1/29/2025 | PDP2625A | 2024-3 In-Service ABLE for Law Enforcement | Passed | 0.0 | 2.00 |
+| 1/29/2025 | PDP4269A | 2024-3 In-Service Air Purifying Resp Video | Passed | 0.0 | 1.00 |
+| 1/28/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/28/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 1/28/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
+| 1/28/2025 | PDP4253A | 2024-3 In-Serv CAO Legal Updates Supp Tra Mat | Passed | 0.0 | 0.25 |
+| 1/28/2025 | PDP4449A | 2024-3 In-Serv MFF Response to Public Order Events | Passed | 0.0 | 1.50 |
+| 1/28/2025 | PDP1680A | 2024-3 In-Service MFF Baton  OC Video | Passed | 0.0 | 1.00 |
+| 1/28/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 8/28/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/23/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/12/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

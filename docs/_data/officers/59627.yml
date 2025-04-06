@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.25'
+- date: 2/7/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service
@@ -55,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/1/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/1/2025
+  course: PDP1957A
+  title: 2024 ECIT Dispatch Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

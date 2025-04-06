@@ -33,7 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
+| 3/19/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 27.00 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 2/20/2025 | PDP0113A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
@@ -42,6 +45,8 @@
 | 2/3/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/23/2025 | PDP3657A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/15/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 1/15/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/13/2025 | PDP2390A | 2025 Training Red Dot Optic Transition Course | Passed | 0.0 | 25.00 |
 | 1/9/2025 | PDP1868A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/17/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |

@@ -131,6 +131,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/5/2025
+  course: SMS0893A
+  title: Brady/Case Law In-Service
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/28/2025
   course: SVP2548A
   title: Foundations in Ethics for Law Enforcement

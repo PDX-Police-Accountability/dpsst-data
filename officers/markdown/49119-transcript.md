@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/23/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 1/10/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/9/2024 | PDP2527A | 2024 External OSP DNA Training | Passed | 0.0 | 2.50 |
 | 12/7/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/7/2024 | PDP3831A | 2024 Training Red Dot Optic Transition Course | Passed | 0.0 | 26.50 |

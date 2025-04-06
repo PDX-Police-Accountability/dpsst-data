@@ -56,6 +56,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 3/13/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/6/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/3/2025
+  course: PDP0362A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/23/2025
   course: VND1044A
   title: Responder Life Peer Support Conference

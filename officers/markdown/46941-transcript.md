@@ -41,9 +41,14 @@
 | 3/5/2025 | PDP0382A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 2/20/2025 | PDP2447A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |
 | 2/20/2025 | PDP2447A | 2025 K-9 Weekly Training | Instructed | 0.0 | 5.25 |
+| 2/17/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/17/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 2/16/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/16/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 2/13/2025 | PDP4037A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/22/2025 | PDP0927A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 1.00 |
+| 1/13/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 12/23/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/12/2024 | PDP3270A | 2024 K-9 (K9) Weekly Trng | Passed | 0.0 | 5.75 |
 | 12/4/2024 | PDP2849A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |

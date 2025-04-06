@@ -31,6 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/24/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/24/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/13/2024
   course: PDP0679A
   title: 2024 Rapid Response Team (RRT) Monthly Training

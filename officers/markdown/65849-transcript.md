@@ -31,6 +31,19 @@
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 2/21/2025 | PDP2677A | 2025 Radar Lidar Operators Course | Passed | 0.0 | 14.00 |
 | 2/21/2025 | REG1395A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
+| 1/27/2025 | PDP0302A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP0466A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP1643A | 2020-1 City Attorney Legal Updates for Oct 2020 | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP2861A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP4514A | 2023-12 City Attorney Legal Updates for Jan  Feb | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP2896A | 2023-11 City Attorney Legal Update for Nov 23 | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP2226A | 2023-4 City Attorney Legal Update for April 23 | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
+| 1/27/2025 | PDP2664A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP2143A | 2024-2 TT State v. Wilcox Civil Holds and Search | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP1202A | 2024-3 City Attorney Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP2930A | 2024-3 City Attorney Legal Updates March 2024 | Passed | 0.0 | 0.25 |
 | 1/20/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 1/16/2025 | PDP1794 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 1/16/2025 | PDP2310A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

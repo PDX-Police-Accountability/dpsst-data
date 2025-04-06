@@ -41,10 +41,17 @@
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 2/20/2025 | PDP0113A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/14/2025 | PDP0574A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/10/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/10/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/10/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/10/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/27/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/23/2025 | PDP3657A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/16/2025 | PDP0182A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/9/2025 | PDP1868A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/6/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 11/27/2024 | PDP4007A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/27/2024 | PDP4007A | 2024 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

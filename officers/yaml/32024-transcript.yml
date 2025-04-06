@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/11/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/26/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

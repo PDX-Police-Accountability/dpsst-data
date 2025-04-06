@@ -29,6 +29,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/1/2025 | PDP3586A | Hazmat/WMD Awareness / Gas Mask | Passed | 0.0 | 3.00 |
+| 3/31/2025 | PDP1643A | 2020-1 City Attorney Legal Updates for Oct 2020 | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP0367A | 2018 TOD 100% Collection and Submission | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP3093A | 2018-5 TT 100% Collection and Sub for FA  Casing | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP3708A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
 | 3/27/2025 | PDP1687A | FTEP Post Basic Control Tactics | Passed | 0.0 | 4.00 |
 | 3/26/2025 | PDP3746A | FTEP Post Basic Firearms | Passed | 0.0 | 23.00 |

@@ -38,6 +38,7 @@
 | 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
+| 2/25/2025 | OCS0200A | Striking and Take Downs | Passed | 0.0 | 1.00 |
 | 2/12/2025 | OCS1937A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |
 | 1/30/2025 | OCS2612A | January 2025 DT's and MILO | Passed | 0.0 | 1.00 |
 | 1/28/2025 | OCS4033A | NLP Code Enforcement Training | Passed | 0.0 | 1.50 |

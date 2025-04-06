@@ -56,6 +56,12 @@ certification_records:
   expiration_date: 5/16/2025
   probation_date: ''
 training_records:
+- date: 3/19/2025
+  course: PDP4253A
+  title: 2024-3 In-Serv CAO Legal Updates Supp Tra Mat
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/28/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

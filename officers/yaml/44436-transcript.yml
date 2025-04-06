@@ -63,6 +63,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/14/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/13/2025
   course: PDP1867A
   title: 2025 SERT Breacher In-Service
@@ -81,6 +87,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 3/5/2025
+  course: PDP2630A
+  title: 2025 Explosive Disposal Unit Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/26/2025
+  course: PDP4259A
+  title: 2025 Explosive Disposal Unit Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/19/2025
   course: PDP3551A
   title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
@@ -93,6 +111,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 1/31/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/30/2025
   course: PDP0926A
   title: 2025 SERT Training - SCENARIO

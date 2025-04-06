@@ -31,12 +31,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2025
+  course: PDP1113A
+  title: 2024-5 Naloxone Adm Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/20/2025
   course: PDP1499A
   title: SERT CNT Hostage Scenario Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/19/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/13/2025
   course: PDP1867A
   title: 2025 SERT Breacher In-Service
@@ -85,6 +103,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/15/2025
+  course: PDP0362A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/13/2025
   course: PDP2390A
   title: 2025 Training Red Dot Optic Transition Course

@@ -30,12 +30,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/18/2025
+  course: PDP1460A
+  title: '2020 Training Managing Crit Incid Well: Sgts Role'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/20/2025
   course: PDP0113A
   title: 2025 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/7/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/15/2025
   course: PDP1514A
   title: 2025 CNT Crisis Negotiation Team Annual Training

@@ -39,9 +39,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/21/2025 | GSP3585A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 2/19/2025 | GSP4035A | Firearms Training/IED Familiarization | Passed | 0.0 | 10.00 |
+| 2/7/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/17/2025 | GSP0641A | SWAT Sniper Range - Night | Passed | 0.0 | 10.00 |
 | 1/16/2025 | GSP2341A | 1st Responder Response to Terrorism Acts/40 Quals | Passed | 0.0 | 10.00 |
 | 1/15/2025 | GSP2029A | Firearms | Passed | 0.0 | 10.00 |
+| 1/8/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/20/2024 | GSP1469A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 12/19/2024 | GSP1538A | SCBA, Breaching, Equipment Familiarzation | Passed | 0.0 | 10.00 |
 | 12/18/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |

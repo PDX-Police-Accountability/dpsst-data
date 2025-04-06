@@ -36,7 +36,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 3/14/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 3/14/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 3/14/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 3/3/2025 | PDP0827A | 2025 Training Return to Work | Instructed | 0.0 | 9.00 |
+| 2/14/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/7/2025 | PDP2187A | FBI-LEEDS Executive Leadership Institute | Passed | 0.0 | 28.00 |
 | 1/23/2025 | VND1044A | Responder Life Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/23/2025 | PDP2258A | Responder Life NW Peer Support Conference | Passed | 0.0 | 14.00 |

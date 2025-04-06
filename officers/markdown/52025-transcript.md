@@ -38,14 +38,24 @@
 | 3/19/2025 | PDP3702A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 3/12/2025 | PDP2611A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 3/12/2025 | PDP2611A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
+| 3/5/2025 | PDP2630A | 2025 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
+| 3/5/2025 | PDP2630A | 2025 Explosive Disposal Unit Weekly Training | Instructed | 0.0 | 9.00 |
+| 2/26/2025 | PDP4259A | 2025 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
+| 2/26/2025 | PDP4259A | 2025 Explosive Disposal Unit Weekly Training | Instructed | 0.0 | 9.00 |
 | 2/19/2025 | PDP3551A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 2/19/2025 | PDP3551A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 2/12/2025 | PDP2948A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 2/6/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/6/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/6/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/6/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 2/5/2025 | PDP3231A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 2/5/2025 | PDP3231A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 1/29/2025 | PDP1927A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/22/2025 | PDP3036A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/22/2025 | PDP3036A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
+| 1/13/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 1/2/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/18/2024 | PDP1368A | 2024 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 12/18/2024 | PDP1368A | 2024 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 12/11/2024 | PDP3198A | 2024 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |

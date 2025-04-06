@@ -41,12 +41,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/24/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 3/24/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 3/20/2025 | PDP1021A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 3/19/2025 | PDP1622A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 2/26/2025 | VND4176A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 2/18/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 2/12/2025 | PDP3300A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 2/11/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 2/4/2025 | PDP1037A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 1/15/2025 | PDP1514A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |
+| 1/13/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 1/13/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/18/2024 | PDP3393A | 2024-3 All Sworn In-Service ABLE (Ethics) | Passed | 0.0 | 1.00 |
 | 12/18/2024 | PDP1388A | 2024-3 All Sworn In-Service ABLE (CIT) | Passed | 0.0 | 1.00 |
 | 12/18/2024 | PDP2520A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
@@ -112,6 +120,7 @@
 | 3/6/2024 | PDP1281A | 2024-1 All Sworn In-Service Taser 7 | Passed | 0.0 | 3.00 |
 | 3/6/2024 | PDP0063A | 2024-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.50 |
 | 2/21/2024 | PDP0192A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 10.00 |
+| 1/26/2024 | PDP1488A | 2024 Shot Show | Passed | 0.0 | 40.00 |
 | 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 1/8/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/5/2023 | PDP3725A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |

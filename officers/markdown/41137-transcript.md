@@ -35,8 +35,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/16/2025 | PDP2497A | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 2/16/2025 | PDP4116A | 2025 SFST Refresher | Instructed | 0.0 | 4.00 |
 | 2/11/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
+| 1/30/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/8/2025 | PDP3277A | 2025 SFST Refresher | Passed | 0.0 | 4.00 |
+| 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/6/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 12/10/2024 | OSH1816A | ARIDE | Instructed | 0.0 | 16.00 |
 | 12/10/2024 | PDP2693A | 2024 Adv Roadside Impaired Driving Enforcement | Instructed | 0.0 | 16.00 |
 | 11/24/2024 | PDP0427A | 2024 SFST Refresher | Instructed | 0.0 | 4.00 |

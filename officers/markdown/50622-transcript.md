@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2025 | OCP2766A | RDS M17 Pistol Conversion | Instructed | 0.0 | 15.00 |
 | 3/24/2025 | OCP1315A | To Pursue or Not | Passed | 0.0 | 1.50 |
 | 3/24/2025 | OCP1808A | Contempt Of Cop: Ethical Decision Making | Passed | 0.0 | 1.25 |
 | 3/19/2025 | OCP1185A | RDS M17 Pistol Conversion | Instructed | 0.0 | 13.00 |

@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/25/2025
+  course: OCS0200A
+  title: Striking and Take Downs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/12/2025
   course: OCS1937A
   title: Equity in Policing and Public Safety

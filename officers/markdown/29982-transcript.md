@@ -49,6 +49,7 @@
 | 2/26/2025 | SVP2039A | Intro to Handgun Optics Transition | Passed | 0.0 | 16.00 |
 | 2/12/2025 | AVP3522A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 2/9/2025 | SVP2971A | State Law Restrictions on Immigration Enforcement | Passed | 0.0 | 0.25 |
+| 2/5/2025 | SMS0893A | Brady/Case Law In-Service | Passed | 0.0 | 2.00 |
 | 1/28/2025 | SVP2548A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/15/2025 | SVP1500A | Cell Extractions and Strategy | Passed | 0.0 | 4.00 |
 | 1/15/2025 | AVP1171A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |

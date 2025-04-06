@@ -36,11 +36,17 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/26/2025 | PDP3889A | EDU Sustainment Training | Passed | 0.0 | 9.00 |
 | 3/19/2025 | PDP3702A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 3/13/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 3/13/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 3/13/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 3/13/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 3/12/2025 | PDP2611A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 2/26/2025 | PDP4259A | 2025 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
 | 2/5/2025 | PDP3231A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 2/3/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 1/29/2025 | PDP1927A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/22/2025 | PDP3036A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 1/13/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 12/25/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/18/2024 | PDP1324A | 2024 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 5.00 |
 | 12/11/2024 | PDP3198A | 2024 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |

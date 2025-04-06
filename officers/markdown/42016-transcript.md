@@ -38,15 +38,18 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/26/2025 | PDP3889A | EDU Sustainment Training | Instructed | 0.0 | 9.00 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
+| 3/19/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 27.00 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Instructed | 0.0 | 27.00 |
 | 2/20/2025 | PDP0113A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/14/2025 | PDP0574A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/11/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/6/2025 | PDP0112A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/6/2025 | PDP0112A | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/23/2025 | PDP3657A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/23/2025 | PDP3657A | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
+| 1/11/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 1/9/2025 | PDP1868A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/9/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/9/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

@@ -35,9 +35,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/13/2025 | PDP4037A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |
+| 2/7/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/5/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 1/13/2025 | PDP2390A | 2025 Training Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 1/10/2025 | PDP4370A | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 1/1/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/1/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | PDP0237A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 10/23/2024 | PDP3427A | 2024-3 All Sworn In-Service CAO Legal Updates Add | Passed | 0.0 | 0.25 |

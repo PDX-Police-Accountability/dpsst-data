@@ -30,6 +30,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 2/5/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/3/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/3/2025
+  course: PDP1957A
+  title: 2024 ECIT Dispatch Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/18/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

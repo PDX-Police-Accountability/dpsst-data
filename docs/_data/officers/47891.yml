@@ -64,12 +64,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: PDP2684A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 3/26/2025
+  course: PDP1113A
+  title: 2024-5 Naloxone Adm Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/20/2025
+  course: PDP1021A
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/19/2025
+  course: PDP1622A
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/12/2025
   course: PDP3300A
   title: 2025 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/8/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/15/2025
   course: PDP1514A
   title: 2025 CNT Crisis Negotiation Team Annual Training
@@ -4763,6 +4793,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/27/2025
+  expiration_date: 3/27/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

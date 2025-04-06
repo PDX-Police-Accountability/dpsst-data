@@ -31,7 +31,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/5/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/30/2024 | PDP0280A | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
 | 12/30/2024 | PDP0776A | 2024-3 IS MFF Response to Public Order Events | Passed | 0.0 | 1.50 |
 | 12/30/2024 | PDP3741A | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |

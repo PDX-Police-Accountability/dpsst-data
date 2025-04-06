@@ -42,6 +42,7 @@
 | 2/20/2025 | PDP0113A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/14/2025 | PDP0574A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/6/2025 | PDP0112A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/5/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/24/2025 | PDP0837A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/15/2025 | PDP1514A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |

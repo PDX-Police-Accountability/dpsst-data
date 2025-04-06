@@ -62,12 +62,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 2/12/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/3/2025
   course: PDP1027A
   title: 2025 FTEP Geography
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 2/3/2025
+  course: PDP0362A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/20/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

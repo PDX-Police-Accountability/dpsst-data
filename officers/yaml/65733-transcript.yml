@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/31/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/27/2025
   course: PDP3708A
   title: Stop Stick Online Safety Training - Man Deploy
@@ -48,6 +54,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/27/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/27/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/26/2025
   course: PDP3746A
   title: FTEP Post Basic Firearms

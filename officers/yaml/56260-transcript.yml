@@ -62,12 +62,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/29/2025
+  course: PDP1460A
+  title: '2020 Training Managing Crit Incid Well: Sgts Role'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/8/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/8/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/20/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 2/16/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/16/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/24/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/10/2025
   course: PDP4370A
   title: 2025 Rapid Response Team (RRT) Monthly Training

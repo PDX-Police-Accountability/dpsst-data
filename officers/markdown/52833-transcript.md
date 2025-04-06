@@ -35,7 +35,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/25/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 2/21/2025 | PDP2677A | 2025 Radar Lidar Operators Course | Instructed | 0.0 | 14.00 |
+| 2/6/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/6/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
+| 2/6/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 2/6/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 1/29/2025 | PDP3981A | 2025 sUAS Training for Traffic Division | Instructed | 0.0 | 3.00 |
+| 1/21/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/8/2025 | PDP3277A | 2025 SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/31/2024 | PDP1143A | 2024 Radar/Lidar | Instructed | 0.0 | 11.50 |
 | 12/12/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |

@@ -43,10 +43,13 @@
 | 2/26/2025 | PDP1491A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 2/20/2025 | PDP0113A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/14/2025 | PDP0574A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/11/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/6/2025 | PDP0112A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/23/2025 | PDP3657A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/16/2025 | PDP0182A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 1/15/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/15/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 1/9/2025 | PDP1868A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/27/2024 | PDP4007A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

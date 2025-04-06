@@ -68,6 +68,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/22/2025
+  course: PDP0362A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/22/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/15/2025
   course: PDP1514A
   title: 2025 CNT Crisis Negotiation Team Annual Training
@@ -86,6 +98,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/6/2025
+  course: PDP4326A
+  title: 2024-10 CAO Legal Updates for July  August 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/19/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

@@ -51,6 +51,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2025
+  course: PDP1275A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 3/18/2025
+  course: PDP1113A
+  title: 2024-5 Naloxone Adm Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/2/2025
+  course: PDP2171A
+  title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/2/2025
+  course: PDP0221A
+  title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/2/2025
+  course: PDP2607A
+  title: 2025 Sworn In-Service PVO Stop Stick External
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/2/2025
+  course: PDP3248A
+  title: 2025 Sworn In-Service PVO Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/21/2025
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
@@ -63,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 1/14/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/12/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement
@@ -4084,6 +4126,10 @@ training_records:
   score: '0.0'
   hours: '21.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/19/2025
+  expiration_date: 3/19/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

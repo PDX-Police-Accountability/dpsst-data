@@ -42,18 +42,186 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/10/2025
+  course: PDP0466A
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP3301A
+  title: 2021 In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/10/2025
+  course: PDP4514A
+  title: 2023-12 City Attorney Legal Updates for Jan  Feb
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP3282A
+  title: 2021 In-Serv Language Access-Translation  Interp
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP3154A
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP1937A
+  title: 2021 In-Service Procedural Justice Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP1382A
+  title: 2021 In-Service Procedural Justice Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP1170A
+  title: 2021 In-Service Procedural Justice Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP0362A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP2861A
+  title: 2024-1 TT SERT in Mobile Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP2226A
+  title: 2023-4 City Attorney Legal Update for April 23
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP0302A
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP3629A
+  title: 2024 DIR 0640.80 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP3665A
+  title: 2024 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/10/2025
+  course: PDP2664A
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP1957A
+  title: 2024 ECIT Dispatch Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP0601A
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP1452A
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP0807A
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP1202A
+  title: 2024-3 City Attorney Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP2930A
+  title: 2024-3 City Attorney Legal Updates March 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/27/2025
   course: PDP2504A
   title: 2025 FTEP Post Basic CEW Taser
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/24/2025
+  course: PDP0367A
+  title: 2018 TOD 100% Collection and Submission
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/24/2025
+  course: PDP3093A
+  title: 2018-5 TT 100% Collection and Sub for FA  Casing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/24/2025
+  course: PDP4252A
+  title: 2024-7 COA Legal Updates for July 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/24/2025
+  course: PDP4503A
+  title: 2024-9 CAO Legal Updates for September 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/20/2025
   course: PDP2898A
   title: Stop Stick Online Safety Training - Man Deploy
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/20/2025
+  course: PDP1643A
+  title: 2020-1 City Attorney Legal Updates for Oct 2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/19/2025
   course: PDP0563A
   title: 2025 FTEP Post DPSST Firearms Roster

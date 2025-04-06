@@ -37,7 +37,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/20/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 2/18/2025 | PDP1873A | 2025 FTEP Policy  Procedure | Instructed | 0.0 | 4.00 |
+| 2/12/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/3/2025 | PDP1027A | 2025 FTEP Geography | Instructed | 0.0 | 2.00 |
+| 2/3/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 12/20/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/19/2024 | PDP1983A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/19/2024 | PDP3488A | 2024-3 All Sworn In-Service MFF: Use of Force TT | Passed | 0.0 | 1.00 |

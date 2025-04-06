@@ -38,12 +38,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2025
+  course: PDP0362A
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2025
+  course: PDP3367A
+  title: 2025 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/6/2025
+  course: PDP0222A
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/12/2024
   course: PDP1039A
   title: 2024-3 All Sworn In-Service CAO Legal Updates
