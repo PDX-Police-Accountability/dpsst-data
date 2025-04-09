@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/21/2025
+  course: GSP0066A
+  title: SWAT Sniper Range
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/20/2025
+  course: GSP3207A
+  title: Controlled Swarming/IP Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 2/19/2025
   course: GSP4035A
   title: Firearms Training/IED Familiarization

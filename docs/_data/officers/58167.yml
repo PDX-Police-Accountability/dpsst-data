@@ -2899,6 +2899,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/12/2017
+  course: MISCOOS
+  title: Approved Out of State Training
+  status: Passed
+  score: '0.0'
+  hours: '601.75'
 - date: 3/21/2014
   course: PDP2266
   title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp

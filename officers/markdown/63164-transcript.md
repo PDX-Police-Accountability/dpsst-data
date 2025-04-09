@@ -28,7 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 3/18/2022 | Bachelor Arts | All Other Education Institutes | Criminal Justice | 180.0 |
+| 3/18/2022 | Bachelor Arts | All Other Education Institutes | Criminal Justice | 90.0 |
+| 6/22/2020 | Associate Arts | All Other Education Institutes |  | 95.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

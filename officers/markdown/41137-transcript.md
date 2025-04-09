@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
 | 3/16/2025 | PDP2497A | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 2/16/2025 | PDP4116A | 2025 SFST Refresher | Instructed | 0.0 | 4.00 |
 | 2/11/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |

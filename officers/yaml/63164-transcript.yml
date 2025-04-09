@@ -1070,4 +1070,9 @@ education_records:
   degree: Bachelor Arts
   school: All Other Education Institutes
   major: Criminal Justice
-  hours: '180.0'
+  hours: '90.0'
+- date: 6/22/2020
+  degree: Associate Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '95.0'

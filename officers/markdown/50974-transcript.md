@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
 | 3/24/2025 | OCP1315A | To Pursue or Not | Passed | 0.0 | 1.50 |
 | 3/24/2025 | OCP1808A | Contempt Of Cop: Ethical Decision Making | Passed | 0.0 | 1.25 |
 | 2/5/2025 | OCP0130A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |

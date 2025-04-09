@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2025 | GSP0066A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 3/20/2025 | GSP3207A | Controlled Swarming/IP Decision Making | Passed | 0.0 | 10.00 |
+| 3/19/2025 | GSP1056A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 2/21/2025 | GSP3585A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 2/19/2025 | GSP4035A | Firearms Training/IED Familiarization | Passed | 0.0 | 10.00 |
 | 2/7/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |

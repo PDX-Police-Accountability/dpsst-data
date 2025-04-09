@@ -4,7 +4,7 @@
 | name | Clancy, Joshua L. |
 | dpsst_identifier | 63424 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/2/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 11/10/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/1/2024 | Police Officer | Basic | Granted | 10/1/2024 |  |  |
+| 10/1/2024 | Police Officer | Basic | Granted | 10/1/2024 | 7/2/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

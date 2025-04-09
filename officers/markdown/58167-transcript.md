@@ -511,4 +511,5 @@
 | 1/18/2018 | PDP1572 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 1/16/2018 | PDP35550 | Policy and Procedure | Passed | 0.0 | 8.00 |
 | 1/16/2018 | PDP28147 | Bloodbourne Pathogens | Passed | 0.0 | 1.00 |
+| 5/12/2017 | MISCOOS | Approved Out of State Training | Passed | 0.0 | 601.75 |
 | 3/21/2014 | PDP2266 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |

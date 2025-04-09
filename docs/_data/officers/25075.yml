@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/31/2025
+  agency: DPSST Use Only
+  action: Resigned
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 8/23/2021
   agency: Portland Police Bureau
   action: Retired
@@ -40,6 +46,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 3/31/2025
+  certificate: Instructor
+  level: ''
+  status: Expired
+  certificate_date: 1/20/2021
+  expiration_date: ''
+  probation_date: ''
 - status_date: 11/23/2021
   certificate: Police Officer
   level: Advanced
@@ -60,13 +73,6 @@ certification_records:
   status: Lapsed
   certificate_date: 3/22/2010
   expiration_date: 8/23/2026
-  probation_date: ''
-- status_date: 1/20/2021
-  certificate: Instructor
-  level: ''
-  status: Granted
-  certificate_date: 1/20/2021
-  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 12/17/2024

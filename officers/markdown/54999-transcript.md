@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/3/2025 | MOS3882A | NORTAC - Officer Down/Officer Rescue Range Drills | Passed | 0.0 | 1.50 |
+| 4/3/2025 | MOS3734A | NORTAC - Advanced Firearms Range | Passed | 0.0 | 5.00 |
+| 4/3/2025 | MOS0715A | NORTAC -MPX Qualificiation | Passed | 0.0 | 0.50 |
+| 3/5/2025 | CDS3139A | NORTAC BASIC CQB | Passed | 0.0 | 7.00 |
 | 2/13/2025 | HRS4519A | In-Service Training: Bodycam Review | Passed | 0.0 | 1.00 |
 | 2/13/2025 | HRS0506A | In-Service Training: DA Updates | Passed | 0.0 | 1.00 |
 | 2/13/2025 | HRS1270A | In-Service Training: Exigency Case Law | Passed | 0.0 | 1.00 |
