@@ -32,7 +32,7 @@ training_records:
   hours: '50.00'
 - date: 4/1/2025
   course: PDP3586A
-  title: Hazmat/WMD Awareness / Gas Mask
+  title: Hazmat/WMD Awareness/Gas Mask
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -74,7 +74,7 @@ training_records:
   hours: '14.00'
 - date: 1/30/2025
   course: REG0637A
-  title: INTOX 8000
+  title: Intox 8000
   status: Passed
   score: '0.0'
   hours: '0.00'

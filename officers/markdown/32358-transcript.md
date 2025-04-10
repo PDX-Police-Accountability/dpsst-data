@@ -197,7 +197,7 @@
 | 4/8/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/7/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/7/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
-| 4/7/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 4/7/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+/Queer Community | Passed | 0.0 | 0.25 |
 | 4/7/2022 | PDP19930 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 4/7/2022 | PDP02335 | DIR 640.38, Interact w Members of the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
 | 4/7/2022 | PDP08575 | Dir 640.38, Intrctng with Members CHO Letter | Passed | 0.0 | 0.25 |

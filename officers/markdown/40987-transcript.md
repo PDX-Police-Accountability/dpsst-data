@@ -38,9 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2025 | PDP3737A | 2025 Explosive Disposal Unit (MEDU) Weekly | Passed | 0.0 | 9.00 |
 | 3/26/2025 | PDP3889A | EDU Sustainment Training | Passed | 0.0 | 9.00 |
+| 3/24/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
+| 3/24/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
+| 3/21/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/19/2025 | PDP3702A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 3/8/2025 | PDP3138A | HDS Bomb Technician Recertification | Passed | 0.0 | 40.00 |
+| 3/4/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/26/2025 | PDP4259A | 2025 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
 | 2/19/2025 | PDP3551A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 2/12/2025 | PDP2948A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
@@ -52,6 +57,10 @@
 | 1/29/2025 | PDP1927A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/22/2025 | PDP3036A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/13/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 1/13/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 1/13/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 1/9/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
+| 1/9/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 12/18/2024 | PDP1324A | 2024 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 12/16/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/11/2024 | PDP3198A | 2024 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
@@ -323,7 +332,7 @@
 | 3/15/2022 | PDP2901A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 3/7/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
-| 3/7/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 3/7/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+/Queer Community | Passed | 0.0 | 0.25 |
 | 3/2/2022 | PDP07114 | EDU weekly electronics training | Passed | 0.0 | 9.00 |
 | 2/23/2022 | PDP33869 | EDU WMD Response  Electronics Training | Passed | 0.0 | 8.00 |
 | 2/17/2022 | GSP31094 | U.A.S. Ground School | Passed | 0.0 | 10.00 |

@@ -36,6 +36,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/28/2025
+  course: PDP1564A
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/28/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/28/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/28/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/20/2025
   course: M10-23A
   title: DPSST Basic Police Course
@@ -78,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/1/2025
+  course: PDP0639A
+  title: Dir 660.10 Property Evidence Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/23/2024
   course: PDP1801A
   title: 'Directive 0910.00 Update: De Minimis Force'

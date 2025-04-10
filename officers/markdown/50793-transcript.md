@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/19/2025 | PDP2959A | K-9 Weekly Training | Passed | 0.0 | 4.50 |
 | 3/5/2025 | PDP0382A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.50 |
 | 2/20/2025 | PDP2447A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |
@@ -45,6 +46,10 @@
 | 2/13/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 2/12/2025 | PDP4037A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.50 |
 | 2/8/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/8/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 2/8/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 2/1/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
+| 2/1/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 1/30/2025 | PDP0926A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/23/2025 | PDP0927A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 12/12/2024 | PDP3270A | 2024 K-9 (K9) Weekly Trng | Passed | 0.0 | 4.00 |
@@ -322,7 +327,7 @@
 | 3/16/2022 | PDP29882 | 2022-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 3/9/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/9/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
-| 3/9/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 3/9/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+/Queer Community | Passed | 0.0 | 0.25 |
 | 3/9/2022 | PDP31744 | K-9 weekly training | Passed | 0.0 | 4.00 |
 | 3/2/2022 | PDP40693 | K-9 weekly training | Passed | 0.0 | 3.00 |
 | 2/27/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |

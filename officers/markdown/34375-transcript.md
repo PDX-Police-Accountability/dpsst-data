@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2025 | STS1382A | Respectful Workplace "Red light green light" | Passed | 0.0 | 1.50 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2024 | STS2651A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/30/2024 | STS2461A | Implicit Bias | Passed | 0.0 | 1.00 |

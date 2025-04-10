@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/11/2025
+  course: PDP2978A
+  title: HR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/19/2025
   course: PDP0221A
   title: 2025 Sworn In-Service PVO Stop Stick Intro Video
@@ -68,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 2/12/2025
+  course: PDP1564A
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/6/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/3/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service
@@ -80,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/13/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/28/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video
@@ -1054,7 +1084,7 @@ training_records:
   hours: '0.25'
 - date: 3/15/2022
   course: PDP25308
-  title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
+  title: 2022 Vocabulary in LGBTQIA2S+/Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'

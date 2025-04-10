@@ -28,7 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 4/1/2025 | PDP3586A | Hazmat/WMD Awareness / Gas Mask | Passed | 0.0 | 3.00 |
+| 4/1/2025 | PDP3586A | Hazmat/WMD Awareness/Gas Mask | Passed | 0.0 | 3.00 |
 | 3/31/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP1170A | 2021 In-Service Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP3301A | 2021 In-Service Procedural Justice | Passed | 0.0 | 0.75 |
@@ -48,11 +48,19 @@
 | 3/31/2025 | PDP0601A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP2664A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 3/31/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP4570A | Dir 0910.00 Update De Minimis Force | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP0639A | Dir 660.10 Property Evidence Procedures | Passed | 0.0 | 0.50 |
+| 3/31/2025 | PDP3238A | Emergancy Operations Plan | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 3/31/2025 | PDP0853A | School Emergancy Actions | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP3708A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
 | 3/27/2025 | PDP1687A | FTEP Post Basic Control Tactics | Passed | 0.0 | 4.00 |
 | 3/26/2025 | PDP3746A | FTEP Post Basic Firearms | Passed | 0.0 | 23.00 |
 | 2/26/2025 | REG2129A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
-| 1/30/2025 | REG0637A | INTOX 8000 | Passed | 0.0 | 0.00 |
+| 1/30/2025 | REG0637A | Intox 8000 | Passed | 0.0 | 0.00 |
 | 12/31/2024 | PDP1143A | 2024 Radar/Lidar | Passed | 0.0 | 11.50 |
 | 12/31/2024 | REG2067A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 11/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

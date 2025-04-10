@@ -118,7 +118,7 @@
 | 1/16/2023 | HSU30895 | Red Dot Sight Course | Instructed | 0.0 | 30.00 |
 | 12/7/2022 | 22-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 11/19/2022 | HSU24957 | November 2022 Supplemental Range | Instructed | 0.0 | 4.00 |
-| 10/17/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/17/2022 | HSU33827 | Airway Training Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/17/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |
 | 10/17/2022 | HSU32547 | Chief's Ethics Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/17/2022 | HSU07156 | Wellness Fall In-Service 2022 | Passed | 0.0 | 1.00 |

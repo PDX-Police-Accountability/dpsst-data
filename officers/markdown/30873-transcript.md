@@ -209,7 +209,7 @@
 | 4/5/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/4/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/4/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
-| 4/4/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 4/4/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+/Queer Community | Passed | 0.0 | 0.25 |
 | 2/15/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/15/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/15/2022 | PDP28528 | 2022 Advanced Shotgun Operator PowerPoint | Passed | 0.0 | 0.75 |

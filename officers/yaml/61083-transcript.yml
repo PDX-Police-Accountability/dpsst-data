@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 3/17/2025
+  course: PDP2978A
+  title: HR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/3/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update
@@ -54,18 +60,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/2/2025
+  course: PDP1564A
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/30/2025
   course: PDP0926A
   title: 2025 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/23/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/23/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/9/2025
   course: PDP0222A
   title: 2024 Deflection Center Video for Law Enforcement
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/9/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/26/2024
   course: PDP0578A
   title: Emergency Operations Plan (EOP) VLP
@@ -1178,7 +1208,7 @@ training_records:
   hours: '0.25'
 - date: 3/7/2022
   course: PDP25308
-  title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
+  title: 2022 Vocabulary in LGBTQIA2S+/Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -30,15 +30,51 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/26/2025
+  course: PDP2645A
+  title: 2025-2 City Att Legal Updates Dec 2023-Feb 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/26/2025
+  course: PDP4000A
+  title: 2025-3 City Att Legal Updates Mar 2024-June 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/5/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 3/5/2025
+  course: PDP2978A
+  title: HR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/6/2025
   course: PDP0221A
   title: 2025 Sworn In-Service PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/6/2025
+  course: PDP0327A
+  title: AA 2025 Project Respond
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/6/2025
+  course: PDP1884A
+  title: AA 2025 Respond to Mental Health Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/6/2025
+  course: PDP3145A
+  title: AA 2025 Behavioral Health Unit Overview
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -48,6 +84,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/23/2025
+  course: PDP1564A
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/23/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/23/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/23/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/16/2025
+  course: PDP3209A
+  title: AA 2025 Building Police Legit through Proc Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/16/2025
+  course: PDP3101A
+  title: AA 2025 Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/8/2025
   course: PDP0222A
   title: 2024 Deflection Center Video for Law Enforcement

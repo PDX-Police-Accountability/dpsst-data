@@ -37,3 +37,4 @@
 | 2/25/2025 | PDP1486A | 2025 FTEP Blood Borne Pathogens (BBP) | Passed | 0.0 | 1.50 |
 | 2/20/2025 | PDP1851A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 2/18/2025 | PDP1873A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 4.00 |
+| 2/18/2025 | PDP3040A | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

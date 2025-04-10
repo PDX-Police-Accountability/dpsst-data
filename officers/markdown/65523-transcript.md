@@ -29,7 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 3/11/2025 | PDP2208A | Hazmat/WMD Awareness / Gas Mask | Passed | 0.0 | 3.00 |
+| 3/11/2025 | PDP2208A | Hazmat/WMD Awareness/Gas Mask | Passed | 0.0 | 3.00 |
 | 3/10/2025 | PDP2176A | TEEX WMD Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 3/10/2025 | PDP1170A | 2021 In-Service Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
 | 3/10/2025 | PDP3301A | 2021 In-Service Procedural Justice | Passed | 0.0 | 0.75 |
@@ -43,6 +43,8 @@
 | 3/10/2025 | PDP0601A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 3/10/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
 | 3/10/2025 | PDP2664A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 3/10/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
+| 3/10/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/3/2025 | PDP4514A | 2023-12 City Attorney Legal Updates for Jan  Feb | Passed | 0.0 | 0.25 |
 | 3/3/2025 | PDP2861A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
 | 3/3/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
@@ -59,7 +61,14 @@
 | 2/24/2025 | PDP1202A | 2024-3 City Attorney Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP2930A | 2024-3 City Attorney Legal Updates March 2024 | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/24/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 2/24/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
+| 2/24/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 2/24/2025 | PDP0639A | Dir 660.10 Property Evidence Procedures | Passed | 0.0 | 0.50 |
 | 2/20/2025 | PDP1643A | 2020-1 City Attorney Legal Updates for Oct 2020 | Passed | 0.0 | 0.25 |
+| 2/20/2025 | PDP4570A | Dir 0910.00 Update De Minimis Force | Passed | 0.0 | 0.25 |
+| 2/20/2025 | PDP3238A | Emergancy Operations Plan | Passed | 0.0 | 0.25 |
+| 2/20/2025 | PDP0853A | School Emergancy Actions | Passed | 0.0 | 0.25 |
 | 2/19/2025 | PDP0563A | 2025 FTEP Post DPSST Firearms Roster | Passed | 0.0 | 23.00 |
 | 2/19/2025 | PDP2898A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
 | 2/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |

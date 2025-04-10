@@ -33,6 +33,7 @@
 | 2/21/2025 | REG1395A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 1/23/2025 | PDP0302A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 1/20/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 1/18/2025 | PDP1418A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 1/16/2025 | PDP1794 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 1/16/2025 | PDP2310A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 1/16/2025 | PDP0633A | IS-700 Intro to National Incident Managment System | Passed | 0.0 | 4.00 |

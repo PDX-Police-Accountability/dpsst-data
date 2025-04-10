@@ -37,3 +37,4 @@
 | 2/23/2025 | PDP0211A | IS-700 Intro to Nat Incident Management System | Passed | 0.0 | 4.00 |
 | 2/20/2025 | PDP1851A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 2/18/2025 | PDP1873A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 4.00 |
+| 2/18/2025 | PDP1418A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

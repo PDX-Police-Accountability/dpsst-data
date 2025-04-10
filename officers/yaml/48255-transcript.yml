@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: PDP1069A
+  title: 2025 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/23/2025
+  course: PDP2978A
+  title: HR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/13/2025
   course: PDP1867A
   title: 2025 SERT Breacher In-Service
@@ -86,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/17/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/13/2025
   course: PDP4400A
   title: 2025 SERT Training - FIREARMS
@@ -1600,7 +1618,7 @@ training_records:
   hours: '0.25'
 - date: 4/4/2022
   course: PDP07364
-  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
+  title: 2022 Vocab in the LGBTQIA2S+/Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -39,3 +39,4 @@
 | 1/15/2025 | PDP0956A | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 1/14/2025 | PDP4537A | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 1/7/2025 | PDP4284A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
+| 1/6/2025 | PDP1418A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

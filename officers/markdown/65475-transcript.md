@@ -28,18 +28,21 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 4/1/2025 | PDP3586A | Hazmat/WMD Awareness / Gas Mask | Passed | 0.0 | 3.00 |
+| 4/1/2025 | PDP3586A | Hazmat/WMD Awareness/Gas Mask | Passed | 0.0 | 3.00 |
 | 3/31/2025 | PDP0367A | 2018 TOD 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP3093A | 2018-5 TT 100% Collection and Sub for FA  Casing | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP3665A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 3/31/2025 | PDP1452A | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP0807A | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP0601A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP4570A | Dir 0910.00 Update De Minimis Force | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP0639A | Dir 660.10 Property Evidence Procedures | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP3708A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
 | 3/27/2025 | PDP1687A | FTEP Post Basic Control Tactics | Passed | 0.0 | 4.00 |
 | 3/26/2025 | PDP3746A | FTEP Post Basic Firearms | Passed | 0.0 | 23.00 |
 | 2/26/2025 | REG2129A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
-| 1/30/2025 | REG0637A | INTOX 8000 | Passed | 0.0 | 0.00 |
+| 1/30/2025 | REG0637A | Intox 8000 | Passed | 0.0 | 0.00 |
 | 12/31/2024 | PDP1143A | 2024 Radar/Lidar | Passed | 0.0 | 11.50 |
 | 12/31/2024 | REG2067A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 11/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

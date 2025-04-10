@@ -64,6 +64,14 @@
 | 2/4/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
 | 2/4/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
 | 2/4/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/4/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 2/4/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
+| 2/4/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
+| 2/4/2025 | PDP2358A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 2/4/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 2/4/2025 | PDP4570A | Dir 0910.00 Update De Minimis Force | Passed | 0.0 | 0.25 |
+| 2/4/2025 | PDP3238A | Emergancy Operations Plan | Passed | 0.0 | 0.25 |
+| 2/4/2025 | PDP0853A | School Emergancy Actions | Passed | 0.0 | 0.25 |
 | 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/3/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 4/1/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
@@ -187,7 +195,7 @@
 | 4/26/2022 | PDP29350 | Project Safe Neighborhood-Violence Reduction | Passed | 0.0 | 12.00 |
 | 4/5/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/5/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
-| 4/5/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 4/5/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+/Queer Community | Passed | 0.0 | 0.25 |
 | 3/30/2022 | PDP30982 | ICS-400 Adv ICS Cmd  General Staff-Complex Incdts | Passed | 0.0 | 15.91 |
 | 3/29/2022 | PDP13698 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

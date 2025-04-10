@@ -32,13 +32,19 @@ training_records:
   hours: '50.00'
 - date: 4/1/2025
   course: PDP3586A
-  title: Hazmat/WMD Awareness / Gas Mask
+  title: Hazmat/WMD Awareness/Gas Mask
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 3/31/2025
   course: PDP1643A
   title: 2020-1 City Attorney Legal Updates for Oct 2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2025
+  course: PDP0853A
+  title: School Emergancy Actions
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -68,7 +74,7 @@ training_records:
   hours: '0.00'
 - date: 1/30/2025
   course: REG0637A
-  title: INTOX 8000
+  title: Intox 8000
   status: Passed
   score: '0.0'
   hours: '0.00'

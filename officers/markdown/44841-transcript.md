@@ -39,7 +39,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
+| 3/5/2025 | F1501174 | Donning and Doffing Personal Protec. | Passed | 0.0 | 3.00 |
+| 3/5/2025 | F1521561 | Thermometry, Heat and Heat Transfer | Passed | 0.0 | 3.00 |
 | 2/28/2025 | LOP1282A | Fire Investigation: Essentials | Passed | 0.0 | 72.00 |
+| 2/4/2025 | F1512878 | Arc Mapping Basics | Passed | 0.0 | 4.00 |
+| 2/4/2025 | F1530552 | Basic Electricity | Passed | 0.0 | 4.00 |
 | 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
 | 1/30/2025 | LOP0547A | Drug Endangered Children for Patrol | Passed | 0.0 | 0.25 |
 | 12/20/2024 | LOP2868A | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
@@ -56,7 +60,17 @@
 | 9/30/2024 | LOP1989A | Ethics and Code of Conduct: Ethics for Everyone | Passed | 0.0 | 1.00 |
 | 9/30/2024 | LOP0116A | 8 Keys to a More Respectful Workplace 02-09 | Passed | 0.0 | 1.00 |
 | 9/12/2024 | LOP3432A | OC Refresher  Takedowns/Control Techniques | Passed | 0.0 | 4.00 |
+| 9/10/2024 | F1545544 | Search and Seizure | Passed | 0.0 | 4.00 |
+| 9/10/2024 | F1516185 | The Scientific Method for Fire | Passed | 0.0 | 3.00 |
+| 9/6/2024 | F1522435 | Investigating Fatal Fires | Passed | 0.0 | 4.00 |
+| 9/6/2024 | F1536073 | Physical Evidence at the Fire Scene | Passed | 0.0 | 4.00 |
 | 8/31/2024 | LOP2845A | Handgun Optic Refresher | Passed | 0.0 | 0.75 |
+| 8/9/2024 | F1534505 | Introduction to Fire Dynamics | Passed | 0.0 | 4.00 |
+| 8/8/2024 | F1544618 | Fire Protection Systems | Passed | 0.0 | 3.00 |
+| 8/8/2024 | F1522852 | Fundamentals of Residential Building | Passed | 0.0 | 3.00 |
+| 8/8/2024 | F1526630 | Introduction to Evidence | Passed | 0.0 | 4.00 |
+| 8/7/2024 | F1516391 | Documenting the Event | Passed | 0.0 | 4.00 |
+| 8/7/2024 | F1529689 | Fire Investigator Scene Safety | Passed | 0.0 | 3.00 |
 | 5/30/2024 | LOP1938A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |
 | 3/7/2024 | LOP2975A | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 2/14/2024 | LOP0053A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |

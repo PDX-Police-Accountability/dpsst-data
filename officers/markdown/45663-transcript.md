@@ -47,9 +47,7 @@
 | 11/26/2024 | SAG0750A | Firearms training | Passed | 0.0 | 3.00 |
 | 10/16/2024 | MISCMAIN | 2024 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/13/2024 | BNS1087A | Spyder Forensics: Host Based Network Forensics | Passed | 0.0 | 40.00 |
-| 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
-| 8/29/2024 | SAG2543A | First Aid / CPR Training | Passed | 0.0 | 4.00 |
-| 8/29/2024 | SAG2651A | First Aid / CPR Training | Passed | 0.0 | 4.00 |
+| 8/29/2024 | SAG2651A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 8/20/2024 | SAG3615A | ICAC 101 | Instructed | 0.0 | 8.00 |
 | 7/15/2024 | SAG2700A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 3.00 |
@@ -151,7 +149,7 @@
 | 3/16/2022 | PDP2901A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
-| 3/8/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 3/8/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+/Queer Community | Passed | 0.0 | 0.25 |
 | 2/23/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/23/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/10/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |

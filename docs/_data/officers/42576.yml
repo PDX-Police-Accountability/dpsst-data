@@ -86,6 +86,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/31/2025
+  course: PDP4456A
+  title: 2025 Extreme Risk Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2025
+  course: PDP1069A
+  title: 2025 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/26/2025
+  course: PDP2978A
+  title: HR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/13/2025
   course: PDP1867A
   title: 2025 SERT Breacher In-Service
@@ -134,6 +152,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/13/2025
+  course: PDP1564A
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/13/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/9/2025
   course: PDP1868A
   title: 2025 SERT Training - SCENARIO
@@ -1240,7 +1282,7 @@ training_records:
   hours: '0.25'
 - date: 3/14/2022
   course: PDP25308
-  title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
+  title: 2022 Vocabulary in LGBTQIA2S+/Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'

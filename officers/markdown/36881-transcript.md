@@ -50,12 +50,9 @@
 | 10/24/2024 | SAG4294A | Firearms training - Night Range 2024 | Passed | 0.0 | 3.00 |
 | 10/24/2024 | SAG3277A | Taser re-certification 2024 | Passed | 0.0 | 1.00 |
 | 9/25/2024 | VND3546A | Basic Background Investigation | Passed | 0.0 | 16.00 |
-| 8/29/2024 | SAG1551A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
-| 8/29/2024 | SAG2543A | First Aid / CPR Training | Passed | 0.0 | 4.00 |
-| 8/29/2024 | SAG2651A | First Aid / CPR Training | Passed | 0.0 | 4.00 |
+| 8/29/2024 | SAG2651A | First Aid/CPR Training | Passed | 0.0 | 4.00 |
 | 8/14/2024 | SAG2271A | Firearms training | Passed | 0.0 | 3.00 |
 | 6/11/2024 | SAG3574A | Firearms training | Passed | 0.0 | 2.00 |
-| 6/11/2024 | SAG0346A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 2.00 |
 | 3/25/2024 | SAG1585A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 2/22/2024 | SAG0543A | Firearms Training | Passed | 0.0 | 2.00 |

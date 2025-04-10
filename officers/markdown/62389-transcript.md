@@ -128,7 +128,7 @@
 | 3/23/2022 | PDP18543 | 2021-4 City Attorney's Legal Updates April 2021 | Passed | 0.0 | 0.25 |
 | 3/23/2022 | PDP33002 | 2021-6 City Attorney's Legal Updates for June 2021 | Passed | 0.0 | 0.25 |
 | 3/23/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
-| 3/23/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 3/23/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+/Queer Community | Passed | 0.0 | 0.25 |
 | 3/22/2022 | PDP41603 | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 3/22/2022 | PDP18728 | 2018-5 Tip  Tech. Collect Sub. Firearm and Cart. | Passed | 0.0 | 0.25 |
 | 3/22/2022 | PDP12295 | 2021-12 Tips and Tech. Req. Emerg. Ping of a Cell | Passed | 0.0 | 0.25 |

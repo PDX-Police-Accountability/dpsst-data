@@ -96,7 +96,7 @@
 | 3/31/2022 | BVP35408 | Blood Draw  Vehicle Extractions HB 4301 | Passed | 0.0 | 0.50 |
 | 3/31/2022 | BVP21253 | Blood Draw  Vehicle Extractions Control Tactics | Passed | 0.0 | 2.00 |
 | 3/31/2022 | BVP27801 | Taser Recertification | Passed | 0.0 | 2.00 |
-| 3/7/2022 | BVP20042 | The Red Door Project- Evolve Experience | Passed | 0.0 | 3.00 |
+| 3/7/2022 | BVP20042 | The Red Door Project - Evolve Experience | Passed | 0.0 | 3.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/17/2022 | BVP09666 | CPR/ First Aid Adult and Child Recertification | Passed | 0.0 | 2.00 |
 | 2/17/2022 | BVP07767 | Diversity, Equity and Inclusion | Passed | 0.0 | 3.00 |

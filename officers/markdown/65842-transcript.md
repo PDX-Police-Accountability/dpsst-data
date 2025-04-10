@@ -28,18 +28,28 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/15/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 3/26/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/24/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 3/24/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 3/24/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 3/24/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/9/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 2/25/2025 | PDP1643A | 2020-1 City Attorney Legal Updates for Oct 2020 | Passed | 0.0 | 0.25 |
 | 2/7/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
+| 2/7/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 2/7/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
+| 2/7/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
+| 2/7/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 2/5/2025 | PDP4527A | TEEX WMD/Terrorism Aware for Emer Respndrs | Passed | 0.0 | 8.00 |
 | 2/4/2025 | PDP2622A | 2025 FTEP Orientation | Passed | 0.0 | 5.00 |
 | 2/3/2025 | PDP1027A | 2025 FTEP Geography | Passed | 0.0 | 2.00 |
 | 2/1/2025 | PDP0367A | 2018 TOD 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 2/1/2025 | PDP3093A | 2018-5 TT 100% Collection and Sub for FA  Casing | Passed | 0.0 | 0.25 |
+| 2/1/2025 | PDP0639A | Dir 660.10 Property Evidence Procedures | Passed | 0.0 | 0.50 |
+| 2/1/2025 | PDP3238A | Emergancy Operations Plan | Passed | 0.0 | 0.25 |
+| 2/1/2025 | PDP0853A | School Emergancy Actions | Passed | 0.0 | 0.25 |
 | 1/27/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP4570A | Dir 0910.00 Update De Minimis Force | Passed | 0.0 | 0.25 |
 | 1/26/2025 | PDP0302A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 1/26/2025 | PDP0466A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 1/26/2025 | PDP3301A | 2021 In-Service Procedural Justice | Passed | 0.0 | 0.75 |
@@ -65,6 +75,7 @@
 | 1/26/2025 | PDP2930A | 2024-3 City Attorney Legal Updates March 2024 | Passed | 0.0 | 0.25 |
 | 1/25/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
 | 1/24/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
+| 1/24/2025 | PDP2358A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/20/2025 | PDP0633A | IS-700 Intro to National Incident Managment System | Passed | 0.0 | 4.00 |
 | 1/15/2025 | PDP0956A | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 1/14/2025 | PDP1375A | CPR/First Aid | Passed | 0.0 | 2.50 |

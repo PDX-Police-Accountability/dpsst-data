@@ -30,9 +30,15 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/12/2025
+  course: PDP2978A
+  title: HR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/11/2025
   course: PDP2208A
-  title: Hazmat/WMD Awareness / Gas Mask
+  title: Hazmat/WMD Awareness/Gas Mask
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -120,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/24/2025
+  course: PDP0639A
+  title: Dir 660.10 Property Evidence Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/21/2025
   course: PDP3282A
   title: 2021 In-Serv Language Access-Translation  Interp
@@ -150,6 +162,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/21/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/21/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 2/20/2025
   course: PDP2898A
   title: Stop Stick Online Safety Training - Man Deploy
@@ -222,6 +246,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/20/2025
+  course: PDP1564A
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/20/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/20/2025
+  course: PDP4570A
+  title: Dir 0910.00 Update De Minimis Force
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/20/2025
+  course: PDP3238A
+  title: Emergancy Operations Plan
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/20/2025
+  course: PDP0853A
+  title: School Emergancy Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/19/2025
   course: PDP0563A
   title: 2025 FTEP Post DPSST Firearms Roster

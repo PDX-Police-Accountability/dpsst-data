@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/7/2025
+  course: OSH1879A
+  title: 'STOP Program: Data Collection on the Road'
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 1/21/2025
   course: OSH1334A
   title: Manager Comp.-Legistlative Processes/Goal Setting

@@ -159,7 +159,7 @@
 | 3/29/2022 | PDP2901A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
-| 3/8/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 3/8/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+/Queer Community | Passed | 0.0 | 0.25 |
 | 2/17/2022 | PDP08649 | 2022 In-Service Firearms - Range | Passed | 0.0 | 3.00 |
 | 2/17/2022 | PDP37784 | 2022 In-Service Legal Updates | Passed | 0.0 | 1.00 |
 | 2/17/2022 | PDP36959 | 2022 In-Service Firearms - Scenarios | Passed | 0.0 | 1.00 |

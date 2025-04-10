@@ -54,6 +54,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 1/18/2025
+  course: PDP1418A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/16/2025
   course: PDP1794
   title: ICS-100 Intro to the Incident Cmmnd System

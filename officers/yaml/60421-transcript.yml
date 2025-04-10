@@ -135,20 +135,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 8/29/2024
-  course: SAG1551A
-  title: First Aid/CPR Training
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 8/29/2024
-  course: SAG2543A
-  title: First Aid / CPR Training
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 8/29/2024
   course: SAG2651A
-  title: First Aid / CPR Training
+  title: First Aid/CPR Training
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -658,7 +646,7 @@ training_records:
   hours: '0.25'
 - date: 3/9/2022
   course: PDP25308
-  title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
+  title: 2022 Vocabulary in LGBTQIA2S+/Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'

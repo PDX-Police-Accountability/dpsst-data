@@ -44,6 +44,10 @@
 | 1/27/2025 | PDP2143A | 2024-2 TT State v. Wilcox Civil Holds and Search | Passed | 0.0 | 0.25 |
 | 1/27/2025 | PDP1202A | 2024-3 City Attorney Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 1/27/2025 | PDP2930A | 2024-3 City Attorney Legal Updates March 2024 | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
+| 1/27/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
+| 1/27/2025 | PDP2358A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/27/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/20/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 1/16/2025 | PDP1794 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 1/16/2025 | PDP2310A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

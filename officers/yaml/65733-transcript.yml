@@ -32,13 +32,31 @@ training_records:
   hours: '50.00'
 - date: 4/1/2025
   course: PDP3586A
-  title: Hazmat/WMD Awareness / Gas Mask
+  title: Hazmat/WMD Awareness/Gas Mask
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 3/31/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/31/2025
+  course: PDP4456A
+  title: 2025 Extreme Risk Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2025
+  course: PDP2645A
+  title: 2025-2 City Att Legal Updates Dec 2023-Feb 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2025
+  course: PDP4000A
+  title: 2025-3 City Att Legal Updates Mar 2024-June 2024
   status: Passed
   score: '0.0'
   hours: '0.75'
@@ -72,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/27/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/26/2025
   course: PDP3746A
   title: FTEP Post Basic Firearms
@@ -86,10 +110,22 @@ training_records:
   hours: '0.00'
 - date: 1/30/2025
   course: REG0637A
-  title: INTOX 8000
+  title: Intox 8000
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 1/10/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/10/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/31/2024
   course: PDP1143A
   title: 2024 Radar/Lidar

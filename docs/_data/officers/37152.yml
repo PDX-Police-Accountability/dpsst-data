@@ -50,6 +50,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/25/2025
+  course: PDP1564A
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/25/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2025
+  course: PDP2978A
+  title: HR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/30/2025
   course: PDP0222A
   title: 2024 Deflection Center Video for Law Enforcement
@@ -1126,7 +1156,7 @@ training_records:
   hours: '0.25'
 - date: 4/7/2022
   course: PDP07364
-  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
+  title: 2022 Vocab in the LGBTQIA2S+/Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'

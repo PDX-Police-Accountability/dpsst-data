@@ -50,6 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/2/2025
+  course: PDP3659A
+  title: 2025 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/2/2025
+  course: PDP3659A
+  title: 2025 K-9 (K9) Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/30/2025
+  course: PDP4000A
+  title: 2025-3 City Att Legal Updates Mar 2024-June 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/27/2025
+  course: PDP3998A
+  title: 2025 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/27/2025
+  course: PDP3998A
+  title: 2025 K-9 (K9) Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/19/2025
   course: PDP2959A
   title: K-9 Weekly Training
@@ -74,6 +104,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/9/2025
+  course: PDP1564A
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/9/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/3/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/3/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/6/2025
   course: PDP0222A
   title: 2024 Deflection Center Video for Law Enforcement
@@ -1648,7 +1702,7 @@ training_records:
   hours: '0.25'
 - date: 3/7/2022
   course: PDP25308
-  title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
+  title: 2022 Vocabulary in LGBTQIA2S+/Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'

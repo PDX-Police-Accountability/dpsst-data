@@ -28,6 +28,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/15/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 2/6/2025 | PDP1884A | AA 2025 Respond to Mental Health Facility | Passed | 0.0 | 0.25 |
+| 1/16/2025 | PDP3209A | AA 2025 Building Police Legit through Proc Justice | Passed | 0.0 | 0.25 |
+| 1/16/2025 | PDP3101A | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 12/24/2024 | PDP4423A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 12/24/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/21/2024 | PDP1771A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/24/2025
+  course: PDP2978A
+  title: HR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/14/2025
   course: PDP2607A
   title: 2025 Sworn In-Service PVO Stop Stick External
@@ -42,18 +48,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/27/2025
+  course: PDP1398A
+  title: 2025-1 City Att Legal Updates for Sep  Oct 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2025
+  course: PDP3324A
+  title: 2025-1 City Attorney Legal Updates for Nov 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/24/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/24/2025
+  course: PDP1564A
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/24/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/10/2025
   course: PDP1541A
   title: 2025 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 1/5/2025
+  course: PDP3933A
+  title: OSU SOP009 Modified Duty SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/5/2025
+  course: PDP4257A
+  title: OSU Mod Duty  Cold Call Taking  Online Rep
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/5/2025
+  course: PDP1125A
+  title: OSU SOP009 Modified Duty Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/29/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

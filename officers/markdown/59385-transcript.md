@@ -37,7 +37,6 @@
 | 3/20/2025 | PSU2669A | Q1 Qualification/Shooting  Moving | Passed | 0.0 | 1.50 |
 | 3/11/2025 | VND0242A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
 | 2/4/2025 | PSU2708A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |
-| 2/4/2025 | PSU3753A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |
 | 12/18/2024 | PSU1018A | Firearms - Ballistic Shield Deployment Course | Passed | 0.0 | 8.00 |
 | 12/11/2024 | PSU2902A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

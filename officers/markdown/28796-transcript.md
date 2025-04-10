@@ -232,7 +232,7 @@
 | 4/8/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/6/2022 | PDP32165 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 4/5/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
-| 4/5/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 4/5/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+/Queer Community | Passed | 0.0 | 0.25 |
 | 3/30/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP35017 | 2022 Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |
 | 3/17/2022 | PDP04245 | 2022-1 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |

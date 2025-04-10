@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: PDP1069A
+  title: 2025 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/26/2025
   course: PDP3744A
   title: SERT Technology Refresher Hostage Rescue
@@ -73,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 2/21/2025
+  course: PDP2899A
+  title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/19/2025
   course: PDP0222A
   title: 2024 Deflection Center Video for Law Enforcement
@@ -1689,7 +1701,7 @@ training_records:
   hours: '0.25'
 - date: 3/9/2022
   course: PDP25308
-  title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
+  title: 2022 Vocabulary in LGBTQIA2S+/Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'

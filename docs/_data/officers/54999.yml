@@ -88,13 +88,13 @@ training_records:
   hours: '5.00'
 - date: 4/3/2025
   course: MOS0715A
-  title: NORTAC -MPX Qualificiation
+  title: NORTAC - MPX Qualificiation
   status: Passed
   score: '0.0'
   hours: '0.50'
 - date: 3/5/2025
   course: CDS3139A
-  title: NORTAC BASIC CQB
+  title: NORTAC - Basic CQB
   status: Passed
   score: '0.0'
   hours: '7.00'

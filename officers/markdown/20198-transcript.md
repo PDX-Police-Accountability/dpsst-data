@@ -88,7 +88,7 @@
 | 11/3/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/22/2022 | HSU13319 | EVO Fall In-Service 2022 | Instructed | 0.0 | 2.00 |
 | 10/21/2022 | HSU07156 | Wellness Fall In-Service 2022 | Passed | 0.0 | 1.00 |
-| 10/17/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/17/2022 | HSU33827 | Airway Training Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/17/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |
 | 10/17/2022 | HSU32547 | Chief's Ethics Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/16/2022 | HSU43777 | Defensive Tactics Fall In-Service 2022 | Passed | 0.0 | 3.00 |

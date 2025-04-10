@@ -82,7 +82,7 @@
 | 4/16/2023 | HSU04368 | Spring In-Service 2023 Defensive Tactics | Passed | 0.0 | 2.00 |
 | 4/16/2023 | HSU19975 | Spring In-Service 2023 EVOC | Passed | 0.0 | 3.00 |
 | 10/17/2022 | HSU32547 | Chief's Ethics Fall In-Service 2022 | Passed | 0.0 | 2.00 |
-| 10/17/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/17/2022 | HSU33827 | Airway Training Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/17/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |
 | 10/17/2022 | HSU07156 | Wellness Fall In-Service 2022 | Passed | 0.0 | 1.00 |
 | 10/16/2022 | HSU04608 | Firearms Fall In-Service 2022 | Passed | 0.0 | 5.00 |
