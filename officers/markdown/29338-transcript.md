@@ -98,7 +98,6 @@
 | 11/12/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 10/27/2022 | PDS38818 | Patrol Rifle | Passed | 0.0 | 30.00 |
 | 9/30/2022 | PDS33076 | MIDD Training | Passed | 0.0 | 4.00 |
-| 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/22/2022 | PDS23693 | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/22/2022 | PDS41244 | Firearms Training | Passed | 0.0 | 3.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/8/2025
+  course: PXP4120A
+  title: Sexual Assault Investigation
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 3/19/2025
   course: OCA3739A
   title: Digital Evidence Training

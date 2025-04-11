@@ -266,7 +266,6 @@
 | 10/1/2022 | OCS19965 | Covid-19 Crisis | Passed | 0.0 | 1.00 |
 | 10/1/2022 | OCS16349 | Getting Out of Your Own Way | Passed | 0.0 | 1.00 |
 | 10/1/2022 | OCS30655 | Keeping Superheroes Super | Passed | 0.0 | 1.00 |
-| 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/20/2022 | OCS22530 | One Hand Shooting/Low Light/Target ID | Instructed | 0.0 | 4.00 |
 | 9/19/2022 | OCS39426 | September 2022 FTU Inservice Training | Passed | 0.0 | 4.00 |
 | 9/16/2022 | OCS29922 | Sniper Unit Overview | Passed | 0.0 | 16.00 |
@@ -434,7 +433,7 @@
 | 12/30/2019 | OCS36896 | Mental Health stress management training | Passed | 0.0 | 3.00 |
 | 12/30/2019 | OCS22929 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/30/2019 | OCS28377 | Defensive Tactics | Passed | 0.0 | 1.00 |
-| 12/12/2019 | MISCMAIN | 2019 LE Basic 3 Year Required Maintenance | Completed | 0.0 | 0.00 |
+| 12/12/2019 | MISCMAIN | 2019 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2019 | OCS23419 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/30/2019 | F6D32341 | Movement/Room Entry / Low Light - Flashlights | Passed | 0.0 | 1.00 |
 | 10/7/2019 | F6D41364 | Rifle Instructor Training | Passed | 0.0 | 4.00 |

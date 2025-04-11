@@ -44,6 +44,10 @@
 | 4/3/2025 | MOS3882A | NORTAC - Officer Down/Officer Rescue Range Drills | Passed | 0.0 | 1.50 |
 | 4/3/2025 | MOS3734A | NORTAC - Advanced Firearms Range | Passed | 0.0 | 5.00 |
 | 4/3/2025 | MOS0715A | NORTAC - MPX Qualificiation | Passed | 0.0 | 0.50 |
+| 3/20/2025 | HRS2680A | In-Service: Building Search Refresher | Passed | 0.0 | 2.00 |
+| 3/20/2025 | HRS1609A | In-Service: LEAD Program | Passed | 0.0 | 2.00 |
+| 3/20/2025 | HRS3953A | In-Service: SAR Refresher | Passed | 0.0 | 2.00 |
+| 3/20/2025 | HRS3696A | In-Service: Use of Force Refresher | Passed | 0.0 | 1.00 |
 | 3/5/2025 | CDS3139A | NORTAC - Basic CQB | Passed | 0.0 | 7.00 |
 | 2/13/2025 | HRS4519A | In-Service Training: Bodycam Review | Passed | 0.0 | 1.00 |
 | 2/13/2025 | HRS0506A | In-Service Training: DA Updates | Passed | 0.0 | 1.00 |

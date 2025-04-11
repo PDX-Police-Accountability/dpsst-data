@@ -669,7 +669,7 @@
 | 1/15/2008 | 08-0276 | Use of Force - Other | Passed | 0.0 | 2.50 |
 | 1/15/2008 | 08-0925 | Use of Force Policy | Passed | 0.0 | 1.00 |
 | 1/15/2008 | 08-1204 | EVOC / PIT | Passed | 0.0 | 5.50 |
-| 1/11/2008 | 08-0683 | Crisis Intervention | Completed | 0.0 | 40.00 |
+| 1/11/2008 | 08-0683 | Crisis Intervention | Passed | 0.0 | 40.00 |
 | 1/3/2008 | 08-0255 | SERT Training | Passed | 0.0 | 10.00 |
 | 1/2/2008 | 08-0138 | SERT Firearms Training | Passed | 0.0 | 10.00 |
 | 12/31/2007 | 07-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 5.30 |

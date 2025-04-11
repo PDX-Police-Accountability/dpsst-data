@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2025
+  course: PDP0294A
+  title: 2025 Public Order Command Workshop
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 3/5/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

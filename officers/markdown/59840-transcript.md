@@ -43,8 +43,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2025 | OCS1763A | Firearms Qualification | Passed | 0.0 | 0.75 |
+| 3/13/2025 | OCS1091A | Enrichment Academy EDIS | Passed | 0.0 | 1.00 |
+| 3/6/2025 | OCS1284A | Firearms Training | Passed | 0.0 | 2.00 |
 | 2/25/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Completed | 0.0 | 50.00 |
 | 2/25/2025 | OCS0200A | Striking and Take Downs | Passed | 0.0 | 1.00 |
+| 2/20/2025 | OCS4308A | Bias Part 1 | Passed | 0.0 | 1.00 |
 | 2/5/2025 | OCS0451A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/23/2024 | OCS1768A | Trauma Informed Courts | Passed | 0.0 | 1.25 |

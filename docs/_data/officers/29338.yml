@@ -428,12 +428,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 9/28/2022
-  course: MISCMAIN
-  title: 2022 LE Annual Maintenance
-  status: Completed
-  score: '0.0'
-  hours: '0.00'
 - date: 9/22/2022
   course: PDS23693
   title: Range Qualification

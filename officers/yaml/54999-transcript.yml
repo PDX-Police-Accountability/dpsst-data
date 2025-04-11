@@ -92,6 +92,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/20/2025
+  course: HRS2680A
+  title: 'In-Service: Building Search Refresher'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/20/2025
+  course: HRS1609A
+  title: 'In-Service: LEAD Program'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/20/2025
+  course: HRS3953A
+  title: 'In-Service: SAR Refresher'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/20/2025
+  course: HRS3696A
+  title: 'In-Service: Use of Force Refresher'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/5/2025
   course: CDS3139A
   title: NORTAC - Basic CQB

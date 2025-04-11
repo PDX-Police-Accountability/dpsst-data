@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2025 | HRS2680A | In-Service: Building Search Refresher | Passed | 0.0 | 2.00 |
+| 3/20/2025 | HRS1609A | In-Service: LEAD Program | Passed | 0.0 | 2.00 |
+| 3/20/2025 | HRS3953A | In-Service: SAR Refresher | Passed | 0.0 | 2.00 |
+| 3/20/2025 | HRS3696A | In-Service: Use of Force Refresher | Passed | 0.0 | 1.00 |
 | 2/20/2025 | HRS0891A | In-Service Training: Exigency Case Law Review | Passed | 0.0 | 1.00 |
 | 2/20/2025 | HRS0644A | In-Service Training: Legal Requests Review | Passed | 0.0 | 1.50 |
 | 2/20/2025 | HRS1435A | In-Service Training: Stop The Bleed | Passed | 0.0 | 2.00 |

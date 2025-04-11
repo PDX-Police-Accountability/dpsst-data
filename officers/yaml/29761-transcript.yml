@@ -103,6 +103,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 4/8/2025
+  course: PMC1308A
+  title: Spring 2025 Inservice
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/8/2025
+  course: PMC0474A
+  title: Spring 2025 Inservice ProQA EMD
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/31/2025
   course: PMC3401A
   title: ProQA EMD

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/8/2025 | SMP2056A | Taser Instructor Certification | Passed | 0.0 | 24.00 |
 | 12/6/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 0.00 |
 | 11/16/2024 | F1540385 | OC Spray Training | Passed | 0.0 | 1.00 |
 | 11/16/2024 | F1523037 | Baton Training | Passed | 0.0 | 1.00 |

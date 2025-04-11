@@ -965,7 +965,7 @@ training_records:
 - date: 6/29/2021
   course: F15OOS
   title: Out of State Training (F15 Report)
-  status: Completed
+  status: Passed
   score: '0.0'
   hours: '244.00'
 - date: 6/7/2021

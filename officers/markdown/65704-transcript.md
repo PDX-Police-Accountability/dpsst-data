@@ -33,6 +33,7 @@
 | 3/27/2025 | PDP1687A | FTEP Post Basic Control Tactics | Passed | 0.0 | 4.00 |
 | 3/26/2025 | PDP3746A | FTEP Post Basic Firearms | Passed | 0.0 | 23.00 |
 | 3/21/2025 | REG1395A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
+| 3/10/2025 | PDP4044A | TEEX WMD Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 2/26/2025 | REG2129A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/21/2025 | PDP2677A | 2025 Radar Lidar Operators Course | Passed | 0.0 | 14.00 |
 | 1/30/2025 | REG0637A | Intox 8000 | Passed | 0.0 | 0.00 |

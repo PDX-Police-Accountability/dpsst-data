@@ -67,6 +67,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: OCS1763A
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/13/2025
+  course: OCS1091A
+  title: Enrichment Academy EDIS
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/6/2025
+  course: OCS1284A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/25/2025
   course: M31-21A
   title: DPSST Parole and Probation Field Training Manual
@@ -76,6 +94,12 @@ training_records:
 - date: 2/25/2025
   course: OCS0200A
   title: Striking and Take Downs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/20/2025
+  course: OCS4308A
+  title: Bias Part 1
   status: Passed
   score: '0.0'
   hours: '1.00'

@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 3/10/2025
+  course: PDP4044A
+  title: TEEX WMD Terrorism Awareness for Emer Resp
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/26/2025
   course: REG2129A
   title: SFST-DID (Hours included in Basic)

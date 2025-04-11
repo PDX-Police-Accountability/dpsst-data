@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2025
+  course: PDP0294A
+  title: 2025 Public Order Command Workshop
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/28/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders
