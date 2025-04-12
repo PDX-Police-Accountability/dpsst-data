@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2025 | PPP4175A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
 | 1/18/2025 | PPP3085A | Taser 7 Recertification | Passed | 0.0 | 4.00 |
 | 9/30/2024 | PPP1016A | Rifle Range | Passed | 0.0 | 4.00 |
 | 9/10/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |

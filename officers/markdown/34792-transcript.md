@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/27/2025 | REG4010A | Emergency Vehicle Operations - Skill Refresher | Passed | 0.0 | 4.00 |
 | 3/11/2025 | TAP1159A | DutyToInterveneWhatWeHaveLearnedSinceGeorgeFloyd | Passed | 0.0 | 1.25 |
+| 2/19/2025 | TAP0901A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2025 | TAP1945A | Investigating Strangulation | Passed | 0.0 | 2.75 |
 | 12/26/2024 | TAP0582A | Flock User Training | Passed | 0.0 | 1.00 |
 | 12/18/2024 | TAP4072A | PublicSafetyVideoSurveillanceSystemPolicyReview | Passed | 0.0 | 0.50 |

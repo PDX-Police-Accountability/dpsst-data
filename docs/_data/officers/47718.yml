@@ -64,6 +64,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/8/2025
+  course: ALP1896A
+  title: Coaching and Mentoring
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/5/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

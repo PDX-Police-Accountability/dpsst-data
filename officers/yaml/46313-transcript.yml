@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2025
+  course: PPP4175A
+  title: Diversity in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/18/2025
   course: PPP3085A
   title: Taser 7 Recertification

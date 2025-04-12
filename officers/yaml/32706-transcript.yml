@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 4/2/2025
+  course: TGP1517A
+  title: Oregon Association of PIOs Annual Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.50'
 - date: 11/19/2015
   course: 15-0827
   title: Informants

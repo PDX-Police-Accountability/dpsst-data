@@ -218,7 +218,7 @@
 | 9/30/2018 | F6D37267 | Communicable Diseases and Blood Borne Pathogens | Passed | 0.0 | 0.50 |
 | 8/17/2018 | F6B37408 | Firearms/Qualifications | Passed | 0.0 | 2.00 |
 | 8/10/2018 | F6B01942 | Driver Level 2/Vehicle Inspection Training | Passed | 0.0 | 40.00 |
-| 7/31/2018 | F6B22550 | Property  Evidence - Moving Forward | Completed | 0.0 | 1.00 |
+| 7/31/2018 | F6B22550 | Property  Evidence - Moving Forward | Passed | 0.0 | 1.00 |
 | 6/26/2018 | F6D02793 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 6/6/2018 | F6B32243 | CPR/AED/first Aid/Naloxone/TCCC Training | Passed | 0.0 | 1.00 |
 | 6/5/2018 | TGP24604 | 5 Choices to Extraordinary Productivity | Passed | 0.0 | 7.00 |

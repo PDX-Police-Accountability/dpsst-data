@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/9/2025 | 4/9/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2025 | PDN2706A | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 3.00 |
 | 2/6/2025 | PDA2369 | The Ethics and Practice of Media Engagement | Passed | 0.0 | 1.00 |
 | 12/13/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

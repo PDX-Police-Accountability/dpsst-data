@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2025 | TGP1517A | Oregon Association of PIOs Annual Conference | Passed | 0.0 | 14.50 |
 | 3/6/2025 | BPT0639A | Field Training and Evaluation Program | Passed | 0.0 | 24.00 |
 | 2/27/2025 | VND3064A | PIO 101 | Passed | 0.0 | 8.00 |
 | 2/18/2025 | BVP2145A | IST Range February 2025 | Passed | 0.0 | 3.00 |

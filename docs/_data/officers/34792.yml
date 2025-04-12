@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 2/19/2025
+  course: TAP0901A
+  title: Foundations in Ethics for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/29/2025
   course: TAP1945A
   title: Investigating Strangulation

@@ -30,10 +30,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/30/2024 | 4/30/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2024 | MISCMAIN | 2024 LE Leadership 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2024 | BBP2076A | Use of Force course #UOFC101 Police One Academy | Passed | 0.0 | 2.00 |
 | 10/9/2024 | BBP2605A | Pistol/Rifle Qualification and Tactical Range | Passed | 0.0 | 1.00 |
@@ -153,7 +154,7 @@
 | 6/3/2020 | BBP28961 | CPR/First AID/AED Recert | Passed | 0.0 | 3.50 |
 | 5/31/2020 | BBP22012 | Excited Delirium | Passed | 0.0 | 1.00 |
 | 5/31/2020 | BBP35790 | Suicide by Cop | Passed | 0.0 | 1.00 |
-| 5/31/2019 | MISCMAIN | 2018 LE Annula Required Maintenance | Completed | 0.0 | 0.00 |
+| 5/31/2019 | MISCMAIN | 2018 LE Annul Maintenance | Completed | 0.0 | 0.00 |
 | 5/3/2019 | SMS12254 | Marion County CIT | Passed | 0.0 | 1.00 |
 | 4/20/2019 | F6D13961 | Radio / MDS Usage | Instructed | 0.0 | 0.50 |
 | 4/16/2019 | SMS31084 | Basic Handgun | Passed | 0.0 | 0.00 |
@@ -166,7 +167,7 @@
 | 2/1/2019 | SMS05862 | Pursuit Policy | Passed | 0.0 | 1.00 |
 | 2/1/2019 | SMS12136 | OIS Process | Passed | 0.0 | 1.00 |
 | 2/1/2019 | SMS39953 | Report writing | Passed | 0.0 | 1.00 |
-| 12/31/2018 | MISCMAIN | 2018 LE Leadership 3 YearRequired Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2018 | MISCMAIN | 2018 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/5/2018 | SMS18171 | Fiscal planning/ Personnel management | Passed | 0.0 | 4.00 |
 | 7/11/2018 | SMS27051 | CIT/Mental Health | Passed | 0.0 | 2.00 |
 | 7/11/2018 | SMS25131 | Leadership - PowerDMS, Agency Updates | Passed | 0.0 | 1.00 |

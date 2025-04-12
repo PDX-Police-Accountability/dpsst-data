@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/2/2025
+  course: TGP1517A
+  title: Oregon Association of PIOs Annual Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.50'
 - date: 3/6/2025
   course: BPT0639A
   title: Field Training and Evaluation Program

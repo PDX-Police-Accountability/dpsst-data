@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2025 | PPP4175A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
 | 11/16/2024 | PPP1120A | Taser 7 Annual Certification | Passed | 0.0 | 4.00 |
 | 10/29/2024 | PPP3270A | RDS Firearm Training  Qual | Passed | 0.0 | 16.00 |
 | 9/30/2024 | PPP1016A | Rifle Range | Passed | 0.0 | 4.00 |

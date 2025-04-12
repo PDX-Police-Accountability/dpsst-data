@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2025 | TGP1517A | Oregon Association of PIOs Annual Conference | Passed | 0.0 | 14.50 |
 | 11/19/2015 | 15-0827 | Informants | Passed | 0.0 | 2.00 |
 | 3/14/2011 | 11-0446 | Motivating  Empowering Teams / Workgroups | Passed | 0.0 | 8.00 |
 | 9/11/2009 | 09-0983 | Crisis Training - Other | Passed | 0.0 | 12.00 |

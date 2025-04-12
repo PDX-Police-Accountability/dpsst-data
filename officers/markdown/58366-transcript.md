@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 4/7/2025 | OSH1879A | STOP Program: Data Collection on the Road | Passed | 0.0 | 0.00 |
+| 4/3/2025 | OSH3594A | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
 | 1/21/2025 | OSH1334A | Manager Comp.-Legistlative Processes/Goal Setting | Passed | 0.0 | 1.00 |
 | 12/17/2024 | OSH4355A | Manager Comp.-Lean Six Sigma-Process Improvement | Passed | 0.0 | 1.00 |
 | 11/20/2024 | OSH0358A | Hwy. 18 murder case study | Passed | 0.0 | 2.50 |
