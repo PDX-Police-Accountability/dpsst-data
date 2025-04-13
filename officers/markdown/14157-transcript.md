@@ -148,7 +148,7 @@
 | 7/12/2017 | CAP13222 | Tactical patrol rifle and handgun competition | Passed | 0.0 | 2.00 |
 | 7/2/2017 | CAP42342 | Ambush Awareness Training | Passed | 0.0 | 1.00 |
 | 6/28/2017 | CAP18394 | Active Shooter - tactical response | Passed | 0.0 | 4.00 |
-| 6/15/2017 | F6C04276 | Moral Fitness Rule Changes | Completed | 0.0 | 0.50 |
+| 6/15/2017 | F6C04276 | Moral Fitness Rule Changes | Passed | 0.0 | 0.50 |
 | 5/17/2017 | CAP16459 | Duty Handgun Qualifications and Training | Passed | 0.0 | 3.00 |
 | 5/17/2017 | CAP19661 | Hazmat First Responder Awareness | Passed | 0.0 | 1.00 |
 | 5/17/2017 | CAP42520 | Bloodborne pathogens | Passed | 0.0 | 1.00 |

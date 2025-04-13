@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/4/2025
+  course: OSH2289A
+  title: Basic Detective Academy
+  status: ''
+  score: '0.0'
+  hours: '40.00'
 - date: 3/27/2025
   course: PDP1069A
   title: 2025 SERT Training - ITERATION

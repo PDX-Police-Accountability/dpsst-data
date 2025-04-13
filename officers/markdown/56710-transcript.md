@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2025 | SDP2569A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 3/12/2025 | SDP2748A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 3/12/2025 | SDP2718A | Photo Lineups/In-field Showups | Passed | 0.0 | 0.50 |
 | 3/12/2025 | SDP1165A | Drone Deployments and General Info | Passed | 0.0 | 1.50 |

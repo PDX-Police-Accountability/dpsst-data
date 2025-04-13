@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2025 | HBS1086A | Virtual-PREA | Passed | 0.0 | 1.00 |
 | 2/28/2025 | HBS2309A | Virtual ADA Compliance | Passed | 0.0 | 1.00 |
 | 1/22/2025 | HBS1949A | WCPOA/WCSO Labor Law Training | Passed | 0.0 | 2.50 |
 | 12/18/2024 | HBS3475A | Admin InService #2 (Leadership) | Instructed | 0.0 | 1.00 |

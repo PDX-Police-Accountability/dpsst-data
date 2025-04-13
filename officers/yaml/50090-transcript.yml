@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2025
+  course: PDP2033A
+  title: 2025 K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/28/2025
   course: PDP2607A
   title: 2025 Sworn In-Service PVO Stop Stick External

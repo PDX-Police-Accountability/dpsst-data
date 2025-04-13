@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2025
+  course: RMP3099A
+  title: What happens when it's quiet?
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 3/26/2025
   course: CAP3056A
   title: Annual Patrol Rifle Qualification and Fundamentals
