@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: FGP4424A
+  title: DPSST Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/10/2024
   course: FGP1345A
   title: Taser 10 Transition Certification

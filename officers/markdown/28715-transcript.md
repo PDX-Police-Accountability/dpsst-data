@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2025 | HBP0980A | Managing the Detective Unit | Passed | 0.0 | 24.00 |
 | 2/19/2025 | HBP2606A | Warrant Service (Classroom) | Passed | 0.0 | 2.50 |
 | 2/19/2025 | HBP1270A | Warrant Service (Practical) | Passed | 0.0 | 4.50 |
 | 1/29/2025 | HBP3738A | EVOC, Arrest and Control | Passed | 0.0 | 2.50 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2025
+  course: UPR1186A
+  title: Adult/Child CPR/AED/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/18/2025
   course: UPR1097A
   title: Patrol Rifle Training/Qualification
@@ -4179,6 +4185,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/10/2025
+  expiration_date: 4/10/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

@@ -149,7 +149,6 @@
 | 10/14/2022 | OCS04425 | Interferring with a Peace Officer Statue update | Passed | 0.0 | 0.75 |
 | 10/12/2022 | OCS38032 | Field Training Officer | Passed | 0.0 | 6.00 |
 | 10/8/2022 | OCS20838 | PEER Support - Law Enforcement Traumas | Passed | 0.0 | 3.00 |
-| 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
 | 7/20/2022 | OCS05500 | One Hand Shooting/Marksmanship | Passed | 0.0 | 1.00 |
@@ -276,7 +275,7 @@
 | 1/30/2019 | OCS05203 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 1/17/2019 | F6D27051 | Stress Inoculation: Dive | Passed | 0.0 | 10.00 |
 | 1/3/2019 | F6D22145 | Swift Water: Ropes and RDC | Passed | 0.0 | 10.00 |
-| 12/31/2018 | MISCMAIN | 2018 LE Basic 3 YearRequired Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2018 | MISCMAIN | 2018 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/22/2018 | F6D40855 | Water Rescue: Swift Water Mock Mission | Passed | 0.0 | 6.00 |
 | 12/21/2018 | OCS34175 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/6/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |

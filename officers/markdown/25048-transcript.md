@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2025 | AVP2336A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 3/12/2025 | AVP2932A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 0.00 |
 | 2/12/2025 | AVP3522A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |

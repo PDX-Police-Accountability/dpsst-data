@@ -153,7 +153,6 @@
 | 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS34377 | Milo De-Escalation  Problem Solving | Passed | 0.0 | 1.00 |
 | 10/11/2022 | OCS32432 | Taser 7 Transition | Passed | 0.0 | 3.00 |
-| 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/20/2022 | OCS22530 | One Hand Shooting/Low Light/Target ID | Passed | 0.0 | 4.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/12/2022 | OCS18613 | Low Light/One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
@@ -286,7 +285,7 @@
 | 1/31/2019 | F6D16862 | Lethal Force Decision Making | Passed | 0.0 | 1.00 |
 | 1/30/2019 | OCS05203 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 1/4/2019 | OCS03744 | Defensive Tactics | Passed | 0.0 | 9.00 |
-| 12/31/2018 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/29/2018 | OCS30395 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/2/2018 | F6D33485 | Fall Patrol Rifle - Qualifications/Stance,Trigger | Passed | 0.0 | 4.00 |
 | 10/22/2018 | MISCMAIN | 2018 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

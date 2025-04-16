@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/5/2025
+  course: PDS4218A
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/4/2025
   course: PDS1276A
   title: Roll Call Training Case Law
@@ -2198,6 +2204,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/5/2025
+  expiration_date: 1/5/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

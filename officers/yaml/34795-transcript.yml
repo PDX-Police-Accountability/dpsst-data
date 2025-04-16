@@ -741,12 +741,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 9/28/2022
-  course: MISCMAIN
-  title: 2022 LE Annual Maintenance
-  status: Completed
-  score: '0.0'
-  hours: '0.00'
 - date: 9/20/2022
   course: OCS22530
   title: One Hand Shooting/Low Light/Target ID
@@ -1541,7 +1535,7 @@ training_records:
   hours: '9.00'
 - date: 12/31/2018
   course: MISCMAIN
-  title: 2018 LE AnnualRequired Maintenance
+  title: 2018 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'

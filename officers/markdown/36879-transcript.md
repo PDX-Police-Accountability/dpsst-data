@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/10/2025 | 4/10/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2025 | UPR1186A | Adult/Child CPR/AED/First Aid | Passed | 0.0 | 4.00 |
 | 2/18/2025 | UPR1097A | Patrol Rifle Training/Qualification | Passed | 0.0 | 4.00 |
 | 2/18/2025 | UPR4280A | Patrol Rifle Training | Passed | 0.0 | 8.00 |
 | 2/17/2025 | UPR3372A | Patrol Rifle Training | Passed | 0.0 | 8.00 |
