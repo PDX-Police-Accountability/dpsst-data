@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/8/2025
+  course: GLP0779A
+  title: Defensive Tactics Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/10/2024
   course: GLP4165A
   title: Domestic Violence DA Training

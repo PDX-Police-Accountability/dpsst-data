@@ -30,6 +30,108 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/9/2025
+  course: PDP4294A
+  title: 2025-1 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '103.75'
+- date: 4/6/2025
+  course: PDP3444A
+  title: 2025-1 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '59.00'
+- date: 4/1/2025
+  course: PDP1673A
+  title: 2025-1 Advanced Academy Equity
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
+- date: 4/1/2025
+  course: PDP3370A
+  title: 2025-1 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '27.50'
+- date: 3/31/2025
+  course: PDP4362A
+  title: 2025-1 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '20.50'
+- date: 3/31/2025
+  course: PDP0422A
+  title: 2025-1 Advanced Academy Patrol Proc Other
+  status: Passed
+  score: '0.0'
+  hours: '10.50'
+- date: 3/25/2025
+  course: PDP4545A
+  title: 2025-1 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '78.50'
+- date: 3/24/2025
+  course: PDP1250A
+  title: 2025-1 Advanced Academy Cares
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/24/2025
+  course: PDP1756A
+  title: 2025-1 Advanced Academy Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/20/2025
+  course: PDP0518A
+  title: 2025-1 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/20/2025
+  course: PDP2503A
+  title: 2025-1 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 3/19/2025
+  course: PDP0798A
+  title: 2025-1 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '38.25'
+- date: 3/3/2025
+  course: PDP4515A
+  title: 2025-1 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/27/2025
+  course: PDP3320A
+  title: 2025-1 Advanced Academy Trauma Infor Interv
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 2/26/2025
+  course: PDP0731A
+  title: 2025-1 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
+- date: 2/18/2025
+  course: PDP3353A
+  title: 2025-1 Advanced Academy Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 2/13/2025
+  course: PDP2264A
+  title: 2025-1 Advanced Academy Community Engagement
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 2/6/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update
@@ -84,6 +186,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/21/2025
+  course: PDP0623A
+  title: 2025-1 Advanced Academy Legit Proc Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/21/2025
+  course: PDP3477A
+  title: 2025-1 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/16/2025
   course: PDP3209A
   title: AA 2025 Building Police Legit through Proc Justice

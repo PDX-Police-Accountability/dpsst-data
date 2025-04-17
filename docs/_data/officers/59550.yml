@@ -43,6 +43,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/8/2025
+  course: BNP0198A
+  title: Dynamic building Entry
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/8/2025
+  course: BNP2118A
+  title: Hostage Rescue Tactics- Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/8/2025
+  course: BNP3983A
+  title: Night Operations- Overland and Night Vision
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/8/2025
+  course: BNP1836A
+  title: Nextorch Electric Distraction Device
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/7/2025
+  course: BNP0868A
+  title: Tactical Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/7/2025
+  course: BNP1737A
+  title: Leadership Book reading and Class
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/7/2025
+  course: BNP1360A
+  title: Building clearing- Movements and Terminology
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/18/2025
   course: BNP0935A
   title: Hostage Rescue Mini-scenarios

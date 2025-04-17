@@ -410,12 +410,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 9/28/2022
-  course: MISCMAIN
-  title: 2022 LE Annual Maintenance
-  status: Completed
-  score: '0.0'
-  hours: '0.00'
 - date: 9/15/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

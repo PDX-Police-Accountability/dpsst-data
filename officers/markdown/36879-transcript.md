@@ -37,6 +37,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2025 | UPR1186A | Adult/Child CPR/AED/First Aid | Passed | 0.0 | 4.00 |
+| 4/10/2025 | UPR4337A | Narcan Administration Certification | Passed | 0.0 | 1.00 |
+| 4/10/2025 | UPR2624A | ICAT Mental Illness Scenario Training | Passed | 0.0 | 3.00 |
+| 4/9/2025 | UPR3149A | Tactical Emergency Casualty Care | Passed | 0.0 | 3.00 |
+| 4/8/2025 | UPR2001A | ICAT Training | Passed | 0.0 | 8.00 |
 | 2/18/2025 | UPR1097A | Patrol Rifle Training/Qualification | Passed | 0.0 | 4.00 |
 | 2/18/2025 | UPR4280A | Patrol Rifle Training | Passed | 0.0 | 8.00 |
 | 2/17/2025 | UPR3372A | Patrol Rifle Training | Passed | 0.0 | 8.00 |

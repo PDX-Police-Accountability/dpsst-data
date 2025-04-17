@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/19/2025
+  course: WLP4232A
+  title: Defensive Tactics - Strikes and Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/15/2025
   course: WLP3943A
   title: Respectful Workplace

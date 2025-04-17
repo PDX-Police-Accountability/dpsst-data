@@ -45,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/3/2025 | VND2498A | OEDI Annual Session | Passed | 0.0 | 37.00 |
 | 2/22/2025 | WLP1666A | Leading in Times of Crisis | Passed | 0.0 | 10.00 |
+| 2/19/2025 | WLP4232A | Defensive Tactics - Strikes and Scenarios | Passed | 0.0 | 2.00 |
 | 1/15/2025 | WLP3943A | Respectful Workplace | Passed | 0.0 | 2.00 |
 | 12/16/2024 | WLP2077A | Use of Force Law  Policy Issues | Passed | 0.0 | 2.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

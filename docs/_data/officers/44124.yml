@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2025
+  course: PDP1845A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/13/2025
   course: PDP1113A
   title: 2024-5 Naloxone Adm Guidelines
@@ -4605,6 +4611,10 @@ training_records:
   score: '0.0'
   hours: '7.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/9/2025
+  expiration_date: 4/9/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

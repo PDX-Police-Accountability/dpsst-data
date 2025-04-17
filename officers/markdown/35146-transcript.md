@@ -28,10 +28,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Certification Cards | First Aid and CPR | 12/18/2024 | 12/18/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/6/2023 |  |
 | Code of Ethics | Signed | 3/12/2004 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 4/3/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -43,6 +43,7 @@
 | 3/3/2025 | TRN4564A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 2/20/2025 | GPN2720A | Case Management Training Opportunity | Passed | 0.0 | 1.50 |
 | 1/22/2025 | GPN1425A | LSCMI Refresher | Passed | 0.0 | 2.50 |
+| 12/18/2024 | GPN3415A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 11/13/2024 | GPN1919A | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 11/5/2024 | ALN1574A | FVSN - Polygraph Use for DV Offenders | Passed | 0.0 | 2.00 |
 | 11/5/2024 | ALN2843A | FVSN - FARA BIP | Passed | 0.0 | 2.00 |

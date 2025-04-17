@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2025 | UOP3087A | EVOC with Force on Force Active Shooter 2025 | Instructed | 0.0 | 5.00 |
 | 3/29/2024 | M10-23A | DPSST Basic Police Course | Failed | 0.0 | 0.00 |
 | 3/6/2024 | REG2525A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/8/2024 | REG1539A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/19/2025 | WLP4232A | Defensive Tactics - Strikes and Scenarios | Passed | 0.0 | 2.00 |
 | 1/15/2025 | WLP3943A | Respectful Workplace | Passed | 0.0 | 2.00 |
 | 12/5/2024 | OCA3392A | FBI BAU/VICAP | Passed | 0.0 | 7.00 |
 | 11/13/2024 | WLP4174A | Children's Center 101 / Karly's Law | Passed | 0.0 | 1.50 |

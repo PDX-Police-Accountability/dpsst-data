@@ -37,6 +37,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/8/2025 | BNP0198A | Dynamic building Entry | Passed | 0.0 | 4.00 |
+| 4/8/2025 | BNP2118A | Hostage Rescue Tactics- Training | Passed | 0.0 | 4.00 |
+| 4/8/2025 | BNP3983A | Night Operations- Overland and Night Vision | Passed | 0.0 | 4.00 |
+| 4/8/2025 | BNP1836A | Nextorch Electric Distraction Device | Passed | 0.0 | 0.50 |
+| 4/7/2025 | BNP0868A | Tactical Scenarios | Passed | 0.0 | 16.00 |
+| 4/7/2025 | BNP1737A | Leadership Book reading and Class | Passed | 0.0 | 8.00 |
+| 4/7/2025 | BNP1360A | Building clearing- Movements and Terminology | Passed | 0.0 | 3.00 |
 | 3/18/2025 | BNP0935A | Hostage Rescue Mini-scenarios | Passed | 0.0 | 8.00 |
 | 3/6/2025 | BNP0272A | Tactical Firearms Training | Passed | 0.0 | 1.00 |
 | 2/6/2025 | BNP2834A | Building Clearing (HRT, Slow Clear, Dynamic) | Passed | 0.0 | 8.00 |

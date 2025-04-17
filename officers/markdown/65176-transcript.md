@@ -29,8 +29,25 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/9/2025 | PDP4294A | 2025-1 Advanced Academy Patrol Procedures | Passed | 0.0 | 103.75 |
+| 4/6/2025 | PDP3444A | 2025-1 Advanced Academy PVO | Passed | 0.0 | 59.00 |
+| 4/1/2025 | PDP1673A | 2025-1 Advanced Academy Equity | Passed | 0.0 | 29.00 |
+| 4/1/2025 | PDP3370A | 2025-1 Advanced Academy Law | Passed | 0.0 | 27.50 |
 | 3/31/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
+| 3/31/2025 | PDP4362A | 2025-1 Advanced Academy Fitness | Passed | 0.0 | 18.50 |
+| 3/31/2025 | PDP0422A | 2025-1 Advanced Academy Patrol Proc Other | Passed | 0.0 | 4.50 |
+| 3/25/2025 | PDP4545A | 2025-1 Advanced Academy Control Tactics | Passed | 0.0 | 78.50 |
+| 3/24/2025 | PDP1250A | 2025-1 Advanced Academy Cares | Passed | 0.0 | 2.25 |
+| 3/24/2025 | PDP1756A | 2025-1 Advanced Academy Human Trafficking | Passed | 0.0 | 2.25 |
+| 3/20/2025 | PDP0518A | 2025-1 Advanced Academy CEW | Passed | 0.0 | 1.00 |
+| 3/20/2025 | PDP2503A | 2025-1 Advanced Academy Wellness | Passed | 0.0 | 7.00 |
+| 3/19/2025 | PDP0798A | 2025-1 Advanced Academy Firearms | Passed | 0.0 | 38.25 |
 | 3/10/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 3/3/2025 | PDP4515A | 2025-1 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
+| 2/27/2025 | PDP3320A | 2025-1 Advanced Academy Trauma Infor Interv | Passed | 0.0 | 2.25 |
+| 2/26/2025 | PDP0731A | 2025-1 Advanced Academy Public Order | Passed | 0.0 | 8.50 |
+| 2/18/2025 | PDP3353A | 2025-1 Advanced Academy Crisis Intervention | Passed | 0.0 | 21.00 |
+| 2/13/2025 | PDP2264A | 2025-1 Advanced Academy Community Engagement | Passed | 0.0 | 4.50 |
 | 2/6/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 2/6/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 2/6/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
