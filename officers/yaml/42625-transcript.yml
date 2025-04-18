@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 3/12/2025
+  course: PDP1510A
+  title: Christian Public Safety Wellness Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/7/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update

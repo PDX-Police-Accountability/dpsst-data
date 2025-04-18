@@ -33,6 +33,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/29/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
 | 3/10/2025 | VND2033A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
+| 3/10/2025 | PDP3636A | OPOA Search Warrants | Passed | 0.0 | 8.00 |
 | 3/7/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/17/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 2/17/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |

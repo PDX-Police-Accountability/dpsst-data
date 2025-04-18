@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/25/2025
+  course: SAG1209A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/12/2025
   course: SAG0481A
   title: Airway Anatomy training

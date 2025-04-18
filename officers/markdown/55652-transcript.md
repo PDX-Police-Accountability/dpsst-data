@@ -37,6 +37,7 @@
 | 3/27/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
+| 3/23/2025 | PDP0176A | PSTG Rifle/Pistol Class | Passed | 0.0 | 18.00 |
 | 3/17/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/26/2025 | PDP0013A | 2025 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 2/17/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |

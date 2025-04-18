@@ -128,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 1/3/2025
+  course: PDP3309A
+  title: DPSST Tactical Fitness Instructor Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/30/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/13/2025
+  course: PDP3304A
+  title: Nighthhawd Advanced Digital Data Tradecraft
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 2/12/2025
   course: PDP0221A
   title: 2025 Sworn In-Service PVO Stop Stick Intro Video

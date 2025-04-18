@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2025
+  course: SAG0191A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/25/2025
+  course: SAG1209A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/12/2025
   course: SAG0481A
   title: Airway Anatomy training

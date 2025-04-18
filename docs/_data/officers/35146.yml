@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2025
+  course: REG1924A
+  title: Ethics Practical Discussion
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/27/2025
   course: REG0880A
   title: Defensive Tactics Instructor Workshop / Refresher
@@ -95,6 +101,12 @@ training_records:
   hours: '2.50'
 - date: 12/18/2024
   course: GPN3415A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/18/2024
+  course: GPN0777A
   title: CPR/First Aid
   status: Passed
   score: '0.0'

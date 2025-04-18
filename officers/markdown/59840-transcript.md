@@ -22,7 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/3/2024 | Parole  Probation Officer | Basic | Required |  |  | 12/3/2025 |
+| 4/16/2025 | Parole  Probation Officer | Basic | App Recd |  |  | 12/3/2025 |
 | 2/11/2022 | Police Officer | Basic | Granted | 2/11/2022 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

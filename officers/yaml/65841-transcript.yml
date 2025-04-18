@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/3/2025
+  course: REG0415A
+  title: INTOX 8000 (Hours inlcuded in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 1/27/2025
   course: PDP0466A
   title: 2019-5 TT Enforcement of Protection Orders

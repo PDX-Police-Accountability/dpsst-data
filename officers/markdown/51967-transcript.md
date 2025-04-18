@@ -46,6 +46,7 @@
 | 3/27/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
 | 3/25/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/5/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 2/27/2025 | PDP0039A | CTK Interview  Interrogation Basic | Passed | 0.0 | 24.00 |
 | 1/14/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/14/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 1/14/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
@@ -65,6 +66,7 @@
 | 12/16/2024 | PDP0972A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
 | 12/11/2024 | ALP2378A | Interview and Interrogations | Passed | 0.0 | 24.00 |
 | 12/11/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/11/2024 | PDP0930A | CTK Advanced Interview  Interrogation | Passed | 0.0 | 24.00 |
 | 12/2/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/2/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 10/15/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

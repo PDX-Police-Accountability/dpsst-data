@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 3/7/2025
+  course: PDP0709A
+  title: 2025 Prosecuting the Drugged Driver
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/6/2025
   course: SAG2970A
   title: 2025 Prosecuting the Drugged Driver

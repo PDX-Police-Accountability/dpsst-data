@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/3/2025 | REG0415A | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 1/27/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 1/27/2025 | PDP2664A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 1/27/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |

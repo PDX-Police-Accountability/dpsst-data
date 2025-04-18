@@ -52,10 +52,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/3/2024
+- status_date: 4/16/2025
   certificate: Parole  Probation Officer
   level: Basic
-  status: Required
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 12/3/2025

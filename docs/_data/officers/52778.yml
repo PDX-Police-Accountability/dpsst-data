@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/13/2025
+  course: PDP3304A
+  title: Nighthhawd Advanced Digital Data Tradecraft
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/4/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

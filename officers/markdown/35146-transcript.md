@@ -39,11 +39,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2025 | REG1924A | Ethics Practical Discussion | Passed | 0.0 | 2.00 |
 | 3/27/2025 | REG0880A | Defensive Tactics Instructor Workshop / Refresher | Passed | 0.0 | 24.00 |
 | 3/3/2025 | TRN4564A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 2/20/2025 | GPN2720A | Case Management Training Opportunity | Passed | 0.0 | 1.50 |
 | 1/22/2025 | GPN1425A | LSCMI Refresher | Passed | 0.0 | 2.50 |
 | 12/18/2024 | GPN3415A | CPR/First Aid | Passed | 0.0 | 2.00 |
+| 12/18/2024 | GPN0777A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 11/13/2024 | GPN1919A | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 11/5/2024 | ALN1574A | FVSN - Polygraph Use for DV Offenders | Passed | 0.0 | 2.00 |
 | 11/5/2024 | ALN2843A | FVSN - FARA BIP | Passed | 0.0 | 2.00 |

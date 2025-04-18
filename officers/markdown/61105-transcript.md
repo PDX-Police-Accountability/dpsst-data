@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/14/2025 | NGP1891A | WRAP Instructor | Passed | 0.0 | 1.00 |
 | 3/17/2025 | NGP0483A | Immigration Enforcement | Passed | 0.0 | 0.25 |
 | 3/17/2025 | NGP3280A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
 | 12/31/2024 | NGP3184A | Roll Call Training Consolidated Roster | Passed | 0.0 | 20.00 |

@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/9/2025 | AVP2336A | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 3/12/2025 | AVP2932A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
+| 2/25/2025 | SAG1209A | Firearms training | Passed | 0.0 | 2.00 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 0.00 |
 | 2/12/2025 | AVP3522A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 1/15/2025 | AVP1171A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |

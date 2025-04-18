@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2025 | SAG0191A | Firearms training | Passed | 0.0 | 2.00 |
+| 2/25/2025 | SAG1209A | Firearms training | Passed | 0.0 | 2.00 |
 | 1/29/2025 | SAG1349A | Firearms training | Passed | 0.0 | 2.00 |
 | 12/17/2024 | SAG2864A | Firearms training | Passed | 0.0 | 2.00 |
 | 11/26/2024 | SAG0750A | Firearms training | Passed | 0.0 | 3.00 |

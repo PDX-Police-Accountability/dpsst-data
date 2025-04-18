@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2025 | SAG0191A | Firearms training | Passed | 0.0 | 2.00 |
+| 2/25/2025 | SAG1209A | Firearms training | Passed | 0.0 | 2.00 |
 | 2/19/2025 | SAG0168A | Criminal Intelligence Systems Operating Polices | Passed | 0.0 | 1.00 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 0.00 |
 | 1/29/2025 | SAG1349A | Firearms training | Passed | 0.0 | 2.00 |

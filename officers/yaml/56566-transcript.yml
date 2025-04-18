@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 3/10/2025
+  course: PDP3636A
+  title: OPOA Search Warrants
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/21/2025
   course: PDP2607A
   title: 2025 Sworn In-Service PVO Stop Stick External

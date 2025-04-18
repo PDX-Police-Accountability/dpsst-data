@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2025 | SAG0191A | Firearms training | Passed | 0.0 | 2.00 |
+| 2/25/2025 | SAG1209A | Firearms training | Passed | 0.0 | 2.00 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 0.00 |
 | 12/31/2024 | MAINTMUA | Maintenance Makeup ACAP | Passed | 0.0 | 1.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |

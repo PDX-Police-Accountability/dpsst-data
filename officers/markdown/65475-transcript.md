@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/9/2025 | PDP3190A | FTEP Orientation | Passed | 0.0 | 5.00 |
 | 4/1/2025 | PDP3586A | Hazmat/WMD Awareness/Gas Mask | Passed | 0.0 | 3.00 |
 | 3/31/2025 | PDP0367A | 2018 TOD 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP3093A | 2018-5 TT 100% Collection and Sub for FA  Casing | Passed | 0.0 | 0.25 |

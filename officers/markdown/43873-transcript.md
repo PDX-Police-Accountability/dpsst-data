@@ -48,6 +48,7 @@
 | 1/13/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 1/13/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/3/2025 | REG1205A | Tacticle Fitness Conference | Passed | 0.0 | 16.00 |
+| 1/3/2025 | PDP3309A | DPSST Tactical Fitness Instructor Conference | Passed | 0.0 | 16.00 |
 | 12/30/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/9/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 11/26/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

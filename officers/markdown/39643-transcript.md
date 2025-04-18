@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/27/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
+| 3/13/2025 | PDP3304A | Nighthhawd Advanced Digital Data Tradecraft | Passed | 0.0 | 32.00 |
 | 3/6/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/3/2025 | REG3712A | DT | Passed | 0.0 | 1.00 |
 | 2/27/2025 | REG2776A | DT | Passed | 0.0 | 1.00 |

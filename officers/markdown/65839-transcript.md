@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/3/2025 | REG0415A | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 1/28/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/28/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 1/28/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
