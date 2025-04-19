@@ -92,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 3/21/2025
+  course: PDS4202B
+  title: Patrol Procedures / Handcuffing
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/20/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance
@@ -110,12 +116,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 2/21/2025
+  course: PDS0176B
+  title: Defensive Tactics II
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/10/2025
   course: PDS1588A
   title: Defensive Tactics
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 2/6/2025
+  course: PDS3624B
+  title: Glock Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/5/2025
   course: PDS2435A
   title: Confrontation Simulation

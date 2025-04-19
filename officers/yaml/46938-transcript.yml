@@ -146,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/11/2024
+  course: PDP2517B
+  title: 2024 NW ICAC  Tech Conference
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/11/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'

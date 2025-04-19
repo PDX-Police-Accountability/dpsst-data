@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2025
+  course: PDP2858B
+  title: Post Basic CEW
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/12/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

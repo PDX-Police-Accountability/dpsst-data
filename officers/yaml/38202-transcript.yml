@@ -74,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/18/2025
+  course: PDS3504B
+  title: Underwater Vehicle Recover and Inspection
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/18/2025
+  course: PDS0134B
+  title: Limited Visibility Diving
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/25/2025
   course: PDS3082A
   title: Underwater Navigation

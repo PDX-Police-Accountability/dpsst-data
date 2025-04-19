@@ -42,12 +42,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/20/2025
+  course: PDS4378B
+  title: Court Security
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/11/2024
+  course: PDS4180B
+  title: Court Security
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/11/2024
+  course: PDS0220B
+  title: WRAP Restraint
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/9/2024
   course: PDS0922A
   title: Range Training
@@ -144,6 +162,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '12.50'
+- date: 6/11/2024
+  course: PDS1080B
+  title: Law  Mental Health Conference:Psychosis
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/19/2024
   course: PDS3328A
   title: UNET Range

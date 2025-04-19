@@ -257,6 +257,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 12/3/2024
+  course: PDP0897B
+  title: Navigating Challenging Times 3 Strategies
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/2/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

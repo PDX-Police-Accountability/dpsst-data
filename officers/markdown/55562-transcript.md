@@ -33,7 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/20/2025 | PDS4378B | Court Security | Passed | 0.0 | 8.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/11/2024 | PDS4180B | Court Security | Passed | 0.0 | 4.50 |
+| 11/11/2024 | PDS0220B | WRAP Restraint | Passed | 0.0 | 4.00 |
 | 10/9/2024 | PDS0922A | Range Training | Passed | 0.0 | 3.50 |
 | 10/9/2024 | PDS0342A | Range Qualifications | Passed | 0.0 | 0.50 |
 | 10/7/2024 | PDS0163A | Taser Practical | Passed | 0.0 | 0.50 |
@@ -50,6 +53,7 @@
 | 6/18/2024 | PDS1234A | Basic Corrections | Passed | 0.0 | 6.00 |
 | 6/18/2024 | PDS0110A | Post Deadly Force | Passed | 0.0 | 2.00 |
 | 6/11/2024 | PDS4028A | Mental Health Conference | Passed | 0.0 | 12.50 |
+| 6/11/2024 | PDS1080B | Law  Mental Health Conference:Psychosis | Passed | 0.0 | 16.00 |
 | 3/19/2024 | PDS3328A | UNET Range | Passed | 0.0 | 4.00 |
 | 3/19/2024 | PDS1230A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 2/1/2024 | PDS4304A | Corrections Liability | Passed | 0.0 | 1.00 |

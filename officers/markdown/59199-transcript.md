@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2025 | EGP0646B | Firearm Qualification | Passed | 0.0 | 4.00 |
+| 4/10/2025 | EGP2246B | Taser Recertification | Passed | 0.0 | 4.00 |
 | 3/13/2025 | EGP2529A | 2024 Pursuit Events Overview | Passed | 0.0 | 4.00 |
 | 3/13/2025 | EGP0261A | Firearms Training | Passed | 0.0 | 4.00 |
 | 2/13/2025 | EGP2296A | HAZMAT | Passed | 0.0 | 4.00 |

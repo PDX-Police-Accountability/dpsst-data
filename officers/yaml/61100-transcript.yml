@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2025
+  course: PDP2858B
+  title: Post Basic CEW
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/26/2025
   course: PDP2645A
   title: 2025-2 City Att Legal Updates Dec 2023-Feb 2024

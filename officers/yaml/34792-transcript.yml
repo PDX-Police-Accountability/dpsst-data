@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/11/2025
+  course: EPP2801B
+  title: Taser Instructor (T10/T7)
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/27/2025
   course: REG4010A
   title: Emergency Vehicle Operations - Skill Refresher

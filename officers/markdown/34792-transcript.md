@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2025 | EPP2801B | Taser Instructor (T10/T7) | Passed | 0.0 | 16.00 |
 | 3/27/2025 | REG4010A | Emergency Vehicle Operations - Skill Refresher | Passed | 0.0 | 4.00 |
 | 3/11/2025 | TAP1159A | DutyToInterveneWhatWeHaveLearnedSinceGeorgeFloyd | Passed | 0.0 | 1.25 |
 | 2/19/2025 | TAP0901A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |

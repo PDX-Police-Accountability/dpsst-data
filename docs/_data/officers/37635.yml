@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2025
+  course: EGP0646B
+  title: Firearm Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/10/2025
+  course: EGP2246B
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/26/2025
   course: EGP3469A
   title: SWAT Firearms

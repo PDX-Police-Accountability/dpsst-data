@@ -16,13 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/11/2025
+- status_date: 4/17/2025
   certificate: Police Officer
   level: Basic
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 4/17/2025
   expiration_date: ''
-  probation_date: 2/24/2026
+  probation_date: ''
 training_records:
 - date: 3/28/2025
   course: PDP2978A

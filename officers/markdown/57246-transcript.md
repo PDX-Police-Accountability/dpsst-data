@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/26/2025 | HBN0638B | DTs  OC Spray Re-certification | Passed | 0.0 | 8.00 |
+| 3/18/2025 | HBN0991B | March 2025 - Team Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/5/2025 | HBN1066A | First Aid/CPR/AED | Passed | 0.0 | 6.00 |
 | 3/3/2025 | TRN4564A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 12/18/2024 | HBN1070A | Extremism in Oregon: Roots and Responses | Passed | 0.0 | 2.00 |

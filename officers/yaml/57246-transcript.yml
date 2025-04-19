@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2025
+  course: HBN0638B
+  title: DTs  OC Spray Re-certification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/18/2025
+  course: HBN0991B
+  title: March 2025 - Team Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/5/2025
   course: HBN1066A
   title: First Aid/CPR/AED
