@@ -299,6 +299,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 5/29/2024
+  course: SVP4311B
+  title: CPR Re-Cert
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/22/2024
   course: SVP4540A
   title: Defensive Tactics Refresher

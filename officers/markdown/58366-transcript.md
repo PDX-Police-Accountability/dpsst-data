@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/15/2025 | OSH0277B | Manager Comp.-TORT/Risk Mgt, Fleet  AOC Overview | Passed | 0.0 | 2.00 |
 | 4/7/2025 | OSH1879A | STOP Program: Data Collection on the Road | Passed | 0.0 | 0.00 |
 | 4/3/2025 | OSH3594A | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
 | 1/21/2025 | OSH1334A | Manager Comp.-Legistlative Processes/Goal Setting | Passed | 0.0 | 1.00 |

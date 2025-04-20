@@ -29,6 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/16/2025 | 4/16/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 5/12/2023 | 5/12/2025 |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2025 | PDN1695B | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 2.00 |
 | 2/6/2025 | PDA2369 | The Ethics and Practice of Media Engagement | Passed | 0.0 | 1.00 |
 | 12/20/2024 | F1544309 | Equity: Nervous System Basics | Passed | 0.0 | 0.25 |

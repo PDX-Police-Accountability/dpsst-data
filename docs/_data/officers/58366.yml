@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/15/2025
+  course: OSH0277B
+  title: Manager Comp.-TORT/Risk Mgt, Fleet  AOC Overview
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/7/2025
   course: OSH1879A
   title: 'STOP Program: Data Collection on the Road'

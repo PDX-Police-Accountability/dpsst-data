@@ -77,6 +77,7 @@
 | 6/28/2024 | SVP2042A | Defensive Driving Principles | Passed | 0.0 | 1.00 |
 | 6/12/2024 | AVP2518A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/2/2024 | SVP3941A | Saftey Compass - Sex Trafficing Investigations | Passed | 0.0 | 4.50 |
+| 5/29/2024 | SVP4311B | CPR Re-Cert | Instructed | 0.0 | 4.00 |
 | 5/22/2024 | SVP4540A | Defensive Tactics Refresher | Instructed | 0.0 | 4.00 |
 | 5/8/2024 | AVP4026A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 5/6/2024 | SVP0572A | Professional Standards: Internal Investigations | Passed | 0.0 | 2.00 |
