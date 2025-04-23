@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2025 | BVP3619B | 2025 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 1/8/2025 | HBP0704A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
 | 1/8/2025 | HBP0981A | HUMAN TRAFFICKING | Passed | 0.0 | 3.00 |
 | 1/8/2025 | HBP0174A | Safe Evidence Handling | Passed | 0.0 | 1.00 |

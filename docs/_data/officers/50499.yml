@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2025
+  course: GSP1958B
+  title: SWAT Sniper Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/16/2025
+  course: GSP1366B
+  title: SWAT Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/21/2025
   course: GSP0066A
   title: SWAT Sniper Range

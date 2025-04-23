@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2025
+  course: BVP3619B
+  title: 2025 OPCA Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/19/2025
   course: PDP2959A
   title: K-9 Weekly Training

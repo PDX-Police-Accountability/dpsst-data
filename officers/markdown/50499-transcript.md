@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2025 | GSP1958B | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 4/16/2025 | GSP1366B | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 3/21/2025 | GSP0066A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 3/21/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/20/2025 | GSP3207A | Controlled Swarming/IP Decision Making | Passed | 0.0 | 10.00 |

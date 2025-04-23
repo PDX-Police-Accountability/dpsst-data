@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2025
+  course: OCP1922B
+  title: RDS Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '14.00'
 - date: 4/9/2025
   course: OCP3397A
   title: Providence SAFE Center

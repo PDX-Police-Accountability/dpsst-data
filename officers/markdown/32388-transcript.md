@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2025 | GSP2415B | Practical Scenarios, New Equipment Familiarization | Passed | 0.0 | 10.00 |
+| 4/16/2025 | GSP1366B | SWAT Firearms Range | Instructed | 0.0 | 10.00 |
 | 3/21/2025 | GSP0066A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 3/20/2025 | GSP3207A | Controlled Swarming/IP Decision Making | Passed | 0.0 | 10.00 |
 | 2/19/2025 | GSP4035A | Firearms Training/IED Familiarization | Passed | 0.0 | 10.00 |
