@@ -47,6 +47,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Instructed | 0.0 | 1.00 |
+| 4/13/2025 | HSU1183A | Chief's Message In Service Spring 2025 | Instructed | 0.0 | 1.00 |
+| 4/13/2025 | HSU1509A | Firearms In Service Spring 2025 | Instructed | 0.0 | 7.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/8/2024 | HSU3308A | Leading DEIB at OHSU | Passed | 0.0 | 1.00 |
 | 10/23/2024 | HSU1014A | Into Action: Inclusion and Respect | Passed | 0.0 | 1.00 |

@@ -23,6 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/8/2025 | 4/8/2027 |
 | Certification Cards | First Aid and CPR | 4/3/2025 | 4/3/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/28/2023 | 4/28/2025 |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/8/2025 | PDP2659A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/3/2025 | PDP3153A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 2/12/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/12/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

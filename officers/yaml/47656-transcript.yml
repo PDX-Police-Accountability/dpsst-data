@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2025
+  course: PDP3100A
+  title: 2025 CNT Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/16/2025
+  course: PDP3100A
+  title: 2025 CNT Annual Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/31/2025
   course: PDP2645A
   title: 2025-2 City Att Legal Updates Dec 2023-Feb 2024

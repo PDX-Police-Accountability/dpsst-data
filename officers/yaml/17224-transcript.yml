@@ -100,6 +100,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2025
+  course: HSU2272A
+  title: Chief's Message In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2025
+  course: HSU1183A
+  title: Chief's Message In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2025
+  course: HSU2272A
+  title: Chief's Message In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2025
+  course: HSU1183A
+  title: Chief's Message In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2025
+  course: HSU2990A
+  title: Crisis Communications In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/13/2025
+  course: HSU4134A
+  title: Sleep Hygiene In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/13/2025
+  course: HSU2043A
+  title: PERS Update In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/13/2025
+  course: HSU1509A
+  title: Firearms In Service Spring 2025
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/13/2025
+  course: HSU3697A
+  title: Property Process In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/5/2025
+  course: HSU1509A
+  title: Firearms In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 11/24/2024
   course: HSU2541A
   title: Patrol Rifle Course

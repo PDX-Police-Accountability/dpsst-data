@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2025
+  course: OSH0031A
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/16/2025
+  course: OSH1512A
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/11/2025
   course: OSH3070A
   title: 1st Trimester Firearms

@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2025 | OSH0031A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
+| 4/16/2025 | OSH1512A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 4/11/2025 | OSH3070A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 4/11/2025 | OSH4412A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 3/21/2025 | OSH1045A | Active Threat Refresher | Instructed | 0.0 | 8.00 |

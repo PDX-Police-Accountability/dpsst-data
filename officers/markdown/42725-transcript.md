@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2025 | VND0701A | Effective Background Investigations | Passed | 0.0 | 16.00 |
 | 4/17/2021 | PDS11851 | Firearms Training | Passed | 0.0 | 4.00 |
 | 7/21/2020 | F6D10423 | Stepping Up - Public Safety/ Mental Health Collab | Passed | 0.0 | 9.50 |
 | 1/13/2020 | F6D42673 | Firearms Training | Passed | 0.0 | 4.00 |

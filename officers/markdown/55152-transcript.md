@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2025 | PDP3100A | 2025 CNT Annual Training | Passed | 0.0 | 8.00 |
 | 3/14/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDP3723A | 2025 Instructor Development | Passed | 0.0 | 21.00 |
 | 2/26/2025 | VND4176A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

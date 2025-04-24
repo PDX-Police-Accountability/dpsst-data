@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2025 | OCS3409A | Use of Force and Peace Officer Holds | Passed | 0.0 | 1.00 |
 | 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 3/25/2025 | OCS0621A | Ground Offense | Passed | 0.0 | 1.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |

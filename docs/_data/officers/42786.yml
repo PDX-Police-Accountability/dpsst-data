@@ -114,6 +114,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/13/2025
+  course: HSU2272A
+  title: Chief's Message In Service Spring 2025
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2025
+  course: HSU1183A
+  title: Chief's Message In Service Spring 2025
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2025
+  course: HSU1509A
+  title: Firearms In Service Spring 2025
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

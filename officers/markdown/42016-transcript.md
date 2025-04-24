@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
+| 4/9/2025 | PDP0420A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 2.00 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |
 | 3/26/2025 | PDP3889A | EDU Sustainment Training | Instructed | 0.0 | 9.00 |
 | 3/24/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

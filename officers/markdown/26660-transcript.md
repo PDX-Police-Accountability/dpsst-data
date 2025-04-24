@@ -41,6 +41,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2025 | HSU1509A | Firearms In Service Spring 2025 | Instructed | 0.0 | 7.00 |
+| 4/18/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/18/2025 | HSU2990A | Crisis Communications In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/18/2025 | HSU1183A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/18/2025 | HSU4134A | Sleep Hygiene In Service Spring 2025 | Passed | 0.0 | 1.50 |
+| 4/18/2025 | HSU2043A | PERS Update In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/18/2025 | HSU3697A | Property Process In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/5/2025 | HSU1509A | Firearms In Service Spring 2025 | Passed | 0.0 | 3.50 |
 | 3/28/2025 | HSU2180A | Supervising Patrol Critical Incidents - Online | Passed | 0.0 | 16.00 |
 | 11/24/2024 | HSU2541A | Patrol Rifle Course | Instructed | 0.0 | 40.00 |
 | 11/17/2024 | HSU4269A | Patrol Rifle Transition | Passed | 0.0 | 5.00 |

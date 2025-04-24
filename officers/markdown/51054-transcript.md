@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2025 | PDP0420A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 2.00 |
 | 3/31/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/31/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
 | 3/26/2025 | PDP3744A | SERT Technology Refresher Hostage Rescue | Passed | 0.0 | 2.00 |

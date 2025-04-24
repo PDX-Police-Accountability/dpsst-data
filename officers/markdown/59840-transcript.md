@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2025 | OCS2684A | Enrichment Academy (Search  Seizure) | Passed | 0.0 | 2.00 |
 | 3/27/2025 | OCS1763A | Firearms Qualification | Passed | 0.0 | 0.75 |
 | 3/13/2025 | OCS1091A | Enrichment Academy EDIS | Passed | 0.0 | 1.00 |
 | 3/6/2025 | OCS1284A | Firearms Training | Passed | 0.0 | 2.00 |

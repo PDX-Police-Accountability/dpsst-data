@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/7/2025
+  course: VND0350A
+  title: Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 1/27/2025
   course: STP0978A
   title: Night Range Qualification and Scenarios

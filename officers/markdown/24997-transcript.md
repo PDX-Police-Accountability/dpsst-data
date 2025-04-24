@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |
+| 2/26/2025 | PPP2961A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 1/31/2025 | PPP4175A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
 | 11/12/2024 | PPP1120A | Taser 7 Annual Certification | Passed | 0.0 | 4.00 |
 | 10/11/2024 | PDP2282A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 3.00 |

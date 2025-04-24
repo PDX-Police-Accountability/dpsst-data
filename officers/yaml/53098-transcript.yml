@@ -68,10 +68,16 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/13/2025
+  course: PDP4334A
+  title: 2025 Standard Field Sobriety Test (SFST) Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/4/2025
   course: REG3644B
   title: 2025 DUII Multi-Disciplinary Training Conference
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '14.00'
 - date: 4/2/2025

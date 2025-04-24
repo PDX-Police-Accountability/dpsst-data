@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2025
+  course: PDP2786A
+  title: 2025 Standard Field Sobriety Test (SFST) Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/6/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

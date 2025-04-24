@@ -113,6 +113,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/19/2025
+  course: HSU0785A
+  title: EVOC In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/19/2025
+  course: HSU4104A
+  title: TASER In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 4/19/2025
+  course: HSU1509A
+  title: Firearms In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 4/19/2025
+  course: HSU2489A
+  title: Patrol Tactics In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2025
+  course: HSU2272A
+  title: Chief's Message In Service Spring 2025
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2025
+  course: HSU1183A
+  title: Chief's Message In Service Spring 2025
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2025
+  course: HSU2990A
+  title: Crisis Communications In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/18/2025
+  course: HSU4134A
+  title: Sleep Hygiene In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/18/2025
+  course: HSU2043A
+  title: PERS Update In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/18/2025
+  course: HSU3697A
+  title: Property Process In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/29/2025
   course: RRP1564A
   title: Oregon Immigration Enforcement Laws

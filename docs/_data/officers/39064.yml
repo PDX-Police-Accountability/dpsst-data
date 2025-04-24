@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2025
+  course: TDP3238A
+  title: Lead Where You Are Now - Modern Day Recruiting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/28/2025
   course: TDP3579A
   title: Substance use intervention tech. for youth

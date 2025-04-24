@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2025
+  course: PDP2083A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 4/10/2025
+  course: PDP2786A
+  title: 2025 Standard Field Sobriety Test (SFST) Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/28/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders
@@ -4251,6 +4263,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/15/2025
+  expiration_date: 4/15/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

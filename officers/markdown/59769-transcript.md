@@ -34,6 +34,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2025 | HSU0785A | EVOC In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/13/2025 | HSU1183A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/13/2025 | HSU2990A | Crisis Communications In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/13/2025 | HSU1509A | Firearms In Service Spring 2025 | Passed | 0.0 | 3.50 |
+| 4/13/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/13/2025 | HSU4134A | Sleep Hygiene In Service Spring 2025 | Passed | 0.0 | 1.50 |
+| 4/13/2025 | HSU4104A | TASER In Service Spring 2025 | Passed | 0.0 | 3.50 |
+| 4/13/2025 | HSU3697A | Property Process In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/13/2025 | HSU2043A | PERS Update In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/13/2025 | HSU2489A | Patrol Tactics In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 10/14/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |
 | 10/13/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
 | 10/13/2024 | HSU2048A | Fall In-Service 2024 PVO | Passed | 0.0 | 2.50 |

@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/7/2025 | VND0350A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 1/27/2025 | STP0978A | Night Range Qualification and Scenarios | Passed | 0.0 | 4.00 |
 | 12/2/2024 | STP3404A | Firearms Training OIS Range Scenarios | Passed | 0.0 | 4.00 |
 | 11/21/2024 | STP0479A | Cold Case Homicide | Passed | 0.0 | 2.00 |

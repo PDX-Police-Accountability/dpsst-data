@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/18/2025 | 4/18/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/24/2023 | 5/24/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
@@ -39,6 +40,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2025 | PDP4211A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
+| 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Instructed | 0.0 | 9.00 |
+| 4/9/2025 | PDP0420A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 2.00 |
+| 4/9/2025 | PDP0420A | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 2.00 |
 | 3/28/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/19/2025 | PDP3727A | SERT Critical Infrastructure Familiarization | Passed | 0.0 | 3.00 |
 | 3/18/2025 | PDP2890A | 2025 SERT Training - ITERATION | Passed | 0.0 | 3.00 |

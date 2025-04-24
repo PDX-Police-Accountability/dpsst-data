@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2025
+  course: PDP3100A
+  title: 2025 CNT Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/26/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

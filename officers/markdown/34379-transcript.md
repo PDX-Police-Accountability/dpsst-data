@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |
 | 1/31/2025 | PPP4175A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
 | 11/21/2024 | PPP1120A | Taser 7 Annual Certification | Passed | 0.0 | 4.00 |
 | 10/10/2024 | RSS4227A | 2024 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |

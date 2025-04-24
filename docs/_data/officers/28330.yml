@@ -113,6 +113,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/25/2025
+  course: PPP0196A
+  title: Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/28/2025
+  course: PPP3414A
+  title: Mass Casualty, Natural Disaster Standards
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/31/2025
   course: PPP4175A
   title: Diversity in the Workplace

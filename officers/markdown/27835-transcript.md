@@ -35,6 +35,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2025 | HSU0785A | EVOC In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/19/2025 | HSU4104A | TASER In Service Spring 2025 | Passed | 0.0 | 3.50 |
+| 4/19/2025 | HSU1509A | Firearms In Service Spring 2025 | Passed | 0.0 | 3.50 |
+| 4/19/2025 | HSU2489A | Patrol Tactics In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/18/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/18/2025 | HSU2990A | Crisis Communications In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/18/2025 | HSU1183A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/18/2025 | HSU4134A | Sleep Hygiene In Service Spring 2025 | Passed | 0.0 | 1.50 |
+| 4/18/2025 | HSU2043A | PERS Update In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/18/2025 | HSU3697A | Property Process In Service Spring 2025 | Passed | 0.0 | 2.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/28/2024 | HSU4235A | Title IX  Belonging at OHSU | Passed | 0.0 | 3.00 |
 | 10/14/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |

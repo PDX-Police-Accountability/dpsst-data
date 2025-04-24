@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2025
+  course: OCS2684A
+  title: Enrichment Academy (Search  Seizure)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/27/2025
   course: OCS1763A
   title: Firearms Qualification

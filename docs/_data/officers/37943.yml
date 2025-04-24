@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2025
+  course: PDP0420A
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/27/2025
   course: PDP1069A
   title: 2025 SERT Training - ITERATION
