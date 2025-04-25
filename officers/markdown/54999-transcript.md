@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2025 | HRS2622A | In-Service: Defensive Tactics | Passed | 0.0 | 3.00 |
 | 4/3/2025 | MOS3882A | NORTAC - Officer Down/Officer Rescue Range Drills | Passed | 0.0 | 1.50 |
 | 4/3/2025 | MOS3734A | NORTAC - Advanced Firearms Range | Passed | 0.0 | 5.00 |
 | 4/3/2025 | MOS0715A | NORTAC - MPX Qualificiation | Passed | 0.0 | 0.50 |

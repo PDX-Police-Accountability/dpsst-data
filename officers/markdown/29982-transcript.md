@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2025 | SVP1799A | April IST (handgun/rifle Inservice Training) | Passed | 0.0 | 3.00 |
 | 4/9/2025 | RMP3099A | What happens when it's quiet? | Passed | 0.0 | 7.00 |
 | 3/27/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/18/2025 | SVP3092A | Basic Public Information Officer Course | Passed | 0.0 | 8.00 |

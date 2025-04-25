@@ -49,6 +49,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/15/2025 | MOS2260B | On Water Firearms Course | Passed | 0.0 | 4.00 |
+| 4/1/2025 | LGS3814A | Implicit Bias | Passed | 0.0 | 1.00 |
+| 4/1/2025 | LGS2817A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
+| 4/1/2025 | LGS0470A | Interacting w/Mentally Ill as First Responder | Passed | 0.0 | 1.00 |
 | 3/12/2025 | LGS3482A | Patrol Firearms Moving Targets/Vehicle Deployment | Instructed | 0.0 | 1.00 |
 | 3/12/2025 | LGS3482A | Patrol Firearms Moving Targets/Vehicle Deployment | Passed | 0.0 | 3.00 |
 | 1/29/2025 | LGS4031A | Aircraft Accidents Policy Review - Investigations | Passed | 0.0 | 0.50 |

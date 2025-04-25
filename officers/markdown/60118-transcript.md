@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2025 | HRS2622A | In-Service: Defensive Tactics | Passed | 0.0 | 3.00 |
+| 4/10/2025 | HRS3511A | In-Service: School Based Threats | Passed | 0.0 | 1.00 |
+| 4/10/2025 | HRS2100A | Use of Force refresher | Passed | 0.0 | 1.00 |
 | 3/20/2025 | HRS2680A | In-Service: Building Search Refresher | Passed | 0.0 | 2.00 |
 | 3/20/2025 | HRS1609A | In-Service: LEAD Program | Passed | 0.0 | 2.00 |
 | 3/20/2025 | HRS3953A | In-Service: SAR Refresher | Passed | 0.0 | 2.00 |

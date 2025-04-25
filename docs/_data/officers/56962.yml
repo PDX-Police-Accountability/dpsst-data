@@ -9,6 +9,18 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/4/2025
+  agency: Washington County Community Corrections
+  action: Return LOA
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
+- date: 12/3/2024
+  agency: Washington County Community Corrections
+  action: LOA
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
 - date: 3/19/2022
   agency: Washington County Community Corrections
   action: Hired

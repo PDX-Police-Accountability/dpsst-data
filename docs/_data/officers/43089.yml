@@ -136,6 +136,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/1/2025
+  course: LGS3814A
+  title: Implicit Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2025
+  course: LGS2817A
+  title: Ethics In Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2025
+  course: LGS0470A
+  title: Interacting w/Mentally Ill as First Responder
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/12/2025
   course: LGS3482A
   title: Patrol Firearms Moving Targets/Vehicle Deployment

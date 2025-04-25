@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2025 | PDN2754A | Defensive Tactics-Pre-Attack Skills | Passed | 0.0 | 1.50 |
 | 4/10/2025 | PDN2738A | Defensive Tactics-Arrest Procedures | Passed | 0.0 | 1.50 |
 | 4/10/2025 | PDN3845A | Defensive Tactics-Stand Up Defenses | Passed | 0.0 | 1.50 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

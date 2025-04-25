@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2025 | TGP3554A | Police Bicycle Operator Instroductory Course | Instructed | 0.0 | 8.00 |
 | 1/20/2025 | TGP3229A | International Forensic Photography Symposium | Passed | 0.0 | 12.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2024 | TGP1034A | Path of the Guardian 2024 (PG24-A1) | Passed | 0.0 | 8.00 |

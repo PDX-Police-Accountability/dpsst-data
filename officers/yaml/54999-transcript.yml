@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2025
+  course: HRS2622A
+  title: 'In-Service: Defensive Tactics'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/3/2025
   course: MOS3882A
   title: NORTAC - Officer Down/Officer Rescue Range Drills

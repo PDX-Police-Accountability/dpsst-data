@@ -12,6 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/4/2025 | Washington County Community Corrections | Return LOA | Par/prob O |  |  |
+| 12/3/2024 | Washington County Community Corrections | LOA | Par/prob O |  |  |
 | 3/19/2022 | Washington County Community Corrections | Hired | Par/prob O |  |  |
 | 3/18/2022 | Washington County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 1/8/2018 | Washington County Sheriff's Office | Hired | Dpty Shrf |  |  |
