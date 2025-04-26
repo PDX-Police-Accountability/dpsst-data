@@ -46,24 +46,24 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/11/2023
+- status_date: 3/25/2025
   certificate: Police Officer
   level: Advanced
-  status: Lapsed-UR
+  status: REVOKED
   certificate_date: 2/10/2012
   expiration_date: 3/11/2028
   probation_date: ''
-- status_date: 6/11/2023
+- status_date: 3/25/2025
   certificate: Police Officer
   level: Basic
-  status: Lapsed-UR
+  status: REVOKED
   certificate_date: 11/3/1998
   expiration_date: 3/11/2028
   probation_date: ''
-- status_date: 6/11/2023
+- status_date: 3/25/2025
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed-UR
+  status: REVOKED
   certificate_date: 2/10/2012
   expiration_date: 3/11/2028
   probation_date: ''

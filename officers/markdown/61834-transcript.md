@@ -30,6 +30,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/15/2014 | Bachelor Arts | All Other Education Institutes |  | 64.0 |
+| 3/15/2012 | Associate Arts | All Other Education Institutes |  | 137.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

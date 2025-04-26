@@ -165,6 +165,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/9/2024
+  course: EGP4235A
+  title: 'Belonging Module 4:  Leading for Equity'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/16/2024
   course: EGP4178A
   title: Taser 7 Annual Recertification
