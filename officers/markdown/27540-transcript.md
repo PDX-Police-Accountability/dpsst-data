@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2025 | WLP3609A | SAFE/SANE Training | Passed | 0.0 | 0.25 |
 | 3/3/2025 | VND2498A | OEDI Annual Session | Passed | 0.0 | 37.00 |
 | 2/22/2025 | WLP1666A | Leading in Times of Crisis | Passed | 0.0 | 10.00 |
 | 2/19/2025 | WLP4232A | Defensive Tactics - Strikes and Scenarios | Passed | 0.0 | 2.00 |

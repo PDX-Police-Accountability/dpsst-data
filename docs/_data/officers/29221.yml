@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2025
+  course: BNP1547A
+  title: Ethics
+  status: Instructed
+  score: '0.0'
+  hours: '2.50'
 - date: 3/13/2025
   course: BNP2019A
   title: Supervisor Academy

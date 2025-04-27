@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/2/2025
+  course: WLP3609A
+  title: SAFE/SANE Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/3/2025
   course: VND2498A
   title: OEDI Annual Session

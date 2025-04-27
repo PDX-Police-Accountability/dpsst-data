@@ -1783,3 +1783,5 @@
 | Corpus-McLemore, Isaak D. | 66243 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66243-transcript.md) - [yaml](../yaml/66243-transcript.yml) |
 | Recinos Salguero, Brandon R. | 66257 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66257-transcript.md) - [yaml](../yaml/66257-transcript.yml) |
 | Gould, Alex C. | 66265 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66265-transcript.md) - [yaml](../yaml/66265-transcript.yml) |
+| Callies, Elleott W. | 66277 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66277-transcript.md) - [yaml](../yaml/66277-transcript.yml) |
+| Lomax, Miles K., Jr. | 66285 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66285-transcript.md) - [yaml](../yaml/66285-transcript.yml) |

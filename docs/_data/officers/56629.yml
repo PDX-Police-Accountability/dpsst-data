@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/16/2025
+  course: PDP3486A
+  title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/9/2025
   course: PDP1768A
   title: 2025 Explosive Disposal Unit (MEDU) Trng

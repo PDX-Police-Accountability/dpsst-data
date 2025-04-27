@@ -26,10 +26,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/24/2025 | 4/24/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 9/2/2008 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 4/3/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2025 | HBP2018A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 1/8/2025 | HBP0704A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
 | 1/8/2025 | HBP0981A | HUMAN TRAFFICKING | Passed | 0.0 | 3.00 |
 | 1/8/2025 | HBP0174A | Safe Evidence Handling | Passed | 0.0 | 1.00 |
