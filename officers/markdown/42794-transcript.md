@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2025 | OCS0270A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 4/3/2025 | OCS0861A | Fundamentals of Marksmanship and Qual | Instructed | 0.0 | 3.00 |
 | 3/28/2025 | OCS3336A | March 2025 Sniper Night Shoot | Instructed | 0.0 | 4.00 |
 | 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Instructed | 0.0 | 31.00 |

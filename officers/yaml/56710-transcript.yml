@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2025
+  course: SDP1314A
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/9/2025
   course: SDP2569A
   title: Defensive Tactics

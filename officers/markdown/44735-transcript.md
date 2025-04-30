@@ -4,7 +4,7 @@
 | name | Bruner-Dehnert, Amy L. |
 | dpsst_identifier | 44735 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/24/2025 | Portland Police Bureau | Retired | Police Off |  |  |
 | 6/30/2017 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 3/1/2016 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 3/1/2010 | Portland Police Bureau | Retrn MLOA | Police Off |  |  |
@@ -21,9 +22,9 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 8/1/2019 | Instructor |  | Expired | 3/24/2016 |  |  |
-| 10/31/2011 | Police Officer | Advanced | Granted | 10/31/2011 |  |  |
-| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 |  |  |
-| 1/24/2006 | Police Officer | Basic | Granted | 1/24/2006 |  |  |
+| 10/31/2011 | Police Officer | Advanced | Granted | 10/31/2011 | 7/24/2025 |  |
+| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 | 7/24/2025 |  |
+| 1/24/2006 | Police Officer | Basic | Granted | 1/24/2006 | 7/24/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

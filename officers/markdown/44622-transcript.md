@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2025 | OSH2965A | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |
+| 4/26/2025 | OSH2999A | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |
+| 4/23/2025 | OSH1239A | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
 | 4/16/2025 | OSH0031A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 4/16/2025 | OSH1512A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 4/11/2025 | OSH3070A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |

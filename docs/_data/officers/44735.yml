@@ -3,12 +3,18 @@ header_record:
   name: Bruner-Dehnert, Amy L.
   dpsst_identifier: '44735'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/24/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 6/30/2017
   agency: DPSST Use Only
   action: Resigned
@@ -52,21 +58,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/31/2011
-  expiration_date: ''
+  expiration_date: 7/24/2025
   probation_date: ''
 - status_date: 11/23/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/23/2010
-  expiration_date: ''
+  expiration_date: 7/24/2025
   probation_date: ''
 - status_date: 1/24/2006
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/24/2006
-  expiration_date: ''
+  expiration_date: 7/24/2025
   probation_date: ''
 training_records:
 - date: 4/9/2025

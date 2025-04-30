@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2025
+  course: VND1213A
+  title: Board Updates and Conversation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/22/2025
   course: PDN2754A
   title: Defensive Tactics-Pre-Attack Skills

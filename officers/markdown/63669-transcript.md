@@ -29,8 +29,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2025 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
 | 6/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 5/19/2025 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
 | 1/31/2024 | PDP0044A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 1/8/2024 | PDP2811A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 1/8/2024 | PDP0508A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

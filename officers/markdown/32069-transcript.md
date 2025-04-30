@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2025 | SDP1314A | Handgun Qualification | Passed | 0.0 | 2.00 |
 | 4/9/2025 | SDP2569A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 4/1/2025 | SDP2225A | Redkite Leadership DISC Management 1 of 4 | Passed | 0.0 | 4.50 |
 | 3/19/2025 | SDP2161A | Drone Introduction | Passed | 0.0 | 1.50 |

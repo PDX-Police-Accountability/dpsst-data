@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 4/25/2025
+  course: OSH2911A
+  title: VIN Identification Basics 2025
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/5/2025
   course: PDS2540A
   title: Intoxilyzer 8000 Certification
