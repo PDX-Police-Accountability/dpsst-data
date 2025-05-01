@@ -45,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2025 | RRP0426A | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.00 |
+| 4/22/2025 | RRP3586A | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.00 |
 | 3/13/2025 | BNP2019A | Supervisor Academy | Passed | 0.0 | 16.00 |
 | 2/25/2025 | BNP1169A | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 1/29/2025 | BNP1420A | First Aid and Adult/ Child CPR | Passed | 0.0 | 2.00 |

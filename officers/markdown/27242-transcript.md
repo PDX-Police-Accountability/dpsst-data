@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2025 | RRP0426A | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.00 |
 | 2/28/2025 | VND4101A | 2025 Case Law/Legal Updates | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND0085A | Top 10 Things to Get You Sued | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND2709A | COOP Exercises for Disaster Prepardness | Passed | 0.0 | 1.00 |

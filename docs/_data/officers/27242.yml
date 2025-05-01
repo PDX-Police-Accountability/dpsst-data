@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2025
+  course: RRP0426A
+  title: OACP Annual Conference Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/28/2025
   course: VND4101A
   title: 2025 Case Law/Legal Updates

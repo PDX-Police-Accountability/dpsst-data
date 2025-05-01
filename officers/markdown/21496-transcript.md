@@ -63,6 +63,7 @@
 | 4/17/2025 | OSH0843B | 1st Trimester firearms | Passed | 0.0 | 3.50 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
+| 3/13/2025 | OSH1923A | Defensive Tactics 1st Trimester | Passed | 0.0 | 3.00 |
 | 3/7/2025 | SAG0759A | 2025 Prosecuting the Drugged Driver | Passed | 0.0 | 3.50 |
 | 3/6/2025 | SAG2970A | 2025 Prosecuting the Drugged Driver | Passed | 0.0 | 8.00 |
 | 3/5/2025 | SAG4182A | 2025 Prosecuting the Drugged Driver | Passed | 0.0 | 8.00 |
