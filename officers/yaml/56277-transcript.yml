@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2025
+  course: CAP1852A
+  title: Firearms - Use of Cover/Shield
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/26/2025
   course: CAP3056A
   title: Annual Patrol Rifle Qualification and Fundamentals

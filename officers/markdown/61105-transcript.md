@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2025 | NGP1829A | ACAP | Passed | 0.0 | 2.00 |
 | 4/14/2025 | NGP1891A | WRAP Instructor | Passed | 0.0 | 1.00 |
 | 3/17/2025 | NGP0483A | Immigration Enforcement | Passed | 0.0 | 0.25 |
 | 3/17/2025 | NGP3280A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2025 | CAP1852A | Firearms - Use of Cover/Shield | Instructed | 0.0 | 8.00 |
 | 3/26/2025 | CAP3056A | Annual Patrol Rifle Qualification and Fundamentals | Passed | 0.0 | 2.00 |
 | 2/19/2025 | CAP2865A | CPR / First Aid | Instructed | 0.0 | 8.00 |
 | 1/27/2025 | CAP4265A | First Aid / CPR Adult  Child | Passed | 0.0 | 1.00 |

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2025
+  course: PDP2077A
+  title: OSINT 25-03 Open Source Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 3/21/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

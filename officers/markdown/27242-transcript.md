@@ -35,10 +35,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/23/2025 | 4/23/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 10/10/2007 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 4/3/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2025 | GSP0598A | Adult and Child CPR First Aid | Passed | 0.0 | 4.00 |
 | 4/22/2025 | RRP0426A | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.00 |
 | 2/28/2025 | VND4101A | 2025 Case Law/Legal Updates | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND0085A | Top 10 Things to Get You Sued | Passed | 0.0 | 1.00 |

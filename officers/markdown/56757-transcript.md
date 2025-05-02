@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2025 | PPP4559A | Tri-Met Enforcement Training | Passed | 0.0 | 1.00 |
+| 4/10/2025 | PPP3366A | Police Response to Active Shooter Instructor Cert | Passed | 0.0 | 32.00 |
 | 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |
 | 2/23/2025 | PPP2961A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 1/31/2025 | PPP4175A | Diversity in the Workplace | Passed | 0.0 | 1.00 |

@@ -80,6 +80,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 4/24/2025
+  course: REG3476A
+  title: Handgun Instructor Development Course
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/23/2025
   course: OSH1239A
   title: 1st Trimester Firearms

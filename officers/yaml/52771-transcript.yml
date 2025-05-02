@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2025
+  course: PDP0608A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/21/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders
@@ -3651,6 +3657,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/23/2025
+  expiration_date: 4/23/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

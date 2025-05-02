@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2025
+  course: GSP0598A
+  title: Adult and Child CPR First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/22/2025
   course: RRP0426A
   title: OACP Annual Conference Board Meeting
@@ -6210,6 +6216,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/23/2025
+  expiration_date: 4/23/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025
@@ -6222,10 +6232,6 @@ attribute_records:
   value: Signed
   effective_date: 10/10/2007
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 4/3/2025
 education_records:
 - date: 6/11/2000
   degree: Bachelor Science

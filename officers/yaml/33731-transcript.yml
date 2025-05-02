@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2025
+  course: PDN4012A
+  title: Report Writing  Hearings Unit Procedure
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/24/2025
   course: VND1213A
   title: Board Updates and Conversation

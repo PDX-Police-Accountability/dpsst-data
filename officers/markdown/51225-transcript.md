@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2025 | PDP2077A | OSINT 25-03 Open Source Intelligence | Passed | 0.0 | 36.00 |
 | 3/21/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Instructed | 0.0 | 9.00 |
