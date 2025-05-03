@@ -125,6 +125,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2025
+  course: SPP0170A
+  title: CIT Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/23/2025
+  course: SPP0439A
+  title: KIDS FIRST Forensic Interviews
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/17/2025
   course: SPP4265A
   title: Firearms Training

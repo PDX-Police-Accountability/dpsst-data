@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
 | 4/3/2025 | PDP0294A | 2025 Public Order Command Workshop | Passed | 0.0 | 24.00 |
 | 4/1/2025 | PDP3586A | Hazmat/WMD Awareness/Gas Mask | Instructed | 0.0 | 3.00 |
 | 3/26/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

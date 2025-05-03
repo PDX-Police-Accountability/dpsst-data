@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
 | 4/3/2025 | PDP1530A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/21/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/13/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |

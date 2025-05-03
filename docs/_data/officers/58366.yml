@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/8/2025
+  course: OSH4493A
+  title: Central Region Leadership Summit
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/7/2025
   course: OSH1879A
   title: 'STOP Program: Data Collection on the Road'
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/27/2024
+  course: OSH4514A
+  title: Central Region Leadership Summit
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 11/20/2024
   course: OSH0358A
   title: Hwy. 18 murder case study

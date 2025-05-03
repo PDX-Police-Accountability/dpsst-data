@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
 | 3/28/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 3/6/2025 | PDP3723A | 2025 Instructor Development | Passed | 0.0 | 28.00 |
 | 2/1/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |

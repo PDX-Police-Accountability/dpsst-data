@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2025 | SAG2762A | Firearms training | Passed | 0.0 | 1.50 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 1.00 |
 | 1/29/2025 | SAG2481A | Ethics Guide Reading | Passed | 0.0 | 0.00 |
 | 12/31/2024 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |

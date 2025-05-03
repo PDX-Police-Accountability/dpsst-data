@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
 | 4/7/2025 | PDP2858B | Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 3/11/2025 | PDP2208A | Hazmat/WMD Awareness/Gas Mask | Instructed | 0.0 | 3.00 |
 | 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |

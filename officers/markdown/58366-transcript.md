@@ -42,10 +42,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 4/15/2025 | OSH0277B | Manager Comp.-TORT/Risk Mgt, Fleet  AOC Overview | Passed | 0.0 | 2.00 |
+| 4/8/2025 | OSH4493A | Central Region Leadership Summit | Passed | 0.0 | 6.00 |
 | 4/7/2025 | OSH1879A | STOP Program: Data Collection on the Road | Passed | 0.0 | 0.00 |
 | 4/3/2025 | OSH3594A | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
 | 1/21/2025 | OSH1334A | Manager Comp.-Legistlative Processes/Goal Setting | Passed | 0.0 | 1.00 |
 | 12/17/2024 | OSH4355A | Manager Comp.-Lean Six Sigma-Process Improvement | Passed | 0.0 | 1.00 |
+| 11/27/2024 | OSH4514A | Central Region Leadership Summit | Passed | 0.0 | 3.50 |
 | 11/20/2024 | OSH0358A | Hwy. 18 murder case study | Passed | 0.0 | 2.50 |
 | 11/14/2024 | OSH0431A | Mobile Detect Training | Passed | 0.0 | 1.00 |
 | 11/4/2024 | OSH2481A | Sworn Montly Leadership Training | Passed | 0.0 | 1.25 |

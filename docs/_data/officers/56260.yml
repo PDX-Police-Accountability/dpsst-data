@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2025
+  course: HBS2183A
+  title: Mobile Field Force Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/29/2025
   course: PDP1460A
   title: '2020 Training Managing Crit Incid Well: Sgts Role'

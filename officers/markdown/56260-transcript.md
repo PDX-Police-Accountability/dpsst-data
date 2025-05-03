@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
 | 3/29/2025 | PDP1460A | 2020 Training Managing Crit Incid Well: Sgts Role | Passed | 0.0 | 0.25 |
 | 3/29/2025 | PDP3225A | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.00 |
 | 3/29/2025 | PDP1963A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2025 | SAG2762A | Firearms training | Passed | 0.0 | 1.50 |
+| 4/22/2025 | SAG2762A | Firearms training | Instructed | 0.0 | 4.50 |
 | 4/13/2025 | REG3186A | Active Threat Response | Passed | 0.0 | 8.00 |
 | 3/27/2025 | SAG0191A | Firearms training | Passed | 0.0 | 1.00 |
 | 3/27/2025 | SAG0191A | Firearms training | Instructed | 0.0 | 2.00 |

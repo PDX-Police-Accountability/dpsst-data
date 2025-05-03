@@ -47,6 +47,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2025 | SPP0170A | CIT Use of Force | Passed | 0.0 | 1.00 |
+| 4/23/2025 | SPP0439A | KIDS FIRST Forensic Interviews | Passed | 0.0 | 2.00 |
 | 3/17/2025 | SPP4265A | Firearms Training | Passed | 0.0 | 4.00 |
 | 3/6/2025 | SPP1778A | Adult/Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 2/28/2025 | F1509044 | The Truth About Trust | Passed | 0.0 | 1.00 |

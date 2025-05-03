@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2025
+  course: SAG2762A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/22/2025
+  course: SAG2762A
+  title: Firearms training
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
 - date: 4/13/2025
   course: REG3186A
   title: Active Threat Response

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2025 | SAG2762A | Firearms training | Passed | 0.0 | 1.50 |
 | 3/27/2025 | SAG0191A | Firearms training | Passed | 0.0 | 2.00 |
 | 2/25/2025 | SAG1209A | Firearms training | Passed | 0.0 | 2.00 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 0.00 |
