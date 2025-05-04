@@ -41,7 +41,6 @@
 | 10/27/2022 | MKL24393 | Defensive  Tactics | Passed | 0.0 | 4.00 |
 | 9/8/2022 | MKL18517 | Rec MJ Compliance Dashboard Training | Passed | 0.0 | 1.50 |
 | 9/1/2022 | MKL36163 | Harvest and Compliance Dashboard Overview | Passed | 0.0 | 1.50 |
-| 8/10/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 7/29/2022 | MKL03056 | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 6/10/2022 | 22-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
 | 6/2/2022 | MKL41204 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |

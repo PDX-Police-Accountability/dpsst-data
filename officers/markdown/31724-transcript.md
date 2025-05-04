@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2025 | BNS0903A | ARCON/Firearms | Passed | 0.0 | 4.00 |
 | 3/17/2025 | BNS0722A | Building Search Scennarios | Passed | 0.0 | 1.00 |
 | 3/17/2025 | BNS2071A | Arrest and Control | Passed | 0.0 | 2.00 |
 | 3/17/2025 | BNS0449A | Mechanical Breaching | Passed | 0.0 | 1.00 |

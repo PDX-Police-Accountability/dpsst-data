@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2025 | APD3956A | Integrating Communications, Assessment,Tactics | Passed | 0.0 | 20.00 |
 | 3/19/2025 | APD2535A | CPR/First Aid | Passed | 0.0 | 7.00 |
 | 12/31/2024 | APD4116A | Reasonable Suspicion Testing | Passed | 0.0 | 1.50 |
 | 12/24/2024 | APD1546A | Interacting w/ the Mentally Ill as a 1st Responder | Passed | 0.0 | 1.00 |

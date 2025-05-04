@@ -23,12 +23,13 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 5/1/2023 | 5/1/2025 |
 | Code of Ethics | Law Enforcement Signed | 8/3/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/19/2018 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/10/2015 | Bachelor Science | All Other Education Institutes |  | 105.0 |
+| 7/14/2013 | Associate Arts | All Other Education Institutes |  | 0.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

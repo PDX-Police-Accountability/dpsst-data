@@ -2360,10 +2360,6 @@ training_records:
   score: '0.0'
   hours: '7.00'
 attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/1/2023
-  expiration_date: 5/1/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/3/2019
@@ -2372,4 +2368,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 12/19/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 8/10/2015
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '105.0'
+- date: 7/14/2013
+  degree: Associate Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '0.0'

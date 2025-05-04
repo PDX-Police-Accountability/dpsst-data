@@ -64,12 +64,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 2/21/2025
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '36.00'
-- date: 2/21/2025
   course: OCS2608A
   title: FBI LEEDA - SLI
   status: Passed
@@ -4714,10 +4708,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/18/2023
-  expiration_date: 4/18/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/27/2001

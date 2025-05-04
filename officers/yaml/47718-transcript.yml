@@ -76,6 +76,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/8/2025
+  course: PDP2950A
+  title: Coaching  Mentoring in Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/5/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

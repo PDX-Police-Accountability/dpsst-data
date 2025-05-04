@@ -64,7 +64,6 @@
 | 11/4/2022 | MKL22194 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/22/2022 | MKL31498 | Understanding Oregon's Ethics Laws | Passed | 0.0 | 1.50 |
-| 8/10/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 8/2/2022 | MKL23467 | DAS-CHRO- Heat Illness and Prevention Training | Passed | 0.0 | 1.00 |
 | 8/2/2022 | MKL29235 | DAS-OSHA Wildfire Smoke | Passed | 0.0 | 0.25 |
 | 6/23/2022 | BPT09123 | Mental Health First Aid | Passed | 0.0 | 8.00 |

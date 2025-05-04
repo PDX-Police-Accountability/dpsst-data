@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2025
+  course: APD3956A
+  title: Integrating Communications, Assessment,Tactics
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 3/19/2025
   course: APD2535A
   title: CPR/First Aid
