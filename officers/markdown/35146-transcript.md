@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2025 | GPN1163A | Behavior Change Plan Training | Passed | 0.0 | 7.00 |
 | 4/9/2025 | REG1924A | Ethics Practical Discussion | Passed | 0.0 | 2.00 |
 | 3/27/2025 | REG0880A | Defensive Tactics Instructor Workshop / Refresher | Passed | 0.0 | 24.00 |
 | 3/3/2025 | TRN4564A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |

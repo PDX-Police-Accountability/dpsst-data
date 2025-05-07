@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2025
+  course: GPN1163A
+  title: Behavior Change Plan Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/9/2025
   course: REG1924A
   title: Ethics Practical Discussion

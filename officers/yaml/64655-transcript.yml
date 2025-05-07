@@ -16,15 +16,15 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 11/9/2023
+- status_date: 5/4/2025
   certificate: Police Officer
   level: Basic
-  status: Required
+  status: ReqCertExt
   certificate_date: ''
   expiration_date: ''
-  probation_date: 5/9/2025
+  probation_date: 5/9/2026
 training_records:
-- date: 5/9/2025
+- date: 5/9/2026
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
   status: Required

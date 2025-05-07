@@ -18,13 +18,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/13/2012 | Police Officer | Advanced | Granted | 2/13/2012 | 4/15/2025 |  |
-| 2/13/2012 | Police Officer | Intermediate | Granted | 2/13/2012 | 4/15/2025 |  |
-| 7/22/1998 | Police Officer | Basic | Granted | 7/22/1998 | 4/15/2025 |  |
+| 4/15/2025 | Police Officer | Advanced | Lapsed | 2/13/2012 | 1/15/2030 |  |
+| 4/15/2025 | Police Officer | Basic | Lapsed | 7/22/1998 | 1/15/2030 |  |
+| 4/15/2025 | Police Officer | Intermediate | Lapsed | 2/13/2012 | 1/15/2030 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 2/13/2012 |  |
 ## Education
 | date | degree | school | major | hours |
