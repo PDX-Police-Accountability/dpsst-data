@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2025 | MNS0124A | OLCC Briefing Training | Passed | 0.0 | 0.50 |
 | 2/4/2025 | MNS3263A | Low Light Qualification/Training | Passed | 0.0 | 2.50 |
 | 1/29/2025 | VND3653A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 3.00 |
 | 1/29/2025 | VND2461A | CMV Size and Weight Training | Passed | 0.0 | 3.00 |

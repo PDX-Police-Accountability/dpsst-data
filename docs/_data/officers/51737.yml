@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 3/26/2025
+  course: PDP3094A
+  title: MGT 404 Sports and Special Events Management
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/18/2025
   course: PDP1113A
   title: 2024-5 Naloxone Adm Guidelines

@@ -43,6 +43,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2025
+  course: BNN0229A
+  title: Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/30/2025
+  course: BNN3526A
+  title: Gender Responsive Conference
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/29/2025
+  course: BNN3256A
+  title: Policy and Procedure, Lived Experience Panel
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/29/2025
+  course: BNN0474A
+  title: Safety Compass/Oregon Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/26/2025
   course: HBN0638B
   title: DTs  OC Spray Re-certification

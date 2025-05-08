@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/30/2025 | -- 3721A | 2025 CID in-service - Group 1 | Passed | 0.0 | 16.00 |
 | 4/15/2025 | OSH0277B | Manager Comp.-TORT/Risk Mgt, Fleet  AOC Overview | Passed | 0.0 | 2.00 |
 | 4/8/2025 | OSH4493A | Central Region Leadership Summit | Passed | 0.0 | 6.00 |
 | 4/7/2025 | OSH1879A | STOP Program: Data Collection on the Road | Passed | 0.0 | 0.00 |

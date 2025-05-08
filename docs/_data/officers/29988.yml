@@ -386,6 +386,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 5/2/2024
+  course: PDP4447A
+  title: OR Cold Case Investigators Spring Conference
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/24/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

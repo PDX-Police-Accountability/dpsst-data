@@ -38,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2025 | BNN0229A | Scenarios | Passed | 0.0 | 3.00 |
+| 4/30/2025 | BNN3526A | Gender Responsive Conference | Passed | 0.0 | 7.00 |
+| 4/29/2025 | BNN3256A | Policy and Procedure, Lived Experience Panel | Passed | 0.0 | 3.00 |
+| 4/29/2025 | BNN0474A | Safety Compass/Oregon Trauma Informed Care | Passed | 0.0 | 4.00 |
 | 3/26/2025 | HBN0638B | DTs  OC Spray Re-certification | Passed | 0.0 | 8.00 |
 | 3/18/2025 | HBN0991B | March 2025 - Team Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/5/2025 | HBN1066A | First Aid/CPR/AED | Passed | 0.0 | 6.00 |

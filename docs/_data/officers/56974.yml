@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 3/28/2025
+  course: PDP2164A
+  title: CSI Certification Test Prep Course
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/13/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

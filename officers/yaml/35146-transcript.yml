@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/5/2025
+  course: VND2048A
+  title: Chrono Practices and Contact Standards
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/29/2025
   course: GPN1163A
   title: Behavior Change Plan Training

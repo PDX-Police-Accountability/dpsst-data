@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/30/2025
+  course: "-- 3721A"
+  title: 2025 CID in-service - Group 1
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/15/2025
   course: OSH0277B
   title: Manager Comp.-TORT/Risk Mgt, Fleet  AOC Overview

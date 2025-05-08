@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2025
+  course: MNS0124A
+  title: OLCC Briefing Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/4/2025
   course: MNS3263A
   title: Low Light Qualification/Training

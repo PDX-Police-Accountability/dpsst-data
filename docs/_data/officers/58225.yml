@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/13/2025
+  course: PDP4122A
+  title: WA Vehicle Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '25.50'
 - date: 3/3/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update

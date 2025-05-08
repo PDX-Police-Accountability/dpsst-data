@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/13/2025
+  course: PDP3439A
+  title: Nighthawk Ascend Adv Digital Data Tradecraft
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/5/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English

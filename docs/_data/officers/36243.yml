@@ -107,6 +107,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/7/2025
+  course: HBS3821A
+  title: Columbus Police Dialogue
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/1/2025
   course: HBS2588A
   title: Virtual-Hate Crimes Training for LE
