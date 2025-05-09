@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/6/2025
+  course: PDP3571A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/4/2025
   course: REG3644B
   title: 2025 DUII Multi-Disciplinary Training Conference
@@ -5131,6 +5137,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/27/2025
   expiration_date: 4/27/2027
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/6/2025
+  expiration_date: 4/6/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2025 | HBS2213A | Virtual Sexual Harassment Prevention LE | Passed | 0.0 | 1.00 |
+| 5/1/2025 | HBS1147A | Virtual De-Escalation Strategies | Passed | 0.0 | 2.00 |
 | 4/20/2025 | HBS1998A | AXON BWC | Passed | 0.0 | 2.00 |
 | 4/1/2025 | HBS4266A | CPR/First Aid/AED Adult  Pediatric | Passed | 0.0 | 2.00 |
 | 4/1/2025 | HBS1086A | Virtual-PREA | Passed | 0.0 | 1.00 |

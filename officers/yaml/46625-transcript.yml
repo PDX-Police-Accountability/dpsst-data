@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2025
+  course: PDP0322A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 2/11/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap
@@ -3885,6 +3891,10 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/2/2025
+  expiration_date: 5/2/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

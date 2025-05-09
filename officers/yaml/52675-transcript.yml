@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2025
+  course: PDP0829A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/31/2025
   course: PDP2645A
   title: 2025-2 City Att Legal Updates Dec 2023-Feb 2024
@@ -3795,6 +3801,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/29/2025
+  expiration_date: 4/29/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

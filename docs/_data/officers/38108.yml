@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/9/2025
+  course: PDP2783A
+  title: 2025 OR Police Canine Assocation Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/2/2025
   course: PDP3659A
   title: 2025 K-9 (K9) Weekly Training

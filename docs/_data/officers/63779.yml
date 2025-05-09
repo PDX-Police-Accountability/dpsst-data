@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/24/2025
+  course: PDP3254A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/24/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

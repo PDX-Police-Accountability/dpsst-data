@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2025
+  course: PDP0081A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/16/2025
   course: PDP0667A
   title: 2025 K-9 Weekly Training
@@ -40,6 +46,12 @@ training_records:
 - date: 4/9/2025
   course: BVP3619B
   title: 2025 OPCA Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/9/2025
+  course: PDP2783A
+  title: 2025 OR Police Canine Assocation Spring Seminar
   status: Passed
   score: '0.0'
   hours: '24.00'
@@ -2192,6 +2204,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/28/2025
+  expiration_date: 4/28/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

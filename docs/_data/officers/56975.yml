@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/11/2025
+  course: PDP4022A
+  title: FETI Forensic Experiential Trauma Interview
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 3/19/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

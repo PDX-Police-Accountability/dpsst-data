@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/10/2024
+  course: PDP3361A
+  title: Women in Command
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/27/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

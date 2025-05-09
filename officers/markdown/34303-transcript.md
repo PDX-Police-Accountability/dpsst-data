@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Lemen-Sipp, Denise C. |
+| name | Lemen, Denise C. |
 | dpsst_identifier | 34303 |
 | agency | Portland Police Bureau |
 | employment_status | Inactive |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/29/2025 | Hillsboro Police Department | LOA | Police Off |  |  |
 | 3/1/2002 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 2/28/2002 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 2/23/1998 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |

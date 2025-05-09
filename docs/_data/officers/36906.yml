@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 2/19/2025
+  course: PDP3410A
+  title: SAKI Behavior Focused Susp and Trauma Engage
+  status: Passed
+  score: '0.0'
+  hours: '12.50'
 - date: 2/9/2025
   course: PDP0221A
   title: 2025 Sworn In-Service PVO Stop Stick Intro Video

@@ -68,6 +68,12 @@ certification_records:
   expiration_date: 6/25/2029
   probation_date: ''
 training_records:
+- date: 5/2/2025
+  course: PDP0322A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 6/12/2024
   course: PDP2586A
   title: 2024-2 Range Qual 40mm Less Lethal
@@ -3957,6 +3963,10 @@ training_records:
   score: '0.0'
   hours: '36.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/2/2025
+  expiration_date: 5/2/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/11/2023

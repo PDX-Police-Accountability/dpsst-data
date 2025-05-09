@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2025
+  course: HBS2213A
+  title: Virtual Sexual Harassment Prevention LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2025
+  course: HBS1147A
+  title: Virtual De-Escalation Strategies
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/20/2025
   course: HBS1998A
   title: AXON BWC

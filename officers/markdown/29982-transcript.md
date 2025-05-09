@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/25/2025 | SVP4274A | FBI Responding Bomb Threats  Swatting Hoax | Passed | 0.0 | 2.00 |
 | 4/17/2025 | SVP1799A | April IST (handgun/rifle Inservice Training) | Passed | 0.0 | 3.00 |
 | 4/9/2025 | RMP3099A | What happens when it's quiet? | Passed | 0.0 | 7.00 |
 | 3/27/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -79,6 +80,7 @@
 | 6/12/2024 | AVP2518A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/2/2024 | SVP3941A | Saftey Compass - Sex Trafficing Investigations | Passed | 0.0 | 4.50 |
 | 5/29/2024 | SVP4311B | CPR Re-Cert | Instructed | 0.0 | 4.00 |
+| 5/29/2024 | SVP3959A | CPR and First Aid Re-Cert | Instructed | 0.0 | 4.00 |
 | 5/22/2024 | SVP4540A | Defensive Tactics Refresher | Instructed | 0.0 | 4.00 |
 | 5/8/2024 | AVP4026A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 5/6/2024 | SVP0572A | Professional Standards: Internal Investigations | Passed | 0.0 | 2.00 |

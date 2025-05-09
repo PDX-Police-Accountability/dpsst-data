@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/8/2025
+  course: PDP2422A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/25/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

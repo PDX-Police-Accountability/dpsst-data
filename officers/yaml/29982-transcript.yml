@@ -89,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/25/2025
+  course: SVP4274A
+  title: FBI Responding Bomb Threats  Swatting Hoax
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/17/2025
   course: SVP1799A
   title: April IST (handgun/rifle Inservice Training)
@@ -308,6 +314,12 @@ training_records:
 - date: 5/29/2024
   course: SVP4311B
   title: CPR Re-Cert
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/29/2024
+  course: SVP3959A
+  title: CPR and First Aid Re-Cert
   status: Instructed
   score: '0.0'
   hours: '4.00'

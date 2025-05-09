@@ -50,6 +50,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/20/2025
+  course: PDP4220A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/7/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination
@@ -4503,6 +4509,10 @@ training_records:
   score: '0.0'
   hours: '23.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/20/2025
+  expiration_date: 4/20/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

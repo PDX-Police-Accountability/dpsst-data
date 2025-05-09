@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/27/2025
+  course: PDP2408A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/7/2025
   course: PDP2858B
   title: Post Basic CEW
@@ -4815,6 +4821,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/27/2025
+  expiration_date: 4/27/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

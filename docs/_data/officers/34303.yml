@@ -1,6 +1,6 @@
 ---
 header_record:
-  name: Lemen-Sipp, Denise C.
+  name: Lemen, Denise C.
   dpsst_identifier: '34303'
   agency: Portland Police Bureau
   employment_status: Inactive
@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/29/2025
+  agency: Hillsboro Police Department
+  action: LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/1/2002
   agency: Hillsboro Police Department
   action: Hired
