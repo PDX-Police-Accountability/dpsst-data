@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2025
+  course: OCS1650B
+  title: April 2025 Monthly Firearms Annual Qual
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/4/2025
   course: REG3644B
   title: 2025 DUII Multi-Disciplinary Training Conference

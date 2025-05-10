@@ -46,6 +46,7 @@
 | 12/16/2024 | MNS4019A | Below 100 | Passed | 0.0 | 3.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/21/2024 | MNS3656A | Tracwire FTEP Training | Passed | 0.0 | 1.50 |
+| 11/18/2024 | MNS2237B | 2024 OSSA Legal Update | Passed | 0.0 | 1.00 |
 | 11/3/2024 | MNS3587A | Emergency Vehicle Operations.Nov.24 | Passed | 0.0 | 4.00 |
 | 11/2/2024 | MNS4349A | Gas Mask Use and Deployment | Passed | 0.0 | 0.50 |
 | 11/2/2024 | MNS1286A | Mass Casualty Review / Uvalde School Shooting | Passed | 0.0 | 1.50 |

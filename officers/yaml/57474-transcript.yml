@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 3/12/2025
+  course: PDP2749B
+  title: IACP Safety and Wellness Conference
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
 - date: 2/6/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap

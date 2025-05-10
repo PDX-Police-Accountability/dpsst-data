@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2025 | STN0546B | Peer Support and Mental Health | Passed | 0.0 | 3.00 |
 | 4/3/2025 | MFN2666A | Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 2/27/2025 | MFN0552A | Behavior Change Plan | Instructed | 0.0 | 6.00 |
 | 2/18/2025 | MFN3712A | Low Light Shooting | Passed | 0.0 | 3.00 |

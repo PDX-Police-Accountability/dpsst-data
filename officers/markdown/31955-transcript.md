@@ -48,6 +48,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/9/2025 | RMP3099A | What happens when it's quiet? | Passed | 0.0 | 7.00 |
 | 3/26/2025 | CAP3056A | Annual Patrol Rifle Qualification and Fundamentals | Passed | 0.0 | 2.00 |
+| 3/26/2025 | CAP0189B | Bloodborne Pathogens For First Responders | Passed | 0.0 | 1.00 |
+| 3/21/2025 | CAP1707B | Hazmat | Passed | 0.0 | 1.50 |
+| 3/21/2025 | CAP0448B | PREA | Passed | 0.0 | 1.00 |
 | 2/19/2025 | CAP2865A | CPR / First Aid | Passed | 0.0 | 4.00 |
 | 1/27/2025 | CAP4265A | First Aid / CPR Adult  Child | Passed | 0.0 | 1.00 |
 | 1/22/2025 | CAP3093A | Annual Handgun Qualifications/Fundamentals | Passed | 0.0 | 2.00 |

@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 4/3/2025
+  course: VND2759B
+  title: Traffic Incident Mgnt. Training 20F030
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/14/2023
   course: PDP3224A
   title: 2023-3 Range Qualification CEW

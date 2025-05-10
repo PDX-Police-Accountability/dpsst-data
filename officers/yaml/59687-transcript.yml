@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2025
+  course: WLP0003B
+  title: Quarterly Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/15/2025
   course: WLP3943A
   title: Respectful Workplace

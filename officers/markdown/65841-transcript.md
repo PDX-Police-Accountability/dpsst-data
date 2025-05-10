@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/3/2025 | REG0415A | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
+| 4/3/2025 | REG0458B | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 1/27/2025 | PDP0466A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 1/27/2025 | PDP3282A | 2021 In-Serv Language Access-Translation  Interp | Passed | 0.0 | 0.25 |
 | 1/27/2025 | PDP0302A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |

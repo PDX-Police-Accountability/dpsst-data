@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 4/3/2025
+  course: REG0458B
+  title: INTOX 8000 (Hours inlcuded in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 2/21/2025
   course: PDP2677A
   title: 2025 Radar Lidar Operators Course

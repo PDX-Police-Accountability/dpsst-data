@@ -218,6 +218,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/11/2024
+  course: PDP1518B
+  title: Impact Munitions Instructor
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

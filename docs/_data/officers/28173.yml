@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2025
+  course: MKL0515B
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/13/2025
   course: MKL0163A
   title: Public Safety-In-Service Training

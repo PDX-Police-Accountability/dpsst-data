@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2025 | MKL0515B | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 3/13/2025 | MKL0163A | Public Safety-In-Service Training | Passed | 0.0 | 15.00 |
 | 3/13/2025 | MKL2626A | Ethics Training | Passed | 0.0 | 1.00 |
 | 12/17/2024 | MKL4372A | Gang Training | Passed | 0.0 | 3.00 |

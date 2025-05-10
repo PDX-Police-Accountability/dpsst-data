@@ -120,6 +120,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/26/2025
+  course: CAP0189B
+  title: Bloodborne Pathogens For First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/21/2025
+  course: CAP1707B
+  title: Hazmat
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/21/2025
+  course: CAP0448B
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/19/2025
   course: CAP2865A
   title: CPR / First Aid

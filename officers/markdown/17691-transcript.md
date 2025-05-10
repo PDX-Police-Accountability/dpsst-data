@@ -52,6 +52,7 @@
 | 12/4/2024 | MNS4507A | Tint Meter Operator Training | Passed | 0.0 | 0.50 |
 | 12/4/2024 | MNS3676A | 2024 CIT Training | Passed | 0.0 | 3.00 |
 | 12/4/2024 | MNS1953A | Crisis Intervention Training | Passed | 0.0 | 3.00 |
+| 11/14/2024 | MNS2237B | 2024 OSSA Legal Update | Passed | 0.0 | 1.00 |
 | 11/3/2024 | MNS3587A | Emergency Vehicle Operations.Nov.24 | Instructed | 0.0 | 7.00 |
 | 11/2/2024 | MNS4349A | Gas Mask Use and Deployment | Passed | 0.0 | 0.50 |
 | 11/2/2024 | MNS1286A | Mass Casualty Review / Uvalde School Shooting | Passed | 0.0 | 1.50 |

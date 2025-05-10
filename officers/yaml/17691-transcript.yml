@@ -157,6 +157,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/14/2024
+  course: MNS2237B
+  title: 2024 OSSA Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/3/2024
   course: MNS3587A
   title: Emergency Vehicle Operations.Nov.24
