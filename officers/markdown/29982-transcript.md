@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2025 | SVP0941A | Introduction to Firearms and Range Safety | Instructed | 0.0 | 2.50 |
 | 4/25/2025 | SVP4274A | FBI Responding Bomb Threats  Swatting Hoax | Passed | 0.0 | 2.00 |
 | 4/17/2025 | SVP1799A | April IST (handgun/rifle Inservice Training) | Passed | 0.0 | 3.00 |
 | 4/9/2025 | RMP3099A | What happens when it's quiet? | Passed | 0.0 | 7.00 |

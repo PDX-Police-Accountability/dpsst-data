@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/22/2024 | Portland Police Bureau | LOA | Detective |  |  |
 | 7/29/2021 | Portland Police Bureau | Promotion | Detective |  |  |
 | 3/5/2020 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 8/24/2019 | Portland Police Bureau | LOA | Police Off |  |  |

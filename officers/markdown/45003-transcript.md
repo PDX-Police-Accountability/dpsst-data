@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2025 | HBP4518A | Monthly Patrol Team Leadership | Passed | 0.0 | 0.50 |
 | 2/5/2025 | HBP0291A | Monthly Patrol Team Leadership | Passed | 0.0 | 1.50 |
 | 2/5/2025 | HBP3042A | Monthly Patrol Team Leadership | Passed | 0.0 | 1.50 |
 | 12/20/2024 | 24-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |

@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2025
+  course: HBP4518A
+  title: Monthly Patrol Team Leadership
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2025
   course: HBP0291A
   title: Monthly Patrol Team Leadership
