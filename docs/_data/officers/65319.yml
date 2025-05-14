@@ -35,6 +35,36 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 5/7/2025
+  course: EGY4047A
+  title: CLCC Jeopardy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/7/2025
+  course: EGY3762A
+  title: MCS Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/7/2025
+  course: EGY2773A
+  title: SAR Presentation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/7/2025
+  course: EGY1620A
+  title: Sleep Hygiene
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/7/2025
+  course: EGY0778A
+  title: Water Rescue Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/21/2025
   course: M10-23A
   title: DPSST Basic Police Course

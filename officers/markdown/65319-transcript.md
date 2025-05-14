@@ -30,6 +30,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2025 | EGY4047A | CLCC Jeopardy | Passed | 0.0 | 1.00 |
+| 5/7/2025 | EGY3762A | MCS Overview | Passed | 0.0 | 1.00 |
+| 5/7/2025 | EGY2773A | SAR Presentation | Passed | 0.0 | 1.00 |
+| 5/7/2025 | EGY1620A | Sleep Hygiene | Passed | 0.0 | 1.50 |
+| 5/7/2025 | EGY0778A | Water Rescue Refresher | Passed | 0.0 | 0.50 |
 | 4/21/2025 | M10-23A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
 | 11/4/2024 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
 | 10/24/2024 | PDP3668A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

@@ -80,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 2/10/2025
+  course: GSP2271A
+  title: Updating Agency Active Violence Response Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/10/2025
+  course: GSP1454A
+  title: Less Lethal Use During Protests
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/17/2025
   course: GSP0641A
   title: SWAT Sniper Range - Night

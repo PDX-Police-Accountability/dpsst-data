@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2025
+  course: PPP3173A
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/25/2025
   course: PPP0196A
   title: Leadership Training
@@ -4116,6 +4122,10 @@ training_records:
   score: '0.0'
   hours: '10.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/8/2025
+  expiration_date: 5/8/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
@@ -4124,10 +4134,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/15/2023
-  expiration_date: 5/15/2025
 education_records:
 - date: 8/12/1993
   degree: Bachelor Science

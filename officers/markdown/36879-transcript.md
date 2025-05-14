@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2025 | APD3133A | Railsafe, Intel and Response to Rail Incidents | Passed | 0.0 | 12.00 |
 | 4/10/2025 | UPR1186A | Adult/Child CPR/AED/First Aid | Passed | 0.0 | 4.00 |
 | 4/10/2025 | UPR4337A | Narcan Administration Certification | Passed | 0.0 | 1.00 |
 | 4/10/2025 | UPR2624A | ICAT Mental Illness Scenario Training | Passed | 0.0 | 3.00 |

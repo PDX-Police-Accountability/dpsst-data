@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2025
+  course: PDS0406A
+  title: Jail ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/1/2025
   course: PDS2727A
   title: AXON VR IDC

@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/7/2025
+  course: GSP3328A
+  title: CPTED Annual Conference
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
 - date: 12/31/2024
   course: GSP3611A
   title: Multnomah County Deflection Center (2024)

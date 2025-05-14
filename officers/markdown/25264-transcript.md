@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2025 | PDS0406A | Jail ConSim | Instructed | 0.0 | 8.00 |
 | 4/1/2025 | PDS2727A | AXON VR IDC | Passed | 0.0 | 7.00 |
 | 3/28/2025 | PDS1968A | 40mm Less Lethal | Instructed | 0.0 | 5.00 |
 | 3/25/2025 | PDS3616A | Patrol Tactics/Breaching/Searches | Instructed | 0.0 | 8.00 |

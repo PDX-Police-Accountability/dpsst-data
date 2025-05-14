@@ -40,6 +40,8 @@
 | 3/21/2025 | GSP0066A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 3/20/2025 | GSP3207A | Controlled Swarming/IP Decision Making | Passed | 0.0 | 10.00 |
 | 2/19/2025 | GSP4035A | Firearms Training/IED Familiarization | Passed | 0.0 | 10.00 |
+| 2/10/2025 | GSP2271A | Updating Agency Active Violence Response Program | Passed | 0.0 | 1.00 |
+| 2/10/2025 | GSP1454A | Less Lethal Use During Protests | Passed | 0.0 | 1.00 |
 | 1/17/2025 | GSP0641A | SWAT Sniper Range - Night | Instructed | 0.0 | 10.00 |
 | 1/16/2025 | GSP2341A | 1st Responder Response to Terrorism Acts/40 Quals | Passed | 0.0 | 10.00 |
 | 1/15/2025 | GSP2029A | Firearms | Passed | 0.0 | 10.00 |

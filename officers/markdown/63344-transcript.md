@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/9/2025 | 5/9/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
@@ -32,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2025 | VRP0132A | CPR/AED/First Aid | Passed | 0.0 | 1.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 3/10/2025 | VND2033A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
 | 11/22/2024 | VND0163A | Krav Maga Force Training IDC - 1, 2  5 | Passed | 0.0 | 40.00 |

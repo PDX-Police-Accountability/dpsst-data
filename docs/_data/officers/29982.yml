@@ -89,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2025
+  course: SVP2217A
+  title: Mental Health and Wellness - Multiple Presentors
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/3/2025
   course: SVP0941A
   title: Introduction to Firearms and Range Safety

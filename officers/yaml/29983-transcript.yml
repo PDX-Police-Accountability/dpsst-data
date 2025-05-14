@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2025
+  course: APD3133A
+  title: Railsafe, Intel and Response to Rail Incidents
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 4/29/2025
   course: APD3956A
   title: Integrating Communications, Assessment,Tactics

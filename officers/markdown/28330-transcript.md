@@ -34,9 +34,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/8/2025 | 5/8/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2025 | PPP3173A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 3/25/2025 | PPP0196A | Leadership Training | Passed | 0.0 | 6.00 |
 | 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |
 | 1/31/2025 | PPP4175A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
