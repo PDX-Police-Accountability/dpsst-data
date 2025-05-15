@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2025 | PDS1907A | Ethics | Passed | 0.0 | 1.00 |
+| 4/13/2025 | PDS1481A | Drug ID  Recognition | Passed | 0.0 | 5.00 |
+| 4/13/2025 | PDS3699A | Legal Update | Passed | 0.0 | 1.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/29/2025 | PDS3857A | Fire Drill E-Shift 1/29/2025 Inverness Jail | Passed | 0.0 | 0.50 |
 | 10/13/2024 | PDS1745A | CIT ConSims | Passed | 0.0 | 2.00 |

@@ -106,18 +106,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/27/2025
+  course: PDS2352A
+  title: WSHNA Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/13/2025
+  course: PDS1907A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2025
+  course: PDS1481A
+  title: Drug ID  Recognition
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/13/2025
+  course: PDS3699A
+  title: Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/11/2025
+  course: PDS0639A
+  title: Crisis Negotiation Team Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/21/2025
+  course: PDS1408A
+  title: Responding to Agitated Individuals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/7/2025
   course: PDS2334A
   title: January Crisis Negotiation Team Training
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 1/1/2025
+  course: PDS2880A
+  title: Supervisor Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/4/2024
+  course: PDS2299A
+  title: Sergeant Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/19/2024
   course: PDS1484A
   title: November Crisis Negotiation Team Training
@@ -166,6 +214,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/4/2024
+  course: PDS1280A
+  title: Sergeant Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/2/2024
   course: PDS3260A
   title: 40 Hour CIT

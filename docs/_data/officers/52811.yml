@@ -69,12 +69,54 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/14/2025
+  course: PDS0340A
+  title: Red Dot Handgun
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 2/6/2025
+  course: PDS3333A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/3/2025
+  course: PDS3333A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/30/2025
   course: PDS2762A
   title: February Range IDC
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 1/28/2025
+  course: PDS0115A
+  title: Red Dot Handgun
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/23/2025
+  course: PDS1408A
+  title: Responding to Agitated Individuals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/23/2025
+  course: PDS2369A
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/23/2025
+  course: PDS4462A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/7/2025
   course: PDS0232A
   title: Supervising Patrol Critical Incidents

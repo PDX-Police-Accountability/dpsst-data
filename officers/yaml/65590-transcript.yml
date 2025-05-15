@@ -15,6 +15,18 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 9/11/2024
+  agency: Out of State Employment
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 11/30/2012
+  agency: Out of State Employment
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 certification_records:
 - status_date: 9/26/2024
   certificate: Police Officer
@@ -24,10 +36,16 @@ certification_records:
   expiration_date: ''
   probation_date: 3/26/2026
 training_records:
+- date: 3/26/2026
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
 - date: 9/15/2025
   course: 25-0004
   title: DPSST Basic Police COD Self-Study
-  status: Pending
+  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 4/9/2025

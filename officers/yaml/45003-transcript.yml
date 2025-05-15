@@ -99,6 +99,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/16/2025
+  course: HBP2125A
+  title: ACAP - Airways Training Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/16/2025
+  course: HBP2742A
+  title: Evidence Collection
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 2/5/2025
   course: HBP0291A
   title: Monthly Patrol Team Leadership

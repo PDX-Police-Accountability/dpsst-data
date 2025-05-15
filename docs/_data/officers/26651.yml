@@ -87,6 +87,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 3/27/2025
+  course: PDS4502A
+  title: Report Writing
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/31/2025
   course: PDS1496A
   title: Use of Force Report Writing

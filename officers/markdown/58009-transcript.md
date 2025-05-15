@@ -25,7 +25,6 @@
 | Certification Cards | First Aid and CPR | 4/30/2025 | 4/30/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
 | Code of Ethics | Law Enforcement Signed | 12/11/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 ## Education

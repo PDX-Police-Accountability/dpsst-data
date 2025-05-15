@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2025
+  course: PDP3105A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/13/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update
@@ -5284,6 +5290,10 @@ training_records:
   score: '0.0'
   hours: '555.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/8/2025
+  expiration_date: 5/8/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

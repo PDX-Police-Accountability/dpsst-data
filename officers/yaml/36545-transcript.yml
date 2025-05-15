@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2025
+  course: HBP2357A
+  title: ACAP - Airways Training Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/23/2025
+  course: HBP1091A
+  title: Evidence Collection
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/29/2025
   course: HBP3738A
   title: EVOC, Arrest and Control

@@ -75,6 +75,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/28/2025
+  course: PDS1408A
+  title: Responding to Agitated Individuals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/27/2025
+  course: PDS2369A
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/27/2025
+  course: PDS4462A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/9/2024
   course: PDS2017A
   title: Range

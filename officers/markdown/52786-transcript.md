@@ -41,10 +41,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/16/2025 | VND1641A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 3/7/2025 | PDS2391A | Search and Seizure Training | Passed | 0.0 | 1.50 |
+| 2/28/2025 | PDS4514A | Report Writing | Passed | 0.0 | 4.00 |
 | 2/7/2025 | PDS3147A | CIT | Passed | 0.0 | 4.00 |
 | 2/7/2025 | PDS1834A | De-Escalation | Passed | 0.0 | 4.00 |
 | 2/5/2025 | PDS2435A | Confrontation Simulation | Passed | 0.0 | 3.00 |
 | 2/4/2025 | PDS4214A | PREA | Passed | 0.0 | 2.00 |
+| 2/4/2025 | PDS2731A | Range Qualification | Passed | 0.0 | 4.00 |
 | 1/18/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/18/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 1/18/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |

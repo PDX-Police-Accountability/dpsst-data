@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2025 | HBP2357A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
+| 4/23/2025 | HBP1091A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 1/29/2025 | HBP3738A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
 | 12/16/2024 | HBP2381A | Tren de Aragua Overview | Passed | 0.0 | 1.00 |
 | 12/13/2024 | HBP3429A | Tren de Aragua - Understanding the Threat | Passed | 0.0 | 4.00 |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2025 | OSH2695A | Firearms In-Service | Instructed | 0.0 | 16.00 |
 | 4/26/2025 | OSH2965A | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |
 | 4/26/2025 | OSH2999A | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |
 | 4/25/2025 | OSH2718A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |

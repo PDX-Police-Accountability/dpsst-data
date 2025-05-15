@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2025 | HBP4488A | Evidence Collection | Passed | 0.0 | 0.75 |
+| 4/2/2025 | HBP0061A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
 | 1/15/2025 | HBP2709A | EVOC,  Arrest and Control | Instructed | 0.0 | 10.00 |
 | 1/8/2025 | HBP0704A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
 | 1/8/2025 | HBP0174A | Safe Evidence Handling | Passed | 0.0 | 1.00 |

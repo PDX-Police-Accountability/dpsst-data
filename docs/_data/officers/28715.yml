@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2025
+  course: HBP2357A
+  title: ACAP - Airways Training Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/9/2025
+  course: HBP2023A
+  title: ACAP - Airways Training Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/9/2025
+  course: HBP2220A
+  title: Evidence Collection
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/12/2025
   course: HBP0980A
   title: Managing the Detective Unit

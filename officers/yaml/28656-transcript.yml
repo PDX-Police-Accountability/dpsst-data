@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2025
+  course: TGP4129A
+  title: Mark43 Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/18/2025
   course: TGP0690A
   title: First Aid/CPR

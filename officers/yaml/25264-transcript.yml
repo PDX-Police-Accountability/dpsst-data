@@ -74,8 +74,32 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 5/7/2025
+  course: PDS1827A
+  title: Jail ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/22/2025
+  course: PDS0292A
+  title: UNET Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/7/2025
+  course: PDS0292A
+  title: UNET Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/1/2025
   course: PDS2727A
+  title: AXON VR IDC
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/1/2025
+  course: PDS1233A
   title: AXON VR IDC
   status: Passed
   score: '0.0'
@@ -86,8 +110,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '5.00'
+- date: 3/28/2025
+  course: PDS2187A
+  title: 40mm Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 3/25/2025
   course: PDS3616A
+  title: Patrol Tactics/Breaching/Searches
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/25/2025
+  course: PDS3443A
   title: Patrol Tactics/Breaching/Searches
   status: Instructed
   score: '0.0'
@@ -98,8 +134,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 3/24/2025
+  course: PDS1377A
+  title: LE Con-SIMS
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/21/2025
   course: PDS4202B
+  title: Patrol Procedures / Handcuffing
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/21/2025
+  course: PDS3638A
   title: Patrol Procedures / Handcuffing
   status: Instructed
   score: '0.0'
@@ -116,18 +164,48 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '18.00'
+- date: 3/20/2025
+  course: PDS1149A
+  title: Range Training
+  status: Instructed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/13/2025
   course: PDS2114A
   title: Firearms Intro/Manipulation
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 2/27/2025
+  course: PDS2296A
+  title: Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/21/2025
   course: PDS0176B
   title: Defensive Tactics II
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 2/21/2025
+  course: PDS0744A
+  title: Defensive Tactics II
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/18/2025
+  course: PDS3333A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/14/2025
+  course: PDS0340A
+  title: Red Dot Handgun
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 2/10/2025
   course: PDS1588A
   title: Defensive Tactics
@@ -136,6 +214,12 @@ training_records:
   hours: '4.00'
 - date: 2/6/2025
   course: PDS3624B
+  title: Glock Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/6/2025
+  course: PDS0592A
   title: Glock Armorer's Course
   status: Passed
   score: '0.0'
@@ -212,6 +296,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 1/3/2025
+  course: PDS0544A
+  title: Remedial Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/13/2024
   course: PDS0272A
   title: Less Lethal Certification

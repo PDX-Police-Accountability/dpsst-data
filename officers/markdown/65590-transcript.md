@@ -13,6 +13,8 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 9/26/2024 | Portland Police Bureau | Hired | Police Off |  |  |
+| 9/11/2024 | Out of State Employment | Resigned | Police Off |  |  |
+| 11/30/2012 | Out of State Employment | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
@@ -27,7 +29,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/15/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 3/26/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/15/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 4/9/2025 | PDP4294A | 2025-1 Advanced Academy Patrol Procedures | Passed | 0.0 | 103.75 |
 | 4/6/2025 | PDP3444A | 2025-1 Advanced Academy PVO | Passed | 0.0 | 59.00 |
 | 4/1/2025 | PDP3370A | 2025-1 Advanced Academy Law | Passed | 0.0 | 27.50 |

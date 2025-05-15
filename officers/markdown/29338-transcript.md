@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/27/2025 | PDS0180A | Range | Passed | 0.0 | 2.00 |
+| 2/18/2025 | PDS3333A | Range | Passed | 0.0 | 2.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2024 | PDS3739A | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 10/18/2024 | PDS2666A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |

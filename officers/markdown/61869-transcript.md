@@ -31,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/23/2025 | REG4039A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 4/3/2025 | REG0415A | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 4/3/2025 | REG0458B | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 2/21/2025 | PDP2677A | 2025 Radar Lidar Operators Course | Passed | 0.0 | 14.00 |

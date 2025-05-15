@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/6/2025
+  course: PDP2669A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/31/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination
@@ -2155,6 +2161,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/6/2025
+  expiration_date: 5/6/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

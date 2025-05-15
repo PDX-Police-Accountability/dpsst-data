@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/6/2025 | PDS3333A | Range | Passed | 0.0 | 2.00 |
+| 1/27/2025 | PDS1408A | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
+| 1/27/2025 | PDS2369A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 1/27/2025 | PDS4462A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2024 | PDS2741A | Range | Passed | 0.0 | 2.00 |
 | 12/12/2024 | PDS1300A | Range | Passed | 0.0 | 2.00 |

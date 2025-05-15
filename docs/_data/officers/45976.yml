@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/5/2025
+  course: PDP3435A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/22/2025
   course: PDP0393A
   title: CPR/First Aid
@@ -4239,6 +4245,10 @@ training_records:
   score: '0.0'
   hours: '0.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/5/2025
+  expiration_date: 5/5/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/22/2025

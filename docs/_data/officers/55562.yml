@@ -42,8 +42,38 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2025
+  course: PDS1481A
+  title: Drug ID  Recognition
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/24/2025
+  course: PDS1907A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/24/2025
+  course: PDS3699A
+  title: Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/7/2025
+  course: PDS0292A
+  title: UNET Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/20/2025
   course: PDS4378B
+  title: Court Security
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/20/2025
+  course: PDS1620A
   title: Court Security
   status: Passed
   score: '0.0'
@@ -62,6 +92,18 @@ training_records:
   hours: '4.50'
 - date: 11/11/2024
   course: PDS0220B
+  title: WRAP Restraint
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/11/2024
+  course: PDS1892A
+  title: Court Security
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/11/2024
+  course: PDS2015A
   title: WRAP Restraint
   status: Passed
   score: '0.0'
@@ -164,6 +206,12 @@ training_records:
   hours: '12.50'
 - date: 6/11/2024
   course: PDS1080B
+  title: Law  Mental Health Conference:Psychosis
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/11/2024
+  course: PDS2980A
   title: Law  Mental Health Conference:Psychosis
   status: Passed
   score: '0.0'

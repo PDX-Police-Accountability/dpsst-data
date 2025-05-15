@@ -44,6 +44,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/7/2025 | HBP4518A | Monthly Patrol Team Leadership | Passed | 0.0 | 0.50 |
+| 4/16/2025 | HBP2125A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
+| 4/16/2025 | HBP2742A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 2/5/2025 | HBP0291A | Monthly Patrol Team Leadership | Passed | 0.0 | 1.50 |
 | 2/5/2025 | HBP3042A | Monthly Patrol Team Leadership | Passed | 0.0 | 1.50 |
 | 12/20/2024 | 24-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |

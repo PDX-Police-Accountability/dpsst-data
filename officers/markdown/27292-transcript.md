@@ -46,8 +46,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2025 | PDS2352A | WSHNA Training Conference | Passed | 0.0 | 24.00 |
+| 4/13/2025 | PDS1907A | Ethics | Passed | 0.0 | 1.00 |
+| 4/13/2025 | PDS1481A | Drug ID  Recognition | Passed | 0.0 | 5.00 |
+| 4/13/2025 | PDS3699A | Legal Update | Passed | 0.0 | 1.00 |
+| 3/11/2025 | PDS0639A | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
+| 1/21/2025 | PDS1408A | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 1/7/2025 | PDS2334A | January Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
+| 1/1/2025 | PDS2880A | Supervisor Training | Passed | 0.0 | 1.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/4/2024 | PDS2299A | Sergeant Training | Passed | 0.0 | 1.00 |
 | 11/19/2024 | PDS1484A | November Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 10/28/2024 | PDS1992A | Firearms - CNT | Passed | 0.0 | 8.00 |
 | 10/8/2024 | PDS2557A | CIT ConSims | Passed | 0.0 | 2.00 |
@@ -56,6 +64,7 @@
 | 10/3/2024 | PDS1485A | Facility Commander Training | Passed | 0.0 | 2.00 |
 | 10/1/2024 | PDS3577A | Foundations in Ethics for Corrections | Passed | 0.0 | 1.00 |
 | 9/26/2024 | PDS2374A | Leadership | Passed | 0.0 | 4.00 |
+| 9/4/2024 | PDS1280A | Sergeant Training | Passed | 0.0 | 1.00 |
 | 8/2/2024 | PDS3260A | 40 Hour CIT | Passed | 0.0 | 40.00 |
 | 7/24/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
 | 7/23/2024 | PDS2513A | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |

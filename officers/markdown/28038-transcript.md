@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/7/2025 | PDS2391A | Search and Seizure Training | Passed | 0.0 | 1.50 |
+| 2/3/2025 | PDS3333A | Range | Passed | 0.0 | 2.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/24/2024 | PDS0519A | Ethics | Passed | 0.0 | 1.00 |
 | 12/13/2024 | PDS1307A | Range | Passed | 0.0 | 2.00 |

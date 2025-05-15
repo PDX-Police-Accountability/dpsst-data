@@ -29,6 +29,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/31/2025
+  course: PDS4462A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2025
+  course: PDS2369A
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/13/2024
   course: PDS1307A
   title: Range

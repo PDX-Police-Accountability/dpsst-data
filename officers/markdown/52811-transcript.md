@@ -40,7 +40,14 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/27/2025 | PDS0180A | Range | Instructed | 0.0 | 2.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 2/14/2025 | PDS0340A | Red Dot Handgun | Instructed | 0.0 | 24.00 |
+| 2/6/2025 | PDS3333A | Range | Instructed | 0.0 | 2.00 |
+| 2/3/2025 | PDS3333A | Range | Instructed | 0.0 | 2.00 |
 | 1/30/2025 | PDS2762A | February Range IDC | Instructed | 0.0 | 4.00 |
+| 1/28/2025 | PDS0115A | Red Dot Handgun | Passed | 0.0 | 8.00 |
+| 1/23/2025 | PDS1408A | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
+| 1/23/2025 | PDS2369A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 1/23/2025 | PDS4462A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/7/2025 | PDS0232A | Supervising Patrol Critical Incidents | Passed | 0.0 | 16.00 |
 | 12/13/2024 | PDS1307A | Range | Instructed | 0.0 | 2.00 |
 | 12/13/2024 | PDS2420A | Range | Instructed | 0.0 | 2.00 |

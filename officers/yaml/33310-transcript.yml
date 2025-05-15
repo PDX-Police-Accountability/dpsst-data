@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2025
+  course: DAA0744A
+  title: Polk County Child Abuse MDT - Spring 2025 Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/12/2024
   course: MMP3036A
   title: MILO
