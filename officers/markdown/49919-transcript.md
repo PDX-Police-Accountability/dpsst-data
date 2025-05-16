@@ -42,6 +42,9 @@
 | 4/24/2025 | HBP2018A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 4/2/2025 | HBP4488A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 4/2/2025 | HBP0061A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
+| 4/2/2025 | HBP4454A | Interviewing Techniques | Passed | 0.0 | 2.00 |
+| 4/2/2025 | HBP4043A | Live Fire Range | Passed | 0.0 | 4.00 |
+| 4/2/2025 | HBP0022A | YSU Presentation | Passed | 0.0 | 0.75 |
 | 1/8/2025 | HBP0704A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
 | 1/8/2025 | HBP0981A | HUMAN TRAFFICKING | Passed | 0.0 | 3.00 |
 | 1/8/2025 | HBP0174A | Safe Evidence Handling | Passed | 0.0 | 1.00 |

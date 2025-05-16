@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2025
+  course: PDP2705A
+  title: 2025 EAP Annual Member Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/8/2025
   course: PDP1944A
   title: CPR/First Aid

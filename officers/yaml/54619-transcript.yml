@@ -67,6 +67,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/2/2025
+  course: HBP4454A
+  title: Interviewing Techniques
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/2/2025
+  course: HBP4043A
+  title: Live Fire Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/2/2025
+  course: HBP0022A
+  title: YSU Presentation
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/15/2025
   course: HBP2709A
   title: EVOC,  Arrest and Control

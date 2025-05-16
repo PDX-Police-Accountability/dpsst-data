@@ -46,7 +46,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/25/2025 | OAC2304A | Innovative Approaches to Crisis Response | Passed | 0.0 | 3.00 |
+| 4/24/2025 | OAC0714A | Principled Leadership - The Charleston 9 | Passed | 0.0 | 4.00 |
+| 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |
 | 4/23/2025 | GSP0598A | Adult and Child CPR First Aid | Passed | 0.0 | 4.00 |
+| 4/23/2025 | OAC1720A | Critical LE Lessons from Active Shooter Events | Passed | 0.0 | 3.00 |
 | 4/22/2025 | RRP0426A | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.00 |
 | 2/28/2025 | VND4101A | 2025 Case Law/Legal Updates | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND0085A | Top 10 Things to Get You Sued | Passed | 0.0 | 1.00 |

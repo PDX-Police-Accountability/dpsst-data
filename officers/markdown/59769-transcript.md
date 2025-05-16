@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2025 | HSU3590A | 40 mm Operator Course | Passed | 0.0 | 20.00 |
 | 4/13/2025 | HSU0785A | EVOC In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/13/2025 | HSU1183A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/13/2025 | HSU2990A | Crisis Communications In Service Spring 2025 | Passed | 0.0 | 2.00 |

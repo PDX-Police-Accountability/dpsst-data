@@ -34,6 +34,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/7/2025 | 5/7/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 7/17/2024 |  |
@@ -47,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2025 | HSU1436A | CPR/ First Aid | Passed | 0.0 | 4.00 |
 | 4/19/2025 | HSU0785A | EVOC In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/19/2025 | HSU4104A | TASER In Service Spring 2025 | Passed | 0.0 | 3.50 |
 | 4/19/2025 | HSU1509A | Firearms In Service Spring 2025 | Passed | 0.0 | 3.50 |

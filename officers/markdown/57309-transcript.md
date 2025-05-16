@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |
+| 4/22/2025 | OCS2400A | Use of Force and Peace Officer Holds | Passed | 0.0 | 1.00 |
 | 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 3/25/2025 | OCS0621A | Ground Offense | Passed | 0.0 | 1.00 |
 | 3/19/2025 | OCS2416A | FTO School | Passed | 0.0 | 24.00 |

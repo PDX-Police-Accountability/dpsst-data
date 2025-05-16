@@ -87,6 +87,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 4/9/2025
+  course: HBP0069A
+  title: Interviewing Techniques
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/9/2025
+  course: HBP4184A
+  title: YSU Presentation
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/12/2025
   course: HBP0980A
   title: Managing the Detective Unit

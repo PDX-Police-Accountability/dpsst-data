@@ -42,6 +42,12 @@ certification_records:
   expiration_date: 11/29/2026
   probation_date: ''
 training_records:
+- date: 5/12/2025
+  course: RSS0417A
+  title: Taser Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/3/2022
   course: MISCMAIN
   title: 2022 LE Basic 3 Year Maintenance

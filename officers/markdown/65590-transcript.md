@@ -51,6 +51,7 @@
 | 2/6/2025 | PDP1884A | AA 2025 Respond to Mental Health Facility | Passed | 0.0 | 0.25 |
 | 1/21/2025 | PDP3477A | 2025-1 Advanced Academy Ethics | Passed | 0.0 | 0.50 |
 | 1/21/2025 | PDP0623A | 2025-1 Advanced Academy Legit Proc Justice | Passed | 0.0 | 0.50 |
+| 1/21/2025 | PDP2419A | Advanced Academy Wellness - Financial | Passed | 0.0 | 1.00 |
 | 1/16/2025 | PDP3209A | AA 2025 Building Police Legit through Proc Justice | Passed | 0.0 | 0.25 |
 | 1/16/2025 | PDP3101A | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 12/24/2024 | PDP4423A | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |

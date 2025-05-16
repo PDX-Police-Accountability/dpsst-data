@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2025
+  course: HSU1436A
+  title: CPR/ First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/13/2025
   course: HSU1183A
   title: Chief's Message In Service Spring 2025
@@ -3466,6 +3472,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/7/2025
+  expiration_date: 5/7/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/26/2024

@@ -222,6 +222,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/21/2025
+  course: PDP2419A
+  title: Advanced Academy Wellness - Financial
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/16/2025
   course: PDP3209A
   title: AA 2025 Building Police Legit through Proc Justice

@@ -132,6 +132,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/28/2024
+  course: PDP1948A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/23/2024
   course: PDP0149A
   title: 2024 FTEP Policy  Procedure
@@ -149,4 +155,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/5/2024
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/28/2024
+  expiration_date: 10/28/2026
 education_records: []

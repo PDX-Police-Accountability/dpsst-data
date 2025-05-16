@@ -74,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 4/23/2025
+  course: HBP0799A
+  title: Interviewing Techniques
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/23/2025
+  course: HBP3141A
+  title: YSU Presentation
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/29/2025
   course: HBP3738A
   title: EVOC, Arrest and Control

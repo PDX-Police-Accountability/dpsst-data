@@ -57,6 +57,7 @@
 | 1/21/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 1/21/2025 | PDP0623A | 2025-1 Advanced Academy Legit Proc Justice | Passed | 0.0 | 0.50 |
 | 1/21/2025 | PDP3477A | 2025-1 Advanced Academy Ethics | Passed | 0.0 | 0.50 |
+| 1/21/2025 | PDP2419A | Advanced Academy Wellness - Financial | Passed | 0.0 | 1.00 |
 | 1/16/2025 | PDP3209A | AA 2025 Building Police Legit through Proc Justice | Passed | 0.0 | 0.25 |
 | 1/15/2025 | PDP3101A | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 1/1/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |

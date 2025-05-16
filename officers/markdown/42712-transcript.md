@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2025 | HBS1754A | InService T7 Transition Firearms Qual | Passed | 0.0 | 9.00 |
 | 12/4/2024 | HBS2402A | Hearing Conservation Video | Passed | 0.0 | 0.25 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/9/2024 | HBS4416A | InService Session #2 Firearms | Passed | 0.0 | 2.00 |

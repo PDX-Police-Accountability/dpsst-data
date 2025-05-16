@@ -43,6 +43,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/16/2025 | HBP2125A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
 | 4/16/2025 | HBP2742A | Evidence Collection | Passed | 0.0 | 0.75 |
+| 4/16/2025 | HBP1276A | Live Fire Range | Passed | 0.0 | 4.00 |
+| 4/16/2025 | HBP0340A | Interviewing Techniques | Passed | 0.0 | 2.00 |
+| 4/16/2025 | HBP0242A | YSU Presentation | Passed | 0.0 | 0.75 |
 | 4/9/2025 | BVP3619B | 2025 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 1/8/2025 | HBP0704A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
 | 1/8/2025 | HBP0981A | HUMAN TRAFFICKING | Passed | 0.0 | 3.00 |

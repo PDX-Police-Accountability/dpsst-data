@@ -131,6 +131,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2025
+  course: OAC0714A
+  title: Principled Leadership - The Charleston 9
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/24/2025
+  course: OAC3939A
+  title: Chaos  Trama of Policing, Recovery  Healing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/23/2025
+  course: OAC1720A
+  title: Critical LE Lessons from Active Shooter Events
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/23/2025
+  course: OAC4330A
+  title: 'Foolproof: ''Simple Strategies to Retain People'''
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/22/2025
   course: RRP0426A
   title: OACP Annual Conference Board Meeting

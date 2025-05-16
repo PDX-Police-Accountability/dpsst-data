@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2025
+  course: PDP2705A
+  title: 2025 EAP Annual Member Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/29/2025
   course: PDP0829A
   title: CPR/First Aid
@@ -3845,10 +3851,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/16/2023
-  expiration_date: 5/16/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

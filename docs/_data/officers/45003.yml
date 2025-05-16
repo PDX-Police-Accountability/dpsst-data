@@ -111,6 +111,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 4/16/2025
+  course: HBP1276A
+  title: Live Fire Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/16/2025
+  course: HBP0340A
+  title: Interviewing Techniques
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/16/2025
+  course: HBP0242A
+  title: YSU Presentation
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 2/5/2025
   course: HBP0291A
   title: Monthly Patrol Team Leadership

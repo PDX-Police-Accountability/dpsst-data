@@ -39,6 +39,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2025 | OAC0714A | Principled Leadership - The Charleston 9 | Passed | 0.0 | 4.00 |
+| 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |
+| 4/23/2025 | OAC1720A | Critical LE Lessons from Active Shooter Events | Passed | 0.0 | 3.00 |
+| 4/23/2025 | OAC4330A | Foolproof: 'Simple Strategies to Retain People' | Passed | 0.0 | 3.00 |
+| 4/22/2025 | OAC2262A | Background Investigations  Misconduct | Passed | 0.0 | 1.00 |
+| 4/22/2025 | OAC1588A | So, You Wanted to Be a Cop | Passed | 0.0 | 1.00 |
+| 4/22/2025 | OAC2881A | Relaxing Transition to Retirement or Tsunami? | Passed | 0.0 | 1.00 |
 | 4/16/2025 | SDP1314A | Handgun Qualification | Passed | 0.0 | 2.00 |
 | 4/9/2025 | SDP2569A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 4/1/2025 | SDP2225A | Redkite Leadership DISC Management 1 of 4 | Passed | 0.0 | 4.50 |

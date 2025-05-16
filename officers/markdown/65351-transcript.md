@@ -57,6 +57,7 @@
 | 1/29/2025 | PDP3145A | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
 | 1/21/2025 | PDP3477A | 2025-1 Advanced Academy Ethics | Passed | 0.0 | 0.50 |
 | 1/21/2025 | PDP0623A | 2025-1 Advanced Academy Legit Proc Justice | Passed | 0.0 | 0.50 |
+| 1/21/2025 | PDP2419A | Advanced Academy Wellness - Financial | Passed | 0.0 | 1.00 |
 | 1/16/2025 | PDP3209A | AA 2025 Building Police Legit through Proc Justice | Passed | 0.0 | 0.25 |
 | 1/14/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/14/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

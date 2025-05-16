@@ -49,6 +49,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2025 | OAC0714A | Principled Leadership - The Charleston 9 | Passed | 0.0 | 4.00 |
+| 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |
+| 4/23/2025 | OAC1720A | Critical LE Lessons from Active Shooter Events | Passed | 0.0 | 3.00 |
+| 4/23/2025 | OAC4330A | Foolproof: 'Simple Strategies to Retain People' | Passed | 0.0 | 3.00 |
 | 4/22/2025 | RRP0426A | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.00 |
 | 4/22/2025 | RRP3586A | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.00 |
 | 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |

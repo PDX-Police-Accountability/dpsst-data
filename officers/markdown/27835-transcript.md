@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2025 | HSU3590A | 40 mm Operator Course | Passed | 0.0 | 20.00 |
 | 4/19/2025 | HSU0785A | EVOC In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/19/2025 | HSU4104A | TASER In Service Spring 2025 | Passed | 0.0 | 3.50 |
 | 4/19/2025 | HSU1509A | Firearms In Service Spring 2025 | Passed | 0.0 | 3.50 |
