@@ -50,12 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2025
+  course: PDP2846A
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/6/2025
   course: PDP2669A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/30/2025
+  course: PDP3804A
+  title: 2025 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/25/2025
   course: PDP3436A
   title: 2025 SERT Training - SCENARIO
@@ -7749,10 +7761,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/3/2023
-  expiration_date: 5/3/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/5/2002

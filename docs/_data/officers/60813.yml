@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/9/2025
+  course: VND2991A
+  title: OSMB Marine Law Enforcement Academy
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 2/25/2025
   course: OSH2822
   title: Chainsaw Operator

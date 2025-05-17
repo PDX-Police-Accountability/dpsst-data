@@ -26,13 +26,13 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/9/2025 | 5/9/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 1/13/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 6/4/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/8/2018 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 4/3/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2025 | HBN3686A | Adult and Pediatric First Aid/CPR | Passed | 0.0 | 6.00 |
 | 5/1/2025 | BNN0229A | Scenarios | Passed | 0.0 | 3.00 |
 | 4/30/2025 | BNN3526A | Gender Responsive Conference | Passed | 0.0 | 7.00 |
 | 4/29/2025 | BNN3256A | Policy and Procedure, Lived Experience Panel | Passed | 0.0 | 3.00 |

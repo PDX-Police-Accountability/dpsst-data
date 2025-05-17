@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2025 | VND2991A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 72.00 |
 | 2/25/2025 | OSH2822 | Chainsaw Operator | Passed | 0.0 | 4.00 |
 | 2/13/2025 | OSH4332A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 12/19/2024 | OSH2372A | 3rd Trimester Firearms | Instructed | 0.0 | 4.00 |

@@ -89,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/14/2025
+  course: SYP1991A
+  title: Leadership - Marion Co
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 5/7/2025
   course: SVP2217A
   title: Mental Health and Wellness - Multiple Presentors

@@ -1601,10 +1601,6 @@ attribute_records:
   value: Signed
   effective_date: 8/14/2016
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/10/2013
-  expiration_date: 5/10/2025
 education_records:
 - date: 5/17/2014
   degree: Bachelor Arts

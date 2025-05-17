@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/14/2025 | SYP1991A | Leadership - Marion Co | Passed | 0.0 | 1.25 |
 | 5/7/2025 | SVP2217A | Mental Health and Wellness - Multiple Presentors | Passed | 0.0 | 4.00 |
 | 5/3/2025 | SVP0941A | Introduction to Firearms and Range Safety | Instructed | 0.0 | 2.50 |
 | 4/25/2025 | SVP4274A | FBI Responding Bomb Threats  Swatting Hoax | Passed | 0.0 | 2.00 |
