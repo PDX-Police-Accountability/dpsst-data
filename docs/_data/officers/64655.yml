@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/13/2025
+  course: PDP3583B
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/7/2025
   course: PDP1534A
   title: CPR/First Aid
@@ -619,6 +625,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/13/2025
+  expiration_date: 5/13/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/7/2025

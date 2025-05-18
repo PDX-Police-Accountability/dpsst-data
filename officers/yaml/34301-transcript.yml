@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2025
+  course: TRN2232B
+  title: PREA Professional Respectful CommuNICation v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/20/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

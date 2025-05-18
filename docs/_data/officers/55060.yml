@@ -38,12 +38,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/14/2025
+  course: PDP0891B
+  title: 2025 EDU (MEDU) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/7/2025
+  course: PDP0000B
+  title: 2025 EDU (MEDU) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/3/2025
   course: PDP1579A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/30/2025
+  course: PDP2984B
+  title: 2025 EDU (MEDU) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/16/2025
   course: PDP3486A
   title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng

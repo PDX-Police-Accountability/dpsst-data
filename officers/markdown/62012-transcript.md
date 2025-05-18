@@ -28,6 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 9/6/2019 | Bachelor Science | Oregon State University | Sociology | 147.0 |
+| 9/15/2016 | No Degree | Portland Community College |  | 34.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

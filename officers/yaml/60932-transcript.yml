@@ -30,6 +30,12 @@ certification_records:
   expiration_date: 10/5/2026
   probation_date: ''
 training_records:
+- date: 5/13/2025
+  course: PDP3583B
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/5/2023
   course: PDP0942A
   title: 2023 Training PS3 Support Specialist Coach School
@@ -619,6 +625,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/13/2025
+  expiration_date: 5/13/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/9/2021

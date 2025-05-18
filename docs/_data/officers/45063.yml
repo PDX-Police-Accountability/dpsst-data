@@ -50,6 +50,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/10/2025
+  course: PDP0279B
+  title: Red Door Project The Evolve Mindset Workshop
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 4/20/2025
   course: PDP4220A
   title: CPR/First Aid

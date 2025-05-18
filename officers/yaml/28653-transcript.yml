@@ -89,18 +89,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 3/6/2025
+  course: F1542699
+  title: Leadership, Management, Supervision
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/6/2025
+  course: F1528930
+  title: 'Teamwork: Going from Good to Great'
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/26/2025
   course: PDA2265
   title: Use of Force update training
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/19/2025
+  course: F1542220
+  title: LE, Immigration  Sanctuary
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/14/2025
+  course: F1519598
+  title: Navigating Leadership in Critical Times
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/6/2025
   course: PDA2369
   title: The Ethics and Practice of Media Engagement
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/30/2024
+  course: F1502578
+  title: Community Policing Defined
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/24/2024
+  course: F1524929
+  title: Managing Mass Demonstrations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/20/2024
   course: F1544309
   title: 'Equity: Nervous System Basics'
@@ -113,27 +149,75 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/17/2024
+  course: F1527932
+  title: Use of Drones by Public Safety Agency
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/11/2024
+  course: F1508602
+  title: Cybersecurity for LE Executives
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 12/9/2024
   course: F1544685
   title: 'Equity: How to Regulate Nerv. Sys.'
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/9/2024
+  course: F1512408
+  title: Intelligence Analyst Management
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2024
+  course: F1515186
+  title: Navigating Challenging Times
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/2/2024
   course: PDA2552A
   title: Basic Handgun Skills  Qualification
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 11/27/2024
+  course: F1535173
+  title: Role of Leadership in Achieving
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/26/2024
   course: F1531008
   title: 'Equity: Gratitude and Mental Health'
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/21/2024
+  course: F1523680
+  title: From Tactical to Strategic
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/20/2024
   course: F1526336
   title: Shutting Down America's Largest
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2024
+  course: F1512127
+  title: Resilience Across Dimensions
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/18/2024
+  course: F1529479
+  title: The Resilient Leader
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -155,6 +239,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/30/2024
+  course: F1513312
+  title: Leading in Challenging Times
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/30/2024
+  course: F1504680
+  title: Proactive Performance Management
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/30/2024
+  course: F1501260
+  title: Change Resisitance Management
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/17/2024
   course: F1511344
   title: Officer Facing 48 Years
@@ -191,6 +293,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/18/2024
+  course: F1501721
+  title: Leading in Times of Crisis
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/17/2024
+  course: F1541974
+  title: The New Leadership Playbook
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/17/2024
+  course: F1507289
+  title: 'Followership: Cornerstone of Effect'
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/13/2024
   course: F1504374
   title: Threat Assessment Training
@@ -251,6 +371,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/1/2024
+  course: F1534482
+  title: Strengtening Resiliency
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 8/26/2024
   course: 24-0028
   title: DPSST Middle Management F22 Equivalency

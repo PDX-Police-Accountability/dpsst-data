@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/10/2025
+  course: PDP0279B
+  title: Red Door Project The Evolve Mindset Workshop
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 5/8/2025
   course: PDP3105A
   title: CPR/First Aid

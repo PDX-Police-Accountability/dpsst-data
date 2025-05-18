@@ -41,23 +41,43 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/16/2025 | PDN1695B | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
+| 3/6/2025 | F1542699 | Leadership, Management, Supervision | Passed | 0.0 | 4.00 |
+| 3/6/2025 | F1528930 | Teamwork: Going from Good to Great | Passed | 0.0 | 16.00 |
 | 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 2.00 |
+| 2/19/2025 | F1542220 | LE, Immigration  Sanctuary | Passed | 0.0 | 1.50 |
+| 2/14/2025 | F1519598 | Navigating Leadership in Critical Times | Passed | 0.0 | 16.00 |
 | 2/6/2025 | PDA2369 | The Ethics and Practice of Media Engagement | Passed | 0.0 | 1.00 |
+| 12/30/2024 | F1502578 | Community Policing Defined | Passed | 0.0 | 4.00 |
+| 12/24/2024 | F1524929 | Managing Mass Demonstrations | Passed | 0.0 | 4.00 |
 | 12/20/2024 | F1544309 | Equity: Nervous System Basics | Passed | 0.0 | 0.25 |
 | 12/20/2024 | F1538594 | Equity: Parasympathetic Activation | Passed | 0.0 | 0.25 |
+| 12/17/2024 | F1527932 | Use of Drones by Public Safety Agency | Passed | 0.0 | 2.00 |
+| 12/11/2024 | F1508602 | Cybersecurity for LE Executives | Passed | 0.0 | 2.50 |
 | 12/9/2024 | F1544685 | Equity: How to Regulate Nerv. Sys. | Passed | 0.0 | 0.25 |
+| 12/9/2024 | F1512408 | Intelligence Analyst Management | Passed | 0.0 | 1.00 |
+| 12/3/2024 | F1515186 | Navigating Challenging Times | Passed | 0.0 | 1.00 |
 | 12/2/2024 | PDA2552A | Basic Handgun Skills  Qualification | Passed | 0.0 | 5.00 |
+| 11/27/2024 | F1535173 | Role of Leadership in Achieving | Passed | 0.0 | 16.00 |
 | 11/26/2024 | F1531008 | Equity: Gratitude and Mental Health | Passed | 0.0 | 0.25 |
+| 11/21/2024 | F1523680 | From Tactical to Strategic | Passed | 0.0 | 1.00 |
 | 11/20/2024 | F1526336 | Shutting Down America's Largest | Passed | 0.0 | 1.00 |
+| 11/20/2024 | F1512127 | Resilience Across Dimensions | Passed | 0.0 | 2.50 |
+| 11/18/2024 | F1529479 | The Resilient Leader | Passed | 0.0 | 1.00 |
 | 11/8/2024 | PDA3796A | Use of Force Policy Review | Passed | 0.0 | 1.00 |
 | 11/1/2024 | F1504048 | Threat Management: Prosecution | Passed | 0.0 | 1.00 |
 | 11/1/2024 | F1535677 | Workplace Violence Prevention | Passed | 0.0 | 1.00 |
+| 10/30/2024 | F1513312 | Leading in Challenging Times | Passed | 0.0 | 1.25 |
+| 10/30/2024 | F1504680 | Proactive Performance Management | Passed | 0.0 | 1.25 |
+| 10/30/2024 | F1501260 | Change Resisitance Management | Passed | 0.0 | 1.25 |
 | 10/17/2024 | F1511344 | Officer Facing 48 Years | Passed | 0.0 | 2.00 |
 | 10/16/2024 | F1540619 | Emotional Intel. Inclusive Work | Passed | 0.0 | 0.25 |
 | 10/16/2024 | F1537734 | Workplace Wellness | Passed | 0.0 | 0.25 |
 | 9/24/2024 | F1516553 | Security Incident Report Writing | Passed | 0.0 | 0.25 |
 | 9/23/2024 | F1525230 | Protecting the Public During Election | Passed | 0.0 | 1.00 |
 | 9/18/2024 | F1513818 | Effective, Responsible AI Use in LE | Passed | 0.0 | 1.00 |
+| 9/18/2024 | F1501721 | Leading in Times of Crisis | Passed | 0.0 | 10.00 |
+| 9/17/2024 | F1541974 | The New Leadership Playbook | Passed | 0.0 | 0.75 |
+| 9/17/2024 | F1507289 | Followership: Cornerstone of Effect | Passed | 0.0 | 16.00 |
 | 9/13/2024 | F1504374 | Threat Assessment Training | Passed | 0.0 | 4.00 |
 | 9/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/4/2024 | F1529053 | Collecting, Safeguarding and Dispo. | Passed | 0.0 | 0.25 |
@@ -68,6 +88,7 @@
 | 9/4/2024 | F1510589 | Equity: The 90 Secong Life Cycle | Passed | 0.0 | 0.25 |
 | 9/4/2024 | F1529611 | Equity: Using the Wellness Room | Passed | 0.0 | 0.25 |
 | 9/4/2024 | F1533279 | Equity: Welcoming a New Member | Passed | 0.0 | 0.25 |
+| 9/1/2024 | F1534482 | Strengtening Resiliency | Passed | 0.0 | 1.25 |
 | 8/26/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 8/21/2024 | F1533104 | Finding Financial Balace in Retirement | Passed | 0.0 | 1.00 |
 | 8/20/2024 | F1520157 | Contemporary Approaches | Passed | 0.0 | 4.00 |

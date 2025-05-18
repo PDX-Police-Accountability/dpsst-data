@@ -107,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 3/6/2025
+  course: PDP1585B
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Instructed
+  score: '0.0'
+  hours: '23.50'
 - date: 3/5/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

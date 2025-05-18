@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/13/2025
+  course: PDP3583B
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/3/2025
   course: VND2498A
   title: OEDI Annual Session
@@ -4789,6 +4795,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/6/2027
   expiration_date: 5/6/2027
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/13/2025
+  expiration_date: 5/13/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

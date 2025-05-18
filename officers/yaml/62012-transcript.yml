@@ -1485,4 +1485,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 8/2/2021
   expiration_date: ''
-education_records: []
+education_records:
+- date: 9/6/2019
+  degree: Bachelor Science
+  school: Oregon State University
+  major: Sociology
+  hours: '147.0'
+- date: 9/15/2016
+  degree: No Degree
+  school: Portland Community College
+  major: ''
+  hours: '34.0'

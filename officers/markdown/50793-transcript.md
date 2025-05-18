@@ -37,6 +37,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/8/2025 | PDP3105A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/8/2025 | PDP2799B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
+| 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 4/23/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 4/9/2025 | PDP2033A | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 3/20/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/19/2025 | PDP2959A | K-9 Weekly Training | Passed | 0.0 | 4.50 |

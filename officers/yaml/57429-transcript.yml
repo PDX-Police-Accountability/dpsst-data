@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/1/2025
+  course: PDP3483B
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/31/2025
   course: PDP1729A
   title: CPR/First Aid
@@ -3026,6 +3032,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/1/2025
+  expiration_date: 4/1/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/31/2025

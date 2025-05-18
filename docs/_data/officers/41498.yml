@@ -70,6 +70,12 @@ certification_records:
   expiration_date: 6/7/2025
   probation_date: ''
 training_records:
+- date: 3/6/2025
+  course: PDP1585B
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Instructed
+  score: '0.0'
+  hours: '23.50'
 - date: 2/6/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update

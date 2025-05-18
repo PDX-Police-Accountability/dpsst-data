@@ -33,7 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2025 | PDP2799B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
+| 4/23/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 4/9/2025 | PDP2033A | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 4/2/2025 | PDP3659A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 3/27/2025 | PDP3998A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

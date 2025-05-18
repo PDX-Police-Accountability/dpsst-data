@@ -75,8 +75,8 @@ training_records:
   score: '0.0'
   hours: '0.00'
 - date: 4/30/2025
-  course: "-- 3721A"
-  title: 2025 CID in-service - Group 1
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '16.00'

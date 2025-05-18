@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/10/2025 | PDP0279B | Red Door Project The Evolve Mindset Workshop | Passed | 0.0 | 12.00 |
 | 4/25/2025 | PDP4270A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/13/2025 | PDP4334A | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |

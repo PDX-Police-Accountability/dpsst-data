@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/6/2025
+  course: PDP1585B
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 2/21/2025
   course: OCS2608A
   title: FBI LEEDA - SLI

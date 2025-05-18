@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/10/2025 | PDP0279B | Red Door Project The Evolve Mindset Workshop | Passed | 0.0 | 12.00 |
 | 4/7/2025 | PDP3351A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/8/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/28/2025 | PDP2763A | NTOA Public Order Basic Command Cert | Passed | 0.0 | 40.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2025 | TRN2232B | PREA Professional Respectful CommuNICation v2024 | Passed | 0.0 | 1.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/20/2024 | VND4035A | DOC - FS - Force Skills Training IDC v 2023 | Passed | 0.0 | 40.00 |
 | 11/6/2024 | VND3579A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

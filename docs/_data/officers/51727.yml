@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/6/2025
+  course: PDP1585B
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 1/31/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap

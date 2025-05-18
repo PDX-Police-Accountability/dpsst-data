@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/6/2025 | PDP1585B | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Instructed | 0.0 | 23.50 |
 | 6/14/2024 | CVS1193A | USFA 0305 TYPE 3 ALL HAZARD INCIDENT MGT TEAM | Passed | 0.0 | 40.00 |
 | 12/1/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/1/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |
