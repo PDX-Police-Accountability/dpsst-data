@@ -44,8 +44,10 @@
 | 4/29/2025 | BNN0474A | Safety Compass/Oregon Trauma Informed Care | Passed | 0.0 | 4.00 |
 | 3/26/2025 | HBN0638B | DTs  OC Spray Re-certification | Passed | 0.0 | 8.00 |
 | 3/18/2025 | HBN0991B | March 2025 - Team Defensive Tactics | Passed | 0.0 | 1.00 |
+| 3/18/2025 | HBN3326B | March 25 Team Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/5/2025 | HBN1066A | First Aid/CPR/AED | Passed | 0.0 | 6.00 |
 | 3/3/2025 | TRN4564A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
+| 1/21/2025 | HBN3314B | Handcuffing Escort Holds | Passed | 0.0 | 1.00 |
 | 12/18/2024 | HBN1070A | Extremism in Oregon: Roots and Responses | Passed | 0.0 | 2.00 |
 | 11/14/2024 | HBN2855A | Search and Seizure - Legal and Safe | Passed | 0.0 | 8.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
