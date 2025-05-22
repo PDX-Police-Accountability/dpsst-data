@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/9/2025
+  course: PDP3197B
+  title: 2025 OR Police Canine Association Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/24/2025
   course: PDP0221A
   title: 2025 Sworn In-Service PVO Stop Stick Intro Video

@@ -535,8 +535,8 @@ training_records:
   score: '0.0'
   hours: '16.00'
 - date: 8/9/2024
-  course: REG0287A
-  title: INTOX 8000 (Hours inlcuded in Basic)
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.00'

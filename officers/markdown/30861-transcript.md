@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2025 | BNS3678B | Trauma informed care | Passed | 0.0 | 0.75 |
 | 4/9/2025 | BNS0903A | ARCON/Firearms | Passed | 0.0 | 4.00 |
 | 3/27/2025 | BNS1693A | Officer Involved Shooting Investigations | Passed | 0.0 | 1.00 |
 | 3/2/2025 | BNS4138A | Welcome to the Patrol Division Leadership Team | Passed | 0.0 | 1.50 |

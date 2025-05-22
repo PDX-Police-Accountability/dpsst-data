@@ -31,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2025 | BNS3570B | K9 Case law update and bite work | Passed | 0.0 | 2.00 |
+| 5/12/2025 | BNS2982B | Expandable Baton | Passed | 0.0 | 2.00 |
 | 4/4/2025 | PDP3756A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/16/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 3/16/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |

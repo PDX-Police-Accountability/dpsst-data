@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/9/2025
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 7/27/2017
   agency: Portland Police Bureau
   action: Hired
@@ -49,42 +55,21 @@ certification_records:
 - status_date: 9/11/2017
   certificate: Police Officer
   level: Advanced
-  status: Granted
-  certificate_date: 9/11/2017
-  expiration_date: ''
-  probation_date: ''
-- status_date: 9/11/2017
-  certificate: Police Officer
-  level: Basic
-  status: Granted
-  certificate_date: 9/11/2017
-  expiration_date: ''
-  probation_date: ''
-- status_date: 9/11/2017
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 9/11/2017
-  expiration_date: ''
-  probation_date: ''
-- status_date: 12/11/2015
-  certificate: Police Officer
-  level: Advanced
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 4/7/2010
   expiration_date: ''
   probation_date: ''
-- status_date: 12/11/2015
+- status_date: 9/11/2017
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 8/17/2000
   expiration_date: ''
   probation_date: ''
-- status_date: 12/11/2015
+- status_date: 9/11/2017
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 4/7/2010
   expiration_date: ''
   probation_date: ''

@@ -3,12 +3,18 @@ header_record:
   name: Powell, Heather C.
   dpsst_identifier: '33027'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Criminalist
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/14/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Criminalst
+  classification: ''
+  assignment: ''
 - date: 7/31/2003
   agency: Portland Police Bureau
   action: Promotion
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 1/11/2011
-  expiration_date: ''
+  expiration_date: 8/14/2025
   probation_date: ''
 - status_date: 1/11/2011
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 1/11/2011
-  expiration_date: ''
+  expiration_date: 8/14/2025
   probation_date: ''
 - status_date: 8/4/1997
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 8/4/1997
-  expiration_date: ''
+  expiration_date: 8/14/2025
   probation_date: ''
 training_records:
 - date: 4/8/2025

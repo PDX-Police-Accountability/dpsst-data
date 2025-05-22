@@ -104,6 +104,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/12/2025
+  course: BNS3678B
+  title: Trauma informed care
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/9/2025
   course: BNS0903A
   title: ARCON/Firearms

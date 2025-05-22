@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/16/2025 | 5/16/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
@@ -42,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/10/2025 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 5/16/2025 | PDP3164B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/9/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDP1585B | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 23.50 |
 | 2/21/2025 | OCS2608A | FBI LEEDA - SLI | Passed | 0.0 | 36.00 |

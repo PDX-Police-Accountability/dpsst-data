@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/9/2025 | Portland Police Bureau | LOA | Detective |  |  |
 | 7/27/2017 | Portland Police Bureau | Hired | Detective |  |  |
 | 9/11/2015 | Portland Police Bureau | Resigned | Detective |  |  |
 | 1/25/2007 | Portland Police Bureau | Promotion | Detective |  |  |
@@ -21,12 +22,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/11/2017 | Police Officer | Advanced | Granted | 9/11/2017 |  |  |
-| 9/11/2017 | Police Officer | Basic | Granted | 9/11/2017 |  |  |
-| 9/11/2017 | Police Officer | Intermediate | Granted | 9/11/2017 |  |  |
-| 12/11/2015 | Police Officer | Advanced | Lapsed | 4/7/2010 |  |  |
-| 12/11/2015 | Police Officer | Basic | Lapsed | 8/17/2000 |  |  |
-| 12/11/2015 | Police Officer | Intermediate | Lapsed | 4/7/2010 |  |  |
+| 9/11/2017 | Police Officer | Advanced | Reactivatd | 4/7/2010 |  |  |
+| 9/11/2017 | Police Officer | Basic | Reactivatd | 8/17/2000 |  |  |
+| 9/11/2017 | Police Officer | Intermediate | Reactivatd | 4/7/2010 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

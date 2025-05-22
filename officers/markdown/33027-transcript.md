@@ -4,7 +4,7 @@
 | name | Powell, Heather C. |
 | dpsst_identifier | 33027 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Criminalist |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/14/2025 | Portland Police Bureau | Retired | Criminalst |  |  |
 | 7/31/2003 | Portland Police Bureau | Promotion | Criminalst |  |  |
 | 10/3/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/11/2011 | Police Officer | Advanced | Granted | 1/11/2011 |  |  |
-| 1/11/2011 | Police Officer | Intermediate | Granted | 1/11/2011 |  |  |
-| 8/4/1997 | Police Officer | Basic | Granted | 8/4/1997 |  |  |
+| 1/11/2011 | Police Officer | Advanced | Granted | 1/11/2011 | 8/14/2025 |  |
+| 1/11/2011 | Police Officer | Intermediate | Granted | 1/11/2011 | 8/14/2025 |  |
+| 8/4/1997 | Police Officer | Basic | Granted | 8/4/1997 | 8/14/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

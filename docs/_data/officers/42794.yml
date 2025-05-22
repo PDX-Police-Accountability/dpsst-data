@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2025
+  course: OCS1720B
+  title: Feb, March, April 2025 Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/28/2025
   course: OCS1650B
   title: April 2025 Monthly Firearms Annual Qual
