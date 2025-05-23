@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2025
+  course: PDP2020A
+  title: 2025 Satellite AR-15 Instructor Course
+  status: Instructed
+  score: '0.0'
+  hours: '36.00'
 - date: 4/1/2025
   course: PDP3483B
   title: CPR/First Aid

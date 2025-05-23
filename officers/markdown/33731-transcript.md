@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2025 | PDN2640A | Confrontational Simulation-Legal Issues | Passed | 0.0 | 2.00 |
 | 4/29/2025 | PDN4012A | Report Writing  Hearings Unit Procedure | Passed | 0.0 | 2.00 |
 | 4/24/2025 | VND1213A | Board Updates and Conversation | Passed | 0.0 | 1.00 |
 | 4/22/2025 | PDN2754A | Defensive Tactics-Pre-Attack Skills | Passed | 0.0 | 1.50 |

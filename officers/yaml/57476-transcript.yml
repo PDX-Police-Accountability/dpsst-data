@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2025
+  course: PDP2020A
+  title: 2025 Satellite AR-15 Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '45.00'
+- date: 5/6/2025
+  course: PDP4289A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/21/2025
   course: PDP2168B
   title: FETI Practical Application of FETI
@@ -3111,6 +3123,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/6/2025
+  expiration_date: 5/6/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

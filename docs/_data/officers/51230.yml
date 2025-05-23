@@ -6003,4 +6003,8 @@ attribute_records:
   value: Signed
   effective_date: 2/3/2011
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 5/21/2025
 education_records: []

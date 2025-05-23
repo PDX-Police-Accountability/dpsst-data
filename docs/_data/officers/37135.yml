@@ -86,8 +86,20 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/19/2025
+  course: PDP3192A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/25/2025
   course: OSH2911A
+  title: VIN Identification Basics 2025
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/25/2025
+  course: PDP1674A
   title: VIN Identification Basics 2025
   status: Passed
   score: '0.0'
@@ -4575,6 +4587,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/19/2025
+  expiration_date: 5/19/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

@@ -105,6 +105,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2025
+  course: PDP2868A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/7/2025
   course: PDP2799B
   title: 2025 K-9 Weekly Training
@@ -4660,6 +4666,10 @@ training_records:
   score: '0.0'
   hours: '200.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/8/2025
+  expiration_date: 5/8/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

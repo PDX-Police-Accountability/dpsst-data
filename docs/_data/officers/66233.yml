@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 5/7/2025
+  course: PDP0261A
+  title: 2025 FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 attribute_records: []
 education_records: []

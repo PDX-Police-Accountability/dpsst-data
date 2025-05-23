@@ -76,6 +76,8 @@
 | 1/25/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
 | 1/24/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
 | 1/24/2025 | PDP2358A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/22/2025 | PDP0695A | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
+| 1/21/2025 | PDP0695A | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 1/20/2025 | PDP0633A | IS-700 Intro to National Incident Managment System | Passed | 0.0 | 4.00 |
 | 1/15/2025 | PDP0956A | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 1/14/2025 | PDP1375A | CPR/First Aid | Passed | 0.0 | 2.50 |

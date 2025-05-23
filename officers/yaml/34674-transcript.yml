@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 3/16/2025
+  course: PDP3792A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/15/2025
   course: PDP1113A
   title: 2024-5 Naloxone Adm Guidelines
@@ -4695,6 +4701,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/16/2025
+  expiration_date: 3/16/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/15/2025

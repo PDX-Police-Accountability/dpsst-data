@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2025
+  course: PDP0261A
+  title: 2025 FTEP Policy  Procedure
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/22/2025
   course: PDP0241A
   title: CPR/First Aid

@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2025 | SVP4319A | Recognize Your Own Bias | Passed | 0.0 | 0.25 |
+| 5/20/2025 | SVP2006A | Harassment: Ensuring a Respectful Workplace | Passed | 0.0 | 0.25 |
 | 5/14/2025 | SYP1991A | Leadership - Marion Co | Passed | 0.0 | 1.25 |
 | 5/7/2025 | SVP2217A | Mental Health and Wellness - Multiple Presentors | Passed | 0.0 | 4.00 |
 | 5/3/2025 | SVP0941A | Introduction to Firearms and Range Safety | Instructed | 0.0 | 2.50 |

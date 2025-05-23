@@ -89,6 +89,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2025
+  course: SVP4319A
+  title: Recognize Your Own Bias
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/20/2025
+  course: SVP2006A
+  title: 'Harassment: Ensuring a Respectful Workplace'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/14/2025
   course: SYP1991A
   title: Leadership - Marion Co

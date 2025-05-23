@@ -28,3 +28,4 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/19/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 5/7/2025 | PDP0261A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |

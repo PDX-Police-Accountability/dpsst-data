@@ -317,6 +317,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 8/24/2023
+  course: REG3720A
+  title: SFST- DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/20/2023
   course: REG2860A
   title: Intox 8000 (Hours Included in Basic)
