@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/21/2025
+  course: PDS3359A
+  title: Evidence Searching
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/2/2025
+  course: PDS1061A
+  title: Underwater Surveying of Vehicles
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/18/2025
   course: PDS1291A
   title: Search Patterns

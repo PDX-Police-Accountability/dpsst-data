@@ -4004,6 +4004,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/1/2006
+  course: GSP1751A
+  title: FEMA ICS-200
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/16/2006
   course: 06-0217
   title: Firearms

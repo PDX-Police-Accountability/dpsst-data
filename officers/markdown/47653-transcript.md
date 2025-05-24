@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2025 | PDP4322A | 2025 Body Worn Camera Training | Instructed | 0.0 | 2.00 |
 | 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
 | 4/27/2025 | PDP2408A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/7/2025 | PDP2858B | Post Basic CEW | Instructed | 0.0 | 9.00 |

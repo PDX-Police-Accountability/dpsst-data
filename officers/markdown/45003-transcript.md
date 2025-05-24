@@ -49,6 +49,7 @@
 | 4/16/2025 | HBP1276A | Live Fire Range | Passed | 0.0 | 4.00 |
 | 4/16/2025 | HBP0340A | Interviewing Techniques | Passed | 0.0 | 2.00 |
 | 4/16/2025 | HBP0242A | YSU Presentation | Passed | 0.0 | 0.75 |
+| 3/31/2025 | HBP1073A | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 2/5/2025 | HBP0291A | Monthly Patrol Team Leadership | Passed | 0.0 | 1.50 |
 | 2/5/2025 | HBP3042A | Monthly Patrol Team Leadership | Passed | 0.0 | 1.50 |
 | 12/20/2024 | 24-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |

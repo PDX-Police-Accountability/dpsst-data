@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/20/2025 | PDP4322A | 2025 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 4/9/2025 | PDP3190A | FTEP Orientation | Passed | 0.0 | 5.00 |
 | 4/7/2025 | PDP2858B | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 4/1/2025 | PDP3586A | Hazmat/WMD Awareness/Gas Mask | Passed | 0.0 | 3.00 |

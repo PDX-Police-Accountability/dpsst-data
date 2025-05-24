@@ -63,6 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/15/2025
+  course: EGP0146A
+  title: Active Violent Event Protocols
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/15/2025
+  course: EGP3004A
+  title: Building Search  AVI Response Scenario
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/15/2025
+  course: EGP1257A
+  title: Tactical Medical Skills
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/15/2025
+  course: EGP1782A
+  title: Trespass Laws
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/10/2025
   course: EGP0646B
   title: Firearm Qualification

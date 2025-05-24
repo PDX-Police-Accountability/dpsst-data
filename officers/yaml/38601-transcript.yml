@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/22/2025
+  course: GSP1751A
+  title: FEMA ICS-200
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

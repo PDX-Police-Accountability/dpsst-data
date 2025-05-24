@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/22/2025 | GSP1751A | FEMA ICS-200 | Passed | 0.0 | 4.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2024 | GSP0075A | 2024 Ethics In Service | Passed | 0.0 | 1.00 |
 | 11/21/2024 | GSP1104A | Taser X26P Recertification | Passed | 0.0 | 1.00 |

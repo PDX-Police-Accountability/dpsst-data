@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2025 | EGP0146A | Active Violent Event Protocols | Passed | 0.0 | 1.50 |
+| 5/15/2025 | EGP3004A | Building Search  AVI Response Scenario | Passed | 0.0 | 2.50 |
+| 5/15/2025 | EGP1782A | Trespass Laws | Passed | 0.0 | 1.50 |
 | 4/16/2025 | EGP0404B | FTEP Development Course | Passed | 0.0 | 12.00 |
 | 4/10/2025 | EGP0646B | Firearm Qualification | Passed | 0.0 | 4.00 |
 | 4/10/2025 | EGP2246B | Taser Recertification | Passed | 0.0 | 4.00 |

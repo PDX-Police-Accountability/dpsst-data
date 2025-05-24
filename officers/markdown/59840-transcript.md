@@ -43,6 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2025 | OCS3043A | Dashboard Enrichment Academy | Passed | 0.0 | 1.00 |
+| 4/30/2025 | OCS0531A | Oregon Child Abuse  Human Trafficking Summit | Passed | 0.0 | 16.00 |
+| 4/22/2025 | OCS3126A | Sucide Prevention Training | Passed | 0.0 | 1.50 |
 | 4/10/2025 | OCS2684A | Enrichment Academy (Search  Seizure) | Passed | 0.0 | 2.00 |
 | 3/27/2025 | OCS1763A | Firearms Qualification | Passed | 0.0 | 0.75 |
 | 3/13/2025 | OCS1091A | Enrichment Academy EDIS | Passed | 0.0 | 1.00 |

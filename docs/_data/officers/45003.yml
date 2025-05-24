@@ -129,6 +129,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 3/31/2025
+  course: HBP1073A
+  title: PoliceOne Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/5/2025
   course: HBP0291A
   title: Monthly Patrol Team Leadership

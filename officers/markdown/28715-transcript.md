@@ -44,6 +44,7 @@
 | 4/9/2025 | HBP2220A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 4/9/2025 | HBP0069A | Interviewing Techniques | Instructed | 0.0 | 2.00 |
 | 4/9/2025 | HBP4184A | YSU Presentation | Passed | 0.0 | 0.75 |
+| 3/31/2025 | HBP1073A | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 3/12/2025 | HBP0980A | Managing the Detective Unit | Passed | 0.0 | 24.00 |
 | 2/19/2025 | HBP2606A | Warrant Service (Classroom) | Passed | 0.0 | 2.50 |
 | 2/19/2025 | HBP1270A | Warrant Service (Practical) | Passed | 0.0 | 4.50 |

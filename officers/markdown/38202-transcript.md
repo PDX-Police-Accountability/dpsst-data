@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDS3359A | Evidence Searching | Instructed | 0.0 | 8.00 |
+| 5/2/2025 | PDS1061A | Underwater Surveying of Vehicles | Instructed | 0.0 | 8.00 |
 | 3/18/2025 | PDS1291A | Search Patterns | Passed | 0.0 | 8.00 |
 | 3/18/2025 | PDS3504B | Underwater Vehicle Recover and Inspection | Instructed | 0.0 | 8.00 |
 | 3/18/2025 | PDS0134B | Limited Visibility Diving | Passed | 0.0 | 8.00 |

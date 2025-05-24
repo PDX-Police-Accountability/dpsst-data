@@ -694,6 +694,7 @@
 | 7/5/2006 | 06-2754 | SERT Firearms Training | Passed | 0.0 | 8.00 |
 | 6/8/2006 | 06-2755 | Tactical Response Team (TRT) Training | Passed | 0.0 | 8.00 |
 | 6/7/2006 | 06-0058 | Firearms - Tactical | Passed | 0.0 | 8.00 |
+| 6/1/2006 | GSP1751A | FEMA ICS-200 | Passed | 0.0 | 4.00 |
 | 5/16/2006 | 06-0217 | Firearms | Instructed | 0.0 | 8.00 |
 | 5/8/2006 | 06-0217 | Firearms | Instructed | 0.0 | 8.00 |
 | 5/4/2006 | 06-0217 | Firearms | Passed | 0.0 | 8.00 |

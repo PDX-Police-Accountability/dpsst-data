@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2025
+  course: MFN1153A
+  title: Yoga For First Responders
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/6/2025
   course: STN0546B
   title: Peer Support and Mental Health

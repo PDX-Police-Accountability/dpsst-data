@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/21/2025
+  course: GSP1751A
+  title: FEMA ICS-200
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/7/2025
   course: GSP3328A
   title: CPTED Annual Conference
