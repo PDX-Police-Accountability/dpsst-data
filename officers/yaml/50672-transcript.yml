@@ -63,6 +63,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/9/2025
+  course: PDP0463B
+  title: FBI LEEDA Command Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/25/2025
   course: PDP1271A
   title: CPR/First Aid

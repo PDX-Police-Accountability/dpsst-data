@@ -3,12 +3,18 @@ header_record:
   name: Robinson, Timothy K.
   dpsst_identifier: '29814'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Captain
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/21/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Captain
+  classification: ''
+  assignment: ''
 - date: 4/25/2024
   agency: Portland Police Bureau
   action: Demotion
@@ -69,42 +75,42 @@ certification_records:
   level: Executive
   status: Granted
   certificate_date: 7/6/2023
-  expiration_date: ''
+  expiration_date: 8/21/2025
   probation_date: ''
 - status_date: 7/6/2023
   certificate: Police Officer
   level: Management
   status: Granted
   certificate_date: 7/6/2023
-  expiration_date: ''
+  expiration_date: 8/21/2025
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 8/21/2025
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 8/21/2025
   probation_date: ''
 - status_date: 6/16/1998
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 6/16/1998
-  expiration_date: ''
+  expiration_date: 8/21/2025
   probation_date: ''
 - status_date: 10/3/1995
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 10/3/1995
-  expiration_date: ''
+  expiration_date: 8/21/2025
   probation_date: ''
 training_records:
 - date: 4/29/2025

@@ -44,6 +44,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 5/9/2025
+  course: PDP3675B
+  title: 2025 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/29/2025
   course: HBS2183A
   title: Mobile Field Force Training

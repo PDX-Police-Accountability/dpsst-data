@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 3/14/2025
+  course: PDP0384B
+  title: OR Executive Development Institute Annual Session
+  status: Passed
+  score: '0.0'
+  hours: '44.00'
 - date: 3/3/2025
   course: VND2498A
   title: OEDI Annual Session

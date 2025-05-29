@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2025 | EGP1446B | Explosive Breaching Charge Construction -IDC- TE | Passed | 0.0 | 8.00 |
 | 5/15/2025 | EGP0146A | Active Violent Event Protocols | Passed | 0.0 | 1.50 |
 | 5/15/2025 | EGP3004A | Building Search  AVI Response Scenario | Passed | 0.0 | 2.50 |
 | 5/15/2025 | EGP1782A | Trespass Laws | Passed | 0.0 | 1.50 |

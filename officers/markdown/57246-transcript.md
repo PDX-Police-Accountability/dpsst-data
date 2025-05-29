@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2025 | HBN1663B | Defensive Tactics-Striking Techniques | Passed | 0.0 | 1.00 |
 | 5/1/2025 | BNN0229A | Scenarios | Passed | 0.0 | 3.00 |
 | 4/30/2025 | BNN3526A | Gender Responsive Conference | Passed | 0.0 | 7.00 |
 | 4/29/2025 | BNN3256A | Policy and Procedure, Lived Experience Panel | Passed | 0.0 | 3.00 |

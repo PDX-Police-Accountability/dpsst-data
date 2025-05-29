@@ -82,6 +82,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2025
+  course: PDP2822B
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/3/2025
   course: PDP0294A
   title: 2025 Public Order Command Workshop
@@ -5039,6 +5045,10 @@ training_records:
   score: '0.0'
   hours: '6.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/20/2025
+  expiration_date: 5/20/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
@@ -5051,10 +5061,6 @@ attribute_records:
   value: Signed
   effective_date: 4/13/2005
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 5/21/2025
 education_records:
 - date: 6/11/1999
   degree: Bachelor Science

@@ -40,6 +40,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2025 | HBS0622B | TNT - Entry Training | Passed | 0.0 | 7.50 |
+| 4/8/2025 | HBS3906B | TNT-Building Search/Cautious Clears/HRT | Passed | 0.0 | 5.00 |
+| 4/8/2025 | HBS0288B | TNT Vehicle Takedowns | Passed | 0.0 | 3.00 |
+| 4/7/2025 | HBS1914B | TNT Manual Mechanical Breaching | Passed | 0.0 | 0.50 |
+| 4/7/2025 | HBS2230B | TNT Range Day | Passed | 0.0 | 5.00 |
+| 4/7/2025 | HBS4577B | TNT-Ballistic Breaching | Passed | 0.0 | 2.50 |
+| 4/6/2025 | HBS3040B | TNT Less Lethal/Chem Agent/FSDD | Passed | 0.0 | 5.00 |
+| 4/6/2025 | HBS2771B | TNT-New Operator Vehicle Orientation | Passed | 0.0 | 3.00 |
 | 2/19/2025 | BVP2515A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 1/14/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2024 | BVP2862A | City of Beaverton Ethics in Policing | Passed | 0.0 | 1.00 |

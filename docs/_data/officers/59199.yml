@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2025
+  course: EGP1446B
+  title: Explosive Breaching Charge Construction -IDC- TE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/15/2025
   course: EGP0146A
   title: Active Violent Event Protocols

@@ -88,6 +88,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/9/2025
+  course: PDP3675B
+  title: 2025 Rapid Response Team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/7/2025
   course: PDP2705A
   title: 2025 EAP Annual Member Training

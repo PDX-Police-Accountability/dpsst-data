@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2025 | OSH4366B | OSP People in Crisis | Passed | 0.0 | 4.00 |
+| 5/21/2025 | OSH0079B | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 5/9/2025 | OSH2695A | Firearms In-Service | Instructed | 0.0 | 16.00 |
 | 4/26/2025 | OSH2965A | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |
 | 4/26/2025 | OSH2999A | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |

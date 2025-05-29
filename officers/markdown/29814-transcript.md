@@ -4,7 +4,7 @@
 | name | Robinson, Timothy K. |
 | dpsst_identifier | 29814 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Captain |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/21/2025 | Portland Police Bureau | Retired | Captain |  |  |
 | 4/25/2024 | Portland Police Bureau | Demotion | Captain |  |  |
 | 9/2/2021 | Portland Police Bureau | Promotion | Commander |  |  |
 | 8/17/2020 | Portland Police Bureau | Promotion | Captain |  |  |
@@ -24,12 +25,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/6/2023 | Police Officer | Executive | Granted | 7/6/2023 |  |  |
-| 7/6/2023 | Police Officer | Management | Granted | 7/6/2023 |  |  |
-| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 |  |  |
-| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 |  |  |
-| 6/16/1998 | Police Officer | Intermediate | Granted | 6/16/1998 |  |  |
-| 10/3/1995 | Police Officer | Basic | Granted | 10/3/1995 |  |  |
+| 7/6/2023 | Police Officer | Executive | Granted | 7/6/2023 | 8/21/2025 |  |
+| 7/6/2023 | Police Officer | Management | Granted | 7/6/2023 | 8/21/2025 |  |
+| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 | 8/21/2025 |  |
+| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 | 8/21/2025 |  |
+| 6/16/1998 | Police Officer | Intermediate | Granted | 6/16/1998 | 8/21/2025 |  |
+| 10/3/1995 | Police Officer | Basic | Granted | 10/3/1995 | 8/21/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

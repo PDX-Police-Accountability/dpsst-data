@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2025
+  course: BPT1628B
+  title: Field Training and Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/28/2025
   course: PPP4559A
   title: Tri-Met Enforcement Training
