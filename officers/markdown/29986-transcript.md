@@ -25,6 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/22/2025 | 5/27/2027 |
 | Code of Ethics | Signed | 2/23/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -33,6 +34,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2025 | BNS0498B | First Aid/CPR | Passed | 0.0 | 4.00 |
+| 5/22/2025 | BNS4418B | TCCC | Passed | 0.0 | 2.00 |
+| 5/21/2025 | BNS4563B | Use of Force Update | Passed | 0.0 | 1.00 |
+| 5/21/2025 | BNS0424B | Firearms | Passed | 0.0 | 5.00 |
+| 5/21/2025 | BNS2207B | Handcuffing | Passed | 0.0 | 0.50 |
+| 5/21/2025 | BNS3361B | OC Refresher | Passed | 0.0 | 0.50 |
 | 6/19/2024 | BNS3524A | TCCC | Passed | 0.0 | 2.00 |
 | 6/18/2024 | BNS2164A | Use of Force, OC, Firearms | Passed | 0.0 | 7.00 |
 | 5/26/2023 | BNS3875A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |

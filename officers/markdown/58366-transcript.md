@@ -41,6 +41,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 5/20/2025 | OSH4134B | Manager Comp.-Microsoft Tools | Passed | 0.0 | 1.00 |
+| 5/15/2025 | OSH0679B | MIT Surveillance Training | Passed | 0.0 | 2.00 |
+| 5/15/2025 | OSH1033B | Infant Death Investigations | Passed | 0.0 | 1.00 |
+| 5/15/2025 | OSH0153B | MIT OSP K9 Training | Passed | 0.0 | 1.00 |
 | 4/30/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 4/30/2025 | OSH1655B | 2025 CID in-service - Group 1 | Passed | 0.0 | 16.00 |
 | 4/15/2025 | OSH0277B | Manager Comp.-TORT/Risk Mgt, Fleet  AOC Overview | Passed | 0.0 | 2.00 |

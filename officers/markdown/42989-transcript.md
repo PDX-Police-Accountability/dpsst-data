@@ -5,13 +5,14 @@
 | dpsst_identifier | 42989 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/22/2025 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 11/16/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/20/2009 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/18/2009 | Albany Police Department | Resigned | Police Off |  |  |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 4/14/2025 | PDP0649A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/24/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/24/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |

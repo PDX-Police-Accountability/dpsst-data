@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDA4180B | Defensive Tactics use of OC Spray | Passed | 0.0 | 3.00 |
 | 4/16/2025 | PDN1695B | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 4/4/2025 | OSH2289A | Basic Detective Academy | Passed | 0.0 | 40.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |

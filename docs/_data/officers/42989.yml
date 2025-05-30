@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '42989'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Sergeant
+  rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/22/2025
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 11/16/2017
   agency: Portland Police Bureau
   action: Promotion
@@ -75,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2026
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 4/14/2025
   course: PDP0649A
   title: CPR/First Aid

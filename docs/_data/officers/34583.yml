@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/21/2025
+  course: PDA4180B
+  title: Defensive Tactics use of OC Spray
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/9/2025
   course: PDN2706A
   title: CPR/1st Aid Infant to Adult

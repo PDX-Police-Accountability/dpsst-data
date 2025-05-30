@@ -63,6 +63,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/6/2025
+  course: PDP0673B
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/16/2025
   course: PDP3100A
   title: 2025 CNT Annual Training
@@ -2350,6 +2356,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/6/2025
+  expiration_date: 5/6/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

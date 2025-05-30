@@ -20,8 +20,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 5/20/2025 | Corrections Officer | Basic | Expired | 4/16/2018 |  |  |
 | 9/23/2021 | Police Officer | Basic | Granted | 9/23/2021 |  |  |
-| 8/20/2020 | Corrections Officer | Basic | Lapsed | 4/16/2018 | 5/20/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

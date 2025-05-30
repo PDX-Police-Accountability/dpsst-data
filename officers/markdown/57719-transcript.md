@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/22/2025 | 5/27/2027 |
 | Code of Ethics | Law Enforcement Signed | 8/22/2018 |  |
 | Code of Ethics | Signed | 9/14/2017 |  |
 ## Education
@@ -33,6 +34,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2025 | BNS0498B | First Aid/CPR | Passed | 0.0 | 4.00 |
+| 5/22/2025 | BNS4418B | TCCC | Passed | 0.0 | 2.00 |
+| 5/21/2025 | BNS3361B | OC Refresher | Passed | 0.0 | 0.50 |
+| 5/21/2025 | BNS4563B | Use of Force Update | Passed | 0.0 | 1.00 |
+| 5/21/2025 | BNS0424B | Firearms | Passed | 0.0 | 5.00 |
+| 5/21/2025 | BNS2207B | Handcuffing | Passed | 0.0 | 0.50 |
 | 5/26/2023 | BNS3875A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |
 | 5/5/2023 | BNS1394A | Chainsaw Orientation and Safety Training | Passed | 0.0 | 4.00 |
 | 5/5/2023 | VND0329A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 8.00 |

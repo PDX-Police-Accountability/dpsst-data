@@ -135,12 +135,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 1/23/2025
-  course: VND1044A
-  title: Responder Life Peer Support Conference
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 1/23/2025
   course: PDP3464A
   title: Responder Life NW Peer Support Conference
   status: Passed

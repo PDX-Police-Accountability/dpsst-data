@@ -74,6 +74,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/20/2025
+  course: OSH4134B
+  title: Manager Comp.-Microsoft Tools
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2025
+  course: OSH0679B
+  title: MIT Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/15/2025
+  course: OSH1033B
+  title: Infant Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2025
+  course: OSH0153B
+  title: MIT OSP K9 Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/30/2025
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDA4180B | Defensive Tactics use of OC Spray | Passed | 0.0 | 3.00 |
 | 4/9/2025 | PDN2706A | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 3.00 |
 | 2/6/2025 | VND3656A | Trauma Informed Response Training | Passed | 0.0 | 6.00 |

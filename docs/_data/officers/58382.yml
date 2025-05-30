@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/23/2025
+  course: OCS2313B
+  title: Clackamas County New Hire Patrol Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/28/2025
   course: OCS1650B
   title: April 2025 Monthly Firearms Annual Qual

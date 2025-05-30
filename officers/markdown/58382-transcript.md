@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2025 | OCS2313B | Clackamas County New Hire Patrol Tactics | Instructed | 0.0 | 4.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |
 | 4/12/2025 | OCS0874B | Use of Force and Peace Officer Holds | Passed | 0.0 | 1.00 |
 | 4/9/2025 | BVP3619B | 2025 OPCA Spring Seminar | Passed | 0.0 | 24.00 |

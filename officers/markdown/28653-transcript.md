@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDA4180B | Defensive Tactics use of OC Spray | Passed | 0.0 | 3.00 |
 | 4/16/2025 | PDN1695B | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 3/6/2025 | F1542699 | Leadership, Management, Supervision | Passed | 0.0 | 4.00 |
 | 3/6/2025 | F1528930 | Teamwork: Going from Good to Great | Passed | 0.0 | 16.00 |
