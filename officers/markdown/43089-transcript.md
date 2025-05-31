@@ -37,8 +37,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/24/2025 | 1/24/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 2/21/2006 |  |
 ## Education
@@ -48,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/15/2025 | MOS2260B | On Water Firearms Course | Passed | 0.0 | 4.00 |
 | 4/1/2025 | LGS3814A | Implicit Bias | Passed | 0.0 | 1.00 |
 | 4/1/2025 | LGS2817A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |

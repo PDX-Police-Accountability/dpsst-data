@@ -33,9 +33,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 7/7/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +47,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/22/2025 | PDS1871A | Sergeants Training | Passed | 0.0 | 4.00 |
+| 5/12/2025 | PDS1010A | Sergeant Training | Passed | 0.0 | 1.00 |
 | 4/27/2025 | PDS2352A | WSHNA Training Conference | Passed | 0.0 | 24.00 |
 | 4/13/2025 | PDS1907A | Ethics | Passed | 0.0 | 1.00 |
 | 4/13/2025 | PDS1481A | Drug ID  Recognition | Passed | 0.0 | 5.00 |
@@ -54,6 +58,7 @@
 | 1/21/2025 | PDS1408A | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 1/7/2025 | PDS2334A | January Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 1/1/2025 | PDS2880A | Supervisor Training | Passed | 0.0 | 1.00 |
+| 1/1/2025 | PDS2565A | Sergeant's Monthly Training | Passed | 0.0 | 1.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2024 | PDS2299A | Sergeant Training | Passed | 0.0 | 1.00 |
 | 11/19/2024 | PDS1484A | November Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |

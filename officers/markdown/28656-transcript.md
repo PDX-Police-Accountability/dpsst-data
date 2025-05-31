@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2025 | TGP0319A | ACAP | Passed | 0.0 | 2.00 |
+| 5/20/2025 | TGP1412A | Handgun Training | Passed | 0.0 | 1.25 |
 | 4/23/2025 | TGP4129A | Mark43 Refresher Training | Passed | 0.0 | 0.50 |
 | 3/18/2025 | TGP0690A | First Aid/CPR | Passed | 0.0 | 1.00 |
 | 12/31/2024 | TGP1034A | Path of the Guardian 2024 (PG24-A1) | Passed | 0.0 | 8.00 |

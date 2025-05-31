@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 4/27/2025
+  course: PDS2038A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/31/2025
   course: PDS4462A
   title: Bloodborne Pathogens

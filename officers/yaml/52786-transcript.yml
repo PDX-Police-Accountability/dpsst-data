@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/23/2025
+  course: PDS2038A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/16/2025
   course: VND1641A
   title: 28 CFR 23 and WSIN Resources

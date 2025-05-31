@@ -19,9 +19,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 5/16/2025 | Emergency Medical Dispatcher | Basic | Expired | 4/17/2018 |  |  |
+| 5/16/2025 | Telecommunicator | Basic | Expired | 4/17/2018 |  |  |
 | 12/2/2021 | Police Officer | Basic | Granted | 12/2/2021 |  |  |
-| 5/16/2021 | Emergency Medical Dispatcher | Basic | Lapsed | 4/17/2018 | 5/16/2025 |  |
-| 5/16/2021 | Telecommunicator | Basic | Lapsed | 4/17/2018 | 5/16/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

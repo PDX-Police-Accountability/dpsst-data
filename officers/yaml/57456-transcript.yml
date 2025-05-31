@@ -34,26 +34,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 5/16/2025
+  certificate: Emergency Medical Dispatcher
+  level: Basic
+  status: Expired
+  certificate_date: 4/17/2018
+  expiration_date: ''
+  probation_date: ''
+- status_date: 5/16/2025
+  certificate: Telecommunicator
+  level: Basic
+  status: Expired
+  certificate_date: 4/17/2018
+  expiration_date: ''
+  probation_date: ''
 - status_date: 12/2/2021
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 12/2/2021
   expiration_date: ''
-  probation_date: ''
-- status_date: 5/16/2021
-  certificate: Emergency Medical Dispatcher
-  level: Basic
-  status: Lapsed
-  certificate_date: 4/17/2018
-  expiration_date: 5/16/2025
-  probation_date: ''
-- status_date: 5/16/2021
-  certificate: Telecommunicator
-  level: Basic
-  status: Lapsed
-  certificate_date: 4/17/2018
-  expiration_date: 5/16/2025
   probation_date: ''
 training_records:
 - date: 3/19/2025

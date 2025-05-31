@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/29/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 4/23/2025
   course: MKL0515B
   title: Defensive Tactics
@@ -2656,8 +2662,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/30/2024

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | CAP0277A | Firearms - Handgun Reloads/Malfunctions | Passed | 0.0 | 2.00 |
 | 4/23/2025 | CAP1852A | Firearms - Use of Cover/Shield | Instructed | 0.0 | 8.00 |
 | 3/26/2025 | CAP3056A | Annual Patrol Rifle Qualification and Fundamentals | Passed | 0.0 | 2.00 |
 | 3/26/2025 | CAP0189B | Bloodborne Pathogens For First Responders | Passed | 0.0 | 1.00 |

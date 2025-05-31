@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2025 | OCP3795A | Spring 2025 Officer In Charge Training | Instructed | 0.0 | 0.25 |
 | 4/16/2025 | OCP1922B | RDS Transition Course | Instructed | 0.0 | 14.00 |
 | 4/9/2025 | OCP3397A | Providence SAFE Center | Passed | 0.0 | 0.25 |
 | 4/2/2025 | OCP2766A | RDS M17 Pistol Conversion | Instructed | 0.0 | 15.00 |

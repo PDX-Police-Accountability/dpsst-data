@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/23/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 3/16/2025 | VND1641A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 3/7/2025 | PDS2391A | Search and Seizure Training | Passed | 0.0 | 1.50 |
 | 2/28/2025 | PDS4514A | Report Writing | Passed | 0.0 | 4.00 |

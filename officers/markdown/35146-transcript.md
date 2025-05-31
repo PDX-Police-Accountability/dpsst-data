@@ -27,7 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 12/18/2024 | 12/18/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/6/2023 |  |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/15/2025 | REG1327A | Handgun Instructo Course | Passed | 0.0 | 40.00 |
 | 5/6/2025 | STN0546B | Peer Support and Mental Health | Passed | 0.0 | 3.00 |
 | 5/5/2025 | VND2048A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |

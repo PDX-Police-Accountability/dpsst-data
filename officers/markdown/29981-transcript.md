@@ -41,6 +41,7 @@
 | 5/21/2025 | WLP0563B | Defensive Tactics: Control Fundamentals, Scenarios | Passed | 0.0 | 2.00 |
 | 4/30/2025 | WLP0747A | Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
 | 4/30/2025 | WLP0003B | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
+| 4/23/2025 | WLP1088A | H.E.A.R.T. - Conflict Resolution | Passed | 0.0 | 1.00 |
 | 4/2/2025 | WLP3609A | SAFE/SANE Training | Passed | 0.0 | 0.25 |
 | 2/19/2025 | WLP4232A | Defensive Tactics - Strikes and Scenarios | Passed | 0.0 | 2.00 |
 | 1/15/2025 | WLP3943A | Respectful Workplace | Passed | 0.0 | 2.00 |

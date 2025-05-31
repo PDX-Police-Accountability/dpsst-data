@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/30/2025 | WLP0003B | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
+| 4/23/2025 | WLP1088A | H.E.A.R.T. - Conflict Resolution | Passed | 0.0 | 1.00 |
 | 1/15/2025 | WLP3943A | Respectful Workplace | Passed | 0.0 | 2.00 |
 | 12/11/2024 | ALP2378A | Interview and Interrogations | Passed | 0.0 | 24.00 |
 | 11/13/2024 | WLP4174A | Children's Center 101 / Karly's Law | Passed | 0.0 | 1.50 |

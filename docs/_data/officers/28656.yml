@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2025
+  course: TGP0319A
+  title: ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/20/2025
+  course: TGP1412A
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 4/23/2025
   course: TGP4129A
   title: Mark43 Refresher Training

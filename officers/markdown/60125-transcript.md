@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2025 | PDS3224A | ICS-700 | Passed | 0.0 | 3.50 |
 | 4/25/2025 | OSH2911A | VIN Identification Basics 2025 | Passed | 0.0 | 24.00 |
+| 3/26/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 3/5/2025 | PDS2540A | Intoxilyzer 8000 Certification | Passed | 0.0 | 4.00 |
 | 3/5/2025 | PDS1064A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 2/6/2025 | PDS3333A | Range | Passed | 0.0 | 2.00 |

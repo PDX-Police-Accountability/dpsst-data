@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 3/26/2025
+  course: PDS2038A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/5/2025
   course: PDS2540A
   title: Intoxilyzer 8000 Certification

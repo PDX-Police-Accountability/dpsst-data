@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/23/2025
+  course: WLP1088A
+  title: H.E.A.R.T. - Conflict Resolution
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/15/2025
   course: WLP3943A
   title: Respectful Workplace

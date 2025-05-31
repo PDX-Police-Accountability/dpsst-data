@@ -28,8 +28,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 2/1/2024 | 2/1/2026 |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/16/2025 | HBP2125A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
 | 4/16/2025 | HBP2742A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 4/16/2025 | HBP1276A | Live Fire Range | Passed | 0.0 | 4.00 |

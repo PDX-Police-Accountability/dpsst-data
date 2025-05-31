@@ -22,7 +22,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/15/2024 | 4/19/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/13/2021 |  |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/11/2025 | HSU3590A | 40 mm Operator Course | Passed | 0.0 | 20.00 |
 | 4/13/2025 | HSU0785A | EVOC In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/13/2025 | HSU1183A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |

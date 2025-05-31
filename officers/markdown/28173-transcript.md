@@ -23,7 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/30/2024 | 7/25/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2019 |  |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/23/2025 | MKL0515B | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 3/13/2025 | MKL0163A | Public Safety-In-Service Training | Passed | 0.0 | 15.00 |
 | 3/13/2025 | MKL2626A | Ethics Training | Passed | 0.0 | 1.00 |

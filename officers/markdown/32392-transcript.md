@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2025 | TGP0319A | ACAP | Passed | 0.0 | 2.00 |
+| 5/20/2025 | TGP1412A | Handgun Training | Passed | 0.0 | 1.25 |
 | 4/18/2025 | TGP3554A | Police Bicycle Operator Instroductory Course | Instructed | 0.0 | 8.00 |
 | 1/20/2025 | TGP3229A | International Forensic Photography Symposium | Passed | 0.0 | 12.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
