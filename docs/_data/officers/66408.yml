@@ -1,0 +1,34 @@
+---
+header_record:
+  name: Stanley, Luke A.
+  dpsst_identifier: '66408'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/31/2025
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 7/31/2025
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 2/1/2026
+training_records:
+- date: 7/28/2025
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []

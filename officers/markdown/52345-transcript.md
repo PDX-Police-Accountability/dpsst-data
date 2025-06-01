@@ -27,7 +27,6 @@
 | Certification Cards | First Aid and CPR | 5/9/2025 | 5/9/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
 | Code of Ethics | Signed | 1/3/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2025 | PDP3399A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/9/2025 | PDP2303A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/7/2025 | PDP2705A | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |

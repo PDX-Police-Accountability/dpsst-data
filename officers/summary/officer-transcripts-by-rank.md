@@ -1528,6 +1528,10 @@
 | Gould, Alex C. | 66265 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66265-transcript.md) - [yaml](../yaml/66265-transcript.yml) |
 | Callies, Elleott W. | 66277 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66277-transcript.md) - [yaml](../yaml/66277-transcript.yml) |
 | Lomax, Miles K., Jr. | 66285 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66285-transcript.md) - [yaml](../yaml/66285-transcript.yml) |
+| Vincent, Tyler C. | 66388 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66388-transcript.md) - [yaml](../yaml/66388-transcript.yml) |
+| Wyman, Robert W. | 66389 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66389-transcript.md) - [yaml](../yaml/66389-transcript.yml) |
+| Sween, Norman J. | 66395 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66395-transcript.md) - [yaml](../yaml/66395-transcript.yml) |
+| Stanley, Luke A. | 66408 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66408-transcript.md) - [yaml](../yaml/66408-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Moore, Gary D. | 15650 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2018-07-04 | [md](../markdown/15650-transcript.md) - [yaml](../yaml/15650-transcript.yml) |
 | Wilkinson, Steven P. | 17691 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1995-01-01 | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |

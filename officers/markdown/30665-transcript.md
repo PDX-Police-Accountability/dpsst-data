@@ -34,7 +34,6 @@
 | Certification Cards | First Aid and CPR | 5/14/2025 | 5/14/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
 | Code of Ethics | Signed | 11/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |

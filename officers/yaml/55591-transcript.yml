@@ -2042,10 +2042,6 @@ training_records:
   score: '0.0'
   hours: '247.50'
 attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/18/2023
-  expiration_date: 5/18/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/31/2019

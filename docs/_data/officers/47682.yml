@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/14/2025
+  course: OSA2182A
+  title: SARAC Command Council Meeting 2025
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/23/2025
   course: VND1044A
   title: Responder Life Peer Support Conference
@@ -4758,10 +4764,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/5/2023
-  expiration_date: 5/5/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/8/2007

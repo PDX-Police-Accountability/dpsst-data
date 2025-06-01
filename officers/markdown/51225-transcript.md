@@ -22,7 +22,6 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 5/1/2025 | 5/1/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 2/3/2011 |  |
@@ -34,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2025 | PDP3399A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/6/2025 | PDP3749A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/1/2025 | PDP1998A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/30/2025 | PDP3804A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 2.00 |

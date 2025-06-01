@@ -28,10 +28,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/11/2025 | 4/11/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 11/29/2010 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 5/21/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/27/2025 | FGP4424A | DPSST Legal Updates | Passed | 0.0 | 1.00 |
+| 3/11/2025 | FGP1252A | First Aid CPR AED Renewals | Passed | 0.0 | 8.00 |
 | 12/10/2024 | FGP1345A | Taser 10 Transition Certification | Passed | 0.0 | 6.00 |
 | 12/1/2024 | FGP1082A | Mobile Detect 101 / Field drug testing | Passed | 0.0 | 1.00 |
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
@@ -62,6 +63,7 @@
 | 2/9/2024 | FGP2334A | Annual Defensive Tactics/Con Sim | Passed | 0.0 | 8.00 |
 | 2/6/2024 | FGP2505A | Creating the Culture for Behavioral Health | Passed | 0.0 | 2.25 |
 | 1/26/2024 | FGP0368A | Human Trafficking Awareness-Roll Call Discussion | Passed | 0.0 | 0.50 |
+| 1/9/2024 | FGP2335A | FAA Part 107 Drone Recertification | Passed | 0.0 | 3.00 |
 | 12/21/2023 | PDP2823A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/20/2023 | FGP3486A | Annual Taser Refresher | Passed | 0.0 | 2.00 |
 | 12/11/2023 | FGP2154A | SEMI-ANNUAL FIREARMS TRAINING | Passed | 0.0 | 1.00 |

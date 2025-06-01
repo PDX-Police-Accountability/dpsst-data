@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/11/2025
+  course: FGP1252A
+  title: First Aid CPR AED Renewals
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/10/2024
   course: FGP1345A
   title: Taser 10 Transition Certification
@@ -213,6 +219,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/9/2024
+  course: FGP2335A
+  title: FAA Part 107 Drone Recertification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/21/2023
   course: PDP2823A
   title: SFST Refresher
@@ -4636,6 +4648,10 @@ training_records:
   score: '0.0'
   hours: '36.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/11/2025
+  expiration_date: 4/11/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
@@ -4648,10 +4664,6 @@ attribute_records:
   value: Signed
   effective_date: 11/29/2010
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 5/21/2025
 education_records:
 - date: 6/10/1995
   degree: Bachelor Science

@@ -29,7 +29,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 5/7/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 5/7/2025 | REG1278B | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/3/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 2/27/2025 | PDP0795A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

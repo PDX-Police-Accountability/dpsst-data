@@ -27,7 +27,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 5/5/2023 | 5/5/2025 |
 | Code of Ethics | Signed | 2/8/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/14/2025 | OSA2182A | SARAC Command Council Meeting 2025 | Instructed | 0.0 | 1.50 |
 | 1/23/2025 | VND1044A | Responder Life Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/22/2025 | VND2338A | Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/21/2025 | VND0630A | Culturally Competent Clinician Training | Passed | 0.0 | 8.00 |

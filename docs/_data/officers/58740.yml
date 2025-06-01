@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2025
+  course: TRN4574A
+  title: DOJ Legal Training
+  status: Instructed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/7/2025
   course: PDP1629A
   title: CPR/First Aid

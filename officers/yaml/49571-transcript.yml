@@ -31,12 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2025
+  course: PDP0593A
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/16/2025
   course: PDP2020A
   title: 2025 Satellite AR-15 Instructor Course
   status: Instructed
   score: '0.0'
   hours: '45.00'
+- date: 5/15/2025
+  course: PDP3399A
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/8/2025
   course: PDP2846A
   title: 2025 SERT Training - FIREARMS

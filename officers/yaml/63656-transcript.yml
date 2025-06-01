@@ -540,12 +540,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
-- date: 8/9/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.00'
 - date: 8/8/2024
   course: REG0839A
   title: INTOX 8000 (Hours included in Basic)
@@ -755,8 +749,4 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 5/15/2023
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/3/2023
-  expiration_date: 5/3/2025
 education_records: []

@@ -31,12 +31,6 @@ training_records:
   score: '0.0'
   hours: '50.00'
 - date: 5/7/2025
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.00'
-- date: 5/7/2025
   course: REG1278B
   title: INTOX 8000 (Hours included in Basic)
   status: Passed

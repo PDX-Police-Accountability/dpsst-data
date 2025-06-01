@@ -36,7 +36,6 @@
 | Certification Cards | First Aid and CPR | 5/8/2025 | 5/8/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 5/17/2023 | 5/17/2025 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +44,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDP2769A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
+| 5/21/2025 | PDP2769A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 5/14/2025 | PDP0446A | 2025 K-9 Weekly Training: | Passed | 0.0 | 4.50 |
 | 5/8/2025 | PDP2868A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/7/2025 | PDP2799B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |

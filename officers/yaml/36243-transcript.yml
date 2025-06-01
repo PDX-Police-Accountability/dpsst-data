@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2025
+  course: HBS0756A
+  title: Stress,Trauma,Resiliency(STRT)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/11/2025
   course: HBS2011A
   title: InService-T7 Transition/Firearms Qual

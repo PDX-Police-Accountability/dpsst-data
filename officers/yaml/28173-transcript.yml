@@ -49,6 +49,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/20/2025
+  course: MKL2956A
+  title: Orange Photonics - Light Lab Certification
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 4/23/2025
   course: MKL0515B
   title: Defensive Tactics
@@ -2664,10 +2670,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/30/2024

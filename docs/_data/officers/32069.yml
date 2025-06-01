@@ -75,6 +75,30 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/28/2025
+  course: SDP3132A
+  title: Use of Force - 3 Part Scenario
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/28/2025
+  course: SDP2136A
+  title: CART Introduction
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2025
+  course: SDP3904A
+  title: Investigation Scenarios - Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/28/2025
+  course: SDP3907A
+  title: Municipal Code Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2025
   course: OAC0714A
   title: Principled Leadership - The Charleston 9
@@ -4806,10 +4830,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/15/2025
   expiration_date: 1/15/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

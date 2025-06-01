@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/12/2025
+  course: LOP2143A
+  title: Mindset Matters
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 2/14/2025
   course: LOP1092A
   title: CCDA DV Investigations Presentation

@@ -26,7 +26,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 5/13/2023 | 5/13/2025 |
 | Code of Ethics | Signed | 10/12/2017 |  |
 | Code of Ethics | Signed | 1/13/2017 |  |
 ## Education
@@ -36,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2025 | PDP0593A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 5/15/2025 | PDP3399A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
 | 5/6/2025 | PDP3749A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
