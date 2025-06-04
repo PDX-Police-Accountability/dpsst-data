@@ -40,6 +40,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/27/2025 | PDS0180A | Range | Instructed | 0.0 | 2.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 2/26/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |
+| 2/25/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |
+| 2/24/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |
 | 2/14/2025 | PDS0340A | Red Dot Handgun | Instructed | 0.0 | 24.00 |
 | 2/6/2025 | PDS3333A | Range | Instructed | 0.0 | 2.00 |
 | 2/3/2025 | PDS3333A | Range | Instructed | 0.0 | 2.00 |

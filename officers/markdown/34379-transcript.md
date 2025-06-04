@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2025 | PPP2106A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
 | 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |
 | 1/31/2025 | PPP4175A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
 | 11/21/2024 | PPP1120A | Taser 7 Annual Certification | Passed | 0.0 | 4.00 |

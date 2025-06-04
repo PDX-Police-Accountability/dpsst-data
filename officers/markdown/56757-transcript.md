@@ -40,7 +40,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/29/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/22/2025 | PPP4082A | Firearms Swab Training | Passed | 0.0 | 1.00 |
 | 5/8/2025 | BPT1628B | Field Training and Evaluation | Passed | 0.0 | 24.00 |
+| 4/30/2025 | PPP2106A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
 | 4/28/2025 | PPP4559A | Tri-Met Enforcement Training | Passed | 0.0 | 1.00 |
 | 4/10/2025 | PPP3366A | Police Response to Active Shooter Instructor Cert | Passed | 0.0 | 32.00 |
 | 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |

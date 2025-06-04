@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/1/2025
+  course: PDS1384A
+  title: Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '0.30'
 - date: 4/24/2025
   course: PDS1481A
   title: Drug ID  Recognition

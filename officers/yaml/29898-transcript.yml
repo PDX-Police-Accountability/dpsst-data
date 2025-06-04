@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/24/2025
+  course: PDS3595A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/28/2025
   course: PDS1408A
   title: Responding to Agitated Individuals

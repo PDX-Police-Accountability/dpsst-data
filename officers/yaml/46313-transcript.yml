@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2025
+  course: PPP4082A
+  title: Firearms Swab Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2025
+  course: PPP2106A
+  title: Human Trafficking 101
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/28/2025
   course: PPP4559A
   title: Tri-Met Enforcement Training

@@ -69,6 +69,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/26/2025
+  course: PDS3595A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/25/2025
+  course: PDS3595A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/24/2025
+  course: PDS3595A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/14/2025
   course: PDS0340A
   title: Red Dot Handgun

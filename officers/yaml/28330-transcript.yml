@@ -119,6 +119,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/30/2025
+  course: PPP2106A
+  title: Human Trafficking 101
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/25/2025
   course: PPP0196A
   title: Leadership Training

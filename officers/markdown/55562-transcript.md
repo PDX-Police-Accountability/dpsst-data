@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/14/2025 | PDS0488A | Active Shooter Training | Passed | 0.0 | 1.00 |
+| 5/1/2025 | PDS1384A | Leadership Training | Passed | 0.0 | 0.30 |
 | 4/24/2025 | PDS1481A | Drug ID  Recognition | Passed | 0.0 | 5.00 |
 | 4/24/2025 | PDS1907A | Ethics | Passed | 0.0 | 1.00 |
 | 4/24/2025 | PDS3699A | Legal Update | Passed | 0.0 | 1.00 |

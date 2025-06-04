@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2025 | VND1550A | Basic Background Investigation | Passed | 0.0 | 16.00 |
 | 4/8/2025 | PXP4120A | Sexual Assault Investigation | Passed | 0.0 | 12.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 3/13/2025 | GSP1751A | FEMA ICS-200 | Passed | 0.0 | 4.00 |
