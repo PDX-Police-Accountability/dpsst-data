@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2025 | OCP1500A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 5/28/2025 | OCP3795A | Spring 2025 Officer In Charge Training | Instructed | 0.0 | 0.25 |
 | 4/16/2025 | OCP1922B | RDS Transition Course | Instructed | 0.0 | 14.00 |
 | 4/9/2025 | OCP3397A | Providence SAFE Center | Passed | 0.0 | 0.25 |

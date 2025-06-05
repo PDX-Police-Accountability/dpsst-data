@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2025 | TDP2202A | Supervisor Liability for Law Enforcement | Passed | 0.0 | 8.00 |
 | 4/18/2025 | TDP3238A | Lead Where You Are Now - Modern Day Recruiting | Passed | 0.0 | 1.00 |
 | 3/28/2025 | TDP3579A | Substance use intervention tech. for youth | Passed | 0.0 | 1.00 |
 | 2/27/2025 | TDP1815A | Tactical Disengagement and De-Escalation | Passed | 0.0 | 1.25 |

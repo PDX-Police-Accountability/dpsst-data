@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/30/2025
+  course: LGS2329A
+  title: Defensive Tactics  Con-Sims
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

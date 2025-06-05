@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/29/2025
+  course: REG3540A
+  title: Pistol Mounted Optic IDC
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/7/2025
   course: PDS0406A
   title: Jail ConSim

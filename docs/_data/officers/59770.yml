@@ -26,13 +26,13 @@ certification_records:
 training_records:
 - date: 5/15/2025
   course: PDP3399A
-  title: 2025 SERT Training - SCENARIO
+  title: 2025 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
 - date: 5/15/2025
   course: PDP3399A
-  title: 2025 SERT Training - SCENARIO
+  title: 2025 SERT Training - Scenario
   status: Instructed
   score: '0.0'
   hours: '9.00'

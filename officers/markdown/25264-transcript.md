@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2025 | REG3540A | Pistol Mounted Optic IDC | Passed | 0.0 | 16.00 |
 | 5/7/2025 | PDS0406A | Jail ConSim | Instructed | 0.0 | 8.00 |
 | 5/7/2025 | PDS1827A | Jail ConSim | Instructed | 0.0 | 8.00 |
 | 4/30/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |

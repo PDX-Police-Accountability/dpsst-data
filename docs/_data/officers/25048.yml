@@ -65,7 +65,7 @@ certification_records:
 training_records:
 - date: 5/8/2025
   course: SAG2800A
-  title: Firearms training
+  title: Firearms Training
   status: Passed
   score: '0.0'
   hours: '2.00'

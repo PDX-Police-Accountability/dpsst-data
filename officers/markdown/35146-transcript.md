@@ -40,7 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 5/15/2025 | REG1327A | Handgun Instructo Course | Passed | 0.0 | 40.00 |
+| 5/15/2025 | REG1327A | Handgun Instructor Course | Passed | 0.0 | 40.00 |
 | 5/6/2025 | STN0546B | Peer Support and Mental Health | Passed | 0.0 | 3.00 |
 | 5/5/2025 | VND2048A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 4/29/2025 | GPN1163A | Behavior Change Plan Training | Passed | 0.0 | 7.00 |

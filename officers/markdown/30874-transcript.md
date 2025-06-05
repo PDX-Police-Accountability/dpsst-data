@@ -40,7 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/27/2025 | FGP4424A | DPSST Legal Updates | Passed | 0.0 | 1.00 |
-| 3/11/2025 | FGP1252A | First Aid CPR AED Renewals | Passed | 0.0 | 8.00 |
+| 3/11/2025 | FGP1252A | First Aid, CPR  AED Renewals | Passed | 0.0 | 8.00 |
 | 12/10/2024 | FGP1345A | Taser 10 Transition Certification | Passed | 0.0 | 6.00 |
 | 12/1/2024 | FGP1082A | Mobile Detect 101 / Field drug testing | Passed | 0.0 | 1.00 |
 | 11/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
