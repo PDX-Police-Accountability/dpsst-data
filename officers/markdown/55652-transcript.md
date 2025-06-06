@@ -42,6 +42,10 @@
 | 3/17/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/26/2025 | PDP0013A | 2025 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 2/17/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
+| 2/16/2025 | PDP1656A | 2025-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 2/16/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/16/2025 | PDP0621A | 2025-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
+| 2/16/2025 | PDP3392A | 2025-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/10/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 2/10/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 2/10/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |

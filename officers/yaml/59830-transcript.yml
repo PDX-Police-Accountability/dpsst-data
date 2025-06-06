@@ -90,6 +90,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/23/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/23/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/23/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/25/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

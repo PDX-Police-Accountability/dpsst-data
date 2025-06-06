@@ -43,6 +43,9 @@
 | 4/3/2025 | PDP0294A | 2025 Public Order Command Workshop | Passed | 0.0 | 24.00 |
 | 4/1/2025 | PDP3586A | Hazmat/WMD Awareness/Gas Mask | Instructed | 0.0 | 3.00 |
 | 3/26/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
+| 3/26/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 3/26/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/26/2025 | PDP0621A | 2025-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 3/24/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/11/2025 | PDP2208A | Hazmat/WMD Awareness/Gas Mask | Instructed | 0.0 | 3.00 |
 | 3/11/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
@@ -60,6 +63,7 @@
 | 2/10/2025 | PDP3860A | SOP 14-1 Safety Proc for Training Complex | Passed | 0.0 | 0.25 |
 | 2/7/2025 | PDP4210A | 2025 RRT Grenadier Cadre Training | Passed | 0.0 | 8.00 |
 | 1/13/2025 | PDP2390A | 2025 Training Red Dot Optic Transition Course | Passed | 0.0 | 25.00 |
+| 1/13/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 1/10/2025 | PDP4370A | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |

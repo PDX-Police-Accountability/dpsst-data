@@ -228,6 +228,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/27/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/20/2025
   course: PDP1643A
   title: 2020-1 City Attorney Legal Updates for Oct 2020
@@ -282,6 +288,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/19/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/14/2025
   course: M10-23A
   title: DPSST Basic Police Course

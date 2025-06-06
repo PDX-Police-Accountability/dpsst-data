@@ -135,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/30/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/21/2025
   course: 25-0028
   title: DPSST Middle Management F22 Equivalency

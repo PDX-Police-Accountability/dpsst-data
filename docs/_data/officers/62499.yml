@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '62499'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Police Officer
+  rank: Criminalist
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/22/2025
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Criminalst
+  classification: ''
+  assignment: ''
 - date: 7/7/2022
   agency: Portland Police Bureau
   action: Hired
@@ -67,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/24/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/10/2025
   course: PDP1398A
   title: 2025-1 City Att Legal Updates for Sep  Oct 2023

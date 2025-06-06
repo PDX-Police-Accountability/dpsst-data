@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/20/2025 | 5/30/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 4/15/2002 |  |
@@ -38,8 +39,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/2/2025 | TDP2202A | Supervisor Liability for Law Enforcement | Passed | 0.0 | 8.00 |
+| 5/20/2025 | TDP1963A | First Aid/CPR | Passed | 0.0 | 3.00 |
 | 4/18/2025 | TDP3238A | Lead Where You Are Now - Modern Day Recruiting | Passed | 0.0 | 1.00 |
-| 3/28/2025 | TDP3579A | Substance use intervention tech. for youth | Passed | 0.0 | 1.00 |
+| 3/28/2025 | TDP3579A | Substance Use Intervention Tech. for Youth | Passed | 0.0 | 1.00 |
 | 2/27/2025 | TDP1815A | Tactical Disengagement and De-Escalation | Passed | 0.0 | 1.25 |
 | 2/3/2025 | TDP2754A | Bloodborne Pathogens 2025 | Passed | 0.0 | 1.00 |
 | 1/10/2025 | OAC3757A | A Proactive Approach to Wellness | Passed | 0.0 | 1.00 |

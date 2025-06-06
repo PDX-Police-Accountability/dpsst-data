@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 5/8/2025 | HBP2079A | ODT - Patrol Tactics | Passed | 0.0 | 1.00 |
 | 4/24/2025 | HBP2018A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 4/2/2025 | HBP4488A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 4/2/2025 | HBP0061A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |

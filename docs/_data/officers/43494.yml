@@ -113,6 +113,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 3/10/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/6/2025
   course: PDP1585B
   title: ICS-300 Intm Incdt Cmd System for Expanding Incdts

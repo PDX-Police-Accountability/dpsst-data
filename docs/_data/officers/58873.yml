@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 3/20/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/15/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination
@@ -145,6 +151,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 1/13/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/8/2025
   course: PDP0362A
   title: 2024 Safe Training Procedures
@@ -259,6 +271,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/8/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/9/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

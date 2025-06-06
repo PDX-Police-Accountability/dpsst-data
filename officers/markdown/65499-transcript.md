@@ -60,6 +60,7 @@
 | 3/10/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 3/10/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 2/24/2025 | PDP0367A | 2018 TOD 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP3093A | 2018-5 TT 100% Collection and Sub for FA  Casing | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
@@ -74,6 +75,7 @@
 | 2/20/2025 | PDP2898A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
 | 2/20/2025 | PDP1643A | 2020-1 City Attorney Legal Updates for Oct 2020 | Passed | 0.0 | 0.25 |
 | 2/19/2025 | PDP0563A | 2025 FTEP Post DPSST Firearms Roster | Passed | 0.0 | 23.00 |
+| 2/19/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 1/22/2025 | REG2762A | DID-SFST | Passed | 0.0 | 0.00 |
 | 12/31/2024 | PDP1143A | 2024 Radar/Lidar | Passed | 0.0 | 11.50 |

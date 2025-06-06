@@ -75,6 +75,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/8/2025
+  course: HBP2079A
+  title: ODT - Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/23/2025
   course: HBP2357A
   title: ACAP - Airways Training Video

@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/18/2025
+  course: PDP0621A
+  title: 2025-1 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/6/2025
   course: PDP3723A
   title: 2025 Instructor Development
@@ -170,6 +176,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/30/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 1/22/2025
   course: PDP0695A
   title: 2025 FTEP Post DPSST Firearms

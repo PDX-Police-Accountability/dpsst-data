@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/8/2025
   course: PDP1944A
   title: CPR/First Aid
@@ -116,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/6/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/28/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

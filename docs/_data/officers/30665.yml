@@ -106,6 +106,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 3/5/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/10/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap

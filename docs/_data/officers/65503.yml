@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/22/2025
+  course: PDP0621A
+  title: 2025-1 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/22/2025
   course: PDP3665A
   title: 2024 Lead Exposure Training
@@ -228,6 +234,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/27/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/24/2025
   course: PDP0367A
   title: 2018 TOD 100% Collection and Submission

@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/23/2025
   course: PDP0608A
   title: CPR/First Aid
@@ -80,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/26/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/18/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update

@@ -86,6 +86,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/26/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/26/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/26/2025
+  course: PDP0621A
+  title: 2025-1 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/11/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service

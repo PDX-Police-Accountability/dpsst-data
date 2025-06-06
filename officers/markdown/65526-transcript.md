@@ -34,6 +34,7 @@
 | 3/10/2025 | PDP2176A | TEEX WMD Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 3/10/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 2/24/2025 | PDP0302A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP0466A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP1170A | 2021 In-Service Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
@@ -73,6 +74,7 @@
 | 2/19/2025 | PDP2898A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
 | 2/19/2025 | PDP1643A | 2020-1 City Attorney Legal Updates for Oct 2020 | Passed | 0.0 | 0.25 |
 | 2/19/2025 | PDP0853A | School Emergancy Actions | Passed | 0.0 | 0.25 |
+| 2/19/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 1/22/2025 | REG2762A | DID-SFST | Passed | 0.0 | 0.00 |
 | 10/3/2024 | PDP1679A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

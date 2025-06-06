@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 3/20/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/5/2025
   course: PDP2952A
   title: CPR/First Aid
@@ -87,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/25/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/21/2025
   course: OCS2608A
   title: FBI LEEDA - SLI

@@ -47,6 +47,7 @@
 | 1/21/2025 | PDP0581A | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 1/13/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 1/13/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
+| 1/6/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/19/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/18/2024 | PDP0085A | 2024-3 Advanced Academy SVO | Passed | 0.0 | 3.00 |
 | 12/18/2024 | PDP1132A | 2024-3 Advanced Academy Comm. Eng. | Passed | 0.0 | 4.50 |

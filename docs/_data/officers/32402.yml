@@ -100,13 +100,13 @@ training_records:
   hours: '2.00'
 - date: 4/1/2025
   course: HBS1086A
-  title: Virtual-PREA
+  title: Virtual - PREA
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 4/1/2025
   course: HBS3999A
-  title: Virtual-Hate Crimes Training for LE
+  title: 'Virtual: Hate Crimes Training for LE'
   status: Passed
   score: '0.0'
   hours: '1.00'

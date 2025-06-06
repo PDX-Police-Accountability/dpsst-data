@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/13/2025
   course: PDP4334A
   title: 2025 Standard Field Sobriety Test (SFST) Refresher
@@ -54,6 +60,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 1/20/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/15/2025
   course: PDP1398A
   title: 2025-1 City Att Legal Updates for Sep  Oct 2023

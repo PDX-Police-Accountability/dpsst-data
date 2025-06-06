@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/26/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/25/2025
   course: PDP0086B
   title: NICJR Site Visit Indianapolis
@@ -129,6 +135,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/22/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/22/2025
+  course: PDP1343A
+  title: 2025-1 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/10/2025
   course: PDP0222A
   title: 2024 Deflection Center Video for Law Enforcement

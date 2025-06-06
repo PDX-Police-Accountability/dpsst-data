@@ -43,12 +43,15 @@
 | 5/15/2025 | PDP0446A | 2025 K-9 Weekly Training: | Instructed | 0.0 | 5.00 |
 | 5/15/2025 | PDP0446A | 2025 K-9 Weekly Training: | Passed | 0.0 | 5.00 |
 | 5/7/2025 | PDP2799B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.50 |
+| 5/1/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 4/23/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/16/2025 | PDP0667A | 2025 K-9 Weekly Training | Passed | 0.0 | 2.00 |
 | 4/9/2025 | PDP2033A | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 4/2/2025 | PDP3659A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 3/12/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/12/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/5/2025 | PDP0382A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 3/4/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/20/2025 | PDP2447A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |

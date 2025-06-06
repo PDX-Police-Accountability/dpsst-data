@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/24/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/18/2025
   course: PDP3328A
   title: CPR/First Aid
@@ -74,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/20/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/20/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/12/2025
   course: PDP3300A
   title: 2025 CNT Crisis Negotiation Team Annual Training

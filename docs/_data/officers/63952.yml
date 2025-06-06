@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/8/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/24/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

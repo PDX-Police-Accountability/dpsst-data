@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/7/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/1/2025
   course: PDP3586A
   title: Hazmat/WMD Awareness/Gas Mask
@@ -84,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '23.00'
+- date: 3/25/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/10/2025
   course: PDP4044A
   title: TEEX WMD Terrorism Awareness for Emer Resp

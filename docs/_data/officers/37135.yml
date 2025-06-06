@@ -110,6 +110,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/27/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/4/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/3/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/21/2025
   course: PDP2677A
   title: 2025 Radar Lidar Operators Course

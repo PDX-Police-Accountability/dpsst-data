@@ -74,6 +74,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 2/25/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/25/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/25/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/3/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap
@@ -104,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/3/2025
+  course: PDP0621A
+  title: 2025-1 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/31/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

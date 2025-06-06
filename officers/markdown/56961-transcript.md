@@ -49,6 +49,10 @@
 | 2/15/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 2/15/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 2/15/2025 | PDP3238A | Emergancy Operations Plan | Passed | 0.0 | 0.25 |
+| 2/14/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 2/14/2025 | PDP1656A | 2025-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 2/14/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/14/2025 | PDP3392A | 2025-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/7/2025 | PDP4210A | 2025 RRT Grenadier Cadre Training | Passed | 0.0 | 8.00 |
 | 1/10/2025 | PDP4370A | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

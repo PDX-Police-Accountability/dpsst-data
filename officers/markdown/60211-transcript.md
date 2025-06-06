@@ -49,6 +49,7 @@
 | 2/7/2025 | PDP0853A | School Emergancy Actions | Passed | 0.0 | 0.25 |
 | 2/1/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
 | 2/1/2025 | PDP4570A | Dir 0910.00 Update De Minimis Force | Passed | 0.0 | 0.25 |
+| 1/24/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/21/2024 | PDP3205A | 2023-4 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 12/21/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |

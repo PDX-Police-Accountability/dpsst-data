@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/6/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/12/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update
@@ -117,6 +123,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/23/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/23/2025
+  course: PDP1343A
+  title: 2025-1 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/15/2025
   course: PDP1398A
   title: 2025-1 City Att Legal Updates for Sep  Oct 2023

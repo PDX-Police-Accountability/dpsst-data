@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2025 | PDP3434B | Coordinated Response to Sideshow Enforcement | Passed | 0.0 | 16.00 |
 | 4/27/2025 | PDP3009A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/26/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 4/25/2025 | PDP0086B | NICJR Site Visit Indianapolis | Passed | 0.0 | 30.00 |
 | 3/27/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/23/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
@@ -48,6 +49,8 @@
 | 2/23/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/31/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 1/31/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
+| 1/22/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 1/22/2025 | PDP1343A | 2025-1 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 1/10/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/9/2024 | PDP2527A | 2024 External OSP DNA Training | Passed | 0.0 | 2.50 |
 | 12/7/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

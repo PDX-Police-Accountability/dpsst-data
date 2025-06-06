@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/3/2025
+  course: NGP1182A
+  title: Hazmat
+  status: ''
+  score: '0.0'
+  hours: '1.50'
 - date: 4/28/2025
   course: NGP1829A
   title: ACAP

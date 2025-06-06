@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/18/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/10/2025
   course: PDP1541A
   title: 2025 CNT Crisis Negotiation Team Annual Training

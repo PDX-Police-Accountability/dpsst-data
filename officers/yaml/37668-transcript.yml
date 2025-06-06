@@ -215,6 +215,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/10/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/19/2024
   course: PDP3797A
   title: 2024 SERT Camp Rilea Training

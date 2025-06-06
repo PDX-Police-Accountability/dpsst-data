@@ -43,8 +43,8 @@
 | 5/1/2025 | HBS1147A | Virtual De-Escalation Strategies | Passed | 0.0 | 2.00 |
 | 4/20/2025 | HBS1998A | AXON BWC | Passed | 0.0 | 2.00 |
 | 4/1/2025 | HBS4266A | CPR/First Aid/AED Adult  Pediatric | Passed | 0.0 | 2.00 |
-| 4/1/2025 | HBS1086A | Virtual-PREA | Passed | 0.0 | 1.00 |
-| 4/1/2025 | HBS3999A | Virtual-Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
+| 4/1/2025 | HBS1086A | Virtual - PREA | Passed | 0.0 | 1.00 |
+| 4/1/2025 | HBS3999A | Virtual: Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 3/20/2025 | HBS1262A | AXON BWC | Passed | 0.0 | 4.00 |
 | 2/28/2025 | HBS2309A | Virtual ADA Compliance | Passed | 0.0 | 1.00 |
 | 2/3/2025 | HBS2122A | On Duty PIT | Passed | 0.0 | 0.50 |

@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/27/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/24/2025
   course: PDP1170A
   title: 2021 In-Service Procedural Justice Part 3

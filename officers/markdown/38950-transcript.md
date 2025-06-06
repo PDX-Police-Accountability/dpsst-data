@@ -50,7 +50,7 @@
 | 5/1/2025 | HBS2213A | Virtual Sexual Harassment Prevention LE | Passed | 0.0 | 1.00 |
 | 5/1/2025 | HBS1147A | Virtual De-Escalation Strategies | Passed | 0.0 | 2.00 |
 | 5/1/2025 | HBS0199A | Virtual Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
-| 4/1/2025 | HBS1086A | Virtual-PREA | Passed | 0.0 | 1.00 |
+| 4/1/2025 | HBS1086A | Virtual - PREA | Passed | 0.0 | 1.00 |
 | 2/28/2025 | HBS2309A | Virtual ADA Compliance | Passed | 0.0 | 1.00 |
 | 1/22/2025 | HBS1949A | WCPOA/WCSO Labor Law Training | Passed | 0.0 | 2.50 |
 | 12/18/2024 | HBS3475A | Admin InService #2 (Leadership) | Instructed | 0.0 | 1.00 |

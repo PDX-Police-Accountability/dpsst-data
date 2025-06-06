@@ -128,6 +128,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 3/13/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/6/2025
   course: PDP2870A
   title: 2025 SERT Training - Firearms
@@ -152,6 +158,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/27/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/26/2025
   course: PDP1491A
   title: 2025 SERT Training - Scenario

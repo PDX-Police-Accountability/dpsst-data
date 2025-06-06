@@ -114,6 +114,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/8/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/8/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/2/2025
   course: PDP1957A
   title: 2024 ECIT Dispatch Update

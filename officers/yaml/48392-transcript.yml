@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/6/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/25/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update
@@ -147,6 +153,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/10/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

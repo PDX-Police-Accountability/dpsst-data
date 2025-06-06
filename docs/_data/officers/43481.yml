@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 3/6/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/5/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination
@@ -123,6 +129,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/14/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/14/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/14/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/9/2025
   course: PDP1398A
   title: 2025-1 City Att Legal Updates for Sep  Oct 2023

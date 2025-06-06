@@ -134,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/17/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/15/2025
   course: PDP1514A
   title: 2025 CNT Crisis Negotiation Team Annual Training
@@ -152,6 +158,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/8/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/6/2025
   course: PDP4326A
   title: 2024-10 CAO Legal Updates for July  August 2023

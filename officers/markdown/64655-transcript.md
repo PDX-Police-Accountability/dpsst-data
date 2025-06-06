@@ -45,6 +45,7 @@
 | 3/20/2025 | PDP0518A | 2025-1 Advanced Academy CEW | Passed | 0.0 | 1.00 |
 | 3/20/2025 | PDP2503A | 2025-1 Advanced Academy Wellness | Passed | 0.0 | 7.00 |
 | 3/19/2025 | PDP0798A | 2025-1 Advanced Academy Firearms | Passed | 0.0 | 38.25 |
+| 3/17/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/5/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/3/2025 | PDP4515A | 2025-1 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 2/27/2025 | PDP3320A | 2025-1 Advanced Academy Trauma Infor Interv | Passed | 0.0 | 2.25 |

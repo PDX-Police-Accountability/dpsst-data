@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDP3696A | 2025 Explosive Disposal Unit (MEDU) Trng | Passed | 0.0 | 9.00 |
+| 5/21/2025 | PDP3696A | 2025 Explosive Disposal Unit (MEDU) Trng | Instructed | 0.0 | 9.00 |
 | 5/14/2025 | PDP0891B | 2025 EDU (MEDU) Weekly Training | Passed | 0.0 | 9.00 |
 | 4/30/2025 | PDP2984B | 2025 EDU (MEDU) Weekly Training | Passed | 0.0 | 9.00 |
 | 4/30/2025 | PDP2984B | 2025 EDU (MEDU) Weekly Training | Instructed | 0.0 | 9.00 |
@@ -47,8 +49,11 @@
 | 3/31/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/31/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
+| 3/20/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/20/2025 | PDP1343A | 2025-1 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 3/19/2025 | PDP3702A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 3/19/2025 | PDP3702A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
+| 3/13/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/12/2025 | PDP2611A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 3/12/2025 | PDP2611A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 3/6/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

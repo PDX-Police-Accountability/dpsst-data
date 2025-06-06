@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDP3696A | 2025 Explosive Disposal Unit (MEDU) Trng | Passed | 0.0 | 9.00 |
 | 5/14/2025 | PDP0891B | 2025 EDU (MEDU) Weekly Training | Passed | 0.0 | 9.00 |
 | 5/7/2025 | PDP0000B | 2025 EDU (MEDU) Weekly Training | Passed | 0.0 | 9.00 |
 | 4/16/2025 | PDP3486A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
@@ -44,8 +45,10 @@
 | 4/2/2025 | PDP3737A | 2025 Explosive Disposal Unit (MEDU) Weekly | Instructed | 0.0 | 9.00 |
 | 3/27/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
+| 3/27/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/26/2025 | PDP3889A | EDU Sustainment Training | Passed | 0.0 | 9.00 |
 | 3/24/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 3/20/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/19/2025 | PDP3702A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 3/17/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/17/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |

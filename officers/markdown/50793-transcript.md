@@ -46,6 +46,10 @@
 | 4/9/2025 | PDP2033A | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 3/20/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/19/2025 | PDP2959A | K-9 Weekly Training | Passed | 0.0 | 4.50 |
+| 3/12/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 3/12/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/12/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/12/2025 | PDP1343A | 2025-1 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 3/5/2025 | PDP0382A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.50 |
 | 2/20/2025 | PDP2447A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |
 | 2/13/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |

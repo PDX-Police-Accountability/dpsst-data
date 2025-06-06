@@ -16,11 +16,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 4/23/2025
+- status_date: 6/4/2025
   certificate: Police Officer
   level: Advanced
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 6/4/2025
   expiration_date: ''
   probation_date: ''
 - status_date: 11/21/2023
@@ -113,6 +113,18 @@ training_records:
 - date: 3/15/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/12/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/12/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'

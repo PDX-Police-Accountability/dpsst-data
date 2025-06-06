@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/8/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/31/2024
   course: PDP2317A
   title: 2024 Concealed Carry Course

@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/23/2025 | Police Officer | Advanced | App Recd |  |  |  |
+| 6/4/2025 | Police Officer | Advanced | Granted | 6/4/2025 |  |  |
 | 11/21/2023 | Police Officer | Intermediate | Granted | 11/21/2023 |  |  |
 | 1/8/2019 | Police Officer | Basic | Granted | 1/8/2019 |  |  |
 ## Attributes
@@ -48,6 +48,8 @@
 | 3/19/2025 | PDP2959A | K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 3/19/2025 | PDP2959A | K-9 Weekly Training | Instructed | 0.0 | 5.00 |
 | 3/15/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 3/12/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/12/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/5/2025 | PDP0382A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 2/20/2025 | PDP2447A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |
 | 2/13/2025 | PDP4037A | 2025 K-9 Weekly Training | Passed | 0.0 | 5.25 |

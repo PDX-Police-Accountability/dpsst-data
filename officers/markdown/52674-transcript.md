@@ -44,6 +44,8 @@
 | 3/19/2025 | PDP3727A | SERT Critical Infrastructure Familiarization | Passed | 0.0 | 3.00 |
 | 3/18/2025 | PDP2890A | 2025 SERT Training - ITERATION | Passed | 0.0 | 3.00 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 18.00 |
+| 3/11/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/11/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 3/5/2025 | PDP0910A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 3/5/2025 | PDP0910A | 2025 SERT Training - Scenario | Instructed | 0.0 | 2.00 |

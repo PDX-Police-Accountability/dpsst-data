@@ -68,6 +68,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/11/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/11/2025
+  course: PDP1343A
+  title: 2025-1 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/20/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update

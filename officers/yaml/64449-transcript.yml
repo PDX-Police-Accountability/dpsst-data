@@ -108,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/23/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/18/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English

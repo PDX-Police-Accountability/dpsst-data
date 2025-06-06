@@ -48,6 +48,9 @@
 | 4/25/2025 | OSH2911A | VIN Identification Basics 2025 | Passed | 0.0 | 24.00 |
 | 4/25/2025 | PDP1674A | VIN Identification Basics 2025 | Passed | 0.0 | 24.00 |
 | 3/27/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 3/27/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 3/4/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 3/3/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 2/21/2025 | PDP2677A | 2025 Radar Lidar Operators Course | Passed | 0.0 | 14.00 |
 | 2/21/2025 | REG1395A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 2/6/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |

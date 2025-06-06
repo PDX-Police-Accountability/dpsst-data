@@ -64,6 +64,7 @@
 | 1/16/2025 | PDP3209A | AA 2025 Building Police Legit through Proc Justice | Passed | 0.0 | 0.25 |
 | 1/13/2025 | PDP3101A | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 1/13/2025 | PDP3238A | Emergancy Operations Plan | Passed | 0.0 | 0.25 |
+| 1/7/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 12/24/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/24/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 10/29/2024 | PDP0066A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |

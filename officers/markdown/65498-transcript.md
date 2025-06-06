@@ -36,6 +36,7 @@
 | 3/10/2025 | PDP2176A | TEEX WMD Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 3/10/2025 | PDP3665A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 2/24/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP0302A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP0466A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |

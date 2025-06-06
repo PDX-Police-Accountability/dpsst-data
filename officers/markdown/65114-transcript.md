@@ -64,6 +64,7 @@
 | 1/16/2025 | PDP3209A | AA 2025 Building Police Legit through Proc Justice | Passed | 0.0 | 0.25 |
 | 1/16/2025 | PDP3101A | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 1/6/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 1/6/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 12/1/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/1/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 9/29/2024 | PDP3920A | 2018 Detectives How to Spot a Skimmer | Passed | 0.0 | 0.25 |

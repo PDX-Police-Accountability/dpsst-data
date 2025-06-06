@@ -54,6 +54,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 11/16/2023
+  course: PDP1483A
+  title: ICS 100 Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/16/2023
+  course: PDP1759A
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/16/2023
+  course: PDP4237A
+  title: IS-700 Intro to Nat Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR

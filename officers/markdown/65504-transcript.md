@@ -49,6 +49,7 @@
 | 3/2/2025 | PDP0601A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 3/2/2025 | PDP0639A | Dir 660.10 Property Evidence Procedures | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 2/24/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP0302A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 2/24/2025 | PDP0466A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
@@ -74,6 +75,7 @@
 | 2/20/2025 | PDP4570A | Dir 0910.00 Update De Minimis Force | Passed | 0.0 | 0.25 |
 | 2/19/2025 | PDP0563A | 2025 FTEP Post DPSST Firearms Roster | Passed | 0.0 | 23.00 |
 | 2/19/2025 | PDP2898A | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
+| 2/19/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 1/22/2025 | REG2762A | DID-SFST | Passed | 0.0 | 0.00 |
 | 12/31/2024 | PDP1143A | 2024 Radar/Lidar | Passed | 0.0 | 11.50 |

@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/24/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/26/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders
@@ -121,12 +127,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/15/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/15/2025
+  course: PDP1656A
+  title: 2025-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2025
+  course: PDP3392A
+  title: 2025-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/13/2025
   course: PDP2390A
   title: 2025 Training Red Dot Optic Transition Course
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 1/13/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/10/2025
   course: PDP1541A
   title: 2025 CNT Crisis Negotiation Team Annual Training

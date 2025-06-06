@@ -151,6 +151,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '38.25'
+- date: 3/17/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/3/2025
   course: PDP4515A
   title: 2025-1 Advanced Academy ABLE

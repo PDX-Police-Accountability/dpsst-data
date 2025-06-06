@@ -96,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/24/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/10/2025
   course: PDP1398A
   title: 2025-1 City Att Legal Updates for Sep  Oct 2023

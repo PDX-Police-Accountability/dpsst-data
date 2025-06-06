@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/12/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/11/2025
   course: PDP0221A
   title: 2025 Sworn In-Service PVO Stop Stick Intro Video

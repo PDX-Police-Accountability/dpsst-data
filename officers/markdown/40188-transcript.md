@@ -45,6 +45,7 @@
 | 3/20/2025 | PDP1021A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 3/19/2025 | PDP1622A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/18/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 3/18/2025 | PDP0621A | 2025-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDP3723A | 2025 Instructor Development | Passed | 0.0 | 28.00 |
 | 2/26/2025 | PDP0013A | 2025 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 2/12/2025 | PDP3300A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
@@ -55,6 +56,7 @@
 | 2/5/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 2/3/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 2/3/2025 | PDP3860A | SOP 14-1 Safety Proc for Training Complex | Passed | 0.0 | 0.25 |
+| 1/30/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 2.50 |
 | 1/22/2025 | PDP0695A | 2025 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 1/21/2025 | PDP0695A | 2025 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 1/15/2025 | PDP1514A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |

@@ -47,6 +47,7 @@
 | 3/6/2025 | PDP1585B | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 23.50 |
 | 2/21/2025 | OCS2608A | FBI LEEDA - SLI | Passed | 0.0 | 36.00 |
 | 2/21/2025 | PDP0409B | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
+| 1/25/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/17/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/17/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 1/17/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |

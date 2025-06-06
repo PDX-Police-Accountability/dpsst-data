@@ -46,6 +46,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/18/2025 | PDP4211A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 3/19/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/19/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/14/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/13/2025 | PDP2455A | Nighthawk Advanced Digital Tradecraft | Passed | 0.0 | 28.00 |
 | 1/31/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |

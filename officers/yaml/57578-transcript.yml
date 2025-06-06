@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/19/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service

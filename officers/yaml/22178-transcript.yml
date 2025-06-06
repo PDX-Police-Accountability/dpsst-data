@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/13/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/11/2025
   course: PDP2607A
   title: 2025 Sworn In-Service PVO Stop Stick External
@@ -170,6 +176,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/7/2025
+  course: PDP1656A
+  title: 2025-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/7/2025
+  course: PDP0621A
+  title: 2025-1 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/7/2025
+  course: PDP3392A
+  title: 2025-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/14/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement

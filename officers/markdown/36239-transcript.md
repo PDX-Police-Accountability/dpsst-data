@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDP3696A | 2025 Explosive Disposal Unit (MEDU) Trng | Passed | 0.0 | 9.00 |
 | 5/9/2025 | PDP3805B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/7/2025 | PDP0000B | 2025 EDU (MEDU) Weekly Training | Passed | 0.0 | 9.00 |
 | 4/30/2025 | PDP2984B | 2025 EDU (MEDU) Weekly Training | Passed | 0.0 | 9.00 |
@@ -48,6 +49,7 @@
 | 3/19/2025 | PDP3702A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 3/6/2025 | PDP3723A | 2025 Instructor Development | Passed | 0.0 | 28.00 |
 | 2/26/2025 | PDP4259A | 2025 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
+| 2/24/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/12/2025 | PDP2948A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 2/6/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/6/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

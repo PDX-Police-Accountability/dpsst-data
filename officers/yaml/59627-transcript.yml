@@ -91,6 +91,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 1/18/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/18/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/15/2025
+  course: PDP0621A
+  title: 2025-1 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/13/2025
   course: PDP2390A
   title: 2025 Training Red Dot Optic Transition Course

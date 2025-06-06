@@ -35,6 +35,7 @@
 | 3/24/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/9/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 2/25/2025 | PDP1643A | 2020-1 City Attorney Legal Updates for Oct 2020 | Passed | 0.0 | 0.25 |
+| 2/25/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 2/7/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/7/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 2/7/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
@@ -76,6 +77,7 @@
 | 1/25/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |
 | 1/24/2025 | PDP4503A | 2024-9 CAO Legal Updates for September 2024 | Passed | 0.0 | 0.50 |
 | 1/24/2025 | PDP2358A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/23/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/22/2025 | PDP0695A | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 1/21/2025 | PDP0695A | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 1/20/2025 | PDP0633A | IS-700 Intro to National Incident Managment System | Passed | 0.0 | 4.00 |

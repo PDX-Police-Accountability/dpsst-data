@@ -37,6 +37,7 @@
 | 5/9/2025 | PDP3675A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/27/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
+| 3/20/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/15/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/8/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 2/8/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
@@ -51,6 +52,7 @@
 | 1/15/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/15/2025 | PDP3860A | SOP 14-1 Safety Proc for Training Complex | Passed | 0.0 | 0.25 |
 | 1/13/2025 | PDP2390A | 2025 Training Red Dot Optic Transition Course | Passed | 0.0 | 25.00 |
+| 1/13/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/8/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 1/8/2025 | PDP2226A | 2023-4 City Attorney Legal Update for April 23 | Passed | 0.0 | 0.25 |
 | 1/8/2025 | PDP3154A | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
@@ -70,6 +72,7 @@
 | 1/8/2025 | PDP4570A | Dir 0910.00 Update De Minimis Force | Passed | 0.0 | 0.25 |
 | 1/8/2025 | PDP3238A | Emergancy Operations Plan | Passed | 0.0 | 0.25 |
 | 1/8/2025 | PDP0853A | School Emergancy Actions | Passed | 0.0 | 0.25 |
+| 1/8/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 2/9/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/23/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 1/23/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |

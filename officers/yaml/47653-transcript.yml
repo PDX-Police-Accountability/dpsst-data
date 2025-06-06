@@ -68,6 +68,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 3/18/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/18/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/11/2025
   course: PDP2208A
   title: Hazmat/WMD Awareness/Gas Mask

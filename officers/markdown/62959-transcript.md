@@ -40,6 +40,7 @@
 | 2/6/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/30/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 1/30/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
+| 1/9/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/4/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 1/4/2025 | PDP1953A | 2020-1 City Attorney Legal Updates for Jan 2020 | Passed | 0.0 | 0.50 |
 | 1/1/2025 | PDP2580A | 2017-3 City Attorney Office Legal Updates | Passed | 0.0 | 0.25 |

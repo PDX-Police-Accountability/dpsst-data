@@ -38,6 +38,8 @@
 | 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
 | 4/27/2025 | PDP2408A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/7/2025 | PDP2858B | Post Basic CEW | Instructed | 0.0 | 9.00 |
+| 3/18/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 3/18/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/11/2025 | PDP2208A | Hazmat/WMD Awareness/Gas Mask | Instructed | 0.0 | 3.00 |
 | 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 2/20/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |

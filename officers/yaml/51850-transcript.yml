@@ -50,6 +50,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 5/1/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/9/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/21/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

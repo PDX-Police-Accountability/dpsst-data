@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/20/2025
+  course: TDP1963A
+  title: First Aid/CPR
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/18/2025
   course: TDP3238A
   title: Lead Where You Are Now - Modern Day Recruiting
@@ -82,7 +88,7 @@ training_records:
   hours: '1.00'
 - date: 3/28/2025
   course: TDP3579A
-  title: Substance use intervention tech. for youth
+  title: Substance Use Intervention Tech. for Youth
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -2031,6 +2037,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/20/2025
+  expiration_date: 5/30/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

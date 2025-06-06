@@ -36,6 +36,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/25/2025
+  course: PDP1759A
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/19/2025
   course: M10-23A
   title: DPSST Basic Police Course
@@ -48,6 +54,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 5/12/2025
+  course: PDP4081A
+  title: ICS 100 Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/12/2025
+  course: PDP4237A
+  title: IS-700 Intro to Nat Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/7/2025
   course: PDP0261A
   title: 2025 FTEP Policy  Procedure

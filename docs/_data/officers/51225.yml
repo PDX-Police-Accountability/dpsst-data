@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/6/2025
+  course: PDP1017A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/1/2025
   course: PDP1998A
   title: CPR/First Aid
@@ -122,6 +128,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/27/2025
+  course: PDP2743A
+  title: 2025-1 Range Qual 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/26/2025
   course: PDP1491A
   title: 2025 SERT Training - Scenario
@@ -6195,6 +6219,10 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/6/2025
+  expiration_date: 5/6/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

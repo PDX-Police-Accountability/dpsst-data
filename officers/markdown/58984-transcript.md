@@ -56,6 +56,8 @@
 | 1/29/2025 | PDP2170A | 2024-2 In-Service Wellness Video | Passed | 0.0 | 1.00 |
 | 1/29/2025 | PDP3874A | 2024-2 In-Service Wellness Video | Passed | 0.0 | 1.00 |
 | 1/29/2025 | PDP3860A | SOP 14-1 Safety Proc for Training Complex | Passed | 0.0 | 0.25 |
+| 1/29/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 1/29/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/28/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 1/28/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 1/28/2025 | PDP3275A | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |

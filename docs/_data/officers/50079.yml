@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 3/27/2025
+  course: PDP2273A
+  title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/19/2025
   course: PDP1113A
   title: 2024-5 Naloxone Adm Guidelines
@@ -111,6 +117,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/17/2025
+  course: PDP2224A
+  title: 2025-1 Range Qual AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/17/2025
+  course: PDP3257A
+  title: 2025-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap

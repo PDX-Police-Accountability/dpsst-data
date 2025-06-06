@@ -46,6 +46,8 @@
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/9/2025 | PDP3268A | 2024 ECIT Recording Define the Event | Passed | 0.0 | 0.50 |
 | 1/9/2025 | PDP3115A | 2024 ECIT Define the Event | Passed | 0.0 | 1.00 |
+| 1/8/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/8/2025 | PDP1343A | 2025-1 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 12/31/2024 | MAINTMUC | Maintenance Makeup CIT/MH | Passed | 0.0 | 0.50 |
 | 12/31/2024 | MISCMAIN | 2024 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/27/2024 | PDP0099A | 2023-2 IS Trauma Informed Interviewing | Passed | 0.0 | 2.00 |
