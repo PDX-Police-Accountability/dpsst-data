@@ -46,17 +46,17 @@
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/25/2025 | PDP2302A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
-| 4/9/2025 | PDP0420A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 2.00 |
+| 4/9/2025 | PDP0420A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 3/28/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/28/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/28/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
-| 3/27/2025 | PDP1069A | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |
-| 3/27/2025 | PDP1069A | 2025 SERT Training - ITERATION | Instructed | 0.0 | 8.00 |
+| 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
+| 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Instructed | 0.0 | 8.00 |
 | 3/26/2025 | PDP3744A | SERT Technology Refresher Hostage Rescue | Passed | 0.0 | 2.00 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Instructed | 0.0 | 9.00 |
-| 3/18/2025 | PDP2890A | 2025 SERT Training - ITERATION | Instructed | 0.0 | 3.00 |
-| 3/18/2025 | PDP2890A | 2025 SERT Training - ITERATION | Passed | 0.0 | 3.00 |
+| 3/18/2025 | PDP2890A | 2025 SERT Training - Iteration | Instructed | 0.0 | 3.00 |
+| 3/18/2025 | PDP2890A | 2025 SERT Training - Iteration | Passed | 0.0 | 3.00 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 18.00 |
 | 3/7/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |

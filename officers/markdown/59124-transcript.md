@@ -36,6 +36,7 @@
 | 10/9/2025 | BVP2023A | EVOC Classroom | Passed | 0.0 | 3.00 |
 | 9/28/2025 | BVP3487A | CIS Classes and Social Media | Passed | 0.0 | 4.00 |
 | 9/27/2025 | BVP2102A | Body-Worn Camera | Passed | 0.0 | 2.00 |
+| 5/26/2025 | BVP3480A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
 | 3/10/2025 | E11BVP22 | FTM Equivalency (Beaverton Police Department) | Completed | 0.0 | 50.00 |
 | 2/21/2025 | BVP1298A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 12/23/2024 | HBS0656A | 2024 Active Threat | Passed | 0.0 | 9.00 |

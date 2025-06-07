@@ -41,7 +41,7 @@
 | 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 3/31/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
-| 3/27/2025 | PDP1069A | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |
+| 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/20/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 27.00 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |

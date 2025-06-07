@@ -642,6 +642,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 3/27/2024
+  course: PDP3336A
+  title: IS-100.c Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/21/2024
   course: PDP4366A
   title: CPR/First Aid

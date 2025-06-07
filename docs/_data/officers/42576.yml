@@ -112,7 +112,7 @@ training_records:
   hours: '0.25'
 - date: 3/27/2025
   course: PDP1069A
-  title: 2025 SERT Training - ITERATION
+  title: 2025 SERT Training - Iteration
   status: Passed
   score: '0.0'
   hours: '8.00'
@@ -4657,10 +4657,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/13/2025
   expiration_date: 5/13/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/28/2025
-  expiration_date: 4/28/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

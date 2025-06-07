@@ -38,15 +38,15 @@
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/21/2025 | PDP0231A | CPR/First Aid | Passed | 0.0 | 1.75 |
-| 4/17/2025 | PDP1871A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
-| 3/27/2025 | PDP1069A | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |
+| 4/17/2025 | PDP1871A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/26/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/26/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
 | 3/26/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 9.00 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
-| 2/27/2025 | PDP4029A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP4029A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/27/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |

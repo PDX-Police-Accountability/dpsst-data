@@ -27,8 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
@@ -40,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 6/4/2025 | PDS0530A | Lift Bags for SCUBA | Instructed | 0.0 | 8.00 |
 | 5/21/2025 | PDS3359A | Evidence Searching | Instructed | 0.0 | 8.00 |
 | 5/2/2025 | PDS1061A | Underwater Surveying of Vehicles | Instructed | 0.0 | 8.00 |
 | 4/14/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |

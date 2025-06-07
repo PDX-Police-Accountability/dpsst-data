@@ -30,7 +30,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/13/2025 | 5/13/2027 |
-| Certification Cards | First Aid and CPR | 4/28/2025 | 4/28/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 11/27/2007 |  |
@@ -49,7 +48,7 @@
 | 4/28/2025 | PDP0480A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
-| 3/27/2025 | PDP1069A | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |
+| 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/26/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 18.00 |
 | 2/26/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |

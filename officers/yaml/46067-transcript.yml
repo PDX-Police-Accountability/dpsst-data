@@ -112,7 +112,7 @@ training_records:
   hours: '1.00'
 - date: 3/27/2025
   course: PDP1069A
-  title: 2025 SERT Training - ITERATION
+  title: 2025 SERT Training - Iteration
   status: Passed
   score: '0.0'
   hours: '8.00'

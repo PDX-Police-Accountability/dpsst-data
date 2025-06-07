@@ -82,7 +82,7 @@ training_records:
   hours: '1.75'
 - date: 4/9/2025
   course: PDP0420A
-  title: 2025 SERT Training - SCENARIO
+  title: 2025 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '2.00'

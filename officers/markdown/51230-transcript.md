@@ -38,11 +38,11 @@
 | 5/6/2025 | PDP0673B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/30/2025 | PDP3804A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 2.00 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
-| 4/17/2025 | PDP1871A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 4/17/2025 | PDP1871A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 3/19/2025 | PDP3727A | SERT Critical Infrastructure Familiarization | Passed | 0.0 | 3.00 |
-| 3/18/2025 | PDP2890A | 2025 SERT Training - ITERATION | Passed | 0.0 | 3.00 |
+| 3/18/2025 | PDP2890A | 2025 SERT Training - Iteration | Passed | 0.0 | 3.00 |
 | 3/17/2025 | PDP4099A | SERT Large Caliber Rifle Operations Orientation | Instructed | 0.0 | 10.00 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 27.00 |
 | 3/7/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
@@ -50,7 +50,7 @@
 | 3/7/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
 | 3/7/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
-| 2/27/2025 | PDP4029A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP4029A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/27/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -44,8 +44,8 @@
 | 5/1/2025 | PDP1998A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/30/2025 | PDP3804A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 2.00 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
-| 4/9/2025 | PDP0420A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 2.00 |
-| 3/27/2025 | PDP1069A | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |
+| 4/9/2025 | PDP0420A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
+| 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/26/2025 | PDP3744A | SERT Technology Refresher Hostage Rescue | Passed | 0.0 | 2.00 |
 | 3/25/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/25/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

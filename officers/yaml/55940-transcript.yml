@@ -39,13 +39,13 @@ training_records:
   hours: '9.00'
 - date: 4/17/2025
   course: PDP1871A
-  title: 2025 SERT Training - FIREARMS
+  title: 2025 SERT Training - Firearms
   status: Passed
   score: '0.0'
   hours: '9.00'
 - date: 4/17/2025
   course: PDP1871A
-  title: 2025 SERT Training - FIREARMS
+  title: 2025 SERT Training - Firearms
   status: Instructed
   score: '0.0'
   hours: '9.00'
@@ -63,13 +63,13 @@ training_records:
   hours: '27.00'
 - date: 3/27/2025
   course: PDP1069A
-  title: 2025 SERT Training - ITERATION
+  title: 2025 SERT Training - Iteration
   status: Passed
   score: '0.0'
   hours: '8.00'
 - date: 3/27/2025
   course: PDP1069A
-  title: 2025 SERT Training - ITERATION
+  title: 2025 SERT Training - Iteration
   status: Instructed
   score: '0.0'
   hours: '8.00'
@@ -141,13 +141,13 @@ training_records:
   hours: '9.00'
 - date: 2/27/2025
   course: PDP4029A
-  title: 2025 SERT Training - SCENARIO
+  title: 2025 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '9.00'
 - date: 2/27/2025
   course: PDP4029A
-  title: 2025 SERT Training - SCENARIO
+  title: 2025 SERT Training - Scenario
   status: Instructed
   score: '0.0'
   hours: '9.00'

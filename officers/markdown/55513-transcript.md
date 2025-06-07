@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2025 | BVP3212A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
 | 4/30/2025 | HBS0622B | TNT - Entry Training | Passed | 0.0 | 7.50 |
 | 4/8/2025 | HBS3906B | TNT - Building Search/Cautious Clears/HRT | Passed | 0.0 | 5.00 |
 | 4/8/2025 | HBS0288B | TNT Vehicle Takedowns | Passed | 0.0 | 3.00 |

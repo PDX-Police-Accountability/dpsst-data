@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2025 | EGP1572A | Emergency Airport Incident Command Exercise | Passed | 0.0 | 2.00 |
 | 4/10/2025 | EGP0646B | Firearm Qualification | Passed | 0.0 | 4.00 |
 | 4/10/2025 | EGP2246B | Taser Recertification | Passed | 0.0 | 4.00 |
 | 3/11/2025 | EGP4133A | LEDS Recertification | Passed | 0.0 | 1.00 |

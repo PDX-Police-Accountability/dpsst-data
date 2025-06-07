@@ -965,6 +965,7 @@
 | Koback, Robert B. | 63459 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63459-transcript.md) - [yaml](../yaml/63459-transcript.yml) |
 | Ortiz-Hernandez, Diego | 63520 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63520-transcript.md) - [yaml](../yaml/63520-transcript.yml) |
 | Rudakova, Diana L. | 63527 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63527-transcript.md) - [yaml](../yaml/63527-transcript.yml) |
+| Liu, Simeni M. | 63530 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
 | MacIntyre, Nathan W., Jr. | 63589 | Portland Police Bureau | Active | Police Officer | Hired | 2022-11-10 | [md](../markdown/63589-transcript.md) - [yaml](../yaml/63589-transcript.yml) |
 | Purcell, Hannah Z. | 63594 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63594-transcript.md) - [yaml](../yaml/63594-transcript.yml) |
 | Epton, Jason A. | 63601 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63601-transcript.md) - [yaml](../yaml/63601-transcript.yml) |
@@ -1027,7 +1028,6 @@
 | McGreevy-Mills, Kyle M. | 64978 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64978-transcript.md) - [yaml](../yaml/64978-transcript.yml) |
 | Pierce-Smith, Skylar K. | 65015 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65015-transcript.md) - [yaml](../yaml/65015-transcript.yml) |
 | Tha, Yo | 65018 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65018-transcript.md) - [yaml](../yaml/65018-transcript.yml) |
-| Avant, Zachary W. | 65020 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65020-transcript.md) - [yaml](../yaml/65020-transcript.yml) |
 | Kelly, Cameron A. | 65039 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65039-transcript.md) - [yaml](../yaml/65039-transcript.yml) |
 | Ratcliffe, Tate | 65111 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65111-transcript.md) - [yaml](../yaml/65111-transcript.yml) |
 | Robles, Daniel A. | 65114 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65114-transcript.md) - [yaml](../yaml/65114-transcript.yml) |
@@ -1772,7 +1772,6 @@
 | Worthington, Heather D. | 63415 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-05-01 | [md](../markdown/63415-transcript.md) - [yaml](../yaml/63415-transcript.yml) |
 | Clancy, Joshua L. | 63424 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-04-02 | [md](../markdown/63424-transcript.md) - [yaml](../yaml/63424-transcript.yml) |
 | Pegoski, Billy R. | 63528 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-04-13 | [md](../markdown/63528-transcript.md) - [yaml](../yaml/63528-transcript.yml) |
-| Liu, Simeni M. | 63530 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-11-01 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
 | Brown, Michael R. | 63531 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-03-03 | [md](../markdown/63531-transcript.md) - [yaml](../yaml/63531-transcript.yml) |
 | Milton, Llissel G. | 63598 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-04-16 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |
 | Vega-Garduno, Adolfo | 63655 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-06-25 | [md](../markdown/63655-transcript.md) - [yaml](../yaml/63655-transcript.yml) |
@@ -1785,6 +1784,7 @@
 | Labato, Chaz J. | 64296 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-03-28 | [md](../markdown/64296-transcript.md) - [yaml](../yaml/64296-transcript.yml) |
 | Hwang, David J. | 64865 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-04-13 | [md](../markdown/64865-transcript.md) - [yaml](../yaml/64865-transcript.yml) |
 | Hamm, Timothy M. | 65019 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-07-23 | [md](../markdown/65019-transcript.md) - [yaml](../yaml/65019-transcript.yml) |
+| Avant, Zachary W. | 65020 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-03 | [md](../markdown/65020-transcript.md) - [yaml](../yaml/65020-transcript.yml) |
 | Rapae, Cody E. | 65021 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-05-14 | [md](../markdown/65021-transcript.md) - [yaml](../yaml/65021-transcript.yml) |
 | Covarrubias, Ramon, Jr. | 65026 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-11-13 | [md](../markdown/65026-transcript.md) - [yaml](../yaml/65026-transcript.yml) |
 | Moosavi, Sayed J. | 65034 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-03-24 | [md](../markdown/65034-transcript.md) - [yaml](../yaml/65034-transcript.yml) |

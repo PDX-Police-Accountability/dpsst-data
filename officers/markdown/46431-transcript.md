@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | PDP2303A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/1/2025 | PDP3222A | INIA Drug Terrorist Interdiction Training | Passed | 0.0 | 24.00 |
 | 3/15/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/13/2025 | VND1658A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 3/13/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

@@ -75,19 +75,19 @@ training_records:
   hours: '1.00'
 - date: 4/22/2025
   course: PDN2754A
-  title: Defensive Tactics-Pre-Attack Skills
+  title: Defensive Tactics - Pre-Attack Skills
   status: Passed
   score: '0.0'
   hours: '1.50'
 - date: 4/10/2025
   course: PDN2738A
-  title: Defensive Tactics-Arrest Procedures
+  title: Defensive Tactics - Arrest Procedures
   status: Passed
   score: '0.0'
   hours: '1.50'
 - date: 4/10/2025
   course: PDN3845A
-  title: Defensive Tactics-Stand Up Defenses
+  title: Defensive Tactics - Stand Up Defenses
   status: Passed
   score: '0.0'
   hours: '1.50'

@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2025
+  course: OCS2175A
+  title: FARO Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/28/2025
   course: OCP3795A
   title: Spring 2025 Officer In Charge Training

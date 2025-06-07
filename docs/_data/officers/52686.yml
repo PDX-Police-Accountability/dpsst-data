@@ -85,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/27/2025
+  course: PDP0333A
+  title: CTK Interview  Interrogation Basic
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 2/12/2025
   course: PDP3300A
   title: 2025 CNT Crisis Negotiation Team Annual Training

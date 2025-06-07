@@ -70,6 +70,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/27/2025
+  course: BVP4453A
+  title: Control Tactics / Taser Recertification
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/27/2025
+  course: BVP2589A
+  title: Control Tactics / Taser Recertification
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/16/2025
+  course: BVP2825A
+  title: Control Tactics / Taser Recertification Instructor
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/18/2025
   course: BVP3011A
   title: IST Range February 2025

@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/12/2025 | LOP2143A | Mindset Matters | Passed | 0.0 | 5.00 |
+| 3/6/2025 | LOP2287A | Cooperative and Forcible Removal From Vehicles | Passed | 0.0 | 2.00 |
 | 2/14/2025 | LOP1092A | CCDA DV Investigations Presentation | Passed | 0.0 | 2.00 |
 | 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
 | 12/31/2024 | LOP2336A | OC Refresher | Passed | 0.0 | 2.00 |

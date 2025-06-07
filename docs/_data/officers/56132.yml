@@ -112,7 +112,7 @@ training_records:
   hours: '9.00'
 - date: 4/9/2025
   course: PDP0420A
-  title: 2025 SERT Training - SCENARIO
+  title: 2025 SERT Training - Scenario
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -136,13 +136,13 @@ training_records:
   hours: '0.75'
 - date: 3/27/2025
   course: PDP1069A
-  title: 2025 SERT Training - ITERATION
+  title: 2025 SERT Training - Iteration
   status: Passed
   score: '0.0'
   hours: '8.00'
 - date: 3/27/2025
   course: PDP1069A
-  title: 2025 SERT Training - ITERATION
+  title: 2025 SERT Training - Iteration
   status: Instructed
   score: '0.0'
   hours: '8.00'
@@ -166,13 +166,13 @@ training_records:
   hours: '9.00'
 - date: 3/18/2025
   course: PDP2890A
-  title: 2025 SERT Training - ITERATION
+  title: 2025 SERT Training - Iteration
   status: Instructed
   score: '0.0'
   hours: '3.00'
 - date: 3/18/2025
   course: PDP2890A
-  title: 2025 SERT Training - ITERATION
+  title: 2025 SERT Training - Iteration
   status: Passed
   score: '0.0'
   hours: '3.00'

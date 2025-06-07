@@ -1549,7 +1549,6 @@
 | McGreevy-Mills, Kyle M. | 64978 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64978-transcript.md) - [yaml](../yaml/64978-transcript.yml) |
 | Pierce-Smith, Skylar K. | 65015 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65015-transcript.md) - [yaml](../yaml/65015-transcript.yml) |
 | Tha, Yo | 65018 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65018-transcript.md) - [yaml](../yaml/65018-transcript.yml) |
-| Avant, Zachary W. | 65020 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65020-transcript.md) - [yaml](../yaml/65020-transcript.yml) |
 | Kelly, Cameron A. | 65039 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65039-transcript.md) - [yaml](../yaml/65039-transcript.yml) |
 | Hall, Daniel E. | 59367 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-02-16 | [md](../markdown/59367-transcript.md) - [yaml](../yaml/59367-transcript.yml) |
 | Watts, Nola | 45768 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-02-20 | [md](../markdown/45768-transcript.md) - [yaml](../yaml/45768-transcript.yml) |
@@ -1675,7 +1674,6 @@
 | Severe Louis, Stanley | 65344 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-10-25 | [md](../markdown/65344-transcript.md) - [yaml](../yaml/65344-transcript.yml) |
 | Traynor, Christopher M. | 36266 | Portland Police Bureau | Inactive | Detective | Resigned | 2024-11-01 | [md](../markdown/36266-transcript.md) - [yaml](../yaml/36266-transcript.yml) |
 | Green, William D. | 52227 | Portland Police Bureau | Active | Police Officer | LOA | 2024-11-01 | [md](../markdown/52227-transcript.md) - [yaml](../yaml/52227-transcript.yml) |
-| Liu, Simeni M. | 63530 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-11-01 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
 | Schmidt, Kristen L. | 37669 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-11-07 | [md](../markdown/37669-transcript.md) - [yaml](../yaml/37669-transcript.yml) |
 | Zentner, Davonne R. | 41483 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-11-07 | [md](../markdown/41483-transcript.md) - [yaml](../yaml/41483-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2024-11-07 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
@@ -1785,6 +1783,8 @@
 | Smith, Grant E. | 50653 | Portland Police Bureau | Active | Lieutenant | Promotion | 2025-05-22 | [md](../markdown/50653-transcript.md) - [yaml](../yaml/50653-transcript.yml) |
 | Martley, Heather L. | 51830 | Portland Police Bureau | Active | Criminalist | Promotion | 2025-05-22 | [md](../markdown/51830-transcript.md) - [yaml](../yaml/51830-transcript.yml) |
 | Odom, Mikayla B. | 62499 | Portland Police Bureau | Active | Criminalist | Promotion | 2025-05-22 | [md](../markdown/62499-transcript.md) - [yaml](../yaml/62499-transcript.yml) |
+| Avant, Zachary W. | 65020 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-03 | [md](../markdown/65020-transcript.md) - [yaml](../yaml/65020-transcript.yml) |
+| Liu, Simeni M. | 63530 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
 | Vincent, Tyler C. | 66388 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66388-transcript.md) - [yaml](../yaml/66388-transcript.yml) |
 | Wyman, Robert W. | 66389 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66389-transcript.md) - [yaml](../yaml/66389-transcript.yml) |
 | Sween, Norman J. | 66395 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66395-transcript.md) - [yaml](../yaml/66395-transcript.yml) |

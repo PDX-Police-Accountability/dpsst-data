@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | PDP2303A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/1/2025 | PDP3222A | INIA Drug Terrorist Interdiction Training | Passed | 0.0 | 24.00 |
 | 4/8/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 10/31/2024 | PDP2317A | 2024 Concealed Carry Course | Passed | 0.0 | 4.00 |
 | 10/31/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

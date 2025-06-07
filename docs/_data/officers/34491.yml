@@ -94,6 +94,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/9/2025
+  course: PDP3137A
+  title: NTOA Public Order Symposium
+  status: Passed
+  score: '0.0'
+  hours: '23.00'
 - date: 4/3/2025
   course: PDP0294A
   title: 2025 Public Order Command Workshop

@@ -38,14 +38,14 @@
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/30/2025 | PDP3804A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 2.00 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
-| 4/17/2025 | PDP1871A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 4/17/2025 | PDP1871A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 4/10/2025 | PDP0703B | 2025 SERT Inner Perimeter In-Service | Passed | 0.0 | 27.00 |
-| 3/27/2025 | PDP1069A | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |
+| 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/26/2025 | PDP3744A | SERT Technology Refresher Hostage Rescue | Passed | 0.0 | 2.00 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 9.00 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
-| 2/27/2025 | PDP4029A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP4029A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/27/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

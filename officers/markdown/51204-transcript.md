@@ -37,14 +37,14 @@
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
-| 4/17/2025 | PDP1871A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 4/17/2025 | PDP1871A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 4/14/2025 | PDP3467A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/10/2025 | PDP0703B | 2025 SERT Inner Perimeter In-Service | Passed | 0.0 | 27.00 |
 | 3/31/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/31/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDP2870A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
-| 2/27/2025 | PDP4029A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/27/2025 | PDP4029A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/27/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/25/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |

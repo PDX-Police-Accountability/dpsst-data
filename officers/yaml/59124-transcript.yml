@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/26/2025
+  course: BVP3480A
+  title: Control Tactics / Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/10/2025
   course: E11BVP22
   title: FTM Equivalency (Beaverton Police Department)

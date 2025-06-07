@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/1/2025
+  course: PDP3222A
+  title: INIA Drug Terrorist Interdiction Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/26/2025
   course: PDP2645A
   title: 2025-2 City Att Legal Updates Dec 2023-Feb 2024

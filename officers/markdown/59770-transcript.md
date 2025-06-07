@@ -36,13 +36,13 @@
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/6/2025 | PDP3749A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
-| 3/27/2025 | PDP1069A | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |
+| 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/22/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 3/22/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 3/22/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 3/22/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
-| 3/18/2025 | PDP2890A | 2025 SERT Training - ITERATION | Passed | 0.0 | 3.00 |
+| 3/18/2025 | PDP2890A | 2025 SERT Training - Iteration | Passed | 0.0 | 3.00 |
 | 3/16/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 3/16/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 3/16/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |

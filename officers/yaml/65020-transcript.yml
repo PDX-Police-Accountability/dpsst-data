@@ -3,12 +3,18 @@ header_record:
   name: Avant, Zachary W.
   dpsst_identifier: '65020'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/3/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/15/2024
   agency: Portland Police Bureau
   action: Hired

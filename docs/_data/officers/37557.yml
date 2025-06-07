@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 3/6/2025
+  course: LOP2287A
+  title: Cooperative and Forcible Removal From Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/14/2025
   course: LOP1092A
   title: CCDA DV Investigations Presentation

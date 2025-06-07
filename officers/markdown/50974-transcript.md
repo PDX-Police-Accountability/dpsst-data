@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | OCS2175A | FARO Certification Course | Passed | 0.0 | 24.00 |
 | 5/28/2025 | OCP3795A | Spring 2025 Officer In Charge Training | Passed | 0.0 | 3.00 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/3/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

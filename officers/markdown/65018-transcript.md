@@ -133,6 +133,7 @@
 | 6/6/2024 | REG1255A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/13/2024 | PDP3290A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 3/28/2024 | PDP0545A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 24.00 |
+| 3/27/2024 | PDP3336A | IS-100.c Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 3/21/2024 | PDP4366A | CPR/First Aid | Passed | 0.0 | 3.25 |
 | 2/26/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 2/26/2024 | PDP3052A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |

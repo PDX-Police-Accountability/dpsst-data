@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/6/2025
+  course: LOP2287A
+  title: Cooperative and Forcible Removal From Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/5/2025
   course: F1501174
   title: Donning and Doffing Personal Protec.
