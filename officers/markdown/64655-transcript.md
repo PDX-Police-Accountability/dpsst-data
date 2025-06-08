@@ -16,11 +16,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/4/2025 | Police Officer | Basic | ReqCertExt |  |  | 5/9/2026 |
+| 6/6/2025 | Police Officer | Basic | App Recd |  |  | 5/9/2026 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/13/2025 | 5/13/2027 |
+| Code of Ethics | Law Enforcement Signed | 4/30/2025 |  |
 | Code of Ethics | Law Enforcement Signed | 4/29/2024 |  |
 ## Education
 | date | degree | school | major | hours |

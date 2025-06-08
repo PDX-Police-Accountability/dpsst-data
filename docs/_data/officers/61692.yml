@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/6/2025
+  certificate: Police Officer
+  level: Basic
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 2/17/2026
 - status_date: 11/14/2023
   certificate: Corrections Officer
   level: Basic
@@ -35,13 +42,6 @@ certification_records:
   certificate_date: 2/14/2022
   expiration_date: 8/14/2028
   probation_date: ''
-- status_date: 8/17/2023
-  certificate: Police Officer
-  level: Basic
-  status: ReqCertExt
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 2/17/2026
 training_records:
 - date: 2/17/2026
   course: M11-19A
