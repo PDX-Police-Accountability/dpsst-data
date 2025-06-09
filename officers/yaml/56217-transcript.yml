@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 4/4/2025
+  course: PDP3072A
+  title: OHIA Basic Detective Academy
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/25/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

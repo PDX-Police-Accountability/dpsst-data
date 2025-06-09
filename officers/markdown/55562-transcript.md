@@ -40,7 +40,7 @@
 | 4/24/2025 | PDS3699A | Legal Update | Passed | 0.0 | 1.00 |
 | 4/7/2025 | PDS0292A | UNET Range | Passed | 0.0 | 4.00 |
 | 1/20/2025 | PDS4378B | Court Security | Passed | 0.0 | 8.00 |
-| 1/20/2025 | PDS1620A | Court Security | Passed | 0.0 | 8.00 |
+| 1/20/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/11/2024 | PDS4180B | Court Security | Passed | 0.0 | 4.50 |
 | 11/11/2024 | PDS0220B | WRAP Restraint | Passed | 0.0 | 4.00 |

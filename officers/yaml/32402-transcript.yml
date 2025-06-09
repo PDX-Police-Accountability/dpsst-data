@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/5/2025
+  course: HBS1053A
+  title: Axon BWC/Evidence.com
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/1/2025
   course: HBS2213A
   title: Virtual Sexual Harassment Prevention LE

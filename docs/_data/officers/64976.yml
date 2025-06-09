@@ -642,6 +642,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 3/27/2024
+  course: PDP4203A
+  title: IS-200.c Basic Command System for Initial Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/21/2024
   course: PDP4366A
   title: CPR/First Aid
@@ -672,6 +678,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/28/2013
+  course: PDP0793A
+  title: IS-100 Introduction to Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/26/2013
+  course: PDP1997A
+  title: IS-700 Introduction to National Inc Mgmt System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

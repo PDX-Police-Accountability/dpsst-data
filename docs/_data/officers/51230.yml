@@ -44,12 +44,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 5/8/2025
-  course: PDP2846A
-  title: 2025 SERT Training - FIREARMS
-  status: Instructed
-  score: '0.0'
-  hours: '9.00'
 - date: 5/6/2025
   course: PDP3749A
   title: 2025 SERT Training - SCENARIO

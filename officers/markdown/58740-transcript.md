@@ -37,7 +37,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/22/2025 | TRN4574A | DOJ Legal Training | Instructed | 0.0 | 0.00 |
 | 5/7/2025 | PDP1629A | CPR/First Aid | Passed | 0.0 | 1.00 |
-| 5/7/2025 | PDP2101A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/15/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/15/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/15/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

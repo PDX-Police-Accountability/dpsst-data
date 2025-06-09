@@ -98,12 +98,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
-- date: 4/25/2025
-  course: PDP1674A
-  title: VIN Identification Basics 2025
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
 - date: 3/27/2025
   course: PDP0221A
   title: 2025 Sworn In-Service PVO Stop Stick Intro Video

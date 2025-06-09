@@ -74,12 +74,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 4/30/2025
-  course: PDP3804A
-  title: 2025 SERT Training - CLASSROOM
-  status: Instructed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/17/2025
   course: PDP1871A
   title: 2025 SERT Training - Firearms

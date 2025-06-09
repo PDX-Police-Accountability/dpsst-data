@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2025
+  course: PDP2323A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/2/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update

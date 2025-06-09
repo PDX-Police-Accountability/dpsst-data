@@ -37,6 +37,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/7/2025
+  course: BNP1238A
+  title: Shots Fired - Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/7/2025
+  course: BNP3933A
+  title: Leadership Under Fire
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/9/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

@@ -42,37 +42,27 @@
 | 6/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/29/2025 | REG3540A | Pistol Mounted Optic IDC | Passed | 0.0 | 16.00 |
 | 5/7/2025 | PDS0406A | Jail ConSim | Instructed | 0.0 | 8.00 |
-| 5/7/2025 | PDS1827A | Jail ConSim | Instructed | 0.0 | 8.00 |
 | 4/30/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 4/22/2025 | PDS0292A | UNET Range | Instructed | 0.0 | 4.00 |
 | 4/7/2025 | PDS0292A | UNET Range | Instructed | 0.0 | 4.00 |
 | 4/1/2025 | PDS2727A | AXON VR IDC | Passed | 0.0 | 7.00 |
-| 4/1/2025 | PDS1233A | AXON VR IDC | Passed | 0.0 | 7.00 |
 | 3/28/2025 | PDS1968A | 40mm Less Lethal | Instructed | 0.0 | 5.00 |
-| 3/28/2025 | PDS2187A | 40mm Less Lethal | Instructed | 0.0 | 5.00 |
 | 3/25/2025 | PDS3616A | Patrol Tactics/Breaching/Searches | Instructed | 0.0 | 8.00 |
-| 3/25/2025 | PDS3443A | Patrol Tactics/Breaching/Searches | Instructed | 0.0 | 8.00 |
 | 3/24/2025 | PDS2360A | LE Consims | Instructed | 0.0 | 8.00 |
-| 3/24/2025 | PDS1377A | LE Con-SIMS | Instructed | 0.0 | 8.00 |
 | 3/21/2025 | PDS4202B | Patrol Procedures / Handcuffing | Instructed | 0.0 | 3.00 |
-| 3/21/2025 | PDS3638A | Patrol Procedures / Handcuffing | Instructed | 0.0 | 3.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/20/2025 | PDS3348A | Range Training | Instructed | 0.0 | 18.00 |
-| 3/20/2025 | PDS1149A | Range Training | Instructed | 0.0 | 18.00 |
 | 3/13/2025 | PDS2114A | Firearms Intro/Manipulation | Instructed | 0.0 | 7.00 |
 | 2/27/2025 | PDS2296A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 2/21/2025 | PDS0176B | Defensive Tactics II | Instructed | 0.0 | 4.00 |
-| 2/21/2025 | PDS0744A | Defensive Tactics II | Instructed | 0.0 | 4.00 |
 | 2/18/2025 | PDS3333A | Range | Instructed | 0.0 | 2.00 |
 | 2/14/2025 | PDS0340A | Red Dot Handgun | Passed | 0.0 | 24.00 |
 | 2/10/2025 | PDS1588A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 2/6/2025 | PDS3624B | Glock Armorer's Course | Passed | 0.0 | 8.00 |
-| 2/6/2025 | PDS0592A | Glock Armorer's Course | Passed | 0.0 | 8.00 |
 | 2/5/2025 | PDS2435A | Confrontation Simulation | Instructed | 0.0 | 3.00 |
 | 2/4/2025 | PDS0421A | Patrol Procedures/Traffic Stops | Instructed | 0.0 | 4.00 |
 | 1/30/2025 | PDS2762A | February Range IDC | Passed | 0.0 | 4.00 |
 | 1/24/2025 | PDS0048A | Firearm Qualification | Instructed | 0.0 | 2.00 |
-| 1/24/2025 | PDS1180A | Firearm Qualification | Instructed | 0.0 | 2.00 |
 | 1/24/2025 | PDS3125A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 1/23/2025 | PDS2353A | Firearms | Instructed | 0.0 | 20.00 |
 | 1/17/2025 | PDS1075A | Defensive Tactics | Instructed | 0.0 | 4.00 |

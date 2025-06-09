@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2025
+  course: HBS2174A
+  title: Virtual ADA Compliance for Business
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/1/2025
+  course: HBS3628A
+  title: Virtual PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/1/2025
   course: HBS1754A
   title: InService T7 Transition Firearms Qual

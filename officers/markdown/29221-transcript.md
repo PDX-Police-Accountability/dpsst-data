@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | BNP4071A | ICAT | Passed | 0.0 | 8.50 |
 | 4/23/2025 | BNP1547A | Ethics | Instructed | 0.0 | 2.50 |
 | 3/13/2025 | BNP2019A | Supervisor Academy | Passed | 0.0 | 16.00 |
 | 3/6/2025 | BNP2111A | EVOC/Vehicle Placement | Passed | 0.0 | 1.00 |

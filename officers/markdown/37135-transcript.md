@@ -46,7 +46,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/19/2025 | PDP3192A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/25/2025 | OSH2911A | VIN Identification Basics 2025 | Passed | 0.0 | 24.00 |
-| 4/25/2025 | PDP1674A | VIN Identification Basics 2025 | Passed | 0.0 | 24.00 |
 | 3/27/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/4/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |

@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2025
+  course: BNP4071A
+  title: ICAT
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
 - date: 4/24/2025
   course: OAC0714A
   title: Principled Leadership - The Charleston 9
