@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 4/1/2025 | PDP3483B | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2025 | PDP1729A | CPR/First Aid | Passed | 0.0 | 1.75 |

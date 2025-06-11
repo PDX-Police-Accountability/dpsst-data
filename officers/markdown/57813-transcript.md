@@ -25,7 +25,6 @@
 | Certification Cards | First Aid and CPR | 5/19/2025 | 5/19/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 6/22/2023 | 6/22/2025 |
 | Code of Ethics | Law Enforcement Signed | 10/17/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 ## Education
@@ -35,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/19/2025 | PDP3192A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 3/29/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

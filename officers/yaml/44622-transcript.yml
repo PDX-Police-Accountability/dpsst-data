@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/30/2025
+  course: OSH0199A
+  title: 2nd Trimester Firearms - Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/22/2025
   course: OSH4366B
   title: OSP People in Crisis
@@ -74,6 +80,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 5/14/2025
+  course: OSH0814A
+  title: ATR Active Threat Response Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/9/2025
   course: OSH2695A
   title: Firearms In-Service

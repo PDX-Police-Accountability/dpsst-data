@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/30/2025
+  course: OSH0042A
+  title: Oregon State Police - Public Order Basic Course
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 5/10/2025
   course: PDP0279B
   title: Red Door Project The Evolve Mindset Workshop

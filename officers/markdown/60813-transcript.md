@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2025 | OSH0275A | OSP People in Crisis | Passed | 0.0 | 4.00 |
 | 6/2/2025 | OSH3939A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 4.00 |
 | 5/9/2025 | VND2991A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 72.00 |
 | 4/18/2025 | LCP1354B | Interview and Interrogation | Passed | 0.0 | 24.00 |
