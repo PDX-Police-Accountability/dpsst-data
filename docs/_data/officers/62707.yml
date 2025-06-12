@@ -642,6 +642,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/11/2022
+  course: REG1454A
+  title: DID-SFST (Hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/13/2022
   course: REG12045
   title: Intox 8000 (Hours Included in Basic)

@@ -954,6 +954,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 11/11/2022
+  course: REG1454A
+  title: DID-SFST (Hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/7/2022
   course: PDP11045
   title: 2022-3 Range Qualification Primary Firearm

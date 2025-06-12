@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 6/5/2025
+  course: PDP1911A
+  title: RegJIN RMS/MRE Training
+  status: Instructed
+  score: '0.0'
+  hours: '14.00'
 - date: 4/30/2008
   course: '08-0915'
   title: Agency Policies / Procedures

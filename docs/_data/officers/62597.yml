@@ -599,6 +599,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 8/25/2022
+  course: BPT1488A
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 8/15/2022
   course: BPT01440
   title: Statistical Transparency of Policing Training

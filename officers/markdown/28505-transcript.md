@@ -25,5 +25,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | PDP1911A | RegJIN RMS/MRE Training | Instructed | 0.0 | 14.00 |
 | 4/30/2008 | 08-0915 | Agency Policies / Procedures | Passed | 0.0 | 2.00 |
 | 11/26/2007 | 07-0924 | Sexual Harassment | Passed | 0.0 | 2.00 |

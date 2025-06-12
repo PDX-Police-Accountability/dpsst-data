@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2025 | PDP3760A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/22/2025 | PDP0593A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 5/16/2025 | PDP2020A | 2025 Satellite AR-15 Instructor Course | Instructed | 0.0 | 45.00 |
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |

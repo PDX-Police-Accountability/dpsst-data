@@ -81,8 +81,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 5/7/2025
-  course: PDP1534A
-  title: CPR/First Aid
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

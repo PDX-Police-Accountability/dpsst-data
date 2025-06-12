@@ -30,6 +30,7 @@
 | 6/12/2024 | SDP3963A | Handgun Qualification | Passed | 0.0 | 1.50 |
 | 12/12/2022 | PDP17554 | Firearms Training | Passed | 0.0 | 7.00 |
 | 12/9/2022 | M10-22A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 11/11/2022 | REG1454A | DID-SFST (Hours included in Basic | Passed | 0.0 | 0.00 |
 | 10/13/2022 | REG12045 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 8/11/2022 | PDP05152 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/11/2022 | PDP11019 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

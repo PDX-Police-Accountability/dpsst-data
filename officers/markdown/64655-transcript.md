@@ -31,7 +31,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2025 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 5/13/2025 | PDP3583B | CPR/First Aid | Passed | 0.0 | 1.00 |
-| 5/7/2025 | PDP1534A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/7/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 4/9/2025 | PDP4294A | 2025-1 Advanced Academy Patrol Procedures | Passed | 0.0 | 103.75 |
 | 4/6/2025 | PDP3444A | 2025-1 Advanced Academy PVO | Passed | 0.0 | 59.00 |
 | 4/1/2025 | PDP1673A | 2025-1 Advanced Academy Equity | Passed | 0.0 | 29.00 |

@@ -41,7 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/10/2025 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 6/9/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 5/16/2025 | PDP3164B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/9/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDP1585B | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 23.50 |

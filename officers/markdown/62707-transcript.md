@@ -133,6 +133,7 @@
 | 1/13/2023 | PSU43381 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 12/9/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/21/2022 | PSU11342 | Qualification / Firearm Training | Passed | 0.0 | 1.00 |
+| 11/11/2022 | REG1454A | DID-SFST (Hours included in Basic | Passed | 0.0 | 0.00 |
 | 10/13/2022 | REG12045 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 9/5/2022 | PSU22819 | Campus Based Training: Clery Act | Passed | 0.0 | 2.00 |
 | 9/5/2022 | PSU42421 | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |

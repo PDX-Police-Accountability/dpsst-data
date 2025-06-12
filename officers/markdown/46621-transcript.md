@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2025 | OCS0056A | Closed Guard series | Passed | 0.0 | 1.00 |
 | 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 3/25/2025 | OCS0621A | Ground Offense | Passed | 0.0 | 1.00 |
 | 2/25/2025 | OCS0200A | Striking and Take Downs | Passed | 0.0 | 1.00 |

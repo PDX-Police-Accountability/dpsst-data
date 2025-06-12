@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/1/2025
+  course: HBP0109A
+  title: Bike Patrol Certification Course
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 4/2/2025
   course: TGP1517A
   title: Oregon Association of PIOs Annual Conference

@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/28/2025 | OCS0700B | 2025 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |
+| 4/15/2025 | OCS0056A | Closed Guard series | Passed | 0.0 | 1.00 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
 | 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |

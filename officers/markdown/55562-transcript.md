@@ -45,7 +45,7 @@
 | 11/11/2024 | PDS4180B | Court Security | Passed | 0.0 | 4.50 |
 | 11/11/2024 | PDS0220B | WRAP Restraint | Passed | 0.0 | 4.00 |
 | 11/11/2024 | PDS1892A | Court Security | Passed | 0.0 | 4.50 |
-| 11/11/2024 | PDS2015A | WRAP Restraint | Passed | 0.0 | 4.00 |
+| 11/11/2024 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 10/9/2024 | PDS0922A | Range Training | Passed | 0.0 | 3.50 |
 | 10/9/2024 | PDS0342A | Range Qualifications | Passed | 0.0 | 0.50 |
 | 10/7/2024 | PDS0163A | Taser Practical | Passed | 0.0 | 0.50 |
