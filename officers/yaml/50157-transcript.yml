@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/24/2025
+  course: PDP3160A
+  title: 2025 Utility Terrian Vehicle (UTV) Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/6/2025
   course: PDP0673B
   title: CPR/First Aid

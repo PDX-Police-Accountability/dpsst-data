@@ -45,6 +45,8 @@
 | 3/11/2025 | TAP1159A | DutyToInterveneWhatWeHaveLearnedSinceGeorgeFloyd | Passed | 0.0 | 1.25 |
 | 2/19/2025 | TAP0901A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2025 | TAP1945A | Investigating Strangulation | Passed | 0.0 | 2.75 |
+| 1/29/2025 | TAP2415A | Investigating Strangulation | Passed | 0.0 | 2.75 |
+| 12/31/2024 | TAP0537A | LEXIPOL Daily Training Bulletins July1-Dec31 2024 | Passed | 0.0 | 5.50 |
 | 12/26/2024 | TAP0582A | Flock User Training | Passed | 0.0 | 1.00 |
 | 12/18/2024 | TAP4072A | PublicSafetyVideoSurveillanceSystemPolicyReview | Passed | 0.0 | 0.50 |
 | 12/11/2024 | TAP3727A | OLCC informational | Passed | 0.0 | 1.00 |
@@ -56,6 +58,7 @@
 | 11/17/2024 | TAP3795A | IssueUpdateHB4002OSPtrainingPossessionLawsGuide | Passed | 0.0 | 0.50 |
 | 11/15/2024 | ADP0220A | Night Pistol and Shotgun | Passed | 0.0 | 4.00 |
 | 11/15/2024 | TAP3753A | Mobile Crisis Community Update Nov 2024 | Passed | 0.0 | 0.50 |
+| 11/15/2024 | TAP3212A | Mobile Crisis Community Update Nov 2024 | Passed | 0.0 | 0.50 |
 | 10/30/2024 | TAP0790A | First Aid/CPR/AED to include choking | Passed | 0.0 | 1.50 |
 | 10/18/2024 | ADP2035A | Taser 10 Certification | Instructed | 0.0 | 6.00 |
 | 10/18/2024 | ADP1083A | Taser Annual Recertification | Passed | 0.0 | 2.00 |

@@ -45,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/20/2025 | HBS0756A | Stress, Trauma, Resiliency (STRT) | Passed | 0.0 | 8.00 |
+| 5/1/2025 | HBS2166A | NAMOA Annual Training | Passed | 0.0 | 24.00 |
 | 4/11/2025 | HBS2011A | InService-T7 Transition/Firearms Qual | Passed | 0.0 | 9.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/7/2025 | HBS3821A | Columbus Police Dialogue | Passed | 0.0 | 40.00 |

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/9/2025
+  course: PDP3680A
+  title: Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/3/2025
   course: PDP2375A
   title: FTEP Inroduction to Property and Evidence

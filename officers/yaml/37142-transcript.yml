@@ -125,6 +125,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2025
+  course: SPP2038A
+  title: Springfield Police Discipline and LESC
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/23/2025
   course: SPP0170A
   title: CIT Use of Force

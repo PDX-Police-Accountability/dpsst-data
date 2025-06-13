@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/2/2025 | TDP2202A | Supervisor Liability for Law Enforcement | Passed | 0.0 | 8.00 |
 | 5/20/2025 | TDP1963A | First Aid/CPR | Passed | 0.0 | 3.00 |
+| 5/12/2025 | TDP3956A | Spring Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 4/30/2025 | TDP1661A | Pursuit policy review, stop stick and piranha | Passed | 0.0 | 0.50 |
 | 4/18/2025 | TDP3238A | Lead Where You Are Now - Modern Day Recruiting | Passed | 0.0 | 1.00 |
 | 3/28/2025 | TDP3579A | Substance Use Intervention Tech. for Youth | Passed | 0.0 | 1.00 |

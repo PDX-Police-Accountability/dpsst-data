@@ -33,7 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2025 | PDP3680A | Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
+| 5/24/2025 | PDP3160A | 2025 Utility Terrian Vehicle (UTV) Training | Passed | 0.0 | 9.00 |
 | 5/20/2025 | PDP4322A | 2025 Body Worn Camera Training | Instructed | 0.0 | 2.00 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |

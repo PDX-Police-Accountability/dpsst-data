@@ -41,7 +41,6 @@
 | 1/27/2025 | PDS4462A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2024 | PDS2741A | Range | Passed | 0.0 | 2.00 |
-| 12/12/2024 | PDS1300A | Range | Passed | 0.0 | 2.00 |
 | 10/17/2024 | GSP3454A | River Scenario Based Training | Passed | 0.0 | 10.00 |
 | 10/15/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/8/2024 | PDS2666A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |

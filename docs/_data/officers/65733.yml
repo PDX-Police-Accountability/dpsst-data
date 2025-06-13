@@ -132,6 +132,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/21/2025
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 3/10/2025
   course: PDP4044A
   title: TEEX WMD Terrorism Awareness for Emer Resp
@@ -276,12 +282,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
-- date: 11/4/2024
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 10/31/2024
   course: PDP0769A
   title: ICS-100 Intro to the Incident Cmmnd System

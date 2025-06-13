@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/4/2025
+  course: PDP4290A
+  title: 2025 K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.25'
 - date: 4/9/2025
   course: PDP4294A
   title: 2025-1 Advanced Academy Patrol Procedures

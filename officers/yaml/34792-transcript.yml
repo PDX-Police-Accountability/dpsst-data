@@ -98,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.75'
+- date: 1/29/2025
+  course: TAP2415A
+  title: Investigating Strangulation
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 12/31/2024
+  course: TAP0537A
+  title: LEXIPOL Daily Training Bulletins July1-Dec31 2024
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 12/26/2024
   course: TAP0582A
   title: Flock User Training
@@ -160,6 +172,12 @@ training_records:
   hours: '4.00'
 - date: 11/15/2024
   course: TAP3753A
+  title: Mobile Crisis Community Update Nov 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/15/2024
+  course: TAP3212A
   title: Mobile Crisis Community Update Nov 2024
   status: Passed
   score: '0.0'

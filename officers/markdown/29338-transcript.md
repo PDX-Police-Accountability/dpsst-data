@@ -68,7 +68,6 @@
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/27/2024 | PDS3063A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 2/14/2024 | PDS0489A | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
-| 2/14/2024 | PDS2543A | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 2/7/2024 | PDS3672A | Range Training | Passed | 0.0 | 2.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2023 | PDS2453A | Anti-Bias Training | Passed | 0.0 | 1.00 |

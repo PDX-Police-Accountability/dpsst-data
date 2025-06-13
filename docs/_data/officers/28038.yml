@@ -110,12 +110,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 12/13/2024
-  course: PDS2420A
-  title: Range
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 12/11/2024
   course: PDS1074A
   title: Anti-Harassment Training

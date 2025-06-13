@@ -84,12 +84,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
-- date: 1/20/2025
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 12/19/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -114,12 +108,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
-- date: 11/11/2024
-  course: XDELETE5
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 10/9/2024
   course: PDS0922A
   title: Range Training
@@ -219,12 +207,6 @@ training_records:
 - date: 6/11/2024
   course: PDS1080B
   title: 'Law  Mental Health Conference: Psychosis'
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 6/11/2024
-  course: PDS2980A
-  title: Law  Mental Health Conference:Psychosis
   status: Passed
   score: '0.0'
   hours: '16.00'

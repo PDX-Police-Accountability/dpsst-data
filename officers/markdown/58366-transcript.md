@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 6/9/2025 | OSH2183A | Central Region Leadership Meeting | Passed | 0.0 | 4.00 |
 | 5/20/2025 | OSH4134B | Manager Comp.-Microsoft Tools | Passed | 0.0 | 1.00 |
 | 5/15/2025 | OSH0679B | MIT Surveillance Training | Passed | 0.0 | 2.00 |
 | 5/15/2025 | OSH1033B | Infant Death Investigations | Passed | 0.0 | 1.00 |

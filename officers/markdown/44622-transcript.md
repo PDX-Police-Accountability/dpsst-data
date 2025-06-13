@@ -49,9 +49,7 @@
 | 4/24/2025 | REG3476A | Handgun Instructor Development Course | Instructed | 0.0 | 40.00 |
 | 4/23/2025 | OSH1239A | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
 | 4/16/2025 | OSH0031A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
-| 4/16/2025 | OSH1512A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 4/11/2025 | OSH3070A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
-| 4/11/2025 | OSH4412A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 3/21/2025 | OSH1045A | Active Threat Refresher | Instructed | 0.0 | 8.00 |
 | 3/10/2025 | OSH2536A | 2025 Defensive Tactics - 1st Trimester | Instructed | 0.0 | 4.00 |
 | 3/5/2025 | OSH1917A | OSP Defensive Tactics - 1st Trimester | Passed | 0.0 | 4.00 |

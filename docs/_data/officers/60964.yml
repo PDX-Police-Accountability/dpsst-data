@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/9/2025
+  course: PDP3680A
+  title: Post Basic CEW
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/16/2025
   course: PDP2020A
   title: 2025 Satellite AR-15 Instructor Course

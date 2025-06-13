@@ -107,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/1/2025
+  course: HBS2166A
+  title: NAMOA Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/11/2025
   course: HBS2011A
   title: InService-T7 Transition/Firearms Qual

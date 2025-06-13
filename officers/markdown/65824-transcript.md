@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/9/2025 | PDP3680A | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 6/5/2025 | PDP1911A | RegJIN RMS/MRE Training | Passed | 0.0 | 14.00 |
 | 6/3/2025 | PDP2375A | FTEP Inroduction to Property and Evidence | Passed | 0.0 | 4.00 |
 | 5/21/2025 | PDP3454A | TEEX WMD/Terrorism for Emerg Responders | Passed | 0.0 | 8.00 |
