@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2025 | MLP0151A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 3/5/2025 | MLP2154A | MOPD New Carrier Less Lethal Qualification | Instructed | 0.0 | 4.00 |
 | 2/6/2025 | WLP1429A | Human Trafficking Training | Passed | 0.0 | 16.00 |

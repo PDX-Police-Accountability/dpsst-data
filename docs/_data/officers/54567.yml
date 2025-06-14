@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2025
+  course: MLP0151A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/19/2025
   course: OCA3739A
   title: Digital Evidence Training

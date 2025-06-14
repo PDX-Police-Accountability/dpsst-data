@@ -596,6 +596,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/28/2023
+  course: PDP2378A
+  title: ICS-300 Int Incd Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/21/2023
   course: PDP1454A
   title: 2023 Traffic Intoxilyzer 8000 Certification

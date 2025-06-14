@@ -119,6 +119,7 @@
 | 11/24/2023 | PDP2064A | DIR 0612.00 Communication Technology  Procedures | Passed | 0.0 | 0.25 |
 | 11/24/2023 | PDP3565A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.50 |
 | 11/24/2023 | PDP1319A | DIR 0600.00 Air Support Unit Operations | Passed | 0.0 | 0.25 |
+| 9/28/2023 | PDP2378A | ICS-300 Int Incd Cmd System for Expanding Incdts | Passed | 0.0 | 24.00 |
 | 9/13/2023 | PDP2741A | 2023 Video Evidence Basics for the Police | Passed | 0.0 | 1.50 |
 | 9/8/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/8/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

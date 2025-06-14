@@ -130,6 +130,7 @@
 | 10/12/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
 | 10/10/2023 | PDP0162A | Motorcade Training | Passed | 0.0 | 6.00 |
 | 10/1/2023 | PDP0990A | 2023  Evidence Basics for Use of Force Invest. | Passed | 0.0 | 1.50 |
+| 9/28/2023 | PDP2378A | ICS-300 Int Incd Cmd System for Expanding Incdts | Passed | 0.0 | 24.00 |
 | 9/21/2023 | PDP1454A | 2023 Traffic Intoxilyzer 8000 Certification | Instructed | 0.0 | 6.00 |
 | 9/20/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/20/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | REG0437A | Patrol Rifle | Passed | 0.0 | 30.00 |
 | 5/21/2025 | CAP0277A | Firearms - Handgun Reloads/Malfunctions | Passed | 0.0 | 2.00 |
 | 4/23/2025 | CAP1852A | Firearms - Use of Cover/Shield | Instructed | 0.0 | 8.00 |
 | 3/26/2025 | CAP3056A | Annual Patrol Rifle Qualification and Fundamentals | Passed | 0.0 | 2.00 |

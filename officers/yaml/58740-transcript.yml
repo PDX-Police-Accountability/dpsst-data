@@ -44,11 +44,17 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 5/22/2025
-  course: TRN4574A
-  title: DOJ Legal Training
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '0.00'
+- date: 5/22/2025
+  course: VND3395A
+  title: DOJ Legal Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 5/7/2025
   course: PDP1629A
   title: CPR/First Aid

@@ -512,6 +512,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/28/2023
+  course: PDP2378A
+  title: ICS-300 Int Incd Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/20/2023
   course: PDP1263A
   title: 2022-12 CAO Legal Updates for 12/2022

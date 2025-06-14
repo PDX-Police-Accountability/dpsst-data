@@ -125,6 +125,7 @@
 | 10/2/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 9/30/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/30/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 9/28/2023 | PDP2378A | ICS-300 Int Incd Cmd System for Expanding Incdts | Passed | 0.0 | 24.00 |
 | 9/22/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP2859A | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 9/12/2023 | PDP2165A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
