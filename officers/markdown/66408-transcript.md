@@ -26,4 +26,4 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/28/2025 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
+| 8/25/2025 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
