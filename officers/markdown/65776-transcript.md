@@ -33,10 +33,10 @@
 | 6/5/2025 | PDP1911A | RegJIN RMS/MRE Training | Passed | 0.0 | 14.00 |
 | 6/3/2025 | PDP2375A | FTEP Inroduction to Property and Evidence | Passed | 0.0 | 4.00 |
 | 5/28/2025 | PDP3454A | TEEX WMD/Terrorism for Emerg Responders | Passed | 0.0 | 8.00 |
+| 5/16/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/23/2025 | REG4039A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 4/3/2025 | REG0415A | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 4/3/2025 | REG0458B | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
-| 1/20/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 1/16/2025 | PDP1794 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 1/16/2025 | PDP2310A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 1/16/2025 | PDP0633A | IS-700 Intro to National Incident Managment System | Passed | 0.0 | 4.00 |
