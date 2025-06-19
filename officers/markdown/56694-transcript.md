@@ -22,9 +22,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/10/2025 | 6/10/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 8/11/2023 | 8/11/2025 |
 | Code of Ethics | Law Enforcement Signed | 1/29/2018 |  |
 | Code of Ethics | Signed | 11/6/2016 |  |
 ## Education
@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2025 | PDP3042A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/24/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/14/2025 | PDP1460A | 2020 Training Managing Crit Incid Well: Sgts Role | Passed | 0.0 | 0.25 |
 | 3/14/2025 | PDP3225A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |

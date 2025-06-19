@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2025 | PDP0954A | 2025 Body Worn Camera Training | Instructed | 0.0 | 2.00 |
 | 6/9/2025 | PDP3680A | Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
 | 5/24/2025 | PDP3160A | 2025 Utility Terrian Vehicle (UTV) Training | Passed | 0.0 | 9.00 |

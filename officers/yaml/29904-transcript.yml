@@ -48,6 +48,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2025
+  course: PDS4500A
+  title: NIC Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/10/2025
+  course: PDS0105A
+  title: LE Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/26/2025
   course: PDS2038A
   title: Ethics

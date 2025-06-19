@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDP2673A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/22/2025 | PDP0241A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/26/2025 | PDP0276A | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 3/16/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |

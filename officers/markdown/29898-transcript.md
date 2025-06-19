@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/30/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
+| 4/29/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 2/24/2025 | PDS3595A | Range | Passed | 0.0 | 2.00 |
 | 1/28/2025 | PDS1408A | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 1/27/2025 | PDS2369A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |

@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2025
+  course: PDP0564A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/19/2025
   course: PDP4253A
   title: 2024-3 In-Serv CAO Legal Updates Supp Tra Mat
@@ -2007,6 +2013,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/16/2025
+  expiration_date: 6/16/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025
@@ -2015,10 +2025,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/21/2023
-  expiration_date: 6/21/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/27/2020

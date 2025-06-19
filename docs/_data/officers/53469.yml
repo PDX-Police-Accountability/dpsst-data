@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2041
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2025
+  course: OCS0175A
+  title: 2025 Spring Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/28/2025
   course: OCS1650B
   title: April 2025 Monthly Firearms Annual Qual

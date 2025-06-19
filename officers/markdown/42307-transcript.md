@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDP2673A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
+| 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
+| 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
 | 4/23/2025 | PDP0608A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/24/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |

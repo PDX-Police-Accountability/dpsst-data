@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/26/2025 | PDP3094A | MGT 404 Sports and Special Events Management | Passed | 0.0 | 16.00 |
 | 3/18/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |

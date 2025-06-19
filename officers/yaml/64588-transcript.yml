@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: 4/12/2026
 training_records:
+- date: 6/8/2025
+  course: PDP3183A
+  title: 2025 Standard Field Sobriety Test (SFST) Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/7/2025
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

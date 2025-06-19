@@ -33,7 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | PDP2330A | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 5/19/2025 | PDP3192A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/4/2025 | PDP2602B | 2025 DRE/DUII Conference | Passed | 0.0 | 22.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |

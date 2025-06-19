@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2025 | PDP0115A | Air Purifying Respirator and HAZMAT | Instructed | 0.0 | 3.00 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |

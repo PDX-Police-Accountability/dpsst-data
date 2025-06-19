@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2025
+  course: PDP0954A
+  title: 2025 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/11/2025
+  course: PDP0115A
+  title: Air Purifying Respirator and HAZMAT
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/27/2024
   course: PDP2967A
   title: RADAR/LIDAR Operator

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2041 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 4/28/2025 | OCS0700B | 2025 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |
 | 4/15/2025 | OCS0056A | Closed Guard series | Passed | 0.0 | 1.00 |

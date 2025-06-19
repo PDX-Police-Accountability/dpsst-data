@@ -25,8 +25,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/10/2025 | 6/10/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 2/28/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 9/11/2016 |  |
 ## Education
@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2025 | PDP3042A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 10/17/2024 | PDP0298A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 10/16/2024 | PDP1661A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 10/15/2024 | PDP1339A | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |

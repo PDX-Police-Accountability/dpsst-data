@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/27/2025 | PDS0180A | Range | Passed | 0.0 | 2.00 |
+| 4/4/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 3/23/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 2/18/2025 | PDS3333A | Range | Passed | 0.0 | 2.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

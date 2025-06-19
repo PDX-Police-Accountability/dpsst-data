@@ -36,6 +36,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/10/2025
+  course: PDP3042A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/9/2025
   course: PDP4294A
   title: 2025-1 Advanced Academy Patrol Procedures
@@ -547,12 +553,12 @@ training_records:
   score: '0.0'
   hours: '9.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/10/2025
+  expiration_date: 6/10/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 6/24/2024
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/17/2024
-  expiration_date: 6/17/2026
 education_records: []

@@ -39,6 +39,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/27/2025 | PDS0180A | Range | Instructed | 0.0 | 2.00 |
+| 4/30/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
+| 4/29/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
+| 4/14/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
+| 4/10/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
+| 4/1/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/26/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |
 | 2/25/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |

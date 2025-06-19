@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDP2673A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
+| 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
+| 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
 | 3/20/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/18/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/18/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |

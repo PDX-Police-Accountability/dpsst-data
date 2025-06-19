@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2025
+  course: PDP0115A
+  title: Air Purifying Respirator and HAZMAT
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/30/2025
   course: OSH0042A
   title: Oregon State Police - Public Order Basic Course

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/4/2025 | OSH2289A | Basic Detective Academy | Passed | 0.0 | 40.00 |
 | 4/4/2025 | PDP1521B | OHIA Basic Detective Academy | Passed | 0.0 | 40.00 |
 | 3/25/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

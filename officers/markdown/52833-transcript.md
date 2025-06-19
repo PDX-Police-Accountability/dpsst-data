@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | PDP2330A | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
+| 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/15/2025 | PDP2083A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/10/2025 | PDP2786A | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 3/28/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

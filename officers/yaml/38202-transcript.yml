@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/10/2025
+  course: PDS0105A
+  title: LE Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/18/2025
   course: PDS1291A
   title: Search Patterns

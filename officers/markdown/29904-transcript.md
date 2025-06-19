@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | PDS4500A | NIC Leadership Training | Passed | 0.0 | 8.00 |
+| 4/10/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 3/26/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 2/6/2025 | PDS3333A | Range | Passed | 0.0 | 2.00 |
 | 1/27/2025 | PDS1408A | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |

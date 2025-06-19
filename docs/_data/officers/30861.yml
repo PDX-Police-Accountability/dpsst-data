@@ -104,6 +104,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/3/2025
+  course: BNS0955A
+  title: SWAT - HRT / Barricade Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/12/2025
   course: BNS3678B
   title: Trauma informed care

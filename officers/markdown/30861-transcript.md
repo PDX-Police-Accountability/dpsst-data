@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2025 | BNS0955A | SWAT - HRT / Barricade Scenarios | Passed | 0.0 | 8.00 |
 | 5/12/2025 | BNS3678B | Trauma informed care | Passed | 0.0 | 0.75 |
 | 4/9/2025 | BNS0903A | ARCON/Firearms | Passed | 0.0 | 4.00 |
 | 3/27/2025 | BNS1693A | Officer Involved Shooting Investigations | Passed | 0.0 | 1.00 |

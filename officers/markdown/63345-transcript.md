@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | PDP2673A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/29/2025 | PDP0829A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/4/2025 | PDP1172A | 2025 Oregon DUII Conference | Passed | 0.0 | 16.00 |

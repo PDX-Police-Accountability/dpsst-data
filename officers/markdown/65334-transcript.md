@@ -21,8 +21,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/10/2025 | 6/10/2027 |
 | Code of Ethics | Law Enforcement Signed | 6/24/2024 |  |
-| Certification Cards | First Aid and CPR | 6/17/2024 | 6/17/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -30,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/10/2025 | PDP3042A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/9/2025 | PDP4294A | 2025-1 Advanced Academy Patrol Procedures | Passed | 0.0 | 103.75 |
 | 4/6/2025 | PDP3444A | 2025-1 Advanced Academy PVO | Passed | 0.0 | 59.00 |
 | 4/1/2025 | PDP1673A | 2025-1 Advanced Academy Equity | Passed | 0.0 | 29.00 |

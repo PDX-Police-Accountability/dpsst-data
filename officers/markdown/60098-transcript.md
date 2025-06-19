@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
+| 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/24/2025 | PDP3796A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/7/2025 | BNP1238A | Shots Fired - Mental Health | Passed | 0.0 | 2.00 |
 | 4/7/2025 | BNP3933A | Leadership Under Fire | Passed | 0.0 | 2.00 |

@@ -44,6 +44,8 @@
 | 5/7/2025 | PDS0406A | Jail ConSim | Instructed | 0.0 | 8.00 |
 | 4/30/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 4/22/2025 | PDS0292A | UNET Range | Instructed | 0.0 | 4.00 |
+| 4/16/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
+| 4/10/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 4/7/2025 | PDS0292A | UNET Range | Instructed | 0.0 | 4.00 |
 | 4/1/2025 | PDS2727A | AXON VR IDC | Passed | 0.0 | 7.00 |
 | 3/28/2025 | PDS1968A | 40mm Less Lethal | Instructed | 0.0 | 5.00 |

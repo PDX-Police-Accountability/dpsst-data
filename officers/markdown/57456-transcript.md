@@ -25,9 +25,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/16/2025 | 6/16/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 6/21/2023 | 6/21/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
 | Code of Ethics | Signed | 8/4/2017 |  |
 ## Education
@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2025 | PDP0564A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/19/2025 | PDP4253A | 2024-3 In-Serv CAO Legal Updates Supp Tra Mat | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/15/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
