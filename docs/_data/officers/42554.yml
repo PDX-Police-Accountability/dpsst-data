@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/27/2025
+  course: PDP0423B
+  title: 2025 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '23.00'
 - date: 5/21/2025
   course: PDP2673A
   title: 2025 Traffic Spring Motor Qual

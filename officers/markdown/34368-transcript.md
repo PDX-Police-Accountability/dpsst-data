@@ -24,17 +24,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/7/2016 | Police Officer | Management | Granted | 10/7/2016 | 6/14/2025 |  |
-| 5/4/2009 | Police Officer | Supervisory | Granted | 5/4/2009 | 6/14/2025 |  |
-| 5/27/2008 | Police Officer | Advanced | Granted | 5/27/2008 | 6/14/2025 |  |
-| 6/17/2003 | Police Officer | Intermediate | Granted | 6/17/2003 | 6/14/2025 |  |
-| 2/18/2000 | Police Officer | Basic | Granted | 2/18/2000 | 6/14/2025 |  |
+| 6/14/2025 | Police Officer | Advanced | Lapsed | 5/27/2008 | 3/14/2030 |  |
+| 6/14/2025 | Police Officer | Basic | Lapsed | 2/18/2000 | 3/14/2030 |  |
+| 6/14/2025 | Police Officer | Intermediate | Lapsed | 6/17/2003 | 3/14/2030 |  |
+| 6/14/2025 | Police Officer | Management | Lapsed | 10/7/2016 | 3/14/2030 |  |
+| 6/14/2025 | Police Officer | Supervisory | Lapsed | 5/4/2009 | 3/14/2030 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/28/2025 | 1/31/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 5/28/2003 |  |
 ## Education
 | date | degree | school | major | hours |

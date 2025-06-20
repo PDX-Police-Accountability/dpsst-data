@@ -31,10 +31,12 @@
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/12/2025 | PDP0954A | 2025 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/11/2025 | PDP0115A | Air Purifying Respirator and HAZMAT | Passed | 0.0 | 3.00 |
+| 6/11/2025 | PDP1769B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 6/10/2025 | PDP2762A | FTEP Orientation | Passed | 0.0 | 5.00 |
 | 6/9/2025 | PDP3680A | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 6/3/2025 | PDP2375A | FTEP Inroduction to Property and Evidence | Passed | 0.0 | 4.00 |
 | 5/28/2025 | PDP3454A | TEEX WMD/Terrorism for Emerg Responders | Passed | 0.0 | 8.00 |
+| 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 23.00 |
 | 5/16/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/23/2025 | REG4039A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 4/3/2025 | REG0415A | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |

@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/11/2025
+  course: PDP1769B
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/27/2024
   course: PDP2967A
   title: RADAR/LIDAR Operator

@@ -43,9 +43,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2025
+  course: PDP0159B
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/6/2025
   course: PDP4532A
   title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/2/2025
+  course: PDP1851B
+  title: 2025 AR-15 Instructor In-Service Training (1-Day)
   status: Passed
   score: '0.0'
   hours: '9.00'

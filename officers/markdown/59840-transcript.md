@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2025 | TRN3803B | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 5/30/2025 | OCS4567A | Radio Training | Passed | 0.0 | 1.50 |
 | 5/8/2025 | OCS3043A | Dashboard Enrichment Academy | Passed | 0.0 | 1.00 |
 | 4/30/2025 | OCS0531A | Oregon Child Abuse  Human Trafficking Summit | Passed | 0.0 | 16.00 |

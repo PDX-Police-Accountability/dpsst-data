@@ -130,7 +130,7 @@
 | 5/13/2020 | F6D29417 | Corrections Health Overview | Passed | 0.0 | 0.50 |
 | 4/15/2020 | F6D37094 | 2019 MCSO Less Lethal Course | Passed | 0.0 | 2.00 |
 | 4/10/2020 | F6D07813 | Facility Orientation | Passed | 0.0 | 0.50 |
-| 4/7/2020 | F6D21291 | Ehtics in Public Safety | Passed | 0.0 | 1.00 |
+| 4/7/2020 | F6D21291 | Ethics in Public Safety | Passed | 0.0 | 1.00 |
 | 3/23/2020 | F6D30135 | Distracted Driving | Passed | 0.0 | 0.50 |
 | 3/11/2020 | F6D34546 | Suicide Prevention | Passed | 0.0 | 2.00 |
 | 3/6/2020 | F6D20302 | Property | Passed | 0.0 | 1.50 |

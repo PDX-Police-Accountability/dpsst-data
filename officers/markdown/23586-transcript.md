@@ -109,7 +109,7 @@
 | 8/25/2020 | F6D44103 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 8/25/2020 | F6D14848 | Taser Recert | Passed | 0.0 | 0.50 |
 | 8/25/2020 | F6D16366 | ConSim | Passed | 0.0 | 3.50 |
-| 4/7/2020 | F6D21291 | Ehtics in Public Safety | Passed | 0.0 | 1.00 |
+| 4/7/2020 | F6D21291 | Ethics in Public Safety | Passed | 0.0 | 1.00 |
 | 12/24/2019 | MISCMAIN | 2019 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2019 | F6D19324 | Wellness | Passed | 0.0 | 4.00 |
 | 12/17/2019 | F6D20008 | Bias Training | Passed | 0.0 | 4.00 |

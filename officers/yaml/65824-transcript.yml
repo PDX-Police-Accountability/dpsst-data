@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/11/2025
+  course: PDP1769B
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/10/2025
   course: PDP2762A
   title: FTEP Orientation
@@ -66,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/27/2025
+  course: PDP0423B
+  title: 2025 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '23.00'
 - date: 5/21/2025
   course: PDP3454A
   title: TEEX WMD/Terrorism for Emerg Responders

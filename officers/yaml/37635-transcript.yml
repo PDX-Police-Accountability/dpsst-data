@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2025
+  course: EGP1687B
+  title: Firearms Marksmanship Drills  Breaching
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/15/2025
   course: EGP0146A
   title: Active Violent Event Protocols
