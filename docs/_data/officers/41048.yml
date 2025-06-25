@@ -58,40 +58,40 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/1/2023
+- status_date: 7/19/2023
   certificate: Police Officer
   level: Advanced
-  status: ReactiveUR
+  status: Lapsed-UR
   certificate_date: 9/4/2008
-  expiration_date: 7/19/2023
+  expiration_date: 4/19/2028
   probation_date: ''
-- status_date: 3/1/2023
+- status_date: 7/19/2023
   certificate: Police Officer
   level: Basic
-  status: ReactiveUR
+  status: Lapsed-UR
   certificate_date: 7/29/2002
-  expiration_date: 7/19/2023
+  expiration_date: 4/19/2028
   probation_date: ''
-- status_date: 3/1/2023
+- status_date: 7/19/2023
   certificate: Police Officer
   level: Intermediate
-  status: ReactiveUR
+  status: Lapsed-UR
   certificate_date: 7/29/2002
-  expiration_date: 7/19/2023
+  expiration_date: 4/19/2028
   probation_date: ''
-- status_date: 3/1/2023
+- status_date: 7/19/2023
   certificate: Police Officer
   level: Management
-  status: ReactiveUR
+  status: Lapsed-UR
   certificate_date: 10/2/2020
-  expiration_date: 7/19/2023
+  expiration_date: 4/19/2028
   probation_date: ''
-- status_date: 3/1/2023
+- status_date: 7/19/2023
   certificate: Police Officer
   level: Supervisory
-  status: ReactiveUR
+  status: Lapsed-UR
   certificate_date: 2/13/2014
-  expiration_date: 7/19/2023
+  expiration_date: 4/19/2028
   probation_date: ''
 training_records:
 - date: 2/7/2023
@@ -3323,14 +3323,6 @@ training_records:
   score: '0.0'
   hours: '931.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/11/2001

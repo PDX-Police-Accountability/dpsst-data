@@ -12,6 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/6/2025 | Wheeler County Sheriff's Office | Resigned | Dpty Shrf |  |  |
+| 6/4/2025 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 3/6/2024 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 2/20/2024 | Wheeler County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 8/24/2022 | Grant County Sheriff's Office | Resigned | Dpty Shrf |  |  |
@@ -40,12 +42,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/4/2025 | Instructor |  | Expired | 3/18/2024 |  |  |
 | 7/15/2024 | Police Officer | Advanced | App Incmpl |  | 9/15/2024 |  |
-| 3/18/2024 | Instructor |  | Granted | 3/18/2024 |  |  |
-| 2/20/2024 | Police Officer | Basic | Required |  |  | 8/20/2025 |
-| 11/24/2022 | Police Officer | Advanced | Lapsed | 11/16/1995 |  |  |
-| 11/24/2022 | Police Officer | Basic | Lapsed | 8/2/1988 |  |  |
-| 11/24/2022 | Police Officer | Intermediate | Lapsed | 10/24/1990 |  |  |
+| 11/24/2022 | Police Officer | Advanced | Lapsed | 11/16/1995 | 6/6/2030 |  |
+| 11/24/2022 | Police Officer | Basic | Lapsed | 8/2/1988 | 6/6/2030 |  |
+| 11/24/2022 | Police Officer | Intermediate | Lapsed | 10/24/1990 | 6/6/2030 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

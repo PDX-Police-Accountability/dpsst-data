@@ -23,16 +23,14 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/1/2023 | Police Officer | Advanced | ReactiveUR | 9/4/2008 | 7/19/2023 |  |
-| 3/1/2023 | Police Officer | Basic | ReactiveUR | 7/29/2002 | 7/19/2023 |  |
-| 3/1/2023 | Police Officer | Intermediate | ReactiveUR | 7/29/2002 | 7/19/2023 |  |
-| 3/1/2023 | Police Officer | Management | ReactiveUR | 10/2/2020 | 7/19/2023 |  |
-| 3/1/2023 | Police Officer | Supervisory | ReactiveUR | 2/13/2014 | 7/19/2023 |  |
+| 7/19/2023 | Police Officer | Advanced | Lapsed-UR | 9/4/2008 | 4/19/2028 |  |
+| 7/19/2023 | Police Officer | Basic | Lapsed-UR | 7/29/2002 | 4/19/2028 |  |
+| 7/19/2023 | Police Officer | Intermediate | Lapsed-UR | 7/29/2002 | 4/19/2028 |  |
+| 7/19/2023 | Police Officer | Management | Lapsed-UR | 10/2/2020 | 4/19/2028 |  |
+| 7/19/2023 | Police Officer | Supervisory | Lapsed-UR | 2/13/2014 | 4/19/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 12/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |

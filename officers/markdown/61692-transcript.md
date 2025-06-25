@@ -4,7 +4,7 @@
 | name | Pickens, Wyatt J. |
 | dpsst_identifier | 61692 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/13/2025 | Portland Police Bureau | Discharged | Police Off |  |  |
 | 8/17/2023 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/14/2023 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 3/1/2021 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |

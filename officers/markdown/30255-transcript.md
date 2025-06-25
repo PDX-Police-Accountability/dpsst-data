@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/18/2025 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 24.00 |
 | 5/15/2025 | SVP2647B | Annual LEOSA HR-218 Handgun Qualification | Passed | 0.0 | 1.00 |
 | 2/18/2025 | BPT1906A | Brain Science Workshop | Passed | 0.0 | 2.00 |
 | 10/6/2024 | PDP2777A | Red Dot Optic Transition Course | Passed | 0.0 | 25.00 |
