@@ -31,6 +31,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/10/2025 | Masters Science | All Other Education Institutes |  | 33.0 |
 | 3/19/1993 | Bachelor Science | Oregon State University | Game Management | 216.0 |
 ## Training
 | date | course | title | status | score | hours |

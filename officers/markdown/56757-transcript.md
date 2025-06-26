@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | XDELETE7 | Pending for Deletion Due to Duplicate or | Passed | 0.0 | 24.00 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/22/2025 | PPP4082A | Firearms Swab Training | Passed | 0.0 | 1.00 |

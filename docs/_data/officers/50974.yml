@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2025
+  course: OCP2495A
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/17/2025
+  course: OCP4199A
+  title: Intoxilyzer 8000 Certification Class
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/4/2025
   course: OCS2175A
   title: FARO Certification Course

@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2025 | HBS2577A | Def Tech Distraction Device ICP | Passed | 0.0 | 4.00 |
+| 6/19/2025 | HBS0109A | Def Tech Chemical Munition ICP | Passed | 0.0 | 5.00 |
+| 6/18/2025 | HBS0777A | Def Tech LLIM ICP | Passed | 0.0 | 4.50 |
+| 6/17/2025 | HBS2363A | Def Tech OC Aerosol Projectors Instructor Program | Passed | 0.0 | 4.75 |
 | 6/11/2025 | PDP0115A | Air Purifying Respirator and HAZMAT | Instructed | 0.0 | 3.00 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |

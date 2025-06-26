@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 6/4/2025
+  course: CPP0018A
+  title: Oregon Law Enforcement Records (OLERA) Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/20/2019
   course: PDP43537
   title: What Law Enforcement Professionals Need to Know

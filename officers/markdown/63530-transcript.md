@@ -23,6 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/18/2025 | 6/18/2027 |
 | Code of Ethics | Law Enforcement Signed | 4/2/2024 |  |
 | Code of Ethics | Law Enforcement Signed | 3/4/2023 |  |
 ## Education
@@ -31,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/18/2025 | PDP0283A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/12/2025 | PDP0954A | 2025 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/11/2025 | PDP0115A | Air Purifying Respirator and HAZMAT | Passed | 0.0 | 3.00 |
 | 6/11/2025 | PDP1769B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |

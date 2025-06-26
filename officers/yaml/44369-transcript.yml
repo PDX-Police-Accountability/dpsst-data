@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/9/2025
+  course: STY3465A
+  title: Fire Behavior For Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/7/2025
   course: VND0350A
   title: Northwest Leadership Seminar

@@ -19,6 +19,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/24/2025 | Police Officer | Intermediate | App Recd |  |  |  |
 | 5/16/2025 | Emergency Medical Dispatcher | Basic | Expired | 4/17/2018 |  |  |
 | 5/16/2025 | Telecommunicator | Basic | Expired | 4/17/2018 |  |  |
 | 12/2/2021 | Police Officer | Basic | Granted | 12/2/2021 |  |  |
@@ -33,6 +34,11 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/15/2018 | No Degree | Eastern Oregon University |  | 5.0 |
+| 6/14/2015 | Bachelor Science | Portland State University | Economics | 185.0 |
+| 9/15/2011 | No Degree | Chemeketa Community College |  | 4.0 |
+| 6/15/2010 | No Degree | Western Oregon University |  | 7.0 |
+| 6/15/2006 | No Degree | Blue Mountain Communty College |  | 2.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

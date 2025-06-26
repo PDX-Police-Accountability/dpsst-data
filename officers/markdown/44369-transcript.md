@@ -47,6 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/19/2025 | STP4253A | Firearms Training | Passed | 0.0 | 4.00 |
+| 5/9/2025 | STY3465A | Fire Behavior For Law Enforcement | Passed | 0.0 | 1.50 |
 | 3/7/2025 | VND0350A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 1/27/2025 | STP0978A | Night Range Qualification and Scenarios | Passed | 0.0 | 4.00 |
 | 12/2/2024 | STP3404A | Firearms Training OIS Range Scenarios | Passed | 0.0 | 4.00 |

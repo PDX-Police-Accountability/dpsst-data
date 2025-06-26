@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/9/2025
+  course: PDP3144A
+  title: 2025 OR Police Canine Assocation Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/21/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

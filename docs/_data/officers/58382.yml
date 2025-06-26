@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/24/2025
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 12/14/2023
   certificate: Police Officer
   level: Intermediate
@@ -67,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/15/2025
+  course: OCS2172A
+  title: May monthly firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/28/2025
   course: OCS1650B
   title: April 2025 Monthly Firearms Annual Qual

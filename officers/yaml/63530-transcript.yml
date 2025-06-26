@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/18/2025
+  course: PDP0283A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/12/2025
   course: PDP0954A
   title: 2025 Body Worn Camera Training
@@ -602,6 +608,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/18/2025
+  expiration_date: 6/18/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/2/2024

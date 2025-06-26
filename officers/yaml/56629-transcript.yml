@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/3/2025
+  course: PDP3098A
+  title: FETT Tact Breacher Cert Basic/Interm
+  status: Passed
+  score: '0.0'
+  hours: '48.00'
 - date: 4/24/2025
   course: PDP3632B
   title: FBI Intermediate IED Electronics Course

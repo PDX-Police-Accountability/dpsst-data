@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2025 | PDP3434B | Coordinated Response to Sideshow Enforcement | Passed | 0.0 | 16.00 |
 | 5/14/2025 | PDP2442B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 4/30/2025 | PDP2787A | WSHNA 2025 Training Seminar | Passed | 0.0 | 20.00 |
 | 4/16/2025 | PDP3100A | 2025 CNT Annual Training | Passed | 0.0 | 8.00 |
 | 4/10/2025 | PDP0830A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/8/2025 | ALP1896A | Coaching and Mentoring | Passed | 0.0 | 8.00 |

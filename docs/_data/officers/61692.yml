@@ -37,7 +37,7 @@ certification_records:
 - status_date: 6/6/2025
   certificate: Police Officer
   level: Basic
-  status: App Recd
+  status: ReqCertExt
   certificate_date: ''
   expiration_date: ''
   probation_date: 2/17/2026

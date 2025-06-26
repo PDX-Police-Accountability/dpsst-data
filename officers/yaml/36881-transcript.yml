@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/6/2025
+  course: SAG0243A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/8/2025
   course: SAG2800A
   title: Firearms Training

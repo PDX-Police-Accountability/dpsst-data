@@ -43,7 +43,6 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 6/4/2025 | Instructor |  | Expired | 3/18/2024 |  |  |
-| 7/15/2024 | Police Officer | Advanced | App Incmpl |  | 9/15/2024 |  |
 | 11/24/2022 | Police Officer | Advanced | Lapsed | 11/16/1995 | 6/6/2030 |  |
 | 11/24/2022 | Police Officer | Basic | Lapsed | 8/2/1988 | 6/6/2030 |  |
 | 11/24/2022 | Police Officer | Intermediate | Lapsed | 10/24/1990 | 6/6/2030 |  |

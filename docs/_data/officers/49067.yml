@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/15/2025
+  course: OCS2172A
+  title: May monthly firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/28/2025
   course: OCS0700B
   title: 2025 2nd Qtr Patrol Shotgun

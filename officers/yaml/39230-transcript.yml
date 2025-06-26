@@ -100,6 +100,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2025
+  course: EGP3870A
+  title: Behavioral Health Program Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/12/2025
+  course: EGP1470A
+  title: Cell Phone Seizure Policy/Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/12/2025
+  course: EGP1443A
+  title: Kids First Advocacy for Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/12/2025
+  course: EGP0396A
+  title: Flock Camera System Rollout
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/28/2025
   course: EGP1572A
   title: Emergency Airport Incident Command Exercise

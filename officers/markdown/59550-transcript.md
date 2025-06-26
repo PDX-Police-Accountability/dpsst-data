@@ -44,6 +44,7 @@
 | 4/7/2025 | BNP0868A | Tactical Scenarios | Passed | 0.0 | 16.00 |
 | 4/7/2025 | BNP1737A | Leadership Book Reading and Class | Passed | 0.0 | 8.00 |
 | 4/7/2025 | BNP1360A | Building clearing- Movements and Terminology | Passed | 0.0 | 3.00 |
+| 4/7/2025 | BNP0749A | Tactical Building Clearing | Passed | 0.0 | 8.00 |
 | 3/18/2025 | BNP0935A | Hostage Rescue Mini-scenarios | Passed | 0.0 | 8.00 |
 | 3/6/2025 | BNP0272A | Tactical Firearms Training | Passed | 0.0 | 1.00 |
 | 2/6/2025 | BNP2834A | Building Clearing (HRT, Slow Clear, Dynamic) | Passed | 0.0 | 8.00 |

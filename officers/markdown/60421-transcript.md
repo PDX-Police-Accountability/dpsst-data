@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2025 | SAG0243A | Firearms training | Instructed | 0.0 | 1.50 |
+| 6/6/2025 | SAG0243A | Firearms training | Passed | 0.0 | 1.50 |
 | 6/4/2025 | SMS4223A | Sig Sauer Pistol Mounted Optics Instructor Course | Passed | 0.0 | 16.00 |
 | 5/8/2025 | SAG2800A | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/8/2025 | SAG2800A | Firearms Training | Instructed | 0.0 | 1.00 |

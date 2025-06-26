@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/18/2025
+  course: BPT1843A
+  title: Operational Peer Support Symposium
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/15/2025
   course: PDP3399A
   title: 2025 SERT Training - Scenario

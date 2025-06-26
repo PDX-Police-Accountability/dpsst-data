@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | CPP0018A | Oregon Law Enforcement Records (OLERA) Conference | Passed | 0.0 | 16.00 |
 | 3/20/2019 | PDP43537 | What Law Enforcement Professionals Need to Know | Passed | 0.0 | 4.00 |
 | 12/31/2014 | 14-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/11/2014 | 14-0924 | Sexual Harassment | Passed | 0.0 | 1.00 |

@@ -44,6 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2025 | EGP3870A | Behavioral Health Program Updates | Passed | 0.0 | 1.00 |
+| 6/12/2025 | EGP1470A | Cell Phone Seizure Policy/Legal Updates | Passed | 0.0 | 0.50 |
+| 6/12/2025 | EGP1443A | Kids First Advocacy for Human Trafficking | Passed | 0.0 | 0.50 |
+| 6/12/2025 | EGP0396A | Flock Camera System Rollout | Passed | 0.0 | 1.50 |
 | 5/28/2025 | EGP1572A | Emergency Airport Incident Command Exercise | Passed | 0.0 | 2.00 |
 | 4/10/2025 | EGP0646B | Firearm Qualification | Passed | 0.0 | 4.00 |
 | 4/10/2025 | EGP2246B | Taser Recertification | Passed | 0.0 | 4.00 |

@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2025 | OCP2495A | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 6/17/2025 | OCP4199A | Intoxilyzer 8000 Certification Class | Instructed | 0.0 | 6.00 |
 | 6/4/2025 | OCS2175A | FARO Certification Course | Passed | 0.0 | 24.00 |
 | 5/28/2025 | OCP3795A | Spring 2025 Officer In Charge Training | Passed | 0.0 | 3.00 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
