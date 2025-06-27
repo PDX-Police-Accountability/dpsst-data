@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2025 | PDP2545B | NWGIA Training Symposium | Passed | 0.0 | 36.00 |
 | 4/18/2025 | PDP4211A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/21/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/11/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |

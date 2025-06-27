@@ -32,6 +32,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/10/2025 | PDP1940A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/9/2025 | PDP2545B | NWGIA Training Symposium | Passed | 0.0 | 36.00 |
 | 3/20/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/11/2025 | PDP4499A | OPOA Search Warrants | Passed | 0.0 | 7.50 |
 | 3/10/2025 | VND2033A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |

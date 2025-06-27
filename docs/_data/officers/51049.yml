@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/9/2025
+  course: PDP2545B
+  title: NWGIA Training Symposium
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 4/18/2025
   course: PDP4211A
   title: CPR/First Aid

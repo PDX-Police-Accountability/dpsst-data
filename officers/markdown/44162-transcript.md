@@ -35,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/14/2025 | PDP2442B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 5/13/2025 | PDP3583B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/9/2025 | PDP2545B | NWGIA Training Symposium | Passed | 0.0 | 36.00 |
 | 4/16/2025 | PDP3100A | 2025 CNT Annual Training | Passed | 0.0 | 8.00 |
 | 3/25/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/25/2025 | PDP0621A | 2025-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |

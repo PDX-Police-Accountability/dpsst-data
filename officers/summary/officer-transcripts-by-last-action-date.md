@@ -1619,7 +1619,6 @@
 | Hughes, Heather R. | 32358 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-06-28 | [md](../markdown/32358-transcript.md) - [yaml](../yaml/32358-transcript.yml) |
 | Derry, Ryan W. | 32366 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-06-28 | [md](../markdown/32366-transcript.md) - [yaml](../yaml/32366-transcript.yml) |
 | Bauer, Kurt D. | 59626 | Portland Police Bureau | Active | Police Officer | Mil-LOA | 2024-06-30 | [md](../markdown/59626-transcript.md) - [yaml](../yaml/59626-transcript.yml) |
-| Schultz, Alec R. | 61081 | Portland Police Bureau | Active | Police Officer | LOA | 2024-07-05 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
 | Vergara, Michele R. | 49920 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-07-08 | [md](../markdown/49920-transcript.md) - [yaml](../yaml/49920-transcript.yml) |
 | Ledford, Adrian B. | 57521 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-07-09 | [md](../markdown/57521-transcript.md) - [yaml](../yaml/57521-transcript.yml) |
 | Webster, Cacina Y. | 63887 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-07-11 | [md](../markdown/63887-transcript.md) - [yaml](../yaml/63887-transcript.yml) |
@@ -1710,7 +1709,6 @@
 | Zimnie Mitchell, Dana R. | 65839 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/65839-transcript.md) - [yaml](../yaml/65839-transcript.yml) |
 | Denzel, Bryce M. | 65840 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/65840-transcript.md) - [yaml](../yaml/65840-transcript.yml) |
 | Pelster, Anthony J. | 65841 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/65841-transcript.md) - [yaml](../yaml/65841-transcript.yml) |
-| Webb, Sharif L. | 65842 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/65842-transcript.md) - [yaml](../yaml/65842-transcript.yml) |
 | Hills, Connor B. | 65848 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/65848-transcript.md) - [yaml](../yaml/65848-transcript.yml) |
 | Jimenez-Sutton, Robert G. | 65849 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/65849-transcript.md) - [yaml](../yaml/65849-transcript.yml) |
 | Tractenberg, Vitalyi B. | 65853 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/65853-transcript.md) - [yaml](../yaml/65853-transcript.yml) |
@@ -1788,5 +1786,7 @@
 | Sween, Norman J. | 66395 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66395-transcript.md) - [yaml](../yaml/66395-transcript.yml) |
 | Riddle, Carson D. | 66425 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66425-transcript.md) - [yaml](../yaml/66425-transcript.yml) |
 | Sessions, Timothy E. | 21772 | Portland Police Bureau | Active | Sergeant | Return LOA | 2025-06-10 | [md](../markdown/21772-transcript.md) - [yaml](../yaml/21772-transcript.yml) |
+| Webb, Sharif L. | 65842 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-11 | [md](../markdown/65842-transcript.md) - [yaml](../yaml/65842-transcript.yml) |
 | Pickens, Wyatt J. | 61692 | Portland Police Bureau | Inactive | Police Officer | Discharged | 2025-06-13 | [md](../markdown/61692-transcript.md) - [yaml](../yaml/61692-transcript.yml) |
+| Schultz, Alec R. | 61081 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-17 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
 | Stanley, Luke A. | 66408 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66408-transcript.md) - [yaml](../yaml/66408-transcript.yml) |

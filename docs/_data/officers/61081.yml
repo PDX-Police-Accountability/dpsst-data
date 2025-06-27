@@ -3,12 +3,18 @@ header_record:
   name: Schultz, Alec R.
   dpsst_identifier: '61081'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/17/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/5/2024
   agency: Portland Police Bureau
   action: LOA
@@ -34,19 +40,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 4/11/2024
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 10/11/2025
 - status_date: 8/26/2023
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 9/15/2021
-  expiration_date: ''
+  expiration_date: 6/17/2030
   probation_date: ''
 training_records:
 - date: 6/22/2024

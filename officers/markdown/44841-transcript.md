@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2025 | LOP1777B | Firearms Training | Passed | 0.0 | 4.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 3/6/2025 | LOP2287A | Cooperative and Forcible Removal From Vehicles | Passed | 0.0 | 2.00 |
 | 3/5/2025 | F1501174 | Donning and Doffing Personal Protec. | Passed | 0.0 | 3.00 |

@@ -4,7 +4,7 @@
 | name | Webb, Sharif L. |
 | dpsst_identifier | 65842 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/11/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 12/5/2024 | Portland Police Bureau | Hired | Police Off |  |  |
 | 11/22/2024 | Out of State Employment | Resigned | Police Off |  |  |
 | 11/2/2017 | Out of State Employment | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/5/2024 | Police Officer | Basic | Required |  |  | 6/5/2026 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

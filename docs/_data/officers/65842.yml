@@ -3,12 +3,18 @@ header_record:
   name: Webb, Sharif L.
   dpsst_identifier: '65842'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/11/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/5/2024
   agency: Portland Police Bureau
   action: Hired
@@ -27,14 +33,7 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 12/5/2024
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 6/5/2026
+certification_records: []
 training_records:
 - date: 9/15/2025
   course: 25-0004

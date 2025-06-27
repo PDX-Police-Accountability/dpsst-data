@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2025 | PDP3434B | Coordinated Response to Sideshow Enforcement | Passed | 0.0 | 16.00 |
+| 5/9/2025 | PDP2545B | NWGIA Training Symposium | Passed | 0.0 | 36.00 |
 | 4/27/2025 | PDP3009A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/26/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 4/25/2025 | PDP0086B | NICJR Site Visit Indianapolis | Passed | 0.0 | 30.00 |

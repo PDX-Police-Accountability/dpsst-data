@@ -84,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/30/2025
+  course: PDP1783B
+  title: Mindful Agility Workshop
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/27/2025
   course: PDP1069A
   title: 2025 SERT Training - Iteration

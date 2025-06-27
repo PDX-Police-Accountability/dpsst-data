@@ -1471,7 +1471,7 @@
 | Schroeder, Shawn R. | 58932 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/58932-transcript.md) - [yaml](../yaml/58932-transcript.yml) |
 | Schull, Broden R. | 63052 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63052-transcript.md) - [yaml](../yaml/63052-transcript.yml) |
 | Schull, Wayne D. | 47433 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-16 | [md](../markdown/47433-transcript.md) - [yaml](../yaml/47433-transcript.yml) |
-| Schultz, Alec R. | 61081 | Portland Police Bureau | Active | Police Officer | LOA | 2024-07-05 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
+| Schultz, Alec R. | 61081 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-17 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
 | Schultz, Bradley S. | 63344 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-18 | [md](../markdown/63344-transcript.md) - [yaml](../yaml/63344-transcript.yml) |
 | Schurter, Tina M. | 18743 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2021-06-28 | [md](../markdown/18743-transcript.md) - [yaml](../yaml/18743-transcript.yml) |
 | Schwartz, Matthew B. | 62260 | Portland Police Bureau | Active | Police Officer | Hired | 2021-09-30 | [md](../markdown/62260-transcript.md) - [yaml](../yaml/62260-transcript.yml) |
@@ -1693,7 +1693,7 @@
 | Warren, Lia S. | 53098 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/53098-transcript.md) - [yaml](../yaml/53098-transcript.yml) |
 | Watts, Nola | 45768 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-02-20 | [md](../markdown/45768-transcript.md) - [yaml](../yaml/45768-transcript.yml) |
 | Weatheroy, Paul G. | 19502 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2015-05-06 | [md](../markdown/19502-transcript.md) - [yaml](../yaml/19502-transcript.yml) |
-| Webb, Sharif L. | 65842 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/65842-transcript.md) - [yaml](../yaml/65842-transcript.yml) |
+| Webb, Sharif L. | 65842 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-11 | [md](../markdown/65842-transcript.md) - [yaml](../yaml/65842-transcript.yml) |
 | Webb, Steven A. | 66073 | Portland Police Bureau | Active | Police Officer | Hired | 2025-02-13 | [md](../markdown/66073-transcript.md) - [yaml](../yaml/66073-transcript.yml) |
 | Webber, Joseph F. | 44629 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-10 | [md](../markdown/44629-transcript.md) - [yaml](../yaml/44629-transcript.yml) |
 | Weber, Eric S. | 32070 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-12-28 | [md](../markdown/32070-transcript.md) - [yaml](../yaml/32070-transcript.yml) |

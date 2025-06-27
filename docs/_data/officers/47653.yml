@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2025
+  course: PDP4384B
+  title: Air Purifying Respirator and HAZMAT
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/12/2025
   course: PDP0954A
   title: 2025 Body Worn Camera Training

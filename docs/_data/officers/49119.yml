@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/9/2025
+  course: PDP2545B
+  title: NWGIA Training Symposium
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 4/27/2025
   course: PDP3009A
   title: CPR/First Aid

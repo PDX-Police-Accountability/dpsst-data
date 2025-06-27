@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 6/4/2025
+  course: PPP3425B
+  title: Initial Patrol Rifle Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/30/2025
   course: OSH0042A
   title: Oregon State Police - Public Order Basic Course

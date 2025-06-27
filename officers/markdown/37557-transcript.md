@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2025 | LOP1777B | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/12/2025 | LOP2143A | Mindset Matters | Passed | 0.0 | 5.00 |
 | 3/6/2025 | LOP2287A | Cooperative and Forcible Removal From Vehicles | Passed | 0.0 | 2.00 |
 | 2/14/2025 | LOP1092A | CCDA DV Investigations Presentation | Passed | 0.0 | 2.00 |

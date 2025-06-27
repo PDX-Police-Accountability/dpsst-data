@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/24/2025
+  course: PDP4384B
+  title: Air Purifying Respirator and HAZMAT
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/7/2025
   course: REG1278B
   title: Intox 8000 (Hours included in Basic)

@@ -41,7 +41,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/24/2041 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 5/15/2025 | OCS2172A | May monthly firearms | Passed | 0.0 | 1.00 |
 | 5/9/2025 | OCS1964B | May DT In-Service: Choke Defense | Passed | 0.0 | 1.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |

@@ -37,6 +37,7 @@
 | 5/11/2025 | PDP2506A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/6/2025 | PDP3749A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/30/2025 | PDP1783B | Mindful Agility Workshop | Passed | 0.0 | 16.00 |
 | 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/22/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
