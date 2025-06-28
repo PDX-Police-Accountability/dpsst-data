@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/13/2025 | PDP0408A | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 4/29/2025 | PDP4539A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/28/2025 | PDP0081A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/24/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |

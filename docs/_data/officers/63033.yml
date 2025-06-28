@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/26/2025
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 12/27/2023
   certificate: Police Officer
   level: Basic
@@ -27,6 +34,12 @@ training_records:
 - date: 5/14/2025
   course: PDP2572B
   title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2025
+  course: PDP0408A
+  title: 2025 Mobile Identification Device (MIDD) Training
   status: Passed
   score: '0.0'
   hours: '1.00'

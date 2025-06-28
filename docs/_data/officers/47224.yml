@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 3/28/2025
+  course: PDP1733A
+  title: Advanced Latent Ridgeology
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 3/8/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update

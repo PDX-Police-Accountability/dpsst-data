@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 5/6/2025
+  course: PDP1818A
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/29/2025
   course: PDP0829A
   title: CPR/First Aid

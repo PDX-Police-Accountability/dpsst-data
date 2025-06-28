@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2025
+  course: SAG0868A
+  title: 4th Annual OCCIA Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/22/2025
   course: GSP1751A
   title: FEMA ICS-200

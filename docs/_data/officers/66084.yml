@@ -36,6 +36,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/24/2025
+  course: PDP1046A
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2025
+  course: REG1902A
+  title: DID-SFST (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/7/2025
   course: REG1278B
   title: Intox 8000 (Hours included in Basic)

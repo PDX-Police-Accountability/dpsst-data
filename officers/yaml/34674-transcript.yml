@@ -56,6 +56,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/16/2025
+  course: LOP0010A
+  title: 2025 Metro Area Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 3/30/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 5/16/2025 | PDP3164B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/16/2025 | LOP0010A | 2025 Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 3/9/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDP1585B | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 23.50 |
 | 2/21/2025 | OCS2608A | FBI LEEDA - SLI | Passed | 0.0 | 36.00 |

@@ -30,6 +30,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/24/2025 | PDP4384B | Air Purifying Respirator and HAZMAT | Passed | 0.0 | 3.00 |
+| 6/24/2025 | PDP1046A | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
+| 5/28/2025 | REG1902A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/7/2025 | REG1278B | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/3/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 2/27/2025 | PDP0795A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2025 | SAG0868A | 4th Annual OCCIA Conference | Passed | 0.0 | 8.00 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 1.00 |
 | 1/29/2025 | SAG1349A | Firearms training | Passed | 0.0 | 2.00 |
 | 12/26/2024 | SAG1222A | 2022 Oregon Sheriff's Airway training video | Passed | 0.0 | 1.45 |

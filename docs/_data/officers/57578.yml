@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2025
+  course: PDP0408A
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/5/2025
   course: PDP3435A
   title: CPR/First Aid
