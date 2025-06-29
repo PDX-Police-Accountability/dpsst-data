@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/25/2025
+  course: EGP3185A
+  title: SWAT Search Skills-Mini Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/15/2025
   course: EGP0146A
   title: Active Violent Event Protocols

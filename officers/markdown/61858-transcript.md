@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | 14700A | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 6/23/2025 | VND1208A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 5/8/2025 | MFN1153A | Yoga For First Responders | Passed | 0.0 | 4.00 |
 | 5/6/2025 | STN0546B | Peer Support and Mental Health | Passed | 0.0 | 3.00 |
 | 4/3/2025 | MFN2666A | Firearms Qualifications | Passed | 0.0 | 0.50 |

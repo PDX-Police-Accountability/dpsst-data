@@ -186,7 +186,7 @@
 | 7/9/2019 | REG40750 | Basic Tactical Medicine: Firearms Practical | Instructed | 0.0 | 4.00 |
 | 5/22/2019 | F6D12929 | Firearms Training | Instructed | 0.0 | 4.00 |
 | 5/21/2019 | F6D31898 | Handgun Instructor Refresher  Basic Police | Instructed | 0.0 | 8.00 |
-| 5/14/2019 | F6D13390 | CPR / 1st AID | Passed | 0.0 | 4.00 |
+| 5/14/2019 | F6D13390 | CPR and First Aid | Passed | 0.0 | 4.00 |
 | 5/14/2019 | F6D35288 | Brief Training | Passed | 0.0 | 1.00 |
 | 5/14/2019 | F6D24569 | ORPAT Instructor Development Course | Passed | 0.0 | 6.00 |
 | 4/20/2019 | F6D09718 | SWAT - Room Clearing, Hostage Rescue, Con-Sim | Passed | 0.0 | 6.00 |

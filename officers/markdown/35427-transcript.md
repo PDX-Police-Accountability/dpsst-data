@@ -48,7 +48,7 @@
 | 4/7/2020 | F6D21291 | Ethics in Public Safety | Passed | 0.0 | 1.00 |
 | 1/13/2020 | 20-0001 | DPSST Basic Corrections | Withdrew | 0.0 | 240.00 |
 | 12/24/2019 | F6D10252 | PREA Refresher 2019 | Passed | 0.0 | 2.00 |
-| 12/3/2019 | F6D16537 | CPR - First Aid -AED | Passed | 0.0 | 2.00 |
+| 12/3/2019 | F6D16537 | CPR - First Aid - AED | Passed | 0.0 | 2.00 |
 | 12/3/2019 | F6D13598 | Wellness | Passed | 0.0 | 2.00 |
 | 9/30/2019 | F6D32695 | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 9/26/2019 | F6D10863 | Crisis Communication | Passed | 0.0 | 8.00 |

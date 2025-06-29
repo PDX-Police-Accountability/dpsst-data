@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2025
+  course: SAG0550A
+  title: Fences  Preparing Case for Prosecution
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 5/7/2025
   course: PDP2705A
   title: 2025 EAP Annual Member Training

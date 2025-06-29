@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | SDP1735A | Report Writing and Evidence Processing | Passed | 0.0 | 1.00 |
+| 6/25/2025 | SDP0055A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
+| 6/25/2025 | SDP1134A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
 | 4/16/2025 | SDP1314A | Handgun Qualification | Passed | 0.0 | 2.00 |
 | 4/9/2025 | SDP2569A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 4/5/2025 | BVP0585A | ConSim Final | Instructed | 0.0 | 8.00 |

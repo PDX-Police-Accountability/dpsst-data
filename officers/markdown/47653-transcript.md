@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | PDP2548A | Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 6/24/2025 | PDP4384B | Air Purifying Respirator and HAZMAT | Instructed | 0.0 | 3.00 |
 | 6/12/2025 | PDP0954A | 2025 Body Worn Camera Training | Instructed | 0.0 | 2.00 |
 | 6/9/2025 | PDP3680A | Post Basic CEW | Instructed | 0.0 | 9.00 |

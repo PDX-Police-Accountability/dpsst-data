@@ -313,7 +313,7 @@
 | 1/18/2020 | F6D22312 | Transgender Booking Policy | Passed | 0.0 | 1.00 |
 | 1/4/2020 | F6D42895 | Facility Orientation | Passed | 0.0 | 0.50 |
 | 12/13/2019 | F6D18199 | PREA Refresher 2019 | Passed | 0.0 | 2.00 |
-| 12/3/2019 | F6D16537 | CPR - First Aid -AED | Passed | 0.0 | 2.00 |
+| 12/3/2019 | F6D16537 | CPR - First Aid - AED | Passed | 0.0 | 2.00 |
 | 12/3/2019 | F6D41743 | Bias Training | Passed | 0.0 | 4.00 |
 | 12/3/2019 | F6D13598 | Wellness | Passed | 0.0 | 2.00 |
 | 10/30/2019 | F6D00618 | Firearms Training | Passed | 0.0 | 6.00 |

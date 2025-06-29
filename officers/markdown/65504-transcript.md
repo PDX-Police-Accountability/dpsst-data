@@ -35,6 +35,7 @@
 | 3/11/2025 | PDP2208A | Hazmat/WMD Awareness/Gas Mask | Passed | 0.0 | 3.00 |
 | 3/10/2025 | PDP2176A | TEEX WMD Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 3/10/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 3/4/2025 | PDP0191A | 2025 FTEP Orientation | Passed | 0.0 | 5.50 |
 | 3/2/2025 | PDP1170A | 2021 In-Service Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
 | 3/2/2025 | PDP3301A | 2021 In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 3/2/2025 | PDP1937A | 2021 In-Service Procedural Justice Part 1 | Passed | 0.0 | 0.25 |

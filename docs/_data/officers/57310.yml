@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2025
+  course: SAG0550A
+  title: Fences  Preparing Case for Prosecution
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 5/24/2025
   course: PDP3160A
   title: 2025 Utility Terrian Vehicle (UTV) Training
@@ -62,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/25/2025
+  course: PDP0637A
+  title: 2025 PPB Honor Guard In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/16/2025
   course: PDP3100A
   title: 2025 CNT Annual Training

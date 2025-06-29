@@ -801,4 +801,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 3/4/2023
   expiration_date: ''
-education_records: []
+education_records:
+- date: 8/28/2020
+  degree: Associate Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '95.0'

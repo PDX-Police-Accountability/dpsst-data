@@ -138,6 +138,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/10/2024
+  course: PDP3294A
+  title: 2024 External Training Women in Command
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

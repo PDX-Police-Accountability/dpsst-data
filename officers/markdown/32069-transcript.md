@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2025 | SDP1735A | Report Writing and Evidence Processing | Passed | 0.0 | 1.00 |
+| 6/11/2025 | SDP0055A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
+| 6/11/2025 | SDP1134A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/28/2025 | SDP3132A | Use of Force - 3 Part Scenario | Instructed | 0.0 | 2.00 |
 | 5/28/2025 | SDP2136A | CART Introduction | Passed | 0.0 | 1.00 |

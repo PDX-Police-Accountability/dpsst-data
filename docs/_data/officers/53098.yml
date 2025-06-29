@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/25/2025
+  course: PDP0637A
+  title: 2025 PPB Honor Guard In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/13/2025
   course: PDP4334A
   title: 2025 Standard Field Sobriety Test (SFST) Refresher

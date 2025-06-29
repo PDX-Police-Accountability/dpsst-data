@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/25/2025
+  course: PDP0637A
+  title: 2025 PPB Honor Guard In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/11/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

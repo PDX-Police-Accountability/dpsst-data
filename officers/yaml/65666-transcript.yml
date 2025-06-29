@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/25/2025
+  course: PDP0131A
+  title: RegJIN RMS/MRE Training Roster
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 5/20/2025
   course: PDP4322A
   title: 2025 Body Worn Camera Training

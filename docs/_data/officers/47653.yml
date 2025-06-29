@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2025
+  course: PDP2548A
+  title: Post Basic CEW Taser
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/24/2025
   course: PDP4384B
   title: Air Purifying Respirator and HAZMAT

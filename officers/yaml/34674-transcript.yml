@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 4/25/2025
+  course: PDP0637A
+  title: 2025 PPB Honor Guard In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/30/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

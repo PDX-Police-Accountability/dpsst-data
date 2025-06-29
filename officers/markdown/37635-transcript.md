@@ -42,6 +42,7 @@
 | 6/12/2025 | EGP1470A | Cell Phone Seizure Policy/Legal Updates | Passed | 0.0 | 0.50 |
 | 6/12/2025 | EGP0396A | Flock Camera System Rollout | Passed | 0.0 | 1.50 |
 | 6/12/2025 | EGP1443A | Kids First Advocacy for Human Trafficking | Passed | 0.0 | 0.50 |
+| 5/25/2025 | EGP3185A | SWAT Search Skills-Mini Scenarios | Passed | 0.0 | 4.00 |
 | 5/15/2025 | EGP0146A | Active Violent Event Protocols | Passed | 0.0 | 1.50 |
 | 5/15/2025 | EGP3004A | Building Search  AVI Response Scenario | Passed | 0.0 | 2.50 |
 | 5/15/2025 | EGP1257A | Tactical Medical Skills | Passed | 0.0 | 2.50 |

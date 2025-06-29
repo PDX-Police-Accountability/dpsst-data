@@ -45,6 +45,7 @@
 | 3/10/2025 | PDP2664A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 3/10/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 3/10/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 3/4/2025 | PDP0191A | 2025 FTEP Orientation | Passed | 0.0 | 5.50 |
 | 3/3/2025 | PDP4514A | 2023-12 City Attorney Legal Updates for Jan  Feb | Passed | 0.0 | 0.25 |
 | 3/3/2025 | PDP2861A | 2024-1 TT SERT in Mobile Incidents | Passed | 0.0 | 0.25 |
 | 3/3/2025 | PDP4252A | 2024-7 COA Legal Updates for July 2024 | Passed | 0.0 | 0.25 |

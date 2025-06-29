@@ -68,6 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2025
+  course: SDP1735A
+  title: Report Writing and Evidence Processing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2025
+  course: SDP0055A
+  title: Child Abuse MDT Protocols/Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2025
+  course: SDP1134A
+  title: Child Abuse MDT Protocols/Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/16/2025
   course: SDP1314A
   title: Handgun Qualification

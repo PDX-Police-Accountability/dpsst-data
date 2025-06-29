@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/4/2025
+  course: PDP0191A
+  title: 2025 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 3/2/2025
   course: PDP1170A
   title: 2021 In-Service Procedural Justice Part 3

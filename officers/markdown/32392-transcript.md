@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2025 | SAG0550A | Fences  Preparing Case for Prosecution | Passed | 0.0 | 3.50 |
 | 5/20/2025 | TGP0319A | ACAP | Passed | 0.0 | 2.00 |
 | 5/20/2025 | TGP1412A | Handgun Training | Passed | 0.0 | 1.25 |
 | 4/18/2025 | TGP3554A | Police Bicycle Operator Instroductory Course | Instructed | 0.0 | 8.00 |

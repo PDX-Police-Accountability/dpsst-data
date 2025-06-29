@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2025 | EGP4510A | SWAT Firearms- HR Target Drills | Passed | 0.0 | 2.00 |
+| 5/25/2025 | EGP3185A | SWAT Search Skills-Mini Scenarios | Passed | 0.0 | 4.00 |
 | 5/22/2025 | EGP1446B | Explosive Breaching Charge Construction -IDC- TE | Passed | 0.0 | 8.00 |
 | 5/15/2025 | EGP0146A | Active Violent Event Protocols | Passed | 0.0 | 1.50 |
 | 5/15/2025 | EGP3004A | Building Search  AVI Response Scenario | Passed | 0.0 | 2.50 |
