@@ -174,12 +174,6 @@ training_records:
   score: '0.0'
   hours: '3.00'
 - date: 4/22/2025
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
-- date: 4/22/2025
   course: RRP3586A
   title: OACP Annual Conference Board Meeting
   status: Passed

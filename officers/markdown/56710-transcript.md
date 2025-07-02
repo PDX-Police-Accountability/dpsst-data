@@ -39,12 +39,24 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2025 | REG2944B | DT | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP1735A | Report Writing and Evidence Processing | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP0055A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP1134A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
+| 6/25/2025 | SDP4509B | Rifle Qualification and Drills | Passed | 0.0 | 2.00 |
+| 6/16/2025 | REG2532B | Ground/Standing Control to Takedown | Passed | 0.0 | 1.00 |
+| 5/23/2025 | REG3184B | Control Tactics | Passed | 0.0 | 1.00 |
+| 5/1/2025 | REG1978B | Striking/Side Control | Passed | 0.0 | 1.00 |
 | 4/16/2025 | SDP1314A | Handgun Qualification | Passed | 0.0 | 2.00 |
+| 4/14/2025 | REG2174B | Strike Defense/Ground Control | Passed | 0.0 | 1.00 |
+| 4/10/2025 | REG0286B | DT | Passed | 0.0 | 1.00 |
 | 4/9/2025 | SDP2569A | Defensive Tactics | Passed | 0.0 | 3.00 |
+| 4/7/2025 | REG3411B | Striking/Butterfly Guard Sweep | Passed | 0.0 | 1.00 |
 | 4/5/2025 | BVP0585A | ConSim Final | Instructed | 0.0 | 8.00 |
+| 3/31/2025 | REG3257B | Control to Cuffing | Passed | 0.0 | 1.00 |
+| 3/27/2025 | REG0120B | DT | Passed | 0.0 | 1.00 |
+| 3/20/2025 | REG1997B | DT | Passed | 0.0 | 1.00 |
+| 3/13/2025 | REG0437B | DT | Passed | 0.0 | 1.00 |
 | 3/12/2025 | SDP2748A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 3/12/2025 | SDP2718A | Photo Lineups/In-field Showups | Passed | 0.0 | 0.50 |
 | 3/12/2025 | SDP1165A | Drone Deployments and General Info | Passed | 0.0 | 1.50 |

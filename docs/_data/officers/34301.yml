@@ -67,6 +67,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/6/2025
+  course: TRN1727B
+  title: 2025 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/6/2025
+  course: TRN3334B
+  title: DOC - PREA What You Should Know v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/6/2025
+  course: TRN2343B
+  title: DOC - Protection from Ambient Heat v2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/6/2025
+  course: TRN3303B
+  title: DOC - Responding to AIC Health Care Needs v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/6/2025
+  course: TRN1961B
+  title: DOC - Suicide Detection and Prevention v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/5/2025
+  course: TRN2828B
+  title: Accessibility for AICs w Disabilities v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/5/2025
+  course: TRN0235B
+  title: Bloodborne Pathogens Infectious Material v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/5/2025
+  course: TRN3232B
+  title: DOC - Fire Alarm Panel Monitoring v2025 (Volume 1)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/5/2025
+  course: TRN0186B
+  title: DOC - CCCF Fire Suppression v2025 (Volume 1)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/5/2025
+  course: TRN1268B
+  title: DOC - Fire Extinguisher Use and Safety v2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/5/2025
+  course: TRN2767B
+  title: DOC - Nasal Naloxone (Narcan) v2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/5/2025
+  course: TRN0438B
+  title: DOC - OMS - UIR Memo Basics v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/9/2025
   course: TRN2232B
   title: PREA Professional Respectful CommuNICation v2024

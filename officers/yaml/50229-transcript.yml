@@ -49,6 +49,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2025
+  course: TRN3245B
+  title: DOC - Defensive Tactics v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/10/2025
+  course: TRN0246B
+  title: DOC - FS - Planned Use of Force v2025
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/10/2025
+  course: TRN2549B
+  title: DOC - Professional vs Private v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/9/2025
+  course: TRN4387B
+  title: DOC - ICSC Disaster Preparedness v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/9/2025
+  course: TRN4455B
+  title: DOC - Operationalized Respect v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/9/2025
+  course: TRN1016B
+  title: Guiding Change Through Dynamic Security
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/20/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

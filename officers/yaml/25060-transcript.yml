@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2025
+  course: WBP2197B
+  title: Adult and Pediatric First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/5/2025
   course: WBP4470A
   title: Crisis Response Team Overview
@@ -3323,6 +3329,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/10/2025
+  expiration_date: 6/10/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/15/2023

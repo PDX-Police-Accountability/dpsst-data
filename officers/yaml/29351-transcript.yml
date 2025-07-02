@@ -3,12 +3,18 @@ header_record:
   name: Birkinbine, John C.
   dpsst_identifier: '29351'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/27/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 5/11/2023
   agency: Portland Police Bureau
   action: Return LOA
@@ -51,30 +57,36 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 5/2/2024
-  expiration_date: ''
+  expiration_date: 9/27/2025
   probation_date: ''
 - status_date: 5/2/2024
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 5/2/2024
-  expiration_date: ''
+  expiration_date: 9/27/2025
   probation_date: ''
 - status_date: 5/19/2020
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 5/19/2020
-  expiration_date: ''
+  expiration_date: 9/27/2025
   probation_date: ''
 - status_date: 2/10/1995
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/10/1995
-  expiration_date: ''
+  expiration_date: 9/27/2025
   probation_date: ''
 training_records:
+- date: 6/30/2025
+  course: MISCMAIN
+  title: 2024 LE Leadership 3-Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/27/2025
   course: PDP1907A
   title: CPR/First Aid
@@ -5392,6 +5404,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/27/2025
@@ -5399,10 +5415,6 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
   expiration_date: 12/31/2025
 education_records:
 - date: 3/1/1993

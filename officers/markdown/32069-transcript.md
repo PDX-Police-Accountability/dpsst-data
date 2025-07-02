@@ -39,14 +39,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2025 | REG2532B | Ground/Standing Control to Takedown | Passed | 0.0 | 1.00 |
 | 6/11/2025 | SDP1735A | Report Writing and Evidence Processing | Passed | 0.0 | 1.00 |
 | 6/11/2025 | SDP0055A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
 | 6/11/2025 | SDP1134A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
+| 6/11/2025 | SDP4509B | Rifle Qualification and Drills | Passed | 0.0 | 2.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/28/2025 | SDP3132A | Use of Force - 3 Part Scenario | Instructed | 0.0 | 2.00 |
 | 5/28/2025 | SDP2136A | CART Introduction | Passed | 0.0 | 1.00 |
 | 5/28/2025 | SDP3904A | Investigation Scenarios - Decision Making | Passed | 0.0 | 2.00 |
 | 5/28/2025 | SDP3907A | Municipal Code Update | Passed | 0.0 | 1.00 |
+| 5/26/2025 | REG0627B | Control from Guard | Passed | 0.0 | 1.00 |
+| 5/19/2025 | REG0769B | Control Tactics | Passed | 0.0 | 1.00 |
 | 4/24/2025 | OAC0714A | Principled Leadership - The Charleston 9 | Passed | 0.0 | 4.00 |
 | 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |
 | 4/23/2025 | OAC1720A | Critical LE Lessons from Active Shooter Events | Passed | 0.0 | 3.00 |
@@ -55,8 +59,11 @@
 | 4/22/2025 | OAC1588A | So, You Wanted to Be a Cop | Passed | 0.0 | 1.00 |
 | 4/22/2025 | OAC2881A | Relaxing Transition to Retirement or Tsunami? | Passed | 0.0 | 1.00 |
 | 4/16/2025 | SDP1314A | Handgun Qualification | Passed | 0.0 | 2.00 |
+| 4/14/2025 | REG2174B | Strike Defense/Ground Control | Passed | 0.0 | 1.00 |
 | 4/9/2025 | SDP2569A | Defensive Tactics | Passed | 0.0 | 3.00 |
+| 4/7/2025 | REG3411B | Striking/Butterfly Guard Sweep | Passed | 0.0 | 1.00 |
 | 4/1/2025 | SDP2225A | Redkite Leadership DISC Management 1 of 4 | Passed | 0.0 | 4.50 |
+| 3/31/2025 | REG3257B | Control to Cuffing | Passed | 0.0 | 1.00 |
 | 3/19/2025 | SDP2161A | Drone Introduction | Passed | 0.0 | 1.50 |
 | 3/19/2025 | SDP0260A | Eyewitness Idetification Training | Passed | 0.0 | 1.00 |
 | 3/19/2025 | SDP4482A | Major Incidents and Death Investigations | Passed | 0.0 | 1.00 |

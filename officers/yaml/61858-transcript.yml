@@ -50,8 +50,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 6/25/2025
-  course: 14700A
-  title: Defensive Tactics
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | HBP1220B | Emergency Aid/Exigent Entry | Passed | 0.0 | 1.00 |
 | 4/23/2025 | HBP2357A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
 | 4/23/2025 | HBP1091A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 4/23/2025 | HBP0799A | Interviewing Techniques | Passed | 0.0 | 2.00 |

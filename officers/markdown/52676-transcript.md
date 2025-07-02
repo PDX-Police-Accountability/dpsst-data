@@ -25,7 +25,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/2/2025 | 4/2/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 1/18/2013 |  |
 | Code of Ethics | Signed | 7/23/2012 |  |
@@ -47,7 +47,7 @@
 | 1/30/2025 | PDP0820A | 2024-3 In-Serv PP Shooting at Moving Veh Video 2 | Passed | 0.0 | 1.25 |
 | 1/29/2025 | PDP3391A | 2024-3 In-Serv Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
 | 1/29/2025 | PDP0245A | 2024-3 In-Serv Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |
-| 1/29/2025 | PDP2625A | 2024-3 In-Service ABLE for Law Enforcement | Passed | 0.0 | 2.00 |
+| 1/29/2025 | PDP2625A | 2024-3 In-Service ABLE for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2025 | PDP4269A | 2024-3 In-Service Air Purifying Resp Video | Passed | 0.0 | 1.00 |
 | 1/28/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 1/28/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
@@ -62,6 +62,8 @@
 | 1/28/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/28/2025 | PDP3238A | Emergancy Operations Plan | Passed | 0.0 | 0.25 |
 | 1/28/2025 | PDP3860A | SOP 14-1 Safety Proc for Training Complex | Passed | 0.0 | 0.25 |
+| 12/31/2024 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/28/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
 | 8/23/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/12/2024 | PDP1954A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |

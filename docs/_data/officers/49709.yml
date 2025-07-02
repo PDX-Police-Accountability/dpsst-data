@@ -128,13 +128,13 @@ training_records:
   title: 2025-1 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
-  hours: '1.00'
+  hours: '0.00'
 - date: 2/25/2025
   course: PDP1343A
   title: 2025-1 Range Qual Secondary Firearm (50 Round)
   status: Passed
   score: '0.0'
-  hours: '1.00'
+  hours: '0.50'
 - date: 2/5/2025
   course: PDP2226A
   title: 2023-4 City Attorney Legal Update for April 23
@@ -261,6 +261,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2024
+  course: MAINTMUF
+  title: Maintenance Makeup Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/1/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

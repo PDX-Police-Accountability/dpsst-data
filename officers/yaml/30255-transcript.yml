@@ -94,6 +94,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2025
+  course: REG4220B
+  title: Teams/AI/Data Label Sensitivity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2025
+  course: REG0618B
+  title: Scenario Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2025
+  course: REG4015B
+  title: EVO Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/23/2025
   course: REG2436A
   title: Tactical Skills Overview

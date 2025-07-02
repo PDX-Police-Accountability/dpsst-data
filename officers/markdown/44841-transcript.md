@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2025 | OCA4117B | MCT Training - Case Law update / Evidence Proc. | Passed | 0.0 | 1.00 |
 | 6/16/2025 | LOP1777B | Firearms Training | Passed | 0.0 | 4.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 3/6/2025 | LOP2287A | Cooperative and Forcible Removal From Vehicles | Passed | 0.0 | 2.00 |

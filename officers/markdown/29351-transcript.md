@@ -4,7 +4,7 @@
 | name | Birkinbine, John C. |
 | dpsst_identifier | 29351 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/27/2025 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 5/11/2023 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 2/1/2022 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 3/9/2015 | Portland Police Bureau | Return LOA | Sergeant |  |  |
@@ -21,16 +22,16 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/2/2024 | Police Officer | Advanced | Granted | 5/2/2024 |  |  |
-| 5/2/2024 | Police Officer | Intermediate | Granted | 5/2/2024 |  |  |
-| 5/19/2020 | Police Officer | Supervisory | Granted | 5/19/2020 |  |  |
-| 2/10/1995 | Police Officer | Basic | Granted | 2/10/1995 |  |  |
+| 5/2/2024 | Police Officer | Advanced | Granted | 5/2/2024 | 9/27/2025 |  |
+| 5/2/2024 | Police Officer | Intermediate | Granted | 5/2/2024 | 9/27/2025 |  |
+| 5/19/2020 | Police Officer | Supervisory | Granted | 5/19/2020 | 9/27/2025 |  |
+| 2/10/1995 | Police Officer | Basic | Granted | 2/10/1995 | 9/27/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 5/27/2025 | 5/27/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2025 | MISCMAIN | 2024 LE Leadership 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/27/2025 | PDP1907A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/14/2025 | PDP2442B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 5/1/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |

@@ -44,12 +44,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/26/2025
+  course: REG0627B
+  title: Control from Guard
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/23/2025
+  course: REG3184B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2025
+  course: REG0769B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/22/2025
   course: PDP0241A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/17/2025
+  course: REG1257B
+  title: Takedown to Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/7/2025
+  course: REG3411B
+  title: Striking/Butterfly Guard Sweep
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2025
+  course: REG2531B
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2025
+  course: REG3257B
+  title: Control to Cuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/27/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders
@@ -62,12 +104,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/24/2025
+  course: REG2181B
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/20/2025
+  course: REG1997B
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/13/2025
   course: PDP3304A
   title: Nighthhawd Advanced Digital Data Tradecraft
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 3/13/2025
+  course: REG0437B
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/6/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

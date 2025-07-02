@@ -50,12 +50,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 1/24/2041
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/28/2025
   course: OCS0644A
   title: 'SWAT/K9: Building Clearing/Vehicle Deployment'

@@ -36,7 +36,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/24/2041 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 5/28/2025 | OCS0644A | SWAT/K9: Building Clearing/Vehicle Deployment | Passed | 0.0 | 4.00 |
 | 5/23/2025 | OCS2313B | Clackamas County New Hire Patrol Tactics | Instructed | 0.0 | 4.00 |
 | 5/15/2025 | OCS0175A | 2025 Spring Patrol Rifle | Passed | 0.0 | 4.00 |

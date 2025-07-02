@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/7/2025
+  course: HBP2066B
+  title: Emergency Aid/Exigent Entry
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2025
   course: HBP2018A
   title: CPR/First Aid/AED

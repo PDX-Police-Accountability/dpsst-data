@@ -25,10 +25,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/25/2025 | 6/25/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Signed | 2/25/2010 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 5/21/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | SAG4107B | First Aid Training | Passed | 0.0 | 4.00 |
 | 6/6/2025 | SAG0243A | Firearms training | Passed | 0.0 | 1.50 |
 | 5/8/2025 | SAG2800A | Firearms Training | Passed | 0.0 | 2.00 |
 | 4/22/2025 | SAG2762A | Firearms training | Passed | 0.0 | 1.50 |

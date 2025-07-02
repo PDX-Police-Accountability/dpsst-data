@@ -36,7 +36,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/22/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 0.00 |
 | 5/22/2025 | VND3395A | DOJ Legal Training | Passed | 0.0 | 4.50 |
 | 5/7/2025 | PDP1629A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/15/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

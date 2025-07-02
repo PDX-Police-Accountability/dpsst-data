@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2025
+  course: REG0618B
+  title: Scenario Overview
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/24/2025
   course: REG0731A
   title: Blood Borne Pathogens  Concussion Overview

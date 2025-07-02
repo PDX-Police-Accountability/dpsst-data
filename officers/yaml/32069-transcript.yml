@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2025
+  course: REG2532B
+  title: Ground/Standing Control to Takedown
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/11/2025
   course: SDP1735A
   title: Report Writing and Evidence Processing
@@ -87,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/11/2025
+  course: SDP4509B
+  title: Rifle Qualification and Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -114,6 +126,18 @@ training_records:
 - date: 5/28/2025
   course: SDP3907A
   title: Municipal Code Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/26/2025
+  course: REG0627B
+  title: Control from Guard
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2025
+  course: REG0769B
+  title: Control Tactics
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -165,18 +189,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/14/2025
+  course: REG2174B
+  title: Strike Defense/Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/9/2025
   course: SDP2569A
   title: Defensive Tactics
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/7/2025
+  course: REG3411B
+  title: Striking/Butterfly Guard Sweep
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/1/2025
   course: SDP2225A
   title: Redkite Leadership DISC Management 1 of 4
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 3/31/2025
+  course: REG3257B
+  title: Control to Cuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/19/2025
   course: SDP2161A
   title: Drone Introduction

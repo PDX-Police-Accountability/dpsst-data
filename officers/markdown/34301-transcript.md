@@ -38,6 +38,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2025 | TRN1727B | 2025 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 5/6/2025 | TRN3334B | DOC - PREA What You Should Know v2025 | Passed | 0.0 | 1.00 |
+| 5/6/2025 | TRN2343B | DOC - Protection from Ambient Heat v2025 | Passed | 0.0 | 0.50 |
+| 5/6/2025 | TRN3303B | DOC - Responding to AIC Health Care Needs v2025 | Passed | 0.0 | 2.00 |
+| 5/6/2025 | TRN1961B | DOC - Suicide Detection and Prevention v2025 | Passed | 0.0 | 2.00 |
+| 5/5/2025 | TRN2828B | Accessibility for AICs w Disabilities v2025 | Passed | 0.0 | 1.00 |
+| 5/5/2025 | TRN0235B | Bloodborne Pathogens Infectious Material v2025 | Passed | 0.0 | 1.00 |
+| 5/5/2025 | TRN3232B | DOC - Fire Alarm Panel Monitoring v2025 (Volume 1) | Passed | 0.0 | 1.00 |
+| 5/5/2025 | TRN0186B | DOC - CCCF Fire Suppression v2025 (Volume 1) | Passed | 0.0 | 1.00 |
+| 5/5/2025 | TRN1268B | DOC - Fire Extinguisher Use and Safety v2025 | Passed | 0.0 | 0.50 |
+| 5/5/2025 | TRN2767B | DOC - Nasal Naloxone (Narcan) v2025 | Passed | 0.0 | 0.50 |
+| 5/5/2025 | TRN0438B | DOC - OMS - UIR Memo Basics v2025 | Passed | 0.0 | 1.00 |
 | 4/9/2025 | TRN2232B | PREA Professional Respectful CommuNICation v2024 | Passed | 0.0 | 1.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/20/2024 | VND4035A | DOC - FS - Force Skills Training IDC v 2023 | Passed | 0.0 | 40.00 |

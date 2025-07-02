@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/7/2025
+  course: HBP2066B
+  title: Emergency Aid/Exigent Entry
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/23/2025
   course: HBP2357A
   title: ACAP - Airways Training Video

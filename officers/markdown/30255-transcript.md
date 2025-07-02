@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | REG4220B | Teams/AI/Data Label Sensitivity | Passed | 0.0 | 1.00 |
+| 6/25/2025 | REG0618B | Scenario Overview | Passed | 0.0 | 1.00 |
+| 6/25/2025 | REG4015B | EVO Overview | Passed | 0.0 | 1.00 |
 | 6/23/2025 | REG2436A | Tactical Skills Overview | Passed | 0.0 | 1.00 |
 | 6/18/2025 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 24.00 |
 | 5/15/2025 | SVP2647B | Annual LEOSA HR-218 Handgun Qualification | Passed | 0.0 | 1.00 |

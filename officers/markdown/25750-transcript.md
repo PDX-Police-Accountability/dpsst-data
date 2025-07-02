@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | REG0618B | Scenario Overview | Instructed | 0.0 | 1.00 |
 | 6/24/2025 | REG0731A | Blood Borne Pathogens  Concussion Overview | Passed | 0.0 | 1.00 |
 | 9/4/2024 | BPT1276A | It's Not About Us | Passed | 0.0 | 2.00 |
 | 9/4/2024 | BPT1072A | Use of Force and Human Factors | Passed | 0.0 | 2.00 |

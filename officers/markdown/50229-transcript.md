@@ -35,6 +35,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2025 | TRN3245B | DOC - Defensive Tactics v2025 | Passed | 0.0 | 2.00 |
+| 4/10/2025 | TRN0246B | DOC - FS - Planned Use of Force v2025 | Passed | 0.0 | 4.00 |
+| 4/10/2025 | TRN2549B | DOC - Professional vs Private v2025 | Passed | 0.0 | 2.00 |
+| 4/9/2025 | TRN4387B | DOC - ICSC Disaster Preparedness v2025 | Passed | 0.0 | 2.50 |
+| 4/9/2025 | TRN4455B | DOC - Operationalized Respect v2025 | Passed | 0.0 | 1.50 |
+| 4/9/2025 | TRN1016B | Guiding Change Through Dynamic Security | Passed | 0.0 | 4.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/6/2025 | VND2336A | 2025 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 2/14/2025 | VND1627A | Bloodborne Pathogens Infectious Material v2025 | Passed | 0.0 | 1.00 |

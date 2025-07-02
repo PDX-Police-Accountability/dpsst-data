@@ -50,7 +50,6 @@
 | 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |
 | 4/23/2025 | OAC4330A | Foolproof: 'Simple Strategies to Retain People' | Passed | 0.0 | 3.00 |
 | 4/23/2025 | OAC1720A | Critical LE Lessons from Active Shooter Events | Passed | 0.0 | 3.00 |
-| 4/22/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 4/22/2025 | RRP3586A | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.00 |
 | 4/22/2025 | OAC1588A | So, You Wanted to Be a Cop | Passed | 0.0 | 1.00 |
 | 4/22/2025 | OAC2262A | Background Investigations  Misconduct | Passed | 0.0 | 1.00 |

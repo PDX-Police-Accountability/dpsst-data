@@ -76,9 +76,9 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 1/24/2041
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
+- date: 6/26/2025
+  course: OCA4117B
+  title: MCT Training - Case Law update / Evidence Proc.
   status: Passed
   score: '0.0'
   hours: '1.00'

@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/10/2025 | 6/10/2027 |
 | Certification Cards | First Aid and CPR | 8/15/2023 | 8/15/2025 |
 | Code of Ethics | Signed | 12/4/2007 |  |
 ## Education
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2025 | WBP2197B | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 3/5/2025 | WBP4470A | Crisis Response Team Overview | Passed | 0.0 | 0.75 |
 | 12/17/2024 | WBP4453A | Intro to Psychological First Aid | Passed | 0.0 | 1.50 |
 | 12/10/2024 | WBP1492A | Firearms - Q4 Qualifications | Passed | 0.0 | 0.50 |

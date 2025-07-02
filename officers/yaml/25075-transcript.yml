@@ -75,6 +75,12 @@ certification_records:
   expiration_date: 8/23/2026
   probation_date: ''
 training_records:
+- date: 6/24/2025
+  course: WBP0352B
+  title: Adult and Pediatric First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/17/2024
   course: WBP4453A
   title: Intro to Psychological First Aid
@@ -6958,6 +6964,10 @@ training_records:
   score: '0.0'
   hours: '28.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/24/2025
+  expiration_date: 6/24/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/15/2023

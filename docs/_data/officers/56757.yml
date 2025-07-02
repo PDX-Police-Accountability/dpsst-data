@@ -68,12 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 6/4/2025
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or
+- date: 6/11/2025
+  course: PPP2953B
+  title: 'Firearms: Rifle and Pistol Optics Training'
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '4.00'
 - date: 6/4/2025
   course: PPP3425B
   title: Initial Patrol Rifle Certification Course
