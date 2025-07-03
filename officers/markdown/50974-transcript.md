@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2025 | OCP0584B | Implicit Bias | Passed | 0.0 | 1.00 |
+| 6/30/2025 | OCP2153B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/19/2025 | OCP2495A | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 6/17/2025 | OCP4199A | Intoxilyzer 8000 Certification Class | Instructed | 0.0 | 6.00 |
 | 6/4/2025 | OCS2175A | FARO Certification Course | Passed | 0.0 | 24.00 |

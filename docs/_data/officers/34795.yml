@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/7/2025
+  agency: West Linn Police Department
+  action: Hired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 9/14/2024
   agency: Clackamas County Sheriff's Office
   action: Demotn Vol

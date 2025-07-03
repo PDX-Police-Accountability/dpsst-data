@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/26/2025
+  course: PDP4509B
+  title: TEEX WMD/Terrorism Awareness for Emer Resp
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/25/2025
   course: PDP2548A
   title: Post Basic CEW Taser

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/8/2025
+  agency: Clackamas County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 5/13/2021
   agency: Portland Police Bureau
   action: Hired

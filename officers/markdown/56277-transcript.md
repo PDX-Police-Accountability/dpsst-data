@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | CAP4134B | Active Threat / Building Search | Passed | 0.0 | 2.00 |
 | 6/5/2025 | REG0437A | Patrol Rifle | Passed | 0.0 | 30.00 |
 | 5/21/2025 | CAP0277A | Firearms - Handgun Reloads/Malfunctions | Passed | 0.0 | 2.00 |
 | 4/23/2025 | CAP1852A | Firearms - Use of Cover/Shield | Instructed | 0.0 | 8.00 |

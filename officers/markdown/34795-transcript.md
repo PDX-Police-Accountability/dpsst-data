@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/7/2025 | West Linn Police Department | Hired | Sergeant |  |  |
 | 9/14/2024 | Clackamas County Sheriff's Office | Demotn Vol | Dpty Shrf |  |  |
 | 11/12/2011 | Clackamas County Sheriff's Office | Promotion | Sergeant |  |  |
 | 4/14/1999 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |

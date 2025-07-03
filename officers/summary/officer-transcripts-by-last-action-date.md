@@ -1374,7 +1374,6 @@
 | Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Purcell, Hannah Z. | 63594 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63594-transcript.md) - [yaml](../yaml/63594-transcript.yml) |
 | Epton, Jason A. | 63601 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63601-transcript.md) - [yaml](../yaml/63601-transcript.yml) |
-| Ricks, Adam W. | 63656 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63656-transcript.md) - [yaml](../yaml/63656-transcript.yml) |
 | Dahlgren, Angela D. | 63660 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63660-transcript.md) - [yaml](../yaml/63660-transcript.yml) |
 | Chong, Nicholas J. | 63677 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63677-transcript.md) - [yaml](../yaml/63677-transcript.yml) |
 | Buckingham, Alexander J. | 63678 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63678-transcript.md) - [yaml](../yaml/63678-transcript.yml) |
@@ -1788,5 +1787,6 @@
 | Webb, Sharif L. | 65842 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-11 | [md](../markdown/65842-transcript.md) - [yaml](../yaml/65842-transcript.yml) |
 | Pickens, Wyatt J. | 61692 | Portland Police Bureau | Inactive | Police Officer | Discharged | 2025-06-13 | [md](../markdown/61692-transcript.md) - [yaml](../yaml/61692-transcript.yml) |
 | Schultz, Alec R. | 61081 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-17 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
+| Ricks, Adam W. | 63656 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-23 | [md](../markdown/63656-transcript.md) - [yaml](../yaml/63656-transcript.yml) |
 | Birkinbine, John C. | 29351 | Portland Police Bureau | Inactive | Sergeant | Retired | 2025-06-27 | [md](../markdown/29351-transcript.md) - [yaml](../yaml/29351-transcript.yml) |
 | Stanley, Luke A. | 66408 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66408-transcript.md) - [yaml](../yaml/66408-transcript.yml) |

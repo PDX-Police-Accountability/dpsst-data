@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/25/2025
+  course: MFN2367B
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/23/2025
   course: VND1208A
   title: Chrono Practices and Contact Standards

@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | CAP4134B | Active Threat / Building Search | Passed | 0.0 | 2.00 |
 | 4/9/2025 | RMP3099A | What happens when it's quiet? | Passed | 0.0 | 7.00 |
 | 3/26/2025 | CAP3056A | Annual Patrol Rifle Qualification and Fundamentals | Passed | 0.0 | 2.00 |
 | 3/26/2025 | CAP0189B | Bloodborne Pathogens For First Responders | Passed | 0.0 | 1.00 |

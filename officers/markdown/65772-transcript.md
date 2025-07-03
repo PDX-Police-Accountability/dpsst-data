@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/26/2025 | PDP4509B | TEEX WMD/Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 6/25/2025 | PDP2548A | Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 6/24/2025 | PDP4384B | Air Purifying Respirator and HAZMAT | Passed | 0.0 | 3.00 |
 | 6/24/2025 | PDP1046A | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
