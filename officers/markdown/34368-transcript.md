@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2025 | BNP3780B | Bloodborne Pathogens Safety |  | 0.0 | 1.00 |
+| 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP3615B | Lead Awareness |  | 0.0 | 1.00 |
+| 6/30/2025 | BNP0826B | Policy and SOP Updates | Passed | 0.0 | 1.00 |
 | 1/28/2025 | BNP1420A | First Aid and Adult/ Child CPR | Passed | 0.0 | 2.00 |
 | 1/28/2025 | BNP3559A | Ethos Academy-The magic of the mind | Passed | 0.0 | 3.00 |
 | 1/28/2025 | BNP0069A | Taser 10 Certification | Passed | 0.0 | 3.00 |

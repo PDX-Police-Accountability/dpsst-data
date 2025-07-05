@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/23/2025
+  course: PDP0843B
+  title: Stop Stick Online Safety Training - Man Deploy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/28/2025
   course: REG1902A
   title: DID-SFST (Hours included in Basic)

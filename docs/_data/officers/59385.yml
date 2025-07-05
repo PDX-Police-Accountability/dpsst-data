@@ -43,6 +43,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2025
+  course: PSU3527B
+  title: BODY102 (Body-worn cmaeras for L.E.)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/5/2025
+  course: PSU3972B
+  title: RESP104 (BOMB THREATS IN SCHOOLS)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2025
+  course: PSU0386B
+  title: PEMS102 (Body Armor  Public Safety)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/3/2025
+  course: PSU1003B
+  title: FIRE110 (BASIC FIREARM SAFETY)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/2/2025
+  course: PSU4207B
+  title: LEGL109 (Arrest, Search,  Seizure - 4th Ammend.)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/30/2025
+  course: PSU1204B
+  title: ACTS108 (Active Shooter Prep. for Schools)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2025
+  course: PSU4183B
+  title: 251040-2502 (Ambush Awareness  Preparation)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/29/2025
+  course: PSU0486B
+  title: LEAD99 (Adult Learning Concepts for FTOs)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/29/2025
+  course: PSU2086B
+  title: 252045-2503 (DEVELOPING LEADERSHIP)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/20/2025
   course: PSU2669A
   title: Q1 Qualification/Shooting  Moving

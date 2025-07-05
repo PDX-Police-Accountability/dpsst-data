@@ -28,6 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/16/2017 | Bachelor Arts | All Other Education Institutes |  | 171.0 |
+| 12/15/2012 | No Degree | Portland Community College |  | 71.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

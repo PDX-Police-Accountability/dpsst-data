@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/24/2025 | Portland Police Bureau | Retrn MLOA | Sergeant |  |  |
 | 1/8/2024 | Portland Police Bureau | Mil-LOA | Sergeant |  |  |
 | 5/11/2023 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 2/1/2014 | Portland Police Bureau | Retrn MLOA | Police Off |  |  |
@@ -28,7 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/16/2025 | 4/16/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2027 |
 | Code of Ethics | Signed | 8/14/2009 |  |
 ## Education
 | date | degree | school | major | hours |

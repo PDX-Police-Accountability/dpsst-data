@@ -34,6 +34,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | PSU3527B | BODY102 (Body-worn cmaeras for L.E.) | Passed | 0.0 | 1.00 |
+| 6/5/2025 | PSU3972B | RESP104 (BOMB THREATS IN SCHOOLS) | Passed | 0.0 | 1.00 |
+| 6/4/2025 | PSU0386B | PEMS102 (Body Armor  Public Safety) | Passed | 0.0 | 1.00 |
+| 6/3/2025 | PSU1003B | FIRE110 (BASIC FIREARM SAFETY) | Passed | 0.0 | 1.00 |
+| 6/2/2025 | PSU4207B | LEGL109 (Arrest, Search,  Seizure - 4th Ammend.) | Passed | 0.0 | 2.00 |
+| 5/30/2025 | PSU1204B | ACTS108 (Active Shooter Prep. for Schools) | Passed | 0.0 | 1.00 |
+| 5/30/2025 | PSU4183B | 251040-2502 (Ambush Awareness  Preparation) | Passed | 0.0 | 1.00 |
+| 5/29/2025 | PSU0486B | LEAD99 (Adult Learning Concepts for FTOs) | Passed | 0.0 | 1.00 |
+| 5/29/2025 | PSU2086B | 252045-2503 (DEVELOPING LEADERSHIP) | Passed | 0.0 | 1.00 |
 | 3/20/2025 | PSU2669A | Q1 Qualification/Shooting  Moving | Passed | 0.0 | 1.50 |
 | 3/11/2025 | VND0242A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
 | 2/4/2025 | PSU2708A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |

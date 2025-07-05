@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2025 | PDP4583B | Tritech Practical Shooting Inc Reconstruction | Passed | 0.0 | 40.00 |
 | 4/8/2025 | PDP1944A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2025 | PDP1733A | Advanced Latent Ridgeology | Passed | 0.0 | 36.00 |
 | 3/8/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |

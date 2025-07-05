@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2025 | BVP1586B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/27/2025 | BVP4453A | Control Tactics / Taser Recertification | Instructed | 0.0 | 3.00 |
 | 5/27/2025 | BVP2589A | Control Tactics / Taser Recertification | Instructed | 0.0 | 3.00 |
 | 5/16/2025 | BVP2825A | Control Tactics / Taser Recertification Instructor | Passed | 0.0 | 3.00 |

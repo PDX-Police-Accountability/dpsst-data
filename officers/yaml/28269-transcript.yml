@@ -113,6 +113,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2025
+  course: BNP3780B
+  title: Bloodborne Pathogens Safety
+  status: ''
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP2421B
+  title: Carotid Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP3615B
+  title: Lead Awareness
+  status: ''
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP0826B
+  title: Policy and SOP Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/20/2025
   course: BNP4071A
   title: ICAT

@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2025
+  course: BVP1586B
+  title: Range June 2025
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/27/2025
   course: BVP4453A
   title: Control Tactics / Taser Recertification

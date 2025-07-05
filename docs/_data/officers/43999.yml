@@ -99,6 +99,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/3/2025
+  course: MISCMAIN
+  title: 2025 LE Basic 3-Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/20/2025
   course: PDP0341A
   title: 2025 Traffic Spring Motor Qual
@@ -5501,6 +5507,10 @@ training_records:
   hours: '320.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
@@ -5508,10 +5518,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/11/2024
   expiration_date: 4/11/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/28/2005

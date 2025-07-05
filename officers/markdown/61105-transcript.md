@@ -23,6 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 7/1/2025 | 7/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2025 | NGP4045B | HSI Adult First Aid  CPR/AED All Ages | Passed | 0.0 | 4.00 |
 | 6/3/2025 | NGP1182A | Hazmat |  | 0.0 | 1.50 |
 | 4/28/2025 | NGP1829A | ACAP | Passed | 0.0 | 2.00 |
 | 4/14/2025 | NGP1891A | WRAP Instructor | Passed | 0.0 | 1.00 |

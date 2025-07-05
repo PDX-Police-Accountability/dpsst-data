@@ -771,4 +771,14 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 7/13/2023
   expiration_date: 7/13/2025
-education_records: []
+education_records:
+- date: 12/16/2017
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '171.0'
+- date: 12/15/2012
+  degree: No Degree
+  school: Portland Community College
+  major: ''
+  hours: '71.0'

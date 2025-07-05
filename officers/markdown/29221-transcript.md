@@ -47,6 +47,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2025 | BNP3780B | Bloodborne Pathogens Safety |  | 0.0 | 1.00 |
+| 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP0826B | Policy and SOP Updates | Passed | 0.0 | 1.00 |
 | 5/21/2025 | BNP4071A | ICAT | Passed | 0.0 | 8.50 |
 | 4/23/2025 | BNP1547A | Ethics | Instructed | 0.0 | 2.50 |
 | 3/13/2025 | BNP2019A | Supervisor Academy | Passed | 0.0 | 16.00 |

@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/13/2025
+  course: PDP4583B
+  title: Tritech Practical Shooting Inc Reconstruction
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/8/2025
   course: PDP1944A
   title: CPR/First Aid

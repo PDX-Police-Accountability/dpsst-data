@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2025 | BVP4564B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/29/2025 | BVP3028A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
 | 5/1/2025 | HBP0109A | Bike Patrol Certification Course | Instructed | 0.0 | 30.00 |
 | 4/2/2025 | TGP1517A | Oregon Association of PIOs Annual Conference | Passed | 0.0 | 14.50 |

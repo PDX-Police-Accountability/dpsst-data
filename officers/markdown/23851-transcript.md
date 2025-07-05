@@ -50,7 +50,7 @@
 | 7/27/2020 | 20-0026 | DPSST Middle Management | Cancelled | 0.0 | 0.00 |
 | 7/27/2020 | F6D41268 | IS-706 Mutual Aid | Passed | 0.0 | 2.00 |
 | 7/27/2020 | F6D42232 | IS-800.c | Passed | 0.0 | 2.00 |
-| 7/15/2020 | XDDELET4 | Ethics Sworn Trn | Passed | 0.0 | 1.00 |
+| 7/15/2020 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 7/1/2020 | F6D41275 | Contact and Cover - Get Real | Passed | 0.0 | 1.00 |
 | 5/31/2020 | F6D33208 | Get Real - Stop Stick | Passed | 0.0 | 1.00 |
 | 4/16/2020 | F6D35230 | Corrections and Covid-19: Maintaining Mental Well | Passed | 0.0 | 4.00 |

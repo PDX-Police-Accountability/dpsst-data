@@ -45,6 +45,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2025 | BNP3780B | Bloodborne Pathogens Safety |  | 0.0 | 1.00 |
+| 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP3615B | Lead Awareness |  | 0.0 | 1.00 |
+| 6/30/2025 | BNP0826B | Policy and SOP Updates | Passed | 0.0 | 1.00 |
 | 5/20/2025 | BNP4071A | ICAT | Passed | 0.0 | 8.50 |
 | 4/24/2025 | OAC0714A | Principled Leadership - The Charleston 9 | Passed | 0.0 | 4.00 |
 | 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |

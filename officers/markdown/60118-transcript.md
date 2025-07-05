@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2025 | HRS2424B | High Risk Stops Refresher | Passed | 0.0 | 4.00 |
+| 6/19/2025 | HRS3609B | Pursuit Policy Review | Passed | 0.0 | 1.00 |
+| 5/8/2025 | HRS4243B | Centering Belonging | Passed | 0.0 | 2.00 |
+| 5/8/2025 | HRS0877B | Spring Firearms Range | Passed | 0.0 | 4.00 |
 | 4/10/2025 | HRS2622A | In-Service: Defensive Tactics | Passed | 0.0 | 3.00 |
 | 4/10/2025 | HRS3511A | In-Service: School Based Threats | Passed | 0.0 | 1.00 |
 | 4/10/2025 | HRS2100A | Use of Force Refresher | Passed | 0.0 | 1.00 |

@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/1/2025
+  course: NGP4045B
+  title: HSI Adult First Aid  CPR/AED All Ages
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/3/2025
   course: NGP1182A
   title: Hazmat
@@ -1352,6 +1358,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/1/2025
+  expiration_date: 7/31/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

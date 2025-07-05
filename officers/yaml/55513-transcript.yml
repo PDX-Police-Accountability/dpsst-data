@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2025
+  course: BVP3335B
+  title: Range June 2025
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/20/2025
   course: HBS0204B
   title: Patrol Rifle School
@@ -79,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.50'
+- date: 4/23/2025
+  course: HBS3353B
+  title: TNT Range Day
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/8/2025
   course: HBS3906B
   title: TNT - Building Search/Cautious Clears/HRT

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2025 | BVP3370B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/31/2025 | BVP4152A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
 | 2/27/2025 | BVP4200A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 1/14/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

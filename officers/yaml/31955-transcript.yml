@@ -110,7 +110,7 @@ certification_records:
 training_records:
 - date: 6/25/2025
   course: CAP4134B
-  title: Active Threat / Building Search
+  title: Active Threat  Building Search
   status: Passed
   score: '0.0'
   hours: '2.00'

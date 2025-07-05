@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2025 | HBS3840B | Virtual-De-Escalation Strategies | Passed | 0.0 | 2.00 |
 | 6/26/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/1/2025 | HBS2174A | Virtual ADA Compliance for Business | Passed | 0.0 | 1.00 |
 | 6/1/2025 | HBS3628A | Virtual PREA | Passed | 0.0 | 1.00 |
