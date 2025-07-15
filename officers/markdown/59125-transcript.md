@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/20/2025 | SPP3841B | Crash Reconstruction | Passed | 0.0 | 80.00 |
 | 5/16/2025 | SPP1269B | Advanced Traffic Crash Investigations | Passed | 0.0 | 80.00 |
+| 5/16/2025 | PDP1113B | IPTM Advanced Traffic Crash Investigation | Passed | 0.0 | 80.00 |
 | 5/15/2025 | PDP1242B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/23/2025 | PDP2975B | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/18/2025 | SPP3307A | IPTM At Scene Traffic Crash/Homicide Investigation | Passed | 0.0 | 80.00 |

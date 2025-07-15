@@ -49,7 +49,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2025 | AVP0524B | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 6/5/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 270.00 |
+| 6/5/2025 | SVP1793A | FBI National Academy, Session #294 | Passed | 0.0 | 270.00 |
 | 3/18/2025 | SVP3092A | Basic Public Information Officer Course | Passed | 0.0 | 8.00 |
 | 3/12/2025 | AVP2932A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 3/4/2025 | SVP1394A | Annual Taser Recertfication | Passed | 0.0 | 1.00 |

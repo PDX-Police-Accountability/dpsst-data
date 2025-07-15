@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2025 | TGP0405B | Body Worn Camera Refresher Training | Passed | 0.0 | 0.50 |
 | 5/20/2025 | TGP0319A | ACAP | Passed | 0.0 | 2.00 |
 | 5/20/2025 | TGP1412A | Handgun Training | Passed | 0.0 | 1.25 |
 | 4/23/2025 | TGP4129A | Mark43 Refresher Training | Passed | 0.0 | 0.50 |

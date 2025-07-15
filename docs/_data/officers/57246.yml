@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2025
+  course: HBN3101B
+  title: Officer Safety and Home Visit Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/20/2025
   course: HBN1663B
   title: Defensive Tactics-Striking Techniques
@@ -73,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/24/2025
+  course: HBN1723B
+  title: Mental Health First aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/26/2025
   course: HBN0638B
   title: DTs  OC Spray Re-Certification

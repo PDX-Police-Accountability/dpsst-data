@@ -45,10 +45,25 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/30/2025 | BNP3780B | Bloodborne Pathogens Safety |  | 0.0 | 1.00 |
+| 7/9/2025 | BNP2246B | Wildland Fire Evacuation Command | Passed | 0.0 | 1.00 |
+| 6/30/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 1.00 |
 | 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |
-| 6/30/2025 | BNP3615B | Lead Awareness |  | 0.0 | 1.00 |
+| 6/30/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 1.00 |
 | 6/30/2025 | BNP0826B | Policy and SOP Updates | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP3344A | Axon Standards | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP0062A | Bloodborne Pathogens Safety | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP3943A | Cyber Security | Passed | 0.0 | 3.00 |
+| 6/30/2025 | BNP4220A | Fire Exstinguisher | Passed | 0.0 | 0.50 |
+| 6/30/2025 | BNP1208A | Force Response Annual Bend PD Report | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP2691A | Legal Updates | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP4306A | Karly's Law | Passed | 0.0 | 0.50 |
+| 6/30/2025 | BNP1750A | Legal Updates | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP1554A | Restraining People Having MBE's | Passed | 0.0 | 0.50 |
+| 6/30/2025 | BNP1851A | Narcan | Passed | 0.0 | 0.50 |
+| 6/30/2025 | BNP4357A | OSHA Hearing Protection Training | Passed | 0.0 | 0.50 |
+| 6/30/2025 | BNP3070A | Bloodborne Pathogens Safety | Passed | 0.0 | 0.50 |
+| 6/30/2025 | BNP2481A | Bend PD and Tri County Pursuit Policy | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP2893A | Work Place Harassment | Passed | 0.0 | 1.00 |
 | 5/20/2025 | BNP4071A | ICAT | Passed | 0.0 | 8.50 |
 | 4/24/2025 | OAC0714A | Principled Leadership - The Charleston 9 | Passed | 0.0 | 4.00 |
 | 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |

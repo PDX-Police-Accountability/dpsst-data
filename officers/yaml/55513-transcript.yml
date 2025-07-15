@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/25/2025
+  course: HBS2073A
+  title: TNT Firearms
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/20/2025
   course: HBS0204B
   title: Patrol Rifle School

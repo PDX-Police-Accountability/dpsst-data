@@ -38,8 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2025 | PDS0870A | Taser 7 | Instructed | 0.0 | 8.00 |
 | 6/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 6/3/2025 | PDS0870A | Taser 7 | Instructed | 0.0 | 8.00 |
 | 5/29/2025 | REG3540A | Pistol Mounted Optic IDC | Passed | 0.0 | 16.00 |
+| 5/21/2025 | PDS0870A | Taser 7 | Instructed | 0.0 | 8.00 |
+| 5/20/2025 | PDS1349A | Taser 7 IDC | Passed | 0.0 | 8.00 |
 | 5/7/2025 | PDS0406A | Jail ConSim | Instructed | 0.0 | 8.00 |
 | 4/30/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 4/22/2025 | PDS0292A | UNET Range | Instructed | 0.0 | 4.00 |

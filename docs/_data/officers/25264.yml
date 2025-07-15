@@ -68,18 +68,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/9/2025
+  course: PDS0870A
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/3/2025
+  course: PDS0870A
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/29/2025
   course: REG3540A
   title: Pistol Mounted Optic IDC
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/21/2025
+  course: PDS0870A
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/20/2025
+  course: PDS1349A
+  title: Taser 7 IDC
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/7/2025
   course: PDS0406A
   title: Jail ConSim

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2025 | EGP0983B | Use of Force Scenarios | Passed | 0.0 | 5.00 |
 | 5/25/2025 | EGP4510A | SWAT Firearms- HR Target Drills | Passed | 0.0 | 2.00 |
 | 5/25/2025 | EGP3185A | SWAT Search Skills-Mini Scenarios | Passed | 0.0 | 4.00 |
 | 5/22/2025 | EGP1446B | Explosive Breaching Charge Construction -IDC- TE | Passed | 0.0 | 8.00 |

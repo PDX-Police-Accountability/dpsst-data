@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/6/2027 | PDP2231A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 5/25/2025 | PDP1759A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/19/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 5/15/2025 | PDP0402A | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |

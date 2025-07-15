@@ -34,11 +34,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 5/20/2025
+- status_date: 7/7/2025
   certificate: Parole  Probation Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 7/7/2025
   expiration_date: ''
   probation_date: ''
 - status_date: 1/18/2023
@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2025
+  course: MFN1075B
+  title: Government Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/25/2025
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

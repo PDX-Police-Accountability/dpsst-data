@@ -27,12 +27,14 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/26/2025 | 6/26/2027 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2025 | F6K0443B | Staff First Aid/CPR/AED Training | Passed | 0.0 | 4.00 |
 | 9/5/2024 | BPT2007A | Adult Learning | Passed | 0.0 | 4.00 |
 | 9/5/2024 | BPT0331A | Strategies for Student Success | Passed | 0.0 | 2.00 |
 | 9/4/2024 | BPT1276A | It's Not About Us | Passed | 0.0 | 2.00 |

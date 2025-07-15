@@ -50,6 +50,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 6/24/2025
+  course: PDP3400A
+  title: Body Worn Camera
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/12/2025
   course: PDP0954A
   title: 2025 Body Worn Camera Training

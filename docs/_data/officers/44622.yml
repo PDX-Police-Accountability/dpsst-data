@@ -74,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 5/28/2025
+  course: OSH4371A
+  title: 2025 2nd Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/22/2025
   course: OSH4366B
   title: OSP People in Crisis

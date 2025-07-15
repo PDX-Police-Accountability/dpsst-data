@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | MFS2947A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 5/30/2025 | ADP4338A | Pistol/Rifle Positional Focus | Passed | 0.0 | 4.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/11/2025 | EPP2801B | Taser Instructor (T10/T7) | Passed | 0.0 | 16.00 |

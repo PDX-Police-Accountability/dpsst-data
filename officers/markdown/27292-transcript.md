@@ -46,8 +46,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2025 | PDS0146A | Sergeant's Training | Passed | 0.0 | 0.50 |
+| 6/9/2025 | PDS0341A | Sergeant's Training | Passed | 0.0 | 0.50 |
+| 6/4/2025 | PDS1419A | Sergeant's Training | Passed | 0.0 | 0.50 |
 | 5/29/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/22/2025 | PDS1871A | Sergeants Training | Passed | 0.0 | 4.00 |
+| 5/22/2025 | PDS1017A | Leadership Training | Passed | 0.0 | 4.00 |
+| 5/21/2025 | PDS0870A | Taser 7 | Passed | 0.0 | 8.00 |
 | 5/12/2025 | PDS1010A | Sergeant Training | Passed | 0.0 | 1.00 |
 | 4/27/2025 | PDS2352A | WSHNA Training Conference | Passed | 0.0 | 24.00 |
 | 4/13/2025 | PDS1907A | Ethics | Passed | 0.0 | 1.00 |

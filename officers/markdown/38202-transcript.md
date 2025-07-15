@@ -42,6 +42,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2025 | PDS0530A | Lift Bags for SCUBA | Instructed | 0.0 | 8.00 |
+| 6/4/2025 | PDS4540B | Equipment Orientation | Instructed | 0.0 | 8.00 |
+| 6/4/2025 | PDS0703B | Lift Bags | Instructed | 0.0 | 8.00 |
 | 5/21/2025 | PDS3359A | Evidence Searching | Instructed | 0.0 | 8.00 |
 | 5/2/2025 | PDS1061A | Underwater Surveying of Vehicles | Instructed | 0.0 | 8.00 |
 | 4/14/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |

@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 7/2/2025
+  course: PDP0096A
+  title: Radar Lidar Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 attribute_records: []
 education_records: []

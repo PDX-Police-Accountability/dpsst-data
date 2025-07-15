@@ -4239,8 +4239,8 @@ attribute_records:
   expiration_date: 4/16/2027
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

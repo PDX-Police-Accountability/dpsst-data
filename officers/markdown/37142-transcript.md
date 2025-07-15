@@ -48,8 +48,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/30/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 6/30/2025 | SPP1693A | Use of Force UOFC101 | Passed | 0.0 | 2.00 |
 | 6/24/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 6/24/2025 | SPP3674A | Background Investigations and Misconduct | Passed | 0.0 | 0.50 |
 | 6/12/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 6/12/2025 | SPP1669A | Workplace Investigations and Questioning | Passed | 0.0 | 0.50 |
 | 6/5/2025 | SPP2038A | Springfield Police Discipline and LESC | Passed | 0.0 | 3.00 |
 | 4/23/2025 | SPP0170A | CIT Use of Force | Passed | 0.0 | 1.00 |
 | 4/23/2025 | SPP0439A | KIDS FIRST Forensic Interviews | Passed | 0.0 | 2.00 |

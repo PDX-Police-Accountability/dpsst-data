@@ -33,6 +33,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/26/2025 | 6/26/2027 |
 | Certification Cards | First Aid and CPR | 7/11/2023 | 7/11/2025 |
 | Code of Ethics | Signed | 3/14/2002 |  |
 ## Education
@@ -43,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2025 | F6K0443B | Staff First Aid/CPR/AED Training | Passed | 0.0 | 4.00 |
 | 6/25/2025 | REG0618B | Scenario Overview | Instructed | 0.0 | 1.00 |
 | 6/24/2025 | REG0731A | Blood Borne Pathogens  Concussion Overview | Passed | 0.0 | 1.00 |
 | 9/4/2024 | BPT1276A | It's Not About Us | Passed | 0.0 | 2.00 |

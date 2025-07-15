@@ -706,10 +706,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 8/14/2023
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/7/2023
-  expiration_date: 8/7/2025
 education_records:
 - date: 8/26/2016
   degree: Associate Arts

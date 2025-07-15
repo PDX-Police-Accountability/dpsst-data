@@ -80,6 +80,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 6/4/2025
+  course: PDS4540B
+  title: Equipment Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/4/2025
+  course: PDS0703B
+  title: Lift Bags
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/21/2025
   course: PDS3359A
   title: Evidence Searching

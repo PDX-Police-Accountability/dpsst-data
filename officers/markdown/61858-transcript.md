@@ -19,7 +19,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/20/2025 | Parole  Probation Officer | Intermediate | App Recd |  |  |  |
+| 7/7/2025 | Parole  Probation Officer | Intermediate | Granted | 7/7/2025 |  |  |
 | 1/18/2023 | Parole  Probation Officer | Basic | Granted | 1/18/2023 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2025 | MFN1075B | Government Ethics | Passed | 0.0 | 1.00 |
 | 6/25/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 6/25/2025 | MFN2367B | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 6/23/2025 | VND1208A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |

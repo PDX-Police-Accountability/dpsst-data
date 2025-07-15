@@ -36,6 +36,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/2/2025
+  course: PDP0096A
+  title: Radar Lidar Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 5/19/2025
   course: M10-23A
   title: DPSST Basic Police Course

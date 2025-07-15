@@ -119,9 +119,15 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2025
+  course: BNP2246B
+  title: Wildland Fire Evacuation Command
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/30/2025
-  course: BNP3780B
-  title: Bloodborne Pathogens Safety
+  course: XDELETE4
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: ''
   score: '0.0'
   hours: '1.00'
@@ -134,6 +140,66 @@ training_records:
 - date: 6/30/2025
   course: BNP0826B
   title: Policy and SOP Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP0062A
+  title: Bloodborne Pathogens Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP3943A
+  title: Cyber Security
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/30/2025
+  course: BNP4220A
+  title: Fire Exstinguisher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP2691A
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP1750A
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP1851A
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP4357A
+  title: OSHA Hearing Protection Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP3070A
+  title: Bloodborne Pathogens Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP2481A
+  title: Bend PD and Tri County Pursuit Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP2893A
+  title: Work Place Harassment
   status: Passed
   score: '0.0'
   hours: '1.00'

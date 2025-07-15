@@ -21,7 +21,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/17/2024 | Police Officer | Management | Required |  |  | 5/17/2026 |
+| 7/8/2025 | Police Officer | Executive | App Recd |  |  | 5/17/2026 |
+| 7/8/2025 | Police Officer | Management | App Recd |  |  | 5/17/2026 |
 | 10/3/2023 | Police Officer | Supervisory | Granted | 10/3/2023 |  |  |
 | 3/27/2018 | Instructor |  | Granted | 3/27/2018 |  |  |
 | 5/4/2001 | Police Officer | Advanced | Granted | 5/4/2001 |  |  |
@@ -42,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2025 | AVP0524B | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 6/11/2025 | AVP0547A | Monthly Leadership Meeting | Passed | 0.0 | 1.25 |
 | 5/20/2025 | SVP4319A | Recognize Your Own Bias | Passed | 0.0 | 0.25 |
 | 5/20/2025 | SVP2006A | Harassment: Ensuring a Respectful Workplace | Passed | 0.0 | 0.25 |

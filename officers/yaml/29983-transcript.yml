@@ -76,6 +76,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/6/2025
+  course: APD3401A
+  title: 'Opioid Crisis: Protecting Our First Responders'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/5/2025
+  course: APD2003A
+  title: 2025 Detective Conference APD Investigations
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 5/8/2025
   course: APD3133A
   title: Railsafe, Intel and Response to Rail Incidents

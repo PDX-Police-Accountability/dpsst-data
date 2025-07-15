@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2025 | HBS1642A | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/20/2025 | HBS0756A | Stress, Trauma, Resiliency (STRT) | Passed | 0.0 | 8.00 |
 | 5/1/2025 | HBS2166A | NAMOA Annual Training | Passed | 0.0 | 24.00 |

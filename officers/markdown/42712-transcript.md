@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2025 | HBS2315A | Virtual Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
+| 7/2/2025 | HBS3950A | Virtual-Sexual Harassment | Passed | 0.0 | 1.00 |
 | 7/1/2025 | HBS3840B | Virtual-De-Escalation Strategies | Passed | 0.0 | 2.00 |
 | 6/26/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/1/2025 | HBS2174A | Virtual ADA Compliance for Business | Passed | 0.0 | 1.00 |

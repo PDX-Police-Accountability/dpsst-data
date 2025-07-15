@@ -38,11 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2025 | HBN3101B | Officer Safety and Home Visit Training | Passed | 0.0 | 7.00 |
 | 5/20/2025 | HBN1663B | Defensive Tactics-Striking Techniques | Passed | 0.0 | 1.00 |
 | 5/1/2025 | BNN0229A | Scenarios | Passed | 0.0 | 3.00 |
 | 4/30/2025 | BNN3526A | Gender Responsive Conference | Passed | 0.0 | 7.00 |
 | 4/29/2025 | BNN3256A | Policy and Procedure, Lived Experience Panel | Passed | 0.0 | 3.00 |
 | 4/29/2025 | BNN0474A | Safety Compass/Oregon Trauma Informed Care | Passed | 0.0 | 4.00 |
+| 4/24/2025 | HBN1723B | Mental Health First aid | Passed | 0.0 | 8.00 |
 | 3/26/2025 | HBN0638B | DTs  OC Spray Re-Certification | Passed | 0.0 | 8.00 |
 | 3/18/2025 | HBN0991B | March 2025 - Team Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/18/2025 | HBN3326B | March 25 Team Defensive Tactics | Passed | 0.0 | 1.00 |

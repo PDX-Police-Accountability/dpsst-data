@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/3/2025
+  course: SDP0713A
+  title: LEDS Re-Certification / Certification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/16/2025
   course: REG2532B
   title: Ground/Standing Control to Takedown

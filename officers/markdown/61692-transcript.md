@@ -19,8 +19,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/6/2025 | Police Officer | Basic | ReqCertExt |  |  | 2/17/2026 |
-| 11/14/2023 | Corrections Officer | Basic | Lapsed | 2/14/2022 | 8/14/2028 |  |
+| 6/6/2025 | Police Officer | Basic | RequiredUR |  |  | 2/17/2026 |
+| 11/14/2023 | Corrections Officer | Basic | Lapsed-UR | 2/14/2022 | 8/14/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

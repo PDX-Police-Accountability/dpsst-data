@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/6/2025 | OSH4351A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 5/30/2025 | OSH0199A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
+| 5/28/2025 | OSH4371A | 2025 2nd Trimester Firearms | Instructed | 0.0 | 8.00 |
 | 5/22/2025 | OSH4366B | OSP People in Crisis | Passed | 0.0 | 4.00 |
 | 5/21/2025 | OSH0079B | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 5/14/2025 | OSH0814A | ATR Active Threat Response Refresher | Instructed | 0.0 | 4.00 |

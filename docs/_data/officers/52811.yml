@@ -63,6 +63,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 5/30/2025
+  course: PDS1585A
+  title: Patrol Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/20/2025
+  course: PDS1349A
+  title: Taser 7 IDC
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/30/2025
   course: PDS0105A
   title: LE Range

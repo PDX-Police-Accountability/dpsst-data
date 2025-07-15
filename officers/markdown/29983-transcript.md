@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/6/2025 | APD3401A | Opioid Crisis: Protecting Our First Responders | Passed | 0.0 | 1.00 |
+| 6/5/2025 | APD2003A | 2025 Detective Conference APD Investigations | Passed | 0.0 | 20.00 |
 | 5/8/2025 | APD3133A | Railsafe, Intel and Response to Rail Incidents | Passed | 0.0 | 12.00 |
 | 4/29/2025 | APD3956A | Integrating Communications, Assessment,Tactics | Passed | 0.0 | 20.00 |
 | 3/19/2025 | APD2535A | CPR/First Aid | Passed | 0.0 | 7.00 |

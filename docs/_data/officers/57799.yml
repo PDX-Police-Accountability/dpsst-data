@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/6/2025
+  course: PDP2013A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/13/2025
   course: PDP0408A
   title: 2025 Mobile Identification Device (MIDD) Training
@@ -2990,6 +2996,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/6/2025
+  expiration_date: 7/6/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
@@ -2998,10 +3008,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/4/2023
-  expiration_date: 7/4/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/22/2018

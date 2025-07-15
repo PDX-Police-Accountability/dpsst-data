@@ -85,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/1/2025
+  course: VND2481A
+  title: Oregon Child Abuse and Human Trafficking Symposium
+  status: Passed
+  score: '0.0'
+  hours: '10.50'
 - date: 4/30/2025
   course: OCS0531A
   title: Oregon Child Abuse  Human Trafficking Summit

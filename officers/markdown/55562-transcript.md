@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2025 | PDS4372A | Leadership Training | Passed | 0.0 | 0.50 |
+| 6/22/2025 | PDS0870A | Taser 7 | Passed | 0.0 | 8.00 |
+| 6/19/2025 | PDS0832A | Active Threat Training | Passed | 0.0 | 8.00 |
 | 5/14/2025 | PDS0488A | Active Shooter Training | Passed | 0.0 | 1.00 |
 | 5/1/2025 | PDS1384A | Leadership Training | Passed | 0.0 | 0.30 |
 | 4/24/2025 | PDS1481A | Drug ID  Recognition | Passed | 0.0 | 5.00 |

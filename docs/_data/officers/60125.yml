@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 5/30/2025
+  course: PDS1585A
+  title: Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/30/2025
   course: PDS0105A
   title: LE Range

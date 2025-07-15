@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2025
+  course: F6K0443B
+  title: Staff First Aid/CPR/AED Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/25/2025
   course: REG0618B
   title: Scenario Overview
@@ -3707,6 +3713,10 @@ training_records:
   score: '0.0'
   hours: '7.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/26/2025
+  expiration_date: 6/26/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/11/2023

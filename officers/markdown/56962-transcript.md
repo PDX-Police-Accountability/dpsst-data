@@ -42,12 +42,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/23/2025 | VND1208A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
+| 6/6/2025 | HBN3101B | Officer Safety and Home Visit Training | Passed | 0.0 | 7.00 |
 | 5/20/2025 | HBN1663B | Defensive Tactics-Striking Techniques | Passed | 0.0 | 1.00 |
 | 5/9/2025 | HBN3686A | Adult and Pediatric First Aid/CPR | Passed | 0.0 | 6.00 |
 | 5/1/2025 | BNN0229A | Scenarios | Passed | 0.0 | 3.00 |
 | 4/30/2025 | BNN3526A | Gender Responsive Conference | Passed | 0.0 | 7.00 |
 | 4/29/2025 | BNN3256A | Policy and Procedure, Lived Experience Panel | Passed | 0.0 | 3.00 |
 | 4/29/2025 | BNN0474A | Safety Compass/Oregon Trauma Informed Care | Passed | 0.0 | 4.00 |
+| 4/22/2025 | HBN1723B | Mental Health First aid | Passed | 0.0 | 8.00 |
 | 4/21/2025 | VND2584A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 11/5/2024 | HBN2855A | Search and Seizure - Legal and Safe | Passed | 0.0 | 8.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -29,10 +29,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/8/2025 | PDP1478B | FTEP Property and Evidence Introduction | Passed | 0.0 | 4.00 |
+| 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 6/29/2025 | PDP4509B | TEEX WMD/Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 6/25/2025 | PDP2548A | Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 6/24/2025 | PDP4384B | Air Purifying Respirator and HAZMAT | Passed | 0.0 | 3.00 |
 | 6/24/2025 | PDP1046A | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
+| 6/24/2025 | PDP3400A | Body Worn Camera | Passed | 0.0 | 2.00 |
 | 6/23/2025 | PDP0843B | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
 | 5/28/2025 | REG1902A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/7/2025 | REG1278B | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

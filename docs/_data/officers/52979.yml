@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2025
+  course: OCS2107B
+  title: FBI CAST Basic
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/6/2025
   course: PDP0920B
   title: 2025 AR-15 Instructor In-Service Training (1-Day)

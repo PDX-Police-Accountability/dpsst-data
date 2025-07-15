@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/8/2025
+  course: PDP1478B
+  title: FTEP Property and Evidence Introduction
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/2/2025
+  course: PDP0096A
+  title: Radar Lidar Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 6/29/2025
   course: PDP4509B
   title: TEEX WMD/Terrorism Awareness for Emer Resp
@@ -54,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/24/2025
+  course: PDP3400A
+  title: Body Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/23/2025
   course: PDP0843B
   title: Stop Stick Online Safety Training - Man Deploy

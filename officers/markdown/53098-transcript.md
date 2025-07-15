@@ -42,14 +42,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/27/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
 | 5/10/2025 | PDP0279B | Red Door Project The Evolve Mindset Workshop | Passed | 0.0 | 12.00 |
 | 4/25/2025 | PDP4270A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Passed | 0.0 | 10.00 |
+| 4/23/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
+| 4/21/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
 | 4/13/2025 | PDP4334A | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
+| 3/26/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
+| 3/25/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
 | 3/14/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/26/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/26/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
+| 2/25/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
 | 2/12/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/12/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 2/12/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |

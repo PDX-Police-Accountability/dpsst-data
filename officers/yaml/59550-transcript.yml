@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/7/2025
+  course: BNP0318B
+  title: Tactical Scenarios and Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/18/2025
   course: BNP0935A
   title: Hostage Rescue Mini-scenarios

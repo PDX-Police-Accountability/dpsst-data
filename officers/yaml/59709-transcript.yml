@@ -43,9 +43,15 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/8/2025
+  course: BNP1071B
+  title: UAS Monthly
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 6/30/2025
-  course: BNP3780B
-  title: Bloodborne Pathogens Safety
+  course: XDELETE4
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: ''
   score: '0.0'
   hours: '1.00'
@@ -56,14 +62,98 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 6/30/2025
-  course: BNP3615B
-  title: Lead Awareness
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: ''
   score: '0.0'
   hours: '1.00'
 - date: 6/30/2025
   course: BNP0826B
   title: Policy and SOP Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP0062A
+  title: Bloodborne Pathogens Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP3344A
+  title: Axon Standards
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP3943A
+  title: Cyber Security
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/30/2025
+  course: BNP2691A
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP4220A
+  title: Fire Exstinguisher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP1208A
+  title: Force Response Annual Bend PD Report
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP4306A
+  title: Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP1750A
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP1851A
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP4357A
+  title: OSHA Hearing Protection Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP3070A
+  title: Bloodborne Pathogens Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP1554A
+  title: Restraining People Having MBE's
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: BNP2481A
+  title: Bend PD and Tri County Pursuit Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP2893A
+  title: Work Place Harassment
   status: Passed
   score: '0.0'
   hours: '1.00'

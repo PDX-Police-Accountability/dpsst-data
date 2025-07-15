@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/6/2025
+  course: HBN3101B
+  title: Officer Safety and Home Visit Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/20/2025
   course: HBN1663B
   title: Defensive Tactics-Striking Techniques
@@ -103,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/22/2025
+  course: HBN1723B
+  title: Mental Health First aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/21/2025
   course: VND2584A
   title: Chrono Practices and Contact Standards

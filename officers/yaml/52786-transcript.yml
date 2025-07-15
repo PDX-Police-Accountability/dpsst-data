@@ -80,6 +80,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/30/2025
+  course: PDS1585A
+  title: Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/16/2025
   course: PDS0105A
   title: LE Range
@@ -140,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/4/2025
+  course: PDS0513A
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/18/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap
@@ -3631,6 +3643,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/4/2025
+  expiration_date: 2/4/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
@@ -3639,10 +3655,6 @@ attribute_records:
   value: Signed
   effective_date: 7/22/2013
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 6/25/2025
 education_records:
 - date: 8/15/1996
   degree: Associate Arts

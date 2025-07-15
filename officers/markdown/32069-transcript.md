@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/3/2025 | SDP0713A | LEDS Re-Certification / Certification | Passed | 0.0 | 1.00 |
 | 6/16/2025 | REG2532B | Ground/Standing Control to Takedown | Passed | 0.0 | 1.00 |
 | 6/11/2025 | SDP1735A | Report Writing and Evidence Processing | Passed | 0.0 | 1.00 |
 | 6/11/2025 | SDP0055A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |

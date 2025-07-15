@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/20/2025
+  course: TGP0405B
+  title: Body Worn Camera Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/20/2025
   course: TGP0319A
   title: ACAP

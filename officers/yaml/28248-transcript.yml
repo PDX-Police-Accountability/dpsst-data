@@ -99,12 +99,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2025
+  course: PDP1439B
+  title: MGT-906 ICS Train the Trainer L-449
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/7/2025
   course: PDP1629A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/18/2025
+  course: PDP3385B
+  title: OEM Oregon Prepared 2025
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/28/2025
   course: PDP1113A
   title: 2024-5 Naloxone Adm Guidelines

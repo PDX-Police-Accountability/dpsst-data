@@ -70,6 +70,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2025
+  course: PDP2200A
+  title: Senior Management Institute for Police
+  status: Passed
+  score: '0.0'
+  hours: '120.00'
+- date: 6/19/2025
+  course: PDP4390A
+  title: Senior Management Institute for Police
+  status: Passed
+  score: '0.0'
+  hours: '120.00'
 - date: 4/3/2025
   course: PDP1530A
   title: CPR/First Aid

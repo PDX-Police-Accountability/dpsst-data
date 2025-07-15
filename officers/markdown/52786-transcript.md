@@ -29,9 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 2/4/2025 | 2/4/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 7/22/2013 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 6/25/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/26/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 5/30/2025 | PDS1585A | Patrol Rifle | Passed | 0.0 | 24.00 |
 | 4/16/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 3/23/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 3/16/2025 | VND1641A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
@@ -50,6 +51,7 @@
 | 2/5/2025 | PDS2435A | Confrontation Simulation | Passed | 0.0 | 3.00 |
 | 2/4/2025 | PDS4214A | PREA | Passed | 0.0 | 2.00 |
 | 2/4/2025 | PDS2731A | Range Qualification | Passed | 0.0 | 4.00 |
+| 2/4/2025 | PDS0513A | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 1/18/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/18/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 1/18/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
