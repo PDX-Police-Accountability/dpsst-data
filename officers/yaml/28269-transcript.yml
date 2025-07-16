@@ -227,6 +227,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/30/2025
+  course: BNP2714B
+  title: Lead Awareness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2025
+  course: BNP1708B
+  title: Bloodborne Pathogens Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/20/2025
   course: BNP4071A
   title: ICAT

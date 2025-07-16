@@ -59,6 +59,8 @@
 | 6/30/2025 | BNP3070A | Bloodborne Pathogens Safety | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP2481A | Bend PD and Tri County Pursuit Policy | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP2893A | Work Place Harassment | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP2714B | Lead Awareness | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP1708B | Bloodborne Pathogens Safety | Passed | 0.0 | 1.00 |
 | 1/28/2025 | BNP1420A | First Aid and Adult/ Child CPR | Passed | 0.0 | 2.00 |
 | 1/28/2025 | BNP3559A | Ethos Academy-The magic of the mind | Passed | 0.0 | 3.00 |
 | 1/28/2025 | BNP0069A | Taser 10 Certification | Passed | 0.0 | 3.00 |

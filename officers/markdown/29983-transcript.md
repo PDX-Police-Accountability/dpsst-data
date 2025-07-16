@@ -40,6 +40,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/6/2025 | APD3401A | Opioid Crisis: Protecting Our First Responders | Passed | 0.0 | 1.00 |
+| 6/25/2025 | APD2675B | Taser 7 Transition Training | Passed | 0.0 | 4.00 |
+| 6/25/2025 | APD0341B | Low Light Pistol Training | Passed | 0.0 | 4.00 |
+| 6/11/2025 | APD0849B | Range Qualification and Pistol Training | Passed | 0.0 | 8.00 |
 | 6/5/2025 | APD2003A | 2025 Detective Conference APD Investigations | Passed | 0.0 | 20.00 |
 | 5/8/2025 | APD3133A | Railsafe, Intel and Response to Rail Incidents | Passed | 0.0 | 12.00 |
 | 4/29/2025 | APD3956A | Integrating Communications, Assessment,Tactics | Passed | 0.0 | 20.00 |

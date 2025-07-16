@@ -138,6 +138,7 @@
 | * MISSING | 43482 |  |  |  |  |  | [md](../markdown/43482-transcript.md) - [yaml](../yaml/43482-transcript.yml) |
 | * MISSING | 43488 |  |  |  |  |  | [md](../markdown/43488-transcript.md) - [yaml](../yaml/43488-transcript.yml) |
 | * MISSING | 43838 |  |  |  |  |  | [md](../markdown/43838-transcript.md) - [yaml](../yaml/43838-transcript.yml) |
+| * MISSING | 43860 |  |  |  |  |  | [md](../markdown/43860-transcript.md) - [yaml](../yaml/43860-transcript.yml) |
 | * MISSING | 44163 |  |  |  |  |  | [md](../markdown/44163-transcript.md) - [yaml](../yaml/44163-transcript.yml) |
 | * MISSING | 44299 |  |  |  |  |  | [md](../markdown/44299-transcript.md) - [yaml](../yaml/44299-transcript.yml) |
 | * MISSING | 45062 |  |  |  |  |  | [md](../markdown/45062-transcript.md) - [yaml](../yaml/45062-transcript.yml) |
@@ -406,7 +407,6 @@
 | Burns, Derald S. | 52316 | Portland Police Bureau | Active | Police Officer | Hired | 2011-12-08 | [md](../markdown/52316-transcript.md) - [yaml](../yaml/52316-transcript.yml) |
 | Burns, Justin L. | 47103 | Portland Police Bureau | Active | Police Officer | Hired | 2006-07-06 | [md](../markdown/47103-transcript.md) - [yaml](../yaml/47103-transcript.yml) |
 | Burns, Sarah C. | 58108 | Portland Police Bureau | Active | Police Officer | Hired | 2017-10-19 | [md](../markdown/58108-transcript.md) - [yaml](../yaml/58108-transcript.yml) |
-| Burton, Bret A. | 43860 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-12-15 | [md](../markdown/43860-transcript.md) - [yaml](../yaml/43860-transcript.yml) |
 | Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Police Officer | Return LOA | 2025-01-28 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Butcher, Jennifer L. | 43484 | Portland Police Bureau | Active | Sergeant | Promotion | 2016-01-14 | [md](../markdown/43484-transcript.md) - [yaml](../yaml/43484-transcript.yml) |
 | Butcher, Kristine M. | 43866 | Portland Police Bureau | Active | Lieutenant | Promotion | 2024-04-25 | [md](../markdown/43866-transcript.md) - [yaml](../yaml/43866-transcript.yml) |

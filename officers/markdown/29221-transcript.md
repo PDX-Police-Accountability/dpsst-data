@@ -61,6 +61,7 @@
 | 6/30/2025 | BNP3070A | Bloodborne Pathogens Safety | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP2481A | Bend PD and Tri County Pursuit Policy | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP2893A | Work Place Harassment | Passed | 0.0 | 1.00 |
+| 6/30/2025 | BNP1708B | Bloodborne Pathogens Safety | Passed | 0.0 | 1.00 |
 | 5/21/2025 | BNP4071A | ICAT | Passed | 0.0 | 8.50 |
 | 4/23/2025 | BNP1547A | Ethics | Instructed | 0.0 | 2.50 |
 | 3/13/2025 | BNP2019A | Supervisor Academy | Passed | 0.0 | 16.00 |

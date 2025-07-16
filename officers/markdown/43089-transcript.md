@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/8/2025 | REG0877B | Half-Time HQC Instructor Qualification | Passed | 0.0 | 0.50 |
 | 5/30/2025 | LGS2329A | Defensive Tactics  Con-Sims | Instructed | 0.0 | 8.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/15/2025 | MOS2260B | On Water Firearms Course | Passed | 0.0 | 4.00 |

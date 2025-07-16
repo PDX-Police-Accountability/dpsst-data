@@ -138,6 +138,7 @@
 | * MISSING | 43482 |  |  |  |  |  | [md](../markdown/43482-transcript.md) - [yaml](../yaml/43482-transcript.yml) |
 | * MISSING | 43488 |  |  |  |  |  | [md](../markdown/43488-transcript.md) - [yaml](../yaml/43488-transcript.yml) |
 | * MISSING | 43838 |  |  |  |  |  | [md](../markdown/43838-transcript.md) - [yaml](../yaml/43838-transcript.yml) |
+| * MISSING | 43860 |  |  |  |  |  | [md](../markdown/43860-transcript.md) - [yaml](../yaml/43860-transcript.yml) |
 | * MISSING | 44163 |  |  |  |  |  | [md](../markdown/44163-transcript.md) - [yaml](../yaml/44163-transcript.yml) |
 | * MISSING | 44299 |  |  |  |  |  | [md](../markdown/44299-transcript.md) - [yaml](../yaml/44299-transcript.yml) |
 | * MISSING | 45062 |  |  |  |  |  | [md](../markdown/45062-transcript.md) - [yaml](../yaml/45062-transcript.yml) |
@@ -1369,7 +1370,6 @@
 | Jenkins, Katelynn B. | 63425 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-08 | [md](../markdown/63425-transcript.md) - [yaml](../yaml/63425-transcript.yml) |
 | Pearce, Jason B. | 29904 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2022-12-13 | [md](../markdown/29904-transcript.md) - [yaml](../yaml/29904-transcript.yml) |
 | LeSollen, Wendy A. | 62762 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-12-14 | [md](../markdown/62762-transcript.md) - [yaml](../yaml/62762-transcript.yml) |
-| Burton, Bret A. | 43860 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-12-15 | [md](../markdown/43860-transcript.md) - [yaml](../yaml/43860-transcript.yml) |
 | Bernard, Joseph M. | 53468 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/53468-transcript.md) - [yaml](../yaml/53468-transcript.yml) |
 | Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Purcell, Hannah Z. | 63594 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63594-transcript.md) - [yaml](../yaml/63594-transcript.yml) |

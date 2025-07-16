@@ -82,6 +82,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/25/2025
+  course: APD2675B
+  title: Taser 7 Transition Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/25/2025
+  course: APD0341B
+  title: Low Light Pistol Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/11/2025
+  course: APD0849B
+  title: Range Qualification and Pistol Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/5/2025
   course: APD2003A
   title: 2025 Detective Conference APD Investigations
