@@ -134,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/13/2024
+  course: PDP2633B
+  title: Basic Latent Print Comparison Tritech
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/29/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video

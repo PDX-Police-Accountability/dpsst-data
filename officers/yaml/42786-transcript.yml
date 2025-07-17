@@ -121,12 +121,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 4/13/2025
-  course: HSU1183A
-  title: Chief's Message In Service Spring 2025
-  status: Instructed
-  score: '0.0'
-  hours: '1.00'
-- date: 4/13/2025
   course: HSU1509A
   title: Firearms In Service Spring 2025
   status: Instructed
@@ -210,12 +204,6 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
-- date: 4/20/2024
-  course: HSU1901A
-  title: Spring In-Service 2024 Firearms
-  status: Instructed
-  score: '0.0'
-  hours: '4.00'
 - date: 4/19/2024
   course: HSU0688A
   title: Spring In-Service 2024 Body Worn Camera
@@ -234,44 +222,8 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 4/19/2024
-  course: HSU1383A
-  title: Spring In-Service 2024 TASER 10
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 4/19/2024
-  course: HSU2593A
-  title: Spring In-Service 2024 CPR/ FA
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 4/19/2024
-  course: HSU1893A
-  title: Spring In-Service 2024 Body Worn Camera
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
-- date: 4/19/2024
-  course: HSU0690A
-  title: Spring In-Service 2024 TASER 10
-  status: Instructed
-  score: '0.0'
-  hours: '1.00'
-- date: 4/19/2024
-  course: HSU1108A
-  title: Spring In-Service 2024 TASER 10
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 4/15/2024
   course: HSU2184A
-  title: Spring In-Service 2024 TASER 10
-  status: Instructed
-  score: '0.0'
-  hours: '1.00'
-- date: 4/15/2024
-  course: HSU0690A
   title: Spring In-Service 2024 TASER 10
   status: Instructed
   score: '0.0'
@@ -282,24 +234,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 4/14/2024
-  course: HSU1901A
-  title: Spring In-Service 2024 Firearms
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 10/20/2023
-  course: HSU2699A
-  title: Chief's Message
-  status: Instructed
-  score: '0.0'
-  hours: '2.00'
-- date: 10/20/2023
-  course: HSU1780A
-  title: Navigating Injustice
-  status: Instructed
-  score: '0.0'
-  hours: '1.00'
 - date: 10/20/2023
   course: HSU1363A
   title: Chief's Message
@@ -308,18 +242,6 @@ training_records:
   hours: '2.00'
 - date: 10/20/2023
   course: HSU1515A
-  title: Navigating Injustice
-  status: Instructed
-  score: '0.0'
-  hours: '1.00'
-- date: 10/16/2023
-  course: HSU2699A
-  title: Chief's Message
-  status: Instructed
-  score: '0.0'
-  hours: '2.00'
-- date: 10/16/2023
-  course: HSU1780A
   title: Navigating Injustice
   status: Instructed
   score: '0.0'

@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/10/2025
+  course: PDP0116B
+  title: RegJIN RMS/MRE
+  status: Instructed
+  score: '0.0'
+  hours: '14.00'
 - date: 6/25/2025
   course: PDP2296A
   title: RegJIN RMS/MRE Training Roster

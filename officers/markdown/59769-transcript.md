@@ -40,7 +40,6 @@
 | 4/13/2025 | HSU1183A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/13/2025 | HSU2990A | Crisis Communications In Service Spring 2025 | Passed | 0.0 | 2.00 |
 | 4/13/2025 | HSU1509A | Firearms In Service Spring 2025 | Passed | 0.0 | 3.50 |
-| 4/13/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/13/2025 | HSU4134A | Sleep Hygiene In Service Spring 2025 | Passed | 0.0 | 1.50 |
 | 4/13/2025 | HSU4104A | TASER In Service Spring 2025 | Passed | 0.0 | 3.50 |
 | 4/13/2025 | HSU3697A | Property Process In Service Spring 2025 | Passed | 0.0 | 2.00 |
@@ -52,17 +51,9 @@
 | 10/13/2024 | HSU3080A | Fall In-Service 2024 Defensive Tactics | Passed | 0.0 | 2.50 |
 | 7/9/2024 | HSU4220A | Axon VR T10 Scenarios | Passed | 0.0 | 0.50 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 4/15/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 1.00 |
-| 4/15/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
-| 4/15/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
 | 4/15/2024 | HSU1383A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
 | 4/15/2024 | HSU2593A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
-| 4/15/2024 | HSU0690A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 1.00 |
 | 4/15/2024 | HSU1893A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
-| 4/15/2024 | HSU1108A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
-| 4/14/2024 | HSU3008A | Spring In-Service 2024 Vehicle Operations | Passed | 0.0 | 3.00 |
-| 4/14/2024 | HSU4490A | Spring In-Service 2024 Defensive Tactics | Passed | 0.0 | 3.00 |
-| 4/14/2024 | HSU0104A | Spring In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
 | 4/14/2024 | HSU1901A | Spring In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
 | 4/14/2024 | HSU1916A | Spring In-Service 2024 Defensive Tactics | Passed | 0.0 | 3.00 |
 | 4/14/2024 | HSU2387A | Spring In-Service 2024 Vehicle Operations | Passed | 0.0 | 3.00 |

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2025 | VRP1009B | Ethics Bulletin Review | Passed | 0.0 | 1.00 |
 | 5/9/2025 | VRP0132A | CPR/AED/First Aid | Passed | 0.0 | 1.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 3/10/2025 | VND2033A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/10/2025
+  course: PDP0116B
+  title: RegJIN RMS/MRE
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 7/8/2025
   course: PDP1478B
   title: FTEP Property and Evidence Introduction

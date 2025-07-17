@@ -93,7 +93,7 @@ training_records:
   hours: '2.00'
 - date: 1/5/2025
   course: PDS4218A
-  title: CPR-First Aid-AED
+  title: CPR/First Aid/AED
   status: Passed
   score: '0.0'
   hours: '2.00'

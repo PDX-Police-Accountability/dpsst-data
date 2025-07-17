@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/18/2025 | WLP1297B | Firearms Training - Inservice | Passed | 0.0 | 3.00 |
 | 4/30/2025 | WLP0747A | Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
 | 4/23/2025 | WLP1088A | H.E.A.R.T. - Conflict Resolution | Passed | 0.0 | 1.00 |
 | 4/2/2025 | WLP3609A | SAFE/SANE Training | Passed | 0.0 | 0.25 |

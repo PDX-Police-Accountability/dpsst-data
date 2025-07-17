@@ -46,7 +46,7 @@
 | 3/5/2025 | PDS2540A | Intoxilyzer 8000 Certification | Passed | 0.0 | 4.00 |
 | 3/5/2025 | PDS1064A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 2/6/2025 | PDS3333A | Range | Passed | 0.0 | 2.00 |
-| 1/5/2025 | PDS4218A | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 1/5/2025 | PDS4218A | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 1/4/2025 | PDS1276A | Roll Call Training Case Law | Passed | 0.0 | 0.25 |
 | 12/16/2024 | PDS1198A | Use of Force Report Writing | Passed | 0.0 | 5.50 |
 | 12/13/2024 | PDS0272A | Less Lethal Certification | Passed | 0.0 | 5.00 |

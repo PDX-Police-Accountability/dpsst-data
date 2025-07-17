@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/10/2025 | PDP0116B | RegJIN RMS/MRE | Instructed | 0.0 | 14.00 |
 | 6/25/2025 | PDP2296A | RegJIN RMS/MRE Training Roster | Instructed | 0.0 | 14.00 |
 | 6/5/2025 | PDP1034A | RegJIN RMS/MRE Training | Instructed | 0.0 | 14.00 |
 | 5/13/2025 | PDP3583B | CPR/First Aid | Passed | 0.0 | 1.00 |

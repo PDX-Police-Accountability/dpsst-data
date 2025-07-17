@@ -52,7 +52,7 @@ training_records:
 - date: 6/3/2025
   course: NGP1182A
   title: Hazmat
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '1.50'
 - date: 4/28/2025
@@ -507,7 +507,7 @@ training_records:
   hours: '0.25'
 - date: 4/27/2022
   course: CVS44559
-  title: WRAP - RESTRAINT CHAIR
+  title: Wrap - Restraint Chair
   status: Passed
   score: '0.0'
   hours: '2.50'

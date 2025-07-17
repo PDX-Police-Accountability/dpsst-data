@@ -56,12 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/13/2025
+  course: TAP1935B
+  title: Sig Sauer Weapons ban and Firearms Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 6/5/2025
   course: MFS2947A
   title: SFST Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/5/2025
+  course: TAP1517B
+  title: JCFD3/5LawFireFamiliarizationPreSeasonFireOPS
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/30/2025
   course: ADP4338A
   title: Pistol/Rifle Positional Focus
@@ -74,12 +86,30 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 4/16/2025
+  course: TAP1971B
+  title: Defensive Tactics Review of DT Policy DT Videos
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/11/2025
   course: EPP2801B
   title: Taser Instructor (T10/T7)
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 4/9/2025
+  course: TAP2003B
+  title: SEAL Hemostatic Wound Spray
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/8/2025
+  course: TAP3993B
+  title: Jackson County Deflection Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/27/2025
   course: REG4010A
   title: Emergency Vehicle Operations - Skill Refresher

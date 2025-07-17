@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/10/2025
+  course: REG4065B
+  title: Handgun Instructor Development Course
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/8/2025
   course: REG0877B
   title: Half-Time HQC Instructor Qualification

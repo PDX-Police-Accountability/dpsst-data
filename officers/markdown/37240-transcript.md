@@ -37,6 +37,7 @@
 | 5/21/2025 | PDP2673A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
 | 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
 | 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
+| 5/1/2025 | PDP2312B | 2025 NAMOA Annual Motors Conference | Passed | 0.0 | 24.00 |
 | 4/22/2025 | PDP0241A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/26/2025 | PDP0276A | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 3/24/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

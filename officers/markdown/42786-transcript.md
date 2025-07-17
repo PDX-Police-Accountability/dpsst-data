@@ -48,7 +48,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/13/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Instructed | 0.0 | 1.00 |
-| 4/13/2025 | HSU1183A | Chief's Message In Service Spring 2025 | Instructed | 0.0 | 1.00 |
 | 4/13/2025 | HSU1509A | Firearms In Service Spring 2025 | Instructed | 0.0 | 7.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/8/2024 | HSU3308A | Leading DEIB at OHSU | Passed | 0.0 | 1.00 |
@@ -63,25 +62,13 @@
 | 9/17/2024 | HSU3887A | Building Supportive Communities - Clery/Title IX | Passed | 0.0 | 1.00 |
 | 7/2/2024 | HSU4200A | Integrity Booster 2024 | Passed | 0.0 | 1.00 |
 | 4/20/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
-| 4/20/2024 | HSU1901A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/19/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
 | 4/19/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
 | 4/19/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
-| 4/19/2024 | HSU1383A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
-| 4/19/2024 | HSU2593A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
-| 4/19/2024 | HSU1893A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
-| 4/19/2024 | HSU0690A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
-| 4/19/2024 | HSU1108A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
 | 4/15/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
-| 4/15/2024 | HSU0690A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
 | 4/14/2024 | HSU0104A | Spring In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
-| 4/14/2024 | HSU1901A | Spring In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
-| 10/20/2023 | HSU2699A | Chief's Message | Instructed | 0.0 | 2.00 |
-| 10/20/2023 | HSU1780A | Navigating Injustice | Instructed | 0.0 | 1.00 |
 | 10/20/2023 | HSU1363A | Chief's Message | Instructed | 0.0 | 2.00 |
 | 10/20/2023 | HSU1515A | Navigating Injustice | Instructed | 0.0 | 1.00 |
-| 10/16/2023 | HSU2699A | Chief's Message | Instructed | 0.0 | 2.00 |
-| 10/16/2023 | HSU1780A | Navigating Injustice | Instructed | 0.0 | 1.00 |
 | 10/16/2023 | HSU1363A | Chief's Message | Instructed | 0.0 | 2.00 |
 | 10/16/2023 | HSU1515A | Navigating Injustice | Instructed | 0.0 | 1.00 |
 | 10/15/2023 | HSU4019A | In- Service Firearms | Instructed | 0.0 | 8.00 |

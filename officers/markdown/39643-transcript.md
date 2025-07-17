@@ -47,7 +47,7 @@
 | 3/27/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/24/2025 | REG2181B | DT | Passed | 0.0 | 1.00 |
 | 3/20/2025 | REG1997B | DT | Passed | 0.0 | 1.00 |
-| 3/13/2025 | PDP3304A | Nighthhawd Advanced Digital Data Tradecraft | Passed | 0.0 | 32.00 |
+| 3/13/2025 | PDP3304A | Nighthhawk Advanced Digital Data Tradecraft | Passed | 0.0 | 32.00 |
 | 3/13/2025 | REG0437B | DT | Passed | 0.0 | 1.00 |
 | 3/6/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/3/2025 | REG3712A | DT | Passed | 0.0 | 1.00 |
