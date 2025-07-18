@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/15/2025
+  course: PDP3628B
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/10/2025
   course: PDP0116B
   title: RegJIN RMS/MRE
@@ -54,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/26/2025
+  course: PDP0160B
+  title: 2025 IS PVO Stop Stick
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 6/26/2025
+  course: PDP1554B
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/25/2025
   course: PDP2548A
   title: Post Basic CEW Taser

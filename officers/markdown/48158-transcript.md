@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 4/23/2025 | PDP3425B | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |
+| 4/23/2025 | PDP1856B | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP4118A | Force Science Analyst Certification Course | Passed | 0.0 | 34.00 |
 | 3/24/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/24/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

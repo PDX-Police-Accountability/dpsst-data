@@ -37,6 +37,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/6/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/24/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/24/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
+| 4/23/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/23/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 2/25/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 2/21/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/21/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |

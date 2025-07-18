@@ -29,6 +29,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/1/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 4/21/2025 | PDP0998B | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 4/21/2025 | PDP3135B | AA 2025 Building Police Legitimacy through PJ | Passed | 0.0 | 0.25 |
+| 4/21/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP2699B | AA 2025 Project Respond | Passed | 0.0 | 0.25 |
+| 4/9/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 3/13/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/10/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 2/12/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |

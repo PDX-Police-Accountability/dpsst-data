@@ -33,7 +33,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
+| 6/7/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/28/2025 | PDP0081A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/27/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/21/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 3/26/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/24/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

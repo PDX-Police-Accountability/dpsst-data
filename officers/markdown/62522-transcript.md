@@ -32,6 +32,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/30/2025 | PDP3946B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 6/19/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/24/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/11/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/11/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/6/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 2/14/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/14/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 2/14/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
@@ -39,6 +44,7 @@
 | 2/6/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 1/23/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 1/10/2025 | PDP1541A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
+| 1/10/2025 | PDP2234B | 2025 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 36.00 |
 | 12/9/2024 | PDP2527A | 2024 External OSP DNA Training | Passed | 0.0 | 2.50 |
 | 12/1/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/1/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

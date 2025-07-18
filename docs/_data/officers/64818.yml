@@ -30,6 +30,42 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/1/2025
+  course: PDP0160B
+  title: 2025 IS PVO Stop Stick
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/21/2025
+  course: PDP0998B
+  title: AA 2025 Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2025
+  course: PDP3135B
+  title: AA 2025 Building Police Legitimacy through PJ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2025
+  course: PDP2795B
+  title: AA 2025 Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/10/2025
+  course: PDP2699B
+  title: AA 2025 Project Respond
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP1554B
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/13/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

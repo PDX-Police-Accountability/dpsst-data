@@ -30,11 +30,43 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/25/2025 | PDP0131A | RegJIN RMS/MRE Training Roster | Passed | 0.0 | 14.00 |
+| 5/26/2025 | PDP0621B | AA 2025 Responding to a Mental Health Facility | Passed | 0.0 | 0.25 |
 | 5/20/2025 | PDP4322A | 2025 Body Worn Camera Training | Passed | 0.0 | 2.00 |
+| 4/29/2025 | PDP3135B | AA 2025 Building Police Legitimacy through PJ | Passed | 0.0 | 0.25 |
+| 4/29/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 4/29/2025 | PDP0998B | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP2699B | AA 2025 Project Respond | Passed | 0.0 | 0.25 |
 | 4/9/2025 | PDP3190A | FTEP Orientation | Passed | 0.0 | 5.00 |
 | 4/7/2025 | PDP2858B | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 4/7/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 4/3/2025 | PDP2841B | 2021 IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP2326B | 2021 IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP3389B | 2021 IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP2144B | 2021 IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP3741B | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP4484B | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP0077B | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP1650B | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP2015B | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP3305B | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP0461B | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP0215B | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP3157B | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4570B | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4578B | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP2948B | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP2527B | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4567B | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 4/2/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4367B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 4/2/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/2/2025 | PDP4223B | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/2/2025 | PDP4160B | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 4/2/2025 | PDP1882B | DIR 0640.37, Communication with Persons | Passed | 0.0 | 0.25 |
 | 4/1/2025 | PDP3586A | Hazmat/WMD Awareness/Gas Mask | Passed | 0.0 | 3.00 |
+| 4/1/2025 | PDP2342B | DIR 0910.00 Update De Minimis Force 09/2024 | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP1643A | 2020-1 City Attorney Legal Updates for Oct 2020 | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP0367A | 2018 TOD 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP3093A | 2018-5 TT 100% Collection and Sub for FA  Casing | Passed | 0.0 | 0.25 |

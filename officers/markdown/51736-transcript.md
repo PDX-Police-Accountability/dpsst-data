@@ -37,8 +37,10 @@
 | 6/25/2026 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/19/2025 | PDP1064A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 6/18/2025 | PDP0283A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 6/18/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/6/2025 | PDP4532A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/6/2025 | PDP0920B | 2025 AR-15 Instructor In-Service Training (1-Day) | Passed | 0.0 | 9.00 |
+| 6/3/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 5/29/2025 | PDP3760A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

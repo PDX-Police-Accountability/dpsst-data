@@ -35,8 +35,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/10/2025 | SAG0550A | Fences  Preparing Case for Prosecution | Passed | 0.0 | 3.50 |
+| 6/9/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/7/2025 | PDP2705A | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 4/28/2025 | PDP0081A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/21/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/11/2025 | PDP4022A | FETI Forensic Experiential Trauma Interview | Passed | 0.0 | 21.00 |
 | 3/25/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/25/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

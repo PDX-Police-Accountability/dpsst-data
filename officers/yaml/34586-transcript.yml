@@ -44,12 +44,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/29/2025
   course: PDP0829A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/2/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/24/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

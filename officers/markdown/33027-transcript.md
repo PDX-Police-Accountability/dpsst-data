@@ -35,7 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/8/2025 | PDP1944A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/2/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 3/26/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
 | 3/21/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/12/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |

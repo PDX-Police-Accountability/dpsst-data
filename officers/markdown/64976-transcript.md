@@ -30,6 +30,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 6/11/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 4/9/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 4/2/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
 | 3/26/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

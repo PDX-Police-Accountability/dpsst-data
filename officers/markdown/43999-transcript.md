@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/3/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/13/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/4/2025 | OSH2289A | Basic Detective Academy | Passed | 0.0 | 40.00 |
 | 4/4/2025 | PDP1521B | OHIA Basic Detective Academy | Passed | 0.0 | 40.00 |

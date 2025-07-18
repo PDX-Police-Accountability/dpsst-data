@@ -41,9 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/30/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 1.00 |
 | 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |
-| 6/30/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 1.00 |
 | 6/30/2025 | BNP0826B | Policy and SOP Updates | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP3344A | Axon Standards | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP0062A | Bloodborne Pathogens Safety | Passed | 0.0 | 1.00 |

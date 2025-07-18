@@ -35,9 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/21/2025 | PDP2673A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 5/1/2025 | PDP2312B | 2025 NAMOA Annual Motors Conference | Passed | 0.0 | 24.00 |
 | 4/28/2025 | PDP0081A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/23/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/4/2025 | PDP2606B | 2025 Oregon DUII Conference | Passed | 0.0 | 14.00 |
 | 3/26/2025 | PDP0276A | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |

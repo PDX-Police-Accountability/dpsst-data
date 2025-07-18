@@ -38,8 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/25/2025 | PDP4270A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Instructed | 0.0 | 10.00 |
+| 4/16/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/16/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/16/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/24/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/24/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 3/24/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |

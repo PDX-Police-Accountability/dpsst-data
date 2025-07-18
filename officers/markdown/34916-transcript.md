@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/1/2025 | PDP3076A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/26/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
 | 3/26/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

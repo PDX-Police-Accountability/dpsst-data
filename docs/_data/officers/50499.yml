@@ -50,24 +50,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/8/2025
   course: PDP2868A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/6/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/18/2025
   course: GSP1958B
   title: SWAT Sniper Range
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/18/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/18/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/16/2025
   course: GSP1366B
   title: SWAT Firearms Range
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/15/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/21/2025
   course: GSP0066A
   title: SWAT Sniper Range

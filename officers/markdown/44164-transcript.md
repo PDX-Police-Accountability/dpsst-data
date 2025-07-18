@@ -37,10 +37,17 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/22/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/2/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 5/28/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
 | 5/14/2025 | PDP2442B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 5/10/2025 | PDP0279B | Red Door Project The Evolve Mindset Workshop | Passed | 0.0 | 12.00 |
 | 5/8/2025 | PDP3105A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/8/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 5/7/2025 | PDP2705A | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
+| 5/6/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 5/6/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 5/6/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/30/2025 | PDP2148B | 2025 WSHNA Annual Conference | Passed | 0.0 | 24.00 |
 | 4/16/2025 | PDP3100A | 2025 CNT Annual Training | Passed | 0.0 | 8.00 |
 | 3/27/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

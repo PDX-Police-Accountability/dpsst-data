@@ -37,7 +37,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 6/28/2025 | PDP0168B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 6/28/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 6/15/2025 | PDP1811B | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 6/15/2025 | PDP0022B | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
+| 6/8/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 5/23/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 4/13/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 4/13/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/13/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/13/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/5/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 3/3/2025 | PDP0827A | 2025 Training Return to Work | Passed | 0.0 | 9.00 |
 | 2/5/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/5/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

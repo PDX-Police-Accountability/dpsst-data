@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 6/9/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/7/2025
   course: PDP2705A
   title: 2025 EAP Annual Member Training
@@ -56,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/21/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/11/2025
   course: PDP4022A
   title: FETI Forensic Experiential Trauma Interview

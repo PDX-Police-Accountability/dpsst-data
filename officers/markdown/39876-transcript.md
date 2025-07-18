@@ -36,8 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/21/2025 | PDP3434B | Coordinated Response to Sideshow Enforcement | Passed | 0.0 | 16.00 |
 | 5/13/2025 | PDP3583B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/13/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/27/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/26/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

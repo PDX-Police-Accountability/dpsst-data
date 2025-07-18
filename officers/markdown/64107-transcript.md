@@ -32,6 +32,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/30/2025 | PDP3946B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 6/14/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 4/24/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
+| 4/11/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/11/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/4/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 3/16/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/16/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 2/26/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

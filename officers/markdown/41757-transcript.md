@@ -44,6 +44,10 @@
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 4/23/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
+| 4/19/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 4/18/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/18/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/15/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 4/9/2025 | PDP2033A | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 4/2/2025 | PDP3659A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 3/27/2025 | PDP3998A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

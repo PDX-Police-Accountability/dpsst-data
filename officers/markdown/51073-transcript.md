@@ -35,8 +35,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 6/25/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 6/25/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/23/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 4/8/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 4/8/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/2/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 4/2/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4367B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 4/2/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4223B | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/2/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/2/2025 | PDP1882B | DIR 0640.37, Communication with Persons | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 3/20/2025 | PDP0906A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/19/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
 | 2/4/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |

@@ -34,7 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/22/2025 | PDP0393A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/11/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/4/2025 | OSH2289A | Basic Detective Academy | Passed | 0.0 | 40.00 |
 | 3/25/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/25/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

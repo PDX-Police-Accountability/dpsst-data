@@ -30,6 +30,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/19/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/24/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/11/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/6/2025
+  course: PDP4497B
+  title: HRAR 2.04 Gender Identity Nondiscrimination Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/14/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap
@@ -69,6 +99,12 @@ training_records:
 - date: 1/10/2025
   course: PDP1541A
   title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 1/10/2025
+  course: PDP2234B
+  title: 2025 Enhanced Crisis Intervention Training (ECIT)
   status: Passed
   score: '0.0'
   hours: '36.00'

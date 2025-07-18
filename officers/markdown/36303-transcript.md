@@ -49,13 +49,20 @@
 | 5/28/2025 | PDP3414A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 5/21/2025 | PDP2769A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 5/21/2025 | PDP2769A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 5/16/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 5/15/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 5/14/2025 | PDP0446A | 2025 K-9 Weekly Training: | Passed | 0.0 | 4.50 |
 | 5/8/2025 | PDP2868A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/7/2025 | PDP2799B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
+| 5/7/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 4/24/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/23/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
+| 4/14/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/14/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 4/9/2025 | BVP3619B | 2025 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/9/2025 | PDP2783A | 2025 OR Police Canine Assocation Spring Seminar | Passed | 0.0 | 24.00 |
+| 4/4/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 4/2/2025 | PDP3659A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 3/27/2025 | PDP3998A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
 | 3/19/2025 | PDP2959A | K-9 Weekly Training | Passed | 0.0 | 4.50 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 3/26/2025 | PDP3227A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/25/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/25/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |

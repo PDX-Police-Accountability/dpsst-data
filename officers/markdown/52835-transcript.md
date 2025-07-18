@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 5/12/2025 | PDP1889B | 2020 Trng Managing Critical Incidents (05/2020) | Passed | 0.0 | 0.25 |
+| 5/12/2025 | PDP1811B | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 5/12/2025 | PDP0022B | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 4/1/2025 | PDP1236A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |

@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/7/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/25/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

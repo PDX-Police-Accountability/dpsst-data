@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/25/2026 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 6/23/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/19/2025 | PDP0430A | 2025 SERT Training - ITERATION | Passed | 0.0 | 5.00 |
 | 6/6/2025 | PDP4532A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/22/2025 | PDP0593A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
@@ -46,6 +47,7 @@
 | 5/6/2025 | PDP1017A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/1/2025 | PDP1998A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/30/2025 | PDP3804A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 2.00 |
+| 4/28/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/9/2025 | PDP0420A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |

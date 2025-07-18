@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/26/2025 | REG0627B | Control from Guard | Passed | 0.0 | 1.00 |
 | 5/23/2025 | REG3184B | Control Tactics | Passed | 0.0 | 1.00 |
 | 5/19/2025 | REG0769B | Control Tactics | Passed | 0.0 | 1.00 |
@@ -42,6 +43,8 @@
 | 4/17/2025 | REG1257B | Takedown to Ground Control | Passed | 0.0 | 1.00 |
 | 4/7/2025 | REG3411B | Striking/Butterfly Guard Sweep | Passed | 0.0 | 1.00 |
 | 4/3/2025 | REG2531B | DT | Passed | 0.0 | 1.00 |
+| 4/3/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/31/2025 | REG3257B | Control to Cuffing | Passed | 0.0 | 1.00 |
 | 3/27/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

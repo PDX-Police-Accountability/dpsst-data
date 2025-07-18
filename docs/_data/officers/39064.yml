@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/31/2025
+  course: TDP1065B
+  title: Shatterball Use
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/20/2025
   course: TDP1963A
   title: First Aid/CPR

@@ -40,6 +40,11 @@
 | 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/24/2025 | PDP3796A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/24/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 4/18/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/17/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/12/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/11/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/7/2025 | BNP1238A | Shots Fired - Mental Health | Passed | 0.0 | 2.00 |
 | 4/7/2025 | BNP3933A | Leadership Under Fire | Passed | 0.0 | 2.00 |
 | 3/9/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

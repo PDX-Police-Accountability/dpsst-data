@@ -37,8 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/16/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 3/29/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/29/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 3/29/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |

@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/16/2025 | LOP0010A | 2025 Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Instructed | 0.0 | 10.00 |
 | 3/30/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

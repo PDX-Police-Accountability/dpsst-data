@@ -37,10 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/14/2025 | PDP2442B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 5/6/2025 | PDP1017A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/1/2025 | PDP1998A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/30/2025 | PDP1602A | WSHNA 2025 Training Seminar | Passed | 0.0 | 24.00 |
+| 4/21/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/16/2025 | PDP3100A | 2025 CNT Annual Training | Passed | 0.0 | 8.00 |
 | 4/16/2025 | PDP3100A | 2025 CNT Annual Training | Instructed | 0.0 | 8.00 |
 | 3/31/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

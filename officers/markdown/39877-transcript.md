@@ -34,7 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2025 | PDP1856B | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
+| 6/12/2025 | PDP3327B | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 6/3/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 4/23/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/15/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/15/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/20/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/12/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 3/6/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

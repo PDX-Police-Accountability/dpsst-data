@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 6/19/2025 | PDP4510B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 6/11/2025 | PDP0749B | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 6/11/2025 | PDP0749B | 2025 K-9 Weekly Training | Instructed | 0.0 | 3.00 |
@@ -45,8 +46,12 @@
 | 5/15/2025 | PDP0446A | 2025 K-9 Weekly Training: | Passed | 0.0 | 5.00 |
 | 5/8/2025 | PDP3105A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/8/2025 | PDP2799B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
+| 5/7/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/23/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
+| 4/23/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/23/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/23/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/9/2025 | PDP2033A | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 3/20/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/19/2025 | PDP2959A | K-9 Weekly Training | Passed | 0.0 | 4.50 |

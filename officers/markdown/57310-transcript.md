@@ -38,12 +38,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/10/2025 | SAG0550A | Fences  Preparing Case for Prosecution | Passed | 0.0 | 3.50 |
+| 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/24/2025 | PDP3160A | 2025 Utility Terrian Vehicle (UTV) Training | Passed | 0.0 | 9.00 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
 | 4/29/2025 | PDP0829A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/29/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 4/29/2025 | PDP3327B | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 4/27/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Passed | 0.0 | 10.00 |
 | 4/16/2025 | PDP3100A | 2025 CNT Annual Training | Passed | 0.0 | 8.00 |
+| 4/2/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/2/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/26/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/26/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/13/2025 | PDP4122A | WA Vehicle Crimes Conference | Passed | 0.0 | 25.50 |

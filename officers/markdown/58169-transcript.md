@@ -33,8 +33,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/20/2025 | PDP2822B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/20/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 5/7/2025 | PDP2705A | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
+| 4/14/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/9/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 3/25/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/13/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 3/13/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |

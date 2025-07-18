@@ -30,6 +30,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/15/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
+| 5/27/2025 | PDP0621B | AA 2025 Responding to a Mental Health Facility | Passed | 0.0 | 0.25 |
+| 4/19/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/19/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/19/2025 | PDP3135B | AA 2025 Building Police Legitimacy through PJ | Passed | 0.0 | 0.25 |
+| 4/19/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP0998B | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP2699B | AA 2025 Project Respond | Passed | 0.0 | 0.25 |
 | 3/26/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/24/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 3/24/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |

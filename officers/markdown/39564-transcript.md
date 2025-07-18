@@ -47,7 +47,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/8/2025 | PDP3105A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/6/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/17/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/14/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 4/3/2025 | PDP0294A | 2025 Public Order Command Workshop | Passed | 0.0 | 24.00 |
 | 3/27/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/24/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |

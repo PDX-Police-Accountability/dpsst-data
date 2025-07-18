@@ -19,6 +19,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 7/16/2025 | Police Officer | Advanced | App Recd |  |  |  |
 | 9/28/2020 | Police Officer | Intermediate | Granted | 9/28/2020 |  |  |
 | 10/22/2013 | Police Officer | Basic | Granted | 10/22/2013 |  |  |
 ## Attributes
@@ -37,8 +38,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/18/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/14/2025 | PDP2442B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 4/22/2025 | PDP0241A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/22/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/18/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 4/18/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 4/18/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/8/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 4/8/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/8/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/19/2025 | PDP1622A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/13/2025 | PDP3439A | Nighthawk Ascend Adv Digital Data Tradecraft | Passed | 0.0 | 32.00 |

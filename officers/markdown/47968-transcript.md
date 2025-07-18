@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Passed | 0.0 | 10.00 |
 | 3/26/2025 | PDP3227A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/26/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/2/2025 | PDP1851B | 2025 AR-15 Instructor In-Service Training (1-Day) | Passed | 0.0 | 9.00 |
 | 5/16/2025 | PDP2020A | 2025 Satellite AR-15 Instructor Course | Instructed | 0.0 | 36.00 |
 | 4/1/2025 | PDP3483B | CPR/First Aid | Passed | 0.0 | 1.75 |

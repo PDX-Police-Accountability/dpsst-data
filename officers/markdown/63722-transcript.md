@@ -31,7 +31,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/25/2025 | PDP4270A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/19/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/14/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/14/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/12/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 3/14/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/28/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
@@ -43,6 +48,7 @@
 | 1/18/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/13/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/10/2025 | PDP1541A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
+| 1/10/2025 | PDP2234B | 2025 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 36.00 |
 | 12/27/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/10/2024 | OSH1816A | ARIDE | Passed | 0.0 | 16.00 |
 | 12/10/2024 | PDP2693A | 2024 Adv Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |

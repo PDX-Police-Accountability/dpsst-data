@@ -36,13 +36,20 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/25/2026 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 6/17/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 6/17/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 6/17/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 6/17/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/6/2025 | PDP0920B | 2025 AR-15 Instructor In-Service Training (1-Day) | Instructed | 0.0 | 9.00 |
 | 6/2/2025 | PDP1851B | 2025 AR-15 Instructor In-Service Training (1-Day) | Passed | 0.0 | 9.00 |
 | 5/29/2025 | PDP3760A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/21/2025 | PDP0231A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/21/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/17/2025 | PDP1871A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 4/11/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/26/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/26/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |

@@ -62,12 +62,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/14/2025
+  course: 25-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/28/2025
   course: PDP0168B
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/28/2025
+  course: PDP0160B
+  title: 2025 IS PVO Stop Stick
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 6/15/2025
+  course: PDP1811B
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/15/2025
+  course: PDP0022B
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/8/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/23/2025
+  course: PDP1554B
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2025
+  course: PDP3284B
+  title: 2025 IS - Axon Annual Operator Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/13/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/5/2025
+  course: PDP4497B
+  title: HRAR 2.04 Gender Identity Nondiscrimination Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/3/2025
   course: PDP0827A
   title: 2025 Training Return to Work

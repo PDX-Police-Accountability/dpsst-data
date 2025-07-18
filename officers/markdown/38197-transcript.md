@@ -41,7 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 6/26/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
+| 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP1766A | FN 15 Rifle/Carbine Armorer Course | Passed | 0.0 | 16.00 |
+| 5/15/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 5/14/2025 | PDP2442B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 4/16/2025 | PDP3100A | 2025 CNT Annual Training | Passed | 0.0 | 8.00 |
 | 3/26/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |

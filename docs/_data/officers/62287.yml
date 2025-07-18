@@ -30,9 +30,63 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/25/2025
+  course: PDP4570B
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/2/2025
+  course: PDP1554B
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/1/2025
   course: PDP2273A
   title: 2025-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/28/2025
+  course: PDP0077B
+  title: 2023-4 CAO Legal Updates for 04/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/24/2025
+  course: PDP3157B
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/24/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/23/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/23/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/22/2025
+  course: PDP4567B
+  title: 2024-9 CAO Legal Updates for 09/2024
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -42,6 +96,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/21/2025
+  course: PDP3305B
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2025
+  course: PDP0461B
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2025
+  course: PDP2948B
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2025
+  course: PDP2527B
+  title: 2024-7 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2025
+  course: PDP4367B
+  title: 2025-1 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/17/2025
+  course: PDP1650B
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2025
+  course: PDP4223B
+  title: 2025-1 CAO Legal Updates for 09  10/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/16/2025
   course: PDP1372A
   title: CPR/First Aid
@@ -54,6 +150,78 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/15/2025
+  course: PDP2015B
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/15/2025
+  course: PDP4578B
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/15/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/15/2025
+  course: PDP1209B
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/15/2025
+  course: PDP4160B
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/15/2025
+  course: PDP1882B
+  title: DIR 0640.37, Communication with Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: PDP0215B
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: PDP2342B
+  title: DIR 0910.00 Update De Minimis Force 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: PDP1045B
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: PDP4497B
+  title: HRAR 2.04 Gender Identity Nondiscrimination Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/14/2025
+  course: PDP0638B
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: PDP0399B
+  title: SOP 14-1 Safety Procedures for the Trng Complex
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/16/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

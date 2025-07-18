@@ -56,12 +56,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 6/25/2025
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 6/25/2025
   course: MFN2367B
   title: Defensive Tactics
   status: Passed

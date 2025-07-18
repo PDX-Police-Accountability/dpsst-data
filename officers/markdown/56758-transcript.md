@@ -37,15 +37,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/24/2025 | PDP4384B | Air Purifying Respirator and HAZMAT | Instructed | 0.0 | 3.00 |
+| 6/23/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 6/20/2025 | HBS2577A | Def Tech Distraction Device ICP | Passed | 0.0 | 4.00 |
 | 6/19/2025 | HBS0109A | Def Tech Chemical Munition ICP | Passed | 0.0 | 5.00 |
 | 6/18/2025 | HBS0777A | Def Tech LLIM ICP | Passed | 0.0 | 4.50 |
 | 6/17/2025 | HBS2363A | Def Tech OC Aerosol Projectors Instructor Program | Passed | 0.0 | 4.75 |
 | 6/11/2025 | PDP0115A | Air Purifying Respirator and HAZMAT | Instructed | 0.0 | 3.00 |
+| 6/10/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
+| 4/14/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/9/2025 | PDP3057B | NTOA Public Order Symposium | Passed | 0.0 | 18.25 |
 | 4/3/2025 | PDP0294A | 2025 Public Order Command Workshop | Passed | 0.0 | 24.00 |
 | 4/1/2025 | PDP3586A | Hazmat/WMD Awareness/Gas Mask | Instructed | 0.0 | 3.00 |

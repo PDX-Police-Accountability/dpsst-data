@@ -29,3 +29,4 @@
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 7/28/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
+| 6/17/2025 | PDP3818B | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

@@ -36,3 +36,4 @@
 | 5/16/2025 | PDP1483A | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 5/15/2025 | PDP0402A | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 5/7/2025 | PDP0261A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |
+| 4/28/2025 | PDP3818B | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

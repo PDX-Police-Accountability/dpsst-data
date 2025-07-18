@@ -41,7 +41,29 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 6/30/2025 | PDP4367B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 6/30/2025 | PDP4223B | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 6/30/2025 | PDP0800B | Patrol Vehicle Operations Policy | Passed | 0.0 | 0.50 |
+| 6/25/2025 | PDP3218B | 2025 IS ABLE (Video) | Passed | 0.0 | 1.67 |
+| 6/25/2025 | PDP2677B | 2025 IS Active Threat (Video) | Passed | 0.0 | 1.00 |
+| 6/25/2025 | PDP1894B | OSU SOP009 Modified Duty SOP | Passed | 0.0 | 0.50 |
+| 6/23/2025 | PDP0285B | 2025 IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |
+| 6/18/2025 | PDP0687B | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 6/16/2025 | PDP0215B | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 6/16/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 6/16/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 6/16/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
+| 6/16/2025 | PDP0399B | SOP 14-1 Safety Procedures for the Trng Complex | Passed | 0.0 | 0.25 |
 | 6/12/2025 | PDP0567A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 6/12/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 6/12/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 6/12/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 6/12/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 6/12/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/12/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 6/12/2025 | PDP1882B | DIR 0640.37, Communication with Persons | Passed | 0.0 | 0.25 |
+| 6/11/2025 | PDP1650B | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 11/26/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 11/26/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -37,7 +37,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | PDP3305A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
+| 5/9/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 5/7/2025 | PDP2705A | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
+| 4/28/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/14/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/14/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 3/31/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/10/2025 | VND2033A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
 | 3/10/2025 | PDP3636A | OPOA Search Warrants | Passed | 0.0 | 8.00 |

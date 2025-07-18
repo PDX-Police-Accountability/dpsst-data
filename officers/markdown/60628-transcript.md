@@ -40,10 +40,14 @@
 | 5/29/2025 | PDP3760A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/9/2025 | PDP3305A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/9/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 5/9/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 5/9/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Passed | 0.0 | 10.00 |
 | 4/17/2025 | PDP1871A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 4/6/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 18.00 |

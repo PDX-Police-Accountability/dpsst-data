@@ -34,7 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 4/24/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 4/11/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/10/2025 | PDP2326A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/10/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/2/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/1/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 3/20/2025 | PDP1460A | 2020 Training Managing Crit Incid Well: Sgts Role | Passed | 0.0 | 0.25 |
 | 3/20/2025 | PDP3225A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
 | 3/20/2025 | PDP1963A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

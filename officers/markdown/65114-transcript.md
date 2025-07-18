@@ -30,6 +30,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
+| 5/3/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 5/3/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 5/3/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 5/3/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 4/9/2025 | PDP4294A | 2025-1 Advanced Academy Patrol Procedures | Passed | 0.0 | 103.75 |
 | 4/6/2025 | PDP3444A | 2025-1 Advanced Academy PVO | Passed | 0.0 | 59.00 |
 | 4/1/2025 | PDP1673A | 2025-1 Advanced Academy Equity | Passed | 0.0 | 29.00 |

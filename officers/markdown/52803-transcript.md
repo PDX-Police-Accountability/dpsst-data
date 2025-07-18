@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Passed | 0.0 | 10.00 |
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/26/2025 | PDP0276A | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |

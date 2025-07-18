@@ -39,9 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/10/2025 | PDP0279B | Red Door Project The Evolve Mindset Workshop | Passed | 0.0 | 12.00 |
 | 5/8/2025 | PDP3105A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/7/2025 | PDP2705A | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
+| 4/21/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/9/2025 | PDP3137A | NTOA Public Order Symposium | Passed | 0.0 | 23.00 |
 | 4/3/2025 | PDP0294A | 2025 Public Order Command Workshop | Passed | 0.0 | 24.00 |
 | 3/25/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

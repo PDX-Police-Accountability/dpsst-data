@@ -39,11 +39,52 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 6/18/2025 | BPT1843A | Operational Peer Support Symposium | Passed | 0.0 | 8.00 |
+| 6/17/2025 | PDP2071B | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 6/17/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/17/2025 | PDP3327B | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 6/17/2025 | PDP3457B | OSU Modified Duty and Cold Call-Taking Training | Passed | 0.0 | 0.25 |
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/16/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 4/16/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/15/2025 | PDP3487B | 2024-3 IS PP Shooting at Moving Vehicle Video 1 | Passed | 0.0 | 1.25 |
+| 4/15/2025 | PDP0552B | 2024-3 IS PP Shooting at Moving Vehicles Video 2 | Passed | 0.0 | 1.25 |
+| 4/15/2025 | PDP3685B | 2024-3 IS MFF Response to Public Order Events | Passed | 0.0 | 1.50 |
+| 4/14/2025 | PDP3831B | 2024-3 IS ABLE Video | Passed | 0.0 | 2.00 |
+| 4/10/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP4143B | 2024-3 IS Air Purifying Respirator (APR) Video | Passed | 0.0 | 1.00 |
+| 4/10/2025 | PDP1530B | 2024-3 IS Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
+| 4/10/2025 | PDP3451B | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |
+| 4/10/2025 | PDP0841B | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
+| 4/9/2025 | PDP3157B | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 4/9/2025 | PDP0077B | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 4/9/2025 | PDP4570B | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/9/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/9/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/9/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/8/2025 | PDP2527B | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 4/8/2025 | PDP4367B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 4/8/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
+| 4/7/2025 | PDP1650B | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 4/7/2025 | PDP4223B | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 4/7/2025 | PDP1045B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 4/7/2025 | PDP4160B | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 4/3/2025 | PDP3305B | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP0461B | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP0215B | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP2948B | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP4567B | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 4/3/2025 | PDP0638B | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP2015B | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4578B | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP3753B | 2024 ECIT Recording Define the Event | Passed | 0.0 | 1.00 |
+| 4/2/2025 | PDP1198B | 2024 ECIT Recording Themes and Values | Passed | 0.0 | 1.50 |
+| 4/2/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP1882B | DIR 0640.37, Communication with Persons | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP2342B | DIR 0910.00 Update De Minimis Force 09/2024 | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP0399B | SOP 14-1 Safety Procedures for the Trng Complex | Passed | 0.0 | 0.25 |
 | 9/19/2024 | PDP1929A | 2024 SERT Training (RILEA) - SCENARIO | Passed | 0.0 | 36.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/7/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

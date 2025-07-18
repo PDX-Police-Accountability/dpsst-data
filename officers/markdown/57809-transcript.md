@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 4/18/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 3/28/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |

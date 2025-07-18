@@ -34,6 +34,7 @@
 | 5/19/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 5/15/2025 | PDP0402A | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 5/7/2025 | PDP0261A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |
+| 5/5/2025 | PDP0687B | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 11/16/2023 | PDP1483A | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 11/16/2023 | PDP1759A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 11/16/2023 | PDP4237A | IS-700 Intro to Nat Incident Management System | Passed | 0.0 | 4.00 |

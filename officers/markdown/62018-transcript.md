@@ -31,12 +31,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
+| 6/17/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/6/2025 | PDP4532A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/29/2025 | PDP3760A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Instructed | 0.0 | 23.00 |
 | 5/16/2025 | PDP2020A | 2025 Satellite AR-15 Instructor Course | Passed | 0.0 | 45.00 |
 | 5/11/2025 | PDP1787A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/11/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
+| 4/13/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/31/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/30/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/22/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
@@ -60,6 +64,7 @@
 | 1/23/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 2.50 |
 | 1/13/2025 | PDP2390A | 2025 Training Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 1/10/2025 | PDP1541A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
+| 1/10/2025 | PDP2234B | 2025 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 36.00 |
 | 12/21/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 11/30/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 11/30/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

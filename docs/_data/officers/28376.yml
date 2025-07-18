@@ -88,6 +88,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/7/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/21/2025
+  course: PDP3284B
+  title: 2025 IS - Axon Annual Operator Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 5/9/2025
   course: PDP3675B
   title: 2025 Rapid Response Team (RRT) Monthly Training
@@ -112,6 +124,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/18/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/18/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/10/2025
   course: PDP2224A
   title: 2025-1 Range Qual AR-15 (20 Yard)
@@ -124,6 +154,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/10/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/19/2025
   course: PDP2607A
   title: 2025 Sworn In-Service PVO Stop Stick External

@@ -30,9 +30,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/5/2025 | PDP2330A | 2025 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
 | 4/30/2025 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 4/24/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 4/24/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 4/10/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 4/6/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 4/6/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/6/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/4/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 2/10/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/10/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 2/2/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |

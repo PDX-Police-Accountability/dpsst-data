@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/7/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/3/2025
   course: PDP0568A
   title: 2025 SERT Training - FIREARMS
@@ -49,6 +55,36 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 7/2/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/1/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/30/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/27/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/26/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/19/2025
   course: PDP0430A
   title: 2025 SERT Training - ITERATION
@@ -121,6 +157,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/13/2025
+  course: PDP0160B
+  title: 2025 IS PVO Stop Stick
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/31/2025
   course: PDP1113A
   title: 2024-5 Naloxone Adm Guidelines

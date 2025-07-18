@@ -31,8 +31,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/21/2025 | PDP3434B | Coordinated Response to Sideshow Enforcement | Passed | 0.0 | 16.00 |
 | 5/13/2025 | PDP3583B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/6/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/21/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/21/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/21/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/21/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 2/19/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 2/19/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 2/19/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |

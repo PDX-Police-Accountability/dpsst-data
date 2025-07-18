@@ -76,18 +76,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/15/2025
   course: PDP1242B
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/13/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/14/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/3/2025
   course: PDP0294A
   title: 2025 Public Order Command Workshop
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/3/2025
+  course: PDP4497B
+  title: HRAR 2.04 Gender Identity Nondiscrimination Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/14/2025
   course: PDP0384B
   title: OR Executive Development Institute Annual Session

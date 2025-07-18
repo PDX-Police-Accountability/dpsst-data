@@ -850,12 +850,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 7/15/2020
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 7/10/2020
   course: F6D24106
   title: Implied Consent Update July 2020

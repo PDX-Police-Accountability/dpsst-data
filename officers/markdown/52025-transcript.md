@@ -41,6 +41,7 @@
 | 6/18/2025 | PDP0699A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 6/11/2025 | PDP1458B | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 6/4/2025 | PDP0584A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 3.00 |
+| 6/3/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/21/2025 | PDP3696A | 2025 Explosive Disposal Unit (MEDU) Trng | Passed | 0.0 | 9.00 |
 | 5/21/2025 | PDP3696A | 2025 Explosive Disposal Unit (MEDU) Trng | Instructed | 0.0 | 9.00 |
 | 5/14/2025 | PDP0891B | 2025 EDU (MEDU) Weekly Training | Passed | 0.0 | 9.00 |
@@ -50,6 +51,7 @@
 | 4/23/2025 | PDP1681A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/16/2025 | PDP3486A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 4/10/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/9/2025 | PDP1768A | 2025 Explosive Disposal Unit (MEDU) Trng | Passed | 0.0 | 9.00 |
 | 4/9/2025 | PDP1768A | 2025 Explosive Disposal Unit (MEDU) Trng | Instructed | 0.0 | 9.00 |
 | 4/2/2025 | PDP3737A | 2025 Explosive Disposal Unit (MEDU) Weekly | Instructed | 0.0 | 9.00 |

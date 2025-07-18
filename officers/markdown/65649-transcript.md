@@ -29,13 +29,31 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/26/2025 | PDP0323B | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 6/25/2025 | PDP0131A | RegJIN RMS/MRE Training Roster | Passed | 0.0 | 14.00 |
 | 6/24/2025 | PDP1046A | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
+| 6/10/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 5/26/2025 | PDP0621B | AA 2025 Responding to a Mental Health Facility | Passed | 0.0 | 0.25 |
 | 5/20/2025 | PDP4322A | 2025 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 4/9/2025 | PDP3190A | FTEP Orientation | Passed | 0.0 | 5.00 |
+| 4/9/2025 | PDP3135B | AA 2025 Building Police Legitimacy through PJ | Passed | 0.0 | 0.25 |
+| 4/9/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 4/9/2025 | PDP0998B | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 4/9/2025 | PDP2699B | AA 2025 Project Respond | Passed | 0.0 | 0.25 |
 | 4/7/2025 | PDP2858B | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 4/7/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 4/1/2025 | PDP3586A | Hazmat/WMD Awareness/Gas Mask | Passed | 0.0 | 3.00 |
+| 4/1/2025 | PDP0077B | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 4/1/2025 | PDP3741B | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 4/1/2025 | PDP4484B | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 4/1/2025 | PDP3157B | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 4/1/2025 | PDP2527B | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 4/1/2025 | PDP4567B | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 4/1/2025 | PDP4367B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 4/1/2025 | PDP4223B | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 4/1/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/1/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/1/2025 | PDP4160B | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 3/31/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP1170A | 2021 In-Service Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP3301A | 2021 In-Service Procedural Justice | Passed | 0.0 | 0.75 |

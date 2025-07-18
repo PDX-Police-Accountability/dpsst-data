@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/10/2025 | PDP2762A | FTEP Orientation | Instructed | 0.0 | 5.00 |
+| 4/23/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/22/2025 | PDP0241A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/26/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/26/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

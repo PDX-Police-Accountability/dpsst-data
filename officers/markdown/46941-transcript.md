@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/29/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/19/2025 | PDP4510B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 6/4/2025 | PDP4290A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.25 |
 | 5/28/2025 | PDP3414A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
@@ -52,6 +53,10 @@
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/16/2025 | PDP0667A | 2025 K-9 Weekly Training | Passed | 0.0 | 2.00 |
 | 4/9/2025 | PDP2033A | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
+| 4/6/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/6/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/6/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/6/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/2/2025 | PDP3659A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 3/12/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/12/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -35,7 +35,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/29/2025 | PDP4038B | 2025 AR-15 Instructor In-Service Training (1-Day) | Passed | 0.0 | 9.00 |
+| 4/29/2025 | PDP0022B | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
+| 4/28/2025 | PDP1811B | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 4/21/2025 | PDP1889B | 2020 Trng Managing Critical Incidents (05/2020) | Passed | 0.0 | 0.25 |
+| 4/21/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/21/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/21/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/21/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/18/2025 | PDP3328A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/30/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 1/15/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |

@@ -29,6 +29,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/23/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 5/26/2025 | PDP0621B | AA 2025 Responding to a Mental Health Facility | Passed | 0.0 | 0.25 |
+| 4/23/2025 | PDP3135B | AA 2025 Building Police Legitimacy through PJ | Passed | 0.0 | 0.25 |
+| 4/23/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP0998B | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP2699B | AA 2025 Project Respond | Passed | 0.0 | 0.25 |
 | 3/29/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/29/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/29/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |

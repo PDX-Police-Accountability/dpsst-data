@@ -30,6 +30,54 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/12/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/7/2025
+  course: PDP0160B
+  title: 2025 IS PVO Stop Stick
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 5/7/2025
+  course: PDP1554B
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/7/2025
+  course: PDP3284B
+  title: 2025 IS - Axon Annual Operator Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/25/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/25/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/11/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2025
+  course: PDP4497B
+  title: HRAR 2.04 Gender Identity Nondiscrimination Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/9/2025
   course: PDP4294A
   title: 2025-1 Advanced Academy Patrol Procedures

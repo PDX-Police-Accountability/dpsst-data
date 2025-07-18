@@ -41,7 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2025 | MMP4209B | Firearms Qualification | Passed | 0.0 | 3.00 |
 | 5/2/2025 | DAA0744A | Polk County Child Abuse MDT - Spring 2025 Training | Passed | 0.0 | 7.00 |
+| 2/11/2025 | MMP0495B | Low Light Firearms Training | Passed | 0.0 | 3.00 |
 | 12/12/2024 | MMP3036A | MILO | Passed | 0.0 | 1.00 |
 | 12/11/2024 | MMP3701A | Calibre Press Roll Call Training | Passed | 0.0 | 0.50 |
 | 11/26/2024 | MMP2028A | Calibre Press Online Training Videos, Jun-Nov | Passed | 0.0 | 1.75 |

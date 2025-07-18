@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/9/2025 | PDP4294A | 2025-1 Advanced Academy Patrol Procedures | Passed | 0.0 | 103.75 |

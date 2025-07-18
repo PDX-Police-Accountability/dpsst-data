@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 4/26/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/26/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/26/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/13/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 3/10/2025 | VND2033A | Search Warrants, Not as Painful as you Think | Passed | 0.0 | 7.00 |
 | 3/2/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 3/2/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

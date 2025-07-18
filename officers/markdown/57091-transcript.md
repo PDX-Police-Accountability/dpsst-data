@@ -36,9 +36,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Instructed | 0.0 | 23.00 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Passed | 0.0 | 10.00 |
 | 4/22/2025 | PDP0241A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/2/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/2/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP1687A | FTEP Post Basic Control Tactics | Instructed | 0.0 | 4.00 |
 | 3/26/2025 | PDP3746A | FTEP Post Basic Firearms | Instructed | 0.0 | 23.00 |
 | 3/26/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

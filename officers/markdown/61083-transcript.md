@@ -31,8 +31,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/10/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/28/2025 | PDP0081A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/28/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/22/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/22/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/14/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/9/2025 | BVP3619B | 2025 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/9/2025 | PDP2783A | 2025 OR Police Canine Assocation Spring Seminar | Passed | 0.0 | 24.00 |
 | 3/19/2025 | PDP2959A | K-9 Weekly Training | Passed | 0.0 | 5.00 |

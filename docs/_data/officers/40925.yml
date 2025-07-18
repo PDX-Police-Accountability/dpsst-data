@@ -50,12 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2025
+  course: PDP0160B
+  title: 2025 IS PVO Stop Stick
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 5/22/2025
+  course: PDP3284B
+  title: 2025 IS - Axon Annual Operator Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 5/16/2025
+  course: PDP1554B
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/9/2025
   course: PDP3805B
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/9/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/25/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

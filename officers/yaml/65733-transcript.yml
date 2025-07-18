@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/29/2025
+  course: PDP4497B
+  title: HRAR 2.04 Gender Identity Nondiscrimination Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/25/2025
   course: PDP0131A
   title: RegJIN RMS/MRE Training Roster
@@ -42,6 +48,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/17/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/1/2025
+  course: PDP0621B
+  title: AA 2025 Responding to a Mental Health Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/20/2025
   course: PDP4322A
   title: 2025 Body Worn Camera Training
@@ -54,6 +72,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 4/9/2025
+  course: PDP3135B
+  title: AA 2025 Building Police Legitimacy through PJ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP2795B
+  title: AA 2025 Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP0998B
+  title: AA 2025 Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP2699B
+  title: AA 2025 Project Respond
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/7/2025
   course: PDP2858B
   title: Post Basic CEW

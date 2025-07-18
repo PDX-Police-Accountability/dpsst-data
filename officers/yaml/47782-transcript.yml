@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/19/2025
   course: PDP2200A
   title: Senior Management Institute for Police
@@ -82,6 +88,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '120.00'
+- date: 4/28/2025
+  course: PDP0215B
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/28/2025
+  course: PDP0399B
+  title: SOP 14-1 Safety Procedures for the Trng Complex
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/3/2025
   course: PDP1530A
   title: CPR/First Aid

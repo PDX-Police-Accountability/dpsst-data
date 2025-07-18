@@ -38,7 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/27/2025 | PDP3009A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/18/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/18/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/4/2025 | PDP2602B | 2025 DRE/DUII Conference | Passed | 0.0 | 22.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |

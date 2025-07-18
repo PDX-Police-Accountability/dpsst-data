@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/7/2025
   course: PDP2705A
   title: 2025 EAP Annual Member Training
@@ -98,6 +104,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/8/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/8/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/25/2025
   course: PDP2645A
   title: 2025-2 City Att Legal Updates Dec 2023-Feb 2024

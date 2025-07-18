@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/16/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/21/2025
   course: PDP3434B
   title: Coordinated Response to Sideshow Enforcement
@@ -87,12 +99,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/4/2025
+  course: PDP1811B
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/1/2025
   course: PDP2312B
   title: 2025 NAMOA Annual Motors Conference
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/23/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/22/2025
   course: PDP0241A
   title: CPR/First Aid

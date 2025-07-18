@@ -62,6 +62,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 6/25/2025
+  course: TAP4457B
+  title: Take Home Cars Vehicle Use Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/9/2025
+  course: TAP3943B
+  title: Mufflin Police Department Ohio Shooting video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/5/2025
   course: MFS2947A
   title: SFST Refresher
@@ -86,6 +98,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/28/2025
+  course: TAP4204B
+  title: Barnes v Felix Supreme Court Decision and Video
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/16/2025
   course: TAP1971B
   title: Defensive Tactics Review of DT Policy DT Videos

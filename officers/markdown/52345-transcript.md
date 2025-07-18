@@ -37,9 +37,16 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/18/2025 | BPT1843A | Operational Peer Support Symposium | Passed | 0.0 | 8.00 |
 | 6/18/2025 | PDP3174B | Operational Peer Support Symposium | Passed | 0.0 | 9.00 |
+| 6/9/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 5/14/2025 | PDP0215B | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 5/14/2025 | PDP0399B | SOP 14-1 Safety Procedures for the Trng Complex | Passed | 0.0 | 0.25 |
 | 5/9/2025 | PDP2303A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/8/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 5/8/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 5/7/2025 | PDP2705A | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
+| 4/29/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/7/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 3/18/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/17/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

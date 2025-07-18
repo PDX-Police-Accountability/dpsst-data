@@ -36,7 +36,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
+| 6/11/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 5/23/2025 | PDP3092B | 2025 IS Taser Training (Video) | Passed | 0.0 | 0.50 |
 | 4/24/2025 | PDP3254A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/22/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/4/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/4/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/21/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/21/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2909A | Motorola License Plate Recognition | Passed | 0.0 | 4.00 |

@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 5/5/2025
+  course: PDP0687B
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/16/2023
   course: PDP1483A
   title: ICS 100 Intro to Incident Command System

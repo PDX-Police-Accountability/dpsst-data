@@ -34,7 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/8/2025 | PDP3105A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/8/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/24/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/26/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/26/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
@@ -56,6 +58,7 @@
 | 1/13/2025 | PDP2390A | 2025 Training Red Dot Optic Transition Course | Passed | 0.0 | 25.00 |
 | 1/13/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/10/2025 | PDP1541A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
+| 1/10/2025 | PDP2234B | 2025 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 36.00 |
 | 12/18/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/28/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |

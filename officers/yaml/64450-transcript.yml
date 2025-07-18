@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/27/2025
   course: PDP2273A
   title: 2025-1 Range Qualification CEW

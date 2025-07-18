@@ -38,12 +38,17 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/25/2025 | PDP2548A | Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 6/9/2025 | PDP3680A | Post Basic CEW | Instructed | 0.0 | 9.00 |
+| 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/2/2025 | PDP1851B | 2025 AR-15 Instructor In-Service Training (1-Day) | Instructed | 0.0 | 9.00 |
 | 5/29/2025 | PDP4038B | 2025 AR-15 Instructor In-Service Training (1-Day) | Instructed | 0.0 | 9.00 |
 | 5/16/2025 | PDP2020A | 2025 Satellite AR-15 Instructor Course | Passed | 0.0 | 45.00 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 5/8/2025 | PDP2868A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/7/2025 | PDP1629A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/7/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/18/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/18/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/18/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/7/2025 | PDP2858B | Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 3/12/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2504A | 2025 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
@@ -62,6 +67,7 @@
 | 1/30/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/15/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 1/10/2025 | PDP1541A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
+| 1/10/2025 | PDP2234B | 2025 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 36.00 |
 | 12/13/2024 | PDP0679A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 11/27/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 11/27/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

@@ -31,6 +31,20 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/26/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/15/2025 | 25-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
+| 6/27/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 4/20/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 4/20/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 4/20/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 4/19/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/19/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 4/19/2025 | PDP4367B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 4/19/2025 | PDP4223B | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 4/19/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/19/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/19/2025 | PDP0998B | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 4/19/2025 | PDP2699B | AA 2025 Project Respond | Passed | 0.0 | 0.25 |
+| 4/19/2025 | PDP1882B | DIR 0640.37, Communication with Persons | Passed | 0.0 | 0.25 |
+| 4/19/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 4/9/2025 | PDP4294A | 2025-1 Advanced Academy Patrol Procedures | Passed | 0.0 | 103.75 |
 | 4/6/2025 | PDP3444A | 2025-1 Advanced Academy PVO | Passed | 0.0 | 59.00 |
 | 4/1/2025 | PDP3370A | 2025-1 Advanced Academy Law | Passed | 0.0 | 27.50 |

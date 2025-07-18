@@ -37,9 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 5/8/2025 | PDP2868A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/6/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/18/2025 | GSP1958B | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 4/18/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/18/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/16/2025 | GSP1366B | SWAT Firearms Range | Passed | 0.0 | 10.00 |
+| 4/15/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 3/21/2025 | GSP0066A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 3/21/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/20/2025 | GSP3207A | Controlled Swarming/IP Decision Making | Passed | 0.0 | 10.00 |

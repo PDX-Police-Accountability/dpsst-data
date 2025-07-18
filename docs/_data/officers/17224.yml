@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/15/2025
+  course: HSU1592B
+  title: 'Into Action: Inclusion and Respect/ Leading DEIB'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/11/2025
   course: HSU3590A
   title: 40 mm Operator Course

@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/7/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/11/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/1/2025
   course: PDP2273A
   title: 2025-1 Range Qualification CEW
@@ -62,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/11/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/11/2025
+  course: PDP0160B
+  title: 2025 IS PVO Stop Stick
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/8/2025
   course: PDP2422A
   title: CPR/First Aid

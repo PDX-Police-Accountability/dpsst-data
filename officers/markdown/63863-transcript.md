@@ -35,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/5/2025 | PDP1044A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
+| 6/12/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 3/13/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/12/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/12/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

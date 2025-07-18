@@ -165,7 +165,6 @@
 | 7/31/2020 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2020 | F6D35246 | Bolo Wrap Familiarization | Passed | 0.0 | 0.50 |
 | 7/31/2020 | F6D36424 | Daigle Law Group Old is New, New is Broken | Passed | 0.0 | 1.00 |
-| 7/15/2020 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 7/10/2020 | F6D24106 | Implied Consent Update July 2020 | Passed | 0.0 | 1.00 |
 | 7/1/2020 | F6D41275 | Contact and Cover - Get Real | Passed | 0.0 | 1.00 |
 | 6/17/2020 | F6D39687 | OSP Swat IP Firearms | Passed | 0.0 | 5.50 |

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/26/2025
+  course: PDP0323B
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/25/2025
   course: PDP0131A
   title: RegJIN RMS/MRE Training Roster
@@ -42,6 +48,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/10/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/26/2025
+  course: PDP0621B
+  title: AA 2025 Responding to a Mental Health Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/20/2025
   course: PDP4322A
   title: 2025 Body Worn Camera Training
@@ -54,6 +72,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 4/9/2025
+  course: PDP3135B
+  title: AA 2025 Building Police Legitimacy through PJ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP2795B
+  title: AA 2025 Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP0998B
+  title: AA 2025 Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP2699B
+  title: AA 2025 Project Respond
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/7/2025
   course: PDP2858B
   title: Post Basic CEW
@@ -72,6 +114,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/1/2025
+  course: PDP0077B
+  title: 2023-4 CAO Legal Updates for 04/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2025
+  course: PDP3741B
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2025
+  course: PDP4484B
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2025
+  course: PDP3157B
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2025
+  course: PDP2527B
+  title: 2024-7 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2025
+  course: PDP4567B
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/1/2025
+  course: PDP4367B
+  title: 2025-1 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/1/2025
+  course: PDP4223B
+  title: 2025-1 CAO Legal Updates for 09  10/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/1/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/1/2025
+  course: PDP4160B
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/31/2025
   course: PDP0222A
   title: 2024 Deflection Center Video for Law Enforcement

@@ -35,10 +35,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
+| 6/14/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/9/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 5/16/2025 | LOP0010A | 2025 Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 5/10/2025 | PDP0279B | Red Door Project The Evolve Mindset Workshop | Passed | 0.0 | 12.00 |
 | 4/20/2025 | PDP4220A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/20/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/18/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/18/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/18/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/7/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/25/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/25/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

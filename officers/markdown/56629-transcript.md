@@ -34,15 +34,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 7/2/2025 | PDP3360A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 6/11/2025 | PDP1458B | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 6/4/2025 | PDP0584A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 6/3/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/21/2025 | PDP3696A | 2025 Explosive Disposal Unit (MEDU) Trng | Passed | 0.0 | 9.00 |
+| 5/20/2025 | PDP1889B | 2020 Trng Managing Critical Incidents (05/2020) | Passed | 0.0 | 0.25 |
+| 5/20/2025 | PDP1811B | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 5/20/2025 | PDP0022B | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
 | 5/3/2025 | PDP3098A | FETT Tact Breacher Cert Basic/Interm | Passed | 0.0 | 48.00 |
 | 4/24/2025 | PDP3632B | FBI Intermediate IED Electronics Course | Passed | 0.0 | 24.00 |
+| 4/17/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/16/2025 | PDP3486A | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 4/9/2025 | PDP1768A | 2025 Explosive Disposal Unit (MEDU) Trng | Passed | 0.0 | 9.00 |
+| 4/7/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/7/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/2/2025 | PDP3737A | 2025 Explosive Disposal Unit (MEDU) Weekly | Passed | 0.0 | 9.00 |
 | 3/27/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/26/2025 | PDP3889A | EDU Sustainment Training | Passed | 0.0 | 9.00 |

@@ -40,6 +40,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/24/2025 | PDP3796A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/11/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/27/2025 | PDP1460A | 2020 Training Managing Crit Incid Well: Sgts Role | Passed | 0.0 | 0.25 |
 | 3/27/2025 | PDP3225A | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.00 |
 | 3/27/2025 | PDP1963A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

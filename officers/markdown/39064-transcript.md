@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/2/2025 | TDP2202A | Supervisor Liability for Law Enforcement | Passed | 0.0 | 8.00 |
+| 5/31/2025 | TDP1065B | Shatterball Use | Passed | 0.0 | 0.50 |
 | 5/20/2025 | TDP1963A | First Aid/CPR | Passed | 0.0 | 3.00 |
 | 5/12/2025 | TDP3956A | Spring Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 4/30/2025 | TDP1661A | Pursuit policy review, stop stick and piranha | Passed | 0.0 | 0.50 |

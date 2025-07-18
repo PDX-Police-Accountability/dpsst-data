@@ -38,6 +38,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/14/2025
+  course: 25-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/26/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/9/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/20/2025
   course: PDP0341A
   title: 2025 Traffic Spring Motor Qual
@@ -62,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/6/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/4/2025
   course: REG3644B
   title: 2025 DUII Multi-Disciplinary Training Conference

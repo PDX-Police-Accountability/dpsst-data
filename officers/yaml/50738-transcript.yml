@@ -68,12 +68,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/18/2025
   course: BPT1843A
   title: Operational Peer Support Symposium
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/17/2025
+  course: PDP2071B
+  title: 2024-4 CAO Legal Updates for 04/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/17/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/17/2025
+  course: PDP3327B
+  title: 2025 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/17/2025
+  course: PDP3457B
+  title: OSU Modified Duty and Cold Call-Taking Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/15/2025
   course: PDP3399A
   title: 2025 SERT Training - Scenario
@@ -98,6 +128,222 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/15/2025
+  course: PDP3487B
+  title: 2024-3 IS PP Shooting at Moving Vehicle Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 4/15/2025
+  course: PDP0552B
+  title: 2024-3 IS PP Shooting at Moving Vehicles Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 4/15/2025
+  course: PDP3685B
+  title: 2024-3 IS MFF Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/14/2025
+  course: PDP3831B
+  title: 2024-3 IS ABLE Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/10/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/10/2025
+  course: PDP4143B
+  title: 2024-3 IS Air Purifying Respirator (APR) Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/10/2025
+  course: PDP1530B
+  title: 2024-3 IS Legal Updates Use of Force Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 4/10/2025
+  course: PDP3451B
+  title: 2024-3 IS Legal Updates Use of Force Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 4/10/2025
+  course: PDP0841B
+  title: 2024-3 IS MFF Baton  OC Spray Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/9/2025
+  course: PDP3157B
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP0077B
+  title: 2023-4 CAO Legal Updates for 04/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP4570B
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/9/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/8/2025
+  course: PDP2527B
+  title: 2024-7 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/8/2025
+  course: PDP4367B
+  title: 2025-1 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/8/2025
+  course: PDP4497B
+  title: HRAR 2.04 Gender Identity Nondiscrimination Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/7/2025
+  course: PDP1650B
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/7/2025
+  course: PDP4223B
+  title: 2025-1 CAO Legal Updates for 09  10/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/7/2025
+  course: PDP1045B
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/7/2025
+  course: PDP4160B
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2025
+  course: PDP3305B
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2025
+  course: PDP0461B
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2025
+  course: PDP0215B
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2025
+  course: PDP2948B
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2025
+  course: PDP4567B
+  title: 2024-9 CAO Legal Updates for 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/3/2025
+  course: PDP0638B
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2025
+  course: PDP2015B
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2025
+  course: PDP4578B
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2025
+  course: PDP3753B
+  title: 2024 ECIT Recording Define the Event
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/2/2025
+  course: PDP1198B
+  title: 2024 ECIT Recording Themes and Values
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/2/2025
+  course: PDP1209B
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2025
+  course: PDP1882B
+  title: DIR 0640.37, Communication with Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2025
+  course: PDP2342B
+  title: DIR 0910.00 Update De Minimis Force 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2025
+  course: PDP0399B
+  title: SOP 14-1 Safety Procedures for the Trng Complex
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/19/2024
   course: PDP1929A
   title: 2024 SERT Training (RILEA) - SCENARIO

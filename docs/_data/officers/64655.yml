@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 6/12/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/5/2025
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)
@@ -42,12 +48,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/7/2025
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
+- date: 4/14/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
   status: Passed
   score: '0.0'
-  hours: '1.00'
+  hours: '0.25'
+- date: 4/14/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/10/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/9/2025
   course: PDP4294A
   title: 2025-1 Advanced Academy Patrol Procedures

@@ -51,6 +51,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/3/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/23/2025
+  course: PDP3425B
+  title: 2021 PIO Twitter Basics
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/23/2025
+  course: PDP1856B
+  title: 2021 PIO Photos for Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/31/2025
   course: PDP4118A
   title: Force Science Analyst Certification Course

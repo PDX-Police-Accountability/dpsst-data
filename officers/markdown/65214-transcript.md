@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/20/2025 | PDP2822B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/9/2025 | PDP4294A | 2025-1 Advanced Academy Patrol Procedures | Passed | 0.0 | 103.75 |
 | 4/6/2025 | PDP3444A | 2025-1 Advanced Academy PVO | Passed | 0.0 | 59.00 |

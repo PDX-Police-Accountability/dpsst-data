@@ -30,7 +30,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
+| 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 4/20/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/9/2025 | PDP4294A | 2025-1 Advanced Academy Patrol Procedures | Passed | 0.0 | 103.75 |
 | 4/6/2025 | PDP3444A | 2025-1 Advanced Academy PVO | Passed | 0.0 | 59.00 |
 | 4/1/2025 | PDP1673A | 2025-1 Advanced Academy Equity | Passed | 0.0 | 29.00 |

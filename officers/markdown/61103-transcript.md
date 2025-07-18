@@ -33,10 +33,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
+| 6/14/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP3414A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 5/16/2025 | PDP2020A | 2025 Satellite AR-15 Instructor Course | Passed | 0.0 | 45.00 |
 | 4/28/2025 | PDP0081A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/16/2025 | PDP0667A | 2025 K-9 Weekly Training | Passed | 0.0 | 6.00 |
+| 4/12/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/9/2025 | BVP3619B | 2025 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/9/2025 | PDP2783A | 2025 OR Police Canine Assocation Spring Seminar | Passed | 0.0 | 24.00 |
 | 3/24/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

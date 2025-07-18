@@ -39,10 +39,14 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/25/2026 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 7/3/2025 | PDP0568A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 6/30/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 6/19/2025 | PDP0430A | 2025 SERT Training - ITERATION | Passed | 0.0 | 5.00 |
+| 6/9/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/29/2025 | PDP3760A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/14/2025 | PDP2572B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/13/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
+| 4/14/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/31/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |

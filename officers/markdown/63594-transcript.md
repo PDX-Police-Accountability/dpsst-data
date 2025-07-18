@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/6/2025 | PDP3571A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
@@ -48,6 +49,7 @@
 | 1/15/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 1/15/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/10/2025 | PDP1541A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
+| 1/10/2025 | PDP2234B | 2025 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 36.00 |
 | 12/15/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/4/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 12/3/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |

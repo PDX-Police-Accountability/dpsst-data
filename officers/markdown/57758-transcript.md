@@ -36,6 +36,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2025 | PDP4567B | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 6/17/2025 | PDP4367B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 6/17/2025 | PDP4223B | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 6/10/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/9/2025 | PDP2015B | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 6/9/2025 | PDP2071B | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
+| 6/9/2025 | PDP2164B | 2024-3 IS CAO Legal Updates: Supplemental Trng | Passed | 0.0 | 0.25 |
+| 6/9/2025 | PDP3157B | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 6/9/2025 | PDP0077B | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 6/9/2025 | PDP2527B | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 5/23/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/23/2024 | PDP2586A | 2024-2 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 5/23/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

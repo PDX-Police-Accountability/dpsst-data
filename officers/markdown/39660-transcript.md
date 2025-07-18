@@ -36,12 +36,14 @@
 | 6/19/2025 | PDP4510B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 6/11/2025 | PDP0749B | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 6/4/2025 | PDP4290A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.25 |
+| 6/3/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP3414A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 5/15/2025 | PDP0446A | 2025 K-9 Weekly Training: | Passed | 0.0 | 5.00 |
 | 5/8/2025 | PDP2799B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/24/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
+| 4/15/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/9/2025 | PDP2033A | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 4/9/2025 | PDP2033A | 2025 K-9 Weekly Training | Instructed | 0.0 | 3.00 |
 | 4/2/2025 | PDP3659A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 6/1/2025
+  course: PDP2342B
+  title: DIR 0910.00 Update De Minimis Force 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/25/2025
   course: PDP1759A
   title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
@@ -78,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 4/28/2025
+  course: PDP3818B
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR

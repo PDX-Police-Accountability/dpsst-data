@@ -46,8 +46,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/29/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/19/2025 | PDP2200A | Senior Management Institute for Police | Passed | 0.0 | 120.00 |
 | 6/19/2025 | PDP4390A | Senior Management Institute for Police | Passed | 0.0 | 120.00 |
+| 4/28/2025 | PDP0215B | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
+| 4/28/2025 | PDP0399B | SOP 14-1 Safety Procedures for the Trng Complex | Passed | 0.0 | 0.25 |
 | 4/3/2025 | PDP1530A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
 | 3/31/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

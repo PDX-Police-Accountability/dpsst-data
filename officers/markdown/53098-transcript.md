@@ -42,13 +42,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 6/2/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 6/2/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 5/27/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
 | 5/10/2025 | PDP0279B | Red Door Project The Evolve Mindset Workshop | Passed | 0.0 | 12.00 |
 | 4/25/2025 | PDP4270A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Passed | 0.0 | 10.00 |
 | 4/23/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
 | 4/21/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |
+| 4/16/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/13/2025 | PDP4334A | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
+| 4/10/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/10/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
 | 3/26/2025 | REG1852B | SFST Instruction Hours - Basic Police | Instructed | 0.0 | 8.00 |

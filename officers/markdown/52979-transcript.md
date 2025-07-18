@@ -33,9 +33,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/10/2025 | OCS2107B | FBI CAST Basic | Passed | 0.0 | 16.00 |
+| 6/10/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/6/2025 | PDP0920B | 2025 AR-15 Instructor In-Service Training (1-Day) | Passed | 0.0 | 9.00 |
 | 5/6/2025 | PDP2669A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/16/2025 | PDP0667A | 2025 K-9 Weekly Training | Passed | 0.0 | 6.00 |
+| 4/15/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/4/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 4/4/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 4/4/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

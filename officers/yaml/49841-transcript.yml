@@ -50,12 +50,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/7/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/3/2025
   course: PDP0568A
   title: 2025 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/30/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/27/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/19/2025
   course: PDP0430A
   title: 2025 SERT Training - ITERATION
@@ -110,6 +128,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/18/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/18/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/17/2025
   course: PDP1871A
   title: 2025 SERT Training - Firearms
@@ -122,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/16/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/28/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

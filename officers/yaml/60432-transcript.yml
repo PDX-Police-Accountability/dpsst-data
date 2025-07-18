@@ -31,12 +31,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/7/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/28/2025
   course: PDP0081A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/27/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/4/2025
   course: REG3644B
   title: 2025 DUII Multi-Disciplinary Training Conference

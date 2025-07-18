@@ -33,7 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/14/2025 | PDP2572B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/13/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/9/2025 | BVP3619B | 2025 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/9/2025 | PDP3197B | 2025 OR Police Canine Association Spring Seminar | Passed | 0.0 | 24.00 |
 | 3/25/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |

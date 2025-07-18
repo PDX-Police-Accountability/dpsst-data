@@ -34,9 +34,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2025 | PDP1889B | 2020 Trng Managing Critical Incidents (05/2020) | Passed | 0.0 | 0.25 |
+| 6/28/2025 | PDP1811B | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 6/13/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/16/2025 | PDP2020A | 2025 Satellite AR-15 Instructor Course | Passed | 0.0 | 45.00 |
 | 5/2/2025 | PDP0322A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/2/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/23/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/23/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 4/17/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 3/29/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/20/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |

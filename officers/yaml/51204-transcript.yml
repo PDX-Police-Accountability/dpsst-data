@@ -49,12 +49,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/14/2025
+  course: 25-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/15/2025
+  course: PDP0022B
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/14/2025
+  course: PDP1889B
+  title: 2020 Trng Managing Critical Incidents (05/2020)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/14/2025
+  course: PDP1811B
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/12/2025
   course: PDP0159B
   title: 2025 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/10/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/6/2025
   course: PDP4532A
   title: 2025 SERT Training - SCENARIO
@@ -91,12 +121,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/23/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/17/2025
   course: PDP1871A
   title: 2025 SERT Training - Firearms
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/15/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/14/2025
   course: PDP3467A
   title: CPR/First Aid

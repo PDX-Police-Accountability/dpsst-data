@@ -69,6 +69,30 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 6/30/2025
+  course: PDP0259B
+  title: 2024-10 CAO Legal Updates for 07  08/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/12/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/28/2025
+  course: PDP0215B
+  title: 2024 Safe Training Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/28/2025
+  course: PDP0399B
+  title: SOP 14-1 Safety Procedures for the Trng Complex
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/24/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

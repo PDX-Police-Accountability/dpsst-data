@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/11/2025 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 10/17/2019 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 6/13/2018 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 12/1/2016 | Portland Police Bureau | Hired | Sergeant |  |  |
@@ -21,8 +22,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/7/2020 | Instructor |  | Granted | 2/7/2020 |  |  |
-| 9/13/2018 | Police Officer | Basic | Lapsed | 1/24/1991 |  |  |
+| 6/11/2025 | Instructor |  | Expired | 2/7/2020 |  |  |
+| 6/13/2023 | Police Officer | Basic | Expired | 1/24/1991 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

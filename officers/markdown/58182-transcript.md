@@ -35,6 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
+| 6/28/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 6/28/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 6/28/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/20/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 6/19/2025 | PDP4510B | 2025 K-9 Weekly Training | Instructed | 0.0 | 5.00 |
 | 6/19/2025 | PDP4510B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 5/28/2025 | PDP3414A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
@@ -43,7 +48,11 @@
 | 5/8/2025 | PDP2799B | 2025 K-9 Weekly Training | Instructed | 0.0 | 5.00 |
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/24/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
+| 4/18/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/16/2025 | PDP0667A | 2025 K-9 Weekly Training | Passed | 0.0 | 6.00 |
+| 4/11/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/11/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/11/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/9/2025 | BVP3619B | 2025 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/9/2025 | PDP2783A | 2025 OR Police Canine Assocation Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/2/2025 | PDP3659A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

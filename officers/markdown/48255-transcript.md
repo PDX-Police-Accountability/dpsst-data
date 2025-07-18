@@ -38,14 +38,21 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/3/2025 | PDP0568A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 6/28/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 6/28/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 6/27/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 6/19/2025 | PDP0202A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/19/2025 | PDP1064A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 6/19/2025 | PDP0430A | 2025 SERT Training - ITERATION | Passed | 0.0 | 5.00 |
+| 6/18/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/29/2025 | PDP3760A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/22/2025 | PDP0593A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/25/2025 | PDP3436A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/17/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/17/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/17/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/23/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/13/2025 | PDP1867A | 2025 SERT Breacher In-Service | Passed | 0.0 | 27.00 |

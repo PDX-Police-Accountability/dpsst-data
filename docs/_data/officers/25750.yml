@@ -113,13 +113,13 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 6/25/2025
-  course: REG0618B
+  course: BPT4299B
   title: Scenario Overview
   status: Instructed
   score: '0.0'
   hours: '1.00'
 - date: 6/24/2025
-  course: REG0731A
+  course: BPT3565B
   title: Blood Borne Pathogens  Concussion Overview
   status: Passed
   score: '0.0'

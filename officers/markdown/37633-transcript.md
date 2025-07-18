@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/19/2025 | PDP4510B | 2025 K-9 Weekly Training | Instructed | 0.0 | 5.00 |
 | 6/19/2025 | PDP4510B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
+| 6/16/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/11/2025 | PDP0749B | 2025 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 5/28/2025 | PDP3414A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 5/28/2025 | PDP3414A | 2025 K-9 Weekly Training | Instructed | 0.0 | 4.00 |
@@ -48,10 +49,14 @@
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/24/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 4/24/2025 | PDP2820B | 2025 K-9 Weekly Training | Instructed | 0.0 | 5.00 |
+| 4/20/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/20/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/20/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 4/9/2025 | BVP3619B | 2025 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/9/2025 | PDP2783A | 2025 OR Police Canine Assocation Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/2/2025 | PDP3659A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 4/2/2025 | PDP3659A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
+| 4/1/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
 | 3/30/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
 | 3/27/2025 | PDP3998A | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 3/27/2025 | PDP3998A | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |

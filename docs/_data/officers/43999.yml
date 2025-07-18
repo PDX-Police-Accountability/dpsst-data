@@ -105,6 +105,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/13/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/20/2025
   course: PDP0341A
   title: 2025 Traffic Spring Motor Qual

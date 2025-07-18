@@ -34,8 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/10/2025 | PDP1940A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/10/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 5/9/2025 | PDP2545B | NWGIA Training Symposium | Passed | 0.0 | 36.00 |
 | 4/29/2025 | HBS2183A | Mobile Field Force Training | Passed | 0.0 | 9.00 |
 | 3/26/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |

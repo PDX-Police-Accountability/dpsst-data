@@ -30,7 +30,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/23/2025 | PDP0608A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/21/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 3/25/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/24/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
 | 3/23/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
@@ -47,6 +49,7 @@
 | 1/12/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 1/12/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 1/10/2025 | PDP1541A | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
+| 1/10/2025 | PDP2234B | 2025 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 36.00 |
 | 12/15/2024 | PDP3001A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/15/2024 | PDP1444A | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/15/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

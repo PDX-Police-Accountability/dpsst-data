@@ -56,6 +56,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 6/23/2025
+  course: PDP1668B
+  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/20/2025
   course: HBS2577A
   title: Def Tech Distraction Device ICP
@@ -86,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 6/10/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/30/2025
   course: OSH0042A
   title: Oregon State Police - Public Order Basic Course
@@ -110,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/14/2025
+  course: PDP3882B
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/9/2025
   course: PDP3057B
   title: NTOA Public Order Symposium

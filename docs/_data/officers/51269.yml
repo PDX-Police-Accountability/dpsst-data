@@ -38,12 +38,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/18/2025
+  course: PDP2702B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/28/2025
   course: PDP0081A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/28/2025
+  course: PDP3090B
+  title: 2024-5 Naloxone (Narcan) Admin Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/28/2025
+  course: PDP1554B
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/28/2025
+  course: PDP3334B
+  title: OSU SOP009 Appendix A. Modified Duty Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/28/2025
+  course: PDP1894B
+  title: OSU SOP009 Modified Duty SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/22/2025
+  course: PDP4404B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2025
+  course: PDP2347B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/22/2025
+  course: PDP3457B
+  title: OSU Modified Duty and Cold Call-Taking Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2025
+  course: PDP4497B
+  title: HRAR 2.04 Gender Identity Nondiscrimination Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/11/2025
   course: VND0242A
   title: Search Warrants, Not as Painful as you Think

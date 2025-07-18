@@ -29,7 +29,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/23/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/11/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 5/31/2025 | PDP3135B | AA 2025 Building Police Legitimacy through PJ | Passed | 0.0 | 0.25 |
+| 5/27/2025 | PDP0621B | AA 2025 Responding to a Mental Health Facility | Passed | 0.0 | 0.25 |
 | 4/22/2025 | PDP0621A | 2025-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
+| 4/10/2025 | PDP0998B | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP2699B | AA 2025 Project Respond | Passed | 0.0 | 0.25 |
+| 4/5/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 4/5/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 3/22/2025 | PDP3665A | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
 | 3/22/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 3/22/2025 | PDP0601A | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |

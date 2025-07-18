@@ -35,8 +35,24 @@
 | 6/10/2025 | PDP2762A | FTEP Orientation | Passed | 0.0 | 5.00 |
 | 6/9/2025 | PDP3680A | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 6/3/2025 | PDP2375A | FTEP Inroduction to Property and Evidence | Passed | 0.0 | 4.00 |
+| 5/29/2025 | PDP3305B | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 5/29/2025 | PDP0461B | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 5/29/2025 | PDP4570B | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 5/29/2025 | PDP1650B | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 5/29/2025 | PDP2948B | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 5/29/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 5/29/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 5/28/2025 | PDP3454A | TEEX WMD/Terrorism for Emerg Responders | Passed | 0.0 | 8.00 |
 | 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 23.00 |
+| 5/21/2025 | PDP1351B | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 5/21/2025 | PDP2947B | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 5/21/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 5/21/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 5/21/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 5/21/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 5/21/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
+| 5/19/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 5/19/2025 | PDP0800B | Patrol Vehicle Operations Policy | Passed | 0.0 | 0.50 |
 | 5/16/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/23/2025 | REG4039A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 4/3/2025 | REG0415A | INTOX 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |

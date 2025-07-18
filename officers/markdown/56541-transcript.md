@@ -36,6 +36,31 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | PDP4223B | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 6/24/2025 | PDP4567B | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 6/24/2025 | PDP4367B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 6/23/2025 | PDP2326B | 2021 IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 6/23/2025 | PDP3389B | 2021 IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 6/23/2025 | PDP2144B | 2021 IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 6/23/2025 | PDP1351B | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 6/23/2025 | PDP2947B | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 6/23/2025 | PDP0993B | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 6/23/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 6/23/2025 | PDP4160B | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/23/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
+| 6/18/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 6/17/2025 | PDP2841B | 2021 IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 6/17/2025 | PDP4578B | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 6/17/2025 | PDP1045B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 6/12/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/12/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 6/12/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 6/11/2025 | PDP1650B | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 6/11/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
+| 6/11/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 6/11/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 6/11/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 6/11/2025 | PDP1882B | DIR 0640.37, Communication with Persons | Passed | 0.0 | 0.25 |
 | 6/10/2025 | PDP3042A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 10/17/2024 | PDP0298A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 10/16/2024 | PDP1661A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
