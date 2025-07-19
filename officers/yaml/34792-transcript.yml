@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/11/2025
+  course: TAP4254B
+  title: Using Oleoresin Capsicum Course DTO0254
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/9/2025
   course: TAP3943B
   title: Mufflin Police Department Ohio Shooting video
@@ -104,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/21/2025
+  course: TAP3460B
+  title: Advancing Investigations with Accelerated Data
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/21/2025
+  course: TAP0445B
+  title: WLO OR Appeals May-Sept 2024 Release March 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/16/2025
   course: TAP1971B
   title: Defensive Tactics Review of DT Policy DT Videos
@@ -136,6 +154,12 @@ training_records:
   hours: '4.00'
 - date: 3/11/2025
   course: TAP1159A
+  title: DutyToInterveneWhatWeHaveLearnedSinceGeorgeFloyd
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 3/11/2025
+  course: TAP1281B
   title: DutyToInterveneWhatWeHaveLearnedSinceGeorgeFloyd
   status: Passed
   score: '0.0'

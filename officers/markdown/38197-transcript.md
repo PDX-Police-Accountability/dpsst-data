@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 7/14/2025 | PDP2451B | 2025 PPB Sergeant's Academy | Passed | 0.0 | 90.00 |
 | 6/26/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP1766A | FN 15 Rifle/Carbine Armorer Course | Passed | 0.0 | 16.00 |

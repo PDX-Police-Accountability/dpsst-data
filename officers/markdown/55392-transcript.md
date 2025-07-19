@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 7/14/2025 | PDP2451B | 2025 PPB Sergeant's Academy | Passed | 0.0 | 90.00 |
 | 6/28/2025 | PDP0168B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/28/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
 | 6/15/2025 | PDP1811B | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

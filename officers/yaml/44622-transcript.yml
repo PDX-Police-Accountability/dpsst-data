@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/16/2025
+  course: OSH0488B
+  title: Active Threat Response Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/15/2025
   course: OSH1568B
   title: Active Threat Response Refresher
@@ -74,6 +80,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 6/29/2025
+  course: OSH2216B
+  title: Vehicle Close Quarter Survival
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/6/2025
   course: OSH4351A
   title: 2nd Trimester Firearms - Rifle

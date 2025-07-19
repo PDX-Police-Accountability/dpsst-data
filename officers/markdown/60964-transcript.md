@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/8/2025 | PDP3674B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
 | 6/25/2025 | PDP2548A | Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 6/9/2025 | PDP3680A | Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |

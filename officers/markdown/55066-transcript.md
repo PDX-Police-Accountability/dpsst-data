@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/7/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
+| 6/28/2025 | PDP4013B | 2025 Critical Incident Response Training | Passed | 0.0 | 6.00 |
 | 5/10/2025 | PDP1940A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/1/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 5/1/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |

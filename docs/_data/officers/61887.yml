@@ -3,7 +3,7 @@ header_record:
   name: Pena, Camilo
   dpsst_identifier: '61887'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
@@ -13,6 +13,12 @@ employment_records:
   agency: Clackamas County Sheriff's Office
   action: Hired
   rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 7/5/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
   classification: ''
   assignment: ''
 - date: 5/13/2021

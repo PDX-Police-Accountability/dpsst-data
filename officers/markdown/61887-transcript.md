@@ -4,7 +4,7 @@
 | name | Pena, Camilo |
 | dpsst_identifier | 61887 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 7/8/2025 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |
+| 7/5/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/13/2021 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

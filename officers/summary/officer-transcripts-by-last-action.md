@@ -611,7 +611,6 @@
 | Tran, Huan | 61864 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61864-transcript.md) - [yaml](../yaml/61864-transcript.yml) |
 | Keblbek, Kylee R. | 61869 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/61869-transcript.md) - [yaml](../yaml/61869-transcript.yml) |
 | Cipriano-Guzman, David | 61886 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61886-transcript.md) - [yaml](../yaml/61886-transcript.yml) |
-| Pena, Camilo | 61887 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61887-transcript.md) - [yaml](../yaml/61887-transcript.yml) |
 | Drury, Julian M. | 61889 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-27 | [md](../markdown/61889-transcript.md) - [yaml](../yaml/61889-transcript.yml) |
 | Badri, Saud A. | 61896 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61896-transcript.md) - [yaml](../yaml/61896-transcript.yml) |
 | Pearce, Andrew B. | 61941 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-27 | [md](../markdown/61941-transcript.md) - [yaml](../yaml/61941-transcript.yml) |
@@ -1393,6 +1392,7 @@
 | Stolzenberger, Kylie F. | 61102 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-03-24 | [md](../markdown/61102-transcript.md) - [yaml](../yaml/61102-transcript.yml) |
 | Carlson, Jeremy A. | 61105 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-08-22 | [md](../markdown/61105-transcript.md) - [yaml](../yaml/61105-transcript.yml) |
 | Lyon, Aaron M. | 61858 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-03-09 | [md](../markdown/61858-transcript.md) - [yaml](../yaml/61858-transcript.yml) |
+| Pena, Camilo | 61887 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-07-05 | [md](../markdown/61887-transcript.md) - [yaml](../yaml/61887-transcript.yml) |
 | Graham, James R. | 62032 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-12-31 | [md](../markdown/62032-transcript.md) - [yaml](../yaml/62032-transcript.yml) |
 | Kaimuloa, Pono K. | 62229 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-09-25 | [md](../markdown/62229-transcript.md) - [yaml](../yaml/62229-transcript.yml) |
 | Frederick, Maimei M. | 62389 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-06-28 | [md](../markdown/62389-transcript.md) - [yaml](../yaml/62389-transcript.yml) |

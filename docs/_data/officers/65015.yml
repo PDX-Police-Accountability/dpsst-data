@@ -16,13 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 2/15/2024
+- status_date: 7/17/2025
   certificate: Police Officer
   level: Basic
-  status: Required
+  status: ReqCertExt
   certificate_date: ''
   expiration_date: ''
-  probation_date: 8/15/2025
+  probation_date: 8/15/2026
 training_records:
 - date: 8/15/2025
   course: M11-19A

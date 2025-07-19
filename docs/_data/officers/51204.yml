@@ -55,6 +55,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/14/2025
+  course: PDP2451B
+  title: 2025 PPB Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
 - date: 6/15/2025
   course: PDP0022B
   title: HR Rule 2.02, Prohibition Against Workplace Harass

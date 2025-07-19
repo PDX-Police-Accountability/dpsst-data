@@ -34,7 +34,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Code of Ethics | Signed | 7/7/2003 |  |
 ## Education
@@ -46,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/2/2025 | PDS0146A | Sergeant's Training | Passed | 0.0 | 0.50 |
 | 6/9/2025 | PDS0341A | Sergeant's Training | Passed | 0.0 | 0.50 |
 | 6/4/2025 | PDS1419A | Sergeant's Training | Passed | 0.0 | 0.50 |

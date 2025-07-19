@@ -102,7 +102,6 @@
 | 5/16/2024 | PDP1036A | 2024 Investigator In-Service Device Warrants | Passed | 0.0 | 2.00 |
 | 5/16/2024 | PDP4043A | 2024 Investigator In-Service DFU | Passed | 0.0 | 2.00 |
 | 5/16/2024 | PDP1528A | 2024 Investigator In-Service Surveillance | Passed | 0.0 | 1.00 |
-| 5/11/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 5/2/2024 | VND3509A | 2024 RISS Western Region Human Trafficking Summit | Passed | 0.0 | 28.00 |
 | 4/30/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/15/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

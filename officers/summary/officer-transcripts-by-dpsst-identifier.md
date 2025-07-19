@@ -1556,7 +1556,7 @@
 | Tran, Huan | 61864 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61864-transcript.md) - [yaml](../yaml/61864-transcript.yml) |
 | Keblbek, Kylee R. | 61869 | Portland Police Bureau | Active | Police Officer | Hired | 2024-12-05 | [md](../markdown/61869-transcript.md) - [yaml](../yaml/61869-transcript.yml) |
 | Cipriano-Guzman, David | 61886 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61886-transcript.md) - [yaml](../yaml/61886-transcript.yml) |
-| Pena, Camilo | 61887 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61887-transcript.md) - [yaml](../yaml/61887-transcript.yml) |
+| Pena, Camilo | 61887 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-07-05 | [md](../markdown/61887-transcript.md) - [yaml](../yaml/61887-transcript.yml) |
 | Drury, Julian M. | 61889 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-27 | [md](../markdown/61889-transcript.md) - [yaml](../yaml/61889-transcript.yml) |
 | Badri, Saud A. | 61896 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61896-transcript.md) - [yaml](../yaml/61896-transcript.yml) |
 | Pearce, Andrew B. | 61941 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-27 | [md](../markdown/61941-transcript.md) - [yaml](../yaml/61941-transcript.yml) |

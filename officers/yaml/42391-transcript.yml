@@ -440,12 +440,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/11/2024
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 5/2/2024
   course: VND3509A
   title: 2024 RISS Western Region Human Trafficking Summit

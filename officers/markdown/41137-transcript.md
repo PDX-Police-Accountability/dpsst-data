@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/6/2025 | PDP4343B | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
+| 7/3/2025 | PDP4343B | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 6/8/2025 | PDP3183A | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 6/3/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |

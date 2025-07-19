@@ -40,18 +40,22 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/13/2025 | TAP1935B | Sig Sauer Weapons ban and Firearms Policy Review | Passed | 0.0 | 0.75 |
 | 6/25/2025 | TAP4457B | Take Home Cars Vehicle Use Policy Review | Passed | 0.0 | 0.50 |
+| 6/11/2025 | TAP4254B | Using Oleoresin Capsicum Course DTO0254 | Passed | 0.0 | 1.00 |
 | 6/9/2025 | TAP3943B | Mufflin Police Department Ohio Shooting video | Passed | 0.0 | 1.00 |
 | 6/5/2025 | MFS2947A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 6/5/2025 | TAP1517B | JCFD3/5LawFireFamiliarizationPreSeasonFireOPS | Passed | 0.0 | 1.00 |
 | 5/30/2025 | ADP4338A | Pistol/Rifle Positional Focus | Passed | 0.0 | 4.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/28/2025 | TAP4204B | Barnes v Felix Supreme Court Decision and Video | Passed | 0.0 | 1.50 |
+| 4/21/2025 | TAP3460B | Advancing Investigations with Accelerated Data | Passed | 0.0 | 0.75 |
+| 4/21/2025 | TAP0445B | WLO OR Appeals May-Sept 2024 Release March 2025 | Passed | 0.0 | 0.50 |
 | 4/16/2025 | TAP1971B | Defensive Tactics Review of DT Policy DT Videos | Passed | 0.0 | 1.50 |
 | 4/11/2025 | EPP2801B | Taser Instructor (T10/T7) | Passed | 0.0 | 16.00 |
 | 4/9/2025 | TAP2003B | SEAL Hemostatic Wound Spray | Passed | 0.0 | 0.50 |
 | 4/8/2025 | TAP3993B | Jackson County Deflection Program | Passed | 0.0 | 1.00 |
 | 3/27/2025 | REG4010A | Emergency Vehicle Operations - Skill Refresher | Passed | 0.0 | 4.00 |
 | 3/11/2025 | TAP1159A | DutyToInterveneWhatWeHaveLearnedSinceGeorgeFloyd | Passed | 0.0 | 1.25 |
+| 3/11/2025 | TAP1281B | DutyToInterveneWhatWeHaveLearnedSinceGeorgeFloyd | Passed | 0.0 | 1.25 |
 | 2/19/2025 | TAP0901A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2025 | TAP1945A | Investigating Strangulation | Passed | 0.0 | 2.75 |
 | 1/29/2025 | TAP2415A | Investigating Strangulation | Passed | 0.0 | 2.75 |

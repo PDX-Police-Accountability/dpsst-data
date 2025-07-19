@@ -27,7 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Code of Ethics | Signed | 12/14/2001 |  |
 ## Education
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/6/2025 | PDS0870A | Taser 7 | Passed | 0.0 | 8.00 |
 | 4/13/2025 | PDS1907A | Ethics | Passed | 0.0 | 1.00 |
 | 4/13/2025 | PDS1481A | Drug ID  Recognition | Passed | 0.0 | 5.00 |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2025
+  course: PDP4013B
+  title: 2025 Critical Incident Response Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/4/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

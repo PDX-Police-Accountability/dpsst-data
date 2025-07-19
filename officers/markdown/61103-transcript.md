@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2025 | PDP3674B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
 | 7/2/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
 | 6/14/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP3414A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |

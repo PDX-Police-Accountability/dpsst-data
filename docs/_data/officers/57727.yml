@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/14/2025
+  course: PDP2451B
+  title: 2025 PPB Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
 - date: 5/14/2025
   course: PDP2572B
   title: CPR/First Aid

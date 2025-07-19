@@ -34,9 +34,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/29/2025 | 1/31/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Code of Ethics | Signed | 2/20/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/9/2025 | BNP2246B | Wildland Fire Evacuation Command | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP0826B | Policy and SOP Updates | Passed | 0.0 | 1.00 |

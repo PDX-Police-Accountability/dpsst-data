@@ -1147,7 +1147,6 @@
 | Brahy, Richard M. | 61834 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61834-transcript.md) - [yaml](../yaml/61834-transcript.yml) |
 | Tran, Huan | 61864 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61864-transcript.md) - [yaml](../yaml/61864-transcript.yml) |
 | Cipriano-Guzman, David | 61886 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61886-transcript.md) - [yaml](../yaml/61886-transcript.yml) |
-| Pena, Camilo | 61887 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61887-transcript.md) - [yaml](../yaml/61887-transcript.yml) |
 | Badri, Saud A. | 61896 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61896-transcript.md) - [yaml](../yaml/61896-transcript.yml) |
 | Reando, Jason A. | 57759 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-05-15 | [md](../markdown/57759-transcript.md) - [yaml](../yaml/57759-transcript.yml) |
 | Gonzalez, Michael B. | 57145 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-05-21 | [md](../markdown/57145-transcript.md) - [yaml](../yaml/57145-transcript.yml) |
@@ -1789,4 +1788,5 @@
 | Schultz, Alec R. | 61081 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-17 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
 | Ricks, Adam W. | 63656 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-23 | [md](../markdown/63656-transcript.md) - [yaml](../yaml/63656-transcript.yml) |
 | Birkinbine, John C. | 29351 | Portland Police Bureau | Inactive | Sergeant | Retired | 2025-06-27 | [md](../markdown/29351-transcript.md) - [yaml](../yaml/29351-transcript.yml) |
+| Pena, Camilo | 61887 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-07-05 | [md](../markdown/61887-transcript.md) - [yaml](../yaml/61887-transcript.yml) |
 | Stanley, Luke A. | 66408 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66408-transcript.md) - [yaml](../yaml/66408-transcript.yml) |
