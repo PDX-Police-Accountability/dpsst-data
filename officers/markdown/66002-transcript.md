@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Paterson, Claire A. |
+| name | Chanliongco, Claire A. |
 | dpsst_identifier | 66002 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
