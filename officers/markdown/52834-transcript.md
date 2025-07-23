@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
 | 6/26/2025 | OCA4117B | MCT Training - Case Law update / Evidence Proc. | Passed | 0.0 | 1.00 |
 | 5/15/2025 | OCS2172A | May monthly firearms | Passed | 0.0 | 1.00 |
 | 4/30/2025 | OCS1036A | WSHNA HNT Training Seminar | Passed | 0.0 | 24.00 |

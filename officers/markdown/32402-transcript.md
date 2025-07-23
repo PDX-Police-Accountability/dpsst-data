@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/20/2025 | HBS0204B | Patrol Rifle School | Passed | 0.0 | 42.00 |
+| 6/3/2025 | OCS0752B | Lock picking | Passed | 0.0 | 24.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/6/2025 | HBS3487A | InService T7 Transition Firearms Qual | Passed | 0.0 | 9.00 |
 | 5/5/2025 | HBS1053A | Axon BWC/Evidence.com | Passed | 0.0 | 1.50 |

@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/2/2025
+  course: OCS2310B
+  title: FBI LEEDA- CLI
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/28/2025
   course: OCP3795A
   title: Spring 2025 Officer In Charge Training

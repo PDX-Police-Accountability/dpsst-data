@@ -43,6 +43,7 @@
 | 5/8/2025 | HBP2079A | ODT - Patrol Tactics | Passed | 0.0 | 1.00 |
 | 5/7/2025 | HBP2066B | Emergency Aid/Exigent Entry | Passed | 0.0 | 1.00 |
 | 4/24/2025 | HBP2018A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
+| 4/24/2025 | OCS1684B | Street Survival- Calibre Press | Passed | 0.0 | 16.00 |
 | 4/2/2025 | HBP4488A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 4/2/2025 | HBP0061A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
 | 4/2/2025 | HBP4454A | Interviewing Techniques | Passed | 0.0 | 2.00 |

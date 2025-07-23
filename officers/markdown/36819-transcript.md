@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/4/2025 | Lake Oswego Police Department | Hired | Police Off |  |  |
 | 12/2/2024 | Multnomah County District Attorney | Hired | Investigtr |  |  |
 | 11/14/2024 | Portland Police Bureau | Retired | Detective |  |  |
 | 7/5/2012 | Portland Police Bureau | Promotion | Detective |  |  |

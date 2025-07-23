@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2025 | MFN1055B | Aid/Assist Wellness Court Training | Passed | 0.0 | 1.00 |
 | 7/9/2025 | MFN1075B | Government Ethics | Passed | 0.0 | 1.00 |
 | 6/25/2025 | MFN2367B | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 6/23/2025 | VND1208A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |

@@ -38,7 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/13/2025 | TAP1935B | Sig Sauer Weapons ban and Firearms Policy Review | Passed | 0.0 | 0.75 |
+| 7/13/2025 | TAP1935B | Sig Sauer Weapons Ban and Firearms Policy Review | Passed | 0.0 | 0.75 |
 | 6/25/2025 | TAP4457B | Take Home Cars Vehicle Use Policy Review | Passed | 0.0 | 0.50 |
 | 6/11/2025 | TAP4254B | Using Oleoresin Capsicum Course DTO0254 | Passed | 0.0 | 1.00 |
 | 6/9/2025 | TAP3943B | Mufflin Police Department Ohio Shooting video | Passed | 0.0 | 1.00 |

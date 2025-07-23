@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 6/20/2025
+  course: PDP1673B
+  title: IPTM Traffic Crash Reconstruction
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 5/16/2025
   course: SPP1269B
   title: Advanced Traffic Crash Investigations

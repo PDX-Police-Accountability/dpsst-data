@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/17/2025
+  course: VND3123B
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/10/2025
   course: PDP3674B
   title: 2025 AR-15 Operators In-Service Training (1-Day)

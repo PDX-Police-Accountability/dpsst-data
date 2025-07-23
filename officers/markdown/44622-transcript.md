@@ -38,7 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/16/2025 | OSH0488B | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |
-| 7/15/2025 | OSH1568B | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |
+| 7/15/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
 | 7/15/2025 | OSH0041B | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |
 | 6/29/2025 | OSH2216B | Vehicle Close Quarter Survival | Instructed | 0.0 | 16.00 |
 | 6/6/2025 | OSH4351A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
 | 5/29/2025 | OCS1793B | Surveylance | Passed | 0.0 | 24.00 |
 | 5/15/2025 | OCS0175A | 2025 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/15/2025 | OCS2172A | May monthly firearms | Passed | 0.0 | 1.00 |

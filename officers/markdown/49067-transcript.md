@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
 | 5/15/2025 | OCS2172A | May monthly firearms | Passed | 0.0 | 1.00 |
 | 5/9/2025 | OCS2721A | WV DT's | Passed | 0.0 | 1.00 |
 | 4/28/2025 | OCS0700B | 2025 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |

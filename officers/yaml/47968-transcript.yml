@@ -63,6 +63,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/2/2025
+  course: OCS2310B
+  title: FBI LEEDA- CLI
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/25/2025
   course: PDP0637A
   title: 2025 PPB Honor Guard In-Service

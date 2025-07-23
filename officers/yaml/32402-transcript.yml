@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '42.00'
+- date: 6/3/2025
+  course: OCS0752B
+  title: Lock picking
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

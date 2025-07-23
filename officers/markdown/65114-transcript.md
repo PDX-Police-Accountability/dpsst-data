@@ -22,7 +22,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 7/9/2025 | 7/9/2027 |
 | Code of Ethics | Law Enforcement Signed | 4/29/2024 |  |
-| Certification Cards | First Aid and CPR | 4/18/2024 | 4/18/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
 | 5/9/2025 | OCS2721A | WV DT's | Passed | 0.0 | 3.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |
 | 4/15/2025 | OCS0056A | Closed Guard series | Passed | 0.0 | 1.00 |

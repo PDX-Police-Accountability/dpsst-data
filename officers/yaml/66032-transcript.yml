@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 7/14/2025
+  course: PDP1206B
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/10/2025
   course: PDP0116B
   title: RegJIN RMS/MRE

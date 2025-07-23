@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2025 | GSP2630B | Gresham Police Basic Patrol K9 Handlers Academy | Passed | 0.0 | 360.00 |
+| 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
 | 5/28/2025 | OCS0644A | SWAT/K9: Building Clearing/Vehicle Deployment | Passed | 0.0 | 4.00 |
 | 5/23/2025 | OCS2313B | Clackamas County New Hire Patrol Tactics | Instructed | 0.0 | 4.00 |
 | 5/15/2025 | OCS0175A | 2025 Spring Patrol Rifle | Passed | 0.0 | 4.00 |

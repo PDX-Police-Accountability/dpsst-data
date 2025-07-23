@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/2/2025
+  course: OCS2310B
+  title: FBI LEEDA- CLI
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/10/2025
   course: PDP0279B
   title: Red Door Project The Evolve Mindset Workshop

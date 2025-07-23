@@ -43,7 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/11/2025 | WLP3355B | New Hire Firearms / RDS Transition | Passed | 0.0 | 8.00 |
+| 7/11/2025 | WLP3355B | New Hire Firearms/RDS Transition | Passed | 0.0 | 8.00 |
 | 5/15/2025 | OCS2172A | May monthly firearms | Passed | 0.0 | 1.00 |
 | 5/9/2025 | OCS1964B | May DT In-Service: Choke Defense | Passed | 0.0 | 1.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/4/2025
+  agency: Lake Oswego Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/2/2024
   agency: Multnomah County District Attorney
   action: Hired

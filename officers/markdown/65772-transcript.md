@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 7/15/2025 | PDP3628B | FTEP Orientation | Passed | 0.0 | 6.00 |
+| 7/14/2025 | PDP1206B | FTEP Geography | Passed | 0.0 | 3.00 |
 | 7/10/2025 | PDP0116B | RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 7/8/2025 | PDP1478B | FTEP Property and Evidence Introduction | Passed | 0.0 | 4.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |

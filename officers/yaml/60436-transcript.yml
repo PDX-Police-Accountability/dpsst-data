@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/17/2025
+  course: VND3123B
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/28/2025
   course: PDP1889B
   title: 2020 Trng Managing Critical Incidents (05/2020)
