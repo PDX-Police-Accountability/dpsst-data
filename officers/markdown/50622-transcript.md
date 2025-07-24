@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2025 | OCP1877B | Active Threat Response | Passed | 0.0 | 4.00 |
 | 6/4/2025 | OCP4291A | Annual Bike Training | Passed | 0.0 | 2.00 |
 | 6/2/2025 | OCP1500A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 6/2/2025 | OCS2310B | FBI LEEDA- CLI | Passed | 0.0 | 40.00 |

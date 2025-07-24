@@ -36,12 +36,6 @@ training_records:
   status: Pending
   score: '0.0'
   hours: '0.00'
-- date: 6/15/2025
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 1/31/2024
   course: PDP0044A
   title: CPR/First Aid

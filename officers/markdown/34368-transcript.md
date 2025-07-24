@@ -50,7 +50,7 @@
 | 6/30/2025 | BNP4220A | Fire Exstinguisher | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP1208A | Force Response Annual Bend PD Report | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP4306A | Karly's Law | Passed | 0.0 | 0.50 |
-| 6/30/2025 | BNP1750A | Legal Updates | Passed | 0.0 | 1.00 |
+| 6/30/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP1554A | Restraining People Having MBE's | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP1851A | Narcan | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP4357A | OSHA Hearing Protection Training | Passed | 0.0 | 0.50 |

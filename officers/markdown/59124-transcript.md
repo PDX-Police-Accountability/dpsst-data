@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 7/18/2025 | 7/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 12/18/2023 |  |
@@ -36,6 +37,7 @@
 | 10/9/2025 | BVP2023A | EVOC Classroom | Passed | 0.0 | 3.00 |
 | 9/28/2025 | BVP3487A | CIS Classes and Social Media | Passed | 0.0 | 4.00 |
 | 9/27/2025 | BVP2102A | Body-Worn Camera | Passed | 0.0 | 2.00 |
+| 7/18/2025 | BVP0538B | CPR/AED/First Aid recertification | Passed | 0.0 | 3.00 |
 | 6/24/2025 | BVP0648B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/26/2025 | BVP3480A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
 | 3/10/2025 | E11BVP22 | FTM Equivalency (Beaverton Police Department) | Completed | 0.0 | 50.00 |

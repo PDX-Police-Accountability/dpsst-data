@@ -55,7 +55,6 @@
 | 4/8/2025 | TAP3993B | Jackson County Deflection Program | Passed | 0.0 | 1.00 |
 | 3/27/2025 | REG4010A | Emergency Vehicle Operations - Skill Refresher | Passed | 0.0 | 4.00 |
 | 3/11/2025 | TAP1159A | DutyToInterveneWhatWeHaveLearnedSinceGeorgeFloyd | Passed | 0.0 | 1.25 |
-| 3/11/2025 | TAP1281B | DutyToInterveneWhatWeHaveLearnedSinceGeorgeFloyd | Passed | 0.0 | 1.25 |
 | 2/19/2025 | TAP0901A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2025 | TAP1945A | Investigating Strangulation | Passed | 0.0 | 2.75 |
 | 1/29/2025 | TAP2415A | Investigating Strangulation | Passed | 0.0 | 2.75 |

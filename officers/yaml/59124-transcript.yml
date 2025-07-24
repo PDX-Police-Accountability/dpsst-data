@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/18/2025
+  course: BVP0538B
+  title: CPR/AED/First Aid recertification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/24/2025
   course: BVP0648B
   title: Range June 2025
@@ -1081,6 +1087,10 @@ training_records:
   score: '0.0'
   hours: '6.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/18/2025
+  expiration_date: 7/31/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/1/2025
+  course: BNP1051B
+  title: SWAT Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/8/2025
   course: BNP0198A
   title: Dynamic Building Entry

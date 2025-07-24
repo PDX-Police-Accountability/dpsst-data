@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2025 | HBS4570B | Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 7/2/2025 | HBS2315A | Virtual Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 7/2/2025 | HBS3950A | Virtual-Sexual Harassment | Passed | 0.0 | 1.00 |
 | 7/1/2025 | HBS3840B | Virtual-De-Escalation Strategies | Passed | 0.0 | 2.00 |

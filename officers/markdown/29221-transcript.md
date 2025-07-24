@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2025 | BNP2202B | Explosive Breaching Orientation | Passed | 0.0 | 1.00 |
 | 7/9/2025 | BNP2246B | Wildland Fire Evacuation Command | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP0826B | Policy and SOP Updates | Passed | 0.0 | 1.00 |
@@ -54,7 +55,7 @@
 | 6/30/2025 | BNP3943A | Cyber Security | Passed | 0.0 | 3.00 |
 | 6/30/2025 | BNP4220A | Fire Exstinguisher | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP2691A | Legal Updates | Passed | 0.0 | 1.00 |
-| 6/30/2025 | BNP1750A | Legal Updates | Passed | 0.0 | 1.00 |
+| 6/30/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP1851A | Narcan | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP4357A | OSHA Hearing Protection Training | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP3070A | Bloodborne Pathogens Safety | Passed | 0.0 | 0.50 |

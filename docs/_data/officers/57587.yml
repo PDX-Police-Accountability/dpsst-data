@@ -44,8 +44,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 7/10/2025
-  course: PDP3674B
-  title: 2025 AR-15 Operators In-Service Training (1-Day)
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '10.00'

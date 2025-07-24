@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/17/2025
+  course: OCP1877B
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/7/2025
   course: OCP3027A
   title: Search and Seizure Updates
