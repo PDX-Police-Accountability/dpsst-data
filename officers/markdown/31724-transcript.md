@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2025 | BNS3425B | July Firearms | Passed | 0.0 | 2.00 |
+| 7/9/2025 | BNS2038B | July Firearms | Passed | 0.0 | 2.00 |
 | 5/12/2025 | BNS2982B | Expandable Baton | Passed | 0.0 | 2.00 |
 | 5/12/2025 | BNS3570B | K9 Case law update and bite work | Passed | 0.0 | 2.00 |
 | 5/12/2025 | BNS3678B | Trauma informed care | Passed | 0.0 | 0.75 |

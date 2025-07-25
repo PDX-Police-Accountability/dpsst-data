@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2025 | PDP0071B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/26/2025 | REG0627B | Control from Guard | Passed | 0.0 | 1.00 |
 | 5/23/2025 | REG3184B | Control Tactics | Passed | 0.0 | 1.00 |

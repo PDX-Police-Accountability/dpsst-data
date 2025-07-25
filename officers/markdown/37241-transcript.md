@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2025 | VND2554B | OSMB Jet Boat Operations Course | Passed | 0.0 | 40.00 |
 | 6/13/2025 | VND2142A | OSMB Drift Boat Operations Course | Passed | 0.0 | 40.00 |
 | 5/19/2020 | PDP20622 | 2020 City Attorney InService LegalUpdate/PubRecord | Passed | 0.0 | 1.50 |
 | 5/13/2020 | PDP19553 | 2020 InService Police Response Criminal Extremism | Passed | 0.0 | 1.00 |

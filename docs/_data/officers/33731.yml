@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2025
+  course: PDN2188B
+  title: Heat Illness Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/20/2025
   course: PDN2640A
   title: Confrontational Simulation - Legal Issues

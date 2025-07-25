@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '52977'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Police Officer
+  rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/17/2025
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 1/10/2013
   agency: Portland Police Bureau
   action: Hired
@@ -38,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/17/2026
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 6/24/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

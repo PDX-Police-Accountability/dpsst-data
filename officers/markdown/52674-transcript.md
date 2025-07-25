@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/25/2026 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 7/17/2025 | PDP1138B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/3/2025 | PDP0568A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 6/19/2025 | PDP0430A | 2025 SERT Training - ITERATION | Passed | 0.0 | 5.00 |
 | 6/12/2025 | PDP0159B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
@@ -45,6 +46,7 @@
 | 5/15/2025 | PDP3399A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/7/2025 | PDP1629A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/1/2025 | PDP4079B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/30/2025 | PDP1783B | Mindful Agility Workshop | Passed | 0.0 | 16.00 |
 | 4/22/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/4/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |

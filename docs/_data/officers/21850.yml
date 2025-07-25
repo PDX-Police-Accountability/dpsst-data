@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2025
+  course: LOP1929B
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/14/2025
   course: LOP0213A
   title: Evolve Workshop

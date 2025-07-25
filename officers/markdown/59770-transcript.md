@@ -31,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/25/2026 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 7/17/2025 | PDP1138B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/28/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/6/2025 | PDP4532A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/29/2025 | PDP3760A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
@@ -42,9 +43,11 @@
 | 5/10/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 5/8/2025 | PDP2846A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/6/2025 | PDP3749A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/1/2025 | PDP4079B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/30/2025 | PDP1783B | Mindful Agility Workshop | Passed | 0.0 | 16.00 |
 | 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 4/15/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 4/3/2025 | PDP3196B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/22/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 3/22/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

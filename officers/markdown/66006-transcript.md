@@ -44,9 +44,9 @@
 | 6/24/2025 | PDP3400A | Body Worn Camera | Passed | 0.0 | 2.00 |
 | 6/24/2025 | PDP2841B | 2021 IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 6/23/2025 | PDP0843B | Stop Stick Online Safety Training - Man Deploy | Passed | 0.0 | 1.00 |
+| 6/20/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/28/2025 | REG1902A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/7/2025 | REG1278B | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
-| 3/3/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 2/26/2025 | PDP0013A | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 2/25/2025 | PDP1486A | 2025 FTEP Blood Borne Pathogens (BBP) | Passed | 0.0 | 1.50 |
 | 2/20/2025 | PDP1851A | CPR/First Aid | Passed | 0.0 | 3.00 |

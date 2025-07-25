@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2025 | LOP1929B | EVOC | Passed | 0.0 | 4.00 |
 | 5/14/2025 | LOP0213A | Evolve Workshop | Passed | 0.0 | 5.00 |
 | 5/13/2025 | LOP4329A | Evolve Workshop | Passed | 0.0 | 5.00 |
 | 5/12/2025 | LOP2143A | Mindset Matters | Passed | 0.0 | 5.00 |

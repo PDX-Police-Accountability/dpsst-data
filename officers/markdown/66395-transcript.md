@@ -20,6 +20,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 7/16/2025 | 7/16/2027 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -28,5 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 7/28/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 7/16/2025 | PDP2930B | CPR/First Aid | Passed | 0.0 | 4.00 |
+| 7/15/2025 | PDP4152B | 2025 FTEP Policy  Procedure | Passed | 0.0 | 5.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 6/23/2025 | PDP3818B | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

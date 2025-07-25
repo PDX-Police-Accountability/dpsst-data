@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 3/23/2026
+  course: 26-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
 - date: 6/9/2025
   course: OSH2183A
   title: Central Region Leadership Meeting

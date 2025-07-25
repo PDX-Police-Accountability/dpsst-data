@@ -37,6 +37,12 @@ certification_records:
   expiration_date: 8/11/2025
   probation_date: ''
 training_records:
+- date: 7/18/2025
+  course: VND2554B
+  title: OSMB Jet Boat Operations Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/13/2025
   course: VND2142A
   title: OSMB Drift Boat Operations Course

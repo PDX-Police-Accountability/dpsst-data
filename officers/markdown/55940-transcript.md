@@ -40,6 +40,7 @@
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/16/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/10/2025 | PDP0703B | 2025 SERT Inner Perimeter In-Service | Passed | 0.0 | 27.00 |
+| 4/3/2025 | PDP3196B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Instructed | 0.0 | 8.00 |
 | 3/26/2025 | PDP3744A | SERT Technology Refresher Hostage Rescue | Passed | 0.0 | 2.00 |

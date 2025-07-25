@@ -45,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2025 | BNS3425B | July Firearms | Passed | 0.0 | 2.00 |
+| 7/14/2025 | BNS2038B | July Firearms | Passed | 0.0 | 2.00 |
 | 6/3/2025 | BNS0955A | SWAT - HRT / Barricade Scenarios | Passed | 0.0 | 8.00 |
 | 5/12/2025 | BNS3678B | Trauma informed care | Passed | 0.0 | 0.75 |
 | 4/9/2025 | BNS0903A | ARCON/Firearms | Passed | 0.0 | 4.00 |

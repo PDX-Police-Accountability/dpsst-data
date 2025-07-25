@@ -104,6 +104,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/14/2025
+  course: BNS3425B
+  title: July Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/14/2025
+  course: BNS2038B
+  title: July Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/3/2025
   course: BNS0955A
   title: SWAT - HRT / Barricade Scenarios

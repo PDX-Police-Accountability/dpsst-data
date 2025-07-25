@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Odom, Mikayla B. |
+| name | Odom-Crotchett, Mikayla B. |
 | dpsst_identifier | 62499 |
 | agency | Portland Police Bureau |
 | employment_status | Active |

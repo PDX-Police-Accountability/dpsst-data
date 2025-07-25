@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/17/2025
+  course: PDP1138B
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/3/2025
   course: PDP0568A
   title: 2025 SERT Training - FIREARMS
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/1/2025
+  course: PDP4079B
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/30/2025
   course: PDP3804A
   title: 2025 SERT Training - CLASSROOM
@@ -134,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 4/3/2025
+  course: PDP3196B
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/21/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

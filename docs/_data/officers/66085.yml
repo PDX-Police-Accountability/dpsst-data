@@ -126,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/20/2025
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 5/28/2025
   course: REG1902A
   title: DID-SFST (Hours included in Basic)
@@ -136,12 +142,6 @@ training_records:
   course: REG1278B
   title: Intox 8000 (Hours included in Basic)
   status: Passed
-  score: '0.0'
-  hours: '0.00'
-- date: 3/3/2025
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 2/27/2025

@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '52673'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Police Officer
+  rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/17/2025
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 7/9/2012
   agency: Portland Police Bureau
   action: Hired
@@ -38,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/17/2026
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 4/21/2025
   course: PDP3090B
   title: 2024-5 Naloxone (Narcan) Admin Guidelines
