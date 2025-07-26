@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2025 | ADP0488B | Evade the Fight: Tactical De-Escalation | Passed | 0.0 | 8.00 |
 | 7/13/2025 | TAP1935B | Sig Sauer Weapons Ban and Firearms Policy Review | Passed | 0.0 | 0.75 |
 | 6/25/2025 | TAP4457B | Take Home Cars Vehicle Use Policy Review | Passed | 0.0 | 0.50 |
 | 6/11/2025 | TAP4254B | Using Oleoresin Capsicum Course DTO0254 | Passed | 0.0 | 1.00 |

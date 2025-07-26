@@ -136,12 +136,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 2/21/2025
-  course: OCS2608A
-  title: FBI LEEDA - SLI
-  status: Passed
-  score: '0.0'
-  hours: '36.00'
-- date: 2/21/2025
   course: PDP1030A
   title: FBI-LEEDA Supervisor Leadership Inst
   status: Passed

@@ -603,7 +603,7 @@
 | 10/26/2016 | F6C08218 | Bloodborne Pathogens-New Hires | Passed | 0.0 | 1.50 |
 | 10/26/2016 | F6C06474 | FTEP Policy  Procedure-New Hires | Passed | 0.0 | 8.00 |
 | 10/25/2016 | F6C13461 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
-| 10/25/2016 | F6C02639 | 2.2 Workplace Harrassment-New Hires | Passed | 0.0 | 2.00 |
+| 10/25/2016 | F6C02639 | 2.2 Workplace Harrassment - New Hires | Passed | 0.0 | 2.00 |
 | 10/20/2016 | F6C08569 | RegJIN-New Hire Training | Passed | 0.0 | 10.00 |
 | 10/17/2016 | F6C41063 | Taser X2 Certification-New Hires | Passed | 0.0 | 10.00 |
 | 10/13/2016 | F6C38721 | Geography | Passed | 0.0 | 4.00 |

@@ -5,13 +5,14 @@
 | dpsst_identifier | 56629 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/17/2025 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 10/20/2016 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
@@ -642,4 +643,4 @@
 | 10/26/2016 | F6C08218 | Bloodborne Pathogens-New Hires | Passed | 0.0 | 1.50 |
 | 10/26/2016 | F6C06474 | FTEP Policy  Procedure-New Hires | Passed | 0.0 | 8.00 |
 | 10/25/2016 | F6C13461 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
-| 10/25/2016 | F6C02639 | 2.2 Workplace Harrassment-New Hires | Passed | 0.0 | 2.00 |
+| 10/25/2016 | F6C02639 | 2.2 Workplace Harrassment - New Hires | Passed | 0.0 | 2.00 |

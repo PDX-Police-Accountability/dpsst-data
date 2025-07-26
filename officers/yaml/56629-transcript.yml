@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '56629'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Police Officer
+  rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/17/2025
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 10/20/2016
   agency: Portland Police Bureau
   action: Hired
@@ -3688,7 +3694,7 @@ training_records:
   hours: '2.00'
 - date: 10/25/2016
   course: F6C02639
-  title: 2.2 Workplace Harrassment-New Hires
+  title: 2.2 Workplace Harrassment - New Hires
   status: Passed
   score: '0.0'
   hours: '2.00'

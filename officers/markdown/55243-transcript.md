@@ -264,7 +264,7 @@
 | 2/28/2017 | PPB24787 | Butane Hash Oil (BHO) Production | Passed | 0.0 | 0.25 |
 | 1/31/2017 | F6C33183 | Handgun Qualification-Primary Sidearm | Passed | 0.0 | 0.50 |
 | 1/31/2017 | F6C27044 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 1/19/2017 | PDP16433 | 2017  Advanced Active Shooter Refresher/Intro | Passed | 0.0 | 1.50 |
+| 1/19/2017 | PDP16433 | 2017 Advanced Active Shooter Refresher/Intro | Passed | 0.0 | 1.50 |
 | 1/4/2017 | F6C29661 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/31/2016 | F6C15902 | Roll Call Videos | Passed | 0.0 | 0.50 |
 | 11/4/2016 | F6C37453 | NIK Basic Competency Course | Passed | 0.0 | 0.50 |

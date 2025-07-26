@@ -766,7 +766,7 @@
 | 2/28/2017 | F6C25706 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 2/28/2017 | F6C41336 | Handgun Qualification-Secondary Sidearm | Passed | 0.0 | 0.50 |
 | 2/28/2017 | PPB24787 | Butane Hash Oil (BHO) Production | Passed | 0.0 | 0.25 |
-| 1/19/2017 | PDP16433 | 2017  Advanced Active Shooter Refresher/Intro | Instructed | 0.0 | 1.50 |
+| 1/19/2017 | PDP16433 | 2017 Advanced Active Shooter Refresher/Intro | Instructed | 0.0 | 1.50 |
 | 12/31/2016 | F6C15902 | Roll Call Videos | Passed | 0.0 | 0.50 |
 | 12/31/2016 | MISCMAIN | 2016 Police Maintenance Basic | Completed | 0.0 | 0.00 |
 | 12/20/2016 | F6C33915 | Patrol Tactics Instructor School | Instructed | 0.0 | 100.00 |

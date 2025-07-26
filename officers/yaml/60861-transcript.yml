@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/8/2025
+  course: BNS1446B
+  title: Pepperball
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/28/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

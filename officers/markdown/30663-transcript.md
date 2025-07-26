@@ -107,7 +107,7 @@
 | 9/11/2017 | F6C02200 | Fall Firearms Training | Passed | 0.0 | 5.00 |
 | 8/6/2017 | F6C19287 | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 6/23/2017 | F6C24621 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
-| 6/21/2017 | F6C27949 | 2015-Taser Recertification | Passed | 0.0 | 3.00 |
+| 6/21/2017 | F6C27949 | 2015 Taser Recertification | Passed | 0.0 | 3.00 |
 | 6/5/2017 | F6C06099 | De-Escalation Techniques-AIT | Passed | 0.0 | 3.50 |
 | 6/5/2017 | F6C23194 | Crisis Intervention-AIT | Passed | 0.0 | 1.50 |
 | 6/5/2017 | F6C31243 | Suicide Intervention Training-AIT | Passed | 0.0 | 2.00 |

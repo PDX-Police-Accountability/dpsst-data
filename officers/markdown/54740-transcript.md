@@ -361,7 +361,7 @@
 | 10/26/2016 | F6C08218 | Bloodborne Pathogens-New Hires | Passed | 0.0 | 1.50 |
 | 10/26/2016 | F6C06474 | FTEP Policy  Procedure-New Hires | Passed | 0.0 | 8.00 |
 | 10/25/2016 | F6C13461 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
-| 10/25/2016 | F6C02639 | 2.2 Workplace Harrassment-New Hires | Passed | 0.0 | 2.00 |
+| 10/25/2016 | F6C02639 | 2.2 Workplace Harrassment - New Hires | Passed | 0.0 | 2.00 |
 | 4/30/2016 | F6B00703 | Handgun Qualification: Primary Sidearm | Passed | 0.0 | 0.50 |
 | 2/3/2016 | F6C00023 | Major Crime Scene - Detective Notification | Passed | 0.0 | 3.00 |
 | 11/30/2015 | 15-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |

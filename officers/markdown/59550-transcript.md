@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/22/2025 | BNP0063B | Tactical Overland Movements | Passed | 0.0 | 8.00 |
 | 7/1/2025 | BNP1051B | SWAT Field Training Manual | Passed | 0.0 | 8.00 |
 | 4/8/2025 | BNP0198A | Dynamic Building Entry | Passed | 0.0 | 4.00 |
 | 4/8/2025 | BNP2118A | Hostage Rescue Tactics - Training | Passed | 0.0 | 4.00 |

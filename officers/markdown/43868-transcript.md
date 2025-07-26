@@ -516,7 +516,7 @@
 | 11/23/2016 | F6C25633 | Firearms Inservice 2015 | Passed | 0.0 | 3.00 |
 | 11/23/2016 | F6C22964 | PVO In-service 2015 | Passed | 0.0 | 2.00 |
 | 11/22/2016 | F6C06215 | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
-| 11/22/2016 | F6C14939 | 2.2 Workplace Harassment - new Hires | Passed | 0.0 | 2.00 |
+| 11/22/2016 | F6C14939 | 2.2 Workplace Harassment - New Hires | Passed | 0.0 | 2.00 |
 | 7/11/2013 | 13-1086 | Patrol/Vehicle - Other | Passed | 0.0 | 1.50 |
 | 5/22/2013 | 13-0657 | Cultural Diversity | Instructed | 0.0 | 3.00 |
 | 5/15/2013 | 13-0657 | Cultural Diversity | Instructed | 0.0 | 3.00 |

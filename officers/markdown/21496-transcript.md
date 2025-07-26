@@ -61,7 +61,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/10/2025 | OSH2203B | OSP People in Crisis | Passed | 0.0 | 4.00 |
-| 4/17/2025 | OSH0843B | 1st Trimester firearms | Passed | 0.0 | 3.50 |
+| 4/17/2025 | OSH0843B | 1st Trimester Firearms | Passed | 0.0 | 3.50 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
 | 3/13/2025 | OSH1923A | Defensive Tactics 1st Trimester | Passed | 0.0 | 3.00 |

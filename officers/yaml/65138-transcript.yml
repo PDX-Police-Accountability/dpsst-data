@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 7/2/2025
+  course: REG0180B
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/3/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

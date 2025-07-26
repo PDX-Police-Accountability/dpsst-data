@@ -527,7 +527,7 @@
 | 2/14/2017 | F6C15234 | PVO Simulator Training | Passed | 0.0 | 1.00 |
 | 2/14/2017 | PPB24526 | PVO Simulator Training | Passed | 0.0 | 1.00 |
 | 2/2/2017 | F6C11839 | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
-| 2/2/2017 | F6C20292 | 2.2 Workplace Harrassment-New Hires | Passed | 0.0 | 2.00 |
+| 2/2/2017 | F6C20292 | 2.2 Workplace Harrassment - New Hires | Passed | 0.0 | 2.00 |
 | 2/2/2017 | PPB24486 | 2.2 - Workplace Harrassment - New Hires | Passed | 0.0 | 2.00 |
 | 2/2/2017 | PPB24625 | CPR/First Aid/ AED - New Hires | Passed | 0.0 | 2.00 |
 | 1/31/2017 | F6C18246 | FTEP Policy  Procedure-New Hires | Passed | 0.0 | 8.00 |

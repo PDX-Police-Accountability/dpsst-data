@@ -34,6 +34,7 @@
 | 7/10/2025 | PDP0116B | RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 7/8/2025 | PDP1478B | FTEP Property and Evidence Introduction | Passed | 0.0 | 4.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
+| 7/2/2025 | REG0180B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 6/30/2025 | PDP2015B | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/29/2025 | PDP0800B | Patrol Vehicle Operations Policy | Passed | 0.0 | 0.50 |
 | 6/26/2025 | PDP4509B | TEEX WMD/Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |

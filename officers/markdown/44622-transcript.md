@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/20/2025 | OSH0198B | Active Threat | Instructed | 0.0 | 24.00 |
 | 7/16/2025 | OSH0488B | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |
 | 7/15/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
 | 7/15/2025 | OSH0041B | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |

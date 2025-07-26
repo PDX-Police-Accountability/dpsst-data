@@ -49,7 +49,7 @@
 | 6/3/2024 | MNP2447A | NAMI newsletter March 2024 | Passed | 0.0 | 0.50 |
 | 5/4/2024 | MNP2048A | EVOC in-service | Passed | 0.0 | 2.00 |
 | 5/4/2024 | MNP1289A | Building Search in-service | Passed | 0.0 | 4.00 |
-| 3/21/2024 | MNP2521A | Active shooter in the workplace | Passed | 0.0 | 0.25 |
+| 3/21/2024 | MNP2521A | Active Shooter in the Workplace | Passed | 0.0 | 0.25 |
 | 3/21/2024 | MNP3540A | Fire prevention | Passed | 0.0 | 0.25 |
 | 3/21/2024 | MNP0385A | Workplace violence | Passed | 0.0 | 0.25 |
 | 3/4/2024 | MNP2028A | Axon Body-Worn Camera training | Passed | 0.0 | 3.00 |

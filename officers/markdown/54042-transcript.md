@@ -345,7 +345,7 @@
 | 3/20/2017 | PPB24473 | Taser Update - In Service 2017 | Passed | 0.0 | 1.50 |
 | 2/28/2017 | F6C13191 | Handgun Qualification-Primary Sidearm | Passed | 0.0 | 0.50 |
 | 2/28/2017 | F6C25706 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 1/19/2017 | PDP16433 | 2017  Advanced Active Shooter Refresher/Intro | Passed | 0.0 | 1.50 |
+| 1/19/2017 | PDP16433 | 2017 Advanced Active Shooter Refresher/Intro | Passed | 0.0 | 1.50 |
 | 12/31/2016 | F6C15902 | Roll Call Videos | Passed | 0.0 | 0.50 |
 | 12/20/2016 | F6C31748 | Mobile Field Force - Refresher Training | Passed | 0.0 | 4.00 |
 | 11/10/2016 | F6C18701 | Directive 850.20 Response to Mental Health Crisis | Passed | 0.0 | 1.00 |

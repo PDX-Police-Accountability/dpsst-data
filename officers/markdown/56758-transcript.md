@@ -592,6 +592,6 @@
 | 11/23/2016 | PPB24104 | IS-00700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 11/23/2016 | PDP16385 | IS-00100 Introduction to Incident Command | Passed | 0.0 | 3.00 |
 | 11/22/2016 | F6C06215 | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
-| 11/22/2016 | F6C14939 | 2.2 Workplace Harassment - new Hires | Passed | 0.0 | 2.00 |
+| 11/22/2016 | F6C14939 | 2.2 Workplace Harassment - New Hires | Passed | 0.0 | 2.00 |
 | 11/1/2016 | F6C26824 | IS-00100 Introduction to Incident Command | Passed | 0.0 | 3.00 |
 | 11/1/2016 | F6C14463 | IS-00700 National Incident Management System | Passed | 0.0 | 3.00 |

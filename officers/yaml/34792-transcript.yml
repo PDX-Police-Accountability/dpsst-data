@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/18/2025
+  course: ADP0488B
+  title: 'Evade the Fight: Tactical De-Escalation'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/13/2025
   course: TAP1935B
   title: Sig Sauer Weapons Ban and Firearms Policy Review

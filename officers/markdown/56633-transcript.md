@@ -101,5 +101,5 @@
 | 10/26/2016 | F6C08218 | Bloodborne Pathogens-New Hires | Passed | 0.0 | 1.50 |
 | 10/26/2016 | F6C06474 | FTEP Policy  Procedure-New Hires | Passed | 0.0 | 8.00 |
 | 10/25/2016 | F6C13461 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
-| 10/25/2016 | F6C02639 | 2.2 Workplace Harrassment-New Hires | Passed | 0.0 | 2.00 |
+| 10/25/2016 | F6C02639 | 2.2 Workplace Harrassment - New Hires | Passed | 0.0 | 2.00 |
 | 8/31/2016 | F6C20300 | RAPID | Passed | 0.0 | 0.25 |

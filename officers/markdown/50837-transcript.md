@@ -51,7 +51,6 @@
 | 3/2/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 3/2/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 3/2/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
-| 2/21/2025 | OCS2608A | FBI LEEDA - SLI | Passed | 0.0 | 36.00 |
 | 2/21/2025 | PDP1030A | FBI-LEEDA Supervisor Leadership Inst | Passed | 0.0 | 28.00 |
 | 2/7/2025 | PDP4054A | FBI-LEEDS Executive Leadership Institute | Passed | 0.0 | 28.00 |
 | 1/14/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |

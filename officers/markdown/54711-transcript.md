@@ -581,7 +581,7 @@
 | 3/18/2017 | PPB24525 | Naloxone Training Class | Passed | 0.0 | 0.50 |
 | 2/28/2017 | F6C13191 | Handgun Qualification-Primary Sidearm | Passed | 0.0 | 0.50 |
 | 2/28/2017 | F6C25706 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 1/19/2017 | PDP16433 | 2017  Advanced Active Shooter Refresher/Intro | Passed | 0.0 | 1.50 |
+| 1/19/2017 | PDP16433 | 2017 Advanced Active Shooter Refresher/Intro | Passed | 0.0 | 1.50 |
 | 12/31/2016 | F6C15902 | Roll Call Videos | Passed | 0.0 | 0.50 |
 | 10/31/2016 | F6C04096 | Handgun Qualification-Primary Sidearm | Passed | 0.0 | 0.50 |
 | 10/31/2016 | F6C08264 | Shotgun Qualification | Passed | 0.0 | 0.50 |
