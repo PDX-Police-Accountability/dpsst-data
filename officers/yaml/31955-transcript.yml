@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/23/2025
+  course: CAP0707B
+  title: Firearms - Patrol Rifle Reloads/Malfunctions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/25/2025
   course: CAP4134B
   title: Active Threat  Building Search
@@ -842,7 +848,7 @@ training_records:
   hours: '0.00'
 - date: 1/27/2021
   course: CAP11358
-  title: Back-up Off Duty Qualifications
+  title: Back-Up Off Duty Qualifications
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -1178,7 +1184,7 @@ training_records:
   hours: '4.00'
 - date: 2/6/2019
   course: CAP00760
-  title: Back up and off duty handgun qulaifications
+  title: Back Up and Off Duty Handgun Qualifications
   status: Passed
   score: '0.0'
   hours: '1.00'

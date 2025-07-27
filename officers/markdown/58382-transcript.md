@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/16/2025 | GSP2630B | Gresham Police Basic Patrol K9 Handlers Academy | Passed | 0.0 | 360.00 |
 | 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
+| 6/1/2025 | OCS1688B | EVOC | Passed | 0.0 | 5.00 |
 | 5/28/2025 | OCS0644A | SWAT/K9: Building Clearing/Vehicle Deployment | Passed | 0.0 | 4.00 |
 | 5/23/2025 | OCS2313B | Clackamas County New Hire Patrol Tactics | Instructed | 0.0 | 4.00 |
 | 5/15/2025 | OCS0175A | 2025 Spring Patrol Rifle | Passed | 0.0 | 4.00 |
@@ -77,9 +78,9 @@
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
 | 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |
-| 12/6/2023 | OCS4143A | Balancing speed/marksmanship, Target ID | Passed | 0.0 | 2.00 |
-| 12/6/2023 | OCS1700A | Balancing speed/marksmanship, Target ID | Passed | 0.0 | 2.00 |
-| 12/6/2023 | OCS2752A | Balancing speed/marksmanship, Target ID | Passed | 0.0 | 2.00 |
+| 12/6/2023 | OCS4143A | Balancing Speed/Marksmanship, Target ID | Passed | 0.0 | 2.00 |
+| 12/6/2023 | OCS1700A | Balancing Speed/Marksmanship, Target ID | Passed | 0.0 | 2.00 |
+| 12/6/2023 | OCS2752A | Balancing Speed/Marksmanship, Target ID | Passed | 0.0 | 2.00 |
 | 11/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2023 | OCS0216A | Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |

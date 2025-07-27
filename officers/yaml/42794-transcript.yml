@@ -436,7 +436,7 @@ training_records:
   hours: '4.00'
 - date: 8/23/2024
   course: OCS0309A
-  title: Balancing speed/marksmanship
+  title: Balancing Speed/Marksmanship
   status: Instructed
   score: '0.0'
   hours: '2.00'
@@ -838,19 +838,19 @@ training_records:
   hours: '6.00'
 - date: 12/6/2023
   course: OCS4143A
-  title: Balancing speed/marksmanship, Target ID
+  title: Balancing Speed/Marksmanship, Target ID
   status: Instructed
   score: '0.0'
   hours: '2.00'
 - date: 12/6/2023
   course: OCS1700A
-  title: Balancing speed/marksmanship, Target ID
+  title: Balancing Speed/Marksmanship, Target ID
   status: Instructed
   score: '0.0'
   hours: '2.00'
 - date: 12/6/2023
   course: OCS2752A
-  title: Balancing speed/marksmanship, Target ID
+  title: Balancing Speed/Marksmanship, Target ID
   status: Instructed
   score: '0.0'
   hours: '2.00'
@@ -1732,7 +1732,7 @@ training_records:
   hours: '24.00'
 - date: 2/28/2022
   course: OCS37116
-  title: Balancing speed and marksmanship
+  title: Balancing Speed and Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'

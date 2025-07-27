@@ -44,10 +44,14 @@
 | 4/8/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 3/20/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 3/19/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 2/28/2025 | PDP4190B | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.00 |
 | 2/18/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
+| 2/18/2025 | PDP3024B | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 2/12/2025 | PDP2607A | 2025 Sworn In-Service PVO Stop Stick External | Passed | 0.0 | 0.75 |
 | 2/12/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 2/12/2025 | PDP3248A | 2025 Sworn In-Service PVO Stop Sticks | Passed | 0.0 | 1.00 |
+| 2/12/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 1.00 |
+| 2/12/2025 | PDP4190B | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
 | 2/5/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
 | 2/1/2025 | PDP3371A | 2025 Training Red Dot Optic Transition Course | Instructed | 0.0 | 18.00 |
 | 1/29/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

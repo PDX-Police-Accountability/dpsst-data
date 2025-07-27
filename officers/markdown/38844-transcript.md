@@ -34,6 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2025 | PDP3198B | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 2.25 |
+| 6/20/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
+| 6/20/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
+| 6/19/2025 | PDP3101B | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
+| 6/19/2025 | PDP0827B | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
+| 6/19/2025 | PDP3024B | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
+| 6/19/2025 | PDP4190B | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
 | 6/15/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/14/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
 | 4/22/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |

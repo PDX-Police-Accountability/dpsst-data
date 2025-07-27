@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/20/2025
+  course: GSP2627B
+  title: Firearms - Post Academy
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/19/2025
+  course: GSP2627B
+  title: Firearms - Post Academy
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/17/2025
   course: GSP2040B
   title: Glock Armorer's Course

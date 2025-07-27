@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
 | 6/26/2025 | OCA4117B | MCT Training - Case Law update / Evidence Proc. | Passed | 0.0 | 1.00 |
+| 6/1/2025 | OCS1688B | EVOC | Passed | 0.0 | 5.00 |
 | 5/15/2025 | OCS2172A | May monthly firearms | Passed | 0.0 | 1.00 |
 | 4/30/2025 | OCS1036A | WSHNA HNT Training Seminar | Passed | 0.0 | 24.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |
@@ -171,7 +172,7 @@
 | 3/30/2022 | OCN31839 | First Aid CPR | Passed | 0.0 | 6.00 |
 | 3/30/2022 | OCS17075 | Marksmanship/One Hand Shooting/Movement | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS16578 | Striking and Weapon Retention | Passed | 0.0 | 1.00 |
-| 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |
+| 2/28/2022 | OCS37116 | Balancing Speed and Marksmanship | Passed | 0.0 | 1.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |
 | 12/30/2021 | OCS20147 | Shoot/No-Shoot Scenarios/Decision Making | Passed | 0.0 | 1.00 |

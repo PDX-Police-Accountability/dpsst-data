@@ -36,6 +36,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/24/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/20/2025 | PDP3198B | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 2.25 |
+| 6/20/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
+| 6/20/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
+| 6/19/2025 | PDP3101B | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
+| 6/19/2025 | PDP0827B | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
+| 6/19/2025 | PDP3024B | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
+| 6/19/2025 | PDP4190B | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
 | 3/26/2025 | PDP3227A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/25/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/25/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |

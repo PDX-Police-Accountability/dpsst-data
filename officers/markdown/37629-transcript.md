@@ -48,10 +48,15 @@
 | 3/19/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/7/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/20/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
+| 2/20/2025 | PDP3101B | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
 | 2/18/2025 | PDP1873A | 2025 FTEP Policy  Procedure | Instructed | 0.0 | 4.00 |
+| 2/18/2025 | PDP3024B | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 2/12/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/12/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 2/12/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 2/12/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 1.00 |
+| 2/12/2025 | PDP4190B | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
+| 2/11/2025 | PDP0827B | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 2/7/2025 | PDP3860A | SOP 14-1 Safety Proc for Training Complex | Passed | 0.0 | 0.25 |
 | 2/3/2025 | PDP1027A | 2025 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 2/3/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

@@ -152,12 +152,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/20/2025
+  course: PDP3101B
+  title: 2025-1 All Sworn In-Service ABLE Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 2/18/2025
   course: PDP0221A
   title: 2025 Sworn In-Service PVO Stop Stick Intro Video
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/18/2025
+  course: PDP3024B
+  title: 2025-1 All Sworn In-Service Intro to Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 2/18/2025
+  course: PDP2657B
+  title: 2025-1 All Sworn In-Service PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 2/11/2025
   course: PDP3390A
   title: 2025 Field Training Officer In-Service

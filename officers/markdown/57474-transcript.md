@@ -54,6 +54,8 @@
 | 3/26/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/13/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 3/12/2025 | PDP2749B | IACP Safety and Wellness Conference | Passed | 0.0 | 13.50 |
+| 2/12/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 1.00 |
+| 2/12/2025 | PDP4190B | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
 | 2/6/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/6/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 2/3/2025 | PDP0362A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

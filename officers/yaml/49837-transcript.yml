@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 4/10/2025
+  course: PDP0391B
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/3/2025
   course: PDP3196B
   title: 2025 SERT Training - SCENARIO
@@ -134,12 +140,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/21/2025
+  course: PDP0957B
+  title: 2025-1 All Sworn In-Service Active Threat, LRE
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/21/2025
+  course: PDP3198B
+  title: 2025-1 All Sworn In-Service CT Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/21/2025
+  course: PDP2657B
+  title: 2025-1 All Sworn In-Service PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 3/20/2025
   course: PDP2273A
   title: 2025-1 Range Qualification CEW
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/20/2025
+  course: PDP3101B
+  title: 2025-1 All Sworn In-Service ABLE Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/20/2025
+  course: PDP0827B
+  title: 2025-1 All Sworn In-Service Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/20/2025
+  course: PDP3024B
+  title: 2025-1 All Sworn In-Service Intro to Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 3/13/2025
   course: PDP1867A
   title: 2025 SERT Breacher In-Service
@@ -176,6 +218,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/27/2025
+  course: PDP3420B
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/26/2025
   course: PDP1491A
   title: 2025 SERT Training - Scenario

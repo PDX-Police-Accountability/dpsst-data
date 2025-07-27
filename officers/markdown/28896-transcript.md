@@ -89,7 +89,7 @@
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 3/20/2022 | OCS05711 | Arrest and Control | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS16578 | Striking and Weapon Retention | Passed | 0.0 | 1.00 |
-| 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |
+| 2/28/2022 | OCS37116 | Balancing Speed and Marksmanship | Passed | 0.0 | 1.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/20/2022 | OCS34045 | Use of Force Decision Making/Problem Solving | Passed | 0.0 | 1.00 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |

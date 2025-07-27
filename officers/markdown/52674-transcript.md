@@ -36,6 +36,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/25/2026 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 7/17/2025 | PDP1138B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/10/2025 | PDP0026B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 7/3/2025 | PDP0568A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 6/19/2025 | PDP0430A | 2025 SERT Training - ITERATION | Passed | 0.0 | 5.00 |
 | 6/12/2025 | PDP0159B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
@@ -49,6 +50,7 @@
 | 5/1/2025 | PDP4079B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/30/2025 | PDP1783B | Mindful Agility Workshop | Passed | 0.0 | 16.00 |
 | 4/22/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 4/10/2025 | PDP0391B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/4/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/4/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 4/4/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
@@ -63,6 +65,7 @@
 | 3/5/2025 | PDP0910A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 3/5/2025 | PDP0910A | 2025 SERT Training - Scenario | Instructed | 0.0 | 2.00 |
 | 3/5/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 2/27/2025 | PDP3420B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 2/26/2025 | PDP1491A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 2/20/2025 | PDP0113A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/14/2025 | PDP0574A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

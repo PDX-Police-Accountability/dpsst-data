@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2025 | GSP2627B | Firearms - Post Academy | Instructed | 0.0 | 10.00 |
+| 6/19/2025 | GSP2627B | Firearms - Post Academy | Instructed | 0.0 | 10.00 |
 | 6/17/2025 | GSP2040B | Glock Armorer's Course | Passed | 0.0 | 8.00 |
 | 5/29/2025 | VND1550A | Basic Background Investigation | Passed | 0.0 | 16.00 |
 | 4/23/2025 | GSP3717A | Gathering Evidence from Todays Communication Tech | Passed | 0.0 | 8.00 |

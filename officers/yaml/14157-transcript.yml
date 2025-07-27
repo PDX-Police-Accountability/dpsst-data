@@ -212,7 +212,7 @@ training_records:
   hours: '0.00'
 - date: 1/27/2021
   course: CAP11358
-  title: Back-up Off Duty Qualifications
+  title: Back-Up Off Duty Qualifications
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -320,7 +320,7 @@ training_records:
   hours: '3.00'
 - date: 2/5/2020
   course: CAP37071
-  title: Back-up and Off Duty handgun qualifications
+  title: Back Up and Off Duty Handgun Qualifications
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -452,7 +452,7 @@ training_records:
   hours: '4.00'
 - date: 2/6/2019
   course: CAP00760
-  title: Back up and off duty handgun qulaifications
+  title: Back Up and Off Duty Handgun Qualifications
   status: Passed
   score: '0.0'
   hours: '1.00'

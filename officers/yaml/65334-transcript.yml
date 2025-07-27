@@ -36,6 +36,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/10/2025
+  course: REG4166B
+  title: INTOX 8000 (Hours included in BASIC)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/10/2025
   course: PDP3042A
   title: CPR/First Aid

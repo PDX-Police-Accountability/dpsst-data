@@ -55,6 +55,7 @@
 | 4/25/2025 | PDP2302A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/25/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/17/2025 | PDP2342A | 2025 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
+| 4/10/2025 | PDP0391B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/9/2025 | PDP0420A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 4/3/2025 | PDP3196B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/28/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
@@ -75,6 +76,7 @@
 | 2/27/2025 | PDP2743A | 2025-1 Range Qual 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP2224A | 2025-1 Range Qual AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/27/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/27/2025 | PDP3420B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 2/26/2025 | PDP1491A | 2025 SERT Training - Scenario | Passed | 0.0 | 2.00 |
 | 2/25/2025 | VND4176A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 2/20/2025 | PDP0113A | 2025 SERT Training - Scenario | Passed | 0.0 | 9.00 |

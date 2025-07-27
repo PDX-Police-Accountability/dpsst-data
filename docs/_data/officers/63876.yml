@@ -24,6 +24,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2025
+  course: PDP0957B
+  title: 2025-1 All Sworn In-Service Active Threat, LRE
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 6/27/2025
+  course: PDP3198B
+  title: 2025-1 All Sworn In-Service CT Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/27/2025
+  course: PDP2657B
+  title: 2025-1 All Sworn In-Service PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/26/2025
+  course: PDP3101B
+  title: 2025-1 All Sworn In-Service ABLE Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/26/2025
+  course: PDP0827B
+  title: 2025-1 All Sworn In-Service Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/26/2025
+  course: PDP3024B
+  title: 2025-1 All Sworn In-Service Intro to Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/26/2025
+  course: PDP4190B
+  title: 2025-1 All Sworn In-Service Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 6/12/2025
   course: PDP0567A
   title: CPR/First Aid

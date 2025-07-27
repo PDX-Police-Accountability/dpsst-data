@@ -80,6 +80,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 7/22/2025
+  course: OSH2722B
+  title: 2nd Trimester Firearms
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/9/2025
   course: OSH2183A
   title: Central Region Leadership Meeting

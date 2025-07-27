@@ -72,12 +72,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/14/2025
+  course: PDP0957B
+  title: 2025-1 All Sworn In-Service Active Threat, LRE
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/14/2025
+  course: PDP2657B
+  title: 2025-1 All Sworn In-Service PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/14/2025
+  course: PDP3198B
+  title: 2025-1 All Sworn In-Service CT Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 3/13/2025
   course: PDP2273A
   title: 2025-1 Range Qualification CEW
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/13/2025
+  course: PDP3101B
+  title: 2025-1 All Sworn In-Service ABLE Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/13/2025
+  course: PDP0827B
+  title: 2025-1 All Sworn In-Service Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/13/2025
+  course: PDP3024B
+  title: 2025-1 All Sworn In-Service Intro to Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/13/2025
+  course: PDP4190B
+  title: 2025-1 All Sworn In-Service Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 3/2/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update

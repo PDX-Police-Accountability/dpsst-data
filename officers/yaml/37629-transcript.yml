@@ -128,12 +128,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 2/20/2025
+  course: PDP3101B
+  title: 2025-1 All Sworn In-Service ABLE Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 2/18/2025
   course: PDP1873A
   title: 2025 FTEP Policy  Procedure
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 2/18/2025
+  course: PDP3024B
+  title: 2025-1 All Sworn In-Service Intro to Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 2/12/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap
@@ -152,6 +164,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/12/2025
+  course: PDP0957B
+  title: 2025-1 All Sworn In-Service Active Threat, LRE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2025
+  course: PDP4190B
+  title: 2025-1 All Sworn In-Service Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 2/11/2025
+  course: PDP0827B
+  title: 2025-1 All Sworn In-Service Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 2/7/2025
   course: PDP3860A
   title: SOP 14-1 Safety Proc for Training Complex

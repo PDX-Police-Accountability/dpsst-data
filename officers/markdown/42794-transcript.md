@@ -99,7 +99,7 @@
 | 8/30/2024 | OCS1950A | Balancing Speed  Marksmanship | Passed | 0.0 | 1.00 |
 | 8/28/2024 | OCS2024A | February and September 2024 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 8/27/2024 | OCS2835A | Balancing Speed/Marksmanship and Rifle Qual | Instructed | 0.0 | 4.00 |
-| 8/23/2024 | OCS0309A | Balancing speed/marksmanship | Instructed | 0.0 | 2.00 |
+| 8/23/2024 | OCS0309A | Balancing Speed/Marksmanship | Instructed | 0.0 | 2.00 |
 | 8/20/2024 | OCS4187A | Balancing Speed and Marksmanship | Instructed | 0.0 | 88.00 |
 | 8/9/2024 | OCS3294A | August 2024 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 8/1/2024 | OCS1509A | 2024 Drug Law Update | Passed | 0.0 | 1.00 |
@@ -166,9 +166,9 @@
 | 12/8/2023 | OCS0077A | SWAT Sniper- Marksmanship / Target ID | Instructed | 0.0 | 6.00 |
 | 12/8/2023 | OCS1532A | SWAT Sniper- Marksmanship / Target ID | Instructed | 0.0 | 6.00 |
 | 12/8/2023 | OCS2987A | SWAT Sniper- Marksmanship / Target ID | Instructed | 0.0 | 6.00 |
-| 12/6/2023 | OCS4143A | Balancing speed/marksmanship, Target ID | Instructed | 0.0 | 2.00 |
-| 12/6/2023 | OCS1700A | Balancing speed/marksmanship, Target ID | Instructed | 0.0 | 2.00 |
-| 12/6/2023 | OCS2752A | Balancing speed/marksmanship, Target ID | Instructed | 0.0 | 2.00 |
+| 12/6/2023 | OCS4143A | Balancing Speed/Marksmanship, Target ID | Instructed | 0.0 | 2.00 |
+| 12/6/2023 | OCS1700A | Balancing Speed/Marksmanship, Target ID | Instructed | 0.0 | 2.00 |
+| 12/6/2023 | OCS2752A | Balancing Speed/Marksmanship, Target ID | Instructed | 0.0 | 2.00 |
 | 12/1/2023 | OCS3271A | New Hire Patrol Tactics | Instructed | 0.0 | 8.00 |
 | 11/30/2023 | OCS0170A | November firearms instruction | Instructed | 0.0 | 109.00 |
 | 11/22/2023 | OCS2738A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |
@@ -315,7 +315,7 @@
 | 3/21/2022 | F6R37267 | VCQB/Injured Shooter Handgun and Rifle | Passed | 0.0 | 6.00 |
 | 3/17/2022 | OCS05907 | Marksmanship, Target ID, Using Cover | Instructed | 0.0 | 2.00 |
 | 3/10/2022 | OCS07972 | Pistol/Rifle - Small Unit Tactics | Passed | 0.0 | 24.00 |
-| 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |
+| 2/28/2022 | OCS37116 | Balancing Speed and Marksmanship | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS33938 | Balancing Speed and Marksmanship Instructing | Instructed | 0.0 | 95.00 |
 | 2/25/2022 | OCS31415 | SWAT - Moving Targets/Marksmanship | Instructed | 0.0 | 4.00 |
 | 2/18/2022 | OCS20565 | Use of Force Decisions(Milo)/Speed-Marksmanship | Instructed | 0.0 | 2.00 |

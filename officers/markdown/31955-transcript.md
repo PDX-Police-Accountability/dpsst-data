@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2025 | CAP0707B | Firearms - Patrol Rifle Reloads/Malfunctions | Passed | 0.0 | 2.00 |
 | 6/25/2025 | CAP4134B | Active Threat  Building Search | Passed | 0.0 | 2.00 |
 | 4/9/2025 | RMP3099A | What happens when it's quiet? | Passed | 0.0 | 7.00 |
 | 3/26/2025 | CAP3056A | Annual Patrol Rifle Qualification and Fundamentals | Passed | 0.0 | 2.00 |
@@ -168,7 +169,7 @@
 | 2/16/2021 | CAP43846 | Creating a Civil  Respectful Policing Culture | Passed | 0.0 | 4.00 |
 | 2/1/2021 | CAP11916 | CPR/AED/First Aid (adult/child) | Passed | 0.0 | 1.00 |
 | 1/27/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
-| 1/27/2021 | CAP11358 | Back-up Off Duty Qualifications | Passed | 0.0 | 2.00 |
+| 1/27/2021 | CAP11358 | Back-Up Off Duty Qualifications | Passed | 0.0 | 2.00 |
 | 1/20/2021 | CAP22319 | True Accountablility to Standards in Critical Dom | Passed | 0.0 | 2.00 |
 | 1/20/2021 | CAP18605 | Sup. Involvement in Offc. Commun. Performance | Passed | 0.0 | 2.00 |
 | 1/20/2021 | F6D21773 | Creating Policy and Training Around Public Cont. | Passed | 0.0 | 1.50 |
@@ -224,7 +225,7 @@
 | 3/1/2019 | LOP04605 | EVO Training with Pursuit Scenarios | Passed | 0.0 | 9.00 |
 | 2/14/2019 | F6D24593 | Officer Involved Incidents  Basic Crime Scenes | Passed | 0.0 | 2.00 |
 | 2/13/2019 | CAP35485 | First Aid/CPR/AED | Passed | 0.0 | 4.00 |
-| 2/6/2019 | CAP00760 | Back up and off duty handgun qulaifications | Passed | 0.0 | 1.00 |
+| 2/6/2019 | CAP00760 | Back Up and Off Duty Handgun Qualifications | Passed | 0.0 | 1.00 |
 | 1/21/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/21/2019 | PDP42201 | 2019 Training Range Qualification System Update | Passed | 0.0 | 0.25 |
 | 1/21/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |

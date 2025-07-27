@@ -62,7 +62,7 @@
 | 2/16/2021 | F6D36594 | Creating a Civil  Respectful Policing Culture | Passed | 0.0 | 4.00 |
 | 2/1/2021 | CAP11916 | CPR/AED/First Aid (adult/child) | Passed | 0.0 | 1.00 |
 | 1/27/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
-| 1/27/2021 | CAP11358 | Back-up Off Duty Qualifications | Passed | 0.0 | 2.00 |
+| 1/27/2021 | CAP11358 | Back-Up Off Duty Qualifications | Passed | 0.0 | 2.00 |
 | 1/15/2021 | CAP11016 | OR Measure 110 legal update | Passed | 0.0 | 1.50 |
 | 12/31/2020 | CAP26624 | Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/30/2020 | CAP01815 | Responding to People with Mental Illness | Passed | 0.0 | 2.00 |
@@ -80,7 +80,7 @@
 | 4/15/2020 | CAP36061 | Airborne  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 4/15/2020 | CAP09518 | Covid-19 for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/11/2020 | CAP41587 | Handgun and Rifle positional shooting /movement | Passed | 0.0 | 3.00 |
-| 2/5/2020 | CAP37071 | Back-up and Off Duty handgun qualifications | Passed | 0.0 | 1.00 |
+| 2/5/2020 | CAP37071 | Back Up and Off Duty Handgun Qualifications | Passed | 0.0 | 1.00 |
 | 1/15/2020 | CAP42852 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/12/2019 | MISCMAIN | 2019 LE Annual Required Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2019 | F6D37185 | Basic Facilitator Development | Passed | 0.0 | 18.00 |
@@ -102,7 +102,7 @@
 | 3/6/2019 | CAP05618 | Taser Refresher Training | Passed | 0.0 | 1.50 |
 | 3/1/2019 | LOP04605 | EVO Training with Pursuit Scenarios | Passed | 0.0 | 9.00 |
 | 2/13/2019 | CAP35485 | First Aid/CPR/AED | Passed | 0.0 | 4.00 |
-| 2/6/2019 | CAP00760 | Back up and off duty handgun qulaifications | Passed | 0.0 | 1.00 |
+| 2/6/2019 | CAP00760 | Back Up and Off Duty Handgun Qualifications | Passed | 0.0 | 1.00 |
 | 1/18/2019 | F6D34315 | Predicting the Future by Creating It | Passed | 0.0 | 4.00 |
 | 1/17/2019 | F6D03932 | BuildingSustaining an Officer Wellness Program | Passed | 0.0 | 4.00 |
 | 1/17/2019 | F6D13603 | Policing with an Outward Mindset | Passed | 0.0 | 4.00 |

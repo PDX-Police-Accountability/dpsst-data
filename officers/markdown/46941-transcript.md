@@ -48,7 +48,14 @@
 | 5/15/2025 | PDP0446A | 2025 K-9 Weekly Training: | Instructed | 0.0 | 5.00 |
 | 5/15/2025 | PDP0446A | 2025 K-9 Weekly Training: | Passed | 0.0 | 5.00 |
 | 5/7/2025 | PDP2799B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.50 |
+| 5/2/2025 | PDP3198B | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 2.25 |
+| 5/2/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
+| 5/2/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 5/1/2025 | PDP2273A | 2025-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 5/1/2025 | PDP3101B | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
+| 5/1/2025 | PDP0827B | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
+| 5/1/2025 | PDP3024B | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
+| 5/1/2025 | PDP4190B | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
 | 4/30/2025 | PDP0115B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 4/23/2025 | PDP2820B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 4/16/2025 | PDP1372A | CPR/First Aid | Passed | 0.0 | 1.75 |

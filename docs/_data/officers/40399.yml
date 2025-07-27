@@ -105,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/21/2025
+  course: PDP1357B
+  title: FBI LEEDA Supervisor Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 2/12/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update

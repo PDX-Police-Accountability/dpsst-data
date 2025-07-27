@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2025
+  course: PDP3427B
+  title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/25/2025
   course: PDP0997B
   title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
@@ -104,6 +110,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/18/2025
+  course: PDP3198B
+  title: 2025-1 All Sworn In-Service CT Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/18/2025
+  course: PDP0957B
+  title: 2025-1 All Sworn In-Service Active Threat, LRE
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 4/18/2025
+  course: PDP2657B
+  title: 2025-1 All Sworn In-Service PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/17/2025
+  course: PDP3101B
+  title: 2025-1 All Sworn In-Service ABLE Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/17/2025
+  course: PDP0827B
+  title: 2025-1 All Sworn In-Service Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/17/2025
+  course: PDP3024B
+  title: 2025-1 All Sworn In-Service Intro to Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/17/2025
+  course: PDP4190B
+  title: 2025-1 All Sworn In-Service Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 4/16/2025
   course: PDP3486A
   title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng

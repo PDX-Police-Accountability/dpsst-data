@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2025 | CAP0707B | Firearms - Patrol Rifle Reloads/Malfunctions | Passed | 0.0 | 2.00 |
 | 7/9/2025 | CAP0064B | SFST Refresher | Passed | 0.0 | 4.00 |
 | 6/25/2025 | CAP4134B | Active Threat  Building Search | Passed | 0.0 | 2.00 |
 | 6/5/2025 | REG0437A | Patrol Rifle | Passed | 0.0 | 30.00 |

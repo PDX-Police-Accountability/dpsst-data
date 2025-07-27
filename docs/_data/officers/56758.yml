@@ -200,6 +200,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 2/20/2025
+  course: PDP3101B
+  title: 2025-1 All Sworn In-Service ABLE Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 2/18/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap
@@ -236,6 +242,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/18/2025
+  course: PDP3024B
+  title: 2025-1 All Sworn In-Service Intro to Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 2/18/2025
+  course: PDP2657B
+  title: 2025-1 All Sworn In-Service PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 2/12/2025
+  course: PDP0957B
+  title: 2025-1 All Sworn In-Service Active Threat, LRE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2025
+  course: PDP4190B
+  title: 2025-1 All Sworn In-Service Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 2/10/2025
   course: PDP0362A
   title: 2024 Safe Training Procedures

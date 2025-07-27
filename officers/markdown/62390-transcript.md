@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2025 | PDP1036B | FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 6/19/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/14/2025 | PDP2572B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/12/2025 | PDP4413B | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
