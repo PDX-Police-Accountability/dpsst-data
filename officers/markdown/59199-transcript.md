@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2025 | EGP1382B | MMBTH Breaching Course | Passed | 0.0 | 40.00 |
 | 7/19/2025 | EGP0959B | Tactical Explosive Breacher Course - 6 Day | Passed | 0.0 | 48.00 |
 | 7/9/2025 | EGP0983B | Use of Force Scenarios | Passed | 0.0 | 5.00 |
 | 5/25/2025 | EGP4510A | SWAT Firearms- HR Target Drills | Passed | 0.0 | 2.00 |

@@ -128,6 +128,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/6/2025
+  course: PDS3891B
+  title: OC Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/6/2025
+  course: PDS4534B
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/6/2025
+  course: PDS2239B
+  title: Responding to Agitated Individuals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/6/2025
+  course: PDS0859B
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/6/2025
+  course: PDS3485B
+  title: Bloodborne Pahogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/5/2025
   course: PDS2435A
   title: Confrontation Simulation

@@ -47,6 +47,7 @@
 | 1/28/2025 | PDS1408A | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 1/27/2025 | PDS2369A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 1/27/2025 | PDS4462A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/27/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
 | 12/9/2024 | PDS2017A | Range | Passed | 0.0 | 2.00 |
 | 12/9/2024 | PDS0714A | Range | Passed | 0.0 | 2.00 |
 | 12/6/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

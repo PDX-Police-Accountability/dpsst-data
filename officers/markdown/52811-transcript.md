@@ -58,6 +58,7 @@
 | 1/23/2025 | PDS1408A | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 1/23/2025 | PDS2369A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 1/23/2025 | PDS4462A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/23/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
 | 1/7/2025 | PDS0232A | Supervising Patrol Critical Incidents | Passed | 0.0 | 16.00 |
 | 12/13/2024 | PDS1307A | Range | Instructed | 0.0 | 2.00 |
 | 12/13/2024 | PDS2420A | Range | Instructed | 0.0 | 2.00 |

@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 7/24/2025
+  course: MNP3179B
+  title: Active Threat training
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
 - date: 2/22/2025
   course: MNP1850A
   title: Axon/Taser - End User Annual Recertification

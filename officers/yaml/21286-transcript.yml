@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/22/2025
+  course: REG3581B
+  title: EVO - Skills and Decisions Update / Refresh
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/31/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3-Year Maintenance

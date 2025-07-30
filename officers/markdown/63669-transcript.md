@@ -4,7 +4,7 @@
 | name | Baker, Keenan R. |
 | dpsst_identifier | 63669 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/16/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/5/2023 | Portland Police Bureau | LOA | Police Off |  |  |
 | 12/15/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/15/2022 | Police Officer | Basic | ReqCertExt |  |  | 6/15/2025 |
+| 12/15/2022 | Police Officer | Basic | ReqCertExt |  | 7/16/2025 | 6/15/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

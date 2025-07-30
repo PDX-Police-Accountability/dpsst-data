@@ -74,6 +74,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/28/2025
+  course: PDS2239B
+  title: Responding to Agitated Individuals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2025
+  course: PDS1600B
+  title: Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2025
+  course: PDS3485B
+  title: Bloodborne Pahogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2025
+  course: PDS1888B
+  title: Combating Complacency
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/13/2025
   course: PDS1907A
   title: Ethics

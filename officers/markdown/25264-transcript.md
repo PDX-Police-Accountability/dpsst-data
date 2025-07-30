@@ -58,6 +58,9 @@
 | 3/20/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/20/2025 | PDS3348A | Range Training | Instructed | 0.0 | 18.00 |
 | 3/13/2025 | PDS2114A | Firearms Intro/Manipulation | Instructed | 0.0 | 7.00 |
+| 3/6/2025 | PDS0859B | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 3/6/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
+| 3/6/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
 | 2/27/2025 | PDS2296A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 2/21/2025 | PDS0176B | Defensive Tactics II | Instructed | 0.0 | 4.00 |
 | 2/18/2025 | PDS3333A | Range | Instructed | 0.0 | 2.00 |

@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2025 | MNP3179B | Active Threat training | Passed | 0.0 | 8.50 |
 | 2/22/2025 | MNP1850A | Axon/Taser - End User Annual Recertification | Passed | 0.0 | 2.00 |
 | 2/22/2025 | MNP1042A | 40mm Less Lethal recertification | Passed | 0.0 | 1.50 |
 | 2/22/2025 | MNP0849A | Tactical First Aid Refresher | Passed | 0.0 | 2.00 |

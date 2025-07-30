@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2025 | PDS4424B | Law Enforcement for Safety and Survival (LETSS) | Passed | 0.0 | 32.00 |
 | 6/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2025 | PDS0530A | Lift Bags for SCUBA | Instructed | 0.0 | 8.00 |
 | 6/4/2025 | PDS4540B | Equipment Orientation | Instructed | 0.0 | 8.00 |
@@ -51,6 +52,9 @@
 | 3/18/2025 | PDS1291A | Search Patterns | Passed | 0.0 | 8.00 |
 | 3/18/2025 | PDS3504B | Underwater Vehicle Recover and Inspection | Instructed | 0.0 | 8.00 |
 | 3/18/2025 | PDS0134B | Limited Visibility Diving | Passed | 0.0 | 8.00 |
+| 3/1/2025 | PDS0859B | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 3/1/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
+| 3/1/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
 | 2/25/2025 | PDS3082A | Underwater Navigation | Passed | 0.0 | 8.00 |
 | 2/25/2025 | PDS1594A | Underwater Searches | Passed | 0.0 | 8.00 |
 | 2/14/2025 | PDS0340A | Red Dot Handgun | Passed | 0.0 | 24.00 |

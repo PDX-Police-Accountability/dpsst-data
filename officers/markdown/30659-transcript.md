@@ -41,6 +41,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/6/2025 | PDS0870A | Taser 7 | Passed | 0.0 | 8.00 |
+| 5/28/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
+| 5/28/2025 | PDS1600B | Suicide Prevention | Passed | 0.0 | 1.00 |
+| 5/28/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
+| 5/28/2025 | PDS1888B | Combating Complacency | Passed | 0.0 | 1.00 |
 | 4/13/2025 | PDS1907A | Ethics | Passed | 0.0 | 1.00 |
 | 4/13/2025 | PDS1481A | Drug ID  Recognition | Passed | 0.0 | 5.00 |
 | 4/13/2025 | PDS3699A | Legal Update | Passed | 0.0 | 1.00 |

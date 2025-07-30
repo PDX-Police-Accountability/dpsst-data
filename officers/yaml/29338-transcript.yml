@@ -98,6 +98,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/8/2025
+  course: PDS0859B
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/8/2025
+  course: PDS2239B
+  title: Responding to Agitated Individuals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/8/2025
+  course: PDS3485B
+  title: Bloodborne Pahogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/18/2025
   course: PDS3333A
   title: Range

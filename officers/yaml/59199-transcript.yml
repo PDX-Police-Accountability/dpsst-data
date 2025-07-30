@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/25/2025
+  course: EGP1382B
+  title: MMBTH Breaching Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/19/2025
   course: EGP0959B
   title: Tactical Explosive Breacher Course - 6 Day

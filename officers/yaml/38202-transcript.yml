@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/25/2025
+  course: PDS4424B
+  title: Law Enforcement for Safety and Survival (LETSS)
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 6/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -134,6 +140,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/1/2025
+  course: PDS0859B
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/1/2025
+  course: PDS2239B
+  title: Responding to Agitated Individuals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/1/2025
+  course: PDS3485B
+  title: Bloodborne Pahogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/25/2025
   course: PDS3082A
   title: Underwater Navigation

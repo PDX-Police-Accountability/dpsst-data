@@ -48,6 +48,11 @@
 | 2/28/2025 | PDS4514A | Report Writing | Passed | 0.0 | 4.00 |
 | 2/7/2025 | PDS3147A | CIT | Passed | 0.0 | 4.00 |
 | 2/7/2025 | PDS1834A | De-Escalation | Passed | 0.0 | 4.00 |
+| 2/6/2025 | PDS3891B | OC Training | Passed | 0.0 | 1.00 |
+| 2/6/2025 | PDS4534B | Taser | Passed | 0.0 | 1.00 |
+| 2/6/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
+| 2/6/2025 | PDS0859B | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 2/6/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
 | 2/5/2025 | PDS2435A | Confrontation Simulation | Passed | 0.0 | 3.00 |
 | 2/4/2025 | PDS4214A | PREA | Passed | 0.0 | 2.00 |
 | 2/4/2025 | PDS2731A | Range Qualification | Passed | 0.0 | 4.00 |

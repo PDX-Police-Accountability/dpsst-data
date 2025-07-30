@@ -61,6 +61,9 @@
 | 4/13/2025 | PDS1481A | Drug ID  Recognition | Passed | 0.0 | 5.00 |
 | 4/13/2025 | PDS3699A | Legal Update | Passed | 0.0 | 1.00 |
 | 3/11/2025 | PDS0639A | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
+| 2/11/2025 | PDS1600B | Suicide Prevention | Passed | 0.0 | 1.00 |
+| 2/11/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
+| 2/11/2025 | PDS1888B | Combating Complacency | Passed | 0.0 | 1.00 |
 | 1/21/2025 | PDS1408A | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 1/7/2025 | PDS2334A | January Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 1/1/2025 | PDS2880A | Supervisor Training | Passed | 0.0 | 1.00 |

@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/24/2025
+  course: PDN2168B
+  title: LS/CMI
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/1/2025
   course: PDN2188B
   title: Heat Illness Prevention

@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 7/2/2025
+  certificate: Parole  Probation Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/11/2022
   certificate: Parole  Probation Officer
   level: Intermediate

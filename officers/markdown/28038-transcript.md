@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
+| 6/24/2025 | PDS0859B | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 6/24/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
 | 4/30/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 4/14/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 3/7/2025 | PDS2391A | Search and Seizure Training | Passed | 0.0 | 1.50 |
