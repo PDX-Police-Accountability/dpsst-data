@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2025
+  course: PPP4295B
+  title: Intro to Explosive Detection Canine Unit
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/11/2025
   course: PPP2953B
   title: 'Firearms: Rifle and Pistol Optics Training'

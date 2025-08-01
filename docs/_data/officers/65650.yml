@@ -42,18 +42,108 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/17/2025
+  course: PDP2691B
+  title: 2025-2 Advanced Academy Patrol Procedures (FA)
+  status: Passed
+  score: '0.0'
+  hours: '83.00'
+- date: 6/14/2025
+  course: PDP1398B
+  title: 2025-2 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '50.25'
+- date: 6/11/2025
+  course: PDP0438B
+  title: 2025-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '29.25'
+- date: 6/10/2025
+  course: PDP3261B
+  title: 2025-2 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '55.75'
+- date: 6/10/2025
+  course: PDP1819B
+  title: 2025-2 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/5/2025
+  course: PDP1171B
+  title: 2025-2 Advanced Academy Walking Beat
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 6/3/2025
+  course: PDP2057B
+  title: 2025-2 Advanced Academy PDX Community Engagement
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 6/3/2025
+  course: PDP3308B
+  title: 2025-2 Advanced Academy Equity
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
+- date: 5/29/2025
+  course: PDP0269B
+  title: 2025-2 Advanced Academy Crisis Int. Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 5/29/2025
+  course: PDP1312B
+  title: 2025-2 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '28.50'
 - date: 5/26/2025
   course: PDP0621B
   title: AA 2025 Responding to a Mental Health Facility
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/26/2025
+  course: PDP4318B
+  title: 2025-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/20/2025
   course: PDP4322A
   title: 2025 Body Worn Camera Training
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/20/2025
+  course: PDP3754B
+  title: 2025-2 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/13/2025
+  course: PDP0691B
+  title: 2025-2 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '7.75'
+- date: 4/24/2025
+  course: PDP0871B
+  title: 2025-2 Advanced Academy Legit/Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/24/2025
+  course: PDP1134B
+  title: 2025-2 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/23/2025
   course: PDP3135B
   title: AA 2025 Building Police Legitimacy through PJ
@@ -66,6 +156,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/16/2025
+  course: PDP0592B
+  title: 2025-2 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/14/2025
+  course: PDP2922B
+  title: 2025-2 Advanced Academy Patrol Procedures (Other)
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/10/2025
   course: PDP0998B
   title: AA 2025 Behavioral Health Unit Overview

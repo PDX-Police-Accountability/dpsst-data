@@ -45,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/9/2025 | AVP0524B | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 6/11/2025 | AVP0547A | Monthly Leadership Meeting | Passed | 0.0 | 1.25 |
+| 6/11/2025 | SVP2764B | EVOC Refresher | Instructed | 0.0 | 8.00 |
 | 5/20/2025 | SVP4319A | Recognize Your Own Bias | Passed | 0.0 | 0.25 |
 | 5/20/2025 | SVP2006A | Harassment: Ensuring a Respectful Workplace | Passed | 0.0 | 0.25 |
 | 5/14/2025 | SYP1991A | Leadership - Marion Co | Passed | 0.0 | 1.25 |

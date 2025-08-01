@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/24/2025
+  course: PDP3488B
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/14/2025
   course: 25-0030
   title: DPSST Supervision F21 Equivalency
@@ -62,6 +68,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '90.00'
+- date: 6/26/2025
+  course: PDP3320B
+  title: 2025 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 6/24/2025
+  course: PDP2368B
+  title: 2025 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/19/2025
   course: PDP3101B
   title: 2025-1 All Sworn In-Service ABLE Refresher

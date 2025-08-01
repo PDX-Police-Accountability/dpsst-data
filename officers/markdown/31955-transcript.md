@@ -53,8 +53,8 @@
 | 3/26/2025 | CAP0189B | Bloodborne Pathogens For First Responders | Passed | 0.0 | 1.00 |
 | 3/21/2025 | CAP1707B | Hazmat | Passed | 0.0 | 1.50 |
 | 3/21/2025 | CAP0448B | PREA | Passed | 0.0 | 1.00 |
-| 2/19/2025 | CAP2865A | CPR / First Aid | Passed | 0.0 | 4.00 |
-| 1/27/2025 | CAP4265A | First Aid / CPR Adult  Child | Passed | 0.0 | 1.00 |
+| 2/19/2025 | CAP2865A | CPR/First Aid | Passed | 0.0 | 4.00 |
+| 1/27/2025 | CAP4265A | First Aid/CPR Adult  Child | Passed | 0.0 | 1.00 |
 | 1/22/2025 | CAP3093A | Annual Handgun Qualifications/Fundamentals | Passed | 0.0 | 2.00 |
 | 11/20/2024 | CAP0542A | Handgun Night Shoot | Passed | 0.0 | 2.00 |
 | 10/16/2024 | CAP1686A | Force on Force VCQB - Building Search | Passed | 0.0 | 2.00 |
@@ -68,10 +68,10 @@
 | 7/28/2024 | CAP0787A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 7/25/2024 | CAP3900A | Active Threat Training | Passed | 0.0 | 4.00 |
 | 7/17/2024 | CAP2414A | Positional Shooting/Movement/Shoot_No Shoot | Passed | 0.0 | 2.00 |
-| 6/13/2024 | CAP3673A | Patrol Rifle Reload - Transition- Malfunctions | Passed | 0.0 | 2.00 |
-| 5/15/2024 | CAP1235A | Handgun Reload / Malfunctions | Passed | 0.0 | 2.00 |
-| 5/6/2024 | CAP3627A | Defensive Tactics/Arrest, handcuffing  search | Passed | 0.0 | 4.00 |
-| 4/24/2024 | CAP0909A | Taser / 40mm Use of Force Training | Instructed | 0.0 | 6.00 |
+| 6/13/2024 | CAP3673A | Patrol Rifle Reload - Transition - Malfunctions | Passed | 0.0 | 2.00 |
+| 5/15/2024 | CAP1235A | Handgun Reload/Malfunctions | Passed | 0.0 | 2.00 |
+| 5/6/2024 | CAP3627A | Defensive Tactics/Arrest, Handcuffing  Search | Passed | 0.0 | 4.00 |
+| 4/24/2024 | CAP0909A | Taser/40mm Use of Force Training | Instructed | 0.0 | 6.00 |
 | 4/4/2024 | CAP2967A | Rifle Qualifications - Fundamentals | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/18/2024 | LOP2419A | Emergency Vehicle Operations | Passed | 0.0 | 9.00 |
@@ -99,9 +99,9 @@
 | 4/4/2023 | HUP35767 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 4/3/2023 | CAP3202A | Blood Borne Pathogens for First Responders | Passed | 0.0 | 1.00 |
 | 4/3/2023 | CAP0500 | Union Pacific RR Hazmat Management Railroading 101 | Passed | 0.0 | 1.50 |
-| 3/15/2023 | CAP15436 | Patrol Rifle Qualification / Reloads and Movement | Passed | 0.0 | 2.50 |
+| 3/15/2023 | CAP15436 | Patrol Rifle Qualification/Reloads and Movement | Passed | 0.0 | 2.50 |
 | 2/1/2023 | CAP27534 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
-| 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |
+| 1/25/2023 | CAP31130 | Handgun Qualifications/Basic Shield Use | Passed | 0.0 | 3.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |
 | 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 4.00 |
 | 1/11/2023 | F6R17124 | 2020's Portland, Oregon Protests  Civil Disorder | Passed | 0.0 | 4.00 |
@@ -141,8 +141,8 @@
 | 1/12/2022 | F6R23897 | Crowd Violence/Preventing Targeted Violence | Passed | 0.0 | 4.00 |
 | 1/3/2022 | BPT31437 | Adult Learning Core (Virtual) | Passed | 0.0 | 1.00 |
 | 1/3/2022 | BPT08851 | Skills Coaching Workshop (Virtual) | Passed | 0.0 | 1.00 |
-| 12/30/2021 | CAP39861 | Hazmat / Bloodborne Pathogens | Passed | 0.0 | 3.00 |
-| 12/30/2021 | CAP40262 | Prison Rape Elimination Act / PREA | Passed | 0.0 | 1.00 |
+| 12/30/2021 | CAP39861 | Hazmat/Bloodborne Pathogens | Passed | 0.0 | 3.00 |
+| 12/30/2021 | CAP40262 | Prison Rape Elimination Act/PREA | Passed | 0.0 | 1.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/1/2021 | CAP38565 | Ethics | Passed | 0.0 | 1.00 |
 | 9/29/2021 | F6F42738 | The Ignition and Prevention of Crowd Violence | Passed | 0.0 | 2.00 |
@@ -161,13 +161,13 @@
 | 4/29/2021 | LOP12720 | Protest Contact Team - Team Leader | Passed | 0.0 | 3.00 |
 | 3/17/2021 | CAP17752 | Patrol Rifle Qualifications and Training | Passed | 0.0 | 3.00 |
 | 3/8/2021 | CAP39408 | Avoiding Pitfalls of Inwardness to Max. Leadership | Passed | 0.0 | 4.00 |
-| 3/1/2021 | CAP29599 | Navigating pre-loss, claims, labor, employment law | Passed | 0.0 | 2.00 |
+| 3/1/2021 | CAP29599 | Navigating Pre-Loss, Claims, Labor, Employment Law | Passed | 0.0 | 2.00 |
 | 3/1/2021 | CAP19437 | Overcoming Adversity with Perseverance | Passed | 0.0 | 1.00 |
 | 3/1/2021 | CAP14405 | FBI Emerging Issues  Tactical Considerations | Passed | 0.0 | 1.00 |
 | 2/22/2021 | CAP24002 | Investigating Human Error | Passed | 0.0 | 2.50 |
 | 2/22/2021 | CAP08339 | Finding Our Way Forward Together | Passed | 0.0 | 1.50 |
 | 2/16/2021 | CAP43846 | Creating a Civil  Respectful Policing Culture | Passed | 0.0 | 4.00 |
-| 2/1/2021 | CAP11916 | CPR/AED/First Aid (adult/child) | Passed | 0.0 | 1.00 |
+| 2/1/2021 | CAP11916 | CPR/AED/First Aid (Adult/Child) | Passed | 0.0 | 1.00 |
 | 1/27/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/27/2021 | CAP11358 | Back-Up Off Duty Qualifications | Passed | 0.0 | 2.00 |
 | 1/20/2021 | CAP22319 | True Accountablility to Standards in Critical Dom | Passed | 0.0 | 2.00 |
@@ -188,7 +188,7 @@
 | 11/9/2020 | F6D27405 | Use of Force Law  Policy Issues | Passed | 0.0 | 2.00 |
 | 10/16/2020 | F6E40666 | Police Department Diciplinary Bulletin, Volume 28 | Passed | 0.0 | 0.50 |
 | 9/28/2020 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 7/15/2020 | CAP03127 | Patrol Rifle / Pistol Competition | Passed | 0.0 | 3.00 |
+| 7/15/2020 | CAP03127 | Patrol Rifle/Pistol Competition | Passed | 0.0 | 3.00 |
 | 7/3/2020 | CAP07204 | De-Escalation  Minimizing Use of Force | Passed | 0.0 | 2.00 |
 | 5/29/2020 | CAP16204 | Implicit Bias | Passed | 0.0 | 1.00 |
 | 5/20/2020 | CAP19219 | Handgun and Patrol Rifle Training | Passed | 0.0 | 3.00 |
@@ -202,8 +202,8 @@
 | 3/13/2020 | F6D24022 | FBI National Academy | Passed | 0.0 | 210.00 |
 | 1/15/2020 | CAP42852 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/12/2019 | MISCMAIN | 2019 LE Annual Required Maintenance | Completed | 0.0 | 0.00 |
-| 11/5/2019 | CAP25607 | Low light handgun and rifle training | Passed | 0.0 | 3.00 |
-| 9/18/2019 | CAP26511 | Patrol rifle zero and 100 yard training | Passed | 0.0 | 3.00 |
+| 11/5/2019 | CAP25607 | Low Light Handgun and Rifle Training | Passed | 0.0 | 3.00 |
+| 9/18/2019 | CAP26511 | Patrol Rifle Zero and 100 Yard Training | Passed | 0.0 | 3.00 |
 | 9/12/2019 | F6D29650 | How Should Leaders Lead? | Passed | 0.0 | 4.00 |
 | 9/11/2019 | F6D02049 | The 2019 Legislative Session | Passed | 0.0 | 2.00 |
 | 9/11/2019 | F6D13240 | August 17th Portland Protests After Action | Passed | 0.0 | 2.00 |
@@ -211,7 +211,7 @@
 | 6/26/2019 | CAP05356 | Vehicle Close Quarter Combat | Passed | 0.0 | 3.00 |
 | 5/1/2019 | F6D25360 | National Cyber Crimes Conference | Passed | 0.0 | 16.00 |
 | 4/24/2019 | CAP25580 | Krav Maga Force Training | Passed | 0.0 | 4.00 |
-| 4/17/2019 | CAP30433 | Injured Shooter handgun and rifle operations | Passed | 0.0 | 3.00 |
+| 4/17/2019 | CAP30433 | Injured Shooter Handgun and Rifle Operations | Passed | 0.0 | 3.00 |
 | 4/12/2019 | F6D00768 | Legislative Update | Passed | 0.0 | 1.00 |
 | 4/12/2019 | F6D12661 | Work Smarter, Live Better | Passed | 0.0 | 4.00 |
 | 4/11/2019 | F6D16269 | Public Safety Assistance Network  Responder LPS | Passed | 0.0 | 1.00 |

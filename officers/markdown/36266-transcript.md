@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2025 | SAG2878B | Firearms training | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SAG4107B | First Aid Training | Passed | 0.0 | 4.00 |
 | 6/6/2025 | SAG0243A | Firearms training | Passed | 0.0 | 1.50 |
 | 5/8/2025 | SAG2800A | Firearms Training | Passed | 0.0 | 2.00 |

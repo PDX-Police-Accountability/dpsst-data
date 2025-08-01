@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |
 | 7/17/2025 | PDP1138B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/10/2025 | PDP0026B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 6/27/2025 | PDP3198B | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 2.25 |

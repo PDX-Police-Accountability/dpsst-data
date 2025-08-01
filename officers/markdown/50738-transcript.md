@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2025 | PDP2358B | Respond to  Investigate Bomb Threats  Swat Hoax | Passed | 0.0 | 1.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/24/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 6/18/2025 | BPT1843A | Operational Peer Support Symposium | Passed | 0.0 | 8.00 |

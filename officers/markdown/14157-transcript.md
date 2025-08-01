@@ -51,7 +51,7 @@
 | 9/8/2021 | REG28478 | IA Investigations | Instructed | 0.0 | 8.00 |
 | 8/24/2021 | BPT25099 | Internal Affairs Investigations for PS Leadership | Instructed | 0.0 | 8.00 |
 | 3/8/2021 | CAP39408 | Avoiding Pitfalls of Inwardness to Max. Leadership | Passed | 0.0 | 4.00 |
-| 3/1/2021 | CAP29599 | Navigating pre-loss, claims, labor, employment law | Passed | 0.0 | 2.00 |
+| 3/1/2021 | CAP29599 | Navigating Pre-Loss, Claims, Labor, Employment Law | Passed | 0.0 | 2.00 |
 | 3/1/2021 | CAP19437 | Overcoming Adversity with Perseverance | Passed | 0.0 | 1.00 |
 | 3/1/2021 | CAP14405 | FBI Emerging Issues  Tactical Considerations | Passed | 0.0 | 1.00 |
 | 3/1/2021 | F6D19954 | Navigating the Pre-Loss, Claim, Labor  Employ. | Passed | 0.0 | 2.00 |
@@ -60,7 +60,7 @@
 | 2/22/2021 | CAP08339 | Finding Our Way Forward Together | Passed | 0.0 | 1.50 |
 | 2/22/2021 | CAP24002 | Investigating Human Error | Passed | 0.0 | 2.50 |
 | 2/16/2021 | F6D36594 | Creating a Civil  Respectful Policing Culture | Passed | 0.0 | 4.00 |
-| 2/1/2021 | CAP11916 | CPR/AED/First Aid (adult/child) | Passed | 0.0 | 1.00 |
+| 2/1/2021 | CAP11916 | CPR/AED/First Aid (Adult/Child) | Passed | 0.0 | 1.00 |
 | 1/27/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/27/2021 | CAP11358 | Back-Up Off Duty Qualifications | Passed | 0.0 | 2.00 |
 | 1/15/2021 | CAP11016 | OR Measure 110 legal update | Passed | 0.0 | 1.50 |
@@ -70,7 +70,7 @@
 | 9/28/2020 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/29/2020 | CAP24924 | 40mm Less Lethal Refresher | Passed | 0.0 | 1.50 |
 | 7/29/2020 | CAP12335 | Taser Refresher Training | Passed | 0.0 | 1.50 |
-| 7/15/2020 | CAP03127 | Patrol Rifle / Pistol Competition | Passed | 0.0 | 3.00 |
+| 7/15/2020 | CAP03127 | Patrol Rifle/Pistol Competition | Passed | 0.0 | 3.00 |
 | 7/3/2020 | CAP07204 | De-Escalation  Minimizing Use of Force | Passed | 0.0 | 2.00 |
 | 5/29/2020 | CAP16204 | Implicit Bias | Passed | 0.0 | 1.00 |
 | 5/20/2020 | CAP19219 | Handgun and Patrol Rifle Training | Passed | 0.0 | 3.00 |
@@ -79,14 +79,14 @@
 | 4/28/2020 | CAP14776 | Hazmat First Responder Awareness | Passed | 0.0 | 2.00 |
 | 4/15/2020 | CAP36061 | Airborne  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 4/15/2020 | CAP09518 | Covid-19 for Law Enforcement | Passed | 0.0 | 1.00 |
-| 3/11/2020 | CAP41587 | Handgun and Rifle positional shooting /movement | Passed | 0.0 | 3.00 |
+| 3/11/2020 | CAP41587 | Handgun and Rifle Positional Shooting/Movement | Passed | 0.0 | 3.00 |
 | 2/5/2020 | CAP37071 | Back Up and Off Duty Handgun Qualifications | Passed | 0.0 | 1.00 |
 | 1/15/2020 | CAP42852 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/12/2019 | MISCMAIN | 2019 LE Annual Required Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2019 | F6D37185 | Basic Facilitator Development | Passed | 0.0 | 18.00 |
 | 11/27/2019 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
-| 11/5/2019 | CAP25607 | Low light handgun and rifle training | Passed | 0.0 | 3.00 |
-| 9/18/2019 | CAP26511 | Patrol rifle zero and 100 yard training | Passed | 0.0 | 3.00 |
+| 11/5/2019 | CAP25607 | Low Light Handgun and Rifle Training | Passed | 0.0 | 3.00 |
+| 9/18/2019 | CAP26511 | Patrol Rifle Zero and 100 Yard Training | Passed | 0.0 | 3.00 |
 | 9/12/2019 | F6D29650 | How Should Leaders Lead? | Passed | 0.0 | 4.00 |
 | 9/11/2019 | F6D02049 | The 2019 Legislative Session | Passed | 0.0 | 2.00 |
 | 9/11/2019 | F6D13240 | August 17th Portland Protests After Action | Passed | 0.0 | 2.00 |
@@ -94,7 +94,7 @@
 | 7/19/2019 | CAP32290 | Active Threat Mass Cassualty Training | Passed | 0.0 | 2.00 |
 | 6/26/2019 | CAP30343 | High Risk Vehicle Stops | Passed | 0.0 | 2.00 |
 | 6/26/2019 | CAP05356 | Vehicle Close Quarter Combat | Passed | 0.0 | 3.00 |
-| 4/17/2019 | CAP30433 | Injured Shooter handgun and rifle operations | Passed | 0.0 | 3.00 |
+| 4/17/2019 | CAP30433 | Injured Shooter Handgun and Rifle Operations | Passed | 0.0 | 3.00 |
 | 4/12/2019 | F6D12661 | Work Smarter, Live Better | Passed | 0.0 | 4.00 |
 | 4/10/2019 | F6D20890 | How to Communicate Effectively w/Everyone You Lead | Passed | 0.0 | 3.50 |
 | 4/3/2019 | CAP25580 | Krav Maga Force Training | Passed | 0.0 | 4.00 |
@@ -117,9 +117,9 @@
 | 9/26/2018 | F6B29633 | Thriving from Hire to retire - Increasing resil. | Passed | 0.0 | 4.00 |
 | 7/6/2018 | CAP11367 | Anti-bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 6/30/2018 | CAP38505 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
-| 6/30/2018 | CAP20705 | Hazmat for first responders | Passed | 0.0 | 1.00 |
+| 6/30/2018 | CAP20705 | Hazmat for First Responders | Passed | 0.0 | 1.00 |
 | 6/20/2018 | CAP15006 | Active Threat Tactical Response | Passed | 0.0 | 4.00 |
-| 5/16/2018 | CAP05704 | Handgun qualification and training | Passed | 0.0 | 3.00 |
+| 5/16/2018 | CAP05704 | Handgun Qualification and Training | Passed | 0.0 | 3.00 |
 | 5/15/2018 | CAP39295 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 4/13/2018 | F6B09877 | Labor  Employment Law Briefing; Steven Schuback | Passed | 0.0 | 2.00 |
 | 4/13/2018 | F6W26025 | 2019 Legislative Session - The Coming Storm | Passed | 0.0 | 1.00 |
@@ -127,7 +127,7 @@
 | 4/11/2018 | F6W03529 | American Red Cross "Response to Las Vegas" | Passed | 0.0 | 1.00 |
 | 4/11/2018 | F6B15027 | Las Vegas Metro PD "Lessons Learned from Las | Passed | 0.0 | 2.00 |
 | 4/11/2018 | F6W09440 | Leadership on the Edge | Passed | 0.0 | 4.00 |
-| 3/28/2018 | CAP25210 | Patrol Rifle Qualifications and training | Passed | 0.0 | 3.00 |
+| 3/28/2018 | CAP25210 | Patrol Rifle Qualifications and Training | Passed | 0.0 | 3.00 |
 | 1/18/2018 | F6W04338 | Not Just Surviving; Leading through loss, Conflict | Passed | 0.0 | 2.00 |
 | 1/18/2018 | F6W32954 | By the Numbers-Oregon's Criminal Justice Lanscape | Passed | 0.0 | 1.00 |
 | 1/18/2018 | F6W24273 | Destination Zero: Collaborating to Advance Safety | Passed | 0.0 | 1.00 |
@@ -135,23 +135,23 @@
 | 1/17/2018 | F6W37667 | Leadership for Reducing Organizational Stress | Passed | 0.0 | 4.00 |
 | 1/17/2018 | F6W09615 | Oregon PSRB  Law Enforcement: Public Safety | Passed | 0.0 | 1.00 |
 | 1/17/2018 | F6W36572 | The Oregon Behavioral Crisis Response Initiative | Passed | 0.0 | 1.00 |
-| 12/13/2017 | CAP42792 | Mark 43 report writing | Passed | 0.0 | 4.00 |
+| 12/13/2017 | CAP42792 | Mark 43 Report Writing | Passed | 0.0 | 4.00 |
 | 11/15/2017 | CAP09646 | Low Light Firearms Training | Passed | 0.0 | 2.50 |
 | 10/18/2017 | CAP26628 | 40mm Less Lethal Training | Passed | 0.0 | 1.50 |
-| 10/18/2017 | CAP23497 | Taser refresher training | Passed | 0.0 | 1.50 |
+| 10/18/2017 | CAP23497 | Taser Refresher Training | Passed | 0.0 | 1.50 |
 | 9/27/2017 | F6A09697 | Leading an Uncommon Life Leading with Perseverance | Passed | 0.0 | 2.00 |
 | 9/27/2017 | F6A09696 | Every Interaction, Every Time - Lessons Learned | Passed | 0.0 | 1.00 |
 | 9/27/2017 | F6A09801 | Leading on Empty-Lessons Learned for Rock Bottom | Passed | 0.0 | 1.25 |
 | 9/27/2017 | F6A09803 | Joint Board Meeting | Passed | 0.0 | 1.50 |
 | 9/13/2017 | CAP40255 | 100 Yard Patrol Rifle Training | Passed | 0.0 | 3.00 |
 | 7/18/2017 | MKP26906 | Lake Oswego Protest Debrief March 4, 2017 | Passed | 0.0 | 1.50 |
-| 7/12/2017 | CAP13222 | Tactical patrol rifle and handgun competition | Passed | 0.0 | 2.00 |
+| 7/12/2017 | CAP13222 | Tactical Patrol Rifle and Handgun Competition | Passed | 0.0 | 2.00 |
 | 7/2/2017 | CAP42342 | Ambush Awareness Training | Passed | 0.0 | 1.00 |
-| 6/28/2017 | CAP18394 | Active Shooter - tactical response | Passed | 0.0 | 4.00 |
+| 6/28/2017 | CAP18394 | Active Shooter - Tactical Response | Passed | 0.0 | 4.00 |
 | 6/15/2017 | F6C04276 | Moral Fitness Rule Changes | Passed | 0.0 | 0.50 |
 | 5/17/2017 | CAP16459 | Duty Handgun Qualifications and Training | Passed | 0.0 | 3.00 |
 | 5/17/2017 | CAP19661 | Hazmat First Responder Awareness | Passed | 0.0 | 1.00 |
-| 5/17/2017 | CAP42520 | Bloodborne pathogens | Passed | 0.0 | 1.00 |
+| 5/17/2017 | CAP42520 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 4/21/2017 | F6A04911 | Oregon Accreditation Alliance Managers Course | Passed | 0.0 | 5.00 |
 | 4/14/2017 | F6A07975 | The Menasha Active Shooter Tragedy | Passed | 0.0 | 4.00 |
 | 4/13/2017 | F6A07973 | The Intersection of Race,Violence  Medicine | Passed | 0.0 | 4.00 |
@@ -165,22 +165,22 @@
 | 1/19/2017 | F6A04412 | Executive Leadership Training-Part 2 | Passed | 0.0 | 2.00 |
 | 1/18/2017 | F6A03852 | Executive Leadership Training - Other | Passed | 0.0 | 4.00 |
 | 1/18/2017 | F6A03851 | Executive Leadership Training-Part 2 | Passed | 0.0 | 4.00 |
-| 12/20/2016 | CAP28906 | CPR, AED | Passed | 0.0 | 2.00 |
+| 12/20/2016 | CAP28906 | CPR/AED | Passed | 0.0 | 2.00 |
 | 11/30/2016 | F6A03967 | Problem Oriented Policing | Passed | 0.0 | 9.00 |
-| 11/16/2016 | CAP22369 | Tactical Low Light Shooting / Use of Deadly Force | Passed | 0.0 | 2.00 |
+| 11/16/2016 | CAP22369 | Tactical Low Light Shooting/Use of Deadly Force | Passed | 0.0 | 2.00 |
 | 10/20/2016 | CAP03755 | Patrol Rifle 100 yard Qaulification and Training | Passed | 0.0 | 3.00 |
 | 10/19/2016 | F6A02747 | CIS Fall Supervisor Training 2016: FMLA/ADA | Passed | 0.0 | 3.50 |
 | 9/28/2016 | F6A02479 | OACP/OSSA Fall Leadership Conference | Passed | 0.0 | 4.00 |
-| 7/13/2016 | CAP10364 | Handgun qualification and tactical use | Passed | 0.0 | 3.00 |
+| 7/13/2016 | CAP10364 | Handgun Qualification and Tactical Use | Passed | 0.0 | 3.00 |
 | 6/23/2016 | F6C22799 | Active Shooter Tactical Response | Passed | 0.0 | 3.00 |
-| 6/6/2016 | CAP26975 | Opiate Overdose - Narcan nasal spray training | Passed | 0.0 | 1.00 |
+| 6/6/2016 | CAP26975 | Opiate Overdose - Narcan Nasal Spray Training | Passed | 0.0 | 1.00 |
 | 6/1/2016 | F6C13754 | Firearms Training | Passed | 0.0 | 3.00 |
 | 4/27/2016 | CAP29211 | Tactical Duty Knife | Passed | 0.0 | 4.00 |
 | 4/15/2016 | F6C00068 | OACP Annual Conference Training: Day 3 | Passed | 0.0 | 4.00 |
 | 4/14/2016 | F6C00067 | OACP Annual Conference Training: Day 2 | Passed | 0.0 | 8.00 |
 | 4/13/2016 | F6C00066 | OACP Annual Conference Training: Day 1 | Passed | 0.0 | 8.00 |
 | 3/16/2016 | F6C25895 | Firearms Training | Passed | 0.0 | 3.00 |
-| 1/20/2016 | CAP12045 | Taser refresher training | Passed | 0.0 | 1.50 |
+| 1/20/2016 | CAP12045 | Taser Refresher Training | Passed | 0.0 | 1.50 |
 | 12/31/2015 | MISCMAIN | 2015 Police Maintenance Leadership | Completed | 0.0 | 0.00 |
 | 12/3/2015 | 15-0109 | Confrontational Simulation | Passed | 0.0 | 2.00 |
 | 10/21/2015 | 15-0356 | Problem-Oriented Policing Conference | Passed | 0.0 | 24.00 |

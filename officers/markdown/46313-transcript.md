@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2025 | PPP4295B | Intro to Explosive Detection Canine Unit | Passed | 0.0 | 0.50 |
 | 6/14/2025 | PPP2953B | Firearms: Rifle and Pistol Optics Training | Passed | 0.0 | 4.00 |
 | 5/22/2025 | PPP4082A | Firearms Swab Training | Passed | 0.0 | 1.00 |
 | 4/30/2025 | PPP2106A | Human Trafficking 101 | Passed | 0.0 | 1.00 |

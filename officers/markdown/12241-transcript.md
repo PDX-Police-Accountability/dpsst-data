@@ -66,7 +66,7 @@
 | 10/10/2018 | F6B21654 | Legal Updates for Sept. 10 2018 | Passed | 0.0 | 1.00 |
 | 10/10/2018 | F6B30955 | Strangulation Investigation | Passed | 0.0 | 0.50 |
 | 10/3/2018 | F6B41956 | Range Training | Passed | 0.0 | 3.00 |
-| 10/3/2018 | CAP09115 | Handgun and patrol rifle competition. | Passed | 0.0 | 3.00 |
+| 10/3/2018 | CAP09115 | Handgun and Patrol Rifle Competition | Passed | 0.0 | 3.00 |
 | 9/27/2018 | F6W29079 | Officer Wellness Statewide Task Force Presentation | Passed | 0.0 | 1.50 |
 | 9/27/2018 | F6B39147 | Portland Area Gun Crime Initiative | Passed | 0.0 | 1.00 |
 | 9/27/2018 | F6B32379 | Officer Wellness Statewide Task Force Presentation | Passed | 0.0 | 1.50 |
@@ -114,7 +114,7 @@
 | 12/14/2017 | F6C22117 | Hazardous Materials | Passed | 0.0 | 1.00 |
 | 12/13/2017 | F6C19900 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 12/13/2017 | F6B16768 | Ethics and Sexual Harassment | Passed | 0.0 | 1.00 |
-| 12/12/2017 | CAP08983 | Mark 43 report writing | Passed | 0.0 | 4.00 |
+| 12/12/2017 | CAP08983 | Mark 43 Report Writing | Passed | 0.0 | 4.00 |
 | 11/29/2017 | F6C33274 | Firearms - Low Light | Passed | 0.0 | 3.00 |
 | 10/31/2017 | F6C07989 | Customer Service | Passed | 0.0 | 3.00 |
 | 10/4/2017 | F6A09810 | Search Warrant Writing | Passed | 0.0 | 1.00 |
@@ -125,7 +125,7 @@
 | 9/20/2017 | F6C24320 | Qualifications/Training-Rifles | Passed | 0.0 | 3.00 |
 | 9/20/2017 | F6C38147 | Firearms-Qualifications (Secondary Weapons) | Passed | 0.0 | 1.00 |
 | 7/18/2017 | MKP26906 | Lake Oswego Protest Debrief March 4, 2017 | Passed | 0.0 | 1.50 |
-| 6/28/2017 | CAP18394 | Active Shooter - tactical response | Passed | 0.0 | 4.00 |
+| 6/28/2017 | CAP18394 | Active Shooter - Tactical Response | Passed | 0.0 | 4.00 |
 | 6/27/2017 | F6C11870 | Threat Assessment-Salem/Keizer Model | Passed | 0.0 | 16.00 |
 | 4/19/2017 | F6C00718 | Firearms Training | Passed | 0.0 | 3.00 |
 | 4/14/2017 | F6A07975 | The Menasha Active Shooter Tragedy | Passed | 0.0 | 4.00 |

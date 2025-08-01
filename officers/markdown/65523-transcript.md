@@ -29,10 +29,27 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/17/2025 | PDP2691B | 2025-2 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 83.00 |
+| 6/14/2025 | PDP1398B | 2025-2 Advanced Academy PVO | Passed | 0.0 | 50.25 |
+| 6/11/2025 | PDP0438B | 2025-2 Advanced Academy Firearms | Passed | 0.0 | 29.25 |
+| 6/10/2025 | PDP3261B | 2025-2 Advanced Academy Control Tactics | Passed | 0.0 | 60.25 |
+| 6/10/2025 | PDP1819B | 2025-2 Advanced Academy Wellness | Passed | 0.0 | 8.00 |
+| 6/5/2025 | PDP1171B | 2025-2 Advanced Academy Walking Beat | Passed | 0.0 | 20.00 |
+| 6/3/2025 | PDP2057B | 2025-2 Advanced Academy PDX Community Engagement | Passed | 0.0 | 4.50 |
+| 6/3/2025 | PDP3308B | 2025-2 Advanced Academy Equity | Passed | 0.0 | 23.50 |
+| 5/29/2025 | PDP0269B | 2025-2 Advanced Academy Crisis Int. Training | Passed | 0.0 | 21.00 |
+| 5/29/2025 | PDP1312B | 2025-2 Advanced Academy Law | Passed | 0.0 | 28.50 |
 | 5/26/2025 | PDP0621B | AA 2025 Responding to a Mental Health Facility | Passed | 0.0 | 0.25 |
+| 5/26/2025 | PDP4318B | 2025-2 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
+| 5/20/2025 | PDP3754B | 2025-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
+| 5/13/2025 | PDP0691B | 2025-2 Advanced Academy Fitness | Passed | 0.0 | 7.75 |
+| 4/24/2025 | PDP0871B | 2025-2 Advanced Academy Legit/Procedural Justice | Passed | 0.0 | 0.50 |
+| 4/24/2025 | PDP1134B | 2025-2 Advanced Academy Ethics | Passed | 0.0 | 0.50 |
 | 4/23/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/23/2025 | PDP3135B | AA 2025 Building Police Legitimacy through PJ | Passed | 0.0 | 0.25 |
 | 4/23/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 4/16/2025 | PDP0592B | 2025-2 Advanced Academy CEW | Passed | 0.0 | 1.00 |
+| 4/14/2025 | PDP2922B | 2025-2 Advanced Academy Patrol Procedures (Other) | Passed | 0.0 | 9.00 |
 | 4/10/2025 | PDP0998B | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
 | 4/10/2025 | PDP2699B | AA 2025 Project Respond | Passed | 0.0 | 0.25 |
 | 4/4/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |

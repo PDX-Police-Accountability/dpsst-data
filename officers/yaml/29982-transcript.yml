@@ -108,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 6/11/2025
+  course: SVP2764B
+  title: EVOC Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/20/2025
   course: SVP4319A
   title: Recognize Your Own Bias

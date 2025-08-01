@@ -30,12 +30,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 10/24/2026
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 7/2/2025
   course: PDP0096A
   title: Radar Lidar Operator Course

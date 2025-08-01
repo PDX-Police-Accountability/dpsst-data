@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2025 | PPP4295B | Intro to Explosive Detection Canine Unit | Passed | 0.0 | 0.50 |
 | 6/11/2025 | PPP2953B | Firearms: Rifle and Pistol Optics Training | Passed | 0.0 | 4.00 |
 | 6/4/2025 | PPP3425B | Initial Patrol Rifle Certification Course | Passed | 0.0 | 24.00 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |

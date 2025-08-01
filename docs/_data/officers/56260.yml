@@ -1420,13 +1420,13 @@ training_records:
   hours: '10.00'
 - date: 12/30/2021
   course: CAP39861
-  title: Hazmat / Bloodborne Pathogens
+  title: Hazmat/Bloodborne Pathogens
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 12/30/2021
   course: CAP40262
-  title: Prison Rape Elimination Act / PREA
+  title: Prison Rape Elimination Act/PREA
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1438,7 +1438,7 @@ training_records:
   hours: '0.00'
 - date: 12/6/2021
   course: CAP08825
-  title: CPR First AID / AED
+  title: CPR/First Aid/AED
   status: Passed
   score: '0.0'
   hours: '4.00'

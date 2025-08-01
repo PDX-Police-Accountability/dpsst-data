@@ -629,7 +629,7 @@ training_records:
   hours: '0.25'
 - date: 4/3/2023
   course: CAP19868
-  title: VCQB / High Risk Vehicle Stop Firearms
+  title: VCQB/High Risk Vehicle Stop Firearms
   status: Passed
   score: '0.0'
   hours: '3.00'

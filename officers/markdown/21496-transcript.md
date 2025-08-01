@@ -60,6 +60,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2025 | VND0402B | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 7/10/2025 | OSH2203B | OSP People in Crisis | Passed | 0.0 | 4.00 |
 | 4/17/2025 | OSH0843B | 1st Trimester Firearms | Passed | 0.0 | 3.50 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |

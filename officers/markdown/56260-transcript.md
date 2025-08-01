@@ -265,10 +265,10 @@
 | 3/25/2022 | CAP37217 | HB 2513 Airway and Circulatory Crisis Legislation | Passed | 0.0 | 2.00 |
 | 3/16/2022 | F6R37504 | Patrol Rifle Fundamentals and Qualification | Passed | 0.0 | 3.00 |
 | 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
-| 12/30/2021 | CAP39861 | Hazmat / Bloodborne Pathogens | Passed | 0.0 | 3.00 |
-| 12/30/2021 | CAP40262 | Prison Rape Elimination Act / PREA | Passed | 0.0 | 1.00 |
+| 12/30/2021 | CAP39861 | Hazmat/Bloodborne Pathogens | Passed | 0.0 | 3.00 |
+| 12/30/2021 | CAP40262 | Prison Rape Elimination Act/PREA | Passed | 0.0 | 1.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 12/6/2021 | CAP08825 | CPR First AID / AED | Passed | 0.0 | 4.00 |
+| 12/6/2021 | CAP08825 | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 12/1/2021 | CAP38565 | Ethics | Passed | 0.0 | 1.00 |
 | 11/17/2021 | F6E40154 | Firearms Night Shoot | Passed | 0.0 | 3.00 |
 | 11/9/2021 | HUP15092 | Surviving Deadly Encounters | Passed | 0.0 | 8.00 |

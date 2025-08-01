@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/27/2025 | PDS0180A | Range | Instructed | 0.0 | 2.00 |
+| 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |
 | 5/30/2025 | PDS1585A | Patrol Rifle | Instructed | 0.0 | 24.00 |
 | 5/20/2025 | PDS1349A | Taser 7 IDC | Passed | 0.0 | 8.00 |
 | 4/30/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |

@@ -68,6 +68,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/26/2025
+  course: PDP3320B
+  title: 2025 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 6/26/2025
+  course: PDP3320B
+  title: 2025 SERT Training - ITERATION
+  status: Instructed
+  score: '0.0'
+  hours: '5.50'
+- date: 6/24/2025
+  course: PDP2368B
+  title: 2025 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/24/2025
+  course: PDP2368B
+  title: 2025 SERT Training - ITERATION
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/19/2025
   course: PDP0430A
   title: 2025 SERT Training - ITERATION

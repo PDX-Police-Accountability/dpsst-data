@@ -78,7 +78,7 @@
 | 2/7/2018 | F6B19457 | Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 2/1/2018 | F6B39184 | Massive Hemorrhage/Tension Pneumothorax Training | Passed | 0.0 | 1.00 |
 | 12/31/2017 | F6B01017 | Dailt Training Bulletins-Multiple Topics-Risk Mgt | Passed | 0.0 | 10.00 |
-| 12/12/2017 | CAP08983 | Mark 43 report writing | Passed | 0.0 | 4.00 |
+| 12/12/2017 | CAP08983 | Mark 43 Report Writing | Passed | 0.0 | 4.00 |
 | 12/8/2017 | F6B36743 | Handgun Training  Qualification | Passed | 0.0 | 2.00 |
 | 12/8/2017 | F6B05194 | MILO - Use of Force Scenarios | Passed | 0.0 | 1.00 |
 | 9/27/2017 | F6C21542 | Handgun Training  Qualification | Passed | 0.0 | 3.00 |

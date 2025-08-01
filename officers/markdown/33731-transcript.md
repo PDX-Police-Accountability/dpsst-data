@@ -37,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/24/2025 | PDN2168B | LS/CMI | Passed | 0.0 | 16.00 |
+| 7/1/2025 | PDN3111B | Wildfire Smoke Exposure Control and Protection | Passed | 0.0 | 0.50 |
+| 7/1/2025 | PDN4015B | Working with Victims and Survivors for DCJ | Passed | 0.0 | 1.50 |
 | 6/1/2025 | PDN2188B | Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 5/20/2025 | PDN2640A | Confrontational Simulation - Legal Issues | Passed | 0.0 | 2.00 |
 | 4/29/2025 | PDN4012A | Report Writing  Hearings Unit Procedure | Passed | 0.0 | 2.00 |

@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/18/2025
+  course: PPP0038B
+  title: Flex Cuffs and Restraints Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/18/2025
+  course: PPP4183B
+  title: Rapid Response Team Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/26/2025
+  course: PPP4295B
+  title: Intro to Explosive Detection Canine Unit
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/12/2025
   course: PPP2953B
   title: 'Firearms: Rifle and Pistol Optics Training'

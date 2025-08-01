@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2025 | PPP0038B | Flex Cuffs and Restraints Training | Passed | 0.0 | 1.00 |
+| 7/18/2025 | PPP4183B | Rapid Response Team Refresher Training | Passed | 0.0 | 8.00 |
+| 6/26/2025 | PPP4295B | Intro to Explosive Detection Canine Unit | Passed | 0.0 | 0.50 |
 | 6/12/2025 | PPP2953B | Firearms: Rifle and Pistol Optics Training | Passed | 0.0 | 4.00 |
 | 4/30/2025 | PPP2106A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
 | 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |

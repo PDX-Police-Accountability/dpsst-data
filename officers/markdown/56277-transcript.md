@@ -51,8 +51,8 @@
 | 3/26/2025 | CAP0189B | Bloodborne Pathogens For First Responders | Passed | 0.0 | 1.00 |
 | 3/21/2025 | CAP1707B | Hazmat | Passed | 0.0 | 1.50 |
 | 3/21/2025 | CAP0448B | PREA | Passed | 0.0 | 1.00 |
-| 2/19/2025 | CAP2865A | CPR / First Aid | Instructed | 0.0 | 8.00 |
-| 1/27/2025 | CAP4265A | First Aid / CPR Adult  Child | Passed | 0.0 | 1.00 |
+| 2/19/2025 | CAP2865A | CPR/First Aid | Instructed | 0.0 | 8.00 |
+| 1/27/2025 | CAP4265A | First Aid/CPR Adult  Child | Passed | 0.0 | 1.00 |
 | 1/22/2025 | CAP3093A | Annual Handgun Qualifications/Fundamentals | Passed | 0.0 | 2.00 |
 | 1/8/2025 | CAP1723A | Taser 10 Instructor Certification Course | Passed | 0.0 | 8.00 |
 | 12/18/2024 | CAP4227A | Night Shoot - Patrol Rifle | Instructed | 0.0 | 4.00 |
@@ -64,20 +64,20 @@
 | 7/28/2024 | CAP0787A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 7/25/2024 | CAP3900A | Active Threat Training | Passed | 0.0 | 4.00 |
 | 7/17/2024 | CAP2414A | Positional Shooting/Movement/Shoot_No Shoot | Passed | 0.0 | 2.00 |
-| 6/13/2024 | CAP3673A | Patrol Rifle Reload - Transition- Malfunctions | Passed | 0.0 | 2.00 |
+| 6/13/2024 | CAP3673A | Patrol Rifle Reload - Transition - Malfunctions | Passed | 0.0 | 2.00 |
 | 5/27/2024 | CAP2707A | Adult Child and Baby First Aid/CPR/AED | Passed | 0.0 | 2.00 |
-| 5/15/2024 | CAP1235A | Handgun Reload / Malfunctions | Instructed | 0.0 | 8.00 |
-| 5/6/2024 | CAP3627A | Defensive Tactics/Arrest, handcuffing  search | Passed | 0.0 | 4.00 |
-| 4/24/2024 | CAP0909A | Taser / 40mm Use of Force Training | Passed | 0.0 | 3.00 |
+| 5/15/2024 | CAP1235A | Handgun Reload/Malfunctions | Instructed | 0.0 | 8.00 |
+| 5/6/2024 | CAP3627A | Defensive Tactics/Arrest, Handcuffing  Search | Passed | 0.0 | 4.00 |
+| 4/24/2024 | CAP0909A | Taser/40mm Use of Force Training | Passed | 0.0 | 3.00 |
 | 4/4/2024 | CAP2967A | Rifle Qualifications - Fundamentals | Passed | 0.0 | 2.00 |
 | 3/14/2024 | REG2229A | Pistol Mounted Optic IDC | Passed | 0.0 | 16.00 |
 | 3/3/2024 | LOP2899A | Emergency Vehicle Operations | Passed | 0.0 | 9.00 |
 | 1/24/2024 | CAP2263A | Annual Handgun Qualification/Fundamentals | Instructed | 0.0 | 6.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 11/15/2023 | CAP3765A | Low Light / VCQB | Instructed | 0.0 | 4.00 |
+| 11/15/2023 | CAP3765A | Low Light/VCQB | Instructed | 0.0 | 4.00 |
 | 11/4/2023 | CAP3832A | Leadership Lessons Greatest TED Talks in History | Passed | 0.0 | 16.00 |
 | 11/1/2023 | CAP0862A | Ethics In Law Enforcement (PoliceOne Academy) | Passed | 0.0 | 1.00 |
-| 10/4/2023 | CAP2134A | Low Light / VCQB | Instructed | 0.0 | 4.00 |
+| 10/4/2023 | CAP2134A | Low Light/VCQB | Instructed | 0.0 | 4.00 |
 | 9/13/2023 | CAP0876A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
 | 9/13/2023 | CAP3894A | The C.A.L.M Approach | Passed | 0.0 | 2.00 |
 | 9/13/2023 | CAP3939A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
@@ -87,8 +87,8 @@
 | 4/3/2023 | CAP3202A | Blood Borne Pathogens for First Responders | Passed | 0.0 | 1.00 |
 | 4/3/2023 | CAP0500 | Union Pacific RR Hazmat Management Railroading 101 | Passed | 0.0 | 1.50 |
 | 3/23/2023 | CAP41884 | Unmasking Facial Expressions | Passed | 0.0 | 6.50 |
-| 3/15/2023 | CAP15436 | Patrol Rifle Qualification / Reloads and Movement | Passed | 0.0 | 5.00 |
-| 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |
+| 3/15/2023 | CAP15436 | Patrol Rifle Qualification/Reloads and Movement | Passed | 0.0 | 5.00 |
+| 1/25/2023 | CAP31130 | Handgun Qualifications/Basic Shield Use | Passed | 0.0 | 3.00 |
 | 12/31/2022 | CAP1774A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/13/2022 | CAP03923 | Finding the Leader in You | Passed | 0.0 | 6.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

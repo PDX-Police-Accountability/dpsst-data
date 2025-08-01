@@ -146,7 +146,7 @@ training_records:
   hours: '4.00'
 - date: 3/1/2021
   course: CAP29599
-  title: Navigating pre-loss, claims, labor, employment law
+  title: Navigating Pre-Loss, Claims, Labor, Employment Law
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -200,7 +200,7 @@ training_records:
   hours: '4.00'
 - date: 2/1/2021
   course: CAP11916
-  title: CPR/AED/First Aid (adult/child)
+  title: CPR/AED/First Aid (Adult/Child)
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -260,7 +260,7 @@ training_records:
   hours: '1.50'
 - date: 7/15/2020
   course: CAP03127
-  title: Patrol Rifle / Pistol Competition
+  title: Patrol Rifle/Pistol Competition
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -314,7 +314,7 @@ training_records:
   hours: '1.00'
 - date: 3/11/2020
   course: CAP41587
-  title: Handgun and Rifle positional shooting /movement
+  title: Handgun and Rifle Positional Shooting/Movement
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -350,13 +350,13 @@ training_records:
   hours: '2.00'
 - date: 11/5/2019
   course: CAP25607
-  title: Low light handgun and rifle training
+  title: Low Light Handgun and Rifle Training
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 9/18/2019
   course: CAP26511
-  title: Patrol rifle zero and 100 yard training
+  title: Patrol Rifle Zero and 100 Yard Training
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -404,7 +404,7 @@ training_records:
   hours: '3.00'
 - date: 4/17/2019
   course: CAP30433
-  title: Injured Shooter handgun and rifle operations
+  title: Injured Shooter Handgun and Rifle Operations
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -542,7 +542,7 @@ training_records:
   hours: '1.00'
 - date: 6/30/2018
   course: CAP20705
-  title: Hazmat for first responders
+  title: Hazmat for First Responders
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -554,7 +554,7 @@ training_records:
   hours: '4.00'
 - date: 5/16/2018
   course: CAP05704
-  title: Handgun qualification and training
+  title: Handgun Qualification and Training
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -602,7 +602,7 @@ training_records:
   hours: '4.00'
 - date: 3/28/2018
   course: CAP25210
-  title: Patrol Rifle Qualifications and training
+  title: Patrol Rifle Qualifications and Training
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -650,7 +650,7 @@ training_records:
   hours: '1.00'
 - date: 12/13/2017
   course: CAP42792
-  title: Mark 43 report writing
+  title: Mark 43 Report Writing
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -668,7 +668,7 @@ training_records:
   hours: '1.50'
 - date: 10/18/2017
   course: CAP23497
-  title: Taser refresher training
+  title: Taser Refresher Training
   status: Passed
   score: '0.0'
   hours: '1.50'
@@ -710,7 +710,7 @@ training_records:
   hours: '1.50'
 - date: 7/12/2017
   course: CAP13222
-  title: Tactical patrol rifle and handgun competition
+  title: Tactical Patrol Rifle and Handgun Competition
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -722,7 +722,7 @@ training_records:
   hours: '1.00'
 - date: 6/28/2017
   course: CAP18394
-  title: Active Shooter - tactical response
+  title: Active Shooter - Tactical Response
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -746,7 +746,7 @@ training_records:
   hours: '1.00'
 - date: 5/17/2017
   course: CAP42520
-  title: Bloodborne pathogens
+  title: Bloodborne Pathogens
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -830,7 +830,7 @@ training_records:
   hours: '4.00'
 - date: 12/20/2016
   course: CAP28906
-  title: CPR, AED
+  title: CPR/AED
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -842,7 +842,7 @@ training_records:
   hours: '9.00'
 - date: 11/16/2016
   course: CAP22369
-  title: Tactical Low Light Shooting / Use of Deadly Force
+  title: Tactical Low Light Shooting/Use of Deadly Force
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -866,7 +866,7 @@ training_records:
   hours: '4.00'
 - date: 7/13/2016
   course: CAP10364
-  title: Handgun qualification and tactical use
+  title: Handgun Qualification and Tactical Use
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -878,7 +878,7 @@ training_records:
   hours: '3.00'
 - date: 6/6/2016
   course: CAP26975
-  title: Opiate Overdose - Narcan nasal spray training
+  title: Opiate Overdose - Narcan Nasal Spray Training
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -920,7 +920,7 @@ training_records:
   hours: '3.00'
 - date: 1/20/2016
   course: CAP12045
-  title: Taser refresher training
+  title: Taser Refresher Training
   status: Passed
   score: '0.0'
   hours: '1.50'

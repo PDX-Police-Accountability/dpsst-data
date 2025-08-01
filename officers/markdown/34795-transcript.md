@@ -134,7 +134,7 @@
 | 4/28/2023 | OCS0348A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS1341A | Strangulation and SKIT training | Passed | 0.0 | 0.50 |
 | 4/20/2023 | OCS1543A | Legal Update March and April 2023 | Passed | 0.0 | 0.25 |
-| 4/3/2023 | CAP19868 | VCQB / High Risk Vehicle Stop Firearms | Passed | 0.0 | 3.00 |
+| 4/3/2023 | CAP19868 | VCQB/High Risk Vehicle Stop Firearms | Passed | 0.0 | 3.00 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
 | 3/17/2023 | OCS34493 | FBI/LEEDA SLI | Passed | 0.0 | 28.00 |
 | 3/2/2023 | OCS30261 | Sergeant Meeting | Passed | 0.0 | 2.00 |

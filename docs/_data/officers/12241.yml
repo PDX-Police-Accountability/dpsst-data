@@ -235,7 +235,7 @@ training_records:
   hours: '3.00'
 - date: 10/3/2018
   course: CAP09115
-  title: Handgun and patrol rifle competition.
+  title: Handgun and Patrol Rifle Competition
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -523,7 +523,7 @@ training_records:
   hours: '1.00'
 - date: 12/12/2017
   course: CAP08983
-  title: Mark 43 report writing
+  title: Mark 43 Report Writing
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -589,7 +589,7 @@ training_records:
   hours: '1.50'
 - date: 6/28/2017
   course: CAP18394
-  title: Active Shooter - tactical response
+  title: Active Shooter - Tactical Response
   status: Passed
   score: '0.0'
   hours: '4.00'

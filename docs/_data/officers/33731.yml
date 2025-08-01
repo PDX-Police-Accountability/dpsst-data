@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/1/2025
+  course: PDN3111B
+  title: Wildfire Smoke Exposure Control and Protection
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2025
+  course: PDN4015B
+  title: Working with Victims and Survivors for DCJ
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/1/2025
   course: PDN2188B
   title: Heat Illness Prevention

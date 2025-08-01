@@ -33,6 +33,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/13/2025 | Bachelor Arts | Oregon State University | History | 164.0 |
 | 12/15/2007 | No Degree | Portland Community College |  | 48.0 |
 | 12/15/2005 | No Degree | Clatsop Community College |  | 21.0 |
 | 12/15/2001 | No Degree | All Other Education Institutes |  | 10.0 |
@@ -43,6 +44,8 @@
 | 7/10/2025 | PDP0026B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 7/7/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
 | 7/3/2025 | PDP0568A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 6/26/2025 | PDP3320B | 2025 SERT Training - ITERATION | Passed | 0.0 | 5.50 |
+| 6/24/2025 | PDP2368B | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |
 | 6/6/2025 | PDP4532A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/29/2025 | PDP3760A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/22/2025 | PDP0593A | 2025 SERT Training - Firearms | Passed | 0.0 | 9.00 |

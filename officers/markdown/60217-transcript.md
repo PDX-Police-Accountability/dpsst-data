@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |
 | 7/17/2025 | PDP1138B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/11/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 10.00 |
 | 7/10/2025 | PDP0026B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

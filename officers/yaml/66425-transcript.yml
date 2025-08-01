@@ -36,6 +36,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 7/24/2025
+  course: PDP0680B
+  title: IS 700 National Inc Manage System Intro
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/24/2025
+  course: PDP1876B
+  title: ICS 100 Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/24/2025
+  course: PDP1871B
+  title: ICS 200 Basic Inc Command Syst for Init Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/23/2025
   course: PDP1036B
   title: FTEP New Hire Firearms
@@ -73,6 +91,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 7/28/2025
+  expiration_date: ''
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/16/2025

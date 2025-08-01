@@ -136,13 +136,13 @@ training_records:
   hours: '1.00'
 - date: 2/19/2025
   course: CAP2865A
-  title: CPR / First Aid
+  title: CPR/First Aid
   status: Instructed
   score: '0.0'
   hours: '8.00'
 - date: 1/27/2025
   course: CAP4265A
-  title: First Aid / CPR Adult  Child
+  title: First Aid/CPR Adult  Child
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -214,7 +214,7 @@ training_records:
   hours: '2.00'
 - date: 6/13/2024
   course: CAP3673A
-  title: Patrol Rifle Reload - Transition- Malfunctions
+  title: Patrol Rifle Reload - Transition - Malfunctions
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -226,19 +226,19 @@ training_records:
   hours: '2.00'
 - date: 5/15/2024
   course: CAP1235A
-  title: Handgun Reload / Malfunctions
+  title: Handgun Reload/Malfunctions
   status: Instructed
   score: '0.0'
   hours: '8.00'
 - date: 5/6/2024
   course: CAP3627A
-  title: Defensive Tactics/Arrest, handcuffing  search
+  title: Defensive Tactics/Arrest, Handcuffing  Search
   status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 4/24/2024
   course: CAP0909A
-  title: Taser / 40mm Use of Force Training
+  title: Taser/40mm Use of Force Training
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -274,7 +274,7 @@ training_records:
   hours: '0.00'
 - date: 11/15/2023
   course: CAP3765A
-  title: Low Light / VCQB
+  title: Low Light/VCQB
   status: Instructed
   score: '0.0'
   hours: '4.00'
@@ -292,7 +292,7 @@ training_records:
   hours: '1.00'
 - date: 10/4/2023
   course: CAP2134A
-  title: Low Light / VCQB
+  title: Low Light/VCQB
   status: Instructed
   score: '0.0'
   hours: '4.00'
@@ -352,13 +352,13 @@ training_records:
   hours: '6.50'
 - date: 3/15/2023
   course: CAP15436
-  title: Patrol Rifle Qualification / Reloads and Movement
+  title: Patrol Rifle Qualification/Reloads and Movement
   status: Passed
   score: '0.0'
   hours: '5.00'
 - date: 1/25/2023
   course: CAP31130
-  title: Handgun Qualifications / Basic Shield Use
+  title: Handgun Qualifications/Basic Shield Use
   status: Passed
   score: '0.0'
   hours: '3.00'
