@@ -37,7 +37,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/29/2025 | 1/31/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Code of Ethics | Signed | 2/20/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -58,7 +57,6 @@
 | 6/30/2025 | BNP1208A | Force Response Annual Bend PD Report | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP2691A | Legal Updates | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP4306A | Karly's Law | Passed | 0.0 | 0.50 |
-| 6/30/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP1554A | Restraining People Having MBE's | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP1851A | Narcan | Passed | 0.0 | 0.50 |
 | 6/30/2025 | BNP4357A | OSHA Hearing Protection Training | Passed | 0.0 | 0.50 |

@@ -74,12 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/11/2025
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
+- date: 7/27/2025
+  course: PDP0550B
+  title: 2025 Patrol Rifle Instructors IS Scenarios
   status: Passed
   score: '0.0'
-  hours: '10.00'
+  hours: '9.00'
 - date: 6/19/2025
   course: PDP4510B
   title: 2025 K-9 Weekly Training

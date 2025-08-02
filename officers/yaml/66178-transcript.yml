@@ -3,26 +3,25 @@ header_record:
   name: Shyshkin, Sam
   dpsst_identifier: '66178'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/25/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 4/24/2025
   agency: Portland Police Bureau
   action: Hired
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 4/24/2025
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 10/24/2026
+certification_records: []
 training_records:
 - date: 5/6/2027
   course: PDP2231A
@@ -38,6 +37,12 @@ training_records:
   hours: '14.00'
 - date: 7/2/2025
   course: REG0180B
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/2/2025
+  course: REG2290B
   title: Radar/Lidar Agency Practical
   status: Passed
   score: '0.0'

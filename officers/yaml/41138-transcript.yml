@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/28/2025
+  course: PDP0550B
+  title: 2025 Patrol Rifle Instructors IS Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/10/2025
   course: PDP0026B
   title: 2025 SERT Training - FIREARMS

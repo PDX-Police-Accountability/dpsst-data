@@ -38,12 +38,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/9/2025
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 6/8/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

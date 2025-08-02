@@ -49,6 +49,7 @@
 | 3/25/2025 | PPP0196A | Leadership Training | Passed | 0.0 | 6.00 |
 | 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |
 | 1/31/2025 | PPP4175A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
+| 1/31/2025 | PPP3766B | Annual Firearms Training  Qualifications | Passed | 0.0 | 4.00 |
 | 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |
 | 1/10/2025 | OAC3757A | A Proactive Approach to Wellness | Passed | 0.0 | 1.00 |
 | 1/10/2025 | OAC4167A | Next Generation Recruiting  Retention | Passed | 0.0 | 1.00 |

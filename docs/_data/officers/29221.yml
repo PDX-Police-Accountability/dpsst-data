@@ -168,12 +168,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 6/30/2025
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/30/2025
   course: BNP1851A
   title: Narcan
   status: Passed

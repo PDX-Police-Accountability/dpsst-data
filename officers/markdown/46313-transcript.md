@@ -45,6 +45,7 @@
 | 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |
 | 2/18/2025 | PPP2961A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 1/31/2025 | PPP4175A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
+| 1/28/2025 | PPP3766B | Annual Firearms Training  Qualifications | Passed | 0.0 | 4.00 |
 | 1/18/2025 | PPP3085A | Taser 7 Recertification | Passed | 0.0 | 4.00 |
 | 9/30/2024 | PPP1016A | Rifle Range | Passed | 0.0 | 4.00 |
 | 9/10/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |

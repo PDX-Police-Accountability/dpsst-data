@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/17/2025
+  course: HRS0206B
+  title: Marine Division Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/19/2025
   course: HRS2424B
   title: High Risk Stops Refresher

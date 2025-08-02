@@ -43,6 +43,12 @@ certification_records:
   expiration_date: 9/14/2027
   probation_date: ''
 training_records:
+- date: 7/25/2025
+  course: PDP0676B
+  title: 2025 Advanced Shotgun Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 6/12/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

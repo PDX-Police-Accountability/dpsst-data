@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 7/2/2025
+  course: REG2290B
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/26/2025
   course: PDP4509B
   title: TEEX WMD/Terrorism Awareness for Emer Resp

@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/21/2025
+  course: PPP3766B
+  title: Annual Firearms Training  Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/12/2024
   course: PPP1120A
   title: Taser 7 Annual Certification

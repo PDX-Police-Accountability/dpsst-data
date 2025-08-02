@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/24/2025
+  course: PDP0676B
+  title: 2025 Advanced Shotgun Operator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 6/9/2025
   course: 25-0030
   title: DPSST Supervision F21 Equivalency

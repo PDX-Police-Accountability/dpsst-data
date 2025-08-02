@@ -84,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/2/2025
+  course: REG2290B
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

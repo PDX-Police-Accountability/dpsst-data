@@ -4,7 +4,7 @@
 | name | Shyshkin, Sam |
 | dpsst_identifier | 66178 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,11 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/25/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/24/2025 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/24/2025 | Police Officer | Basic | Required |  |  | 10/24/2026 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -31,6 +31,7 @@
 | 5/6/2027 | PDP2231A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 7/2/2025 | REG0180B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
+| 7/2/2025 | REG2290B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 6/1/2025 | PDP2342B | DIR 0910.00 Update De Minimis Force 09/2024 | Passed | 0.0 | 0.25 |
 | 5/25/2025 | PDP1759A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/19/2025 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
