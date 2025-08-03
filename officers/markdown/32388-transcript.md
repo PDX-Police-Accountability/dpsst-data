@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |
+| 7/25/2025 | GSP4568B | East County Long Range Target Engagement | Passed | 0.0 | 20.00 |
 | 4/17/2025 | GSP2415B | Practical Scenarios, New Equipment Familiarization | Passed | 0.0 | 10.00 |
 | 4/16/2025 | GSP1366B | SWAT Firearms Range | Instructed | 0.0 | 10.00 |
 | 3/21/2025 | GSP0066A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2025
+  course: GLP0674B
+  title: Red Dot Transition Course and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/8/2025
   course: GLP0779A
   title: Defensive Tactics Spring 2025

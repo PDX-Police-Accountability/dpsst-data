@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2025 | PDA1754B | Handgun Firearms | Passed | 0.0 | 5.00 |
 | 5/21/2025 | PDA4180B | Defensive Tactics use of OC Spray | Passed | 0.0 | 3.00 |
 | 4/9/2025 | PDN2706A | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 3.00 |

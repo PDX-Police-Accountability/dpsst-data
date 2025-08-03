@@ -786,6 +786,17 @@
 | Sween, Norman J. | 66395 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66395-transcript.md) - [yaml](../yaml/66395-transcript.yml) |
 | Stanley, Luke A. | 66408 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66408-transcript.md) - [yaml](../yaml/66408-transcript.yml) |
 | Riddle, Carson D. | 66425 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66425-transcript.md) - [yaml](../yaml/66425-transcript.yml) |
+| Collar, Faith C. | 66537 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66537-transcript.md) - [yaml](../yaml/66537-transcript.yml) |
+| Hernandez, Ethan D. | 66538 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66538-transcript.md) - [yaml](../yaml/66538-transcript.yml) |
+| Mayberg, Shalom D. | 66549 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66549-transcript.md) - [yaml](../yaml/66549-transcript.yml) |
+| Shannon, Brandon W. | 66550 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66550-transcript.md) - [yaml](../yaml/66550-transcript.yml) |
+| Whitmore, Trevor J. | 66551 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66551-transcript.md) - [yaml](../yaml/66551-transcript.yml) |
+| Hall, Tyrell L. | 66562 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66562-transcript.md) - [yaml](../yaml/66562-transcript.yml) |
+| Pearce, Emma M. | 66563 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66563-transcript.md) - [yaml](../yaml/66563-transcript.yml) |
+| Beggs, Riley C. | 66610 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66610-transcript.md) - [yaml](../yaml/66610-transcript.yml) |
+| Cross, Jonathan P. | 66611 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66611-transcript.md) - [yaml](../yaml/66611-transcript.yml) |
+| Said, John M. | 66612 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66612-transcript.md) - [yaml](../yaml/66612-transcript.yml) |
+| Weckner, Kody J. | 66613 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66613-transcript.md) - [yaml](../yaml/66613-transcript.yml) |
 | Passadore, Anthony V. | 33482 | Portland Police Bureau | Active | Captain | LOA | 2024-06-18 | [md](../markdown/33482-transcript.md) - [yaml](../yaml/33482-transcript.yml) |
 | Carroll, Julian L. | 33550 | Portland Police Bureau | Active | Sergeant | LOA | 2022-10-24 | [md](../markdown/33550-transcript.md) - [yaml](../yaml/33550-transcript.yml) |
 | Coffey, Kristina M. | 34672 | Portland Police Bureau | Active | Detective | LOA | 2025-04-09 | [md](../markdown/34672-transcript.md) - [yaml](../yaml/34672-transcript.yml) |

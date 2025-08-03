@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2025 | PDA1754B | Handgun Firearms | Passed | 0.0 | 5.00 |
 | 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 3.00 |
 | 12/13/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/2/2024 | PDA2552A | Basic Handgun Skills  Qualification | Passed | 0.0 | 5.00 |

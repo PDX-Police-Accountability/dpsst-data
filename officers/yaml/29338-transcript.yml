@@ -80,12 +80,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 12/27/2025
-  course: PDS0180A
-  title: Range
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/4/2025
   course: PDS0105A
   title: LE Range
@@ -118,6 +112,12 @@ training_records:
   hours: '1.00'
 - date: 2/18/2025
   course: PDS3333A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/27/2024
+  course: PDS0180A
   title: Range
   status: Passed
   score: '0.0'

@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: 10/24/2026
 training_records:
-- date: 5/6/2027
-  course: PDP2231A
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
 - date: 10/24/2026
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
@@ -90,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 5/6/2025
+  course: PDP2231A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/30/2025
   course: PDP3818B
   title: Amended DOJ Settlement Agreement
@@ -97,12 +97,12 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/6/2027
-  expiration_date: 5/6/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/19/2025
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/6/2025
+  expiration_date: 5/6/2027
 education_records: []

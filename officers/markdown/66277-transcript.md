@@ -20,15 +20,14 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 5/6/2027 | 5/6/2027 |
 | Code of Ethics | Law Enforcement Signed | 5/19/2025 |  |
+| Certification Cards | First Aid and CPR | 5/6/2025 | 5/6/2027 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/6/2027 | PDP2231A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 7/2/2025 | REG0180B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
@@ -39,4 +38,5 @@
 | 5/12/2025 | PDP1483A | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 5/12/2025 | PDP4237A | IS-700 Intro to Nat Incident Management System | Passed | 0.0 | 4.00 |
 | 5/7/2025 | PDP0261A | 2025 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |
+| 5/6/2025 | PDP2231A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 4/30/2025 | PDP3818B | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

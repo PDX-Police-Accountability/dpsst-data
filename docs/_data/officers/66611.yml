@@ -1,0 +1,40 @@
+---
+header_record:
+  name: Cross, Jonathan P.
+  dpsst_identifier: '66611'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/31/2025
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 7/31/2025
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 1/31/2027
+training_records:
+- date: 1/31/2027
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 8/25/2025
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []

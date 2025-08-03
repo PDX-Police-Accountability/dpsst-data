@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 7/25/2025
+  course: GSP4568B
+  title: East County Long Range Target Engagement
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 4/17/2025
   course: GSP2415B
   title: Practical Scenarios, New Equipment Familiarization
