@@ -40,7 +40,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/23/2025 | PDP1796A | 2024-3 IS Air Purifying Respirator (APR) Video | Passed | 0.0 | 1.00 |
 | 4/7/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/7/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 4/7/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
@@ -62,6 +61,7 @@
 | 12/23/2024 | PDP0280A | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
 | 12/23/2024 | PDP0776A | 2024-3 IS MFF Response to Public Order Events | Passed | 0.0 | 1.50 |
 | 12/23/2024 | PDP3281A | 2024-3 IS ABLE Video | Passed | 0.0 | 2.00 |
+| 12/23/2024 | PDP1796A | 2024-3 IS Air Purifying Respirator (APR) Video | Passed | 0.0 | 1.00 |
 | 12/23/2024 | PDP1067A | 2024-3 Supv In-Service Force Inspector Video | Passed | 0.0 | 0.25 |
 | 12/23/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 10/19/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |

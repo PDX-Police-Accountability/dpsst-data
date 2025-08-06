@@ -38,7 +38,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/12/2025 | PDS3224A | ICS-700 | Passed | 0.0 | 3.50 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/30/2025 | PDS1585A | Patrol Rifle | Passed | 0.0 | 24.00 |
 | 4/30/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
@@ -53,6 +52,7 @@
 | 12/13/2024 | PDS0272A | Less Lethal Certification | Passed | 0.0 | 5.00 |
 | 12/13/2024 | PDS0361A | Less Lethal Certification | Passed | 0.0 | 5.00 |
 | 12/12/2024 | PDS3811A | ICS-100 | Passed | 0.0 | 2.00 |
+| 12/12/2024 | PDS3224A | ICS-700 | Passed | 0.0 | 3.50 |
 | 12/12/2024 | PDS0984A | OC Training | Passed | 0.0 | 1.00 |
 | 12/12/2024 | PDS3293A | Taser Recertification | Passed | 0.0 | 1.00 |
 | 12/11/2024 | PDS4565A | De-Escalation | Passed | 0.0 | 3.00 |

@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 6/17/2025 | TRN0785B | 2025 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 4/10/2025 | TRN3245B | DOC - Defensive Tactics v2025 | Passed | 0.0 | 2.00 |
 | 4/10/2025 | TRN0246B | DOC - FS - Planned Use of Force v2025 | Passed | 0.0 | 4.00 |
 | 4/10/2025 | TRN2549B | DOC - Professional vs Private v2025 | Passed | 0.0 | 2.00 |

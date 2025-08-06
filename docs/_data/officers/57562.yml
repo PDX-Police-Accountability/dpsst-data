@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/29/2025
+  course: OCP0663B
+  title: Firearms Use Of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 7/17/2025
   course: OCP1877B
   title: Active Threat Response

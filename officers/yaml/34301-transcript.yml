@@ -67,6 +67,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/9/2025
+  course: TRN3362B
+  title: DOC - Annual Firearms Training v2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/8/2025
+  course: TRN4261B
+  title: DOC - Defensive Tactics v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/8/2025
+  course: TRN1078B
+  title: DOC - FS - Planned Use of Force v2025
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/8/2025
+  course: TRN0237B
+  title: DOC - Professional vs Private v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/7/2025
+  course: TRN1850B
+  title: DOC - ICSC Disaster Preparedness v2025
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/7/2025
+  course: TRN3468B
+  title: DOC - Operationalized Respect v2025
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/7/2025
+  course: TRN4312B
+  title: Guiding Change Through Dynamic Security
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/6/2025
   course: TRN1727B
   title: 2025 Preventing Discrimination and Harassment

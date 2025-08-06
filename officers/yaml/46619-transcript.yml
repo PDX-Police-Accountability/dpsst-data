@@ -50,12 +50,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 5/6/2027
-  course: PDP1198A
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/13/2025
   course: PDP3583B
   title: CPR/First Aid
@@ -68,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/6/2025
+  course: PDP1198A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/21/2025
   course: PDP2347B
   title: 2025-2 CAO Legal Updates for 12/2023-02/2024

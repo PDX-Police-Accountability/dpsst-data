@@ -33,9 +33,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/9/2025 | BVP2023A | EVOC Classroom | Passed | 0.0 | 3.00 |
-| 9/28/2025 | BVP3487A | CIS Classes and Social Media | Passed | 0.0 | 4.00 |
-| 9/27/2025 | BVP2102A | Body-Worn Camera | Passed | 0.0 | 2.00 |
 | 7/18/2025 | BVP0538B | CPR/AED/First Aid recertification | Passed | 0.0 | 3.00 |
 | 6/24/2025 | BVP0648B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/26/2025 | BVP3480A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
@@ -47,7 +44,10 @@
 | 11/7/2024 | BVP1390A | November Range 2024 Pistol 110724 | Passed | 0.0 | 3.00 |
 | 10/28/2024 | BVP1864A | First Amendment Assemblies Training | Passed | 0.0 | 0.50 |
 | 10/15/2024 | BVP4256A | EVOC | Passed | 0.0 | 3.00 |
+| 10/9/2024 | BVP2023A | EVOC Classroom | Passed | 0.0 | 3.00 |
+| 9/28/2024 | BVP3487A | CIS Classes and Social Media | Passed | 0.0 | 4.00 |
 | 9/27/2024 | BVP2054A | Control Tactics | Passed | 0.0 | 3.00 |
+| 9/27/2024 | BVP2102A | Body-Worn Camera | Passed | 0.0 | 2.00 |
 | 8/27/2024 | BVP3226A | August Range 2024 | Passed | 0.0 | 3.00 |
 | 8/20/2024 | BVP0265A | Use of Force Briefing Training | Passed | 0.0 | 1.00 |
 | 8/19/2024 | REG2779A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/29/2025 | OCP0663B | Firearms Use Of Force | Passed | 0.0 | 3.50 |
 | 7/17/2025 | OCP1877B | Active Threat Response | Passed | 0.0 | 4.00 |
 | 5/7/2025 | OCP3027A | Search and Seizure Updates | Passed | 0.0 | 1.25 |
 | 4/9/2025 | OCP3397A | Providence SAFE Center | Passed | 0.0 | 0.25 |

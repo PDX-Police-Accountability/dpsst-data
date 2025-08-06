@@ -36,24 +36,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 10/9/2025
-  course: BVP2023A
-  title: EVOC Classroom
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
-- date: 9/28/2025
-  course: BVP3487A
-  title: CIS Classes and Social Media
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 9/27/2025
-  course: BVP2102A
-  title: Body-Worn Camera
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 7/18/2025
   course: BVP0538B
   title: CPR/AED/First Aid recertification
@@ -120,12 +102,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/9/2024
+  course: BVP2023A
+  title: EVOC Classroom
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/28/2024
+  course: BVP3487A
+  title: CIS Classes and Social Media
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/27/2024
   course: BVP2054A
   title: Control Tactics
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/27/2024
+  course: BVP2102A
+  title: Body-Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/27/2024
   course: BVP3226A
   title: August Range 2024

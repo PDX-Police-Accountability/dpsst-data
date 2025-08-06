@@ -43,12 +43,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 12/12/2025
-  course: PDS3224A
-  title: ICS-700
-  status: Passed
-  score: '0.0'
-  hours: '3.50'
 - date: 7/17/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -133,6 +127,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/12/2024
+  course: PDS3224A
+  title: ICS-700
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 12/12/2024
   course: PDS0984A
   title: OC Training

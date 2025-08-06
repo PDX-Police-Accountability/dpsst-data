@@ -50,12 +50,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 6/25/2026
-  course: PDP2988B
-  title: 2025 SERT Training - ITERATION
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 7/3/2025
   course: PDP0568A
   title: 2025 SERT Training - FIREARMS
@@ -68,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 6/25/2025
+  course: PDP2988B
+  title: 2025 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/19/2025
   course: PDP0430A
   title: 2025 SERT Training - ITERATION

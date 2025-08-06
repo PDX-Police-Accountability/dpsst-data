@@ -23,12 +23,6 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
-- date: 5/6/2027
-  course: PDP2231A
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
 - date: 7/2/2025
   course: PDP0096A
   title: Radar Lidar Operator Course
@@ -89,6 +83,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 5/6/2025
+  course: PDP2231A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/28/2025
   course: PDP3818B
   title: Amended DOJ Settlement Agreement

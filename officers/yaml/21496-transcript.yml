@@ -172,12 +172,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/24/2025
+  course: OSH1326B
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/10/2025
   course: OSH2203B
   title: OSP People in Crisis
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/26/2025
+  course: OSH2183B
+  title: 2nd Trimester firearms
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/17/2025
   course: OSH0843B
   title: 1st Trimester Firearms

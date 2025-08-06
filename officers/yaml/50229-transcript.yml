@@ -55,6 +55,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/17/2025
+  course: TRN0785B
+  title: 2025 Information Security Training Foundations
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/10/2025
   course: TRN3245B
   title: DOC - Defensive Tactics v2025

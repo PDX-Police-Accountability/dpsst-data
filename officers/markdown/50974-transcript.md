@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/29/2025 | OCP0663B | Firearms Use Of Force | Passed | 0.0 | 3.50 |
 | 7/17/2025 | OCP1877B | Active Threat Response | Passed | 0.0 | 4.00 |
 | 7/1/2025 | OCP0584B | Implicit Bias | Passed | 0.0 | 1.00 |
 | 6/30/2025 | OCP2153B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

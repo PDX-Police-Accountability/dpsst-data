@@ -38,6 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2025 | TRN3362B | DOC - Annual Firearms Training v2025 | Passed | 0.0 | 8.00 |
+| 5/8/2025 | TRN4261B | DOC - Defensive Tactics v2025 | Passed | 0.0 | 2.00 |
+| 5/8/2025 | TRN1078B | DOC - FS - Planned Use of Force v2025 | Passed | 0.0 | 4.00 |
+| 5/8/2025 | TRN0237B | DOC - Professional vs Private v2025 | Passed | 0.0 | 2.00 |
+| 5/7/2025 | TRN1850B | DOC - ICSC Disaster Preparedness v2025 | Passed | 0.0 | 2.50 |
+| 5/7/2025 | TRN3468B | DOC - Operationalized Respect v2025 | Passed | 0.0 | 1.50 |
+| 5/7/2025 | TRN4312B | Guiding Change Through Dynamic Security | Passed | 0.0 | 4.00 |
 | 5/6/2025 | TRN1727B | 2025 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 5/6/2025 | TRN3334B | DOC - PREA What You Should Know v2025 | Passed | 0.0 | 1.00 |
 | 5/6/2025 | TRN2343B | DOC - Protection from Ambient Heat v2025 | Passed | 0.0 | 0.50 |

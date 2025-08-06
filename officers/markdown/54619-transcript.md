@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2025 | REG2310B | EVO Instructor 1 - Dynamics and Driver Behaviors | Passed | 0.0 | 40.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/2/2025 | HBP4488A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 4/2/2025 | HBP0061A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
