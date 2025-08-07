@@ -36,8 +36,12 @@
 | 6/17/2025 | PDP2691B | 2025-2 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 83.00 |
 | 6/14/2025 | PDP1398B | 2025-2 Advanced Academy PVO | Passed | 0.0 | 50.25 |
 | 6/11/2025 | PDP0438B | 2025-2 Advanced Academy Firearms | Passed | 0.0 | 29.25 |
+| 6/11/2025 | PDP3937B | Advanced Academy Wellness | Passed | 0.0 | 2.25 |
+| 6/11/2025 | PDP0109B | Advanced Academy Wellness | Passed | 0.0 | 2.25 |
 | 6/10/2025 | PDP3261B | 2025-2 Advanced Academy Control Tactics | Passed | 0.0 | 60.25 |
 | 6/10/2025 | PDP1819B | 2025-2 Advanced Academy Wellness | Passed | 0.0 | 8.00 |
+| 6/10/2025 | PDP0171B | Advanced Academy Firearms | Passed | 0.0 | 2.25 |
+| 6/10/2025 | PDP0041B | Advanced Academy Firearms | Passed | 0.0 | 2.25 |
 | 6/5/2025 | PDP1171B | 2025-2 Advanced Academy Walking Beat | Passed | 0.0 | 20.00 |
 | 6/3/2025 | PDP2057B | 2025-2 Advanced Academy PDX Community Engagement | Passed | 0.0 | 4.50 |
 | 6/3/2025 | PDP3308B | 2025-2 Advanced Academy Equity | Passed | 0.0 | 23.50 |

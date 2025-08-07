@@ -57,12 +57,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 12/27/2025
-  course: PDS0180A
-  title: Range
-  status: Instructed
-  score: '0.0'
-  hours: '2.00'
 - date: 7/25/2025
   course: PDP3488B
   title: 2025 SERT Training - FIREARMS
@@ -201,6 +195,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 12/27/2024
+  course: PDS0180A
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/13/2024
   course: PDS1307A
   title: Range

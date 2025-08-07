@@ -33,7 +33,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/25/2026 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 7/28/2025 | PDP0550B | 2025 Patrol Rifle Instructors IS Scenarios | Instructed | 0.0 | 9.00 |
 | 7/27/2025 | PDP0550B | 2025 Patrol Rifle Instructors IS Scenarios | Instructed | 0.0 | 9.00 |
 | 7/25/2025 | PDP0676B | 2025 Advanced Shotgun Operator In-Service | Instructed | 0.0 | 10.00 |
@@ -47,6 +46,7 @@
 | 6/30/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
 | 6/27/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/26/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
+| 6/25/2025 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/19/2025 | PDP0430A | 2025 SERT Training - ITERATION | Passed | 0.0 | 5.00 |
 | 6/2/2025 | PDP1851B | 2025 AR-15 Instructor In-Service Training (1-Day) | Instructed | 0.0 | 9.00 |
 | 5/30/2025 | PDP1256B | 2025 AR-15 Instructor In-Service Training (1-Day) | Instructed | 0.0 | 9.00 |

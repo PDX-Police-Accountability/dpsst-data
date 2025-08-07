@@ -4823,7 +4823,7 @@ training_records:
 attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR
-  effective_date: 5/6/2027
+  effective_date: 5/6/2025
   expiration_date: 5/6/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year

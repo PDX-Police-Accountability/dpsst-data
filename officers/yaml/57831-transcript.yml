@@ -55,12 +55,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 4/15/2027
-  course: PDP0612A
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '1.75'
 - date: 4/16/2025
   course: PDP2347B
   title: 2025-2 CAO Legal Updates for 12/2023-02/2024
@@ -73,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 4/15/2025
+  course: PDP0612A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/3/2025
   course: PDP3090B
   title: 2024-5 Naloxone (Narcan) Admin Guidelines
@@ -2710,7 +2710,7 @@ training_records:
 attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR
-  effective_date: 4/15/2027
+  effective_date: 4/15/2025
   expiration_date: 4/15/2027
 - topic: Maintenance Requirements
   value: LE Annual
