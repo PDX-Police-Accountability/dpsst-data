@@ -1048,13 +1048,13 @@ training_records:
   hours: '0.25'
 - date: 11/13/2022
   course: GBP42793
-  title: CQB / Active Shooter
+  title: CQB/Active Shooter
   status: Passed
   score: '0.0'
   hours: '16.00'
 - date: 11/11/2022
   course: GBP22350
-  title: CQB Pistol / Rifle
+  title: CQB Pistol/Rifle
   status: Passed
   score: '0.0'
   hours: '8.00'

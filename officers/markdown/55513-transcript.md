@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/10/2025 | BVP2424B | July 2025 EVOC PIT 071025 PM | Passed | 0.0 | 3.00 |
 | 6/27/2025 | BVP3335B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 6/25/2025 | HBS2073A | TNT Firearms | Passed | 0.0 | 6.00 |
 | 6/20/2025 | HBS0204B | Patrol Rifle School | Passed | 0.0 | 42.00 |

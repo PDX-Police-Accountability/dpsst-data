@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2025 | LGS4192B | Firearms qualification/Fundamentals | Instructed | 0.0 | 4.00 |
+| 7/15/2025 | LGS1193B | Firearms qualification/Fundamentals | Passed | 0.0 | 4.00 |
 | 7/10/2025 | REG4065B | Handgun Instructor Development Course | Instructed | 0.0 | 40.00 |
 | 7/8/2025 | REG0877B | Half-Time HQC Instructor Qualification | Passed | 0.0 | 0.50 |
 | 5/30/2025 | LGS2329A | Defensive Tactics  Con-Sims | Instructed | 0.0 | 8.00 |

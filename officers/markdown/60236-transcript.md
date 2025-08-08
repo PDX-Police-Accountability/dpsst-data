@@ -12,11 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/4/2025 | Washington County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 10/19/2020 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/19/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/4/2025 | Police Officer | Basic | Required |  |  | 2/4/2027 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -29,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
 | 11/29/2020 | PDP26575 | IS-240 Leadership and Influence (IS-00240.b) | Passed | 0.0 | 3.00 |
 | 9/29/2020 | PDP37563 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |
 | 9/29/2020 | PDP19551 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |

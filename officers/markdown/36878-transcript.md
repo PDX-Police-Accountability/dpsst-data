@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/8/2025 | BVP1788B | July 2025 EVOC PIT 070825 AM | Passed | 0.0 | 3.00 |
 | 6/24/2025 | BVP1586B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/27/2025 | BVP4453A | Control Tactics / Taser Recertification | Instructed | 0.0 | 3.00 |
 | 5/27/2025 | BVP2589A | Control Tactics / Taser Recertification | Instructed | 0.0 | 3.00 |

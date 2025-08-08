@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/4/2025
+  course: TRN4334B
+  title: Chrono Practices and Contact Standards
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/23/2025
   course: VND1208A
   title: Chrono Practices and Contact Standards

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2025
+  course: BVP1986B
+  title: July 2025 EVOC PIT 070925 PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/26/2025
   course: BVP4564B
   title: Range June 2025

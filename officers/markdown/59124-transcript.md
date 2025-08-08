@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/22/2025 | BVP1941B | July 2025 EVOC PIT 072225 AM | Passed | 0.0 | 3.00 |
 | 7/18/2025 | BVP0538B | CPR/AED/First Aid recertification | Passed | 0.0 | 3.00 |
 | 6/24/2025 | BVP0648B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/26/2025 | BVP3480A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |

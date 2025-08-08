@@ -43,6 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/4/2025 | TRN4334B | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
+| 7/17/2025 | OCS3816B | BCP Training | Passed | 0.0 | 7.00 |
+| 6/26/2025 | OCS0728B | Firearms Training | Passed | 0.0 | 2.00 |
 | 6/16/2025 | TRN3803B | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 5/30/2025 | OCS4567A | Radio Training | Passed | 0.0 | 1.50 |
 | 5/8/2025 | OCS3043A | Dashboard Enrichment Academy | Passed | 0.0 | 1.00 |

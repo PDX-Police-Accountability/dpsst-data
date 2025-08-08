@@ -67,6 +67,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/4/2025
+  course: TRN4334B
+  title: Chrono Practices and Contact Standards
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/17/2025
+  course: OCS3816B
+  title: BCP Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 6/26/2025
+  course: OCS0728B
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/16/2025
   course: TRN3803B
   title: Chrono Practices and Contact Standards

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/4/2025
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 10/19/2020
   agency: Portland Police Bureau
   action: Resigned
@@ -21,8 +27,21 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 8/4/2025
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 2/4/2027
 training_records:
+- date: 3/2/2026
+  course: 26-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
 - date: 11/29/2020
   course: PDP26575
   title: IS-240 Leadership and Influence (IS-00240.b)

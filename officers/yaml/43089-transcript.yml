@@ -130,6 +130,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/18/2025
+  course: LGS4192B
+  title: Firearms qualification/Fundamentals
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/15/2025
+  course: LGS1193B
+  title: Firearms qualification/Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/10/2025
   course: REG4065B
   title: Handgun Instructor Development Course
