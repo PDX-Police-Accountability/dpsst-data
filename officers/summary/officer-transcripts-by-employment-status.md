@@ -610,7 +610,6 @@
 | Lawhorn, Jessica B. | 49847 | Portland Police Bureau | Active | Police Officer | Hired | 2008-08-14 | [md](../markdown/49847-transcript.md) - [yaml](../yaml/49847-transcript.yml) |
 | Townley, James M. | 49848 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-10-21 | [md](../markdown/49848-transcript.md) - [yaml](../yaml/49848-transcript.yml) |
 | Parry, Louis D. | 49957 | Portland Police Bureau | Active | Police Officer | Hired | 2008-09-11 | [md](../markdown/49957-transcript.md) - [yaml](../yaml/49957-transcript.yml) |
-| Spiegel, Daniel A. | 49997 | Portland Police Bureau | Active | Sergeant | Promotion | 2018-05-03 | [md](../markdown/49997-transcript.md) - [yaml](../yaml/49997-transcript.yml) |
 | Tyler, Trevor J. | 50003 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/50003-transcript.md) - [yaml](../yaml/50003-transcript.yml) |
 | Storm, Julie M. | 50050 | Portland Police Bureau | Active | Police Officer | Hired | 2008-11-06 | [md](../markdown/50050-transcript.md) - [yaml](../yaml/50050-transcript.yml) |
 | McGuffey, C. David | 50079 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/50079-transcript.md) - [yaml](../yaml/50079-transcript.yml) |
@@ -843,7 +842,6 @@
 | McAbery, Clayton R. | 59217 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/59217-transcript.md) - [yaml](../yaml/59217-transcript.yml) |
 | Mora, Anthony R. | 59317 | Portland Police Bureau | Active | Police Officer | Hired | 2019-01-03 | [md](../markdown/59317-transcript.md) - [yaml](../yaml/59317-transcript.yml) |
 | Hall, Daniel E. | 59367 | Portland Police Bureau | Active | Police Officer | Return LOA | 2024-02-16 | [md](../markdown/59367-transcript.md) - [yaml](../yaml/59367-transcript.yml) |
-| Lowery, Charlie J. | 59482 | Portland Police Bureau | Active | Police Officer | Hired | 2019-01-31 | [md](../markdown/59482-transcript.md) - [yaml](../yaml/59482-transcript.yml) |
 | Smith, Sammy D., Jr. | 59492 | Portland Police Bureau | Active | Police Officer | Hired | 2019-01-31 | [md](../markdown/59492-transcript.md) - [yaml](../yaml/59492-transcript.yml) |
 | Bledsoe, Joshua M. | 59515 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2021-11-18 | [md](../markdown/59515-transcript.md) - [yaml](../yaml/59515-transcript.yml) |
 | Bauer, Kurt D. | 59626 | Portland Police Bureau | Active | Police Officer | Mil-LOA | 2024-06-30 | [md](../markdown/59626-transcript.md) - [yaml](../yaml/59626-transcript.yml) |
@@ -1596,6 +1594,7 @@
 | Moore, Derek V. | 49919 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-11-28 | [md](../markdown/49919-transcript.md) - [yaml](../yaml/49919-transcript.yml) |
 | Vergara, Michele R. | 49920 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-07-08 | [md](../markdown/49920-transcript.md) - [yaml](../yaml/49920-transcript.yml) |
 | Tucholsky, Daniel R. | 49967 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2008-10-13 | [md](../markdown/49967-transcript.md) - [yaml](../yaml/49967-transcript.yml) |
+| Spiegel, Daniel A. | 49997 | Portland Police Bureau | Inactive | Sergeant | Retired | 2025-07-31 | [md](../markdown/49997-transcript.md) - [yaml](../yaml/49997-transcript.yml) |
 | Bianchini, Andrea J. | 50162 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2019-01-15 | [md](../markdown/50162-transcript.md) - [yaml](../yaml/50162-transcript.yml) |
 | Ward, Peter S. | 50217 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2010-06-10 | [md](../markdown/50217-transcript.md) - [yaml](../yaml/50217-transcript.yml) |
 | Jorgensen, Michael K. | 50229 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2010-01-10 | [md](../markdown/50229-transcript.md) - [yaml](../yaml/50229-transcript.yml) |
@@ -1698,6 +1697,7 @@
 | Surla, Harley L. | 59199 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-30 | [md](../markdown/59199-transcript.md) - [yaml](../yaml/59199-transcript.yml) |
 | Freudenberg, Christopher E., Jr. | 59366 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-07-11 | [md](../markdown/59366-transcript.md) - [yaml](../yaml/59366-transcript.yml) |
 | Evans, Charles H. | 59385 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-03-31 | [md](../markdown/59385-transcript.md) - [yaml](../yaml/59385-transcript.yml) |
+| Lowery, Charlie J. | 59482 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-08-04 | [md](../markdown/59482-transcript.md) - [yaml](../yaml/59482-transcript.yml) |
 | Stewart, Gerald A. | 59490 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-11-22 | [md](../markdown/59490-transcript.md) - [yaml](../yaml/59490-transcript.yml) |
 | Rutledge, Jeremy R. | 59550 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-06-18 | [md](../markdown/59550-transcript.md) - [yaml](../yaml/59550-transcript.yml) |
 | Ortiz, Myrna A. | 59613 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2019-10-31 | [md](../markdown/59613-transcript.md) - [yaml](../yaml/59613-transcript.yml) |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/6/2025 | OCP4484B | Water Rescue Response | Passed | 0.0 | 0.25 |
 | 7/29/2025 | OCP0663B | Firearms Use Of Force | Passed | 0.0 | 3.50 |
 | 7/17/2025 | OCP1877B | Active Threat Response | Passed | 0.0 | 4.00 |
 | 5/30/2025 | BVP3270A | Complete Tactical Casualty Care | Passed | 0.0 | 30.00 |

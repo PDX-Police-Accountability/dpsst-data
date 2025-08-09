@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/24/2025
   course: PDP1668B
   title: 2025 AR-15 Operators In-Service Training (1-Day)
@@ -4521,6 +4527,10 @@ training_records:
   score: '0.0'
   hours: '24.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/22/2025
@@ -4532,7 +4542,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/22/2010

@@ -75,6 +75,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 8/7/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/19/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'
@@ -5872,6 +5878,10 @@ training_records:
   score: '0.0'
   hours: '6.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/13/2025
@@ -5879,7 +5889,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2023

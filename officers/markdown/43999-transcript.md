@@ -33,7 +33,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/11/2024 | 4/11/2026 |
 | Code of Ethics | Signed | 1/28/2005 |  |
 ## Education
@@ -43,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/3/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/13/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |

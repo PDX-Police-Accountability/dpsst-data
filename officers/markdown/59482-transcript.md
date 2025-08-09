@@ -4,7 +4,7 @@
 | name | Lowery, Charlie J. |
 | dpsst_identifier | 59482 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/4/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 1/23/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 1/31/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/14/2020 | Police Officer | Basic | Granted | 2/14/2020 |  |  |
+| 2/14/2020 | Police Officer | Basic | Granted | 2/14/2020 | 11/4/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

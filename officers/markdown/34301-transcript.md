@@ -28,7 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 2/12/2024 | 2/1/2026 |
 | Code of Ethics | Signed | 7/28/2000 |  |
 ## Education
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/9/2025 | TRN3362B | DOC - Annual Firearms Training v2025 | Passed | 0.0 | 8.00 |
 | 5/8/2025 | TRN4261B | DOC - Defensive Tactics v2025 | Passed | 0.0 | 2.00 |
 | 5/8/2025 | TRN1078B | DOC - FS - Planned Use of Force v2025 | Passed | 0.0 | 4.00 |

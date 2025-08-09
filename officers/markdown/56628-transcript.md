@@ -22,8 +22,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 3/26/2025 | 3/26/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 10/24/2017 |  |
 | Code of Ethics | Signed | 11/6/2016 |  |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/26/2025 | PDP3101B | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
 | 6/26/2025 | PDP3024B | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Instructed | 0.0 | 10.00 |

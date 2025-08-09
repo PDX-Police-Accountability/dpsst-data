@@ -47,6 +47,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/16/2025 | BNP2202B | Explosive Breaching Orientation | Passed | 0.0 | 1.00 |
+| 7/14/2025 | BNP2358B | Control Tactics | Passed | 0.0 | 1.00 |
 | 7/9/2025 | BNP2246B | Wildland Fire Evacuation Command | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP0826B | Policy and SOP Updates | Passed | 0.0 | 1.00 |

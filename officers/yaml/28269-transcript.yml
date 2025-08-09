@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/14/2025
+  course: BNP2358B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/9/2025
   course: BNP2246B
   title: Wildland Fire Evacuation Command

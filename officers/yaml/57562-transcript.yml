@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/6/2025
+  course: OCP4484B
+  title: Water Rescue Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/29/2025
   course: OCP0663B
   title: Firearms Use Of Force

@@ -4,7 +4,7 @@
 | name | Spiegel, Daniel A. |
 | dpsst_identifier | 49997 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/31/2025 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 10/9/2008 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/22/2020 | Police Officer | Supervisory | Granted | 7/22/2020 |  |  |
-| 8/20/2019 | Police Officer | Advanced | Granted | 8/20/2019 |  |  |
-| 10/29/2010 | Police Officer | Intermediate | Granted | 10/29/2010 |  |  |
-| 12/21/2009 | Police Officer | Basic | Granted | 12/21/2009 |  |  |
+| 7/22/2020 | Police Officer | Supervisory | Granted | 7/22/2020 | 10/31/2025 |  |
+| 8/20/2019 | Police Officer | Advanced | Granted | 8/20/2019 | 10/31/2025 |  |
+| 10/29/2010 | Police Officer | Intermediate | Granted | 10/29/2010 | 10/31/2025 |  |
+| 12/21/2009 | Police Officer | Basic | Granted | 12/21/2009 | 10/31/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
