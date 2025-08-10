@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 8/5/2025 | OSH2079B | OSP Regional EVO 2025 | Passed | 0.0 | 4.00 |
 | 7/22/2025 | OSH2722B | 2nd Trimester Firearms | Passed | 0.0 | 8.00 |
 | 6/9/2025 | OSH2183A | Central Region Leadership Meeting | Passed | 0.0 | 4.00 |
 | 5/20/2025 | OSH4134B | Manager Comp.-Microsoft Tools | Passed | 0.0 | 1.00 |

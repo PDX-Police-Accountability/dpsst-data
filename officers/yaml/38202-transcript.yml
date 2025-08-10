@@ -74,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 7/16/2025
+  course: PDS0945B
+  title: Liftbag Implementation
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/16/2025
+  course: PDS0742B
+  title: New Diver Orientation and Gear Preparation
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

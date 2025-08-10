@@ -41,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/25/2025 | PDS4424B | Law Enforcement for Safety and Survival (LETSS) | Passed | 0.0 | 32.00 |
+| 7/16/2025 | PDS0945B | Liftbag Implementation | Instructed | 0.0 | 8.00 |
+| 7/16/2025 | PDS0742B | New Diver Orientation and Gear Preparation | Instructed | 0.0 | 8.00 |
 | 6/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2025 | PDS0530A | Lift Bags for SCUBA | Instructed | 0.0 | 8.00 |
 | 6/4/2025 | PDS4540B | Equipment Orientation | Instructed | 0.0 | 8.00 |

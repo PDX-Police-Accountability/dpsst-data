@@ -98,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/12/2025
+  course: PDP1738B
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/12/2025
+  course: PDP1481B
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/9/2025
   course: PDP3305A
   title: CPR/First Aid
@@ -116,6 +128,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/27/2025
+  course: PDP2059B
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/17/2025
+  course: PDP0359B
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/15/2025
   course: PDP4404B
   title: 2025 Extreme Risk Protection Orders (ERPOs)
@@ -134,6 +158,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 4/15/2025
+  course: PDP2267B
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/7/2025
   course: PDP3090B
   title: 2024-5 Naloxone (Narcan) Admin Guidelines

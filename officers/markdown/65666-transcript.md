@@ -49,6 +49,11 @@
 | 5/20/2025 | PDP4322A | 2025 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 5/20/2025 | PDP3754B | 2025-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 5/13/2025 | PDP0691B | 2025-2 Advanced Academy Fitness | Passed | 0.0 | 7.75 |
+| 5/12/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 5/12/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 5/12/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 5/12/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 5/12/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 4/29/2025 | PDP3135B | AA 2025 Building Police Legitimacy through PJ | Passed | 0.0 | 0.25 |
 | 4/29/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 4/29/2025 | PDP0998B | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |

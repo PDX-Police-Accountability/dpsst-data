@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2025
+  course: MMP2942B
+  title: Autism for LE - Promoting Safe Outcomes
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/31/2025
+  course: MMP1533B
+  title: Adult/Child CPR/AED/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/21/2025
   course: MMP4209B
   title: Firearms Qualification
@@ -2277,6 +2289,10 @@ training_records:
   score: '0.0'
   hours: '255.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/31/2025
+  expiration_date: 7/31/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025
@@ -2285,10 +2301,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 10/27/2023
-  expiration_date: 10/27/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/11/2000

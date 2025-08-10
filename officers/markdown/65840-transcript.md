@@ -58,6 +58,11 @@
 | 5/29/2025 | PDP2948B | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 5/29/2025 | PDP3305B | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 5/28/2025 | PDP3454A | TEEX WMD/Terrorism for Emerg Responders | Passed | 0.0 | 8.00 |
+| 5/28/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 5/28/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 5/28/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 5/28/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 5/28/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 23.00 |
 | 5/21/2025 | PDP1351B | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 5/21/2025 | PDP0787B | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |

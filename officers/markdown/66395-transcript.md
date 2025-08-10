@@ -40,3 +40,5 @@
 | 6/23/2025 | PDP3818B | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 3/1/2023 | PDP0788B | IS 700 National Inc Manage System Intro | Passed | 0.0 | 4.00 |
 | 3/1/2023 | PDP1676B | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
+| 3/1/2023 | PDP3577B | IS-1300 Introduction to Continuity of Ops | Passed | 0.0 | 0.75 |
+| 3/1/2023 | PDP1097B | IS-800 National Resp Framework | Passed | 0.0 | 3.00 |

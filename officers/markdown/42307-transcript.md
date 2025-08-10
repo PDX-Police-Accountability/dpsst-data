@@ -37,6 +37,11 @@
 | 7/6/2025 | PDP4343B | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 7/3/2025 | PDP4343B | 2025 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 6/19/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 5/26/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 5/26/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 5/26/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 5/26/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 5/26/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 5/21/2025 | PDP2673A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
 | 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |
 | 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Instructed | 0.0 | 9.00 |

@@ -30,6 +30,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/17/2025 | PDP2691B | 2025-2 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 83.00 |
+| 6/16/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 6/16/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 6/14/2025 | PDP1398B | 2025-2 Advanced Academy PVO | Passed | 0.0 | 50.25 |
 | 6/11/2025 | PDP0438B | 2025-2 Advanced Academy Firearms | Passed | 0.0 | 29.25 |
 | 6/11/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
@@ -38,6 +40,9 @@
 | 6/10/2025 | PDP1819B | 2025-2 Advanced Academy Wellness | Passed | 0.0 | 8.00 |
 | 6/10/2025 | PDP0171B | Advanced Academy Firearms | Passed | 0.0 | 2.25 |
 | 6/10/2025 | PDP0041B | Advanced Academy Firearms | Passed | 0.0 | 2.25 |
+| 6/9/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 6/9/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 6/9/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 6/5/2025 | PDP1171B | 2025-2 Advanced Academy Walking Beat | Passed | 0.0 | 20.00 |
 | 6/3/2025 | PDP2057B | 2025-2 Advanced Academy PDX Community Engagement | Passed | 0.0 | 4.50 |
 | 6/3/2025 | PDP3308B | 2025-2 Advanced Academy Equity | Passed | 0.0 | 23.50 |

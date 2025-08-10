@@ -78,6 +78,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 4/23/2025
+  course: PDP1481B
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/22/2025
+  course: PDP2059B
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/22/2025
+  course: PDP1738B
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/15/2025
   course: PDP0160B
   title: 2025 IS PVO Stop Stick
@@ -93,6 +111,18 @@ training_records:
 - date: 4/10/2025
   course: PDP4497B
   title: HRAR 2.04 Gender Identity Nondiscrimination Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/10/2025
+  course: PDP2267B
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/10/2025
+  course: PDP0359B
+  title: ORS 181A.440 Airways Part 2
   status: Passed
   score: '0.0'
   hours: '0.50'

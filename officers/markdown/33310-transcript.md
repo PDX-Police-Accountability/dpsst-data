@@ -28,9 +28,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 7/31/2025 | 7/31/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 10/27/2023 | 10/27/2025 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2025 | MMP2942B | Autism for LE - Promoting Safe Outcomes | Passed | 0.0 | 2.00 |
+| 7/31/2025 | MMP1533B | Adult/Child CPR/AED/First Aid | Passed | 0.0 | 4.00 |
 | 5/21/2025 | MMP4209B | Firearms Qualification | Passed | 0.0 | 3.00 |
 | 5/2/2025 | DAA0744A | Polk County Child Abuse MDT - Spring 2025 Training | Passed | 0.0 | 7.00 |
 | 2/11/2025 | MMP0495B | Low Light Firearms Training | Passed | 0.0 | 3.00 |

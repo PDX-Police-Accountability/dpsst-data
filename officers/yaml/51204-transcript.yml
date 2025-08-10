@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2025
+  course: PDP1406B
+  title: 2025 SERT Training Firearms
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/28/2025
   course: PDP0550B
   title: 2025 Patrol Rifle Instructors IS Scenarios
@@ -127,6 +133,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/19/2025
+  course: PDP2267B
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2025
+  course: PDP0359B
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/19/2025
+  course: PDP2059B
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/19/2025
+  course: PDP1738B
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/19/2025
+  course: PDP1481B
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/15/2025
   course: PDP3399A
   title: 2025 SERT Training - Scenario

@@ -36,6 +36,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '83.00'
+- date: 6/16/2025
+  course: PDP1738B
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/16/2025
+  course: PDP1481B
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/14/2025
   course: PDP1398B
   title: 2025-2 Advanced Academy PVO
@@ -84,6 +96,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 6/9/2025
+  course: PDP2267B
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/9/2025
+  course: PDP0359B
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/9/2025
+  course: PDP2059B
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/5/2025
   course: PDP1171B
   title: 2025-2 Advanced Academy Walking Beat

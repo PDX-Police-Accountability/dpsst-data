@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/29/2025 | PDS2874B | Fire Drill Training | Passed | 0.0 | 0.75 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/6/2025 | PDS0870A | Taser 7 | Passed | 0.0 | 8.00 |
 | 5/28/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |

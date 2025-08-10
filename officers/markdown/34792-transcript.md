@@ -59,6 +59,7 @@
 | 2/19/2025 | TAP0901A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2025 | TAP1945A | Investigating Strangulation | Passed | 0.0 | 2.75 |
 | 1/29/2025 | TAP2415A | Investigating Strangulation | Passed | 0.0 | 2.75 |
+| 1/14/2025 | TAP2863B | Stinger (Spike) and Stop Stick Training | Passed | 0.0 | 1.00 |
 | 12/31/2024 | TAP0537A | LEXIPOL Daily Training Bulletins July1-Dec31 2024 | Passed | 0.0 | 5.50 |
 | 12/26/2024 | TAP0582A | Flock User Training | Passed | 0.0 | 1.00 |
 | 12/18/2024 | TAP4072A | PublicSafetyVideoSurveillanceSystemPolicyReview | Passed | 0.0 | 0.50 |

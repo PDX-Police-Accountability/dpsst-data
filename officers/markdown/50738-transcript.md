@@ -55,11 +55,16 @@
 | 4/15/2025 | PDP0552B | 2024-3 IS PP Shooting at Moving Vehicles Video 2 | Passed | 0.0 | 1.25 |
 | 4/15/2025 | PDP3685B | 2024-3 IS MFF Response to Public Order Events | Passed | 0.0 | 1.50 |
 | 4/14/2025 | PDP3831B | 2024-3 IS ABLE Video | Passed | 0.0 | 2.00 |
+| 4/14/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 4/14/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 4/14/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 4/14/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 4/10/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/10/2025 | PDP4143B | 2024-3 IS Air Purifying Respirator (APR) Video | Passed | 0.0 | 1.00 |
 | 4/10/2025 | PDP1530B | 2024-3 IS Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
 | 4/10/2025 | PDP3451B | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |
 | 4/10/2025 | PDP0841B | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
+| 4/10/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 4/9/2025 | PDP3157B | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 4/9/2025 | PDP0077B | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 4/9/2025 | PDP4570B | 2024 Bias Event Response | Passed | 0.0 | 0.25 |

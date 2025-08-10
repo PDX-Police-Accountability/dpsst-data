@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/2/2025
+  course: OSH3412B
+  title: High Risk Vehicle Stops Instructor
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/22/2025
   course: REG3581B
   title: EVO - Skills and Decisions Update / Refresh

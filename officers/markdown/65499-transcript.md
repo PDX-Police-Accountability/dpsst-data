@@ -47,6 +47,11 @@
 | 5/25/2025 | PDP0621B | AA 2025 Responding to a Mental Health Facility | Passed | 0.0 | 0.25 |
 | 5/20/2025 | PDP3754B | 2025-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 5/13/2025 | PDP0691B | 2025-2 Advanced Academy Fitness | Passed | 0.0 | 7.75 |
+| 5/11/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 5/11/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 5/9/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 5/9/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 5/9/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 4/24/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 4/24/2025 | PDP0871B | 2025-2 Advanced Academy Legit/Procedural Justice | Passed | 0.0 | 0.50 |
 | 4/24/2025 | PDP1134B | 2025-2 Advanced Academy Ethics | Passed | 0.0 | 0.50 |

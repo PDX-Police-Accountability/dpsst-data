@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2025 | PDS0318B | Red Dot Firearms | Instructed | 0.0 | 22.00 |
+| 7/23/2025 | PDS1899B | Firearms IDC | Passed | 0.0 | 4.00 |
 | 6/9/2025 | PDS0870A | Taser 7 | Instructed | 0.0 | 8.00 |
 | 6/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/3/2025 | PDS0870A | Taser 7 | Instructed | 0.0 | 8.00 |
