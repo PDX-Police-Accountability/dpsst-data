@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2025 | TDP3324B | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 6/2/2025 | TDP2202A | Supervisor Liability for Law Enforcement | Passed | 0.0 | 8.00 |
 | 5/31/2025 | TDP1065B | Shatterball Use | Passed | 0.0 | 0.50 |
 | 5/20/2025 | TDP1963A | First Aid/CPR | Passed | 0.0 | 3.00 |

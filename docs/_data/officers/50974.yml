@@ -34,6 +34,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 8/11/2025
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 3/2/2021
   certificate: Police Officer
   level: Advanced
@@ -56,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/4/2025
+  course: 25-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/29/2025
   course: OCP0663B
   title: Firearms Use Of Force
