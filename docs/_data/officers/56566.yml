@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/23/2025
+  course: PDP1064B
+  title: OSP DNA Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 7/17/2025
   course: VND3123B
   title: 28 CFR 23 and WSIN Resources

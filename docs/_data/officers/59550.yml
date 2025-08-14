@@ -49,6 +49,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/7/2025
+  course: BNP3495B
+  title: SWAT- Firearms and Physical Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/7/2025
+  course: BNP1725B
+  title: SWAT- TCCC and medical scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/22/2025
   course: BNP0063B
   title: Tactical Overland Movements

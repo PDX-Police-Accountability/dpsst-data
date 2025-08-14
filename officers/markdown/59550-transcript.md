@@ -38,6 +38,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/8/2025 | RMP1990B | Firearms | Passed | 0.0 | 3.00 |
+| 8/7/2025 | BNP3495B | SWAT- Firearms and Physical Qualifications | Passed | 0.0 | 2.00 |
+| 8/7/2025 | BNP1725B | SWAT- TCCC and medical scenarios | Passed | 0.0 | 2.00 |
 | 7/22/2025 | BNP0063B | Tactical Overland Movements | Passed | 0.0 | 8.00 |
 | 7/1/2025 | BNP1051B | SWAT Field Training Manual | Passed | 0.0 | 8.00 |
 | 4/8/2025 | BNP0198A | Dynamic Building Entry | Passed | 0.0 | 4.00 |

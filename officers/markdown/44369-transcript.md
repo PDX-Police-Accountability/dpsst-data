@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/11/2025 | STP1232B | Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 5/19/2025 | STP4253A | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/9/2025 | STY3465A | Fire Behavior For Law Enforcement | Passed | 0.0 | 1.50 |
 | 3/7/2025 | VND0350A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |

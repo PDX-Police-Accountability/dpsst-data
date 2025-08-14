@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/23/2025 | PDP1064B | OSP DNA Training | Passed | 0.0 | 2.50 |
 | 7/6/2025 | PDP2013A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/13/2025 | PDP0408A | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 5/12/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
