@@ -87,12 +87,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 4/18/2025
-  course: GSP1958B
-  title: SWAT Sniper Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 4/18/2025
   course: PDP2347B
   title: 2025-2 CAO Legal Updates for 12/2023-02/2024
   status: Passed
@@ -116,12 +110,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 4/16/2025
-  course: GSP1366B
-  title: SWAT Firearms Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 4/15/2025
   course: PDP4404B
   title: 2025 Extreme Risk Protection Orders (ERPOs)
@@ -129,29 +117,11 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 3/21/2025
-  course: GSP0066A
-  title: SWAT Sniper Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 3/21/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 3/20/2025
-  course: GSP3207A
-  title: Controlled Swarming/IP Decision Making
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 3/19/2025
-  course: GSP1056A
-  title: SWAT Firearms Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 3/19/2025
   course: PDP2224A
   title: 2025-1 Range Qual AR-15 (20 Yard)
@@ -170,18 +140,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 2/21/2025
-  course: GSP3585A
-  title: SWAT Sniper Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 2/19/2025
-  course: GSP4035A
-  title: Firearms Training/IED Familiarization
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 2/7/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap
@@ -212,42 +170,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
-- date: 1/17/2025
-  course: GSP0641A
-  title: SWAT Sniper Range - Night
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 1/16/2025
-  course: GSP2341A
-  title: 1st Responder Response to Terrorism Acts/40 Quals
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 1/15/2025
-  course: GSP2029A
-  title: Firearms
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 1/8/2025
   course: PDP0222A
   title: 2024 Deflection Center Video for Law Enforcement
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 12/20/2024
-  course: GSP1469A
-  title: SWAT Sniper Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 12/19/2024
-  course: GSP1538A
-  title: SCBA, Breaching, Equipment Familiarzation
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 12/18/2024
   course: PDP1444A
   title: 2024 ECIT Dispatch Update Video
@@ -260,42 +188,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 12/18/2024
-  course: GSP1307A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 12/9/2024
   course: PDP2527A
   title: 2024 External OSP DNA Training
   status: Passed
   score: '0.0'
   hours: '2.50'
-- date: 11/22/2024
-  course: GSP0230A
-  title: SWAT Sniper Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 11/21/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
-- date: 11/21/2024
-  course: GSP0877A
-  title: Vehilce Pedestrian Takedowns
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 11/20/2024
-  course: GSP1280A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 10/29/2024
   course: PDP2855A
   title: 2024-3 Range Qualification AR-15 (20 Yard)
@@ -326,12 +230,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 10/18/2024
-  course: GSP2838A
-  title: SWAT Sniper Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 10/17/2024
   course: PDP0778A
   title: 2024-3 All Sworn In-Service CAO Legal Updates
@@ -368,18 +266,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 10/17/2024
-  course: GSP3454A
-  title: River Scenario Based Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 10/16/2024
-  course: GSP2671A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 10/2/2024
   course: PDP1634A
   title: 2024-3 All Sworn In-Service ABLE (CIT)
@@ -410,24 +296,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
-- date: 9/20/2024
-  course: GSP1167A
-  title: Firearms
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 9/19/2024
-  course: GSP4098A
-  title: Firearms
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 9/18/2024
-  course: GSP3238A
-  title: Building Searches
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 9/5/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
@@ -446,24 +314,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
-- date: 8/23/2024
-  course: GSP0027A
-  title: SWAT Sniper Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 8/22/2024
-  course: GSP0605A
-  title: Hasty/Deliberate Hostage Rescue Tactics
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 8/21/2024
-  course: GSP1177A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 8/6/2024
   course: PDP0918A
   title: City of Portland Bloodborne Pathogens
@@ -518,24 +368,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 7/19/2024
-  course: GSP1598A
-  title: SWAT Sniper Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 7/18/2024
-  course: GSP1189A
-  title: Dignitary Protection
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 7/17/2024
-  course: GSP3633A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 7/16/2024
   course: PDP2311A
   title: 2024-2 Range Qual AR-15 Qualification (20 Yard)
@@ -578,42 +410,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 6/21/2024
-  course: GSP3992A
-  title: SWAT Sniper Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 6/20/2024
-  course: GSP1278A
-  title: Active Shooter/School Clearance
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 6/19/2024
-  course: GSP0038A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 5/24/2024
-  course: GSP4111A
-  title: SWAT Sniper Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 5/23/2024
-  course: GSP2218A
-  title: Area Search K9/UAS Integration
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 5/22/2024
-  course: GSP4444A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 5/16/2024
   course: PDP2151A
   title: 2024 Investigator In-Service Case Study
@@ -668,48 +464,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
-- date: 4/19/2024
-  course: GSP2442A
-  title: SWAT Sniper Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 4/18/2024
-  course: GSP0684A
-  title: Warrant Contingencies
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 4/17/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/17/2024
-  course: GSP2495A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 3/22/2024
-  course: GSP3873A
-  title: SWAT Sniper Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 3/21/2024
-  course: GSP2101A
-  title: Citizen Rescue and Barricade Resolution
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 3/20/2024
-  course: GSP4196A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 3/19/2024
   course: PDP1617A
   title: 2024-1 Range Qualification AR-15 Qualification (20
@@ -734,24 +494,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 2/23/2024
-  course: GSP1582A
-  title: SWAT Sniper Training
-  status: Passed
-  score: '0.0'
-  hours: '0.00'
-- date: 2/22/2024
-  course: GSP0619A
-  title: Citizen Rescue and Barricade Resolution
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 2/21/2024
-  course: GSP1449A
-  title: Firearms Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 1/16/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
@@ -764,54 +506,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
-- date: 12/22/2023
-  course: GSP0985A
-  title: SWAT Sniper Firearms Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 12/21/2023
-  course: GSP3210A
-  title: Search Warrant Contingencies
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 12/20/2023
-  course: GSP3965A
-  title: SWAT Firearms Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 11/27/2023
   course: PDP1743A
   title: 2023 Behavioral Health Unit Referrals
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 11/17/2023
-  course: GSP4226A
-  title: SWAT Sniper Firearms Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 11/16/2023
   course: PDP0412A
   title: 2023 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '15.00'
-- date: 11/16/2023
-  course: GSP1735A
-  title: SWAT Firearms Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 11/15/2023
-  course: GSP0416A
-  title: SWAT Firearms Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 11/10/2023
   course: PDP3224A
   title: 2023-3 Range Qualification CEW
@@ -836,36 +542,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 10/27/2023
-  course: GSP0625A
-  title: Barricaded Incident Debrief
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 10/26/2023
-  course: GSP1671A
-  title: Barricade Resolution,Breaching, and HRT Response
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 10/25/2023
-  course: GSP4221A
-  title: Barricade Resolution,Breaching, and HRT Response
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 10/24/2023
-  course: GSP4481A
-  title: Area Search and K9 Apprehension
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 10/23/2023
-  course: GSP2235A
-  title: IP Decision Making, Armor, HRT Command and Control
-  status: Instructed
-  score: '0.0'
-  hours: '8.00'
 - date: 10/18/2023
   course: PDP3873A
   title: 2023 CNT Crisis Negotiation Team Annual Training

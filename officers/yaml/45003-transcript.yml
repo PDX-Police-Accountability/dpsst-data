@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/2/2025
+  course: HBP1011B
+  title: Active Shooter Response
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 5/7/2025
   course: HBP4518A
   title: Monthly Patrol Team Leadership

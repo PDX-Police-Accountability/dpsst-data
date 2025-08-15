@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2025 | HBP1011B | Active Shooter Response | Passed | 0.0 | 5.50 |
 | 5/7/2025 | HBP4518A | Monthly Patrol Team Leadership | Passed | 0.0 | 0.50 |
 | 4/16/2025 | HBP2125A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
 | 4/16/2025 | HBP2742A | Evidence Collection | Passed | 0.0 | 0.75 |

@@ -46,6 +46,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/24/2025 | PDP0821B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 6/18/2025 | PDP4510B | 2025 K-9 Weekly Training | Passed | 0.0 | 4.50 |
 | 6/4/2025 | PDP4290A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.25 |
 | 5/28/2025 | PDP3414A | 2025 K-9 Weekly Training | Passed | 0.0 | 4.00 |

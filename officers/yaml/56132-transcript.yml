@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2025
+  course: PDP3590B
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/17/2025
   course: PDP1138B
   title: 2025 SERT Training - SCENARIO

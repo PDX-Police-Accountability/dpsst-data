@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2025 | OCP0598B | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 8/4/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 7/29/2025 | OCP0663B | Firearms Use Of Force | Passed | 0.0 | 3.50 |
 | 7/17/2025 | OCP1877B | Active Threat Response | Passed | 0.0 | 4.00 |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2025 | HBP2984B | Active Shooter Response | Passed | 0.0 | 5.50 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/8/2025 | HBP2079A | ODT - Patrol Tactics | Passed | 0.0 | 1.00 |
 | 5/7/2025 | HBP2066B | Emergency Aid/Exigent Entry | Passed | 0.0 | 1.00 |

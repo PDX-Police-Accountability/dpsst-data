@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2025
+  course: PDP4421B
+  title: 2025 Traffic Monthly Motor Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/6/2025
   course: PDP4343B
   title: 2025 Standard Field Sobriety Test (SFST) Refresher

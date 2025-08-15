@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/16/2025
+  course: HBP2984B
+  title: Active Shooter Response
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
