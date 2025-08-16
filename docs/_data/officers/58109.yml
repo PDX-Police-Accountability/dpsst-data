@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/14/2025
+  course: MISCMAIN
+  title: 2025 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/14/2025
   course: 25-0030
   title: DPSST Supervision F21 Equivalency
@@ -3139,6 +3145,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/5/2025
@@ -3150,7 +3160,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/23/2019

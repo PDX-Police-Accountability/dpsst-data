@@ -48,13 +48,20 @@
 | 5/20/2025 | PDS4193B | Red Dot Firearms | Instructed | 0.0 | 27.00 |
 | 4/30/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
 | 4/29/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
+| 4/18/2025 | GSP1958B | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 4/16/2025 | GSP1366B | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 4/14/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
 | 4/10/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 4/1/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
+| 3/21/2025 | GSP0066A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/20/2025 | GSP3207A | Controlled Swarming/IP Decision Making | Passed | 0.0 | 10.00 |
+| 3/19/2025 | GSP1056A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 2/26/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |
 | 2/25/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |
 | 2/24/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |
+| 2/21/2025 | GSP3585A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 2/19/2025 | GSP4035A | Firearms Training/IED Familiarization | Passed | 0.0 | 10.00 |
 | 2/14/2025 | PDS0340A | Red Dot Handgun | Instructed | 0.0 | 24.00 |
 | 2/6/2025 | PDS3333A | Range | Instructed | 0.0 | 2.00 |
 | 2/3/2025 | PDS3333A | Range | Instructed | 0.0 | 2.00 |
@@ -64,8 +71,14 @@
 | 1/23/2025 | PDS2369A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 1/23/2025 | PDS4462A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/23/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
+| 1/17/2025 | GSP0641A | SWAT Sniper Range - Night | Passed | 0.0 | 10.00 |
+| 1/16/2025 | GSP2341A | 1st Responder Response to Terrorism Acts/40 Quals | Passed | 0.0 | 10.00 |
+| 1/15/2025 | GSP2029A | Firearms | Passed | 0.0 | 10.00 |
 | 1/7/2025 | PDS0232A | Supervising Patrol Critical Incidents | Passed | 0.0 | 16.00 |
 | 12/27/2024 | PDS0180A | Range | Instructed | 0.0 | 2.00 |
+| 12/20/2024 | GSP1469A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 12/19/2024 | GSP1538A | SCBA, Breaching, Equipment Familiarzation | Passed | 0.0 | 10.00 |
+| 12/18/2024 | GSP1307A | Firearms Training | Passed | 0.0 | 10.00 |
 | 12/13/2024 | PDS1307A | Range | Instructed | 0.0 | 2.00 |
 | 12/13/2024 | PDS2420A | Range | Instructed | 0.0 | 2.00 |
 | 12/12/2024 | PDS2741A | Range | Instructed | 0.0 | 2.00 |
@@ -75,17 +88,29 @@
 | 12/2/2024 | PDS2017A | Range | Instructed | 0.0 | 2.00 |
 | 12/2/2024 | PDS0714A | Range | Instructed | 0.0 | 2.00 |
 | 11/26/2024 | PDS3254A | Range Training IDC | Instructed | 0.0 | 4.00 |
+| 11/22/2024 | GSP0230A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 11/21/2024 | GSP0877A | Vehilce Pedestrian Takedowns | Passed | 0.0 | 10.00 |
+| 11/20/2024 | GSP1280A | Firearms Training | Passed | 0.0 | 10.00 |
 | 11/2/2024 | PDS2776A | Range Qualification | Instructed | 0.0 | 0.50 |
 | 11/2/2024 | PDS4192A | Range Training | Instructed | 0.0 | 3.50 |
 | 10/23/2024 | VND3596A | Collective Bargaining for Public Safety Employees | Passed | 0.0 | 15.00 |
+| 10/18/2024 | GSP2838A | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 10/17/2024 | GSP3454A | River Scenario Based Training | Passed | 0.0 | 10.00 |
+| 10/16/2024 | GSP2671A | Firearms Training | Passed | 0.0 | 10.00 |
 | 10/11/2024 | PDS0857A | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/9/2024 | PDS0857A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/7/2024 | PDS3518A | Sniper Operations | Passed | 0.0 | 1.00 |
 | 10/3/2024 | PDS0857A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 9/26/2024 | PDS2374A | Leadership | Passed | 0.0 | 4.00 |
 | 9/24/2024 | PDS1480A | Range IDC | Passed | 0.0 | 2.00 |
+| 9/20/2024 | GSP1167A | Firearms | Passed | 0.0 | 10.00 |
 | 9/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/19/2024 | GSP4098A | Firearms | Passed | 0.0 | 10.00 |
+| 9/18/2024 | GSP3238A | Building Searches | Passed | 0.0 | 10.00 |
 | 9/6/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
+| 8/23/2024 | GSP0027A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 8/22/2024 | GSP0605A | Hasty/Deliberate Hostage Rescue Tactics | Passed | 0.0 | 10.00 |
+| 8/21/2024 | GSP1177A | Firearms Training | Passed | 0.0 | 10.00 |
 | 8/13/2024 | PDS2081A | Ethical Behavior | Passed | 0.0 | 1.00 |
 | 8/13/2024 | PDS2312A | Kinetic Impact Projectile | Passed | 0.0 | 0.50 |
 | 7/25/2024 | PDS0869A | Anti-Harassment | Passed | 0.0 | 1.00 |
@@ -97,19 +122,34 @@
 | 7/23/2024 | PDS3031A | Narcan | Passed | 0.0 | 0.50 |
 | 7/23/2024 | PDS2357A | Taser Recertification | Passed | 0.0 | 1.00 |
 | 7/23/2024 | PDS3269A | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 7/19/2024 | GSP1598A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 7/18/2024 | GSP1189A | Dignitary Protection | Passed | 0.0 | 10.00 |
+| 7/17/2024 | GSP3633A | Firearms Training | Passed | 0.0 | 10.00 |
+| 6/21/2024 | GSP3992A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 6/20/2024 | GSP1278A | Active Shooter/School Clearance | Passed | 0.0 | 10.00 |
+| 6/19/2024 | GSP0038A | Firearms Training | Passed | 0.0 | 10.00 |
 | 6/7/2024 | PDS0199A | Range | Instructed | 0.0 | 2.00 |
+| 5/24/2024 | GSP4111A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 5/23/2024 | GSP2218A | Area Search K9/UAS Integration | Passed | 0.0 | 10.00 |
+| 5/22/2024 | GSP4444A | Firearms Training | Passed | 0.0 | 10.00 |
 | 5/15/2024 | PDS4373A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 5/11/2024 | PDS3148A | Range Instructor | Passed | 0.0 | 16.00 |
 | 5/9/2024 | PDS3390A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 4/30/2024 | PDS2993A | Red Dot Optic Transition Course | Instructed | 0.0 | 16.00 |
 | 4/22/2024 | PDS3960A | LE Range | Instructed | 0.0 | 2.00 |
+| 4/19/2024 | GSP2442A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 4/18/2024 | GSP0684A | Warrant Contingencies | Passed | 0.0 | 10.00 |
+| 4/17/2024 | GSP2495A | Firearms Training | Passed | 0.0 | 10.00 |
 | 4/16/2024 | PDS0997A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 4/1/2024 | PDS0299A | LE Range | Instructed | 0.0 | 2.00 |
 | 3/27/2024 | PDS0168A | LE Range IDC | Passed | 0.0 | 3.00 |
 | 3/26/2024 | PDS1794A | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 3/22/2024 | GSP3873A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 3/21/2024 | PDS3394A | Officer Down/Citizen Rescue | Passed | 0.0 | 4.00 |
 | 3/21/2024 | PDS2383A | SWAT Training | Passed | 0.0 | 12.00 |
+| 3/21/2024 | GSP2101A | Citizen Rescue and Barricade Resolution | Passed | 0.0 | 10.00 |
 | 3/20/2024 | PDS0766A | SWAT Firearms Training | Passed | 0.0 | 8.00 |
+| 3/20/2024 | GSP4196A | Firearms Training | Passed | 0.0 | 10.00 |
 | 3/19/2024 | PDS1230A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 3/18/2024 | PDS3962A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |
@@ -117,6 +157,9 @@
 | 2/28/2024 | PDS3208A | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
 | 2/27/2024 | PDS1119A | Glock Armorer's Course | Passed | 0.0 | 8.00 |
 | 2/26/2024 | PDS4516A | Range Training | Instructed | 0.0 | 2.00 |
+| 2/23/2024 | GSP1582A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 2/22/2024 | GSP0619A | Citizen Rescue and Barricade Resolution | Passed | 0.0 | 10.00 |
+| 2/21/2024 | GSP1449A | Firearms Training | Passed | 0.0 | 10.00 |
 | 2/20/2024 | PDS1631A | Range Training | Instructed | 0.0 | 2.00 |
 | 2/5/2024 | PDS2649A | Range Training | Instructed | 0.0 | 2.00 |
 | 1/30/2024 | PDS3870A | Defensive Tactics IDC | Instructed | 0.0 | 4.00 |
@@ -125,9 +168,12 @@
 | 1/19/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/19/2024 | PDS0907A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 1/10/2024 | PDS0175A | Leadership Training | Passed | 0.0 | 4.00 |
+| 12/22/2023 | GSP0985A | SWAT Sniper Firearms Range | Passed | 0.0 | 10.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/21/2023 | PDS2955A | Search Warrant Contingencies | Passed | 0.0 | 8.00 |
+| 12/21/2023 | GSP3210A | Search Warrant Contingencies | Passed | 0.0 | 10.00 |
 | 12/20/2023 | PDS2817A | SWAT range | Passed | 0.0 | 8.00 |
+| 12/20/2023 | GSP3965A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 12/19/2023 | PDS0729A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 12/15/2023 | PDS2453A | Anti-Bias Training | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS4082A | Benchmark Analytics Refresher | Passed | 0.0 | 0.50 |
@@ -140,12 +186,20 @@
 | 12/1/2023 | PDS2241A | Firearms | Passed | 0.0 | 2.00 |
 | 11/27/2023 | PDS3751A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/20/2023 | PDS2952A | Active Threat Response | Instructed | 0.0 | 8.00 |
+| 11/17/2023 | GSP4226A | SWAT Sniper Firearms Range | Passed | 0.0 | 10.00 |
+| 11/16/2023 | GSP1735A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
+| 11/15/2023 | GSP0416A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 11/9/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 11/3/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
 | 11/2/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
 | 10/31/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
 | 10/30/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
 | 10/27/2023 | PDS1754A | Annual East Metro SWAT Training Week | Passed | 0.0 | 32.00 |
+| 10/27/2023 | GSP0625A | Barricaded Incident Debrief | Passed | 0.0 | 4.00 |
+| 10/26/2023 | GSP1671A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |
+| 10/25/2023 | GSP4221A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |
+| 10/24/2023 | GSP4481A | Area Search and K9 Apprehension | Passed | 0.0 | 8.00 |
+| 10/23/2023 | GSP2235A | IP Decision Making, Armor, HRT Command and Control | Instructed | 0.0 | 8.00 |
 | 10/14/2023 | PDS0194A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 10/11/2023 | PDS1323A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |

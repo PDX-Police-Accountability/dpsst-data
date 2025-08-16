@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2025 | GPN1389B | Pathways Training | Passed | 0.0 | 20.00 |
 | 8/4/2025 | TRN4334B | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 7/17/2025 | OCS3816B | BCP Training | Passed | 0.0 | 7.00 |
 | 6/26/2025 | OCS0728B | Firearms Training | Passed | 0.0 | 2.00 |
