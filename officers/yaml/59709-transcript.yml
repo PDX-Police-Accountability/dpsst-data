@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/13/2025
+  course: BNP0323B
+  title: Evidence Collection and Processing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/13/2025
+  course: BNP1644B
+  title: Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/17/2025
   course: BNP2358B
   title: Control Tactics

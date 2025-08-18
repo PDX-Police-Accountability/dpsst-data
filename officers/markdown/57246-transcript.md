@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2025 | HBN3670B | Womens Defensive Tactics Strategies | Passed | 0.0 | 1.00 |
 | 6/12/2025 | HBN3101B | Officer Safety and Home Visit Training | Passed | 0.0 | 7.00 |
 | 5/20/2025 | HBN1663B | Defensive Tactics-Striking Techniques | Passed | 0.0 | 1.00 |
 | 5/1/2025 | BNN0229A | Scenarios | Passed | 0.0 | 3.00 |

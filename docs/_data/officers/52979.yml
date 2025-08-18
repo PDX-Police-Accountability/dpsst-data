@@ -49,6 +49,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/9/2025
+  course: HDA4002B
+  title: ONEA/Rolling Surveillence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/10/2025
   course: OCS2107B
   title: FBI CAST Basic

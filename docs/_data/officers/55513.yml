@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/9/2025
+  course: HBS2630B
+  title: Joint Team Scenarios -Tactical
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/27/2025
   course: BVP3335B
   title: Range June 2025

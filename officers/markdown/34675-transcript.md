@@ -37,6 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/10/2025 | HDA1149B | ONEA/Keynote "Shots Fired" | Passed | 0.0 | 4.00 |
+| 7/9/2025 | HDA0794B | ONEA/After an Officer Involved Shooting | Passed | 0.0 | 4.00 |
+| 7/9/2025 | HDA0183B | ONEA/Use of Force And Litigation issues for LE | Passed | 0.0 | 4.00 |
+| 7/8/2025 | HDA2699B | ONEA/After an Officer Involved Shooting | Passed | 0.0 | 4.00 |
+| 7/8/2025 | HDA2187B | ONEA/ Financial Investigations | Passed | 0.0 | 2.00 |
+| 7/8/2025 | HDA1546B | ONEA/OD Presecutions State/Fed | Passed | 0.0 | 2.00 |
+| 7/8/2025 | HDA4576B | ONEA/Tren de Aragua | Passed | 0.0 | 4.00 |
+| 7/7/2025 | HDA2999B | ONEA General Session | Passed | 0.0 | 4.00 |
 | 11/15/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/15/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/31/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

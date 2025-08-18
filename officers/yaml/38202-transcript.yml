@@ -86,6 +86,48 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 7/10/2025
+  course: HDA1149B
+  title: ONEA/Keynote "Shots Fired"
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/9/2025
+  course: HDA1222B
+  title: ONEA/Illicit Drug Manufacturing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/9/2025
+  course: HDA0183B
+  title: ONEA/Use of Force And Litigation issues for LE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/8/2025
+  course: HDA2187B
+  title: ONEA/ Financial Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/8/2025
+  course: HDA1546B
+  title: ONEA/OD Presecutions State/Fed
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/8/2025
+  course: HDA1691B
+  title: ONEA/Rolling Surveillence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/7/2025
+  course: HDA2999B
+  title: ONEA General Session
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

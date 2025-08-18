@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2025 | BNP0323B | Evidence Collection and Processing | Passed | 0.0 | 0.50 |
+| 8/13/2025 | BNP1644B | Legal Update | Passed | 0.0 | 1.00 |
 | 7/17/2025 | BNP2358B | Control Tactics | Passed | 0.0 | 1.00 |
 | 7/8/2025 | BNP1071B | UAS Monthly | Passed | 0.0 | 6.50 |
 | 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |

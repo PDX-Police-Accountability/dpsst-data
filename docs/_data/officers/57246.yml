@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/17/2025
+  course: HBN3670B
+  title: Womens Defensive Tactics Strategies
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/12/2025
   course: HBN3101B
   title: Officer Safety and Home Visit Training

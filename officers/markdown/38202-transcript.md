@@ -43,6 +43,13 @@
 | 7/25/2025 | PDS4424B | Law Enforcement for Safety and Survival (LETSS) | Passed | 0.0 | 32.00 |
 | 7/16/2025 | PDS0945B | Liftbag Implementation | Instructed | 0.0 | 8.00 |
 | 7/16/2025 | PDS0742B | New Diver Orientation and Gear Preparation | Instructed | 0.0 | 8.00 |
+| 7/10/2025 | HDA1149B | ONEA/Keynote "Shots Fired" | Passed | 0.0 | 4.00 |
+| 7/9/2025 | HDA1222B | ONEA/Illicit Drug Manufacturing | Passed | 0.0 | 4.00 |
+| 7/9/2025 | HDA0183B | ONEA/Use of Force And Litigation issues for LE | Passed | 0.0 | 4.00 |
+| 7/8/2025 | HDA2187B | ONEA/ Financial Investigations | Passed | 0.0 | 2.00 |
+| 7/8/2025 | HDA1546B | ONEA/OD Presecutions State/Fed | Passed | 0.0 | 2.00 |
+| 7/8/2025 | HDA1691B | ONEA/Rolling Surveillence | Passed | 0.0 | 2.00 |
+| 7/7/2025 | HDA2999B | ONEA General Session | Passed | 0.0 | 4.00 |
 | 6/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2025 | PDS0530A | Lift Bags for SCUBA | Instructed | 0.0 | 8.00 |
 | 6/4/2025 | PDS4540B | Equipment Orientation | Instructed | 0.0 | 8.00 |
