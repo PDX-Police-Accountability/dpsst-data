@@ -4,7 +4,7 @@
 | name | Jones, Jason L. |
 | dpsst_identifier | 37668 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Captain |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/12/2025 | Portland Police Bureau | Retired | Captain |  |  |
 | 1/2/2025 | Portland Police Bureau | Promotion | Captain |  |  |
 | 12/18/2024 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 2/3/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
@@ -26,12 +27,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/5/2024 | Police Officer | Management | Granted | 2/5/2024 |  |  |
-| 4/26/2021 | Police Officer | Supervisory | Granted | 4/26/2021 |  |  |
+| 2/5/2024 | Police Officer | Management | Granted | 2/5/2024 | 11/12/2025 |  |
+| 4/26/2021 | Police Officer | Supervisory | Granted | 4/26/2021 | 11/12/2025 |  |
 | 8/1/2019 | Instructor |  | Expired | 3/24/2017 |  |  |
-| 10/15/2002 | Police Officer | Advanced | Granted | 10/15/2002 |  |  |
-| 7/2/2001 | Police Officer | Intermediate | Granted | 7/2/2001 |  |  |
-| 7/12/2000 | Police Officer | Basic | Granted | 7/12/2000 |  |  |
+| 10/15/2002 | Police Officer | Advanced | Granted | 10/15/2002 | 11/12/2025 |  |
+| 7/2/2001 | Police Officer | Intermediate | Granted | 7/2/2001 | 11/12/2025 |  |
+| 7/12/2000 | Police Officer | Basic | Granted | 7/12/2000 | 11/12/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

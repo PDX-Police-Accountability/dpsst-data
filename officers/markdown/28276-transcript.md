@@ -49,6 +49,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/8/2025 | SVP1848B | CJIS Security Test - LEDS | Passed | 0.0 | 1.00 |
+| 8/8/2025 | SVP2878B | LEDS Recertication | Passed | 0.0 | 1.00 |
 | 7/9/2025 | AVP0524B | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 6/5/2025 | SVP1793A | FBI National Academy, Session #294 | Passed | 0.0 | 270.00 |
 | 3/18/2025 | SVP3092A | Basic Public Information Officer Course | Passed | 0.0 | 8.00 |

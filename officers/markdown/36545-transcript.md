@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/23/2025 | HBP3483B | Active Shooter Response | Passed | 0.0 | 5.50 |
+| 7/23/2025 | HBP4585B | Surviving a Line of Duty Death | Passed | 0.0 | 3.00 |
 | 5/21/2025 | HBP1220B | Emergency Aid/Exigent Entry | Passed | 0.0 | 1.00 |
 | 4/23/2025 | HBP2357A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
 | 4/23/2025 | HBP1091A | Evidence Collection | Passed | 0.0 | 0.75 |

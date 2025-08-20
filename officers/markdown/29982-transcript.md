@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/6/2025 | SVP0247B | Rescue Task Force Intro  Application | Passed | 0.0 | 2.00 |
 | 7/9/2025 | AVP0524B | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 6/11/2025 | AVP0547A | Monthly Leadership Meeting | Passed | 0.0 | 1.25 |
 | 6/11/2025 | SVP2764B | EVOC Refresher | Instructed | 0.0 | 8.00 |

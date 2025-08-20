@@ -4,7 +4,7 @@
 | name | Pahlke, Troy T. |
 | dpsst_identifier | 34490 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/15/2025 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 6/26/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 10/24/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/23/1997 | Portland Police Bureau | Resigned | Civln Emp |  |  |
@@ -19,10 +20,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/15/2012 | Police Officer | Advanced | Granted | 5/15/2012 |  |  |
-| 5/15/2012 | Police Officer | Intermediate | Granted | 5/15/2012 |  |  |
-| 5/15/2012 | Police Officer | Supervisory | Granted | 5/15/2012 |  |  |
-| 2/2/1999 | Police Officer | Basic | Granted | 2/2/1999 |  |  |
+| 5/15/2012 | Police Officer | Advanced | Granted | 5/15/2012 | 11/15/2025 |  |
+| 5/15/2012 | Police Officer | Intermediate | Granted | 5/15/2012 | 11/15/2025 |  |
+| 5/15/2012 | Police Officer | Supervisory | Granted | 5/15/2012 | 11/15/2025 |  |
+| 2/2/1999 | Police Officer | Basic | Granted | 2/2/1999 | 11/15/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

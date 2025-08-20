@@ -3,12 +3,18 @@ header_record:
   name: Pahlke, Troy T.
   dpsst_identifier: '34490'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/15/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 6/26/2008
   agency: Portland Police Bureau
   action: Promotion
@@ -39,28 +45,28 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 5/15/2012
-  expiration_date: ''
+  expiration_date: 11/15/2025
   probation_date: ''
 - status_date: 5/15/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 5/15/2012
-  expiration_date: ''
+  expiration_date: 11/15/2025
   probation_date: ''
 - status_date: 5/15/2012
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 5/15/2012
-  expiration_date: ''
+  expiration_date: 11/15/2025
   probation_date: ''
 - status_date: 2/2/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/2/1999
-  expiration_date: ''
+  expiration_date: 11/15/2025
   probation_date: ''
 training_records:
 - date: 5/13/2025

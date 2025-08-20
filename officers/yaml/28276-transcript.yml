@@ -129,6 +129,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/8/2025
+  course: SVP1848B
+  title: CJIS Security Test - LEDS
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/8/2025
+  course: SVP2878B
+  title: LEDS Recertication
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/9/2025
   course: AVP0524B
   title: Monthly Leadership Meeting

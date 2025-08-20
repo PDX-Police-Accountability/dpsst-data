@@ -3,12 +3,18 @@ header_record:
   name: Jones, Jason L.
   dpsst_identifier: '37668'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Captain
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/12/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Captain
+  classification: ''
+  assignment: ''
 - date: 1/2/2025
   agency: Portland Police Bureau
   action: Promotion
@@ -81,14 +87,14 @@ certification_records:
   level: Management
   status: Granted
   certificate_date: 2/5/2024
-  expiration_date: ''
+  expiration_date: 11/12/2025
   probation_date: ''
 - status_date: 4/26/2021
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 4/26/2021
-  expiration_date: ''
+  expiration_date: 11/12/2025
   probation_date: ''
 - status_date: 8/1/2019
   certificate: Instructor
@@ -102,21 +108,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/15/2002
-  expiration_date: ''
+  expiration_date: 11/12/2025
   probation_date: ''
 - status_date: 7/2/2001
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 7/2/2001
-  expiration_date: ''
+  expiration_date: 11/12/2025
   probation_date: ''
 - status_date: 7/12/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 7/12/2000
-  expiration_date: ''
+  expiration_date: 11/12/2025
   probation_date: ''
 training_records:
 - date: 8/7/2025

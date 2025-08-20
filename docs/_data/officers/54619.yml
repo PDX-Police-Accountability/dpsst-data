@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.50'
+- date: 7/23/2025
+  course: HBP4585B
+  title: Surviving a Line of Duty Death
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
