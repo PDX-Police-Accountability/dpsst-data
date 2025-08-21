@@ -69,6 +69,12 @@ certification_records:
   expiration_date: 11/19/2029
   probation_date: ''
 training_records:
+- date: 7/11/2025
+  course: REG2387B
+  title: Use of Force Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/26/2025
   course: M00-19A
   title: DPSST Adult Learning Core
