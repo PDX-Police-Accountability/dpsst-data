@@ -2829,12 +2829,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 3/3/2017
-  course: F6C28028
-  title: California Homicide Investigator's Conference
-  status: Passed
-  score: '0.0'
-  hours: '25.00'
-- date: 3/3/2017
   course: PPB24595
   title: California Homicide Investigator's Conference
   status: Passed

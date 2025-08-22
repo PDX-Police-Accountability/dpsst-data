@@ -88,6 +88,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/14/2025
+  course: PDP4324B
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 7/7/2025
   course: PDP1668B
   title: 2025 AR-15 Operators In-Service Training (1-Day)

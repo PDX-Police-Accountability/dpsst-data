@@ -25,5 +25,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/19/2025 | PDN1379B | Human Performace in Law Enforcement | Passed | 0.0 | 45.00 |
 | 12/1/2010 | 10-0443 | Leadership | Passed | 0.0 | 6.00 |
 | 11/20/2008 | 08-0443 | Leadership | Passed | 0.0 | 16.00 |

@@ -498,7 +498,6 @@
 | 3/31/2017 | F6C31871 | Handgun Qualification-Primary Sidearm | Passed | 0.0 | 0.50 |
 | 3/31/2017 | F6C11220 | Handgun Qualification-Secondary Sidearm | Passed | 0.0 | 0.50 |
 | 3/31/2017 | F6C08975 | Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 3/3/2017 | F6C28028 | California Homicide Investigator's Conference | Passed | 0.0 | 25.00 |
 | 3/3/2017 | PPB24595 | California Homicide Investigator's Conference | Passed | 0.0 | 25.00 |
 | 11/30/2016 | F6C21655 | Handgun Qualification Primary Sidearm | Passed | 0.0 | 0.50 |
 | 11/30/2016 | F6C20060 | Shotgun Qualification | Passed | 0.0 | 0.50 |
