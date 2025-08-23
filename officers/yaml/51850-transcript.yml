@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/12/2025
+  course: PDP3509B
+  title: FTEP Policy and Procedure Class
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

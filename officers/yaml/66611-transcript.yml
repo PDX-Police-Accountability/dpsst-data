@@ -36,5 +36,21 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
-attribute_records: []
+- date: 8/14/2025
+  course: PDP4324B
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/12/2025
+  course: PDP3509B
+  title: FTEP Policy and Procedure Class
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/14/2025
+  expiration_date: 8/14/2027
 education_records: []

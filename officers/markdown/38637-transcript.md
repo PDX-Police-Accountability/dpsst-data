@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/10/2025 | HDA1149B | ONEA/Keynote "Shots Fired" | Passed | 0.0 | 4.00 |
+| 7/10/2025 | PDP4454B | 2025 ONEA Training Institute | Passed | 0.0 | 20.00 |
 | 7/8/2025 | HDA1691B | ONEA/Rolling Surveillence | Passed | 0.0 | 2.00 |
 | 7/7/2025 | HDA2999B | ONEA General Session | Passed | 0.0 | 4.00 |
 | 6/17/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |

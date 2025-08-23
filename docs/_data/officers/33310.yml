@@ -74,18 +74,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/15/2025
+  course: MMP2719B
+  title: Airways Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/7/2025
   course: MMP2942B
   title: Autism for LE - Promoting Safe Outcomes
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/1/2025
+  course: MMP0977B
+  title: Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/31/2025
   course: MMP1533B
   title: Adult/Child CPR/AED/First Aid
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/31/2025
+  course: MMP2091B
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/21/2025
   course: MMP4209B
   title: Firearms Qualification
