@@ -146,6 +146,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 4/11/2025
+  course: SAG0787B
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/11/2025
+  course: SAG3472B
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/10/2025
+  course: SAG0711B
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/9/2025
+  course: SAG1692B
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/7/2025
   course: PDP4404B
   title: 2025 Extreme Risk Protection Orders (ERPOs)

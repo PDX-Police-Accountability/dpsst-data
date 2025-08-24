@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2025 | GSP1219B | PVO In-service | Passed | 0.0 | 10.00 |
 | 6/20/2025 | GSP2627B | Firearms - Post Academy | Instructed | 0.0 | 10.00 |
 | 6/19/2025 | GSP2627B | Firearms - Post Academy | Instructed | 0.0 | 10.00 |
 | 6/17/2025 | GSP2040B | Glock Armorer's Course | Passed | 0.0 | 8.00 |

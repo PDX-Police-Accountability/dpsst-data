@@ -51,6 +51,10 @@
 | 3/25/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/25/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/25/2025 | PDP4000A | 2025-3 City Att Legal Updates Mar 2024-June 2024 | Passed | 0.0 | 0.75 |
+| 3/21/2025 | SAG0909B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 8.00 |
+| 3/20/2025 | SAG0179B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 8.00 |
+| 3/19/2025 | SAG3527B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 8.00 |
+| 3/18/2025 | SAG2728B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 16.00 |
 | 3/7/2025 | PDP3198B | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 2.25 |
 | 3/7/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 3/7/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |

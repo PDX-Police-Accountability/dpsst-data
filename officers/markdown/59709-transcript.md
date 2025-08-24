@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2025 | BNP3548B | Open range, skills | Passed | 0.0 | 1.00 |
 | 8/14/2025 | BNP0164B | UAS Monthly- Outdoor/Indoor | Passed | 0.0 | 8.00 |
 | 8/13/2025 | BNP0323B | Evidence Collection and Processing | Passed | 0.0 | 0.50 |
 | 8/13/2025 | BNP1644B | Legal Update | Passed | 0.0 | 1.00 |

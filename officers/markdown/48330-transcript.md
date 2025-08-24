@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/19/2025 | GSP3278B | UAS Training | Passed | 0.0 | 10.00 |
+| 6/28/2025 | GSP3985B | PVO In-service | Passed | 0.0 | 10.00 |
 | 3/21/2025 | GSP1751A | FEMA ICS-200 | Passed | 0.0 | 4.00 |
 | 2/7/2025 | GSP3328A | CPTED Annual Conference | Passed | 0.0 | 22.00 |
 | 12/31/2024 | GSP3611A | Multnomah County Deflection Center (2024) | Passed | 0.0 | 0.50 |

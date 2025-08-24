@@ -100,7 +100,7 @@
 | 12/6/2021 | OSA21704 | OSSA Conference-Monday | Passed | 0.0 | 8.00 |
 | 10/22/2021 | BNS04360 | In-custody Suicide Prevention | Passed | 0.0 | 1.00 |
 | 10/21/2021 | BNS23875 | Incident Command  Tactical Decision-Making | Passed | 0.0 | 2.00 |
-| 10/21/2021 | BNS09355 | 1st Amendment / Managing Protests | Passed | 0.0 | 1.00 |
+| 10/21/2021 | BNS09355 | 1st Amendment/Managing Protests | Passed | 0.0 | 1.00 |
 | 10/21/2021 | BNS26353 | Managing 2nd Amendment Activities | Passed | 0.0 | 1.00 |
 | 10/21/2021 | BNS19226 | Tactical Combat Casualty Care | Passed | 0.0 | 3.00 |
 | 10/19/2021 | BNS06976 | Deputy Wellness - Stress Management | Passed | 0.0 | 2.00 |

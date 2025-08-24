@@ -29,6 +29,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2025 | SAG0909B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 8.00 |
+| 3/20/2025 | SAG0179B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 8.00 |
+| 3/19/2025 | SAG3527B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 8.00 |
+| 3/18/2025 | SAG2728B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 16.00 |
 | 8/12/2021 | F6F17961 | Defensive Tactics | Passed | 0.0 | 10.00 |
 | 8/9/2021 | F6E35706 | Department Quarterly Firearms Training | Passed | 0.0 | 2.00 |
 | 7/8/2021 | F6E12358 | Strangulation Supplemental Training | Passed | 0.0 | 0.25 |

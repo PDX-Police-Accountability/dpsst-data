@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2025 | GSP2986B | PVO In-service | Passed | 0.0 | 10.00 |
 | 4/25/2025 | OAC2304A | Innovative Approaches to Crisis Response | Passed | 0.0 | 3.00 |
 | 4/24/2025 | OAC0714A | Principled Leadership - The Charleston 9 | Passed | 0.0 | 4.00 |
 | 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |
