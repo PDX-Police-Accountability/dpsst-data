@@ -26,9 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/13/2025 | 8/13/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 8/23/2023 | 8/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
 | Code of Ethics | Signed | 1/24/2013 |  |
 ## Education
@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2025 | MKL1706B | Introduction to CAMP Phave IV | Passed | 0.0 | 2.00 |
+| 8/13/2025 | MKL0765B | Adult/Child CPR AED and First Aid (Online Course) | Passed | 0.0 | 5.00 |
 | 4/23/2025 | MKL0515B | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 3/11/2025 | MKL3073A | LEDs Re-Certification | Passed | 0.0 | 1.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -46,6 +46,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 8/25/2025
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 5/16/2024
   certificate: Police Officer
   level: Advanced
@@ -92,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/18/2025
+  course: OSH1432B
+  title: Person In Crisis/De-esculation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/9/2025
   course: OSH2183A
   title: Central Region Leadership Meeting

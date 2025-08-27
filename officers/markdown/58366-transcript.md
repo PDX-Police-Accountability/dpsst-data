@@ -21,6 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/25/2025 | Police Officer | Supervisory | App Recd |  |  |  |
 | 5/16/2024 | Police Officer | Advanced | Granted | 5/16/2024 |  |  |
 | 5/16/2024 | Police Officer | Intermediate | Granted | 5/16/2024 |  |  |
 | 3/2/2019 | Police Officer | Basic | Granted | 3/2/2019 |  |  |
@@ -44,6 +45,7 @@
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 8/5/2025 | OSH2079B | OSP Regional EVO 2025 | Passed | 0.0 | 4.00 |
 | 7/22/2025 | OSH2722B | 2nd Trimester Firearms | Passed | 0.0 | 8.00 |
+| 6/18/2025 | OSH1432B | Person In Crisis/De-esculation | Passed | 0.0 | 4.00 |
 | 6/9/2025 | OSH2183A | Central Region Leadership Meeting | Passed | 0.0 | 4.00 |
 | 5/20/2025 | OSH4134B | Manager Comp.-Microsoft Tools | Passed | 0.0 | 1.00 |
 | 5/15/2025 | OSH0679B | MIT Surveillance Training | Passed | 0.0 | 2.00 |

@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/13/2025
+  course: EGP3765B
+  title: SWAT Breaching Target Analysis
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/13/2025
+  course: EGP2574B
+  title: Explosive Breaching Window Breaching
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/25/2025
   course: EGP1382B
   title: MMBTH Breaching Course
@@ -92,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 7/2/2025
+  course: EGP4027B
+  title: SWAT Breaching Window Breaching
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/25/2025
   course: EGP4510A
   title: SWAT Firearms- HR Target Drills
@@ -101,6 +119,18 @@ training_records:
 - date: 5/25/2025
   course: EGP3185A
   title: SWAT Search Skills-Mini Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/25/2025
+  course: EGP3949B
+  title: SWAT Firearms Pistol- Carbine Drills
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/25/2025
+  course: EGP1394B
+  title: SWAT Scenarios HR-Search Drills-Explosive Breach
   status: Passed
   score: '0.0'
   hours: '4.00'

@@ -41,11 +41,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2025 | EGP3765B | SWAT Breaching Target Analysis | Passed | 0.0 | 4.00 |
+| 8/13/2025 | EGP2574B | Explosive Breaching Window Breaching | Passed | 0.0 | 4.00 |
 | 7/25/2025 | EGP1382B | MMBTH Breaching Course | Passed | 0.0 | 40.00 |
 | 7/19/2025 | EGP0959B | Tactical Explosive Breacher Course - 6 Day | Passed | 0.0 | 48.00 |
 | 7/9/2025 | EGP0983B | Use of Force Scenarios | Passed | 0.0 | 5.00 |
+| 7/2/2025 | EGP4027B | SWAT Breaching Window Breaching | Passed | 0.0 | 8.00 |
 | 5/25/2025 | EGP4510A | SWAT Firearms- HR Target Drills | Passed | 0.0 | 2.00 |
 | 5/25/2025 | EGP3185A | SWAT Search Skills-Mini Scenarios | Passed | 0.0 | 4.00 |
+| 5/25/2025 | EGP3949B | SWAT Firearms Pistol- Carbine Drills | Passed | 0.0 | 3.00 |
+| 5/25/2025 | EGP1394B | SWAT Scenarios HR-Search Drills-Explosive Breach | Passed | 0.0 | 4.00 |
 | 5/22/2025 | EGP1446B | Explosive Breaching Charge Construction -IDC- TE | Passed | 0.0 | 8.00 |
 | 5/15/2025 | EGP0146A | Active Violent Event Protocols | Passed | 0.0 | 1.50 |
 | 5/15/2025 | EGP3004A | Building Search  AVI Response Scenario | Passed | 0.0 | 2.50 |

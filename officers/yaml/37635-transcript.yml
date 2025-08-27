@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/23/2025
+  course: EGP4253B
+  title: SWAT Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/23/2025
+  course: EGP2462B
+  title: SWAT Skills Listening Devices
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/12/2025
   course: EGP1687B
   title: Firearms Marksmanship Drills  Breaching
@@ -96,6 +108,18 @@ training_records:
 - date: 5/25/2025
   course: EGP3185A
   title: SWAT Search Skills-Mini Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/25/2025
+  course: EGP3949B
+  title: SWAT Firearms Pistol- Carbine Drills
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/25/2025
+  course: EGP1394B
+  title: SWAT Scenarios HR-Search Drills-Explosive Breach
   status: Passed
   score: '0.0'
   hours: '4.00'
