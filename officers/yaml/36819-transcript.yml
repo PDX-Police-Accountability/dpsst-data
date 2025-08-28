@@ -74,6 +74,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/5/2025
+  course: LOP3762B
+  title: Handgun Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/7/2025
   course: PDA1754B
   title: Handgun Firearms

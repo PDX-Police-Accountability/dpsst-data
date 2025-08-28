@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2025 | TGP0040B | National LE  Corporate Crimes Convention | Passed | 0.0 | 25.00 |
 | 7/1/2025 | TGP0405B | Body Worn Camera Refresher Training | Passed | 0.0 | 0.50 |
 | 6/10/2025 | SAG0550A | Fences  Preparing Case for Prosecution | Passed | 0.0 | 3.50 |
 | 5/20/2025 | TGP0319A | ACAP | Passed | 0.0 | 2.00 |

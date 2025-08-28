@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/19/2027 | REQAPP | REQUIRED TRAINING: Armed Parole and Probation | Required | 0.0 | 0.00 |
+| 9/15/2025 | M32-20A | Armed Parole and Probation Course | Registered | 0.0 | 0.00 |
 | 7/17/2025 | HBN3670B | Womens Defensive Tactics Strategies | Passed | 0.0 | 1.00 |
 | 6/12/2025 | HBN3101B | Officer Safety and Home Visit Training | Passed | 0.0 | 7.00 |
 | 5/20/2025 | HBN1663B | Defensive Tactics-Striking Techniques | Passed | 0.0 | 1.00 |

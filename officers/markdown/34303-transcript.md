@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/27/2025 | Hillsboro Police Department | Return LOA | Police Off |  |  |
 | 4/29/2025 | Hillsboro Police Department | LOA | Police Off |  |  |
 | 3/1/2002 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 2/28/2002 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
