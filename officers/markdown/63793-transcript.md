@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2025 | PDP3355B | 2025 AR-15 Patrol Rifle New Operators Course | Passed | 0.0 | 54.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/20/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/17/2025 | PDP1956B | CPR/First Aid | Passed | 0.0 | 1.00 |

@@ -46,6 +46,7 @@
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 7/14/2025 | PDP2451B | 2025 PPB Sergeant's Academy | Passed | 0.0 | 90.00 |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/23/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 5/23/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 5/23/2025 | PDP3198B | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 2.25 |

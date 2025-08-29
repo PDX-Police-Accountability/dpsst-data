@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2025 | PDP3355B | 2025 AR-15 Patrol Rifle New Operators Course | Passed | 0.0 | 54.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/24/2025 | PDP0676B | 2025 Advanced Shotgun Operator In-Service | Passed | 0.0 | 5.00 |
 | 6/27/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |

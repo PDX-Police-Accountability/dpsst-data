@@ -37,6 +37,7 @@
 | 7/17/2025 | VND3123B | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 7/14/2025 | PDP2451B | 2025 PPB Sergeant's Academy | Passed | 0.0 | 90.00 |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/28/2025 | PDP4013B | 2025 Critical Incident Response Training | Passed | 0.0 | 6.00 |
 | 6/28/2025 | PDP4013B | 2025 Critical Incident Response Training | Instructed | 0.0 | 6.00 |
 | 5/28/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |

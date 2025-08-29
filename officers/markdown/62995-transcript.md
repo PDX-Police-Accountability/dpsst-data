@@ -31,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2025 | PDP3355B | 2025 AR-15 Patrol Rifle New Operators Course | Passed | 0.0 | 45.00 |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/16/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 5/6/2025 | PDP1017A | CPR/First Aid | Passed | 0.0 | 1.00 |

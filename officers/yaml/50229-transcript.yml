@@ -55,6 +55,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/2/2025
+  course: TRN3289B
+  title: CRCI Fire Suppression Training v2025 (Volume 2)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/2/2025
+  course: TRN0416B
+  title: Fire Alarm Panel Monitoring v2025 (Volume 2) cont
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/17/2025
   course: TRN0785B
   title: 2025 Information Security Training Foundations

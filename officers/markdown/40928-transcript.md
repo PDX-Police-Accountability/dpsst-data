@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Instructed | 0.0 | 9.00 |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/20/2025 | HBS2577A | Def Tech Distraction Device ICP | Passed | 0.0 | 4.00 |
 | 6/19/2025 | HBS0109A | Def Tech Chemical Munition ICP | Passed | 0.0 | 5.00 |
 | 6/18/2025 | HBS0777A | Def Tech LLIM ICP | Passed | 0.0 | 4.50 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2025 | PDP4351B | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 8/7/2025 | PDP2072B | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 36.00 |
 | 7/30/2025 | PDP0104B | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 7/26/2025 | PDP0676B | 2025 Advanced Shotgun Operator In-Service | Passed | 0.0 | 5.00 |

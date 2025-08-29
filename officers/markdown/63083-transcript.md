@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2025 | PDP3355B | 2025 AR-15 Patrol Rifle New Operators Course | Passed | 0.0 | 54.00 |
 | 6/24/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 6/23/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/23/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |

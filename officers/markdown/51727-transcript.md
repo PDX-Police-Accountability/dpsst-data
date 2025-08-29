@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/27/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/17/2025 | PDP1221A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/9/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |

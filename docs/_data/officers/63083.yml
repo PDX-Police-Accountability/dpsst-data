@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/23/2025
+  course: PDP3355B
+  title: 2025 AR-15 Patrol Rifle New Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '54.00'
 - date: 6/24/2025
   course: PDP2059B
   title: ORS 181A.440 Airways Part 3

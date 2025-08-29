@@ -170,6 +170,10 @@ training_records:
   score: '0.0'
   hours: '28.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Telecommunication Signed
+  effective_date: 8/18/2025
+  expiration_date: ''
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/18/2025

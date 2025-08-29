@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2025 | PDP3355B | 2025 AR-15 Patrol Rifle New Operators Course | Passed | 0.0 | 45.00 |
 | 6/12/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 6/12/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/22/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |

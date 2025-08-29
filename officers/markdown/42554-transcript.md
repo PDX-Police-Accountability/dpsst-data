@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 8/12/2025 | EGP2430B | Police Motorcade Training | Instructed | 0.0 | 6.00 |
 | 8/6/2025 | PDP3392B | 2025 Traffic Monthly Motor Training | Passed | 0.0 | 9.00 |
 | 7/9/2025 | PDP4421B | 2025 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Instructed | 0.0 | 14.00 |

@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/29/2025 | PDP3721B | 2025 Patrol Rifle Instructors IS Scenarios | Passed | 0.0 | 9.00 |
 | 7/23/2025 | PDP1036B | FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/9/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Instructed | 0.0 | 23.00 |
 | 5/11/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |

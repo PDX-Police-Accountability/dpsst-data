@@ -29,6 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Telecommunication Signed | 8/18/2025 |  |
 | Certification Cards | First Aid and CPR | 3/18/2025 | 3/18/2027 |
 ## Education
 | date | degree | school | major | hours |

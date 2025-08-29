@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2025 | PDP3355B | 2025 AR-15 Patrol Rifle New Operators Course | Passed | 0.0 | 54.00 |
 | 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 5/19/2025 | PDP3327A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 4/24/2025 | PDP3796A | CPR/First Aid | Passed | 0.0 | 1.75 |

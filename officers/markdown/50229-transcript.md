@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/2/2025 | TRN3289B | CRCI Fire Suppression Training v2025 (Volume 2) | Passed | 0.0 | 1.00 |
+| 7/2/2025 | TRN0416B | Fire Alarm Panel Monitoring v2025 (Volume 2) cont | Passed | 0.0 | 1.00 |
 | 6/17/2025 | TRN0785B | 2025 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 4/10/2025 | TRN3245B | DOC - Defensive Tactics v2025 | Passed | 0.0 | 2.00 |
 | 4/10/2025 | TRN0246B | DOC - FS - Planned Use of Force v2025 | Passed | 0.0 | 4.00 |

@@ -41,6 +41,7 @@
 | 8/14/2025 | PDP4324B | CPR/First Aid | Instructed | 0.0 | 3.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/17/2025 | PDP0071B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/10/2025 | SAG0550A | Fences  Preparing Case for Prosecution | Passed | 0.0 | 3.50 |
 | 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/24/2025 | PDP3160A | 2025 Utility Terrian Vehicle (UTV) Training | Passed | 0.0 | 9.00 |

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2025 | EGP2430B | Police Motorcade Training | Passed | 0.0 | 6.00 |
 | 7/16/2025 | HBS4570B | Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 7/2/2025 | HBS1642A | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |

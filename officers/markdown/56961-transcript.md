@@ -37,6 +37,7 @@
 | 7/26/2025 | PDP0676B | 2025 Advanced Shotgun Operator In-Service | Passed | 0.0 | 5.00 |
 | 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 7/14/2025 | PDP2451B | 2025 PPB Sergeant's Academy | Passed | 0.0 | 90.00 |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/8/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/9/2025 | PDP3675B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 8.00 |
 | 4/29/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |

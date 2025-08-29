@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2025 | PDP3355B | 2025 AR-15 Patrol Rifle New Operators Course | Passed | 0.0 | 54.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/23/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 5/23/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |

@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/27/2025
+  course: FGP0153B
+  title: DPSST Legal Updates - March/April 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/27/2025
   course: FGP4424A
   title: DPSST Legal Updates

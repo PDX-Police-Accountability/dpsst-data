@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/2/2025 | PDP0322A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/5/2023 | PDP0942A | 2023 Training PS3 Support Specialist Coach School | Passed | 0.0 | 8.00 |
 | 3/16/2022 | PDP2901A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |

@@ -39,6 +39,7 @@
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/23/2025 | PDP1064B | OSP DNA Training | Passed | 0.0 | 2.50 |
 | 7/17/2025 | VND3123B | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/28/2025 | PDP4013B | 2025 Critical Incident Response Training | Passed | 0.0 | 6.00 |
 | 6/20/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 6/20/2025 | PDP3198B | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 2.25 |
