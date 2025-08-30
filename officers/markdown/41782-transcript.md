@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/21/2025 | Portland Police Bureau | Retrn MLOA | Lieutenant |  |  |
 | 4/18/2024 | Portland Police Bureau | Mil-LOA | Lieutenant |  |  |
 | 2/3/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 10/26/2020 | Portland Police Bureau | Retrn MLOA | Sergeant |  |  |
@@ -32,7 +33,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2027 |
 | Code of Ethics | Signed | 1/30/2002 |  |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 7/15/2025 |
 ## Education

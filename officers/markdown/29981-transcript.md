@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/27/2025 | OCA2894B | Legislative Update / MCT Meeting | Passed | 0.0 | 1.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/18/2025 | WLP1297B | Firearms Training - Inservice | Passed | 0.0 | 3.00 |
 | 5/21/2025 | WLP0563B | Defensive Tactics: Control Fundamentals, Scenarios | Passed | 0.0 | 2.00 |

@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/11/2025 | TAP3090B | Reunification Drill | Passed | 0.0 | 4.00 |
+| 8/11/2025 | OSH0224B | Active Threat Training | Passed | 0.0 | 4.00 |
 | 7/18/2025 | ADP0488B | Evade the Fight: Tactical De-Escalation | Passed | 0.0 | 8.00 |
 | 7/13/2025 | TAP1935B | Sig Sauer Weapons Ban and Firearms Policy Review | Passed | 0.0 | 0.75 |
 | 6/25/2025 | TAP4457B | Take Home Cars Vehicle Use Policy Review | Passed | 0.0 | 0.50 |

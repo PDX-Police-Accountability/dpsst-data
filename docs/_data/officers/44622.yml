@@ -68,6 +68,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 8/11/2025
+  course: OSH0224B
+  title: Active Threat Training
+  status: Instructed
+  score: '0.0'
+  hours: '32.00'
 - date: 8/2/2025
   course: OSH3412B
   title: High Risk Vehicle Stops Instructor

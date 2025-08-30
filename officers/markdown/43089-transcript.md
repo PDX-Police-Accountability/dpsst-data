@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/30/2025 | LGS3217B | Pursuit Management/High Risk Vehicle Stops | Passed | 0.0 | 4.00 |
 | 7/18/2025 | LGS4192B | Firearms qualification/Fundamentals | Instructed | 0.0 | 4.00 |
 | 7/15/2025 | LGS1193B | Firearms qualification/Fundamentals | Passed | 0.0 | 4.00 |
 | 7/10/2025 | REG4065B | Handgun Instructor Development Course | Instructed | 0.0 | 40.00 |

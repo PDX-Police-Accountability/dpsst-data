@@ -30,5 +30,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/25/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 8/20/2025 | PDP2997B | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 8/14/2025 | PDP4324B | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 8/12/2025 | PDP3509B | FTEP Policy and Procedure Class | Passed | 0.0 | 6.00 |

@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/19/2025 | BNP0389B | Bend PD Ethics | Instructed | 0.0 | 2.00 |
 | 7/16/2025 | BNP2202B | Explosive Breaching Orientation | Passed | 0.0 | 1.00 |
 | 7/9/2025 | BNP2246B | Wildland Fire Evacuation Command | Passed | 0.0 | 1.00 |
 | 6/30/2025 | BNP2421B | Carotid Annual Training | Passed | 0.0 | 1.00 |

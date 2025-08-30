@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2025
+  course: PDP0852B
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/21/2025
+  course: PDP0852B
+  title: 2025 SERT Training - FIREARMS
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/13/2025
+  course: PDP0697B
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/13/2025
+  course: PDP0697B
+  title: 2025 SERT Training - FIREARMS
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

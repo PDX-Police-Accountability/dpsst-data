@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/19/2025
+  course: BNP0389B
+  title: Bend PD Ethics
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/16/2025
   course: BNP2202B
   title: Explosive Breaching Orientation

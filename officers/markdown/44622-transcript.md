@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/16/2025 | OSH3897B | Retiree Firearms | Instructed | 0.0 | 4.00 |
+| 8/11/2025 | OSH0224B | Active Threat Training | Instructed | 0.0 | 32.00 |
 | 8/2/2025 | OSH3412B | High Risk Vehicle Stops Instructor | Passed | 0.0 | 24.00 |
 | 7/22/2025 | REG3581B | EVO - Skills and Decisions Update / Refresh | Passed | 0.0 | 4.00 |
 | 7/20/2025 | OSH0198B | Active Threat | Instructed | 0.0 | 24.00 |

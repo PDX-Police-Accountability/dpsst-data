@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/25/2025
+  agency: Gladstone Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 4/12/2010
   agency: Portland Police Bureau
   action: Return LOA

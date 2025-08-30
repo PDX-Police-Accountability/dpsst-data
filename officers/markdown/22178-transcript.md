@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/25/2025 | Gladstone Police Department | Hired | Police Off |  |  |
 | 4/12/2010 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 1/12/2010 | Portland Police Bureau | LOA | Police Off |  |  |
 | 6/1/2006 | Portland Police Bureau | Demotion | Police Off |  |  |
