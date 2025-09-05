@@ -135,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 6/13/2025
+  course: PDP4290B
+  title: OTOA Basic SWAT School
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/4/2025
   course: PDP4290A
   title: 2025 K-9 Weekly Training

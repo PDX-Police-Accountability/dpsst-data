@@ -573,9 +573,9 @@ training_records:
 - date: 11/1/2024
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Incomplete
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
 - date: 8/27/2024
   course: PDP2967A
   title: RADAR/LIDAR Operator

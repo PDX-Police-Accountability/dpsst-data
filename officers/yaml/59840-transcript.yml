@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '20.00'
+- date: 8/5/2025
+  course: OCS3591B
+  title: DEC Community Summit
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 8/4/2025
   course: TRN4334B
   title: Chrono Practices and Contact Standards

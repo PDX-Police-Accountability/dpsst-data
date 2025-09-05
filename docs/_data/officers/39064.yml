@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/18/2025
+  course: TDP0954B
+  title: Ethical Behavior in Local Govt
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/14/2025
   course: TDP3324B
   title: Defensive Tactics

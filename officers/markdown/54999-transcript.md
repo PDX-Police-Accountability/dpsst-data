@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 6/12/2025 | HRS2424B | High Risk Stops Refresher | Passed | 0.0 | 4.00 |
 | 6/12/2025 | HRS3609B | Pursuit Policy Review | Passed | 0.0 | 1.00 |
 | 5/15/2025 | HRS4243B | Centering Belonging | Passed | 0.0 | 2.00 |

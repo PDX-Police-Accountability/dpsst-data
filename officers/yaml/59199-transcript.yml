@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2025
+  course: EGP2503B
+  title: Vehicle Tactics-Pins-Breaching-Crisis Rescue
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/20/2025
+  course: EGP2611B
+  title: Vehicle Tactics-Pins-Breaching-Crisis Rescue
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/13/2025
   course: EGP3765B
   title: SWAT Breaching Target Analysis

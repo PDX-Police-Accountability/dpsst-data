@@ -45,6 +45,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2025 | HBS2107B | Ambush Awareness  Preparation | Passed | 0.0 | 1.00 |
+| 8/1/2025 | HBS0220B | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |
+| 8/1/2025 | HBS2682B | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
 | 7/16/2025 | HBS4570B | Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/6/2025 | HBS3487A | InService T7 Transition Firearms Qual | Passed | 0.0 | 9.00 |

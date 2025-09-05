@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2025 | PDP4243B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/27/2025 | PDP0550B | 2025 Patrol Rifle Instructors IS Scenarios | Passed | 0.0 | 9.00 |

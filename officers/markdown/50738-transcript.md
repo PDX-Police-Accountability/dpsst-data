@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/27/2025 | PDP4014B | Financially Fit: Strategies for Financial Wellness | Passed | 0.0 | 1.00 |
+| 8/26/2025 | PDP2618B | Women in Command | Passed | 0.0 | 18.00 |
 | 7/24/2025 | PDP2358B | Respond to  Investigate Bomb Threats  Swat Hoax | Passed | 0.0 | 1.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/24/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |

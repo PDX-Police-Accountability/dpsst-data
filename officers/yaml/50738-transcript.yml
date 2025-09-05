@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/27/2025
+  course: PDP4014B
+  title: 'Financially Fit: Strategies for Financial Wellness'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/26/2025
+  course: PDP2618B
+  title: Women in Command
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 7/24/2025
   course: PDP2358B
   title: Respond to  Investigate Bomb Threats  Swat Hoax

@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/28/2025 | PDP4243B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
+| 8/21/2025 | PDP3359B | 2025 Tactical Emergency Casualty Care (TECC) | Passed | 0.0 | 9.00 |
 | 7/15/2025 | PDP3628B | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 7/14/2025 | PDP1206B | FTEP Geography | Passed | 0.0 | 3.00 |
 | 7/10/2025 | PDP0116B | RegJIN RMS/MRE | Passed | 0.0 | 14.00 |

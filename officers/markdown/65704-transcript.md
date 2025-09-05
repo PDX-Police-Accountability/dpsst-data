@@ -34,7 +34,6 @@
 | 6/17/2025 | PDP2691B | 2025-2 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 83.00 |
 | 6/14/2025 | PDP1398B | 2025-2 Advanced Academy PVO | Passed | 0.0 | 50.25 |
 | 6/11/2025 | PDP0438B | 2025-2 Advanced Academy Firearms | Passed | 0.0 | 29.25 |
-| 6/11/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 6/11/2025 | PDP3937B | Advanced Academy Wellness | Passed | 0.0 | 2.25 |
 | 6/10/2025 | PDP3261B | 2025-2 Advanced Academy Control Tactics | Passed | 0.0 | 60.25 |
 | 6/10/2025 | PDP1819B | 2025-2 Advanced Academy Wellness | Passed | 0.0 | 8.00 |

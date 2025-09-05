@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/13/2025
+  course: PDP4290B
+  title: OTOA Basic SWAT School
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/6/2025
   course: PDP4532A
   title: 2025 SERT Training - SCENARIO

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2025 | PDP3359B | 2025 Tactical Emergency Casualty Care (TECC) | Passed | 0.0 | 9.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/7/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |

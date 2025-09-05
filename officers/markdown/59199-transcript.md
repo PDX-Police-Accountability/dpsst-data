@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2025 | EGP2503B | Vehicle Tactics-Pins-Breaching-Crisis Rescue | Passed | 0.0 | 9.00 |
+| 8/20/2025 | EGP2611B | Vehicle Tactics-Pins-Breaching-Crisis Rescue | Passed | 0.0 | 9.00 |
 | 8/13/2025 | EGP3765B | SWAT Breaching Target Analysis | Passed | 0.0 | 4.00 |
 | 8/13/2025 | EGP2574B | Explosive Breaching Window Breaching | Passed | 0.0 | 4.00 |
 | 7/25/2025 | EGP1382B | MMBTH Breaching Course | Passed | 0.0 | 40.00 |

@@ -50,6 +50,7 @@
 | 6/26/2025 | PDP3024B | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 6/26/2025 | PDP4190B | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
 | 6/19/2025 | PDP0430A | 2025 SERT Training - ITERATION | Passed | 0.0 | 5.00 |
+| 6/13/2025 | PDP4290B | OTOA Basic SWAT School | Passed | 0.0 | 40.00 |
 | 6/6/2025 | PDP4532A | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/6/2025 | PDP0920B | 2025 AR-15 Instructor In-Service Training (1-Day) | Instructed | 0.0 | 9.00 |
 | 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |

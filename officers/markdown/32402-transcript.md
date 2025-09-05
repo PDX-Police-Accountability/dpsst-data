@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2025 | HBS2107B | Ambush Awareness  Preparation | Passed | 0.0 | 1.00 |
+| 8/1/2025 | HBS2682B | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
 | 7/25/2025 | HBS2433B | Instructor ACFE Global Fraud Conference | Passed | 0.0 | 19.00 |
 | 6/20/2025 | HBS0204B | Patrol Rifle School | Passed | 0.0 | 42.00 |
 | 6/3/2025 | OCS0752B | Lock picking | Passed | 0.0 | 24.00 |

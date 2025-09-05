@@ -119,7 +119,7 @@
 | 11/10/2024 | PDP2663A | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 11/10/2024 | PDP3099A | 2019-5 TT Enforcement of Protection Orders Full | Passed | 0.0 | 0.25 |
 | 11/4/2024 | PDP2451A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
-| 11/1/2024 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 11/1/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 8/27/2024 | PDP2967A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 6/20/2024 | PDP3931A | ICS-100 Intro to the Incident Cmnd System | Passed | 0.0 | 2.00 |
 | 6/20/2024 | PDP2575A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |

@@ -101,6 +101,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/1/2025
+  course: HBS2107B
+  title: Ambush Awareness  Preparation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/1/2025
+  course: HBS0220B
+  title: Virtual - Anti Bias Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/1/2025
+  course: HBS2682B
+  title: Virtual - Nasal Naloxone (NARCAN)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/16/2025
   course: HBS4570B
   title: Heat Illness Prevention
