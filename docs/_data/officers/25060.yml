@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2025
+  course: WBP1958B
+  title: 'Briefing Training: Operation Railsafe Review'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 6/10/2025
   course: WBP2197B
   title: Adult and Pediatric First Aid/CPR/AED

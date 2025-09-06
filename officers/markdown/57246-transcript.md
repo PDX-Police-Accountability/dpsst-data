@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/2/2025 | Parole  Probation Officer | Advanced | App Recd |  |  |  |
+| 9/4/2025 | Parole  Probation Officer | Advanced | Granted | 9/4/2025 |  |  |
 | 2/11/2022 | Parole  Probation Officer | Intermediate | Granted | 2/11/2022 |  |  |
 | 12/20/2019 | Parole  Probation Officer | Basic | Granted | 12/20/2019 |  |  |
 ## Attributes

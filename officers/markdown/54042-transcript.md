@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/27/2025 | Clackamas County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 12/11/2024 | Clackamas County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 9/29/2023 | Clackamas County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 9/21/2022 | Clackamas County Sheriff's Office | LOA | Dpty Shrf |  |  |
@@ -30,7 +31,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2026 |
 | Code of Ethics | Signed | 4/24/2014 |  |
 ## Education
 | date | degree | school | major | hours |

@@ -4,7 +4,7 @@
 | name | Anderson, Erin K. |
 | dpsst_identifier | 22178 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 8/25/2025 | Gladstone Police Department | Hired | Police Off |  |  |
+| 8/22/2025 | Portland Police Bureau | Retired | Police Off |  |  |
 | 4/12/2010 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 1/12/2010 | Portland Police Bureau | LOA | Police Off |  |  |
 | 6/1/2006 | Portland Police Bureau | Demotion | Police Off |  |  |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2025 | WBP1958B | Briefing Training: Operation Railsafe Review | Passed | 0.0 | 0.75 |
 | 6/10/2025 | WBP2197B | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 3/5/2025 | WBP4470A | Crisis Response Team Overview | Passed | 0.0 | 0.75 |
 | 12/17/2024 | WBP4453A | Intro to Psychological First Aid | Passed | 0.0 | 1.50 |

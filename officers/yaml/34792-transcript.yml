@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/28/2025
+  course: MFP2993B
+  title: 'Train the Trainer: RADAR  LIDAR Certification'
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 8/11/2025
   course: TAP3090B
   title: Reunification Drill

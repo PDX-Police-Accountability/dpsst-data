@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/25/2025
+  course: MLP3428B
+  title: Handgun and Rifle qualifications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/10/2025
   course: MLP0151A
   title: Defensive Tactics

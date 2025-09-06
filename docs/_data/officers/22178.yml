@@ -3,7 +3,7 @@ header_record:
   name: Anderson, Erin K.
   dpsst_identifier: '22178'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
@@ -12,6 +12,12 @@ employment_records:
 - date: 8/25/2025
   agency: Gladstone Police Department
   action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 8/22/2025
+  agency: Portland Police Bureau
+  action: Retired
   rank: Police Off
   classification: ''
   assignment: ''

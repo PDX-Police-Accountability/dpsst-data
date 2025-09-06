@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2025 | 37276B | Legal Update traffic/premises open to the public | Passed | 0.0 | 1.00 |
 | 7/22/2025 | REG3581B | EVO - Skills and Decisions Update / Refresh | Passed | 0.0 | 4.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Leadership 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
