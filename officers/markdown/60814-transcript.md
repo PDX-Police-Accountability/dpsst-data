@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Morgan, Nicole A. |
+| name | Smith, Nicole M. |
 | dpsst_identifier | 60814 |
 | agency | Portland Police Bureau |
 | employment_status | Active |

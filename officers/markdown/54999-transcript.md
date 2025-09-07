@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/16/2023 | Hood River County Sheriff's Office | Promotion | Sergeant |  |  |
 | 7/1/2021 | Hood River County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 6/23/2021 | The Dalles Police Department | Resigned | Police Off |  |  |
 | 10/5/2020 | The Dalles Police Department | Hired | Police Off |  |  |

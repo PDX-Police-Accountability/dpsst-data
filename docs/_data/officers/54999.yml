@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/16/2023
+  agency: Hood River County Sheriff's Office
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 7/1/2021
   agency: Hood River County Sheriff's Office
   action: Hired

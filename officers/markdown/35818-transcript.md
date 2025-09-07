@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2025 | GLP0855B | Taser 10 Operation Course | Passed | 0.0 | 6.00 |
 | 6/11/2025 | GLP0674B | Red Dot Transition Course and Qualification | Passed | 0.0 | 16.00 |
 | 4/8/2025 | GLP0779A | Defensive Tactics Spring 2025 | Passed | 0.0 | 3.00 |
 | 12/10/2024 | GLP4165A | Domestic Violence DA Training | Passed | 0.0 | 3.00 |

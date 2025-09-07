@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2025
+  course: OCS3580B
+  title: August 2025 New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 8/22/2025
+  course: OCS3533B
+  title: Holster Speed / Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

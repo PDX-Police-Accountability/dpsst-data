@@ -39,8 +39,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2025 | WBP2601B | Firearms - Quarter 2 Qualifications | Passed | 0.0 | 0.50 |
 | 6/25/2025 | WBP1958B | Briefing Training: Operation Railsafe Review | Passed | 0.0 | 0.75 |
 | 6/10/2025 | WBP2197B | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 3.00 |
+| 3/31/2025 | WBP0347B | Firearms - Quarter 1 Qualifications | Passed | 0.0 | 0.50 |
+| 3/17/2025 | WBP1534B | Firearms Instructor Workshop | Instructed | 0.0 | 3.00 |
+| 3/17/2025 | WBP1534B | Firearms Instructor Workshop | Passed | 0.0 | 3.00 |
 | 3/5/2025 | WBP4470A | Crisis Response Team Overview | Passed | 0.0 | 0.75 |
 | 12/17/2024 | WBP4453A | Intro to Psychological First Aid | Passed | 0.0 | 1.50 |
 | 12/10/2024 | WBP1492A | Firearms - Q4 Qualifications | Passed | 0.0 | 0.50 |

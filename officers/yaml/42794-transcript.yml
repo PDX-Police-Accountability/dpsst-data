@@ -92,6 +92,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2025
+  course: OCS3580B
+  title: August 2025 New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/16/2025
   course: OCS1720B
   title: Feb, March, April 2025 Monthly Firearms

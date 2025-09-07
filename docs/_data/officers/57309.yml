@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: 7/1/2026
 training_records:
+- date: 8/22/2025
+  course: OCS3533B
+  title: Holster Speed / Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/15/2025
+  course: OCS3139B
+  title: Suspect Escort and Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/13/2025
   course: OCS1693B
   title: EVOC

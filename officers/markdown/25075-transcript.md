@@ -38,7 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2025 | WBP2601B | Firearms - Quarter 2 Qualifications | Passed | 0.0 | 0.50 |
 | 6/24/2025 | WBP0352B | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 3.00 |
+| 3/31/2025 | WBP0347B | Firearms - Quarter 1 Qualifications | Passed | 0.0 | 0.50 |
+| 3/17/2025 | WBP1534B | Firearms Instructor Workshop | Passed | 0.0 | 3.00 |
 | 12/17/2024 | WBP4453A | Intro to Psychological First Aid | Passed | 0.0 | 1.50 |
 | 12/10/2024 | WBP1492A | Firearms - Q4 Qualifications | Passed | 0.0 | 0.50 |
 | 12/10/2024 | WBP0618A | Firearms Training - Low Light Range Drills | Instructed | 0.0 | 12.00 |

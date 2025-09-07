@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2025 | PDP4363B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 9/4/2025 | PDP4363B | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 8/28/2025 | PDP4243B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 8/21/2025 | PDP0184B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 8/21/2025 | PDP0184B | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/18/2025 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 8/31/2024 | Portland Police Bureau | LOA | Police Off |  |  |
 | 5/21/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 | 5/16/2020 | LaGrande Police Department | Resigned | Dispatcher |  |  |

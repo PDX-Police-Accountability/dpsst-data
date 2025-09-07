@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2025 | MFN1340B | Annual Use of Force Training | Passed | 0.0 | 2.00 |
 | 7/16/2025 | MFN1055B | Aid/Assist Wellness Court Training | Passed | 0.0 | 1.00 |
 | 7/9/2025 | MFN1075B | Government Ethics | Passed | 0.0 | 1.00 |
 | 6/25/2025 | MFN2367B | Defensive Tactics | Passed | 0.0 | 2.00 |

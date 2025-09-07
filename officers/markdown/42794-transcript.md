@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2025 | OCS3580B | August 2025 New Hire Firearms | Instructed | 0.0 | 8.00 |
 | 5/16/2025 | OCS1720B | Feb, March, April 2025 Monthly Firearms | Instructed | 0.0 | 3.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |
 | 4/28/2025 | OCS0700B | 2025 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
