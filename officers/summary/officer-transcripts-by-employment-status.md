@@ -1095,6 +1095,16 @@
 | Cross, Jonathan P. | 66611 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66611-transcript.md) - [yaml](../yaml/66611-transcript.yml) |
 | Said, John M. | 66612 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66612-transcript.md) - [yaml](../yaml/66612-transcript.yml) |
 | Weckner, Kody J. | 66613 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66613-transcript.md) - [yaml](../yaml/66613-transcript.yml) |
+| Alexander, Patience | 66661 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66661-transcript.md) - [yaml](../yaml/66661-transcript.yml) |
+| Sanchez, John Paul G. | 66662 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66662-transcript.md) - [yaml](../yaml/66662-transcript.yml) |
+| Gannon, Kendrik A. | 66691 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66691-transcript.md) - [yaml](../yaml/66691-transcript.yml) |
+| Pierce, Dakhota K. | 66692 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66692-transcript.md) - [yaml](../yaml/66692-transcript.yml) |
+| Coffey-Bermoy, Zain M. | 66701 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66701-transcript.md) - [yaml](../yaml/66701-transcript.yml) |
+| Garrison, Kaiden J. | 66702 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66702-transcript.md) - [yaml](../yaml/66702-transcript.yml) |
+| Warde, Caleb J. | 66706 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66706-transcript.md) - [yaml](../yaml/66706-transcript.yml) |
+| Spain, Wyatt P. | 66707 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66707-transcript.md) - [yaml](../yaml/66707-transcript.yml) |
+| Chang, Tiffany V. | 66719 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66719-transcript.md) - [yaml](../yaml/66719-transcript.yml) |
+| Contreras Flores, Adrian | 66721 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66721-transcript.md) - [yaml](../yaml/66721-transcript.yml) |
 | Ferraris, James C. | 11406 | Portland Police Bureau | Inactive | Commander | Retired | 2011-05-06 | [md](../markdown/11406-transcript.md) - [yaml](../yaml/11406-transcript.yml) |
 | Gill, Peter J. | 11688 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-07-23 | [md](../markdown/11688-transcript.md) - [yaml](../yaml/11688-transcript.yml) |
 | Lucich, Rod H. | 12241 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2008-06-30 | [md](../markdown/12241-transcript.md) - [yaml](../yaml/12241-transcript.yml) |

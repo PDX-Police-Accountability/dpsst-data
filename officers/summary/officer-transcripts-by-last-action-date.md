@@ -1801,3 +1801,13 @@
 | Brooks, David M. | 52787 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-08-28 | [md](../markdown/52787-transcript.md) - [yaml](../yaml/52787-transcript.yml) |
 | Braun, Andrew F. | 56961 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-08-28 | [md](../markdown/56961-transcript.md) - [yaml](../yaml/56961-transcript.yml) |
 | Li, Amy A. | 57307 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-08-28 | [md](../markdown/57307-transcript.md) - [yaml](../yaml/57307-transcript.yml) |
+| Alexander, Patience | 66661 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66661-transcript.md) - [yaml](../yaml/66661-transcript.yml) |
+| Sanchez, John Paul G. | 66662 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66662-transcript.md) - [yaml](../yaml/66662-transcript.yml) |
+| Gannon, Kendrik A. | 66691 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66691-transcript.md) - [yaml](../yaml/66691-transcript.yml) |
+| Pierce, Dakhota K. | 66692 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66692-transcript.md) - [yaml](../yaml/66692-transcript.yml) |
+| Coffey-Bermoy, Zain M. | 66701 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66701-transcript.md) - [yaml](../yaml/66701-transcript.yml) |
+| Garrison, Kaiden J. | 66702 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66702-transcript.md) - [yaml](../yaml/66702-transcript.yml) |
+| Warde, Caleb J. | 66706 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66706-transcript.md) - [yaml](../yaml/66706-transcript.yml) |
+| Spain, Wyatt P. | 66707 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66707-transcript.md) - [yaml](../yaml/66707-transcript.yml) |
+| Chang, Tiffany V. | 66719 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66719-transcript.md) - [yaml](../yaml/66719-transcript.yml) |
+| Contreras Flores, Adrian | 66721 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66721-transcript.md) - [yaml](../yaml/66721-transcript.yml) |
