@@ -39,9 +39,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2025 | WBP1673B | Active Threat Training | Instructed | 0.0 | 6.00 |
 | 6/30/2025 | WBP2601B | Firearms - Quarter 2 Qualifications | Passed | 0.0 | 0.50 |
 | 6/25/2025 | WBP1958B | Briefing Training: Operation Railsafe Review | Passed | 0.0 | 0.75 |
 | 6/10/2025 | WBP2197B | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 3.00 |
+| 5/13/2025 | WBP0207B | Crisis Intervention Scenario Training | Passed | 0.0 | 1.50 |
+| 5/13/2025 | WBP3163B | Equity-Based Scenario Training | Passed | 0.0 | 1.50 |
 | 3/31/2025 | WBP0347B | Firearms - Quarter 1 Qualifications | Passed | 0.0 | 0.50 |
 | 3/17/2025 | WBP1534B | Firearms Instructor Workshop | Instructed | 0.0 | 3.00 |
 | 3/17/2025 | WBP1534B | Firearms Instructor Workshop | Passed | 0.0 | 3.00 |

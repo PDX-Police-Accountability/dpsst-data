@@ -87,6 +87,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 9/4/2025
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/5/2025
   course: OSH2079B
   title: OSP Regional EVO 2025

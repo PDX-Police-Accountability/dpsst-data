@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 9/4/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 8/5/2025 | OSH2079B | OSP Regional EVO 2025 | Passed | 0.0 | 4.00 |
 | 7/22/2025 | OSH2722B | 2nd Trimester Firearms | Passed | 0.0 | 8.00 |
 | 6/18/2025 | OSH1432B | Person In Crisis/De-esculation | Passed | 0.0 | 4.00 |
