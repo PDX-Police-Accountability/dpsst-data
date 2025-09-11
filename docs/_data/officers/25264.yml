@@ -122,6 +122,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 5/1/2025
+  course: PDS2920B
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '22.00'
 - date: 4/30/2025
   course: PDS2038A
   title: Ethics
@@ -218,6 +224,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/6/2025
+  course: PDS2479B
+  title: Computer Access
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/5/2025
+  course: PDS3027B
+  title: Basic Communication
+  status: Instructed
+  score: '0.0'
+  hours: '3.50'
 - date: 2/27/2025
   course: PDS2296A
   title: Range Qualification

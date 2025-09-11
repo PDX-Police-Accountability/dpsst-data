@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2025 | SVP2985B | LEO Guide E-Bikes  Other Electric Devices | Passed | 0.0 | 1.00 |
+| 8/26/2025 | SVP1735B | Tension to Trust - Stronger Community Relationship | Passed | 0.0 | 1.00 |
 | 8/6/2025 | SVP0247B | Rescue Task Force Intro  Application | Passed | 0.0 | 2.00 |
 | 7/9/2025 | AVP0524B | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 6/11/2025 | AVP0547A | Monthly Leadership Meeting | Passed | 0.0 | 1.25 |

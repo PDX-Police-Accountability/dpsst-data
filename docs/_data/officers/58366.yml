@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/4/2025
+  course: OSH2634B
+  title: Airway Circulatory Anatomy  Physiology
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/5/2025
   course: OSH2079B
   title: OSP Regional EVO 2025

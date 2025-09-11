@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/8/2025
+  course: OCP1807B
+  title: 'Special Populations: Autism'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 7/29/2025
   course: OCP0663B
   title: Firearms Use Of Force

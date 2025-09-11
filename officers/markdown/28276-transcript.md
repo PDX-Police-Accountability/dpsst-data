@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2025 | SVP1735B | Tension to Trust - Stronger Community Relationship | Passed | 0.0 | 1.00 |
 | 8/8/2025 | SVP1848B | CJIS Security Test - LEDS | Passed | 0.0 | 1.00 |
 | 8/8/2025 | SVP2878B | LEDS Recertication | Passed | 0.0 | 1.00 |
 | 7/9/2025 | AVP0524B | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |

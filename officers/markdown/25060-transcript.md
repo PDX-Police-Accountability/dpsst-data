@@ -39,6 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2025 | WBP2780B | Global SDS  Hazard Communication Standards | Passed | 0.0 | 1.00 |
+| 9/1/2025 | WBP2186B | WPD Yearly Policy Review | Passed | 0.0 | 2.00 |
+| 9/1/2025 | WBP1308B | OSHA Heat Illness Prevention | Passed | 0.0 | 0.50 |
+| 9/1/2025 | WBP0592B | Airborne and Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 9/1/2025 | WBP2235B | OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 8/12/2025 | WBP1673B | Active Threat Training | Instructed | 0.0 | 6.00 |
 | 6/30/2025 | WBP2601B | Firearms - Quarter 2 Qualifications | Passed | 0.0 | 0.50 |
 | 6/25/2025 | WBP1958B | Briefing Training: Operation Railsafe Review | Passed | 0.0 | 0.75 |

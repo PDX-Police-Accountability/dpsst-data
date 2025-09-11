@@ -88,29 +88,23 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 9/5/2025
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 9/5/2025
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 9/5/2025
-  course: XDELETE5
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: BBP4402B
+  title: Use of Force,De-escalation,Reasonable
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 9/3/2025
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
+- date: 9/5/2025
+  course: BBP0862B
+  title: Lifevac
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/5/2025
+  course: BBP1050B
+  title: Distracted/Defensive/Pursuit/Safety Driving
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/3/2025
   course: BBP3523B
   title: Legal Update traffic/premises open to the public

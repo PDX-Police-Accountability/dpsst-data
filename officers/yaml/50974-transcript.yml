@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/4/2025
+  course: OCP1676B
+  title: Leads Online Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/12/2025
   course: OCP0598B
   title: SFST Refresher

@@ -96,6 +96,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/28/2025
+  course: SVP2985B
+  title: LEO Guide E-Bikes  Other Electric Devices
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/26/2025
+  course: SVP1735B
+  title: Tension to Trust - Stronger Community Relationship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/6/2025
   course: SVP0247B
   title: Rescue Task Force Intro  Application

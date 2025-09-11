@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/8/2025 | OCP1807B | Special Populations: Autism | Passed | 0.0 | 0.75 |
 | 7/29/2025 | OCP0663B | Firearms Use Of Force | Passed | 0.0 | 3.50 |
 | 7/29/2025 | OCP0663B | Firearms Use Of Force | Instructed | 0.0 | 17.50 |
 | 7/17/2025 | OCP1877B | Active Threat Response | Passed | 0.0 | 4.00 |

@@ -20,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/4/2025 | Police Officer | Intermediate | App Incmpl |  | 11/4/2025 |  |
+| 9/9/2025 | Police Officer | Intermediate | Granted | 9/9/2025 |  |  |
 | 5/16/2025 | Emergency Medical Dispatcher | Basic | Expired | 4/17/2018 |  |  |
 | 5/16/2025 | Telecommunicator | Basic | Expired | 4/17/2018 |  |  |
 | 12/2/2021 | Police Officer | Basic | Granted | 12/2/2021 |  |  |

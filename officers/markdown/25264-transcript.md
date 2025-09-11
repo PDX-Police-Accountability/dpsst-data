@@ -47,6 +47,7 @@
 | 5/21/2025 | PDS0870A | Taser 7 | Instructed | 0.0 | 8.00 |
 | 5/20/2025 | PDS1349A | Taser 7 IDC | Passed | 0.0 | 8.00 |
 | 5/7/2025 | PDS0406A | Jail ConSim | Instructed | 0.0 | 8.00 |
+| 5/1/2025 | PDS2920B | Firearms Training | Instructed | 0.0 | 22.00 |
 | 4/30/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 4/22/2025 | PDS0292A | UNET Range | Instructed | 0.0 | 4.00 |
 | 4/16/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
@@ -63,6 +64,8 @@
 | 3/6/2025 | PDS0859B | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 3/6/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 3/6/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |
+| 3/6/2025 | PDS2479B | Computer Access | Instructed | 0.0 | 4.00 |
+| 3/5/2025 | PDS3027B | Basic Communication | Instructed | 0.0 | 3.50 |
 | 2/27/2025 | PDS2296A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 2/21/2025 | PDS0176B | Defensive Tactics II | Instructed | 0.0 | 4.00 |
 | 2/18/2025 | PDS3333A | Range | Instructed | 0.0 | 2.00 |

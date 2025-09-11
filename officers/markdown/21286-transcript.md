@@ -42,10 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/5/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 9/5/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
-| 9/5/2025 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
-| 9/3/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 9/5/2025 | BBP4402B | Use of Force,De-escalation,Reasonable | Passed | 0.0 | 6.00 |
+| 9/5/2025 | BBP0862B | Lifevac | Passed | 0.0 | 1.00 |
+| 9/5/2025 | BBP1050B | Distracted/Defensive/Pursuit/Safety Driving | Passed | 0.0 | 4.00 |
 | 9/3/2025 | BBP3523B | Legal Update traffic/premises open to the public | Passed | 0.0 | 1.00 |
 | 7/22/2025 | REG3581B | EVO - Skills and Decisions Update / Refresh | Passed | 0.0 | 4.00 |
 | 12/31/2024 | MISCMAIN | 2024 LE Leadership 3-Year Maintenance | Completed | 0.0 | 0.00 |

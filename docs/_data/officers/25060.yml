@@ -76,6 +76,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2025
+  course: WBP2780B
+  title: Global SDS  Hazard Communication Standards
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2025
+  course: WBP2186B
+  title: WPD Yearly Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/1/2025
+  course: WBP1308B
+  title: OSHA Heat Illness Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/1/2025
+  course: WBP0592B
+  title: Airborne and Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2025
+  course: WBP2235B
+  title: OSHA Wildfire Smoke Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/12/2025
   course: WBP1673B
   title: Active Threat Training
