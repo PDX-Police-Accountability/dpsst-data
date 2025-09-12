@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/4/2025
+  agency: Port of Portland Police Department
+  action: Reclassed
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 4/29/2024
   agency: Port of Portland Police Department
   action: Hired
