@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2025 | OSH1757B | OSP Defensive Tactics - TASER Instructor Course | Passed | 0.0 | 10.00 |
 | 8/16/2025 | OSH3897B | Retiree Firearms | Instructed | 0.0 | 4.00 |
 | 8/11/2025 | OSH0224B | Active Threat Training | Instructed | 0.0 | 32.00 |
 | 8/2/2025 | OSH3412B | High Risk Vehicle Stops Instructor | Passed | 0.0 | 24.00 |

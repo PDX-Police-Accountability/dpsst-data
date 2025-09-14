@@ -33,7 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2025 | MFS3885B | Modern Day Sniper - Law Enforcement Skills | Passed | 0.0 | 30.00 |
 | 8/21/2025 | PDP0852B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 8/21/2025 | PDP3644B | 2025 Medium Distance Use of Force Decision Making | Passed | 0.0 | 5.00 |
 | 8/7/2025 | PDP3590B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/31/2025 | PDP1406B | 2025 SERT Training Firearms | Passed | 0.0 | 9.00 |
 | 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |

@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2025
+  course: PPP0338B
+  title: Ethical Responibility Responding to DV Calls
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/8/2025
   course: PPP3173A
   title: CPR/First Aid/AED

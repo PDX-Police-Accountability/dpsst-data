@@ -138,6 +138,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/17/2025
+  course: STS3763B
+  title: Patrol Rifle Operators Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/4/2025
   course: STS1382A
   title: Respectful Workplace "Red light green light"

@@ -27,7 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 5/15/2024 | 3/8/2026 |
 | Code of Ethics | Signed | 7/3/2002 |  |
@@ -38,6 +39,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/2/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 9/2/2025 | PPP1842B | Behavioral Health Unit Overview | Passed | 0.0 | 2.00 |
+| 9/2/2025 | PPP0815B | Imporvised Explosive Device Response | Passed | 0.0 | 1.00 |
+| 9/2/2025 | PPP1578B | Airport Security Update | Passed | 0.0 | 1.00 |
+| 8/31/2025 | PPP0338B | Ethical Responibility Responding to DV Calls | Passed | 0.0 | 1.00 |
 | 6/12/2025 | PPP2953B | Firearms: Rifle and Pistol Optics Training | Passed | 0.0 | 4.00 |
 | 4/30/2025 | PPP2106A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
 | 4/28/2025 | PPP4559A | Tri-Met Enforcement Training | Passed | 0.0 | 1.00 |

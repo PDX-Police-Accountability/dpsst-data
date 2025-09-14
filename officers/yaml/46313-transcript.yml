@@ -62,6 +62,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/8/2025
+  course: PPP0265B
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/2/2025
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/2/2025
+  course: PPP1842B
+  title: Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/2/2025
+  course: PPP0815B
+  title: Imporvised Explosive Device Response
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/2/2025
+  course: PPP1578B
+  title: Airport Security Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2025
+  course: PPP0338B
+  title: Ethical Responibility Responding to DV Calls
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/24/2025
   course: PPP4295B
   title: Intro to Explosive Detection Canine Unit
@@ -1961,8 +2003,16 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/6/2023
@@ -1970,7 +2020,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/12/2006

@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/5/2025
+  course: ADP0616B
+  title: High Risk Traffic Stop
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/28/2025
   course: MFP2993B
   title: 'Train the Trainer: RADAR  LIDAR Certification'

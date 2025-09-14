@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 9/10/2025
+  course: PDS1283B
+  title: Monthly Reserve Unit Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/27/2025
   course: PDS2038A
   title: Ethics

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2025 | OCS1754B | CCC and First Aid/CPR | Passed | 0.0 | 10.00 |
 | 8/29/2025 | OCS3580B | August 2025 New Hire Firearms | Passed | 0.0 | 40.00 |
 | 8/22/2025 | OCS3533B | Holster Speed / Marksmanship | Passed | 0.0 | 1.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

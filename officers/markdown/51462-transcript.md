@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/10/2025 | PDS1283B | Monthly Reserve Unit Training | Passed | 0.0 | 2.00 |
 | 4/27/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 4/14/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 2/24/2025 | PDS3595A | Range | Passed | 0.0 | 2.00 |

@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2025 | LOP3765B | OC Certification | Passed | 0.0 | 9.00 |
+| 9/3/2025 | LOP1386B | New Officer Defensive Tactics and Handcuffing | Passed | 0.0 | 5.00 |
+| 9/3/2025 | LOP4217B | High Risk Handcuffing and ASP | Passed | 0.0 | 4.00 |
 | 8/27/2025 | OCA2894B | Legislative Update / MCT Meeting | Passed | 0.0 | 1.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/5/2025 | LOP3762B | Handgun Fundamentals | Passed | 0.0 | 4.00 |

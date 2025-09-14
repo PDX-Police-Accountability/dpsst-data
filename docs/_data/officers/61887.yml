@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2025
+  course: OCS1754B
+  title: CCC and First Aid/CPR
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/29/2025
   course: OCS3580B
   title: August 2025 New Hire Firearms

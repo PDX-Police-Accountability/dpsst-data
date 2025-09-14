@@ -27,9 +27,11 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 11/6/2023 | 11/6/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +40,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/8/2025 | PPP0265B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 9/2/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 9/2/2025 | PPP1842B | Behavioral Health Unit Overview | Passed | 0.0 | 2.00 |
+| 9/2/2025 | PPP0815B | Imporvised Explosive Device Response | Passed | 0.0 | 1.00 |
+| 9/2/2025 | PPP1578B | Airport Security Update | Passed | 0.0 | 1.00 |
+| 8/31/2025 | PPP0338B | Ethical Responibility Responding to DV Calls | Passed | 0.0 | 1.00 |
 | 6/12/2025 | PPP2953B | Firearms: Rifle and Pistol Optics Training | Passed | 0.0 | 4.00 |
 | 4/30/2025 | PPP2106A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
 | 2/28/2025 | PPP3414A | Mass Casualty, Natural Disaster Standards | Passed | 0.0 | 1.00 |
