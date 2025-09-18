@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/10/2025
+  course: AVP1649B
+  title: Monthly Leadership Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/9/2025
   course: AVP0524B
   title: Monthly Leadership Meeting

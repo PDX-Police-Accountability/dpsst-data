@@ -129,6 +129,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/10/2025
+  course: AVP1649B
+  title: Monthly Leadership Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/26/2025
   course: SVP1735B
   title: Tension to Trust - Stronger Community Relationship

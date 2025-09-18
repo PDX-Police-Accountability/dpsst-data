@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/10/2025 | AVP1649B | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |
 | 7/9/2025 | AVP0524B | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 6/11/2025 | AVP0547A | Monthly Leadership Meeting | Passed | 0.0 | 1.25 |
 | 6/6/2025 | SAG0243A | Firearms training | Passed | 0.0 | 1.50 |

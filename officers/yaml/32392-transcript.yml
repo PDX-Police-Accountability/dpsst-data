@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2025
+  course: TGP1424B
+  title: Western States ORC Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 8/23/2025
   course: TGP0040B
   title: National LE  Corporate Crimes Convention

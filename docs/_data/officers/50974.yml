@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2025
+  course: OCP4391B
+  title: Evidence Handling
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/4/2025
   course: OCP1676B
   title: Leads Online Training

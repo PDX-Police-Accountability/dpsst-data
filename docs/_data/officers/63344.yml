@@ -42,6 +42,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 7/24/2025
+  course: VRP3407B
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/22/2025
   course: VRP1009B
   title: Ethics Bulletin Review

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/4/2025
+  agency: OHSU University Police
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 8/2/2021
   agency: OHSU University Police
   action: Hired
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted-UR
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 11/4/2025
   probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted-UR
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 11/4/2025
   probation_date: ''
 - status_date: 10/12/1994
   certificate: Police Officer
   level: Basic
   status: Granted-UR
   certificate_date: 10/12/1994
-  expiration_date: ''
+  expiration_date: 11/4/2025
   probation_date: ''
 training_records:
 - date: 10/31/2024

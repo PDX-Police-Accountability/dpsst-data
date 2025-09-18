@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 6/17/2025
+  course: REG4561B
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/15/2020
   course: SMP12506
   title: SWAT VCQB

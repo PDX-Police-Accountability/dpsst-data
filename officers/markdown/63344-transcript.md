@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/24/2025 | VRP2968B | Derfensive Tactics | Instructed | 0.0 | 4.00 |
+| 7/24/2025 | VRP3407B | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 5/22/2025 | VRP1009B | Ethics Bulletin Review | Passed | 0.0 | 1.00 |
 | 5/9/2025 | VRP0132A | CPR/AED/First Aid | Passed | 0.0 | 1.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |

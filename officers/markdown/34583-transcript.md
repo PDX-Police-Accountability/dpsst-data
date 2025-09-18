@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/10/2025 | PDA0313B | Securus Pro Training | Passed | 0.0 | 3.00 |
 | 7/7/2025 | PDA1754B | Handgun Firearms | Passed | 0.0 | 5.00 |
 | 5/21/2025 | PDA4180B | Defensive Tactics use of OC Spray | Passed | 0.0 | 3.00 |
 | 4/9/2025 | PDN2706A | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |

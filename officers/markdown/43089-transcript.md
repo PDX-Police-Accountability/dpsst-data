@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2025 | REG2797B | ORVO IDC | Passed | 0.0 | 24.00 |
 | 7/30/2025 | LGS3217B | Pursuit Management/High Risk Vehicle Stops | Passed | 0.0 | 4.00 |
 | 7/18/2025 | LGS4192B | Firearms qualification/Fundamentals | Instructed | 0.0 | 4.00 |
 | 7/15/2025 | LGS1193B | Firearms qualification/Fundamentals | Passed | 0.0 | 4.00 |
