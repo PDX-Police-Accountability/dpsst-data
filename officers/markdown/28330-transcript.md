@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/7/2025 | Port of Portland Police Department | Promotion | Asst Chief |  |  |
 | 10/17/2022 | Port of Portland Police Department | Hired | Captain |  |  |
 | 10/12/2022 | Portland Police Bureau | Retired | Asst Chief |  |  |
 | 9/2/2021 | Portland Police Bureau | Promotion | Asst Chief |  |  |

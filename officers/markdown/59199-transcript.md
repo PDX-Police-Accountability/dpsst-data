@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2025 | EGP4242B | Legal Updates | Passed | 0.0 | 1.50 |
+| 9/11/2025 | EGP2260B | Oregon DOJ - Ethics Review | Passed | 0.0 | 2.50 |
+| 9/11/2025 | EGP4389B | Subpoena Service Training | Passed | 0.0 | 1.50 |
+| 9/11/2025 | EGP3026B | Threat Assessment | Passed | 0.0 | 1.50 |
 | 8/20/2025 | EGP2503B | Vehicle Tactics-Pins-Breaching-Crisis Rescue | Passed | 0.0 | 9.00 |
 | 8/20/2025 | EGP2611B | Vehicle Tactics-Pins-Breaching-Crisis Rescue | Passed | 0.0 | 9.00 |
 | 8/13/2025 | EGP3765B | SWAT Breaching Target Analysis | Passed | 0.0 | 4.00 |

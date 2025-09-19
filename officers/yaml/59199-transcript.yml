@@ -74,6 +74,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/11/2025
+  course: EGP4242B
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/11/2025
+  course: EGP2260B
+  title: Oregon DOJ - Ethics Review
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/11/2025
+  course: EGP4389B
+  title: Subpoena Service Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/11/2025
+  course: EGP3026B
+  title: Threat Assessment
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/20/2025
   course: EGP2503B
   title: Vehicle Tactics-Pins-Breaching-Crisis Rescue

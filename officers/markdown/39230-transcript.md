@@ -44,6 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2025 | EGP4242B | Legal Updates | Passed | 0.0 | 1.50 |
+| 9/11/2025 | EGP2260B | Oregon DOJ - Ethics Review | Passed | 0.0 | 2.50 |
+| 9/11/2025 | EGP4389B | Subpoena Service Training | Passed | 0.0 | 1.50 |
+| 9/11/2025 | EGP3026B | Threat Assessment | Passed | 0.0 | 1.50 |
 | 6/12/2025 | EGP3870A | Behavioral Health Program Updates | Passed | 0.0 | 1.00 |
 | 6/12/2025 | EGP1470A | Cell Phone Seizure Policy/Legal Updates | Passed | 0.0 | 0.50 |
 | 6/12/2025 | EGP1443A | Kids First Advocacy for Human Trafficking | Passed | 0.0 | 0.50 |

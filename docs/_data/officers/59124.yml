@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/26/2025
+  course: BVP3127B
+  title: August 2025 Range 082625 PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/22/2025
   course: BVP1941B
   title: July 2025 EVOC PIT 072225 AM

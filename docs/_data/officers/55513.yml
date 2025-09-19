@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/28/2025
+  course: BVP0969B
+  title: August 2025 Range 082825 AM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/30/2025
   course: HBS2169B
   title: TNT - CI/UC Rescue/Explosive Breaching
