@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/26/2024 | Police Officer | Basic | ReqCertExt | 11/26/2024 |  | 12/22/2025 |
+| 6/22/2023 | Police Officer | Basic | ReqCertExt |  |  | 12/22/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

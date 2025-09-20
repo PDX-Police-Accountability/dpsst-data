@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/17/2025
+  course: HRS0858B
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/19/2025
   course: HRS2424B
   title: High Risk Stops Refresher

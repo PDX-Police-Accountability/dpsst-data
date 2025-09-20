@@ -33,7 +33,7 @@ certification_records:
   level: Basic
   status: ReqCertExt
   certificate_date: ''
-  expiration_date: 7/16/2025
+  expiration_date: ''
   probation_date: 6/15/2025
 training_records:
 - date: 9/22/2025

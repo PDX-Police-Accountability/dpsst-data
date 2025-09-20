@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/1/2025
+  agency: Portland State University DPS
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 9/14/2020
   agency: Portland State University DPS
   action: Hired
@@ -43,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2026
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 6/5/2025
   course: PSU3527B
   title: BODY102 (Body-worn cmaeras for L.E.)

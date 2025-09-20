@@ -32,8 +32,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
@@ -44,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/11/2025 | EGP4242B | Legal Updates | Passed | 0.0 | 1.50 |
 | 9/11/2025 | EGP2260B | Oregon DOJ - Ethics Review | Passed | 0.0 | 2.50 |
 | 9/11/2025 | EGP4389B | Subpoena Service Training | Passed | 0.0 | 1.50 |

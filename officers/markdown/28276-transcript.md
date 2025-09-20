@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | SVP4214B | MIP Alcohol - Marijuana Citation Refresher | Passed | 0.0 | 0.25 |
 | 9/10/2025 | AVP1649B | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |
 | 8/26/2025 | SVP1735B | Tension to Trust - Stronger Community Relationship | Passed | 0.0 | 1.00 |
 | 8/8/2025 | SVP1848B | CJIS Security Test - LEDS | Passed | 0.0 | 1.00 |

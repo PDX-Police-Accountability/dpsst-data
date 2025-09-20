@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/6/2025
+  course: GPN1519B
+  title: DOC Communications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/5/2025
+  course: GPN0425B
+  title: Cellebrite Technology
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/16/2025
   course: MFN1055B
   title: Aid/Assist Wellness Court Training

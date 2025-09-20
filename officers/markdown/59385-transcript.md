@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/1/2025 | Portland State University DPS | Promotion | Sergeant |  |  |
 | 9/14/2020 | Portland State University DPS | Hired | Police Off |  |  |
 | 3/31/2020 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 1/3/2019 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 6/5/2025 | PSU3527B | BODY102 (Body-worn cmaeras for L.E.) | Passed | 0.0 | 1.00 |
 | 6/5/2025 | PSU3972B | RESP104 (BOMB THREATS IN SCHOOLS) | Passed | 0.0 | 1.00 |
 | 6/4/2025 | PSU0386B | PEMS102 (Body Armor  Public Safety) | Passed | 0.0 | 1.00 |

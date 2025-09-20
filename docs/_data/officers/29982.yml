@@ -96,6 +96,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/18/2025
+  course: SVP4214B
+  title: MIP Alcohol - Marijuana Citation Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/10/2025
   course: AVP1649B
   title: Monthly Leadership Meeting

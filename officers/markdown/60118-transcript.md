@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/17/2025 | HRS0206B | Marine Division Familiarization | Passed | 0.0 | 3.00 |
+| 7/17/2025 | HRS0858B | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 6/19/2025 | HRS2424B | High Risk Stops Refresher | Passed | 0.0 | 4.00 |
 | 6/19/2025 | HRS3609B | Pursuit Policy Review | Passed | 0.0 | 1.00 |
 | 5/8/2025 | HRS4243B | Centering Belonging | Passed | 0.0 | 2.00 |
