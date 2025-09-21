@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/6/2025 | HBN0707B | DTs/Use of Force/Decision Making | Passed | 0.0 | 8.00 |
 | 8/4/2025 | TRN4334B | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 6/23/2025 | VND1208A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 6/6/2025 | HBN3101B | Officer Safety and Home Visit Training | Passed | 0.0 | 7.00 |

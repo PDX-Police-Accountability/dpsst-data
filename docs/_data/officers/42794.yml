@@ -92,12 +92,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2025
+  course: OCS1928B
+  title: September 2025 SWAT Sniper Training
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/29/2025
   course: OCS3580B
   title: August 2025 New Hire Firearms
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 8/13/2025
+  course: OCS0877B
+  title: De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/16/2025
   course: OCS1720B
   title: Feb, March, April 2025 Monthly Firearms

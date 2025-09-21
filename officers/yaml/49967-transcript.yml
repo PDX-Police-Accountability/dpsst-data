@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 8/8/2025
+  course: MNP3620B
+  title: 'Justice: What''s the right thing to do?'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/24/2025
   course: MNP3179B
   title: Active Threat training

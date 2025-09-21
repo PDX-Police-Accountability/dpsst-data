@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/17/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/4/2025 | MFN1340B | Annual Use of Force Training | Passed | 0.0 | 2.00 |
 | 8/6/2025 | GPN1519B | DOC Communications | Passed | 0.0 | 4.00 |

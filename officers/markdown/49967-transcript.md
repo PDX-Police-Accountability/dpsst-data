@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/8/2025 | MNP3620B | Justice: What's the right thing to do? | Passed | 0.0 | 1.00 |
 | 7/24/2025 | MNP3179B | Active Threat training | Passed | 0.0 | 8.50 |
 | 2/22/2025 | MNP1850A | Axon/Taser - End User Annual Recertification | Passed | 0.0 | 2.00 |
 | 2/22/2025 | MNP1042A | 40mm Less Lethal recertification | Passed | 0.0 | 1.50 |

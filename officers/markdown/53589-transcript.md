@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/22/2025 | OCS3533B | Holster Speed / Marksmanship | Passed | 0.0 | 1.00 |
+| 8/13/2025 | OCS0877B | De-escalation | Passed | 0.0 | 1.00 |
 | 7/15/2025 | OCS3139B | Suspect Escort and Control | Passed | 0.0 | 1.00 |
 | 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
 | 6/1/2025 | OCS1688B | EVOC | Passed | 0.0 | 5.00 |

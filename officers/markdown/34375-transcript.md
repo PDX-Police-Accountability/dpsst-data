@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2025 | STS0712B | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/24/2025 | STS0586A | First Aid / CPR/ AED | Passed | 0.0 | 4.00 |
 | 4/22/2025 | STS3355A | Patrol Pistol Training | Passed | 0.0 | 4.00 |
 | 4/17/2025 | STS3763B | Patrol Rifle Operators Training | Passed | 0.0 | 4.00 |

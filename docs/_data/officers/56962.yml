@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/6/2025
+  course: HBN0707B
+  title: DTs/Use of Force/Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/4/2025
   course: TRN4334B
   title: Chrono Practices and Contact Standards
