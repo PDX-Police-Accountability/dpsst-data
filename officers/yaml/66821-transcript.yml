@@ -1,0 +1,40 @@
+---
+header_record:
+  name: Brown, Caleb J.
+  dpsst_identifier: '66821'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 9/25/2025
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 9/25/2025
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 3/25/2027
+training_records:
+- date: 3/25/2027
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 10/27/2025
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []
