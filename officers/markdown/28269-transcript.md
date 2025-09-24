@@ -45,6 +45,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/9/2025 | BNP3786B | 40mm / Pepperball Familiarization | Passed | 0.0 | 0.75 |
+| 9/9/2025 | BNP0937B | Ethos Academy:  Harnessing Leadership | Passed | 0.0 | 3.00 |
+| 9/9/2025 | BNP2235B | Taser / Firearm Transitions / Moving Targets | Passed | 0.0 | 0.75 |
+| 9/9/2025 | BNP3163B | Firearms Qualifications | Passed | 0.0 | 1.00 |
+| 9/9/2025 | BNP3669B | Tactical Casualty Care Scenario | Passed | 0.0 | 0.75 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/16/2025 | BNP2202B | Explosive Breaching Orientation | Passed | 0.0 | 1.00 |
 | 7/14/2025 | BNP2358B | Control Tactics | Passed | 0.0 | 1.00 |

@@ -43,6 +43,7 @@
 | 8/21/2025 | MKL1706B | Introduction to CAMP Phave IV | Passed | 0.0 | 2.00 |
 | 8/13/2025 | MKL0765B | Adult/Child CPR AED and First Aid (Online Course) | Passed | 0.0 | 5.00 |
 | 4/23/2025 | MKL0515B | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 3/15/2025 | MKL0959B | General/Other | Passed | 0.0 | 15.00 |
 | 3/13/2025 | MKL1851B | Ethics | Passed | 0.0 | 1.00 |
 | 3/11/2025 | MKL3073A | LEDs Re-Certification | Passed | 0.0 | 1.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

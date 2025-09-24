@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2025
+  course: PDP1272B
+  title: Managing Micromobility webinar
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

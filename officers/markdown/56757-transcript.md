@@ -14,6 +14,7 @@
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 9/4/2025 | Port of Portland Police Department | Reclassed | Detective |  |  |
 | 4/29/2024 | Port of Portland Police Department | Hired | Police Off |  |  |
+| 4/19/2024 | Portland State University DPS | Resigned | Police Off |  |  |
 | 8/10/2021 | Portland State University DPS | Hired | Police Off |  |  |
 | 1/31/2018 | Portland Police Bureau | Prob Dschg | Police Off |  |  |
 | 11/3/2017 | Military Service | Resigned | Miltry Pol |  |  |

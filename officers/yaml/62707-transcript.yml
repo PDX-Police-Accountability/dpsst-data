@@ -558,12 +558,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
-- date: 8/10/2023
-  course: PSU0247A
-  title: Intro to Trauma Informed Care
-  status: Passed
-  score: '0.0'
-  hours: '1.50'
 - date: 6/30/2023
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2025 | PDP1272B | Managing Micromobility webinar | Passed | 0.0 | 1.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/6/2025 | PDP3392B | 2025 Traffic Monthly Motor Training | Passed | 0.0 | 9.00 |
 | 7/24/2025 | PDP0676B | 2025 Advanced Shotgun Operator In-Service | Instructed | 0.0 | 10.00 |

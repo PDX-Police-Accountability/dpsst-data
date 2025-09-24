@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/15/2025
+  course: MKL0959B
+  title: General/Other
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 3/13/2025
   course: MKL1851B
   title: Ethics

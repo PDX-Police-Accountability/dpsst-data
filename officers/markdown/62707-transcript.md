@@ -119,7 +119,6 @@
 | 10/12/2023 | PSU1614A | MILO 3000 | Instructed | 0.0 | 3.00 |
 | 10/4/2023 | PSU4516A | Firearms Training / Qualification | Passed | 0.0 | 2.00 |
 | 8/10/2023 | PSU1346A | Intro to Trauma Informed Care | Passed | 0.0 | 1.50 |
-| 8/10/2023 | PSU0247A | Intro to Trauma Informed Care | Passed | 0.0 | 1.50 |
 | 6/30/2023 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 6/30/2023 | DAS2802A | Polk County Crisis Intervention Team 40-Hour | Passed | 0.0 | 40.00 |
 | 6/14/2023 | PSU1027A | Defensive Tactics | Passed | 0.0 | 2.00 |
