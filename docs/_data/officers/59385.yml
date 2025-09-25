@@ -55,6 +55,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 9/19/2025
+  course: PSU3264B
+  title: Advanced Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/5/2025
   course: PSU3527B
   title: BODY102 (Body-worn cmaeras for L.E.)

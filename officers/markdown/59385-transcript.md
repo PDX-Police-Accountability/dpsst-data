@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 9/19/2025 | PSU3264B | Advanced Patrol Tactics | Passed | 0.0 | 8.00 |
 | 6/5/2025 | PSU3527B | BODY102 (Body-worn cmaeras for L.E.) | Passed | 0.0 | 1.00 |
 | 6/5/2025 | PSU3972B | RESP104 (BOMB THREATS IN SCHOOLS) | Passed | 0.0 | 1.00 |
 | 6/4/2025 | PSU0386B | PEMS102 (Body Armor  Public Safety) | Passed | 0.0 | 1.00 |

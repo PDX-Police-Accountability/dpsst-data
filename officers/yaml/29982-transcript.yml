@@ -96,12 +96,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2025
+  course: RMP2826B
+  title: 'Case Study: Negasi Zuberi - Kidnapping Case'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/18/2025
   course: SVP4214B
   title: MIP Alcohol - Marijuana Citation Refresher
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/18/2025
+  course: RMP0436B
+  title: Lead with Intentionality
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/17/2025
+  course: RMP4507B
+  title: 'Change at the Top: Adapting to a New Chief'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/17/2025
+  course: RMP3110B
+  title: Financial Wellness
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 9/17/2025
+  course: RMP2531B
+  title: Building the Resilient Agency
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/10/2025
   course: AVP1649B
   title: Monthly Leadership Meeting

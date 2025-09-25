@@ -43,7 +43,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2025 | RMP2826B | Case Study: Negasi Zuberi - Kidnapping Case | Passed | 0.0 | 2.00 |
 | 9/18/2025 | SVP4214B | MIP Alcohol - Marijuana Citation Refresher | Passed | 0.0 | 0.25 |
+| 9/18/2025 | RMP0436B | Lead with Intentionality | Passed | 0.0 | 8.00 |
+| 9/17/2025 | RMP4507B | Change at the Top: Adapting to a New Chief | Passed | 0.0 | 2.00 |
+| 9/17/2025 | RMP3110B | Financial Wellness | Passed | 0.0 | 2.25 |
+| 9/17/2025 | RMP2531B | Building the Resilient Agency | Passed | 0.0 | 1.50 |
 | 9/10/2025 | AVP1649B | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |
 | 8/28/2025 | SVP2985B | LEO Guide E-Bikes  Other Electric Devices | Passed | 0.0 | 1.00 |
 | 8/26/2025 | SVP1735B | Tension to Trust - Stronger Community Relationship | Passed | 0.0 | 1.00 |

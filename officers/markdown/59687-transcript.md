@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2025 | WLP3871B | Patrol - Active Threat Response | Passed | 0.0 | 4.00 |
+| 8/30/2025 | WLP2808B | Traffic Crash Training | Passed | 0.0 | 0.50 |
 | 4/30/2025 | WLP0003B | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
 | 4/23/2025 | WLP1088A | H.E.A.R.T. - Conflict Resolution | Passed | 0.0 | 1.00 |
 | 1/15/2025 | WLP3943A | Respectful Workplace | Passed | 0.0 | 2.00 |

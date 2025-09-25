@@ -43,6 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2025 | WLP3871B | Patrol - Active Threat Response | Instructed | 0.0 | 4.00 |
+| 9/20/2025 | WLP3871B | Patrol - Active Threat Response | Passed | 0.0 | 4.00 |
+| 8/30/2025 | WLP2808B | Traffic Crash Training | Passed | 0.0 | 0.50 |
 | 7/11/2025 | WLP3355B | New Hire Firearms/RDS Transition | Passed | 0.0 | 8.00 |
 | 5/15/2025 | OCS2172A | May monthly firearms | Passed | 0.0 | 1.00 |
 | 5/9/2025 | OCS1964B | May DT In-Service: Choke Defense | Passed | 0.0 | 1.00 |

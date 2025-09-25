@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2025
+  course: WLP2808B
+  title: Traffic Crash Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/27/2025
   course: OCA2894B
   title: Legislative Update / MCT Meeting
