@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | BNP1813B | UAS Monthly | Passed | 0.0 | 7.00 |
 | 8/28/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/21/2025 | BNP3548B | Open range, skills | Passed | 0.0 | 1.00 |
 | 8/14/2025 | BNP0164B | UAS Monthly- Outdoor/Indoor | Passed | 0.0 | 8.00 |

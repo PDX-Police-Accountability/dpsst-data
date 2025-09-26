@@ -812,6 +812,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 1/9/2024
+  course: PDP3365B
+  title: TEEX Critical Infra Structore Security
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/14/2023
   course: PDP2720A
   title: 2023-2 All Sworn In-Service BWC Policy

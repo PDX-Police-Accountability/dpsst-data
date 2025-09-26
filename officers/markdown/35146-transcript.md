@@ -39,16 +39,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2025 | GPN2132B | Firearms/Use of Force | Instructed | 0.0 | 4.00 |
+| 8/21/2025 | GPN2132B | Firearms/Use of Force | Passed | 0.0 | 1.00 |
+| 7/15/2025 | GPN0973B | Firearms | Instructed | 0.0 | 4.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/15/2025 | REG1327A | Handgun Instructor Course | Passed | 0.0 | 40.00 |
 | 5/6/2025 | STN0546B | Peer Support and Mental Health | Passed | 0.0 | 3.00 |
 | 5/5/2025 | VND2048A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 4/29/2025 | GPN1163A | Behavior Change Plan Training | Passed | 0.0 | 7.00 |
+| 4/24/2025 | GPN1929B | Firearms/Use of Force | Instructed | 0.0 | 10.00 |
 | 4/9/2025 | REG1924A | Ethics Practical Discussion | Passed | 0.0 | 2.00 |
 | 3/27/2025 | REG0880A | Defensive Tactics Instructor Workshop/Refresher | Passed | 0.0 | 24.00 |
+| 3/20/2025 | GPN2357B | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/3/2025 | TRN4564A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 2/20/2025 | GPN2720A | Case Management Training Opportunity | Passed | 0.0 | 1.50 |
 | 1/22/2025 | GPN1425A | LSCMI Refresher | Passed | 0.0 | 2.50 |
+| 1/8/2025 | GPN2670B | Firearms/Use of Force | Instructed | 0.0 | 4.00 |
 | 12/18/2024 | GPN3415A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 12/18/2024 | GPN0777A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 11/13/2024 | GPN1919A | Firearms/Use of Force | Passed | 0.0 | 3.50 |

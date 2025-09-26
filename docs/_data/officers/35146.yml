@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2025
+  course: GPN2132B
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/21/2025
+  course: GPN2132B
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/15/2025
+  course: GPN0973B
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -99,6 +117,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 4/24/2025
+  course: GPN1929B
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/9/2025
   course: REG1924A
   title: Ethics Practical Discussion
@@ -111,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 3/20/2025
+  course: GPN2357B
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/3/2025
   course: TRN4564A
   title: Chrono Practices and Contact Standards
@@ -129,6 +159,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 1/8/2025
+  course: GPN2670B
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/18/2024
   course: GPN3415A
   title: CPR/First Aid

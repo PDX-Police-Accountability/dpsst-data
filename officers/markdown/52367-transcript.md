@@ -163,6 +163,7 @@
 | 2/8/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 1/16/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 1/11/2024 | PDP3195A | Threat  Hazard ID  Risk Assessment | Passed | 0.0 | 16.00 |
+| 1/9/2024 | PDP3365B | TEEX Critical Infra Structore Security | Passed | 0.0 | 8.00 |
 | 12/14/2023 | PDP2720A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/14/2023 | PDP0387A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 12/14/2023 | PDP1554A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
