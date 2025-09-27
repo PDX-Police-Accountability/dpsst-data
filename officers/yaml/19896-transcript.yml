@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/24/2025
+  agency: Grant County Sheriff's Office
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
 - date: 6/6/2025
   agency: Wheeler County Sheriff's Office
   action: Resigned

@@ -103,6 +103,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '42.00'
+- date: 6/12/2025
+  course: BVP1937B
+  title: OTOA Basic SWAT School
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/30/2025
   course: BVP3270A
   title: Complete Tactical Casualty Care

@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 9/23/2025 |  |
 | Code of Ethics | Law Enforcement Signed | 10/7/2019 |  |
 ## Education
 | date | degree | school | major | hours |

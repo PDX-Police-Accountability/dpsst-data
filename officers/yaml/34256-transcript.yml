@@ -113,6 +113,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/2/2025
+  course: BVP4179B
+  title: NAMOA Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 2/27/2025
   course: BVP4200A
   title: IST Range February 2025

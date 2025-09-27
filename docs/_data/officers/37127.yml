@@ -84,6 +84,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/18/2025
+  course: SAG4082B
+  title: Financial Crimes  Digital Evidence Conference
+  status: Passed
+  score: '0.0'
+  hours: '15.50'
 - date: 9/10/2025
   course: PDA0313B
   title: Securus Pro Training

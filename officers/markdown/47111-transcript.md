@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | BVP2426B | Control Tactics IST 091825 AM | Passed | 0.0 | 3.00 |
 | 6/26/2025 | BVP2190B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/28/2025 | BVP4365A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
 | 2/13/2025 | BVP4465A | IST Range February 2025 | Passed | 0.0 | 3.00 |

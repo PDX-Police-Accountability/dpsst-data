@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2025
+  course: BVP4279B
+  title: Control Tactics IST 091925 PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/18/2025
+  course: BVP0129B
+  title: Pistol Mounted Optics Course
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 8/28/2025
   course: BVP0548B
   title: August 2025 Range 082825 PM

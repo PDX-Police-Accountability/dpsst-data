@@ -48,6 +48,7 @@
 | 6/27/2025 | BVP3335B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 6/25/2025 | HBS2073A | TNT Firearms | Passed | 0.0 | 6.00 |
 | 6/20/2025 | HBS0204B | Patrol Rifle School | Passed | 0.0 | 42.00 |
+| 6/12/2025 | BVP1937B | OTOA Basic SWAT School | Passed | 0.0 | 40.00 |
 | 5/30/2025 | BVP3270A | Complete Tactical Casualty Care | Passed | 0.0 | 31.50 |
 | 5/22/2025 | BVP3212A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
 | 4/30/2025 | HBS0622B | TNT - Entry Training | Passed | 0.0 | 7.50 |
