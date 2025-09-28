@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 20.00 |
 | 8/12/2025 | EGP2430B | Police Motorcade Training | Passed | 0.0 | 6.00 |
 | 7/16/2025 | HBS4570B | Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 7/2/2025 | HBS1642A | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |

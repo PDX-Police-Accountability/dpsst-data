@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2025 | OCA2972B | MCT - OIS Training | Passed | 0.0 | 2.50 |
 | 8/27/2025 | OCA2894B | Legislative Update / MCT Meeting | Passed | 0.0 | 1.00 |
 | 6/27/2025 | LOP1929B | EVOC | Passed | 0.0 | 10.00 |
 | 6/26/2025 | OCA4117B | MCT Training - Case Law update / Evidence Proc. | Passed | 0.0 | 1.00 |

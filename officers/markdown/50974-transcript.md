@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 10.00 |
 | 9/12/2025 | OCP4391B | Evidence Handling | Passed | 0.0 | 0.25 |
 | 9/4/2025 | OCP1676B | Leads Online Training | Passed | 0.0 | 0.25 |
 | 8/12/2025 | OCP0598B | SFST Refresher | Instructed | 0.0 | 4.00 |

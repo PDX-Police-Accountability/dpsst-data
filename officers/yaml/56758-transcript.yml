@@ -68,6 +68,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/20/2025
+  course: PDP3845B
+  title: 2025 Dialogue Training Class
+  status: Instructed
+  score: '0.0'
+  hours: '36.00'
+- date: 7/20/2025
+  course: PDP3845B
+  title: 2025 Dialogue Training Class
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 6/24/2025
   course: PDP4384B
   title: Air Purifying Respirator and HAZMAT

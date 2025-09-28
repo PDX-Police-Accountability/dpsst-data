@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2025 | BNP1896B | SWAT- overland tracking and scenarios | Passed | 0.0 | 8.00 |
+| 9/23/2025 | BNP1977B | SWAT- Building Clears / Breaching | Passed | 0.0 | 8.00 |
+| 9/22/2025 | BNP4492B | SWAT- Firearms proficiency | Passed | 0.0 | 8.00 |
 | 8/19/2025 | BNP3682B | SWAT-Surveillance and Follows | Passed | 0.0 | 6.00 |
 | 8/8/2025 | RMP1990B | Firearms | Passed | 0.0 | 3.00 |
 | 8/7/2025 | BNP3495B | SWAT- Firearms and Physical Qualifications | Passed | 0.0 | 2.00 |

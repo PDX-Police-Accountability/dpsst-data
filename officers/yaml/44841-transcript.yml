@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2025
+  course: OCA2972B
+  title: MCT - OIS Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/27/2025
   course: OCA2894B
   title: Legislative Update / MCT Meeting

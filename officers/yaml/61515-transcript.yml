@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/28/2025
+  course: PDP4400B
+  title: 2025 Standard Field Sobriety Test (SFST) Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/24/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

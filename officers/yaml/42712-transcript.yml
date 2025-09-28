@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/2/2025
+  course: HBS0347B
+  title: Virtual-First Aid Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/1/2025
   course: HBS3840B
   title: Virtual-De-Escalation Strategies
@@ -2833,6 +2839,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/2/2025
+  expiration_date: 7/2/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/31/2024

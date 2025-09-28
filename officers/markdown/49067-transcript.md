@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 10.00 |
 | 7/15/2025 | OCS3139B | Suspect Escort and Control | Passed | 0.0 | 1.00 |
 | 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
 | 6/1/2025 | OCS1688B | EVOC | Passed | 0.0 | 5.00 |

@@ -32,7 +32,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
+| 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 11/29/2020 | PDP26575 | IS-240 Leadership and Influence (IS-00240.b) | Passed | 0.0 | 3.00 |
 | 9/29/2020 | PDP37563 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |
 | 9/29/2020 | PDP19551 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |

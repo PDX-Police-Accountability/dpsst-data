@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/18/2025
+  course: PDP1717B
+  title: Motorcycle Training at PIR
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/6/2025
   course: PDP3392B
   title: 2025 Traffic Monthly Motor Training

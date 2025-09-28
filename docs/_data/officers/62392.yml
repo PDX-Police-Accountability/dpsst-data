@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/20/2025
+  course: PDP3845B
+  title: 2025 Dialogue Training Class
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 5/10/2025
   course: PDP0279B
   title: Red Door Project The Evolve Mindset Workshop

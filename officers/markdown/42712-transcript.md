@@ -29,6 +29,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 7/2/2025 | 7/2/2027 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 12/10/2007 |  |
@@ -42,6 +43,7 @@
 | 7/16/2025 | HBS4570B | Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 7/2/2025 | HBS2315A | Virtual Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 7/2/2025 | HBS3950A | Virtual-Sexual Harassment | Passed | 0.0 | 1.00 |
+| 7/2/2025 | HBS0347B | Virtual-First Aid Adult/Child CPR | Passed | 0.0 | 3.00 |
 | 7/1/2025 | HBS3840B | Virtual-De-Escalation Strategies | Passed | 0.0 | 2.00 |
 | 6/26/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/1/2025 | HBS2174A | Virtual ADA Compliance for Business | Passed | 0.0 | 1.00 |

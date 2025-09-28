@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/18/2025
+  course: PDP1717B
+  title: Motorcycle Training at PIR
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

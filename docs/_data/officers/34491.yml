@@ -88,6 +88,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/20/2025
+  course: PDP3845B
+  title: 2025 Dialogue Training Class
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 7/11/2025
   course: PDP1608B
   title: 2025 Rapid Response Team (RRT) Monthly Training

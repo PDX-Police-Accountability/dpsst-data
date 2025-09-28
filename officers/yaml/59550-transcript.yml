@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2025
+  course: BNP1896B
+  title: SWAT- overland tracking and scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/23/2025
+  course: BNP1977B
+  title: SWAT- Building Clears / Breaching
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/22/2025
+  course: BNP4492B
+  title: SWAT- Firearms proficiency
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/19/2025
   course: BNP3682B
   title: SWAT-Surveillance and Follows

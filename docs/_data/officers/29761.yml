@@ -103,6 +103,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 6/26/2025
+  course: PMC4477B
+  title: OUTEC - Online Universal Telecommunication Ess.
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/8/2025
   course: PMC1308A
   title: Spring 2025 Inservice

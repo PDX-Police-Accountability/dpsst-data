@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/18/2025
+  course: PDP1717B
+  title: Motorcycle Training at PIR
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
