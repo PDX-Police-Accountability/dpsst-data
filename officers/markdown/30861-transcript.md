@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2025 | BNS1290B | Vehicle Close Quarters Battle (VCQB) | Instructed | 0.0 | 1.50 |
 | 7/14/2025 | BNS3425B | July Firearms | Passed | 0.0 | 2.00 |
 | 7/14/2025 | BNS2038B | July Firearms | Passed | 0.0 | 2.00 |
 | 6/3/2025 | BNS0955A | SWAT - HRT / Barricade Scenarios | Passed | 0.0 | 8.00 |

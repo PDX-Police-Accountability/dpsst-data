@@ -104,6 +104,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2025
+  course: BNS1290B
+  title: Vehicle Close Quarters Battle (VCQB)
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/14/2025
   course: BNS3425B
   title: July Firearms

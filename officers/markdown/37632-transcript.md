@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/6/2025 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 11/30/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/18/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 10/19/2021 | DPSST Use Only | Resigned |  |  | AcadTrng |
@@ -25,10 +26,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/1/2025 | Police Officer | Advanced | Lapsed | 3/23/2010 | 11/30/2029 |  |
-| 3/1/2025 | Police Officer | Basic | Lapsed | 6/12/2000 | 11/30/2029 |  |
-| 3/1/2025 | Police Officer | Intermediate | Lapsed | 3/23/2010 | 11/30/2029 |  |
-| 3/1/2025 | Police Officer | Supervisory | Lapsed | 9/28/2021 | 11/30/2029 |  |
+| 10/6/2025 | Police Officer | Basic | Required |  |  | 4/6/2027 |
+| 3/1/2025 | Police Officer | Advanced | Lapsed | 3/23/2010 |  |  |
+| 3/1/2025 | Police Officer | Basic | Lapsed | 6/12/2000 |  |  |
+| 3/1/2025 | Police Officer | Intermediate | Lapsed | 3/23/2010 |  |  |
+| 3/1/2025 | Police Officer | Supervisory | Lapsed | 9/28/2021 |  |  |
 | 5/11/2023 | Instructor |  | Granted | 5/11/2023 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

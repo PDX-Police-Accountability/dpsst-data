@@ -32,12 +32,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 9/19/2025
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '27.00'
-- date: 9/19/2025
   course: OCP0592B
   title: GRIN-Group Crisis-Assisting Individuals
   status: Passed
