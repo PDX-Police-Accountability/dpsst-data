@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2025 | PDP3790B | California Gang Investigators Association | Passed | 0.0 | 32.75 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/30/2025 | PDP3721B | 2025 Patrol Rifle Instructors IS Scenarios | Passed | 0.0 | 9.00 |
 | 7/17/2025 | VND3123B | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

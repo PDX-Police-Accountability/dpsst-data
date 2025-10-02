@@ -346,7 +346,6 @@
 | Tuquero, Teresita S. | 31787 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-06-02 | [md](../markdown/31787-transcript.md) - [yaml](../yaml/31787-transcript.yml) |
 | Pleune, Patricia L. | 39707 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-07-31 | [md](../markdown/39707-transcript.md) - [yaml](../yaml/39707-transcript.yml) |
 | Hunter, Charles W. | 15710 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-09-01 | [md](../markdown/15710-transcript.md) - [yaml](../yaml/15710-transcript.yml) |
-| Gervais, Craig P. | 39875 | Portland Police Bureau | Active | Police Officer | Hired | 2000-09-21 | [md](../markdown/39875-transcript.md) - [yaml](../yaml/39875-transcript.yml) |
 | Eugenio, Anthony M. | 39877 | Portland Police Bureau | Active | Police Officer | Hired | 2000-09-21 | [md](../markdown/39877-transcript.md) - [yaml](../yaml/39877-transcript.yml) |
 | Devlin, Chris L. | 39644 | Portland Police Bureau | Active | Police Officer | Hired | 2000-11-30 | [md](../markdown/39644-transcript.md) - [yaml](../yaml/39644-transcript.yml) |
 | Howery, Joshua C. | 37867 | Portland Police Bureau | Active | Police Officer | Hired | 2001-01-18 | [md](../markdown/37867-transcript.md) - [yaml](../yaml/37867-transcript.yml) |
@@ -1280,7 +1279,6 @@
 | Walz, Allison C. | 54454 | Portland Police Bureau | Active | Detective | Promotion | 2022-07-21 | [md](../markdown/54454-transcript.md) - [yaml](../yaml/54454-transcript.yml) |
 | Anderson, George C. | 63033 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63033-transcript.md) - [yaml](../yaml/63033-transcript.yml) |
 | Schull, Broden R. | 63052 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63052-transcript.md) - [yaml](../yaml/63052-transcript.yml) |
-| Miller, Cory G. | 63080 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63080-transcript.md) - [yaml](../yaml/63080-transcript.yml) |
 | Martinez, Brett L. | 63081 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63081-transcript.md) - [yaml](../yaml/63081-transcript.yml) |
 | Jackson, Trey S. | 63083 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63083-transcript.md) - [yaml](../yaml/63083-transcript.yml) |
 | Huq, Amadeo M. | 63084 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63084-transcript.md) - [yaml](../yaml/63084-transcript.yml) |
@@ -1801,6 +1799,7 @@
 | Brooks, David M. | 52787 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-08-28 | [md](../markdown/52787-transcript.md) - [yaml](../yaml/52787-transcript.yml) |
 | Braun, Andrew F. | 56961 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-08-28 | [md](../markdown/56961-transcript.md) - [yaml](../yaml/56961-transcript.yml) |
 | Li, Amy A. | 57307 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-08-28 | [md](../markdown/57307-transcript.md) - [yaml](../yaml/57307-transcript.yml) |
+| Gervais, Craig P. | 39875 | Portland Police Bureau | Inactive | Police Officer | Retired | 2025-09-22 | [md](../markdown/39875-transcript.md) - [yaml](../yaml/39875-transcript.yml) |
 | Alexander, Patience | 66661 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66661-transcript.md) - [yaml](../yaml/66661-transcript.yml) |
 | Sanchez, John Paul G. | 66662 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66662-transcript.md) - [yaml](../yaml/66662-transcript.yml) |
 | Gannon, Kendrik A. | 66691 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66691-transcript.md) - [yaml](../yaml/66691-transcript.yml) |
@@ -1823,3 +1822,4 @@
 | Gray, Lucas M. | 66826 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66826-transcript.md) - [yaml](../yaml/66826-transcript.yml) |
 | Ruiz, Gloria | 66827 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66827-transcript.md) - [yaml](../yaml/66827-transcript.yml) |
 | Sharp, Alisha K. | 66834 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66834-transcript.md) - [yaml](../yaml/66834-transcript.yml) |
+| Miller, Cory G. | 63080 | Portland Police Bureau | Active | Police Officer | LOA | 2025-09-30 | [md](../markdown/63080-transcript.md) - [yaml](../yaml/63080-transcript.yml) |

@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2025 | VND3027B | Washington County CIT Training | Passed | 0.0 | 40.00 |
+| 9/1/2025 | HBS3079B | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |
+| 9/1/2025 | HBS0246B | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
+| 9/1/2025 | HBS0954B | Virtual - Crowd Control | Passed | 0.0 | 1.00 |
+| 9/1/2025 | HBS2388B | Virtual - WCSO Deflection Training | Passed | 0.0 | 1.50 |
 | 8/1/2025 | HBS2107B | Ambush Awareness  Preparation | Passed | 0.0 | 1.00 |
 | 8/1/2025 | HBS2682B | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
 | 7/25/2025 | HBS2433B | Instructor ACFE Global Fraud Conference | Passed | 0.0 | 19.00 |

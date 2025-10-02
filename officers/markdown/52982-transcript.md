@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/10/2025 | PDP3913B | Level 5 Crowd Safety Applied Crowd Science | Passed | 0.0 | 18.00 |
 | 8/25/2025 | PDP3204B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 14.00 |
 | 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |

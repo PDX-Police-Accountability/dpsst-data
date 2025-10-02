@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/10/2025
+  course: PDP3913B
+  title: Level 5 Crowd Safety Applied Crowd Science
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 8/25/2025
   course: PDP3204B
   title: 2025 Rapid Response Team (RRT) Grenadier Cadre

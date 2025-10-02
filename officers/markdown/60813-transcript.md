@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2025 | OSH2056B | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 6/3/2025 | OSH0275A | OSP People in Crisis | Passed | 0.0 | 4.00 |
 | 6/2/2025 | OSH3939A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 4.00 |
 | 5/9/2025 | VND2991A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 72.00 |

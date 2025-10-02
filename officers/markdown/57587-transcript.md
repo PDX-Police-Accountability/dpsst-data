@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2025 | PDP1603B | 2025 Western States ORC Training Conference | Passed | 0.0 | 20.75 |
 | 7/8/2025 | PDP1322B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/5/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 5/5/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |

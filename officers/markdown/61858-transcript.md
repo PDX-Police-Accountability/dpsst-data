@@ -25,7 +25,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 6/5/2024 | 6/1/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
@@ -41,12 +40,14 @@
 | 9/17/2025 | MFN2595B | Women in DAAP | Passed | 0.0 | 0.50 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/4/2025 | MFN1340B | Annual Use of Force Training | Passed | 0.0 | 2.00 |
+| 8/25/2025 | MFN2730B | Diversity, Equity and Inclusion | Passed | 0.0 | 2.00 |
 | 8/6/2025 | GPN1519B | DOC Communications | Passed | 0.0 | 4.00 |
 | 8/5/2025 | GPN0425B | Cellebrite Technology | Passed | 0.0 | 4.00 |
 | 7/16/2025 | MFN1055B | Aid/Assist Wellness Court Training | Passed | 0.0 | 1.00 |
 | 7/9/2025 | MFN1075B | Government Ethics | Passed | 0.0 | 1.00 |
 | 6/25/2025 | MFN2367B | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 6/23/2025 | VND1208A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
+| 6/9/2025 | MFN4028B | Power of Transactional vs Transformational Styles | Passed | 0.0 | 1.25 |
 | 5/8/2025 | MFN1153A | Yoga For First Responders | Passed | 0.0 | 4.00 |
 | 5/6/2025 | STN0546B | Peer Support and Mental Health | Passed | 0.0 | 3.00 |
 | 4/3/2025 | MFN2666A | Firearms Qualifications | Passed | 0.0 | 0.50 |

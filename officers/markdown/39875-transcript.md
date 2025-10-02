@@ -4,7 +4,7 @@
 | name | Gervais, Craig P. |
 | dpsst_identifier | 39875 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/22/2025 | Portland Police Bureau | Retired | Police Off |  |  |
 | 9/21/2000 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/22/2024 | Police Officer | Advanced | Granted | 1/22/2024 |  |  |
-| 1/22/2024 | Police Officer | Intermediate | Granted | 1/22/2024 |  |  |
-| 11/13/2001 | Police Officer | Basic | Granted | 11/13/2001 |  |  |
+| 1/22/2024 | Police Officer | Advanced | Granted | 1/22/2024 | 12/22/2025 |  |
+| 1/22/2024 | Police Officer | Intermediate | Granted | 1/22/2024 | 12/22/2025 |  |
+| 11/13/2001 | Police Officer | Basic | Granted | 11/13/2001 | 12/22/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

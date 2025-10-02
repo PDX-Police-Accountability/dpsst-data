@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2025 | PDP0272B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Instructed | 0.0 | 5.00 |
 | 8/25/2025 | PDP3204B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 14.00 |
 | 8/25/2025 | PDP3204B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Instructed | 0.0 | 14.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

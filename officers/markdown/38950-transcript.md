@@ -46,6 +46,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2025 | HBS1625B | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 9/1/2025 | HBS0954B | Virtual - Crowd Control | Passed | 0.0 | 1.00 |
+| 9/1/2025 | HBS0246B | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
+| 9/1/2025 | HBS3079B | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |
 | 8/1/2025 | HBS2107B | Ambush Awareness  Preparation | Passed | 0.0 | 1.00 |
 | 8/1/2025 | HBS0220B | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |
 | 8/1/2025 | HBS2682B | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |

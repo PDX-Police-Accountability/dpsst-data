@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/25/2025
+  course: MFN2730B
+  title: Diversity, Equity and Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/6/2025
   course: GPN1519B
   title: DOC Communications
@@ -103,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/9/2025
+  course: MFN4028B
+  title: Power of Transactional vs Transformational Styles
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 5/8/2025
   course: MFN1153A
   title: Yoga For First Responders
@@ -1062,10 +1074,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/5/2024

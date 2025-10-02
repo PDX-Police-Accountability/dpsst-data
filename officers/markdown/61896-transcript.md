@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2025 | PDP1603B | 2025 Western States ORC Training Conference | Passed | 0.0 | 20.75 |
 | 8/21/2025 | PDP3359B | 2025 Tactical Emergency Casualty Care (TECC) | Passed | 0.0 | 9.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

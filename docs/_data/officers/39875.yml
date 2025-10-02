@@ -3,12 +3,18 @@ header_record:
   name: Gervais, Craig P.
   dpsst_identifier: '39875'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/22/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 9/21/2000
   agency: Portland Police Bureau
   action: Hired
@@ -21,21 +27,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 1/22/2024
-  expiration_date: ''
+  expiration_date: 12/22/2025
   probation_date: ''
 - status_date: 1/22/2024
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 1/22/2024
-  expiration_date: ''
+  expiration_date: 12/22/2025
   probation_date: ''
 - status_date: 11/13/2001
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 11/13/2001
-  expiration_date: ''
+  expiration_date: 12/22/2025
   probation_date: ''
 training_records:
 - date: 6/11/2025

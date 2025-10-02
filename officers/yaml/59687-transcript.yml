@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/28/2025
+  course: WLP3646B
+  title: WLPD EVOC / Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/21/2025
   course: WLP3871B
   title: Patrol - Active Threat Response

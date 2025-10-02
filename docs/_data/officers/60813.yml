@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/22/2025
+  course: OSH2056B
+  title: 2nd Trimester Firearms - Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/3/2025
   course: OSH0275A
   title: OSP People in Crisis

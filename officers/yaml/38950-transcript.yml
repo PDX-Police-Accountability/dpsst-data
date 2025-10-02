@@ -101,6 +101,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2025
+  course: HBS1625B
+  title: Virtual - Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2025
+  course: HBS0954B
+  title: Virtual - Crowd Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2025
+  course: HBS0246B
+  title: Virtual-Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2025
+  course: HBS3079B
+  title: Virtual - Suicide Prevention in Jails
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/1/2025
   course: HBS2107B
   title: Ambush Awareness  Preparation

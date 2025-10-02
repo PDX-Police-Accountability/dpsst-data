@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/12/2025
+  course: PDP1603B
+  title: 2025 Western States ORC Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.75'
 - date: 7/8/2025
   course: PDP1322B
   title: CPR/First Aid
