@@ -69,12 +69,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 1/16/2026
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Leadership 3 Year Maintenance
@@ -93,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 7/23/2025
+  course: 25-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/19/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

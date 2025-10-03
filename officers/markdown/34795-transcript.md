@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2025 | WLP3646B | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 10.00 |
+| 9/28/2025 | WLP4031B | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 8.00 |
 | 9/21/2025 | WLP3871B | Patrol - Active Threat Response | Instructed | 0.0 | 4.00 |
 | 9/20/2025 | WLP3871B | Patrol - Active Threat Response | Passed | 0.0 | 4.00 |
 | 8/30/2025 | WLP2808B | Traffic Crash Training | Passed | 0.0 | 0.50 |

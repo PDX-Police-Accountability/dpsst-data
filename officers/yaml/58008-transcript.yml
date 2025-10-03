@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 7/18/2025
+  course: PDP3050B
+  title: 2025 Training General Red Dot Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 7/17/2025
   course: VND3123B
   title: 28 CFR 23 and WSIN Resources

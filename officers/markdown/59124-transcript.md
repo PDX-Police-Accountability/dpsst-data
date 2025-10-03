@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2025 | BVP1425B | Control Tactics IST 092525 PM | Passed | 0.0 | 3.00 |
 | 8/26/2025 | BVP3127B | August 2025 Range 082625 PM | Passed | 0.0 | 3.00 |
 | 7/22/2025 | BVP1941B | July 2025 EVOC PIT 072225 AM | Passed | 0.0 | 3.00 |
 | 7/18/2025 | BVP0538B | CPR/AED/First Aid recertification | Passed | 0.0 | 3.00 |

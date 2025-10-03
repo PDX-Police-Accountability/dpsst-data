@@ -38,10 +38,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2025 | BVP1425B | Control Tactics IST 092525 PM | Instructed | 0.0 | 6.00 |
+| 9/24/2025 | BVP1951B | Control Tactics IST 092425 PM | Instructed | 0.0 | 3.00 |
+| 9/24/2025 | BVP1767B | Control Tactics IST 092425 AM | Instructed | 0.0 | 3.00 |
+| 9/23/2025 | BVP1904B | Control Tactics IST 092325 AM | Instructed | 0.0 | 3.00 |
+| 9/22/2025 | BVP3493B | Control Tactics IST 092225 PM | Instructed | 0.0 | 3.00 |
 | 9/16/2025 | BVP1970B | Control Tactics IST 091625 AM | Instructed | 0.0 | 3.00 |
 | 9/16/2025 | BVP1518B | Control Tactics IST 091625 PM | Instructed | 0.0 | 3.00 |
 | 9/15/2025 | BVP4571B | Control Tactics IST 091525 AM | Instructed | 0.0 | 3.00 |
 | 9/15/2025 | BVP2227B | Control Tactics IST 091525 PM | Instructed | 0.0 | 3.00 |
+| 9/12/2025 | BVP2309B | CT IST Instructor Class | Passed | 0.0 | 2.00 |
 | 7/8/2025 | BVP1788B | July 2025 EVOC PIT 070825 AM | Passed | 0.0 | 3.00 |
 | 6/24/2025 | BVP1586B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/27/2025 | BVP4453A | Control Tactics / Taser Recertification | Instructed | 0.0 | 3.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2025 | HBA2747B | Recognizing and Responding to Stalking | Passed | 0.0 | 7.00 |
 | 9/4/2025 | LOP3765B | OC Certification | Passed | 0.0 | 9.00 |
 | 9/3/2025 | LOP1386B | New Officer Defensive Tactics and Handcuffing | Passed | 0.0 | 5.00 |
 | 9/3/2025 | LOP4217B | High Risk Handcuffing and ASP | Passed | 0.0 | 4.00 |

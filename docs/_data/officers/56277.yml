@@ -164,6 +164,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 2/19/2025
+  course: CAP3524B
+  title: CPR / First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/27/2025
   course: CAP4265A
   title: First Aid/CPR Adult  Child

@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/27/2025 | WLP3646B | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 10.00 |
+| 9/27/2025 | WLP4031B | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 8.00 |
 | 8/30/2025 | WLP2808B | Traffic Crash Training | Passed | 0.0 | 0.50 |
 | 8/27/2025 | OCA2894B | Legislative Update / MCT Meeting | Passed | 0.0 | 1.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

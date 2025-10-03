@@ -70,6 +70,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2025
+  course: BVP1425B
+  title: Control Tactics IST 092525 PM
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/24/2025
+  course: BVP1951B
+  title: Control Tactics IST 092425 PM
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/24/2025
+  course: BVP1767B
+  title: Control Tactics IST 092425 AM
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/23/2025
+  course: BVP1904B
+  title: Control Tactics IST 092325 AM
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/22/2025
+  course: BVP3493B
+  title: Control Tactics IST 092225 PM
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/16/2025
   course: BVP1970B
   title: Control Tactics IST 091625 AM
@@ -94,6 +124,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 9/12/2025
+  course: BVP2309B
+  title: CT IST Instructor Class
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/8/2025
   course: BVP1788B
   title: July 2025 EVOC PIT 070825 AM

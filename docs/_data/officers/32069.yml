@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/17/2025
+  course: HBA2747B
+  title: Recognizing and Responding to Stalking
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 7/3/2025
   course: SDP0713A
   title: LEDS Re-Certification / Certification

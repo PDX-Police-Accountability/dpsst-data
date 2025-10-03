@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2025 | SMS3422B | Colt Armorer Course | Passed | 0.0 | 24.00 |
 | 9/12/2025 | OCS1928B | September 2025 SWAT Sniper Training | Instructed | 0.0 | 6.00 |
 | 8/29/2025 | OCS3580B | August 2025 New Hire Firearms | Instructed | 0.0 | 8.00 |
 | 8/13/2025 | OCS0877B | De-escalation | Passed | 0.0 | 1.00 |

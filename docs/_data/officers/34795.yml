@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 9/28/2025
+  course: WLP4031B
+  title: WLPD EVOC / Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/21/2025
   course: WLP3871B
   title: Patrol - Active Threat Response
