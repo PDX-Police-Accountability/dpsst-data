@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/29/2025 | PDP0323B | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 6/25/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/22/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/17/2025 | PDP2691B | 2025-2 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 83.00 |
 | 6/14/2025 | PDP1398B | 2025-2 Advanced Academy PVO | Passed | 0.0 | 50.25 |

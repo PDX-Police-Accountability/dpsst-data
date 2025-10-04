@@ -31,12 +31,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2025
+  course: PDP1633B
+  title: 2025-2 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/18/2025
   course: PDP3050B
   title: 2025 Training General Red Dot Firearms Training
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 7/18/2025
+  course: PDP0908B
+  title: 2025-2 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/18/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/28/2025
   course: PDP4013B
   title: 2025 Critical Incident Response Training

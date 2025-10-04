@@ -32,6 +32,7 @@
 | 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 7/10/2025 | REG4166B | INTOX 8000 (Hours included in BASIC) | Passed | 0.0 | 0.00 |
 | 7/10/2025 | REG0594B | INTOX 8000 (Hours included in BASIC) | Passed | 0.0 | 0.00 |
+| 6/11/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/10/2025 | PDP3042A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/10/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 6/10/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |

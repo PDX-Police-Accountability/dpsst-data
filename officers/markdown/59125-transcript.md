@@ -38,9 +38,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2025 | OCS3453B | FARO Laser Scanner Certification | Passed | 0.0 | 24.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 7/15/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 6/26/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/20/2025 | SPP3841B | Crash Reconstruction | Passed | 0.0 | 80.00 |
 | 6/20/2025 | PDP1673B | IPTM Traffic Crash Reconstruction | Passed | 0.0 | 80.00 |
+| 5/22/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/16/2025 | SPP1269B | Advanced Traffic Crash Investigations | Passed | 0.0 | 80.00 |
 | 5/16/2025 | PDP1113B | IPTM Advanced Traffic Crash Investigation | Passed | 0.0 | 80.00 |
 | 5/15/2025 | PDP1242B | CPR/First Aid | Passed | 0.0 | 1.00 |

@@ -38,6 +38,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/23/2025 | PDP3355B | 2025 AR-15 Patrol Rifle New Operators Course | Passed | 0.0 | 54.00 |
 | 6/12/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/7/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 6/5/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 6/3/2025 | PDP0193A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/3/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/25/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |

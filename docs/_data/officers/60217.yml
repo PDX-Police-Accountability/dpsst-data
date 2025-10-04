@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 7/26/2025
+  course: PDP0524B
+  title: 2025-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/26/2025
+  course: PDP3288B
+  title: 2025-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/25/2025
   course: PDP3488B
   title: 2025 SERT Training - FIREARMS
@@ -127,6 +139,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 6/26/2025
+  course: PDP1633B
+  title: 2025-2 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/19/2025
   course: PDP0430A
   title: 2025 SERT Training - ITERATION
@@ -169,6 +187,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/25/2025
+  course: PDP0908B
+  title: 2025-2 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/25/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/20/2025
   course: PDP2822B
   title: CPR/First Aid
@@ -181,12 +211,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '45.00'
+- date: 5/15/2025
+  course: PDP0812B
+  title: 2025-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2025
+  course: PDP1793B
+  title: 2025-2 Range Qualification AR-15 Qual (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/8/2025
   course: PDP2846A
   title: 2025 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/8/2025
+  course: PDP3360B
+  title: 2025-2 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/25/2025
   course: PDP3436A
   title: 2025 SERT Training - SCENARIO

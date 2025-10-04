@@ -38,6 +38,7 @@
 | 6/10/2025 | PDP1819B | 2025-2 Advanced Academy Wellness | Passed | 0.0 | 8.00 |
 | 6/10/2025 | PDP0171B | Advanced Academy Firearms | Passed | 0.0 | 2.25 |
 | 6/10/2025 | PDP0041B | Advanced Academy Firearms | Passed | 0.0 | 2.25 |
+| 6/10/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 6/5/2025 | PDP1171B | 2025-2 Advanced Academy Walking Beat | Passed | 0.0 | 20.00 |
 | 6/3/2025 | PDP2057B | 2025-2 Advanced Academy PDX Community Engagement | Passed | 0.0 | 4.50 |
 | 6/3/2025 | PDP3308B | 2025-2 Advanced Academy Equity | Passed | 0.0 | 23.50 |

@@ -16,8 +16,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/30/2025 | Police Officer | Advanced | App Recd |  | 6/17/2024 |  |
-| 9/30/2025 | Police Officer | Intermediate | App Recd |  | 6/17/2024 |  |
+| 10/2/2025 | Police Officer | Advanced | Granted | 10/2/2025 |  |  |
+| 10/2/2025 | Police Officer | Intermediate | Granted | 10/2/2025 |  |  |
 | 11/5/2018 | Police Officer | Basic | Granted | 11/5/2018 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -35,6 +35,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/25/2025 | PDP3204B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 14.00 |
+| 7/24/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 7/24/2025 | PDP0908B | 2025-2 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
+| 7/24/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/18/2025 | PDP3050B | 2025 Training General Red Dot Firearms Training | Instructed | 0.0 | 5.00 |
 | 7/17/2025 | VND3123B | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

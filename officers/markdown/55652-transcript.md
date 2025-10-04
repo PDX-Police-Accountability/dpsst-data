@@ -38,6 +38,10 @@
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/23/2025 | PDP1036B | FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/4/2025 | PDP4212B | 2025-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
+| 6/4/2025 | PDP0524B | 2025-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 6/4/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/4/2025 | PDP3288B | 2025-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/12/2025 | PDP1023B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/5/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 5/5/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |

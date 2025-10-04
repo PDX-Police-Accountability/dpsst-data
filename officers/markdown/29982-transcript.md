@@ -32,6 +32,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 10/1/2025 | 10/30/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 10/25/2023 | 10/25/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
@@ -43,6 +44,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2025 | SVP2079B | BLS CPR  First-Aid Recertification | Passed | 0.0 | 4.00 |
+| 9/30/2025 | SVP1240B | 2022 - Airway Training Video Evaluation for LEO | Passed | 0.0 | 2.00 |
+| 9/26/2025 | SVP2092B | Cultural Awareness  Diversity Overview | Passed | 0.0 | 1.00 |
 | 9/19/2025 | RMP2826B | Case Study: Negasi Zuberi - Kidnapping Case | Passed | 0.0 | 2.00 |
 | 9/18/2025 | SVP4214B | MIP Alcohol - Marijuana Citation Refresher | Passed | 0.0 | 0.25 |
 | 9/18/2025 | RMP0436B | Lead with Intentionality | Passed | 0.0 | 8.00 |

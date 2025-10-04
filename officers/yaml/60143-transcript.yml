@@ -37,6 +37,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/26/2025
+  course: PDP0908B
+  title: 2025-2 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/26/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/19/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'
@@ -127,6 +139,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 5/8/2025
+  course: PDP1633B
+  title: 2025-2 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/22/2025
   course: PDP2347B
   title: 2025-2 CAO Legal Updates for 12/2023-02/2024

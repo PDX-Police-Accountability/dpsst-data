@@ -129,6 +129,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/1/2025
+  course: SVP2079B
+  title: BLS CPR  First-Aid Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/30/2025
+  course: SVP1240B
+  title: 2022 - Airway Training Video Evaluation for LEO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/19/2025
   course: RMP2826B
   title: 'Case Study: Negasi Zuberi - Kidnapping Case'
@@ -4870,6 +4882,10 @@ training_records:
   score: '0.0'
   hours: '97.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/1/2025
+  expiration_date: 10/30/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

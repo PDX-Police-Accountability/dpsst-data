@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/25/2025
+  course: MFN4020B
+  title: Cognitive/unconventional shooting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/17/2025
   course: MFN2595B
   title: Women in DAAP

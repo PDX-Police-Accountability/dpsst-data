@@ -35,6 +35,7 @@
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/8/2025 | BNS1446B | Pepperball | Instructed | 0.0 | 2.00 |
 | 6/28/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 5/22/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/12/2025 | BNS3570B | K9 Case law update and bite work | Passed | 0.0 | 2.00 |
 | 5/12/2025 | BNS2982B | Expandable Baton | Passed | 0.0 | 2.00 |
 | 4/25/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |

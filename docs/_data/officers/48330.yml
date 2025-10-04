@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/19/2025
+  course: GSP0937B
+  title: UAS Ground School
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 3/21/2025
   course: GSP1751A
   title: FEMA ICS-200

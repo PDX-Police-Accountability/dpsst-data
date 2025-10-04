@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/11/2025
+  course: PDS4427B
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/11/2025
+  course: PDS3941B
+  title: VR ConSim
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/23/2025
   course: PDS0318B
   title: Red Dot Firearms
@@ -80,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/9/2025
+  course: PDS1966B
+  title: Communications
+  status: Instructed
+  score: '0.0'
+  hours: '3.50'
 - date: 6/11/2025
   course: PDS2894B
   title: ConSim

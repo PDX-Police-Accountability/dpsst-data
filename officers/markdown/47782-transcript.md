@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/8/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/29/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/19/2025 | PDP4390A | Senior Management Institute for Police | Passed | 0.0 | 120.00 |
 | 4/28/2025 | PDP0215B | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

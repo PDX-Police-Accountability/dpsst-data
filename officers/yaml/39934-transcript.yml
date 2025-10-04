@@ -94,6 +94,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 6/10/2025
+  course: PDP0812B
+  title: 2025-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/9/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'
@@ -106,6 +112,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/6/2025
+  course: PDP1793B
+  title: 2025-2 Range Qualification AR-15 Qual (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/26/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/7/2025
   course: PDP2705A
   title: 2025 EAP Annual Member Training

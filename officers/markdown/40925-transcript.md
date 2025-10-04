@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/10/2025 | PDP4454B | 2025 ONEA Training Institute | Passed | 0.0 | 25.00 |
 | 7/7/2025 | HDA2999B | ONEA General Session | Passed | 0.0 | 4.00 |
 | 5/22/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |

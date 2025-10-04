@@ -40,6 +40,7 @@
 | 6/11/2025 | PDP2795B | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 6/11/2025 | PDP0438B | 2025-2 Advanced Academy Firearms | Passed | 0.0 | 29.25 |
 | 6/11/2025 | PDP3937B | Advanced Academy Wellness | Passed | 0.0 | 2.25 |
+| 6/11/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/10/2025 | PDP3261B | 2025-2 Advanced Academy Control Tactics | Passed | 0.0 | 60.25 |
 | 6/10/2025 | PDP1819B | 2025-2 Advanced Academy Wellness | Passed | 0.0 | 8.00 |
 | 6/10/2025 | PDP0171B | Advanced Academy Firearms | Passed | 0.0 | 2.25 |

@@ -41,6 +41,7 @@
 | 6/30/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/27/2025 | PDP1959B | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 6/2/2025 | OCS2310B | FBI LEEDA- CLI | Passed | 0.0 | 40.00 |
+| 5/21/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/22/2025 | PDP0241A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/17/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 4/17/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |

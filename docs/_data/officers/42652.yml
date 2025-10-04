@@ -62,6 +62,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/16/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/10/2025
   course: PDP4454B
   title: 2025 ONEA Training Institute

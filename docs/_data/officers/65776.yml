@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/9/2025
+  course: PDP1633B
+  title: 2025-2 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/5/2025
   course: PDP1911A
   title: RegJIN RMS/MRE Training
@@ -90,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '23.00'
+- date: 5/27/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/21/2025
   course: PDP3909B
   title: 2023-1  2 CAO Legal Updates for 01  02/2023

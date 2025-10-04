@@ -16,19 +16,19 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 9/30/2025
+- status_date: 10/2/2025
   certificate: Police Officer
   level: Advanced
-  status: App Recd
-  certificate_date: ''
-  expiration_date: 6/17/2024
+  status: Granted
+  certificate_date: 10/2/2025
+  expiration_date: ''
   probation_date: ''
-- status_date: 9/30/2025
+- status_date: 10/2/2025
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
-  expiration_date: 6/17/2024
+  status: Granted
+  certificate_date: 10/2/2025
+  expiration_date: ''
   probation_date: ''
 - status_date: 11/5/2018
   certificate: Police Officer
@@ -44,6 +44,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 7/24/2025
+  course: PDP3360B
+  title: 2025-2 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/24/2025
+  course: PDP0908B
+  title: 2025-2 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/24/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/18/2025
   course: PDP3050B
   title: 2025 Training General Red Dot Firearms Training

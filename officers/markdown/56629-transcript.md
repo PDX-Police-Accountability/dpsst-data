@@ -41,6 +41,8 @@
 | 8/7/2025 | PDP2072B | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 36.00 |
 | 7/30/2025 | PDP0104B | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 7/26/2025 | PDP0676B | 2025 Advanced Shotgun Operator In-Service | Passed | 0.0 | 5.00 |
+| 7/26/2025 | PDP0524B | 2025-2 Range Qualification Shotgun | Passed | 0.0 | 0.50 |
+| 7/26/2025 | PDP3288B | 2025-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.50 |
 | 7/14/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 7/14/2025 | PDP2451B | 2025 PPB Sergeant's Academy | Passed | 0.0 | 90.00 |
 | 7/9/2025 | PDP3427B | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
@@ -52,6 +54,8 @@
 | 5/20/2025 | PDP1889B | 2020 Trng Managing Critical Incidents (05/2020) | Passed | 0.0 | 0.25 |
 | 5/20/2025 | PDP1811B | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 5/20/2025 | PDP0022B | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
+| 5/13/2025 | PDP0908B | 2025-2 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
+| 5/13/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/3/2025 | PDP3098A | FETT Tact Breacher Cert Basic/Interm | Passed | 0.0 | 48.00 |
 | 4/24/2025 | PDP3632B | FBI Intermediate IED Electronics Course | Passed | 0.0 | 24.00 |
 | 4/21/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |

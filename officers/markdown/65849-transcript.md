@@ -34,6 +34,7 @@
 | 6/11/2025 | PDP1769B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 6/10/2025 | PDP2762A | FTEP Orientation | Passed | 0.0 | 5.00 |
 | 6/9/2025 | PDP3680A | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 6/9/2025 | PDP1633B | 2025-2 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 6/3/2025 | PDP2375A | FTEP Inroduction to Property and Evidence | Passed | 0.0 | 4.00 |
 | 5/29/2025 | PDP3305B | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 5/29/2025 | PDP0461B | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
@@ -44,6 +45,7 @@
 | 5/29/2025 | PDP3284B | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 5/28/2025 | PDP3454A | TEEX WMD/Terrorism for Emerg Responders | Passed | 0.0 | 8.00 |
 | 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 23.00 |
+| 5/27/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/21/2025 | PDP1351B | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 5/21/2025 | PDP2947B | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 5/21/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

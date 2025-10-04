@@ -85,6 +85,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/21/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/21/2025
+  course: PDP0908B
+  title: 2025-2 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/19/2025
   course: PDP2059B
   title: ORS 181A.440 Airways Part 3

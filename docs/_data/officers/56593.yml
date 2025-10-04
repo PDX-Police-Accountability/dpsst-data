@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 7/2/2025
+  course: PDP1793B
+  title: 2025-2 Range Qualification AR-15 Qual (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/27/2025
   course: PDP0957B
   title: 2025-1 All Sworn In-Service Active Threat, LRE
@@ -78,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 6/26/2025
+  course: PDP1633B
+  title: 2025-2 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/11/2025
   course: PDP0160B
   title: 2025 IS PVO Stop Stick
@@ -108,6 +120,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/4/2025
+  course: PDP0812B
+  title: 2025-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/8/2025
   course: PDP3105A
   title: CPR/First Aid

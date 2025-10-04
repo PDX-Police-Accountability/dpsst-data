@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/24/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/10/2025 | PDP0116B | RegJIN RMS/MRE | Instructed | 0.0 | 14.00 |
 | 6/25/2025 | PDP2296A | RegJIN RMS/MRE Training Roster | Instructed | 0.0 | 14.00 |
 | 6/5/2025 | PDP1034A | RegJIN RMS/MRE Training | Instructed | 0.0 | 14.00 |

@@ -116,12 +116,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 5/22/2025
+  course: PDP1633B
+  title: 2025-2 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/16/2025
   course: PDP2020A
   title: 2025 Satellite AR-15 Instructor Course
   status: Passed
   score: '0.0'
   hours: '45.00'
+- date: 5/15/2025
+  course: PDP0812B
+  title: 2025-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/15/2025
+  course: PDP1793B
+  title: 2025-2 Range Qualification AR-15 Qual (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/9/2025
   course: PDP3675B
   title: 2025 Rapid Response Team (RRT) Monthly Training

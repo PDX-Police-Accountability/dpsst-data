@@ -116,12 +116,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 5/22/2025
+  course: PDP1633B
+  title: 2025-2 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/9/2025
   course: PDP3675B
   title: 2025 Rapid Response Team (RRT) Monthly Training
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/8/2025
+  course: PDP3360B
+  title: 2025-2 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/8/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/18/2025
   course: PDP3328A
   title: CPR/First Aid

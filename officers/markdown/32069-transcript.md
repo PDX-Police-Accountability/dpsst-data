@@ -52,7 +52,13 @@
 | 5/28/2025 | SDP3904A | Investigation Scenarios - Decision Making | Passed | 0.0 | 2.00 |
 | 5/28/2025 | SDP3907A | Municipal Code Update | Passed | 0.0 | 1.00 |
 | 5/26/2025 | REG0627B | Control from Guard | Passed | 0.0 | 1.00 |
+| 5/26/2025 | BPT3615B | Ground Control | Passed | 0.0 | 1.00 |
+| 5/26/2025 | BPT2480B | Ground Control | Passed | 0.0 | 1.00 |
+| 5/26/2025 | BPT2737B | Ground Control | Passed | 0.0 | 1.00 |
 | 5/19/2025 | REG0769B | Control Tactics | Passed | 0.0 | 1.00 |
+| 5/1/2025 | BPT0040B | Ground Control | Passed | 0.0 | 1.00 |
+| 5/1/2025 | BPT3197B | Ground Control | Passed | 0.0 | 1.00 |
+| 5/1/2025 | BPT0098B | Ground Control | Passed | 0.0 | 1.00 |
 | 4/24/2025 | OAC0714A | Principled Leadership - The Charleston 9 | Passed | 0.0 | 4.00 |
 | 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |
 | 4/23/2025 | OAC1720A | Critical LE Lessons from Active Shooter Events | Passed | 0.0 | 3.00 |

@@ -33,6 +33,7 @@
 | 7/14/2025 | PDP1206B | FTEP Geography | Passed | 0.0 | 3.00 |
 | 7/10/2025 | PDP0116B | RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 7/8/2025 | PDP1478B | FTEP Property and Evidence Introduction | Passed | 0.0 | 4.00 |
+| 7/8/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 7/2/2025 | REG0180B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 7/2/2025 | REG2290B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |

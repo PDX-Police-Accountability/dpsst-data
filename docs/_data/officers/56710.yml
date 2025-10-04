@@ -110,9 +110,81 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/22/2025
+  course: BPT1796B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/22/2025
+  course: BPT0000B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/22/2025
+  course: BPT0167B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2025
+  course: BPT2658B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2025
+  course: BPT2898B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2025
+  course: BPT1389B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/8/2025
+  course: BPT2589B
+  title: Striking, Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/8/2025
+  course: BPT2704B
+  title: Striking, Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/8/2025
+  course: BPT1494B
+  title: Striking, Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/1/2025
   course: REG1978B
   title: Striking/Side Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2025
+  course: BPT0040B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2025
+  course: BPT3197B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2025
+  course: BPT0098B
+  title: Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'

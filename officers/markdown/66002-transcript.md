@@ -33,6 +33,7 @@
 | 7/14/2025 | PDP1206B | FTEP Geography | Passed | 0.0 | 3.00 |
 | 7/10/2025 | PDP0116B | RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 7/8/2025 | PDP1478B | FTEP Property and Evidence Introduction | Passed | 0.0 | 4.00 |
+| 7/8/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 6/30/2025 | PDP2015B | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/30/2025 | PDP0800B | Patrol Vehicle Operations Policy | Passed | 0.0 | 0.50 |
@@ -40,6 +41,7 @@
 | 6/26/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
 | 6/26/2025 | PDP1554B | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 6/25/2025 | PDP2548A | Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 6/25/2025 | PDP1633B | 2025-2 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 6/24/2025 | PDP4384B | Air Purifying Respirator and HAZMAT | Passed | 0.0 | 3.00 |
 | 6/24/2025 | PDP1046A | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 6/24/2025 | PDP3400A | Body Worn Camera | Passed | 0.0 | 2.00 |

@@ -37,6 +37,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/30/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/25/2025 | PDP2548A | Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 6/25/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/25/2025 | PDP1633B | 2025-2 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 6/12/2025 | PDP0954A | 2025 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/11/2025 | PDP1769B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 5/6/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |

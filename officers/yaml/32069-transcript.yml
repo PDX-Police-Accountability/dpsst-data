@@ -147,9 +147,45 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/26/2025
+  course: BPT3615B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/26/2025
+  course: BPT2480B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/26/2025
+  course: BPT2737B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/19/2025
   course: REG0769B
   title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2025
+  course: BPT0040B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2025
+  course: BPT3197B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2025
+  course: BPT0098B
+  title: Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'

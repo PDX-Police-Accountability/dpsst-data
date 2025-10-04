@@ -89,6 +89,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/21/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/21/2025
   course: PDP0231A
   title: CPR/First Aid

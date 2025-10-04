@@ -35,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/12/2025 | PDP3509B | FTEP Policy and Procedure Class | Instructed | 0.0 | 6.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/22/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/15/2025 | PDP4152B | 2025 FTEP Policy  Procedure | Instructed | 0.0 | 5.00 |
 | 6/19/2025 | PDP0215B | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/18/2025 | PDP0399B | SOP 14-1 Safety Procedures for the Trng Complex | Passed | 0.0 | 0.25 |

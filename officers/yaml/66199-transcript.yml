@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/25/2025
+  course: PDP1557B
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/25/2025
   course: PDP1759A
   title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp

@@ -36,12 +36,24 @@ certification_records:
   expiration_date: 11/4/2025
   probation_date: ''
 training_records:
+- date: 7/31/2025
+  course: PDP1633B
+  title: 2025-2 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/2/2025
   course: PDP4404B
   title: 2025 Extreme Risk Protection Orders (ERPOs)
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/2/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/17/2025
   course: PDP2267B
   title: ORS 181A.440 Airways Part 1

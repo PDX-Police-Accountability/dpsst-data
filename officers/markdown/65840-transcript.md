@@ -37,6 +37,7 @@
 | 6/11/2025 | PDP1769B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 6/10/2025 | PDP2762A | FTEP Orientation | Passed | 0.0 | 5.00 |
 | 6/9/2025 | PDP3680A | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 6/9/2025 | PDP1633B | 2025-2 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 6/5/2025 | PDP1911A | RegJIN RMS/MRE Training | Passed | 0.0 | 14.00 |
 | 6/3/2025 | PDP2375A | FTEP Inroduction to Property and Evidence | Passed | 0.0 | 4.00 |
 | 6/2/2025 | PDP3909B | 2023-1  2 CAO Legal Updates for 01  02/2023 | Passed | 0.0 | 0.25 |
@@ -64,6 +65,8 @@
 | 5/28/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 23.00 |
+| 5/27/2025 | PDP4212B | 2025-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
+| 5/27/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 5/21/2025 | PDP1351B | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 5/21/2025 | PDP0787B | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 5/21/2025 | PDP2947B | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |

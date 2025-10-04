@@ -43,6 +43,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 7/26/2025
+  course: PDP0524B
+  title: 2025-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/26/2025
+  course: PDP3288B
+  title: 2025-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/14/2025
   course: 25-0030
   title: DPSST Supervision F21 Equivalency
@@ -58,6 +70,18 @@ training_records:
 - date: 6/4/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/12/2025
+  course: PDP3360B
+  title: 2025-2 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/12/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'

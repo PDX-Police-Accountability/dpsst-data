@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2025 | PPP1024B | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/2/2025 | PPP1842B | Behavioral Health Unit Overview | Passed | 0.0 | 2.00 |
 | 9/2/2025 | PPP0815B | Imporvised Explosive Device Response | Passed | 0.0 | 1.00 |

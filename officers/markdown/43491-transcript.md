@@ -43,6 +43,7 @@
 | 8/21/2025 | OCS3453B | FARO Laser Scanner Certification | Passed | 0.0 | 24.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/6/2025 | PDP3392B | 2025 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
+| 7/17/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/9/2025 | PDP4421B | 2025 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
 | 7/3/2025 | PDP3158A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/30/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |

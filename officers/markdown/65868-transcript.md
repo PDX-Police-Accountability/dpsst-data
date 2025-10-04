@@ -35,6 +35,7 @@
 | 6/10/2025 | PDP2762A | FTEP Orientation | Passed | 0.0 | 5.00 |
 | 6/10/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/9/2025 | PDP3680A | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 6/9/2025 | PDP1633B | 2025-2 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 6/5/2025 | PDP1911A | RegJIN RMS/MRE Training | Passed | 0.0 | 14.00 |
 | 6/3/2025 | PDP2375A | FTEP Inroduction to Property and Evidence | Passed | 0.0 | 4.00 |
 | 5/28/2025 | PDP3454A | TEEX WMD/Terrorism for Emerg Responders | Passed | 0.0 | 8.00 |
@@ -70,6 +71,7 @@
 | 5/28/2025 | PDP2342B | DIR 0910.00 Update De Minimis Force 09/2024 | Passed | 0.0 | 0.25 |
 | 5/28/2025 | PDP0638B | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Passed | 0.0 | 23.00 |
+| 5/27/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/21/2025 | PDP0787B | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 5/21/2025 | PDP1650B | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 5/21/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |

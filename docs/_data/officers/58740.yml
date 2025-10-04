@@ -62,6 +62,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/25/2025
+  course: PDP4212B
+  title: 2025-2 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/25/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/14/2025
   course: 25-0030
   title: DPSST Supervision F21 Equivalency
