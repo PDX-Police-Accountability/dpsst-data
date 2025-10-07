@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2025
+  course: PDP4559B
+  title: Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/16/2025
   course: PDP3672B
   title: CPR/First Aid

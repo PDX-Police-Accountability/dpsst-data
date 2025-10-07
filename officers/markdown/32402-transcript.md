@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2025 | HBS4384B | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |
+| 10/1/2025 | HBS3916B | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/19/2025 | VND3027B | Washington County CIT Training | Passed | 0.0 | 40.00 |
 | 9/1/2025 | HBS3079B | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |
 | 9/1/2025 | HBS0246B | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |

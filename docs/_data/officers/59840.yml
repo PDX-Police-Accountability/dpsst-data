@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2025
+  course: OCS4279B
+  title: Bias part 2 Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/13/2025
   course: GPN1389B
   title: Pathways Training

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2025 | OCS4279B | Bias part 2 Training | Passed | 0.0 | 1.00 |
 | 8/13/2025 | GPN1389B | Pathways Training | Passed | 0.0 | 20.00 |
 | 8/5/2025 | OCS3591B | DEC Community Summit | Passed | 0.0 | 16.00 |
 | 8/4/2025 | TRN4334B | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |

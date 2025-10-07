@@ -43,6 +43,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 10/2/2025 | OSH2639B | Central Region Leadership Summit | Passed | 0.0 | 5.00 |
+| 9/16/2025 | OSH0020B | Manager Competency Training - Budget 101 | Passed | 0.0 | 1.00 |
 | 9/4/2025 | OSH2634B | Airway Circulatory Anatomy  Physiology | Passed | 0.0 | 4.00 |
 | 8/5/2025 | OSH2079B | OSP Regional EVO 2025 | Passed | 0.0 | 4.00 |
 | 7/22/2025 | OSH2722B | 2nd Trimester Firearms | Passed | 0.0 | 8.00 |

@@ -42,6 +42,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/2/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 10/1/2025 | HBS3425B | Virtual - Ambush Awareness  Preparation | Passed | 0.0 | 1.00 |
+| 10/1/2025 | HBS4220B | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
 | 7/16/2025 | HBS4570B | Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 7/2/2025 | HBS2315A | Virtual Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 7/2/2025 | HBS3950A | Virtual-Sexual Harassment | Passed | 0.0 | 1.00 |

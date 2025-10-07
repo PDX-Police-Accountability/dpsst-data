@@ -80,6 +80,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/1/2025
+  course: HBS3425B
+  title: Virtual - Ambush Awareness  Preparation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2025
+  course: HBS4220B
+  title: Virtual - Nasal Naloxone (NARCAN)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/16/2025
   course: HBS4570B
   title: Heat Illness Prevention

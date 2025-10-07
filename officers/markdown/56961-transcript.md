@@ -373,6 +373,7 @@
 | 1/2/2021 | PDP18966 | 2021-1 Tips Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 1/2/2021 | PDP10276 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
 | 1/2/2021 | PDP25688 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
+| 12/23/2020 | PDP2567B | IS-200 Basic Incident Command System | Passed | 0.0 | 3.00 |
 | 12/12/2020 | PDP04652 | 2020 City of Portland Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 12/12/2020 | PDP07824 | 2020-10 City Attorney's Office Legal Updates 10/20 | Passed | 0.0 | 0.25 |
 | 12/12/2020 | PDP29257 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |

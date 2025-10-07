@@ -35,6 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | PDP2622B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 4.00 |
+| 9/17/2025 | PDP3643B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 9/16/2025 | PDP4523B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 9/15/2025 | PDP2127B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |
 | 8/28/2025 | PDP0913B | Model 870 Armorer Course | Passed | 0.0 | 14.00 |
 | 7/29/2025 | PDP3721B | 2025 Patrol Rifle Instructors IS Scenarios | Passed | 0.0 | 9.00 |
 | 7/28/2025 | PDP0550B | 2025 Patrol Rifle Instructors IS Scenarios | Instructed | 0.0 | 9.00 |

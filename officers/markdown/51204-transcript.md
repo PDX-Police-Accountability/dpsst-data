@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
 | 8/26/2025 | MFS3885B | Modern Day Sniper - Law Enforcement Skills | Passed | 0.0 | 30.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/13/2025 | PDP0697B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

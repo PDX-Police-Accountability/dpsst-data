@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/9/2025 | GSP0033B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
 | 8/5/2025 | GSP3819B | PVO In-service | Passed | 0.0 | 10.00 |
 | 4/17/2025 | GSP2415B | Practical Scenarios, New Equipment Familiarization | Passed | 0.0 | 10.00 |
 | 1/29/2025 | GSP3595A | Deciding to diversify your workforce | Passed | 0.0 | 2.00 |

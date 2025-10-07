@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
 | 8/21/2025 | PDP0852B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 8/21/2025 | PDP3644B | 2025 Medium Distance Use of Force Decision Making | Passed | 0.0 | 5.00 |
 | 8/13/2025 | PDP0697B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

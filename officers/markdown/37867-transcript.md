@@ -37,6 +37,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 22.00 |
 | 9/26/2025 | HBS0168B | Law Enforcement Sniper School | Instructed | 0.0 | 22.00 |
+| 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
+| 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Instructed | 0.0 | 50.00 |
 | 8/21/2025 | PDP0852B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 8/21/2025 | PDP0852B | 2025 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
 | 8/21/2025 | PDP3644B | 2025 Medium Distance Use of Force Decision Making | Passed | 0.0 | 9.00 |

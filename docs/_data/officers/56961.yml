@@ -2072,6 +2072,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/23/2020
+  course: PDP2567B
+  title: IS-200 Basic Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/12/2020
   course: PDP04652
   title: 2020 City of Portland Bloodborne Pathogens

@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2025 | GSP2321B | Rifle In-service Training |  | 0.0 | 10.00 |
+| 9/14/2025 | GSP3908B | 2025 Handgun In-Service |  | 0.0 | 10.00 |
 | 8/21/2025 | PDP3644B | 2025 Medium Distance Use of Force Decision Making | Passed | 0.0 | 9.00 |
 | 8/19/2025 | GSP3278B | UAS Training | Passed | 0.0 | 10.00 |
 | 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |

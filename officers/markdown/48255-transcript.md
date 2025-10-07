@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2025 | PDP1406B | 2025 SERT Training Firearms | Passed | 0.0 | 9.00 |
 | 7/24/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

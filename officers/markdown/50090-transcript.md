@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
 | 9/11/2025 | PDP2786B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 9/4/2025 | PDP4363B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2025 | GSP0677B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
+| 8/21/2025 | GSP1843B | UAS Photogrammerty and Scene Reconstruction | Passed | 0.0 | 16.00 |
+| 7/21/2025 | GSP2824B | PVO In-service | Passed | 0.0 | 10.00 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
 | 1/28/2025 | GSP1751A | FEMA ICS-200 | Passed | 0.0 | 4.00 |

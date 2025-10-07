@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/1/2025
+  course: BBP1646B
+  title: Patrol Rifle Exertion Course
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 9/5/2025
   course: BBP4402B
   title: Use of Force,De-escalation,Reasonable

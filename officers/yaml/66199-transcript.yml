@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/24/2025
+  course: PDP4559B
+  title: Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/25/2025
   course: PDP1759A
   title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp

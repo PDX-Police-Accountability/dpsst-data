@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2025 | BBP1646B | Patrol Rifle Exertion Course | Passed | 0.0 | 3.50 |
 | 9/5/2025 | BBP4402B | Use of Force,De-escalation,Reasonable | Passed | 0.0 | 6.00 |
 | 9/5/2025 | BBP0862B | Lifevac | Passed | 0.0 | 1.00 |
 | 9/5/2025 | BBP1050B | Distracted/Defensive/Pursuit/Safety Driving | Passed | 0.0 | 4.00 |

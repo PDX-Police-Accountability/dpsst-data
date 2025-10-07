@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
+| 9/17/2025 | PDP3643B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 8/27/2025 | PDP4014B | Financially Fit: Strategies for Financial Wellness | Passed | 0.0 | 1.00 |
 | 8/26/2025 | PDP2618B | Women in Command | Passed | 0.0 | 18.00 |
 | 7/24/2025 | PDP2358B | Respond to  Investigate Bomb Threats  Swat Hoax | Passed | 0.0 | 1.00 |
