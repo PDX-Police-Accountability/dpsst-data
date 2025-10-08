@@ -45,6 +45,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2025 | OAC2191B | Systematizing Security In Schools | Passed | 0.0 | 2.00 |
+| 9/25/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
+| 9/25/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
+| 9/24/2025 | OAC1371B | Defining Leadership Qualities  Styles | Passed | 0.0 | 2.00 |
+| 9/24/2025 | OAC2564B | Situation Table: Addressing Acutely Elevated Risk | Passed | 0.0 | 2.00 |
+| 9/24/2025 | OAC3645B | Justice Delayed:  Chief Ralph | Passed | 0.0 | 1.00 |
 | 9/9/2025 | BNP3786B | 40mm / Pepperball Familiarization | Passed | 0.0 | 0.75 |
 | 9/9/2025 | BNP0937B | Ethos Academy:  Harnessing Leadership | Passed | 0.0 | 3.00 |
 | 9/9/2025 | BNP2235B | Taser / Firearm Transitions / Moving Targets | Passed | 0.0 | 0.75 |

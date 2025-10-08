@@ -44,6 +44,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2025
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/15/2025
+  course: XDELETE4
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2025
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/18/2025
   course: PDP0071B
   title: 2025 AR-15 Operators In-Service Training (1-Day)
@@ -56,6 +74,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/10/2025
+  course: BPT0014B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/10/2025
+  course: BPT2587B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/10/2025
+  course: BPT4113B
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/19/2025
+  course: BPT1997B
+  title: Clinch and weapon retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/19/2025
+  course: BPT2558B
+  title: Clinch and weapon retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/19/2025
+  course: BPT0713B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/19/2025
+  course: BPT0894B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/19/2025
+  course: BPT2537B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/19/2025
+  course: BPT3347B
+  title: Clinch and weapon retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/17/2025
   course: PDP0812B
   title: 2025-2 Range Qualification AR-15 Qual (20 Yard)
@@ -68,6 +140,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/16/2025
+  course: BPT3952B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/16/2025
+  course: BPT3974B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/16/2025
+  course: BPT2705B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/9/2025
   course: BPT1342B
   title: Guard Retention

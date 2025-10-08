@@ -113,6 +113,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2025
+  course: OAC2191B
+  title: Systematizing Security In Schools
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/25/2025
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/25/2025
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/24/2025
+  course: OAC1371B
+  title: Defining Leadership Qualities  Styles
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/24/2025
+  course: OAC2564B
+  title: 'Situation Table: Addressing Acutely Elevated Risk'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/24/2025
+  course: OAC3645B
+  title: 'Justice Delayed:  Chief Ralph'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/9/2025
   course: BNP3786B
   title: 40mm / Pepperball Familiarization

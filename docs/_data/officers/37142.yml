@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2025
+  course: OAC3645B
+  title: 'Justice Delayed:  Chief Ralph'
+  status: ''
+  score: '0.0'
+  hours: '0.00'
 - date: 8/10/2025
   course: SPP4409B
   title: Firearms  Less Lethal

@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2025 | OAC3645B | Justice Delayed:  Chief Ralph |  | 0.0 | 0.00 |
 | 8/10/2025 | SPP4409B | Firearms  Less Lethal | Passed | 0.0 | 3.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/15/2025 | SPP1404B | AHLS for Riological Incidents | Passed | 0.0 | 4.00 |

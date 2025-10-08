@@ -41,6 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
+| 9/25/2025 | OAC2191B | Systematizing Security In Schools | Passed | 0.0 | 2.00 |
+| 9/24/2025 | OAC2564B | Situation Table: Addressing Acutely Elevated Risk | Passed | 0.0 | 2.00 |
+| 9/24/2025 | OAC1371B | Defining Leadership Qualities  Styles | Passed | 0.0 | 2.00 |
+| 9/24/2025 | OAC3645B | Justice Delayed:  Chief Ralph | Passed | 0.0 | 1.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/21/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/20/2025 | PDP3845B | 2025 Dialogue Training Class | Instructed | 0.0 | 36.00 |

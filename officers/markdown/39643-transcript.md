@@ -35,10 +35,25 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 9/15/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 8/28/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 7/18/2025 | PDP0071B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 7/18/2025 | PDP1793B | 2025-2 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
+| 7/10/2025 | BPT0014B | Ground Control | Passed | 0.0 | 1.00 |
+| 7/10/2025 | BPT2587B | Ground Control | Passed | 0.0 | 1.00 |
+| 7/10/2025 | BPT4113B | Ground Control | Passed | 0.0 | 1.00 |
+| 6/19/2025 | BPT1997B | Clinch and weapon retention | Passed | 0.0 | 1.00 |
+| 6/19/2025 | BPT2558B | Clinch and weapon retention | Passed | 0.0 | 1.00 |
+| 6/19/2025 | BPT0713B | Control Tactics | Passed | 0.0 | 1.00 |
+| 6/19/2025 | BPT0894B | Control Tactics | Passed | 0.0 | 1.00 |
+| 6/19/2025 | BPT2537B | Control Tactics | Passed | 0.0 | 1.00 |
+| 6/19/2025 | BPT3347B | Clinch and weapon retention | Passed | 0.0 | 1.00 |
 | 6/17/2025 | PDP0812B | 2025-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/17/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/16/2025 | BPT3952B | Control Tactics | Passed | 0.0 | 1.00 |
+| 6/16/2025 | BPT3974B | Control Tactics | Passed | 0.0 | 1.00 |
+| 6/16/2025 | BPT2705B | Control Tactics | Passed | 0.0 | 1.00 |
 | 6/9/2025 | BPT1342B | Guard Retention | Passed | 0.0 | 1.00 |
 | 6/9/2025 | BPT2642B | Guard Retention | Passed | 0.0 | 1.00 |
 | 6/9/2025 | BPT1173B | Guard Retention | Passed | 0.0 | 1.00 |

@@ -39,9 +39,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 9/17/2025 | HBA2747B | Recognizing and Responding to Stalking | Passed | 0.0 | 7.00 |
+| 9/1/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 7/14/2025 | BPT1962B | Striking and Take down defense | Passed | 0.0 | 1.00 |
+| 7/14/2025 | BPT2571B | Striking and Take down defense | Passed | 0.0 | 1.00 |
+| 7/14/2025 | BPT3963B | Striking and Take down defense | Passed | 0.0 | 1.00 |
 | 7/3/2025 | SDP0713A | LEDS Re-Certification / Certification | Passed | 0.0 | 1.00 |
 | 6/16/2025 | REG2532B | Ground/Standing Control to Takedown | Passed | 0.0 | 1.00 |
+| 6/16/2025 | BPT3952B | Control Tactics | Passed | 0.0 | 1.00 |
+| 6/16/2025 | BPT3974B | Control Tactics | Passed | 0.0 | 1.00 |
+| 6/16/2025 | BPT2705B | Control Tactics | Passed | 0.0 | 1.00 |
 | 6/11/2025 | SDP1735A | Report Writing and Evidence Processing | Passed | 0.0 | 1.00 |
 | 6/11/2025 | SDP0055A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
 | 6/11/2025 | SDP1134A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |

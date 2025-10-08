@@ -21,6 +21,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/2/2025 | 10/2/2027 |
 | Code of Ethics | Law Enforcement Signed | 8/4/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -28,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2025 | FGP3808B | CPR AED First Aid | Passed | 0.0 | 8.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/5/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/14/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |

@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 9/11/2025 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/26/2025 | REG2944B | DT | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP1735A | Report Writing and Evidence Processing | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP0055A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |

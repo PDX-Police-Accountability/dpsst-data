@@ -69,12 +69,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/18/2025
+  course: XDELETE5
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/17/2025
   course: HBA2747B
   title: Recognizing and Responding to Stalking
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 9/1/2025
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/14/2025
+  course: BPT1962B
+  title: Striking and Take down defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/14/2025
+  course: BPT2571B
+  title: Striking and Take down defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/14/2025
+  course: BPT3963B
+  title: Striking and Take down defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/3/2025
   course: SDP0713A
   title: LEDS Re-Certification / Certification
@@ -84,6 +114,24 @@ training_records:
 - date: 6/16/2025
   course: REG2532B
   title: Ground/Standing Control to Takedown
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/16/2025
+  course: BPT3952B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/16/2025
+  course: BPT3974B
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/16/2025
+  course: BPT2705B
+  title: Control Tactics
   status: Passed
   score: '0.0'
   hours: '1.00'

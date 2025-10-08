@@ -30,6 +30,12 @@ certification_records:
   expiration_date: 3/26/2028
   probation_date: ''
 training_records:
+- date: 10/2/2025
+  course: FGP3808B
+  title: CPR AED First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -1129,6 +1135,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/2/2025
+  expiration_date: 10/2/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/4/2020
