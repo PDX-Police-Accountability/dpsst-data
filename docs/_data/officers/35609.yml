@@ -101,6 +101,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/25/2025
+  course: OAC2679B
+  title: Choosing to Serve Report
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/24/2025
   course: OAC2564B
   title: 'Situation Table: Addressing Acutely Elevated Risk'

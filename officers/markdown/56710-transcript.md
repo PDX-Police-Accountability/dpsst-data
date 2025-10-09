@@ -39,28 +39,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/18/2025 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
-| 9/11/2025 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 9/18/2025 | BPT09104 | Ground Control | Passed | 0.0 | 1.00 |
+| 9/11/2025 | BPT0579B | Striking Defense | Passed | 0.0 | 1.00 |
 | 6/26/2025 | REG2944B | DT | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP1735A | Report Writing and Evidence Processing | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP0055A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
-| 6/25/2025 | SDP1134A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP4509B | Rifle Qualification and Drills | Passed | 0.0 | 2.00 |
 | 6/16/2025 | REG2532B | Ground/Standing Control to Takedown | Passed | 0.0 | 1.00 |
 | 5/23/2025 | REG3184B | Control Tactics | Passed | 0.0 | 1.00 |
 | 5/22/2025 | BPT1796B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/22/2025 | BPT0000B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/22/2025 | BPT0167B | Ground Control | Passed | 0.0 | 1.00 |
 | 5/19/2025 | BPT2658B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/19/2025 | BPT2898B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/19/2025 | BPT1389B | Ground Control | Passed | 0.0 | 1.00 |
 | 5/8/2025 | BPT2589B | Striking, Ground Control | Passed | 0.0 | 1.00 |
-| 5/8/2025 | BPT2704B | Striking, Ground Control | Passed | 0.0 | 1.00 |
-| 5/8/2025 | BPT1494B | Striking, Ground Control | Passed | 0.0 | 1.00 |
 | 5/1/2025 | REG1978B | Striking/Side Control | Passed | 0.0 | 1.00 |
 | 5/1/2025 | BPT0040B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/1/2025 | BPT3197B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/1/2025 | BPT0098B | Ground Control | Passed | 0.0 | 1.00 |
 | 4/16/2025 | SDP1314A | Handgun Qualification | Passed | 0.0 | 2.00 |
 | 4/14/2025 | REG2174B | Strike Defense/Ground Control | Passed | 0.0 | 1.00 |
 | 4/10/2025 | REG0286B | DT | Passed | 0.0 | 1.00 |

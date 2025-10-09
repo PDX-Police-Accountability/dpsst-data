@@ -97,12 +97,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 8/18/2025
+- date: 9/5/2025
   course: M40-21A
   title: DPSST Basic Telecommunicator Course
-  status: Registered
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '116.00'
 - date: 6/26/2025
   course: PMC4477B
   title: OUTEC - Online Universal Telecommunication Ess.

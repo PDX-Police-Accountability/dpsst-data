@@ -69,14 +69,14 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 9/18/2025
-  course: XDELETE5
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: BPT09104
+  title: Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 9/11/2025
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: BPT0579B
+  title: Striking Defense
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -94,12 +94,6 @@ training_records:
   hours: '1.00'
 - date: 6/25/2025
   course: SDP0055A
-  title: Child Abuse MDT Protocols/Karly's Law
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/25/2025
-  course: SDP1134A
   title: Child Abuse MDT Protocols/Karly's Law
   status: Passed
   score: '0.0'
@@ -128,50 +122,14 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/22/2025
-  course: BPT0000B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/22/2025
-  course: BPT0167B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/19/2025
   course: BPT2658B
   title: Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/19/2025
-  course: BPT2898B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/19/2025
-  course: BPT1389B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/8/2025
   course: BPT2589B
-  title: Striking, Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/8/2025
-  course: BPT2704B
-  title: Striking, Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/8/2025
-  course: BPT1494B
   title: Striking, Ground Control
   status: Passed
   score: '0.0'
@@ -184,18 +142,6 @@ training_records:
   hours: '1.00'
 - date: 5/1/2025
   course: BPT0040B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/1/2025
-  course: BPT3197B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/1/2025
-  course: BPT0098B
   title: Ground Control
   status: Passed
   score: '0.0'

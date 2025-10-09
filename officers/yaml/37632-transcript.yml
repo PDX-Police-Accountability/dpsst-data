@@ -4571,17 +4571,17 @@ attribute_records:
   effective_date: 3/23/2010
   expiration_date: ''
 education_records:
-- date: 3/20/1998
-  degree: No Degree
-  school: Southern Oregon State College
-  major: Liberal Arts/distributed Study
-  hours: '111.0'
+- date: 6/12/1999
+  degree: Bachelor Science
+  school: Southern Oregon University
+  major: Criminology
+  hours: '172.0'
 - date: 12/20/1993
   degree: No Degree
   school: All Other Education Institutes
   major: Liberal Arts/distributed Study
-  hours: '4.5'
-- date: 12/20/1991
+  hours: '3.0'
+- date: 12/15/1991
   degree: No Degree
   school: Mt Hood Community College
   major: Liberal Arts/distributed Study

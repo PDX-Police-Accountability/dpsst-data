@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2025
+  course: PDP1806B
+  title: 2025 NTOA SWAT Command Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Leadership 3 Year Maintenance
@@ -141,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/9/2025
+  course: PDP3998B
+  title: 2025 External Training CATO SWAT Commander Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/1/2025
   course: PDP0359B
   title: ORS 181A.440 Airways Part 2
@@ -273,6 +285,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 2/7/2025
+  course: PDP1936B
+  title: 2025 FBI LEEDA Command Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 1/22/2025
   course: PDP3257A
   title: 2025-1 Range Qualification Primary Firearm

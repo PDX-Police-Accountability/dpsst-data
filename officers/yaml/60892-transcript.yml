@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/24/2025
+  agency: Forest Grove Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/26/2023
   agency: Portland Police Bureau
   action: Resigned
@@ -22,6 +28,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/7/2025
+  certificate: Police Officer
+  level: Basic
+  status: App Incmpl
+  certificate_date: ''
+  expiration_date: 3/26/2028
+  probation_date: ''
+- status_date: 9/24/2025
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 3/24/2027
 - status_date: 6/26/2023
   certificate: Police Officer
   level: Basic

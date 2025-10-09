@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/12/2025
+  course: HBN0428B
+  title: ACAP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/6/2025
   course: HBN3101B
   title: Officer Safety and Home Visit Training

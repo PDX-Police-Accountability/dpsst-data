@@ -39,9 +39,9 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 3/20/1998 | No Degree | Southern Oregon State College | Liberal Arts/distributed Study | 111.0 |
-| 12/20/1993 | No Degree | All Other Education Institutes | Liberal Arts/distributed Study | 4.5 |
-| 12/20/1991 | No Degree | Mt Hood Community College | Liberal Arts/distributed Study | 9.0 |
+| 6/12/1999 | Bachelor Science | Southern Oregon University | Criminology | 172.0 |
+| 12/20/1993 | No Degree | All Other Education Institutes | Liberal Arts/distributed Study | 3.0 |
+| 12/15/1991 | No Degree | Mt Hood Community College | Liberal Arts/distributed Study | 9.0 |
 | 6/20/1991 | No Degree | Rogue Community College | Liberal Arts/distributed Study | 6.0 |
 ## Training
 | date | course | title | status | score | hours |

@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2025 | PDS3208B | September Crisis Negotiation Team Training | Instructed | 0.0 | 16.00 |
 | 7/22/2025 | PDS2863B | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/2/2025 | PDS0146A | Sergeant's Training | Passed | 0.0 | 0.50 |

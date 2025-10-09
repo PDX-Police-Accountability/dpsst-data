@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2025 | PDP1806B | 2025 NTOA SWAT Command Decision Making | Passed | 0.0 | 40.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/6/2025 | PDP3392B | 2025 Traffic Monthly Motor Training | Passed | 0.0 | 6.00 |
@@ -52,6 +53,7 @@
 | 5/12/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 5/12/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 5/12/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 5/9/2025 | PDP3998B | 2025 External Training CATO SWAT Commander Course | Passed | 0.0 | 40.00 |
 | 5/1/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 5/1/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 4/30/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
@@ -74,6 +76,7 @@
 | 3/7/2025 | PDP4258A | 2025 Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 3/7/2025 | VND0350A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 2/7/2025 | PDP2962A | FBI-LEEDS Executive Leadership Institute | Passed | 0.0 | 25.00 |
+| 2/7/2025 | PDP1936B | 2025 FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 1/22/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 1/18/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 1/18/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |

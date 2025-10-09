@@ -29,7 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid | 11/14/2024 | 11/14/2026 |
 | Certification Cards | CPR | 11/7/2023 | 11/8/2025 |
@@ -42,9 +42,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/6/2025 | LOP0583B | E-bikes and Devices - ODOT | Passed | 0.0 | 1.00 |
+| 10/1/2025 | LOP1370B | Unconscious Bias | Passed | 0.0 | 0.50 |
+| 10/1/2025 | LOP2324B | Ethics and Code of Conduct | Passed | 0.0 | 1.00 |
+| 10/1/2025 | LOP2866B | Diversity 101 | Passed | 0.0 | 0.75 |
+| 10/1/2025 | LOP2767B | Inclusion in Action | Passed | 0.0 | 1.25 |
+| 10/1/2025 | LOP3443B | Insight to Oregon Government Ethics | Passed | 0.0 | 1.00 |
+| 9/29/2025 | LOP2772B | Airway and Circulatory Crisis | Passed | 0.0 | 2.00 |
 | 6/27/2025 | LOP1929B | EVOC | Passed | 0.0 | 10.00 |
 | 6/16/2025 | LOP1777B | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/12/2025 | LOP2143A | Mindset Matters | Passed | 0.0 | 5.00 |
+| 3/23/2025 | LOP3764B | Serving Protection/Restraining Orders | Passed | 0.0 | 0.50 |
 | 3/6/2025 | LOP2287A | Cooperative and Forcible Removal From Vehicles | Passed | 0.0 | 2.00 |
 | 2/14/2025 | LOP1092A | CCDA DV Investigations Presentation | Passed | 0.0 | 2.00 |
 | 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
@@ -56,6 +65,8 @@
 | 11/14/2024 | LOP2028A | AHA Heartsaver First Aid | Passed | 0.0 | 2.00 |
 | 10/30/2024 | LOP0758A | Taser 10 Certifications | Passed | 0.0 | 8.00 |
 | 10/10/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 10/7/2024 | LOP2780B | HB4002 Update | Passed | 0.0 | 0.50 |
+| 10/5/2024 | LOP1012B | Children in Crisis | Passed | 0.0 | 1.00 |
 | 10/3/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2024 | LOP1989A | Ethics and Code of Conduct: Ethics for Everyone | Passed | 0.0 | 1.00 |
 | 9/30/2024 | LOP0116A | 8 Keys to a More Respectful Workplace 02-09 | Passed | 0.0 | 1.00 |

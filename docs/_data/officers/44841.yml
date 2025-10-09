@@ -50,6 +50,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/6/2025
+  course: LOP0583B
+  title: E-bikes and Devices - ODOT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2025
+  course: LOP1370B
+  title: Unconscious Bias
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/1/2025
+  course: LOP2324B
+  title: Ethics and Code of Conduct
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2025
+  course: LOP2767B
+  title: Inclusion in Action
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/1/2025
+  course: LOP2866B
+  title: Diversity 101
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/1/2025
+  course: LOP3443B
+  title: Insight to Oregon Government Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/29/2025
+  course: LOP2772B
+  title: Airway and Circulatory Crisis
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/24/2025
   course: OCA2972B
   title: MCT - OIS Training
@@ -80,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/23/2025
+  course: LOP3764B
+  title: Serving Protection/Restraining Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/19/2025
   course: OCA3739A
   title: Digital Evidence Training
@@ -284,6 +338,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/31/2024
+  course: LOP1287B
+  title: Child Abuse Investigations/Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/30/2024
   course: LOP1938A
   title: Handgun Optic Transition Course
@@ -3113,8 +3173,8 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

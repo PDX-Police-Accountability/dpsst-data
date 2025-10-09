@@ -42,6 +42,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/27/2025
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/7/2025
+  course: REG1645B
+  title: INTOX 8000 (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/2/2025
   course: PDP0096A
   title: Radar Lidar Operator Course

@@ -37,14 +37,26 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2025 | GSP2244B | SWAT Sniper Range - 25 and 100 Yards Positional | Passed | 0.0 | 10.00 |
+| 9/18/2025 | GSP3147B | Tactical Dilemma Planning, HRT Response | Passed | 0.0 | 10.00 |
+| 9/17/2025 | GSP0258B | Firearms Training - Hostage Rescue and Threat ID | Instructed | 0.0 | 10.00 |
+| 8/22/2025 | GSP2398B | SWAT Sniper Range - 50 Yards Positional | Passed | 0.0 | 10.00 |
+| 8/20/2025 | GSP4457B | Firearms Training | Passed | 0.0 | 10.00 |
 | 7/29/2025 | PDS1207B | Red Dot Firearms | Instructed | 0.0 | 27.00 |
 | 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |
 | 7/25/2025 | GSP4568B | East County Long Range Target Engagement | Passed | 0.0 | 20.00 |
 | 7/23/2025 | PDS1899B | Firearms IDC | Instructed | 0.0 | 4.00 |
 | 7/23/2025 | PDS0318B | Red Dot Firearms | Instructed | 0.0 | 22.00 |
+| 6/19/2025 | GSP0245B | TCCC, Injury Prevention/Care | Passed | 0.0 | 10.00 |
+| 6/18/2025 | GSP1698B | Barricade Resolution, Deliberate Rescue | Passed | 0.0 | 10.00 |
+| 6/17/2025 | GSP2402B | Surrpetitious Movement, K9 Block Search | Passed | 0.0 | 10.00 |
+| 6/16/2025 | GSP1750B | Cautious Clearing, IP Terminology/Communication | Instructed | 0.0 | 10.00 |
 | 5/30/2025 | PDS1585A | Patrol Rifle | Instructed | 0.0 | 24.00 |
 | 5/20/2025 | PDS1349A | Taser 7 IDC | Passed | 0.0 | 8.00 |
 | 5/20/2025 | PDS4193B | Red Dot Firearms | Instructed | 0.0 | 27.00 |
+| 5/16/2025 | GSP2212B | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 5/15/2025 | GSP0795B | Hight Risk K9 Search/UAS Integration | Passed | 0.0 | 10.00 |
+| 5/14/2025 | GSP0269B | Firearms | Passed | 0.0 | 10.00 |
 | 4/30/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
 | 4/29/2025 | PDS0105A | LE Range | Instructed | 0.0 | 2.00 |
 | 4/18/2025 | GSP1958B | SWAT Sniper Range | Passed | 0.0 | 10.00 |

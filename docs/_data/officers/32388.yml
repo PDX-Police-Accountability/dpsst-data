@@ -53,13 +53,37 @@ training_records:
 - date: 9/21/2025
   course: GSP2321B
   title: Rifle In-service Training
-  status: ''
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/19/2025
+  course: GSP2244B
+  title: SWAT Sniper Range - 25 and 100 Yards Positional
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/18/2025
+  course: GSP3147B
+  title: Tactical Dilemma Planning, HRT Response
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/17/2025
+  course: GSP0258B
+  title: Firearms Training - Hostage Rescue and Threat ID
+  status: Passed
   score: '0.0'
   hours: '10.00'
 - date: 9/14/2025
   course: GSP3908B
   title: 2025 Handgun In-Service
-  status: ''
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/22/2025
+  course: GSP2398B
+  title: SWAT Sniper Range - 50 Yards Positional
+  status: Instructed
   score: '0.0'
   hours: '10.00'
 - date: 8/21/2025
@@ -68,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/20/2025
+  course: GSP4457B
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/19/2025
   course: GSP3278B
   title: UAS Training
@@ -89,6 +119,42 @@ training_records:
 - date: 7/9/2025
   course: GSP1195B
   title: PVO In-service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/19/2025
+  course: GSP0245B
+  title: TCCC, Injury Prevention/Care
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/18/2025
+  course: GSP1698B
+  title: Barricade Resolution, Deliberate Rescue
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/17/2025
+  course: GSP2402B
+  title: Surrpetitious Movement, K9 Block Search
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/16/2025
+  course: GSP1750B
+  title: Cautious Clearing, IP Terminology/Communication
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/16/2025
+  course: GSP2212B
+  title: SWAT Sniper Range
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/15/2025
+  course: GSP0795B
+  title: Hight Risk K9 Search/UAS Integration
   status: Passed
   score: '0.0'
   hours: '10.00'

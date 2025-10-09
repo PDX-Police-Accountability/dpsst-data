@@ -24,7 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid | 11/14/2024 | 11/14/2026 |
 | Certification Cards | CPR | 11/8/2023 | 11/8/2025 |
@@ -38,11 +38,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/6/2025 | LOP0583B | E-bikes and Devices - ODOT | Passed | 0.0 | 1.00 |
+| 10/1/2025 | LOP1370B | Unconscious Bias | Passed | 0.0 | 0.50 |
+| 10/1/2025 | LOP2324B | Ethics and Code of Conduct | Passed | 0.0 | 1.00 |
+| 10/1/2025 | LOP2767B | Inclusion in Action | Passed | 0.0 | 1.25 |
+| 10/1/2025 | LOP2866B | Diversity 101 | Passed | 0.0 | 0.75 |
+| 10/1/2025 | LOP3443B | Insight to Oregon Government Ethics | Passed | 0.0 | 1.00 |
+| 9/29/2025 | LOP2772B | Airway and Circulatory Crisis | Passed | 0.0 | 2.00 |
 | 9/24/2025 | OCA2972B | MCT - OIS Training | Passed | 0.0 | 2.50 |
 | 8/27/2025 | OCA2894B | Legislative Update / MCT Meeting | Passed | 0.0 | 1.00 |
 | 6/27/2025 | LOP1929B | EVOC | Passed | 0.0 | 10.00 |
 | 6/26/2025 | OCA4117B | MCT Training - Case Law update / Evidence Proc. | Passed | 0.0 | 1.00 |
 | 6/16/2025 | LOP1777B | Firearms Training | Passed | 0.0 | 4.00 |
+| 3/23/2025 | LOP3764B | Serving Protection/Restraining Orders | Passed | 0.0 | 0.50 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 3/6/2025 | LOP2287A | Cooperative and Forcible Removal From Vehicles | Passed | 0.0 | 2.00 |
 | 3/5/2025 | F1501174 | Donning and Doffing Personal Protec. | Passed | 0.0 | 3.00 |
@@ -77,6 +86,7 @@
 | 8/8/2024 | F1526630 | Introduction to Evidence | Passed | 0.0 | 4.00 |
 | 8/7/2024 | F1516391 | Documenting the Event | Passed | 0.0 | 4.00 |
 | 8/7/2024 | F1529689 | Fire Investigator Scene Safety | Passed | 0.0 | 3.00 |
+| 7/31/2024 | LOP1287B | Child Abuse Investigations/Karly's Law | Passed | 0.0 | 2.00 |
 | 5/30/2024 | LOP1938A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |
 | 3/7/2024 | LOP2975A | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 2/14/2024 | LOP0053A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |

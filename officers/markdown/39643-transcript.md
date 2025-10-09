@@ -35,51 +35,29 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/29/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
-| 9/15/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
-| 8/28/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 9/29/2025 | BPT3067B | Ground Control | Passed | 0.0 | 1.00 |
+| 9/15/2025 | BPT1297B | Ground Control | Passed | 0.0 | 1.00 |
+| 8/28/2025 | BPT1987B | Ground Control | Passed | 0.0 | 1.00 |
 | 7/18/2025 | PDP0071B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 7/18/2025 | PDP1793B | 2025-2 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 7/10/2025 | BPT0014B | Ground Control | Passed | 0.0 | 1.00 |
-| 7/10/2025 | BPT2587B | Ground Control | Passed | 0.0 | 1.00 |
-| 7/10/2025 | BPT4113B | Ground Control | Passed | 0.0 | 1.00 |
 | 6/19/2025 | BPT1997B | Clinch and weapon retention | Passed | 0.0 | 1.00 |
-| 6/19/2025 | BPT2558B | Clinch and weapon retention | Passed | 0.0 | 1.00 |
 | 6/19/2025 | BPT0713B | Control Tactics | Passed | 0.0 | 1.00 |
-| 6/19/2025 | BPT0894B | Control Tactics | Passed | 0.0 | 1.00 |
-| 6/19/2025 | BPT2537B | Control Tactics | Passed | 0.0 | 1.00 |
 | 6/19/2025 | BPT3347B | Clinch and weapon retention | Passed | 0.0 | 1.00 |
 | 6/17/2025 | PDP0812B | 2025-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/17/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/16/2025 | BPT3952B | Control Tactics | Passed | 0.0 | 1.00 |
-| 6/16/2025 | BPT3974B | Control Tactics | Passed | 0.0 | 1.00 |
-| 6/16/2025 | BPT2705B | Control Tactics | Passed | 0.0 | 1.00 |
 | 6/9/2025 | BPT1342B | Guard Retention | Passed | 0.0 | 1.00 |
-| 6/9/2025 | BPT2642B | Guard Retention | Passed | 0.0 | 1.00 |
-| 6/9/2025 | BPT1173B | Guard Retention | Passed | 0.0 | 1.00 |
-| 6/9/2025 | BPT2082B | Guard Retention | Passed | 0.0 | 1.00 |
 | 6/5/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/2/2025 | BPT3861B | Ground Control | Passed | 0.0 | 1.00 |
-| 6/2/2025 | BPT4014B | Ground Control | Passed | 0.0 | 1.00 |
-| 6/2/2025 | BPT2842B | Ground Control | Passed | 0.0 | 1.00 |
 | 5/29/2025 | BPT2778B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/29/2025 | BPT1884B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/29/2025 | BPT0247B | Ground Control | Passed | 0.0 | 1.00 |
 | 5/26/2025 | REG0627B | Control from Guard | Passed | 0.0 | 1.00 |
 | 5/26/2025 | BPT2480B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/26/2025 | BPT2737B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/26/2025 | BPT3615B | Ground Control | Passed | 0.0 | 1.00 |
 | 5/23/2025 | REG3184B | Control Tactics | Passed | 0.0 | 1.00 |
 | 5/22/2025 | BPT1796B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/22/2025 | BPT0000B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/22/2025 | BPT0167B | Ground Control | Passed | 0.0 | 1.00 |
 | 5/19/2025 | REG0769B | Control Tactics | Passed | 0.0 | 1.00 |
 | 5/19/2025 | BPT2658B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/19/2025 | BPT2898B | Ground Control | Passed | 0.0 | 1.00 |
-| 5/19/2025 | BPT1389B | Ground Control | Passed | 0.0 | 1.00 |
 | 5/5/2025 | BPT1194B | Striking, Half guard passing | Passed | 0.0 | 1.00 |
-| 5/5/2025 | BPT2217B | Striking, Half guard passing | Passed | 0.0 | 1.00 |
-| 5/5/2025 | BPT2586B | Striking, Half guard passing | Passed | 0.0 | 1.00 |
 | 4/22/2025 | PDP0241A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/17/2025 | REG1257B | Takedown to Ground Control | Passed | 0.0 | 1.00 |
 | 4/17/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |

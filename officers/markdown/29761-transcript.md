@@ -40,7 +40,7 @@
 | 8/27/2026 | E50-25A | Basic EMD Equivalency APCO or  IAED | Required | 0.0 | 24.00 |
 | 8/27/2026 | M41-15 | DPSST Basic Telecommunications FTM | Required | 0.0 | 50.00 |
 | 8/27/2026 | M51-16 | DPSST EMD Field Training Manual | Required | 0.0 | 50.00 |
-| 8/18/2025 | M40-21A | DPSST Basic Telecommunicator Course | Registered | 0.0 | 0.00 |
+| 9/5/2025 | M40-21A | DPSST Basic Telecommunicator Course | Passed | 0.0 | 116.00 |
 | 6/26/2025 | PMC4477B | OUTEC - Online Universal Telecommunication Ess. | Passed | 0.0 | 3.00 |
 | 4/8/2025 | PMC1308A | Spring 2025 Inservice | Passed | 0.0 | 7.00 |
 | 4/8/2025 | PMC0474A | Spring 2025 Inservice ProQA EMD | Passed | 0.0 | 1.00 |

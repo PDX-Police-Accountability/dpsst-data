@@ -35,13 +35,24 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/21/2025 | GSP2321B | Rifle In-service Training |  | 0.0 | 10.00 |
-| 9/14/2025 | GSP3908B | 2025 Handgun In-Service |  | 0.0 | 10.00 |
+| 9/21/2025 | GSP2321B | Rifle In-service Training | Passed | 0.0 | 10.00 |
+| 9/19/2025 | GSP2244B | SWAT Sniper Range - 25 and 100 Yards Positional | Instructed | 0.0 | 10.00 |
+| 9/18/2025 | GSP3147B | Tactical Dilemma Planning, HRT Response | Passed | 0.0 | 10.00 |
+| 9/17/2025 | GSP0258B | Firearms Training - Hostage Rescue and Threat ID | Passed | 0.0 | 10.00 |
+| 9/14/2025 | GSP3908B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
+| 8/22/2025 | GSP2398B | SWAT Sniper Range - 50 Yards Positional | Instructed | 0.0 | 10.00 |
 | 8/21/2025 | PDP3644B | 2025 Medium Distance Use of Force Decision Making | Passed | 0.0 | 9.00 |
+| 8/20/2025 | GSP4457B | Firearms Training | Passed | 0.0 | 10.00 |
 | 8/19/2025 | GSP3278B | UAS Training | Passed | 0.0 | 10.00 |
 | 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |
 | 7/25/2025 | GSP4568B | East County Long Range Target Engagement | Passed | 0.0 | 20.00 |
 | 7/9/2025 | GSP1195B | PVO In-service | Passed | 0.0 | 10.00 |
+| 6/19/2025 | GSP0245B | TCCC, Injury Prevention/Care | Passed | 0.0 | 10.00 |
+| 6/18/2025 | GSP1698B | Barricade Resolution, Deliberate Rescue | Instructed | 0.0 | 10.00 |
+| 6/17/2025 | GSP2402B | Surrpetitious Movement, K9 Block Search | Passed | 0.0 | 10.00 |
+| 6/16/2025 | GSP1750B | Cautious Clearing, IP Terminology/Communication | Instructed | 0.0 | 10.00 |
+| 5/16/2025 | GSP2212B | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
+| 5/15/2025 | GSP0795B | Hight Risk K9 Search/UAS Integration | Passed | 0.0 | 10.00 |
 | 4/17/2025 | GSP2415B | Practical Scenarios, New Equipment Familiarization | Passed | 0.0 | 10.00 |
 | 4/16/2025 | GSP1366B | SWAT Firearms Range | Instructed | 0.0 | 10.00 |
 | 3/21/2025 | GSP0066A | SWAT Sniper Range | Instructed | 0.0 | 10.00 |

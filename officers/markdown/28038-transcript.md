@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/18/2025 | 9/18/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 12/21/2010 |  |
@@ -39,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | PDS1409B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 9/18/2025 | PDS1957B | Taser 7 | Passed | 0.0 | 4.00 |
+| 9/18/2025 | PDS2676B | VR ConSim | Passed | 0.0 | 2.00 |
 | 6/28/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 6/24/2025 | PDS0859B | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 6/24/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |

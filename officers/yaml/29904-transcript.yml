@@ -48,6 +48,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2025
+  course: GSP0245B
+  title: TCCC, Injury Prevention/Care
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/18/2025
+  course: GSP1698B
+  title: Barricade Resolution, Deliberate Rescue
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/17/2025
+  course: GSP2402B
+  title: Surrpetitious Movement, K9 Block Search
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/16/2025
+  course: GSP1750B
+  title: Cautious Clearing, IP Terminology/Communication
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/5/2025
   course: PDS4500A
   title: NIC Leadership Training

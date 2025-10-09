@@ -35,6 +35,31 @@
 | 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
 | 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 9/26/2025 | HBS2212B | Recruit-Diversity, Equity  Inclusion | Passed | 0.0 | 0.50 |
+| 9/26/2025 | HBS1785B | Recruit-Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 9/26/2025 | HBS2170B | Recruit-CPR/First Aid/AED | Passed | 0.0 | 6.00 |
+| 9/25/2025 | HBS0855B | Recruit-CALEA, OJS  Policies | Passed | 0.0 | 0.50 |
+| 9/25/2025 | HBS2731B | Recruit-Consular Notification | Passed | 0.0 | 0.25 |
+| 9/25/2025 | HBS3203B | Recruit-Emotional Survival | Passed | 0.0 | 2.00 |
+| 9/25/2025 | HBS0976B | Recruit-Equipment Issue/Fuel Test | Passed | 0.0 | 1.50 |
+| 9/25/2025 | HBS2244B | Recruit-ACAP Video | Passed | 0.0 | 2.00 |
+| 9/25/2025 | HBS2211B | Recruit-Officer of the Court | Passed | 0.0 | 1.00 |
+| 9/24/2025 | HBS0988B | Recruit-Cell Phones | Passed | 0.0 | 0.25 |
+| 9/24/2025 | HBS1621B | Recruit-Intro to County Computers | Passed | 0.0 | 4.00 |
+| 9/24/2025 | HBS2368B | Recruit-WISARD/Timesheet Training | Passed | 0.0 | 1.00 |
+| 9/24/2025 | HBS4065B | Recruit-Tuberculosis/Test | Passed | 0.0 | 0.25 |
+| 9/24/2025 | HBS1777B | Recruit-WCPOA | Passed | 0.0 | 1.00 |
+| 9/24/2025 | HBS4017B | Recruit-Intro to LE  Social Media | Passed | 0.0 | 1.50 |
+| 9/23/2025 | HBS0022B | Recruit-Fire Extinguisher | Passed | 0.0 | 0.50 |
+| 9/23/2025 | HBS4130B | Recruit-Hazard Communication Safety | Passed | 0.0 | 0.50 |
+| 9/23/2025 | HBS4510B | Recruit-Civility  Harassment | Passed | 0.0 | 1.00 |
+| 9/23/2025 | HBS2157B | Recruit-Human Resource Benefits | Passed | 0.0 | 1.50 |
+| 9/23/2025 | HBS2541B | Recruit-New Hire Orientation | Passed | 0.0 | 1.00 |
+| 9/23/2025 | HBS4031B | Recruit-SO Benefit Orientation/FMLA | Passed | 0.0 | 4.00 |
+| 9/22/2025 | HBS4205B | Recruit-Amber Alert | Passed | 0.0 | 1.50 |
+| 9/22/2025 | HBS4257B | Recruit-PREA  ADA | Passed | 0.0 | 2.00 |
+| 9/22/2025 | HBS3101B | Recruit-Sheriff's Welcome | Passed | 0.0 | 3.00 |
+| 9/22/2025 | HBS1688B | Recruit-Welcome  Recruit Expectations | Passed | 0.0 | 1.00 |
 | 11/29/2020 | PDP26575 | IS-240 Leadership and Influence (IS-00240.b) | Passed | 0.0 | 3.00 |
 | 9/29/2020 | PDP37563 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |
 | 9/29/2020 | PDP19551 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |

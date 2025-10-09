@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2025 | BVP1519B | Pistol Mounted Optics Course | Passed | 0.0 | 12.00 |
 | 9/18/2025 | BVP2426B | Control Tactics IST 091825 AM | Passed | 0.0 | 3.00 |
 | 6/26/2025 | BVP2190B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/28/2025 | BVP4365A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |

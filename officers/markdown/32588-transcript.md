@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/11/2025 | Gresham Police Department | Promotion | Captain |  |  |
 | 1/2/2024 | Gresham Police Department | Hired | Lieutenant |  |  |
 | 12/21/2023 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/24/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -41,6 +42,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/9/2025 | GSP0033B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
 | 8/5/2025 | GSP3819B | PVO In-service | Passed | 0.0 | 10.00 |
+| 6/19/2025 | GSP0245B | TCCC, Injury Prevention/Care | Passed | 0.0 | 10.00 |
+| 6/18/2025 | GSP1698B | Barricade Resolution, Deliberate Rescue | Instructed | 0.0 | 10.00 |
+| 6/17/2025 | GSP2402B | Surrpetitious Movement, K9 Block Search | Passed | 0.0 | 10.00 |
+| 6/16/2025 | GSP1750B | Cautious Clearing, IP Terminology/Communication | Passed | 0.0 | 10.00 |
 | 4/17/2025 | GSP2415B | Practical Scenarios, New Equipment Familiarization | Passed | 0.0 | 10.00 |
 | 1/29/2025 | GSP3595A | Deciding to diversify your workforce | Passed | 0.0 | 2.00 |
 | 1/9/2025 | OAC2452A | Crisis Leadership Navigating HighStakes Situation | Passed | 0.0 | 3.50 |

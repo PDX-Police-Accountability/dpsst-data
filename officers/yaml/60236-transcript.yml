@@ -54,6 +54,156 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 9/26/2025
+  course: HBS2212B
+  title: Recruit-Diversity, Equity  Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/26/2025
+  course: HBS1785B
+  title: Recruit-Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/26/2025
+  course: HBS2170B
+  title: Recruit-CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/25/2025
+  course: HBS0855B
+  title: Recruit-CALEA, OJS  Policies
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/25/2025
+  course: HBS2731B
+  title: Recruit-Consular Notification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/25/2025
+  course: HBS3203B
+  title: Recruit-Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/25/2025
+  course: HBS0976B
+  title: Recruit-Equipment Issue/Fuel Test
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/25/2025
+  course: HBS2244B
+  title: Recruit-ACAP Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/25/2025
+  course: HBS2211B
+  title: Recruit-Officer of the Court
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/24/2025
+  course: HBS0988B
+  title: Recruit-Cell Phones
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/24/2025
+  course: HBS1621B
+  title: Recruit-Intro to County Computers
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/24/2025
+  course: HBS2368B
+  title: Recruit-WISARD/Timesheet Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/24/2025
+  course: HBS4065B
+  title: Recruit-Tuberculosis/Test
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/24/2025
+  course: HBS1777B
+  title: Recruit-WCPOA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/24/2025
+  course: HBS4017B
+  title: Recruit-Intro to LE  Social Media
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/23/2025
+  course: HBS0022B
+  title: Recruit-Fire Extinguisher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/23/2025
+  course: HBS4130B
+  title: Recruit-Hazard Communication Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/23/2025
+  course: HBS4510B
+  title: Recruit-Civility  Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2025
+  course: HBS2157B
+  title: Recruit-Human Resource Benefits
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/23/2025
+  course: HBS2541B
+  title: Recruit-New Hire Orientation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2025
+  course: HBS4031B
+  title: Recruit-SO Benefit Orientation/FMLA
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/22/2025
+  course: HBS4205B
+  title: Recruit-Amber Alert
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/22/2025
+  course: HBS4257B
+  title: Recruit-PREA  ADA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/22/2025
+  course: HBS3101B
+  title: Recruit-Sheriff's Welcome
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/22/2025
+  course: HBS1688B
+  title: Recruit-Welcome  Recruit Expectations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/29/2020
   course: PDP26575
   title: IS-240 Leadership and Influence (IS-00240.b)

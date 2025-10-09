@@ -45,20 +45,20 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 9/29/2025
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: BPT3067B
+  title: Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 9/15/2025
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: BPT1297B
+  title: Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 8/28/2025
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: BPT1987B
+  title: Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -80,18 +80,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 7/10/2025
-  course: BPT2587B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 7/10/2025
-  course: BPT4113B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 6/19/2025
   course: BPT1997B
   title: Clinch and weapon retention
@@ -99,25 +87,7 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 6/19/2025
-  course: BPT2558B
-  title: Clinch and weapon retention
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/19/2025
   course: BPT0713B
-  title: Control Tactics
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/19/2025
-  course: BPT0894B
-  title: Control Tactics
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/19/2025
-  course: BPT2537B
   title: Control Tactics
   status: Passed
   score: '0.0'
@@ -146,38 +116,8 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 6/16/2025
-  course: BPT3974B
-  title: Control Tactics
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/16/2025
-  course: BPT2705B
-  title: Control Tactics
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 6/9/2025
   course: BPT1342B
-  title: Guard Retention
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/9/2025
-  course: BPT2642B
-  title: Guard Retention
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/9/2025
-  course: BPT1173B
-  title: Guard Retention
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/9/2025
-  course: BPT2082B
   title: Guard Retention
   status: Passed
   score: '0.0'
@@ -194,32 +134,8 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 6/2/2025
-  course: BPT4014B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/2/2025
-  course: BPT2842B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/29/2025
   course: BPT2778B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/29/2025
-  course: BPT1884B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/29/2025
-  course: BPT0247B
   title: Ground Control
   status: Passed
   score: '0.0'
@@ -236,18 +152,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/26/2025
-  course: BPT2737B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/26/2025
-  course: BPT3615B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/23/2025
   course: REG3184B
   title: Control Tactics
@@ -256,18 +160,6 @@ training_records:
   hours: '1.00'
 - date: 5/22/2025
   course: BPT1796B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/22/2025
-  course: BPT0000B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/22/2025
-  course: BPT0167B
   title: Ground Control
   status: Passed
   score: '0.0'
@@ -284,32 +176,8 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/19/2025
-  course: BPT2898B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/19/2025
-  course: BPT1389B
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/5/2025
   course: BPT1194B
-  title: Striking, Half guard passing
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/5/2025
-  course: BPT2217B
-  title: Striking, Half guard passing
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/5/2025
-  course: BPT2586B
   title: Striking, Half guard passing
   status: Passed
   score: '0.0'

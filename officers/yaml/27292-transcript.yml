@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2025
+  course: PDS3208B
+  title: September Crisis Negotiation Team Training
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/22/2025
   course: PDS2863B
   title: Crisis Negotiation Team Training

@@ -12,11 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/24/2025 | Forest Grove Police Department | Hired | Police Off |  |  |
 | 3/26/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/26/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 10/7/2025 | Police Officer | Basic | App Incmpl |  | 3/26/2028 |  |
+| 9/24/2025 | Police Officer | Basic | Required |  |  | 3/24/2027 |
 | 6/26/2023 | Police Officer | Basic | Lapsed | 7/21/2021 | 3/26/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

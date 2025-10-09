@@ -40,7 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/7/2025 | GSP2644B | 2025 Handgun In-service |  | 0.0 | 10.00 |
+| 9/7/2025 | GSP2644B | 2025 Handgun In-service | Passed | 0.0 | 10.00 |
 | 9/3/2025 | GSP3969B | Handgun / Rifle Instructor Training | Passed | 0.0 | 20.00 |
 | 7/2/2025 | GSP1219B | PVO In-service | Passed | 0.0 | 10.00 |
 | 6/20/2025 | GSP2627B | Firearms - Post Academy | Instructed | 0.0 | 10.00 |

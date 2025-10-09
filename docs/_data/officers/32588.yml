@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/11/2025
+  agency: Gresham Police Department
+  action: Promotion
+  rank: Captain
+  classification: ''
+  assignment: ''
 - date: 1/2/2024
   agency: Gresham Police Department
   action: Hired
@@ -84,6 +90,30 @@ training_records:
 - date: 8/5/2025
   course: GSP3819B
   title: PVO In-service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/19/2025
+  course: GSP0245B
+  title: TCCC, Injury Prevention/Care
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/18/2025
+  course: GSP1698B
+  title: Barricade Resolution, Deliberate Rescue
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/17/2025
+  course: GSP2402B
+  title: Surrpetitious Movement, K9 Block Search
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/16/2025
+  course: GSP1750B
+  title: Cautious Clearing, IP Terminology/Communication
   status: Passed
   score: '0.0'
   hours: '10.00'

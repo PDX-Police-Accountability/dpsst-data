@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/18/2025
+  course: GSP1698B
+  title: Barricade Resolution, Deliberate Rescue
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/16/2025
   course: GSP2986B
   title: PVO In-service

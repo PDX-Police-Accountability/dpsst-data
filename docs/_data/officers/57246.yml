@@ -50,18 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 2/19/2027
-  course: REQAPP
-  title: 'REQUIRED TRAINING: Armed Parole and Probation'
-  status: Required
+- date: 10/7/2025
+  course: MISCMAIN
+  title: 2025 LE Basic 3-Year Maintenance
+  status: Completed
   score: '0.0'
   hours: '0.00'
-- date: 9/15/2025
+- date: 9/26/2025
   course: M32-20A
   title: Armed Parole and Probation Course
-  status: Registered
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '80.00'
 - date: 8/15/2025
   course: HBN0707B
   title: DTs/Use of Force/Decision Making
@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/20/2025
+  course: HBN0428B
+  title: ACAP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/12/2025
   course: HBN3101B
   title: Officer Safety and Home Visit Training
@@ -1083,6 +1089,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/5/2025
@@ -1090,10 +1100,6 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed

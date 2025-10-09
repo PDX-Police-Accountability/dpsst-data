@@ -44,6 +44,7 @@
 | 8/6/2025 | HBN0707B | DTs/Use of Force/Decision Making | Passed | 0.0 | 8.00 |
 | 8/4/2025 | TRN4334B | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 6/23/2025 | VND1208A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
+| 6/12/2025 | HBN0428B | ACAP Training | Passed | 0.0 | 2.00 |
 | 6/6/2025 | HBN3101B | Officer Safety and Home Visit Training | Passed | 0.0 | 7.00 |
 | 5/20/2025 | HBN1663B | Defensive Tactics-Striking Techniques | Passed | 0.0 | 1.00 |
 | 5/9/2025 | HBN3686A | Adult and Pediatric First Aid/CPR | Passed | 0.0 | 6.00 |

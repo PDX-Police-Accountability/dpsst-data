@@ -33,6 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2025 | GSP0245B | TCCC, Injury Prevention/Care | Passed | 0.0 | 10.00 |
+| 6/18/2025 | GSP1698B | Barricade Resolution, Deliberate Rescue | Passed | 0.0 | 10.00 |
+| 6/17/2025 | GSP2402B | Surrpetitious Movement, K9 Block Search | Passed | 0.0 | 10.00 |
+| 6/16/2025 | GSP1750B | Cautious Clearing, IP Terminology/Communication | Passed | 0.0 | 10.00 |
 | 6/5/2025 | PDS4500A | NIC Leadership Training | Passed | 0.0 | 8.00 |
 | 4/10/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 3/26/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
