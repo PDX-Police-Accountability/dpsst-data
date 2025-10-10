@@ -34,6 +34,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/11/2025 | PDP0143B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 9/10/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 9/10/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 9/10/2025 | PDP1223B | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/9/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 9/9/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
+| 9/9/2025 | PDP0289B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 9/9/2025 | PDP1550B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 9/9/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/8/2025 | PDP1906B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 9/8/2025 | PDP1689B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 9/8/2025 | PDP0806B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 9/8/2025 | PDP2960B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 9/8/2025 | PDP0049B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 6/25/2024 | PDP3372A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/25/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |

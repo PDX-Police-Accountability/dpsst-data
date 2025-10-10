@@ -35,7 +35,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 7/23/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/2/2025 | PDP1653A | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 7/1/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
+| 7/1/2025 | PDP0289B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 7/1/2025 | PDP1550B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 7/1/2025 | PDP1906B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 7/1/2025 | PDP0049B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 7/1/2025 | PDP1689B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 7/1/2025 | PDP2960B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 7/1/2025 | PDP0806B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 6/30/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 6/30/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 6/30/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |

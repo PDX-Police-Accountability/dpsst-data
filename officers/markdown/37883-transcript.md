@@ -37,13 +37,16 @@
 | 9/17/2025 | PDP3643B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 9/16/2025 | PDP4523B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 9/15/2025 | PDP2127B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |
+| 8/25/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/23/2025 | PDP0812B | 2025-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/23/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/23/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 7/21/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/20/2025 | PDP3845B | 2025 Dialogue Training Class | Passed | 0.0 | 36.00 |
 | 7/2/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 7/2/2025 | PDP1793B | 2025-2 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
+| 7/1/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 5/14/2025 | PDP2442B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 5/10/2025 | PDP0279B | Red Door Project The Evolve Mindset Workshop | Passed | 0.0 | 12.00 |
 | 5/7/2025 | PDP2705A | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |

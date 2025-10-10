@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2025
+  course: PDS4356B
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/2/2025
+  course: PDS4233B
+  title: VR ConSim
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/19/2025
   course: GSP2244B
   title: SWAT Sniper Range - 25 and 100 Yards Positional
@@ -75,6 +87,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 8/26/2025
+  course: PDS4218B
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/25/2025
+  course: PDS4218B
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/22/2025
   course: GSP2398B
   title: SWAT Sniper Range - 50 Yards Positional
@@ -87,6 +111,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 8/14/2025
+  course: PDS4218B
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/7/2025
+  course: PDS4218B
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/4/2025
+  course: PDS4218B
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/29/2025
   course: PDS1207B
   title: Red Dot Firearms
@@ -3302,6 +3344,10 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/2/2025
+  expiration_date: 10/2/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

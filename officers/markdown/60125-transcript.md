@@ -42,6 +42,7 @@
 | 9/20/2025 | PDS3802B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 9/20/2025 | PDS2932B | Taser 7 | Passed | 0.0 | 4.00 |
 | 9/20/2025 | PDS0433B | VR ConSim | Passed | 0.0 | 2.00 |
+| 8/25/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/30/2025 | PDS1585A | Patrol Rifle | Passed | 0.0 | 24.00 |
 | 4/30/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |

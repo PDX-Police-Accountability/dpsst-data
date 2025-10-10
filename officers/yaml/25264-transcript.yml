@@ -68,6 +68,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2025
+  course: PDS4481B
+  title: VR ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2025
+  course: PDS3178B
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/28/2025
+  course: PDS0083B
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/28/2025
+  course: PDS4042B
+  title: VR ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/22/2025
+  course: PDS4078B
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/22/2025
+  course: PDS0344B
+  title: VR ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/11/2025
   course: PDS4427B
   title: Taser 7
@@ -78,6 +114,30 @@ training_records:
   course: PDS3941B
   title: VR ConSim
   status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/26/2025
+  course: PDS4218B
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/25/2025
+  course: PDS4218B
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/19/2025
+  course: PDS4218B
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/18/2025
+  course: PDS4218B
+  title: Firearms
+  status: Instructed
   score: '0.0'
   hours: '2.00'
 - date: 7/23/2025

@@ -38,6 +38,8 @@
 | 8/21/2025 | PDP3359B | 2025 Tactical Emergency Casualty Care (TECC) | Passed | 0.0 | 9.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/6/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 7/31/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/26/2025 | PDP0676B | 2025 Advanced Shotgun Operator In-Service | Passed | 0.0 | 5.00 |
 | 7/26/2025 | PDP0524B | 2025-2 Range Qualification Shotgun | Passed | 0.0 | 0.50 |
 | 7/26/2025 | PDP3288B | 2025-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.50 |

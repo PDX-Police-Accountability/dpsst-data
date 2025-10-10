@@ -39,11 +39,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
 | 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Instructed | 0.0 | 50.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/13/2025 | PDP0697B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 8/13/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | PDP3590B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/22/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/17/2025 | PDP1138B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/17/2025 | PDP1138B | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 7/15/2025 | PDP0812B | 2025-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |

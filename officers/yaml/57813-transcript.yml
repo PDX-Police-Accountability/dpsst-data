@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2025
+  course: PDP1047B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/23/2025
   course: PDP3355B
   title: 2025 AR-15 Patrol Rifle New Operators Course
@@ -50,6 +56,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/28/2025
+  course: PDP1832B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/24/2025
   course: PDP0676B
   title: 2025 Advanced Shotgun Operator In-Service
@@ -65,6 +77,12 @@ training_records:
 - date: 7/24/2025
   course: PDP3288B
   title: 2025-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/21/2025
+  course: PDP0762B
+  title: 2025 Disability Series Intellectual  Develop
   status: Passed
   score: '0.0'
   hours: '0.50'

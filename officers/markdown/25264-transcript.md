@@ -37,8 +37,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2025 | PDS4481B | VR ConSim | Instructed | 0.0 | 2.00 |
+| 9/30/2025 | PDS3178B | Taser 7 | Instructed | 0.0 | 4.00 |
+| 9/28/2025 | PDS0083B | Taser 7 | Instructed | 0.0 | 4.00 |
+| 9/28/2025 | PDS4042B | VR ConSim | Instructed | 0.0 | 2.00 |
+| 9/22/2025 | PDS4078B | Taser 7 | Instructed | 0.0 | 4.00 |
+| 9/22/2025 | PDS0344B | VR ConSim | Instructed | 0.0 | 2.00 |
 | 9/11/2025 | PDS4427B | Taser 7 | Instructed | 0.0 | 4.00 |
 | 9/11/2025 | PDS3941B | VR ConSim | Passed | 0.0 | 2.00 |
+| 8/26/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
+| 8/25/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
+| 8/19/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
+| 8/18/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 7/23/2025 | PDS0318B | Red Dot Firearms | Instructed | 0.0 | 22.00 |
 | 7/23/2025 | PDS1899B | Firearms IDC | Passed | 0.0 | 4.00 |
 | 7/9/2025 | PDS1966B | Communications | Instructed | 0.0 | 3.50 |

@@ -50,6 +50,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/3/2025
+  course: UPR4128B
+  title: Community Engagement Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/3/2025
+  course: UPR0625B
+  title: Case Law/Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/3/2025
+  course: UPR4438B
+  title: Sabre Red OC Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/2/2025
+  course: UPR0525B
+  title: Krav Maga Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/2/2025
+  course: UPR3341B
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/2/2025
+  course: UPR1674B
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2025
+  course: UPR0950B
+  title: ALERT Level 1 Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/29/2025
+  course: UPR4020B
+  title: Taser 10 Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/8/2025
   course: APD3133A
   title: Railsafe, Intel and Response to Rail Incidents

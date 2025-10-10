@@ -30,6 +30,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '54.00'
+- date: 8/4/2025
+  course: PDP0289B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/29/2025
+  course: PDP1832B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/12/2025
+  course: PDP1906B
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/3/2025
+  course: PDP0806B
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/24/2025
   course: PDP2059B
   title: ORS 181A.440 Airways Part 3

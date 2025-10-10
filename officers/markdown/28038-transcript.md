@@ -43,6 +43,7 @@
 | 9/18/2025 | PDS1409B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 9/18/2025 | PDS1957B | Taser 7 | Passed | 0.0 | 4.00 |
 | 9/18/2025 | PDS2676B | VR ConSim | Passed | 0.0 | 2.00 |
+| 8/19/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |
 | 6/28/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 6/24/2025 | PDS0859B | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 6/24/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |

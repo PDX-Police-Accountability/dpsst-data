@@ -29,9 +29,33 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 9/12/2025
+  course: PDS0655B
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/12/2025
+  course: PDS0967B
+  title: Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/12/2025
+  course: PDS1000B
+  title: VR ConSim
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/10/2025
   course: PDS1283B
   title: Monthly Reserve Unit Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/18/2025
+  course: PDS4218B
+  title: Firearms
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -1121,5 +1145,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '280.00'
-attribute_records: []
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 9/12/2025
+  expiration_date: 9/12/2027
 education_records: []

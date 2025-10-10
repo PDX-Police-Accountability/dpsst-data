@@ -41,15 +41,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/25/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 9/25/2025 | OAC2191B | Systematizing Security In Schools | Passed | 0.0 | 2.00 |
 | 9/25/2025 | OAC2679B | Choosing to Serve Report | Passed | 0.0 | 1.00 |
 | 9/24/2025 | OAC2564B | Situation Table: Addressing Acutely Elevated Risk | Passed | 0.0 | 2.00 |
 | 9/24/2025 | OAC1371B | Defining Leadership Qualities  Styles | Passed | 0.0 | 2.00 |
 | 9/24/2025 | OAC3645B | Justice Delayed:  Chief Ralph | Passed | 0.0 | 1.00 |
+| 8/17/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/30/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/21/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/20/2025 | PDP3845B | 2025 Dialogue Training Class | Instructed | 0.0 | 36.00 |
+| 7/3/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 5/12/2025 | PDP1023B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/9/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 5/7/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |

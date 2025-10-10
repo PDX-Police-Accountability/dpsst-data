@@ -36,6 +36,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2025 | OCP0592B | GRIN-Group Crisis-Assisting Individuals | Passed | 0.0 | 27.00 |
+| 8/21/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 8/7/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 7/18/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 7/17/2025 | PDP0071B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 7/17/2025 | PDP1793B | 2025-2 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 7/16/2025 | PDP0812B | 2025-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |

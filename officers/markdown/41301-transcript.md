@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 8/13/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/16/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/10/2025 | HDA1149B | ONEA/Keynote "Shots Fired" | Passed | 0.0 | 4.00 |
 | 7/10/2025 | PDP4454B | 2025 ONEA Training Institute | Passed | 0.0 | 25.00 |

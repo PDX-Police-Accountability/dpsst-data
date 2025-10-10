@@ -21,13 +21,18 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/12/2025 | 9/12/2027 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2025 | PDS0655B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 9/12/2025 | PDS0967B | Taser 7 | Passed | 0.0 | 4.00 |
+| 9/12/2025 | PDS1000B | VR ConSim | Passed | 0.0 | 2.00 |
 | 9/10/2025 | PDS1283B | Monthly Reserve Unit Training | Passed | 0.0 | 2.00 |
+| 8/18/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |
 | 4/27/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 4/14/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 2/24/2025 | PDS3595A | Range | Passed | 0.0 | 2.00 |

@@ -37,6 +37,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
 | 8/13/2025 | PDP0697B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 8/12/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 8/12/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | PDP3590B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/24/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

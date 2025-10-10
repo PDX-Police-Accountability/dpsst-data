@@ -37,7 +37,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/25/2025 | PDP3204B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 14.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 8/4/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/23/2025 | PDP1064B | OSP DNA Training | Passed | 0.0 | 2.50 |
+| 7/21/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 6/3/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |
 | 6/3/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |

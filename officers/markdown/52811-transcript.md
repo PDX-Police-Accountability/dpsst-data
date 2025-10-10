@@ -26,6 +26,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
+| Certification Cards | First Aid and CPR | 10/2/2025 | 10/2/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
@@ -37,11 +38,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2025 | PDS4356B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 10/2/2025 | PDS4233B | VR ConSim | Passed | 0.0 | 2.00 |
 | 9/19/2025 | GSP2244B | SWAT Sniper Range - 25 and 100 Yards Positional | Passed | 0.0 | 10.00 |
 | 9/18/2025 | GSP3147B | Tactical Dilemma Planning, HRT Response | Passed | 0.0 | 10.00 |
 | 9/17/2025 | GSP0258B | Firearms Training - Hostage Rescue and Threat ID | Instructed | 0.0 | 10.00 |
+| 8/26/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
+| 8/25/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 8/22/2025 | GSP2398B | SWAT Sniper Range - 50 Yards Positional | Passed | 0.0 | 10.00 |
 | 8/20/2025 | GSP4457B | Firearms Training | Passed | 0.0 | 10.00 |
+| 8/14/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
+| 8/7/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
+| 8/4/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 7/29/2025 | PDS1207B | Red Dot Firearms | Instructed | 0.0 | 27.00 |
 | 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |
 | 7/25/2025 | GSP4568B | East County Long Range Target Engagement | Passed | 0.0 | 20.00 |

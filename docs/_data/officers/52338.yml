@@ -63,12 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2025
+  course: PDP1047B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/19/2025
   course: PDP0272B
   title: 2025 Rapid Response Team (RRT) Grenadier Cadre
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 8/8/2025
+  course: PDP0762B
+  title: 2025 Disability Series Intellectual  Develop
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/8/2025
+  course: PDP1832B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

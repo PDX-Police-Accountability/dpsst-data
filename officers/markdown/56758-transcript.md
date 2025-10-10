@@ -39,6 +39,8 @@
 | 9/19/2025 | PDP0272B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Instructed | 0.0 | 5.00 |
 | 8/25/2025 | PDP3204B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 14.00 |
 | 8/25/2025 | PDP3204B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Instructed | 0.0 | 14.00 |
+| 8/18/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 8/18/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/20/2025 | PDP3845B | 2025 Dialogue Training Class | Instructed | 0.0 | 36.00 |
 | 7/20/2025 | PDP3845B | 2025 Dialogue Training Class | Passed | 0.0 | 36.00 |

@@ -31,6 +31,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/29/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 7/29/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 7/2/2025 | REG0180B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 7/2/2025 | REG2290B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |

@@ -41,7 +41,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/19/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/5/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/22/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 7/22/2025 | PDP0289B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 7/22/2025 | PDP1906B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 7/22/2025 | PDP0049B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 7/22/2025 | PDP1689B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 7/22/2025 | PDP2960B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 7/22/2025 | PDP0806B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 6/17/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/25/2025 | PDP0637A | 2025 PPB Honor Guard In-Service | Passed | 0.0 | 10.00 |
 | 4/22/2025 | PDP0241A | CPR/First Aid | Passed | 0.0 | 1.75 |

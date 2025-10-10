@@ -43,7 +43,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/3/2025 | PDP4432B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 9/3/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 9/3/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
+| 9/3/2025 | PDP0289B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 9/3/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 9/3/2025 | PDP1550B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 9/3/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 9/3/2025 | PDP1906B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 9/3/2025 | PDP0049B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 9/3/2025 | PDP1689B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 9/3/2025 | PDP2960B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 9/3/2025 | PDP0806B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 4/30/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/28/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 3/28/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

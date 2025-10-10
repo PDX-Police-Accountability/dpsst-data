@@ -29,9 +29,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/30/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/30/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 9/30/2025 | PDP1223B | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/25/2025 | PDP1557B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 9/24/2025 | PDP4559B | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 9/22/2025 | PDP1502B | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
 | 8/27/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
+| 8/27/2025 | REG1368B | SFST-DID (Hours included in BASIC) | Passed | 0.0 | 0.00 |
 | 8/7/2025 | REG1645B | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/25/2025 | PDP1759A | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/19/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

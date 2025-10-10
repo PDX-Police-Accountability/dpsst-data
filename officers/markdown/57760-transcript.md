@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 9/22/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 9/18/2025 | PDP2622B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 4.00 |
 | 9/17/2025 | PDP3643B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 9/16/2025 | PDP4523B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

@@ -48,6 +48,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2025
+  course: PDS4356B
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/2/2025
+  course: PDS0716B
+  title: Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/7/2025
+  course: PDS4218B
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/19/2025
   course: GSP0245B
   title: TCCC, Injury Prevention/Care
@@ -4753,6 +4771,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/2/2025
+  expiration_date: 10/2/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

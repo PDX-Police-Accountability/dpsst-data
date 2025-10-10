@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/27/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
+| 8/27/2025 | REG1368B | SFST-DID (Hours included in BASIC) | Passed | 0.0 | 0.00 |
 | 8/7/2025 | REG1645B | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 7/2/2025 | REG0180B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |

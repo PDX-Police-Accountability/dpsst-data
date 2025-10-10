@@ -30,6 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/30/2025
+  course: PDP1047B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/10/2025
+  course: PDP0762B
+  title: 2025 Disability Series Intellectual  Develop
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/10/2025
+  course: PDP1832B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/29/2025
   course: PDP0323B
   title: 2023-11 CAO Legal Updates for 11/2023

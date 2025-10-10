@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2025
+  course: PDP1047B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/19/2025
   course: OCP0592B
   title: GRIN-Group Crisis-Assisting Individuals
@@ -74,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 7/23/2025
+  course: PDP0762B
+  title: 2025 Disability Series Intellectual  Develop
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/23/2025
+  course: PDP1832B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/17/2025
   course: VND3123B
   title: 28 CFR 23 and WSIN Resources

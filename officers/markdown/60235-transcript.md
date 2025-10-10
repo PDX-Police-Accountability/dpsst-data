@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/27/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 8/27/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/25/2025 | PDP0676B | 2025 Advanced Shotgun Operator In-Service | Passed | 0.0 | 5.00 |
 | 7/25/2025 | PDP0524B | 2025-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 7/25/2025 | PDP3288B | 2025-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

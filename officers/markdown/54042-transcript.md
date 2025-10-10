@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/2/2025 | OCS2138B | Firearms Qualification | Passed | 0.0 | 1.00 |
 | 8/13/2025 | OCS0877B | De-escalation | Passed | 0.0 | 1.00 |
 | 12/16/2024 | OCS0503A | Taser and Use of Force Law | Passed | 0.0 | 2.00 |

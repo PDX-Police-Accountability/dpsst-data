@@ -28,6 +28,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 10/3/2025 | 10/3/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
@@ -39,6 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2025 | PDS1564B | Taser 7 | Passed | 0.0 | 4.00 |
+| 10/3/2025 | PDS0907B | VR ConSim | Passed | 0.0 | 2.00 |
+| 10/3/2025 | PDS0184B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 8/25/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |
 | 7/25/2025 | PDS4424B | Law Enforcement for Safety and Survival (LETSS) | Passed | 0.0 | 32.00 |
 | 7/16/2025 | PDS0945B | Liftbag Implementation | Instructed | 0.0 | 8.00 |
 | 7/16/2025 | PDS0742B | New Diver Orientation and Gear Preparation | Instructed | 0.0 | 8.00 |

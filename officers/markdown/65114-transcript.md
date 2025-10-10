@@ -31,7 +31,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/28/2025 | PDP4400B | 2025 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
+| 8/21/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 8/12/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/9/2025 | PDP4163B | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 7/4/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |
 | 7/2/2025 | REG0180B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 7/2/2025 | REG2290B | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |

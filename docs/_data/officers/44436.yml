@@ -75,12 +75,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/22/2025
+  course: PDP0762B
+  title: 2025 Disability Series Intellectual  Develop
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/20/2025
   course: PDP4351B
   title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/9/2025
+  course: PDP1832B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/7/2025
   course: PDP2072B
   title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
@@ -105,6 +117,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/7/2025
+  course: PDP1802B
+  title: '2025 Disability Series: Introduction to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/25/2025
   course: PDP0997B
   title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng

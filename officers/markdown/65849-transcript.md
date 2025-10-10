@@ -29,6 +29,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/11/2025 | PDP2547B | AA 2025 [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
+| 8/14/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 8/14/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 7/2/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
+| 7/2/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 6/12/2025 | PDP0954A | 2025 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/11/2025 | PDP0115A | Air Purifying Respirator and HAZMAT | Passed | 0.0 | 3.00 |
 | 6/11/2025 | PDP1769B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |

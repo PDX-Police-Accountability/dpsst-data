@@ -29,8 +29,27 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/11/2025 | PDP3732B | AA 2025 [ETH-101-H] Intro to Ethics in Policing v2 | Passed | 0.0 | 0.25 |
+| 9/11/2025 | PDP3747B | AA 2025 [PJU-101-H] Introd to PLPJ | Passed | 0.0 | 0.25 |
+| 9/11/2025 | PDP2547B | AA 2025 [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
+| 8/21/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 8/21/2025 | PDP1550B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 8/21/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 8/21/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 8/20/2025 | PDP1624B | 2021 Online In-Service Language Access | Passed | 0.0 | 0.25 |
+| 8/20/2025 | PDP0289B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 8/20/2025 | PDP1223B | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 8/8/2025 | PDP0088B | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 8/8/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
+| 8/8/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 8/8/2025 | PDP0049B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 8/8/2025 | PDP1689B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 8/8/2025 | PDP2960B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 8/8/2025 | PDP0806B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 8/8/2025 | PDP1906B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 7/15/2025 | PDP3628B | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 7/14/2025 | PDP1206B | FTEP Geography | Passed | 0.0 | 3.00 |
+| 7/14/2025 | PDP1502B | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
 | 7/10/2025 | PDP0116B | RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 7/8/2025 | PDP1478B | FTEP Property and Evidence Introduction | Passed | 0.0 | 4.00 |
 | 7/8/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

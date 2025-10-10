@@ -35,6 +35,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2025 | UPR4128B | Community Engagement Training | Passed | 0.0 | 2.00 |
+| 10/3/2025 | UPR0625B | Case Law/Legal Updates | Passed | 0.0 | 2.00 |
+| 10/3/2025 | UPR4438B | Sabre Red OC Recertification | Passed | 0.0 | 2.00 |
+| 10/2/2025 | UPR0525B | Krav Maga Defensive Tactics | Passed | 0.0 | 4.00 |
+| 10/2/2025 | UPR3341B | Handgun Training | Passed | 0.0 | 4.00 |
+| 10/2/2025 | UPR1674B | Handgun Training | Passed | 0.0 | 1.00 |
+| 9/30/2025 | UPR0950B | ALERT Level 1 Active Shooter | Passed | 0.0 | 16.00 |
+| 9/29/2025 | UPR4020B | Taser 10 Operator Course | Passed | 0.0 | 8.00 |
 | 5/8/2025 | APD3133A | Railsafe, Intel and Response to Rail Incidents | Passed | 0.0 | 12.00 |
 | 4/10/2025 | UPR1186A | Adult/Child CPR/AED/First Aid | Passed | 0.0 | 4.00 |
 | 4/10/2025 | UPR4337A | Narcan Administration Certification | Passed | 0.0 | 1.00 |

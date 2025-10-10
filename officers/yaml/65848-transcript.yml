@@ -30,6 +30,90 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/23/2025
+  course: PDP3732B
+  title: AA 2025 [ETH-101-H] Intro to Ethics in Policing v2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/23/2025
+  course: PDP3747B
+  title: AA 2025 [PJU-101-H] Introd to PLPJ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/18/2025
+  course: PDP2547B
+  title: AA 2025 [WEL-101-H] Introduction to Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/3/2025
+  course: PDP2302B
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/31/2025
+  course: PDP1832B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/23/2025
+  course: PDP0762B
+  title: 2025 Disability Series Intellectual  Develop
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/23/2025
+  course: PDP1550B
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/9/2025
+  course: PDP1802B
+  title: '2025 Disability Series: Introduction to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/15/2025
+  course: PDP0289B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/15/2025
+  course: PDP1906B
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/15/2025
+  course: PDP0049B
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/15/2025
+  course: PDP1689B
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/15/2025
+  course: PDP2960B
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/15/2025
+  course: PDP0806B
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/12/2025
   course: PDP0954A
   title: 2025 Body Worn Camera Training

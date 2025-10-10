@@ -29,6 +29,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/30/2025 | PDP4546B | AA 2025 [CIT-112-A] Behavioral Health Unit | Passed | 0.0 | 0.25 |
+| 9/30/2025 | PDP3463B | AA 2025 [CIT-111-A] Project Respond | Passed | 0.0 | 0.25 |
+| 9/11/2025 | PDP3732B | AA 2025 [ETH-101-H] Intro to Ethics in Policing v2 | Passed | 0.0 | 0.25 |
+| 9/11/2025 | PDP3747B | AA 2025 [PJU-101-H] Introd to PLPJ | Passed | 0.0 | 0.25 |
+| 9/11/2025 | PDP2547B | AA 2025 [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
+| 8/1/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 7/30/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 7/5/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 6/26/2025 | PDP4578B | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 6/26/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 6/18/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |

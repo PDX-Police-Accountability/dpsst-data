@@ -30,6 +30,48 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/25/2025
+  course: PDP3463B
+  title: AA 2025 [CIT-111-A] Project Respond
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/18/2025
+  course: PDP1047B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/18/2025
+  course: PDP3732B
+  title: AA 2025 [ETH-101-H] Intro to Ethics in Policing v2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/11/2025
+  course: PDP3747B
+  title: AA 2025 [PJU-101-H] Introd to PLPJ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/11/2025
+  course: PDP2547B
+  title: AA 2025 [WEL-101-H] Introduction to Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/7/2025
+  course: PDP0762B
+  title: 2025 Disability Series Intellectual  Develop
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/30/2025
+  course: PDP1832B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/26/2025
   course: PDP4578B
   title: 2024 ECIT Dispatch Update Video

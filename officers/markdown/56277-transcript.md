@@ -56,7 +56,7 @@
 | 3/21/2025 | CAP1707B | Hazmat | Passed | 0.0 | 1.50 |
 | 3/21/2025 | CAP0448B | PREA | Passed | 0.0 | 1.00 |
 | 2/19/2025 | CAP2865A | CPR/First Aid | Instructed | 0.0 | 8.00 |
-| 2/19/2025 | CAP3524B | CPR / First Aid | Instructed | 0.0 | 8.00 |
+| 2/19/2025 | CAP3524B | Firearms - Use of Force - 40mm | Instructed | 0.0 | 8.00 |
 | 1/27/2025 | CAP4265A | First Aid/CPR Adult  Child | Passed | 0.0 | 1.00 |
 | 1/22/2025 | CAP3093A | Annual Handgun Qualifications/Fundamentals | Passed | 0.0 | 2.00 |
 | 1/8/2025 | CAP1723A | Taser 10 Instructor Certification Course | Passed | 0.0 | 8.00 |

@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/25/2025
+  course: PDS4218B
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/17/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

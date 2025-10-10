@@ -34,9 +34,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/22/2025 | PDP3790B | California Gang Investigators Association | Passed | 0.0 | 32.75 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/30/2025 | PDP3721B | 2025 Patrol Rifle Instructors IS Scenarios | Passed | 0.0 | 9.00 |
+| 7/25/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/17/2025 | VND3123B | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 6/28/2025 | PDP1889B | 2020 Trng Managing Critical Incidents (05/2020) | Passed | 0.0 | 0.25 |
 | 6/28/2025 | PDP1811B | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

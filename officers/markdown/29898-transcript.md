@@ -28,7 +28,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 9/25/2025 | 9/25/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 3/25/2021 |  |
 | Code of Ethics | Signed | 6/21/2001 |  |
@@ -40,6 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/25/2025 | PDS4096B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 9/25/2025 | PDS2017B | Taser 7 | Passed | 0.0 | 4.00 |
+| 9/25/2025 | PDS1612B | VR ConSim | Passed | 0.0 | 2.00 |
+| 8/19/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |
 | 4/30/2025 | PDS2038A | Ethics | Passed | 0.0 | 1.00 |
 | 4/29/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |
 | 2/24/2025 | PDS3595A | Range | Passed | 0.0 | 2.00 |

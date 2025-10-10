@@ -68,6 +68,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/3/2025
+  course: PDS1564B
+  title: Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/3/2025
+  course: PDS0907B
+  title: VR ConSim
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/3/2025
+  course: PDS0184B
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/25/2025
+  course: PDS4218B
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/25/2025
   course: PDS4424B
   title: Law Enforcement for Safety and Survival (LETSS)
@@ -4321,6 +4345,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/3/2025
+  expiration_date: 10/3/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

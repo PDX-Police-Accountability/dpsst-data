@@ -41,6 +41,8 @@
 | 8/27/2025 | PDP4243B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 2.00 |
 | 8/21/2025 | PDP0184B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 8/14/2025 | PDP3541B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 8/11/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 8/11/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/27/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/27/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 6/19/2025 | PDP4510B | 2025 K-9 Weekly Training | Instructed | 0.0 | 5.00 |

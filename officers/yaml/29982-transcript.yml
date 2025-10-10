@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/24/2025
+  course: SVP4532B
+  title: Rifle Training  Transition Drills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/19/2025
   course: RMP2826B
   title: 'Case Study: Negasi Zuberi - Kidnapping Case'

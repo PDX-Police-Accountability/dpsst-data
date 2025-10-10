@@ -41,12 +41,15 @@
 | 9/19/2025 | PDP0272B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Instructed | 0.0 | 5.00 |
 | 8/25/2025 | PDP3204B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 14.00 |
 | 8/25/2025 | PDP3204B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Instructed | 0.0 | 14.00 |
+| 8/19/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/21/2025 | PDP0812B | 2025-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/21/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/21/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 7/21/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/15/2025 | PDP1793B | 2025-2 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Instructed | 0.0 | 9.00 |
 | 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 7/3/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 6/20/2025 | HBS2577A | Def Tech Distraction Device ICP | Passed | 0.0 | 4.00 |
 | 6/19/2025 | HBS0109A | Def Tech Chemical Munition ICP | Passed | 0.0 | 5.00 |
 | 6/18/2025 | HBS0777A | Def Tech LLIM ICP | Passed | 0.0 | 4.50 |

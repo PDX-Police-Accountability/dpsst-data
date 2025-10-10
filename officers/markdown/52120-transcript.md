@@ -39,6 +39,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2025 | OCP0592B | GRIN-Group Crisis-Assisting Individuals | Passed | 0.0 | 27.00 |
 | 8/26/2025 | PPP1684B | Women in Command | Passed | 0.0 | 16.00 |
+| 8/24/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 7/30/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 7/1/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 5/20/2025 | PDP2822B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/13/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/12/2025 | PDP0160B | 2025 IS PVO Stop Stick | Passed | 0.0 | 0.75 |

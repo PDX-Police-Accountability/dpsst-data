@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/28/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 7/22/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 6/26/2025 | PDP0323B | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 6/25/2025 | PDP0131A | RegJIN RMS/MRE Training Roster | Passed | 0.0 | 14.00 |
 | 6/24/2025 | PDP1046A | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |

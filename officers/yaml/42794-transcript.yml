@@ -92,6 +92,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2025
+  course: OCS3371B
+  title: Balance Speed/Marksmanship at distance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2025
+  course: OCS0653B
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/30/2025
+  course: OCS3371B
+  title: Balance Speed/Marksmanship at distance
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/25/2025
   course: SMS3422B
   title: Colt Armorer Course

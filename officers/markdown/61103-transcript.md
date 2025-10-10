@@ -35,7 +35,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/20/2025 | PDP2997B | 2025 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/3/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/28/2025 | PDP0550B | 2025 Patrol Rifle Instructors IS Scenarios | Passed | 0.0 | 9.00 |
+| 7/22/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/2/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
 | 6/14/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/1/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

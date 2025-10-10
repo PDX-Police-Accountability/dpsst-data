@@ -42,11 +42,14 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
 | 8/13/2025 | PDP0697B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 8/13/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | PDP3590B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/28/2025 | PDP0550B | 2025 Patrol Rifle Instructors IS Scenarios | Passed | 0.0 | 9.00 |
+| 7/23/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/10/2025 | PDP0026B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 7/7/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Instructed | 0.0 | 10.00 |
 | 7/3/2025 | PDP0568A | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 7/2/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 6/26/2025 | PDP3320B | 2025 SERT Training - ITERATION | Passed | 0.0 | 5.50 |
 | 6/25/2025 | PDP2988B | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/24/2025 | PDP2368B | 2025 SERT Training - ITERATION | Passed | 0.0 | 8.00 |

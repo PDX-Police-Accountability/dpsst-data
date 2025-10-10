@@ -42,6 +42,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/12/2025
+  course: PDP0289B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/12/2025
+  course: PDP1550B
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/12/2025
+  course: PDP2302B
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/12/2025
+  course: PDP1906B
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/12/2025
+  course: PDP0049B
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/12/2025
+  course: PDP1689B
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/12/2025
+  course: PDP1223B
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/12/2025
+  course: PDP2960B
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/12/2025
+  course: PDP0806B
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/17/2025
   course: PDP4567B
   title: 2024-9 CAO Legal Updates for 09/2024

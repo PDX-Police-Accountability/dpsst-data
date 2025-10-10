@@ -39,11 +39,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2025 | PDP0272B | 2025 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 5.00 |
+| 9/17/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/10/2025 | PDP3913B | Level 5 Crowd Safety Applied Crowd Science | Passed | 0.0 | 18.00 |
+| 8/19/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 8/19/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/29/2025 | PDP3721B | 2025 Patrol Rifle Instructors IS Scenarios | Passed | 0.0 | 9.00 |
 | 7/23/2025 | 25-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 7/7/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 6/27/2025 | PDP1959B | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 6/2/2025 | PDP1851B | 2025 AR-15 Instructor In-Service Training (1-Day) | Passed | 0.0 | 9.00 |
 | 6/2/2025 | OCS2310B | FBI LEEDA- CLI | Passed | 0.0 | 40.00 |

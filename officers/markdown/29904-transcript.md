@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/2/2025 | 10/2/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 ## Education
@@ -33,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2025 | PDS4356B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 10/2/2025 | PDS0716B | Taser 7 | Passed | 0.0 | 4.00 |
+| 8/7/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |
 | 6/19/2025 | GSP0245B | TCCC, Injury Prevention/Care | Passed | 0.0 | 10.00 |
 | 6/18/2025 | GSP1698B | Barricade Resolution, Deliberate Rescue | Passed | 0.0 | 10.00 |
 | 6/17/2025 | GSP2402B | Surrpetitious Movement, K9 Block Search | Passed | 0.0 | 10.00 |

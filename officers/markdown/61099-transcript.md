@@ -31,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 9/15/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/18/2025 | PDP3050B | 2025 Training General Red Dot Firearms Training | Passed | 0.0 | 5.00 |
 | 7/18/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 7/18/2025 | PDP0908B | 2025-2 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |

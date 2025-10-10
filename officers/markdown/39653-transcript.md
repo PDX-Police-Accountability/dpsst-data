@@ -34,9 +34,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/29/2025 | REG0748B | EVO Instructor 2 | Passed | 0.0 | 40.00 |
+| 8/21/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 8/21/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/1/2025 | REG2310B | EVO Instructor 1 - Dynamics and Driver Behaviors | Passed | 0.0 | 40.00 |
 | 7/15/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/15/2025 | PDP0908B | 2025-2 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
+| 7/4/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
+| 7/4/2025 | PDP1502B | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
 | 5/10/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 5/10/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 5/10/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |

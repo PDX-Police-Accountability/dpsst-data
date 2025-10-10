@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2025 | STN2641B | DV Week Day 1 | Passed | 0.0 | 4.00 |
 | 8/21/2025 | GPN2132B | Firearms/Use of Force | Instructed | 0.0 | 4.00 |
 | 8/21/2025 | GPN2132B | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 7/15/2025 | GPN0973B | Firearms | Instructed | 0.0 | 4.00 |

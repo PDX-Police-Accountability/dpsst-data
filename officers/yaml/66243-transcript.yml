@@ -30,6 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/30/2025
+  course: PDP1624B
+  title: 2021 Online In-Service Language Access
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2025
+  course: PDP0112B
+  title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/29/2025
+  course: PDP1223B
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/25/2025
   course: PDP1557B
   title: 2025 Mobile Identification Device (MIDD) Training
@@ -42,9 +60,27 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/22/2025
+  course: PDP2302B
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/22/2025
+  course: PDP1502B
+  title: Patrol Vehicle Operations Policy [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/27/2025
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/27/2025
+  course: REG1368B
+  title: SFST-DID (Hours included in BASIC)
   status: Passed
   score: '0.0'
   hours: '0.00'

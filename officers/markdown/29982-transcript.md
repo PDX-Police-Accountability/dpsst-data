@@ -46,6 +46,7 @@
 | 10/1/2025 | SVP2079B | BLS CPR  First-Aid Recertification | Passed | 0.0 | 4.00 |
 | 9/30/2025 | SVP1240B | 2022 - Airway Training Video Evaluation for LEO | Passed | 0.0 | 2.00 |
 | 9/26/2025 | SVP2092B | Cultural Awareness  Diversity Overview | Passed | 0.0 | 1.00 |
+| 9/24/2025 | SVP4532B | Rifle Training  Transition Drills | Passed | 0.0 | 4.00 |
 | 9/19/2025 | RMP2826B | Case Study: Negasi Zuberi - Kidnapping Case | Passed | 0.0 | 2.00 |
 | 9/18/2025 | SVP4214B | MIP Alcohol - Marijuana Citation Refresher | Passed | 0.0 | 0.25 |
 | 9/18/2025 | RMP0436B | Lead with Intentionality | Passed | 0.0 | 8.00 |
