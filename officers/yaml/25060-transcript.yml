@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2025
+  course: VND4074B
+  title: 28CFR-Part23;RISSIntel-RISSafe;Deconfliction
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/1/2025
   course: WBP2780B
   title: Global SDS  Hazard Communication Standards

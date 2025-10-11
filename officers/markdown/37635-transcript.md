@@ -43,6 +43,7 @@
 | 9/11/2025 | EGP4242B | Legal Updates | Passed | 0.0 | 1.50 |
 | 9/11/2025 | EGP4389B | Subpoena Service Training | Passed | 0.0 | 1.50 |
 | 9/11/2025 | EGP3026B | Threat Assessment | Passed | 0.0 | 1.50 |
+| 9/11/2025 | EGP2958B | Crowd Mgt  Molotov Cocktail Response | Passed | 0.0 | 2.00 |
 | 7/23/2025 | EGP4253B | SWAT Firearms | Passed | 0.0 | 3.00 |
 | 7/23/2025 | EGP2462B | SWAT Skills Listening Devices | Passed | 0.0 | 3.00 |
 | 6/12/2025 | EGP1687B | Firearms Marksmanship Drills  Breaching | Passed | 0.0 | 3.00 |

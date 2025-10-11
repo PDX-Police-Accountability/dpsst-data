@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2025
+  course: STN0993B
+  title: DV Week Day 2
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/6/2025
   course: STN2641B
   title: DV Week Day 1

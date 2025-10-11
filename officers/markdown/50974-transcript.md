@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2025 | OCP1609B | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 10.00 |
 | 9/12/2025 | OCP4391B | Evidence Handling | Passed | 0.0 | 0.25 |
 | 9/4/2025 | OCP1676B | Leads Online Training | Passed | 0.0 | 0.25 |

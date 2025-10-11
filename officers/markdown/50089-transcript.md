@@ -60,7 +60,7 @@
 | 4/10/2025 | PDP0391B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/9/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/9/2025 | PDP1343A | 2025-1 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
-| 4/4/2025 | OSH2289A | Basic Detective Academy |  | 0.0 | 40.00 |
+| 4/4/2025 | OSH2289A | Basic Detective Academy | Passed | 0.0 | 40.00 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/20/2025 | PDP1499A | SERT CNT Hostage Scenario Training | Passed | 0.0 | 9.00 |
 | 3/13/2025 | PDP3304A | Nighthhawk Advanced Digital Data Tradecraft | Passed | 0.0 | 32.00 |

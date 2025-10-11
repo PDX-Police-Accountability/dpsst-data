@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/25/2025
+  course: SMS3893B
+  title: Colt Armorer Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/12/2025
   course: OCS1928B
   title: September 2025 SWAT Sniper Training

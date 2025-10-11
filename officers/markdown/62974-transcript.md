@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2025 | OCP1609B | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/12/2025 | OCP4391B | Evidence Handling | Passed | 0.0 | 0.25 |
 | 8/6/2025 | OCP4484B | Water Rescue Response | Passed | 0.0 | 0.25 |
 | 7/29/2025 | OCP0663B | Firearms Use Of Force | Passed | 0.0 | 3.50 |

@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/11/2025
+  course: EGP2958B
+  title: Crowd Mgt  Molotov Cocktail Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/23/2025
   course: EGP4253B
   title: SWAT Firearms

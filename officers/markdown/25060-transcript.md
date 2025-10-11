@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2025 | VND4074B | 28CFR-Part23;RISSIntel-RISSafe;Deconfliction | Passed | 0.0 | 2.00 |
 | 9/1/2025 | WBP2780B | Global SDS  Hazard Communication Standards | Passed | 0.0 | 1.00 |
 | 9/1/2025 | WBP2186B | WPD Yearly Policy Review | Passed | 0.0 | 2.00 |
 | 9/1/2025 | WBP1308B | OSHA Heat Illness Prevention | Passed | 0.0 | 0.50 |

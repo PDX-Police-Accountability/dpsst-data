@@ -44,6 +44,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/3/2025 | BNS2860B | Firearms | Passed | 0.0 | 4.00 |
+| 9/3/2025 | BNS0086B | 40MM | Passed | 0.0 | 4.00 |
+| 9/3/2025 | BNS3525B | Pepperball | Passed | 0.0 | 4.00 |
 | 7/9/2025 | BNS3425B | July Firearms | Passed | 0.0 | 2.00 |
 | 7/9/2025 | BNS2038B | July Firearms | Passed | 0.0 | 2.00 |
 | 5/12/2025 | BNS2982B | Expandable Baton | Passed | 0.0 | 2.00 |

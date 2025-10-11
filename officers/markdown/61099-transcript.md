@@ -28,6 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 7/25/2018 | Masters Science | All Other Education Institutes |  | 33.0 |
+| 5/8/2017 | Bachelor Science | All Other Education Institutes |  | 128.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

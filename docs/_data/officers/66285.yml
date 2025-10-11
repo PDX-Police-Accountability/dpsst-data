@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/19/2025
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 8/27/2025
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
@@ -108,12 +114,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 5/19/2025
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 5/15/2025
   course: PDP0402A
   title: FTEP New Hire Firearms
