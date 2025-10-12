@@ -39,11 +39,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2025 | STN2532B | DV Week Day 3 | Passed | 0.0 | 4.00 |
+| 10/8/2025 | STN4201B | DV Week Day 3 | Passed | 0.0 | 4.00 |
 | 10/7/2025 | STN0993B | DV Week Day 2 | Passed | 0.0 | 8.00 |
 | 10/6/2025 | STN2641B | DV Week Day 1 | Passed | 0.0 | 4.00 |
 | 8/21/2025 | GPN2132B | Firearms/Use of Force | Instructed | 0.0 | 4.00 |
 | 8/21/2025 | GPN2132B | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 7/15/2025 | GPN0973B | Firearms | Instructed | 0.0 | 4.00 |
+| 6/2/2025 | GPN3624B | Con Sims | Passed | 0.0 | 3.00 |
+| 6/2/2025 | GPN3624B | Con Sims | Instructed | 0.0 | 22.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/15/2025 | REG1327A | Handgun Instructor Course | Passed | 0.0 | 40.00 |
 | 5/6/2025 | STN0546B | Peer Support and Mental Health | Passed | 0.0 | 3.00 |

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 9/9/2025 | GSP0033B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
 | 8/5/2025 | GSP3819B | PVO In-service | Passed | 0.0 | 10.00 |
 | 6/19/2025 | GSP0245B | TCCC, Injury Prevention/Care | Passed | 0.0 | 10.00 |

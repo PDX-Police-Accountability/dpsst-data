@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
+| 9/26/2025 | GSP4481B | Handgun In-service Training |  | 0.0 | 0.00 |
 | 9/7/2025 | GSP2644B | 2025 Handgun In-service | Passed | 0.0 | 10.00 |
 | 9/3/2025 | GSP3969B | Handgun / Rifle Instructor Training | Passed | 0.0 | 20.00 |
 | 7/2/2025 | GSP1219B | PVO In-service | Passed | 0.0 | 10.00 |

@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/8/2025
+  course: STN2532B
+  title: DV Week Day 3
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/8/2025
+  course: STN4201B
+  title: DV Week Day 3
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/7/2025
   course: STN0993B
   title: DV Week Day 2
@@ -99,6 +111,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 6/2/2025
+  course: GPN3624B
+  title: Con Sims
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/2/2025
+  course: GPN3624B
+  title: Con Sims
+  status: Instructed
+  score: '0.0'
+  hours: '22.00'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

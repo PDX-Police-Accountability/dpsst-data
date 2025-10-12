@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2025 | HBP0992B | FTO Academy | Passed | 0.0 | 30.00 |
 | 8/1/2025 | REG2310B | EVO Instructor 1 - Dynamics and Driver Behaviors | Passed | 0.0 | 40.00 |
 | 7/23/2025 | HBP3483B | Active Shooter Response | Passed | 0.0 | 5.50 |
 | 7/23/2025 | HBP4585B | Surviving a Line of Duty Death | Passed | 0.0 | 3.00 |

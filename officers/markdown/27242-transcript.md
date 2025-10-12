@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 9/9/2025 | GSP0033B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
 | 6/18/2025 | GSP1698B | Barricade Resolution, Deliberate Rescue | Passed | 0.0 | 10.00 |
 | 6/16/2025 | GSP2986B | PVO In-service | Passed | 0.0 | 10.00 |

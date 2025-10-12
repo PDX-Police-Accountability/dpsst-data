@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
+| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
+| 9/28/2025 | GSP0359B | Rifle In-service Training |  | 0.0 | 10.00 |
 | 9/21/2025 | GSP2321B | Rifle In-service Training | Passed | 0.0 | 10.00 |
 | 9/19/2025 | GSP2244B | SWAT Sniper Range - 25 and 100 Yards Positional | Instructed | 0.0 | 10.00 |
 | 9/18/2025 | GSP3147B | Tactical Dilemma Planning, HRT Response | Passed | 0.0 | 10.00 |

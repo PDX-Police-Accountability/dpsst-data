@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 9/11/2025 | GSP0350B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
 | 6/30/2025 | GSP0856B | PVO In-service | Passed | 0.0 | 10.00 |
 | 5/16/2025 | SAG0868A | 4th Annual OCCIA Conference | Passed | 0.0 | 8.00 |

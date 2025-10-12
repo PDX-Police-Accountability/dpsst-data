@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2025 | PDA0352B | Tourniquet and Wound Packing | Passed | 0.0 | 1.00 |
 | 9/18/2025 | SAG4082B | Financial Crimes  Digital Evidence Conference | Passed | 0.0 | 15.50 |
 | 9/10/2025 | PDA0313B | Securus Pro Training | Passed | 0.0 | 3.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

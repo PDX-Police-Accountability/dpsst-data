@@ -79,12 +79,6 @@ training_records:
   score: '0.0'
   hours: '640.00'
 - date: 8/27/2025
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.00'
-- date: 8/27/2025
   course: REG1368B
   title: SFST-DID (Hours included in BASIC)
   status: Passed

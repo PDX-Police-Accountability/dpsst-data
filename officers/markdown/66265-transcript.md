@@ -42,7 +42,6 @@
 | 9/22/2025 | PDP2960B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 9/22/2025 | PDP0806B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 9/19/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 8/27/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 8/27/2025 | REG1368B | SFST-DID (Hours included in BASIC) | Passed | 0.0 | 0.00 |
 | 8/7/2025 | REG1645B | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |

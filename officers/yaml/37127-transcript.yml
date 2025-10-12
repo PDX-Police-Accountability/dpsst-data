@@ -84,6 +84,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2025
+  course: PDA0352B
+  title: Tourniquet and Wound Packing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/18/2025
   course: SAG4082B
   title: Financial Crimes  Digital Evidence Conference

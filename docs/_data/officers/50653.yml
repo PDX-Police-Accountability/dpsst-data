@@ -69,6 +69,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 9/18/2025
+  course: PDP1917B
+  title: SERT Lieutenant Training
+  status: Passed
+  score: '0.0'
+  hours: '31.50'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Leadership 3 Year Maintenance

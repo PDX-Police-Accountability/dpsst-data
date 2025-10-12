@@ -66,18 +66,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/22/2025
+  course: HBP4282B
+  title: FTP On-Boarding
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/19/2025
   course: M10-23A
   title: DPSST Basic Police Course
   status: Passed
   score: '0.0'
   hours: '640.00'
-- date: 8/27/2025
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.00'
 - date: 8/27/2025
   course: REG1368B
   title: SFST-DID (Hours included in BASIC)

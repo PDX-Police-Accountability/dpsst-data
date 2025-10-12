@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
+| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 9/22/2025 | GSP4593B | UAS Training | Instructed | 0.0 | 10.00 |
 | 9/15/2025 | GSP0677B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
 | 8/19/2025 | GSP3278B | UAS Training | Passed | 0.0 | 10.00 |

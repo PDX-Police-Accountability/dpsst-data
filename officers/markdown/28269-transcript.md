@@ -46,8 +46,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/25/2025 | OAC2191B | Systematizing Security In Schools | Passed | 0.0 | 2.00 |
-| 9/25/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
-| 9/25/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 9/25/2025 | OAC2679B | Choosing to Serve Report | Passed | 0.0 | 1.00 |
 | 9/25/2025 | OAC0826B | Built for the Storm | Passed | 0.0 | 5.00 |
 | 9/24/2025 | OAC1371B | Defining Leadership Qualities  Styles | Passed | 0.0 | 2.00 |

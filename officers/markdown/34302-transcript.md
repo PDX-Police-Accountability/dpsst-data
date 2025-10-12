@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 9/15/2025 | GSP0677B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
 | 8/21/2025 | GSP1843B | UAS Photogrammerty and Scene Reconstruction | Passed | 0.0 | 16.00 |
 | 7/21/2025 | GSP2824B | PVO In-service | Passed | 0.0 | 10.00 |
