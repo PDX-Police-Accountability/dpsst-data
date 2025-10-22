@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2025 | PPP0995B | Leadership Summit | Passed | 0.0 | 8.00 |
 | 8/31/2025 | PPP0338B | Ethical Responibility Responding to DV Calls | Passed | 0.0 | 1.00 |
 | 5/8/2025 | PPP3173A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 4/30/2025 | PPP2106A | Human Trafficking 101 | Passed | 0.0 | 1.00 |

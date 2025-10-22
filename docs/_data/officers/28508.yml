@@ -34,11 +34,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/11/2025
+- status_date: 10/13/2025
   certificate: Police Officer
   level: Advanced
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 10/13/2025
   expiration_date: ''
   probation_date: ''
 - status_date: 5/16/2011
@@ -288,6 +288,12 @@ training_records:
 - date: 2/3/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/3/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

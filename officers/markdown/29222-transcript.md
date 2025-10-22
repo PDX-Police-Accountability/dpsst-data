@@ -27,7 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 12/3/2024 | 12/3/2026 |
 | Code of Ethics | Signed | 10/11/2000 |  |
@@ -40,9 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
-| 9/26/2025 | GSP4481B | Handgun In-service Training |  | 0.0 | 0.00 |
-| 9/7/2025 | GSP2644B | 2025 Handgun In-service | Passed | 0.0 | 10.00 |
+| 10/1/2025 | GSP1472B | 2025 Language Line Refresher Training | Passed | 0.0 | 0.50 |
+| 9/7/2025 | GSP2644B | 2025 Handgun In-service | Instructed | 0.0 | 10.00 |
 | 9/3/2025 | GSP3969B | Handgun / Rifle Instructor Training | Passed | 0.0 | 20.00 |
 | 7/2/2025 | GSP1219B | PVO In-service | Passed | 0.0 | 10.00 |
 | 6/20/2025 | GSP2627B | Firearms - Post Academy | Instructed | 0.0 | 10.00 |

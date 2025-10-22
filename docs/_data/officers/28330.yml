@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2025
+  course: PPP0995B
+  title: Leadership Summit
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/31/2025
   course: PPP0338B
   title: Ethical Responibility Responding to DV Calls

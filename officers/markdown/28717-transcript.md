@@ -57,6 +57,7 @@
 | 4/23/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/23/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 4/23/2025 | PDP4497B | HRAR 2.04 Gender Identity Nondiscrimination Trng | Passed | 0.0 | 0.50 |
+| 3/19/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 2/5/2025 | PDP0222A | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 2/5/2025 | PDP1957A | 2024 ECIT Dispatch Update | Passed | 0.0 | 0.25 |
 | 2/5/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2025 | TGP0736B | Patrol Rifle Training | Passed | 0.0 | 6.00 |
 | 7/23/2025 | TGP3355B | Policing with Precision | Passed | 0.0 | 0.50 |
 | 6/20/2025 | TGP0405B | Body Worn Camera Refresher Training | Passed | 0.0 | 0.50 |
 | 5/20/2025 | TGP0319A | ACAP | Passed | 0.0 | 2.00 |

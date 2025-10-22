@@ -18,22 +18,22 @@ name	dpsst_identifier	agency	employment_status	rank	last_action	last_action_date
 * MISSING	13993	""	""	""	""	""
 * MISSING	14157	""	""	""	""	""
 * MISSING	14158	""	""	""	""	""
-Gissel, Kevin R.	14308	Portland Police Bureau	Inactive	Civilian Employee	Resigned	2007-07-04
+* MISSING	14308	""	""	""	""	""
 * MISSING	14393	""	""	""	""	""
 * MISSING	14400	""	""	""	""	""
 * MISSING	14493	""	""	""	""	""
 * MISSING	14495	""	""	""	""	""
 * MISSING	14496	""	""	""	""	""
-Miller, Gerald D.	14907	Portland Police Bureau	Active	Reserve Officer	Hired	1981-09-15
-Renna, Barry W.	15038	Portland Police Bureau	Active	Civilian Employee	Hired	2007-07-09
-Howell, Mary T.	15121	Portland Police Bureau	Inactive	Civilian Employee	Retired	2019-10-30
+* MISSING	14907	""	""	""	""	""
+* MISSING	15038	""	""	""	""	""
+* MISSING	15121	""	""	""	""	""
 * MISSING	15316	""	""	""	""	""
 * MISSING	15413	""	""	""	""	""
 * MISSING	15531	""	""	""	""	""
 * MISSING	15616	""	""	""	""	""
-Moore, Gary D.	15650	Portland Police Bureau	Inactive	Reserve Officer	Retired	2018-07-04
+* MISSING	15650	""	""	""	""	""
 * MISSING	15654	""	""	""	""	""
-Hunter, Charles W.	15710	Portland Police Bureau	Active	Civilian Employee	Hired	2000-09-01
+* MISSING	15710	""	""	""	""	""
 * MISSING	15907	""	""	""	""	""
 * MISSING	15909	""	""	""	""	""
 * MISSING	15910	""	""	""	""	""
@@ -43,7 +43,7 @@ Hunter, Charles W.	15710	Portland Police Bureau	Active	Civilian Employee	Hired	2
 * MISSING	16483	""	""	""	""	""
 * MISSING	16779	""	""	""	""	""
 * MISSING	16909	""	""	""	""	""
-Mathis, Angela M.	17080	Portland Police Bureau	Inactive	Civilian Employee	Retired	2020-07-28
+* MISSING	17080	""	""	""	""	""
 * MISSING	17106	""	""	""	""	""
 * MISSING	17133	""	""	""	""	""
 * MISSING	17224	""	""	""	""	""
@@ -55,8 +55,8 @@ Mathis, Angela M.	17080	Portland Police Bureau	Inactive	Civilian Employee	Retire
 * MISSING	17691	""	""	""	""	""
 * MISSING	17696	""	""	""	""	""
 * MISSING	17699	""	""	""	""	""
-Kuemper, Denise L.	17724	Portland Police Bureau	Inactive	Police Officer	Retired	2018-06-28
-Clark, Deena J.	17932	Portland Police Bureau	Active	Civilian Employee	Hired	1993-05-17
+* MISSING	17724	""	""	""	""	""
+* MISSING	17932	""	""	""	""	""
 * MISSING	17975	""	""	""	""	""
 * MISSING	18154	""	""	""	""	""
 * MISSING	18156	""	""	""	""	""
@@ -65,9 +65,9 @@ Clark, Deena J.	17932	Portland Police Bureau	Active	Civilian Employee	Hired	1993
 * MISSING	18363	""	""	""	""	""
 * MISSING	18374	""	""	""	""	""
 * MISSING	18525	""	""	""	""	""
-Owens, Joyce I.	18677	Portland Police Bureau	Inactive	Civilian Employee	Resigned	2020-05-28
-Molinari, Mary E.	18742	Portland Police Bureau	Inactive	Civilian Employee	Resigned	1990-02-07
-Schurter, Tina M.	18743	Portland Police Bureau	Inactive	Civilian Employee	Retired	2021-06-28
+* MISSING	18677	""	""	""	""	""
+* MISSING	18742	""	""	""	""	""
+* MISSING	18743	""	""	""	""	""
 * MISSING	18761	""	""	""	""	""
 * MISSING	18924	""	""	""	""	""
 * MISSING	18966	""	""	""	""	""
@@ -84,7 +84,7 @@ Schurter, Tina M.	18743	Portland Police Bureau	Inactive	Civilian Employee	Retire
 * MISSING	19891	""	""	""	""	""
 * MISSING	19896	""	""	""	""	""
 * MISSING	19961	""	""	""	""	""
-Coleman, Barbara A.	20108	Portland Police Bureau	Active	Civilian Employee	Hired	1987-02-19
+* MISSING	20108	""	""	""	""	""
 * MISSING	20110	""	""	""	""	""
 * MISSING	20198	""	""	""	""	""
 * MISSING	20228	""	""	""	""	""
@@ -92,7 +92,7 @@ Coleman, Barbara A.	20108	Portland Police Bureau	Active	Civilian Employee	Hired	
 * MISSING	20384	""	""	""	""	""
 * MISSING	20672	""	""	""	""	""
 * MISSING	20844	""	""	""	""	""
-Perkins, Thomas M.	21046	Portland Police Bureau	Inactive	Sergeant	Retired	2020-08-29
+* MISSING	21046	""	""	""	""	""
 * MISSING	21075	""	""	""	""	""
 * MISSING	21089	""	""	""	""	""
 * MISSING	21282	""	""	""	""	""
@@ -188,21 +188,21 @@ Perkins, Thomas M.	21046	Portland Police Bureau	Inactive	Sergeant	Retired	2020-0
 * MISSING	24585	""	""	""	""	""
 * MISSING	24724	""	""	""	""	""
 * MISSING	24736	""	""	""	""	""
-* MISSING	24747	""	""	""	""	""
+McMurray, Shawnda L.	24747	Portland Police Bureau	Inactive	Criminalist	Resigned	2019-09-27
 * MISSING	24796	""	""	""	""	""
-* MISSING	24817	""	""	""	""	""
+Ferner, James A.	24817	Portland Police Bureau	Inactive	Police Officer	Retired	2019-04-24
 * MISSING	24983	""	""	""	""	""
-* MISSING	24987	""	""	""	""	""
-* MISSING	24990	""	""	""	""	""
+Anderson, Katharine G.	24987	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1994-06-06
+Outhaythip, Navarath	24990	Portland Police Bureau	Inactive	Criminalist	Retired	2023-12-08
 * MISSING	24991	""	""	""	""	""
-* MISSING	24993	""	""	""	""	""
-* MISSING	24997	""	""	""	""	""
-* MISSING	25048	""	""	""	""	""
+Kaney, Joseph E.	24993	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1992-05-31
+Baker, William H., Jr.	24997	Portland Police Bureau	Inactive	Reserve Officer	Resigned	2002-07-26
+Austria, Richard B.	25048	Portland Police Bureau	Inactive	Sergeant	Retired	2016-10-20
 * MISSING	25051	""	""	""	""	""
 * MISSING	25052	""	""	""	""	""
 * MISSING	25056	""	""	""	""	""
 * MISSING	25059	""	""	""	""	""
-* MISSING	25060	""	""	""	""	""
+Roeser, Daren C.	25060	Portland Police Bureau	Inactive	Sergeant	Retired	2019-03-20
 * MISSING	25063	""	""	""	""	""
 Welp, Joseph B.	25064	Portland Police Bureau	Inactive	Police Officer	Retired	2016-04-28
 Daul, Chad R.	25075	Portland Police Bureau	Inactive	Police Officer	Retired	2021-08-23
