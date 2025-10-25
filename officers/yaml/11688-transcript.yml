@@ -1,2 +1,280 @@
 ---
-missing_transcript: true
+header_record:
+  name: Gill, Peter J.
+  dpsst_identifier: '11688'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/23/2020
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 6/14/1990
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 3/1/1985
+  agency: Beaverton Police Department
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 5/30/1984
+  agency: Beaverton Police Department
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 5/29/1984
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 9/21/1978
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 7/23/2025
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 4/10/1991
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 10/16/2024
+  course: BVP1987A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/26/2020
+  course: PDP24243
+  title: 2020-2 City Attorney's Office Legal Updates 2/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/16/2020
+  course: PDP08328
+  title: 2020 City Attorney's Gathright Decision Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/13/2020
+  course: PDP15453
+  title: 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/30/2020
+  course: PDP18308
+  title: 2020-3 TipsTech Using Online Report for Addl Prop
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2020
+  course: PDP11465
+  title: 2020 YSD School Critical Incident Plans Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/13/2020
+  course: PDP09893
+  title: 2020 SERT Patrol Armored Vehicle Use Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/13/2020
+  course: PDP43925
+  title: 2020-1 CHO Force Inspector Updates for Q1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/13/2020
+  course: PDP40578
+  title: 2020-1 City Attorney's Office Legal Updates 1/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/7/2020
+  course: PDP09165
+  title: 2019-12 City Attorney's Office Legal Updates 12/19
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/4/2020
+  course: PDP14732
+  title: 2020 Youth Educating Police Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/21/2020
+  course: PDP24494
+  title: 2020 Chief's Office Uniform Guide Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/21/2020
+  course: PDP08320
+  title: 2020 Training Active Threat Review Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2020
+  course: PDP15754
+  title: 2020-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/13/2020
+  course: PDP16258
+  title: 2020-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2020
+  course: PDP15893
+  title: 2020-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2020
+  course: PDP11761
+  title: 2019-10 City Attorney's Office Legal Updates 10/19
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2020
+  course: PDP23987
+  title: 2020 Threat Assess/Referral Program (TARP) App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2020
+  course: PDP42566
+  title: 2019-11 City Attorney's Office Legal Updates 11/19
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/27/2019
+  course: MISCMAIN
+  title: 2019 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/16/2019
+  course: PDP36450
+  title: 2019 Training Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/16/2019
+  course: PDP40375
+  title: 2019 Training Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/15/2019
+  course: PDP12568
+  title: 2019 MCDA Unavoidable Lull Opinion Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2019
+  course: PDP40363
+  title: 2019 Chief's Office SPLC Racists Skinheads
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/25/2019
+  course: PDP31997
+  title: 2019 Chief's Office SPLC Aryan Prison Gangs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/25/2019
+  course: PDP19532
+  title: 2019-9 City Attorney's Office Legal Updates 9/2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2019
+  course: PDP35628
+  title: 2019 Training Sworn InService-ActiveThreat:Practic
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/25/2019
+  course: PDP37462
+  title: 2019 Sworn InService-Pro Justice:Diff Vet Driver
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/25/2019
+  course: PDP17934
+  title: 2019 Training Sworn In-Service-CEW/Taser:Practical
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/25/2019
+  course: PDP27768
+  title: 2019 Training Sworn In-Service - Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/25/2019
+  course: PDP15175
+  title: 2019 Training Sworn InService-Firearm:Target Focus
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/25/2019
+  course: PDP37902
+  title: '2019 Training Sworn Member In-Service - PVO: HRVS'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/24/2019
+  course: PDP21868
+  title: 2019 Sworn In-Service-CIT/MH Crisis Response Upd
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2019
+  course: PDP23047
+  title: 2019 Sworn In-Service-Functional Mvmt Stretch
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2019
+  course: PDP04820
+  title: 2019 Training Sworn InService-Leadership:Org Excel
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2019
+  course: PDP09647
+  title: 2019-8 City Attorney's Office Legal Updates 8/2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/18/2019
+  course: PDP08945
+  title: 2019-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+attribute_records: []
+education_records: []
