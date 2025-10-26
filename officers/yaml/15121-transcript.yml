@@ -1,2 +1,117 @@
 ---
-missing_transcript: true
+header_record:
+  name: Howell, Mary T.
+  dpsst_identifier: '15121'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 10/30/2019
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 1/11/1982
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 2/29/2016
+  course: F6C04700
+  title: Emergency Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2014
+  course: 14-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/13/2009
+  course: '09-0702'
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/14/2007
+  course: 07-1009
+  title: A Clinical Response to Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/23/2007
+  course: 07-1178
+  title: Radar / Lidar Training - Home Agency Approved
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/26/2006
+  course: 06-2300
+  title: Oregon Open Records Law
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/1992
+  course: 92K203
+  title: ID/COPING WITH STRESS FOR RECORDS TECH
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/9/1988
+  course: '889277'
+  title: STREET GANG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/14/1986
+  course: '869004'
+  title: HISTORY OF ORGANIZED CRIME IN AMERICA
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/10/1985
+  course: '859203'
+  title: LEDS SYSTEM CHANGES
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/1/1982
+  course: 82LM24
+  title: LEDS TRAINING GUIDE
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+attribute_records: []
+education_records: []
