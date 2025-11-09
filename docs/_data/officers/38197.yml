@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '38197'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Police Officer
+  rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/6/2025
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 4/1/2019
   agency: DPSST Use Only
   action: Resigned
@@ -69,6 +75,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2025
+  course: PDP3698B
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/23/2025
+  course: PDP4526B
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2025
+  course: PDP1232B
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2025
+  course: PDP4544B
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2025
+  course: PDP2961B
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2025
+  course: PDP3376B
+  title: 2025-10 CAO Legal Updates for 3/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2025
+  course: PDP3739B
+  title: '2025-10 CAO Updates: Disorderly Conduct'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2025
+  course: PDP3597B
+  title: 2025-10 CHO Executive Order, DIR 0625.00
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2025
+  course: PDP1093B
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2025
+  course: PDP1261B
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/15/2025
+  course: PDP0599B
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/24/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
@@ -99,6 +177,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 8/13/2025
+  course: PDP2512B
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -339,6 +423,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 2/13/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/12/2025
   course: PDP3300A
   title: 2025 CNT Crisis Negotiation Team Annual Training

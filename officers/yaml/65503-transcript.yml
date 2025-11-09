@@ -30,6 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/8/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2025
+  course: PDP0826B
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2025
+  course: PDP1186B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2025
+  course: PDP2620B
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/23/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop
@@ -426,6 +450,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/13/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/11/2025
   course: PDP2208A
   title: Hazmat/WMD Awareness/Gas Mask

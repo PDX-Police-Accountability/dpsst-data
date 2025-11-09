@@ -18,16 +18,14 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/22/2020 | Police Officer | Supervisory | Granted | 7/22/2020 | 10/31/2025 |  |
-| 8/20/2019 | Police Officer | Advanced | Granted | 8/20/2019 | 10/31/2025 |  |
-| 10/29/2010 | Police Officer | Intermediate | Granted | 10/29/2010 | 10/31/2025 |  |
-| 12/21/2009 | Police Officer | Basic | Granted | 12/21/2009 | 10/31/2025 |  |
+| 10/31/2025 | Police Officer | Advanced | Lapsed | 8/20/2019 | 7/31/2030 |  |
+| 10/31/2025 | Police Officer | Basic | Lapsed | 12/21/2009 | 7/31/2030 |  |
+| 10/31/2025 | Police Officer | Intermediate | Lapsed | 10/29/2010 | 7/31/2030 |  |
+| 10/31/2025 | Police Officer | Supervisory | Lapsed | 7/22/2020 | 7/31/2030 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/26/2025 | 3/26/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 10/24/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -61,6 +59,7 @@
 | 1/14/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/14/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 1/14/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 1/14/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/9/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 1/9/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |

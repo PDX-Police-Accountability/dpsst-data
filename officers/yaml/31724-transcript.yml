@@ -125,6 +125,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/3/2025
+  course: BNS2480B
+  title: 40MM
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/3/2025
+  course: BNS0801B
+  title: Pepperball
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/3/2025
+  course: BNS3718B
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/9/2025
   course: BNS3425B
   title: July Firearms
@@ -134,6 +152,12 @@ training_records:
 - date: 7/9/2025
   course: BNS2038B
   title: July Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/9/2025
+  course: BNS1111B
+  title: July Arrest and Control
   status: Passed
   score: '0.0'
   hours: '2.00'

@@ -21,15 +21,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/25/2025 | Police Officer | Supervisory | App Recd |  |  |  |
+| 11/4/2025 | Police Officer | Supervisory | Granted | 11/4/2025 |  |  |
 | 5/16/2024 | Police Officer | Advanced | Granted | 5/16/2024 |  |  |
 | 5/16/2024 | Police Officer | Intermediate | Granted | 5/16/2024 |  |  |
 | 3/2/2019 | Police Officer | Basic | Granted | 3/2/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/28/2024 | 1/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
@@ -43,7 +43,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 10/21/2025 | OSH1437B | First In Last Out: Extreme Ownership | Passed | 0.0 | 1.00 |
+| 10/20/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/17/2025 | OSH3702B | Ethics | Passed | 0.0 | 1.00 |
+| 10/6/2025 | OSH3428B | Sworn Monthly Leadership Training | Passed | 0.0 | 1.00 |
 | 10/2/2025 | OSH2639B | Central Region Leadership Summit | Passed | 0.0 | 5.00 |
+| 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/16/2025 | OSH0020B | Manager Competency Training - Budget 101 | Passed | 0.0 | 1.00 |
 | 9/4/2025 | OSH2634B | Airway Circulatory Anatomy  Physiology | Passed | 0.0 | 4.00 |
 | 8/5/2025 | OSH2079B | OSP Regional EVO 2025 | Passed | 0.0 | 4.00 |
@@ -54,10 +59,12 @@
 | 5/15/2025 | OSH0679B | MIT Surveillance Training | Passed | 0.0 | 2.00 |
 | 5/15/2025 | OSH1033B | Infant Death Investigations | Passed | 0.0 | 1.00 |
 | 5/15/2025 | OSH0153B | MIT OSP K9 Training | Passed | 0.0 | 1.00 |
+| 5/5/2025 | OSH3221B | Sworn Monthly Leadership Training | Passed | 0.0 | 1.25 |
 | 4/30/2025 | OSH1655B | 2025 CID in-service - Group 1 | Passed | 0.0 | 16.00 |
 | 4/15/2025 | OSH0277B | Manager Comp.-TORT/Risk Mgt, Fleet  AOC Overview | Passed | 0.0 | 2.00 |
 | 4/8/2025 | OSH4493A | Central Region Leadership Summit | Passed | 0.0 | 6.00 |
 | 4/7/2025 | OSH1879A | STOP Program: Data Collection on the Road | Passed | 0.0 | 0.00 |
+| 4/7/2025 | OSH0222B | Sworn Monthly Leadership Training | Passed | 0.0 | 1.00 |
 | 4/3/2025 | OSH3594A | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
 | 1/21/2025 | OSH1334A | Manager Comp.-Legistlative Processes/Goal Setting | Passed | 0.0 | 1.00 |
 | 12/17/2024 | OSH4355A | Manager Comp.-Lean Six Sigma-Process Improvement | Passed | 0.0 | 1.00 |

@@ -29,6 +29,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/14/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 10/14/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 10/14/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 10/14/2025 | PDP2961B | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/14/2025 | PDP4544B | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 10/14/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
+| 10/14/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
+| 10/14/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 10/14/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 10/14/2025 | PDP3766B | AA 2025 [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 10/7/2025 | PDP2570B | AA 2025 [CIT-111-A] Project Respond | Passed | 0.0 | 0.25 |
+| 10/7/2025 | PDP1338B | AA 2025 [CIT-112-A] Behavioral Health Unit | Passed | 0.0 | 0.25 |
 | 9/17/2025 | PDP3732B | AA 2025 [ETH-101-H] Intro to Ethics in Policing v2 | Passed | 0.0 | 0.25 |
 | 9/11/2025 | PDP3747B | AA 2025 [PJU-101-H] Introd to PLPJ | Passed | 0.0 | 0.25 |
 | 9/11/2025 | PDP2547B | AA 2025 [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
@@ -38,6 +50,7 @@
 | 7/30/2025 | PDP1550B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 7/30/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/30/2025 | PDP1223B | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/30/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 7/23/2025 | PDP0289B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 7/23/2025 | PDP1906B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 7/23/2025 | PDP1689B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |

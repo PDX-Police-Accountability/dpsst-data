@@ -31,6 +31,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/27/2025 | PDP3304B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 10/27/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
+| 10/27/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
+| 10/27/2025 | PDP3766B | AA 2025 [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 10/22/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
+| 10/9/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 10/9/2025 | PDP3766B | AA 2025 [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
 | 9/25/2025 | PDP3732B | AA 2025 [ETH-101-H] Intro to Ethics in Policing v2 | Passed | 0.0 | 0.25 |
 | 9/25/2025 | PDP3463B | AA 2025 [CIT-111-A] Project Respond | Passed | 0.0 | 0.25 |
 | 9/25/2025 | PDP4546B | AA 2025 [CIT-112-A] Behavioral Health Unit | Passed | 0.0 | 0.25 |
@@ -42,6 +49,7 @@
 | 7/1/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 7/1/2025 | PDP1550B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 7/1/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 7/1/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 6/12/2025 | PDP0954A | 2025 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/11/2025 | PDP0115A | Air Purifying Respirator and HAZMAT | Passed | 0.0 | 3.00 |
 | 6/11/2025 | PDP1769B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |

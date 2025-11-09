@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/30/2025 | Multnomah County Adult Community Justice | Retired | Par/prob O |  |  |
 | 1/22/2001 | Multnomah County Adult Community Justice | Hired | Par/prob O |  |  |
 | 9/24/1999 | Multnomah County Sheriff's Office | Resigned | Civln Emp |  |  |
 | 7/26/1997 | Multnomah County Sheriff's Office | Hired | Civln Emp |  |  |
@@ -20,8 +21,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/18/2004 | Parole  Probation Officer | Intermediate | Granted | 11/18/2004 |  |  |
-| 8/7/2002 | Parole  Probation Officer | Basic | Granted | 8/7/2002 |  |  |
+| 11/18/2004 | Parole  Probation Officer | Intermediate | Granted | 11/18/2004 | 12/30/2025 |  |
+| 8/7/2002 | Parole  Probation Officer | Basic | Granted | 8/7/2002 | 12/30/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

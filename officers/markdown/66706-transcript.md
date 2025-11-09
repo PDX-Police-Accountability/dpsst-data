@@ -20,6 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 10/27/2025 |  |
+| Certification Cards | First Aid and CPR | 10/13/2025 | 10/13/2027 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -28,3 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/27/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 10/23/2025 | PDP1892B | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
+| 10/13/2025 | PDP3784B | CPR/First Aid | Passed | 0.0 | 3.00 |
+| 10/1/2025 | PDP1880B | TEEX WMD Terrorism Aware for Emer Resp | Passed | 0.0 | 8.00 |
+| 10/1/2025 | PDP2205B | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

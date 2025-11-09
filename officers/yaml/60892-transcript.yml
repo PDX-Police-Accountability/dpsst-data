@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/30/2025
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: 3/26/2028
+  probation_date: ''
 - status_date: 10/7/2025
   certificate: Police Officer
   level: Basic
@@ -50,6 +57,18 @@ certification_records:
   expiration_date: 3/26/2028
   probation_date: ''
 training_records:
+- date: 10/8/2025
+  course: FGP4284B
+  title: Red Dot Transition
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/6/2025
+  course: FGP2480B
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/2/2025
   course: FGP3808B
   title: CPR AED First Aid
@@ -1163,4 +1182,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 8/4/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/15/2024
+  degree: Bachelor Science
+  school: Portland State University
+  major: Business Administration
+  hours: '208.0'

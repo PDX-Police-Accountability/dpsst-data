@@ -46,6 +46,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
+| 10/15/2025 | PDS4490B | Mental Health First Aid | Passed | 0.0 | 8.00 |
+| 10/8/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/1/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/1/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

@@ -49,6 +49,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2025
+  course: MFN2070B
+  title: Substance Use Tx for Marginalized Populations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2025
+  course: MFN2521B
+  title: Deep Dive Into Criminogenic Needs
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/30/2025
+  course: MFN3647B
+  title: Office Structure  BCP Review
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/24/2025
+  course: MFN2681B
+  title: Conflict Simulations (MILO)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/14/2025
+  course: MFN2826B
+  title: Introduction to Peer Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/25/2025
   course: MFN4020B
   title: Cognitive/unconventional shooting
@@ -74,8 +104,8 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 8/25/2025
-  course: MFN2730B
-  title: Diversity, Equity and Inclusion
+  course: MFN4124B
+  title: Diversity, Equity and Inclusion (Comm Justice)
   status: Passed
   score: '0.0'
   hours: '2.00'

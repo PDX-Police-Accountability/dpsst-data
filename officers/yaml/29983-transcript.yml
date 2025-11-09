@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2025
+  course: APD3121B
+  title: Building Searches / Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/6/2025
   course: APD3401A
   title: 'Opioid Crisis: Protecting Our First Responders'

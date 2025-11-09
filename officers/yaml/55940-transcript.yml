@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/10/2025
+  course: PDP1261B
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/26/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
@@ -49,6 +55,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '50.00'
+- date: 8/28/2025
+  course: PDP2662B
+  title: Modern Day Sniper LE Skills
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 8/26/2025
   course: MFS3885B
   title: Modern Day Sniper - Law Enforcement Skills
@@ -382,6 +394,12 @@ training_records:
 - date: 1/17/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/17/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/21/2025 | Bureau of Emergency Communications | Resigned | Dispatcher |  |  |
 | 2/27/2025 | Bureau of Emergency Communications | Hired | Dispatcher |  |  |
 | 10/1/2018 | Bureau of Emergency Communications | Resigned | Dispatcher |  |  |
 | 8/27/2018 | Bureau of Emergency Communications | Hired | Dispatcher |  |  |
@@ -24,8 +25,6 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/27/2025 | Emergency Medical Dispatcher | Basic | Required |  |  | 8/27/2026 |
-| 2/27/2025 | Telecommunicator | Basic | Required |  |  | 8/27/2026 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -37,9 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/27/2026 | E50-25A | Basic EMD Equivalency APCO or  IAED | Required | 0.0 | 24.00 |
-| 8/27/2026 | M41-15 | DPSST Basic Telecommunications FTM | Required | 0.0 | 50.00 |
-| 8/27/2026 | M51-16 | DPSST EMD Field Training Manual | Required | 0.0 | 50.00 |
+| 10/20/2025 | PMC3442B | Ethics Fall 2025 In-Service | Passed | 0.0 | 1.00 |
+| 10/20/2025 | PMC4523B | Fall 2025 In-Service | Passed | 0.0 | 7.00 |
 | 9/5/2025 | M40-21A | DPSST Basic Telecommunicator Course | Passed | 0.0 | 116.00 |
 | 6/26/2025 | PMC4477B | OUTEC - Online Universal Telecommunication Ess. | Passed | 0.0 | 3.00 |
 | 4/8/2025 | PMC1308A | Spring 2025 Inservice | Passed | 0.0 | 7.00 |

@@ -3,12 +3,18 @@ header_record:
   name: Carroll, Julian L.
   dpsst_identifier: '33550'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/15/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 10/24/2022
   agency: Portland Police Bureau
   action: LOA
@@ -75,28 +81,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 10/28/2021
-  expiration_date: ''
+  expiration_date: 1/15/2026
   probation_date: ''
 - status_date: 8/18/2005
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 8/18/2005
-  expiration_date: ''
+  expiration_date: 1/15/2026
   probation_date: ''
 - status_date: 8/7/2001
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 8/7/2001
-  expiration_date: ''
+  expiration_date: 1/15/2026
   probation_date: ''
 - status_date: 8/4/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 8/4/2000
-  expiration_date: ''
+  expiration_date: 1/15/2026
   probation_date: ''
 training_records:
 - date: 2/8/2023
@@ -4126,10 +4132,6 @@ attribute_records:
   value: Signed
   effective_date: 8/4/2000
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 7/15/2025
 education_records:
 - date: 6/13/1999
   degree: Bachelor Science

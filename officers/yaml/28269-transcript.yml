@@ -113,6 +113,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2025
+  course: BNP1265B
+  title: Leadership
+  status: Instructed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/14/2025
+  course: BNP3525B
+  title: Active threat Reponse
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2025
+  course: BNP0397B
+  title: Rifle /Pistol Excertion Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2025
+  course: BNP3921B
+  title: Rifle /Pistol Positional Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2025
+  course: BNP2614B
+  title: Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/14/2025
+  course: BNP2441B
+  title: Low light firearm qualifications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/25/2025
   course: OAC2191B
   title: Systematizing Security In Schools

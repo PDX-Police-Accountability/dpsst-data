@@ -58,6 +58,7 @@
 | 5/21/2025 | PDS0870A | Taser 7 | Passed | 0.0 | 8.00 |
 | 5/13/2025 | PDS1798B | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 5/12/2025 | PDS1010A | Sergeant Training | Passed | 0.0 | 1.00 |
+| 5/8/2025 | PDS0039B | Body Scanner Training | Passed | 0.0 | 4.00 |
 | 4/27/2025 | PDS2352A | WSHNA Training Conference | Passed | 0.0 | 24.00 |
 | 4/13/2025 | PDS1907A | Ethics | Passed | 0.0 | 1.00 |
 | 4/13/2025 | PDS1481A | Drug ID  Recognition | Passed | 0.0 | 5.00 |

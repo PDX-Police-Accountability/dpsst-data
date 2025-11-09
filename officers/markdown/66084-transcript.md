@@ -29,6 +29,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/28/2025 | PDP3304B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 10/28/2025 | PDP3766B | AA 2025 [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 10/18/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
+| 10/18/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/30/2025 | PDP3463B | AA 2025 [CIT-111-A] Project Respond | Passed | 0.0 | 0.25 |
 | 9/30/2025 | PDP4546B | AA 2025 [CIT-112-A] Behavioral Health Unit | Passed | 0.0 | 0.25 |
 | 9/24/2025 | PDP3732B | AA 2025 [ETH-101-H] Intro to Ethics in Policing v2 | Passed | 0.0 | 0.25 |
@@ -47,6 +51,7 @@
 | 7/23/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/22/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 7/22/2025 | PDP1223B | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 7/22/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 7/17/2025 | PDP0289B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 7/15/2025 | PDP3628B | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 7/14/2025 | PDP1206B | FTEP Geography | Passed | 0.0 | 3.00 |

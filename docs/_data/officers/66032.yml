@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/28/2025
+  course: PDP3766B
+  title: AA 2025 [CIT-113-H] Responding to a MH Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2025
+  course: PDP3304B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/30/2025
   course: PDP3463B
   title: AA 2025 [CIT-111-A] Project Respond
@@ -105,6 +117,12 @@ training_records:
 - date: 9/8/2025
   course: PDP0112B
   title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/8/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -31,7 +31,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 9/18/2025 | 9/18/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Code of Ethics | Signed | 12/21/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/9/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/18/2025 | PDS1409B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 9/18/2025 | PDS1957B | Taser 7 | Passed | 0.0 | 4.00 |

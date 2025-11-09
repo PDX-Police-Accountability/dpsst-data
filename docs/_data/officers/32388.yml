@@ -50,14 +50,44 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/15/2025
+  course: GSP4095B
+  title: SWAT Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/2/2025
-  course: GSP4154B
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/2/2025
+  course: GSP0901B
   title: 2025 Ethics Training
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 10/1/2025
-  course: GSP4154B
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2025
+  course: GSP1472B
+  title: 2025 Language Line Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/1/2025
+  course: GSP0901B
   title: 2025 Ethics Training
   status: Passed
   score: '0.0'
@@ -65,13 +95,13 @@ training_records:
 - date: 9/28/2025
   course: GSP0359B
   title: Rifle In-service Training
-  status: ''
+  status: Instructed
   score: '0.0'
   hours: '10.00'
 - date: 9/21/2025
   course: GSP2321B
   title: Rifle In-service Training
-  status: Passed
+  status: Instructed
   score: '0.0'
   hours: '10.00'
 - date: 9/19/2025
@@ -95,7 +125,7 @@ training_records:
 - date: 9/14/2025
   course: GSP3908B
   title: 2025 Handgun In-Service
-  status: Passed
+  status: Instructed
   score: '0.0'
   hours: '10.00'
 - date: 8/22/2025
@@ -4678,13 +4708,13 @@ training_records:
   hours: '345.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/18/2024

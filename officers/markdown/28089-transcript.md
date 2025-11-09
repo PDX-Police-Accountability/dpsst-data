@@ -4,7 +4,7 @@
 | name | Pashley, Gregory R. |
 | dpsst_identifier | 28089 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Captain |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/6/2025 | Portland Police Bureau | Retired | Captain |  |  |
 | 1/19/2023 | Portland Police Bureau | Promotion | Captain |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 2/18/2010 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -25,11 +26,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/18/2020 | Police Officer | Management | Granted | 6/18/2020 |  |  |
-| 10/31/2011 | Police Officer | Supervisory | Granted | 10/31/2011 |  |  |
-| 9/8/1999 | Police Officer | Advanced | Granted | 9/8/1999 |  |  |
-| 2/25/1997 | Police Officer | Intermediate | Granted | 2/25/1997 |  |  |
-| 11/23/1993 | Police Officer | Basic | Granted | 11/23/1993 |  |  |
+| 6/18/2020 | Police Officer | Management | Granted | 6/18/2020 | 1/6/2026 |  |
+| 10/31/2011 | Police Officer | Supervisory | Granted | 10/31/2011 | 1/6/2026 |  |
+| 9/8/1999 | Police Officer | Advanced | Granted | 9/8/1999 | 1/6/2026 |  |
+| 2/25/1997 | Police Officer | Intermediate | Granted | 2/25/1997 | 1/6/2026 |  |
+| 11/23/1993 | Police Officer | Basic | Granted | 11/23/1993 | 1/6/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

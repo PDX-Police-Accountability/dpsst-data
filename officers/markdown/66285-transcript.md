@@ -29,7 +29,59 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/27/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
+| 10/27/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP0600B | FTEP Orientation | Passed | 0.0 | 6.00 |
+| 10/14/2025 | PDP2197B | FTEP Introduction to Geography | Passed | 0.0 | 2.00 |
+| 10/13/2025 | PDP0177B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP1082B | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
+| 10/13/2025 | PDP1181B | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP1587B | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP3720B | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP0477B | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP0479B | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP0565B | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP1582B | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP4593B | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP1376B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP0803B | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP0338B | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP3686B | 2021 IS Language Access -Translation | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP1158B | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 10/13/2025 | PDP1933B | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP2076B | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP2603B | 2025-07 CAO Legal Updates for 8  9/2024 | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP3244B | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP2498B | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP1318B | 2025-07 CAO Legal Updates for 7/2024 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP0351B | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP2806B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP0486B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 10/13/2025 | PDP3646B | 2025-1 CAO Legal Updates for 9  10/2023 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP3304B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP2957B | 2025-3 CAO Legal Updates for 3/2024-6/2024 | Passed | 0.0 | 0.75 |
+| 10/13/2025 | PDP1186B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP0826B | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP2493B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP3481B | DIR 0640.37, Communication with Persons | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP3692B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP0824B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP2334B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP1331B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 10/13/2025 | PDP0170B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 10/10/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 10/9/2025 | PDP0300B | RegJin MDT/MRE New Hire Training | Passed | 0.0 | 14.00 |
+| 10/7/2025 | PDP4392B | Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 10/6/2025 | PDP1022B | Annual HRAR 2.04 Gender Identity | Passed | 0.0 | 0.50 |
+| 10/6/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
+| 10/1/2025 | PDP1402B | TEEX WMD Terror Aware for Emer Resp | Passed | 0.0 | 8.00 |
+| 10/1/2025 | PDP1400B | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 10/1/2025 | PDP3544B | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 10/1/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 10/1/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 9/30/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 9/29/2025 | PDP0508B | HAZMAT/WMD Awareness Respirator | Passed | 0.0 | 3.00 |
 | 9/25/2025 | PDP1557B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 9/24/2025 | PDP4559B | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 9/23/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |

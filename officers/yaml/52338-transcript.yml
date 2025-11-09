@@ -63,6 +63,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2025
+  course: PDP3698B
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2025
+  course: PDP4526B
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2025
+  course: PDP1232B
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2025
+  course: PDP4544B
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2025
+  course: PDP2961B
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/25/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
@@ -294,6 +330,12 @@ training_records:
 - date: 1/30/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/30/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

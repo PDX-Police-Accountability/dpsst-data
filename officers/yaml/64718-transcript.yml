@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/30/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
@@ -138,6 +144,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/20/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/14/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap

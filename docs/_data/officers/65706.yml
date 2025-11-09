@@ -30,6 +30,60 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/27/2025
+  course: PDP3739B
+  title: '2025-10 CAO Updates: Disorderly Conduct'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2025
+  course: PDP3597B
+  title: 2025-10 CHO Executive Order, DIR 0625.00
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2025
+  course: PDP1261B
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2025
+  course: PDP1093B
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/15/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/15/2025
+  course: PDP3376B
+  title: 2025-10 CAO Legal Updates for 3/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/15/2025
+  course: PDP1050B
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/28/2025
   course: PDP1832B
   title: '2025-7, Legal Updates: Search  Seizure'
@@ -453,6 +507,12 @@ training_records:
 - date: 4/3/2025
   course: PDP2342B
   title: DIR 0910.00 Update De Minimis Force 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

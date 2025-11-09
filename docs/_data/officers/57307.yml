@@ -44,6 +44,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/15/2025
+  course: PDP0097B
+  title: 2025 ABLE and Procedural Justice Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/15/2025
+  course: PDP0097B
+  title: 2025 ABLE and Procedural Justice Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 9/30/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
@@ -62,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/10/2025
+  course: PDP1172B
+  title: 2025 Control Tactics  Elevated Risk Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/22/2025
+  course: PDP2173B
+  title: California Gang Investigators Association
+  status: Passed
+  score: '0.0'
+  hours: '32.75'
 - date: 8/20/2025
   course: PDP1832B
   title: '2025-7, Legal Updates: Search  Seizure'
@@ -275,6 +305,12 @@ training_records:
 - date: 2/12/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -3477,14 +3513,14 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/17/2025
   expiration_date: 5/17/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

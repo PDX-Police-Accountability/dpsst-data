@@ -81,12 +81,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/1/2025
-  course: GSP4154B
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2025
+  course: GSP1472B
+  title: 2025 Language Line Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/1/2025
+  course: GSP0901B
   title: 2025 Ethics Training
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/25/2025
+  course: HBS4511B
+  title: Building Bridges 2025
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 9/9/2025
   course: GSP0033B
   title: 2025 Handgun In-Service
@@ -6359,13 +6383,13 @@ training_records:
   hours: '4.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/12/2024

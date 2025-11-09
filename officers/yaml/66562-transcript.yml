@@ -66,7 +66,29 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 6/21/2021
+  course: PDP0622B
+  title: IS-700 National Inc Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/12/2021
+  course: PDP3876B
+  title: ICS-100 Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/12/2021
+  course: PDP1971B
+  title: ICS-200 Basic Incident Comm System Initial Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 10/20/2025
+  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/25/2025

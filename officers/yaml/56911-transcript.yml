@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/19/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
@@ -50,6 +56,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '20.00'
+- date: 9/16/2025
+  course: PDP1457B
+  title: 2025 Traffic Basic Police Motorcycle School
+  status: Instructed
+  score: '0.0'
+  hours: '100.00'
+- date: 9/16/2025
+  course: PDP3083B
+  title: 2025 Traffic Monthly Motor Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/15/2025
+  course: PDP2608B
+  title: 2025 Traffic Monthly Motor Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/12/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop
@@ -266,6 +290,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/17/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/17/2025 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 1/16/2023 | Hood River County Sheriff's Office | Promotion | Sergeant |  |  |
 | 7/1/2021 | Hood River County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 6/23/2021 | The Dalles Police Department | Resigned | Police Off |  |  |
@@ -43,6 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2025 | HRS3448B | Night Range | Passed | 0.0 | 3.00 |
+| 10/2/2025 | TDP3557B | Mission Planning and Range | Passed | 0.0 | 8.00 |
 | 9/11/2025 | HRS0242B | Active Threat Response | Passed | 0.0 | 4.00 |
 | 8/28/2025 | 25-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 6/12/2025 | HRS2424B | High Risk Stops Refresher | Passed | 0.0 | 4.00 |

@@ -42,12 +42,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2025 | OCS1175B | October 2025 CCITF Firearms | Instructed | 0.0 | 3.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/30/2025 | OCS0653B | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Instructed | 0.0 | 10.00 |
 | 9/25/2025 | SMS3422B | Colt Armorer Course | Passed | 0.0 | 24.00 |
 | 9/25/2025 | SMS3893B | Colt Armorer Course | Passed | 0.0 | 24.00 |
+| 9/22/2025 | OCS3919B | 2025 3rd Qtr Corrections Firearms | Instructed | 0.0 | 18.00 |
 | 9/12/2025 | OCS1928B | September 2025 SWAT Sniper Training | Instructed | 0.0 | 6.00 |
+| 9/1/2025 | OCS1823B | ACAP training | Passed | 0.0 | 2.00 |
 | 8/29/2025 | OCS3580B | August 2025 New Hire Firearms | Instructed | 0.0 | 8.00 |
 | 8/13/2025 | OCS0877B | De-escalation | Passed | 0.0 | 1.00 |
 | 5/16/2025 | OCS1720B | Feb, March, April 2025 Monthly Firearms | Instructed | 0.0 | 3.00 |

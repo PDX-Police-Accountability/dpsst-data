@@ -44,6 +44,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2025
+  course: PDP2812B
+  title: 2025-1 Supervisors In-Service (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/21/2025
+  course: PDP3412B
+  title: 2025-1 Supervisors In-Service (Leadership)
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/15/2025
+  course: PDP0599B
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/15/2025
+  course: PDP0599B
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/8/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/30/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
@@ -104,6 +134,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/13/2025
+  course: PDP2512B
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/13/2025
+  course: PDP2512B
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -389,6 +431,12 @@ training_records:
 - date: 1/13/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

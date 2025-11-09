@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2025
+  course: PDS4238B
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2025
+  course: PDS4238B
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/30/2025
   course: PDS4481B
   title: VR ConSim
@@ -80,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 9/29/2025
+  course: PDS1052B
+  title: UNET Fall Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/28/2025
   course: PDS0083B
   title: Taser 7
@@ -89,6 +107,30 @@ training_records:
 - date: 9/28/2025
   course: PDS4042B
   title: VR ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/24/2025
+  course: PDS2046B
+  title: ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/24/2025
+  course: PDS3657B
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/23/2025
+  course: PDS0082B
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/23/2025
+  course: PDS4429B
+  title: ConSim
   status: Instructed
   score: '0.0'
   hours: '2.00'
@@ -116,6 +158,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/9/2025
+  course: PDS1052B
+  title: UNET Fall Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/28/2025
+  course: PDS1052B
+  title: UNET Fall Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/27/2025
+  course: PDS0291B
+  title: Breaching/Patrol Tactics/Searches
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/26/2025
   course: PDS4218B
   title: Firearms
@@ -140,6 +200,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 8/11/2025
+  course: PDS1817B
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/11/2025
+  course: PDS1931B
+  title: Handcuffing
+  status: Instructed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/6/2025
+  course: PDS2835B
+  title: Defensive Tactics IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/23/2025
   course: PDS0318B
   title: Red Dot Firearms
@@ -152,12 +230,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/16/2025
+  course: PDS26368
+  title: Taser
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/9/2025
   course: PDS1966B
   title: Communications
   status: Instructed
   score: '0.0'
   hours: '3.50'
+- date: 6/16/2025
+  course: PDS2058B
+  title: ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/11/2025
   course: PDS2894B
   title: ConSim

@@ -63,6 +63,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2025
+  course: OCP0807B
+  title: Adult Learning Concepts for Field Trainers
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/29/2025
+  course: OCP0946B
+  title: Fall 2025 Field Training Officer Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2025
+  course: OCP4356B
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/23/2025
+  course: OCP2237B
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/13/2025
+  course: OCP0652B
+  title: ADA Compliance and Service Animals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/25/2025
   course: OCP1609B
   title: Firearms/Use of Force

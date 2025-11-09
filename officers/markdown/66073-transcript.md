@@ -29,6 +29,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/23/2025 | PDP3304B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 10/22/2025 | PDP3766B | AA 2025 [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 10/16/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
+| 10/16/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 10/1/2025 | PDP2570B | AA 2025 [CIT-111-A] Project Respond | Passed | 0.0 | 0.25 |
+| 10/1/2025 | PDP1338B | AA 2025 [CIT-112-A] Behavioral Health Unit | Passed | 0.0 | 0.25 |
 | 9/12/2025 | PDP3732B | AA 2025 [ETH-101-H] Intro to Ethics in Policing v2 | Passed | 0.0 | 0.25 |
 | 9/11/2025 | PDP3747B | AA 2025 [PJU-101-H] Introd to PLPJ | Passed | 0.0 | 0.25 |
 | 9/11/2025 | PDP2547B | AA 2025 [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
@@ -46,6 +52,7 @@
 | 8/30/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 8/30/2025 | PDP1223B | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/28/2025 | PDP1624B | 2021 Online In-Service Language Access | Passed | 0.0 | 0.25 |
+| 8/28/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 8/27/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/15/2025 | PDP3628B | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 7/14/2025 | PDP1206B | FTEP Geography | Passed | 0.0 | 3.00 |

@@ -37,9 +37,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/24/2025 | 1/24/2027 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 2/21/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +48,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/1/2025 | LGS1907B | Crisis Response Course #CITCR101 | Passed | 0.0 | 1.00 |
+| 10/16/2025 | PLS0763B | Firearms Barricade Movement | Passed | 0.0 | 4.00 |
+| 10/3/2025 | LGS2262B | OSSA ACAP Training | Passed | 0.0 | 2.00 |
 | 9/11/2025 | REG2797B | ORVO IDC | Passed | 0.0 | 24.00 |
 | 7/30/2025 | LGS3217B | Pursuit Management/High Risk Vehicle Stops | Passed | 0.0 | 4.00 |
 | 7/18/2025 | LGS4192B | Firearms qualification/Fundamentals | Instructed | 0.0 | 4.00 |

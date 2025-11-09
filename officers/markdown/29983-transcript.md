@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2025 | APD3121B | Building Searches / Tactics | Passed | 0.0 | 8.00 |
 | 7/6/2025 | APD3401A | Opioid Crisis: Protecting Our First Responders | Passed | 0.0 | 1.00 |
 | 6/25/2025 | APD2675B | Taser 7 Transition Training | Passed | 0.0 | 4.00 |
 | 6/25/2025 | APD0341B | Low Light Pistol Training | Passed | 0.0 | 4.00 |

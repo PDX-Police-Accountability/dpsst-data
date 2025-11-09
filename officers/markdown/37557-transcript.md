@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2025 | LOP2106B | TASER 10 Recertification | Passed | 0.0 | 5.00 |
+| 10/25/2025 | LOP4497B | DOT Hazmat | Passed | 0.0 | 0.75 |
 | 10/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/6/2025 | LOP0583B | E-bikes and Devices - ODOT | Passed | 0.0 | 1.00 |
 | 10/1/2025 | LOP1370B | Unconscious Bias | Passed | 0.0 | 0.50 |
@@ -50,6 +52,7 @@
 | 10/1/2025 | LOP2767B | Inclusion in Action | Passed | 0.0 | 1.25 |
 | 10/1/2025 | LOP3443B | Insight to Oregon Government Ethics | Passed | 0.0 | 1.00 |
 | 9/29/2025 | LOP2772B | Airway and Circulatory Crisis | Passed | 0.0 | 2.00 |
+| 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 6/27/2025 | LOP1929B | EVOC | Passed | 0.0 | 10.00 |
 | 6/16/2025 | LOP1777B | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/12/2025 | LOP2143A | Mindset Matters | Passed | 0.0 | 5.00 |

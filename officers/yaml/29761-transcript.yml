@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/21/2025
+  agency: Bureau of Emergency Communications
+  action: Resigned
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
 - date: 2/27/2025
   agency: Bureau of Emergency Communications
   action: Hired
@@ -63,40 +69,20 @@ employment_records:
   rank: Civln Emp
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 2/27/2025
-  certificate: Emergency Medical Dispatcher
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 8/27/2026
-- status_date: 2/27/2025
-  certificate: Telecommunicator
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 8/27/2026
+certification_records: []
 training_records:
-- date: 8/27/2026
-  course: E50-25A
-  title: Basic EMD Equivalency APCO or  IAED
-  status: Required
+- date: 10/20/2025
+  course: PMC3442B
+  title: Ethics Fall 2025 In-Service
+  status: Passed
   score: '0.0'
-  hours: '24.00'
-- date: 8/27/2026
-  course: M41-15
-  title: DPSST Basic Telecommunications FTM
-  status: Required
+  hours: '1.00'
+- date: 10/20/2025
+  course: PMC4523B
+  title: Fall 2025 In-Service
+  status: Passed
   score: '0.0'
-  hours: '50.00'
-- date: 8/27/2026
-  course: M51-16
-  title: DPSST EMD Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
+  hours: '7.00'
 - date: 9/5/2025
   course: M40-21A
   title: DPSST Basic Telecommunicator Course

@@ -50,6 +50,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/18/2025
+  course: HSU3071B
+  title: 2025 Spring In-Service Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/18/2025
+  course: HSU3716B
+  title: 2025 Spring In-Service Patrol Procedures/ PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/18/2025
+  course: HSU1020B
+  title: 2025 Spring In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/18/2025
+  course: HSU3493B
+  title: 2025 Spring In-Service Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2025
+  course: HSU0012B
+  title: 2025 Spring In-Service-ActiveThreat/ForceScenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/17/2025
+  course: HSU3227B
+  title: 2025 Spring In-Service TacticalCombatCasualtyCare
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/17/2025
+  course: HSU1698B
+  title: 2025 Spring In-Service Labor Law
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

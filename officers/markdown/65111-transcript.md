@@ -30,6 +30,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 10/8/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 10/8/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 9/12/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 8/28/2025 | PDP4400B | 2025 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
 | 7/31/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
@@ -76,6 +79,7 @@
 | 1/21/2025 | PDP0623A | 2025-1 Advanced Academy Legit Proc Justice | Passed | 0.0 | 0.50 |
 | 1/21/2025 | PDP3477A | 2025-1 Advanced Academy Ethics | Passed | 0.0 | 0.50 |
 | 1/21/2025 | PDP2419A | Advanced Academy Wellness - Financial | Passed | 0.0 | 1.00 |
+| 1/21/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 1/16/2025 | PDP3209A | AA 2025 Building Police Legit through Proc Justice | Passed | 0.0 | 0.25 |
 | 1/15/2025 | PDP3101A | AA 2025 Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 1/8/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

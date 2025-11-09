@@ -74,6 +74,7 @@
 | 2/7/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 2/7/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 2/7/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 2/7/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 2/5/2025 | PDP4527A | TEEX WMD/Terrorism Aware for Emer Respndrs | Passed | 0.0 | 8.00 |
 | 2/4/2025 | PDP2622A | 2025 FTEP Orientation | Passed | 0.0 | 5.00 |
 | 2/3/2025 | PDP1027A | 2025 FTEP Geography | Passed | 0.0 | 2.00 |

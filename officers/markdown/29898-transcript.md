@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/17/2025 | Gresham Police Department | Hired | Lieutenant |  |  |
 | 11/29/2021 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 11/7/2021 | OHSU University Police | Resigned | Sergeant |  |  |
 | 3/22/2021 | OHSU University Police | Hired | Sergeant |  |  |
@@ -41,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 10/24/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/8/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/25/2025 | PDS4096B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 9/25/2025 | PDS2017B | Taser 7 | Passed | 0.0 | 4.00 |

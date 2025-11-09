@@ -40,6 +40,7 @@
 | 9/2/2025 | PPP0815B | Imporvised Explosive Device Response | Passed | 0.0 | 1.00 |
 | 9/2/2025 | PPP1578B | Airport Security Update | Passed | 0.0 | 1.00 |
 | 8/31/2025 | PPP0338B | Ethical Responibility Responding to DV Calls | Passed | 0.0 | 1.00 |
+| 8/20/2025 | PDS1562B | Crowd Control Refresher | Passed | 0.0 | 2.50 |
 | 7/18/2025 | PPP0038B | Flex Cuffs and Restraints Training | Passed | 0.0 | 1.00 |
 | 7/18/2025 | PPP4183B | Rapid Response Team Refresher Training | Passed | 0.0 | 8.00 |
 | 7/11/2025 | PDP1608B | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

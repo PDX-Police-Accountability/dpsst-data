@@ -30,6 +30,312 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/15/2025
+  course: PDP0600B
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/15/2025
+  course: PDP3376B
+  title: 2025-10 CAO Legal Updates for 3/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/15/2025
+  course: PDP1093B
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2025
+  course: PDP2197B
+  title: FTEP Introduction to Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/13/2025
+  course: PDP0177B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP1181B
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP1082B
+  title: 2025 Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/13/2025
+  course: PDP0477B
+  title: 2021 Online IS Training Procedural Justice Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP0565B
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP1582B
+  title: 2025 Bridging the Language Gap (Curricula)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/13/2025
+  course: PDP4593B
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/13/2025
+  course: PDP1376B
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/13/2025
+  course: PDP3686B
+  title: 2021 IS Language Access -Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP1158B
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/13/2025
+  course: PDP1933B
+  title: 2021 Online IS Training Procedural Justice Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP2076B
+  title: 2021 Online IS Training Procedural Justice Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP2806B
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP3481B
+  title: DIR 0640.37, Communication with Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP3692B
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2025
+  course: PDP0824B
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/13/2025
+  course: PDP2334B
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/13/2025
+  course: PDP1331B
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/13/2025
+  course: PDP0170B
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/10/2025
+  course: PDP1587B
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP0479B
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP0803B
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP2603B
+  title: 2025-07 CAO Legal Updates for 8  9/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/10/2025
+  course: PDP3244B
+  title: 2025-07 CAO Legal Updates for 12/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/10/2025
+  course: PDP2151B
+  title: 2025-07 CAO Legal Updates for 11/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP1318B
+  title: 2025-07 CAO Legal Updates for 7/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP3304B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/9/2025
+  course: PDP0300B
+  title: RegJin MDT/MRE New Hire Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 10/7/2025
+  course: PDP4392B
+  title: Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 10/6/2025
+  course: PDP1400B
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP3720B
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP3544B
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP0338B
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP0351B
+  title: 2025-07 CAO Legal Updates for 11/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP2498B
+  title: 2025-07 CAO Legal Updates for 10/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP0486B
+  title: 2025-1 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/6/2025
+  course: PDP3646B
+  title: 2025-1 CAO Legal Updates for 9  10/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP0826B
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2025
+  course: PDP2957B
+  title: 2025-3 CAO Legal Updates for 3/2024-6/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/6/2025
+  course: PDP1186B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP2493B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP1022B
+  title: Annual HRAR 2.04 Gender Identity
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2025
+  course: PDP1050B
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/6/2025
+  course: PDP2620B
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/1/2025
+  course: PDP1402B
+  title: TEEX WMD Terror Aware for Emer Resp
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/30/2025
   course: PDP0112B
   title: 'Directive 0910.00 Update: De Minimis Force'
@@ -48,6 +354,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/29/2025
+  course: PDP0508B
+  title: HAZMAT/WMD Awareness Respirator
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/25/2025
   course: PDP1557B
   title: 2025 Mobile Identification Device (MIDD) Training

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |
 | 10/9/2025 | PDA0352B | Tourniquet and Wound Packing | Passed | 0.0 | 1.00 |
 | 9/10/2025 | PDA0313B | Securus Pro Training | Passed | 0.0 | 3.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

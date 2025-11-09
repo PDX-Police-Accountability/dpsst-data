@@ -50,15 +50,87 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/16/2025
+  course: PDA0273B
+  title: Defensive Tactics Application of OC Spray
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/9/2025
   course: PDA0352B
   title: Tourniquet and Wound Packing
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/24/2025
+  course: F1530656
+  title: Tactical Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/10/2025
   course: PDA0313B
   title: Securus Pro Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/21/2025
+  course: F1529445
+  title: Mexican Mafia
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/20/2025
+  course: F1537979
+  title: Interpreting Prison Tattoos
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/20/2025
+  course: F1540097
+  title: Juvenile Gang Crime
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/20/2025
+  course: F1521525
+  title: Warrier Society Wars
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/20/2025
+  course: F1534246
+  title: California Blue Wave
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/19/2025
+  course: F1504437
+  title: Mastering Covert Narcotics and Org.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/19/2025
+  course: F1518045
+  title: Transnational Gangs and Foreign
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/19/2025
+  course: F1538467
+  title: Principles of Operational Leadership
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/18/2025
+  course: F1522337
+  title: Objective Secure
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -74,6 +146,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/19/2025
+  course: F1532221
+  title: Tactical Firearms Training  Qual.
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/9/2025
+  course: F1539636
+  title: 4 and Counting - Study in Resilience
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/8/2025
+  course: F1516518
+  title: Successful Courtroom Testimony
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/8/2025
+  course: F1536025
+  title: Algebra of Hate - Hate Group Invest.
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/7/2025
+  course: F1521172
+  title: OMG Trends
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/5/2025
+  course: F1523135
+  title: Origins of Gang Member
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/5/2025
+  course: F1512485
+  title: 764 Core Groups
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/5/2025
+  course: F1532832
+  title: Cracking the Digital Case
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/15/2025
+  course: F1533975
+  title: FY25 Cybersecurity Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/9/2025
   course: PDN2706A
   title: CPR/1st Aid Infant to Adult
@@ -86,12 +212,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 3/6/2025
+  course: F1518574
+  title: Firearms Static Qualification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/26/2025
   course: PDA2265
   title: Use of Force update training
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/26/2025
+  course: F1530421
+  title: Electronic Recording of Statements
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2025
+  course: F1533786
+  title: Operational Red Flags
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/14/2025
+  course: F1509228
+  title: Federal Law Enfrocement Anti-Disc
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/9/2025
   course: MISCMAIN
   title: 2024 LE Annual Maintenance
@@ -158,6 +308,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/21/2024
+  course: F1539777
+  title: Tactical Firearm Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/13/2024
   course: PDP3714A
   title: 2024-3 Range Qualification CEW
@@ -170,6 +326,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/2/2024
+  course: F1523838
+  title: Coordination with State  Local
+  status: Passed
+  score: '0.0'
+  hours: '0.14'
 - date: 10/1/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
@@ -182,6 +344,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/1/2024
+  course: F1533392
+  title: Implicit Bias for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/12/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
@@ -278,12 +446,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/24/2024
+  course: F1501275
+  title: ATF Use of Force Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/13/2024
   course: PDP1834A
   title: 2024-3 TT Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/31/2024
+  course: F1545640
+  title: Flying While Armed
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/14/2024
   course: PDP2151A
   title: 2024 Investigator In-Service Case Study
@@ -4209,6 +4389,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/9/2025
@@ -4217,10 +4401,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/23/2010

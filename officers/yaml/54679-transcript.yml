@@ -61,12 +61,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2025
+  course: MLP4394B
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/23/2025
+  course: MLP2071B
+  title: Foundations in Ethics for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2025
+  course: MLP3532B
+  title: Implicit Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/22/2025
+  course: MLP0449B
+  title: PREA Prision Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/25/2025
   course: MLP3428B
   title: Handgun and Rifle qualifications
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/22/2025
+  course: MLP1438B
+  title: Crisis Intervention Training CIT - Crisis Response
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/15/2025
+  course: MLP3796B
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/15/2025
+  course: MLP2491B
+  title: Hazardous Material Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/15/2025
+  course: MLP1580B
+  title: Strangulation Forensic Evidence Kits, SKITs
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/15/2025
+  course: MLP1880B
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/10/2025
   course: MLP0151A
   title: Defensive Tactics

@@ -114,6 +114,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/18/2025
+  course: HSU1020B
+  title: 2025 Spring In-Service Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/18/2025
+  course: HSU1880B
+  title: Taser 10 Annual Re-Certification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/18/2025
+  course: HSU3493B
+  title: 2025 Spring In-Service Chief's Message
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2025
+  course: HSU0012B
+  title: 2025 Spring In-Service-ActiveThreat/ForceScenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/17/2025
+  course: HSU3227B
+  title: 2025 Spring In-Service TacticalCombatCasualtyCare
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/17/2025
+  course: HSU1698B
+  title: 2025 Spring In-Service Labor Law
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/13/2025
+  course: HSU3227B
+  title: 2025 Spring In-Service TacticalCombatCasualtyCare
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/13/2025
+  course: HSU0012B
+  title: 2025 Spring In-Service-ActiveThreat/ForceScenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/13/2025
+  course: HSU1698B
+  title: 2025 Spring In-Service Labor Law
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/12/2025
+  course: HSU1020B
+  title: 2025 Spring In-Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/12/2025
+  course: HSU3493B
+  title: 2025 Spring In-Service Chief's Message
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/13/2025
   course: HSU2272A
   title: Chief's Message In Service Spring 2025
@@ -2367,8 +2439,8 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

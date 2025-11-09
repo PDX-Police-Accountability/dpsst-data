@@ -28,8 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 4/24/2025 | 4/24/2027 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 9/2/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 10/15/2025 | SPP3907B | Law Enforcement Drone Association - Fall Conf. | Passed | 0.0 | 8.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/8/2025 | HBP2079A | ODT - Patrol Tactics | Passed | 0.0 | 1.00 |
 | 5/7/2025 | HBP2066B | Emergency Aid/Exigent Entry | Passed | 0.0 | 1.00 |
@@ -56,6 +58,7 @@
 | 1/8/2025 | HBP0174A | Safe Evidence Handling | Passed | 0.0 | 1.00 |
 | 11/4/2024 | HBP3595A | Leadership Lessons Greatest Speeches in History | Passed | 0.0 | 16.00 |
 | 10/30/2024 | HBP1017A | LEDS Recertification or Initial Inquiry | Passed | 0.0 | 1.00 |
+| 9/23/2024 | HBP3287B | PoliceOne Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
 | 9/5/2024 | HBP2428 | TruNarc Basic Operator Course | Passed | 0.0 | 2.00 |
 | 8/28/2024 | HBP0721A | Adult Sex Crimes, Exigent Phone Pings | Passed | 0.0 | 1.00 |
 | 8/28/2024 | HBP2931A | Tactical De-Escalation, Crisis Entry, Rescue | Passed | 0.0 | 6.00 |

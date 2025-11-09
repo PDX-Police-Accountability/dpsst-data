@@ -83,12 +83,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2025
+  course: F1528520
+  title: Micro-Affirmations Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2025
+  course: F1514649
+  title: Micro-Affirmations Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2025
+  course: F1543361
+  title: Micro-Affirmations Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2025
+  course: F1534452
+  title: Recognizing Regular vs. Traumatic
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2025
+  course: F1536739
+  title: Somatic Tapping for Stress Relief
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/16/2025
+  course: PDA0273B
+  title: Defensive Tactics Application of OC Spray
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/9/2025
   course: PDA0352B
   title: Tourniquet and Wound Packing
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/9/2025
+  course: F1505183
+  title: Tourniquet Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/10/2025
   course: PDA0313B
   title: Securus Pro Training
@@ -101,24 +143,150 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/23/2025
+  course: F1523679
+  title: Integrating Emotion Regulation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2025
+  course: F1522307
+  title: 'Juneteenth: A Journey to Freedom'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2025
+  course: F1505724
+  title: 'Juneteenth: Celebration  Relevance'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2025
+  course: F1544919
+  title: Tools for Managing Emotional Over.
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2025
+  course: F1517254
+  title: Understanding the Art of Emotional
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/15/2025
+  course: F1524601
+  title: Clear to Move
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/7/2025
   course: PDA1754B
   title: Handgun Firearms
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 6/10/2025
+  course: F1540344
+  title: Identifying Fences  Preparing Cases
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/21/2025
   course: PDA4180B
   title: Defensive Tactics use of OC Spray
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/30/2025
+  course: F1531989
+  title: Digital Data - The Silent Witness
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 4/23/2025
+  course: F1531168
+  title: Project Save Workshop
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/23/2025
+  course: F1519977
+  title: Unmasking Corruption
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 4/21/2025
+  course: F1530802
+  title: 'Microaggressions: An Introduction'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/17/2025
+  course: F1512026
+  title: De-Escalation Basics
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2025
+  course: F1503787
+  title: 'Policy Review: County Employees'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2025
+  course: F1542186
+  title: 'Policy Review: Generative AI Use'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2025
+  course: F1536608
+  title: 'Policy Review: Mobile Devices'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2025
+  course: F1505964
+  title: 'Policy Review: Use of IT'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/16/2025
   course: PDN1695B
   title: CPR/1st Aid Infant to Adult
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 4/16/2025
+  course: F1536291
+  title: Internet Security and You
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: F1511278
+  title: 'Policy Review: Ethics'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: F1521403
+  title: 'Policy Review: ADA Compliance'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: F1544082
+  title: 'Policy Review: PII-0'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/14/2025
+  course: F1519278
+  title: 'Policy Review: PII-1'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/6/2025
   course: F1542699
   title: Leadership, Management, Supervision
@@ -155,6 +323,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/10/2025
+  course: F1528610
+  title: Acute Stress  Human Performance
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/10/2025
+  course: F1534095
+  title: Acute Stress  Human Performance
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/30/2024
   course: F1502578
   title: Community Policing Defined

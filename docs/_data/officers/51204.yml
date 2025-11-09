@@ -43,12 +43,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2025
+  course: PDP4502B
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/8/2025
+  course: PDP3698B
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/8/2025
+  course: PDP4526B
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP1232B
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP4544B
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP2961B
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/19/2025
   course: PDP1077B
   title: 2025 SERT Camp Rilea Training
   status: Passed
   score: '0.0'
   hours: '50.00'
+- date: 8/28/2025
+  course: PDP2662B
+  title: Modern Day Sniper LE Skills
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 8/26/2025
   course: MFS3885B
   title: Modern Day Sniper - Law Enforcement Skills
@@ -400,6 +460,12 @@ training_records:
 - date: 2/10/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

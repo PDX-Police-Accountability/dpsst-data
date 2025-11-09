@@ -31,6 +31,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2025
+  course: PDP3698B
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2025
+  course: PDP4526B
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/30/2025
+  course: PDP1232B
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/30/2025
+  course: PDP4544B
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/30/2025
+  course: PDP2961B
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/30/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/30/2025
+  course: PDP3376B
+  title: 2025-10 CAO Legal Updates for 3/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/30/2025
+  course: PDP1093B
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/30/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/29/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/10/2025
+  course: PDP1172B
+  title: 2025 Control Tactics  Elevated Risk Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/28/2025
   course: PDP1832B
   title: '2025-7, Legal Updates: Search  Seizure'
@@ -39,6 +105,12 @@ training_records:
   hours: '0.25'
 - date: 8/22/2025
   course: PDP3790B
+  title: California Gang Investigators Association
+  status: Passed
+  score: '0.0'
+  hours: '32.75'
+- date: 8/22/2025
+  course: PDP2173B
   title: California Gang Investigators Association
   status: Passed
   score: '0.0'
@@ -229,6 +301,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 3/20/2025
+  course: PDP2776B
+  title: 2025-1 All Sworn In-Service Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 2/20/2025
   course: PDP2171A
   title: 2025 Sworn In-Service Axon Annual Oper Update
@@ -295,6 +373,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/17/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/13/2025
   course: PDP2390A
   title: 2025 Training Red Dot Optic Transition Course

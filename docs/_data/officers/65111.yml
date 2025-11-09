@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP2620B
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP1050B
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/12/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop
@@ -300,6 +318,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/21/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/16/2025
   course: PDP3209A
   title: AA 2025 Building Police Legit through Proc Justice

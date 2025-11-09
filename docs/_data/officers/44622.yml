@@ -62,6 +62,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2025
+  course: OSH1857B
+  title: Defensive Tactics/ Taser 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/13/2025
+  course: OSH3118B
+  title: Defensive Tactics/ Taser 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/10/2025
+  course: OSH0828B
+  title: Defensive Tactics/Taser 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/6/2025
+  course: OSH0005B
+  title: Defensive Tactics/Taser 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/4/2025
+  course: OSH0682B
+  title: Defensive Tactics/Taser 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/3/2025
+  course: OSH3975B
+  title: Defensive Tactics/ Taser 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/25/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -98,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 7/30/2025
+  course: OSH1842B
+  title: Airway Circulatory Anatomy  Physiology
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/22/2025
   course: REG3581B
   title: EVO - Skills and Decisions Update / Refresh

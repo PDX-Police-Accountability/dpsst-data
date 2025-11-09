@@ -42,7 +42,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
+| 9/25/2025 | OCS2862B | Negotiation debfrief and Negotiating with Veterans | Passed | 0.0 | 4.00 |
+| 9/25/2025 | OCS33555 | Intelligence and LRAD Training | Passed | 0.0 | 4.00 |
+| 9/25/2025 | OCS1601B | Negotiation debfrief and Negotiating with Veterans | Passed | 0.0 | 4.00 |
+| 9/25/2025 | OCS0195B | Intelligence and LRAD Training | Passed | 0.0 | 4.00 |
+| 9/24/2025 | OCS0031B | Scenario Training | Passed | 0.0 | 9.00 |
+| 9/24/2025 | OCS3094B | CCSO SWAT / CNT - Scenario Training | Passed | 0.0 | 9.00 |
+| 9/23/2025 | OCS1011B | Scenario Training | Passed | 0.0 | 4.00 |
+| 9/23/2025 | OCS0986B | CCSO CNT Scenario Training | Passed | 0.0 | 4.00 |
+| 9/15/2025 | OCS0409B | ConSims | Passed | 0.0 | 1.00 |
+| 9/1/2025 | OCS1823B | ACAP training | Passed | 0.0 | 2.00 |
 | 8/22/2025 | OCS3533B | Holster Speed / Marksmanship | Passed | 0.0 | 1.00 |
+| 8/15/2025 | OCS1330B | 2025 LRAD Training | Passed | 0.0 | 3.00 |
+| 8/15/2025 | OCS2051B | 2025 CNT LRAD training | Passed | 0.0 | 3.00 |
 | 8/13/2025 | OCS0877B | De-escalation | Passed | 0.0 | 1.00 |
 | 7/15/2025 | OCS3139B | Suspect Escort and Control | Passed | 0.0 | 1.00 |
 | 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
@@ -51,6 +63,7 @@
 | 5/15/2025 | OCS2172A | May monthly firearms | Passed | 0.0 | 1.00 |
 | 4/30/2025 | OCS1036A | WSHNA HNT Training Seminar | Passed | 0.0 | 24.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |
+| 4/18/2025 | OCS3981B | CCSO CNT Training - Scenario / Equipment | Passed | 0.0 | 8.00 |
 | 4/16/2025 | OCS3409A | Use of Force and Peace Officer Holds | Passed | 0.0 | 1.00 |
 | 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
 | 3/25/2025 | OCS0621A | Ground Offense | Passed | 0.0 | 1.00 |

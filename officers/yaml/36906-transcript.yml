@@ -152,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 3/4/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/19/2025
   course: PDP3410A
   title: SAKI Behavior Focused Susp and Trauma Engage

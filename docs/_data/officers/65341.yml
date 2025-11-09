@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/16/2025
+  course: PDP1093B
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/6/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop
@@ -255,6 +261,12 @@ training_records:
 - date: 2/6/2025
   course: PDP1884A
   title: AA 2025 Respond to Mental Health Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/6/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

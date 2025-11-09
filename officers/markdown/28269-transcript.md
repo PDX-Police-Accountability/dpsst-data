@@ -45,6 +45,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2025 | BNP1265B | Leadership | Instructed | 0.0 | 0.50 |
+| 10/14/2025 | BNP3525B | Active threat Reponse | Passed | 0.0 | 1.00 |
+| 10/14/2025 | BNP0397B | Rifle /Pistol Excertion Course | Passed | 0.0 | 1.00 |
+| 10/14/2025 | BNP3921B | Rifle /Pistol Positional Shooting | Passed | 0.0 | 1.00 |
+| 10/14/2025 | BNP2614B | Trauma Informed Care | Passed | 0.0 | 2.00 |
+| 10/14/2025 | BNP2441B | Low light firearm qualifications | Passed | 0.0 | 2.00 |
 | 9/25/2025 | OAC2191B | Systematizing Security In Schools | Passed | 0.0 | 2.00 |
 | 9/25/2025 | OAC2679B | Choosing to Serve Report | Passed | 0.0 | 1.00 |
 | 9/25/2025 | OAC0826B | Built for the Storm | Passed | 0.0 | 5.00 |

@@ -23,8 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 4/15/2024 | 4/19/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/13/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 8/6/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
@@ -34,6 +34,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 10/13/2025 | HSU0012B | 2025 Spring In-Service-ActiveThreat/ForceScenarios | Passed | 0.0 | 4.00 |
+| 10/13/2025 | HSU1698B | 2025 Spring In-Service Labor Law | Passed | 0.0 | 3.00 |
+| 10/13/2025 | HSU3227B | 2025 Spring In-Service TacticalCombatCasualtyCare | Passed | 0.0 | 3.00 |
+| 10/12/2025 | HSU1020B | 2025 Spring In-Service Firearms | Passed | 0.0 | 4.00 |
+| 10/12/2025 | HSU3716B | 2025 Spring In-Service Patrol Procedures/ PVO | Passed | 0.0 | 2.00 |
+| 10/12/2025 | HSU3493B | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
+| 10/12/2025 | HSU3071B | 2025 Spring In-Service Control Tactics | Passed | 0.0 | 2.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/11/2025 | HSU3590A | 40 mm Operator Course | Passed | 0.0 | 20.00 |
 | 4/13/2025 | HSU0785A | EVOC In Service Spring 2025 | Passed | 0.0 | 1.00 |

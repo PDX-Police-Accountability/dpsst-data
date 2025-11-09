@@ -29,8 +29,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/12/2024 | 11/12/2026 |
 | Code of Ethics | Signed | 3/10/2006 |  |
 ## Education
@@ -40,7 +40,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
+| 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/1/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 10/1/2025 | GSP1472B | 2025 Language Line Refresher Training | Passed | 0.0 | 0.50 |
+| 10/1/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
+| 9/25/2025 | HBS4511B | Building Bridges 2025 | Passed | 0.0 | 5.50 |
 | 9/9/2025 | GSP0033B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
 | 8/5/2025 | GSP3819B | PVO In-service | Passed | 0.0 | 10.00 |
 | 6/19/2025 | GSP0245B | TCCC, Injury Prevention/Care | Passed | 0.0 | 10.00 |

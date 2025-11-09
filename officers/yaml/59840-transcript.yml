@@ -67,6 +67,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2025
+  course: OCS3377B
+  title: LSC/MI Booster
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/23/2025
+  course: OCS0450B
+  title: Enrichment Academy-Victims Services
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2025
+  course: OCS0048B
+  title: Motivational Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 10/21/2025
+  course: OCS1084B
+  title: Motivational Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 10/20/2025
+  course: OCS2620B
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/23/2025
   course: OCS4279B
   title: Bias part 2 Training
@@ -106,6 +136,18 @@ training_records:
 - date: 6/16/2025
   course: TRN3803B
   title: Chrono Practices and Contact Standards
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/5/2025
+  course: OCS2370B
+  title: Heat Stress
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/5/2025
+  course: OCS1800B
+  title: Wildfire Smoke Protection
   status: Passed
   score: '0.0'
   hours: '1.00'

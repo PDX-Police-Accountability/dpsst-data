@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2025
+  course: PDS2213B
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/20/2025
   course: PDS3802B
   title: CPR-First Aid-AED
@@ -2272,10 +2278,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 9/20/2025
   expiration_date: 9/20/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/5/2025
-  expiration_date: 1/5/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

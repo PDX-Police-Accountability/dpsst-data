@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2025 | ADP2315B | Annual Taser Recertification | Instructed | 0.0 | 5.00 |
+| 10/23/2025 | ADP0311B | Annual Taser Recertification | Instructed | 0.0 | 7.00 |
 | 9/5/2025 | ADP0616B | High Risk Traffic Stop | Passed | 0.0 | 4.00 |
 | 8/28/2025 | MFP2993B | Train the Trainer: RADAR  LIDAR Certification | Passed | 0.0 | 12.00 |
 | 8/11/2025 | TAP3090B | Reunification Drill | Passed | 0.0 | 4.00 |

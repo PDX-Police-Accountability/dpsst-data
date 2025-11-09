@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/22/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop
@@ -222,6 +234,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/13/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/31/2024
   course: EGP2122A
   title: 'Patrol Briefing:  Albuquerque Video'

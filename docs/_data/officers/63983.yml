@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/18/2025
+  agency: Portland State University DPS
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 9/24/2024
   agency: Portland Police Bureau
   action: Resigned
@@ -21,7 +27,14 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 8/18/2025
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 2/18/2027
 training_records:
 - date: 9/18/2024
   course: PDP0370A

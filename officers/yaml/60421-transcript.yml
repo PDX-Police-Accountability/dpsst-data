@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2025
+  course: SAG0753B
+  title: ICAC 101
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/29/2025
   course: SAG2878B
   title: Firearms training

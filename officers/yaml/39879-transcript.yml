@@ -63,6 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2025
+  course: PDP2812B
+  title: 2025-1 Supervisors In-Service (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/15/2025
+  course: PDP3412B
+  title: 2025-1 Supervisors In-Service (Leadership)
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/5/2025
+  course: PDP2620B
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2025
+  course: PDP1050B
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/3/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop
@@ -264,6 +288,12 @@ training_records:
 - date: 2/12/2025
   course: PDP1564A
   title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

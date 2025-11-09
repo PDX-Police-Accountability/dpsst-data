@@ -24,6 +24,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/15/2025
+  course: PDP0097B
+  title: 2025 ABLE and Procedural Justice Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/11/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP2620B
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP1050B
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/19/2025
   course: OCP0592B
   title: GRIN-Group Crisis-Assisting Individuals
@@ -42,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/22/2025
+  course: PDP2173B
+  title: California Gang Investigators Association
+  status: Passed
+  score: '0.0'
+  hours: '32.75'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance
@@ -165,6 +201,12 @@ training_records:
 - date: 2/19/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/19/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -3749,14 +3791,14 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/15/2025
   expiration_date: 5/15/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/11/2016

@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2025 | MKL1740B | DOJ-CVSSD Human Trafficking | Passed | 0.0 | 1.50 |
+| 10/21/2025 | MKL1059B | DOJ-CVSSD Human Trafficking | Passed | 0.0 | 1.00 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/21/2025 | MKL1706B | Introduction to CAMP Phave IV | Passed | 0.0 | 2.00 |
 | 8/13/2025 | MKL0765B | Adult/Child CPR AED and First Aid (Online Course) | Passed | 0.0 | 5.00 |

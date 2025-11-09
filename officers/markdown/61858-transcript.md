@@ -37,11 +37,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2025 | MFN2070B | Substance Use Tx for Marginalized Populations | Passed | 0.0 | 1.00 |
+| 10/30/2025 | MFN2521B | Deep Dive Into Criminogenic Needs | Passed | 0.0 | 2.00 |
+| 10/30/2025 | MFN3647B | Office Structure  BCP Review | Passed | 0.0 | 2.00 |
+| 10/24/2025 | MFN2681B | Conflict Simulations (MILO) | Passed | 0.0 | 0.50 |
+| 10/14/2025 | MFN2826B | Introduction to Peer Leadership | Passed | 0.0 | 1.00 |
 | 9/25/2025 | MFN4020B | Cognitive/unconventional shooting | Passed | 0.0 | 3.00 |
 | 9/17/2025 | MFN2595B | Women in DAAP | Passed | 0.0 | 0.50 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/4/2025 | MFN1340B | Annual Use of Force Training | Passed | 0.0 | 2.00 |
-| 8/25/2025 | MFN2730B | Diversity, Equity and Inclusion | Passed | 0.0 | 2.00 |
+| 8/25/2025 | MFN4124B | Diversity, Equity and Inclusion (Comm Justice) | Passed | 0.0 | 2.00 |
 | 8/6/2025 | GPN1519B | DOC Communications | Passed | 0.0 | 4.00 |
 | 8/5/2025 | GPN0425B | Cellebrite Technology | Passed | 0.0 | 4.00 |
 | 7/16/2025 | MFN1055B | Aid/Assist Wellness Court Training | Passed | 0.0 | 1.00 |

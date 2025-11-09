@@ -43,6 +43,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2025 | OCS3377B | LSC/MI Booster | Passed | 0.0 | 2.00 |
+| 10/23/2025 | OCS0450B | Enrichment Academy-Victims Services | Passed | 0.0 | 2.00 |
+| 10/22/2025 | OCS0048B | Motivational Interviewing | Passed | 0.0 | 6.50 |
+| 10/21/2025 | OCS1084B | Motivational Interviewing | Passed | 0.0 | 6.50 |
+| 10/20/2025 | OCS2620B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 9/23/2025 | OCS4279B | Bias part 2 Training | Passed | 0.0 | 1.00 |
 | 8/13/2025 | GPN1389B | Pathways Training | Passed | 0.0 | 20.00 |
 | 8/5/2025 | OCS3591B | DEC Community Summit | Passed | 0.0 | 16.00 |
@@ -50,6 +55,8 @@
 | 7/17/2025 | OCS3816B | BCP Training | Passed | 0.0 | 7.00 |
 | 6/26/2025 | OCS0728B | Firearms Training | Passed | 0.0 | 2.00 |
 | 6/16/2025 | TRN3803B | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
+| 6/5/2025 | OCS2370B | Heat Stress | Passed | 0.0 | 1.00 |
+| 6/5/2025 | OCS1800B | Wildfire Smoke Protection | Passed | 0.0 | 1.00 |
 | 5/30/2025 | OCS4567A | Radio Training | Passed | 0.0 | 1.50 |
 | 5/8/2025 | OCS3043A | Dashboard Enrichment Academy | Passed | 0.0 | 1.00 |
 | 5/1/2025 | VND2481A | Oregon Child Abuse and Human Trafficking Symposium | Passed | 0.0 | 10.50 |

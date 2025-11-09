@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2025 | OCP0807B | Adult Learning Concepts for Field Trainers | Passed | 0.0 | 1.00 |
+| 10/29/2025 | OCP0946B | Fall 2025 Field Training Officer Meeting | Passed | 0.0 | 1.00 |
+| 10/24/2025 | OCP4356B | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 10/23/2025 | OCP2237B | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 10/13/2025 | OCP0652B | ADA Compliance and Service Animals | Passed | 0.0 | 0.25 |
 | 9/25/2025 | OCP1609B | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 10.00 |
 | 9/12/2025 | OCP4391B | Evidence Handling | Passed | 0.0 | 0.25 |

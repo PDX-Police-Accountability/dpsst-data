@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2025 | EGP3943B | DT Taser scenarios | Passed | 0.0 | 3.50 |
+| 10/9/2025 | EGP2280B | Firearms Qualification | Passed | 0.0 | 2.00 |
+| 10/9/2025 | EGP4084B | CIT/Mental Health - Mental Health Review | Passed | 0.0 | 1.00 |
+| 10/9/2025 | EGP3147B | Evidence-on-Q Officer Entry | Passed | 0.0 | 1.50 |
 | 9/24/2025 | HBP2981B | 2025 OPCA Fall Seminar | Passed | 0.0 | 24.00 |
 | 9/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/11/2025 | EGP2260B | Oregon DOJ - Ethics Review | Passed | 0.0 | 2.50 |
@@ -44,6 +48,7 @@
 | 9/11/2025 | EGP4389B | Subpoena Service Training | Passed | 0.0 | 1.50 |
 | 9/11/2025 | EGP3026B | Threat Assessment | Passed | 0.0 | 1.50 |
 | 9/11/2025 | EGP2958B | Crowd Mgt  Molotov Cocktail Response | Passed | 0.0 | 2.00 |
+| 9/4/2025 | EGP0352B | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/23/2025 | EGP4253B | SWAT Firearms | Passed | 0.0 | 3.00 |
 | 7/23/2025 | EGP2462B | SWAT Skills Listening Devices | Passed | 0.0 | 3.00 |
 | 6/12/2025 | EGP1687B | Firearms Marksmanship Drills  Breaching | Passed | 0.0 | 3.00 |
@@ -54,6 +59,7 @@
 | 5/25/2025 | EGP3185A | SWAT Search Skills-Mini Scenarios | Passed | 0.0 | 4.00 |
 | 5/25/2025 | EGP3949B | SWAT Firearms Pistol- Carbine Drills | Passed | 0.0 | 3.00 |
 | 5/25/2025 | EGP1394B | SWAT Scenarios HR-Search Drills-Explosive Breach | Passed | 0.0 | 4.00 |
+| 5/25/2025 | EGP2744B | SWAT Firearms Qualifications / Skills Refresher | Passed | 0.0 | 4.00 |
 | 5/15/2025 | EGP0146A | Active Violent Event Protocols | Passed | 0.0 | 1.50 |
 | 5/15/2025 | EGP3004A | Building Search  AVI Response Scenario | Passed | 0.0 | 2.50 |
 | 5/15/2025 | EGP1257A | Tactical Medical Skills | Passed | 0.0 | 2.50 |

@@ -666,4 +666,9 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records: []
-education_records: []
+education_records:
+- date: 5/29/2025
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '133.0'

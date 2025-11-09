@@ -39,7 +39,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2025 | MLP0745B | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
+| 10/21/2025 | MLP4394B | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 8/25/2025 | MLP3428B | Handgun and Rifle qualifications | Passed | 0.0 | 3.00 |
+| 7/8/2025 | MLP0449B | PREA Prision Rape Elimination Act | Passed | 0.0 | 1.00 |
+| 7/8/2025 | MLP3796B | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/8/2025 | MLP1580B | Strangulation Forensic Evidence Kits, SKITs | Passed | 0.0 | 0.50 |
+| 7/8/2025 | MLP1880B | Use of Force | Passed | 0.0 | 1.00 |
+| 7/8/2025 | MLP1438B | Crisis Intervention Training CIT - Crisis Response | Passed | 0.0 | 1.00 |
+| 7/7/2025 | MLP2071B | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
+| 7/7/2025 | MLP2491B | Hazardous Material Response | Passed | 0.0 | 0.50 |
+| 7/7/2025 | MLP3532B | Implicit Bias | Passed | 0.0 | 1.00 |
 | 6/10/2025 | MLP0151A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/16/2025 | LOP0010A | 2025 Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |

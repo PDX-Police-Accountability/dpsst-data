@@ -42,6 +42,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2025
+  course: PDS0688B
+  title: UNET RANGE QUAL
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/25/2025
+  course: PDS1396B
+  title: AIC Manipulation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/25/2025
+  course: PDS2046B
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/25/2025
+  course: PDS4426B
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/25/2025
+  course: PDS3657B
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/17/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -54,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/28/2025
+  course: PDS1717B
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/22/2025
   course: PDS0870A
   title: Taser 7
@@ -1217,6 +1253,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/25/2025
+  expiration_date: 8/13/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

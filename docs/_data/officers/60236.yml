@@ -54,6 +54,306 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/31/2025
+  course: HBS0706B
+  title: Recruit-Criminal Law
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2025
+  course: HBS3459B
+  title: Recruit-Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/30/2025
+  course: HBS1845B
+  title: Recruit-Defensive Tactics 15 Review
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/30/2025
+  course: HBS2552B
+  title: Recruit-Firearms 15 Review
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/29/2025
+  course: HBS1318B
+  title: Recruit-Firearms 14
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/29/2025
+  course: HBS0566B
+  title: Recruit-Patrol EVO 2
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/28/2025
+  course: HBS2248B
+  title: Recruit-Firearms 13
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/28/2025
+  course: HBS3919B
+  title: Recruit-Patrol EVO 1
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/27/2025
+  course: HBS0956B
+  title: Recruit-DT 14 Intro to Box Drills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/27/2025
+  course: HBS0260B
+  title: Recruit-Firearms 12
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/24/2025
+  course: HBS0371B
+  title: Recruit-Case Law 9
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2025
+  course: HBS1849B
+  title: Recruit-Defensive Tactics 13
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/24/2025
+  course: HBS2432B
+  title: Recruit-Firearms 11
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/23/2025
+  course: HBS2000B
+  title: Recruit-Case Law 8
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/23/2025
+  course: HBS1823B
+  title: Recruit-Defensive Tactics 12
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/23/2025
+  course: HBS4496B
+  title: Recruit-Emergency Vehicle Operation 3
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/22/2025
+  course: HBS2688B
+  title: Recruit-Firearms 10
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/22/2025
+  course: HBS0499B
+  title: Recruit-Emergency Vehicle Operation 2
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/21/2025
+  course: HBS0744B
+  title: Recruit-Case Law 7
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2025
+  course: HBS3494B
+  title: Recruit-Defensive Tactics 11
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/21/2025
+  course: HBS2518B
+  title: Recruit-Firearms 9
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/20/2025
+  course: HBS2669B
+  title: Recruit-Case Law 6
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2025
+  course: HBS0603B
+  title: Recruit-Defensive Tactics 10
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/20/2025
+  course: HBS4261B
+  title: Recruit-Firearms 8
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/17/2025
+  course: HBS2982B
+  title: Recruit-Use of Force Database
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/17/2025
+  course: HBS0349B
+  title: Recruit-Officer Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/17/2025
+  course: HBS1477B
+  title: Recruit-Radio Class
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/16/2025
+  course: HBS1266B
+  title: Recruit-Case Law 5
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2025
+  course: HBS4560B
+  title: Recruit-Defensive Tactics 9
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/16/2025
+  course: HBS4466B
+  title: Recruit-Firearms 7
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/15/2025
+  course: HBS2730B
+  title: REC-Emergency Vehicle Operation (EVO)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/15/2025
+  course: HBS4190B
+  title: Recruit-Case Law 4
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/15/2025
+  course: HBS0996B
+  title: Recruit-Defensive Tactics 8
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/14/2025
+  course: HBS3254B
+  title: Recruit-Defensive Tactics 7
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/14/2025
+  course: HBS4087B
+  title: Recruit-Firearms 6
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/14/2025
+  course: HBS0029B
+  title: Recruit-Case Law 3
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/13/2025
+  course: HBS4525B
+  title: Recruit-Case Law 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/13/2025
+  course: HBS0765B
+  title: Recruit-Defensive Tactics 6
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/13/2025
+  course: HBS4517B
+  title: Recruit-Firearms 5
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/10/2025
+  course: HBS2140B
+  title: Recruit-Officer Involved Review
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/10/2025
+  course: HBS2504B
+  title: Recruit-Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/9/2025
+  course: HBS2895B
+  title: Recruit-Defensive Tactics 5 Taser Drills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/9/2025
+  course: HBS0931B
+  title: Recruit-Firearms 4
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/8/2025
+  course: HBS2620B
+  title: Recruit-Firearms 3
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/8/2025
+  course: HBS4100B
+  title: Recruit-Taser Exposure
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/8/2025
+  course: HBS1142B
+  title: Recruit-Defensive Tactics 4 Taser
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/7/2025
+  course: HBS2475B
+  title: Recruit-Case Law 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/7/2025
+  course: HBS2775B
+  title: Recruit-Defensive Tactics 3
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/7/2025
+  course: HBS3028B
+  title: Recruit-Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/6/2025
+  course: HBS3301B
+  title: Recruit-Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/26/2025
   course: HBS2212B
   title: Recruit-Diversity, Equity  Inclusion

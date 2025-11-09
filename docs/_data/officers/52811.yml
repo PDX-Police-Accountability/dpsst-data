@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2025
+  course: PDS3585B
+  title: Red Dot Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/21/2025
+  course: PDS2213B
+  title: Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/2/2025
   course: PDS4356B
   title: CPR-First Aid-AED
@@ -69,6 +81,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/1/2025
+  course: PDS4238B
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/22/2025
+  course: PDS4227B
+  title: Range IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/19/2025
   course: GSP2244B
   title: SWAT Sniper Range - 25 and 100 Yards Positional
@@ -87,6 +111,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 8/28/2025
+  course: PDS1052B
+  title: UNET Fall Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/26/2025
   course: PDS4218B
   title: Firearms
@@ -123,6 +153,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 8/6/2025
+  course: PDS2835B
+  title: Defensive Tactics IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/4/2025
   course: PDS4218B
   title: Firearms

@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2025
+  course: VRP3980B
+  title: Firearms Range and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/30/2025
+  course: VRP3132B
+  title: Taser X7 Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/24/2025
+  course: OSH1973B
+  title: ARIDE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/24/2025
   course: VRP2968B
   title: Derfensive Tactics

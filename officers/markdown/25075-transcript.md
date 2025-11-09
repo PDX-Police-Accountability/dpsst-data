@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2025 | WBP1713B | Bias-Based Policing Policy Review | Passed | 0.0 | 0.50 |
 | 10/7/2025 | VND4074B | 28CFR-Part23;RISSIntel-RISSafe;Deconfliction | Passed | 0.0 | 2.00 |
 | 9/1/2025 | WBP1308B | OSHA Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 9/1/2025 | WBP2235B | OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
@@ -51,6 +52,7 @@
 | 5/13/2025 | WBP3163B | Equity-Based Scenario Training | Passed | 0.0 | 1.50 |
 | 5/6/2025 | WBP0207B | Crisis Intervention Scenario Training | Passed | 0.0 | 1.50 |
 | 5/6/2025 | WBP3163B | Equity-Based Scenario Training | Passed | 0.0 | 1.50 |
+| 4/22/2025 | WBP0586B | Firearms Range Training | Instructed | 0.0 | 8.00 |
 | 3/31/2025 | WBP0347B | Firearms - Quarter 1 Qualifications | Passed | 0.0 | 0.50 |
 | 3/17/2025 | WBP1534B | Firearms Instructor Workshop | Passed | 0.0 | 3.00 |
 | 12/17/2024 | WBP4453A | Intro to Psychological First Aid | Passed | 0.0 | 1.50 |

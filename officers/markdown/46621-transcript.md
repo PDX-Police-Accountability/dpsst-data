@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
+| 9/1/2025 | OCS1823B | ACAP training | Passed | 0.0 | 2.00 |
 | 8/22/2025 | OCS3533B | Holster Speed / Marksmanship | Passed | 0.0 | 1.00 |
 | 8/13/2025 | OCS0877B | De-escalation | Passed | 0.0 | 1.00 |
 | 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |

@@ -30,9 +30,15 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Certification Cards | First Aid and CPR | 1/27/2024 | 1/27/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Code of Ethics | Law Enforcement Signed | 4/10/2023 |  |
+| Code of Ethics | Law Enforcement Signed | 3/30/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/20/1985 | Associate Science | Portland Community College | Communications  Broadcasting | 99.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
@@ -467,3 +473,16 @@
 | 6/26/1987 | 87Q001 | FIRST AID | Passed | 0.0 | 4.00 |
 | 6/26/1987 | 87Q002 | CARDIOPULMONARY RESUSCITATION | Passed | 0.0 | 4.00 |
 | 6/26/1987 | 871131 | BASIC POLICE CLASS NO. 131 | Passed | 0.0 | 320.00 |
+| 6/9/1987 | 879050 | INTOXILYZER MODEL 4011-A | Passed | 0.0 | 4.00 |
+| 5/6/1987 | 875016 | RADAR | Passed | 0.0 | 8.00 |
+| 4/20/1987 | 87MO50 | Police Field Training Manual | Passed | 0.0 | 50.00 |
+| 3/1/1987 | 879192 | FIELD SOBRIETY TESTING | Passed | 0.0 | 16.00 |
+| 2/3/1987 | 87P099 | Approved In-State Training | Passed | 0.0 | 1.00 |
+| 11/25/1986 | 869316 | OREGON CITY POLICE RESERVE ACADEMY | Passed | 0.0 | 71.00 |
+| 2/4/1986 | 86P099 | Approved In-State Training | Passed | 0.0 | 12.00 |
+| 1/2/1986 | 86P099 | Approved In-State Training | Passed | 0.0 | 15.00 |
+| 7/18/1985 | 859239 | POLICE USE OF FORCE | Passed | 0.0 | 4.00 |
+| 12/31/1984 | 84P099 | Approved In-State Training | Passed | 0.0 | 1.00 |
+| 4/30/1984 | 849161 | BASIC OR CRIM JUST INFO SYSTEM | Passed | 0.0 | 8.00 |
+| 4/13/1984 | 849117 | DISPATCHER SEMINAR | Passed | 0.0 | 7.00 |
+| 1/1/1984 | 84LM24 | LEDS TRAINING GUIDE | Passed | 0.0 | 24.00 |

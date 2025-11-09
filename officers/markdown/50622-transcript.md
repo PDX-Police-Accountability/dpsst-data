@@ -40,6 +40,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2025 | OCP2319B | 2 Day Basic Rifle | Passed | 0.0 | 4.00 |
+| 10/15/2025 | OCP2319B | 2 Day Basic Rifle | Instructed | 0.0 | 10.00 |
+| 10/13/2025 | OCP0652B | ADA Compliance and Service Animals | Passed | 0.0 | 0.25 |
+| 10/9/2025 | OCP1442B | 40MM  Pepper Spray | Passed | 0.0 | 1.00 |
+| 10/9/2025 | OCP3727B | Taser | Passed | 0.0 | 0.50 |
+| 10/9/2025 | OCP2216B | Defensive Tactics | Passed | 0.0 | 0.50 |
 | 9/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/12/2025 | OCP4391B | Evidence Handling | Passed | 0.0 | 0.25 |
 | 9/8/2025 | OCP1807B | Special Populations: Autism | Passed | 0.0 | 0.75 |

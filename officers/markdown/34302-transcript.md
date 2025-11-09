@@ -27,7 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/24/2024 | 10/24/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 8/28/2000 |  |
@@ -39,7 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
+| 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/1/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 10/1/2025 | GSP1472B | 2025 Language Line Refresher Training | Passed | 0.0 | 0.50 |
+| 10/1/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 9/15/2025 | GSP0677B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
 | 8/21/2025 | GSP1843B | UAS Photogrammerty and Scene Reconstruction | Passed | 0.0 | 16.00 |
 | 7/21/2025 | GSP2824B | PVO In-service | Passed | 0.0 | 10.00 |
@@ -53,7 +56,9 @@
 | 10/25/2024 | GSP1110A | Firearms Training - Handgun Inservice 2024 | Passed | 0.0 | 10.00 |
 | 10/24/2024 | GSP3136A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 9/12/2024 | PDS1549A | Mobile Field Force | Passed | 0.0 | 10.00 |
+| 4/6/2024 | GSP0300B | DUII/DRE Conference | Passed | 0.0 | 24.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
+| 4/4/2024 | GSP0136B | Oregon Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 4/3/2024 | OSH0972A | 2024 DRE Confernce | Passed | 0.0 | 8.00 |
 | 3/14/2024 | GSP3215A | Firearms - Handgun | Passed | 0.0 | 10.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |

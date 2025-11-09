@@ -68,9 +68,45 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2025
+  course: PDP2812B
+  title: 2025-1 Supervisors In-Service (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2025
+  course: PDP3412B
+  title: 2025-1 Supervisors In-Service (Leadership)
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/1/2025
+  course: PDP2787B
+  title: 2025 Traffic Multi-Agency Motorcade Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/26/2025
   course: PPP1684B
   title: Women in Command
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 8/26/2025
+  course: PDP4491B
+  title: 2025 External Training Women in Command
   status: Passed
   score: '0.0'
   hours: '16.00'
@@ -287,6 +323,12 @@ training_records:
 - date: 2/12/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

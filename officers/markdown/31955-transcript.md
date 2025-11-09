@@ -34,7 +34,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 1/27/2025 | 1/31/2027 |
+| Certification Cards | First Aid and CPR | 2/19/2025 | 2/19/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 9/6/2011 |  |
 ## Education
@@ -46,6 +46,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2025 | CAP2337B | Airways Training Video - Patient Evaluation For LE | Passed | 0.0 | 2.00 |
+| 10/22/2025 | CAP3011B | Firearms - Precision Rifle | Passed | 0.0 | 2.00 |
+| 10/8/2025 | CAP1362B | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
+| 9/30/2025 | CAP1431B | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 9/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/8/2025 | CAP3727B | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 7/23/2025 | CAP0707B | Firearms - Patrol Rifle Reloads/Malfunctions | Passed | 0.0 | 2.00 |
@@ -53,8 +57,11 @@
 | 4/9/2025 | RMP3099A | What happens when it's quiet? | Passed | 0.0 | 7.00 |
 | 3/26/2025 | CAP3056A | Annual Patrol Rifle Qualification and Fundamentals | Passed | 0.0 | 2.00 |
 | 3/26/2025 | CAP0189B | Bloodborne Pathogens For First Responders | Passed | 0.0 | 1.00 |
+| 3/26/2025 | CAP1187B | Bloodborne Pathogens for First Responders | Passed | 0.0 | 1.00 |
 | 3/21/2025 | CAP1707B | Hazmat | Passed | 0.0 | 1.50 |
 | 3/21/2025 | CAP0448B | PREA | Passed | 0.0 | 1.00 |
+| 3/21/2025 | CAP0638B | HAZMAT First Responder Awareness (FRA) Level 1 | Passed | 0.0 | 1.50 |
+| 3/21/2025 | CAP3506B | PREA | Passed | 0.0 | 1.00 |
 | 2/19/2025 | CAP2865A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 2/19/2025 | CAP3524B | Firearms - Use of Force - 40mm | Passed | 0.0 | 4.00 |
 | 1/27/2025 | CAP4265A | First Aid/CPR Adult  Child | Passed | 0.0 | 1.00 |
@@ -94,7 +101,7 @@
 | 9/13/2023 | CAP0876A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
 | 9/13/2023 | CAP3939A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
 | 9/13/2023 | CAP3894A | The C.A.L.M Approach | Passed | 0.0 | 2.00 |
-| 7/19/2023 | CAP2739A | Handgun/Rifle Malfunctions - Injured Shooter | Passed | 0.0 | 0.00 |
+| 7/19/2023 | CAP1704B | Handgun/Rifle Malfunctions - Injured Shooter | Passed | 0.0 | 3.00 |
 | 6/21/2023 | CAP0934A | Handgun Assessments | Passed | 0.0 | 3.00 |
 | 6/14/2023 | CAP0211A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 4/24/2023 | ALP32849 | Taser 7 Instructor Certification | Passed | 0.0 | 16.00 |

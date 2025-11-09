@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2025
+  course: BNP2507B
+  title: SWAT-Active Threat and Hostage Rescue
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/9/2025
+  course: BNP1088B
+  title: SWAT- Firearms Proficiency
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/9/2025
+  course: BNP3541B
+  title: SWAT- Low Light and Night Vision firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/24/2025
   course: BNP1896B
   title: SWAT- overland tracking and scenarios
@@ -85,6 +103,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/31/2025
+  course: BNP2856B
+  title: Basic Rifle Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/22/2025
   course: BNP0063B
   title: Tactical Overland Movements

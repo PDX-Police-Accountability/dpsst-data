@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2025 | BVP0251B | SFST/Intoxilyzer Refresher 101525 | Passed | 0.0 | 8.00 |
+| 10/2/2025 | BVP3596B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 9/19/2025 | BVP4279B | Control Tactics IST 091925 PM | Passed | 0.0 | 3.00 |
 | 9/18/2025 | BVP0129B | Pistol Mounted Optics Course | Passed | 0.0 | 12.00 |
 | 8/28/2025 | BVP0548B | August 2025 Range 082825 PM | Passed | 0.0 | 3.00 |

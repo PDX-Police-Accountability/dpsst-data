@@ -24,6 +24,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/11/2025
+  course: PDP0826B
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/11/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/11/2025
+  course: PDP2620B
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/11/2025
+  course: PDP1050B
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/6/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop
@@ -36,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/13/2025
+  course: PDP4091B
+  title: Animal Cruelty Investigations
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 7/20/2025
   course: PDP3845B
   title: 2025 Dialogue Training Class
@@ -177,6 +207,12 @@ training_records:
 - date: 1/24/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/24/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

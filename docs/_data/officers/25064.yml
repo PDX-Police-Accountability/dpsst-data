@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2025
+  course: MKL1740B
+  title: DOJ-CVSSD Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/21/2025
+  course: MKL1059B
+  title: DOJ-CVSSD Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/12/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

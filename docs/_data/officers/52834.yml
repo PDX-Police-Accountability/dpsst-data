@@ -82,12 +82,84 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/25/2025
+  course: OCS2862B
+  title: Negotiation debfrief and Negotiating with Veterans
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/25/2025
+  course: OCS33555
+  title: Intelligence and LRAD Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/25/2025
+  course: OCS1601B
+  title: Negotiation debfrief and Negotiating with Veterans
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/25/2025
+  course: OCS0195B
+  title: Intelligence and LRAD Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/24/2025
+  course: OCS0031B
+  title: Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/24/2025
+  course: OCS3094B
+  title: CCSO SWAT / CNT - Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/23/2025
+  course: OCS1011B
+  title: Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/23/2025
+  course: OCS0986B
+  title: CCSO CNT Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/15/2025
+  course: OCS0409B
+  title: ConSims
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2025
+  course: OCS1823B
+  title: ACAP training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/22/2025
   course: OCS3533B
   title: Holster Speed / Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/15/2025
+  course: OCS1330B
+  title: 2025 LRAD Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/15/2025
+  course: OCS2051B
+  title: 2025 CNT LRAD training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/13/2025
   course: OCS0877B
   title: De-escalation
@@ -136,6 +208,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/18/2025
+  course: OCS3981B
+  title: CCSO CNT Training - Scenario / Equipment
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/16/2025
   course: OCS3409A
   title: Use of Force and Peace Officer Holds

@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/3/2025
+  course: WLP3971B
+  title: Sexual Harassment Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2025
+  course: WLP1689B
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2025
+  course: WLP1529B
+  title: Vehicle Extractions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/28/2025
   course: WLP3646B
   title: WLPD EVOC / Patrol Tactics

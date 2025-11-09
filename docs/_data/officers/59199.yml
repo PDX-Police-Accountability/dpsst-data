@@ -74,12 +74,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/22/2025
+  course: EGP2744B
+  title: SWAT Firearms Qualifications / Skills Refresher
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/9/2025
+  course: EGP3943B
+  title: DT Taser scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/9/2025
+  course: EGP2280B
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/18/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/18/2025
+  course: EGP3035B
+  title: SWAT Breaching Charge Selection,Placement/Misfire
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/17/2025
+  course: EGP3122B
+  title: SWAT Firearms Skills
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/11/2025
   course: EGP4242B
   title: Legal Updates

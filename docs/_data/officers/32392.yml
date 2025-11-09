@@ -62,6 +62,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/3/2025
+  course: TGP0736B
+  title: Patrol Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/3/2025
+  course: TGP0736B
+  title: Patrol Rifle Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/3/2025
+  course: TGP1438B
+  title: Patrol Rifle School
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/12/2025
   course: TGP1424B
   title: Western States ORC Conference

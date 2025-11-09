@@ -24,8 +24,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/18/2024 | 9/18/2026 |
 | Code of Ethics | Signed | 6/19/2003 |  |
 ## Education
@@ -35,14 +35,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/2/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
-| 10/1/2025 | GSP4154B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
-| 9/28/2025 | GSP0359B | Rifle In-service Training |  | 0.0 | 10.00 |
-| 9/21/2025 | GSP2321B | Rifle In-service Training | Passed | 0.0 | 10.00 |
+| 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/15/2025 | GSP4095B | SWAT Training | Instructed | 0.0 | 10.00 |
+| 10/2/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 10/2/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
+| 10/1/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 10/1/2025 | GSP1472B | 2025 Language Line Refresher Training | Passed | 0.0 | 0.50 |
+| 10/1/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
+| 9/28/2025 | GSP0359B | Rifle In-service Training | Instructed | 0.0 | 10.00 |
+| 9/21/2025 | GSP2321B | Rifle In-service Training | Instructed | 0.0 | 10.00 |
 | 9/19/2025 | GSP2244B | SWAT Sniper Range - 25 and 100 Yards Positional | Instructed | 0.0 | 10.00 |
 | 9/18/2025 | GSP3147B | Tactical Dilemma Planning, HRT Response | Passed | 0.0 | 10.00 |
 | 9/17/2025 | GSP0258B | Firearms Training - Hostage Rescue and Threat ID | Passed | 0.0 | 10.00 |
-| 9/14/2025 | GSP3908B | 2025 Handgun In-Service | Passed | 0.0 | 10.00 |
+| 9/14/2025 | GSP3908B | 2025 Handgun In-Service | Instructed | 0.0 | 10.00 |
 | 8/22/2025 | GSP2398B | SWAT Sniper Range - 50 Yards Positional | Instructed | 0.0 | 10.00 |
 | 8/21/2025 | PDP3644B | 2025 Medium Distance Use of Force Decision Making | Passed | 0.0 | 9.00 |
 | 8/20/2025 | GSP4457B | Firearms Training | Passed | 0.0 | 10.00 |

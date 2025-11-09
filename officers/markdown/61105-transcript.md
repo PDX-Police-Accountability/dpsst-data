@@ -23,8 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 7/1/2025 | 7/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/16/2025 | SDP0291B | Taser - Instructor Certification Training | Passed | 0.0 | 24.00 |
+| 9/15/2025 | NGP4519B | Airborne and Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/1/2025 | NGP4045B | HSI Adult First Aid  CPR/AED All Ages | Passed | 0.0 | 4.00 |
 | 6/3/2025 | NGP1182A | Hazmat | Passed | 0.0 | 1.50 |
 | 4/28/2025 | NGP1829A | ACAP | Passed | 0.0 | 2.00 |

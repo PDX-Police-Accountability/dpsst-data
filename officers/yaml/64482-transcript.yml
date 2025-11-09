@@ -24,6 +24,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2025
+  course: PDP0177B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2025
+  course: PDP0351B
+  title: 2025-07 CAO Legal Updates for 11/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2025
+  course: PDP0826B
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2025
+  course: PDP2620B
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2025
+  course: PDP1022B
+  title: Annual HRAR 2.04 Gender Identity
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2025
+  course: PDP1050B
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/8/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP2151B
+  title: 2025-07 CAO Legal Updates for 11/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2025
+  course: PDP2957B
+  title: 2025-3 CAO Legal Updates for 3/2024-6/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/8/2025
+  course: PDP2493B
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/8/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/12/2025
   course: PDP1802B
   title: '2025 Disability Series: Introduction to Disability'
@@ -105,6 +171,12 @@ training_records:
 - date: 2/5/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

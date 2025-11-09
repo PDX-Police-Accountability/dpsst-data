@@ -38,6 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2025 | BNP3597B | FTO/Supervisor Leadership and Developement | Passed | 0.0 | 3.00 |
+| 10/30/2025 | BNP2258B | Firearms  / Inspections | Passed | 0.0 | 0.50 |
+| 10/17/2025 | BNP3226B | Low light firearm qualifications | Passed | 0.0 | 2.00 |
+| 10/17/2025 | BNP3525B | Active threat Reponse | Passed | 0.0 | 1.00 |
+| 10/17/2025 | BNP1265B | Leadership | Passed | 0.0 | 0.50 |
+| 10/17/2025 | BNP0397B | Rifle /Pistol Excertion Course | Passed | 0.0 | 1.00 |
+| 10/17/2025 | BNP3921B | Rifle /Pistol Positional Shooting | Passed | 0.0 | 1.00 |
+| 10/17/2025 | BNP2614B | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 9/18/2025 | BNP1813B | UAS Monthly | Passed | 0.0 | 7.00 |
 | 8/28/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/21/2025 | BNP3548B | Open range, skills | Passed | 0.0 | 1.00 |

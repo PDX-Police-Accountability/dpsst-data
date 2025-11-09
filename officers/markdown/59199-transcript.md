@@ -41,7 +41,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2025 | EGP2744B | SWAT Firearms Qualifications / Skills Refresher | Passed | 0.0 | 8.00 |
+| 10/9/2025 | EGP3943B | DT Taser scenarios | Passed | 0.0 | 3.50 |
+| 10/9/2025 | EGP2280B | Firearms Qualification | Passed | 0.0 | 2.00 |
 | 9/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/18/2025 | EGP3035B | SWAT Breaching Charge Selection,Placement/Misfire | Passed | 0.0 | 8.00 |
+| 9/17/2025 | EGP3122B | SWAT Firearms Skills | Passed | 0.0 | 8.00 |
 | 9/11/2025 | EGP4242B | Legal Updates | Passed | 0.0 | 1.50 |
 | 9/11/2025 | EGP2260B | Oregon DOJ - Ethics Review | Passed | 0.0 | 2.50 |
 | 9/11/2025 | EGP4389B | Subpoena Service Training | Passed | 0.0 | 1.50 |

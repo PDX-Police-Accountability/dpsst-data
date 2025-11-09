@@ -43,6 +43,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2025
+  course: BNP3597B
+  title: FTO/Supervisor Leadership and Developement
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/30/2025
+  course: BNP2258B
+  title: Firearms  / Inspections
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2025
+  course: BNP3226B
+  title: Low light firearm qualifications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2025
+  course: BNP3525B
+  title: Active threat Reponse
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2025
+  course: BNP1265B
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2025
+  course: BNP0397B
+  title: Rifle /Pistol Excertion Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2025
+  course: BNP3921B
+  title: Rifle /Pistol Positional Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2025
+  course: BNP2614B
+  title: Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/18/2025
   course: BNP1813B
   title: UAS Monthly

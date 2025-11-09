@@ -269,6 +269,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 3/20/2025
+  course: PDP2776B
+  title: 2025-1 All Sworn In-Service Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 3/19/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination
@@ -326,6 +332,12 @@ training_records:
 - date: 1/15/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'

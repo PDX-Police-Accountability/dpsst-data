@@ -126,8 +126,8 @@ training_records:
   score: '0.0'
   hours: '0.00'
 - date: 10/1/2025
-  course: GSP4154B
-  title: 2025 Ethics Training
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -137,6 +137,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/1/2025
+  course: GSP0901B
+  title: 2025 Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/9/2025
   course: GSP0033B
   title: 2025 Handgun In-Service
@@ -6282,10 +6288,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/10/2007

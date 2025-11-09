@@ -16,14 +16,32 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 9/3/2025
+- status_date: 10/20/2025
   certificate: Police Officer
   level: Basic
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 10/20/2025
   expiration_date: ''
-  probation_date: 10/11/2025
+  probation_date: ''
 training_records:
+- date: 10/28/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/3/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/3/2025
+  course: PDP1050B
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/2/2025
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)
@@ -261,6 +279,12 @@ training_records:
 - date: 2/10/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -679,6 +703,14 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/27/2024

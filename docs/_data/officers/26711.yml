@@ -118,6 +118,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2025
+  course: HBS4511B
+  title: Building Bridges 2025
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 3/31/2025
   course: HBP1073A
   title: PoliceOne Foundations in Ethics for LE

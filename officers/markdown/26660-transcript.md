@@ -29,7 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/19/2024 | 4/19/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/24/2021 |  |
@@ -41,6 +41,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/18/2025 | HSU1020B | 2025 Spring In-Service Firearms | Instructed | 0.0 | 4.00 |
+| 10/17/2025 | HSU0012B | 2025 Spring In-Service-ActiveThreat/ForceScenarios | Instructed | 0.0 | 4.00 |
+| 10/17/2025 | HSU3227B | 2025 Spring In-Service TacticalCombatCasualtyCare | Passed | 0.0 | 3.00 |
+| 10/17/2025 | HSU1698B | 2025 Spring In-Service Labor Law | Passed | 0.0 | 3.00 |
+| 10/13/2025 | HSU3227B | 2025 Spring In-Service TacticalCombatCasualtyCare | Passed | 0.0 | 3.00 |
+| 10/13/2025 | HSU0012B | 2025 Spring In-Service-ActiveThreat/ForceScenarios | Passed | 0.0 | 4.00 |
+| 10/13/2025 | HSU1698B | 2025 Spring In-Service Labor Law | Passed | 0.0 | 3.00 |
+| 10/12/2025 | HSU1020B | 2025 Spring In-Service Firearms | Instructed | 0.0 | 4.00 |
+| 10/12/2025 | HSU3493B | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
+| 9/27/2025 | HSU1020B | 2025 Spring In-Service Firearms | Passed | 0.0 | 4.00 |
+| 9/27/2025 | HSU1880B | Taser 10 Annual Re-Certification | Passed | 0.0 | 2.00 |
 | 5/11/2025 | HSU3590A | 40 mm Operator Course | Instructed | 0.0 | 20.00 |
 | 4/19/2025 | HSU1509A | Firearms In Service Spring 2025 | Instructed | 0.0 | 7.00 |
 | 4/18/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |

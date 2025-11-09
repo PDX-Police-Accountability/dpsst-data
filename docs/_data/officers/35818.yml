@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2025
+  course: OCP4356B
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/13/2025
+  course: GLP1210B
+  title: Q3 Range - Threat ID and Target Transition
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/3/2025
   course: GLP0855B
   title: Taser 10 Operation Course

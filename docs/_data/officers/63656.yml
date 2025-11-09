@@ -251,6 +251,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/6/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/4/2025
   course: PDP3145A
   title: AA 2025 Behavioral Health Unit Overview

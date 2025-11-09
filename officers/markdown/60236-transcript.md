@@ -35,6 +35,56 @@
 | 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
 | 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 10/31/2025 | HBS0706B | Recruit-Criminal Law | Passed | 0.0 | 4.00 |
+| 10/31/2025 | HBS3459B | Recruit-Search  Seizure | Passed | 0.0 | 4.00 |
+| 10/30/2025 | HBS1845B | Recruit-Defensive Tactics 15 Review | Passed | 0.0 | 4.00 |
+| 10/30/2025 | HBS2552B | Recruit-Firearms 15 Review | Passed | 0.0 | 4.00 |
+| 10/29/2025 | HBS1318B | Recruit-Firearms 14 | Passed | 0.0 | 4.00 |
+| 10/29/2025 | HBS0566B | Recruit-Patrol EVO 2 | Passed | 0.0 | 4.00 |
+| 10/28/2025 | HBS2248B | Recruit-Firearms 13 | Passed | 0.0 | 4.00 |
+| 10/28/2025 | HBS3919B | Recruit-Patrol EVO 1 | Passed | 0.0 | 4.00 |
+| 10/27/2025 | HBS0956B | Recruit-DT 14 Intro to Box Drills | Passed | 0.0 | 4.00 |
+| 10/27/2025 | HBS0260B | Recruit-Firearms 12 | Passed | 0.0 | 4.00 |
+| 10/24/2025 | HBS0371B | Recruit-Case Law 9 | Passed | 0.0 | 1.00 |
+| 10/24/2025 | HBS1849B | Recruit-Defensive Tactics 13 | Passed | 0.0 | 3.00 |
+| 10/24/2025 | HBS2432B | Recruit-Firearms 11 | Passed | 0.0 | 4.00 |
+| 10/23/2025 | HBS2000B | Recruit-Case Law 8 | Passed | 0.0 | 1.00 |
+| 10/23/2025 | HBS1823B | Recruit-Defensive Tactics 12 | Passed | 0.0 | 3.00 |
+| 10/23/2025 | HBS4496B | Recruit-Emergency Vehicle Operation 3 | Passed | 0.0 | 4.00 |
+| 10/22/2025 | HBS2688B | Recruit-Firearms 10 | Passed | 0.0 | 4.00 |
+| 10/22/2025 | HBS0499B | Recruit-Emergency Vehicle Operation 2 | Passed | 0.0 | 4.00 |
+| 10/21/2025 | HBS0744B | Recruit-Case Law 7 | Passed | 0.0 | 1.00 |
+| 10/21/2025 | HBS3494B | Recruit-Defensive Tactics 11 | Passed | 0.0 | 3.00 |
+| 10/21/2025 | HBS2518B | Recruit-Firearms 9 | Passed | 0.0 | 4.00 |
+| 10/20/2025 | HBS2669B | Recruit-Case Law 6 | Passed | 0.0 | 1.00 |
+| 10/20/2025 | HBS0603B | Recruit-Defensive Tactics 10 | Passed | 0.0 | 3.00 |
+| 10/20/2025 | HBS4261B | Recruit-Firearms 8 | Passed | 0.0 | 4.00 |
+| 10/17/2025 | HBS2982B | Recruit-Use of Force Database | Passed | 0.0 | 2.50 |
+| 10/17/2025 | HBS0349B | Recruit-Officer Survival | Passed | 0.0 | 4.00 |
+| 10/17/2025 | HBS1477B | Recruit-Radio Class | Passed | 0.0 | 1.50 |
+| 10/16/2025 | HBS1266B | Recruit-Case Law 5 | Passed | 0.0 | 1.00 |
+| 10/16/2025 | HBS4560B | Recruit-Defensive Tactics 9 | Passed | 0.0 | 3.00 |
+| 10/16/2025 | HBS4466B | Recruit-Firearms 7 | Passed | 0.0 | 4.00 |
+| 10/15/2025 | HBS2730B | REC-Emergency Vehicle Operation (EVO) | Passed | 0.0 | 4.00 |
+| 10/15/2025 | HBS4190B | Recruit-Case Law 4 | Passed | 0.0 | 1.00 |
+| 10/15/2025 | HBS0996B | Recruit-Defensive Tactics 8 | Passed | 0.0 | 3.00 |
+| 10/14/2025 | HBS3254B | Recruit-Defensive Tactics 7 | Passed | 0.0 | 3.00 |
+| 10/14/2025 | HBS4087B | Recruit-Firearms 6 | Passed | 0.0 | 4.00 |
+| 10/14/2025 | HBS0029B | Recruit-Case Law 3 | Passed | 0.0 | 1.00 |
+| 10/13/2025 | HBS4525B | Recruit-Case Law 2 | Passed | 0.0 | 1.00 |
+| 10/13/2025 | HBS0765B | Recruit-Defensive Tactics 6 | Passed | 0.0 | 3.00 |
+| 10/13/2025 | HBS4517B | Recruit-Firearms 5 | Passed | 0.0 | 3.00 |
+| 10/10/2025 | HBS2140B | Recruit-Officer Involved Review | Passed | 0.0 | 2.50 |
+| 10/10/2025 | HBS2504B | Recruit-Report Writing | Passed | 0.0 | 6.00 |
+| 10/9/2025 | HBS2895B | Recruit-Defensive Tactics 5 Taser Drills | Passed | 0.0 | 4.00 |
+| 10/9/2025 | HBS0931B | Recruit-Firearms 4 | Passed | 0.0 | 4.00 |
+| 10/8/2025 | HBS2620B | Recruit-Firearms 3 | Passed | 0.0 | 4.00 |
+| 10/8/2025 | HBS4100B | Recruit-Taser Exposure | Passed | 0.0 | 1.00 |
+| 10/8/2025 | HBS1142B | Recruit-Defensive Tactics 4 Taser | Passed | 0.0 | 3.00 |
+| 10/7/2025 | HBS2475B | Recruit-Case Law 1 | Passed | 0.0 | 1.00 |
+| 10/7/2025 | HBS2775B | Recruit-Defensive Tactics 3 | Passed | 0.0 | 3.00 |
+| 10/7/2025 | HBS3028B | Recruit-Firearms 2 | Passed | 0.0 | 4.00 |
+| 10/6/2025 | HBS3301B | Recruit-Firearms 1 | Passed | 0.0 | 8.00 |
 | 9/26/2025 | HBS2212B | Recruit-Diversity, Equity  Inclusion | Passed | 0.0 | 0.50 |
 | 9/26/2025 | HBS1785B | Recruit-Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/26/2025 | HBS2170B | Recruit-CPR/First Aid/AED | Passed | 0.0 | 6.00 |

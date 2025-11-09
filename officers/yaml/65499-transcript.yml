@@ -30,6 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/21/2025
+  course: PDP3581B
+  title: 2021 PIO Photos for Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2025
+  course: PDP4424B
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2025
+  course: PDP1261B
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/20/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop
@@ -420,6 +438,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/10/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/4/2025
   course: PDP0191A
   title: 2025 FTEP Orientation

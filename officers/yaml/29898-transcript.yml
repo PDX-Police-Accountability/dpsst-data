@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/17/2025
+  agency: Gresham Police Department
+  action: Hired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 11/29/2021
   agency: Multnomah County Sheriff's Office
   action: Hired
@@ -75,6 +81,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2026
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
+- date: 10/24/2025
+  course: PDS2213B
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/8/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

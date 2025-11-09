@@ -93,6 +93,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2025
+  course: HBP3698B
+  title: Hillsboro Police Threat Assessment Team Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/26/2025
+  course: HBP2563B
+  title: SWAT Command Decision Making  Leadership
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

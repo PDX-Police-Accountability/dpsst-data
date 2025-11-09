@@ -34,7 +34,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 8/27/2024 | 8/27/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 10/12/2006 |  |
@@ -46,10 +46,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/11/2025 | STP2486B | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
 | 8/11/2025 | STP1232B | Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 5/19/2025 | STP4253A | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/9/2025 | STY3465A | Fire Behavior For Law Enforcement | Passed | 0.0 | 1.50 |
-| 3/7/2025 | VND0350A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
+| 3/7/2025 | VND0640B | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 1/27/2025 | STP0978A | Night Range Qualification and Scenarios | Passed | 0.0 | 4.00 |
 | 12/2/2024 | STP3404A | Firearms Training OIS Range Scenarios | Passed | 0.0 | 4.00 |
 | 11/21/2024 | STP0479A | Cold Case Homicide | Passed | 0.0 | 2.00 |

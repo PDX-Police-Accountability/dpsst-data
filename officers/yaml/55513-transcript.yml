@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/10/2025
+  course: BVP1592B
+  title: SFST/Intoxilyzer Refresher 101025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/26/2025
   course: BVP0681B
   title: Control Tactics IST 092625 PM
@@ -229,6 +235,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/9/2024
+  course: BVP3596B
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/8/2024
   course: BVP1692A
   title: November Range 2024 Pistol Rifle 110824

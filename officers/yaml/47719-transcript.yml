@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2025
+  course: BVP0251B
+  title: SFST/Intoxilyzer Refresher 101525
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/2/2025
+  course: BVP3596B
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/19/2025
   course: BVP4279B
   title: Control Tactics IST 091925 PM

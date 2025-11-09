@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2025 | WBP1713B | Bias-Based Policing Policy Review | Passed | 0.0 | 0.50 |
 | 10/7/2025 | VND4074B | 28CFR-Part23;RISSIntel-RISSafe;Deconfliction | Passed | 0.0 | 2.00 |
 | 9/1/2025 | WBP2780B | Global SDS  Hazard Communication Standards | Passed | 0.0 | 1.00 |
 | 9/1/2025 | WBP2186B | WPD Yearly Policy Review | Passed | 0.0 | 2.00 |
@@ -51,6 +52,7 @@
 | 6/10/2025 | WBP2197B | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 5/13/2025 | WBP0207B | Crisis Intervention Scenario Training | Passed | 0.0 | 1.50 |
 | 5/13/2025 | WBP3163B | Equity-Based Scenario Training | Passed | 0.0 | 1.50 |
+| 4/22/2025 | WBP0586B | Firearms Range Training | Instructed | 0.0 | 6.00 |
 | 3/31/2025 | WBP0347B | Firearms - Quarter 1 Qualifications | Passed | 0.0 | 0.50 |
 | 3/17/2025 | WBP1534B | Firearms Instructor Workshop | Instructed | 0.0 | 3.00 |
 | 3/17/2025 | WBP1534B | Firearms Instructor Workshop | Passed | 0.0 | 3.00 |

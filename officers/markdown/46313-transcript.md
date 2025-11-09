@@ -28,6 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
+| Certification Cards | First Aid and CPR | 9/19/2025 | 9/19/2027 |
 | Certification Cards | First Aid and CPR | 11/6/2023 | 11/6/2025 |
 | Code of Ethics | Signed | 1/12/2006 |  |
 ## Education
@@ -38,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/27/2025 | PPP1024B | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 9/19/2025 | PPP2314B | First Aid/AED/Adult and Child CPR | Passed | 0.0 | 4.00 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/8/2025 | PPP0265B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 9/2/2025 | PPP1842B | Behavioral Health Unit Overview | Passed | 0.0 | 2.00 |

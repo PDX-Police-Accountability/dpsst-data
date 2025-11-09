@@ -50,6 +50,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2025 | HBS4511B | Building Bridges 2025 | Passed | 0.0 | 5.50 |
 | 3/31/2025 | HBP1073A | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/20/2024 | HBP2794A | Leadership Lessons Greatest TED Talks in History | Passed | 0.0 | 16.00 |

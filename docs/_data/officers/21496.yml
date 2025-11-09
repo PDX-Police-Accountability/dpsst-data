@@ -1,2 +1,3762 @@
 ---
-missing_transcript: true
+header_record:
+  name: Madsen, Eric H.
+  dpsst_identifier: '21496'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Reserve Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/25/2024
+  agency: Oregon State Police
+  action: Hired
+  rank: Trooper
+  classification: ''
+  assignment: ''
+- date: 1/23/2024
+  agency: Wallowa County Community Corrections
+  action: Resigned
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
+- date: 11/18/2020
+  agency: Wallowa County Community Corrections
+  action: Transfered
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
+- date: 11/17/2020
+  agency: Wallowa County Sheriff's Office
+  action: Layoff
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
+- date: 1/15/2020
+  agency: Wallowa County Sheriff's Office
+  action: Hired
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
+- date: 12/31/2019
+  agency: Oregon State Police
+  action: Retired
+  rank: Trooper
+  classification: ''
+  assignment: ''
+- date: 1/1/2005
+  agency: Oregon State Police
+  action: Promotion
+  rank: Sr Trooper
+  classification: ''
+  assignment: ''
+- date: 7/1/1998
+  agency: Oregon State Police
+  action: Promotion
+  rank: Trooper
+  classification: ''
+  assignment: ''
+- date: 1/1/1997
+  agency: Oregon State Police
+  action: Hired
+  rank: Recruit
+  classification: ''
+  assignment: ''
+- date: 12/31/1996
+  agency: Umatilla County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 4/1/1996
+  agency: Umatilla County Sheriff's Office
+  action: Reclassed
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 4/11/1994
+  agency: Umatilla County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 4/10/1994
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 2/19/1991
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 6/28/1989
+  agency: Union County Sheriff's Office
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 5/23/1989
+  agency: Union County Sheriff's Office
+  action: Reclassed
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 4/6/1989
+  agency: Union County Sheriff's Office
+  action: Reclassed
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 11/1/1988
+  agency: Union County Sheriff's Office
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 10/31/1988
+  agency: LaGrande Police Department
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 4/26/1988
+  agency: LaGrande Police Department
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 7/24/2024
+  certificate: Police Officer
+  level: Advanced
+  status: Reactivatd
+  certificate_date: 2/1/2004
+  expiration_date: ''
+  probation_date: ''
+- status_date: 7/24/2024
+  certificate: Police Officer
+  level: Basic
+  status: Reactivatd
+  certificate_date: 10/12/2000
+  expiration_date: ''
+  probation_date: ''
+- status_date: 7/24/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: Reactivatd
+  certificate_date: 5/7/2001
+  expiration_date: ''
+  probation_date: ''
+- status_date: 4/23/2024
+  certificate: Parole  Probation Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 4/21/2021
+  expiration_date: 1/23/2029
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Corrections Officer
+  level: Basic
+  status: Expired
+  certificate_date: 4/13/1995
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 10/17/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/16/2025
+  course: OSH1696B
+  title: Defensive Tactics/Taser 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/9/2025
+  course: OSH2135B
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/28/2025
+  course: VND0402B
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/24/2025
+  course: OSH1326B
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/10/2025
+  course: OSH2203B
+  title: OSP People in Crisis
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/26/2025
+  course: OSH2183B
+  title: 2nd Trimester firearms
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/17/2025
+  course: OSH0843B
+  title: 1st Trimester Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 4/4/2025
+  course: REG3644B
+  title: 2025 DUII Multi-Disciplinary Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 4/2/2025
+  course: OSH1693A
+  title: DRE Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/13/2025
+  course: OSH1923A
+  title: Defensive Tactics 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/7/2025
+  course: SAG0759A
+  title: 2025 Prosecuting the Drugged Driver
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 3/6/2025
+  course: SAG2970A
+  title: 2025 Prosecuting the Drugged Driver
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/5/2025
+  course: SAG4182A
+  title: 2025 Prosecuting the Drugged Driver
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/4/2025
+  course: SAG1434A
+  title: 2025 Prosecuting the Drugged Driver
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/3/2025
+  course: SAG1805A
+  title: 2025 Prosecuting the Drugged Driver
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/20/2025
+  course: OSH1947A
+  title: 'STOP Program: Data Collection on the Road'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/20/2024
+  course: REG0829A
+  title: Intoxilyzer 8000 Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/13/2024
+  course: PLS1077A
+  title: ARIDE (with Wetlab)
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/14/2024
+  course: OSH0431A
+  title: Mobile Detect Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2024
+  course: OSH1432A
+  title: Patrol Tactics 3
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/20/2024
+  course: OSH0565A
+  title: 3rd Trimester Firearms - Low Light
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/26/2024
+  course: OSH0023A
+  title: Defensive Tactics - Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/25/2024
+  course: 24-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 6/14/2024
+  course: OSH0111A
+  title: 2nd Trimester Firearms
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/31/2024
+  course: OSH3274A
+  title: TruNarc Drug Identifier
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/19/2024
+  course: OSH1130A
+  title: 1st Trimester Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/5/2024
+  course: F6R2630A
+  title: DUII Multi-Disciplinary Task Force
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 4/2/2024
+  course: OSH0293A
+  title: EVO - Advanced Pursuit Haulting Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/26/2024
+  course: OSH4321A
+  title: ARIDE
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/22/2024
+  course: OSH3500A
+  title: DEFENSIVE TACTICS FIRST TRIMESTER
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 3/10/2024
+  course: PLS2187A
+  title: Standardized Field Sobriety Tests
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/1/2024
+  course: OSH1181A
+  title: Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/1/2024
+  course: OSH4000A
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/1/2024
+  course: OSH3065A
+  title: Nalozone/Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/5/2024
+  course: OSH0318A
+  title: Taser 7 New User Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/25/2024
+  course: OSH1847A
+  title: Firearms qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/25/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/29/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/22/2023
+  course: ETS1125A
+  title: Ethics/Sexual Harassment Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/22/2023
+  course: ETS1635A
+  title: Use of Force Situations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/22/2023
+  course: ETS3820A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2023
+  course: ALN1796A
+  title: Sex Offender Supervision Academy
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 8/25/2023
+  course: OSH4246A
+  title: ARIDE
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 8/25/2023
+  course: ETS1199A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/23/2023
+  course: ETS1203A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/10/2023
+  course: OSH0662A
+  title: Drug Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/19/2023
+  course: F6R1974A
+  title: 40 Hour CIT Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/12/2023
+  course: OSH2125A
+  title: Drug Evaluation  Classification School
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/3/2023
+  course: OSH4419A
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/28/2023
+  course: REG10403
+  title: 2023 DUII Multi-Disciplinary Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 4/13/2023
+  course: ETS04374
+  title: Not in Our Town - Human Trafficking Prevention
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/17/2023
+  course: ETS26777
+  title: Active Shooter Preparation  Response for Schools
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/17/2023
+  course: ETS28415
+  title: 'Active Shooter: Phases and Prevention'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/9/2023
+  course: ETS11975
+  title: Technology Crimes for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/23/2023
+  course: ETS17471
+  title: Department Policies/Use of Force/Case Law
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/16/2023
+  course: ETS43407
+  title: Driving While Distracted
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/4/2023
+  course: ETS10082
+  title: Driving Safety for First Responders PTRL102
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/8/2022
+  course: ETS40244
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2022
+  course: ETS14899
+  title: Airway Circulatory Crisis  Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/25/2022
+  course: ETS02800
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/22/2022
+  course: OSH27620
+  title: ARIDE
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/25/2022
+  course: OSH04781
+  title: Drug Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '27.00'
+- date: 6/8/2022
+  course: PLS29699
+  title: ARIDE / Wet Lab
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/8/2022
+  course: F6R17453
+  title: ARIDE/Wet Lab
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/16/2022
+  course: VND14835
+  title: 40 Hour CIT 5/16/2022 - 5/20/2022
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/13/2022
+  course: ETS08201
+  title: CPR, AED,  Basic First Aid
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/22/2022
+  course: F6R36750
+  title: 2022 DUII Multi-Disciplinary Conference
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 4/20/2022
+  course: OSH35174
+  title: DRE Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/14/2022
+  course: F6R17532
+  title: Trust Building Practices Within the Organization
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/21/2022
+  course: OSH17072
+  title: ARIDE
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/13/2022
+  course: ETS25833
+  title: Firearms/Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2021
+  course: 21-CVDL1
+  title: 2021 LE Annual Maint-Not Met COVID19
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 12/31/2021
+  course: 21-CVDL3
+  title: 2021 LE Basic 3 Year Maint-Not Met COVID19
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 12/23/2021
+  course: ETS24062
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/7/2021
+  course: F6E09733
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/29/2021
+  course: F6E35645
+  title: Advanced Roadside Impaired Driving Enforcement
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/18/2021
+  course: F6E18518
+  title: Drug Evaluation  Classification Program School
+  status: Instructed
+  score: '0.0'
+  hours: '12.00'
+- date: 6/9/2021
+  course: F6E42572
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/21/2021
+  course: F6D41805
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/19/2021
+  course: 20T003
+  title: Parole  Probation Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 4/1/2021
+  course: F6E43735
+  title: ARIDE
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/22/2021
+  course: F6D24025
+  title: Advanced Roadside Impairment Driving Enforcement
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/13/2021
+  course: ETS42210
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2020
+  course: 20-CVDL1
+  title: 2020 LE Annual Maint-Not Met COVID19
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 12/12/2020
+  course: F6D42568
+  title: Drug Evaluation  Classification Certification Tr.
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
+- date: 11/3/2020
+  course: ETS17212
+  title: Firearms / Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/3/2020
+  course: ETS17212
+  title: Firearms / Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/18/2020
+  course: BPT35539
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/24/2020
+  course: 20-0005
+  title: DPSST Basic Parole and Probation
+  status: Passed
+  score: '0.0'
+  hours: '200.00'
+- date: 4/15/2020
+  course: ETP22634
+  title: DUII Investigation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/13/2020
+  course: ETS22359
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/13/2019
+  course: F6D09467
+  title: SFST Refresher and Wet Lab
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/12/2019
+  course: MISCMAIN
+  title: 2019 LE Annual Required Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/22/2019
+  course: BPT29898
+  title: Not by Chance Leadership
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/18/2019
+  course: F6D09832
+  title: 28CFR-Part23; RISSIntel/RISSafe/ De-confliction
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/8/2019
+  course: F6D16344
+  title: MRT Technical Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/21/2019
+  course: F6D39460
+  title: Responding ro Medical Emergencies
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/11/2019
+  course: F6D05224
+  title: 3rd Trimester Firearms - Low Light
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/8/2019
+  course: F6D10698
+  title: VBPS Live Fire
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/25/2019
+  course: F6D40098
+  title: Firearms In-Service
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/25/2019
+  course: F6D41709
+  title: Firearms In-Service
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/24/2019
+  course: F6D36422
+  title: Patrol Ballistic Shield-Live Fire
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/23/2019
+  course: F6D08834
+  title: Firearms In-Service
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/12/2019
+  course: F6D07495
+  title: Active Shooter Rescue Phase - Mass Casual Incident
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/8/2019
+  course: F6D35986
+  title: Defensive Tactics / Taser 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/7/2019
+  course: F6D27368
+  title: Incident Command System Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/26/2019
+  course: F6D34758
+  title: 2nd Trimester Firearms - Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/20/2019
+  course: F6D11987
+  title: Advanced Roadside Impaired Driving Enforcement
+  status: Instructed
+  score: '0.0'
+  hours: '14.00'
+- date: 6/11/2019
+  course: F6D16044
+  title: Responding to Medical Emergencies
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/7/2019
+  course: F6D38705
+  title: Responding to Medical Emergencies
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/6/2019
+  course: F6D12908
+  title: Responding to Medical Emergencies
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/5/2019
+  course: F6D33798
+  title: CPR
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/5/2019
+  course: F6D16046
+  title: First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/4/2019
+  course: F6D36136
+  title: CPR
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/4/2019
+  course: F6D17676
+  title: First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/24/2019
+  course: F6D00837
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/17/2019
+  course: F6D23577
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/10/2019
+  course: F6D23577
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/3/2019
+  course: F6D25345
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/10/2019
+  course: F6D13515
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/10/2019
+  course: F6D03936
+  title: Drug Evaluation  Classification School
+  status: Instructed
+  score: '0.0'
+  hours: '13.00'
+- date: 3/8/2019
+  course: F6D42015
+  title: Advanced Roadside Impairment Driving Enforcement
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/5/2019
+  course: F6D33511
+  title: Teen Marijuana and E-Cigarette Education
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/22/2019
+  course: F6D37388
+  title: Advanced Roadside Impairment Driving Enforcement
+  status: Instructed
+  score: '0.0'
+  hours: '15.00'
+- date: 2/6/2019
+  course: F6D24617
+  title: Safety Committee Meeting
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 1/30/2019
+  course: F6D24196
+  title: Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/24/2019
+  course: F6D36421
+  title: EMS In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/23/2019
+  course: F6D36421
+  title: EMS In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/22/2019
+  course: F6D42789
+  title: Get Real Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/21/2019
+  course: F6D36421
+  title: EMS In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/10/2019
+  course: F6D41298
+  title: Standardized Field Sobriety Testing Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/8/2019
+  course: F6D35815
+  title: Standarized Field Sobriety Testing Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2018
+  course: MISCMAIN
+  title: 2018 LE AnnualRequired Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/13/2018
+  course: F6D38735
+  title: SFST Refresher and Wet Lab
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/19/2018
+  course: F6D13667
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/19/2018
+  course: F6B41486
+  title: Trunk Radio System Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/10/2018
+  course: F6B34969
+  title: Defensive Tactics/Taser 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/28/2018
+  course: F6B42779
+  title: Procedural Justice/Implicit Bias
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/24/2018
+  course: F6B18042
+  title: First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/17/2018
+  course: F6D09357
+  title: High In Plain Sight Substance Use  Combating DUID
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 8/16/2018
+  course: F6B12667
+  title: First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/16/2018
+  course: F6B33254
+  title: First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/10/2018
+  course: F6B34425
+  title: First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/9/2018
+  course: F6B20836
+  title: Tactical Low Light
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/7/2018
+  course: F6B27239
+  title: VBPS Live Fire
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/7/2018
+  course: F6B19769
+  title: Firearms In-Service
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 8/1/2018
+  course: F6B36026
+  title: First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/27/2018
+  course: F6B05967
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/20/2018
+  course: F6W07615
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/15/2018
+  course: F6W17575
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/8/2018
+  course: F6B39191
+  title: Smith and Wesson Armorer (Rifle)
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/6/2018
+  course: F6B32999
+  title: Smith and Wesson Armorer (Pistol)
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/16/2018
+  course: F6D37860
+  title: SFST/DRE Instructor Confrence
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/11/2018
+  course: F6B19475
+  title: Vehicle Based Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/4/2018
+  course: F6B14854
+  title: DUII Multi-Disciplinary Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/2/2018
+  course: F6B35145
+  title: DRE Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/26/2018
+  course: F6B11466
+  title: DECP Drug Recognition School
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/17/2018
+  course: F6B38238
+  title: Breach Point for Police Officers
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/17/2018
+  course: F6B13147
+  title: DECP Drug Recognition School Pre-School/Wet Lab
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/13/2018
+  course: F6D27486
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/31/2018
+  course: F6B17092
+  title: AHA BLS CPR with AED
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/30/2018
+  course: F6B14696
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/28/2018
+  course: F6B40733
+  title: Background Investigation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/16/2018
+  course: F6B11771
+  title: AHA BLS CPR with AED
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/9/2018
+  course: F6B32859
+  title: AHA BLS CPR with AED
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/21/2018
+  course: F6W04809
+  title: AHA BLS CPR with AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/16/2018
+  course: F6B01640
+  title: AHA BLS CPR with AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/19/2018
+  course: F6B38187
+  title: EMR In-Service 2018
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/15/2017
+  course: F6C29681
+  title: Naloxone Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2017
+  course: F6C00797
+  title: Firearms In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/29/2017
+  course: F6C11794
+  title: Firearms In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 11/28/2017
+  course: F6C40074
+  title: Firearms In-Service
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/19/2017
+  course: F6C12701
+  title: IPTM Medical Foundations of Visual Systems Test
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/19/2017
+  course: '04145'
+  title: IPTM Medical Foundations of Visual Systems
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/1/2017
+  course: '31531'
+  title: Survival Skills w/Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/13/2017
+  course: F6C42060
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/30/2017
+  course: F6C10811
+  title: Patrol Tactics - "Get Real" Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/20/2017
+  course: F6C15872
+  title: Advanced Raodside Impaired Driving Enforcement
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
+- date: 6/6/2017
+  course: F6C15960
+  title: DRE Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/5/2017
+  course: F6C39107
+  title: SFST Instructor/DRE Instructor In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/27/2017
+  course: F6C25010
+  title: Marijuana Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/24/2017
+  course: F6C33828
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/19/2017
+  course: F6C38615
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/14/2017
+  course: F6C25568
+  title: Bloodborne Pathogens 2017
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/24/2017
+  course: F6C19512
+  title: Drug Evaluation  Classification School
+  status: Instructed
+  score: '0.0'
+  hours: '53.00'
+- date: 3/15/2017
+  course: F6C23891
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/10/2016
+  course: F6C02489
+  title: EMR in Service
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/9/2016
+  course: F6C16330
+  title: EMR in Service
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/8/2016
+  course: F6C03805
+  title: EMR in Service
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/7/2016
+  course: F6C17971
+  title: EMR in Service
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/27/2016
+  course: F6C28010
+  title: Patrol Procedure-Rest Area Exclusion
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/23/2016
+  course: F6A02423
+  title: SFST/Drugs that Impair Driving
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/14/2016
+  course: F6C04727
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/10/2016
+  course: F6C00869
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 8/15/2016
+  course: F6C07746
+  title: Patrol Tactics "Get Real" 12-24 Custodies
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2016
+  course: 16-0983
+  title: Crisis Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/25/2016
+  course: F6C09748
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/20/2016
+  course: F6C03341
+  title: DRE Certification
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/20/2016
+  course: F6C05132
+  title: DRE Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/10/2016
+  course: F6A01117
+  title: Patrol Tactics "Get Real" Stop Stick Deployement
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/25/2016
+  course: F6A00539
+  title: Rangemaster In Service
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 5/14/2016
+  course: F6A00113
+  title: Patrol Tactics - "Get Real" High Risk Traffic Stop
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/13/2016
+  course: F6C08836
+  title: Drug Evaluation
+  status: Instructed
+  score: '0.0'
+  hours: '14.00'
+- date: 5/4/2016
+  course: F6C31132
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/4/2016
+  course: F6C23701
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/29/2016
+  course: F6Z00232
+  title: DUII Multi-Disciplinary Trng Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 4/27/2016
+  course: F6A00198
+  title: DRE Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/22/2016
+  course: F6A00178
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/15/2016
+  course: F6B00635
+  title: Patrol Tactics - "Get Real" The Pullover
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2016
+  course: 16-0041
+  title: SFST Instructor Update
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/8/2016
+  course: F6A00178
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/7/2016
+  course: F6A00540
+  title: Advanced Roadside Impaired Driving Enforcement
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/31/2016
+  course: 16-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/18/2016
+  course: 16-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/15/2016
+  course: 16-1223
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/4/2016
+  course: 16-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/26/2016
+  course: 16-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/24/2016
+  course: 15-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/18/2016
+  course: 16-1113
+  title: Case Law / Court Decisions
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/18/2016
+  course: 16-1083
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/18/2016
+  course: 16-0578
+  title: Firearms Instant Check Disqualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2016
+  course: 16-1170
+  title: OSP CAPE/K-9
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2016
+  course: 16-0839
+  title: Radio Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/17/2016
+  course: 16-0971
+  title: Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/17/2016
+  course: 16-1209
+  title: Downed Officer Rescue
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/16/2016
+  course: 16-0983
+  title: Crisis Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/16/2016
+  course: 16-0629
+  title: Verbal Judo
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/16/2016
+  course: 16-0276
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/15/2016
+  course: 16-0777
+  title: Property Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/15/2016
+  course: 16-0711
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/15/2016
+  course: 16-0700
+  title: CAD End User Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/14/2016
+  course: 16-1084
+  title: ARIDE (Adv. Roadside Impaired Driving Enforcement)
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/8/2016
+  course: 16-1007
+  title: Instructor Course - Other
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 12/31/2015
+  course: 15-1223
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2015
+  course: MISCMAIN
+  title: 2015 Police Maintenance Basic
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/30/2015
+  course: 15-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2015
+  course: 15-0974
+  title: Hazardous Materials
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/16/2015
+  course: 15-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/10/2015
+  course: 15-1084
+  title: ARIDE (Adv. Roadside Impaired Driving Enforcement)
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 12/3/2015
+  course: 15-0955
+  title: First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/30/2015
+  course: 15-1226
+  title: Vehicle / Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/21/2015
+  course: 15-1075
+  title: Intoxilyzer 8000
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/20/2015
+  course: 15-1083
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/16/2015
+  course: 15-0129
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/8/2015
+  course: 15-0129
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/28/2015
+  course: 15-0497
+  title: Supervision / Management Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/10/2015
+  course: 15-1084
+  title: ARIDE (Adv. Roadside Impaired Driving Enforcement)
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/27/2015
+  course: 15-1059
+  title: DRE Certificiation
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/20/2015
+  course: 15-1059
+  title: DRE Certificiation
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/29/2015
+  course: 15-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/22/2015
+  course: 15-0555
+  title: DRE Full-School
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
+- date: 5/7/2015
+  course: 15-1084
+  title: ARIDE (Adv. Roadside Impaired Driving Enforcement)
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/2/2015
+  course: 15-0129
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/31/2015
+  course: 15-1083
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/11/2015
+  course: 15-1075
+  title: Intoxilyzer 8000
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/10/2015
+  course: 15-1084
+  title: ARIDE (Adv. Roadside Impaired Driving Enforcement)
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/8/2015
+  course: 15-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/6/2015
+  course: 15-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/24/2015
+  course: 15-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 2/19/2015
+  course: 15-0184
+  title: Firearms Instructor Update
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 1/22/2015
+  course: 15-1070
+  title: Driving Under The Influence
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/30/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/30/2014
+  course: 14-0974
+  title: Hazardous Materials
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/19/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/19/2014
+  course: 14-0974
+  title: Hazardous Materials
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/12/2014
+  course: 14-1084
+  title: ARIDE (Adv. Roadside Impaired Driving Enforcement)
+  status: Instructed
+  score: '0.0'
+  hours: '14.00'
+- date: 12/5/2014
+  course: 14-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/5/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/3/2014
+  course: 14-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/3/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/3/2014
+  course: 14-0974
+  title: Hazardous Materials
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/14/2014
+  course: 14-0974
+  title: Hazardous Materials
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/14/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/14/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/10/2014
+  course: 14-0974
+  title: Hazardous Materials
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/10/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2014
+  course: 14-0974
+  title: Hazardous Materials
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/6/2014
+  course: 14-1007
+  title: Instructor Course - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/5/2014
+  course: 14-1007
+  title: Instructor Course - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/4/2014
+  course: 14-1007
+  title: Instructor Course - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/24/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/10/2014
+  course: 14-1084
+  title: ARIDE (Adv. Roadside Impaired Driving Enforcement)
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/26/2014
+  course: 14-1082
+  title: SFST / DID Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/15/2014
+  course: 14-0153
+  title: AR-15 Basic Operator / Qualification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/16/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/15/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/14/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/8/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/19/2014
+  course: 14-1059
+  title: DRE Certificiation
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/12/2014
+  course: 14-1059
+  title: DRE Certificiation
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/27/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/13/2014
+  course: 14-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/11/2014
+  course: 14-1083
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/2/2014
+  course: 14-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/28/2014
+  course: 14-1075
+  title: Intoxilyzer 8000
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/28/2014
+  course: F6A04113
+  title: Intoxilyzer 8000 IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/30/2014
+  course: 14-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/25/2014
+  course: 14-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/7/2014
+  course: 14-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/28/2014
+  course: 14-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/26/2014
+  course: 14-0041
+  title: SFST Instructor Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2014
+  course: 14-3082
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/21/2014
+  course: 14-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/9/2014
+  course: 14-0951
+  title: CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/30/2014
+  course: 14-1150
+  title: Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/20/2013
+  course: 13-1153
+  title: OSP HazMat Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/20/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/13/2013
+  course: 13-1153
+  title: OSP HazMat Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/13/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/9/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/9/2013
+  course: 13-0272
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/9/2013
+  course: 13-0221
+  title: OSP Defensive Tactics 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/6/2013
+  course: 13-1153
+  title: OSP HazMat Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/6/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/2/2013
+  course: 13-1153
+  title: OSP HazMat Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/2/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/23/2013
+  course: 13-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/22/2013
+  course: 13-1126
+  title: Driver Level 2 / Vehicle Inspection Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/15/2013
+  course: 13-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/14/2013
+  course: 13-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/7/2013
+  course: 13-1151
+  title: OSP Emergency Medical Responder Instructors Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/6/2013
+  course: 13-1151
+  title: OSP Emergency Medical Responder Instructors Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/6/2013
+  course: 13-0951
+  title: CPR / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/5/2013
+  course: 13-1151
+  title: OSP Emergency Medical Responder Instructors Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/4/2013
+  course: 13-1151
+  title: OSP Emergency Medical Responder Instructors Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/25/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/11/2013
+  course: 13-0100
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/6/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/5/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/23/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/22/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/20/2013
+  course: 13-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/19/2013
+  course: 13-1083
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/9/2013
+  course: 13-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/8/2013
+  course: 13-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/13/2013
+  course: 13-1059
+  title: DRE Certificiation
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/2/2013
+  course: 13-1271
+  title: FTEP Refresher
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/1/2013
+  course: 13-0711
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 6/27/2013
+  course: 13-3082
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/14/2013
+  course: 13-0219
+  title: OSP Defensive Tactics 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/30/2013
+  course: 13-0906
+  title: Ethics  Bias Based Profiling
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/30/2013
+  course: 13-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/7/2013
+  course: 13-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/3/2013
+  course: 13-1124
+  title: Search Warrant Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/25/2013
+  course: 13-0555
+  title: DRE Full-School
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 4/23/2013
+  course: 13-0709
+  title: Mobile Data Terminal (MDT)
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/11/2013
+  course: 13-1149
+  title: OSP Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/11/2013
+  course: 13-1149
+  title: OSP Emergency Medical Responder
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/9/2013
+  course: 13-3082
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/7/2013
+  course: 13-0960
+  title: First Responder
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/29/2013
+  course: 13-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/28/2013
+  course: 13-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/22/2013
+  course: 13-0217
+  title: OSP Defensive Tactics 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/15/2013
+  course: 13-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/14/2013
+  course: 13-0232
+  title: OSP Range Master In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/13/2013
+  course: 13-0232
+  title: OSP Range Master In-Service
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/12/2013
+  course: 13-0232
+  title: OSP Range Master In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/8/2013
+  course: 13-1008
+  title: Drug Recognition Expert /SFST Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/25/2013
+  course: 13-0721
+  title: Electronics - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/13/2013
+  course: 13-3080
+  title: SFST  Drugs That Impair Driving (DID)
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 12/31/2012
+  course: MISCMAIN
+  title: 2012 Police Maintenance Basic
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/14/2012
+  course: 12-0221
+  title: OSP Defensive Tactics 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/15/2012
+  course: 12-1151
+  title: OSP Emergency Medical Responder Instructors Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/25/2012
+  course: 12-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/10/2012
+  course: 12-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/19/2012
+  course: 12-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/9/2012
+  course: 12-0217
+  title: OSP Defensive Tactics 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/9/2012
+  course: 12-0217
+  title: OSP Defensive Tactics 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/6/2012
+  course: 12-0232
+  title: OSP Range Master In-Service
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/23/2012
+  course: 12-1083
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/9/2012
+  course: 12-1150
+  title: OSP Emergency Medical Responder In-Service
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/28/2012
+  course: 12-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 12/1/2011
+  course: 11-3028
+  title: Firearms Instructor Update
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/24/2011
+  course: 11-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/20/2011
+  course: 11-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/20/2011
+  course: 11-0235
+  title: OSP Semi Automatic Rifle Requal Program
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/20/2011
+  course: 11-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/13/2011
+  course: 11-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/30/2011
+  course: 11-1160
+  title: OSP Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/23/2011
+  course: 11-0221
+  title: OSP Defensive Tactics 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/12/2011
+  course: 11-1245
+  title: Oregon Marine LE - Drift Operations
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/24/2011
+  course: 11-0219
+  title: OSP Defensive Tactics 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/17/2011
+  course: 11-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/16/2011
+  course: 11-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/3/2011
+  course: 11-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/25/2011
+  course: 11-0232
+  title: OSP Range Master In-Service
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/6/2011
+  course: 11-1153
+  title: OSP HazMat Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/22/2011
+  course: 11-0214
+  title: OSP AR-15 Rifle
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/16/2011
+  course: 11-0559
+  title: Oregon Marine Law Enforcement Academy (OMLEA)
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 3/25/2011
+  course: 11-0217
+  title: OSP Defensive Tactics 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/11/2011
+  course: 11-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/9/2011
+  course: 11-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/10/2011
+  course: 11-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/7/2011
+  course: 11-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/3/2011
+  course: 11-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2010
+  course: 10-0412
+  title: IS 704.a NIMS Communication  Information Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2010
+  course: 10-0409
+  title: IS 701.a NIMS Multiagency System Coordination
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/19/2010
+  course: 10-0221
+  title: OSP Defensive Tactics 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/19/2010
+  course: 10-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/17/2010
+  course: 10-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/15/2010
+  course: 10-1150
+  title: OSP First Responder In-Service
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/15/2010
+  course: 10-1153
+  title: OSP HazMat Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/12/2010
+  course: 10-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/29/2010
+  course: 10-0143
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/28/2010
+  course: 10-0158
+  title: Smith and Wesson Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/22/2010
+  course: 10-0214
+  title: OSP AR-15 Rifle
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 8/11/2010
+  course: 10-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/16/2010
+  course: 10-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/6/2010
+  course: 10-0219
+  title: OSP Defensive Tactics 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/10/2010
+  course: 10-1083
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/9/2010
+  course: 10-1160
+  title: OSP Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/8/2010
+  course: 10-1204
+  title: EVOC / PIT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/7/2010
+  course: 10-0711
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/7/2010
+  course: 10-0884
+  title: Anti-Terrorism Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/7/2010
+  course: 10-1170
+  title: OSP CAPE/K-9
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/7/2010
+  course: 10-0883
+  title: Critical Incident Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/6/2010
+  course: 10-1094
+  title: Civil Liability Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/26/2010
+  course: 10-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/21/2010
+  course: 10-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/7/2010
+  course: 10-0184
+  title: Firearms Instructor Update
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 2/26/2010
+  course: 10-1126
+  title: Driver Level 2 / Vehicle Inspection Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/19/2009
+  course: '09-0221'
+  title: OSP Defensive Tactics 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/18/2009
+  course: '09-1269'
+  title: Field Training  Evaluation Program
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/8/2009
+  course: '09-1116'
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/15/2009
+  course: '09-0235'
+  title: OSP Semi Automatic Rifle Requal Program
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/9/2009
+  course: '09-1160'
+  title: OSP Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/21/2009
+  course: '09-0555'
+  title: DRE Full-School
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/10/2009
+  course: '09-0219'
+  title: OSP Defensive Tactics 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/30/2009
+  course: '09-0225'
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/19/2009
+  course: '09-0227'
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/29/2009
+  course: '09-1153'
+  title: OSP HazMat Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/29/2009
+  course: '09-1150'
+  title: OSP First Responder In-Service
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/30/2009
+  course: '09-0225'
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/18/2009
+  course: '09-0573'
+  title: DUII Multi-Disciplinary Impaired Driving Conferenc
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/17/2009
+  course: '09-1059'
+  title: DRE Certificiation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/16/2009
+  course: '09-1059'
+  title: DRE Certificiation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/13/2009
+  course: '09-0225'
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/14/2008
+  course: '08-0229'
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/24/2008
+  course: '08-0225'
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/17/2008
+  course: '08-0221'
+  title: OSP Defensive Tactics 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/30/2008
+  course: '08-0249'
+  title: Range 3000
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/29/2008
+  course: '08-0227'
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/22/2008
+  course: '08-0227'
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/22/2008
+  course: '08-0227'
+  title: OSP Firearms 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/29/2008
+  course: '08-0235'
+  title: OSP Semi Automatic Rifle Requal Program
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/7/2008
+  course: '08-1059'
+  title: DRE Certificiation
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/16/2008
+  course: '08-1150'
+  title: OSP First Responder In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/16/2008
+  course: '08-1153'
+  title: OSP HazMat Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/9/2008
+  course: '08-0555'
+  title: DRE Full-School
+  status: Passed
+  score: '0.0'
+  hours: '56.00'
+- date: 4/30/2008
+  course: '08-0556'
+  title: DRE Pre-School
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/27/2008
+  course: '08-1159'
+  title: OSP Patrol In-service
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/26/2008
+  course: '08-1071'
+  title: DUII Mobile Video Taping
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/26/2008
+  course: '08-1161'
+  title: OSP Patrol Tactics - Active Shooter Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/24/2008
+  course: '08-0821'
+  title: Criminal Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/24/2008
+  course: '08-0809'
+  title: Identity Theft Investigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/23/2008
+  course: '08-1238'
+  title: Traffic Law Enforcement for the 21st Century
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/19/2008
+  course: '08-0225'
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/18/2008
+  course: '08-0225'
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/4/2008
+  course: '08-0225'
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/4/2008
+  course: '08-0225'
+  title: OSP Firearms 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/28/2008
+  course: '08-0217'
+  title: OSP Defensive Tactics 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/21/2007
+  course: 07-1160
+  title: OSP Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/18/2007
+  course: 07-0156
+  title: Glock Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/7/2007
+  course: 07-0221
+  title: OSP Defensive Tactics 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/5/2007
+  course: 07-0819
+  title: Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/19/2007
+  course: 07-0229
+  title: OSP Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/11/2007
+  course: 07-0797
+  title: Sex Crimes Response  Investigation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/10/2007
+  course: 07-0795
+  title: Domestic Violence Investigations
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/24/2007
+  course: 07-1203
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/10/2007
+  course: 07-0219
+  title: OSP Defensive Tactics 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/9/2007
+  course: 07-0235
+  title: OSP Semi Automatic Rifle Requal Program
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/10/2007
+  course: 07-0654
+  title: Arab Muslim Sikh Protocols
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/29/2007
+  course: 07-0227
+  title: OSP Firearms 2nd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/29/2007
+  course: 07-0227
+  title: OSP Firearms 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/6/2007
+  course: 07-0792
+  title: Amber Alert
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/27/2007
+  course: 07-0225
+  title: OSP Firearms 1st Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/27/2007
+  course: 07-0225
+  title: OSP Firearms 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/6/2007
+  course: 07-0217
+  title: OSP Defensive Tactics 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/23/2007
+  course: 07-1150
+  title: OSP First Responder In-Service
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 2/28/2007
+  course: 07-0232
+  title: OSP Range Master In-Service
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 12/5/2006
+  course: 06-0032
+  title: Intoxilyzer 8000
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/16/2006
+  course: 06-0196
+  title: Officer Survival
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/27/2006
+  course: 06-1785
+  title: OSP '06 DT 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/20/2006
+  course: 06-1786
+  title: OSP '06 Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/13/2006
+  course: 06-1786
+  title: OSP '06 Firearms 3rd Trimester
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/11/2006
+  course: 06-1786
+  title: OSP '06 Firearms 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/29/2006
+  course: 06-0799
+  title: Firearms - Instructor
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 9/21/2006
+  course: 06-0676
+  title: IS 200 Single Resources  Initial Action Incidents
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/14/2006
+  course: 06-0675
+  title: IS 100 Introduction to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/30/2006
+  course: 06-1263
+  title: OSP '06 Firearms 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/26/2006
+  course: 06-0092
+  title: OSP '06 DT 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/15/2006
+  course: 06-1609
+  title: OSP '06 Basic Rifle Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/29/2006
+  course: 06-0155
+  title: DUI
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/21/2006
+  course: 06-0199
+  title: OSP '06 Firearms 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/13/2006
+  course: 06-1545
+  title: OSP '06 DUII  SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/13/2006
+  course: 06-1544
+  title: OSP '06 Patrol Div Inservice
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 4/12/2006
+  course: 06-1542
+  title: OSP '06 Traffic LE for the 21st Century
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/11/2006
+  course: 06-0041
+  title: OSP '06 HazMat Awareness
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/11/2006
+  course: 06-0040
+  title: OSP '06 Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/31/2006
+  course: 06-0091
+  title: OSP '06 DT 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/3/2006
+  course: 06-0095
+  title: OSP '06 First Responder
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/16/2006
+  course: 06-0433
+  title: OSP '06 Range Master Update
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/18/2005
+  course: 05-1435
+  title: OSP '05 DT 3nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/12/2005
+  course: 05-0240
+  title: OSP '05 HazMat Awareness
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/30/2005
+  course: 05-1438
+  title: OSP '05 Firearms 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/3/2005
+  course: 05-1257
+  title: OSP '05 Firearms 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/20/2005
+  course: 05-1256
+  title: OSP '05 DT 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/13/2005
+  course: 05-0764
+  title: OSP '05 Firearms 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/3/2005
+  course: 05-0995
+  title: People with ASD  Effective Response Tips
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/29/2005
+  course: 05-0617
+  title: OSP '05 Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/25/2005
+  course: 05-0424
+  title: OSP '05 First Responder
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/11/2005
+  course: 05-0763
+  title: OSP '05 DT 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/9/2005
+  course: 05-1556
+  title: NIMS IS-700
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/5/2005
+  course: 05-0879
+  title: OSP '05 WMD LEPM
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/9/2004
+  course: 04-0046
+  title: OSIN Basic Criminal Intelligence Concepts Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/16/2004
+  course: 04-0058
+  title: Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/24/2004
+  course: 04-0907
+  title: OSP '04 HazMat Awareness
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/17/2004
+  course: 04-4731
+  title: OSP '04 DT 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/10/2004
+  course: 04-4376
+  title: OSP '04 Firearms 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/2/2004
+  course: 04-0980
+  title: OSP '04 DT 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/20/2004
+  course: 04-1094
+  title: OSP '04 Patrol Inservice
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 4/30/2004
+  course: 04-0206
+  title: OSP '04 Firearms 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/21/2004
+  course: 04-0238
+  title: Consular Notification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/21/2004
+  course: 04-2071
+  title: OSP '04 Patrol Tactics - Patrol Division
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/20/2004
+  course: 04-3259
+  title: OSP '04 WMD Pers. Protective Equipment
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/9/2004
+  course: 04-0396
+  title: OSP '04 First Responder
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/12/2004
+  course: 04-0063
+  title: OSP '04 DT 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/27/2004
+  course: 04-0064
+  title: OSP 2003 Haz Mat Refresher Make-Up
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/27/2004
+  course: 04-0064
+  title: OSP 2003 Haz Mat Refresher Make-Up
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/26/2004
+  course: 04-0064
+  title: OSP 2003 Haz Mat Refresher Make-Up
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/15/2004
+  course: 04-0185
+  title: 2003 Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/12/2003
+  course: 03-1041
+  title: OSP 2003 Haz Mat Refresher
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/4/2003
+  course: 03-0943
+  title: ODOT Driver's Hours Cargo Recert
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/31/2003
+  course: 03-0174
+  title: OSP Patrol Tactics 2003
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/10/2003
+  course: 03-0259
+  title: Oregon State Police Defensive Tactics 3
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/5/2003
+  course: 03-0300
+  title: OSP Trimester Firearms 3
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/27/2003
+  course: 03-0299
+  title: OSP Trimester Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/14/2003
+  course: 03-0387
+  title: OSP 2003 First Responder In-Service
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/11/2003
+  course: 03-0298
+  title: OSP 2003 Trimester Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/20/2003
+  course: 03-0257
+  title: Oregon State Police Defensive Tactics 1
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/13/2002
+  course: 02CP872
+  title: OSP Hazardous Materials In-Service
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/5/2002
+  course: 03-0142
+  title: SFST Instructor Update Course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/2/2002
+  course: 02CP470
+  title: OSP Defensive Tactics 3rd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/24/2002
+  course: 02CP018
+  title: Tactical Vehicle Intervention
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/13/2002
+  course: 02CP469
+  title: OSP Defensive Tactics 2nd Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 8/30/2002
+  course: 02CP376
+  title: Oregon State Police 2002 Trimester Firearms 3
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/18/2002
+  course: 02CP693
+  title: Oregon State Police Patrol In-Service
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/21/2002
+  course: 02CP375
+  title: OSP 2002 Trimester Firearms Training 2
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2001
+  course: 01CP763
+  title: Oregon 2001 Legislative News Laws Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2001
+  course: 02CP061
+  title: OSP-Online Radar Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2001
+  course: 02CP060
+  title: OSP-Online Vascar/Pacing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2001
+  course: 02CP062
+  title: OSP-Online Lidar
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/9/2001
+  course: 01CP549
+  title: OSP 2001 Hazardous Materials In-Service
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/9/2001
+  course: 01CP194
+  title: OSP Patrol Tactics 2001
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/12/2001
+  course: 01CP114
+  title: 2001 Trimester Firearms Training III
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/16/2001
+  course: 01CP112
+  title: 2001 Trimester Firearms Training II
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/13/2001
+  course: 01CP343
+  title: Defensive Tactics District In-Service 1st Trimeste
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/30/2000
+  course: 00P439
+  title: SFST Instructor Update
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/21/2000
+  course: 00P498
+  title: Legal Update House Bill 2433
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/13/2000
+  course: 00P341
+  title: Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/2/2000
+  course: 00P415
+  title: Technical Collision Investigation
+  status: Passed
+  score: '0.0'
+  hours: '136.00'
+- date: 1/26/2000
+  course: 00P662
+  title: OSP Patrol In-Service
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 11/22/1999
+  course: 99P155
+  title: MULTI-DISCIPLINARY CHLD ABUSE INVSTI
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/5/1999
+  course: 99P176
+  title: SFST INSTRUCTOR COURSE
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 9/30/1999
+  course: 99P558
+  title: 1999 LEGISLATURE-NEW LAWS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/29/1999
+  course: 99P247
+  title: REID TECHNIQUE OF INTERVWNG  INTEROGTN
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/28/1999
+  course: 99P455
+  title: OREGON REGIONAL FORENSIC ACADEMY
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 4/9/1999
+  course: 99P270
+  title: INTERVIEWING SKILLS/CHILD ABUSE INVEST
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/6/1999
+  course: 99P006
+  title: FIREARMS TRAINING SYSTEM (FATS)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/1998
+  course: 98P444
+  title: SEARCH  SEIZURE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/17/1998
+  course: 98P219
+  title: MULTI-DISCIPLINARY CHILD ABUSE INVESTIGA
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/28/1998
+  course: 98P048
+  title: FIREARMS TRAINING SYSTEM (FATS)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/1997
+  course: 97P146
+  title: COMMERCIAL DRIVER/VEHICLE/CARGO ROADSIDE
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/5/1997
+  course: 97P544
+  title: INTRO TO STREET LEVEL DRUG IDENTIFICATIO
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/25/1997
+  course: 97P334
+  title: ORIENTATION  TRAINING FOR DEPUTY MEDICA
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/17/1997
+  course: 97P411
+  title: 1997 RECRUIT SCHOOL
+  status: Passed
+  score: '0.0'
+  hours: '633.00'
+- date: 5/1/1997
+  course: 97P043
+  title: FIREARMS TRAINING SYSTEM (FATS)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/20/1997
+  course: 97P220
+  title: SFST/DRUGS THAT IMPAIR DRIVING
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 3/7/1997
+  course: 97P043
+  title: FIREARMS TRAINING SYSTEM (FATS)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/14/1997
+  course: 97P049
+  title: GLOCK SEMI-AUTO TRANSITION
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 6/28/1996
+  course: 96G202
+  title: BASIC POLICE COURSE NO. 202
+  status: Passed
+  score: '0.0'
+  hours: '320.00'
+- date: 6/6/1996
+  course: 96X030
+  title: IMPLIED CONSENT/INTOX. 5000
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/18/1996
+  course: 96X074
+  title: DRUGS THAT IMPAIR DRIVING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/17/1996
+  course: 96X002
+  title: DWI DETECTION/IMPROVED FIELD SOBR. TSTNG
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/13/1995
+  course: 95T002
+  title: Corrections Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 2/10/1995
+  course: 95A093
+  title: 'BASIC CORRECTIONS CLASS #93'
+  status: Passed
+  score: '0.0'
+  hours: '200.00'
+- date: 1/18/1995
+  course: 95X010
+  title: MEDIC FIRST AID
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/19/1991
+  course: '909217'
+  title: PORTLAND BASIC POLICE RESERVE ACADEMY
+  status: Passed
+  score: '0.0'
+  hours: '281.00'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Certification Cards
+  value: CPR
+  effective_date: 3/1/2024
+  expiration_date: 3/31/2026
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 3/1/2024
+  expiration_date: 3/31/2026
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 1/25/2024
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Telecommunication Signed
+  effective_date: 9/11/2023
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 4/9/2021
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 6/21/2020
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 10/12/2000
+  expiration_date: ''
+education_records:
+- date: 2/1/2001
+  degree: No Degree
+  school: Chemeketa Community College
+  major: ''
+  hours: '38.0'
+- date: 12/15/1982
+  degree: No Degree
+  school: Eastern Oregon University
+  major: ''
+  hours: '7.0'

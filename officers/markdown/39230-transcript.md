@@ -44,6 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2025 | EGP3943B | DT Taser scenarios | Passed | 0.0 | 3.50 |
+| 10/9/2025 | EGP2280B | Firearms Qualification | Passed | 0.0 | 2.00 |
+| 10/9/2025 | EGP4084B | CIT/Mental Health - Mental Health Review | Passed | 0.0 | 1.00 |
+| 10/9/2025 | EGP3147B | Evidence-on-Q Officer Entry | Passed | 0.0 | 1.50 |
 | 9/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/11/2025 | EGP4242B | Legal Updates | Passed | 0.0 | 1.50 |
 | 9/11/2025 | EGP2260B | Oregon DOJ - Ethics Review | Passed | 0.0 | 2.50 |

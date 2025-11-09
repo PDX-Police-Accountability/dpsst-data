@@ -2672,5 +2672,108 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '320.00'
-attribute_records: []
-education_records: []
+- date: 6/9/1987
+  course: '879050'
+  title: INTOXILYZER MODEL 4011-A
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/6/1987
+  course: '875016'
+  title: RADAR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/20/1987
+  course: 87MO50
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 3/1/1987
+  course: '879192'
+  title: FIELD SOBRIETY TESTING
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/3/1987
+  course: 87P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/25/1986
+  course: '869316'
+  title: OREGON CITY POLICE RESERVE ACADEMY
+  status: Passed
+  score: '0.0'
+  hours: '71.00'
+- date: 2/4/1986
+  course: 86P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 1/2/1986
+  course: 86P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 7/18/1985
+  course: '859239'
+  title: POLICE USE OF FORCE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/1984
+  course: 84P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/1984
+  course: '849161'
+  title: BASIC OR CRIM JUST INFO SYSTEM
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/13/1984
+  course: '849117'
+  title: DISPATCHER SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/1/1984
+  course: 84LM24
+  title: LEDS TRAINING GUIDE
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/27/2024
+  expiration_date: 1/27/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 4/10/2023
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 3/30/2022
+  expiration_date: ''
+education_records:
+- date: 6/20/1985
+  degree: Associate Science
+  school: Portland Community College
+  major: Communications  Broadcasting
+  hours: '99.0'

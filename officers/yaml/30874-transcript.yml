@@ -9,6 +9,18 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/27/2025
+  agency: Gresham Police Department
+  action: Hired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
+- date: 10/15/2025
+  agency: Forest Grove Police Department
+  action: Resigned
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 7/2/2023
   agency: Forest Grove Police Department
   action: Promotion
@@ -51,30 +63,36 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 9/11/2025
-  expiration_date: ''
+  expiration_date: 1/15/2026
   probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 1/15/2026
   probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 1/15/2026
   probation_date: ''
 - status_date: 1/22/1997
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/22/1997
-  expiration_date: ''
+  expiration_date: 1/15/2026
   probation_date: ''
 training_records:
+- date: 10/27/2026
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 5/27/2025
   course: FGP0153B
   title: DPSST Legal Updates - March/April 2025

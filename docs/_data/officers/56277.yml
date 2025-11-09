@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2025
+  course: CAP2337B
+  title: Airways Training Video - Patient Evaluation For LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2025
+  course: CAP3011B
+  title: Firearms - Precision Rifle
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/8/2025
+  course: CAP1362B
+  title: Cultural Awareness and Diversity Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/25/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -146,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/26/2025
+  course: CAP1187B
+  title: Bloodborne Pathogens for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/21/2025
   course: CAP1707B
   title: Hazmat
@@ -154,6 +178,18 @@ training_records:
   hours: '1.50'
 - date: 3/21/2025
   course: CAP0448B
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/21/2025
+  course: CAP0638B
+  title: HAZMAT First Responder Awareness (FRA) Level 1
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/21/2025
+  course: CAP3506B
   title: PREA
   status: Passed
   score: '0.0'

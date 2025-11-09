@@ -27,7 +27,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/2/2025 | 10/2/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -35,7 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2025 | PDS3585B | Red Dot Firearms | Passed | 0.0 | 24.00 |
 | 10/9/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/8/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/2/2025 | PDS4356B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 10/2/2025 | PDS0716B | Taser 7 | Passed | 0.0 | 4.00 |
 | 8/7/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |

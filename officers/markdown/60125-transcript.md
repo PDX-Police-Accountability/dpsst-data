@@ -25,7 +25,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 9/20/2025 | 9/20/2027 |
-| Certification Cards | First Aid and CPR | 1/5/2025 | 1/5/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/11/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 9/10/2020 |  |
@@ -39,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/20/2025 | PDS3802B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 9/20/2025 | PDS2932B | Taser 7 | Passed | 0.0 | 4.00 |
 | 9/20/2025 | PDS0433B | VR ConSim | Passed | 0.0 | 2.00 |

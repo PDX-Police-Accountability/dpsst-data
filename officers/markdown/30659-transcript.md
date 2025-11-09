@@ -28,6 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 8/29/2025 | 8/13/2027 |
 | Code of Ethics | Signed | 12/14/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2025 | PDS1396B | AIC Manipulation | Passed | 0.0 | 1.00 |
+| 8/29/2025 | PDS2046B | ConSim | Passed | 0.0 | 2.00 |
+| 8/29/2025 | PDS4426B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 8/29/2025 | PDS3657B | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 7/29/2025 | PDS2874B | Fire Drill Training | Passed | 0.0 | 0.75 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/6/2025 | PDS0870A | Taser 7 | Passed | 0.0 | 8.00 |

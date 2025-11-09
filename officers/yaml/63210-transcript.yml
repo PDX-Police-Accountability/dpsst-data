@@ -24,6 +24,84 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2025
+  course: PDP2994B
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2025
+  course: PDP3597B
+  title: 2025-10 CHO Executive Order, DIR 0625.00
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2025
+  course: PDP3739B
+  title: '2025-10 CAO Updates: Disorderly Conduct'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2025
+  course: PDP3376B
+  title: 2025-10 CAO Legal Updates for 3/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2025
+  course: PDP1093B
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP3698B
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/10/2025
+  course: PDP4526B
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP1232B
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP4544B
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP2961B
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2025
+  course: PDP1050B
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/25/2025
   course: PDP1502B
   title: Patrol Vehicle Operations Policy [PVO101]
@@ -165,6 +243,12 @@ training_records:
 - date: 1/18/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/17/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -979,6 +1063,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/27/2025
+  expiration_date: 10/27/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
@@ -991,10 +1079,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 10/12/2023
-  expiration_date: 10/12/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 2/20/2023

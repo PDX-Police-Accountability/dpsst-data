@@ -36,6 +36,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 8/21/2025
+  course: PDP2014B
+  title: ICS-100 Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/21/2025
+  course: PDP0512B
+  title: ICS-200 Basic Incident Comm System Initial Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/21/2025
+  course: PDP3559B
+  title: IS-700 National Inc Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/20/2025
   course: PDP2997B
   title: 2025 FTEP New Hire Firearms

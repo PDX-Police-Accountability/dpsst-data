@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2025 | LOP2106B | TASER 10 Recertification | Passed | 0.0 | 5.00 |
+| 10/25/2025 | LOP4497B | DOT Hazmat | Passed | 0.0 | 0.75 |
+| 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |
 | 9/16/2025 | HBA2747B | Recognizing and Responding to Stalking | Passed | 0.0 | 7.00 |
 | 9/4/2025 | LOP3765B | OC Certification | Passed | 0.0 | 9.00 |
 | 9/3/2025 | LOP1386B | New Officer Defensive Tactics and Handcuffing | Passed | 0.0 | 5.00 |

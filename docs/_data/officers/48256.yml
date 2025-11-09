@@ -3,12 +3,18 @@ header_record:
   name: Thurman, Tequila C.
   dpsst_identifier: '48256'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/10/2025
+  agency: Portland Police Bureau
+  action: Layoff
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/3/2021
   agency: Portland Police Bureau
   action: LOA
@@ -39,7 +45,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 9/4/2008
-  expiration_date: ''
+  expiration_date: 1/10/2026
   probation_date: ''
 training_records:
 - date: 12/31/2021
@@ -2677,10 +2683,6 @@ attribute_records:
   value: Signed
   effective_date: 7/20/2007
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 7/15/2025
 education_records:
 - date: 5/14/2005
   degree: Bachelor Science

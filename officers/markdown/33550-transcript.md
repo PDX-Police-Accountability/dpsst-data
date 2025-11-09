@@ -4,7 +4,7 @@
 | name | Carroll, Julian L. |
 | dpsst_identifier | 33550 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/15/2025 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 10/24/2022 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 7/11/2019 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/5/2006 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -25,17 +26,16 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/28/2021 | Police Officer | Supervisory | Granted | 10/28/2021 |  |  |
-| 8/18/2005 | Police Officer | Advanced | Granted | 8/18/2005 |  |  |
-| 8/7/2001 | Police Officer | Intermediate | Granted | 8/7/2001 |  |  |
-| 8/4/2000 | Police Officer | Basic | Granted | 8/4/2000 |  |  |
+| 10/28/2021 | Police Officer | Supervisory | Granted | 10/28/2021 | 1/15/2026 |  |
+| 8/18/2005 | Police Officer | Advanced | Granted | 8/18/2005 | 1/15/2026 |  |
+| 8/7/2001 | Police Officer | Intermediate | Granted | 8/7/2001 | 1/15/2026 |  |
+| 8/4/2000 | Police Officer | Basic | Granted | 8/4/2000 | 1/15/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 8/4/2000 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 7/15/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

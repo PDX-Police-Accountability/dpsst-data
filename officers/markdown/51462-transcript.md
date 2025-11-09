@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/12/2025 | PDS0655B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 9/12/2025 | PDS0967B | Taser 7 | Passed | 0.0 | 4.00 |
 | 9/12/2025 | PDS1000B | VR ConSim | Passed | 0.0 | 2.00 |

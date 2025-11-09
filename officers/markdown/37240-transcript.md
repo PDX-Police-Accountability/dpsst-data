@@ -34,8 +34,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
+| 10/8/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 10/1/2025 | PDP2787B | 2025 Traffic Multi-Agency Motorcade Training | Instructed | 0.0 | 9.00 |
+| 9/24/2025 | PDP0519B | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 9/22/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 20.00 |
+| 9/16/2025 | PDP1457B | 2025 Traffic Basic Police Motorcycle School | Instructed | 0.0 | 100.00 |
+| 9/16/2025 | PDP3083B | 2025 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
+| 9/15/2025 | PDP2608B | 2025 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
 | 8/7/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 8/7/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/6/2025 | PDP3392B | 2025 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
@@ -68,6 +75,7 @@
 | 1/13/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 1/13/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 1/13/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 1/13/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 1/12/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 1/12/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 1/8/2025 | PDP3277A | 2025 SFST Refresher | Passed | 0.0 | 4.00 |

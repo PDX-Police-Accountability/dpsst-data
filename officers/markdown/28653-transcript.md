@@ -40,18 +40,48 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2025 | F1528520 | Micro-Affirmations Part 1 | Passed | 0.0 | 0.25 |
+| 10/21/2025 | F1514649 | Micro-Affirmations Part 2 | Passed | 0.0 | 0.25 |
+| 10/21/2025 | F1543361 | Micro-Affirmations Part 3 | Passed | 0.0 | 0.25 |
+| 10/21/2025 | F1534452 | Recognizing Regular vs. Traumatic | Passed | 0.0 | 0.25 |
+| 10/21/2025 | F1536739 | Somatic Tapping for Stress Relief | Passed | 0.0 | 0.25 |
+| 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |
 | 10/9/2025 | PDA0352B | Tourniquet and Wound Packing | Passed | 0.0 | 1.00 |
+| 10/9/2025 | F1505183 | Tourniquet Training | Passed | 0.0 | 0.25 |
 | 9/10/2025 | PDA0313B | Securus Pro Training | Passed | 0.0 | 3.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/23/2025 | F1523679 | Integrating Emotion Regulation | Passed | 0.0 | 0.25 |
+| 7/23/2025 | F1522307 | Juneteenth: A Journey to Freedom | Passed | 0.0 | 0.25 |
+| 7/23/2025 | F1505724 | Juneteenth: Celebration  Relevance | Passed | 0.0 | 0.25 |
+| 7/23/2025 | F1544919 | Tools for Managing Emotional Over. | Passed | 0.0 | 0.25 |
+| 7/23/2025 | F1517254 | Understanding the Art of Emotional | Passed | 0.0 | 0.25 |
+| 7/15/2025 | F1524601 | Clear to Move | Passed | 0.0 | 1.00 |
 | 7/7/2025 | PDA1754B | Handgun Firearms | Passed | 0.0 | 5.00 |
+| 6/10/2025 | F1540344 | Identifying Fences  Preparing Cases | Passed | 0.0 | 1.50 |
 | 5/21/2025 | PDA4180B | Defensive Tactics use of OC Spray | Passed | 0.0 | 3.00 |
+| 4/30/2025 | F1531989 | Digital Data - The Silent Witness | Passed | 0.0 | 1.25 |
+| 4/23/2025 | F1531168 | Project Save Workshop | Passed | 0.0 | 1.00 |
+| 4/23/2025 | F1519977 | Unmasking Corruption | Passed | 0.0 | 1.25 |
+| 4/21/2025 | F1530802 | Microaggressions: An Introduction | Passed | 0.0 | 0.75 |
+| 4/17/2025 | F1512026 | De-Escalation Basics | Passed | 0.0 | 0.25 |
+| 4/17/2025 | F1503787 | Policy Review: County Employees | Passed | 0.0 | 0.25 |
+| 4/17/2025 | F1542186 | Policy Review: Generative AI Use | Passed | 0.0 | 0.25 |
+| 4/17/2025 | F1536608 | Policy Review: Mobile Devices | Passed | 0.0 | 0.25 |
+| 4/17/2025 | F1505964 | Policy Review: Use of IT | Passed | 0.0 | 0.25 |
 | 4/16/2025 | PDN1695B | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
+| 4/16/2025 | F1536291 | Internet Security and You | Passed | 0.0 | 0.25 |
+| 4/14/2025 | F1511278 | Policy Review: Ethics | Passed | 0.0 | 0.25 |
+| 4/14/2025 | F1521403 | Policy Review: ADA Compliance | Passed | 0.0 | 0.25 |
+| 4/14/2025 | F1544082 | Policy Review: PII-0 | Passed | 0.0 | 0.25 |
+| 4/14/2025 | F1519278 | Policy Review: PII-1 | Passed | 0.0 | 0.25 |
 | 3/6/2025 | F1542699 | Leadership, Management, Supervision | Passed | 0.0 | 4.00 |
 | 3/6/2025 | F1528930 | Teamwork: Going from Good to Great | Passed | 0.0 | 16.00 |
 | 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 2.00 |
 | 2/19/2025 | F1542220 | LE, Immigration  Sanctuary | Passed | 0.0 | 1.50 |
 | 2/14/2025 | F1519598 | Navigating Leadership in Critical Times | Passed | 0.0 | 16.00 |
 | 2/6/2025 | PDA2369 | The Ethics and Practice of Media Engagement | Passed | 0.0 | 1.00 |
+| 1/10/2025 | F1528610 | Acute Stress  Human Performance | Passed | 0.0 | 3.00 |
+| 1/10/2025 | F1534095 | Acute Stress  Human Performance | Passed | 0.0 | 3.00 |
 | 12/30/2024 | F1502578 | Community Policing Defined | Passed | 0.0 | 4.00 |
 | 12/24/2024 | F1524929 | Managing Mass Demonstrations | Passed | 0.0 | 4.00 |
 | 12/20/2024 | F1544309 | Equity: Nervous System Basics | Passed | 0.0 | 0.25 |

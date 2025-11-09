@@ -131,12 +131,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/3/2025
+  course: SPP2016B
+  title: The Art of Effective Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2025
+  course: SPP3287B
+  title: Foundations in Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/15/2025
+  course: SPP4050B
+  title: OSHA Heat Illness Prevention/Wildfire Smoke
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/24/2025
   course: OAC3645B
   title: 'Justice Delayed:  Chief Ralph'
   status: ''
   score: '0.0'
   hours: '0.00'
+- date: 9/18/2025
+  course: SPP2702B
+  title: Internal Investigations and Reports
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/10/2025
   course: SPP4409B
   title: Firearms  Less Lethal

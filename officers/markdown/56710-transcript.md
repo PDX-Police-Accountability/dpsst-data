@@ -39,8 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2025 | SDP3876B | Red Dot Handgun Drills | Passed | 0.0 | 3.00 |
 | 9/18/2025 | BPT09104 | Ground Control | Passed | 0.0 | 1.00 |
 | 9/11/2025 | BPT0579B | Striking Defense | Passed | 0.0 | 1.00 |
+| 9/10/2025 | SDP3812B | DT's - Control Tactics using clothing | Passed | 0.0 | 2.50 |
+| 9/10/2025 | SDP2410B | Update - Fingerprinting, School Safety, Warrants | Passed | 0.0 | 1.50 |
 | 6/26/2025 | REG2944B | DT | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP1735A | Report Writing and Evidence Processing | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SDP0055A | Child Abuse MDT Protocols/Karly's Law | Passed | 0.0 | 1.00 |

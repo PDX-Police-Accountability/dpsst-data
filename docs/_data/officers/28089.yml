@@ -3,12 +3,18 @@ header_record:
   name: Pashley, Gregory R.
   dpsst_identifier: '28089'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Captain
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/6/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Captain
+  classification: ''
+  assignment: ''
 - date: 1/19/2023
   agency: Portland Police Bureau
   action: Promotion
@@ -75,35 +81,35 @@ certification_records:
   level: Management
   status: Granted
   certificate_date: 6/18/2020
-  expiration_date: ''
+  expiration_date: 1/6/2026
   probation_date: ''
 - status_date: 10/31/2011
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 10/31/2011
-  expiration_date: ''
+  expiration_date: 1/6/2026
   probation_date: ''
 - status_date: 9/8/1999
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 9/8/1999
-  expiration_date: ''
+  expiration_date: 1/6/2026
   probation_date: ''
 - status_date: 2/25/1997
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/25/1997
-  expiration_date: ''
+  expiration_date: 1/6/2026
   probation_date: ''
 - status_date: 11/23/1993
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 11/23/1993
-  expiration_date: ''
+  expiration_date: 1/6/2026
   probation_date: ''
 training_records:
 - date: 7/28/2025

@@ -104,6 +104,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2025
+  course: BNS4407B
+  title: Annual Pepperball Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/29/2025
   course: BNS1290B
   title: Vehicle Close Quarters Battle (VCQB)
@@ -128,6 +134,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/3/2025
+  course: BNS2480B
+  title: 40MM
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/3/2025
+  course: BNS0801B
+  title: Pepperball
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/3/2025
+  course: BNS3718B
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/14/2025
   course: BNS3425B
   title: July Firearms
@@ -137,6 +161,12 @@ training_records:
 - date: 7/14/2025
   course: BNS2038B
   title: July Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/14/2025
+  course: BNS1111B
+  title: July Arrest and Control
   status: Passed
   score: '0.0'
   hours: '2.00'

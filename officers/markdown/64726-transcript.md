@@ -29,6 +29,63 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
+| 10/23/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP3300B | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP2594B | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP1082B | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
+| 10/15/2025 | PDP2076B | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP0477B | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP4593B | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP1376B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP3686B | 2021 IS Language Access -Translation | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP1158B | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 10/15/2025 | PDP1933B | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP2603B | 2025-07 CAO Legal Updates for 8  9/2024 | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP3244B | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP2498B | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP1318B | 2025-07 CAO Legal Updates for 7/2024 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP0351B | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP0486B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 10/15/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP1093B | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP2957B | 2025-3 CAO Legal Updates for 3/2024-6/2024 | Passed | 0.0 | 0.75 |
+| 10/15/2025 | PDP1186B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP2493B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP0419B | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP3692B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP0824B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP2334B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP1331B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 10/15/2025 | PDP0170B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 10/14/2025 | PDP1582B | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
+| 10/14/2025 | PDP2806B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 10/14/2025 | PDP3481B | DIR 0640.37, Communication with Persons | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 10/6/2025 | PDP0177B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP1400B | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP0232B | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 10/6/2025 | PDP4492B | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP2546B | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP4527B | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP3544B | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP4544B | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP2961B | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP3646B | 2025-1 CAO Legal Updates for 9  10/2023 | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP3304B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP0826B | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 10/6/2025 | PDP0740B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP1022B | Annual HRAR 2.04 Gender Identity | Passed | 0.0 | 0.50 |
+| 10/6/2025 | PDP1261B | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
+| 10/6/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
+| 10/6/2025 | PDP4394B | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/1/2024 | PDP3325A | 2024-2 Advanced Academy Ethics | Passed | 0.0 | 42.00 |
 | 7/30/2024 | PDP2589A | 2024-2 Advanced Academy Bike School | Passed | 0.0 | 35.00 |

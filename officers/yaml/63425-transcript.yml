@@ -3,12 +3,18 @@ header_record:
   name: Jenkins, Katelynn B.
   dpsst_identifier: '63425'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/22/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/8/2022
   agency: Portland Police Bureau
   action: Hired
@@ -21,7 +27,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 5/7/2024
-  expiration_date: ''
+  expiration_date: 1/22/2026
   probation_date: ''
 training_records:
 - date: 8/28/2025
@@ -150,6 +156,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 2/11/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/9/2025
   course: PDP0221A
   title: 2025 Sworn In-Service PVO Stop Stick Intro Video

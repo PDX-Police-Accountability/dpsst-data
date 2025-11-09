@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/3/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 8/18/2025 | TDP0954B | Ethical Behavior in Local Govt | Passed | 0.0 | 1.00 |
 | 7/14/2025 | TDP3324B | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 6/17/2025 | REG4561B | Active Threat | Passed | 0.0 | 8.00 |

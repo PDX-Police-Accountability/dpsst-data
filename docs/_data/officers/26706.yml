@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/29/2024
+  course: PDS1390B
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/6/2024
   course: PDS3283A
   title: Bloodborne Pathogens

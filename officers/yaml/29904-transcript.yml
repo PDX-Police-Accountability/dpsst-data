@@ -48,12 +48,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2025
+  course: PDS3585B
+  title: Red Dot Firearms
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 10/9/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/8/2025
+  course: PDS4238B
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/2/2025
   course: PDS4356B
   title: CPR-First Aid-AED
@@ -4789,10 +4801,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 1/1/1950
 education_records:
 - date: 5/7/1994
   degree: Bachelor Science

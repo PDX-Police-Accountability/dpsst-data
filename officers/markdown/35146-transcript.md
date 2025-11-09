@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2025 | GPN4571B | Defensive tactics | Instructed | 0.0 | 5.00 |
+| 10/21/2025 | GPN2286B | Taser instructor course | Passed | 0.0 | 6.00 |
+| 10/16/2025 | GPN1024B | Taser instructor course - online course | Passed | 0.0 | 5.00 |
+| 10/9/2025 | STN1557B | DV Week Day 4 | Passed | 0.0 | 8.00 |
 | 10/8/2025 | STN2532B | DV Week Day 3 | Passed | 0.0 | 4.00 |
 | 10/8/2025 | STN4201B | DV Week Day 3 | Passed | 0.0 | 4.00 |
 | 10/7/2025 | STN0993B | DV Week Day 2 | Passed | 0.0 | 8.00 |

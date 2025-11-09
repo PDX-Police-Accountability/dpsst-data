@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2025 | LOP2106B | TASER 10 Recertification | Passed | 0.0 | 5.00 |
+| 10/25/2025 | LOP4497B | DOT Hazmat | Passed | 0.0 | 0.75 |
 | 10/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/6/2025 | LOP0583B | E-bikes and Devices - ODOT | Passed | 0.0 | 1.00 |
 | 10/1/2025 | LOP1370B | Unconscious Bias | Passed | 0.0 | 0.50 |

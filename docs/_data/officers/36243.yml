@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/1/2025
+  course: PDP3294B
+  title: Multi-Agency Motorcade Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/18/2025
   course: PDP1717B
   title: Motorcycle Training at PIR
@@ -107,6 +113,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 8/2/2025
+  course: HBS2267B
+  title: Virtual-De-Escalation Strategies
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/16/2025
   course: HBS4570B
   title: Heat Illness Prevention

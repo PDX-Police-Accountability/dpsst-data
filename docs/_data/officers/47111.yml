@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/7/2025
+  course: BVP3596B
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/13/2025
   course: BVP4465A
   title: IST Range February 2025

@@ -57,6 +57,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2025
+  course: PDP3376B
+  title: 2025-10 CAO Legal Updates for 3/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/29/2025
+  course: PDP3739B
+  title: '2025-10 CAO Updates: Disorderly Conduct'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/29/2025
+  course: PDP3597B
+  title: 2025-10 CHO Executive Order, DIR 0625.00
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/29/2025
+  course: PDP1093B
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/29/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2025
+  course: PDP2812B
+  title: 2025-1 Supervisors In-Service (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/14/2025
+  course: PDP3412B
+  title: 2025-1 Supervisors In-Service (Leadership)
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 9/18/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
@@ -222,6 +264,12 @@ training_records:
 - date: 1/14/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/14/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -5181,6 +5229,11 @@ attribute_records:
   effective_date: 4/6/2007
   expiration_date: ''
 education_records:
+- date: 6/15/2025
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '51.0'
 - date: 3/24/2007
   degree: Associate Science
   school: Portland Community College

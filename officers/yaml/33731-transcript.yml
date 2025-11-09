@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/30/2025
+  agency: Multnomah County Adult Community Justice
+  action: Retired
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
 - date: 1/22/2001
   agency: Multnomah County Adult Community Justice
   action: Hired
@@ -45,14 +51,14 @@ certification_records:
   level: Intermediate
   status: Granted
   certificate_date: 11/18/2004
-  expiration_date: ''
+  expiration_date: 12/30/2025
   probation_date: ''
 - status_date: 8/7/2002
   certificate: Parole  Probation Officer
   level: Basic
   status: Granted
   certificate_date: 8/7/2002
-  expiration_date: ''
+  expiration_date: 12/30/2025
   probation_date: ''
 training_records:
 - date: 7/24/2025

@@ -35,8 +35,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/29/2025 | 1/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 8/6/2001 |  |
 ## Education
@@ -47,6 +47,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/14/2025 | BNP1265B | Leadership | Passed | 0.0 | 0.50 |
+| 10/14/2025 | BNP3525B | Active threat Reponse | Passed | 0.0 | 1.00 |
+| 10/14/2025 | BNP3226B | Low light firearm qualifications | Passed | 0.0 | 2.00 |
+| 10/14/2025 | BNP0397B | Rifle /Pistol Excertion Course | Passed | 0.0 | 1.00 |
+| 10/14/2025 | BNP3921B | Rifle /Pistol Positional Shooting | Passed | 0.0 | 1.00 |
+| 10/14/2025 | BNP2614B | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 8/19/2025 | BNP0389B | Bend PD Ethics | Instructed | 0.0 | 2.00 |
 | 7/16/2025 | BNP2202B | Explosive Breaching Orientation | Passed | 0.0 | 1.00 |
 | 7/9/2025 | BNP2246B | Wildland Fire Evacuation Command | Passed | 0.0 | 1.00 |

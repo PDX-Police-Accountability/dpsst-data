@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2025
+  course: MKL2765B
+  title: CAMP Phase IV Regional Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/26/2025
   course: MKL3468B
   title: Introduction to CAMP Phave IV

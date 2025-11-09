@@ -63,6 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2025
+  course: EGP3943B
+  title: DT Taser scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/9/2025
+  course: EGP2280B
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/9/2025
+  course: EGP4084B
+  title: CIT/Mental Health - Mental Health Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/9/2025
+  course: EGP3147B
+  title: Evidence-on-Q Officer Entry
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/24/2025
   course: HBP2981B
   title: 2025 OPCA Fall Seminar
@@ -105,6 +129,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/4/2025
+  course: EGP0352B
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/23/2025
   course: EGP4253B
   title: SWAT Firearms
@@ -162,6 +192,12 @@ training_records:
 - date: 5/25/2025
   course: EGP1394B
   title: SWAT Scenarios HR-Search Drills-Explosive Breach
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/25/2025
+  course: EGP2744B
+  title: SWAT Firearms Qualifications / Skills Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'

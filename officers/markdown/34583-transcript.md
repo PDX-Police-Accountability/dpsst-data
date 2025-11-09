@@ -24,9 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/9/2025 | 4/9/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 11/23/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -35,13 +35,38 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |
 | 10/9/2025 | PDA0352B | Tourniquet and Wound Packing | Passed | 0.0 | 1.00 |
+| 9/24/2025 | F1530656 | Tactical Firearms Training | Passed | 0.0 | 8.00 |
 | 9/10/2025 | PDA0313B | Securus Pro Training | Passed | 0.0 | 3.00 |
+| 8/21/2025 | F1529445 | Mexican Mafia | Passed | 0.0 | 4.00 |
+| 8/20/2025 | F1537979 | Interpreting Prison Tattoos | Passed | 0.0 | 2.00 |
+| 8/20/2025 | F1540097 | Juvenile Gang Crime | Passed | 0.0 | 2.00 |
+| 8/20/2025 | F1521525 | Warrier Society Wars | Passed | 0.0 | 2.00 |
+| 8/20/2025 | F1534246 | California Blue Wave | Passed | 0.0 | 2.00 |
+| 8/19/2025 | F1504437 | Mastering Covert Narcotics and Org. | Passed | 0.0 | 2.00 |
+| 8/19/2025 | F1518045 | Transnational Gangs and Foreign | Passed | 0.0 | 2.00 |
+| 8/19/2025 | F1538467 | Principles of Operational Leadership | Passed | 0.0 | 2.00 |
+| 8/18/2025 | F1522337 | Objective Secure | Passed | 0.0 | 3.00 |
 | 7/7/2025 | PDA1754B | Handgun Firearms | Passed | 0.0 | 5.00 |
 | 5/21/2025 | PDA4180B | Defensive Tactics use of OC Spray | Passed | 0.0 | 3.00 |
+| 5/19/2025 | F1532221 | Tactical Firearms Training  Qual. | Passed | 0.0 | 8.00 |
+| 5/9/2025 | F1539636 | 4 and Counting - Study in Resilience | Passed | 0.0 | 3.00 |
+| 5/8/2025 | F1516518 | Successful Courtroom Testimony | Passed | 0.0 | 4.00 |
+| 5/8/2025 | F1536025 | Algebra of Hate - Hate Group Invest. | Passed | 0.0 | 4.00 |
+| 5/7/2025 | F1521172 | OMG Trends | Passed | 0.0 | 8.00 |
+| 5/5/2025 | F1523135 | Origins of Gang Member | Passed | 0.0 | 2.00 |
+| 5/5/2025 | F1512485 | 764 Core Groups | Passed | 0.0 | 2.00 |
+| 5/5/2025 | F1532832 | Cracking the Digital Case | Passed | 0.0 | 4.00 |
+| 4/15/2025 | F1533975 | FY25 Cybersecurity Training | Passed | 0.0 | 1.00 |
 | 4/9/2025 | PDN2706A | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 4/4/2025 | OSH2289A | Basic Detective Academy | Passed | 0.0 | 40.00 |
+| 3/6/2025 | F1518574 | Firearms Static Qualification | Passed | 0.0 | 8.00 |
 | 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 3.00 |
+| 2/26/2025 | F1530421 | Electronic Recording of Statements | Passed | 0.0 | 1.00 |
+| 2/18/2025 | F1533786 | Operational Red Flags | Passed | 0.0 | 8.00 |
+| 1/14/2025 | F1509228 | Federal Law Enfrocement Anti-Disc | Passed | 0.0 | 1.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2024 | PDP1039A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
 | 12/3/2024 | PDP1764A | 2024-3 All Sworn In-Service MFF: APR | Passed | 0.0 | 1.00 |
@@ -53,10 +78,13 @@
 | 12/2/2024 | PDP1123A | 2024-3 All Sworn In-Service Control Tactics | Passed | 0.0 | 2.25 |
 | 12/2/2024 | PDP3558A | 2024-3 All Sworn In-Service Patrol Procedures | Passed | 0.0 | 2.50 |
 | 12/2/2024 | PDP0972A | 2024-3 All Sworn In-Service Wellness Elective | Passed | 0.0 | 2.25 |
+| 11/21/2024 | F1539777 | Tactical Firearm Qualifications | Passed | 0.0 | 16.00 |
 | 11/13/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/13/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/2/2024 | F1523838 | Coordination with State  Local | Passed | 0.0 | 0.14 |
 | 10/1/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/1/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
+| 10/1/2024 | F1533392 | Implicit Bias for LE | Passed | 0.0 | 1.00 |
 | 9/12/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/12/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/28/2024 | PDP2600A | 2024 Body Worn Camera Investigator Course | Passed | 0.0 | 2.50 |
@@ -73,7 +101,9 @@
 | 6/28/2024 | PDP2679A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/26/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/24/2024 | F1501275 | ATF Use of Force Policy Review | Passed | 0.0 | 1.00 |
 | 6/13/2024 | PDP1834A | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 5/31/2024 | F1545640 | Flying While Armed | Passed | 0.0 | 1.00 |
 | 5/14/2024 | PDP2151A | 2024 Investigator In-Service Case Study | Passed | 0.0 | 3.00 |
 | 5/14/2024 | PDP1036A | 2024 Investigator In-Service Device Warrants | Passed | 0.0 | 2.00 |
 | 5/14/2024 | PDP4043A | 2024 Investigator In-Service DFU | Passed | 0.0 | 2.00 |

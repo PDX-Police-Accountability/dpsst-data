@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/17/2025
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 1/16/2023
   agency: Hood River County Sheriff's Office
   action: Promotion
@@ -87,6 +93,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2025
+  course: HRS3448B
+  title: Night Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/2/2025
+  course: TDP3557B
+  title: Mission Planning and Range
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/11/2025
   course: HRS0242B
   title: Active Threat Response

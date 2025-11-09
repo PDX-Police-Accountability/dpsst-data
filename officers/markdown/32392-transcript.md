@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2025 | TGP0736B | Patrol Rifle Training | Passed | 0.0 | 4.00 |
+| 10/3/2025 | TGP0736B | Patrol Rifle Training | Instructed | 0.0 | 8.00 |
+| 10/3/2025 | TGP1438B | Patrol Rifle School | Instructed | 0.0 | 40.00 |
 | 9/12/2025 | TGP1424B | Western States ORC Conference | Passed | 0.0 | 24.00 |
 | 8/23/2025 | TGP0040B | National LE  Corporate Crimes Convention | Passed | 0.0 | 25.00 |
 | 7/1/2025 | TGP0405B | Body Worn Camera Refresher Training | Passed | 0.0 | 0.50 |

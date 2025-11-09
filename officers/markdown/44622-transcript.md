@@ -37,12 +37,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2025 | OSH1857B | Defensive Tactics/ Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
+| 10/13/2025 | OSH3118B | Defensive Tactics/ Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
+| 10/10/2025 | OSH0828B | Defensive Tactics/Taser 2nd Trimester | Instructed | 0.0 | 4.00 |
+| 10/6/2025 | OSH0005B | Defensive Tactics/Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
+| 10/4/2025 | OSH0682B | Defensive Tactics/Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
+| 10/3/2025 | OSH3975B | Defensive Tactics/ Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
 | 9/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/22/2025 | OSH4148B | Ethics | Passed | 0.0 | 1.00 |
 | 9/3/2025 | OSH1757B | OSP Defensive Tactics - TASER Instructor Course | Passed | 0.0 | 10.00 |
 | 8/16/2025 | OSH3897B | Retiree Firearms | Instructed | 0.0 | 4.00 |
 | 8/11/2025 | OSH0224B | Active Threat Training | Instructed | 0.0 | 32.00 |
 | 8/2/2025 | OSH3412B | High Risk Vehicle Stops Instructor | Passed | 0.0 | 24.00 |
+| 7/30/2025 | OSH1842B | Airway Circulatory Anatomy  Physiology | Passed | 0.0 | 4.00 |
 | 7/22/2025 | REG3581B | EVO - Skills and Decisions Update / Refresh | Passed | 0.0 | 4.00 |
 | 7/20/2025 | OSH0198B | Active Threat | Instructed | 0.0 | 24.00 |
 | 7/16/2025 | OSH0488B | Active Threat Response Refresher | Instructed | 0.0 | 4.00 |

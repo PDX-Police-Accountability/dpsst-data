@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 10/30/2025 | Police Officer | Intermediate | App Recd |  | 3/26/2028 |  |
 | 10/7/2025 | Police Officer | Basic | App Incmpl |  | 3/26/2028 |  |
 | 9/24/2025 | Police Officer | Basic | Required |  |  | 3/24/2027 |
 | 6/26/2023 | Police Officer | Basic | Lapsed | 7/21/2021 | 3/26/2028 |  |
@@ -29,9 +30,12 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/15/2024 | Bachelor Science | Portland State University | Business Administration | 208.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2025 | FGP4284B | Red Dot Transition | Passed | 0.0 | 16.00 |
+| 10/6/2025 | FGP2480B | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/2/2025 | FGP3808B | CPR AED First Aid | Passed | 0.0 | 8.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/5/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

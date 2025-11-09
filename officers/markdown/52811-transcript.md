@@ -38,17 +38,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2025 | PDS3585B | Red Dot Firearms | Instructed | 0.0 | 24.00 |
+| 10/21/2025 | PDS2213B | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/2/2025 | PDS4356B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 10/2/2025 | PDS4233B | VR ConSim | Passed | 0.0 | 2.00 |
+| 10/1/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
+| 9/22/2025 | PDS4227B | Range IDC | Passed | 0.0 | 4.00 |
 | 9/19/2025 | GSP2244B | SWAT Sniper Range - 25 and 100 Yards Positional | Passed | 0.0 | 10.00 |
 | 9/18/2025 | GSP3147B | Tactical Dilemma Planning, HRT Response | Passed | 0.0 | 10.00 |
 | 9/17/2025 | GSP0258B | Firearms Training - Hostage Rescue and Threat ID | Instructed | 0.0 | 10.00 |
+| 8/28/2025 | PDS1052B | UNET Fall Range Qualification | Passed | 0.0 | 4.00 |
 | 8/26/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 8/25/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 8/22/2025 | GSP2398B | SWAT Sniper Range - 50 Yards Positional | Passed | 0.0 | 10.00 |
 | 8/20/2025 | GSP4457B | Firearms Training | Passed | 0.0 | 10.00 |
 | 8/14/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 8/7/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
+| 8/6/2025 | PDS2835B | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
 | 8/4/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 7/29/2025 | PDS1207B | Red Dot Firearms | Instructed | 0.0 | 27.00 |
 | 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |

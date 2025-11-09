@@ -49,6 +49,7 @@
 | 6/17/2025 | PDP4367B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
 | 6/17/2025 | PDP4223B | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
 | 6/10/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 6/10/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 6/9/2025 | PDP2015B | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 6/9/2025 | PDP2071B | 2024-4 CAO Legal Updates for 04/2024 | Passed | 0.0 | 0.25 |
 | 6/9/2025 | PDP2164B | 2024-3 IS CAO Legal Updates: Supplemental Trng | Passed | 0.0 | 0.25 |

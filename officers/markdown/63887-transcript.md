@@ -12,14 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/3/2025 | OHSU University Police | Hired | Police Off |  |  |
 | 7/11/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/2/2023 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 11/3/2025 | Police Officer | Basic | Required |  |  | 5/3/2027 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 11/4/2025 |  |
 | Code of Ethics | Law Enforcement Signed | 6/12/2023 |  |
 ## Education
 | date | degree | school | major | hours |

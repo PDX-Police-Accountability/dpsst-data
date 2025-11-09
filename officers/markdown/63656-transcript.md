@@ -65,6 +65,7 @@
 | 2/6/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |
 | 2/6/2025 | PDP1884A | AA 2025 Respond to Mental Health Facility | Passed | 0.0 | 0.25 |
 | 2/6/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
+| 2/6/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 2/4/2025 | PDP3145A | AA 2025 Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
 | 2/4/2025 | PDP0327A | AA 2025 Project Respond | Passed | 0.0 | 0.25 |
 | 1/21/2025 | PDP0623A | 2025-1 Advanced Academy Legit Proc Justice | Passed | 0.0 | 0.50 |

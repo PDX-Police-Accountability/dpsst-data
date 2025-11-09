@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2025 | BVP4462B | SFST/Intoxilyzer Refresher 101325 | Passed | 0.0 | 8.00 |
 | 9/25/2025 | BVP1425B | Control Tactics IST 092525 PM | Passed | 0.0 | 3.00 |
 | 8/26/2025 | BVP3127B | August 2025 Range 082625 PM | Passed | 0.0 | 3.00 |
 | 7/22/2025 | BVP1941B | July 2025 EVOC PIT 072225 AM | Passed | 0.0 | 3.00 |
@@ -41,6 +42,7 @@
 | 5/26/2025 | BVP3480A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
 | 3/10/2025 | E11BVP22 | FTM Equivalency (Beaverton Police Department) | Completed | 0.0 | 50.00 |
 | 2/21/2025 | BVP1298A | IST Range February 2025 | Passed | 0.0 | 3.00 |
+| 1/1/2025 | BVP2066B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 12/23/2024 | HBS0656A | 2024 Active Threat | Passed | 0.0 | 9.00 |
 | 11/30/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 11/19/2024 | BVP2322A | Takedowns, Ground Control and Vehicle Extractions | Passed | 0.0 | 5.50 |

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2025 | MKL2765B | CAMP Phase IV Regional Training | Passed | 0.0 | 6.00 |
 | 8/26/2025 | MKL3468B | Introduction to CAMP Phave IV | Passed | 0.0 | 2.00 |
 | 8/19/2025 | MKL2011B | Introduction to CAMP Phave IV | Passed | 0.0 | 1.00 |
 | 8/12/2025 | MKL0762B | Introduction to CAMP Phave IV | Passed | 0.0 | 1.00 |

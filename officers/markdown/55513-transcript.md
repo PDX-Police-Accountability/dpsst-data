@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2025 | BVP1592B | SFST/Intoxilyzer Refresher 101025 | Passed | 0.0 | 8.00 |
 | 9/26/2025 | BVP0681B | Control Tactics IST 092625 PM | Passed | 0.0 | 3.00 |
 | 9/24/2025 | HBS0010B | TNT Firearms | Passed | 0.0 | 8.00 |
 | 8/28/2025 | BVP0969B | August 2025 Range 082825 AM | Passed | 0.0 | 3.00 |
@@ -69,6 +70,7 @@
 | 12/9/2024 | BVP2862A | City of Beaverton Ethics in Policing | Passed | 0.0 | 1.00 |
 | 12/9/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 12/9/2024 | BVP2006A | PREA | Passed | 0.0 | 0.50 |
+| 12/9/2024 | BVP3596B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 11/8/2024 | BVP1692A | November Range 2024 Pistol Rifle 110824 | Passed | 0.0 | 3.00 |
 | 10/30/2024 | OSH0941A | ARIDE | Passed | 0.0 | 16.00 |
 | 10/28/2024 | BVP1864A | First Amendment Assemblies Training | Passed | 0.0 | 0.50 |

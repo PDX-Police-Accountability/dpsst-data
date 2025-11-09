@@ -44,6 +44,7 @@
 | 5/8/2025 | HBP2079A | ODT - Patrol Tactics | Passed | 0.0 | 1.00 |
 | 5/7/2025 | HBP2066B | Emergency Aid/Exigent Entry | Passed | 0.0 | 1.00 |
 | 4/23/2025 | HBP2357A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
+| 4/23/2025 | HBP2282B | Live Fire Range | Passed | 0.0 | 4.00 |
 | 4/9/2025 | HBP2023A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |
 | 4/9/2025 | HBP2220A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 4/9/2025 | HBP0069A | Interviewing Techniques | Instructed | 0.0 | 2.00 |

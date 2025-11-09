@@ -32,6 +32,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2025 | VRP3980B | Firearms Range and Qualification | Passed | 0.0 | 4.00 |
+| 10/30/2025 | VRP3132B | Taser X7 Recertification | Passed | 0.0 | 2.00 |
+| 10/24/2025 | OSH1973B | ARIDE | Passed | 0.0 | 16.00 |
 | 7/24/2025 | VRP2968B | Derfensive Tactics | Instructed | 0.0 | 4.00 |
 | 7/24/2025 | VRP3407B | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 5/22/2025 | VRP1009B | Ethics Bulletin Review | Passed | 0.0 | 1.00 |

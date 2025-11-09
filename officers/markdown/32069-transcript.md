@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2025 | SDP3812B | DT's - Control Tactics using clothing | Passed | 0.0 | 2.50 |
+| 9/24/2025 | SDP2410B | Update - Fingerprinting, School Safety, Warrants | Passed | 0.0 | 1.50 |
+| 9/24/2025 | SDP3876B | Red Dot Handgun Drills | Passed | 0.0 | 3.00 |
 | 9/18/2025 | BPT09104 | Ground Control | Passed | 0.0 | 1.00 |
 | 9/17/2025 | HBA2747B | Recognizing and Responding to Stalking | Passed | 0.0 | 7.00 |
 | 9/1/2025 | BPT3352B | Takedowns | Passed | 0.0 | 1.00 |

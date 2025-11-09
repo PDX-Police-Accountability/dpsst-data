@@ -69,6 +69,7 @@
 | 2/18/2025 | PDP3353A | 2025-1 Advanced Academy Crisis Intervention | Passed | 0.0 | 21.00 |
 | 2/13/2025 | PDP2264A | 2025-1 Advanced Academy Community Engagement | Passed | 0.0 | 4.50 |
 | 2/6/2025 | PDP1884A | AA 2025 Respond to Mental Health Facility | Passed | 0.0 | 0.25 |
+| 2/6/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 1/21/2025 | PDP3477A | 2025-1 Advanced Academy Ethics | Passed | 0.0 | 0.50 |
 | 1/21/2025 | PDP0623A | 2025-1 Advanced Academy Legit Proc Justice | Passed | 0.0 | 0.50 |
 | 1/21/2025 | PDP2419A | Advanced Academy Wellness - Financial | Passed | 0.0 | 1.00 |

@@ -24,6 +24,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 8/25/2025 | 8/13/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 9/20/2020 |  |
 ## Education
@@ -32,8 +33,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2025 | PDS0688B | UNET RANGE QUAL | Passed | 0.0 | 8.00 |
+| 8/25/2025 | PDS1396B | AIC Manipulation | Passed | 0.0 | 1.00 |
+| 8/25/2025 | PDS2046B | ConSim | Passed | 0.0 | 2.00 |
+| 8/25/2025 | PDS4426B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 8/25/2025 | PDS3657B | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/30/2025 | PDS4372A | Leadership Training | Passed | 0.0 | 0.50 |
+| 6/28/2025 | PDS1717B | Leadership | Passed | 0.0 | 1.50 |
 | 6/22/2025 | PDS0870A | Taser 7 | Passed | 0.0 | 8.00 |
 | 6/19/2025 | PDS0832A | Active Threat Training | Passed | 0.0 | 8.00 |
 | 5/14/2025 | PDS0488A | Active Shooter Training | Passed | 0.0 | 1.00 |

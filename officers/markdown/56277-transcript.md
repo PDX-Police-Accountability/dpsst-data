@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2025 | CAP2337B | Airways Training Video - Patient Evaluation For LE | Passed | 0.0 | 2.00 |
+| 10/22/2025 | CAP3011B | Firearms - Precision Rifle | Passed | 0.0 | 1.00 |
+| 10/8/2025 | CAP1362B | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
 | 9/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/17/2025 | CAP3698B | Firearms - VCQB | Passed | 0.0 | 4.00 |
 | 8/20/2025 | CAP2891B | Firearms - Injured Shooter - Pistol/Rifle | Passed | 0.0 | 2.00 |
@@ -53,8 +56,11 @@
 | 4/23/2025 | CAP1852A | Firearms - Use of Cover/Shield | Instructed | 0.0 | 8.00 |
 | 3/26/2025 | CAP3056A | Annual Patrol Rifle Qualification and Fundamentals | Passed | 0.0 | 2.00 |
 | 3/26/2025 | CAP0189B | Bloodborne Pathogens For First Responders | Passed | 0.0 | 1.00 |
+| 3/26/2025 | CAP1187B | Bloodborne Pathogens for First Responders | Passed | 0.0 | 1.00 |
 | 3/21/2025 | CAP1707B | Hazmat | Passed | 0.0 | 1.50 |
 | 3/21/2025 | CAP0448B | PREA | Passed | 0.0 | 1.00 |
+| 3/21/2025 | CAP0638B | HAZMAT First Responder Awareness (FRA) Level 1 | Passed | 0.0 | 1.50 |
+| 3/21/2025 | CAP3506B | PREA | Passed | 0.0 | 1.00 |
 | 2/19/2025 | CAP2865A | CPR/First Aid | Instructed | 0.0 | 8.00 |
 | 2/19/2025 | CAP3524B | Firearms - Use of Force - 40mm | Instructed | 0.0 | 8.00 |
 | 1/27/2025 | CAP4265A | First Aid/CPR Adult  Child | Passed | 0.0 | 1.00 |

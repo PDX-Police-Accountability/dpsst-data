@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2025
+  course: WBP1713B
+  title: Bias-Based Policing Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/7/2025
   course: VND4074B
   title: 28CFR-Part23;RISSIntel-RISSafe;Deconfliction
@@ -148,6 +154,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/22/2025
+  course: WBP0586B
+  title: Firearms Range Training
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/31/2025
   course: WBP0347B
   title: Firearms - Quarter 1 Qualifications

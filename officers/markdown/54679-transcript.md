@@ -39,7 +39,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2025 | MLP4394B | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 9/23/2025 | MLP2071B | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
+| 9/23/2025 | MLP3532B | Implicit Bias | Passed | 0.0 | 1.00 |
+| 9/22/2025 | MLP0449B | PREA Prision Rape Elimination Act | Passed | 0.0 | 1.00 |
 | 8/25/2025 | MLP3428B | Handgun and Rifle qualifications | Passed | 0.0 | 3.00 |
+| 7/22/2025 | MLP1438B | Crisis Intervention Training CIT - Crisis Response | Passed | 0.0 | 1.00 |
+| 7/15/2025 | MLP3796B | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/15/2025 | MLP2491B | Hazardous Material Response | Passed | 0.0 | 0.50 |
+| 7/15/2025 | MLP1580B | Strangulation Forensic Evidence Kits, SKITs | Passed | 0.0 | 0.50 |
+| 7/15/2025 | MLP1880B | Use of Force | Passed | 0.0 | 1.00 |
 | 6/10/2025 | MLP0151A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 3/5/2025 | MLP2154A | MOPD New Carrier Less Lethal Qualification | Instructed | 0.0 | 4.00 |
 | 12/18/2024 | MLP2579A | Taser Training and Updates | Passed | 0.0 | 3.00 |

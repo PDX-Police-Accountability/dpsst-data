@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2025 | HBS1434B | SPI Homicide Investigations School | Passed | 0.0 | 80.00 |
+| 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/23/2025 | HBP3483B | Active Shooter Response | Passed | 0.0 | 5.50 |
 | 7/23/2025 | HBP4585B | Surviving a Line of Duty Death | Passed | 0.0 | 3.00 |
@@ -45,6 +47,7 @@
 | 4/23/2025 | HBP1091A | Evidence Collection | Passed | 0.0 | 0.75 |
 | 4/23/2025 | HBP0799A | Interviewing Techniques | Passed | 0.0 | 2.00 |
 | 4/23/2025 | HBP3141A | YSU Presentation | Passed | 0.0 | 0.75 |
+| 4/23/2025 | HBP2282B | Live Fire Range | Passed | 0.0 | 4.00 |
 | 3/31/2025 | HBP1073A | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 1/29/2025 | HBP3738A | EVOC, Arrest and Control | Passed | 0.0 | 5.00 |
 | 12/16/2024 | HBP2381A | Tren de Aragua Overview | Passed | 0.0 | 1.00 |

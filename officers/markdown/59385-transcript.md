@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 1/5/2026 | 26-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
+| 10/10/2025 | PSU44922 | ALERRT Level 1 Train-the-Trainer recertification | Passed | 0.0 | 40.00 |
 | 9/19/2025 | PSU3264B | Advanced Patrol Tactics | Passed | 0.0 | 8.00 |
 | 9/19/2025 | PSU3494B | DHS_Blue Concern V_DHS_BCATP-2508 | Passed | 0.0 | 6.75 |
 | 6/5/2025 | PSU3527B | BODY102 (Body-worn cmaeras for L.E.) | Passed | 0.0 | 1.00 |
@@ -57,6 +59,7 @@
 | 12/1/2024 | PSU3489A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/9/2024 | PSU4377A | Mobile Response Team Basic Skills Course | Passed | 0.0 | 6.50 |
+| 9/19/2024 | PSU3368B | Taser 10 Energy Weapon Instructor Course | Passed | 0.0 | 16.00 |
 | 5/6/2024 | PSU0447A | Officer Survival 1/2 | Passed | 0.0 | 2.00 |
 | 5/5/2024 | PSU0525A | ALERRT Room Entry | Passed | 0.0 | 1.00 |
 | 4/29/2024 | PSU0921A | Adult  Pediatric First Aid/CPR/AED | Passed | 0.0 | 8.00 |

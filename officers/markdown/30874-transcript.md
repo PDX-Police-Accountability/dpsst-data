@@ -12,6 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/27/2025 | Gresham Police Department | Hired | Lieutenant |  |  |
+| 10/15/2025 | Forest Grove Police Department | Resigned | Sergeant |  |  |
 | 7/2/2023 | Forest Grove Police Department | Promotion | Sergeant |  |  |
 | 9/8/2021 | Forest Grove Police Department | Hired | Police Off |  |  |
 | 8/16/2021 | Portland Police Bureau | Retired | Police Off |  |  |
@@ -21,10 +23,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/11/2025 | Police Officer | Supervisory | Granted | 9/11/2025 |  |  |
-| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
-| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 |  |  |
-| 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 |  |  |
+| 9/11/2025 | Police Officer | Supervisory | Granted | 9/11/2025 | 1/15/2026 |  |
+| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 | 1/15/2026 |  |
+| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 | 1/15/2026 |  |
+| 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 | 1/15/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -39,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 5/27/2025 | FGP0153B | DPSST Legal Updates - March/April 2025 | Passed | 0.0 | 1.00 |
 | 3/27/2025 | FGP4424A | DPSST Legal Updates | Passed | 0.0 | 1.00 |
 | 3/11/2025 | FGP1252A | First Aid, CPR  AED Renewals | Passed | 0.0 | 8.00 |

@@ -4,7 +4,7 @@
 | name | Thurman, Tequila C. |
 | dpsst_identifier | 48256 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/10/2025 | Portland Police Bureau | Layoff | Police Off |  |  |
 | 2/3/2021 | Portland Police Bureau | LOA | Police Off |  |  |
 | 1/20/2015 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 10/21/2014 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -19,14 +20,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/4/2008 | Police Officer | Basic | Granted | 9/4/2008 |  |  |
+| 9/4/2008 | Police Officer | Basic | Granted | 9/4/2008 | 1/10/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2021 | 12/31/2021 |
 | Code of Ethics | Signed | 7/20/2007 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 7/15/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

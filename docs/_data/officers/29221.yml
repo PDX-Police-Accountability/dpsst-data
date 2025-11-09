@@ -119,6 +119,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/14/2025
+  course: BNP1265B
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/14/2025
+  course: BNP3525B
+  title: Active threat Reponse
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2025
+  course: BNP3226B
+  title: Low light firearm qualifications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/14/2025
+  course: BNP0397B
+  title: Rifle /Pistol Excertion Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2025
+  course: BNP3921B
+  title: Rifle /Pistol Positional Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2025
+  course: BNP2614B
+  title: Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/19/2025
   course: BNP0389B
   title: Bend PD Ethics
@@ -4668,14 +4710,14 @@ training_records:
   score: '0.0'
   hours: '45.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/29/2025
   expiration_date: 1/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

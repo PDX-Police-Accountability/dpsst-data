@@ -32,6 +32,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2025 | OCP3759B | S.A.F.E Center Training | Passed | 0.0 | 0.25 |
+| 10/13/2025 | OCP0652B | ADA Compliance and Service Animals | Passed | 0.0 | 0.25 |
+| 10/9/2025 | OCP1442B | 40MM  Pepper Spray | Passed | 0.0 | 1.00 |
+| 10/9/2025 | OCP3418B | Use of Force Scenarios - Virtra | Passed | 0.0 | 0.50 |
+| 10/9/2025 | OCP3727B | Taser | Passed | 0.0 | 1.00 |
+| 10/9/2025 | OCP2216B | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 9/25/2025 | OCP1609B | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 9/12/2025 | OCP4391B | Evidence Handling | Passed | 0.0 | 0.25 |
 | 8/6/2025 | OCP4484B | Water Rescue Response | Passed | 0.0 | 0.25 |

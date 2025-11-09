@@ -80,9 +80,27 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/8/2025
+  course: OCS3181B
+  title: Perspective on Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/30/2025
   course: OCS3371B
   title: Balance Speed/Marksmanship at distance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/17/2025
+  course: OCS0755B
+  title: Less Lethal  40mm Launcher Recert/Cert
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/15/2025
+  course: OCS0409B
+  title: ConSims
   status: Passed
   score: '0.0'
   hours: '1.00'

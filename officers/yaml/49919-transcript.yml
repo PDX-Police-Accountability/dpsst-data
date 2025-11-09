@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2025
+  course: MISCMAIN
+  title: 2025 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/15/2025
+  course: SPP3907B
+  title: Law Enforcement Drone Association - Fall Conf.
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -164,6 +176,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/23/2024
+  course: HBP3287B
+  title: PoliceOne Anti-Bias Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/5/2024
   course: HBP2428
   title: TruNarc Basic Operator Course
@@ -2731,14 +2749,14 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/24/2025
   expiration_date: 4/24/2027
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/2/2008

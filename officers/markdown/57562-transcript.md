@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2025 | OCP4356B | SFST Refresher | Passed | 0.0 | 4.00 |
+| 10/9/2025 | OCP1442B | 40MM  Pepper Spray | Passed | 0.0 | 1.00 |
+| 10/9/2025 | OCP2216B | Defensive Tactics | Passed | 0.0 | 1.00 |
+| 10/9/2025 | OCP2216B | Defensive Tactics | Instructed | 0.0 | 17.00 |
 | 8/6/2025 | OCP4484B | Water Rescue Response | Passed | 0.0 | 0.25 |
 | 7/29/2025 | OCP0663B | Firearms Use Of Force | Passed | 0.0 | 3.50 |
 | 7/17/2025 | OCP1877B | Active Threat Response | Passed | 0.0 | 4.00 |
