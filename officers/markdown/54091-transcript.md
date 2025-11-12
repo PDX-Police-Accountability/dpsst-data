@@ -28,7 +28,10 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 1/3/2012 | No Degree | All Other Education Institutes | Criminal Justice | 172.0 |
+| 12/15/2012 | No Degree | All Other Education Institutes |  | 20.0 |
+| 12/15/2010 | No Degree | All Other Education Institutes | Law Enforcement | 69.0 |
+| 3/15/2008 | No Degree | All Other Education Institutes |  | 23.0 |
+| 6/15/2005 | No Degree | All Other Education Institutes |  | 54.2 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
