@@ -49,6 +49,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2025 | SVP1984B | WRAP Restraint Application | Passed | 0.0 | 3.00 |
+| 10/29/2025 | SVP1012B | Cell Extraction Procedure | Passed | 0.0 | 1.00 |
 | 10/1/2025 | SVP2079B | BLS CPR  First-Aid Recertification | Passed | 0.0 | 4.00 |
 | 9/30/2025 | SVP1240B | 2022 - Airway Training Video Evaluation for LEO | Passed | 0.0 | 2.00 |
 | 9/24/2025 | SVP4532B | Rifle Training  Transition Drills | Passed | 0.0 | 4.00 |

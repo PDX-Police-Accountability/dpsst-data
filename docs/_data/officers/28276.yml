@@ -129,6 +129,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2025
+  course: SVP1984B
+  title: WRAP Restraint Application
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/29/2025
+  course: SVP1012B
+  title: Cell Extraction Procedure
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/1/2025
   course: SVP2079B
   title: BLS CPR  First-Aid Recertification

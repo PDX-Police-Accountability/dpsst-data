@@ -46,6 +46,7 @@
 | 11/3/2025 | WLP3971B | Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
 | 11/3/2025 | WLP1689B | Duty to Intercede | Passed | 0.0 | 1.00 |
 | 10/22/2025 | WLP1529B | Vehicle Extractions | Passed | 0.0 | 2.00 |
+| 10/15/2025 | WLP0161B | Firearms Training / Qualifications | Passed | 0.0 | 3.00 |
 | 9/28/2025 | WLP3646B | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 10.00 |
 | 9/28/2025 | WLP4031B | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 8.00 |
 | 9/21/2025 | WLP3871B | Patrol - Active Threat Response | Instructed | 0.0 | 4.00 |

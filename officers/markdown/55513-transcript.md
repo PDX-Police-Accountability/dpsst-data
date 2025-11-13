@@ -43,6 +43,10 @@
 | 10/10/2025 | BVP1592B | SFST/Intoxilyzer Refresher 101025 | Passed | 0.0 | 8.00 |
 | 9/26/2025 | BVP0681B | Control Tactics IST 092625 PM | Passed | 0.0 | 3.00 |
 | 9/24/2025 | HBS0010B | TNT Firearms | Passed | 0.0 | 8.00 |
+| 9/9/2025 | HBS3319B | TNT Cautious Clears Warrant Service Tactics | Passed | 0.0 | 7.50 |
+| 9/8/2025 | HBS4533B | TNT-Cautious Clears Tactical Emerg Casualty Care | Passed | 0.0 | 3.50 |
+| 9/7/2025 | HBS1631B | TNT Less Lethal Refresher,40MM,Chem Munition/FSDD | Passed | 0.0 | 1.50 |
+| 9/7/2025 | HBS1646B | TNT-Ballistic Breaching | Passed | 0.0 | 1.50 |
 | 8/28/2025 | BVP0969B | August 2025 Range 082825 AM | Passed | 0.0 | 3.00 |
 | 8/27/2025 | HBS3542B | TNT Firearms | Passed | 0.0 | 7.00 |
 | 8/13/2025 | HBS3414B | TNT - Tubular Assault Hostage Rescue | Passed | 0.0 | 8.00 |
@@ -56,6 +60,10 @@
 | 6/12/2025 | BVP1937B | OTOA Basic SWAT School | Passed | 0.0 | 40.00 |
 | 5/30/2025 | BVP3270A | Complete Tactical Casualty Care | Passed | 0.0 | 31.50 |
 | 5/22/2025 | BVP3212A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
+| 5/15/2025 | HBS1718B | TNT-Hostage Rescue/Breaching Contingencies | Passed | 0.0 | 8.00 |
+| 5/14/2025 | HBS3290B | TNT-Building Search/Cautious Clears/HRT | Passed | 0.0 | 8.00 |
+| 5/13/2025 | HBS1567B | TNT Night Vision Scenarios | Passed | 0.0 | 9.00 |
+| 5/12/2025 | HBS1758B | TNT NVG Range Cautious Clears | Passed | 0.0 | 9.00 |
 | 4/30/2025 | HBS0622B | TNT - Entry Training | Passed | 0.0 | 7.50 |
 | 4/23/2025 | HBS3353B | TNT Range Day | Passed | 0.0 | 7.00 |
 | 4/8/2025 | HBS3906B | TNT - Building Search/Cautious Clears/HRT | Passed | 0.0 | 5.00 |

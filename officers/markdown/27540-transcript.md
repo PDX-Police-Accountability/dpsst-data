@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2025 | WLP0161B | Firearms Training / Qualifications | Passed | 0.0 | 2.00 |
 | 6/25/2025 | WLP1297B | Firearms Training - Inservice | Passed | 0.0 | 3.00 |
 | 5/21/2025 | WLP0563B | Defensive Tactics: Control Fundamentals, Scenarios | Passed | 0.0 | 2.00 |
 | 4/30/2025 | WLP0747A | Sexual Harassment Prevention | Passed | 0.0 | 1.00 |

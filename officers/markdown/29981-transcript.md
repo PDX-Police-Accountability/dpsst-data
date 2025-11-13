@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/3/2025 | WLP1689B | Duty to Intercede | Passed | 0.0 | 1.00 |
 | 10/29/2025 | OCA3429B | MCT - Amber Alert System | Passed | 0.0 | 1.00 |
+| 10/15/2025 | WLP0161B | Firearms Training / Qualifications | Passed | 0.0 | 3.00 |
 | 9/27/2025 | WLP3646B | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 10.00 |
 | 9/27/2025 | WLP4031B | WLPD EVOC / Patrol Tactics | Passed | 0.0 | 8.00 |
 | 8/30/2025 | WLP2808B | Traffic Crash Training | Passed | 0.0 | 0.50 |

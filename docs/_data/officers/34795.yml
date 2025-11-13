@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/15/2025
+  course: WLP0161B
+  title: Firearms Training / Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/28/2025
   course: WLP3646B
   title: WLPD EVOC / Patrol Tactics
