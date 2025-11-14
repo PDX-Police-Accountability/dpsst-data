@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2025
+  course: PDA3164C
+  title: Handgun Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 10/16/2025
   course: PDA0273B
   title: Defensive Tactics Application of OC Spray

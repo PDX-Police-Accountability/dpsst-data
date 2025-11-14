@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2025 | BNP3380B | SWAT-Low light weapon Qualifications | Passed | 0.0 | 8.00 |
 | 10/21/2025 | BNP2507B | SWAT-Active Threat and Hostage Rescue | Passed | 0.0 | 8.00 |
 | 10/9/2025 | BNP1088B | SWAT- Firearms Proficiency | Passed | 0.0 | 4.00 |
 | 10/9/2025 | BNP3541B | SWAT- Low Light and Night Vision firearms | Passed | 0.0 | 4.00 |

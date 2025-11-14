@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2025
+  course: HBP4183C
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 10/14/2025
   course: HBP3698B
   title: Hillsboro Police Threat Assessment Team Training

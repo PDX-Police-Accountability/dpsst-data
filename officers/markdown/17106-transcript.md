@@ -42,10 +42,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
+| 10/22/2025 | F1535846 | Ethics Questions for Prosecutors | Passed | 0.0 | 1.00 |
+| 10/8/2025 | F1513192 | Tourniquet One/Two-Handed/Storing | Passed | 0.0 | 0.25 |
 | 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/17/2025 | HBA2747B | Recognizing and Responding to Stalking | Passed | 0.0 | 7.00 |
 | 9/10/2025 | PDA0313B | Securus Pro Training | Passed | 0.0 | 3.00 |
 | 7/7/2025 | PDA1754B | Handgun Firearms | Passed | 0.0 | 5.00 |
+| 3/6/2025 | F1538454 | Secondary Traumatic Stress | Passed | 0.0 | 2.50 |
 | 2/26/2025 | PDA2265 | Use of Force update training | Passed | 0.0 | 3.00 |
 | 12/13/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/2/2024 | PDA2552A | Basic Handgun Skills  Qualification | Passed | 0.0 | 5.00 |

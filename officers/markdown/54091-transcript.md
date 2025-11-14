@@ -24,6 +24,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 11/12/2024 |  |
+| Certification Cards | First Aid and CPR | 9/21/2024 | 9/21/2026 |
 | Code of Ethics | Signed | 4/24/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -113,6 +114,7 @@
 | 10/6/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/4/2024 | PDP3839A | 2024-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 9/30/2024 | PDP0993A | 2024 40mm Less Lethal Operator In-Service | Passed | 0.0 | 9.00 |
+| 9/21/2024 | PDP2041C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 9/13/2024 | PDP2855A | 2024-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 9/13/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/12/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |

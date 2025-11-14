@@ -50,6 +50,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/6/2025
+  course: PDP3797C
+  title: 2025 EAP Annual Member Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/24/2025
   course: PDP3376B
   title: 2025-10 CAO Legal Updates for 3/2025

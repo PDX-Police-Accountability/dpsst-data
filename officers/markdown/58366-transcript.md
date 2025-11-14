@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 10/23/2025 | OSH2536C | OSP Defensive Tactics - 2nd Trimester TASER Course | Passed | 0.0 | 10.00 |
 | 10/21/2025 | OSH1437B | First In Last Out: Extreme Ownership | Passed | 0.0 | 1.00 |
 | 10/20/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/17/2025 | OSH3702B | Ethics | Passed | 0.0 | 1.00 |

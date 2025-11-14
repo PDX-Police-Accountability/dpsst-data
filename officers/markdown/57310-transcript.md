@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2025 | PDP3797C | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 10/15/2025 | PDP0599B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 10/13/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/13/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

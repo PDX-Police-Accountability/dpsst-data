@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/8/2025
+  course: HBS0579B
+  title: TNT Dignitary Protection
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/26/2025
   course: BVP0681B
   title: Control Tactics IST 092625 PM
@@ -73,6 +79,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/11/2025
+  course: HBS2730C
+  title: TNT Tactical Scenarios CCSO
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/10/2025
+  course: HBS4019B
+  title: TNT Sniper In-Service
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 9/9/2025
   course: HBS3319B
   title: TNT Cautious Clears Warrant Service Tactics

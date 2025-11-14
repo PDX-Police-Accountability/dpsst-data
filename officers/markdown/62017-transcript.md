@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2025 | PDP3797C | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 10/17/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 9/22/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/19/2025 | OCP0592B | GRIN-Group Crisis-Assisting Individuals | Passed | 0.0 | 27.00 |

@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/17/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 11/6/2025 | PDP3797C | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 10/24/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/15/2025 | PDP2812B | 2025-1 Supervisors In-Service (CIT/MH) | Passed | 0.0 | 2.00 |
 | 10/15/2025 | PDP3412B | 2025-1 Supervisors In-Service (Leadership) | Passed | 0.0 | 7.00 |

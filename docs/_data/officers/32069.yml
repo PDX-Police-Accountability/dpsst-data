@@ -69,6 +69,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/22/2025
+  course: SDP4358C
+  title: Amber Alert  PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2025
+  course: SDP3562C
+  title: DT's 2 vs 1 control tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/22/2025
+  course: SDP0755C
+  title: Amber Alert  PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2025
+  course: SDP2575C
+  title: 'Duty Equipment Update: Suppressors  Bodycams'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/24/2025
   course: SDP3812B
   title: DT's - Control Tactics using clothing

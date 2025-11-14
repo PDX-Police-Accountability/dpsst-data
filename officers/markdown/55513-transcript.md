@@ -41,8 +41,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/10/2025 | BVP1592B | SFST/Intoxilyzer Refresher 101025 | Passed | 0.0 | 8.00 |
+| 10/8/2025 | HBS0579B | TNT Dignitary Protection | Passed | 0.0 | 9.00 |
 | 9/26/2025 | BVP0681B | Control Tactics IST 092625 PM | Passed | 0.0 | 3.00 |
 | 9/24/2025 | HBS0010B | TNT Firearms | Passed | 0.0 | 8.00 |
+| 9/11/2025 | HBS2730C | TNT Tactical Scenarios CCSO | Passed | 0.0 | 5.00 |
+| 9/10/2025 | HBS4019B | TNT Sniper In-Service | Passed | 0.0 | 6.50 |
 | 9/9/2025 | HBS3319B | TNT Cautious Clears Warrant Service Tactics | Passed | 0.0 | 7.50 |
 | 9/8/2025 | HBS4533B | TNT-Cautious Clears Tactical Emerg Casualty Care | Passed | 0.0 | 3.50 |
 | 9/7/2025 | HBS1631B | TNT Less Lethal Refresher,40MM,Chem Munition/FSDD | Passed | 0.0 | 1.50 |

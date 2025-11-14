@@ -49,6 +49,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/31/2025
+  course: NGP4528C
+  title: Pistol Mounted Optics transition Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 10/16/2025
   course: SDP0291B
   title: Taser - Instructor Certification Training

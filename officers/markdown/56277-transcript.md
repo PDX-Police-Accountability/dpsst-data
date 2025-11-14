@@ -44,6 +44,7 @@
 | 10/23/2025 | CAP2337B | Airways Training Video - Patient Evaluation For LE | Passed | 0.0 | 2.00 |
 | 10/22/2025 | CAP3011B | Firearms - Precision Rifle | Passed | 0.0 | 1.00 |
 | 10/8/2025 | CAP1362B | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
+| 10/8/2025 | CAP2043C | Implicit Bias | Passed | 0.0 | 1.00 |
 | 9/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/17/2025 | CAP3698B | Firearms - VCQB | Passed | 0.0 | 4.00 |
 | 8/20/2025 | CAP2891B | Firearms - Injured Shooter - Pistol/Rifle | Passed | 0.0 | 2.00 |

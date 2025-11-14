@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2025 | PDP3797C | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 10/23/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
 | 10/22/2025 | PDP2812B | 2025-1 Supervisors In-Service (CIT/MH) | Passed | 0.0 | 2.00 |
 | 10/22/2025 | PDP3412B | 2025-1 Supervisors In-Service (Leadership) | Passed | 0.0 | 7.00 |

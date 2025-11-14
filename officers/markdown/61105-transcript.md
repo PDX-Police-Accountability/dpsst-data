@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/31/2025 | NGP4528C | Pistol Mounted Optics transition Course | Passed | 0.0 | 18.00 |
 | 10/16/2025 | SDP0291B | Taser - Instructor Certification Training | Passed | 0.0 | 24.00 |
 | 9/15/2025 | NGP4519B | Airborne and Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/1/2025 | NGP4045B | HSI Adult First Aid  CPR/AED All Ages | Passed | 0.0 | 4.00 |

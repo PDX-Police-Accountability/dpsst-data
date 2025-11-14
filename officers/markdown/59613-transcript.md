@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2025 | PDP3722C | 2025 Introduction to Interpreting in Policing | Passed | 0.0 | 9.00 |
 | 3/21/2025 | SAG0909B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 8.00 |
 | 3/20/2025 | SAG0179B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 8.00 |
 | 3/19/2025 | SAG3527B | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 8.00 |

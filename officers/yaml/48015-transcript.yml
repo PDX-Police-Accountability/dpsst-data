@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 11/5/2025
+  course: PDP3722C
+  title: 2025 Introduction to Interpreting in Policing
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/31/2014
   course: 14-0716
   title: LEDS Recertification

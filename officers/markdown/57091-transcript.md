@@ -80,6 +80,7 @@
 | 2/12/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 1.00 |
 | 2/12/2025 | PDP4190B | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
 | 2/12/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 2/6/2025 | PDP2404C | Force Science Certification Course | Passed | 0.0 | 29.00 |
 | 2/4/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
 | 1/15/2025 | PDP0956A | 2025 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 1/10/2025 | PDP4370A | 2025 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

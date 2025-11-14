@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2025 | HBP4183C | Range | Passed | 0.0 | 5.00 |
 | 10/14/2025 | HBP3698B | Hillsboro Police Threat Assessment Team Training | Passed | 0.0 | 1.50 |
 | 9/26/2025 | HBP2563B | SWAT Command Decision Making  Leadership | Passed | 0.0 | 40.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

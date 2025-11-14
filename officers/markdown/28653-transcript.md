@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/21/2025 | F1528520 | Micro-Affirmations Part 1 | Passed | 0.0 | 0.25 |
 | 10/21/2025 | F1514649 | Micro-Affirmations Part 2 | Passed | 0.0 | 0.25 |
 | 10/21/2025 | F1543361 | Micro-Affirmations Part 3 | Passed | 0.0 | 0.25 |

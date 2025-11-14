@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |
 | 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 7/7/2025 | PDA1754B | Handgun Firearms | Passed | 0.0 | 5.00 |

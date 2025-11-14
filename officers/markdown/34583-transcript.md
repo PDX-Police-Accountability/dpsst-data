@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |
 | 10/9/2025 | PDA0352B | Tourniquet and Wound Packing | Passed | 0.0 | 1.00 |
 | 9/24/2025 | F1530656 | Tactical Firearms Training | Passed | 0.0 | 8.00 |

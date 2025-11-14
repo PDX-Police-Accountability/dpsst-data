@@ -36,6 +36,7 @@
 | 10/13/2025 | HBP3980B | FTP Academy Prep | Passed | 0.0 | 40.00 |
 | 10/13/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/9/2025 | PDP0300B | RegJin MDT/MRE New Hire Training | Passed | 0.0 | 14.00 |
+| 10/8/2025 | HBP2976C | Range | Passed | 0.0 | 5.00 |
 | 10/7/2025 | PDP4392B | Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 10/6/2025 | PDP0177B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 10/6/2025 | PDP1181B | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

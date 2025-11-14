@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2025
+  course: SAG2131C
+  title: Glock Armorers Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/28/2025
   course: SAG0753B
   title: ICAC 101

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2025 | SAG2131C | Glock Armorers Course | Passed | 0.0 | 8.00 |
 | 10/28/2025 | SAG0753B | ICAC 101 | Instructed | 0.0 | 8.00 |
 | 7/29/2025 | SAG2878B | Firearms training | Instructed | 0.0 | 2.00 |
 | 7/9/2025 | SAG2878B | Firearms training | Passed | 0.0 | 1.00 |

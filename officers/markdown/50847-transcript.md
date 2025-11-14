@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2025 | PDP3797C | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 12/3/2024 | PDP3226A | 2024 EAP Separation Training | Passed | 0.0 | 4.00 |
 | 9/9/2024 | PDP1450A | 2024 EAP Suicide Training | Passed | 0.0 | 4.00 |
 | 6/14/2023 | PDP3376A | 2023 EAP Peer Support during Retirement | Passed | 0.0 | 6.00 |

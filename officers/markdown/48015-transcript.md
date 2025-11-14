@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2025 | PDP3722C | 2025 Introduction to Interpreting in Policing | Passed | 0.0 | 9.00 |
 | 12/31/2014 | 14-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/11/2014 | 14-0924 | Sexual Harassment | Passed | 0.0 | 1.00 |
 | 5/24/2012 | 12-0702 | Computer Software Applications | Passed | 0.0 | 2.00 |

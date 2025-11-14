@@ -21,6 +21,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 11/5/2025 | 11/5/2027 |
 | Certification Cards | First Aid and CPR | 4/10/2024 | 4/9/2026 |
 | Code of Ethics | Law Enforcement Signed | 11/27/2023 |  |
 ## Education
@@ -29,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2025 | PDP0878C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 10/23/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP3300B | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |

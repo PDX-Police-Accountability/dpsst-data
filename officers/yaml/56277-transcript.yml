@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/8/2025
+  course: CAP2043C
+  title: Implicit Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/25/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

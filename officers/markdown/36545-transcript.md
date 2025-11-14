@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2025 | HBP2847C | Range | Passed | 0.0 | 5.00 |
 | 10/10/2025 | HBS1434B | SPI Homicide Investigations School | Passed | 0.0 | 80.00 |
 | 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 10/29/2025
+  course: PDP2171C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/15/2024
   course: PDP3001A
   title: 2024 Deflection Center Video for Law Enforcement
@@ -576,6 +582,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/29/2025
+  expiration_date: 10/29/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/16/2023

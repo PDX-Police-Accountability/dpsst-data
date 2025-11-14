@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2025 | MKL0486C | DAS-CHRO Public Records | Passed | 0.0 | 1.00 |
 | 10/21/2025 | MKL1740B | DOJ-CVSSD Human Trafficking | Passed | 0.0 | 1.50 |
 | 10/21/2025 | MKL1059B | DOJ-CVSSD Human Trafficking | Passed | 0.0 | 1.00 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

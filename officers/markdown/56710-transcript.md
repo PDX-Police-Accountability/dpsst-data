@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2025 | SDP4358C | Amber Alert  PREA | Passed | 0.0 | 1.00 |
+| 10/22/2025 | SDP3562C | DT's 2 vs 1 control tactics | Passed | 0.0 | 2.50 |
+| 10/22/2025 | SDP0755C | Amber Alert  PREA | Passed | 0.0 | 1.00 |
+| 10/22/2025 | SDP2575C | Duty Equipment Update: Suppressors  Bodycams | Passed | 0.0 | 1.00 |
 | 9/24/2025 | SDP3876B | Red Dot Handgun Drills | Passed | 0.0 | 3.00 |
 | 9/18/2025 | BPT09104 | Ground Control | Passed | 0.0 | 1.00 |
 | 9/11/2025 | BPT0579B | Striking Defense | Passed | 0.0 | 1.00 |

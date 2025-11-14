@@ -314,6 +314,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/6/2025
+  course: PDP2404C
+  title: Force Science Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
 - date: 2/4/2025
   course: PDP2899A
   title: Dir 0640.37 Comm with Persons Limited English
