@@ -48,6 +48,7 @@
 | 9/10/2025 | HBS4019B | TNT Sniper In-Service | Passed | 0.0 | 6.50 |
 | 9/9/2025 | HBS3319B | TNT Cautious Clears Warrant Service Tactics | Passed | 0.0 | 7.50 |
 | 9/8/2025 | HBS4533B | TNT-Cautious Clears Tactical Emerg Casualty Care | Passed | 0.0 | 3.50 |
+| 9/8/2025 | HBS1553C | TNT-Vehicle/Pedestrian Takedown | Passed | 0.0 | 4.00 |
 | 9/7/2025 | HBS1631B | TNT Less Lethal Refresher,40MM,Chem Munition/FSDD | Passed | 0.0 | 1.50 |
 | 9/7/2025 | HBS1646B | TNT-Ballistic Breaching | Passed | 0.0 | 1.50 |
 | 8/28/2025 | BVP0969B | August 2025 Range 082825 AM | Passed | 0.0 | 3.00 |

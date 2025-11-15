@@ -56,6 +56,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/17/2025
+  course: GSP2564C
+  title: SWAT Sniper Range
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/16/2025
+  course: GSP3992C
+  title: SWAT Practical
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/15/2025
   course: GSP4095B
   title: SWAT Training

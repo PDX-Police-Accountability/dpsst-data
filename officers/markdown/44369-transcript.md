@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2025 | STP3688C | 40MM Less Lethal and Firearms Training | Passed | 0.0 | 5.00 |
 | 10/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/11/2025 | STP2486B | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
 | 8/11/2025 | STP1232B | Firearms Qualification and Training | Passed | 0.0 | 4.00 |

@@ -67,6 +67,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/31/2025
+  course: MKL28121
+  title: Heat Illness and Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2025
+  course: MKL3431C
+  title: Wildfire Smoke
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/29/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

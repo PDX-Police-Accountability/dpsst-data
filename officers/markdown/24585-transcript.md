@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/24/2025 | Portland State University DPS | Retired | Chief |  |  |
 | 5/23/2024 | Portland State University DPS | LOA | Chief |  |  |
 | 7/1/2020 | Portland State University DPS | Promotion | Chief |  |  |
 | 2/1/2016 | Portland State University DPS | Hired | Sergeant |  |  |
@@ -22,11 +23,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/4/2023 | Police Officer | Management | Granted | 1/4/2023 |  |  |
-| 6/26/2020 | Police Officer | Advanced | Granted | 6/26/2020 |  |  |
-| 6/26/2020 | Police Officer | Intermediate | Granted | 6/26/2020 |  |  |
-| 6/26/2020 | Police Officer | Supervisory | Granted | 6/26/2020 |  |  |
-| 9/20/1991 | Police Officer | Basic | Granted | 9/20/1991 |  |  |
+| 1/4/2023 | Police Officer | Management | Granted | 1/4/2023 | 1/24/2026 |  |
+| 6/26/2020 | Police Officer | Advanced | Granted | 6/26/2020 | 1/24/2026 |  |
+| 6/26/2020 | Police Officer | Intermediate | Granted | 6/26/2020 | 1/24/2026 |  |
+| 6/26/2020 | Police Officer | Supervisory | Granted | 6/26/2020 | 1/24/2026 |  |
+| 9/20/1991 | Police Officer | Basic | Granted | 9/20/1991 | 1/24/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

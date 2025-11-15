@@ -184,6 +184,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/2/2025
+  course: OSH1429C
+  title: 3rd Trimester firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/28/2025
   course: VND0402B
   title: 28 CFR 23 and WSIN Resources

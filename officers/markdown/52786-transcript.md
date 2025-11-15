@@ -12,6 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/16/2025 | Multnomah County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
+| 6/7/2025 | Multnomah County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 2/4/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 2/3/2025 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 9/27/2012 | Portland Police Bureau | Hired | Police Off |  |  |

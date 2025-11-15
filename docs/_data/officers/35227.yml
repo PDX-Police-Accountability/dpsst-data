@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 10/23/2025
+  course: PDA2255C
+  title: 'Common Ethics Questions - CLE ID #126226'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/16/2025
   course: PDA0273B
   title: Defensive Tactics Application of OC Spray

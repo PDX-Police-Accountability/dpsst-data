@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/24/2025
+  agency: Portland State University DPS
+  action: Retired
+  rank: Chief
+  classification: ''
+  assignment: ''
 - date: 5/23/2024
   agency: Portland State University DPS
   action: LOA
@@ -57,35 +63,35 @@ certification_records:
   level: Management
   status: Granted
   certificate_date: 1/4/2023
-  expiration_date: ''
+  expiration_date: 1/24/2026
   probation_date: ''
 - status_date: 6/26/2020
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 6/26/2020
-  expiration_date: ''
+  expiration_date: 1/24/2026
   probation_date: ''
 - status_date: 6/26/2020
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 6/26/2020
-  expiration_date: ''
+  expiration_date: 1/24/2026
   probation_date: ''
 - status_date: 6/26/2020
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 6/26/2020
-  expiration_date: ''
+  expiration_date: 1/24/2026
   probation_date: ''
 - status_date: 9/20/1991
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 9/20/1991
-  expiration_date: ''
+  expiration_date: 1/24/2026
   probation_date: ''
 training_records:
 - date: 5/6/2024

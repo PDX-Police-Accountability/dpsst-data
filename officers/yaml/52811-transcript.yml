@@ -69,6 +69,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 10/16/2025
+  course: GSP3992C
+  title: SWAT Practical
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/15/2025
+  course: GSP2269C
+  title: SWAT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/2/2025
   course: PDS4356B
   title: CPR-First Aid-AED

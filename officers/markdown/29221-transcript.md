@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2025 | BNP2193C | Skidcar | Passed | 0.0 | 1.00 |
 | 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/14/2025 | BNP1265B | Leadership | Passed | 0.0 | 0.50 |
 | 10/14/2025 | BNP3525B | Active threat Reponse | Passed | 0.0 | 1.00 |

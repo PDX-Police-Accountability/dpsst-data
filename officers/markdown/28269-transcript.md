@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2025 | BNP2193C | Skidcar | Passed | 0.0 | 1.00 |
 | 10/14/2025 | BNP1265B | Leadership | Instructed | 0.0 | 0.50 |
 | 10/14/2025 | BNP3525B | Active threat Reponse | Passed | 0.0 | 1.00 |
 | 10/14/2025 | BNP0397B | Rifle /Pistol Excertion Course | Passed | 0.0 | 1.00 |

@@ -103,6 +103,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 9/8/2025
+  course: HBS1553C
+  title: TNT-Vehicle/Pedestrian Takedown
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/7/2025
   course: HBS1631B
   title: TNT Less Lethal Refresher,40MM,Chem Munition/FSDD

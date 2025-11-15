@@ -38,6 +38,8 @@
 | 8/26/2025 | MKL3468B | Introduction to CAMP Phave IV | Passed | 0.0 | 2.00 |
 | 8/19/2025 | MKL2011B | Introduction to CAMP Phave IV | Passed | 0.0 | 1.00 |
 | 8/12/2025 | MKL0762B | Introduction to CAMP Phave IV | Passed | 0.0 | 1.00 |
+| 7/31/2025 | MKL28121 | Heat Illness and Prevention | Passed | 0.0 | 1.00 |
+| 7/31/2025 | MKL3431C | Wildfire Smoke | Passed | 0.0 | 1.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/20/2025 | MKL2956A | Orange Photonics - Light Lab Certification | Passed | 0.0 | 2.50 |
 | 4/23/2025 | MKL0515B | Defensive Tactics | Passed | 0.0 | 8.00 |

@@ -88,6 +88,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/30/2025
+  course: WBP3980C
+  title: WPD 3rd Quarter Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/1/2025
   course: WBP2780B
   title: Global SDS  Hazard Communication Standards

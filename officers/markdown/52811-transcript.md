@@ -40,6 +40,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/29/2025 | PDS3585B | Red Dot Firearms | Instructed | 0.0 | 24.00 |
 | 10/21/2025 | PDS2213B | Range Qualification | Instructed | 0.0 | 2.00 |
+| 10/16/2025 | GSP3992C | SWAT Practical | Instructed | 0.0 | 10.00 |
+| 10/15/2025 | GSP2269C | SWAT Training | Passed | 0.0 | 10.00 |
 | 10/2/2025 | PDS4356B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 10/2/2025 | PDS4233B | VR ConSim | Passed | 0.0 | 2.00 |
 | 10/1/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |

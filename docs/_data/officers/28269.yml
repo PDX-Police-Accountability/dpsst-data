@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/6/2025
+  course: BNP2193C
+  title: Skidcar
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/14/2025
   course: BNP1265B
   title: Leadership
