@@ -35,6 +35,18 @@
 | 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
 | 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 11/7/2025 | HBS2581C | Recruit-MRE/REGJIN | Passed | 0.0 | 8.00 |
+| 11/6/2025 | HBS0408C | Recruit-Case Law Review | Passed | 0.0 | 1.00 |
+| 11/6/2025 | HBS1098C | Recruit-Defensive Tactics 17 Box Drills | Passed | 0.0 | 3.00 |
+| 11/6/2025 | HBS1911C | Recruit-Firearms 16 | Passed | 0.0 | 4.00 |
+| 11/5/2025 | HBS2954C | Recruit-Defensive Tactics 16 Box Drills | Passed | 0.0 | 4.00 |
+| 11/5/2025 | HBS3145C | Recruit-Forensics | Passed | 0.0 | 1.00 |
+| 11/5/2025 | HBS0401C | Recruit-Property Evidence | Passed | 0.0 | 2.00 |
+| 11/5/2025 | HBS3089C | Recruit-Scene Processing | Passed | 0.0 | 1.00 |
+| 11/4/2025 | HBS0100C | Recruit-PTSD | Passed | 0.0 | 2.00 |
+| 11/3/2025 | HBS2416C | Recruit-LEDS Certification | Passed | 0.0 | 5.50 |
+| 11/3/2025 | HBS2553C | Recruit-PATROL- GETAC Computers | Passed | 0.0 | 2.00 |
+| 11/3/2025 | HBS3188C | Recruit-Subpoena Overview | Passed | 0.0 | 0.50 |
 | 10/31/2025 | HBS0706B | Recruit-Criminal Law | Passed | 0.0 | 4.00 |
 | 10/31/2025 | HBS3459B | Recruit-Search  Seizure | Passed | 0.0 | 4.00 |
 | 10/30/2025 | HBS1845B | Recruit-Defensive Tactics 15 Review | Passed | 0.0 | 4.00 |

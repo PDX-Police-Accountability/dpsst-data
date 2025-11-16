@@ -106,6 +106,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/11/2025
+  course: WLP1435C
+  title: 'Holds/Restraints: Restraints Demonstration/#102'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/10/2025
   course: WLP2748C
   title: 'Basic Firearm Safety COURSE # FIRE110'
@@ -115,6 +121,18 @@ training_records:
 - date: 11/10/2025
   course: WLP1179C
   title: 'Firearm Tactics COURSE # FIRT101'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2025
+  course: WLP2884C
+  title: 'Firearm Tactics COURSE # FIRT101'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2025
+  course: WLP3786C
+  title: 'Basic Firearm Safety COURSE # FIRE110'
   status: Passed
   score: '0.0'
   hours: '1.00'

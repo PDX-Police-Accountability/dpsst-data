@@ -27,7 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/30/2024 | 1/30/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 6/16/2008 |  |
@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/16/2025 | BVP3628B | SFST/Intoxilyzer Refresher 101625 | Passed | 0.0 | 8.00 |
 | 9/25/2025 | BVP1425B | Control Tactics IST 092525 PM | Instructed | 0.0 | 6.00 |
 | 9/24/2025 | BVP1951B | Control Tactics IST 092425 PM | Instructed | 0.0 | 3.00 |
@@ -55,6 +56,7 @@
 | 5/27/2025 | BVP2589A | Control Tactics / Taser Recertification | Instructed | 0.0 | 3.00 |
 | 5/16/2025 | BVP2825A | Control Tactics / Taser Recertification Instructor | Passed | 0.0 | 3.00 |
 | 5/8/2025 | BVP2066B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 5/8/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 2/18/2025 | BVP3011A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 1/14/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/14/2024 | BVP3633A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

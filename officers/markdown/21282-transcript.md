@@ -43,8 +43,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/11/2025 | WLP3558C | Holds/Restraints: Restraints Demonstration/#102 | Passed | 0.0 | 1.00 |
+| 11/11/2025 | WLP1435C | Holds/Restraints: Restraints Demonstration/#102 | Passed | 0.0 | 1.00 |
 | 11/10/2025 | WLP2748C | Basic Firearm Safety COURSE # FIRE110 | Passed | 0.0 | 1.00 |
 | 11/10/2025 | WLP1179C | Firearm Tactics COURSE # FIRT101 | Passed | 0.0 | 1.00 |
+| 11/10/2025 | WLP2884C | Firearm Tactics COURSE # FIRT101 | Passed | 0.0 | 1.00 |
+| 11/10/2025 | WLP3786C | Basic Firearm Safety COURSE # FIRE110 | Passed | 0.0 | 1.00 |
 | 8/30/2025 | WLP2808B | Traffic Crash Training | Passed | 0.0 | 0.50 |
 | 6/18/2025 | WLP1297B | Firearms Training - Inservice | Passed | 0.0 | 3.00 |
 | 4/30/2025 | WLP0747A | Sexual Harassment Prevention | Passed | 0.0 | 1.00 |

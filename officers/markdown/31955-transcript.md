@@ -52,6 +52,7 @@
 | 9/30/2025 | CAP1431B | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 9/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/8/2025 | CAP3727B | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
+| 8/8/2025 | CAP1123C | Ethics | Passed | 0.0 | 1.00 |
 | 7/23/2025 | CAP0707B | Firearms - Patrol Rifle Reloads/Malfunctions | Passed | 0.0 | 2.00 |
 | 6/25/2025 | CAP4134B | Active Threat  Building Search | Passed | 0.0 | 2.00 |
 | 4/9/2025 | RMP3099A | What happens when it's quiet? | Passed | 0.0 | 7.00 |

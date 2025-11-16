@@ -766,7 +766,6 @@
 | Cavalli-Singer, Gelsomina M. | 59104 | Portland Police Bureau | Active | Police Officer | Hired | 2018-09-12 | [md](../markdown/59104-transcript.md) - [yaml](../yaml/59104-transcript.yml) |
 | Fultz, Troyler D. | 59125 | Portland Police Bureau | Active | Police Officer | Hired | 2018-09-22 | [md](../markdown/59125-transcript.md) - [yaml](../yaml/59125-transcript.yml) |
 | Koenig, Jason M. | 41301 | Portland Police Bureau | Active | Detective | Promotion | 2018-10-18 | [md](../markdown/41301-transcript.md) - [yaml](../yaml/41301-transcript.yml) |
-| Orellana, Mitchell J. | 44440 | Portland Police Bureau | Active | Detective | Promotion | 2018-10-18 | [md](../markdown/44440-transcript.md) - [yaml](../yaml/44440-transcript.yml) |
 | Dragomir, Sebastian | 55750 | Portland Police Bureau | Active | Police Officer | Reclassed | 2018-10-18 | [md](../markdown/55750-transcript.md) - [yaml](../yaml/55750-transcript.yml) |
 | Dooley, Kyle M. | 59189 | Portland Police Bureau | Active | Police Officer | Hired | 2018-10-18 | [md](../markdown/59189-transcript.md) - [yaml](../yaml/59189-transcript.yml) |
 | Mahuna, Peter E. | 27540 | Portland Police Bureau | Inactive | Captain | Retired | 2018-11-06 | [md](../markdown/27540-transcript.md) - [yaml](../yaml/27540-transcript.yml) |
@@ -1820,6 +1819,7 @@
 | Cross, Jonathan P. | 66611 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-10-17 | [md](../markdown/66611-transcript.md) - [yaml](../yaml/66611-transcript.yml) |
 | Jenkins, Katelynn B. | 63425 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-10-22 | [md](../markdown/63425-transcript.md) - [yaml](../yaml/63425-transcript.yml) |
 | Carmon, Derek L. | 38197 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-11-06 | [md](../markdown/38197-transcript.md) - [yaml](../yaml/38197-transcript.yml) |
+| Orellana, Mitchell J. | 44440 | Portland Police Bureau | Inactive | Detective | Retired | 2025-11-06 | [md](../markdown/44440-transcript.md) - [yaml](../yaml/44440-transcript.yml) |
 | Johnson, Patrick R. | 49069 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-11-06 | [md](../markdown/49069-transcript.md) - [yaml](../yaml/49069-transcript.yml) |
 | Budey, Grigoriy I. | 51248 | Portland Police Bureau | Active | Police Officer | Promotion | 2025-11-06 | [md](../markdown/51248-transcript.md) - [yaml](../yaml/51248-transcript.yml) |
 | Bernard, Joseph M. | 53468 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-11-06 | [md](../markdown/53468-transcript.md) - [yaml](../yaml/53468-transcript.yml) |

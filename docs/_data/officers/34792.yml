@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2025
+  course: RRP4286C
+  title: Leadership Responsibilities in a LODD
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/27/2025
   course: ADP2315B
   title: Annual Taser Recertification

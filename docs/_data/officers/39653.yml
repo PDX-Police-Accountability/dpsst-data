@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/13/2025
+  course: PDP2830C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.67'
 - date: 10/9/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training
@@ -227,6 +233,18 @@ training_records:
 - date: 2/18/2025
   course: PDP3024B
   title: 2025-1 All Sworn In-Service Intro to Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 2/18/2025
+  course: PDP4006C
+  title: 2025-1 All Sworn In-Service PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 2/12/2025
+  course: PDP1626C
+  title: 2025-1 All Sworn In-Service Taser Update
   status: Passed
   score: '0.0'
   hours: '2.25'

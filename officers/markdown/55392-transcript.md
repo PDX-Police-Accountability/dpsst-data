@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/23/2025 | PDP0241B | 2025 All Sworn IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |
 | 10/23/2025 | PDP0065B | 2025 All Sworn IS ABLE (Video) | Passed | 0.0 | 1.67 |
+| 10/23/2025 | PDP2830C | 2025 IS ABLE (Video) | Passed | 0.0 | 1.67 |
 | 10/22/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 9/28/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 8/19/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |

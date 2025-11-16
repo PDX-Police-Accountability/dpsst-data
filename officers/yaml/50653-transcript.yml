@@ -69,6 +69,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 11/7/2025
+  course: PDP3445C
+  title: CATO SWAT Commander Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/27/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training

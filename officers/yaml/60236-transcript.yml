@@ -54,6 +54,78 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 11/7/2025
+  course: HBS2581C
+  title: Recruit-MRE/REGJIN
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/6/2025
+  course: HBS0408C
+  title: Recruit-Case Law Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/6/2025
+  course: HBS1098C
+  title: Recruit-Defensive Tactics 17 Box Drills
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/6/2025
+  course: HBS1911C
+  title: Recruit-Firearms 16
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/5/2025
+  course: HBS2954C
+  title: Recruit-Defensive Tactics 16 Box Drills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/5/2025
+  course: HBS3145C
+  title: Recruit-Forensics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/5/2025
+  course: HBS0401C
+  title: Recruit-Property Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/5/2025
+  course: HBS3089C
+  title: Recruit-Scene Processing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2025
+  course: HBS0100C
+  title: Recruit-PTSD
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2025
+  course: HBS2416C
+  title: Recruit-LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 11/3/2025
+  course: HBS2553C
+  title: Recruit-PATROL- GETAC Computers
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2025
+  course: HBS3188C
+  title: Recruit-Subpoena Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/31/2025
   course: HBS0706B
   title: Recruit-Criminal Law

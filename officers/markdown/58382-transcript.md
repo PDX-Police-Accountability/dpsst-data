@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2025 | OCS1631C | MILO Use of Force Decision Making | Passed | 0.0 | 1.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/24/2025 | HBP2981B | 2025 OPCA Fall Seminar | Passed | 0.0 | 24.00 |
 | 9/15/2025 | OCS0409B | ConSims | Passed | 0.0 | 1.00 |

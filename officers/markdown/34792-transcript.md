@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2025 | RRP4286C | Leadership Responsibilities in a LODD | Passed | 0.0 | 3.00 |
 | 10/27/2025 | ADP2315B | Annual Taser Recertification | Instructed | 0.0 | 5.00 |
 | 10/23/2025 | ADP0311B | Annual Taser Recertification | Instructed | 0.0 | 7.00 |
 | 9/5/2025 | ADP0616B | High Risk Traffic Stop | Passed | 0.0 | 4.00 |

@@ -24,7 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/18/2024 | 1/18/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 3/4/2015 |  |
@@ -35,11 +35,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/6/2025 | BVP0140C | Nov 2025 Night Range 110625 | Passed | 0.0 | 3.00 |
 | 10/3/2025 | BVP1519B | Pistol Mounted Optics Course | Passed | 0.0 | 12.00 |
 | 9/18/2025 | BVP2426B | Control Tactics IST 091825 AM | Passed | 0.0 | 3.00 |
 | 6/26/2025 | BVP2190B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/28/2025 | BVP4365A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
+| 5/14/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 4/7/2025 | BVP3596B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 4/7/2025 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 2/13/2025 | BVP4465A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 1/14/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2024 | BVP3633A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -53,6 +57,7 @@
 | 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |
 | 4/18/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 4/18/2024 | BVP2006A | PREA | Passed | 0.0 | 0.50 |
+| 4/18/2024 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 2/8/2024 | BVP2564A | 2024 February Range | Passed | 0.0 | 3.00 |
 | 2/8/2024 | BVP3297A | 2024 February Range | Passed | 0.0 | 3.00 |
 | 1/18/2024 | BVP4076A | First Aid and Adult/Child CRP 11824 am | Passed | 0.0 | 3.00 |
@@ -74,6 +79,7 @@
 | 6/6/2023 | BVP1383A | EVOC | Passed | 0.0 | 4.50 |
 | 6/6/2023 | BVP2611A | Fireams Qualification June 2023 | Passed | 0.0 | 3.00 |
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |
+| 4/25/2023 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 4/6/2023 | BVP3077A | April Range 2023 | Passed | 0.0 | 3.00 |
 | 3/23/2023 | BVP3377A | CIT Ernie and Joe | Passed | 0.0 | 3.50 |
 | 3/2/2023 | BVP3585A | Narcan Deployment | Passed | 0.0 | 0.50 |

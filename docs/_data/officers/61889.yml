@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/5/2025
   course: PDP2043B
   title: 2025 All Sworn IS PVO Stop Stick Intro Video
@@ -48,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/5/2025
+  course: PDP2830C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.67'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance
@@ -1769,6 +1781,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/10/2025
@@ -1776,7 +1792,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/7/2022

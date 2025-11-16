@@ -24,7 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/19/2024 | 1/19/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 2/8/2007 |  |
@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/26/2025 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
+| 10/25/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 10/15/2025 | BVP0251B | SFST/Intoxilyzer Refresher 101525 | Passed | 0.0 | 8.00 |
 | 10/2/2025 | BVP3596B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 9/19/2025 | BVP4279B | Control Tactics IST 091925 PM | Passed | 0.0 | 3.00 |
@@ -53,6 +56,7 @@
 | 1/14/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2024 | BVP2862A | City of Beaverton Ethics in Policing | Passed | 0.0 | 1.00 |
 | 11/11/2024 | BVP4261A | November Range 2024 Pistol Rifle 111124 | Passed | 0.0 | 3.00 |
+| 11/2/2024 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 10/30/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 10/30/2024 | BVP2006A | PREA | Passed | 0.0 | 0.50 |
 | 10/17/2024 | BVP3920A | EVOC | Passed | 0.0 | 3.00 |

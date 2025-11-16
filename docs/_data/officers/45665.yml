@@ -129,6 +129,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/26/2025
+  course: PDP2830C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.67'
 - date: 9/25/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'

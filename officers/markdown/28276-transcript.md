@@ -37,9 +37,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/1/2025 | 10/30/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
 | Code of Ethics | Signed | 4/12/2006 |  |
 ## Education
@@ -49,6 +50,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/29/2025 | SVP1984B | WRAP Restraint Application | Passed | 0.0 | 3.00 |
 | 10/29/2025 | SVP1012B | Cell Extraction Procedure | Passed | 0.0 | 1.00 |
 | 10/1/2025 | SVP2079B | BLS CPR  First-Aid Recertification | Passed | 0.0 | 4.00 |

@@ -55,6 +55,7 @@
 | 9/18/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 7/23/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/22/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
+| 7/7/2025 | PDP1147C | 2025 All Sworn Is Taser Training (Video) | Passed | 0.0 | 0.50 |
 | 7/2/2025 | PDP1629B | 2020 City of Portland Bloodborne Pathogens 11/2020 | Passed | 0.0 | 0.75 |
 | 7/1/2025 | PDP3775B | 2020 City of Portland Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 6/30/2025 | PDP1209B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
@@ -65,6 +66,7 @@
 | 6/25/2025 | PDP3218B | 2025 IS ABLE (Video) | Passed | 0.0 | 1.67 |
 | 6/25/2025 | PDP2677B | 2025 IS Active Threat (Video) | Passed | 0.0 | 1.00 |
 | 6/25/2025 | PDP1894B | OSU SOP009 Modified Duty SOP | Passed | 0.0 | 0.50 |
+| 6/25/2025 | PDP2830C | 2025 IS ABLE (Video) | Passed | 0.0 | 1.67 |
 | 6/23/2025 | PDP0285B | 2025 IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |
 | 6/18/2025 | PDP0687B | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 6/16/2025 | PDP0215B | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

@@ -26,8 +26,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/9/2025 | 5/9/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 1/13/2019 |  |
@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/27/2025 | HBN4189C | Use of Force: Ethical Considerations | Passed | 0.0 | 1.00 |
 | 8/6/2025 | HBN0707B | DTs/Use of Force/Decision Making | Passed | 0.0 | 8.00 |
 | 8/4/2025 | TRN4334B | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |
 | 6/23/2025 | VND1208A | Chrono Practices and Contact Standards | Passed | 0.0 | 1.00 |

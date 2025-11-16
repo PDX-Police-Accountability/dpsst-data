@@ -122,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/8/2025
+  course: CAP1123C
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/23/2025
   course: CAP0707B
   title: Firearms - Patrol Rifle Reloads/Malfunctions

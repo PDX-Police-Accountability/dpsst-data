@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/6/2025
+  course: BVP0140C
+  title: Nov 2025 Night Range 110625
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/3/2025
   course: BVP1519B
   title: Pistol Mounted Optics Course
@@ -74,12 +86,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/14/2025
+  course: BVP0409C
+  title: City of Beaverton Ethics in Policing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/7/2025
   course: BVP3596B
   title: Airway Circulatory Anatomy and Physiology
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/7/2025
+  course: BVP1877C
+  title: Unconscious Bias
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/13/2025
   course: BVP4465A
   title: IST Range February 2025
@@ -155,6 +179,12 @@ training_records:
 - date: 4/18/2024
   course: BVP2006A
   title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/18/2024
+  course: BVP1877C
+  title: Unconscious Bias
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -281,6 +311,12 @@ training_records:
 - date: 4/27/2023
   course: BVP2832
   title: Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/25/2023
+  course: BVP1877C
+  title: Unconscious Bias
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -1955,8 +1991,8 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/18/2024

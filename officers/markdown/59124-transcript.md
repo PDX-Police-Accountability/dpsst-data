@@ -22,8 +22,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 7/18/2025 | 7/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 12/18/2023 |  |
 | Code of Ethics | Law Enforcement Signed | 11/4/2018 |  |
@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/3/2025 | BVP1996C | Nov 2025 Night Range 110325 | Passed | 0.0 | 3.00 |
 | 10/13/2025 | BVP4462B | SFST/Intoxilyzer Refresher 101325 | Passed | 0.0 | 8.00 |
 | 9/25/2025 | BVP1425B | Control Tactics IST 092525 PM | Passed | 0.0 | 3.00 |
 | 8/26/2025 | BVP3127B | August 2025 Range 082625 PM | Passed | 0.0 | 3.00 |
@@ -40,9 +42,11 @@
 | 7/18/2025 | BVP0538B | CPR/AED/First Aid recertification | Passed | 0.0 | 3.00 |
 | 6/24/2025 | BVP0648B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/26/2025 | BVP3480A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |
+| 4/25/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 3/10/2025 | E11BVP22 | FTM Equivalency (Beaverton Police Department) | Completed | 0.0 | 50.00 |
 | 2/21/2025 | BVP1298A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 1/1/2025 | BVP2066B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 1/1/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 12/23/2024 | HBS0656A | 2024 Active Threat | Passed | 0.0 | 9.00 |
 | 11/30/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 11/19/2024 | BVP2322A | Takedowns, Ground Control and Vehicle Extractions | Passed | 0.0 | 5.50 |

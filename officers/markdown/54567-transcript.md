@@ -27,7 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/24/2024 | 4/24/2026 |
 | Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/4/2025 | MLP0745B | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 10/21/2025 | MLP4394B | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 8/25/2025 | MLP3428B | Handgun and Rifle qualifications | Passed | 0.0 | 3.00 |

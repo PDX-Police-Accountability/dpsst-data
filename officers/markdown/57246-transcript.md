@@ -25,8 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 3/5/2025 | 3/5/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
 | Code of Ethics | Signed | 6/14/2017 |  |
@@ -39,8 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/7/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/26/2025 | M32-20A | Armed Parole and Probation Course | Passed | 0.0 | 80.00 |
+| 9/2/2025 | HBN4189C | Use of Force: Ethical Considerations | Passed | 0.0 | 1.00 |
 | 8/15/2025 | HBN0707B | DTs/Use of Force/Decision Making | Passed | 0.0 | 8.00 |
 | 7/17/2025 | HBN3670B | Womens Defensive Tactics Strategies | Passed | 0.0 | 1.00 |
 | 6/20/2025 | HBN0428B | ACAP Training | Passed | 0.0 | 2.00 |

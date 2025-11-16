@@ -101,12 +101,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/31/2025
   course: BVP2066B
   title: Airway Circulatory Anatomy and Physiology
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/30/2025
+  course: BVP0409C
+  title: City of Beaverton Ethics in Policing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/26/2025
   course: BVP0681B
   title: Control Tactics IST 092625 PM
@@ -4723,13 +4735,13 @@ training_records:
   hours: '520.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/31/2024

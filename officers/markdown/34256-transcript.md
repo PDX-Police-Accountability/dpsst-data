@@ -32,8 +32,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Code of Ethics | Signed | 2/27/2003 |  |
 ## Education
@@ -43,7 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2025 | BVP2066B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 10/30/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 9/26/2025 | BVP0681B | Control Tactics IST 092625 PM | Passed | 0.0 | 3.00 |
 | 6/19/2025 | BVP3370B | Range June 2025 | Passed | 0.0 | 3.00 |
 | 5/31/2025 | BVP4152A | Control Tactics / Taser Recertification | Passed | 0.0 | 3.00 |

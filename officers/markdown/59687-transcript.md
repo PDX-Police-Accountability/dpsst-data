@@ -23,7 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 7/10/2024 | 7/10/2026 |
 | Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/7/2025 | WLP0210B | WLPD 3 Day Basic Patrol Rifle Course | Passed | 0.0 | 16.00 |
 | 11/3/2025 | WLP3971B | Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
 | 11/3/2025 | WLP1689B | Duty to Intercede | Passed | 0.0 | 1.00 |

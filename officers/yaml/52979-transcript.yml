@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2025
+  course: VND0423C
+  title: Specialized Investigations (ICAC) and (SUIDS)
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 10/23/2025
   course: PDP3739B
   title: '2025-10 CAO Updates: Disorderly Conduct'

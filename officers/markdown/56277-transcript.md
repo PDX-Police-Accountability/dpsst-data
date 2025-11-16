@@ -49,6 +49,7 @@
 | 9/17/2025 | CAP3698B | Firearms - VCQB | Passed | 0.0 | 4.00 |
 | 8/20/2025 | CAP2891B | Firearms - Injured Shooter - Pistol/Rifle | Passed | 0.0 | 2.00 |
 | 8/8/2025 | CAP3727B | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
+| 8/8/2025 | CAP1123C | Ethics | Passed | 0.0 | 1.00 |
 | 7/23/2025 | CAP0707B | Firearms - Patrol Rifle Reloads/Malfunctions | Passed | 0.0 | 2.00 |
 | 7/9/2025 | CAP0064B | SFST Refresher | Passed | 0.0 | 4.00 |
 | 6/25/2025 | CAP4134B | Active Threat  Building Search | Passed | 0.0 | 2.00 |

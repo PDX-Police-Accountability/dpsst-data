@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/31/2025
   course: PDP1093B
   title: 2025-10 National Incident Based Reporting System
@@ -110,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/10/2025
+  course: PDP2830C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.67'
 - date: 9/24/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
@@ -7101,6 +7113,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/6/2025
@@ -7112,7 +7128,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/21/2010

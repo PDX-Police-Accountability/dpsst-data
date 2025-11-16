@@ -106,6 +106,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/10/2025
+  course: PDP4172C
+  title: 2025 IS Active Threat (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/13/2025
+  course: PDP2830C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.67'
+- date: 8/13/2025
+  course: PDP1147C
+  title: 2025 All Sworn Is Taser Training (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/23/2025
   course: PDP1832B
   title: '2025-7, Legal Updates: Search  Seizure'

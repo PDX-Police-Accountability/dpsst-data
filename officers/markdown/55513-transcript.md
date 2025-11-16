@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2025 | HBS1571C | TNT Firearms  Building Clearing HRT | Passed | 0.0 | 9.00 |
+| 11/5/2025 | BVP4040C | Nov 2025 Night Range 110525 | Passed | 0.0 | 3.00 |
 | 10/10/2025 | BVP1592B | SFST/Intoxilyzer Refresher 101025 | Passed | 0.0 | 8.00 |
 | 10/8/2025 | HBS0579B | TNT Dignitary Protection | Passed | 0.0 | 9.00 |
 | 9/26/2025 | BVP0681B | Control Tactics IST 092625 PM | Passed | 0.0 | 3.00 |
@@ -68,6 +70,7 @@
 | 5/14/2025 | HBS3290B | TNT-Building Search/Cautious Clears/HRT | Passed | 0.0 | 8.00 |
 | 5/13/2025 | HBS1567B | TNT Night Vision Scenarios | Passed | 0.0 | 9.00 |
 | 5/12/2025 | HBS1758B | TNT NVG Range Cautious Clears | Passed | 0.0 | 9.00 |
+| 5/6/2025 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 4/30/2025 | HBS0622B | TNT - Entry Training | Passed | 0.0 | 7.50 |
 | 4/23/2025 | HBS3353B | TNT Range Day | Passed | 0.0 | 7.00 |
 | 4/8/2025 | HBS3906B | TNT - Building Search/Cautious Clears/HRT | Passed | 0.0 | 5.00 |
@@ -91,6 +94,7 @@
 | 9/3/2024 | BVP0595A | August Range 2024 | Passed | 0.0 | 3.00 |
 | 7/10/2024 | BVP2012A | EVOC IST 071024pm | Passed | 0.0 | 3.00 |
 | 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |
+| 5/14/2024 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 5/13/2024 | BVP0993A | AR Cleaning and Maintenance | Passed | 0.0 | 0.45 |
 | 5/8/2024 | AVP4026A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 4/16/2024 | OAC1865A | How to be an Awesome Second in Command | Passed | 0.0 | 1.00 |
@@ -111,6 +115,7 @@
 | 6/10/2023 | BVP2447A | Conflict Simulation June IST | Passed | 0.0 | 2.00 |
 | 6/3/2023 | BVP1383A | EVOC | Passed | 0.0 | 4.50 |
 | 6/3/2023 | BVP2611A | Fireams Qualification June 2023 | Passed | 0.0 | 3.00 |
+| 5/16/2023 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |
 | 4/21/2023 | BVP19724 | SAAM Sexual Assault Investigations and Proccedures | Passed | 0.0 | 0.50 |
 | 4/4/2023 | BVP3077A | April Range 2023 | Passed | 0.0 | 3.00 |

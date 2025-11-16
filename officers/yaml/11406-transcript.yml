@@ -162,6 +162,66 @@ certification_records:
   expiration_date: 3/1/2026
   probation_date: ''
 training_records:
+- date: 11/6/2025
+  course: OAC0563C
+  title: Law Enforcement  Schools
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 11/6/2025
+  course: OAC2601C
+  title: Risk Mitigation Strategies for Small Agencies
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/5/2025
+  course: OAC0557C
+  title: Performance Discussions
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/5/2025
+  course: OAC2624C
+  title: Public Information - What to share and not!
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/5/2025
+  course: OAC3636C
+  title: Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/5/2025
+  course: OAC3284C
+  title: Tools for Small Agencies
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2025
+  course: OAC1474C
+  title: Helping Small Agencies
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/4/2025
+  course: OAC0631C
+  title: NW Accreditation Alliance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2025
+  course: OAC1144C
+  title: Round Table Discussions - Agency Topics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/4/2025
+  course: OAC4381C
+  title: Wellness to Build a Bulletproof Culture
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/8/2025
   course: RRP3588A
   title: OACP ELTS Board Meeting

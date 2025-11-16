@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/22/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 11/7/2025 | PDP3445C | CATO SWAT Commander Course | Passed | 0.0 | 40.00 |
 | 10/27/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/27/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/27/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

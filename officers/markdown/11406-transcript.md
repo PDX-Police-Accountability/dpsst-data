@@ -53,6 +53,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2025 | OAC0563C | Law Enforcement  Schools | Passed | 0.0 | 1.75 |
+| 11/6/2025 | OAC2601C | Risk Mitigation Strategies for Small Agencies | Passed | 0.0 | 1.00 |
+| 11/5/2025 | OAC0557C | Performance Discussions | Passed | 0.0 | 1.50 |
+| 11/5/2025 | OAC2624C | Public Information - What to share and not! | Passed | 0.0 | 1.50 |
+| 11/5/2025 | OAC3636C | Peer Support | Passed | 0.0 | 1.00 |
+| 11/5/2025 | OAC3284C | Tools for Small Agencies | Passed | 0.0 | 1.00 |
+| 11/4/2025 | OAC1474C | Helping Small Agencies | Passed | 0.0 | 0.75 |
+| 11/4/2025 | OAC0631C | NW Accreditation Alliance | Passed | 0.0 | 1.00 |
+| 11/4/2025 | OAC1144C | Round Table Discussions - Agency Topics | Passed | 0.0 | 1.50 |
+| 11/4/2025 | OAC4381C | Wellness to Build a Bulletproof Culture | Passed | 0.0 | 1.50 |
 | 1/8/2025 | RRP3588A | OACP ELTS Board Meeting | Passed | 0.0 | 4.00 |
 | 10/4/2024 | OAC0651A | Organizational Culture  Why Chiefs Fail | Passed | 0.0 | 3.25 |
 | 10/4/2024 | OAC4520A | Shaping Public Safety; Emerging; Legislative | Passed | 0.0 | 2.00 |

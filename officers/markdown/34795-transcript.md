@@ -29,7 +29,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
 | Code of Ethics | Signed | 3/10/2004 |  |
@@ -43,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/3/2025 | WLP3971B | Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
 | 11/3/2025 | WLP1689B | Duty to Intercede | Passed | 0.0 | 1.00 |
 | 10/22/2025 | WLP1529B | Vehicle Extractions | Passed | 0.0 | 2.00 |

@@ -4,7 +4,7 @@
 | name | Orellana, Mitchell J. |
 | dpsst_identifier | 44440 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/6/2025 | Portland Police Bureau | Retired | Detective |  |  |
 | 10/18/2018 | Portland Police Bureau | Promotion | Detective |  |  |
 | 7/8/2004 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/27/2024 | Police Officer | Advanced | Granted | 3/27/2024 |  |  |
-| 6/13/2011 | Police Officer | Intermediate | Granted | 6/13/2011 |  |  |
-| 12/22/2005 | Police Officer | Basic | Granted | 12/22/2005 |  |  |
+| 3/27/2024 | Police Officer | Advanced | Granted | 3/27/2024 | 2/6/2026 |  |
+| 6/13/2011 | Police Officer | Intermediate | Granted | 6/13/2011 | 2/6/2026 |  |
+| 12/22/2005 | Police Officer | Basic | Granted | 12/22/2005 | 2/6/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

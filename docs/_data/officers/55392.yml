@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.67'
+- date: 10/23/2025
+  course: PDP2830C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.67'
 - date: 10/22/2025
   course: PDP1044B
   title: 2025-09 CAO Legal Updates for 2/2025

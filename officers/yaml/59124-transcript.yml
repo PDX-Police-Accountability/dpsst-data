@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/3/2025
+  course: BVP1996C
+  title: Nov 2025 Night Range 110325
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/13/2025
   course: BVP4462B
   title: SFST/Intoxilyzer Refresher 101325
@@ -78,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/25/2025
+  course: BVP0409C
+  title: City of Beaverton Ethics in Policing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/10/2025
   course: E11BVP22
   title: FTM Equivalency (Beaverton Police Department)
@@ -96,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/1/2025
+  course: BVP0409C
+  title: City of Beaverton Ethics in Policing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/23/2024
   course: HBS0656A
   title: 2024 Active Threat
@@ -1117,14 +1141,14 @@ training_records:
   score: '0.0'
   hours: '6.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/18/2025
   expiration_date: 7/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

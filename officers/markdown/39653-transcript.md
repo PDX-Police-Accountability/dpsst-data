@@ -38,6 +38,7 @@
 | 10/13/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/13/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/13/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP2830C | 2025 IS ABLE (Video) | Passed | 0.0 | 1.67 |
 | 10/9/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/9/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/9/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -65,6 +66,8 @@
 | 3/18/2025 | PDP1343A | 2025-1 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 3/15/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 2/18/2025 | PDP3024B | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
+| 2/18/2025 | PDP4006C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
+| 2/12/2025 | PDP1626C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
 | 2/7/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/7/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |
 | 2/7/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

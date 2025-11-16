@@ -171,6 +171,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/7/2025
+  course: PDP1147C
+  title: 2025 All Sworn Is Taser Training (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/2/2025
   course: PDP1629B
   title: 2020 City of Portland Bloodborne Pathogens 11/2020
@@ -231,6 +237,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/25/2025
+  course: PDP2830C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.67'
 - date: 6/23/2025
   course: PDP0285B
   title: 2025 IS Public Order Shields (Video)

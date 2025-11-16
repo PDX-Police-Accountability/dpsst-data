@@ -21,8 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/10/2025 | 5/10/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 9/7/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
 ## Education
@@ -31,10 +32,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/5/2025 | PDP2043B | 2025 All Sworn IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 10/5/2025 | PDP3976B | 2025 All Sworn IS PVO Stop Stick Hyperlink Ext | Passed | 0.0 | 0.75 |
 | 10/5/2025 | PDP0065B | 2025 All Sworn IS ABLE (Video) | Passed | 0.0 | 1.67 |
 | 10/5/2025 | PDP0100B | 2025 All Sworn IS - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
+| 10/5/2025 | PDP2830C | 2025 IS ABLE (Video) | Passed | 0.0 | 1.67 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/3/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 6/30/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
