@@ -154,6 +154,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/28/2025
+  course: BVP3041C
+  title: City of Beaverton Implicit Bias in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 5/27/2025
   course: BVP4453A
   title: Control Tactics / Taser Recertification
@@ -310,6 +316,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/28/2023
+  course: BVP3041C
+  title: City of Beaverton Implicit Bias in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 10/24/2023
   course: BVP4270A
   title: Wellness

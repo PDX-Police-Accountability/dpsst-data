@@ -120,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/1/2025
+  course: BVP3041C
+  title: City of Beaverton Implicit Bias in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/23/2024
   course: HBS0656A
   title: 2024 Active Threat
@@ -258,6 +264,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 12/26/2023
+  course: BVP3041C
+  title: City of Beaverton Implicit Bias in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/16/2023
   course: BVP3343A
   title: Weapons of Mass Destruction

@@ -25,9 +25,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 1/18/2024 | 1/18/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/11/2018 |  |
 ## Education
@@ -40,8 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2025 | HBS1571C | TNT Firearms  Building Clearing HRT | Passed | 0.0 | 9.00 |
 | 11/5/2025 | BVP4040C | Nov 2025 Night Range 110525 | Passed | 0.0 | 3.00 |
+| 11/3/2025 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 10/10/2025 | BVP1592B | SFST/Intoxilyzer Refresher 101025 | Passed | 0.0 | 8.00 |
 | 10/8/2025 | HBS0579B | TNT Dignitary Protection | Passed | 0.0 | 9.00 |
 | 9/26/2025 | BVP0681B | Control Tactics IST 092625 PM | Passed | 0.0 | 3.00 |
@@ -101,6 +103,7 @@
 | 1/26/2024 | BVP4344A | Pistol Mounted Optic Class Day 2 Jan.26 | Passed | 0.0 | 8.00 |
 | 1/19/2024 | BVP3068A | Pistol Mounted Optic Class Day 1  Jan.19 | Passed | 0.0 | 8.00 |
 | 1/18/2024 | BVP4313A | First Aid and Adult Child CPR 11824pm | Passed | 0.0 | 3.00 |
+| 12/25/2023 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 12/6/2023 | OCP0240A | Officer Involved Shooting: A Patrol Level Response | Passed | 0.0 | 4.00 |
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/16/2023 | BVP4077A | Night Range 2023 | Passed | 0.0 | 3.00 |

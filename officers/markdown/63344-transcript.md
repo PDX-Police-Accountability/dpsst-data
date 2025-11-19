@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/13/2025 | SCP0463C | MILO Scenarios | Passed | 0.0 | 1.00 |
 | 10/30/2025 | VRP3980B | Firearms Range and Qualification | Passed | 0.0 | 4.00 |
 | 10/30/2025 | VRP3132B | Taser X7 Recertification | Passed | 0.0 | 2.00 |
 | 10/24/2025 | OSH1973B | ARIDE | Passed | 0.0 | 16.00 |

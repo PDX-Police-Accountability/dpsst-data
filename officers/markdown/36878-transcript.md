@@ -52,6 +52,7 @@
 | 9/12/2025 | BVP2309B | CT IST Instructor Class | Passed | 0.0 | 2.00 |
 | 7/8/2025 | BVP1788B | July 2025 EVOC PIT 070825 AM | Passed | 0.0 | 3.00 |
 | 6/24/2025 | BVP1586B | Range June 2025 | Passed | 0.0 | 3.00 |
+| 5/28/2025 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 5/27/2025 | BVP4453A | Control Tactics / Taser Recertification | Instructed | 0.0 | 3.00 |
 | 5/27/2025 | BVP2589A | Control Tactics / Taser Recertification | Instructed | 0.0 | 3.00 |
 | 5/16/2025 | BVP2825A | Control Tactics / Taser Recertification Instructor | Passed | 0.0 | 3.00 |
@@ -78,6 +79,7 @@
 | 1/19/2024 | BVP3068A | Pistol Mounted Optic Class Day 1  Jan.19 | Passed | 0.0 | 8.00 |
 | 12/18/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2023 | BVP4077A | Night Range 2023 | Passed | 0.0 | 3.00 |
+| 10/28/2023 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 10/24/2023 | BVP4270A | Wellness | Instructed | 0.0 | 4.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

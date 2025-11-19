@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: 2/18/2027
 training_records:
+- date: 10/24/2025
+  course: MNP0799C
+  title: Yamhill County Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/18/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

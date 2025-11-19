@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2025
+  course: MISCMAIN
+  title: 2025 LE Basic 3-Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/12/2025
   course: HBS1571C
   title: TNT Firearms  Building Clearing HRT
@@ -67,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/3/2025
+  course: BVP3041C
+  title: City of Beaverton Implicit Bias in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 10/10/2025
   course: BVP1592B
   title: SFST/Intoxilyzer Refresher 101025
@@ -421,6 +433,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/25/2023
+  course: BVP3041C
+  title: City of Beaverton Implicit Bias in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/6/2023
   course: OCP0240A
   title: 'Officer Involved Shooting: A Patrol Level Response'
@@ -1449,6 +1467,10 @@ training_records:
   hours: '36.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
@@ -1456,10 +1478,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/18/2024
   expiration_date: 1/18/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 2/18/2019

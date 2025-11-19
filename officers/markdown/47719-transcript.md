@@ -24,9 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/19/2024 | 1/19/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 2/8/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,8 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/26/2025 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
+| 10/26/2025 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 10/25/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 10/15/2025 | BVP0251B | SFST/Intoxilyzer Refresher 101525 | Passed | 0.0 | 8.00 |
 | 10/2/2025 | BVP3596B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
@@ -71,6 +73,7 @@
 | 1/10/2024 | BVP3514A | Bike Theft Prevention Reserves | Instructed | 0.0 | 2.00 |
 | 12/20/2023 | HBS2775A | Active Threat | Passed | 0.0 | 9.00 |
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/18/2023 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 11/7/2023 | BVP4077A | Night Range 2023 | Passed | 0.0 | 3.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
 | 10/4/2023 | HBP0749A | Patrol Cyclist Training | Instructed | 0.0 | 8.00 |

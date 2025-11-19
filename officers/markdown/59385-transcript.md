@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 1/5/2026 | 26-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
+| 10/24/2025 | MNP0799C | Yamhill County Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 10/10/2025 | PSU44922 | ALERRT Level 1 Train-the-Trainer recertification | Passed | 0.0 | 40.00 |
 | 9/19/2025 | PSU3264B | Advanced Patrol Tactics | Passed | 0.0 | 8.00 |
 | 9/19/2025 | PSU3494B | DHS_Blue Concern V_DHS_BCATP-2508 | Passed | 0.0 | 6.75 |

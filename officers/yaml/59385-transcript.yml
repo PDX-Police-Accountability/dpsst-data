@@ -61,6 +61,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/24/2025
+  course: MNP0799C
+  title: Yamhill County Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/10/2025
   course: PSU44922
   title: ALERRT Level 1 Train-the-Trainer recertification

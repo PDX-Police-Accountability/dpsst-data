@@ -42,6 +42,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/13/2025
+  course: SCP0463C
+  title: MILO Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/30/2025
   course: VRP3980B
   title: Firearms Range and Qualification

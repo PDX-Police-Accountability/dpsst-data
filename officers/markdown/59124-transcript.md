@@ -47,6 +47,7 @@
 | 2/21/2025 | BVP1298A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 1/1/2025 | BVP2066B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 1/1/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
+| 1/1/2025 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 12/23/2024 | HBS0656A | 2024 Active Threat | Passed | 0.0 | 9.00 |
 | 11/30/2024 | BVP2771A | Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 11/19/2024 | BVP2322A | Takedowns, Ground Control and Vehicle Extractions | Passed | 0.0 | 5.50 |
@@ -70,6 +71,7 @@
 | 3/26/2024 | F6R4290A | LIDAR | Passed | 0.0 | 2.00 |
 | 3/25/2024 | F6R0956A | CORE/RADAR | Passed | 0.0 | 6.00 |
 | 3/14/2024 | REG4012A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 12/26/2023 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 11/16/2023 | BVP3343A | Weapons of Mass Destruction | Passed | 0.0 | 5.00 |
 | 11/9/2023 | BVP2349A | Calls For Service | Passed | 0.0 | 4.50 |
 | 11/8/2023 | BVP1737A | PS Net | Passed | 0.0 | 6.00 |

@@ -21,6 +21,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 11/16/2025 | 11/16/2027 |
 | Certification Cards | First Aid and CPR | 11/18/2023 | 11/18/2025 |
 ## Education
 | date | degree | school | major | hours |
@@ -28,6 +29,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/16/2025 | MNP1083C | WRAP Restraint/SRI Shield | Passed | 0.0 | 1.00 |
+| 11/16/2025 | MNP0633C | EVOC/Vehicle Stops Skills/Scenarios | Passed | 0.0 | 4.00 |
+| 11/16/2025 | MNP3967C | Adult/Child First Aid CPR Recertification | Passed | 0.0 | 1.00 |
 | 8/8/2025 | MNP3620B | Justice: What's the right thing to do? | Passed | 0.0 | 1.00 |
 | 7/24/2025 | MNP3179B | Active Threat training | Passed | 0.0 | 8.50 |
 | 2/22/2025 | MNP1850A | Axon/Taser - End User Annual Recertification | Passed | 0.0 | 2.00 |

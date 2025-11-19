@@ -75,6 +75,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 10/22/2025
+  course: HBP2385C
+  title: Analytics for Patrol
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2025
+  course: HBP3978C
+  title: Fraud Investigations for Patrol
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/16/2025
   course: HBP2984B
   title: Active Shooter Response

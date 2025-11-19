@@ -45,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2025 | BVP2066B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 10/31/2025 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 10/30/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 9/26/2025 | BVP0681B | Control Tactics IST 092625 PM | Passed | 0.0 | 3.00 |
 | 6/19/2025 | BVP3370B | Range June 2025 | Passed | 0.0 | 3.00 |
@@ -73,6 +74,7 @@
 | 1/11/2024 | OAC2104A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
 | 1/11/2024 | OAC2266A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
 | 1/10/2024 | OAC2692A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
+| 12/12/2023 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2023 | BVP4077A | Night Range 2023 | Passed | 0.0 | 3.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |

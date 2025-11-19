@@ -24,9 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/18/2024 | 1/18/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 3/4/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/6/2025 | BVP0140C | Nov 2025 Night Range 110625 | Passed | 0.0 | 3.00 |
 | 10/3/2025 | BVP1519B | Pistol Mounted Optics Course | Passed | 0.0 | 12.00 |
@@ -44,6 +45,7 @@
 | 5/14/2025 | BVP0409C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 4/7/2025 | BVP3596B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 4/7/2025 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |
+| 4/7/2025 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 2/13/2025 | BVP4465A | IST Range February 2025 | Passed | 0.0 | 3.00 |
 | 1/14/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2024 | BVP3633A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -65,6 +67,7 @@
 | 1/11/2024 | BVP2138A | ORAS | Passed | 0.0 | 16.00 |
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/8/2023 | BVP4077A | Night Range 2023 | Passed | 0.0 | 3.00 |
+| 10/25/2023 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
 | 9/7/2023 | BVP1084A | September Range | Passed | 0.0 | 3.00 |
 | 8/17/2023 | BPT3673A | Field Training and Evaluation | Passed | 0.0 | 24.00 |

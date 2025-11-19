@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/1/2025 | HBP4233C | Force Response  Warning Feasibility w/in Case Law | Passed | 0.0 | 2.00 |
 | 10/1/2025 | HBP4276C | Range | Passed | 0.0 | 5.00 |
+| 10/1/2025 | HBP1966C | Analytics for Patrol | Passed | 0.0 | 1.00 |
 | 9/15/2025 | HBP0992B | FTO Academy | Passed | 0.0 | 30.00 |
 | 8/1/2025 | REG2310B | EVO Instructor 1 - Dynamics and Driver Behaviors | Passed | 0.0 | 40.00 |
 | 7/23/2025 | HBP3483B | Active Shooter Response | Passed | 0.0 | 5.50 |
