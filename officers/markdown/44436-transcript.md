@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2025 | PDP1506C | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 11/5/2025 | PDP0530C | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 10/17/2025 | PDP3976B | 2025 All Sworn IS PVO Stop Stick Hyperlink Ext | Passed | 0.0 | 0.75 |
 | 10/17/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/17/2025 | PDP0100B | 2025 All Sworn IS - PVO - Stop Sticks | Passed | 0.0 | 1.00 |

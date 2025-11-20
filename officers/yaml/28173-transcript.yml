@@ -43,12 +43,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2025
+  course: MKL0377C
+  title: DAS - CHRO - Public Records
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2025
+  course: MKL0048C
+  title: DOJ - CVSSD - Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/15/2025
   course: MKL2765B
   title: CAMP Phase IV Regional Training
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 10/14/2025
+  course: MKL3694C
+  title: OLCC - Airway and Circulatory Anatomy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/26/2025
   course: MKL3468B
   title: Introduction to CAMP Phave IV

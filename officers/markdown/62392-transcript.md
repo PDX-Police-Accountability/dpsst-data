@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | PDP2887C | 2025 Field Training Officer (FTO) Certification | Passed | 0.0 | 40.00 |
 | 10/11/2025 | PDP0826B | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 10/11/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 10/11/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

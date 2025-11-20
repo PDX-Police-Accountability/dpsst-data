@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2025 | PDP1942C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 27.00 |
 | 10/27/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/27/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/27/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |

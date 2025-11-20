@@ -17,30 +17,6 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
-- date: 4/26/2024
-  course: CTP3659A
-  title: Firearms Training - Range
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 9/2/2022
-  course: CTP41032
-  title: Firearms Training - Range
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
-- date: 6/17/2022
-  course: CTP17524
-  title: Firearms Training - Range
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 1/28/2022
-  course: CTP00494
-  title: Firearms Training - Range
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 12/31/1901
   course: M10-19A
   title: DPSST Basic Police Course

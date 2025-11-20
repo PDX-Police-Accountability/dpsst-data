@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | PDP2887C | 2025 Field Training Officer (FTO) Certification | Passed | 0.0 | 40.00 |
 | 10/17/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/17/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/17/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

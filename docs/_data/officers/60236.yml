@@ -54,6 +54,60 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 11/14/2025
+  course: HBS2236C
+  title: Recruit-PATROL EVO RADAR/LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/13/2025
+  course: HBS2174C
+  title: Recruit-Defensive Tactics CONSIM
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/13/2025
+  course: HBS0913C
+  title: Recruit-Patrol EVO 5
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/12/2025
+  course: HBS4402C
+  title: Recruit-Defensive Tactics CONSIM
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/12/2025
+  course: HBS0795C
+  title: Recruit-PATROL EVO 4
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/11/2025
+  course: HBS1465C
+  title: Recruit-40MM
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/11/2025
+  course: HBS3423C
+  title: Recruit-Building Search
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/10/2025
+  course: HBS2640C
+  title: Recruit-Off Duty Armed
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/10/2025
+  course: HBS4302C
+  title: Recruit-PATROL EVO 3
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/7/2025
   course: HBS2581C
   title: Recruit-MRE/REGJIN

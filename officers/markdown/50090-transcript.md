@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2025 | PDP3635C | 2025 K-9 (K9) Weekly Training Roster | Passed | 0.0 | 4.50 |
 | 10/9/2025 | PDP3080B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 10/9/2025 | PDP3080B | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.50 |
 | 10/9/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

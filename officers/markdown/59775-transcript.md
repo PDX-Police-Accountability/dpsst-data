@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2025 | PDP1942C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 27.00 |
 | 11/5/2025 | PDP3722C | 2025 Introduction to Interpreting in Policing | Passed | 0.0 | 9.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

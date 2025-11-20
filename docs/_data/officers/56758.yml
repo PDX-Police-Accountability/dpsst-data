@@ -200,6 +200,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '30.00'
+- date: 5/23/2025
+  course: PDP3520C
+  title: 2025-1 All Sworn In-Service CT Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 5/19/2025
   course: PDP1481B
   title: ORS 181A.440 Airways Part 5

@@ -51,6 +51,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2025
+  course: PDP1506C
+  title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 11/5/2025
+  course: PDP0530C
+  title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/17/2025
   course: PDP3976B
   title: 2025 All Sworn IS PVO Stop Stick Hyperlink Ext

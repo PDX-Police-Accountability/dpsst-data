@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2025 | OCP1506C | Search and Seizure | Passed | 0.0 | 0.25 |
 | 11/5/2025 | OCP3759B | S.A.F.E Center Training | Passed | 0.0 | 0.25 |
 | 10/13/2025 | OCP0652B | ADA Compliance and Service Animals | Passed | 0.0 | 0.25 |
 | 10/9/2025 | OCP1442B | 40MM  Pepper Spray | Passed | 0.0 | 1.00 |

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2025 | PDP1942C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 27.00 |
 | 11/4/2025 | PDP2888C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 10/21/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/14/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |

@@ -151,7 +151,6 @@
 | * MISSING | 46433 |  |  |  |  |  | [md](../markdown/46433-transcript.md) - [yaml](../yaml/46433-transcript.yml) |
 | * MISSING | 47553 |  |  |  |  |  | [md](../markdown/47553-transcript.md) - [yaml](../yaml/47553-transcript.yml) |
 | * MISSING | 47557 |  |  |  |  |  | [md](../markdown/47557-transcript.md) - [yaml](../yaml/47557-transcript.yml) |
-| * MISSING | 47777 |  |  |  |  |  | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | * MISSING | 47863 |  |  |  |  |  | [md](../markdown/47863-transcript.md) - [yaml](../yaml/47863-transcript.yml) |
 | * MISSING | 48107 |  |  |  |  |  | [md](../markdown/48107-transcript.md) - [yaml](../yaml/48107-transcript.yml) |
 | * MISSING | 48404 |  |  |  |  |  | [md](../markdown/48404-transcript.md) - [yaml](../yaml/48404-transcript.yml) |
@@ -1437,6 +1436,7 @@
 | Jenkins, Jacob A. | 63659 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-07-26 | [md](../markdown/63659-transcript.md) - [yaml](../yaml/63659-transcript.yml) |
 | Ramos, David N. | 57587 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-03 | [md](../markdown/57587-transcript.md) - [yaml](../yaml/57587-transcript.yml) |
 | Ezell, Christopher D. | 62597 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-08-08 | [md](../markdown/62597-transcript.md) - [yaml](../yaml/62597-transcript.yml) |
+| Mills, Jason E. | 47777 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2023-08-17 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Childers, Kiara J. | 64412 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64412-transcript.md) - [yaml](../yaml/64412-transcript.yml) |
 | Harper, Sydney C. | 64447 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64447-transcript.md) - [yaml](../yaml/64447-transcript.yml) |
 | Vlaski, Marko | 64450 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64450-transcript.md) - [yaml](../yaml/64450-transcript.yml) |

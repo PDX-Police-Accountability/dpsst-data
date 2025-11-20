@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2025 | PDP1506C | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 11/12/2025 | PDP1506C | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
+| 11/5/2025 | PDP0530C | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 10/29/2025 | PDP1839C | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 10/18/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 10/18/2025 | PDP4544B | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 10/18/2025 | PDP2961B | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |

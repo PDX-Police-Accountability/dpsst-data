@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2025 | PDP1942C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 27.00 |
 | 11/6/2025 | PDP3797C | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 10/30/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/7/2025 | PDP3224B | 2025 All Sworn IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |

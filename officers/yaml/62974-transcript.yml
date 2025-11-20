@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2025
+  course: OCP1506C
+  title: Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/5/2025
   course: OCP3759B
   title: S.A.F.E Center Training

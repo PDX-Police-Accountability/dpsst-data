@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2025 | PDP1942C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 27.00 |
 | 10/29/2025 | PDP2985B | 2023 Video Evidence Basics for the Police Invest | Passed | 0.0 | 1.50 |
 | 10/29/2025 | PDP2219B | 2020 Trrng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
 | 10/29/2025 | PDP4473B | After Action Reports PowerPoint (2020) | Passed | 0.0 | 0.50 |

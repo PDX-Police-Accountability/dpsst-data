@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | PDP2887C | 2025 Field Training Officer (FTO) Certification | Passed | 0.0 | 40.00 |
 | 10/17/2025 | PDP0100B | 2025 All Sworn IS - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
 | 10/17/2025 | PDP3976B | 2025 All Sworn IS PVO Stop Stick Hyperlink Ext | Passed | 0.0 | 0.75 |
 | 10/17/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |

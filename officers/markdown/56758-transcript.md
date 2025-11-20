@@ -61,6 +61,7 @@
 | 6/11/2025 | PDP0115A | Air Purifying Respirator and HAZMAT | Instructed | 0.0 | 3.00 |
 | 6/10/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
+| 5/23/2025 | PDP3520C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 2.25 |
 | 5/19/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 5/15/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 5/15/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |

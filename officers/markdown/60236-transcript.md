@@ -35,6 +35,15 @@
 | 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
 | 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 11/14/2025 | HBS2236C | Recruit-PATROL EVO RADAR/LIDAR | Passed | 0.0 | 8.00 |
+| 11/13/2025 | HBS2174C | Recruit-Defensive Tactics CONSIM | Passed | 0.0 | 4.00 |
+| 11/13/2025 | HBS0913C | Recruit-Patrol EVO 5 | Passed | 0.0 | 4.00 |
+| 11/12/2025 | HBS4402C | Recruit-Defensive Tactics CONSIM | Passed | 0.0 | 4.00 |
+| 11/12/2025 | HBS0795C | Recruit-PATROL EVO 4 | Passed | 0.0 | 4.00 |
+| 11/11/2025 | HBS1465C | Recruit-40MM | Passed | 0.0 | 4.00 |
+| 11/11/2025 | HBS3423C | Recruit-Building Search | Passed | 0.0 | 4.00 |
+| 11/10/2025 | HBS2640C | Recruit-Off Duty Armed | Passed | 0.0 | 4.00 |
+| 11/10/2025 | HBS4302C | Recruit-PATROL EVO 3 | Passed | 0.0 | 4.00 |
 | 11/7/2025 | HBS2581C | Recruit-MRE/REGJIN | Passed | 0.0 | 8.00 |
 | 11/6/2025 | HBS0408C | Recruit-Case Law Review | Passed | 0.0 | 1.00 |
 | 11/6/2025 | HBS1098C | Recruit-Defensive Tactics 17 Box Drills | Passed | 0.0 | 3.00 |

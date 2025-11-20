@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2025 | OCP1506C | Search and Seizure | Passed | 0.0 | 0.25 |
 | 10/15/2025 | OCP2319B | 2 Day Basic Rifle | Passed | 0.0 | 4.00 |
 | 10/15/2025 | OCP2319B | 2 Day Basic Rifle | Instructed | 0.0 | 10.00 |
 | 10/13/2025 | OCP0652B | ADA Compliance and Service Animals | Passed | 0.0 | 0.25 |
