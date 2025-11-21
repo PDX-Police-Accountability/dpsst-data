@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | LGS2606C | Legal Update | Passed | 0.0 | 2.00 |
 | 11/7/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/1/2025 | LGS1907B | Crisis Response Course #CITCR101 | Passed | 0.0 | 1.00 |
 | 10/16/2025 | PLS0763B | Firearms Barricade Movement | Passed | 0.0 | 4.00 |

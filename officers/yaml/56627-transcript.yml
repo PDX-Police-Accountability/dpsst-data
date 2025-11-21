@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2025
+  course: SAG2711C
+  title: ICAC 101
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/13/2025
   course: PDP0507B
   title: '2025-9, Legal Updates: State Crimes'

@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | EGP1359C | EVOC Skills/Felony Stop/Vehicle Extraction | Passed | 0.0 | 4.50 |
+| 11/13/2025 | EGP3607C | Firearms: Low-Light/No-Light Shoot | Passed | 0.0 | 3.00 |
 | 10/22/2025 | EGP2744B | SWAT Firearms Qualifications / Skills Refresher | Passed | 0.0 | 8.00 |
 | 10/9/2025 | EGP3943B | DT Taser scenarios | Passed | 0.0 | 3.50 |
 | 10/9/2025 | EGP2280B | Firearms Qualification | Passed | 0.0 | 2.00 |

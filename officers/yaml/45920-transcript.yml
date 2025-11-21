@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2025
+  course: PDP4185C
+  title: Pursuit Dynamics Making Better Decisions in Motion
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/21/2025
   course: PDP2812B
   title: 2025-1 Supervisors In-Service (CIT/MH)

@@ -67,6 +67,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/3/2025
+  course: MLP2455C
+  title: Night Shoot/Qual-Pistol
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/21/2025
   course: MLP4394B
   title: Defensive Tactics

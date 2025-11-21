@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/17/2025 | REG4561B | Active Threat | Passed | 0.0 | 8.00 |
+| 6/17/2025 | REG1608C | Active Threat | Passed | 0.0 | 8.00 |
 | 10/15/2020 | SMP12506 | SWAT VCQB | Passed | 0.0 | 8.00 |
 | 4/13/2020 | PDP11465 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
 | 3/17/2020 | PDP07089 | 2019-12 City Attorney's Legal Updates for 12/2019 | Passed | 0.0 | 0.50 |

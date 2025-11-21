@@ -42,6 +42,7 @@
 | 10/22/2025 | HBP2847C | Range | Passed | 0.0 | 5.00 |
 | 10/22/2025 | HBP2385C | Analytics for Patrol | Passed | 0.0 | 1.00 |
 | 10/22/2025 | HBP3978C | Fraud Investigations for Patrol | Passed | 0.0 | 1.00 |
+| 10/22/2025 | HBP40501 | CoVRT/HPD Gang Update | Passed | 0.0 | 1.00 |
 | 7/16/2025 | HBP2984B | Active Shooter Response | Passed | 0.0 | 5.50 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/8/2025 | HBP2079A | ODT - Patrol Tactics | Passed | 0.0 | 1.00 |

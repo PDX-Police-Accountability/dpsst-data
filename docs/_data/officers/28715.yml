@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/22/2025
+  course: HBP40501
+  title: CoVRT/HPD Gang Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/16/2025
   course: HBP2984B
   title: Active Shooter Response

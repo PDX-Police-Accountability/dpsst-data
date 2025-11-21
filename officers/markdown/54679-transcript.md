@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/3/2025 | MLP2455C | Night Shoot/Qual-Pistol | Passed | 0.0 | 3.00 |
 | 10/21/2025 | MLP4394B | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 9/23/2025 | MLP2071B | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 9/23/2025 | MLP3532B | Implicit Bias | Passed | 0.0 | 1.00 |
