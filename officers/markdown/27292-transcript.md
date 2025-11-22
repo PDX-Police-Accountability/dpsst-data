@@ -35,8 +35,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 11/6/2025 | 11/4/2027 |
 | Code of Ethics | Signed | 7/7/2003 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 10/13/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -46,6 +46,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2025 | PDS0073C | ConSim | Passed | 0.0 | 2.00 |
+| 11/6/2025 | PDS0826C | AIC Manipulation | Passed | 0.0 | 1.00 |
+| 11/6/2025 | PDS2959C | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 11/6/2025 | PDS0497C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 9/30/2025 | PDS3208B | September Crisis Negotiation Team Training | Instructed | 0.0 | 16.00 |
 | 7/22/2025 | PDS2863B | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

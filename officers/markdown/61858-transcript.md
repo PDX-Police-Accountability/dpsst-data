@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 11/13/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/30/2025 | MFN2070B | Substance Use Tx for Marginalized Populations | Passed | 0.0 | 1.00 |
 | 10/30/2025 | MFN2521B | Deep Dive Into Criminogenic Needs | Passed | 0.0 | 2.00 |

@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: EGP3827C
+  title: TCCC Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/19/2025
+  course: EGP1419C
+  title: SWAT Low Light Overland Tactical Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/19/2025
+  course: EGP0682C
+  title: TCCC Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/13/2025
   course: EGP1359C
   title: EVOC Skills/Felony Stop/Vehicle Extraction

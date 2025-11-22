@@ -36,8 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/22/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
-| 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 3/23/2026 | 26-0026 | DPSST Middle Management | Cancelled | 0.0 | 0.00 |
+| 11/10/2025 | 25-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 11/7/2025 | PDP3445C | CATO SWAT Commander Course | Passed | 0.0 | 40.00 |
 | 10/27/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/27/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
@@ -51,7 +51,6 @@
 | 10/14/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/14/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/26/2025 | PDP1105B | NTOA SWAT Command Decision Making/Leadership | Passed | 0.0 | 36.00 |
-| 9/26/2025 | HBP2563B | SWAT Command Decision Making  Leadership | Passed | 0.0 | 40.00 |
 | 9/18/2025 | PDP1917B | SERT Lieutenant Training | Passed | 0.0 | 31.50 |
 | 8/14/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/13/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |

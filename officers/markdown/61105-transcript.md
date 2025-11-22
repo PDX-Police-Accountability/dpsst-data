@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | NGP3330C | Defensive Tactics | Passed | 0.0 | 3.00 |
+| 11/13/2025 | NGP2301C | Taser Recertification | Instructed | 0.0 | 3.00 |
 | 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2025 | NGP4528C | Pistol Mounted Optics transition Course | Passed | 0.0 | 18.00 |
 | 10/16/2025 | SDP0291B | Taser - Instructor Certification Training | Passed | 0.0 | 24.00 |

@@ -123,12 +123,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 9/24/2025
-  course: HBP2981B
-  title: 2025 OPCA Fall Seminar
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
-- date: 9/24/2025
   course: PDP3494B
   title: 2025 OPCA Fall Seminar
   status: Passed

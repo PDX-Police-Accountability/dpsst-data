@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2025 | HBS0266C | InService Session #2 Firearms | Passed | 0.0 | 4.50 |
+| 11/10/2025 | HBS2772C | InService Session #2 Jail Specific | Passed | 0.0 | 4.50 |
 | 10/2/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/1/2025 | HBS3425B | Virtual - Ambush Awareness  Preparation | Passed | 0.0 | 1.00 |
 | 10/1/2025 | HBS4220B | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |

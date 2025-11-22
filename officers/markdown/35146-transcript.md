@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 10/22/2025 | GPN4571B | Defensive tactics | Instructed | 0.0 | 5.00 |
 | 10/21/2025 | GPN2286B | Taser instructor course | Passed | 0.0 | 6.00 |
 | 10/16/2025 | GPN1024B | Taser instructor course - online course | Passed | 0.0 | 5.00 |

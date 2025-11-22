@@ -57,16 +57,16 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 5/22/2026
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 3/23/2026
   course: 26-0026
   title: DPSST Middle Management
-  status: Registered
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+- date: 11/10/2025
+  course: 25-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
   score: '0.0'
   hours: '0.00'
 - date: 11/7/2025
@@ -147,12 +147,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
-- date: 9/26/2025
-  course: HBP2563B
-  title: SWAT Command Decision Making  Leadership
-  status: Passed
-  score: '0.0'
-  hours: '40.00'
 - date: 9/18/2025
   course: PDP1917B
   title: SERT Lieutenant Training

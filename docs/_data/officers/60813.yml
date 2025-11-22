@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/3/2025
+  course: OSH3206C
+  title: Taser 10 User Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/22/2025
   course: OSH2056B
   title: 2nd Trimester Firearms - Rifle

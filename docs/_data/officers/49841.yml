@@ -80,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/13/2025
+  course: PDP3527C
+  title: 2025-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/13/2025
+  course: PDP1829C
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/8/2025
   course: PDP0180B
   title: 2022 DIR 0835.20 Managing Public Spaces

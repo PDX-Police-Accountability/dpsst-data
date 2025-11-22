@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/26/2025
+  course: PDP2735C
+  title: 2025 Standard Field Sobriety Test (SFST) Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/15/2025
   course: PDP3376B
   title: 2025-10 CAO Legal Updates for 3/2025

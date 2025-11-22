@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2025
+  course: NGP3330C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/13/2025
+  course: NGP2301C
+  title: Taser Recertification
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/31/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

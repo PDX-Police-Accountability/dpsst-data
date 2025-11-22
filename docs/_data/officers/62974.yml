@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2025
+  course: OCP2472C
+  title: Low Light Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/17/2025
   course: OCP1506C
   title: Search and Seizure
