@@ -99,6 +99,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: PDP2722C
+  title: 2025 Patrol Rifle Operator's In-Service Day 2
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/30/2025
   course: PDP3739B
   title: '2025-10 CAO Updates: Disorderly Conduct'
@@ -286,8 +292,8 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 4/18/2025
-  course: PDP3198B
-  title: 2025-1 All Sworn In-Service CT Refresher
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.25'
@@ -303,6 +309,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 4/18/2025
+  course: PDP1850C
+  title: 2025-1 All Sworn In-Service CT Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/17/2025
   course: PDP3101B
   title: 2025-1 All Sworn In-Service ABLE Refresher

@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/5/2025 | PDP3722C | 2025 Introduction to Interpreting in Policing | Passed | 0.0 | 9.00 |
+| 10/30/2025 | PDP1175C | 2025 External Training Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 10/17/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/17/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 10/10/2025 | PDP2043B | 2025 All Sworn IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |

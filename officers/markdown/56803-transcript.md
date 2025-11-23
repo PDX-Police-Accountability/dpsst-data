@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/6/2025 | PDP1277C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 10/30/2025 | PDP0733C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 9/26/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |

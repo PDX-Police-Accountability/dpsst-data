@@ -189,8 +189,8 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 5/23/2025
-  course: PDP3198B
-  title: 2025-1 All Sworn In-Service CT Refresher
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.25'
@@ -206,6 +206,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 5/23/2025
+  course: PDP1850C
+  title: 2025-1 All Sworn In-Service CT Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/22/2025
   course: PDP3101B
   title: 2025-1 All Sworn In-Service ABLE Refresher

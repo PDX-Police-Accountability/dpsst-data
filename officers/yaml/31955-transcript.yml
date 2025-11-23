@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: CAP2104C
+  title: Firearms - Night Shoot - Handgun
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/23/2025
   course: CAP2337B
   title: Airways Training Video - Patient Evaluation For LE

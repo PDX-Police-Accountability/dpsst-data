@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2025 | PDP1175C | 2025 External Training Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 10/25/2025 | PDP3224B | 2025 All Sworn IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 10/25/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/25/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

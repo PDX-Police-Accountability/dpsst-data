@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | PDP2722C | 2025 Patrol Rifle Operator's In-Service Day 2 | Passed | 0.0 | 9.00 |
 | 10/15/2025 | SPP3907B | Law Enforcement Drone Association - Fall Conf. | Passed | 0.0 | 8.00 |
 | 9/24/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/12/2025 | PDP1603B | 2025 Western States ORC Training Conference | Passed | 0.0 | 20.75 |

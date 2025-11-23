@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | OCP4054C | OIC - Coordination of Child Abuse Investigations | Passed | 0.0 | 1.00 |
+| 11/19/2025 | OCP1101C | Officer In Charge - Major Crash Investigations | Passed | 0.0 | 1.00 |
 | 11/18/2025 | OCP2472C | Low Light Firearms | Passed | 0.0 | 1.50 |
 | 11/18/2025 | OCP2472C | Low Light Firearms | Instructed | 0.0 | 1.50 |
 | 11/17/2025 | OCP1506C | Search and Seizure | Passed | 0.0 | 0.25 |

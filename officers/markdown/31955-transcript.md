@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | CAP2104C | Firearms - Night Shoot - Handgun | Passed | 0.0 | 2.00 |
 | 10/23/2025 | CAP2337B | Airways Training Video - Patient Evaluation For LE | Passed | 0.0 | 2.00 |
 | 10/22/2025 | CAP3011B | Firearms - Precision Rifle | Passed | 0.0 | 2.00 |
 | 10/8/2025 | CAP1362B | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |

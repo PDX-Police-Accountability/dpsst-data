@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Cancelled | 0.0 | 0.00 |
+| 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/10/2025 | 25-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 11/7/2025 | PDP3445C | CATO SWAT Commander Course | Passed | 0.0 | 40.00 |
 | 10/27/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

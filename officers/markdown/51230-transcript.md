@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/16/2025 | PDP4502B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 10/16/2025 | PDP4502B | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 5.00 |
 | 10/9/2025 | PDP3110B | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

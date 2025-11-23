@@ -30,6 +30,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | CPR | 11/13/2025 | 11/18/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid | 11/14/2024 | 11/14/2026 |
 | Certification Cards | CPR | 11/7/2023 | 11/8/2025 |
@@ -42,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | OCA3728C | Open Source DNA | Passed | 0.0 | 1.00 |
+| 11/13/2025 | LOP2994C | AHA Basic Life Support (CPR/AED) | Passed | 0.0 | 2.00 |
 | 10/30/2025 | LOP2106B | TASER 10 Recertification | Passed | 0.0 | 5.00 |
 | 10/25/2025 | LOP4497B | DOT Hazmat | Passed | 0.0 | 0.75 |
 | 10/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

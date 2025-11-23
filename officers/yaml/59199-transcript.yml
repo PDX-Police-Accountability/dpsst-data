@@ -122,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/26/2025
+  course: REG2216C
+  title: Defensive Tactics Instructor Workshop
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/18/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

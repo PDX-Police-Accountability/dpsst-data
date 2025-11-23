@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 11/17/2025 | Gresham Police Department | Hired | Lieutenant |  |  |
+| 11/14/2025 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 11/29/2021 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 11/7/2021 | OHSU University Police | Resigned | Sergeant |  |  |
 | 3/22/2021 | OHSU University Police | Hired | Sergeant |  |  |

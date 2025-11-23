@@ -28,6 +28,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | CPR | 11/13/2025 | 11/18/2027 |
 | Certification Cards | First Aid and CPR | 4/9/2025 | 4/9/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 12/20/2010 |  |
@@ -38,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | OCA3728C | Open Source DNA | Passed | 0.0 | 1.00 |
+| 11/13/2025 | LOP2994C | AHA Basic Life Support (CPR/AED) | Passed | 0.0 | 2.00 |
 | 10/30/2025 | LOP2106B | TASER 10 Recertification | Passed | 0.0 | 5.00 |
 | 10/25/2025 | LOP4497B | DOT Hazmat | Passed | 0.0 | 0.75 |
 | 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |

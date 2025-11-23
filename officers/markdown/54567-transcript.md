@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | OCA3728C | Open Source DNA | Passed | 0.0 | 1.00 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/10/2025 | MLP2455C | Night Shoot/Qual-Pistol | Instructed | 0.0 | 3.00 |
 | 11/4/2025 | MLP0745B | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |

@@ -15,6 +15,12 @@ employment_records:
   rank: Lieutenant
   classification: ''
   assignment: ''
+- date: 11/14/2025
+  agency: Multnomah County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 11/29/2021
   agency: Multnomah County Sheriff's Office
   action: Hired

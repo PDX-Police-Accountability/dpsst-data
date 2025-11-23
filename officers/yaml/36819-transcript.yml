@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: OCA3728C
+  title: Open Source DNA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/13/2025
+  course: LOP2994C
+  title: AHA Basic Life Support (CPR/AED)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/30/2025
   course: LOP2106B
   title: TASER 10 Recertification
@@ -4027,6 +4039,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: CPR
+  effective_date: 11/13/2025
+  expiration_date: 11/18/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/9/2025

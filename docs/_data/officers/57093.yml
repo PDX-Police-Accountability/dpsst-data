@@ -144,6 +144,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/13/2025
+  course: PDP3590C
+  title: 2025 External Trng Animal Cruelty Investigations
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -205,8 +211,8 @@ training_records:
   score: '0.0'
   hours: '4.50'
 - date: 5/2/2025
-  course: PDP3198B
-  title: 2025-1 All Sworn In-Service CT Refresher
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.25'
@@ -216,6 +222,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 5/2/2025
+  course: PDP1850C
+  title: 2025-1 All Sworn In-Service CT Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/1/2025
   course: PDP2273A
   title: 2025-1 Range Qualification CEW

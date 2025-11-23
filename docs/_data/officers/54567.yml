@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: OCA3728C
+  title: Open Source DNA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/13/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

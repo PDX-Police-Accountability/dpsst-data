@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2025
+  course: LOP2994C
+  title: AHA Basic Life Support (CPR/AED)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/25/2025
   course: LOP4497B
   title: DOT Hazmat
@@ -2998,6 +3004,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: CPR
+  effective_date: 11/13/2025
+  expiration_date: 11/18/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

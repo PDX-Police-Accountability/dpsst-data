@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | OCP4054C | OIC - Coordination of Child Abuse Investigations | Passed | 0.0 | 1.00 |
 | 10/29/2025 | OCP0807B | Adult Learning Concepts for Field Trainers | Passed | 0.0 | 1.00 |
 | 10/29/2025 | OCP0946B | Fall 2025 Field Training Officer Meeting | Passed | 0.0 | 1.00 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Instructed | 0.0 | 4.00 |

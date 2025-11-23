@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/15/2025 | PDP0097B | 2025 ABLE and Procedural Justice Training | Passed | 0.0 | 7.00 |
 | 10/15/2025 | PDP0097B | 2025 ABLE and Procedural Justice Training | Instructed | 0.0 | 7.00 |
