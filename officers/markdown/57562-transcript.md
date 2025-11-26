@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2025 | OCP4190C | Low Light Firearms | Passed | 0.0 | 1.50 |
 | 11/17/2025 | OCP1506C | Search and Seizure | Passed | 0.0 | 0.25 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Passed | 0.0 | 4.00 |
 | 10/9/2025 | OCP1442B | 40MM  Pepper Spray | Passed | 0.0 | 1.00 |

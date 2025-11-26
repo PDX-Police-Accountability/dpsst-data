@@ -28,8 +28,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 3/19/2025 | 3/19/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 3/14/2005 |  |
 ## Education
@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/24/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/23/2025 | APD2348C | Implicit Bias | Passed | 0.0 | 1.00 |
 | 11/6/2025 | APD2605C | Rail Tactics / Active Assailant | Passed | 0.0 | 8.00 |
 | 11/4/2025 | APD3121B | Building Searches / Tactics | Passed | 0.0 | 8.00 |
 | 7/6/2025 | APD3401A | Opioid Crisis: Protecting Our First Responders | Passed | 0.0 | 1.00 |

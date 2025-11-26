@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2025
+  course: OCP4190C
+  title: Low Light Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/19/2025
   course: OCP4054C
   title: OIC - Coordination of Child Abuse Investigations

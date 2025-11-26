@@ -30,12 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 7/28/2025
+- date: 11/14/2025
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
 - date: 7/24/2025
   course: PDP1871B
   title: ICS 200 Basic Inc Command Syst for Init Response

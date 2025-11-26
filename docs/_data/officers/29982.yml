@@ -96,6 +96,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: SVP1956C
+  title: Tactical Combat Casualty Care (TCCC)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/29/2025
   course: SVP3432B
   title: Airborne  Bloodborne Pathogens

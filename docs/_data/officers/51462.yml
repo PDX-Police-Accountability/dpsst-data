@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 11/19/2025
+  course: PDS0065C
+  title: Monthly Reserve Unit Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/6/2025
   course: PDS4238B
   title: Range Qualification

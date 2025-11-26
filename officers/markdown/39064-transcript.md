@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2025 | TDP3932C | Fall/ Low light Firearms Qual and Training | Passed | 0.0 | 4.00 |
 | 10/3/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 8/18/2025 | TDP0954B | Ethical Behavior in Local Govt | Passed | 0.0 | 1.00 |
