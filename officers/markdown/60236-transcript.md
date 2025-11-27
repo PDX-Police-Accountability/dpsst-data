@@ -35,6 +35,14 @@
 | 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
 | 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 11/21/2025 | HBS3994C | Recruit-PATROL- MDT/Geography/Radio | Passed | 0.0 | 6.00 |
+| 11/21/2025 | HBS2877C | Recruit-PATROL - FTEP | Passed | 0.0 | 2.00 |
+| 11/20/2025 | HBS2651C | Recruit-Scenario Day 2 | Passed | 0.0 | 8.00 |
+| 11/19/2025 | HBS1029C | Recruit-Scenario Day 1 | Passed | 0.0 | 8.00 |
+| 11/18/2025 | HBS1757C | Recruit-DT Physical Skills Test | Passed | 0.0 | 4.00 |
+| 11/18/2025 | HBS3229C | Recruit-Emergency Vehicle Operation Test | Passed | 0.0 | 4.00 |
+| 11/17/2025 | HBS2614C | Recruit-Use of Force Test | Passed | 0.0 | 4.00 |
+| 11/17/2025 | HBS0655C | Recruit-Firearms Test | Passed | 0.0 | 4.00 |
 | 11/14/2025 | HBS2236C | Recruit-PATROL EVO RADAR/LIDAR | Passed | 0.0 | 8.00 |
 | 11/13/2025 | HBS2174C | Recruit-Defensive Tactics CONSIM | Passed | 0.0 | 4.00 |
 | 11/13/2025 | HBS0913C | Recruit-Patrol EVO 5 | Passed | 0.0 | 4.00 |

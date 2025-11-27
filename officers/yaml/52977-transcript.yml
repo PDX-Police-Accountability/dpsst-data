@@ -50,6 +50,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/24/2025
+  course: PDP3136C
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/23/2025
+  course: PDP0173C
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/6/2025
   course: PDP3797C
   title: 2025 EAP Annual Member Training

@@ -42,6 +42,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/11/2025
+  course: PDS2218C
+  title: CSU Tactical Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/11/2025
+  course: PDS2501C
+  title: CSU Explosive Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/11/2025
+  course: PDS1203C
+  title: CSU Courtroom Security Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/11/2025
+  course: PDS1850C
+  title: CSU Restraint Chair Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/20/2025
   course: PDS0688B
   title: UNET RANGE QUAL

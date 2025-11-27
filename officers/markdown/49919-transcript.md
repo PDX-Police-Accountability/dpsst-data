@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/22/2025 | Hillsboro Police Department | Return LOA | Police Off |  |  |
 | 8/22/2025 | Hillsboro Police Department | LOA | Police Off |  |  |
 | 11/30/2020 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 11/28/2020 | Portland Police Bureau | Resigned | Police Off |  |  |

@@ -56,6 +56,7 @@
 | 9/17/2025 | RMP3110B | Financial Wellness | Passed | 0.0 | 2.25 |
 | 9/17/2025 | RMP2531B | Building the Resilient Agency | Passed | 0.0 | 1.50 |
 | 9/10/2025 | AVP1649B | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |
+| 9/10/2025 | AVP4578C | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |
 | 8/28/2025 | SVP2985B | LEO Guide E-Bikes  Other Electric Devices | Passed | 0.0 | 1.00 |
 | 8/26/2025 | SVP1735B | Tension to Trust - Stronger Community Relationship | Passed | 0.0 | 1.00 |
 | 8/6/2025 | SVP0247B | Rescue Task Force Intro  Application | Passed | 0.0 | 2.00 |

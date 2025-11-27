@@ -54,6 +54,54 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 11/21/2025
+  course: HBS3994C
+  title: Recruit-PATROL- MDT/Geography/Radio
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/21/2025
+  course: HBS2877C
+  title: Recruit-PATROL - FTEP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/20/2025
+  course: HBS2651C
+  title: Recruit-Scenario Day 2
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/19/2025
+  course: HBS1029C
+  title: Recruit-Scenario Day 1
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/18/2025
+  course: HBS1757C
+  title: Recruit-DT Physical Skills Test
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/18/2025
+  course: HBS3229C
+  title: Recruit-Emergency Vehicle Operation Test
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2025
+  course: HBS2614C
+  title: Recruit-Use of Force Test
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2025
+  course: HBS0655C
+  title: Recruit-Firearms Test
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/14/2025
   course: HBS2236C
   title: Recruit-PATROL EVO RADAR/LIDAR

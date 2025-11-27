@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/23/2025
+  course: PDP0779C
+  title: 2025 Red Dot Sight for Pistol Transition
+  status: Instructed
+  score: '0.0'
+  hours: '27.00'
 - date: 10/18/2025
   course: HSU1020B
   title: 2025 Spring In-Service Firearms

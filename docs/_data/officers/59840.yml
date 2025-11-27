@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2025
+  course: OCS0669C
+  title: Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/29/2025
   course: OCS3377B
   title: LSC/MI Booster

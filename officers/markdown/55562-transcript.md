@@ -33,6 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/11/2025 | PDS2218C | CSU Tactical Medical Training | Passed | 0.0 | 1.00 |
+| 11/11/2025 | PDS2501C | CSU Explosive Training | Passed | 0.0 | 1.00 |
+| 11/11/2025 | PDS1203C | CSU Courtroom Security Training | Passed | 0.0 | 6.00 |
+| 11/11/2025 | PDS1850C | CSU Restraint Chair Training | Passed | 0.0 | 1.00 |
 | 10/20/2025 | PDS0688B | UNET RANGE QUAL | Passed | 0.0 | 8.00 |
 | 8/25/2025 | PDS1396B | AIC Manipulation | Passed | 0.0 | 1.00 |
 | 8/25/2025 | PDS2046B | ConSim | Passed | 0.0 | 2.00 |

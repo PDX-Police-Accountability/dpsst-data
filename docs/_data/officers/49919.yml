@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/22/2025
+  agency: Hillsboro Police Department
+  action: Return LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 8/22/2025
   agency: Hillsboro Police Department
   action: LOA

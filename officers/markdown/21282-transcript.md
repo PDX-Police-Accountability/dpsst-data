@@ -32,7 +32,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 7/10/2024 | 7/10/2026 |
 ## Education
@@ -42,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/11/2025 | WLP3558C | Holds/Restraints: Restraints Demonstration/#102 | Passed | 0.0 | 1.00 |
 | 11/11/2025 | WLP1435C | Holds/Restraints: Restraints Demonstration/#102 | Passed | 0.0 | 1.00 |
 | 11/10/2025 | WLP2748C | Basic Firearm Safety COURSE # FIRE110 | Passed | 0.0 | 1.00 |

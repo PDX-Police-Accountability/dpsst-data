@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2025
+  course: PDS2452C
+  title: Crisis Negotiation Team Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 11/6/2025
   course: PDS0073C
   title: ConSim

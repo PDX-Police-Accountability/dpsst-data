@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2025 | PDS2452C | Crisis Negotiation Team Training | Passed | 0.0 | 20.00 |
 | 11/6/2025 | PDS0073C | ConSim | Passed | 0.0 | 2.00 |
 | 11/6/2025 | PDS0826C | AIC Manipulation | Passed | 0.0 | 1.00 |
 | 11/6/2025 | PDS2959C | CPR-First Aid-AED | Passed | 0.0 | 2.00 |

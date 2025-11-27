@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2025 | OCS4395C | November 2025 New Hire Firearms | Instructed | 0.0 | 20.00 |
+| 11/5/2025 | OCS2855C | 2025 Fall Patrol Rifle | Instructed | 0.0 | 12.00 |
 | 10/31/2025 | OCS1631C | MILO Use of Force Decision Making | Passed | 0.0 | 1.00 |
 | 10/31/2025 | OCS1631C | MILO Use of Force Decision Making | Instructed | 0.0 | 25.00 |
 | 10/14/2025 | OCS1175B | October 2025 CCITF Firearms | Instructed | 0.0 | 3.00 |

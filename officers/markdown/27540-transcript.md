@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/19/2025 | West Linn Police Department | Retired | Chief |  |  |
 | 11/17/2021 | West Linn Police Department | Promotion | Chief |  |  |
 | 4/8/2020 | West Linn Police Department | Reclassed | Actng Chf |  |  |
 | 11/8/2018 | West Linn Police Department | Hired | Captain |  |  |
@@ -23,12 +24,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/8/2018 | Police Officer | Executive | Granted | 8/8/2018 |  |  |
-| 3/8/2018 | Police Officer | Management | Granted | 3/8/2018 |  |  |
-| 12/7/2011 | Police Officer | Supervisory | Granted | 12/7/2011 |  |  |
-| 7/19/2007 | Police Officer | Advanced | Granted | 7/19/2007 |  |  |
-| 7/19/2007 | Police Officer | Intermediate | Granted | 7/19/2007 |  |  |
-| 7/12/1993 | Police Officer | Basic | Granted | 7/12/1993 |  |  |
+| 8/8/2018 | Police Officer | Executive | Granted | 8/8/2018 | 2/19/2026 |  |
+| 3/8/2018 | Police Officer | Management | Granted | 3/8/2018 | 2/19/2026 |  |
+| 12/7/2011 | Police Officer | Supervisory | Granted | 12/7/2011 | 2/19/2026 |  |
+| 7/19/2007 | Police Officer | Advanced | Granted | 7/19/2007 | 2/19/2026 |  |
+| 7/19/2007 | Police Officer | Intermediate | Granted | 7/19/2007 | 2/19/2026 |  |
+| 7/12/1993 | Police Officer | Basic | Granted | 7/12/1993 | 2/19/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

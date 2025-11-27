@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/23/2025 | PDP0779C | 2025 Red Dot Sight for Pistol Transition | Instructed | 0.0 | 27.00 |
 | 10/18/2025 | HSU1020B | 2025 Spring In-Service Firearms | Instructed | 0.0 | 4.00 |
 | 10/13/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/13/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

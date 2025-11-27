@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2025 | PDS2587C | Range Qualification | Instructed | 0.0 | 4.00 |
 | 10/16/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/1/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/30/2025 | PDS4481B | VR ConSim | Instructed | 0.0 | 2.00 |
