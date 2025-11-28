@@ -79,6 +79,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 10/22/2025
+  course: HBS3833C
+  title: TNT Range Day
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/22/2025
+  course: HBS1180C
+  title: TNT-Hostage Rescue
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/10/2025
   course: BVP1592B
   title: SFST/Intoxilyzer Refresher 101025

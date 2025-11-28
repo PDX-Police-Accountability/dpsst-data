@@ -153,6 +153,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/8/2025
+  course: AVP1271C
+  title: Monthly Leadership Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/1/2025
   course: SVP2079B
   title: BLS CPR  First-Aid Recertification

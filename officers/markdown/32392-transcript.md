@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2025 | TGP0251C | Handgun Training | Instructed | 0.0 | 2.50 |
+| 10/24/2025 | TGP0251C | Handgun Training | Passed | 0.0 | 2.50 |
 | 10/3/2025 | TGP0736B | Patrol Rifle Training | Passed | 0.0 | 4.00 |
 | 10/3/2025 | TGP0736B | Patrol Rifle Training | Instructed | 0.0 | 8.00 |
 | 10/3/2025 | TGP1438B | Patrol Rifle School | Instructed | 0.0 | 40.00 |

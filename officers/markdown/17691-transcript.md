@@ -36,8 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2025 | MNS2258C | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 7/15/2025 | MNS3769B | Ethics in the Workplace | Passed | 0.0 | 0.50 |
 | 5/1/2025 | MNS0124A | OLCC Briefing Training | Passed | 0.0 | 0.50 |
+| 3/27/2025 | MNS4572C | Police Ambush Review | Passed | 0.0 | 0.50 |
 | 2/4/2025 | MNS3263A | Low Light Qualification/Training | Passed | 0.0 | 2.50 |
 | 1/29/2025 | VND3653A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 3.00 |
 | 1/29/2025 | VND2461A | CMV Size and Weight Training | Passed | 0.0 | 3.00 |

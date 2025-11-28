@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2025
+  course: PDP2246C
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 11/12/2025
+  course: PDP0220C
+  title: 2025 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/24/2025
   course: PDP3376B
   title: 2025-10 CAO Legal Updates for 3/2025
@@ -248,6 +260,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/25/2025
+  course: PDP0918C
+  title: 2025-1 All Sworn In-Service CT Refresher (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/24/2025
   course: PDP2273A
   title: 2025-1 Range Qualification CEW

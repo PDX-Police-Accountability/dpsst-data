@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2025
+  course: TGP0251C
+  title: Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/24/2025
+  course: TGP0251C
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 10/3/2025
   course: TGP0736B
   title: Patrol Rifle Training

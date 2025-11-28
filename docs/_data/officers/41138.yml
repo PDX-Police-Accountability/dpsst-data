@@ -38,9 +38,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2025
+  course: PDP1789C
+  title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/13/2025
   course: PDP2968C
   title: 2025 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/28/2025
+  course: PDP4574C
+  title: 2025 SERT Training - ITERATION
   status: Passed
   score: '0.0'
   hours: '9.00'
@@ -278,6 +290,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/11/2025
+  course: PDP0918C
+  title: 2025-1 All Sworn In-Service CT Refresher (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/10/2025
   course: PDP3101B
   title: 2025-1 All Sworn In-Service ABLE Refresher

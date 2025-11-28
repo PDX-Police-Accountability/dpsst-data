@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2025
+  course: MNS2258C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/15/2025
   course: MNS3769B
   title: Ethics in the Workplace
@@ -70,6 +76,12 @@ training_records:
 - date: 5/1/2025
   course: MNS0124A
   title: OLCC Briefing Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/27/2025
+  course: MNS4572C
+  title: Police Ambush Review
   status: Passed
   score: '0.0'
   hours: '0.50'

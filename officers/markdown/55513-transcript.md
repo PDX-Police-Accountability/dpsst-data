@@ -44,6 +44,8 @@
 | 11/12/2025 | HBS1571C | TNT Firearms  Building Clearing HRT | Passed | 0.0 | 9.00 |
 | 11/5/2025 | BVP4040C | Nov 2025 Night Range 110525 | Passed | 0.0 | 3.00 |
 | 11/3/2025 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |
+| 10/22/2025 | HBS3833C | TNT Range Day | Passed | 0.0 | 4.00 |
+| 10/22/2025 | HBS1180C | TNT-Hostage Rescue | Passed | 0.0 | 4.00 |
 | 10/10/2025 | BVP1592B | SFST/Intoxilyzer Refresher 101025 | Passed | 0.0 | 8.00 |
 | 10/8/2025 | HBS0579B | TNT Dignitary Protection | Passed | 0.0 | 9.00 |
 | 9/26/2025 | BVP0681B | Control Tactics IST 092625 PM | Passed | 0.0 | 3.00 |

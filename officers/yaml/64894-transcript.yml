@@ -192,6 +192,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/25/2025
+  course: PDP0918C
+  title: 2025-1 All Sworn In-Service CT Refresher (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/24/2025
   course: PDP2273A
   title: 2025-1 Range Qualification CEW

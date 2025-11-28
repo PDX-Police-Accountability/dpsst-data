@@ -134,6 +134,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/3/2025
+  course: PDP2558C
+  title: 2025-1 All Sworn In-Service Active Threat, LRE
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/3/2025
+  course: PDP0918C
+  title: 2025-1 All Sworn In-Service CT Refresher (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2025
+  course: PDP1668C
+  title: 2025-1 All Sworn In-Service CT Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 10/3/2025
+  course: PDP2121C
+  title: 2025-1 All Sworn In-Service PVO
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/2/2025
+  course: PDP4384C
+  title: 2025-1 All Sworn In-Service ABLE Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/2/2025
+  course: PDP0017C
+  title: 2025-1 All Sworn In-Service Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/2/2025
+  course: PDP0355C
+  title: 2025-1 All Sworn In-Service Intro to Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/2/2025
+  course: PDP1443C
+  title: 2025-1 All Sworn In-Service Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 9/10/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop

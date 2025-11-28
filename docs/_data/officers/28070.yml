@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/18/2025
+  course: MNS2258C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/18/2025
+  course: MNS1364C
+  title: Firearms Qualification and Skill Builder
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/17/2025
   course: MNS3769B
   title: Ethics in the Workplace
