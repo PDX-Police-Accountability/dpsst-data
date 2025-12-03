@@ -54,6 +54,30 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 11/24/2025
+  course: HBS0044C
+  title: Recruit-IS700  NIMS, An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/24/2025
+  course: HBS4351C
+  title: Recruit-IS800 Nat'l Response, An Intro
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/24/2025
+  course: HBS1713C
+  title: Recruit-ICS100/IS An Intro To ICS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/24/2025
+  course: HBS1531C
+  title: Recruit-ICS200  Basic ICS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/21/2025
   course: HBS3994C
   title: Recruit-PATROL- MDT/Geography/Radio

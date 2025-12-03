@@ -43,7 +43,6 @@
 | 7/7/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 7/2/2025 | PDP1668B | 2025 AR-15 Operators In-Service Training (1-Day) | Passed | 0.0 | 10.00 |
 | 7/2/2025 | PDP1793B | 2025-2 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
-| 6/27/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 6/27/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 6/27/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 6/27/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |

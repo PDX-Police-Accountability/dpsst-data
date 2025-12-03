@@ -82,19 +82,40 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 2/5/2024
+- status_date: 11/12/2025
+  certificate: Police Officer
+  level: Advanced
+  status: Lapsed
+  certificate_date: 10/15/2002
+  expiration_date: 8/12/2030
+  probation_date: ''
+- status_date: 11/12/2025
+  certificate: Police Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 7/12/2000
+  expiration_date: 8/12/2030
+  probation_date: ''
+- status_date: 11/12/2025
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 7/2/2001
+  expiration_date: 8/12/2030
+  probation_date: ''
+- status_date: 11/12/2025
   certificate: Police Officer
   level: Management
-  status: Granted
+  status: Lapsed
   certificate_date: 2/5/2024
-  expiration_date: 11/12/2025
+  expiration_date: 8/12/2030
   probation_date: ''
-- status_date: 4/26/2021
+- status_date: 11/12/2025
   certificate: Police Officer
   level: Supervisory
-  status: Granted
+  status: Lapsed
   certificate_date: 4/26/2021
-  expiration_date: 11/12/2025
+  expiration_date: 8/12/2030
   probation_date: ''
 - status_date: 8/1/2019
   certificate: Instructor
@@ -102,27 +123,6 @@ certification_records:
   status: Expired
   certificate_date: 3/24/2017
   expiration_date: ''
-  probation_date: ''
-- status_date: 10/15/2002
-  certificate: Police Officer
-  level: Advanced
-  status: Granted
-  certificate_date: 10/15/2002
-  expiration_date: 11/12/2025
-  probation_date: ''
-- status_date: 7/2/2001
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 7/2/2001
-  expiration_date: 11/12/2025
-  probation_date: ''
-- status_date: 7/12/2000
-  certificate: Police Officer
-  level: Basic
-  status: Granted
-  certificate_date: 7/12/2000
-  expiration_date: 11/12/2025
   probation_date: ''
 training_records:
 - date: 8/7/2025
@@ -143,12 +143,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 6/20/2025
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.25'
 - date: 6/20/2025
   course: PDP0957B
   title: 2025-1 All Sworn In-Service Active Threat, LRE

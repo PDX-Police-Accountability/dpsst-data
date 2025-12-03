@@ -39,9 +39,7 @@
 | 10/17/2025 | GSP2564C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 10/16/2025 | GSP3992C | SWAT Practical | Passed | 0.0 | 10.00 |
 | 10/15/2025 | GSP4095B | SWAT Training | Instructed | 0.0 | 10.00 |
-| 10/2/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 10/2/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
-| 10/1/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 10/1/2025 | GSP1472B | 2025 Language Line Refresher Training | Passed | 0.0 | 0.50 |
 | 10/1/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 9/28/2025 | GSP0359B | Rifle In-service Training | Instructed | 0.0 | 10.00 |

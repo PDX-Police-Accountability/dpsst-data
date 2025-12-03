@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2025 | BPT1092C | Use of Force Scenario Instructor Workshop | Passed | 0.0 | 15.00 |
 | 1/17/2023 | BPT25732 | Behavioral Health APT In-Service Training | Passed | 0.0 | 7.00 |
 | 1/22/2020 | F6D36023 | Basic Failitator Development Course | Passed | 0.0 | 10.00 |
 | 1/22/2020 | F6D03104 | Basic Facilitator Development Course | Passed | 0.0 | 10.00 |

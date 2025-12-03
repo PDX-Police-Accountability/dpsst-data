@@ -23,7 +23,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 11/13/2023 |  |
-| Certification Cards | First Aid and CPR | 11/8/2023 | 11/8/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -44,7 +43,6 @@
 | 4/6/2025 | PDP4404B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/6/2025 | PDP2347B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 3/28/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
-| 3/28/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 3/28/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 3/28/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 3/28/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |

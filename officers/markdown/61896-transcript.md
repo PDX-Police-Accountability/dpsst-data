@@ -59,7 +59,6 @@
 | 7/20/2025 | PDP3845B | 2025 Dialogue Training Class | Passed | 0.0 | 36.00 |
 | 6/16/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/23/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
-| 5/23/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 5/23/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 5/23/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 5/23/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |

@@ -192,12 +192,6 @@ training_records:
   score: '0.0'
   hours: '24.00'
 - date: 3/28/2025
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.25'
-- date: 3/28/2025
   course: PDP0957B
   title: 2025-1 All Sworn In-Service Active Threat, LRE
   status: Passed

@@ -54,7 +54,6 @@
 | 3/23/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/14/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 3/14/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
-| 3/14/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 3/14/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 3/14/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |
 | 3/13/2025 | PDP2171A | 2025 Sworn In-Service Axon Annual Oper Update | Passed | 0.0 | 0.75 |

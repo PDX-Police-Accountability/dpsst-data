@@ -41,7 +41,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 10/1/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 10/1/2025 | GSP1472B | 2025 Language Line Refresher Training | Passed | 0.0 | 0.50 |
 | 10/1/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 9/25/2025 | HBS4511B | Building Bridges 2025 | Passed | 0.0 | 5.50 |

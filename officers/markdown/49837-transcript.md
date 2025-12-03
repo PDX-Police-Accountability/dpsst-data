@@ -78,7 +78,6 @@
 | 3/31/2025 | PDP2645A | 2025-2 City Att Legal Updates Dec 2023-Feb 2024 | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/21/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
-| 3/21/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 3/21/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 3/21/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 3/21/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |

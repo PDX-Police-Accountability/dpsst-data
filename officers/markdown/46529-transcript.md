@@ -57,7 +57,6 @@
 | 7/27/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/25/2025 | PDP0676B | 2025 Advanced Shotgun Operator In-Service | Instructed | 0.0 | 10.00 |
 | 7/12/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
-| 6/27/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 6/27/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 6/27/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 6/27/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |

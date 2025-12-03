@@ -35,6 +35,10 @@
 | 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
 | 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 11/24/2025 | HBS0044C | Recruit-IS700  NIMS, An Introduction | Passed | 0.0 | 1.25 |
+| 11/24/2025 | HBS4351C | Recruit-IS800 Nat'l Response, An Intro | Passed | 0.0 | 1.25 |
+| 11/24/2025 | HBS1713C | Recruit-ICS100/IS An Intro To ICS | Passed | 0.0 | 2.00 |
+| 11/24/2025 | HBS1531C | Recruit-ICS200  Basic ICS | Passed | 0.0 | 2.00 |
 | 11/21/2025 | HBS3994C | Recruit-PATROL- MDT/Geography/Radio | Passed | 0.0 | 6.00 |
 | 11/21/2025 | HBS2877C | Recruit-PATROL - FTEP | Passed | 0.0 | 2.00 |
 | 11/20/2025 | HBS2651C | Recruit-Scenario Day 2 | Passed | 0.0 | 8.00 |

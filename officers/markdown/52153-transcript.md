@@ -52,7 +52,6 @@
 | 7/10/2025 | PDP4454B | 2025 ONEA Training Institute | Passed | 0.0 | 24.00 |
 | 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/9/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
-| 5/9/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 5/9/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 5/9/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 5/9/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |

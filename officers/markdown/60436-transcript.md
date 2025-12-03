@@ -47,7 +47,6 @@
 | 10/29/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/10/2025 | PDP1172B | 2025 Control Tactics  Elevated Risk Traffic Stops | Passed | 0.0 | 6.00 |
 | 8/28/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
-| 8/22/2025 | PDP3790B | California Gang Investigators Association | Passed | 0.0 | 32.75 |
 | 8/22/2025 | PDP2173B | California Gang Investigators Association | Passed | 0.0 | 32.75 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/30/2025 | PDP3721B | 2025 Patrol Rifle Instructors IS Scenarios | Passed | 0.0 | 9.00 |
@@ -74,7 +73,6 @@
 | 3/29/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 3/27/2025 | PDP1069A | 2025 SERT Training - Iteration | Passed | 0.0 | 8.00 |
 | 3/21/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
-| 3/21/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 3/21/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 3/21/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 3/21/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |

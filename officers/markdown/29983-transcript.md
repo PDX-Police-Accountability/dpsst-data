@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2025 | APD2038C | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
+| 11/25/2025 | APD0881C | Interacting w/ the Mentally Ill as 1st Responder | Passed | 0.0 | 1.00 |
 | 11/24/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/23/2025 | APD2348C | Implicit Bias | Passed | 0.0 | 1.00 |
 | 11/6/2025 | APD2605C | Rail Tactics / Active Assailant | Passed | 0.0 | 8.00 |
@@ -56,6 +58,7 @@
 | 12/24/2024 | APD1829A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/6/2024 | APD0128A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/28/2024 | APD2076A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.50 |
+| 11/26/2024 | APD0102C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/14/2024 | APD0064A | Pistol Qualification | Passed | 0.0 | 8.00 |
 | 4/12/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/10/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

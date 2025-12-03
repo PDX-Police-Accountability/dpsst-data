@@ -50,12 +50,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 11/19/2025
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 11/19/2025
   course: MFN0495C
   title: Golden Rule Re-entry
   status: Passed
@@ -1136,10 +1130,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/5/2024
   expiration_date: 6/1/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/26/2022

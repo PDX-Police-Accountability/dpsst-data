@@ -45,7 +45,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/30/2025 | BNS3127C | DCSO Policies: 4.41 and 5.14 | Passed | 0.0 | 1.00 |
 | 11/23/2025 | BNS0202C | DCSO Policies: 4.10 Evidence, 4.34 Social Media | Passed | 0.0 | 1.00 |
+| 11/2/2025 | BNS1694C | (Police1) Implicit Bias | Passed | 0.0 | 1.00 |
 | 10/15/2025 | BNS4407B | Annual Pepperball Refresher | Instructed | 0.0 | 2.00 |
 | 9/29/2025 | BNS1290B | Vehicle Close Quarters Battle (VCQB) | Instructed | 0.0 | 1.50 |
 | 9/3/2025 | BNS2860B | Firearms | Passed | 0.0 | 4.00 |

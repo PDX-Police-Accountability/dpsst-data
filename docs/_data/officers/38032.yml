@@ -69,6 +69,12 @@ certification_records:
   expiration_date: 11/19/2029
   probation_date: ''
 training_records:
+- date: 11/24/2025
+  course: BPT1519C
+  title: Skill Instructor Updates
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/11/2025
   course: REG2387B
   title: Use of Force Instructor Development Course

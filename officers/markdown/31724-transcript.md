@@ -43,6 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2025 | BNS3328C | SFST Refresher/DUII Wet Lab | Passed | 0.0 | 4.00 |
+| 11/2/2025 | BNS1694C | (Police1) Implicit Bias | Passed | 0.0 | 1.00 |
+| 11/1/2025 | BNS0095C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 9/3/2025 | BNS2860B | Firearms | Passed | 0.0 | 4.00 |
 | 9/3/2025 | BNS0086B | 40MM | Passed | 0.0 | 4.00 |
 | 9/3/2025 | BNS3525B | Pepperball | Passed | 0.0 | 4.00 |

@@ -57,7 +57,6 @@
 | 5/15/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/23/2025 | PDP0608A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/18/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
-| 4/18/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 4/18/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 4/18/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 4/18/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |

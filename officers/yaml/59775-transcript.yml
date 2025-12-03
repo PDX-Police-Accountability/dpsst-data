@@ -98,12 +98,6 @@ training_records:
   score: '0.0'
   hours: '2.25'
 - date: 6/27/2025
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.25'
-- date: 6/27/2025
   course: PDP1850C
   title: 2025-1 All Sworn In-Service CT Refresher
   status: Passed

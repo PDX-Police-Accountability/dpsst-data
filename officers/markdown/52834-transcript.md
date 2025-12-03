@@ -45,16 +45,11 @@
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/25/2025 | OCS2862B | Negotiation debfrief and Negotiating with Veterans | Passed | 0.0 | 4.00 |
 | 9/25/2025 | OCS33555 | Intelligence and LRAD Training | Passed | 0.0 | 4.00 |
-| 9/25/2025 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 9/25/2025 | XDELETE6 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 9/24/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 9/24/2025 | OCS3094B | CCSO SWAT / CNT - Scenario Training | Passed | 0.0 | 9.00 |
-| 9/23/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 9/23/2025 | OCS0986B | CCSO CNT Scenario Training | Passed | 0.0 | 4.00 |
 | 9/15/2025 | OCS0409B | ConSims | Passed | 0.0 | 1.00 |
 | 9/1/2025 | OCS1823B | ACAP training | Passed | 0.0 | 2.00 |
 | 8/22/2025 | OCS3533B | Holster Speed / Marksmanship | Passed | 0.0 | 1.00 |
-| 8/15/2025 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 8/15/2025 | OCS2051B | 2025 CNT LRAD training | Passed | 0.0 | 3.00 |
 | 8/13/2025 | OCS0877B | De-escalation | Passed | 0.0 | 1.00 |
 | 7/15/2025 | OCS3139B | Suspect Escort and Control | Passed | 0.0 | 1.00 |

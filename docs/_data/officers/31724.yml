@@ -107,6 +107,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/10/2025
+  course: BNS3328C
+  title: SFST Refresher/DUII Wet Lab
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/2/2025
+  course: BNS1694C
+  title: "(Police1) Implicit Bias"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2025
+  course: BNS0095C
+  title: "(Police1) Foundations in Ethic for LE"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/3/2025
   course: BNS2860B
   title: Firearms

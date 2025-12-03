@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/24/2025 | BPT1519C | Skill Instructor Updates | Passed | 0.0 | 8.00 |
 | 7/11/2025 | REG2387B | Use of Force Instructor Development Course | Passed | 0.0 | 40.00 |
 | 2/26/2025 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
 | 10/9/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |

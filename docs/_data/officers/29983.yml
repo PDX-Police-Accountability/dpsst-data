@@ -76,6 +76,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/25/2025
+  course: APD2038C
+  title: Foundations in Ethics for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/25/2025
+  course: APD0881C
+  title: Interacting w/ the Mentally Ill as 1st Responder
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/24/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -178,6 +190,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 11/26/2024
+  course: APD0102C
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/14/2024
   course: APD0064A
   title: Pistol Qualification

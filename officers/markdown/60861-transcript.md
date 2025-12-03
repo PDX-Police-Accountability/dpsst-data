@@ -31,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2025 | BNS3328C | SFST Refresher/DUII Wet Lab | Passed | 0.0 | 4.00 |
+| 11/1/2025 | BNS0095C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 10/23/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
 | 10/17/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
@@ -65,7 +67,6 @@
 | 4/3/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/2/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 3/28/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
-| 3/28/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 3/28/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 3/28/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 3/28/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |

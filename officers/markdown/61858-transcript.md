@@ -27,7 +27,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 6/5/2024 | 6/1/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 3/28/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 5/30/2021 |  |
@@ -38,7 +37,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/19/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 11/19/2025 | MFN0495C | Golden Rule Re-entry | Passed | 0.0 | 0.50 |
 | 11/13/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/30/2025 | MFN2070B | Substance Use Tx for Marginalized Populations | Passed | 0.0 | 1.00 |

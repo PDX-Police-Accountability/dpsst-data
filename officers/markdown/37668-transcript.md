@@ -27,12 +27,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/5/2024 | Police Officer | Management | Granted | 2/5/2024 | 11/12/2025 |  |
-| 4/26/2021 | Police Officer | Supervisory | Granted | 4/26/2021 | 11/12/2025 |  |
+| 11/12/2025 | Police Officer | Advanced | Lapsed | 10/15/2002 | 8/12/2030 |  |
+| 11/12/2025 | Police Officer | Basic | Lapsed | 7/12/2000 | 8/12/2030 |  |
+| 11/12/2025 | Police Officer | Intermediate | Lapsed | 7/2/2001 | 8/12/2030 |  |
+| 11/12/2025 | Police Officer | Management | Lapsed | 2/5/2024 | 8/12/2030 |  |
+| 11/12/2025 | Police Officer | Supervisory | Lapsed | 4/26/2021 | 8/12/2030 |  |
 | 8/1/2019 | Instructor |  | Expired | 3/24/2017 |  |  |
-| 10/15/2002 | Police Officer | Advanced | Granted | 10/15/2002 | 11/12/2025 |  |
-| 7/2/2001 | Police Officer | Intermediate | Granted | 7/2/2001 | 11/12/2025 |  |
-| 7/12/2000 | Police Officer | Basic | Granted | 7/12/2000 | 11/12/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -52,7 +52,6 @@
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/24/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/24/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
-| 6/20/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.25 |
 | 6/20/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 6/20/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 6/20/2025 | PDP1850C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |

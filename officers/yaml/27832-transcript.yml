@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/25/2025
+  course: BPT1092C
+  title: Use of Force Scenario Instructor Workshop
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 1/17/2023
   course: BPT25732
   title: Behavioral Health APT In-Service Training
