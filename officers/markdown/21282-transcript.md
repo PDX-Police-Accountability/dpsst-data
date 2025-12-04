@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/25/2025 | West Linn Police Department | Retired | Sergeant |  |  |
 | 1/11/2017 | West Linn Police Department | Promotion | Sergeant |  |  |
 | 11/23/2015 | West Linn Police Department | Hired | Police Off |  |  |
 | 11/20/2015 | Portland Police Bureau | Retired | Police Off |  |  |
@@ -25,10 +26,10 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 2/15/2020 | Corrections Officer | Basic | Expired | 8/2/1989 |  |  |
-| 5/24/2018 | Police Officer | Supervisory | Granted | 5/24/2018 |  |  |
-| 10/30/2000 | Police Officer | Advanced | Granted | 10/30/2000 |  |  |
-| 9/10/1991 | Police Officer | Intermediate | Granted | 9/10/1991 |  |  |
-| 4/8/1991 | Police Officer | Basic | Granted | 4/8/1991 |  |  |
+| 5/24/2018 | Police Officer | Supervisory | Granted | 5/24/2018 | 2/25/2026 |  |
+| 10/30/2000 | Police Officer | Advanced | Granted | 10/30/2000 | 2/25/2026 |  |
+| 9/10/1991 | Police Officer | Intermediate | Granted | 9/10/1991 | 2/25/2026 |  |
+| 4/8/1991 | Police Officer | Basic | Granted | 4/8/1991 | 2/25/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

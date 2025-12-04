@@ -107,6 +107,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/26/2025
+  course: BNS1555C
+  title: "(Police1) Airway Circulatory Anatomy Physiology"
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/10/2025
   course: BNS3328C
   title: SFST Refresher/DUII Wet Lab

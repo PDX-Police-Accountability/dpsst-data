@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2025 | STS4083C | BWC Ethics | Passed | 0.0 | 2.00 |
 | 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/15/2025 | STS0712B | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/24/2025 | STS0586A | First Aid / CPR/ AED | Passed | 0.0 | 4.00 |

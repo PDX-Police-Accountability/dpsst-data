@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2025
+  course: BNP4252C
+  title: SWAT-Hostage Rescue and Building Clearing
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/6/2025
   course: BNP3380B
   title: SWAT-Low light weapon Qualifications

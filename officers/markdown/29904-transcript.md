@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 11/19/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |
 | 10/29/2025 | PDS3585B | Red Dot Firearms | Passed | 0.0 | 24.00 |
 | 10/9/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/8/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |

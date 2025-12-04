@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2025
+  course: PDS4511C
+  title: Use of Force Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/27/2025
   course: PDS1623A
   title: Report Writing

@@ -42,7 +42,7 @@
 | 10/30/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 10/30/2025 | PDP2961B | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 10/30/2025 | PDP4544B | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
-| 10/30/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/30/2025 | PDP2151B | 2025-07 CAO Legal Updates for 1/2025 | Passed | 0.0 | 0.25 |
 | 10/30/2025 | PDP2498B | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
 | 10/30/2025 | PDP0351B | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
 | 10/30/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |

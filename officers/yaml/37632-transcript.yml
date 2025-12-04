@@ -131,9 +131,33 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/13/2025
+  course: PDS3909C
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/9/2025
+  course: PDS4511C
+  title: Use of Force Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/8/2025
   course: PDS4238B
   title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/7/2025
+  course: PDS2001C
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/5/2025
+  course: PDS1470C
+  title: 40mm Less Lethal
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -4584,6 +4608,10 @@ training_records:
   score: '0.0'
   hours: '555.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/7/2025
+  expiration_date: 10/7/2027
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/23/2010

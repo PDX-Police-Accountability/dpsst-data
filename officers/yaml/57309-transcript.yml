@@ -52,6 +52,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 7/14/2025
+  certificate: Police Officer
+  level: Advanced
+  status: Granted
+  certificate_date: 7/14/2025
+  expiration_date: ''
+  probation_date: ''
 - status_date: 7/7/2025
   certificate: Police Officer
   level: Basic
@@ -66,13 +73,6 @@ certification_records:
   certificate_date: 6/27/2022
   expiration_date: ''
   probation_date: ''
-- status_date: 5/20/2025
-  certificate: Police Officer
-  level: Advanced
-  status: App Recd
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 7/1/2026
 training_records:
 - date: 11/5/2025
   course: OCS2855C

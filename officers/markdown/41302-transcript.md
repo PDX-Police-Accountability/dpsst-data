@@ -51,7 +51,7 @@
 | 10/14/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 10/13/2025 | PDP3244B | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
 | 10/13/2025 | PDP0351B | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
-| 10/13/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/13/2025 | PDP2151B | 2025-07 CAO Legal Updates for 1/2025 | Passed | 0.0 | 0.25 |
 | 10/13/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/13/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

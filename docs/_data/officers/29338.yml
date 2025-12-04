@@ -80,6 +80,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/10/2025
+  course: PDS2306C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/10/2025
+  course: PDS3716C
+  title: Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/20/2025
   course: PDS2213B
   title: Range Qualification

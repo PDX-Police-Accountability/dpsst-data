@@ -40,26 +40,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/1/2021
+- status_date: 11/30/2025
   certificate: Corrections Officer
   level: Advanced
-  status: Lapsed
+  status: Expired
   certificate_date: 10/6/2005
-  expiration_date: 11/30/2025
+  expiration_date: ''
   probation_date: ''
-- status_date: 3/1/2021
+- status_date: 11/30/2025
   certificate: Corrections Officer
   level: Basic
-  status: Lapsed
+  status: Expired
   certificate_date: 9/21/1998
-  expiration_date: 11/30/2025
+  expiration_date: ''
   probation_date: ''
-- status_date: 3/1/2021
+- status_date: 11/30/2025
   certificate: Corrections Officer
   level: Intermediate
-  status: Lapsed
+  status: Expired
   certificate_date: 4/8/2002
-  expiration_date: 11/30/2025
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 11/10/2020

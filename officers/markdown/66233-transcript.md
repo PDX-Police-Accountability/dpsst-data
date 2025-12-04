@@ -39,7 +39,7 @@
 | 10/15/2025 | PDP4534B | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP2603B | 2025-07 CAO Legal Updates for 8  9/2024 | Passed | 0.0 | 0.50 |
 | 10/15/2025 | PDP3244B | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
-| 10/15/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP2151B | 2025-07 CAO Legal Updates for 1/2025 | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP1318B | 2025-07 CAO Legal Updates for 7/2024 | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP0486B | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
 | 10/15/2025 | PDP3304B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |

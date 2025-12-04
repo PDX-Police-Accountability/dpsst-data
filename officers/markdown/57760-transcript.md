@@ -47,7 +47,7 @@
 | 10/23/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/23/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
-| 10/22/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/22/2025 | PDP2151B | 2025-07 CAO Legal Updates for 1/2025 | Passed | 0.0 | 0.25 |
 | 10/22/2025 | PDP0351B | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
 | 10/22/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/22/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

@@ -32,6 +32,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/24/2025 | FGP1985C | Balancing Innovation  Ethics: AI's Role | Passed | 0.0 | 1.00 |
+| 11/24/2025 | FGP3422C | Balancing Innovation  Ethics: AI's Role | Passed | 0.0 | 1.25 |
+| 11/5/2025 | FGP1548C | DPSST Legal Updates July/August 2025 | Passed | 0.0 | 1.00 |
 | 10/8/2025 | FGP4284B | Red Dot Transition | Passed | 0.0 | 16.00 |
 | 10/6/2025 | FGP2480B | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/2/2025 | FGP3808B | CPR AED First Aid | Passed | 0.0 | 8.00 |

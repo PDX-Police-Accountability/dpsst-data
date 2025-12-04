@@ -17,7 +17,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/6/2024 | Police Officer | Basic | Required |  |  | 12/6/2025 |
+| 12/2/2025 | Police Officer | Basic | App Recd |  |  | 12/6/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -29,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/6/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/2/2025 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 10/31/2025 | PDP1261B | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/29/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/29/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

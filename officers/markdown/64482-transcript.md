@@ -37,7 +37,7 @@
 | 10/17/2025 | PDP1022B | Annual HRAR 2.04 Gender Identity | Passed | 0.0 | 0.50 |
 | 10/17/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/8/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
-| 10/8/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/8/2025 | PDP2151B | 2025-07 CAO Legal Updates for 1/2025 | Passed | 0.0 | 0.25 |
 | 10/8/2025 | PDP2957B | 2025-3 CAO Legal Updates for 3/2024-6/2024 | Passed | 0.0 | 0.75 |
 | 10/8/2025 | PDP2493B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 10/8/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |

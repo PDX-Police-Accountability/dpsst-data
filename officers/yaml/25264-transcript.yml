@@ -68,15 +68,81 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/25/2025
+  course: PDS2282C
+  title: Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/22/2025
+  course: PDS2306C
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/22/2025
+  course: PDS3716C
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2025
+  course: PDS2306C
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2025
+  course: PDS3716C
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/10/2025
   course: PDS2587C
   title: Range Qualification
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 11/10/2025
+  course: PDS2306C
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/10/2025
+  course: PDS3716C
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/7/2025
+  course: PDS2306C
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/7/2025
+  course: PDS3716C
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/16/2025
   course: PDS4238B
   title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/13/2025
+  course: PDS3909C
+  title: ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/8/2025
+  course: PDS1470C
+  title: 40mm Less Lethal
   status: Passed
   score: '0.0'
   hours: '2.00'

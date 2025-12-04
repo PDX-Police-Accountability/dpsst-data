@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 11/7/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |
 | 10/9/2025 | HDA3167B | Fed  OR Criminal  Civil Forfeiture Training | Passed | 0.0 | 4.00 |
 | 10/6/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/3/2025 | PDS1564B | Taser 7 | Passed | 0.0 | 4.00 |

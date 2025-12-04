@@ -37,7 +37,7 @@
 | 10/22/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/20/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 10/6/2025 | PDP3244B | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
-| 10/6/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/6/2025 | PDP2151B | 2025-07 CAO Legal Updates for 1/2025 | Passed | 0.0 | 0.25 |
 | 10/6/2025 | PDP0351B | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
 | 10/6/2025 | PDP0826B | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

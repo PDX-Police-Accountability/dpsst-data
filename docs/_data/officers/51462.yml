@@ -35,6 +35,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/8/2025
+  course: PDS2306C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/8/2025
+  course: PDS3716C
+  title: Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/6/2025
   course: PDS4238B
   title: Range Qualification

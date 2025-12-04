@@ -38,8 +38,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2025 | PDS2282C | Range Qualification | Instructed | 0.0 | 4.00 |
+| 11/22/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 11/22/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
+| 11/17/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 11/17/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
 | 11/10/2025 | PDS2587C | Range Qualification | Instructed | 0.0 | 4.00 |
+| 11/10/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 11/10/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
+| 11/7/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 11/7/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
 | 10/16/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
+| 10/13/2025 | PDS3909C | ConSim | Instructed | 0.0 | 2.00 |
+| 10/8/2025 | PDS1470C | 40mm Less Lethal | Passed | 0.0 | 2.00 |
 | 10/1/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/30/2025 | PDS4481B | VR ConSim | Instructed | 0.0 | 2.00 |
 | 9/30/2025 | PDS3178B | Taser 7 | Instructed | 0.0 | 4.00 |

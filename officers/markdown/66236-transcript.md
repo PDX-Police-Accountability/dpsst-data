@@ -70,7 +70,7 @@
 | 10/6/2025 | PDP1331B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP0170B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 10/5/2025 | PDP3244B | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
-| 10/5/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/5/2025 | PDP2151B | 2025-07 CAO Legal Updates for 1/2025 | Passed | 0.0 | 0.25 |
 | 10/5/2025 | PDP2498B | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
 | 10/5/2025 | PDP1318B | 2025-07 CAO Legal Updates for 7/2024 | Passed | 0.0 | 0.25 |
 | 10/5/2025 | PDP0351B | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |

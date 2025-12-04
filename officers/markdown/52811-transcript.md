@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 11/21/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
 | 10/29/2025 | PDS3585B | Red Dot Firearms | Instructed | 0.0 | 24.00 |
 | 10/21/2025 | PDS2213B | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/16/2025 | GSP3992C | SWAT Practical | Instructed | 0.0 | 10.00 |

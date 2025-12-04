@@ -110,12 +110,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/26/2025
+  course: BNS1555C
+  title: "(Police1) Airway Circulatory Anatomy Physiology"
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/23/2025
   course: BNS0202C
   title: 'DCSO Policies: 4.10 Evidence, 4.34 Social Media'
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/3/2025
+  course: BNS2450C
+  title: Pepperball Instructor Development Course
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/2/2025
   course: BNS1694C
   title: "(Police1) Implicit Bias"

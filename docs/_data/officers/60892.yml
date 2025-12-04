@@ -43,6 +43,24 @@ certification_records:
   expiration_date: 3/26/2028
   probation_date: ''
 training_records:
+- date: 11/24/2025
+  course: FGP1985C
+  title: 'Balancing Innovation  Ethics: AI''s Role'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/24/2025
+  course: FGP3422C
+  title: 'Balancing Innovation  Ethics: AI''s Role'
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/5/2025
+  course: FGP1548C
+  title: DPSST Legal Updates July/August 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/8/2025
   course: FGP4284B
   title: Red Dot Transition

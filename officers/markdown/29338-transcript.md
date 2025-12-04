@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 11/10/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |
 | 10/20/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/8/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2025 | PDS1113B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |

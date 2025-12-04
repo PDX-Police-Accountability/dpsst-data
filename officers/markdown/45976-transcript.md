@@ -45,7 +45,7 @@
 | 10/18/2025 | PDP4544B | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 10/18/2025 | PDP2961B | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 10/18/2025 | PDP3244B | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
-| 10/18/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/18/2025 | PDP2151B | 2025-07 CAO Legal Updates for 1/2025 | Passed | 0.0 | 0.25 |
 | 10/18/2025 | PDP0826B | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 10/18/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/18/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

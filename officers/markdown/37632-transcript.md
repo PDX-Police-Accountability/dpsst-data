@@ -35,6 +35,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/7/2025 | 10/7/2027 |
 | Code of Ethics | Signed | 3/23/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,7 +49,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/15/2025 | PDS4490B | Mental Health First Aid | Passed | 0.0 | 8.00 |
+| 10/13/2025 | PDS3909C | ConSim | Passed | 0.0 | 2.00 |
+| 10/9/2025 | PDS4511C | Use of Force Report Writing | Passed | 0.0 | 4.00 |
 | 10/8/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
+| 10/7/2025 | PDS2001C | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 10/5/2025 | PDS1470C | 40mm Less Lethal | Passed | 0.0 | 2.00 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/1/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/1/2024 | PDP3714A | 2024-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

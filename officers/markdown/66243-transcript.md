@@ -36,7 +36,7 @@
 | 10/10/2025 | PDP1587B | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 10/10/2025 | PDP2603B | 2025-07 CAO Legal Updates for 8  9/2024 | Passed | 0.0 | 0.50 |
 | 10/10/2025 | PDP3244B | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
-| 10/10/2025 | PDP2151B | 2025-07 CAO Legal Updates for 11/2025 | Passed | 0.0 | 0.25 |
+| 10/10/2025 | PDP2151B | 2025-07 CAO Legal Updates for 1/2025 | Passed | 0.0 | 0.25 |
 | 10/10/2025 | PDP2498B | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
 | 10/10/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/10/2025 | PDP1318B | 2025-07 CAO Legal Updates for 7/2024 | Passed | 0.0 | 0.25 |
