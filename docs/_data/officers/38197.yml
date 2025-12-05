@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/30/2025
+  course: PDP1232C
+  title: 2025 Patrol Rifle Operator's IS Day 2
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/13/2025
   course: PDP2246C
   title: 2025 CNT Crisis Negotiation Team Annual Training

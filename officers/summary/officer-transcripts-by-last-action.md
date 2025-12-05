@@ -679,7 +679,6 @@
 | Harper, Sydney C. | 64447 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64447-transcript.md) - [yaml](../yaml/64447-transcript.yml) |
 | Lee, Martin M. | 64449 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64449-transcript.md) - [yaml](../yaml/64449-transcript.yml) |
 | Vlaski, Marko | 64450 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64450-transcript.md) - [yaml](../yaml/64450-transcript.yml) |
-| Wortman, Travis L. | 64475 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64475-transcript.md) - [yaml](../yaml/64475-transcript.yml) |
 | Cropp, Carson F. | 64482 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64482-transcript.md) - [yaml](../yaml/64482-transcript.yml) |
 | Trujillo, Michael A. | 64588 | Portland Police Bureau | Active | Police Officer | Hired | 2023-10-12 | [md](../markdown/64588-transcript.md) - [yaml](../yaml/64588-transcript.yml) |
 | Randall, David C. | 64594 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64594-transcript.md) - [yaml](../yaml/64594-transcript.yml) |
@@ -826,6 +825,7 @@
 | Miller, Cory G. | 63080 | Portland Police Bureau | Active | Police Officer | LOA | 2025-09-30 | [md](../markdown/63080-transcript.md) - [yaml](../yaml/63080-transcript.yml) |
 | Duque-Valencia, Juan P. | 63086 | Portland Police Bureau | Active | Police Officer | LOA | 2025-06-28 | [md](../markdown/63086-transcript.md) - [yaml](../yaml/63086-transcript.yml) |
 | Epton, Jason A. | 63601 | Portland Police Bureau | Active | Police Officer | LOA | 2025-06-28 | [md](../markdown/63601-transcript.md) - [yaml](../yaml/63601-transcript.yml) |
+| Wortman, Travis L. | 64475 | Portland Police Bureau | Active | Police Officer | LOA | 2025-06-28 | [md](../markdown/64475-transcript.md) - [yaml](../yaml/64475-transcript.yml) |
 | Gherman, Abbel F. | 65334 | Portland Police Bureau | Active | Police Officer | LOA | 2025-04-28 | [md](../markdown/65334-transcript.md) - [yaml](../yaml/65334-transcript.yml) |
 | Silva, Robert B. | 32114 | Portland Police Bureau | Inactive | Civilian Employee | Layoff | 2019-01-28 | [md](../markdown/32114-transcript.md) - [yaml](../yaml/32114-transcript.yml) |
 | Friderich, Lindsay | 38601 | Portland Police Bureau | Inactive | Civilian Employee | Layoff | 2001-07-01 | [md](../markdown/38601-transcript.md) - [yaml](../yaml/38601-transcript.yml) |

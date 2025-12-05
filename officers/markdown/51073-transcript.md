@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2025 | PDP0117C | 2025 Patrol Rifle Operator's IS Day 2 | Passed | 0.0 | 9.00 |
 | 10/31/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/31/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/24/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |

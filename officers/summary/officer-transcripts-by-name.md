@@ -1798,7 +1798,7 @@
 | Wormdahl, Christopher D. | 22864 | Portland Police Bureau | Active | Civilian Employee | Hired | 1992-08-20 | [md](../markdown/22864-transcript.md) - [yaml](../yaml/22864-transcript.yml) |
 | Worthington, Heather D. | 63415 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-05-01 | [md](../markdown/63415-transcript.md) - [yaml](../yaml/63415-transcript.yml) |
 | Worthington, Jason A. | 44630 | Portland Police Bureau | Active | Sergeant | Promotion | 2024-10-10 | [md](../markdown/44630-transcript.md) - [yaml](../yaml/44630-transcript.yml) |
-| Wortman, Travis L. | 64475 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64475-transcript.md) - [yaml](../yaml/64475-transcript.yml) |
+| Wortman, Travis L. | 64475 | Portland Police Bureau | Active | Police Officer | LOA | 2025-06-28 | [md](../markdown/64475-transcript.md) - [yaml](../yaml/64475-transcript.yml) |
 | Wrigley, Brian B. | 51316 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/51316-transcript.md) - [yaml](../yaml/51316-transcript.yml) |
 | Wrigley, Nicole R. | 35113 | Portland Police Bureau | Active | Civilian Employee | Hired | 2003-10-23 | [md](../markdown/35113-transcript.md) - [yaml](../yaml/35113-transcript.yml) |
 | Wu, Jing F. | 63985 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-01-21 | [md](../markdown/63985-transcript.md) - [yaml](../yaml/63985-transcript.yml) |

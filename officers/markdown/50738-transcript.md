@@ -45,6 +45,7 @@
 | 10/21/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP2812B | 2025-1 Supervisors In-Service (CIT/MH) | Passed | 0.0 | 2.00 |
 | 10/15/2025 | PDP3412B | 2025-1 Supervisors In-Service (Leadership) | Passed | 0.0 | 7.00 |
+| 10/15/2025 | PDP2759C | Emotional Intelligence in Law Enforcement | Passed | 0.0 | 1.25 |
 | 10/1/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/1/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/1/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -52,6 +53,7 @@
 | 10/1/2025 | PDP2961B | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 10/1/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/1/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 9/23/2025 | PDP2522C | Why Are Officers Dying in Training | Passed | 0.0 | 2.00 |
 | 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
 | 9/17/2025 | PDP3643B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 8/27/2025 | PDP4014B | Financially Fit: Strategies for Financial Wellness | Passed | 0.0 | 1.00 |

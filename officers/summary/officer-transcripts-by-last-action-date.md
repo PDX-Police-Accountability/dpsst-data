@@ -1443,7 +1443,6 @@
 | Jones, Zachary D. | 64423 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64423-transcript.md) - [yaml](../yaml/64423-transcript.yml) |
 | Swanson, Nathan E. | 64446 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64446-transcript.md) - [yaml](../yaml/64446-transcript.yml) |
 | Lee, Martin M. | 64449 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64449-transcript.md) - [yaml](../yaml/64449-transcript.yml) |
-| Wortman, Travis L. | 64475 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64475-transcript.md) - [yaml](../yaml/64475-transcript.yml) |
 | Cropp, Carson F. | 64482 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64482-transcript.md) - [yaml](../yaml/64482-transcript.yml) |
 | Cox, Joseph M. | 49395 | Portland Police Bureau | Inactive | Detective | Resigned | 2023-08-30 | [md](../markdown/49395-transcript.md) - [yaml](../yaml/49395-transcript.yml) |
 | Sathoff, Christopher J. | 58857 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-08-30 | [md](../markdown/58857-transcript.md) - [yaml](../yaml/58857-transcript.yml) |
@@ -1755,6 +1754,7 @@
 | Birkinbine, John C. | 29351 | Portland Police Bureau | Inactive | Sergeant | Retired | 2025-06-27 | [md](../markdown/29351-transcript.md) - [yaml](../yaml/29351-transcript.yml) |
 | Duque-Valencia, Juan P. | 63086 | Portland Police Bureau | Active | Police Officer | LOA | 2025-06-28 | [md](../markdown/63086-transcript.md) - [yaml](../yaml/63086-transcript.yml) |
 | Epton, Jason A. | 63601 | Portland Police Bureau | Active | Police Officer | LOA | 2025-06-28 | [md](../markdown/63601-transcript.md) - [yaml](../yaml/63601-transcript.yml) |
+| Wortman, Travis L. | 64475 | Portland Police Bureau | Active | Police Officer | LOA | 2025-06-28 | [md](../markdown/64475-transcript.md) - [yaml](../yaml/64475-transcript.yml) |
 | Pena, Camilo | 61887 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-07-05 | [md](../markdown/61887-transcript.md) - [yaml](../yaml/61887-transcript.yml) |
 | Baker, Keenan R. | 63669 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-07-16 | [md](../markdown/63669-transcript.md) - [yaml](../yaml/63669-transcript.yml) |
 | Curtiss, Royce G. | 46427 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-07-17 | [md](../markdown/46427-transcript.md) - [yaml](../yaml/46427-transcript.yml) |

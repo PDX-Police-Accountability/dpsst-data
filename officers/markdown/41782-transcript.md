@@ -49,7 +49,7 @@
 | 10/15/2025 | PDP1093B | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 10/8/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 9/18/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
-| 9/18/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
+| 9/18/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 0.75 |
 | 9/3/2025 | PDP4432B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 9/3/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 9/3/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
@@ -64,6 +64,7 @@
 | 9/3/2025 | PDP0806B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 9/3/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 1/15/2025 | PDP2998B | Winter Commanders Conference 2025 | Passed | 0.0 | 25.50 |
+| 12/31/2024 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 1.50 |
 | 4/30/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/28/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 3/28/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

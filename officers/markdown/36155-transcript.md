@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/30/2025 | PDP1232C | 2025 Patrol Rifle Operator's IS Day 2 | Passed | 0.0 | 9.00 |
 | 10/17/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/17/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 10/14/2025 | PDP2812B | 2025-1 Supervisors In-Service (CIT/MH) | Passed | 0.0 | 2.00 |

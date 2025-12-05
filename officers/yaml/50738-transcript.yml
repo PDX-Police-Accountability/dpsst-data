@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 10/15/2025
+  course: PDP2759C
+  title: Emotional Intelligence in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/1/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training
@@ -146,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/23/2025
+  course: PDP2522C
+  title: Why Are Officers Dying in Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/19/2025
   course: PDP1077B
   title: 2025 SERT Camp Rilea Training

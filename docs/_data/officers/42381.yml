@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2025
+  course: PDP0117C
+  title: 2025 Patrol Rifle Operator's IS Day 2
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/21/2025
   course: PDP0918C
   title: 2025-1 All Sworn In-Service CT Refresher (CIT/MH)
