@@ -29,6 +29,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
+| 11/26/2025 | PDP0971C | 2018 TOD 100% Collection  Submission | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP0713C | 2018-5 TT 100% Collection  Submission | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP4173C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP2974C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 11/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 8/11/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/24/2025 | PDP0680B | IS 700 National Inc Manage System Intro | Passed | 0.0 | 4.00 |

@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/30/2025 | PDP1232C | 2025 Patrol Rifle Operator's IS Day 2 | Passed | 0.0 | 9.00 |
+| 11/23/2025 | PDP1178C | 2023 Video Evidence Basics for the Police Invest | Passed | 0.0 | 1.50 |
 | 11/13/2025 | PDP2246C | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/12/2025 | PDP0220C | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 10/23/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

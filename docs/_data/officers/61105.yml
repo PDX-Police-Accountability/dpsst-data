@@ -55,6 +55,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 11/13/2025
+  course: NGP3709C
+  title: HSI - BLS All Ages First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/31/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -1398,6 +1404,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 11/13/2025
+  expiration_date: 11/30/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/1/2025

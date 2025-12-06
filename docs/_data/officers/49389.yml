@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/6/2025
+  course: PDP3390C
+  title: 2025 All Sworn In-Service ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 10/14/2025
   course: PDP1044B
   title: 2025-09 CAO Legal Updates for 2/2025

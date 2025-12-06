@@ -64,6 +64,7 @@
 | 10/16/2025 | OSH1696B | Defensive Tactics/Taser 2nd Trimester | Passed | 0.0 | 7.00 |
 | 10/9/2025 | OSH2135B | Ethics | Passed | 0.0 | 1.00 |
 | 10/2/2025 | OSH1429C | 3rd Trimester firearms | Passed | 0.0 | 4.00 |
+| 10/2/2025 | OSH4407C | 3rd Trimester firearms | Passed | 0.0 | 4.00 |
 | 7/28/2025 | VND0402B | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 7/24/2025 | OSH1326B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 4.00 |
 | 7/10/2025 | OSH2203B | OSP People in Crisis | Passed | 0.0 | 4.00 |

@@ -26,9 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 3/11/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,9 +37,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
+| 11/15/2025 | OCS3174C | Emotional Intelligence in Law Enforcement | Passed | 0.0 | 3.00 |
 | 11/5/2025 | OCS2855C | 2025 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 10/31/2025 | OCS1631C | MILO Use of Force Decision Making | Passed | 0.0 | 1.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
+| 9/30/2025 | OCS3035C | Ethics | Passed | 0.0 | 1.00 |
 | 9/15/2025 | OCS0409B | ConSims | Passed | 0.0 | 1.00 |
 | 9/1/2025 | OCS1823B | ACAP training | Passed | 0.0 | 2.00 |
 | 8/22/2025 | OCS3533B | Holster Speed / Marksmanship | Passed | 0.0 | 1.00 |

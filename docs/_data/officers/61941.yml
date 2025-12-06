@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/30/2025
+  course: PDP3390C
+  title: 2025 All Sworn In-Service ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 9/22/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'

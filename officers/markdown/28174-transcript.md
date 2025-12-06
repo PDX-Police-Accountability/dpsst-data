@@ -46,6 +46,7 @@
 | 11/20/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 11/20/2025 | PDP0355C | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 11/20/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
+| 11/19/2025 | PDP3255C | 2025 All Sworn IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 10/30/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/30/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/30/2025 | PDP4544B | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |

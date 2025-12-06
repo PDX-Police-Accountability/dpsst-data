@@ -57,6 +57,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: PDP1042C
+  title: 2024-3 Supv In-Service Force Inspector Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/19/2025
+  course: PDP1738C
+  title: 2025 All Sworn IS Public Order Shields (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/19/2025
+  course: PDP3671C
+  title: 2025 All Sworn In-Service Active Threat (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/7/2025
   course: PDP4133C
   title: 2025 External Trng FBI-LEEDA Supervisor Leadership

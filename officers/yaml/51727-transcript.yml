@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: PDP1178C
+  title: 2023 Video Evidence Basics for the Police Invest
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/1/2025
   course: PDP0918C
   title: 2025-1 All Sworn In-Service CT Refresher (CIT/MH)

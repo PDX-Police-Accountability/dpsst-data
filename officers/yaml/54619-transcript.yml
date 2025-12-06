@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2025
+  course: HBP3912C
+  title: ODT - Working from Cleared Areas
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/1/2025
   course: HBP4233C
   title: Force Response  Warning Feasibility w/in Case Law

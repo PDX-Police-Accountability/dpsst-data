@@ -9,12 +9,6 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
-- date: 4/9/2025
-  agency: Portland Police Bureau
-  action: LOA
-  rank: Detective
-  classification: ''
-  assignment: ''
 - date: 7/27/2017
   agency: Portland Police Bureau
   action: Hired

@@ -109,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/30/2025
+  course: OCS3035C
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/23/2025
   course: OCS4279B
   title: Bias part 2 Training

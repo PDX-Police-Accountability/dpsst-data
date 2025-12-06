@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '34619'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Commander
+  rank: Assistant Chief
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/4/2025
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Asst Chief
+  classification: ''
+  assignment: ''
 - date: 1/2/2025
   agency: Portland Police Bureau
   action: Promotion

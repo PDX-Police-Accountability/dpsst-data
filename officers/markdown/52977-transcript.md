@@ -39,6 +39,7 @@
 | 7/17/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 11/24/2025 | PDP3136C | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 11/23/2025 | PDP0173C | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 11/16/2025 | PDP3255C | 2025 All Sworn IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 11/6/2025 | PDP3797C | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 10/31/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 1.00 |
 | 10/31/2025 | PDP2558C | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |

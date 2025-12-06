@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/26/2025 | HBS4044C | TNT-Hostage Rescue | Passed | 0.0 | 6.50 |
 | 11/17/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2025 | HBS1571C | TNT Firearms  Building Clearing HRT | Passed | 0.0 | 9.00 |
 | 11/5/2025 | BVP4040C | Nov 2025 Night Range 110525 | Passed | 0.0 | 3.00 |

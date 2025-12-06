@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | PDP1738C | 2025 All Sworn IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |
+| 11/19/2025 | PDP3390C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
+| 11/19/2025 | PDP3671C | 2025 All Sworn In-Service Active Threat (Video) | Passed | 0.0 | 1.00 |
+| 11/18/2025 | PDP4584C | Report Writing for Use of Force | Passed | 0.0 | 6.00 |
 | 10/24/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/24/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

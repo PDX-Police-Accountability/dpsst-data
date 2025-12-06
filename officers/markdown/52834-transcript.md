@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
 | 10/31/2025 | OCS1631C | MILO Use of Force Decision Making | Passed | 0.0 | 1.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/25/2025 | OCS2862B | Negotiation debfrief and Negotiating with Veterans | Passed | 0.0 | 4.00 |

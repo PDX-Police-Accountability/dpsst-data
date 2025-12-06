@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2025
+  course: PDP3255C
+  title: 2025 All Sworn IS - Axon Annual Operator Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 10/31/2025
   course: PDP0918C
   title: 2025-1 All Sworn In-Service CT Refresher (CIT/MH)

@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2025
+  course: PDP2298C
+  title: 2020 Trng Managing Critical Incidents Well 5/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/13/2025
   course: PDP2968C
   title: 2025 SERT Training - SCENARIO

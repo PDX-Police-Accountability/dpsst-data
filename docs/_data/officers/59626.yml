@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/18/2025
+  agency: Portland Police Bureau
+  action: Retrn MLOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 6/30/2024
   agency: Portland Police Bureau
   action: Mil-LOA
@@ -2460,7 +2466,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024
-  expiration_date: 12/31/2026
+  expiration_date: 12/31/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/5/2020

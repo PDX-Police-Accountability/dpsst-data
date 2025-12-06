@@ -51,6 +51,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/3/2025
+  course: PDP0563C
+  title: 2022 DIR 0650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/3/2025
+  course: PDP4346C
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/3/2025
+  course: PDP3255C
+  title: 2025 All Sworn IS - Axon Annual Operator Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/3/2025
+  course: PDP4560C
+  title: 2025 All Sworn In-Service - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/31/2025
   course: PDP2043B
   title: 2025 All Sworn IS PVO Stop Stick Intro Video

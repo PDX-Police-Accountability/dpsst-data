@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/30/2025 | BVP3983C | Moral Injury: What Is It and What Can We Do? | Passed | 0.0 | 1.00 |
 | 11/17/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/26/2025 | BVP1877C | Unconscious Bias | Passed | 0.0 | 0.50 |

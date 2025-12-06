@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2025 | PDP3255C | 2025 All Sworn IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 11/25/2025 | PDP4560C | 2025 All Sworn In-Service - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
 | 11/19/2025 | PDP2722C | 2025 Patrol Rifle Operator's In-Service Day 2 | Passed | 0.0 | 9.00 |
 | 11/13/2025 | PDP2246C | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/12/2025 | PDP0220C | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

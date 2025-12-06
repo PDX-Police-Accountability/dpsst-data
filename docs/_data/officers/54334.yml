@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2025
+  course: PDP4560C
+  title: 2025 All Sworn In-Service - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/8/2025
   course: PDP1044B
   title: 2025-09 CAO Legal Updates for 2/2025

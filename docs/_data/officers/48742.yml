@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: PDP3255C
+  title: 2025 All Sworn IS - Axon Annual Operator Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/19/2025
+  course: PDP4560C
+  title: 2025 All Sworn In-Service - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/6/2025
   course: PDP3797C
   title: 2025 EAP Annual Member Training

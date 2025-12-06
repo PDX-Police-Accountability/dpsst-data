@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2025 | PDP3671C | 2025 All Sworn In-Service Active Threat (Video) | Passed | 0.0 | 1.00 |
 | 10/31/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 1.00 |
 | 10/31/2025 | PDP1668C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 3.50 |
 | 10/31/2025 | PDP2121C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |

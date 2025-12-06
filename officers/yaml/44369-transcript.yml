@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/3/2025
+  course: OCS3922C
+  title: Below 00
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/10/2025
   course: STP3688C
   title: 40MM Less Lethal and Firearms Training

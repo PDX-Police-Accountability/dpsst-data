@@ -57,6 +57,7 @@
 | 4/24/2025 | OAC3939A | Chaos  Trama of Policing, Recovery  Healing | Passed | 0.0 | 2.00 |
 | 4/23/2025 | GSP0598A | Adult and Child CPR First Aid | Passed | 0.0 | 4.00 |
 | 4/23/2025 | OAC1720A | Critical LE Lessons from Active Shooter Events | Passed | 0.0 | 3.00 |
+| 4/23/2025 | OAC0999C | Critical LE Lessons from Active Shooter Events | Passed | 0.0 | 3.00 |
 | 2/28/2025 | VND4101A | 2025 Case Law/Legal Updates | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND0085A | Top 10 Things to Get You Sued | Passed | 0.0 | 1.00 |
 | 2/27/2025 | VND2709A | COOP Exercises for Disaster Prepardness | Passed | 0.0 | 1.00 |

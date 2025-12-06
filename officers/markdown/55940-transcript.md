@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2025 | PDP3390C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/13/2025 | PDP4384C | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
 | 11/13/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |

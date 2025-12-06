@@ -100,6 +100,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/11/2025
+  course: PDP4300C
+  title: 2024-3 All IS PP Shooting at Moving Vehicle Vid 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/11/2025
+  course: PDP2398C
+  title: 2024-3 All Sworn IS MFF Response to PO Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/11/2025
+  course: PDP3390C
+  title: 2025 All Sworn In-Service ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 10/28/2025
   course: PDP3739B
   title: '2025-10 CAO Updates: Disorderly Conduct'

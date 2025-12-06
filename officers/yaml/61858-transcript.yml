@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/3/2025
+  course: MFN2151C
+  title: Search and Seizure, Ammo/Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/19/2025
   course: MFN0495C
   title: Golden Rule Re-entry

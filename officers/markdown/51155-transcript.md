@@ -39,6 +39,7 @@
 | 11/21/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |
 | 11/21/2025 | PDP1668C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 11/21/2025 | PDP2121C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
+| 11/21/2025 | PDP4560C | 2025 All Sworn In-Service - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
 | 11/20/2025 | PDP4384C | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
 | 11/20/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 11/20/2025 | PDP0355C | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |

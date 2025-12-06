@@ -30,6 +30,90 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/2/2025
+  course: PDP2729C
+  title: Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/6/2025
+  course: PDP0642C
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2025
+  course: PDP0971C
+  title: 2018 TOD 100% Collection  Submission
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2025
+  course: PDP0713C
+  title: 2018-5 TT 100% Collection  Submission
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP3950C
+  title: 2023-4 CAO Legal Updates for 04/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP3968C
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP3227C
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP4252C
+  title: 2024 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/4/2025
+  course: PDP0103C
+  title: 2024 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP3534C
+  title: 2024 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP0033C
+  title: 2024 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP1862C
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP2548C
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP0381C
+  title: 2024-7 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/19/2025
   course: M10-23A
   title: DPSST Basic Police Course

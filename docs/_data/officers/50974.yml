@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/3/2025
+  course: OCP0323C
+  title: Adult / Child CPR First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/26/2025
   course: MISCMAIN
   title: 2025 LE Basic 3-Year Maintenance
@@ -3612,6 +3618,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/3/2025
+  expiration_date: 12/3/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/23/2024

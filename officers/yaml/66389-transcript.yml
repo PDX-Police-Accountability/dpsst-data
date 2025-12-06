@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/2/2025
+  course: PDP2729C
+  title: Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/14/2025
   course: M10-23A
   title: DPSST Basic Police Course

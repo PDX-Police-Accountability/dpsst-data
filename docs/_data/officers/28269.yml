@@ -377,6 +377,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/23/2025
+  course: OAC0999C
+  title: Critical LE Lessons from Active Shooter Events
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/22/2025
   course: RRP3586A
   title: OACP Annual Conference Board Meeting

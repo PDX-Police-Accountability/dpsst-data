@@ -29,6 +29,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 12/3/2025 | 12/3/2027 |
 | Certification Cards | First Aid and CPR | 1/15/2025 | 1/15/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 6/25/2009 |  |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2025 | OCP0323C | Adult / Child CPR First Aid | Passed | 0.0 | 2.00 |
 | 11/20/2025 | OCP4190C | Low Light Firearms | Instructed | 0.0 | 3.00 |
 | 11/19/2025 | OCP4054C | OIC - Coordination of Child Abuse Investigations | Passed | 0.0 | 1.00 |
 | 11/19/2025 | OCP1101C | Officer In Charge - Major Crash Investigations | Passed | 0.0 | 1.00 |

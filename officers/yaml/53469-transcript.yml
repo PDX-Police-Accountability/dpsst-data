@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/29/2025
+  course: OCS2652C
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/15/2025
+  course: OCS3174C
+  title: Emotional Intelligence in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/5/2025
   course: OCS2855C
   title: 2025 Fall Patrol Rifle
@@ -65,6 +77,12 @@ training_records:
 - date: 9/30/2025
   course: OCS3371B
   title: Balance Speed/Marksmanship at distance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2025
+  course: OCS3035C
+  title: Ethics
   status: Passed
   score: '0.0'
   hours: '1.00'

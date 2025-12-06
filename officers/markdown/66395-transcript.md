@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
 | 11/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 7/24/2025 | PDP1871B | ICS 200 Basic Inc Command Syst for Init Response | Passed | 0.0 | 4.00 |
 | 7/23/2025 | PDP1036B | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |

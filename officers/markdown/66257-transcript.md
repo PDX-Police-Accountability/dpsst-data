@@ -29,6 +29,20 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
+| 11/6/2025 | PDP0642C | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 11/5/2025 | PDP0971C | 2018 TOD 100% Collection  Submission | Passed | 0.0 | 0.25 |
+| 11/5/2025 | PDP0713C | 2018-5 TT 100% Collection  Submission | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP3950C | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP3968C | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP3227C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP4252C | 2024 Lead Exposure Training | Passed | 0.0 | 0.75 |
+| 11/4/2025 | PDP0103C | 2024 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP3534C | 2024 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP0033C | 2024 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP1862C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP2548C | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP0381C | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 9/19/2025 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 8/27/2025 | REG1368B | SFST-DID (Hours included in BASIC) | Passed | 0.0 | 0.00 |
 | 8/7/2025 | REG1645B | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

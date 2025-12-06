@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2025
+  course: PDP2942C
+  title: 2020 Supervisor IS Crime Scene Management Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/27/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training

@@ -28,6 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 12/3/2025 | 12/3/2027 |
 | Certification Cards | First Aid and CPR | 1/23/2024 | 1/17/2026 |
 | Code of Ethics | Signed | 11/18/2009 |  |
 ## Education
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2025 | OCP0323C | Adult / Child CPR First Aid | Passed | 0.0 | 2.00 |
 | 11/26/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/25/2025 | OCP1959C | Reasoning With A Mind In Crisis | Passed | 0.0 | 3.00 |
 | 11/19/2025 | OCP4054C | OIC - Coordination of Child Abuse Investigations | Passed | 0.0 | 1.00 |

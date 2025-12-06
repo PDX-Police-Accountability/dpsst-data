@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/2/2025 | Portland Police Bureau | LOA | Captain |  |  |
 | 8/27/2020 | Portland Police Bureau | Promotion | Captain |  |  |
 | 7/6/2017 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 9/29/2011 | Portland Police Bureau | Promotion | Sergeant |  |  |

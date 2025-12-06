@@ -24,6 +24,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 11/13/2025 | 11/30/2027 |
 | Certification Cards | First Aid and CPR | 7/1/2025 | 7/31/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
@@ -37,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2025 | NGP3330C | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 11/13/2025 | NGP2301C | Taser Recertification | Instructed | 0.0 | 3.00 |
+| 11/13/2025 | NGP3709C | HSI - BLS All Ages First Aid/CPR/AED | Passed | 0.0 | 6.00 |
 | 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2025 | NGP4528C | Pistol Mounted Optics transition Course | Passed | 0.0 | 18.00 |
 | 10/16/2025 | SDP0291B | Taser - Instructor Certification Training | Passed | 0.0 | 24.00 |

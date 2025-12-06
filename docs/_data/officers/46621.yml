@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/29/2025
+  course: OCS2652C
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/5/2025
   course: OCS2855C
   title: 2025 Fall Patrol Rifle

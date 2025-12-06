@@ -12,7 +12,6 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 4/9/2025 | Portland Police Bureau | LOA | Detective |  |  |
 | 7/27/2017 | Portland Police Bureau | Hired | Detective |  |  |
 | 9/11/2015 | Portland Police Bureau | Resigned | Detective |  |  |
 | 1/25/2007 | Portland Police Bureau | Promotion | Detective |  |  |

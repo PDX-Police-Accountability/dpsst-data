@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2025 | HBP3912C | ODT - Working from Cleared Areas | Passed | 0.0 | 1.00 |
 | 10/1/2025 | HBP4233C | Force Response  Warning Feasibility w/in Case Law | Passed | 0.0 | 2.00 |
 | 10/1/2025 | HBP4276C | Range | Passed | 0.0 | 5.00 |
 | 10/1/2025 | HBP1966C | Analytics for Patrol | Passed | 0.0 | 1.00 |

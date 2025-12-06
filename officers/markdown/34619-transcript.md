@@ -5,13 +5,14 @@
 | dpsst_identifier | 34619 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Commander |
+| rank | Assistant Chief |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/4/2025 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 1/2/2025 | Portland Police Bureau | Promotion | Commander |  |  |
 | 7/20/2023 | Portland Police Bureau | Promotion | Captain |  |  |
 | 3/26/2020 | Portland Police Bureau | Promotion | Lieutenant |  |  |
