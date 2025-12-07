@@ -44,6 +44,7 @@
 | 10/12/2025 | HSU3716B | 2025 Spring In-Service Patrol Procedures/ PVO | Passed | 0.0 | 2.00 |
 | 10/12/2025 | HSU3493B | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
 | 10/12/2025 | HSU3071B | 2025 Spring In-Service Control Tactics | Passed | 0.0 | 2.00 |
+| 10/12/2025 | HSU4045C | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
 | 5/7/2025 | HSU1436A | CPR/ First Aid | Passed | 0.0 | 4.00 |
 | 4/13/2025 | HSU1183A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/13/2025 | HSU2990A | Crisis Communications In Service Spring 2025 | Passed | 0.0 | 2.00 |
@@ -54,6 +55,7 @@
 | 4/13/2025 | HSU2043A | PERS Update In Service Spring 2025 | Passed | 0.0 | 2.00 |
 | 4/13/2025 | HSU3697A | Property Process In Service Spring 2025 | Passed | 0.0 | 2.00 |
 | 4/13/2025 | HSU2489A | Patrol Tactics In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/13/2025 | HSU0040C | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 10/14/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |
 | 10/13/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
 | 10/13/2024 | HSU2048A | Fall In-Service 2024 PVO | Passed | 0.0 | 2.50 |

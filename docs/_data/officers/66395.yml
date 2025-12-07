@@ -36,6 +36,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/17/2025
+  course: PDP2140C
+  title: 2025 All Sworn IS PVO Stop Stick Hyperlink
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/17/2025
+  course: PDP0851C
+  title: 2025 PVO-101/Stop Stick Training for Post Academy
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/17/2025
+  course: PDP0856C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/14/2025
   course: M10-23A
   title: DPSST Basic Police Course

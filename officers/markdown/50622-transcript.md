@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2025 | OCP4242C | Lexipol Daily Training Bulletins | Passed | 0.0 | 7.25 |
 | 12/3/2025 | OCP0323C | Adult / Child CPR First Aid | Passed | 0.0 | 2.00 |
 | 11/20/2025 | OCP4190C | Low Light Firearms | Instructed | 0.0 | 3.00 |
 | 11/19/2025 | OCP4054C | OIC - Coordination of Child Abuse Investigations | Passed | 0.0 | 1.00 |

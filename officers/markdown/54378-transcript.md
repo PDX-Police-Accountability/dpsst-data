@@ -26,9 +26,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/7/2025 | 5/7/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Code of Ethics | Signed | 5/15/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/21/2025 | PDP0693C | 2025 Sup IS Critical Incidents - Controlling | Passed | 0.0 | 1.50 |
+| 11/21/2025 | PDP3813C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
+| 11/21/2025 | PDP1367C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |
+| 11/21/2025 | PDP4482C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
+| 11/20/2025 | PDP3073C | 2025 Sup IS Scene Management for Mass Casualty | Passed | 0.0 | 1.50 |
+| 11/18/2025 | PDP0604C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
+| 11/5/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/29/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/29/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/29/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |

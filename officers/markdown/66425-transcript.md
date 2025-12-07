@@ -34,7 +34,24 @@
 | 11/26/2025 | PDP0713C | 2018-5 TT 100% Collection  Submission | Passed | 0.0 | 0.25 |
 | 11/26/2025 | PDP4173C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 11/26/2025 | PDP2974C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 11/26/2025 | PDP1236C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP2659C | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 11/26/2025 | PDP4456C | 2025-1 CAO Legal Updates for 09 -10/2023 | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP0771C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 11/26/2025 | PDP1715C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 11/26/2025 | PDP0138C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP2635C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 11/26/2025 | PDP0373C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
+| 11/26/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 11/26/2025 | PDP2428C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 11/17/2025 | PDP1860C | DIR 0640.37, Communication w/ Persons Who Have | Passed | 0.0 | 0.25 |
 | 11/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 11/12/2025 | PDP2140C | 2025 All Sworn IS PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
+| 11/12/2025 | PDP0851C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
+| 11/12/2025 | PDP0856C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 8/11/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/24/2025 | PDP0680B | IS 700 National Inc Manage System Intro | Passed | 0.0 | 4.00 |
 | 7/24/2025 | PDP1876B | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |

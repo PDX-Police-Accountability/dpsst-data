@@ -27,8 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/8/2025 | 1/8/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 11/3/2023 |  |
 | Code of Ethics | Signed | 10/4/2016 |  |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/6/2025 | SDP2766C | Alison - Ethics in Law Enforcement Online Course | Passed | 0.0 | 3.00 |
 | 10/22/2025 | SDP4358C | Amber Alert  PREA | Passed | 0.0 | 1.00 |
 | 10/22/2025 | SDP3562C | DT's 2 vs 1 control tactics | Passed | 0.0 | 2.50 |

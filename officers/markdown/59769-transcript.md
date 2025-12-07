@@ -42,6 +42,7 @@
 | 10/12/2025 | HSU3716B | 2025 Spring In-Service Patrol Procedures/ PVO | Passed | 0.0 | 2.00 |
 | 10/12/2025 | HSU3493B | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
 | 10/12/2025 | HSU3071B | 2025 Spring In-Service Control Tactics | Passed | 0.0 | 2.00 |
+| 10/12/2025 | HSU4045C | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/11/2025 | HSU3590A | 40 mm Operator Course | Passed | 0.0 | 20.00 |
 | 4/13/2025 | HSU0785A | EVOC In Service Spring 2025 | Passed | 0.0 | 1.00 |
@@ -53,6 +54,7 @@
 | 4/13/2025 | HSU3697A | Property Process In Service Spring 2025 | Passed | 0.0 | 2.00 |
 | 4/13/2025 | HSU2043A | PERS Update In Service Spring 2025 | Passed | 0.0 | 2.00 |
 | 4/13/2025 | HSU2489A | Patrol Tactics In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/13/2025 | HSU0040C | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 10/14/2024 | HSU2849A | Fall In-Service 2024 Mobile CAD | Passed | 0.0 | 10.00 |
 | 10/13/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
 | 10/13/2024 | HSU2048A | Fall In-Service 2024 PVO | Passed | 0.0 | 2.50 |

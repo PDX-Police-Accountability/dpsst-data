@@ -44,6 +44,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/24/2025 | PDS2375C | Red Dot Range | Passed | 0.0 | 5.00 |
+| 11/20/2025 | PDS3322C | ConSim | Passed | 0.0 | 4.00 |
+| 11/20/2025 | PDS1363C | Less Lethal | Passed | 0.0 | 4.00 |
 | 10/9/2025 | HRS3448B | Night Range | Passed | 0.0 | 3.00 |
 | 10/2/2025 | TDP3557B | Mission Planning and Range | Passed | 0.0 | 8.00 |
 | 9/11/2025 | HRS0242B | Active Threat Response | Passed | 0.0 | 4.00 |

@@ -30,9 +30,19 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
+| 11/17/2025 | PDP2140C | 2025 All Sworn IS PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
+| 11/17/2025 | PDP0851C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
+| 11/17/2025 | PDP0856C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
+| 11/10/2025 | PDP2936C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 11/6/2025 | PDP0642C | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 11/6/2025 | PDP1652C | 2025 Disability Series Introduction to Disability | Passed | 0.0 | 0.50 |
+| 11/6/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
 | 11/5/2025 | PDP0971C | 2018 TOD 100% Collection  Submission | Passed | 0.0 | 0.25 |
 | 11/5/2025 | PDP0713C | 2018-5 TT 100% Collection  Submission | Passed | 0.0 | 0.25 |
+| 11/5/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 11/5/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 11/5/2025 | PDP2619C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 11/5/2025 | PDP2428C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
 | 11/4/2025 | PDP3950C | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 11/4/2025 | PDP3968C | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
 | 11/4/2025 | PDP3227C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
@@ -43,6 +53,12 @@
 | 11/4/2025 | PDP1862C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 11/4/2025 | PDP2548C | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 11/4/2025 | PDP0381C | 2024-7 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP2662C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 11/4/2025 | PDP4229C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP4412C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP0872C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP0003C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 11/4/2025 | PDP0016C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
 | 9/19/2025 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 8/27/2025 | REG1368B | SFST-DID (Hours included in BASIC) | Passed | 0.0 | 0.00 |
 | 8/7/2025 | REG1645B | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

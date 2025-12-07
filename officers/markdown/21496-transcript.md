@@ -69,6 +69,10 @@
 | 7/24/2025 | OSH1326B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 4.00 |
 | 7/10/2025 | OSH2203B | OSP People in Crisis | Passed | 0.0 | 4.00 |
 | 6/26/2025 | OSH2183B | 2nd Trimester firearms | Passed | 0.0 | 8.00 |
+| 6/6/2025 | OSH4344C | Drug Certification Training | Instructed | 0.0 | 40.00 |
+| 5/16/2025 | OSH2836C | Drug Certification Training | Instructed | 0.0 | 40.00 |
+| 5/2/2025 | OSH0702C | Drug Evaluation  Classification School | Instructed | 0.0 | 16.00 |
+| 4/23/2025 | OSH3987C | Drug Evaluation  Classification Pre-School | Instructed | 0.0 | 16.00 |
 | 4/17/2025 | OSH0843B | 1st Trimester Firearms | Passed | 0.0 | 3.50 |
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |

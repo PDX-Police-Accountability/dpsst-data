@@ -51,6 +51,7 @@
 | 10/18/2025 | HSU1020B | 2025 Spring In-Service Firearms | Instructed | 0.0 | 4.00 |
 | 10/18/2025 | HSU1880B | Taser 10 Annual Re-Certification | Passed | 0.0 | 2.00 |
 | 10/18/2025 | HSU3493B | 2025 Spring In-Service Chief's Message | Instructed | 0.0 | 2.00 |
+| 10/18/2025 | HSU4045C | 2025 Spring In-Service Chief's Message | Instructed | 0.0 | 2.00 |
 | 10/17/2025 | HSU0012B | 2025 Spring In-Service-ActiveThreat/ForceScenarios | Passed | 0.0 | 4.00 |
 | 10/17/2025 | HSU3227B | 2025 Spring In-Service TacticalCombatCasualtyCare | Passed | 0.0 | 3.00 |
 | 10/17/2025 | HSU1698B | 2025 Spring In-Service Labor Law | Passed | 0.0 | 3.00 |
@@ -59,8 +60,10 @@
 | 10/13/2025 | HSU1698B | 2025 Spring In-Service Labor Law | Passed | 0.0 | 3.00 |
 | 10/12/2025 | HSU1020B | 2025 Spring In-Service Firearms | Passed | 0.0 | 4.00 |
 | 10/12/2025 | HSU3493B | 2025 Spring In-Service Chief's Message | Instructed | 0.0 | 2.00 |
+| 10/12/2025 | HSU4045C | 2025 Spring In-Service Chief's Message | Instructed | 0.0 | 2.00 |
 | 4/13/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Instructed | 0.0 | 1.00 |
 | 4/13/2025 | HSU1509A | Firearms In Service Spring 2025 | Instructed | 0.0 | 7.00 |
+| 4/13/2025 | HSU0040C | Chief's Message In Service Spring 2025 | Instructed | 0.0 | 1.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/8/2024 | HSU3308A | Leading DEIB at OHSU | Passed | 0.0 | 1.00 |
 | 10/23/2024 | HSU1014A | Into Action: Inclusion and Respect | Passed | 0.0 | 1.00 |

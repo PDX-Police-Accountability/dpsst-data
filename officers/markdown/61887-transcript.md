@@ -4,7 +4,7 @@
 | name | Pena, Camilo |
 | dpsst_identifier | 61887 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/9/2025 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/24/2025 | Clackamas County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 7/8/2025 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 7/5/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
@@ -19,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/5/2022 | Police Officer | Basic | Granted | 12/5/2022 | 12/24/2025 |  |
+| 12/5/2022 | Police Officer | Basic | Granted | 12/5/2022 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -35,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
+| 11/14/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
+| 11/14/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/25/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/17/2025 | PDP2558C | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 10/17/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |

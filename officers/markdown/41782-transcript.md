@@ -43,9 +43,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2025 | PDP0693C | 2025 Sup IS Critical Incidents - Controlling | Passed | 0.0 | 1.50 |
 | 11/11/2025 | PDP4300C | 2024-3 All IS PP Shooting at Moving Vehicle Vid 1 | Passed | 0.0 | 1.25 |
 | 11/11/2025 | PDP2398C | 2024-3 All Sworn IS MFF Response to PO Events | Passed | 0.0 | 1.50 |
 | 11/11/2025 | PDP3390C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
+| 11/3/2025 | PDP4107C | 2025-10 CAO Legal Memo: PPB Response to ICE | Passed | 0.0 | 0.25 |
+| 11/3/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/28/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/28/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |

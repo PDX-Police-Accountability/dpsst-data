@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/7/2025
   course: PDP2558C
   title: 2025-1 All Sworn In-Service Active Threat, LRE
@@ -92,6 +98,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/5/2025
+  course: PDP2140C
+  title: 2025 All Sworn IS PVO Stop Stick Hyperlink
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/5/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2025
+  course: PDP0072C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP0321C
+  title: 2025 All Sworn IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/15/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training
@@ -3237,6 +3279,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/9/2025
@@ -3248,7 +3294,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 11/13/2018

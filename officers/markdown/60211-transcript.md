@@ -32,6 +32,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2025 | PDP2887C | 2025 Field Training Officer (FTO) Certification | Passed | 0.0 | 40.00 |
+| 11/13/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 11/13/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
+| 11/13/2025 | PDP0072C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 11/10/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 11/6/2025 | PDP2662C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 11/6/2025 | PDP4412C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 11/6/2025 | PDP4229C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 11/6/2025 | PDP0872C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 11/6/2025 | PDP0003C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 11/6/2025 | PDP0016C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
+| 11/6/2025 | PDP1377C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 11/6/2025 | PDP1491C | 2025-10, Legal Updates: Miranda  Right | Passed | 0.0 | 0.25 |
 | 8/27/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 8/27/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -37,6 +37,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2025 | PDP3572C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
+| 11/15/2025 | PDP3073C | 2025 Sup IS Scene Management for Mass Casualty | Passed | 0.0 | 1.50 |
+| 11/15/2025 | PDP4482C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
+| 11/15/2025 | PDP0693C | 2025 Sup IS Critical Incidents - Controlling | Passed | 0.0 | 1.50 |
+| 11/8/2025 | PDP0604C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
+| 11/8/2025 | PDP3639C | 2025 Sup IS HR 2.02 for Supervisors Video | Passed | 0.0 | 0.50 |
+| 11/8/2025 | PDP3813C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
+| 11/8/2025 | PDP1367C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |
+| 11/8/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 11/1/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 10/24/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
 | 10/24/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/24/2025 | PDP1093B | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |

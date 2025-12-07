@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/25/2025
+  course: PDP2140C
+  title: 2025 All Sworn IS PVO Stop Stick Hyperlink
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/19/2025
   course: PDP2722C
   title: 2025 Patrol Rifle Operator's In-Service Day 2
@@ -92,6 +98,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/4/2025
+  course: PDP3221C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/4/2025
+  course: PDP0935C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/4/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP0072C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/21/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training

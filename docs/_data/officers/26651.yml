@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/4/2025
+  course: PDS2114C
+  title: Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/27/2025
   course: PDS1623A
   title: Report Writing

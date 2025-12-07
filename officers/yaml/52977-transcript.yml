@@ -50,6 +50,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/5/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/24/2025
   course: PDP3136C
   title: IS-800 National Response Framework
@@ -68,12 +74,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 11/16/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/6/2025
   course: PDP3797C
   title: 2025 EAP Annual Member Training
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 11/3/2025
+  course: PDP4107C
+  title: '2025-10 CAO Legal Memo: PPB Response to ICE'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/3/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/3/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/3/2025
+  course: PDP0072C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/31/2025
   course: PDP0918C
   title: 2025-1 All Sworn In-Service CT Refresher (CIT/MH)
@@ -4795,6 +4831,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/18/2025
@@ -4802,7 +4842,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/29/2013

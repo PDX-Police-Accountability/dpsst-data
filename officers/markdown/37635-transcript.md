@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/26/2025 | EGP2580C | SWAT Search Skills / Tactical Mini Scenarios | Passed | 0.0 | 6.00 |
 | 10/9/2025 | EGP3943B | DT Taser scenarios | Passed | 0.0 | 3.50 |
 | 10/9/2025 | EGP2280B | Firearms Qualification | Passed | 0.0 | 2.00 |
 | 10/9/2025 | EGP4084B | CIT/Mental Health - Mental Health Review | Passed | 0.0 | 1.00 |

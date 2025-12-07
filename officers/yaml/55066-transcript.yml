@@ -51,6 +51,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/24/2025
+  course: PDP3221C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/24/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2025
+  course: PDP3572C
+  title: ALPR Training (Motorola)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/19/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/7/2025
   course: PDP4292C
   title: 2025 External Trng FBI-LEEDA Supervisor Leadership

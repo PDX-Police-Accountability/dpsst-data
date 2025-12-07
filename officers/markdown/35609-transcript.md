@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 9/29/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/25/2025 | OAC2191B | Systematizing Security In Schools | Passed | 0.0 | 2.00 |
 | 9/25/2025 | OAC2679B | Choosing to Serve Report | Passed | 0.0 | 1.00 |

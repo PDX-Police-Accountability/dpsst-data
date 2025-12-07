@@ -31,6 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/22/2025
+  course: PDP3221C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/22/2025
+  course: PDP0373C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/21/2025
+  course: PDP3572C
+  title: ALPR Training (Motorola)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/15/2025
   course: PDP1942C
   title: 2025 Red Dot Sight for Pistol Transition

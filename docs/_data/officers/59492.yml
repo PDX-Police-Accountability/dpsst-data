@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/21/2025
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/31/2019
   agency: Portland Police Bureau
   action: Hired
@@ -31,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2025
+  course: PDP3572C
+  title: ALPR Training (Motorola)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/13/2025
   course: PDP2887C
   title: 2025 Field Training Officer (FTO) Certification

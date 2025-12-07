@@ -44,18 +44,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/13/2025
   course: PDP2968C
   title: 2025 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/12/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/6/2025
   course: PDP1277C
   title: 2025 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/5/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/21/2025
   course: PDP2812B
   title: 2025-1 Supervisors In-Service (CIT/MH)
@@ -9183,6 +9207,10 @@ training_records:
   score: '0.0'
   hours: '24.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/29/2025
@@ -9194,7 +9222,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/15/2002

@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/10/2025 | BNS3328C | SFST Refresher/DUII Wet Lab | Passed | 0.0 | 4.00 |
 | 11/1/2025 | BNS0095C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 10/23/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |

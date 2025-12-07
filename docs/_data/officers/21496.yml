@@ -220,6 +220,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/6/2025
+  course: OSH4344C
+  title: Drug Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/16/2025
+  course: OSH2836C
+  title: Drug Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/2/2025
+  course: OSH0702C
+  title: Drug Evaluation  Classification School
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/23/2025
+  course: OSH3987C
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/17/2025
   course: OSH0843B
   title: 1st Trimester Firearms

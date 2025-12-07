@@ -24,6 +24,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/20/2025
+  course: PDP0072C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/1/2025
+  course: PDP0935C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/1/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/23/2025
   course: PDP2719B
   title: '2025-10, Legal Updates: Miranda  Right to Counsel'

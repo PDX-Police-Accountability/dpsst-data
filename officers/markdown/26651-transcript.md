@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/9/2025 | PDS4511C | Use of Force Report Writing | Passed | 0.0 | 4.00 |
+| 9/4/2025 | PDS2114C | Use of Force | Instructed | 0.0 | 3.00 |
 | 3/27/2025 | PDS1623A | Report Writing | Instructed | 0.0 | 4.00 |
 | 1/31/2025 | PDS1496A | Use of Force Report Writing | Instructed | 0.0 | 2.00 |
 | 1/29/2025 | PDS1975A | Use of Force Report Writing | Instructed | 0.0 | 4.00 |

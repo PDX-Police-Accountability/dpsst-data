@@ -52,17 +52,20 @@
 | 10/13/2025 | HSU1698B | 2025 Spring In-Service Labor Law | Passed | 0.0 | 3.00 |
 | 10/12/2025 | HSU3493B | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
 | 10/12/2025 | HSU3716B | 2025 Spring In-Service Patrol Procedures/ PVO | Passed | 0.0 | 2.00 |
+| 10/12/2025 | HSU4045C | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
 | 9/27/2025 | HSU1880B | Taser 10 Annual Re-Certification | Passed | 0.0 | 2.00 |
 | 9/27/2025 | HSU1020B | 2025 Spring In-Service Firearms | Passed | 0.0 | 4.00 |
 | 7/15/2025 | HSU1592B | Into Action: Inclusion and Respect/ Leading DEIB | Passed | 0.0 | 2.00 |
 | 5/11/2025 | HSU3590A | 40 mm Operator Course | Instructed | 0.0 | 20.00 |
 | 4/18/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
+| 4/18/2025 | HSU0040C | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/13/2025 | HSU2272A | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/13/2025 | HSU2990A | Crisis Communications In Service Spring 2025 | Passed | 0.0 | 2.00 |
 | 4/13/2025 | HSU4134A | Sleep Hygiene In Service Spring 2025 | Passed | 0.0 | 1.50 |
 | 4/13/2025 | HSU2043A | PERS Update In Service Spring 2025 | Passed | 0.0 | 2.00 |
 | 4/13/2025 | HSU1509A | Firearms In Service Spring 2025 | Instructed | 0.0 | 7.00 |
 | 4/13/2025 | HSU3697A | Property Process In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/13/2025 | HSU0040C | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 4/5/2025 | HSU1509A | Firearms In Service Spring 2025 | Passed | 0.0 | 3.50 |
 | 11/24/2024 | HSU2541A | Patrol Rifle Course | Instructed | 0.0 | 40.00 |
 | 11/17/2024 | HSU4269A | Patrol Rifle Transition | Instructed | 0.0 | 5.00 |

@@ -99,6 +99,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/18/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/18/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/18/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2025
+  course: PDP4229C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2025
+  course: PDP2662C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2025
+  course: PDP0935C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2025
+  course: PDP0072C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2025
+  course: PDP1491C
+  title: '2025-10, Legal Updates: Miranda  Right'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/22/2025
   course: PDP2812B
   title: 2025-1 Supervisors In-Service (CIT/MH)
@@ -4090,6 +4144,10 @@ training_records:
   score: '0.0'
   hours: '58.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/7/2025
@@ -4101,7 +4159,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/25/2009

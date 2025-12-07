@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: 12/6/2025
 training_records:
+- date: 11/13/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/4/2025
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

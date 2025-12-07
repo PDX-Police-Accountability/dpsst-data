@@ -44,6 +44,7 @@
 | 11/19/2025 | EGP3827C | TCCC Medical Training | Passed | 0.0 | 3.00 |
 | 11/19/2025 | EGP1419C | SWAT Low Light Overland Tactical Scenarios | Passed | 0.0 | 4.00 |
 | 11/19/2025 | EGP0682C | TCCC Medical Training | Passed | 0.0 | 3.00 |
+| 11/19/2025 | EGP2580C | SWAT Search Skills / Tactical Mini Scenarios | Passed | 0.0 | 6.00 |
 | 11/13/2025 | EGP1359C | EVOC Skills/Felony Stop/Vehicle Extraction | Passed | 0.0 | 4.50 |
 | 11/13/2025 | EGP3607C | Firearms: Low-Light/No-Light Shoot | Passed | 0.0 | 3.00 |
 | 10/22/2025 | EGP2744B | SWAT Firearms Qualifications / Skills Refresher | Passed | 0.0 | 8.00 |

@@ -35,6 +35,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/6/2025 | PDP1277C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 11/4/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
+| 11/4/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/31/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/31/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
 | 10/30/2025 | PDP0733C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |

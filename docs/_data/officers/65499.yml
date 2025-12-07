@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/18/2025
+  course: PDP0518C
+  title: 2025 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/21/2025
   course: PDP3581B
   title: 2021 PIO Photos for Social Media

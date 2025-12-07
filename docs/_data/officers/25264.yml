@@ -74,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 11/24/2025
+  course: PDS2375C
+  title: Red Dot Range
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 11/22/2025
   course: PDS2306C
   title: Defensive Tactics
@@ -140,6 +146,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 10/13/2025
+  course: PDS0797C
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/8/2025
   course: PDS1470C
   title: 40mm Less Lethal
@@ -182,6 +194,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 9/26/2025
+  course: PDS0832C
+  title: Firearms Intro
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/24/2025
   course: PDS2046B
   title: ConSim
@@ -272,6 +290,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 8/15/2025
+  course: PDS0850C
+  title: OC Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/11/2025
   course: PDS1817B
   title: Defensive Tactics
@@ -314,6 +338,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.50'
+- date: 6/19/2025
+  course: PDS0462C
+  title: Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 6/16/2025
   course: PDS2058B
   title: ConSim

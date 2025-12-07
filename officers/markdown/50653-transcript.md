@@ -26,8 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 2/26/2025 | 2/26/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -37,7 +38,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Cancelled | 0.0 | 0.00 |
+| 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/25/2025 | PDP3813C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 11/11/2025 | PDP0604C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
+| 11/11/2025 | PDP4482C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
 | 11/10/2025 | 25-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 11/7/2025 | PDP3445C | CATO SWAT Commander Course | Passed | 0.0 | 40.00 |
 | 10/27/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

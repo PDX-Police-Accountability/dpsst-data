@@ -50,6 +50,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2025
+  course: PDP3221C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/20/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/20/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/20/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/13/2025
+  course: PDP0935C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/13/2025
+  course: PDP0072C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/7/2025
+  course: PDP1982C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/6/2025
   course: PDP3797C
   title: 2025 EAP Annual Member Training

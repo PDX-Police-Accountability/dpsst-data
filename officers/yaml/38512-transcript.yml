@@ -74,6 +74,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/4/2025
+  course: PDP2662C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2025
+  course: PDP4229C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/3/2025
+  course: PDP4107C
+  title: '2025-10 CAO Legal Memo: PPB Response to ICE'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/3/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/3/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/29/2025
   course: PDP1839C
   title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng

@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2025 | MKL1474C | DEI Diversity Return on Investment | Passed | 0.0 | 1.50 |
+| 12/4/2025 | MKL2692C | DEI Results from the Partners in Diversity | Passed | 0.0 | 1.00 |
+| 12/4/2025 | MKL2353C | Why Equity? Equity as a Value, Practice | Passed | 0.0 | 0.50 |
 | 11/13/2025 | MKL0377C | DAS - CHRO - Public Records | Passed | 0.0 | 1.00 |
 | 10/21/2025 | MKL0048C | DOJ - CVSSD - Human Trafficking | Passed | 0.0 | 1.00 |
 | 10/15/2025 | MKL2765B | CAMP Phase IV Regional Training | Passed | 0.0 | 6.00 |

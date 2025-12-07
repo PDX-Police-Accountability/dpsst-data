@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/2/2025 | OSH2331C | Ethics | Passed | 0.0 | 1.00 |
 | 11/3/2025 | OSH3206C | Taser 10 User Course | Passed | 0.0 | 10.00 |
 | 8/22/2025 | OSH2056B | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 6/3/2025 | OSH0275A | OSP People in Crisis | Passed | 0.0 | 4.00 |

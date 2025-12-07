@@ -51,6 +51,84 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/12/2025
+  course: PDP0693C
+  title: 2025 Sup IS Critical Incidents - Controlling
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/12/2025
+  course: PDP3813C
+  title: 2025 Supervisors In-Service Managing Up Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/12/2025
+  course: PDP1367C
+  title: 2025 Sup IS Supporting Officers During Internal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2025
+  course: PDP3221C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2025
+  course: PDP0604C
+  title: 2025 Supervisor In-Service Chiefs Hour Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2025
+  course: PDP3073C
+  title: 2025 Sup IS Scene Management for Mass Casualty
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/10/2025
+  course: PDP4482C
+  title: 2025 Sup IS Leadership in Action Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2025
+  course: PDP0935C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/9/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2025
+  course: PDP0072C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/9/2025
   course: PDP1261B
   title: Annual Bloodborne Pathogens (CityLearner)
@@ -5284,6 +5362,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/14/2025
@@ -5291,7 +5373,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2024

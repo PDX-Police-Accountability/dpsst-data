@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/28/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/27/2025
   course: PDP3304B
   title: '2025-1 Revisiting Directive 0850.10: Custody'

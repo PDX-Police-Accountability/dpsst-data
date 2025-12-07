@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/1/2025 | Portland Police Bureau | LOA | Police Off |  |  |
 | 10/17/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/2/2019 | Bureau of Emergency Communications | Resigned | Dispatcher |  |  |
 | 8/27/2018 | Bureau of Emergency Communications | Hired | Dispatcher |  |  |

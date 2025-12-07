@@ -101,12 +101,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/17/2025
+  course: PDP3813C
+  title: 2025 Supervisors In-Service Managing Up Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/17/2025
+  course: PDP1367C
+  title: 2025 Sup IS Supporting Officers During Internal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/17/2025
+  course: PDP4482C
+  title: 2025 Sup IS Leadership in Action Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/17/2025
+  course: PDP0693C
+  title: 2025 Sup IS Critical Incidents - Controlling
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/13/2025
   course: PDP2968C
   title: 2025 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 11/12/2025
+  course: PDP3073C
+  title: 2025 Sup IS Scene Management for Mass Casualty
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/6/2025
+  course: PDP0604C
+  title: 2025 Supervisor In-Service Chiefs Hour Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/30/2025
   course: PDP3597B
   title: 2025-10 CHO Executive Order, DIR 0625.00

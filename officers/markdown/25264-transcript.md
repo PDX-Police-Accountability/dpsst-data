@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/25/2025 | PDS2282C | Range Qualification | Instructed | 0.0 | 4.00 |
+| 11/24/2025 | PDS2375C | Red Dot Range | Instructed | 0.0 | 5.00 |
 | 11/22/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 11/22/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
 | 11/17/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
@@ -50,6 +51,7 @@
 | 11/7/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
 | 10/16/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/13/2025 | PDS3909C | ConSim | Instructed | 0.0 | 2.00 |
+| 10/13/2025 | PDS0797C | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 10/8/2025 | PDS1470C | 40mm Less Lethal | Passed | 0.0 | 2.00 |
 | 10/1/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/30/2025 | PDS4481B | VR ConSim | Instructed | 0.0 | 2.00 |
@@ -57,6 +59,7 @@
 | 9/29/2025 | PDS1052B | UNET Fall Range Qualification | Instructed | 0.0 | 4.00 |
 | 9/28/2025 | PDS0083B | Taser 7 | Instructed | 0.0 | 4.00 |
 | 9/28/2025 | PDS4042B | VR ConSim | Instructed | 0.0 | 2.00 |
+| 9/26/2025 | PDS0832C | Firearms Intro | Instructed | 0.0 | 8.00 |
 | 9/24/2025 | PDS2046B | ConSim | Instructed | 0.0 | 2.00 |
 | 9/24/2025 | PDS3657B | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 9/23/2025 | PDS0082B | Defensive Tactics | Instructed | 0.0 | 4.00 |
@@ -72,6 +75,7 @@
 | 8/25/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 8/19/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 8/18/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
+| 8/15/2025 | PDS0850C | OC Training | Instructed | 0.0 | 4.00 |
 | 8/11/2025 | PDS1817B | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 8/11/2025 | PDS1931B | Handcuffing | Instructed | 0.0 | 2.50 |
 | 8/6/2025 | PDS2835B | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
@@ -79,6 +83,7 @@
 | 7/23/2025 | PDS1899B | Firearms IDC | Passed | 0.0 | 4.00 |
 | 7/16/2025 | PDS26368 | Taser | Instructed | 0.0 | 8.00 |
 | 7/9/2025 | PDS1966B | Communications | Instructed | 0.0 | 3.50 |
+| 6/19/2025 | PDS0462C | Less Lethal | Passed | 0.0 | 5.00 |
 | 6/16/2025 | PDS2058B | ConSim | Instructed | 0.0 | 4.00 |
 | 6/11/2025 | PDS2894B | ConSim | Instructed | 0.0 | 8.00 |
 | 6/9/2025 | PDS0870A | Taser 7 | Instructed | 0.0 | 8.00 |

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2025 | OCP4242C | Lexipol Daily Training Bulletins | Passed | 0.0 | 7.25 |
 | 11/18/2025 | OCP2472C | Low Light Firearms | Passed | 0.0 | 1.50 |
 | 11/17/2025 | OCP1506C | Search and Seizure | Passed | 0.0 | 0.25 |
 | 11/5/2025 | OCP3759B | S.A.F.E Center Training | Passed | 0.0 | 0.25 |

@@ -45,6 +45,8 @@
 | 11/18/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 11/18/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |
 | 10/24/2025 | PDS1593B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 10/24/2025 | PDS3538C | Taser | Passed | 0.0 | 4.00 |
+| 10/24/2025 | PDS2139C | Taser | Passed | 0.0 | 4.00 |
 | 6/26/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/30/2025 | PDS1585A | Patrol Rifle | Passed | 0.0 | 24.00 |
 | 4/16/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |

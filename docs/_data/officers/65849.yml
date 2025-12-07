@@ -30,6 +30,96 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/24/2025
+  course: PDP2662C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/24/2025
+  course: PDP4229C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2025
+  course: PDP4412C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2025
+  course: PDP0872C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2025
+  course: PDP0003C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2025
+  course: PDP0072C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2025
+  course: PDP1377C
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2025
+  course: PDP1230C
+  title: AA 2025 [CIT-113-H] Responding to a MH Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2025
+  course: PDP1491C
+  title: '2025-10, Legal Updates: Miranda  Right'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/23/2025
+  course: PDP0935C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/23/2025
+  course: PDP0016C
+  title: 2025-09 CAO Legal Updates for 02/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/23/2025
+  course: PDP2795C
+  title: '2025-1 Revisiting DIR 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/23/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/23/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/12/2025
   course: PDP2570B
   title: AA 2025 [CIT-111-A] Project Respond

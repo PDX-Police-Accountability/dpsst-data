@@ -38,6 +38,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/25/2025
+  course: PDP1982C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2025
+  course: PDP3221C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/17/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/13/2025
   course: PDP2246C
   title: 2025 CNT Crisis Negotiation Team Annual Training

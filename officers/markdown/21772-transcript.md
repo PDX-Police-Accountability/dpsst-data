@@ -41,6 +41,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2025 | PDP0693C | 2025 Sup IS Critical Incidents - Controlling | Passed | 0.0 | 1.50 |
+| 11/17/2025 | PDP1367C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |
+| 11/13/2025 | PDP3813C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
+| 11/12/2025 | PDP3073C | 2025 Sup IS Scene Management for Mass Casualty | Passed | 0.0 | 1.50 |
+| 11/12/2025 | PDP4482C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
+| 11/11/2025 | PDP0604C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
+| 11/3/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/27/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
 | 10/27/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/22/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2025
+  course: MKL1474C
+  title: DEI Diversity Return on Investment
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/4/2025
+  course: MKL2692C
+  title: DEI Results from the Partners in Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/4/2025
+  course: MKL2353C
+  title: Why Equity? Equity as a Value, Practice
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/13/2025
   course: MKL0377C
   title: DAS - CHRO - Public Records

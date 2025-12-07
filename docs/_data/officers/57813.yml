@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2025
+  course: PDP4107C
+  title: '2025-10 CAO Legal Memo: PPB Response to ICE'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/2/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/15/2025
   course: PDP1093B
   title: 2025-10 National Incident Based Reporting System

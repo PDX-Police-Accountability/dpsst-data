@@ -75,12 +75,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/23/2025
   course: PDP0779C
   title: 2025 Red Dot Sight for Pistol Transition
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 11/21/2025
+  course: PDP3572C
+  title: ALPR Training (Motorola)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/27/2025
   course: PDP3597B
   title: 2025-10 CHO Executive Order, DIR 0625.00
@@ -5996,6 +6008,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/22/2025
@@ -6003,7 +6019,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/29/2003

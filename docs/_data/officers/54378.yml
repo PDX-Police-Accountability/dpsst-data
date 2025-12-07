@@ -63,6 +63,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/21/2025
+  course: PDP0693C
+  title: 2025 Sup IS Critical Incidents - Controlling
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/21/2025
+  course: PDP3813C
+  title: 2025 Supervisors In-Service Managing Up Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/21/2025
+  course: PDP1367C
+  title: 2025 Sup IS Supporting Officers During Internal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/21/2025
+  course: PDP4482C
+  title: 2025 Sup IS Leadership in Action Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2025
+  course: PDP3073C
+  title: 2025 Sup IS Scene Management for Mass Casualty
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/18/2025
+  course: PDP0604C
+  title: 2025 Supervisor In-Service Chiefs Hour Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/5/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/29/2025
   course: PDP3376B
   title: 2025-10 CAO Legal Updates for 3/2025
@@ -4312,6 +4360,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/7/2025
@@ -4323,7 +4375,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/15/2015

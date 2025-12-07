@@ -24,12 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/4/2025
   course: PDP3255C
   title: 2025 All Sworn IS - Axon Annual Operator Update
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 11/4/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/28/2025
   course: PDP3376B
   title: 2025-10 CAO Legal Updates for 3/2025

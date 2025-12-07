@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 11/4/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/29/2025
   course: PDP3739B
   title: '2025-10 CAO Updates: Disorderly Conduct'

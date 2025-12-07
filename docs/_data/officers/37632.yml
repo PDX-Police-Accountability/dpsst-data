@@ -137,6 +137,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/10/2025
+  course: PDS0022C
+  title: De-Escalation - CIT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/9/2025
   course: PDS4511C
   title: Use of Force Report Writing
@@ -152,6 +158,18 @@ training_records:
 - date: 10/7/2025
   course: PDS2001C
   title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/7/2025
+  course: PDS1101C
+  title: Ethics  IAU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/6/2025
+  course: PDS4573C
+  title: PREA
   status: Passed
   score: '0.0'
   hours: '2.00'

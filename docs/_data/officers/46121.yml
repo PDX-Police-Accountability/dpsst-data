@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/23/2025
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/9/2009
   agency: Portland Police Bureau
   action: Hired
@@ -36,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2025
+  course: PDP3572C
+  title: ALPR Training (Motorola)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/17/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'

@@ -39,6 +39,7 @@
 | 10/18/2025 | HSU3493B | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
 | 10/18/2025 | HSU1020B | 2025 Spring In-Service Firearms | Passed | 0.0 | 4.00 |
 | 10/18/2025 | HSU3071B | 2025 Spring In-Service Control Tactics | Passed | 0.0 | 2.00 |
+| 10/18/2025 | HSU4045C | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
 | 10/17/2025 | HSU0012B | 2025 Spring In-Service-ActiveThreat/ForceScenarios | Passed | 0.0 | 4.00 |
 | 10/17/2025 | HSU3227B | 2025 Spring In-Service TacticalCombatCasualtyCare | Passed | 0.0 | 3.00 |
 | 10/17/2025 | HSU1698B | 2025 Spring In-Service Labor Law | Passed | 0.0 | 3.00 |
@@ -52,6 +53,7 @@
 | 4/18/2025 | HSU4134A | Sleep Hygiene In Service Spring 2025 | Passed | 0.0 | 1.50 |
 | 4/18/2025 | HSU2043A | PERS Update In Service Spring 2025 | Passed | 0.0 | 2.00 |
 | 4/18/2025 | HSU3697A | Property Process In Service Spring 2025 | Passed | 0.0 | 2.00 |
+| 4/18/2025 | HSU0040C | Chief's Message In Service Spring 2025 | Passed | 0.0 | 1.00 |
 | 10/31/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/28/2024 | HSU4235A | Title IX  Belonging at OHSU | Passed | 0.0 | 3.00 |
 | 10/19/2024 | HSU1332A | Fall In-Service 2024 Firearms | Passed | 0.0 | 4.00 |

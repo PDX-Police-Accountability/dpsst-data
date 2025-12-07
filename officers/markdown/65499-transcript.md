@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/18/2025 | PDP0518C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 10/21/2025 | PDP3581B | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
 | 10/21/2025 | PDP4424B | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
 | 10/21/2025 | PDP1261B | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |

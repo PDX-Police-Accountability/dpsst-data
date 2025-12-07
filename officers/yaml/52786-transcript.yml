@@ -104,6 +104,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/24/2025
+  course: PDS3538C
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/24/2025
+  course: PDS2139C
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/26/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

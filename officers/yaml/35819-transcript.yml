@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/12/2025
+  course: HSU4045C
+  title: 2025 Spring In-Service Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/7/2025
   course: HSU1436A
   title: CPR/ First Aid
@@ -156,6 +162,12 @@ training_records:
 - date: 4/13/2025
   course: HSU2489A
   title: Patrol Tactics In Service Spring 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2025
+  course: HSU0040C
+  title: Chief's Message In Service Spring 2025
   status: Passed
   score: '0.0'
   hours: '1.00'

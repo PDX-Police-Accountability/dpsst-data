@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/25/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/7/2025
   course: PDP2558C
   title: 2025-1 All Sworn In-Service Active Threat, LRE
@@ -104,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/5/2025
+  course: PDP0856C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/28/2025
   course: PDP3376B
   title: 2025-10 CAO Legal Updates for 3/2025
@@ -4197,6 +4215,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/13/2025
@@ -4208,7 +4230,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/27/2001

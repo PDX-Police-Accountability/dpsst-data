@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/21/2025
   course: PDP2558C
   title: 2025-1 All Sworn In-Service Active Threat, LRE
@@ -135,6 +141,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/4/2025
+  course: PDP1652C
+  title: 2025 Disability Series Introduction to Disability
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/4/2025
+  course: PDP0016C
+  title: 2025-09 CAO Legal Updates for 02/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/22/2025
   course: PDP2812B
   title: 2025-1 Supervisors In-Service (CIT/MH)
@@ -5386,6 +5404,10 @@ training_records:
   score: '0.0'
   hours: '428.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/15/2025
@@ -5393,7 +5415,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2024

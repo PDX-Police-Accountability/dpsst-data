@@ -76,6 +76,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/4/2025
+  course: PDP3639C
+  title: 2025 Sup IS HR 2.02 for Supervisors Video
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/3/2025
+  course: PDP4495C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/28/2025
   course: PDP3597B
   title: 2025-10 CHO Executive Order, DIR 0625.00
