@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2025 | PDS1900C | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 11/24/2025 | PDS2375C | Red Dot Range | Passed | 0.0 | 5.00 |
 | 11/20/2025 | PDS3322C | ConSim | Passed | 0.0 | 4.00 |
 | 11/20/2025 | PDS1363C | Less Lethal | Passed | 0.0 | 4.00 |

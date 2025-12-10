@@ -23,9 +23,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/9/2011 | Police Officer | Advanced | Granted | 5/9/2011 |  |  |
-| 5/9/2011 | Police Officer | Intermediate | Granted | 5/9/2011 |  |  |
-| 9/8/2000 | Police Officer | Basic | Granted | 9/8/2000 |  |  |
+| 5/9/2011 | Police Officer | Advanced | Granted-UR | 5/9/2011 |  |  |
+| 5/9/2011 | Police Officer | Intermediate | Granted-UR | 5/9/2011 |  |  |
+| 9/8/2000 | Police Officer | Basic | Granted-UR | 9/8/2000 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

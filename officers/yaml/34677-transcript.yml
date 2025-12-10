@@ -61,21 +61,21 @@ certification_records:
 - status_date: 5/9/2011
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Granted-UR
   certificate_date: 5/9/2011
   expiration_date: ''
   probation_date: ''
 - status_date: 5/9/2011
   certificate: Police Officer
   level: Intermediate
-  status: Granted
+  status: Granted-UR
   certificate_date: 5/9/2011
   expiration_date: ''
   probation_date: ''
 - status_date: 9/8/2000
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Granted-UR
   certificate_date: 9/8/2000
   expiration_date: ''
   probation_date: ''

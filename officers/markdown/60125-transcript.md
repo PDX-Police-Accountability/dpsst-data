@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2025 | PDS1900C | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 11/18/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 11/18/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |
 | 10/21/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |

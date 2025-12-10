@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: PDS1900C
+  title: Traffic Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/18/2025
   course: PDS2306C
   title: Defensive Tactics
