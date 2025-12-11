@@ -43,6 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2025 | HBS4192C | Virtual - Ambush Awareness  Preparation | Passed | 0.0 | 1.00 |
+| 12/1/2025 | HBS2200C | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/1/2025 | HBS3003C | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
 | 10/1/2025 | PDP3294B | Multi-Agency Motorcade Training | Instructed | 0.0 | 10.00 |
 | 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 20.00 |
 | 8/12/2025 | EGP2430B | Police Motorcade Training | Passed | 0.0 | 6.00 |

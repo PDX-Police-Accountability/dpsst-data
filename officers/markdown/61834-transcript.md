@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/2/2025 | PDP1710C | 2025 Honor Guard New Member Training (Two-Day) | Passed | 0.0 | 18.00 |
 | 11/21/2025 | PDP3572C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 11/3/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |

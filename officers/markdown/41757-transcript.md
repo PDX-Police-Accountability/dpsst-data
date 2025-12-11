@@ -35,6 +35,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/3/2025 | PDP3046C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 12/3/2025 | PDP3046C | 2025 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
 | 11/10/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/2/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 11/2/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/26/2025 | PDP4058C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/20/2025 | PDP3257C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/6/2025 | PDP1277C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/5/2025 | PDP1982C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |

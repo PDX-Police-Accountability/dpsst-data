@@ -54,6 +54,30 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 12/1/2025
+  course: HBS3003C
+  title: Virtual - Nasal Naloxone (NARCAN)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: HBS2930C
+  title: Virtual - Crowd Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2025
+  course: HBS3694C
+  title: Virtual - Suicide Prevention in Jails
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2025
+  course: HBS1742C
+  title: Virtual-Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/24/2025
   course: HBS0044C
   title: Recruit-IS700  NIMS, An Introduction

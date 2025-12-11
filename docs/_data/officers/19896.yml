@@ -207,6 +207,12 @@ certification_records:
   expiration_date: 6/6/2030
   probation_date: ''
 training_records:
+- date: 11/6/2025
+  course: JDN4128C
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/22/2024
   course: FSS1676A
   title: AXON Taser Instructor Course

@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/26/2025
+  course: PDP2693C
+  title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/21/2025
   course: PDP1982C
   title: Annual Bloodborne Pathogens (CityLearner)

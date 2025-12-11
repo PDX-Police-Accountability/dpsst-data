@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2025 | PDP3570C | 2025 Patrol Rifle Operator's In-Service Day 2 | Passed | 0.0 | 9.00 |
 | 11/23/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 11/23/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
 | 11/17/2025 | PDP0072C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |

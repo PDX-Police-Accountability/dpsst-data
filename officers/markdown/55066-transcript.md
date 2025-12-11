@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2025 | PDP3570C | 2025 Patrol Rifle Operator's In-Service Day 2 | Passed | 0.0 | 9.00 |
 | 11/24/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 11/24/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/21/2025 | PDP3572C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |

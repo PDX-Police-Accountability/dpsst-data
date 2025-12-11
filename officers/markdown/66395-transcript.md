@@ -34,6 +34,7 @@
 | 11/17/2025 | PDP0851C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
 | 11/17/2025 | PDP0856C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 11/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 10/21/2025 | REG4197C | SFST/DID (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 7/24/2025 | PDP1871B | ICS 200 Basic Inc Command Syst for Init Response | Passed | 0.0 | 4.00 |
 | 7/23/2025 | PDP1036B | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 7/16/2025 | PDP2930B | CPR/First Aid | Passed | 0.0 | 4.00 |

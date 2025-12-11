@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2025 | PDP3046C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/20/2025 | PDP1936C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/3/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/30/2025 | PDP3635C | 2025 K-9 (K9) Weekly Training Roster | Passed | 0.0 | 4.50 |

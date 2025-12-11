@@ -44,6 +44,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/3/2025
+  course: PDP3046C
+  title: 2025 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/3/2025
+  course: PDP3046C
+  title: 2025 K-9 (K9) Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/10/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

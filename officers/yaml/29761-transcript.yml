@@ -71,6 +71,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/1/2025
+  course: PMC4269C
+  title: Legacy Fire/EMS Call Types for Dispatch
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/20/2025
   course: PMC3442B
   title: Ethics Fall 2025 In-Service

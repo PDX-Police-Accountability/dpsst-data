@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/26/2025 | PDP2603C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/20/2025 | PDP3257C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/14/2025 | PDP2558C | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 11/14/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |

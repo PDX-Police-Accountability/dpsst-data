@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/26/2025 | PDP2603C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/23/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
 | 11/20/2025 | PDP3257C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

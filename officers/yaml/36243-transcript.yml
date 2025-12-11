@@ -95,6 +95,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2025
+  course: HBS4192C
+  title: Virtual - Ambush Awareness  Preparation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2025
+  course: HBS2200C
+  title: Virtual - Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2025
+  course: HBS3003C
+  title: Virtual - Nasal Naloxone (NARCAN)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/1/2025
   course: PDP3294B
   title: Multi-Agency Motorcade Training

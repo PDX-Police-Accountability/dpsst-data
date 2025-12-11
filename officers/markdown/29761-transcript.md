@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2025 | PMC4269C | Legacy Fire/EMS Call Types for Dispatch | Passed | 0.0 | 0.50 |
 | 10/20/2025 | PMC3442B | Ethics Fall 2025 In-Service | Passed | 0.0 | 1.00 |
 | 10/20/2025 | PMC4523B | Fall 2025 In-Service | Passed | 0.0 | 7.00 |
 | 9/5/2025 | M40-21A | DPSST Basic Telecommunicator Course | Passed | 0.0 | 116.00 |

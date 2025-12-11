@@ -37,6 +37,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/26/2025
+  course: PDP2603C
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/23/2025
   course: PDP3719C
   title: 2025-10 CHO Executive Order, DIR 0625.00 Auto

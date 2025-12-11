@@ -40,6 +40,7 @@
 | 12/3/2025 | MFN2151C | Search and Seizure, Ammo/Firearms | Passed | 0.0 | 1.00 |
 | 11/19/2025 | MFN0495C | Golden Rule Re-entry | Passed | 0.0 | 0.50 |
 | 11/13/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/12/2025 | MFN3371C | Fundamentals of Emotional Intelligence | Passed | 0.0 | 1.00 |
 | 10/30/2025 | MFN2070B | Substance Use Tx for Marginalized Populations | Passed | 0.0 | 1.00 |
 | 10/30/2025 | MFN2521B | Deep Dive Into Criminogenic Needs | Passed | 0.0 | 2.00 |
 | 10/30/2025 | MFN3647B | Office Structure  BCP Review | Passed | 0.0 | 2.00 |

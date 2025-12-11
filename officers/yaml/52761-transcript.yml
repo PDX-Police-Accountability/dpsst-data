@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/2/2025
+  course: PDP1710C
+  title: 2025 Honor Guard New Member Training (Two-Day)
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 11/18/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

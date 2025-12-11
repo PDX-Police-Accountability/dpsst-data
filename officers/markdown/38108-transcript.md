@@ -42,6 +42,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/3/2025 | PDP3046C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 11/26/2025 | PDP0582C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/21/2025 | PDP2558C | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 11/21/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |
 | 11/21/2025 | PDP1668C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |

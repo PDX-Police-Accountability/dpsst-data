@@ -52,6 +52,7 @@
 | 11/12/2025 | PDP2140C | 2025 All Sworn IS PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
 | 11/12/2025 | PDP0851C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
 | 11/12/2025 | PDP0856C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
+| 10/21/2025 | REG4197C | SFST/DID (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 8/11/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/24/2025 | PDP0680B | IS 700 National Inc Manage System Intro | Passed | 0.0 | 4.00 |
 | 7/24/2025 | PDP1876B | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |

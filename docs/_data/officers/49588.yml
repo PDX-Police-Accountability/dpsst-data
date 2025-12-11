@@ -81,6 +81,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/2/2025
+  course: PDP1710C
+  title: 2025 Honor Guard New Member Training (Two-Day)
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 11/6/2025
   course: PDP3797C
   title: 2025 EAP Annual Member Training

@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/2/2025 | PDP1710C | 2025 Honor Guard New Member Training (Two-Day) | Passed | 0.0 | 18.00 |
 | 11/6/2025 | PDP3797C | 2025 EAP Annual Member Training | Passed | 0.0 | 10.00 |
 | 11/3/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |

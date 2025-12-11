@@ -38,6 +38,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/3/2025 | PDP3046C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 11/26/2025 | PDP0582C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/20/2025 | PDP1936C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/14/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 11/14/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |

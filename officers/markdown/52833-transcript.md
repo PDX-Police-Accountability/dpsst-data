@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2025 | PDP4366C | 2025 Patrol Rifle Operator's In-Service Day 2 | Passed | 0.0 | 9.00 |
 | 11/23/2025 | PDP0779C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 27.00 |
 | 11/4/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/30/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |

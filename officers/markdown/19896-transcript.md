@@ -61,6 +61,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2025 | JDN4128C | Firearms Qualification | Passed | 0.0 | 0.50 |
 | 11/22/2024 | FSS1676A | AXON Taser Instructor Course | Passed | 0.0 | 16.00 |
 | 10/23/2024 | HBS0168A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 6.00 |
 | 10/22/2024 | HBS0058A | SARTOPO-A User's Guide for Search Management | Passed | 0.0 | 7.00 |

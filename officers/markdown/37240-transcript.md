@@ -60,6 +60,7 @@
 | 8/7/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 8/7/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/6/2025 | PDP3392B | 2025 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
+| 7/31/2025 | PDP0341C | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 7/9/2025 | PDP4421B | 2025 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
 | 6/30/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/8/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |

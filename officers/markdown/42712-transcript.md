@@ -39,6 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2025 | HBS1094C | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |
+| 12/1/2025 | HBS2200C | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/1/2025 | HBS2930C | Virtual - Crowd Control | Passed | 0.0 | 1.00 |
+| 12/1/2025 | HBS0649C | Virtual - WCSO Deflection Training | Passed | 0.0 | 1.50 |
+| 12/1/2025 | HBS3694C | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |
 | 11/10/2025 | HBS0266C | InService Session #2 Firearms | Passed | 0.0 | 4.50 |
 | 11/10/2025 | HBS2772C | InService Session #2 Jail Specific | Passed | 0.0 | 4.50 |
 | 10/2/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 10/21/2025
+  course: REG4197C
+  title: SFST/DID (Hours inlcuded in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/24/2025
   course: PDP1871B
   title: ICS 200 Basic Inc Command Syst for Init Response

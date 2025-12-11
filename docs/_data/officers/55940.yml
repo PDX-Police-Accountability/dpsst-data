@@ -37,6 +37,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/26/2025
+  course: PDP4058C
+  title: 2025 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/25/2025
   course: PDP3390C
   title: 2025 All Sworn In-Service ABLE (Video)

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/2/2025 | PDP1710C | 2025 Honor Guard New Member Training (Two-Day) | Passed | 0.0 | 18.00 |
 | 11/23/2025 | PDP0779C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 27.00 |
 | 11/13/2025 | PDP2887C | 2025 Field Training Officer (FTO) Certification | Passed | 0.0 | 40.00 |
 | 11/3/2025 | PDP4107C | 2025-10 CAO Legal Memo: PPB Response to ICE | Passed | 0.0 | 0.25 |

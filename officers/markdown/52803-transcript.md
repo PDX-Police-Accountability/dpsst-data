@@ -51,6 +51,7 @@
 | 8/27/2025 | PDP1140B | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 8/15/2025 | PDP0791B | IPTM Human Factors in Traffic Crash Reconstruction | Passed | 0.0 | 40.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/31/2025 | PDP0341C | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 7/24/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/22/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/2/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -50,6 +50,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/3/2025
+  course: PDP3570C
+  title: 2025 Patrol Rifle Operator's In-Service Day 2
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/10/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

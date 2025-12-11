@@ -51,6 +51,7 @@
 | 9/24/2025 | PDP0519B | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 8/27/2025 | PDP1140B | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 8/21/2025 | OCS3453B | FARO Laser Scanner Certification | Passed | 0.0 | 24.00 |
+| 7/31/2025 | PDP0341C | 2025 sUAS Training for Traffic Division | Passed | 0.0 | 3.00 |
 | 7/24/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/21/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/2/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

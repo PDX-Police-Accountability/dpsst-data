@@ -74,6 +74,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2025
+  course: HBS1094C
+  title: Virtual - Anti Bias Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/1/2025
+  course: HBS2200C
+  title: Virtual - Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2025
+  course: HBS2930C
+  title: Virtual - Crowd Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2025
+  course: HBS0649C
+  title: Virtual - WCSO Deflection Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/1/2025
+  course: HBS3694C
+  title: Virtual - Suicide Prevention in Jails
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/10/2025
   course: HBS0266C
   title: 'InService Session #2 Firearms'

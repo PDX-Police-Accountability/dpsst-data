@@ -35,6 +35,10 @@
 | 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
 | 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 12/1/2025 | HBS3003C | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
+| 12/1/2025 | HBS2930C | Virtual - Crowd Control | Passed | 0.0 | 1.00 |
+| 12/1/2025 | HBS3694C | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |
+| 12/1/2025 | HBS1742C | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 11/24/2025 | HBS0044C | Recruit-IS700  NIMS, An Introduction | Passed | 0.0 | 1.25 |
 | 11/24/2025 | HBS4351C | Recruit-IS800 Nat'l Response, An Intro | Passed | 0.0 | 1.25 |
 | 11/24/2025 | HBS1713C | Recruit-ICS100/IS An Intro To ICS | Passed | 0.0 | 2.00 |

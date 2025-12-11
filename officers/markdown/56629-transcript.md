@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/26/2025 | PDP2693C | 2025 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 11/15/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 11/14/2025 | PDP4412C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 11/14/2025 | PDP2662C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

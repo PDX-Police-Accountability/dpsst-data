@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/26/2025 | PDP2603C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/20/2025 | PDP3257C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |

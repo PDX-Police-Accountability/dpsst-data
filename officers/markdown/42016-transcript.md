@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/26/2025 | PDP2603C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/21/2025 | PDP1789C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/21/2025 | PDP1789C | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 11/12/2025 | PDP4412C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

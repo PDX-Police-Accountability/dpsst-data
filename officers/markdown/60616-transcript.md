@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2025 | PDP4217C | 2025 Patrol Rifle Operator's In-Service Day 2 | Passed | 0.0 | 9.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/23/2025 | PDP0779C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 27.00 |

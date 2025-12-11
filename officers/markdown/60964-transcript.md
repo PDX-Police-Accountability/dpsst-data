@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/2/2025 | PDP1710C | 2025 Honor Guard New Member Training (Two-Day) | Passed | 0.0 | 18.00 |
 | 11/18/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 11/18/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/13/2025 | PDP2662C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

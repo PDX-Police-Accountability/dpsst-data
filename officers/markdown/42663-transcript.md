@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/26/2025 | PDP4058C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/21/2025 | PDP1789C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/10/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 11/10/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
