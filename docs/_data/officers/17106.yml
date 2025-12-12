@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/9/2025
+  course: PDN2553C
+  title: CPR/1st Aid Infant to Adult
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 11/25/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -2785,6 +2791,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/9/2025
+  expiration_date: 12/9/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/27/2024

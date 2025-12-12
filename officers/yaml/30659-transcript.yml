@@ -62,6 +62,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2025
+  course: PDS1000C
+  title: Life Safety Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2025
+  course: PDS0882C
+  title: Anti-Harassment Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2025
+  course: PDS2539C
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2025
+  course: PDS0889C
+  title: OSHA  Respiratory Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2025
+  course: PDS2709C
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2025
+  course: PDS4141C
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2025
+  course: PDS2497C
+  title: ADA Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/29/2025
   course: PDS1396B
   title: AIC Manipulation

@@ -38,6 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2025 | PDS1000C | Life Safety Training | Passed | 0.0 | 0.50 |
+| 10/22/2025 | PDS0882C | Anti-Harassment Training | Passed | 0.0 | 1.00 |
+| 10/22/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 10/22/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 10/22/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
+| 10/22/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 10/22/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 8/29/2025 | PDS1396B | AIC Manipulation | Passed | 0.0 | 1.00 |
 | 8/29/2025 | PDS2046B | ConSim | Passed | 0.0 | 2.00 |
 | 8/29/2025 | PDS4426B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |

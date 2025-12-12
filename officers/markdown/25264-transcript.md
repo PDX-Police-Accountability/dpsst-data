@@ -29,8 +29,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 8/13/2025 | 7/28/2027 |
 | Code of Ethics | Signed | 3/16/2001 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 10/13/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -76,6 +76,14 @@
 | 8/19/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 8/18/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 8/15/2025 | PDS0850C | OC Training | Instructed | 0.0 | 4.00 |
+| 8/13/2025 | PDS0195C | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 8/13/2025 | PDS2685C | Driving Techniques | Passed | 0.0 | 1.00 |
+| 8/13/2025 | PDS0080C | Emergency Management and Facility Evacuation Plan | Passed | 0.0 | 0.50 |
+| 8/13/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 8/13/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 8/13/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
+| 8/13/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 8/13/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 8/11/2025 | PDS1817B | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 8/11/2025 | PDS1931B | Handcuffing | Instructed | 0.0 | 2.50 |
 | 8/6/2025 | PDS2835B | Defensive Tactics IDC | Passed | 0.0 | 4.00 |

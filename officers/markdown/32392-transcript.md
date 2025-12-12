@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2025 | TGP3321C | Use of Force-The New Social Contract | Passed | 0.0 | 1.00 |
 | 10/24/2025 | TGP0251C | Handgun Training | Instructed | 0.0 | 2.50 |
 | 10/24/2025 | TGP0251C | Handgun Training | Passed | 0.0 | 2.50 |
 | 10/3/2025 | TGP0736B | Patrol Rifle Training | Passed | 0.0 | 4.00 |

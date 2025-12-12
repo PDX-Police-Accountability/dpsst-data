@@ -104,6 +104,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/10/2025
+  course: PDS0080C
+  title: Emergency Management and Facility Evacuation Plan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2025
+  course: PDS2539C
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2025
+  course: PDS0889C
+  title: OSHA  Respiratory Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2025
+  course: PDS4141C
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/9/2025
+  course: PDS2709C
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/6/2025
+  course: PDS2685C
+  title: Driving Techniques
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/24/2025
   course: PDS1593B
   title: CPR-First Aid-AED
@@ -122,6 +158,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/8/2025
+  course: PDS2497C
+  title: ADA Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/26/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

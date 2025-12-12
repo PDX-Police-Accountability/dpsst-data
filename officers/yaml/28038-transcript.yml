@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2025
+  course: PDS2709C
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/16/2025
+  course: PDS0889C
+  title: OSHA  Respiratory Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/10/2025
   course: PDS2306C
   title: Defensive Tactics
@@ -92,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/18/2025
+  course: PDS0080C
+  title: Emergency Management and Facility Evacuation Plan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/9/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -116,12 +134,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/25/2025
+  course: PDS2685C
+  title: Driving Techniques
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/25/2025
+  course: PDS4141C
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/19/2025
   course: PDS4218B
   title: Firearms
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/14/2025
+  course: PDS2539C
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/14/2025
+  course: PDS2497C
+  title: ADA Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/28/2025
   course: PDS2239B
   title: Responding to Agitated Individuals

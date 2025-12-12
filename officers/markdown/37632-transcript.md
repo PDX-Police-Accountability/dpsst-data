@@ -52,6 +52,9 @@
 | 10/13/2025 | PDS3909C | ConSim | Passed | 0.0 | 2.00 |
 | 10/10/2025 | PDS0022C | De-Escalation - CIT | Passed | 0.0 | 8.00 |
 | 10/9/2025 | PDS4511C | Use of Force Report Writing | Passed | 0.0 | 4.00 |
+| 10/9/2025 | PDS4151C | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 10/9/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 10/9/2025 | PDS1402C | Tourniquets and Trauma Kits | Passed | 0.0 | 1.00 |
 | 10/8/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/7/2025 | PDS2001C | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 10/7/2025 | PDS1101C | Ethics  IAU | Passed | 0.0 | 2.00 |

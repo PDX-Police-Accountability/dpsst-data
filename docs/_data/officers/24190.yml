@@ -76,12 +76,90 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/22/2025
+  course: F1511504
+  title: Tactical Medic Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2025
+  course: F1542562
+  title: Fall Firearms Training/Qualification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/14/2025
+  course: F1534327
+  title: ALERRT Active Shooter Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/13/2025
+  course: F1534327
+  title: ALERRT Active Shooter Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/12/2025
+  course: F1509322
+  title: People Leader Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/11/2025
+  course: F1509322
+  title: People Leader Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/10/2025
+  course: F1532759
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/10/2025
+  course: F1539904
+  title: TI Use of Force Simulator
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/11/2025
+  course: F1511705
+  title: Spring Firearms Training/Qualification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/11/2025
+  course: F1516139
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/8/2025
   course: SMP2056A
   title: Taser Instructor Certification
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 2/5/2025
+  course: F1521677
+  title: BNSF Code of Conduct
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/3/2025
+  course: F1530028
+  title: WA State Annual CIT Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/6/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
@@ -3299,14 +3377,14 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/21/2025
   expiration_date: 3/21/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

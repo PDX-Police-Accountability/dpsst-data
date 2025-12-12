@@ -49,7 +49,14 @@
 | 10/3/2025 | PDS0907B | VR ConSim | Passed | 0.0 | 2.00 |
 | 10/3/2025 | PDS0184B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 8/25/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |
+| 7/27/2025 | PDS2685C | Driving Techniques | Passed | 0.0 | 1.00 |
+| 7/26/2025 | PDS0080C | Emergency Management and Facility Evacuation Plan | Passed | 0.0 | 0.50 |
+| 7/26/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 7/26/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 7/26/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
+| 7/26/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 7/25/2025 | PDS4424B | Law Enforcement for Safety and Survival (LETSS) | Passed | 0.0 | 32.00 |
+| 7/21/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 7/16/2025 | PDS0945B | Liftbag Implementation | Instructed | 0.0 | 8.00 |
 | 7/16/2025 | PDS0742B | New Diver Orientation and Gear Preparation | Instructed | 0.0 | 8.00 |
 | 7/10/2025 | HDA1149B | ONEA/Keynote "Shots Fired" | Passed | 0.0 | 4.00 |

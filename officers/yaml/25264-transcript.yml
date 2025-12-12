@@ -296,6 +296,54 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 8/13/2025
+  course: PDS0195C
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/13/2025
+  course: PDS2685C
+  title: Driving Techniques
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/13/2025
+  course: PDS0080C
+  title: Emergency Management and Facility Evacuation Plan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/13/2025
+  course: PDS2539C
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/13/2025
+  course: PDS0889C
+  title: OSHA  Respiratory Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/13/2025
+  course: PDS2709C
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/13/2025
+  course: PDS4141C
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/13/2025
+  course: PDS2497C
+  title: ADA Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/11/2025
   course: PDS1817B
   title: Defensive Tactics
@@ -4391,14 +4439,14 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/13/2025
+  expiration_date: 7/28/2027
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/16/2001
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 10/13/2025
 education_records:
 - date: 12/14/1996
   degree: Bachelor Arts

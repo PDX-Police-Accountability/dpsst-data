@@ -149,6 +149,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/9/2025
+  course: PDS4151C
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/9/2025
+  course: PDS2539C
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/9/2025
+  course: PDS1402C
+  title: Tourniquets and Trauma Kits
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/8/2025
   course: PDS4238B
   title: Range Qualification

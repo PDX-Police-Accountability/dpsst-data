@@ -63,6 +63,13 @@
 | 8/7/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
 | 8/6/2025 | PDS2835B | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
 | 8/4/2025 | PDS4218B | Firearms | Instructed | 0.0 | 2.00 |
+| 7/31/2025 | PDS2685C | Driving Techniques | Passed | 0.0 | 1.00 |
+| 7/31/2025 | PDS0080C | Emergency Management and Facility Evacuation Plan | Passed | 0.0 | 0.50 |
+| 7/31/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 7/31/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 7/31/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
+| 7/31/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 7/31/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 7/29/2025 | PDS1207B | Red Dot Firearms | Instructed | 0.0 | 27.00 |
 | 7/25/2025 | PDP3488B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 18.00 |
 | 7/25/2025 | GSP4568B | East County Long Range Target Engagement | Passed | 0.0 | 20.00 |

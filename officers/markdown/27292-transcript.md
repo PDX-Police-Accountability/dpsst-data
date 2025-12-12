@@ -52,7 +52,13 @@
 | 11/6/2025 | PDS0826C | AIC Manipulation | Passed | 0.0 | 1.00 |
 | 11/6/2025 | PDS2959C | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 11/6/2025 | PDS0497C | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 10/22/2025 | PDS0882C | Anti-Harassment Training | Passed | 0.0 | 1.00 |
+| 10/22/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 10/22/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
 | 9/30/2025 | PDS3208B | September Crisis Negotiation Team Training | Instructed | 0.0 | 16.00 |
+| 8/13/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 8/11/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 8/11/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 7/22/2025 | PDS2863B | Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/2/2025 | PDS0146A | Sergeant's Training | Passed | 0.0 | 0.50 |

@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2025
+  course: TGP3321C
+  title: Use of Force-The New Social Contract
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/24/2025
   course: TGP0251C
   title: Handgun Training

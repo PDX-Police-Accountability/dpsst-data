@@ -38,10 +38,17 @@
 | 11/19/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |
 | 11/12/2025 | PDS2345C | Legal Update | Passed | 0.0 | 2.00 |
 | 10/29/2025 | PDS3585B | Red Dot Firearms | Passed | 0.0 | 24.00 |
+| 10/16/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
 | 10/9/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/8/2025 | PDS4238B | Range Qualification | Passed | 0.0 | 2.00 |
+| 10/7/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
 | 10/2/2025 | PDS4356B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 10/2/2025 | PDS0716B | Taser 7 | Passed | 0.0 | 4.00 |
+| 9/29/2025 | PDS2685C | Driving Techniques | Passed | 0.0 | 1.00 |
+| 9/29/2025 | PDS0080C | Emergency Management and Facility Evacuation Plan | Passed | 0.0 | 0.50 |
+| 9/29/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 9/29/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 9/16/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 8/7/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |
 | 6/19/2025 | GSP0245B | TCCC, Injury Prevention/Care | Passed | 0.0 | 10.00 |
 | 6/18/2025 | GSP1698B | Barricade Resolution, Deliberate Rescue | Passed | 0.0 | 10.00 |

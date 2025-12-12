@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 9/25/2025
+  course: TGP3321C
+  title: Use of Force-The New Social Contract
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/23/2025
   course: TGP3355B
   title: Policing with Precision

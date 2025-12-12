@@ -134,6 +134,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/25/2025
+  course: PDS1402C
+  title: Tourniquets and Trauma Kits
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/25/2025
+  course: PDS3165C
+  title: Effective Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/24/2025
+  course: PDS4151C
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/24/2025
+  course: PDS3294C
+  title: Facility Emergency Response
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2025
+  course: PDS0895C
+  title: Corrections Health Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/23/2025
+  course: PDS1847C
+  title: Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/23/2025
+  course: PDS2539C
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/23/2025
+  course: PDS1250C
+  title: Transgender Booking  Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/23/2025
+  course: PDS3145C
+  title: Corrections Property Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/23/2025
+  course: PDS1320C
+  title: Restraint Chair
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/17/2025
+  course: PDS2497C
+  title: ADA Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/12/2025
   course: PDP0242B
   title: IPTM Event Data Recorder Crash Reconstruction

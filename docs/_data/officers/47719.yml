@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/9/2025
+  course: HBS3388C
+  title: MFF - Public Order Day 2
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/8/2025
+  course: HBS4202C
+  title: MFF - APR
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2025
+  course: HBS4198C
+  title: MFF - Public Order Day 1
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
 - date: 11/30/2025
   course: BVP3983C
   title: 'Moral Injury: What Is It and What Can We Do?'

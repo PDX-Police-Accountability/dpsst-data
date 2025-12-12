@@ -53,6 +53,17 @@
 | 10/27/2025 | PDP1093B | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 10/27/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 9/30/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 9/25/2025 | PDS1402C | Tourniquets and Trauma Kits | Passed | 0.0 | 1.00 |
+| 9/25/2025 | PDS3165C | Effective Communication | Passed | 0.0 | 1.00 |
+| 9/24/2025 | PDS4151C | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 9/24/2025 | PDS3294C | Facility Emergency Response | Passed | 0.0 | 1.00 |
+| 9/23/2025 | PDS0895C | Corrections Health Training | Passed | 0.0 | 0.50 |
+| 9/23/2025 | PDS1847C | Decision Making | Passed | 0.0 | 0.50 |
+| 9/23/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 9/23/2025 | PDS1250C | Transgender Booking  Searches | Passed | 0.0 | 0.50 |
+| 9/23/2025 | PDS3145C | Corrections Property Training | Passed | 0.0 | 1.50 |
+| 9/23/2025 | PDS1320C | Restraint Chair | Passed | 0.0 | 0.50 |
+| 9/17/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 9/12/2025 | PDP0242B | IPTM Event Data Recorder Crash Reconstruction | Passed | 0.0 | 40.00 |
 | 8/29/2025 | PDP1820B | IPTM Bosch CDR Tool Technician Training | Passed | 0.0 | 24.00 |
 | 8/21/2025 | OCS3453B | FARO Laser Scanner Certification | Passed | 0.0 | 24.00 |

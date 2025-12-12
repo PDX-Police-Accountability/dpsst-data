@@ -45,9 +45,16 @@
 | 12/5/2025 | PDS1900C | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 11/18/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 11/18/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |
+| 11/10/2025 | PDS0080C | Emergency Management and Facility Evacuation Plan | Passed | 0.0 | 0.50 |
+| 11/10/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 11/10/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 11/10/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 11/9/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
+| 11/6/2025 | PDS2685C | Driving Techniques | Passed | 0.0 | 1.00 |
 | 10/24/2025 | PDS1593B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 10/24/2025 | PDS3538C | Taser | Passed | 0.0 | 4.00 |
 | 10/24/2025 | PDS2139C | Taser | Passed | 0.0 | 4.00 |
+| 10/8/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 6/26/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/30/2025 | PDS1585A | Patrol Rifle | Passed | 0.0 | 24.00 |
 | 4/16/2025 | PDS0105A | LE Range | Passed | 0.0 | 2.00 |

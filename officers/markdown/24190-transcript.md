@@ -28,8 +28,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 3/21/2025 | 3/21/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 9/2/2011 |  |
 ## Education
@@ -40,7 +40,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/22/2025 | F1511504 | Tactical Medic Refresher | Passed | 0.0 | 2.00 |
+| 10/22/2025 | F1542562 | Fall Firearms Training/Qualification | Passed | 0.0 | 8.00 |
+| 6/14/2025 | F1534327 | ALERRT Active Shooter Training | Passed | 0.0 | 8.00 |
+| 6/13/2025 | F1534327 | ALERRT Active Shooter Training | Passed | 0.0 | 8.00 |
+| 6/12/2025 | F1509322 | People Leader Training | Passed | 0.0 | 8.00 |
+| 6/11/2025 | F1509322 | People Leader Training | Passed | 0.0 | 8.00 |
+| 6/10/2025 | F1532759 | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 6/10/2025 | F1539904 | TI Use of Force Simulator | Passed | 0.0 | 4.00 |
+| 4/11/2025 | F1511705 | Spring Firearms Training/Qualification | Passed | 0.0 | 8.00 |
+| 4/11/2025 | F1516139 | Taser Recertification | Passed | 0.0 | 4.00 |
 | 4/8/2025 | SMP2056A | Taser Instructor Certification | Passed | 0.0 | 24.00 |
+| 2/5/2025 | F1521677 | BNSF Code of Conduct | Passed | 0.0 | 1.00 |
+| 2/3/2025 | F1530028 | WA State Annual CIT Training | Passed | 0.0 | 2.00 |
 | 12/6/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 0.00 |
 | 11/16/2024 | F1540385 | OC Spray Training | Passed | 0.0 | 1.00 |
 | 11/16/2024 | F1523037 | Baton Training | Passed | 0.0 | 1.00 |

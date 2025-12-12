@@ -21,17 +21,18 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 12/8/2025 | 12/8/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 12/9/2024 |  |
 | Code of Ethics | Law Enforcement Signed | 11/13/2023 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 12/2/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2025 | PDP2271C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2025 | PDP1982C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 11/14/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

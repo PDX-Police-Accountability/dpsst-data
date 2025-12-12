@@ -40,14 +40,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
+| 11/16/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
 | 11/10/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 11/10/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |
 | 10/21/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
+| 10/18/2025 | PDS0080C | Emergency Management and Facility Evacuation Plan | Passed | 0.0 | 0.50 |
 | 10/9/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/18/2025 | PDS1409B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 9/18/2025 | PDS1957B | Taser 7 | Passed | 0.0 | 4.00 |
 | 9/18/2025 | PDS2676B | VR ConSim | Passed | 0.0 | 2.00 |
+| 8/25/2025 | PDS2685C | Driving Techniques | Passed | 0.0 | 1.00 |
+| 8/25/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 8/19/2025 | PDS4218B | Firearms | Passed | 0.0 | 2.00 |
+| 8/14/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 8/14/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 6/28/2025 | PDS2239B | Responding to Agitated Individuals | Passed | 0.0 | 1.00 |
 | 6/24/2025 | PDS0859B | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 6/24/2025 | PDS3485B | Bloodborne Pahogens | Passed | 0.0 | 1.00 |

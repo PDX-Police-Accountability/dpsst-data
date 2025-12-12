@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2025
+  course: PDS2539C
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/5/2025
   course: PDS1900C
   title: Traffic Incident Management
@@ -91,6 +97,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/22/2025
+  course: PDS4008C
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/22/2025
+  course: PDS0736C
+  title: Responding to Agitated Individuals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/22/2025
+  course: PDS2949C
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/17/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

@@ -38,6 +38,12 @@
 | 11/11/2025 | PDS1203C | CSU Courtroom Security Training | Passed | 0.0 | 6.00 |
 | 11/11/2025 | PDS1850C | CSU Restraint Chair Training | Passed | 0.0 | 1.00 |
 | 10/20/2025 | PDS0688B | UNET RANGE QUAL | Passed | 0.0 | 8.00 |
+| 10/9/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 10/9/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |
+| 10/9/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
+| 10/9/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 10/4/2025 | PDS0882C | Anti-Harassment Training | Passed | 0.0 | 1.00 |
+| 10/4/2025 | PDS2497C | ADA Training | Passed | 0.0 | 0.50 |
 | 8/25/2025 | PDS1396B | AIC Manipulation | Passed | 0.0 | 1.00 |
 | 8/25/2025 | PDS2046B | ConSim | Passed | 0.0 | 2.00 |
 | 8/25/2025 | PDS4426B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |

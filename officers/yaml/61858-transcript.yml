@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/9/2025
+  course: MFN1833C
+  title: Leading with Emotional Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/3/2025
   course: MFN2151C
   title: Search and Seizure, Ammo/Firearms

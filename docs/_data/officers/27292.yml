@@ -142,12 +142,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/22/2025
+  course: PDS0882C
+  title: Anti-Harassment Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2025
+  course: PDS0889C
+  title: OSHA  Respiratory Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2025
+  course: PDS2709C
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/30/2025
   course: PDS3208B
   title: September Crisis Negotiation Team Training
   status: Instructed
   score: '0.0'
   hours: '16.00'
+- date: 8/13/2025
+  course: PDS2539C
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/11/2025
+  course: PDS4141C
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/11/2025
+  course: PDS2497C
+  title: ADA Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/22/2025
   course: PDS2863B
   title: Crisis Negotiation Team Training

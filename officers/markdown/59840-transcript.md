@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2025 | OCS0669C | Human Trafficking | Passed | 0.0 | 2.00 |
+| 11/6/2025 | OCS3484C | Consim | Passed | 0.0 | 3.00 |
 | 10/29/2025 | OCS3377B | LSC/MI Booster | Passed | 0.0 | 2.00 |
 | 10/27/2025 | OCS3438C | Cybersecutiry Awareness | Passed | 0.0 | 1.00 |
 | 10/23/2025 | OCS0450B | Enrichment Academy-Victims Services | Passed | 0.0 | 2.00 |

@@ -31,6 +31,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 12/9/2025 | 12/9/2027 |
 | Certification Cards | First Aid and CPR | 1/27/2024 | 1/27/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 4/10/2023 |  |
@@ -42,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2025 | PDN2553C | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 11/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/22/2025 | F1535846 | Ethics Questions for Prosecutors | Passed | 0.0 | 1.00 |
