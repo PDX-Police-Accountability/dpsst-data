@@ -56,6 +56,7 @@
 | 9/30/2025 | OCS0653B | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Instructed | 0.0 | 10.00 |
 | 9/30/2025 | OCS3035C | Ethics | Passed | 0.0 | 1.00 |
+| 9/30/2025 | OCS4460C | Ethics | Passed | 0.0 | 1.00 |
 | 9/25/2025 | SMS3422B | Colt Armorer Course | Passed | 0.0 | 24.00 |
 | 9/25/2025 | SMS3893B | Colt Armorer Course | Passed | 0.0 | 24.00 |
 | 9/22/2025 | OCS3919B | 2025 3rd Qtr Corrections Firearms | Instructed | 0.0 | 18.00 |

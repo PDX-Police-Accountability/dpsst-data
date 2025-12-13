@@ -40,10 +40,12 @@
 | 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
 | 11/15/2025 | OCS3174C | Emotional Intelligence in Law Enforcement | Passed | 0.0 | 3.00 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 10/24/2025 | OCS3297C | Peer Training | Passed | 0.0 | 4.00 |
 | 10/23/2025 | OCP2237B | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 10/1/2025 | PDP3294B | Multi-Agency Motorcade Training | Instructed | 0.0 | 10.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/30/2025 | OCS3035C | Ethics | Passed | 0.0 | 1.00 |
+| 9/30/2025 | OCS4460C | Ethics | Passed | 0.0 | 1.00 |
 | 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 10.00 |
 | 9/1/2025 | OCS1823B | ACAP training | Passed | 0.0 | 2.00 |
 | 7/25/2025 | OCS2727B | PEER training | Passed | 0.0 | 4.00 |

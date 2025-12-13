@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
 | 11/30/2025 | PDP1232C | 2025 Patrol Rifle Operator's IS Day 2 | Passed | 0.0 | 9.00 |
 | 11/23/2025 | PDP1178C | 2023 Video Evidence Basics for the Police Invest | Passed | 0.0 | 1.50 |
 | 11/13/2025 | PDP2246C | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
@@ -59,6 +60,8 @@
 | 10/23/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP1261B | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/15/2025 | PDP0599B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 9/30/2025 | PDP3737C | 2025-1 Supervisors In-Service (CIT/MH) | Passed | 0.0 | 1.00 |
+| 9/30/2025 | PDP4235C | 2025-1 Supervisors In-Service (Leadership hrs) | Passed | 0.0 | 2.00 |
 | 9/24/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/18/2025 | PDP2622B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 4.00 |
 | 9/17/2025 | PDP3643B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

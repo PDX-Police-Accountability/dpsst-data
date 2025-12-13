@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/6/2025
+  course: HBS3525C
+  title: PREA Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/3/2025
   course: BVP1519B
   title: Pistol Mounted Optics Course

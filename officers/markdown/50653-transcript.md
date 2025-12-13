@@ -60,6 +60,8 @@
 | 10/3/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |
 | 10/3/2025 | PDP1668C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 10/3/2025 | PDP2121C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
+| 9/30/2025 | PDP3737C | 2025-1 Supervisors In-Service (CIT/MH) | Passed | 0.0 | 1.00 |
+| 9/30/2025 | PDP4235C | 2025-1 Supervisors In-Service (Leadership hrs) | Passed | 0.0 | 2.00 |
 | 9/26/2025 | PDP1105B | NTOA SWAT Command Decision Making/Leadership | Passed | 0.0 | 36.00 |
 | 9/18/2025 | PDP1917B | SERT Lieutenant Training | Passed | 0.0 | 31.50 |
 | 9/4/2025 | PDP4384C | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |

@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/9/2025
+  course: PDP3618C
+  title: 2025 Sergeant's Leadership Workshop
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/5/2025
   course: PDP3722C
   title: 2025 Introduction to Interpreting in Policing

@@ -43,8 +43,20 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2025
+  course: BNP4545C
+  title: SWAT Tactical Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/26/2025
-  course: 35346C
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/26/2025
+  course: RMP0966C
   title: Officer Wellness
   status: Passed
   score: '0.0'
@@ -52,6 +64,12 @@ training_records:
 - date: 11/18/2025
   course: BNP4252C
   title: SWAT-Hostage Rescue and Building Clearing
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/12/2025
+  course: RMP1835C
+  title: Building search/vehicle extraction/felony car stop
   status: Passed
   score: '0.0'
   hours: '8.00'

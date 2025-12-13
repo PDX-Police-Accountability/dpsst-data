@@ -118,12 +118,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/30/2025
+  course: PDP3737C
+  title: 2025-1 Supervisors In-Service (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2025
+  course: PDP4235C
+  title: 2025-1 Supervisors In-Service (Leadership hrs)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/18/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/17/2025
+  course: PDP3484C
+  title: 2025-1 Supervisors In-Service (Leadership hrs)
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/16/2025
+  course: PDP0233C
+  title: 2025-1 Supervisors In-Service (Leadership hrs)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/10/2025
   course: PDP4172C
   title: 2025 IS Active Threat (Video)

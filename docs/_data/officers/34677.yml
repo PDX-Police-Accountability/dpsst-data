@@ -9,6 +9,18 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/8/2025
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 4/17/2025
+  agency: Portland Police Bureau
+  action: Return LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/2/2024
   agency: Portland Police Bureau
   action: LOA

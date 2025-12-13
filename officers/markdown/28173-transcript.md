@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | MKL2963C | DOC - AT - Humanizing Communication Through CIT | Passed | 0.0 | 2.00 |
+| 12/10/2025 | MKL1725C | DOC - Understanding Mental Ill  Disabilities | Passed | 0.0 | 1.00 |
 | 12/4/2025 | MKL1474C | DEI Diversity Return on Investment | Passed | 0.0 | 1.50 |
 | 12/4/2025 | MKL2692C | DEI Results from the Partners in Diversity | Passed | 0.0 | 1.00 |
 | 12/4/2025 | MKL2353C | Why Equity? Equity as a Value, Practice | Passed | 0.0 | 0.50 |

@@ -52,6 +52,7 @@
 | 10/21/2025 | OCS1084B | Motivational Interviewing | Passed | 0.0 | 6.50 |
 | 10/20/2025 | OCS2620B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 9/30/2025 | OCS3035C | Ethics | Passed | 0.0 | 1.00 |
+| 9/30/2025 | OCS4460C | Ethics | Passed | 0.0 | 1.00 |
 | 9/23/2025 | OCS4279B | Bias part 2 Training | Passed | 0.0 | 1.00 |
 | 8/13/2025 | GPN1389B | Pathways Training | Passed | 0.0 | 20.00 |
 | 8/5/2025 | OCS3591B | DEC Community Summit | Passed | 0.0 | 16.00 |

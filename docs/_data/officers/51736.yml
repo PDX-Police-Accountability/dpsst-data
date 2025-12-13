@@ -212,6 +212,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/30/2025
+  course: PDP3737C
+  title: 2025-1 Supervisors In-Service (CIT/MH)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2025
+  course: PDP4235C
+  title: 2025-1 Supervisors In-Service (Leadership hrs)
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/19/2025
   course: PDP1077B
   title: 2025 SERT Camp Rilea Training

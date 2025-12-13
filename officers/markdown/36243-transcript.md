@@ -46,6 +46,8 @@
 | 12/9/2025 | HBS3388C | MFF - Public Order Day 2 | Passed | 0.0 | 9.00 |
 | 12/8/2025 | HBS4202C | MFF - APR | Passed | 0.0 | 0.50 |
 | 12/8/2025 | HBS4198C | MFF - Public Order Day 1 | Passed | 0.0 | 5.00 |
+| 12/5/2025 | HBS2334C | InService Session #2 Firearms | Passed | 0.0 | 4.50 |
+| 12/5/2025 | HBS1011C | InService Session #2 EVO | Passed | 0.0 | 4.50 |
 | 12/1/2025 | HBS4192C | Virtual - Ambush Awareness  Preparation | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS2200C | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS3003C | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |

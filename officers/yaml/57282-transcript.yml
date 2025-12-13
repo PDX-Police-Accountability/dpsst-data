@@ -3,12 +3,24 @@ header_record:
   name: Young, Andrew K.
   dpsst_identifier: '57282'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/4/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/15/2025
+  agency: Portland Police Bureau
+  action: Return LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/4/2024
   agency: Portland Police Bureau
   action: LOA
@@ -27,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 7/6/2023
-  expiration_date: ''
+  expiration_date: 3/4/2026
   probation_date: ''
 - status_date: 7/6/2023
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 7/6/2023
-  expiration_date: ''
+  expiration_date: 3/4/2026
   probation_date: ''
 - status_date: 5/31/2018
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 5/31/2018
-  expiration_date: ''
+  expiration_date: 3/4/2026
   probation_date: ''
 training_records:
 - date: 12/5/2025
@@ -3234,7 +3246,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024
-  expiration_date: 12/31/2026
+  expiration_date: 12/31/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/14/2018

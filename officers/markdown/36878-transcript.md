@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | VND0002C | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/16/2025 | BVP3628B | SFST/Intoxilyzer Refresher 101625 | Passed | 0.0 | 8.00 |
 | 9/25/2025 | BVP1425B | Control Tactics IST 092525 PM | Instructed | 0.0 | 6.00 |

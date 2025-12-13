@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2025 | APD1722C | Active Threat Tactics | Passed | 0.0 | 4.00 |
+| 12/9/2025 | APD2811C | Tactical Medical | Passed | 0.0 | 4.00 |
 | 11/25/2025 | APD2038C | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 11/25/2025 | APD0881C | Interacting w/ the Mentally Ill as 1st Responder | Passed | 0.0 | 1.00 |
 | 11/24/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

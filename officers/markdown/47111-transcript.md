@@ -39,6 +39,7 @@
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2025 | BVP3983C | Moral Injury: What Is It and What Can We Do? | Passed | 0.0 | 1.00 |
 | 11/6/2025 | BVP0140C | Nov 2025 Night Range 110625 | Passed | 0.0 | 3.00 |
+| 10/6/2025 | HBS3525C | PREA Prison Rape Elimination Act | Passed | 0.0 | 1.00 |
 | 10/3/2025 | BVP1519B | Pistol Mounted Optics Course | Passed | 0.0 | 12.00 |
 | 9/18/2025 | BVP2426B | Control Tactics IST 091825 AM | Passed | 0.0 | 3.00 |
 | 6/26/2025 | BVP2190B | Range June 2025 | Passed | 0.0 | 3.00 |

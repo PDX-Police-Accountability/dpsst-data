@@ -54,7 +54,11 @@
 | 10/16/2025 | PDP1093B | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/8/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 9/30/2025 | PDP3737C | 2025-1 Supervisors In-Service (CIT/MH) | Passed | 0.0 | 1.00 |
+| 9/30/2025 | PDP4235C | 2025-1 Supervisors In-Service (Leadership hrs) | Passed | 0.0 | 2.00 |
 | 9/18/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 9/17/2025 | PDP3484C | 2025-1 Supervisors In-Service (Leadership hrs) | Passed | 0.0 | 3.50 |
+| 9/16/2025 | PDP0233C | 2025-1 Supervisors In-Service (Leadership hrs) | Passed | 0.0 | 1.50 |
 | 9/10/2025 | PDP4172C | 2025 IS Active Threat (Video) | Passed | 0.0 | 1.00 |
 | 8/14/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 8/14/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |

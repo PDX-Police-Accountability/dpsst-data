@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2025
+  course: MKL2963C
+  title: DOC - AT - Humanizing Communication Through CIT
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/10/2025
+  course: MKL1725C
+  title: DOC - Understanding Mental Ill  Disabilities
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/4/2025
   course: MKL1474C
   title: DEI Diversity Return on Investment

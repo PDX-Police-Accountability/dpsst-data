@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/17/2025
+  agency: Portland Police Bureau
+  action: Retrn MLOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 8/12/2024
   agency: Portland Police Bureau
   action: Mil-LOA

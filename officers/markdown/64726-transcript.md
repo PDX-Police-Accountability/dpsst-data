@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/17/2025 | Portland Police Bureau | Retrn MLOA | Police Off |  |  |
 | 8/12/2024 | Portland Police Bureau | Mil-LOA | Police Off |  |  |
 | 11/9/2023 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification

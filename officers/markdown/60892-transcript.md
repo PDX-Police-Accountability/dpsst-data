@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | HBP3071C | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
+| 12/10/2025 | HBP2278C | SFST Proficiency Review and Practice | Passed | 0.0 | 0.00 |
 | 11/24/2025 | FGP1985C | Balancing Innovation  Ethics: AI's Role | Passed | 0.0 | 1.00 |
 | 11/24/2025 | FGP3422C | Balancing Innovation  Ethics: AI's Role | Passed | 0.0 | 1.25 |
 | 11/5/2025 | FGP1548C | DPSST Legal Updates July/August 2025 | Passed | 0.0 | 1.00 |

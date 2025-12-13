@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/9/2025
+  course: PDP3618C
+  title: 2025 Sergeant's Leadership Workshop
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -170,6 +176,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '5.00'
+- date: 9/17/2025
+  course: PDP3484C
+  title: 2025-1 Supervisors In-Service (Leadership hrs)
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/16/2025
+  course: PDP0233C
+  title: 2025-1 Supervisors In-Service (Leadership hrs)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/28/2025
   course: PDP4384C
   title: 2025-1 All Sworn In-Service ABLE Refresher

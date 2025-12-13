@@ -37,8 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/26/2025 | 35346C | Officer Wellness | Passed | 0.0 | 1.00 |
+| 12/4/2025 | BNP4545C | SWAT Tactical Scenarios | Passed | 0.0 | 8.00 |
+| 11/26/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 11/26/2025 | RMP0966C | Officer Wellness | Passed | 0.0 | 1.00 |
 | 11/18/2025 | BNP4252C | SWAT-Hostage Rescue and Building Clearing | Passed | 0.0 | 8.00 |
+| 11/12/2025 | RMP1835C | Building search/vehicle extraction/felony car stop | Passed | 0.0 | 8.00 |
 | 11/6/2025 | BNP3380B | SWAT-Low light weapon Qualifications | Passed | 0.0 | 8.00 |
 | 10/21/2025 | BNP2507B | SWAT-Active Threat and Hostage Rescue | Passed | 0.0 | 8.00 |
 | 10/9/2025 | BNP1088B | SWAT- Firearms Proficiency | Passed | 0.0 | 4.00 |

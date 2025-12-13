@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 11/12/2025
+  course: STP3109C
+  title: Taser 10 Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 11/10/2025
   course: STP3688C
   title: 40MM Less Lethal and Firearms Training

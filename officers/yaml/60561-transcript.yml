@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/8/2025
+  agency: Portland Police Bureau
+  action: Return LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/10/2025
   agency: Portland Police Bureau
   action: LOA
@@ -2238,7 +2244,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025
-  expiration_date: 12/31/2027
+  expiration_date: 12/31/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

@@ -4,7 +4,7 @@
 | name | Young, Andrew K. |
 | dpsst_identifier | 57282 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,21 +12,23 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/4/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
+| 7/15/2025 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 10/4/2024 | Portland Police Bureau | LOA | Police Off |  |  |
 | 5/25/2017 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/6/2023 | Police Officer | Advanced | Granted | 7/6/2023 |  |  |
-| 7/6/2023 | Police Officer | Intermediate | Granted | 7/6/2023 |  |  |
-| 5/31/2018 | Police Officer | Basic | Granted | 5/31/2018 |  |  |
+| 7/6/2023 | Police Officer | Advanced | Granted | 7/6/2023 | 3/4/2026 |  |
+| 7/6/2023 | Police Officer | Intermediate | Granted | 7/6/2023 | 3/4/2026 |  |
+| 5/31/2018 | Police Officer | Basic | Granted | 5/31/2018 | 3/4/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 7/8/2025 | 7/8/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 5/14/2018 |  |
 | Code of Ethics | Signed | 6/14/2017 |  |
 ## Education

@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/30/2025
+  course: OCS4460C
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/15/2025
   course: OCS0409B
   title: ConSims

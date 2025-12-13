@@ -44,6 +44,7 @@
 | 10/31/2025 | OCS1631C | MILO Use of Force Decision Making | Passed | 0.0 | 1.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/30/2025 | OCS3035C | Ethics | Passed | 0.0 | 1.00 |
+| 9/30/2025 | OCS4460C | Ethics | Passed | 0.0 | 1.00 |
 | 9/15/2025 | OCS0409B | ConSims | Passed | 0.0 | 1.00 |
 | 9/1/2025 | OCS1823B | ACAP training | Passed | 0.0 | 2.00 |
 | 8/22/2025 | OCS3533B | Holster Speed / Marksmanship | Passed | 0.0 | 1.00 |
