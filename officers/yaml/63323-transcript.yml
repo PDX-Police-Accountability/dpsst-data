@@ -36,6 +36,78 @@ certification_records:
   expiration_date: ''
   probation_date: 2/18/2027
 training_records:
+- date: 12/10/2025
+  course: PSU3518C
+  title: Defensive Tactics and Appled Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/8/2025
+  course: PSU4536C
+  title: Report Writing 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2025
+  course: PSU0586C
+  title: Report Writing 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2025
+  course: PSU4375C
+  title: Written Communication and Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2025
+  course: PSU0463C
+  title: Clery Act
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/9/2025
+  course: PSU1367C
+  title: Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2025
+  course: PSU1637C
+  title: Arrest, Search, Seizure 4th Amnd
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/31/2025
+  course: PSU3143C
+  title: Bloodborne Pathogens for 1st Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2025
+  course: PSU3442C
+  title: Defensive Driving Basics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2025
+  course: PSU2663C
+  title: Intervention Person in Crisis
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/28/2025
+  course: PSU3405C
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2025
+  course: PSU4304C
+  title: Use of Force Course 101
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/12/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

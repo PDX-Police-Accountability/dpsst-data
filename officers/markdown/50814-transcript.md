@@ -28,8 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 4/22/2025 | 4/22/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 10/21/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
 | 11/13/2025 | PDP2246C | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/12/2025 | PDP0220C | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

@@ -27,9 +27,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 4/3/2025 | 4/3/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 3/7/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/25/2025 | PDP2121C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 11/4/2025 | PDP3639C | 2025 Sup IS HR 2.02 for Supervisors Video | Passed | 0.0 | 0.50 |
 | 11/3/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

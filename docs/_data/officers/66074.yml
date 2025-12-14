@@ -84,6 +84,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/20/2025
+  course: PDP0360C
+  title: 2025-3 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '29.25'
+- date: 11/20/2025
+  course: PDP1690C
+  title: 2025-3 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
+- date: 11/19/2025
+  course: PDP3059C
+  title: 2025-3 Advanced Academy Patrol Procedures FA
+  status: Passed
+  score: '0.0'
+  hours: '85.25'
+- date: 11/19/2025
+  course: PDP4005C
+  title: 2025-3 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '55.50'
+- date: 11/19/2025
+  course: PDP0401C
+  title: 2025-3 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '31.25'
+- date: 11/14/2025
+  course: PDP4167C
+  title: 2025-3 Advanced Academy Walking Beat
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 11/13/2025
+  course: PDP3567C
+  title: 2025-3 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 11/10/2025
+  course: PDP1322C
+  title: 2025-3 Advanced Academy PVO (Vehicle Operations)
+  status: Passed
+  score: '0.0'
+  hours: '40.25'
+- date: 11/6/2025
+  course: PDP1130C
+  title: 2025-3 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/5/2025
+  course: PDP0326C
+  title: 2025-3 Advanced Academy Community Engagement
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/4/2025
+  course: PDP4081C
+  title: 2025-3 Advanced Academy Equity
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 11/3/2025
   course: PDP2795C
   title: '2025-1 Revisiting DIR 0850.10: Custody'
@@ -96,12 +162,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/30/2025
+  course: PDP2847C
+  title: 2025-3 Advanced Academy CIT
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 10/27/2025
   course: PDP1044B
   title: 2025-09 CAO Legal Updates for 2/2025
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/27/2025
+  course: PDP1166C
+  title: 2025-3 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/20/2025
   course: PDP0507B
   title: '2025-9, Legal Updates: State Crimes'
@@ -114,6 +192,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/25/2025
+  course: PDP2355C
+  title: 2025-3 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/25/2025
+  course: PDP0392C
+  title: 2025-3 Advanced Academy Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/24/2025
+  course: PDP4550C
+  title: 2025-3 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/16/2025
+  course: PDP2576C
+  title: 2025-3 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/11/2025
   course: PDP3732B
   title: AA 2025 [ETH-101-H] Intro to Ethics in Policing v2

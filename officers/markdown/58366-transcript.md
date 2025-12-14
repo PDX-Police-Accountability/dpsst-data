@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/28/2026 | 2/28/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/28/2024 | 1/31/2026 |
@@ -43,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 2/28/2026 | OSH4381C | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 10/23/2025 | OSH2536C | OSP Defensive Tactics - 2nd Trimester TASER Course | Passed | 0.0 | 10.00 |
 | 10/21/2025 | OSH1437B | First In Last Out: Extreme Ownership | Passed | 0.0 | 1.00 |
 | 10/20/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

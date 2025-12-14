@@ -36,12 +36,144 @@ certification_records:
   expiration_date: ''
   probation_date: 2/18/2027
 training_records:
+- date: 12/10/2025
+  course: PSU1496C
+  title: Human Trafficking 101
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/10/2025
+  course: PSU3518C
+  title: Defensive Tactics and Appled Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/9/2025
+  course: PSU4437C
+  title: Interview and Interrogations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2025
+  course: PSU1964C
+  title: Intro to Rape Crisis
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2025
+  course: PSU0429C
+  title: Racial Profiling
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2025
+  course: PSU1670C
+  title: Recognize and Respond to DV
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2025
+  course: PSU0314C
+  title: Social Media for Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2025
+  course: PSU1005C
+  title: Suicide Investigation for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2025
+  course: PSU1566C
+  title: Trauma-Informed SA Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2025
+  course: PSU4326C
+  title: Child Abuse and Neglect
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/9/2025
+  course: PSU1433C
+  title: Evidence Collection, Control, Storage
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2025
+  course: PSU3081C
+  title: Report Writing 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2025
+  course: PSU1114C
+  title: Report Writing 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2025
+  course: PSU3094C
+  title: Sudden Unexplained Infant Death SUID
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/8/2025
+  course: PSU2748C
+  title: Written Communication and Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/24/2025
   course: MNP0799C
   title: Yamhill County Crisis Intervention Training
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 8/29/2025
+  course: PSU0291C
+  title: Arrest, Search, Seizure 4th Amd.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/28/2025
+  course: PSU3265C
+  title: Prison Rape Elimination Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2025
+  course: PSU1122C
+  title: Use of Force Course 101
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/28/2025
+  course: PSU1841C
+  title: Air/Bloodborne Pathogen
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2025
+  course: PSU3529C
+  title: Clery Act
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/28/2025
+  course: PSU2643C
+  title: Defensive Driving Basics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2025
+  course: PSU4164C
+  title: Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/18/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

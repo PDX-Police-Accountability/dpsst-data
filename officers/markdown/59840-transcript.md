@@ -27,9 +27,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/20/2025 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 10/7/2024 |  |
 | Certification Cards | First Aid and CPR | 7/25/2024 | 7/25/2026 |
 | Code of Ethics | Law Enforcement Signed | 5/23/2020 |  |
@@ -43,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2025 | OCS0669C | Human Trafficking | Passed | 0.0 | 2.00 |
 | 11/6/2025 | OCS3484C | Consim | Passed | 0.0 | 3.00 |
 | 10/29/2025 | OCS3377B | LSC/MI Booster | Passed | 0.0 | 2.00 |

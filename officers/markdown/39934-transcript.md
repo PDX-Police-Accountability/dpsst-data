@@ -30,9 +30,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 5/5/2025 | 5/5/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 1/29/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/25/2025 | PDP1982C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |

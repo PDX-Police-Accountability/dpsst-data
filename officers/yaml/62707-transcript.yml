@@ -48,6 +48,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2025
+  course: PSU3209C
+  title: Patient Evaluation of Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/10/2025
+  course: PSU3518C
+  title: Defensive Tactics and Appled Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/21/2025
   course: REG3581B
   title: EVO - Skills and Decisions Update / Refresh

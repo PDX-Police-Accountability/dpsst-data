@@ -51,6 +51,7 @@
 | 11/10/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 11/9/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
 | 11/6/2025 | PDS2685C | Driving Techniques | Passed | 0.0 | 1.00 |
+| 11/6/2025 | PDS3072C | ACAP Training | Passed | 0.0 | 2.00 |
 | 10/24/2025 | PDS1593B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 10/24/2025 | PDS3538C | Taser | Passed | 0.0 | 4.00 |
 | 10/24/2025 | PDS2139C | Taser | Passed | 0.0 | 4.00 |

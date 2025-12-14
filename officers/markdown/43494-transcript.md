@@ -32,8 +32,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 4/29/2025 | 4/29/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 2/4/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/18/2025 | PDP2298C | 2020 Trng Managing Critical Incidents Well 5/2020 | Passed | 0.0 | 0.25 |
 | 11/17/2025 | PDP3813C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
 | 11/17/2025 | PDP1367C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |

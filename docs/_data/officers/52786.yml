@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/6/2025
+  course: PDS3072C
+  title: ACAP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/24/2025
   course: PDS1593B
   title: CPR-First Aid-AED

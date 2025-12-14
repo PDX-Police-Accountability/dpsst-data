@@ -28,8 +28,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/16/2025 | 1/16/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 12/16/2016 |  |
 ## Education
@@ -39,6 +39,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/2/2025 | MNS1475C | Domestic Violence Investigations | Passed | 0.0 | 1.50 |
+| 12/2/2025 | MNS3090C | Mental Wellness | Passed | 0.0 | 1.00 |
+| 12/2/2025 | MNS3792C | Taser | Passed | 0.0 | 1.00 |
+| 12/2/2025 | MNS2210C | Traumatic Injury Care | Passed | 0.0 | 1.50 |
+| 12/2/2025 | MNS1732C | YCSO Ethics | Passed | 0.0 | 1.00 |
+| 12/2/2025 | MNS1210C | Vehicle Extractions / WRAP Training | Passed | 0.0 | 1.50 |
 | 9/18/2025 | MNS2258C | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 9/18/2025 | MNS1364C | Firearms Qualification and Skill Builder | Passed | 0.0 | 3.00 |
 | 7/17/2025 | MNS3769B | Ethics in the Workplace | Passed | 0.0 | 0.50 |

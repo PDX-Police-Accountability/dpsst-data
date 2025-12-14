@@ -29,6 +29,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | PSU3518C | Defensive Tactics and Appled Use of Force | Passed | 0.0 | 4.00 |
+| 12/8/2025 | PSU4536C | Report Writing 1 | Passed | 0.0 | 1.00 |
+| 12/8/2025 | PSU0586C | Report Writing 2 | Passed | 0.0 | 1.00 |
+| 12/8/2025 | PSU4375C | Written Communication and Report Writing | Passed | 0.0 | 1.00 |
+| 9/9/2025 | PSU0463C | Clery Act | Passed | 0.0 | 2.00 |
+| 9/9/2025 | PSU1367C | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
+| 8/31/2025 | PSU1637C | Arrest, Search, Seizure 4th Amnd | Passed | 0.0 | 2.00 |
+| 8/31/2025 | PSU3143C | Bloodborne Pathogens for 1st Responders | Passed | 0.0 | 1.00 |
+| 8/31/2025 | PSU3442C | Defensive Driving Basics | Passed | 0.0 | 1.00 |
+| 8/28/2025 | PSU2663C | Intervention Person in Crisis | Passed | 0.0 | 2.00 |
+| 8/28/2025 | PSU3405C | Prison Rape Elimination Act | Passed | 0.0 | 1.00 |
+| 8/28/2025 | PSU4304C | Use of Force Course 101 | Passed | 0.0 | 2.00 |
 | 4/12/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/11/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 4/11/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

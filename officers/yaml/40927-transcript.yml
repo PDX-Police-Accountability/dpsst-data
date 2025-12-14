@@ -128,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/29/2025
+  course: PDP1977C
+  title: NATIA NW Training and Exhibition
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 10/15/2025
   course: PDP0599B
   title: 2025 CNT Crisis Negotiation Team Annual Training

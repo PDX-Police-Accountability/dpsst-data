@@ -29,7 +29,29 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | PSU1496C | Human Trafficking 101 | Passed | 0.0 | 1.00 |
+| 12/10/2025 | PSU3518C | Defensive Tactics and Appled Use of Force | Passed | 0.0 | 4.00 |
+| 12/9/2025 | PSU4437C | Interview and Interrogations | Passed | 0.0 | 1.00 |
+| 12/9/2025 | PSU1964C | Intro to Rape Crisis | Passed | 0.0 | 1.00 |
+| 12/9/2025 | PSU0429C | Racial Profiling | Passed | 0.0 | 1.00 |
+| 12/9/2025 | PSU1670C | Recognize and Respond to DV | Passed | 0.0 | 1.00 |
+| 12/9/2025 | PSU0314C | Social Media for Investigations | Passed | 0.0 | 1.00 |
+| 12/9/2025 | PSU1005C | Suicide Investigation for LE | Passed | 0.0 | 1.00 |
+| 12/9/2025 | PSU1566C | Trauma-Informed SA Investigations | Passed | 0.0 | 1.00 |
+| 12/9/2025 | PSU4326C | Child Abuse and Neglect | Passed | 0.0 | 2.00 |
+| 12/9/2025 | PSU1433C | Evidence Collection, Control, Storage | Passed | 0.0 | 1.00 |
+| 12/8/2025 | PSU3081C | Report Writing 1 | Passed | 0.0 | 1.00 |
+| 12/8/2025 | PSU1114C | Report Writing 2 | Passed | 0.0 | 1.00 |
+| 12/8/2025 | PSU3094C | Sudden Unexplained Infant Death SUID | Passed | 0.0 | 5.00 |
+| 12/8/2025 | PSU2748C | Written Communication and Report Writing | Passed | 0.0 | 1.00 |
 | 10/24/2025 | MNP0799C | Yamhill County Crisis Intervention Training | Passed | 0.0 | 40.00 |
+| 8/29/2025 | PSU0291C | Arrest, Search, Seizure 4th Amd. | Passed | 0.0 | 2.00 |
+| 8/28/2025 | PSU3265C | Prison Rape Elimination Overview | Passed | 0.0 | 1.00 |
+| 8/28/2025 | PSU1122C | Use of Force Course 101 | Passed | 0.0 | 2.00 |
+| 8/28/2025 | PSU1841C | Air/Bloodborne Pathogen | Passed | 0.0 | 1.00 |
+| 8/28/2025 | PSU3529C | Clery Act | Passed | 0.0 | 2.00 |
+| 8/28/2025 | PSU2643C | Defensive Driving Basics | Passed | 0.0 | 1.00 |
+| 8/28/2025 | PSU4164C | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/11/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

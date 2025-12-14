@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 11/3/2025
+  course: RMP2201C
+  title: Firearms / Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/21/2025
   course: BNP2507B
   title: SWAT-Active Threat and Hostage Rescue

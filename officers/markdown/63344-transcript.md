@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | STP0748C | Interview and Interrogation | Passed | 0.0 | 7.00 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2025 | SCP0463C | MILO Scenarios | Passed | 0.0 | 1.00 |
 | 10/30/2025 | VRP3980B | Firearms Range and Qualification | Passed | 0.0 | 4.00 |

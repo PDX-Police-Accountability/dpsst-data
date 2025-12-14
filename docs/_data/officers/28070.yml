@@ -74,6 +74,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/2/2025
+  course: MNS1475C
+  title: Domestic Violence Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/2/2025
+  course: MNS3090C
+  title: Mental Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/2/2025
+  course: MNS3792C
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/2/2025
+  course: MNS2210C
+  title: Traumatic Injury Care
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/2/2025
+  course: MNS1732C
+  title: YCSO Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/2/2025
+  course: MNS1210C
+  title: Vehicle Extractions / WRAP Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/18/2025
   course: MNS2258C
   title: Defensive Tactics
@@ -1239,14 +1281,14 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/16/2025
   expiration_date: 1/16/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

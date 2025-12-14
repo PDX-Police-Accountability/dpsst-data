@@ -162,6 +162,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 11/14/2025
+  course: REG2312C
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/13/2025
   course: HBS2174C
   title: Recruit-Defensive Tactics CONSIM

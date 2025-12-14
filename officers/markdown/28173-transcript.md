@@ -24,8 +24,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 7/30/2024 | 7/25/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 8/10/2018 |  |
 ## Education
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/10/2025 | MKL2963C | DOC - AT - Humanizing Communication Through CIT | Passed | 0.0 | 2.00 |
 | 12/10/2025 | MKL1725C | DOC - Understanding Mental Ill  Disabilities | Passed | 0.0 | 1.00 |
 | 12/4/2025 | MKL1474C | DEI Diversity Return on Investment | Passed | 0.0 | 1.50 |

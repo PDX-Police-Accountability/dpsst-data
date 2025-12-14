@@ -29,6 +29,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/14/2025 | PDP4167C | 2025-3 Advanced Academy Walking Beat | Passed | 0.0 | 20.00 |
+| 11/13/2025 | PDP3567C | 2025-3 Advanced Academy Fitness | Passed | 0.0 | 7.50 |
+| 11/12/2025 | PDP3059C | 2025-3 Advanced Academy Patrol Procedures FA | Passed | 0.0 | 65.25 |
+| 11/12/2025 | PDP4005C | 2025-3 Advanced Academy Control Tactics | Passed | 0.0 | 53.50 |
+| 11/12/2025 | PDP0401C | 2025-3 Advanced Academy Firearms | Passed | 0.0 | 29.25 |
+| 11/10/2025 | PDP1322C | 2025-3 Advanced Academy PVO (Vehicle Operations) | Passed | 0.0 | 40.25 |
+| 11/6/2025 | PDP1130C | 2025-3 Advanced Academy CEW | Passed | 0.0 | 1.25 |
+| 11/5/2025 | PDP0326C | 2025-3 Advanced Academy Community Engagement | Passed | 0.0 | 4.50 |
+| 11/5/2025 | PDP1690C | 2025-3 Advanced Academy Wellness | Passed | 0.0 | 7.50 |
+| 11/4/2025 | PDP4081C | 2025-3 Advanced Academy Equity | Passed | 0.0 | 23.50 |
+| 10/31/2025 | PDP0360C | 2025-3 Advanced Academy Law | Passed | 0.0 | 26.25 |
+| 10/30/2025 | PDP2847C | 2025-3 Advanced Academy CIT | Passed | 0.0 | 21.00 |
+| 10/27/2025 | PDP1166C | 2025-3 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
 | 10/23/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/23/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -45,6 +58,10 @@
 | 10/1/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 9/30/2025 | PDP3463B | AA 2025 [CIT-111-A] Project Respond | Passed | 0.0 | 0.25 |
 | 9/30/2025 | PDP4546B | AA 2025 [CIT-112-A] Behavioral Health Unit | Passed | 0.0 | 0.25 |
+| 9/25/2025 | PDP2355C | 2025-3 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
+| 9/25/2025 | PDP0392C | 2025-3 Advanced Academy Procedural Justice | Passed | 0.0 | 0.50 |
+| 9/24/2025 | PDP4550C | 2025-3 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
+| 9/16/2025 | PDP2576C | 2025-3 Advanced Academy Patrol Procedures | Passed | 0.0 | 9.00 |
 | 9/11/2025 | PDP3732B | AA 2025 [ETH-101-H] Intro to Ethics in Policing v2 | Passed | 0.0 | 0.25 |
 | 9/11/2025 | PDP3747B | AA 2025 [PJU-101-H] Introd to PLPJ | Passed | 0.0 | 0.25 |
 | 9/11/2025 | PDP2547B | AA 2025 [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |

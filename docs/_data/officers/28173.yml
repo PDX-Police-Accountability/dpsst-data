@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2025
+  course: MISCMAIN
+  title: 2025 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/10/2025
   course: MKL2963C
   title: DOC - AT - Humanizing Communication Through CIT
@@ -2754,6 +2760,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/30/2024
@@ -2761,7 +2771,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/15/2019

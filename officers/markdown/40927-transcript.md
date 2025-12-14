@@ -50,6 +50,7 @@
 | 11/5/2025 | PDP2662C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 11/5/2025 | PDP0872C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 11/5/2025 | PDP1491C | 2025-10, Legal Updates: Miranda  Right | Passed | 0.0 | 0.25 |
+| 10/29/2025 | PDP1977C | NATIA NW Training and Exhibition | Passed | 0.0 | 20.00 |
 | 10/15/2025 | PDP0599B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 10/8/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/8/2025 | PDP4544B | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |

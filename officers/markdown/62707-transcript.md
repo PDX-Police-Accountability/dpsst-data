@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | PSU3209C | Patient Evaluation of Law Enforcement | Passed | 0.0 | 2.00 |
+| 12/10/2025 | PSU3518C | Defensive Tactics and Appled Use of Force | Passed | 0.0 | 4.00 |
 | 7/21/2025 | REG3581B | EVO - Skills and Decisions Update / Refresh | Passed | 0.0 | 4.00 |
 | 7/21/2025 | PSU2938B | Emergency Vehicle Operation Skill Refresher | Passed | 0.0 | 2.00 |
 | 3/20/2025 | PSU1189A | MCDA Legal Update: UUV | Passed | 0.0 | 1.50 |

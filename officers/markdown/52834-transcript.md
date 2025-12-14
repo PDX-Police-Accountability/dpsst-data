@@ -28,9 +28,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 1/11/2021 |  |
 | Code of Ethics | Telecommunication Signed | 7/28/2019 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/10/2025 | OCS1299C | Bias Crime Training | Passed | 0.0 | 0.25 |
 | 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
 | 10/31/2025 | OCS1631C | MILO Use of Force Decision Making | Passed | 0.0 | 1.00 |

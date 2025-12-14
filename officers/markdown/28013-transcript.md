@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | PSU3518C | Defensive Tactics and Appled Use of Force | Passed | 0.0 | 4.00 |
 | 9/10/2025 | VND3929B | Effective Public Safety Background Investigations | Passed | 0.0 | 16.00 |
 | 3/20/2025 | PSU2669A | Q1 Qualification/Shooting  Moving | Passed | 0.0 | 1.50 |
 | 2/4/2025 | PSU3753A | Equity in Policing and Public Safety | Passed | 0.0 | 3.00 |

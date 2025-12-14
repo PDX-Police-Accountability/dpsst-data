@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/7/2025
+  course: PDP1788C
+  title: 2025 External Trng FBI-LEEDA Supervisor Leadership
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 10/30/2025
   course: PDP0733C
   title: 2025 SERT Training - FIREARMS
