@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2025
+  course: PDP1121C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -869,6 +875,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/13/2025
+  expiration_date: 12/13/2027
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025
@@ -885,8 +895,4 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/13/2023
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 12/2/2025
 education_records: []

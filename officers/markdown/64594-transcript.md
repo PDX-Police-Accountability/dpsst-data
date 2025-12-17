@@ -29,7 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2020 | No Degree | All Other Education Institutes |  | 54.0 |
+| 5/22/2020 | Masters Arts | All Other Education Institutes |  | 54.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

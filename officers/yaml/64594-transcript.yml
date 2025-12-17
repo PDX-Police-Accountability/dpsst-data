@@ -740,8 +740,8 @@ attribute_records:
   effective_date: 11/27/2023
   expiration_date: ''
 education_records:
-- date: 6/15/2020
-  degree: No Degree
+- date: 5/22/2020
+  degree: Masters Arts
   school: All Other Education Institutes
   major: ''
   hours: '54.0'

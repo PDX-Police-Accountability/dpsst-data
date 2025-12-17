@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2025
+  course: LGP1004C
+  title: SWAT-Team movement / Hostage Rescue
+  status: ''
+  score: '0.0'
+  hours: '6.00'
 - date: 11/13/2025
   course: LGS2606C
   title: Legal Update
