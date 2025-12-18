@@ -31,17 +31,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2025 | PDP1098C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 27.00 |
 | 11/20/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
-| 11/10/2025 | BNS3328C | SFST Refresher/DUII Wet Lab | Passed | 0.0 | 4.00 |
-| 11/1/2025 | BNS0095C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 10/23/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
 | 10/17/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/17/2025 | PDP1093B | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 10/9/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
-| 10/1/2025 | BNS1771B | Information Elicitation | Passed | 0.0 | 2.00 |
-| 10/1/2025 | BNS2263B | WRAP Application | Passed | 0.0 | 1.00 |
-| 10/1/2025 | BNS3597B | SHIELD Use of Force Reporting | Passed | 0.0 | 1.00 |
 | 10/1/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/1/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/1/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -52,11 +48,8 @@
 | 8/8/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/24/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
-| 7/8/2025 | BNS1446B | Pepperball | Instructed | 0.0 | 2.00 |
 | 6/28/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 5/22/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
-| 5/12/2025 | BNS3570B | K9 Case law update and bite work | Passed | 0.0 | 2.00 |
-| 5/12/2025 | BNS2982B | Expandable Baton | Passed | 0.0 | 2.00 |
 | 4/25/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 4/25/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 4/25/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
@@ -83,7 +76,6 @@
 | 3/5/2025 | PDP0221A | 2025 Sworn In-Service PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 3/5/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 2/19/2025 | PDP3390A | 2025 Field Training Officer In-Service | Passed | 0.0 | 6.50 |
-| 2/13/2025 | BNS1582A | Pepperball | Instructed | 0.0 | 3.00 |
 | 2/6/2025 | PDP3367A | 2025 Bridging the Language Gap | Passed | 0.0 | 0.50 |
 | 2/6/2025 | PDP1564A | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 2/6/2025 | PDP2899A | Dir 0640.37 Comm with Persons Limited English | Passed | 0.0 | 0.25 |
@@ -95,9 +87,6 @@
 | 12/19/2024 | PDP0578A | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 11/21/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2024 | PDP0004A | 2024-2 Field Training Officer (FTO) | Passed | 0.0 | 40.00 |
-| 10/14/2024 | BNS3545A | Strangulation | Passed | 0.0 | 0.50 |
-| 10/14/2024 | BNS1058A | Emergeny Protection Orders | Passed | 0.0 | 1.00 |
-| 10/14/2024 | BNS3785A | UOF Reporting | Passed | 0.0 | 1.50 |
 | 10/10/2024 | PDP3189A | 2024-3 All Sworn In-Service CAO Legal Updates Supp | Passed | 0.0 | 0.25 |
 | 10/10/2024 | PDP1215A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 10/1/2024 | PDP0778A | 2024-3 All Sworn In-Service CAO Legal Updates | Passed | 0.0 | 2.50 |
@@ -128,12 +117,7 @@
 | 7/3/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/3/2024 | PDP1749A | 2024-3 Tips  Techniques Pursuits | Passed | 0.0 | 0.25 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
-| 6/24/2024 | BNS0790A | EVOC - Patrol Vehicle and Armored Rescue Vehicle | Passed | 0.0 | 2.00 |
-| 6/24/2024 | BNS4491A | PIT | Passed | 0.0 | 1.00 |
-| 6/24/2024 | BNS1423A | Pursuit Management | Passed | 0.0 | 1.00 |
 | 5/26/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
-| 5/13/2024 | BNS2976A | Breaching, Vehicle pins, High risk veh stops | Passed | 0.0 | 2.00 |
-| 5/13/2024 | BNS4075A | Narcotics recognition and Search and Seizure | Passed | 0.0 | 2.00 |
 | 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/25/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 4/25/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
@@ -144,8 +128,6 @@
 | 2/22/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/22/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 2/10/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
-| 2/5/2024 | BNS0679A | Digital Forensics / Warrant builder | Passed | 0.0 | 3.00 |
-| 1/24/2024 | BNS1289A | HSI Adult First Aid CPR AED All Ages | Passed | 0.0 | 4.00 |
 | 12/16/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/16/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/21/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
@@ -162,8 +144,6 @@
 | 10/25/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 10/25/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
 | 10/25/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
-| 10/12/2023 | BNS0891A | Mechanical Breaching | Passed | 0.0 | 2.00 |
-| 10/12/2023 | BNS1768A | Trauma Informed Care | Passed | 0.0 | 4.00 |
 | 10/2/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 10/2/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

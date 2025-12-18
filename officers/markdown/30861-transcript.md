@@ -45,12 +45,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2025 | BNS3114C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 11/30/2025 | BNS3127C | DCSO Policies: 4.41 and 5.14 | Passed | 0.0 | 1.00 |
 | 11/26/2025 | BNS1555C | (Police1) Airway Circulatory Anatomy Physiology | Passed | 0.0 | 2.00 |
 | 11/23/2025 | BNS0202C | DCSO Policies: 4.10 Evidence, 4.34 Social Media | Passed | 0.0 | 1.00 |
+| 11/10/2025 | BNS3328C | SFST Refresher/DUII Wet Lab | Passed | 0.0 | 4.00 |
 | 11/3/2025 | BNS2450C | Pepperball Instructor Development Course | Instructed | 0.0 | 16.00 |
 | 11/2/2025 | BNS1694C | (Police1) Implicit Bias | Passed | 0.0 | 1.00 |
+| 11/1/2025 | BNS0095C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 10/15/2025 | BNS4407B | Annual Pepperball Refresher | Instructed | 0.0 | 2.00 |
+| 10/1/2025 | BNS1771B | Information Elicitation | Passed | 0.0 | 2.00 |
+| 10/1/2025 | BNS2263B | WRAP Application | Passed | 0.0 | 1.00 |
+| 10/1/2025 | BNS3597B | SHIELD Use of Force Reporting | Passed | 0.0 | 1.00 |
 | 9/29/2025 | BNS1290B | Vehicle Close Quarters Battle (VCQB) | Instructed | 0.0 | 1.50 |
 | 9/3/2025 | BNS2860B | Firearms | Passed | 0.0 | 4.00 |
 | 9/3/2025 | BNS0086B | 40MM | Passed | 0.0 | 4.00 |
@@ -61,13 +67,20 @@
 | 7/14/2025 | BNS3425B | July Firearms | Passed | 0.0 | 2.00 |
 | 7/14/2025 | BNS2038B | July Firearms | Passed | 0.0 | 2.00 |
 | 7/14/2025 | BNS1111B | July Arrest and Control | Passed | 0.0 | 2.00 |
+| 7/8/2025 | BNS1446B | Pepperball | Passed | 0.0 | 2.00 |
 | 6/3/2025 | BNS0955A | SWAT - HRT / Barricade Scenarios | Passed | 0.0 | 8.00 |
 | 5/12/2025 | BNS3678B | Trauma informed care | Passed | 0.0 | 0.75 |
+| 5/12/2025 | BNS3570B | K9 Case law update and bite work | Passed | 0.0 | 2.00 |
+| 5/12/2025 | BNS2982B | Expandable Baton | Passed | 0.0 | 2.00 |
 | 4/9/2025 | BNS0903A | ARCON/Firearms | Passed | 0.0 | 4.00 |
 | 3/27/2025 | BNS1693A | Officer Involved Shooting Investigations | Passed | 0.0 | 1.00 |
 | 3/2/2025 | BNS4138A | Welcome to the Patrol Division Leadership Team | Passed | 0.0 | 1.50 |
 | 2/24/2025 | BNS3186A | Building Clearing/Prep for Retirement | Passed | 0.0 | 3.00 |
+| 2/13/2025 | BNS1582A | Pepperball | Instructed | 0.0 | 3.00 |
 | 11/6/2024 | BNS3028A | Use of Force, Pepperball, 40mm | Instructed | 0.0 | 2.00 |
+| 10/14/2024 | BNS3545A | Strangulation | Passed | 0.0 | 0.50 |
+| 10/14/2024 | BNS1058A | Emergeny Protection Orders | Passed | 0.0 | 1.00 |
+| 10/14/2024 | BNS3785A | UOF Reporting | Passed | 0.0 | 1.50 |
 | 10/11/2024 | BNS1728A | Skid Car | Passed | 0.0 | 0.50 |
 | 10/11/2024 | BNS1703A | Skid Car | Passed | 0.0 | 0.50 |
 | 9/23/2024 | BNS0305A | 40MM | Passed | 0.0 | 1.00 |
@@ -75,6 +88,11 @@
 | 9/23/2024 | BNS0390A | Use Of Force update | Passed | 0.0 | 1.00 |
 | 9/23/2024 | BNS2636A | Low Light Firearms | Passed | 0.0 | 2.00 |
 | 6/28/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 6/24/2024 | BNS0790A | EVOC - Patrol Vehicle and Armored Rescue Vehicle | Passed | 0.0 | 2.00 |
+| 6/24/2024 | BNS4491A | PIT | Passed | 0.0 | 1.00 |
+| 6/24/2024 | BNS1423A | Pursuit Management | Passed | 0.0 | 1.00 |
+| 5/13/2024 | BNS2976A | Breaching, Vehicle pins, High risk veh stops | Passed | 0.0 | 2.00 |
+| 5/13/2024 | BNS4075A | Narcotics recognition and Search and Seizure | Passed | 0.0 | 2.00 |
 | 5/10/2024 | BNS2141A | Active Threat | Instructed | 0.0 | 4.00 |
 | 4/16/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Passed | 0.0 | 80.00 |
 | 4/15/2024 | BNS3728A | Arrest and Control | Passed | 0.0 | 2.00 |
@@ -94,12 +112,14 @@
 | 2/5/2024 | BNS0236A | Working With DHS and Child Welfare | Passed | 0.0 | 2.00 |
 | 2/5/2024 | BNS2783A | Patrol Tactics | Passed | 0.0 | 5.00 |
 | 2/5/2024 | BNS3491A | Working with Mental Health /Stabilization Center | Passed | 0.0 | 1.00 |
+| 2/5/2024 | BNS0679A | Digital Forensics / Warrant builder | Passed | 0.0 | 3.00 |
 | 2/2/2024 | BNS3080A | Active Threat | Passed | 0.0 | 4.00 |
 | 2/2/2024 | BNS4226A | Arrest and Control | Passed | 0.0 | 32.00 |
 | 1/31/2024 | BNS4512A | 40MM | Passed | 0.0 | 2.00 |
 | 1/29/2024 | BNS1810A | Rifle Familiarization | Passed | 0.0 | 1.00 |
 | 1/29/2024 | BNS3008A | Pistol, Rifle | Passed | 0.0 | 24.00 |
 | 1/24/2024 | BNS2370A | TCCC | Passed | 0.0 | 4.00 |
+| 1/24/2024 | BNS1289A | HSI Adult First Aid CPR AED All Ages | Passed | 0.0 | 4.00 |
 | 1/23/2024 | BNS4427A | Building searches, High Risk Stops | Passed | 0.0 | 8.00 |
 | 1/22/2024 | BNS2730A | Tactical De-escalation | Passed | 0.0 | 4.00 |
 | 1/19/2024 | BNS0509A | PepperBall, OC | Passed | 0.0 | 5.00 |
@@ -111,6 +131,8 @@
 | 1/5/2024 | BNS4146A | Radar/Lidar Operator's Course | Passed | 0.0 | 6.00 |
 | 1/5/2024 | BNS4063A | Radar/Lidar Operator's Course | Passed | 0.0 | 6.00 |
 | 1/2/2024 | BNS1951A | Core Values- Effective Communication | Passed | 0.0 | 4.00 |
+| 10/12/2023 | BNS0891A | Mechanical Breaching | Passed | 0.0 | 2.00 |
+| 10/12/2023 | BNS1768A | Trauma Informed Care | Passed | 0.0 | 4.00 |
 | 3/28/2023 | BNS4235A | The Hobble, The WRAP, Transport restraints | Passed | 0.0 | 6.00 |
 | 3/16/2023 | BNS2366A | EVOC | Passed | 0.0 | 8.00 |
 | 3/14/2023 | BNS1313A | Off Duty Carry, Emergency Restraint Chair | Passed | 0.0 | 3.00 |

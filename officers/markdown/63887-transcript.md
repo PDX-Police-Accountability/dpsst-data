@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 11/5/2025 | 11/5/2027 |
 | Code of Ethics | Law Enforcement Signed | 11/4/2025 |  |
 | Code of Ethics | Law Enforcement Signed | 6/12/2023 |  |
 ## Education
@@ -30,6 +31,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2025 | HSU0730C | Law | Passed | 0.0 | 4.00 |
+| 11/25/2025 | HSU0494C | Taser/ BWC | Passed | 0.0 | 5.00 |
+| 11/23/2025 | HSU3445C | Firearms | Passed | 0.0 | 30.00 |
+| 11/14/2025 | HSU3445C | Firearms | Passed | 0.0 | 4.00 |
+| 11/14/2025 | HSU0640C | Active Threat | Passed | 0.0 | 4.00 |
+| 11/13/2025 | HSU4013C | Control Tactics | Passed | 0.0 | 4.00 |
+| 11/13/2025 | HSU0494C | Taser/ BWC | Passed | 0.0 | 5.00 |
+| 11/12/2025 | HSU4013C | Control Tactics | Passed | 0.0 | 3.00 |
+| 11/5/2025 | HSU3745C | Critical Incident Response | Passed | 0.0 | 3.00 |
+| 11/5/2025 | HSU4599C | CPR First Aid | Passed | 0.0 | 3.00 |
 | 6/3/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 5/24/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/24/2024 | PDP2034A | 2024-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |

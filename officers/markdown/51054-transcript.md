@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2025 | PDP0824C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 12/4/2025 | PDP4169C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/26/2025 | PDP2603C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/26/2025 | PDP2603C | 2025 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
 | 11/25/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

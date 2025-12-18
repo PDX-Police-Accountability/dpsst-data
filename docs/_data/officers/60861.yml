@@ -24,24 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/3/2025
+  course: PDP1098C
+  title: 2025 Red Dot Sight for Pistol Transition
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 11/20/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 11/10/2025
-  course: BNS3328C
-  title: SFST Refresher/DUII Wet Lab
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 11/1/2025
-  course: BNS0095C
-  title: "(Police1) Foundations in Ethic for LE"
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 10/23/2025
   course: PDP3739B
   title: '2025-10 CAO Updates: Disorderly Conduct'
@@ -72,24 +66,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 10/1/2025
-  course: BNS1771B
-  title: Information Elicitation
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 10/1/2025
-  course: BNS2263B
-  title: WRAP Application
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 10/1/2025
-  course: BNS3597B
-  title: SHIELD Use of Force Reporting
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 10/1/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training
@@ -150,12 +126,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 7/8/2025
-  course: BNS1446B
-  title: Pepperball
-  status: Instructed
-  score: '0.0'
-  hours: '2.00'
 - date: 6/28/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'
@@ -168,18 +138,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 5/12/2025
-  course: BNS3570B
-  title: K9 Case law update and bite work
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 5/12/2025
-  course: BNS2982B
-  title: Expandable Baton
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/25/2025
   course: PDP0359B
   title: ORS 181A.440 Airways Part 2
@@ -336,12 +294,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
-- date: 2/13/2025
-  course: BNS1582A
-  title: Pepperball
-  status: Instructed
-  score: '0.0'
-  hours: '3.00'
 - date: 2/6/2025
   course: PDP3367A
   title: 2025 Bridging the Language Gap
@@ -408,24 +360,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
-- date: 10/14/2024
-  course: BNS3545A
-  title: Strangulation
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 10/14/2024
-  course: BNS1058A
-  title: Emergeny Protection Orders
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 10/14/2024
-  course: BNS3785A
-  title: UOF Reporting
-  status: Passed
-  score: '0.0'
-  hours: '1.50'
 - date: 10/10/2024
   course: PDP3189A
   title: 2024-3 All Sworn In-Service CAO Legal Updates Supp
@@ -606,42 +540,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
-- date: 6/24/2024
-  course: BNS0790A
-  title: EVOC - Patrol Vehicle and Armored Rescue Vehicle
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 6/24/2024
-  course: BNS4491A
-  title: PIT
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/24/2024
-  course: BNS1423A
-  title: Pursuit Management
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/26/2024
   course: PDP0018A
   title: 2024-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 5/13/2024
-  course: BNS2976A
-  title: Breaching, Vehicle pins, High risk veh stops
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 5/13/2024
-  course: BNS4075A
-  title: Narcotics recognition and Search and Seizure
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 5/1/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response
@@ -702,18 +606,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 2/5/2024
-  course: BNS0679A
-  title: Digital Forensics / Warrant builder
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
-- date: 1/24/2024
-  course: BNS1289A
-  title: HSI Adult First Aid CPR AED All Ages
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 12/16/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -810,18 +702,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
-- date: 10/12/2023
-  course: BNS0891A
-  title: Mechanical Breaching
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 10/12/2023
-  course: BNS1768A
-  title: Trauma Informed Care
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 10/2/2023
   course: PDP1181A
   title: 2022-12 CAO Legal Updates

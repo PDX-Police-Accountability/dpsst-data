@@ -36,6 +36,66 @@ certification_records:
   expiration_date: ''
   probation_date: 5/3/2027
 training_records:
+- date: 11/25/2025
+  course: HSU0730C
+  title: Law
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/25/2025
+  course: HSU0494C
+  title: Taser/ BWC
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/23/2025
+  course: HSU3445C
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 11/14/2025
+  course: HSU3445C
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/14/2025
+  course: HSU0640C
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/13/2025
+  course: HSU4013C
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/13/2025
+  course: HSU0494C
+  title: Taser/ BWC
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/12/2025
+  course: HSU4013C
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/5/2025
+  course: HSU3745C
+  title: Critical Incident Response
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/5/2025
+  course: HSU4599C
+  title: CPR First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/3/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response
@@ -553,6 +613,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 11/5/2025
+  expiration_date: 11/5/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 11/4/2025

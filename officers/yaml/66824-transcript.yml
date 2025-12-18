@@ -3,12 +3,18 @@ header_record:
   name: Arellano-Hurtado, Christopher S.
   dpsst_identifier: '66824'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/5/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 9/25/2025
   agency: Portland Police Bureau
   action: Hired
@@ -27,9 +33,9 @@ training_records:
 - date: 10/27/2025
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Withdrew
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
 - date: 10/23/2025
   course: PDP1892B
   title: 2025 FTEP New Hire Firearms

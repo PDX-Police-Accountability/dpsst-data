@@ -40,7 +40,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 12/10/2025 | PDP1098C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 9.00 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
+| 12/8/2025 | PDP1098C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 18.00 |
 | 12/3/2025 | PDP3046C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/20/2025 | PDP1936C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/5/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |

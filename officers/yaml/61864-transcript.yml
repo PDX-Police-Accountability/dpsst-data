@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/3/2025
+  course: PDP1098C
+  title: 2025 Red Dot Sight for Pistol Transition
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 11/19/2025
   course: PDP4084C
   title: '2025-10 CAO Updates: Disorderly Conduct  ORS'

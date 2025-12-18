@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/3/2025
+  course: PDP1098C
+  title: 2025 Red Dot Sight for Pistol Transition
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 11/25/2025
   course: PDP2121C
   title: 2025-1 All Sworn In-Service PVO

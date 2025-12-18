@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2025 | PDP1098C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 9.00 |
+| 12/8/2025 | PDP1098C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 18.00 |
 | 12/3/2025 | PDP3046C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/26/2025 | PDP0582C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/20/2025 | PDP1936C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

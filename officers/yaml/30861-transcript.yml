@@ -104,6 +104,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2025
+  course: BNS3114C
+  title: "(Police1) Foundations in Ethic for LE"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/30/2025
   course: BNS3127C
   title: 'DCSO Policies: 4.41 and 5.14'
@@ -122,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/10/2025
+  course: BNS3328C
+  title: SFST Refresher/DUII Wet Lab
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/3/2025
   course: BNS2450C
   title: Pepperball Instructor Development Course
@@ -134,12 +146,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/1/2025
+  course: BNS0095C
+  title: "(Police1) Foundations in Ethic for LE"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/15/2025
   course: BNS4407B
   title: Annual Pepperball Refresher
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 10/1/2025
+  course: BNS1771B
+  title: Information Elicitation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2025
+  course: BNS2263B
+  title: WRAP Application
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2025
+  course: BNS3597B
+  title: SHIELD Use of Force Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/29/2025
   course: BNS1290B
   title: Vehicle Close Quarters Battle (VCQB)
@@ -200,6 +236,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/8/2025
+  course: BNS1446B
+  title: Pepperball
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/3/2025
   course: BNS0955A
   title: SWAT - HRT / Barricade Scenarios
@@ -212,6 +254,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 5/12/2025
+  course: BNS3570B
+  title: K9 Case law update and bite work
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/12/2025
+  course: BNS2982B
+  title: Expandable Baton
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/9/2025
   course: BNS0903A
   title: ARCON/Firearms
@@ -236,12 +290,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/13/2025
+  course: BNS1582A
+  title: Pepperball
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/6/2024
   course: BNS3028A
   title: Use of Force, Pepperball, 40mm
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 10/14/2024
+  course: BNS3545A
+  title: Strangulation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/14/2024
+  course: BNS1058A
+  title: Emergeny Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2024
+  course: BNS3785A
+  title: UOF Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/11/2024
   course: BNS1728A
   title: Skid Car
@@ -284,6 +362,36 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 6/24/2024
+  course: BNS0790A
+  title: EVOC - Patrol Vehicle and Armored Rescue Vehicle
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/24/2024
+  course: BNS4491A
+  title: PIT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/24/2024
+  course: BNS1423A
+  title: Pursuit Management
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2024
+  course: BNS2976A
+  title: Breaching, Vehicle pins, High risk veh stops
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/13/2024
+  course: BNS4075A
+  title: Narcotics recognition and Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/10/2024
   course: BNS2141A
   title: Active Threat
@@ -398,6 +506,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/5/2024
+  course: BNS0679A
+  title: Digital Forensics / Warrant builder
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/2/2024
   course: BNS3080A
   title: Active Threat
@@ -431,6 +545,12 @@ training_records:
 - date: 1/24/2024
   course: BNS2370A
   title: TCCC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/24/2024
+  course: BNS1289A
+  title: HSI Adult First Aid CPR AED All Ages
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -497,6 +617,18 @@ training_records:
 - date: 1/2/2024
   course: BNS1951A
   title: Core Values- Effective Communication
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/12/2023
+  course: BNS0891A
+  title: Mechanical Breaching
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/12/2023
+  course: BNS1768A
+  title: Trauma Informed Care
   status: Passed
   score: '0.0'
   hours: '4.00'

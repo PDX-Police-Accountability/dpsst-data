@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2025 | GLP0613C | Defensive Tactics Winter 2025 | Passed | 0.0 | 2.00 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Passed | 0.0 | 4.00 |
 | 10/13/2025 | GLP1210B | Q3 Range - Threat ID and Target Transition | Passed | 0.0 | 3.00 |
 | 9/3/2025 | GLP0855B | Taser 10 Operation Course | Passed | 0.0 | 6.00 |

@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2025
+  course: PDP2559C
+  title: 2025 Intoxilyzer 8000 Certification Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/9/2025
   course: PDP3618C
   title: 2025 Sergeant's Leadership Workshop
