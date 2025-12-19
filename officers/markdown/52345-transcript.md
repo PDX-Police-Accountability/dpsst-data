@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/5/2025 | PDP3513C | Training Mental Health in Tactical Populations | Passed | 0.0 | 6.00 |
 | 11/20/2025 | PDP3257C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/3/2025 | PDP2558C | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |

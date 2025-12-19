@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/5/2025
+  course: BPT4527C
+  title: Field Training and Evlauation Program
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/21/2025
   course: REG3581B
   title: EVO - Skills and Decisions Update / Refresh

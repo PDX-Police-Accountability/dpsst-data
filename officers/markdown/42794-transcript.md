@@ -46,6 +46,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2025 | OCS1460C | Use of Force and the Mentally Ill | Passed | 0.0 | 1.00 |
+| 12/2/2025 | OCS3034C | Marksmanship, Shoot / No Shoot decisions | Instructed | 0.0 | 3.00 |
+| 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |
+| 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Instructed | 0.0 | 30.00 |
 | 11/21/2025 | OCS4395C | November 2025 New Hire Firearms | Instructed | 0.0 | 20.00 |
 | 11/15/2025 | OCS3174C | Emotional Intelligence in Law Enforcement | Passed | 0.0 | 3.00 |
 | 11/5/2025 | OCS2855C | 2025 Fall Patrol Rifle | Instructed | 0.0 | 12.00 |

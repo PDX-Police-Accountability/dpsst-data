@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/9/2025 | PDP3070C | FTEP Geography | Passed | 0.0 | 1.75 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
 | 11/26/2025 | PDP0971C | 2018 TOD 100% Collection  Submission | Passed | 0.0 | 0.25 |
 | 11/26/2025 | PDP0713C | 2018-5 TT 100% Collection  Submission | Passed | 0.0 | 0.25 |
@@ -47,12 +48,14 @@
 | 11/26/2025 | PDP0373C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 11/26/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/26/2025 | PDP2428C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 11/19/2025 | PDP0240C | Post Basic CEW (Conducted Electrical Weapon) | Passed | 0.0 | 9.00 |
 | 11/17/2025 | PDP1860C | DIR 0640.37, Communication w/ Persons Who Have | Passed | 0.0 | 0.25 |
 | 11/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/12/2025 | PDP2140C | 2025 All Sworn IS PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
 | 11/12/2025 | PDP0851C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
 | 11/12/2025 | PDP0856C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 10/21/2025 | REG4197C | SFST/DID (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
+| 10/2/2025 | REG1129C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/11/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 7/24/2025 | PDP0680B | IS 700 National Inc Manage System Intro | Passed | 0.0 | 4.00 |
 | 7/24/2025 | PDP1876B | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |

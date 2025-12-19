@@ -45,6 +45,7 @@
 | 12/12/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/10/2025 | OCS1299C | Bias Crime Training | Passed | 0.0 | 0.25 |
 | 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
+| 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |
 | 10/31/2025 | OCS1631C | MILO Use of Force Decision Making | Passed | 0.0 | 1.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/25/2025 | OCS2862B | Negotiation debfrief and Negotiating with Veterans | Passed | 0.0 | 4.00 |

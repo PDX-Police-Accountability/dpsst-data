@@ -30,12 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/9/2025
+  course: PDP3070C
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 12/2/2025
   course: PDP2729C
   title: Property and Evidence
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/19/2025
+  course: PDP0240C
+  title: Post Basic CEW (Conducted Electrical Weapon)
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/17/2025
   course: PDP2140C
   title: 2025 All Sworn IS PVO Stop Stick Hyperlink

@@ -26,7 +26,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/18/2024 | 1/18/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/11/2018 |  |
@@ -40,8 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/26/2025 | HBS4044C | TNT-Hostage Rescue | Passed | 0.0 | 6.50 |
 | 11/17/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/16/2025 | BVP3241C | City of Beaverton Ethics in Policing Training | Passed | 0.0 | 1.00 |
 | 11/12/2025 | HBS1571C | TNT Firearms  Building Clearing HRT | Passed | 0.0 | 9.00 |
 | 11/5/2025 | BVP4040C | Nov 2025 Night Range 110525 | Passed | 0.0 | 3.00 |
 | 11/3/2025 | BVP3041C | City of Beaverton Implicit Bias in Policing | Passed | 0.0 | 0.75 |

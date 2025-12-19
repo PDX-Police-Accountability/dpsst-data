@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/14/2025
+  course: TDP3618C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/9/2025
+  course: TDP0765C
+  title: Taser10 Operators Course Online/On-site Practical
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/20/2025
   course: TDP3932C
   title: Fall/ Low light Firearms Qual and Training

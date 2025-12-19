@@ -43,6 +43,7 @@
 | 11/11/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
 | 11/11/2025 | PDP0072C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 11/11/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 11/7/2025 | PDP4199C | LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 11/4/2025 | PDP4412C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 11/4/2025 | PDP2662C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 11/4/2025 | PDP4229C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

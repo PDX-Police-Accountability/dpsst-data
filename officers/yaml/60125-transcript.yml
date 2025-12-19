@@ -43,9 +43,57 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2025
+  course: PDS1661C
+  title: ACAP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/13/2025
+  course: PDS3606C
+  title: Tourniquets and Trauma Kits
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2025
+  course: PDS2170C
+  title: Driving Techniques
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2025
+  course: PDS4270C
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2025
+  course: PDS1121C
+  title: Emergency Disaster and Facility Evacuation Plan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/9/2025
+  course: PDS3052C
+  title: ICS-200
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/9/2025
+  course: PDS2195C
+  title: ADA Policy Trainnig
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/7/2025
   course: PDS2539C
   title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/7/2025
+  course: PDS2340C
+  title: NARCAN
   status: Passed
   score: '0.0'
   hours: '0.50'

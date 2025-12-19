@@ -29,7 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/9/2025 | PDP3070C | FTEP Geography | Passed | 0.0 | 1.75 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
+| 11/19/2025 | PDP0240C | Post Basic CEW (Conducted Electrical Weapon) | Passed | 0.0 | 9.00 |
 | 11/17/2025 | PDP2140C | 2025 All Sworn IS PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
 | 11/17/2025 | PDP0851C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
 | 11/17/2025 | PDP0856C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |

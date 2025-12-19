@@ -104,6 +104,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/2/2025
+  course: OCS3034C
+  title: Marksmanship, Shoot / No Shoot decisions
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/26/2025
+  course: OCS1478C
+  title: Marksmanship, Shoot / No-Shoot decision making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/26/2025
+  course: OCS1478C
+  title: Marksmanship, Shoot / No-Shoot decision making
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 11/21/2025
   course: OCS4395C
   title: November 2025 New Hire Firearms

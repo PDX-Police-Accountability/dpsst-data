@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/26/2025
   course: HBS4044C
   title: TNT-Hostage Rescue
@@ -67,6 +73,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2025
+  course: BVP3241C
+  title: City of Beaverton Ethics in Policing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/12/2025
   course: HBS1571C
   title: TNT Firearms  Building Clearing HRT
@@ -1490,8 +1502,8 @@ attribute_records:
   expiration_date: 12/31/2028
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/18/2024

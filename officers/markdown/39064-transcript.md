@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2025 | TDP3618C | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 12/9/2025 | TDP0765C | Taser10 Operators Course Online/On-site Practical | Passed | 0.0 | 8.00 |
 | 10/20/2025 | TDP3932C | Fall/ Low light Firearms Qual and Training | Passed | 0.0 | 4.00 |
 | 10/3/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |

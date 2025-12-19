@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/26/2025
+  course: OCS1478C
+  title: Marksmanship, Shoot / No-Shoot decision making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/5/2025
   course: OCS2855C
   title: 2025 Fall Patrol Rifle

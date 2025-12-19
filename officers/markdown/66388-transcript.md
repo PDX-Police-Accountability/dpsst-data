@@ -29,10 +29,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/9/2025 | PDP3070C | FTEP Geography | Passed | 0.0 | 1.75 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
+| 11/19/2025 | PDP0240C | Post Basic CEW (Conducted Electrical Weapon) | Passed | 0.0 | 9.00 |
 | 11/17/2025 | PDP0856C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 11/14/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 10/21/2025 | REG4197C | SFST/DID (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
+| 10/2/2025 | REG1129C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/24/2025 | PDP0680B | IS 700 National Inc Manage System Intro | Passed | 0.0 | 4.00 |
 | 7/24/2025 | PDP1876B | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 7/24/2025 | PDP1871B | ICS 200 Basic Inc Command Syst for Init Response | Passed | 0.0 | 4.00 |

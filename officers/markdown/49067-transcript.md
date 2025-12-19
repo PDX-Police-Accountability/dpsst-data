@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
+| 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |
 | 11/15/2025 | OCS3174C | Emotional Intelligence in Law Enforcement | Passed | 0.0 | 3.00 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 10/24/2025 | OCS3297C | Peer Training | Passed | 0.0 | 4.00 |

@@ -17,6 +17,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 12/17/2025 | Police Officer | Advanced | App Recd |  |  |  |
+| 12/17/2025 | Police Officer | Intermediate | App Recd |  |  |  |
 | 4/30/2013 | Police Officer | Basic | Granted | 4/30/2013 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

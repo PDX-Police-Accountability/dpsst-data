@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/26/2025 | OCS1091C | Taser | Passed | 0.0 | 3.00 |
+| 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |
 | 11/5/2025 | OCS2855C | 2025 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 10/8/2025 | OCS3181B | Perspective on Leadership | Passed | 0.0 | 4.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
