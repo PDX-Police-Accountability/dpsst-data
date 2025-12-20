@@ -49,6 +49,9 @@
 | 10/8/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/8/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/19/2025 | PDP1077B | 2025 SERT Camp Rilea Training | Passed | 0.0 | 50.00 |
+| 9/5/2025 | PDP1568C | 2025-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 9/5/2025 | PDP2073C | 2025-3 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 9/5/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 8/28/2025 | PDP2662B | Modern Day Sniper LE Skills | Passed | 0.0 | 27.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/13/2025 | PDP0697B | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

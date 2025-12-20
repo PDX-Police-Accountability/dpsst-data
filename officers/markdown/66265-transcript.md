@@ -39,6 +39,7 @@
 | 10/13/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/9/2025 | PDP0300B | RegJin MDT/MRE New Hire Training | Passed | 0.0 | 14.00 |
 | 10/7/2025 | PDP4392B | Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 10/7/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/1/2025 | PDP1402B | TEEX WMD Terror Aware for Emer Resp | Passed | 0.0 | 8.00 |
 | 10/1/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/1/2025 | PDP1376B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
@@ -62,6 +63,7 @@
 | 9/29/2025 | PDP0508B | HAZMAT/WMD Awareness Respirator | Passed | 0.0 | 3.00 |
 | 9/25/2025 | PDP1557B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 9/24/2025 | PDP4559B | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 9/24/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/22/2025 | PDP0088B | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
 | 9/22/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 9/22/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |

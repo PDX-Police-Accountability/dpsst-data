@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/5/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/4/2025
   course: PDP4084C
   title: '2025-10 CAO Updates: Disorderly Conduct  ORS'

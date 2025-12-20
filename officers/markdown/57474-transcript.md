@@ -46,6 +46,9 @@
 | 11/20/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 11/20/2025 | PDP0355C | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 11/20/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
+| 11/19/2025 | PDP2073C | 2025-3 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 11/19/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 11/19/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/17/2025 | PDP3671C | 2025 All Sworn In-Service Active Threat (Video) | Passed | 0.0 | 1.00 |
 | 11/17/2025 | PDP3390C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 11/17/2025 | PDP0576C | 2025 All Sworn IS Taser Training (Video) | Passed | 0.0 | 0.50 |

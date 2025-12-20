@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/11/2025
+  course: PDP0989C
+  title: 2025-3 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/9/2025
   course: PDP3070C
   title: FTEP Geography
@@ -42,12 +48,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/2/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/26/2025
+  course: PDP3646C
+  title: TEEX WMD Terrorism Awareness
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/19/2025
   course: PDP0240C
   title: Post Basic CEW (Conducted Electrical Weapon)
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/19/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/17/2025
   course: PDP0856C
   title: Patrol Vehicle Operations Policy  [PVO101]

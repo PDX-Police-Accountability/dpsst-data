@@ -134,6 +134,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/17/2025
+  course: PDP1568C
+  title: 2025-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/17/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/22/2025
   course: PDP0918C
   title: 2025-1 All Sworn In-Service CT Refresher (CIT/MH)

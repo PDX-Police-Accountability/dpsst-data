@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2025
+  course: BNP0807C
+  title: SWAT-Building Clearing
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/4/2025
   course: BNP4545C
   title: SWAT Tactical Scenarios

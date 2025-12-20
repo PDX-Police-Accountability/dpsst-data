@@ -168,12 +168,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/23/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/7/2025
   course: PDP0507B
   title: '2025-9, Legal Updates: State Crimes'
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/30/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/29/2025
   course: PDP1832B
   title: '2025-7, Legal Updates: Search  Seizure'

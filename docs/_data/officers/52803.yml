@@ -43,6 +43,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/11/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/11/2025
+  course: PDP0989C
+  title: 2025-3 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/4/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

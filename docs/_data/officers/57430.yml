@@ -122,6 +122,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/9/2025
+  course: PDP2073C
+  title: 2025-3 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/9/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/5/2025
   course: PDP2558C
   title: 2025-1 All Sworn In-Service Active Threat, LRE
@@ -146,6 +158,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 9/5/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/4/2025
   course: PDP4384C
   title: 2025-1 All Sworn In-Service ABLE Refresher

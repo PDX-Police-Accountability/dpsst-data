@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2025
+  course: PDS0813C
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/25/2025
   course: PDS2282C
   title: Range Qualification

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/11/2025
+  course: PDP4274C
+  title: 2025-3 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/9/2025
   course: PDP3070C
   title: FTEP Geography
@@ -42,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/2/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/26/2025
   course: PDP0971C
   title: 2018 TOD 100% Collection  Submission
@@ -150,6 +162,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/19/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/17/2025
   course: PDP1860C
   title: DIR 0640.37, Communication w/ Persons Who Have
@@ -180,6 +198,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 11/12/2025
+  course: PDP0490C
+  title: Stop Stick Safety Manual Deployment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/21/2025
   course: REG4197C
   title: SFST/DID (Hours inlcuded in Basic)

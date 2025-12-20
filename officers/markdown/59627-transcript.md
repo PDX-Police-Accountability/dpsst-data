@@ -51,6 +51,9 @@
 | 10/23/2025 | PDP1261B | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 9/24/2025 | PDP3494B | 2025 OPCA Fall Seminar | Passed | 0.0 | 24.00 |
 | 9/10/2025 | PDP1172B | 2025 Control Tactics  Elevated Risk Traffic Stops | Passed | 0.0 | 6.00 |
+| 9/10/2025 | PDP2073C | 2025-3 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 9/10/2025 | PDP1568C | 2025-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 9/10/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/28/2025 | PDP4243B | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 8/27/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/22/2025 | PDP2173B | California Gang Investigators Association | Passed | 0.0 | 32.75 |

@@ -157,6 +157,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/16/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/11/2025
   course: PDP3976B
   title: 2025 All Sworn IS PVO Stop Stick Hyperlink Ext
@@ -178,6 +184,24 @@ training_records:
 - date: 10/11/2025
   course: PDP0507B
   title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/17/2025
+  course: PDP1211C
+  title: 2025-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/17/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/17/2025
+  course: PDP3208C
+  title: 2025-3 Range Qualification Shotgun
   status: Passed
   score: '0.0'
   hours: '0.25'

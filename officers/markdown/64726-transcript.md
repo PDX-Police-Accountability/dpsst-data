@@ -35,6 +35,7 @@
 | 11/1/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
+| 10/16/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/15/2025 | PDP3300B | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP2594B | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP1082B | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
@@ -69,6 +70,8 @@
 | 10/14/2025 | PDP1582B | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
 | 10/14/2025 | PDP2806B | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 10/14/2025 | PDP3481B | DIR 0640.37, Communication with Persons | Passed | 0.0 | 0.25 |
+| 10/9/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/8/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/6/2025 | PDP0177B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 10/6/2025 | PDP1400B | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |

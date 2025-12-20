@@ -31,6 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/29/2025
+  course: PDP2073C
+  title: 2025-3 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/29/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/29/2025
+  course: PDP0989C
+  title: 2025-3 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/21/2025
   course: PDP3572C
   title: ALPR Training (Motorola)
@@ -169,6 +187,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 9/18/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/15/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop

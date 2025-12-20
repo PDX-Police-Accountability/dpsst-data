@@ -74,6 +74,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/10/2025
+  course: PDP1568C
+  title: 2025-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/28/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/28/2025
+  course: PDP0989C
+  title: 2025-3 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/21/2025
   course: PDP2812B
   title: 2025-1 Supervisors In-Service (CIT/MH)

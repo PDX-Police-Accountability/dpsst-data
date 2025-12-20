@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 12/12/2025 | GSP4129C | CEW (Taser), OC, Defensive Tactics Training | Passed | 0.0 | 10.00 |
 | 12/4/2025 | GSP3914C | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 5/27/2025 | FGP0153B | DPSST Legal Updates - March/April 2025 | Passed | 0.0 | 1.00 |
 | 3/27/2025 | FGP4424A | DPSST Legal Updates | Passed | 0.0 | 1.00 |

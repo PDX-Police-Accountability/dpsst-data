@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2025 | PSU0797C | Duty Pistol / Tactical Shooting | Passed | 0.0 | 2.00 |
 | 12/10/2025 | PSU3518C | Defensive Tactics and Appled Use of Force | Passed | 0.0 | 4.00 |
 | 9/10/2025 | VND3929B | Effective Public Safety Background Investigations | Passed | 0.0 | 16.00 |
 | 3/20/2025 | PSU2669A | Q1 Qualification/Shooting  Moving | Passed | 0.0 | 1.50 |

@@ -69,6 +69,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 11/21/2025
+  course: GSP2281C
+  title: SWAT Sniper Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/20/2025
+  course: GSP4258C
+  title: SWAT Firearms, HRT Plans, Explosive Breaching
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 11/12/2025
   course: PDS2345C
   title: Legal Update
@@ -405,6 +417,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 3/12/2025
+  course: PDS0404C
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/26/2025
   course: PDS3595A
   title: Range

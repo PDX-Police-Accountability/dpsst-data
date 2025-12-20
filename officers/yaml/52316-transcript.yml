@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/20/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/15/2025
   course: PDP4560C
   title: 2025 All Sworn In-Service - PVO - Stop Sticks
@@ -182,6 +188,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/2/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/23/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop

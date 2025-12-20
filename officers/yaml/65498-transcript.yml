@@ -108,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/18/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/13/2025
   course: PDP1832B
   title: '2025-7, Legal Updates: Search  Seizure'

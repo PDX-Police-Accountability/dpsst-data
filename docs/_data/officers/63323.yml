@@ -108,6 +108,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/27/2025
+  course: PSU1285C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/27/2025
+  course: PSU2752C
+  title: Duty Pistol / Tactical Shooting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/12/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response

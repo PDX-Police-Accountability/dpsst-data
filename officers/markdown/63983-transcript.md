@@ -52,6 +52,8 @@
 | 8/28/2025 | PSU3529C | Clery Act | Passed | 0.0 | 2.00 |
 | 8/28/2025 | PSU2643C | Defensive Driving Basics | Passed | 0.0 | 1.00 |
 | 8/28/2025 | PSU4164C | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
+| 8/27/2025 | PSU1285C | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 8/27/2025 | PSU2752C | Duty Pistol / Tactical Shooting | Passed | 0.0 | 2.00 |
 | 9/18/2024 | PDP0370A | 2024-9 CAO Legal Updates for 09/2024 | Passed | 0.0 | 0.50 |
 | 9/11/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/5/2024 | PDP4038A | 2024-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

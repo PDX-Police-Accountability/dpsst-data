@@ -67,6 +67,7 @@
 | 10/7/2025 | PDP4544B | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 10/7/2025 | PDP2961B | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 10/7/2025 | PDP1261B | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
+| 10/6/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 9/26/2025 | HBP2563B | SWAT Command Decision Making  Leadership | Passed | 0.0 | 40.00 |
 | 9/26/2025 | PDP0722B | NTOA SWAT Command Dec-Making Leadership | Passed | 0.0 | 40.00 |
 | 9/20/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |

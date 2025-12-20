@@ -51,7 +51,9 @@
 | 10/9/2025 | PDP0419B | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
 | 10/8/2025 | PDP1181B | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 10/8/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 10/8/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/7/2025 | PDP4392B | Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 10/7/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP1376B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP0177B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 10/6/2025 | PDP1082B | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
@@ -85,6 +87,7 @@
 | 9/27/2025 | PDP1624B | 2021 Online In-Service Language Access | Passed | 0.0 | 0.25 |
 | 9/25/2025 | PDP1557B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 9/24/2025 | PDP4559B | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 9/24/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/22/2025 | PDP1502B | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
 | 9/19/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 8/27/2025 | REG1368B | SFST-DID (Hours included in BASIC) | Passed | 0.0 | 0.00 |

@@ -165,6 +165,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 9/18/2025
+  course: PDP2073C
+  title: 2025-3 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/18/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/8/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop

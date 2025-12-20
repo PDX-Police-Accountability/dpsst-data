@@ -47,6 +47,7 @@
 | 11/4/2025 | PDP4081C | 2025-3 Advanced Academy Equity | Passed | 0.0 | 23.50 |
 | 10/30/2025 | PDP2847C | 2025-3 Advanced Academy CIT | Passed | 0.0 | 21.00 |
 | 10/27/2025 | PDP1166C | 2025-3 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
+| 10/20/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/14/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/14/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/14/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

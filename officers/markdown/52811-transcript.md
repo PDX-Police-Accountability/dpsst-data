@@ -40,6 +40,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/21/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 11/21/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
+| 11/21/2025 | GSP2281C | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 11/20/2025 | GSP4258C | SWAT Firearms, HRT Plans, Explosive Breaching | Passed | 0.0 | 20.00 |
 | 11/12/2025 | PDS2345C | Legal Update | Passed | 0.0 | 2.00 |
 | 10/29/2025 | PDS3585B | Red Dot Firearms | Instructed | 0.0 | 24.00 |
 | 10/24/2025 | PDS3538C | Taser | Instructed | 0.0 | 4.00 |
@@ -96,6 +98,7 @@
 | 3/20/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/20/2025 | GSP3207A | Controlled Swarming/IP Decision Making | Passed | 0.0 | 10.00 |
 | 3/19/2025 | GSP1056A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
+| 3/12/2025 | PDS0404C | Ethics | Passed | 0.0 | 1.00 |
 | 2/26/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |
 | 2/25/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |
 | 2/24/2025 | PDS3595A | Range | Instructed | 0.0 | 2.00 |

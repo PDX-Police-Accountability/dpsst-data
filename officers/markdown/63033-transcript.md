@@ -43,7 +43,10 @@
 | 11/9/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
 | 11/9/2025 | PDP1377C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 11/9/2025 | PDP1491C | 2025-10, Legal Updates: Miranda  Right | Passed | 0.0 | 0.25 |
+| 10/14/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/6/2025 | PDP3651C | 2025-3 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 10/4/2025 | PDP0688B | 2025 AR-15 Patrol Rifle New Operators Course | Passed | 0.0 | 54.00 |
+| 10/3/2025 | PDP1568C | 2025-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 9/24/2025 | PDP3494B | 2025 OPCA Fall Seminar | Passed | 0.0 | 24.00 |
 | 8/20/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

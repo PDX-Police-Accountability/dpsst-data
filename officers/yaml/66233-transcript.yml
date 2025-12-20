@@ -420,6 +420,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/8/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/7/2025
   course: PDP4392B
   title: Post DPSST Firearms
@@ -450,6 +456,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/24/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/22/2025
   course: PDP1502B
   title: Patrol Vehicle Operations Policy [PVO101]

@@ -50,6 +50,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/20/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/13/2025
   course: PDP2246C
   title: 2025 CNT Crisis Negotiation Team Annual Training
@@ -146,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/9/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/8/2025
   course: PDP2719B
   title: '2025-10, Legal Updates: Miranda  Right to Counsel'

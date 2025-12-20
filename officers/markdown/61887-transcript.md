@@ -48,6 +48,7 @@
 | 10/16/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 10/16/2025 | PDP0355C | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 10/16/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
+| 10/16/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/15/2025 | PDP1093B | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 10/14/2025 | PDP1376B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 10/14/2025 | PDP4593B | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
@@ -70,6 +71,7 @@
 | 10/14/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 10/14/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 10/14/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
+| 10/14/2025 | PDP2073C | 2025-3 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 9/4/2025 | OCS1925B | Report Writing | Passed | 0.0 | 8.00 |
 | 9/1/2025 | OCS1754B | CCC and First Aid/CPR | Passed | 0.0 | 10.00 |
 | 8/29/2025 | OCS3580B | August 2025 New Hire Firearms | Passed | 0.0 | 40.00 |

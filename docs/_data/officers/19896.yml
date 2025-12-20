@@ -207,6 +207,18 @@ certification_records:
   expiration_date: 6/6/2030
   probation_date: ''
 training_records:
+- date: 12/16/2025
+  course: JDN1143C
+  title: Low Light Handgun drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/16/2025
+  course: JDN4489C
+  title: Handgun Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/6/2025
   course: JDN4128C
   title: Firearms Qualification

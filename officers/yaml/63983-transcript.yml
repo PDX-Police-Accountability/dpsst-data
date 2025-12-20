@@ -174,6 +174,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/27/2025
+  course: PSU1285C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/27/2025
+  course: PSU2752C
+  title: Duty Pistol / Tactical Shooting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/18/2024
   course: PDP0370A
   title: 2024-9 CAO Legal Updates for 09/2024

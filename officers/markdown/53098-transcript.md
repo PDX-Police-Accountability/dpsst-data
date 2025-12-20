@@ -68,6 +68,7 @@
 | 10/16/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 10/16/2025 | PDP0355C | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 10/16/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
+| 10/16/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/1/2025 | PDP2787B | 2025 Traffic Multi-Agency Motorcade Training | Passed | 0.0 | 9.00 |
 | 8/26/2025 | PPP1684B | Women in Command | Passed | 0.0 | 16.00 |
 | 8/26/2025 | PDP4491B | 2025 External Training Women in Command | Passed | 0.0 | 16.00 |

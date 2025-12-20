@@ -152,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/6/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/5/2025
   course: PDP0576C
   title: 2025 All Sworn IS Taser Training (Video)
@@ -260,6 +266,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '50.00'
+- date: 9/4/2025
+  course: PDP2073C
+  title: 2025-3 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/4/2025
+  course: PDP1568C
+  title: 2025-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/4/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

@@ -36,5 +36,17 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/2/2024
+  course: PDP1029C
+  title: ICS-200.c  Intro to Incidt Comnd Syst for Init Res
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/12/2024
+  course: PDP1028C
+  title: IS-100.C Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records: []
 education_records: []

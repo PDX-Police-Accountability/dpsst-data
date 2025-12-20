@@ -146,6 +146,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/11/2025
+  course: PDP1568C
+  title: 2025-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/11/2025
+  course: PDP0989C
+  title: 2025-3 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/9/2025
+  course: PDP2073C
+  title: 2025-3 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/9/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

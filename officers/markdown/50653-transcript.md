@@ -40,6 +40,7 @@
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Cancelled | 0.0 | 0.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/25/2025 | PDP3813C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
+| 11/20/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/11/2025 | PDP0604C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
 | 11/11/2025 | PDP4482C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |

@@ -31,10 +31,13 @@
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/9/2025 | PDP3070C | FTEP Geography | Passed | 0.0 | 1.75 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
+| 12/2/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/19/2025 | PDP0240C | Post Basic CEW (Conducted Electrical Weapon) | Passed | 0.0 | 9.00 |
+| 11/19/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/17/2025 | PDP2140C | 2025 All Sworn IS PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
 | 11/17/2025 | PDP0851C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
 | 11/17/2025 | PDP0856C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
+| 11/17/2025 | PDP0490C | Stop Stick Safety Manual Deployment | Passed | 0.0 | 1.00 |
 | 11/10/2025 | PDP2936C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 11/6/2025 | PDP0642C | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 11/6/2025 | PDP1652C | 2025 Disability Series Introduction to Disability | Passed | 0.0 | 0.50 |

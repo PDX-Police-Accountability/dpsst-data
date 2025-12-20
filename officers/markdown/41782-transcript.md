@@ -60,6 +60,7 @@
 | 9/18/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 0.75 |
 | 9/17/2025 | PDP3484C | 2025-1 Supervisors In-Service (Leadership hrs) | Passed | 0.0 | 3.50 |
 | 9/16/2025 | PDP0233C | 2025-1 Supervisors In-Service (Leadership hrs) | Passed | 0.0 | 1.50 |
+| 9/10/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/3/2025 | PDP4432B | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 9/3/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 9/3/2025 | PDP1802B | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
@@ -73,6 +74,7 @@
 | 9/3/2025 | PDP2960B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 9/3/2025 | PDP0806B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 9/3/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 9/3/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 1/15/2025 | PDP2998B | Winter Commanders Conference 2025 | Passed | 0.0 | 25.50 |
 | 12/31/2024 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 1.50 |
 | 4/30/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

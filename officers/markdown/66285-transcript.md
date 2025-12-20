@@ -76,6 +76,7 @@
 | 10/10/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/9/2025 | PDP0300B | RegJin MDT/MRE New Hire Training | Passed | 0.0 | 14.00 |
 | 10/7/2025 | PDP4392B | Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 10/7/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP1022B | Annual HRAR 2.04 Gender Identity | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/1/2025 | PDP1402B | TEEX WMD Terror Aware for Emer Resp | Passed | 0.0 | 8.00 |
@@ -87,6 +88,7 @@
 | 9/29/2025 | PDP0508B | HAZMAT/WMD Awareness Respirator | Passed | 0.0 | 3.00 |
 | 9/25/2025 | PDP1557B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 9/24/2025 | PDP4559B | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 9/24/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/23/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 9/23/2025 | PDP1223B | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 9/22/2025 | PDP1502B | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |

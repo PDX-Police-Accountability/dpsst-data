@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/20/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/16/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)
@@ -150,6 +156,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/11/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/16/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop

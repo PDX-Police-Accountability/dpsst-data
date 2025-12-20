@@ -64,6 +64,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/13/2025
   course: PDP2968C
   title: 2025 SERT Training - SCENARIO

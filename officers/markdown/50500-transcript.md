@@ -37,10 +37,15 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/11/2025 | PDP0824C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
+| 11/25/2025 | PDP2073C | 2025-3 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 11/25/2025 | PDP1568C | 2025-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 11/25/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/11/2025 | PDP0939C | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 11/7/2025 | PDP1788C | 2025 External Trng FBI-LEEDA Supervisor Leadership | Passed | 0.0 | 28.00 |
 | 10/30/2025 | PDP0733C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
+| 10/30/2025 | PDP3651C | 2025-3 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
+| 10/30/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/29/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/29/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/29/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |

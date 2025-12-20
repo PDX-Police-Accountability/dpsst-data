@@ -74,12 +74,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/17/2025
+  course: PDP2073C
+  title: 2025-3 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/17/2025
+  course: PDP1568C
+  title: 2025-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/13/2025
   course: PDP0017C
   title: 2025-1 All Sworn In-Service Firearms Range
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/12/2025
+  course: PDP2073C
+  title: 2025-3 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/12/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/1/2025
   course: PDP4412C
   title: 2025 Oregon State Lead Quick Facts

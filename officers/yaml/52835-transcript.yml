@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/20/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/4/2025
   course: PDP3221C
   title: 2025 ECIT Call Resolution
@@ -182,6 +188,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/2/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/2/2025
+  course: PDP0989C
+  title: 2025-3 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

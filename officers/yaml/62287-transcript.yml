@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/26/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/27/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop

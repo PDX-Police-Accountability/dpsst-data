@@ -55,6 +55,7 @@
 | 10/27/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/27/2025 | PDP1166C | 2025-3 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
 | 10/20/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 10/20/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/1/2025 | PDP1338B | AA 2025 [CIT-112-A] Behavioral Health Unit | Passed | 0.0 | 0.25 |
 | 9/25/2025 | PDP2355C | 2025-3 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
 | 9/25/2025 | PDP0392C | 2025-3 Advanced Academy Procedural Justice | Passed | 0.0 | 0.50 |

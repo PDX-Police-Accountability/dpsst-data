@@ -49,6 +49,7 @@
 | 10/10/2025 | PDP2493B | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 10/9/2025 | PDP0300B | RegJin MDT/MRE New Hire Training | Passed | 0.0 | 14.00 |
 | 10/7/2025 | PDP4392B | Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 10/7/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP1376B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP0177B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 10/6/2025 | PDP1082B | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
@@ -80,6 +81,7 @@
 | 9/29/2025 | PDP0508B | HAZMAT/WMD Awareness Respirator | Passed | 0.0 | 3.00 |
 | 9/25/2025 | PDP1557B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 9/24/2025 | PDP4559B | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 9/24/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/22/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 9/22/2025 | PDP1502B | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
 | 9/19/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |

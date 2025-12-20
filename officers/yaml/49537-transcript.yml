@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/9/2025
   course: PDP1098C
   title: 2025 Red Dot Sight for Pistol Transition
@@ -116,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/20/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/18/2025
   course: PDP3255C
   title: 2025 All Sworn IS - Axon Annual Operator Update
@@ -188,12 +200,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/21/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/15/2025
   course: PDP0599B
   title: 2025 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 10/14/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/13/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training

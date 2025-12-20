@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/13/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/10/2025
   course: PDP3550C
   title: 2025 Patrol Rifle Operator's In-Service Day 2
@@ -174,6 +180,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/4/2025
+  course: PDP1568C
+  title: 2025-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/4/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/16/2025
   course: PDP1802B
   title: '2025 Disability Series: Introduction to Disability'

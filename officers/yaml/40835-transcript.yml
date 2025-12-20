@@ -85,6 +85,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/4/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/3/2025
   course: PDP1098C
   title: 2025 Red Dot Sight for Pistol Transition
@@ -181,6 +187,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/6/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/13/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training
@@ -241,6 +253,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/18/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/1/2025
   course: PDP1832B
   title: '2025-7, Legal Updates: Search  Seizure'

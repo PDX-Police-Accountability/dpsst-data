@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/6/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/5/2025
   course: PDP3722C
   title: 2025 Introduction to Interpreting in Policing
@@ -169,6 +175,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/17/2025
+  course: PDP2073C
+  title: 2025-3 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/17/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/16/2025
   course: PDP1457B
   title: 2025 Traffic Basic Police Motorcycle School

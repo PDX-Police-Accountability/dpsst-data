@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/9/2025
   course: PDP1098C
   title: 2025 Red Dot Sight for Pistol Transition
@@ -68,6 +74,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 11/13/2025
+  course: PDP2073C
+  title: 2025-3 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/13/2025
+  course: PDP1568C
+  title: 2025-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/13/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/10/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)
@@ -152,6 +176,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/16/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/13/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2025 | PDS0813C | Range | Instructed | 0.0 | 4.00 |
 | 11/25/2025 | PDS2282C | Range Qualification | Instructed | 0.0 | 4.00 |
 | 11/24/2025 | PDS2375C | Red Dot Range | Instructed | 0.0 | 5.00 |
 | 11/22/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |

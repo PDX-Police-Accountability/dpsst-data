@@ -105,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/28/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/23/2025
   course: PDP3376B
   title: 2025-10 CAO Legal Updates for 3/2025
@@ -225,6 +231,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/2/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/22/2025
   course: PDP1047B
   title: '2025-9, Legal Updates: State Crimes'

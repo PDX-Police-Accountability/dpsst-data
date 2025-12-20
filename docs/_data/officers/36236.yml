@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/23/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/15/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training
@@ -182,6 +188,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/18/2025
+  course: PDP1568C
+  title: 2025-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/18/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/25/2025
   course: PDP1832B
   title: '2025-7, Legal Updates: Search  Seizure'

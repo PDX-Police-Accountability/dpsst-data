@@ -41,6 +41,7 @@
 | 10/9/2025 | PDP0300B | RegJin MDT/MRE New Hire Training | Passed | 0.0 | 14.00 |
 | 10/8/2025 | HBP2976C | Range | Passed | 0.0 | 5.00 |
 | 10/7/2025 | PDP4392B | Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 10/7/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/6/2025 | PDP0177B | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 10/6/2025 | PDP1181B | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 10/6/2025 | PDP1400B | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
@@ -86,6 +87,7 @@
 | 10/1/2025 | PDP1402B | TEEX WMD Terror Aware for Emer Resp | Passed | 0.0 | 8.00 |
 | 10/1/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 10/1/2025 | PDP2620B | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 10/1/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/30/2025 | PDP0112B | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 9/30/2025 | PDP2302B | Emergency Operations Plan (EOP) VLP | Passed | 0.0 | 0.25 |
 | 9/30/2025 | PDP1223B | School Emergency Actions | Passed | 0.0 | 0.25 |

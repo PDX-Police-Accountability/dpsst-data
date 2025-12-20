@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2025
+  course: GSP2281C
+  title: SWAT Sniper Range
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/20/2025
+  course: GSP4258C
+  title: SWAT Firearms, HRT Plans, Explosive Breaching
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 10/17/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

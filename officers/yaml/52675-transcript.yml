@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/9/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/8/2025
   course: PDP0686C
   title: 2025 Red Dot Sight for Pistol Transition
@@ -134,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/9/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/3/2025
   course: PDP2558C
   title: 2025-1 All Sworn In-Service Active Threat, LRE
@@ -182,6 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 10/2/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/14/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

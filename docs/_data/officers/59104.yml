@@ -37,12 +37,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/9/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/8/2025
   course: PDP0686C
   title: 2025 Red Dot Sight for Pistol Transition
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 11/6/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/5/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

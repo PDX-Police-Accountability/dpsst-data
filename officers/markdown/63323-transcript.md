@@ -41,6 +41,8 @@
 | 8/28/2025 | PSU2663C | Intervention Person in Crisis | Passed | 0.0 | 2.00 |
 | 8/28/2025 | PSU3405C | Prison Rape Elimination Act | Passed | 0.0 | 1.00 |
 | 8/28/2025 | PSU4304C | Use of Force Course 101 | Passed | 0.0 | 2.00 |
+| 8/27/2025 | PSU1285C | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 8/27/2025 | PSU2752C | Duty Pistol / Tactical Shooting | Passed | 0.0 | 2.00 |
 | 4/12/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/11/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 4/11/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

@@ -65,6 +65,7 @@
 | 9/24/2025 | PDP4550C | 2025-3 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 9/16/2025 | PDP2576C | 2025-3 Advanced Academy Patrol Procedures | Passed | 0.0 | 9.00 |
 | 9/11/2025 | PDP2547B | AA 2025 [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
+| 9/4/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/14/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 8/14/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/3/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |

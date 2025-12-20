@@ -82,6 +82,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 11/18/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/4/2025
   course: PDP3639C
   title: 2025 Sup IS HR 2.02 for Supervisors Video

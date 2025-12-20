@@ -202,6 +202,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/22/2025
+  course: PDP1568C
+  title: 2025-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/22/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/28/2025
   course: PDP4384C
   title: 2025-1 All Sworn In-Service ABLE Refresher
@@ -226,6 +238,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 8/28/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/20/2025
   course: PDP2558C
   title: 2025-1 All Sworn In-Service Active Threat, LRE

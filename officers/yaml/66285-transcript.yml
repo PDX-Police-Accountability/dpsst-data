@@ -312,6 +312,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 10/7/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/6/2025
   course: PDP1022B
   title: Annual HRAR 2.04 Gender Identity
@@ -378,6 +384,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/24/2025
+  course: PDP2310C
+  title: 2025-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/23/2025
   course: PDP2302B
   title: Emergency Operations Plan (EOP) VLP

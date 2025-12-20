@@ -57,6 +57,7 @@
 | 10/22/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/22/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 10/22/2025 | PDP3766B | AA 2025 [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 10/20/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/1/2025 | PDP2570B | AA 2025 [CIT-111-A] Project Respond | Passed | 0.0 | 0.25 |
 | 10/1/2025 | PDP1338B | AA 2025 [CIT-112-A] Behavioral Health Unit | Passed | 0.0 | 0.25 |
 | 9/25/2025 | PDP2355C | 2025-3 Advanced Academy Ethics | Passed | 0.0 | 1.00 |

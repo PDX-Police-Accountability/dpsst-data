@@ -37,6 +37,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 1/5/2026 | 26-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
+| 12/17/2025 | PSU0099C | Duty Pistol / Tactical Shooting | Passed | 0.0 | 11.50 |
+| 12/15/2025 | PSU2172C | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/10/2025 | PSU3518C | Defensive Tactics and Appled Use of Force | Passed | 0.0 | 4.00 |
 | 10/24/2025 | MNP0799C | Yamhill County Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 10/10/2025 | PSU44922 | ALERRT Level 1 Train-the-Trainer recertification | Passed | 0.0 | 40.00 |

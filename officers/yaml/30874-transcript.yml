@@ -93,6 +93,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/12/2025
+  course: GSP4129C
+  title: CEW (Taser), OC, Defensive Tactics Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/4/2025
   course: GSP3914C
   title: 2025 Ethics Training

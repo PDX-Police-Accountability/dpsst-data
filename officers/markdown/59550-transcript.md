@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2025 | BNP0807C | SWAT-Building Clearing | Passed | 0.0 | 8.00 |
 | 12/4/2025 | BNP4545C | SWAT Tactical Scenarios | Passed | 0.0 | 8.00 |
 | 11/26/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 11/26/2025 | RMP0966C | Officer Wellness | Passed | 0.0 | 1.00 |

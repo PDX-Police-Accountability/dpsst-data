@@ -94,11 +94,13 @@
 | 10/9/2025 | PDP2334B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 10/8/2025 | PDP3692B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 10/8/2025 | PDP0824B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 10/8/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/7/2025 | PDP4392B | Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 10/1/2025 | PDP1402B | TEEX WMD Terror Aware for Emer Resp | Passed | 0.0 | 8.00 |
 | 9/29/2025 | PDP0508B | HAZMAT/WMD Awareness Respirator | Passed | 0.0 | 3.00 |
 | 9/25/2025 | PDP1557B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 9/24/2025 | PDP4559B | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 9/24/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/22/2025 | PDP1502B | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
 | 9/19/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 8/27/2025 | REG1368B | SFST-DID (Hours included in BASIC) | Passed | 0.0 | 0.00 |

@@ -33,7 +33,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 4/16/2024 |  |
 | Certification Cards | First Aid and CPR | 1/24/2024 | 1/5/2026 |
@@ -45,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2025 | BNS3114C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 11/30/2025 | BNS3127C | DCSO Policies: 4.41 and 5.14 | Passed | 0.0 | 1.00 |
 | 11/26/2025 | BNS1555C | (Police1) Airway Circulatory Anatomy Physiology | Passed | 0.0 | 2.00 |

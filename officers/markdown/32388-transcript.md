@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2025 | GSP2281C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
+| 11/20/2025 | GSP4258C | SWAT Firearms, HRT Plans, Explosive Breaching | Passed | 0.0 | 20.00 |
 | 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/17/2025 | GSP2564C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 10/16/2025 | GSP3992C | SWAT Practical | Passed | 0.0 | 10.00 |

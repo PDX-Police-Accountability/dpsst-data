@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/9/2025 | BBP0255C | Foundation in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 10/1/2025 | BBP1646B | Patrol Rifle Exertion Course | Passed | 0.0 | 3.50 |
 | 9/5/2025 | BBP4402B | Use of Force,De-escalation,Reasonable | Passed | 0.0 | 6.00 |
 | 9/5/2025 | BBP0862B | Lifevac | Passed | 0.0 | 1.00 |
