@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/18/2025
+  course: WLP3850C
+  title: Taser 7 Re-certification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/13/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

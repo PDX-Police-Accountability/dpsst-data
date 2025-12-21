@@ -43,6 +43,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2025 | HBS0506C | Virtual - WCSO Deflection Training | Passed | 0.0 | 1.50 |
+| 12/18/2025 | HBS1609C | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |
+| 12/18/2025 | HBS4389C | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |
+| 12/18/2025 | HBS1679C | Virtual - Crowd Control | Passed | 0.0 | 1.00 |
+| 12/18/2025 | HBS3203C | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 12/9/2025 | HBS3388C | MFF - Public Order Day 2 | Passed | 0.0 | 9.00 |
 | 12/8/2025 | HBS4202C | MFF - APR | Passed | 0.0 | 0.50 |
 | 12/8/2025 | HBS4198C | MFF - Public Order Day 1 | Passed | 0.0 | 5.00 |

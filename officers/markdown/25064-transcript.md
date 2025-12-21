@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/17/2025 | MKL2828C | OLCC Administrative Rules Update | Passed | 0.0 | 1.00 |
+| 12/17/2025 | MKL4317C | OLCC Administrative Rules Update | Passed | 0.0 | 1.00 |
 | 11/7/2025 | MKL0486C | DAS-CHRO Public Records | Passed | 0.0 | 1.00 |
 | 10/21/2025 | MKL1740B | DOJ-CVSSD Human Trafficking | Passed | 0.0 | 1.50 |
 | 10/21/2025 | MKL1059B | DOJ-CVSSD Human Trafficking | Passed | 0.0 | 1.00 |

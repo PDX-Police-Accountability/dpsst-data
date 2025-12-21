@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2025
+  course: PDP1636C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/8/2025
   course: PDP3730C
   title: CPR/First Aid
@@ -749,6 +755,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/16/2025
+  expiration_date: 12/16/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/8/2025

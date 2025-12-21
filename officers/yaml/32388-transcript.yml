@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2025
+  course: GSP0038C
+  title: Common Weapons Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 12/4/2025
+  course: GSP0863C
+  title: SWAT Post Mission Debrief Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/21/2025
   course: GSP2281C
   title: SWAT Sniper Range

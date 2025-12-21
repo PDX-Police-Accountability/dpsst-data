@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 12/18/2025 | PSU1822C | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/17/2025 | PSU0099C | Duty Pistol / Tactical Shooting | Passed | 0.0 | 11.50 |
 | 12/17/2025 | PSU0792C | MILO - Use of Force Scenarios | Passed | 0.0 | 1.00 |
 | 12/10/2025 | PSU3209C | Patient Evaluation of Law Enforcement | Passed | 0.0 | 2.00 |

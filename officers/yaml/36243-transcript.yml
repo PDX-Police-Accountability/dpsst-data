@@ -95,6 +95,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/18/2025
+  course: HBS0506C
+  title: Virtual - WCSO Deflection Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/18/2025
+  course: HBS1609C
+  title: Virtual - Suicide Prevention in Jails
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/18/2025
+  course: HBS4389C
+  title: Virtual - Anti Bias Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/18/2025
+  course: HBS1679C
+  title: Virtual - Crowd Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/18/2025
+  course: HBS3203C
+  title: Virtual-Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/9/2025
   course: HBS3388C
   title: MFF - Public Order Day 2

@@ -129,6 +129,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2025
+  course: SVP2206C
+  title: Low Light / Night Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/10/2025
+  course: AVP0375C
+  title: Monthly Leadership Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/19/2025
   course: SVP1956C
   title: Tactical Combat Casualty Care (TCCC)

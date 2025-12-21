@@ -49,6 +49,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2025 | SVP2206C | Low Light / Night Firearms Training | Passed | 0.0 | 4.00 |
+| 12/10/2025 | AVP0375C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 11/19/2025 | SVP1956C | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 4.00 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/29/2025 | SVP1984B | WRAP Restraint Application | Passed | 0.0 | 3.00 |

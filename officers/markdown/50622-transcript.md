@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2025 | OCP3676C | HB 4002 Briefing Training | Passed | 0.0 | 0.50 |
+| 12/17/2025 | OCP4263C | Clarvida Community Crisis Center | Passed | 0.0 | 0.50 |
 | 12/15/2025 | OCP3748C | Constitutional Use Of Force | Passed | 0.0 | 6.00 |
 | 12/4/2025 | OCP4242C | Lexipol Daily Training Bulletins | Passed | 0.0 | 7.25 |
 | 12/3/2025 | OCP0323C | Adult / Child CPR First Aid | Passed | 0.0 | 2.00 |

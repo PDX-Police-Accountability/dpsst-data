@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2025 | GSP0038C | Common Weapons Familiarization | Passed | 0.0 | 1.75 |
+| 12/4/2025 | GSP0863C | SWAT Post Mission Debrief Training | Passed | 0.0 | 1.00 |
 | 11/21/2025 | GSP2281C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 11/20/2025 | GSP4258C | SWAT Firearms, HRT Plans, Explosive Breaching | Passed | 0.0 | 20.00 |
 | 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

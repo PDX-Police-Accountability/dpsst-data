@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2025 | HBS3203C | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS1094C | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |
 | 12/1/2025 | HBS2200C | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS2930C | Virtual - Crowd Control | Passed | 0.0 | 1.00 |

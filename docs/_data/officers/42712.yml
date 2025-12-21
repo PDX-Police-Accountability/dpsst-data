@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/18/2025
+  course: HBS3203C
+  title: Virtual-Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/1/2025
   course: HBS1094C
   title: Virtual - Anti Bias Training for LE

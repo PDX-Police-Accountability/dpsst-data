@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/17/2025 | MKL2828C | OLCC Administrative Rules Update | Passed | 0.0 | 1.00 |
+| 12/17/2025 | MKL4317C | OLCC Administrative Rules Update | Passed | 0.0 | 1.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/10/2025 | MKL2963C | DOC - AT - Humanizing Communication Through CIT | Passed | 0.0 | 2.00 |
 | 12/10/2025 | MKL1725C | DOC - Understanding Mental Ill  Disabilities | Passed | 0.0 | 1.00 |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2025 | HBS0481C | InService Session #2 Firearms | Passed | 0.0 | 4.50 |
 | 10/15/2025 | HBS2152B | InService Session #2 EVO | Passed | 0.0 | 4.50 |
 | 10/1/2025 | HBS4384B | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |
 | 10/1/2025 | HBS3916B | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |

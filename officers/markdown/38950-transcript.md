@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2025 | HBS0506C | Virtual - WCSO Deflection Training | Passed | 0.0 | 1.50 |
 | 9/1/2025 | HBS1625B | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/1/2025 | HBS0954B | Virtual - Crowd Control | Passed | 0.0 | 1.00 |
 | 9/1/2025 | HBS0246B | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |

@@ -60,6 +60,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2025 | PLS3226C | SFST Refresher | Instructed | 0.0 | 5.00 |
 | 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/16/2025 | OSH1696B | Defensive Tactics/Taser 2nd Trimester | Passed | 0.0 | 7.00 |
 | 10/9/2025 | OSH2135B | Ethics | Passed | 0.0 | 1.00 |

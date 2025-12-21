@@ -21,6 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 12/19/2025 | Police Officer | Executive | App Recd |  |  |  |
 | 10/18/2021 | Police Officer | Management | Granted | 10/18/2021 |  |  |
 | 1/28/2014 | Police Officer | Advanced | Granted | 1/28/2014 |  |  |
 | 1/28/2014 | Police Officer | Intermediate | Granted | 1/28/2014 |  |  |

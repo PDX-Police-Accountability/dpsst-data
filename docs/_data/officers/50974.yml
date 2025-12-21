@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2025
+  course: OCP4263C
+  title: Clarvida Community Crisis Center
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/4/2025
   course: OCP4242C
   title: Lexipol Daily Training Bulletins
