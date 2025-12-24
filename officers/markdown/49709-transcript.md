@@ -36,9 +36,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/13/2025 | 5/13/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2025 |
 | Code of Ethics | Signed | 6/16/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,8 +50,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/15/2025 | PDP2812B | 2025-1 Supervisors In-Service (CIT/MH) | Passed | 0.0 | 2.00 |
 | 10/15/2025 | PDP3412B | 2025-1 Supervisors In-Service (Leadership) | Passed | 0.0 | 7.00 |
@@ -62,7 +58,7 @@
 | 8/22/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |
 | 8/22/2025 | PDP1668C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 8/22/2025 | PDP2121C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
-| 8/21/2025 | PDP4384C | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
+| 8/21/2025 | PDP4384C | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 1.25 |
 | 8/21/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 8/21/2025 | PDP0355C | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 8/21/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
@@ -108,6 +104,8 @@
 | 2/4/2025 | PDP0853A | School Emergancy Actions | Passed | 0.0 | 0.25 |
 | 2/4/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 12/31/2024 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 1.50 |
+| 12/31/2024 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/1/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/3/2024 | PDP3939A | 2024-3 CAO Legal Updates for 03/2024 | Passed | 0.0 | 0.25 |
 | 4/1/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |

@@ -4,7 +4,7 @@
 | name | Cavalli, Anthony P. |
 | dpsst_identifier | 40614 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/17/2025 | Portland Police Bureau | Retired | Detective |  |  |
 | 8/28/2014 | Portland Police Bureau | Promotion | Detective |  |  |
 | 3/15/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/13/2012 | Police Officer | Advanced | Granted | 2/13/2012 |  |  |
-| 2/13/2012 | Police Officer | Intermediate | Granted | 2/13/2012 |  |  |
-| 7/11/2002 | Police Officer | Basic | Granted | 7/11/2002 |  |  |
+| 2/13/2012 | Police Officer | Advanced | Granted | 2/13/2012 | 3/17/2026 |  |
+| 2/13/2012 | Police Officer | Intermediate | Granted | 2/13/2012 | 3/17/2026 |  |
+| 7/11/2002 | Police Officer | Basic | Granted | 7/11/2002 | 3/17/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

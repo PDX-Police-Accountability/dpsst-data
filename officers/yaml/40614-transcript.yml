@@ -3,12 +3,18 @@ header_record:
   name: Cavalli, Anthony P.
   dpsst_identifier: '40614'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/17/2025
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 8/28/2014
   agency: Portland Police Bureau
   action: Promotion
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/13/2012
-  expiration_date: ''
+  expiration_date: 3/17/2026
   probation_date: ''
 - status_date: 2/13/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/13/2012
-  expiration_date: ''
+  expiration_date: 3/17/2026
   probation_date: ''
 - status_date: 7/11/2002
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 7/11/2002
-  expiration_date: ''
+  expiration_date: 3/17/2026
   probation_date: ''
 training_records:
 - date: 12/5/2025

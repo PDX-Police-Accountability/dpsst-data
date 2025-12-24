@@ -123,7 +123,7 @@ training_records:
   title: 2025 All Sworn In-Service ABLE (Video)
   status: Passed
   score: '0.0'
-  hours: '1.75'
+  hours: '0.75'
 - date: 11/3/2025
   course: PDP4107C
   title: '2025-10 CAO Legal Memo: PPB Response to ICE'
@@ -304,6 +304,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/31/2024
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 4/30/2024
   course: PDP4034A
   title: 2024 DIR 0640.80, Bias Event Response
@@ -4403,8 +4415,8 @@ attribute_records:
   expiration_date: 9/3/2027
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2024

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |
 | 7/9/2025 | SAG2878B | Firearms training | Passed | 0.0 | 1.00 |
 | 4/22/2025 | SAG2762A | Firearms training | Passed | 0.0 | 1.50 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 1.00 |

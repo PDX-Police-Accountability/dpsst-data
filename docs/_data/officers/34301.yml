@@ -67,6 +67,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/8/2025
+  course: TRN2425C
+  title: 2025 Information Security Training Foundations
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2025
+  course: TRN2155C
+  title: CCCF Fire Suppression v2025 (Volume 2)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2025
+  course: TRN0180C
+  title: Fire Alarm Panel Monitoring v2025 (Volume 2)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2025
+  course: TRN3475C
+  title: How Trauma-Informed Improves CJS Responses v2021_1
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

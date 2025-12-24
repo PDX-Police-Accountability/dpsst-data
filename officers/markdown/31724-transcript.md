@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2025 | BNS0533C | Critical Incident Debriefs | Passed | 0.0 | 3.00 |
 | 11/26/2025 | BNS1555C | (Police1) Airway Circulatory Anatomy Physiology | Passed | 0.0 | 2.00 |
 | 11/10/2025 | BNS3328C | SFST Refresher/DUII Wet Lab | Passed | 0.0 | 4.00 |
 | 11/2/2025 | BNS1694C | (Police1) Implicit Bias | Passed | 0.0 | 1.00 |

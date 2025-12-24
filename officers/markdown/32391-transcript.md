@@ -40,8 +40,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/7/2025 | 5/7/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2026 |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
@@ -52,8 +50,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/4/2025 | PDP1982C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
@@ -62,7 +58,7 @@
 | 10/31/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 1.00 |
 | 10/31/2025 | PDP1668C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 3.50 |
 | 10/31/2025 | PDP2121C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
-| 10/30/2025 | PDP4384C | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
+| 10/30/2025 | PDP4384C | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 1.25 |
 | 10/30/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 10/30/2025 | PDP0355C | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |
 | 10/30/2025 | PDP1443C | 2025-1 All Sworn In-Service Taser Update | Passed | 0.0 | 2.25 |
@@ -111,6 +107,8 @@
 | 4/24/2025 | PDP2157B | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
 | 4/23/2025 | PDP2164B | 2024-3 IS CAO Legal Updates: Supplemental Trng | Passed | 0.0 | 0.25 |
 | 4/23/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
+| 12/31/2024 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/5/2024 | PDP1882A | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 8/16/2024 | PDP1283A | Directive 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 8/3/2024 | PDP0909A | 2024-2 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |

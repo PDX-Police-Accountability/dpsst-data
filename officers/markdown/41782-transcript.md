@@ -33,7 +33,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 9/3/2025 | 9/3/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2027 |
 | Code of Ethics | Signed | 1/30/2002 |  |
 ## Education
@@ -46,7 +46,7 @@
 | 11/12/2025 | PDP0693C | 2025 Sup IS Critical Incidents - Controlling | Passed | 0.0 | 1.50 |
 | 11/11/2025 | PDP4300C | 2024-3 All IS PP Shooting at Moving Vehicle Vid 1 | Passed | 0.0 | 1.25 |
 | 11/11/2025 | PDP2398C | 2024-3 All Sworn IS MFF Response to PO Events | Passed | 0.0 | 1.50 |
-| 11/11/2025 | PDP3390C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
+| 11/11/2025 | PDP3390C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 0.75 |
 | 11/3/2025 | PDP4107C | 2025-10 CAO Legal Memo: PPB Response to ICE | Passed | 0.0 | 0.25 |
 | 11/3/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/28/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
@@ -77,6 +77,8 @@
 | 9/3/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 1/15/2025 | PDP2998B | Winter Commanders Conference 2025 | Passed | 0.0 | 25.50 |
 | 12/31/2024 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 1.50 |
+| 12/31/2024 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/30/2024 | PDP4034A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/28/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 3/28/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |

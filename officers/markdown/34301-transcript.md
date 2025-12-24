@@ -38,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2025 | TRN2425C | 2025 Information Security Training Foundations | Passed | 0.0 | 0.50 |
+| 12/8/2025 | TRN2155C | CCCF Fire Suppression v2025 (Volume 2) | Passed | 0.0 | 1.00 |
+| 12/8/2025 | TRN0180C | Fire Alarm Panel Monitoring v2025 (Volume 2) | Passed | 0.0 | 1.00 |
+| 12/8/2025 | TRN3475C | How Trauma-Informed Improves CJS Responses v2021_1 | Passed | 0.0 | 4.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/9/2025 | TRN3362B | DOC - Annual Firearms Training v2025 | Passed | 0.0 | 8.00 |
 | 5/8/2025 | TRN4261B | DOC - Defensive Tactics v2025 | Passed | 0.0 | 2.00 |

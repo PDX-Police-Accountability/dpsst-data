@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2025 | SAG0233C | Firearms training | Passed | 0.0 | 3.00 |
+| 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |
 | 7/10/2025 | HDA1149B | ONEA/Keynote "Shots Fired" | Passed | 0.0 | 4.00 |
 | 7/9/2025 | HDA0794B | ONEA/After an Officer Involved Shooting | Passed | 0.0 | 4.00 |
 | 7/9/2025 | HDA0183B | ONEA/Use of Force And Litigation issues for LE | Passed | 0.0 | 4.00 |

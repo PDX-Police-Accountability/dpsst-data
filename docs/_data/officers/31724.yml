@@ -107,6 +107,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2025
+  course: BNS0533C
+  title: Critical Incident Debriefs
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/26/2025
   course: BNS1555C
   title: "(Police1) Airway Circulatory Anatomy Physiology"
