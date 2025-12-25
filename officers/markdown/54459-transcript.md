@@ -157,6 +157,8 @@
 | 10/17/2023 | PDP3033A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 10/17/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
 | 10/17/2023 | PDP0790A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 10/17/2023 | PDP0287C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |
+| 10/17/2023 | PDP17479 | IS-700 National Inc Mangement System | Passed | 0.0 | 4.00 |
 | 10/16/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 10/16/2023 | PDP0526A | 2022-12 CAO Case Law Updates | Passed | 0.0 | 0.25 |
 | 10/16/2023 | PDP3272A | 2022-5 CAO Legal Updates | Passed | 0.0 | 0.25 |
