@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/22/2025 | LOP1924C | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
 | 11/24/2025 | LOP2518C | 40mm Launcher Certification | Passed | 0.0 | 9.00 |
 | 11/19/2025 | OCA3728C | Open Source DNA | Passed | 0.0 | 1.00 |
 | 11/13/2025 | LOP2994C | AHA Basic Life Support (CPR/AED) | Passed | 0.0 | 2.00 |

@@ -320,6 +320,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/12/2025
+  course: LOP3980C
+  title: West Metro - Spring Motors School - 80hrs
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/5/2025
   course: PDP3090B
   title: 2024-5 Naloxone (Narcan) Admin Guidelines

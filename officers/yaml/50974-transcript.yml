@@ -195,6 +195,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 6/18/2025
+  course: LOP2740C
+  title: West Metro - Monthly Motor Training June 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/17/2025
   course: OCP4199A
   title: Intoxilyzer 8000 Certification Class
@@ -249,6 +255,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 3/19/2025
+  course: LOP0235C
+  title: West Metro - Monthly Motor Training March 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/19/2025
+  course: LOP1237C
+  title: West Metro - Monthly Motor Training February 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/5/2025
   course: OCP0130A
   title: RDS M17 Pistol Conversion

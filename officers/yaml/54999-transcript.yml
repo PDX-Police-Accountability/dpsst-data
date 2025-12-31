@@ -99,12 +99,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/29/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/5/2025
   course: PDS1900C
   title: Traffic Incident Management
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/25/2025
+  course: PDS0113C
+  title: Mental Health First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/24/2025
   course: PDS2375C
   title: Red Dot Range
@@ -123,6 +135,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/18/2025
+  course: PDS2624C
+  title: CPR_First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/18/2025
+  course: PDS1218C
+  title: Ethics  IAU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/17/2025
+  course: PDS1409C
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/9/2025
   course: HRS3448B
   title: Night Range
@@ -1758,12 +1788,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
-  effective_date: 10/3/2024
-  expiration_date: 10/3/2026
+  effective_date: 11/25/2025
+  expiration_date: 11/18/2027
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

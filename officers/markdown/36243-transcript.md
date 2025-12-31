@@ -56,24 +56,30 @@
 | 12/1/2025 | HBS4192C | Virtual - Ambush Awareness  Preparation | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS2200C | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS3003C | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
+| 10/15/2025 | LOP2356C | West Metro - Monthy Motor Training October 2025 | Passed | 0.0 | 8.00 |
 | 10/2/2025 | HBS4448C | MFF - Public Order | Passed | 0.0 | 8.00 |
 | 10/2/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 10/1/2025 | PDP3294B | Multi-Agency Motorcade Training | Instructed | 0.0 | 10.00 |
 | 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 20.00 |
+| 8/20/2025 | LOP3444C | West Metro - Monthly Motor Training August 2025 | Passed | 0.0 | 8.00 |
 | 8/12/2025 | EGP2430B | Police Motorcade Training | Passed | 0.0 | 6.00 |
 | 8/2/2025 | HBS2267B | Virtual-De-Escalation Strategies | Passed | 0.0 | 2.00 |
 | 7/16/2025 | HBS4570B | Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 7/2/2025 | HBS1642A | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |
+| 6/18/2025 | LOP2740C | West Metro - Monthly Motor Training June 2025 | Passed | 0.0 | 8.00 |
 | 5/30/2025 | OSH0042A | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/20/2025 | HBS0756A | Stress, Trauma, Resiliency (STRT) | Passed | 0.0 | 8.00 |
 | 5/1/2025 | HBS2166A | NAMOA Annual Training | Passed | 0.0 | 24.00 |
+| 4/18/2025 | LOP0249C | West Metro - Monthly Motor Training April 2025 | Passed | 0.0 | 8.00 |
 | 4/11/2025 | HBS2011A | InService-T7 Transition/Firearms Qual | Passed | 0.0 | 9.00 |
 | 3/20/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 3/19/2025 | LOP0235C | West Metro - Monthly Motor Training March 2025 | Passed | 0.0 | 8.00 |
 | 3/7/2025 | HBS3821A | Columbus Police Dialogue | Passed | 0.0 | 40.00 |
 | 3/1/2025 | HBS2588A | Virtual-Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 2/28/2025 | HBS2564A | Virtual PREA | Passed | 0.0 | 1.00 |
 | 2/28/2025 | HBS3212A | Virtual Sexual Harassment Prevention - LE | Passed | 0.0 | 1.00 |
 | 2/28/2025 | HBS1380A | CPR/First Aid/AED Adult  Pediatric | Passed | 0.0 | 3.00 |
+| 2/19/2025 | LOP1237C | West Metro - Monthly Motor Training February 2025 | Passed | 0.0 | 8.00 |
 | 2/14/2025 | HBS3191A | 2025 February Rifle Updates | Passed | 0.0 | 8.00 |
 | 2/11/2025 | HBS4478A | MFF - Public Order | Passed | 0.0 | 8.00 |
 | 2/11/2025 | HBS0184A | MFF - Public Order Lecture | Passed | 0.0 | 1.00 |
@@ -81,6 +87,7 @@
 | 2/10/2025 | HBS0738A | MFF - Public Order | Passed | 0.0 | 7.00 |
 | 1/23/2025 | VND1044A | Responder Life Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/22/2025 | VND2338A | Peer Support Conference | Passed | 0.0 | 8.00 |
+| 1/15/2025 | LOP4256C | West Metro - Monthly Motor Training January 2025 | Passed | 0.0 | 8.00 |
 | 12/4/2024 | HBS3258A | IMT Training - December | Passed | 0.0 | 8.00 |
 | 12/4/2024 | HBS2402A | Hearing Conservation Video | Passed | 0.0 | 0.25 |
 | 12/1/2024 | HBS1371A | Nov. Virtual Session #2 General | Passed | 0.0 | 2.25 |

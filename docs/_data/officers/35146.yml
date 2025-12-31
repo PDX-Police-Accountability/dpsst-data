@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2025
+  course: GPN1735C
+  title: Taser Operator course
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/1/2025
+  course: GPN0565C
+  title: Taser VR
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/18/2025
   course: GPN0969C
   title: M57 Process  Unclassified Misdeanor Training

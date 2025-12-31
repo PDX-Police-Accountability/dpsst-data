@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2025 | TGP2432C | Connected Vehicle Investigations | Passed | 0.0 | 8.00 |
 | 11/13/2025 | TGP3321C | Use of Force-The New Social Contract | Passed | 0.0 | 1.00 |
 | 10/24/2025 | TGP0251C | Handgun Training | Instructed | 0.0 | 2.50 |
 | 10/24/2025 | TGP0251C | Handgun Training | Passed | 0.0 | 2.50 |

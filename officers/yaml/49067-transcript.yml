@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2025
+  course: LOP4008C
+  title: West Metro - Spring Motors School - 80hrs
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -68,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/19/2025
+  course: LOP1762C
+  title: West Metro - Monthy Motor Training November 2025
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/15/2025
   course: OCS3174C
   title: Emotional Intelligence in Law Enforcement
@@ -92,6 +104,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 10/15/2025
+  course: LOP2356C
+  title: West Metro - Monthy Motor Training October 2025
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/1/2025
   course: PDP3294B
   title: Multi-Agency Motorcade Training
@@ -146,18 +164,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 6/18/2025
+  course: LOP2740C
+  title: West Metro - Monthly Motor Training June 2025
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/1/2025
   course: OCS1688B
   title: EVOC
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 5/28/2025
+  course: LOP0422C
+  title: West Metro - Monthly Motor Training May 2025
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/15/2025
   course: OCS2172A
   title: May monthly firearms
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/12/2025
+  course: LOP3980C
+  title: West Metro - Spring Motors School - 80hrs
+  status: Instructed
+  score: '0.0'
+  hours: '80.00'
 - date: 5/9/2025
   course: OCS2721A
   title: WV DT's
@@ -200,6 +236,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/19/2025
+  course: LOP0235C
+  title: West Metro - Monthly Motor Training March 2025
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/13/2025
   course: OCS3735A
   title: Feb and March DT's
@@ -212,6 +254,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/19/2025
+  course: LOP1237C
+  title: West Metro - Monthly Motor Training February 2025
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/31/2025
   course: OCS3506A
   title: 2025 1st Qtr Patrol Shotgun

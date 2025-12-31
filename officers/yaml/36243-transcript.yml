@@ -173,6 +173,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/15/2025
+  course: LOP2356C
+  title: West Metro - Monthy Motor Training October 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/2/2025
   course: HBS4448C
   title: MFF - Public Order
@@ -197,6 +203,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '20.00'
+- date: 8/20/2025
+  course: LOP3444C
+  title: West Metro - Monthly Motor Training August 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/12/2025
   course: EGP2430B
   title: Police Motorcade Training
@@ -221,6 +233,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/18/2025
+  course: LOP2740C
+  title: West Metro - Monthly Motor Training June 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/30/2025
   course: OSH0042A
   title: Oregon State Police - Public Order Basic Course
@@ -239,6 +257,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/18/2025
+  course: LOP0249C
+  title: West Metro - Monthly Motor Training April 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/11/2025
   course: HBS2011A
   title: InService-T7 Transition/Firearms Qual
@@ -251,6 +275,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/19/2025
+  course: LOP0235C
+  title: West Metro - Monthly Motor Training March 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/7/2025
   course: HBS3821A
   title: Columbus Police Dialogue
@@ -281,6 +311,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/19/2025
+  course: LOP1237C
+  title: West Metro - Monthly Motor Training February 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/14/2025
   course: HBS3191A
   title: 2025 February Rifle Updates
@@ -320,6 +356,12 @@ training_records:
 - date: 1/22/2025
   course: VND2338A
   title: Peer Support Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/15/2025
+  course: LOP4256C
+  title: West Metro - Monthly Motor Training January 2025
   status: Passed
   score: '0.0'
   hours: '8.00'

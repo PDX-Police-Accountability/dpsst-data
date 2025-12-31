@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2025 | BNP0224C | UAS Monthly | Passed | 0.0 | 8.00 |
 | 12/2/2025 | BNP1476C | Defensive Tactics / Ground control | Passed | 0.0 | 1.00 |
 | 11/20/2025 | BNP2805C | UAS Monthly | Passed | 0.0 | 8.00 |
 | 11/6/2025 | BNP2193C | Skidcar | Passed | 0.0 | 1.00 |

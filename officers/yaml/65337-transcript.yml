@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: 12/6/2025
 training_records:
+- date: 12/4/2025
+  course: PDP1273C
+  title: PPB SFST Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/13/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

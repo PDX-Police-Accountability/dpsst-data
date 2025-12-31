@@ -155,6 +155,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/18/2025
+  course: LOP0249C
+  title: West Metro - Monthly Motor Training April 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/27/2025
   course: BVP4200A
   title: IST Range February 2025

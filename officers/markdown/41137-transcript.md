@@ -82,6 +82,7 @@
 | 5/13/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 5/13/2025 | PDP1738B | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 5/13/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 5/12/2025 | LOP3980C | West Metro - Spring Motors School - 80hrs | Instructed | 0.0 | 40.00 |
 | 5/5/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 5/1/2025 | PDP2312B | 2025 NAMOA Annual Motors Conference | Passed | 0.0 | 24.00 |
 | 4/23/2025 | OSH3987C | Drug Evaluation  Classification Pre-School | Instructed | 0.0 | 16.00 |

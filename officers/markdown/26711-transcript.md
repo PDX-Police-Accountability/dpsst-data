@@ -35,7 +35,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/1/2024 | 2/1/2026 |
 | Code of Ethics | Signed | 3/2/2001 |  |
@@ -50,6 +50,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/22/2025 | HBP3265C | PoliceOne Dog Encounters for LE | Passed | 0.0 | 2.00 |
+| 12/18/2025 | HBP3934C | PoliceOne Arrest, Search, and Seizure | Passed | 0.0 | 2.00 |
+| 12/18/2025 | HBP4348C | PoliceOne Officer Liability | Passed | 0.0 | 2.00 |
+| 12/18/2025 | HBP2939C | PoliceOne Use of Force | Passed | 0.0 | 2.00 |
 | 9/25/2025 | HBS4511B | Building Bridges 2025 | Passed | 0.0 | 5.50 |
 | 3/31/2025 | HBP1073A | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 1/9/2025 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

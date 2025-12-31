@@ -36,13 +36,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2025 | LOP4008C | West Metro - Spring Motors School - 80hrs | Instructed | 0.0 | 5.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
 | 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |
+| 11/19/2025 | LOP1762C | West Metro - Monthy Motor Training November 2025 | Instructed | 0.0 | 8.00 |
 | 11/15/2025 | OCS3174C | Emotional Intelligence in Law Enforcement | Passed | 0.0 | 3.00 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 10/24/2025 | OCS3297C | Peer Training | Passed | 0.0 | 4.00 |
 | 10/23/2025 | OCP2237B | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 10/15/2025 | LOP2356C | West Metro - Monthy Motor Training October 2025 | Instructed | 0.0 | 8.00 |
 | 10/1/2025 | PDP3294B | Multi-Agency Motorcade Training | Instructed | 0.0 | 10.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/30/2025 | OCS3035C | Ethics | Passed | 0.0 | 1.00 |
@@ -52,8 +55,11 @@
 | 7/25/2025 | OCS2727B | PEER training | Passed | 0.0 | 4.00 |
 | 7/15/2025 | OCS3139B | Suspect Escort and Control | Passed | 0.0 | 1.00 |
 | 7/13/2025 | OCS1693B | EVOC | Passed | 0.0 | 5.00 |
+| 6/18/2025 | LOP2740C | West Metro - Monthly Motor Training June 2025 | Instructed | 0.0 | 8.00 |
 | 6/1/2025 | OCS1688B | EVOC | Passed | 0.0 | 5.00 |
+| 5/28/2025 | LOP0422C | West Metro - Monthly Motor Training May 2025 | Instructed | 0.0 | 8.00 |
 | 5/15/2025 | OCS2172A | May monthly firearms | Passed | 0.0 | 1.00 |
+| 5/12/2025 | LOP3980C | West Metro - Spring Motors School - 80hrs | Instructed | 0.0 | 80.00 |
 | 5/9/2025 | OCS2721A | WV DT's | Passed | 0.0 | 1.00 |
 | 4/28/2025 | OCS0700B | 2025 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 4/28/2025 | OCS1650B | April 2025 Monthly Firearms Annual Qual | Passed | 0.0 | 1.00 |
@@ -61,8 +67,10 @@
 | 4/4/2025 | REG3644B | 2025 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 14.00 |
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
 | 3/26/2025 | OCS4478A | March 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
+| 3/19/2025 | LOP0235C | West Metro - Monthly Motor Training March 2025 | Instructed | 0.0 | 8.00 |
 | 3/13/2025 | OCS3735A | Feb and March DT's | Passed | 0.0 | 2.00 |
 | 2/27/2025 | OCS2050A | February 2025 Monthly Firearms | Passed | 0.0 | 1.00 |
+| 2/19/2025 | LOP1237C | West Metro - Monthly Motor Training February 2025 | Instructed | 0.0 | 8.00 |
 | 1/31/2025 | OCS3506A | 2025 1st Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 1/29/2025 | VND3653A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 3.00 |
 | 1/29/2025 | VND2461A | CMV Size and Weight Training | Passed | 0.0 | 3.00 |

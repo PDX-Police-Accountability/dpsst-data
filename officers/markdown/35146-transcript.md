@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2025 | GPN1735C | Taser Operator course | Instructed | 0.0 | 8.00 |
+| 12/1/2025 | GPN0565C | Taser VR | Instructed | 0.0 | 6.00 |
 | 11/18/2025 | GPN0969C | M57 Process  Unclassified Misdeanor Training | Passed | 0.0 | 1.00 |
 | 10/22/2025 | GPN4571B | Defensive tactics | Instructed | 0.0 | 5.00 |
 | 10/21/2025 | GPN2286B | Taser instructor course | Passed | 0.0 | 6.00 |

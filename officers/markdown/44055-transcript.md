@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2025 | PDP1105C | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/1/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

@@ -61,6 +61,7 @@
 | 7/1/2025 | OCP0584B | Implicit Bias | Passed | 0.0 | 1.00 |
 | 6/30/2025 | OCP2153B | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/19/2025 | OCP2495A | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 6/18/2025 | LOP2740C | West Metro - Monthly Motor Training June 2025 | Passed | 0.0 | 8.00 |
 | 6/17/2025 | OCP4199A | Intoxilyzer 8000 Certification Class | Instructed | 0.0 | 6.00 |
 | 6/4/2025 | OCS2175A | FARO Certification Course | Passed | 0.0 | 24.00 |
 | 5/28/2025 | OCP3795A | Spring 2025 Officer In Charge Training | Passed | 0.0 | 3.00 |
@@ -70,6 +71,8 @@
 | 4/2/2025 | OSH1693A | DRE Conference | Passed | 0.0 | 8.00 |
 | 3/24/2025 | OCP1315A | To Pursue or Not | Passed | 0.0 | 1.50 |
 | 3/24/2025 | OCP1808A | Contempt Of Cop: Ethical Decision Making | Passed | 0.0 | 1.25 |
+| 3/19/2025 | LOP0235C | West Metro - Monthly Motor Training March 2025 | Passed | 0.0 | 8.00 |
+| 2/19/2025 | LOP1237C | West Metro - Monthly Motor Training February 2025 | Passed | 0.0 | 8.00 |
 | 2/5/2025 | OCP0130A | RDS M17 Pistol Conversion | Passed | 0.0 | 16.00 |
 | 1/29/2025 | VND3653A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 3.00 |
 | 1/29/2025 | VND2461A | CMV Size and Weight Training | Passed | 0.0 | 3.00 |

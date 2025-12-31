@@ -123,6 +123,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/15/2025
+  course: LOP4256C
+  title: West Metro - Monthly Motor Training January 2025
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/31/2024
   course: GSP3611A
   title: Multnomah County Deflection Center (2024)

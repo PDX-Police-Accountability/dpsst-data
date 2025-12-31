@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2025
+  course: PSU1544C
+  title: Becoming a Leader in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/20/2025
+  course: PSU1840C
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/17/2025
   course: PSU0797C
   title: Duty Pistol / Tactical Shooting

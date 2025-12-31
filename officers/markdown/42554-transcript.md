@@ -76,6 +76,7 @@
 | 5/27/2025 | PDP0423B | 2025 FTEP Post DPSST Firearms | Instructed | 0.0 | 23.00 |
 | 5/21/2025 | PDP2673A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
 | 5/20/2025 | PDP0341A | 2025 Traffic Spring Motor Qual | Passed | 0.0 | 9.00 |
+| 5/12/2025 | LOP3980C | West Metro - Spring Motors School - 80hrs | Instructed | 0.0 | 40.00 |
 | 5/1/2025 | PDP2312B | 2025 NAMOA Annual Motors Conference | Passed | 0.0 | 24.00 |
 | 4/23/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |
 | 4/22/2025 | PDP0241A | CPR/First Aid | Passed | 0.0 | 1.75 |

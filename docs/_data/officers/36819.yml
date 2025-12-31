@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/22/2025
+  course: LOP1924C
+  title: Confrontational Simulation Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/24/2025
   course: LOP2518C
   title: 40mm Launcher Certification

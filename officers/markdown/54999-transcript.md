@@ -32,8 +32,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 10/3/2024 | 10/3/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 11/25/2025 | 11/18/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
 | Code of Ethics | Signed | 1/11/2016 |  |
@@ -45,10 +45,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2025 | PDS1900C | Traffic Incident Management | Passed | 0.0 | 2.00 |
+| 11/25/2025 | PDS0113C | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 11/24/2025 | PDS2375C | Red Dot Range | Passed | 0.0 | 5.00 |
 | 11/20/2025 | PDS3322C | ConSim | Passed | 0.0 | 4.00 |
 | 11/20/2025 | PDS1363C | Less Lethal | Passed | 0.0 | 4.00 |
+| 11/18/2025 | PDS2624C | CPR_First Aid-AED | Passed | 0.0 | 2.00 |
+| 11/18/2025 | PDS1218C | Ethics  IAU | Passed | 0.0 | 2.00 |
+| 11/17/2025 | PDS1409C | PREA | Passed | 0.0 | 2.00 |
 | 10/9/2025 | HRS3448B | Night Range | Passed | 0.0 | 3.00 |
 | 10/2/2025 | TDP3557B | Mission Planning and Range | Passed | 0.0 | 8.00 |
 | 9/11/2025 | HRS0242B | Active Threat Response | Passed | 0.0 | 4.00 |
