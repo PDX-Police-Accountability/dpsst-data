@@ -48,6 +48,7 @@
 | 12/2/2025 | MNS1210C | Vehicle Extractions / WRAP Training | Passed | 0.0 | 1.50 |
 | 9/18/2025 | MNS2258C | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 9/18/2025 | MNS1364C | Firearms Qualification and Skill Builder | Passed | 0.0 | 3.00 |
+| 9/6/2025 | MNS0254C | 2025 Case Law Update | Passed | 0.0 | 1.00 |
 | 7/17/2025 | MNS3769B | Ethics in the Workplace | Passed | 0.0 | 0.50 |
 | 2/4/2025 | MNS3263A | Low Light Qualification/Training | Passed | 0.0 | 2.50 |
 | 1/23/2025 | MNS1331A | Interdiction Stops | Passed | 0.0 | 0.75 |

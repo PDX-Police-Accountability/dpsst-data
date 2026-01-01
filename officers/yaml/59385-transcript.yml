@@ -61,6 +61,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 12/30/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/17/2025
   course: PSU0099C
   title: Duty Pistol / Tactical Shooting
@@ -1264,8 +1270,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

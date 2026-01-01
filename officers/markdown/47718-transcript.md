@@ -53,6 +53,7 @@
 | 9/17/2025 | PDP3643B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 9/16/2025 | PDP4523B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 9/15/2025 | PDP2127B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 6.00 |
+| 9/12/2025 | PDP1507C | LRIS Union Leadership in Action Conference | Passed | 0.0 | 15.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/13/2025 | PDP2512B | 2025 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

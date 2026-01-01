@@ -24,7 +24,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/29/2024 | 4/29/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/21/2019 |  |
@@ -37,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 1/5/2026 | 26-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
+| 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2025 | PSU0099C | Duty Pistol / Tactical Shooting | Passed | 0.0 | 11.50 |
 | 12/15/2025 | PSU2172C | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/10/2025 | PSU3518C | Defensive Tactics and Appled Use of Force | Passed | 0.0 | 4.00 |

@@ -26,8 +26,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 2/28/2024 | 1/31/2026 |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2025 | TGP2432C | Connected Vehicle Investigations | Passed | 0.0 | 8.00 |
 | 11/13/2025 | TGP3321C | Use of Force-The New Social Contract | Passed | 0.0 | 1.00 |
 | 10/24/2025 | TGP0251C | Handgun Training | Instructed | 0.0 | 2.50 |

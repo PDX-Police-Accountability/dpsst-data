@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2025
+  course: TDP0384C
+  title: Implicit Bias 2025
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/14/2025
   course: TDP3618C
   title: Defensive Tactics

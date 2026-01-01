@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/30/2025
+  agency: Port of Portland Police Department
+  action: Hired
+  rank: Captain
+  classification: ''
+  assignment: ''
 - date: 6/11/2020
   agency: Portland Police Bureau
   action: Promotion

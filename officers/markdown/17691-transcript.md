@@ -44,6 +44,7 @@
 | 12/2/2025 | MNS2210C | Traumatic Injury Care | Passed | 0.0 | 1.50 |
 | 12/2/2025 | MNS1210C | Vehicle Extractions / WRAP Training | Passed | 0.0 | 1.50 |
 | 10/9/2025 | MNS2258C | Defensive Tactics | Passed | 0.0 | 3.00 |
+| 9/18/2025 | MNS0254C | 2025 Case Law Update | Passed | 0.0 | 1.00 |
 | 7/15/2025 | MNS3769B | Ethics in the Workplace | Passed | 0.0 | 0.50 |
 | 5/1/2025 | MNS0124A | OLCC Briefing Training | Passed | 0.0 | 0.50 |
 | 3/27/2025 | MNS4572C | Police Ambush Review | Passed | 0.0 | 0.50 |

@@ -25,7 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/18/2024 | 4/18/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 8/15/2022 |  |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2025 | PSU1822C | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/17/2025 | PSU0099C | Duty Pistol / Tactical Shooting | Passed | 0.0 | 11.50 |

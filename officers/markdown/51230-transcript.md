@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/24/2025 | PDP1941C | SERT Firearms Training | Passed | 0.0 | 9.00 |
 | 12/18/2025 | PDP1105C | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 11/26/2025 | PDP4058C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/26/2025 | PDP4058C | 2025 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |

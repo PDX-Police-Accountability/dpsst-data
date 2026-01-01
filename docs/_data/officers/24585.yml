@@ -2049,14 +2049,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/29/2024
   expiration_date: 4/29/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 education_records:
 - date: 8/15/1998
   degree: Bachelor Science

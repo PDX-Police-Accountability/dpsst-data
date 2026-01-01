@@ -25,9 +25,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 3/19/2024 | 3/19/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 1/11/2016 |  |
 | Code of Ethics | Signed | 7/16/2015 |  |
 ## Education
@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
+| 12/23/2025 | HBP4397C | PoliceOne Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
 | 11/5/2025 | HBP3912C | ODT - Working from Cleared Areas | Passed | 0.0 | 1.00 |
 | 10/1/2025 | HBP4233C | Force Response  Warning Feasibility w/in Case Law | Passed | 0.0 | 2.00 |
 | 10/1/2025 | HBP4276C | Range | Passed | 0.0 | 5.00 |

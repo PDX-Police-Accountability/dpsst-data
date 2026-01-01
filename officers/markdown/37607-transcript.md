@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2025 | PDP0614C | Legally Justified; But Was it Avoidable | Passed | 0.0 | 5.00 |
 | 11/30/2025 | PDP3390C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 11/24/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 11/3/2025 | PDP4107C | 2025-10 CAO Legal Memo: PPB Response to ICE | Passed | 0.0 | 0.25 |

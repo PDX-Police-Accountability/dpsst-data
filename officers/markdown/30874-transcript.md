@@ -30,8 +30,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 3/11/2025 | 4/11/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 11/29/2010 |  |
 ## Education
@@ -42,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2025 | GSP4129C | CEW (Taser), OC, Defensive Tactics Training | Passed | 0.0 | 10.00 |
 | 12/4/2025 | GSP3914C | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 5/27/2025 | FGP0153B | DPSST Legal Updates - March/April 2025 | Passed | 0.0 | 1.00 |

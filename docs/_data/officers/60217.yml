@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/24/2025
+  course: PDP1941C
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/26/2025
   course: PDP4058C
   title: 2025 SERT Training - FIREARMS
