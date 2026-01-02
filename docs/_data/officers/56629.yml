@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2025
+  course: PDP4493C
+  title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/10/2025
+  course: PDP1730C
+  title: 2025 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/9/2025
   course: PDP3618C
   title: 2025 Sergeant's Leadership Workshop
@@ -4001,10 +4013,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/16/2025
   expiration_date: 4/16/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

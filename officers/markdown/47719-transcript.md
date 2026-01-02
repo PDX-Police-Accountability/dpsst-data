@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/9/2025 | HBS3388C | MFF - Public Order Day 2 | Passed | 0.0 | 9.00 |
 | 12/8/2025 | HBS4202C | MFF - APR | Passed | 0.0 | 0.50 |
 | 12/8/2025 | HBS4198C | MFF - Public Order Day 1 | Passed | 0.0 | 8.50 |

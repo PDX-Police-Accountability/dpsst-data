@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2025 | GSP3096C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
+| 12/18/2025 | GSP3457C | SWAT Active Threat Training | Passed | 0.0 | 10.00 |
+| 12/17/2025 | GSP4567C | SWAT Firearms | Passed | 0.0 | 10.00 |
 | 12/4/2025 | GSP0038C | Common Weapons Familiarization | Passed | 0.0 | 1.75 |
 | 12/4/2025 | GSP0863C | SWAT Post Mission Debrief Training | Passed | 0.0 | 1.00 |
 | 11/21/2025 | GSP2281C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |

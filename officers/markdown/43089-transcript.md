@@ -48,7 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/10/2025 | LGP1004C | SWAT-Team movement / Hostage Rescue |  | 0.0 | 6.00 |
+| 12/10/2025 | LGP1004C | SWAT-Team movement / Hostage Rescue | Passed | 0.0 | 6.00 |
 | 11/13/2025 | LGS2606C | Legal Update | Passed | 0.0 | 2.00 |
 | 11/7/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/1/2025 | LGS1907B | Crisis Response Course #CITCR101 | Passed | 0.0 | 1.00 |

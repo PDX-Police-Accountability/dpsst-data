@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2025 | OSH1258C | Defensive Tactics/Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
 | 10/16/2025 | OSH1857B | Defensive Tactics/ Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
 | 10/13/2025 | OSH3118B | Defensive Tactics/ Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
 | 10/10/2025 | OSH0828B | Defensive Tactics/Taser 2nd Trimester | Instructed | 0.0 | 4.00 |

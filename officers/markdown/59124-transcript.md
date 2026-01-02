@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/3/2025 | BVP1996C | Nov 2025 Night Range 110325 | Passed | 0.0 | 3.00 |
 | 10/13/2025 | BVP4462B | SFST/Intoxilyzer Refresher 101325 | Passed | 0.0 | 8.00 |

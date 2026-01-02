@@ -63,6 +63,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/18/2025
+  course: GSP3457C
+  title: SWAT Active Threat Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/17/2025
+  course: GSP4567C
+  title: SWAT Firearms
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 11/21/2025
   course: PDS2306C
   title: Defensive Tactics
@@ -3496,10 +3508,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 10/2/2025
   expiration_date: 10/2/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/15/2012

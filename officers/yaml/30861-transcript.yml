@@ -134,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/11/2025
+  course: BNS0688C
+  title: WRAP refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/10/2025
   course: BNS3328C
   title: SFST Refresher/DUII Wet Lab
@@ -673,10 +679,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025

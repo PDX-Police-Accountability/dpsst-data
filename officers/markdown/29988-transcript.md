@@ -4,7 +4,7 @@
 | name | Kammerer, Erik W. |
 | dpsst_identifier | 29988 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/30/2025 | Portland Police Bureau | Retired | Detective |  |  |
 | 7/31/2003 | Portland Police Bureau | Promotion | Detective |  |  |
 | 10/6/1994 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/1/2005 | Police Officer | Advanced | Granted | 4/1/2005 |  |  |
-| 6/6/2001 | Police Officer | Intermediate | Granted | 6/6/2001 |  |  |
-| 7/24/1995 | Police Officer | Basic | Granted | 7/24/1995 |  |  |
+| 4/1/2005 | Police Officer | Advanced | Granted | 4/1/2005 | 3/30/2026 |  |
+| 6/6/2001 | Police Officer | Intermediate | Granted | 6/6/2001 | 3/30/2026 |  |
+| 7/24/1995 | Police Officer | Basic | Granted | 7/24/1995 | 3/30/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

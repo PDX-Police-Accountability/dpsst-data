@@ -52,7 +52,6 @@
 | 11/17/2025 | HBS2614C | Recruit-Use of Force Test | Passed | 0.0 | 4.00 |
 | 11/17/2025 | HBS0655C | Recruit-Firearms Test | Passed | 0.0 | 4.00 |
 | 11/14/2025 | HBS2236C | Recruit-PATROL EVO RADAR/LIDAR | Passed | 0.0 | 8.00 |
-| 11/14/2025 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 11/14/2025 | REG2312C | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 11/13/2025 | HBS2174C | Recruit-Defensive Tactics CONSIM | Passed | 0.0 | 4.00 |
 | 11/13/2025 | HBS0913C | Recruit-Patrol EVO 5 | Passed | 0.0 | 4.00 |

@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2025
+  course: GSP3096C
+  title: SWAT Sniper Range
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/18/2025
+  course: GSP3457C
+  title: SWAT Active Threat Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/17/2025
+  course: GSP4567C
+  title: SWAT Firearms
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/4/2025
   course: GSP0038C
   title: Common Weapons Familiarization

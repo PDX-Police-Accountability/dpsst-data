@@ -28,7 +28,6 @@
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/2/2025 | 10/2/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 1/1/1950 |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/18/2025 | GSP3457C | SWAT Active Threat Training | Passed | 0.0 | 10.00 |
+| 12/17/2025 | GSP4567C | SWAT Firearms | Passed | 0.0 | 10.00 |
 | 11/21/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 11/21/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
 | 11/21/2025 | GSP2281C | SWAT Sniper Range | Passed | 0.0 | 10.00 |

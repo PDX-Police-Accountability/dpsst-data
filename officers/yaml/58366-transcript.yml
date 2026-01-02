@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/16/2025
+  course: OSH4272C
+  title: Manager Comptency Training - Program Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/23/2025
   course: OSH2536C
   title: OSP Defensive Tactics - 2nd Trimester TASER Course

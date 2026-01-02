@@ -157,12 +157,6 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 11/14/2025
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 11/14/2025
   course: REG2312C
   title: Radar/Lidar Agency Practical
   status: Passed

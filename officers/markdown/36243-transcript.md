@@ -58,7 +58,6 @@
 | 12/1/2025 | HBS3003C | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
 | 10/15/2025 | LOP2356C | West Metro - Monthy Motor Training October 2025 | Passed | 0.0 | 8.00 |
 | 10/2/2025 | HBS4448C | MFF - Public Order | Passed | 0.0 | 8.00 |
-| 10/2/2025 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 10/1/2025 | PDP3294B | Multi-Agency Motorcade Training | Instructed | 0.0 | 10.00 |
 | 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 20.00 |
 | 8/20/2025 | LOP3444C | West Metro - Monthly Motor Training August 2025 | Passed | 0.0 | 8.00 |
