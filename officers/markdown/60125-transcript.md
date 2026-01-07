@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 12/15/2025 | PDS1661C | ACAP Training | Passed | 0.0 | 2.00 |
 | 12/13/2025 | PDS3606C | Tourniquets and Trauma Kits | Passed | 0.0 | 1.00 |
 | 12/12/2025 | PDS2170C | Driving Techniques | Passed | 0.0 | 1.00 |

@@ -140,6 +140,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2025
+  course: PDS3752C
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/24/2025
   course: PDS2213B
   title: Range Qualification

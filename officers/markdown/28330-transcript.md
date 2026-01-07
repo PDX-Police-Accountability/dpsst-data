@@ -35,8 +35,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/8/2025 | 5/8/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/20/2025 | PPP1808C | Handgun Training | Passed | 0.0 | 4.00 |
 | 9/15/2025 | PPP0995B | Leadership Summit | Passed | 0.0 | 8.00 |
 | 8/31/2025 | PPP0338B | Ethical Responibility Responding to DV Calls | Passed | 0.0 | 1.00 |
 | 5/8/2025 | PPP3173A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |

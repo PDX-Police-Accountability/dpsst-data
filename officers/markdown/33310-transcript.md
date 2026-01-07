@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/31/2025 | Monmouth Police Department | Retired | Police Off |  |  |
 | 7/1/2000 | Monmouth Police Department | Hired | Police Off |  |  |
 | 4/4/2000 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/25/1999 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -22,9 +23,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/4/2005 | Police Officer | Advanced | Granted | 4/4/2005 |  |  |
-| 7/23/2001 | Police Officer | Intermediate | Granted | 7/23/2001 |  |  |
-| 3/15/2000 | Police Officer | Basic | Granted | 3/15/2000 |  |  |
+| 4/4/2005 | Police Officer | Advanced | Granted | 4/4/2005 | 3/31/2026 |  |
+| 7/23/2001 | Police Officer | Intermediate | Granted | 7/23/2001 | 3/31/2026 |  |
+| 3/15/2000 | Police Officer | Basic | Granted | 3/15/2000 | 3/31/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

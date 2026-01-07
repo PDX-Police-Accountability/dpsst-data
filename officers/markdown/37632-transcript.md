@@ -50,6 +50,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 10/24/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/15/2025 | PDS4490B | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 10/13/2025 | PDS3909C | ConSim | Passed | 0.0 | 2.00 |

@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2025
+  course: PPP4041C
+  title: Mental Health First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/27/2025
   course: PPP1024B
   title: Defensive Tactics

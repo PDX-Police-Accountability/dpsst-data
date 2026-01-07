@@ -38,12 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/11/2025 | PPP2227C | Handgun Qual for Special Assignment | Passed | 0.0 | 1.00 |
 | 9/27/2025 | PPP1024B | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/2/2025 | PPP1842B | Behavioral Health Unit Overview | Passed | 0.0 | 2.00 |
 | 9/2/2025 | PPP0815B | Imporvised Explosive Device Response | Passed | 0.0 | 1.00 |
 | 9/2/2025 | PPP1578B | Airport Security Update | Passed | 0.0 | 1.00 |
 | 8/31/2025 | PPP0338B | Ethical Responibility Responding to DV Calls | Passed | 0.0 | 1.00 |
+| 8/20/2025 | PPP0347C | First-Aid for Operational Canines | Passed | 0.0 | 3.00 |
 | 6/12/2025 | PPP2953B | Firearms: Rifle and Pistol Optics Training | Passed | 0.0 | 4.00 |
 | 4/30/2025 | PPP2106A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
 | 4/28/2025 | PPP4559A | Tri-Met Enforcement Training | Passed | 0.0 | 1.00 |

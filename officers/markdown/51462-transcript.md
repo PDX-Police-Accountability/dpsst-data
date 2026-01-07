@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 11/19/2025 | PDS0065C | Monthly Reserve Unit Meeting | Passed | 0.0 | 2.00 |
 | 11/8/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 11/8/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |

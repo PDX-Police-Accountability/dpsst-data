@@ -24,8 +24,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/15/2024 | 4/15/2026 |
 | Code of Ethics | Signed | 3/7/2024 |  |
 | Code of Ethics | Signed | 1/27/2009 |  |
@@ -36,12 +36,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2025 | GLP0613C | Defensive Tactics Winter 2025 | Passed | 0.0 | 2.00 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Passed | 0.0 | 4.00 |
 | 10/13/2025 | GLP1210B | Q3 Range - Threat ID and Target Transition | Passed | 0.0 | 3.00 |
 | 9/3/2025 | GLP0855B | Taser 10 Operation Course | Passed | 0.0 | 6.00 |
 | 6/11/2025 | GLP0674B | Red Dot Transition Course and Qualification | Passed | 0.0 | 16.00 |
 | 4/8/2025 | GLP0779A | Defensive Tactics Spring 2025 | Passed | 0.0 | 3.00 |
+| 3/31/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/10/2024 | GLP4165A | Domestic Violence DA Training | Passed | 0.0 | 3.00 |
 | 11/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/28/2024 | GLP2871A | Expert Analysis of OIS in Clear Creek CO | Passed | 0.0 | 2.00 |

@@ -46,6 +46,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/11/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 12/5/2025 | PDS1900C | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 11/25/2025 | PDS0113C | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 11/24/2025 | PDS2375C | Red Dot Range | Passed | 0.0 | 5.00 |
@@ -54,6 +55,7 @@
 | 11/18/2025 | PDS2624C | CPR_First Aid-AED | Passed | 0.0 | 2.00 |
 | 11/18/2025 | PDS1218C | Ethics  IAU | Passed | 0.0 | 2.00 |
 | 11/17/2025 | PDS1409C | PREA | Passed | 0.0 | 2.00 |
+| 10/25/2025 | HRS1267C | LEDS Certification and Recertification | Passed | 0.0 | 1.00 |
 | 10/9/2025 | HRS3448B | Night Range | Passed | 0.0 | 3.00 |
 | 10/2/2025 | TDP3557B | Mission Planning and Range | Passed | 0.0 | 8.00 |
 | 9/11/2025 | HRS0242B | Active Threat Response | Passed | 0.0 | 4.00 |

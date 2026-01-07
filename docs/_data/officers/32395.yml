@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/11/2025
+  course: PPP2227C
+  title: Handgun Qual for Special Assignment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/27/2025
   course: PPP1024B
   title: Defensive Tactics
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/20/2025
+  course: PPP0347C
+  title: First-Aid for Operational Canines
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/12/2025
   course: PPP2953B
   title: 'Firearms: Rifle and Pistol Optics Training'

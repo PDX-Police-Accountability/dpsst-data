@@ -105,6 +105,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/11/2025
+  course: PDS3752C
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/5/2025
   course: PDS1900C
   title: Traffic Incident Management
@@ -153,6 +159,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/25/2025
+  course: HRS1267C
+  title: LEDS Certification and Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/9/2025
   course: HRS3448B
   title: Night Range

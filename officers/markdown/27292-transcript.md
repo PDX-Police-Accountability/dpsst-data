@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2025 | PDS4383C | Handgun Training  Qualification | Passed | 0.0 | 8.00 |
 | 11/24/2025 | PDS1489C | GLOVE Training | Passed | 0.0 | 4.00 |
 | 11/18/2025 | PDS2452C | Crisis Negotiation Team Training | Passed | 0.0 | 20.00 |
 | 11/17/2025 | PDS1071C | Firearms Training | Passed | 0.0 | 8.00 |

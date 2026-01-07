@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/31/2025
+  agency: Monmouth Police Department
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/1/2000
   agency: Monmouth Police Department
   action: Hired
@@ -57,21 +63,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 4/4/2005
-  expiration_date: ''
+  expiration_date: 3/31/2026
   probation_date: ''
 - status_date: 7/23/2001
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 7/23/2001
-  expiration_date: ''
+  expiration_date: 3/31/2026
   probation_date: ''
 - status_date: 3/15/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/15/2000
-  expiration_date: ''
+  expiration_date: 3/31/2026
   probation_date: ''
 training_records:
 - date: 8/15/2025

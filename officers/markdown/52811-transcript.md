@@ -41,6 +41,7 @@
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2025 | GSP3457C | SWAT Active Threat Training | Passed | 0.0 | 10.00 |
 | 12/17/2025 | GSP4567C | SWAT Firearms | Passed | 0.0 | 10.00 |
+| 12/15/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 11/21/2025 | PDS2306C | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 11/21/2025 | PDS3716C | Taser 7 | Instructed | 0.0 | 4.00 |
 | 11/21/2025 | GSP2281C | SWAT Sniper Range | Passed | 0.0 | 10.00 |

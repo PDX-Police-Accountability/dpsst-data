@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/22/2025 | REG1934C | Staff Meeting | Passed | 0.0 | 2.50 |
 | 6/26/2025 | F6K0443B | Staff First Aid/CPR/AED Training | Passed | 0.0 | 4.00 |
 | 6/25/2025 | BPT4299B | Scenario Overview | Instructed | 0.0 | 1.00 |
 | 6/24/2025 | BPT3565B | Blood Borne Pathogens  Concussion Overview | Passed | 0.0 | 1.00 |

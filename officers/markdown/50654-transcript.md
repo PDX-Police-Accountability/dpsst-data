@@ -17,9 +17,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/1/2021 | Police Officer | Advanced | Lapsed | 11/6/2020 | 1/1/2026 |  |
-| 4/1/2021 | Police Officer | Basic | Lapsed | 10/5/2010 | 1/1/2026 |  |
-| 4/1/2021 | Police Officer | Intermediate | Lapsed | 11/6/2020 | 1/1/2026 |  |
+| 1/1/2026 | Police Officer | Advanced | Expired | 11/6/2020 |  |  |
+| 1/1/2026 | Police Officer | Basic | Expired | 10/5/2010 |  |  |
+| 1/1/2026 | Police Officer | Intermediate | Expired | 11/6/2020 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

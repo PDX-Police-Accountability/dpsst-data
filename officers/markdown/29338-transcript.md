@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/22/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 12/4/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
 | 12/4/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |
 | 12/4/2025 | PDS4141C | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |

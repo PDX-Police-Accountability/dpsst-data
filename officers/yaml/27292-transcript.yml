@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2025
+  course: PDS4383C
+  title: Handgun Training  Qualification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/24/2025
   course: PDS1489C
   title: GLOVE Training

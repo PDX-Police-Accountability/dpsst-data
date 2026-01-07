@@ -36,7 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/16/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 1/5/2026 | 26-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/7/2025 | PDP1989C | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |

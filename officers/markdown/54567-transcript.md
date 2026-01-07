@@ -42,6 +42,7 @@
 | 11/19/2025 | OCA3728C | Open Source DNA | Passed | 0.0 | 1.00 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/10/2025 | MLP2455C | Night Shoot/Qual-Pistol | Instructed | 0.0 | 3.00 |
+| 11/10/2025 | MLP1825C | Night Shoot/Qual-Pistol | Instructed | 0.0 | 3.00 |
 | 11/4/2025 | MLP0745B | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 11/4/2025 | MLP1565C | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 10/21/2025 | MLP4394B | Defensive Tactics | Passed | 0.0 | 2.00 |
@@ -56,6 +57,7 @@
 | 7/7/2025 | MLP3532B | Implicit Bias | Passed | 0.0 | 1.00 |
 | 6/10/2025 | MLP0151A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/16/2025 | LOP0010A | 2025 Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
+| 3/31/2025 | MLP0965C | MILO Instructor Program | Passed | 0.0 | 8.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 3/5/2025 | MLP2154A | MOPD New Carrier Less Lethal Qualification | Instructed | 0.0 | 4.00 |
 | 2/6/2025 | WLP1429A | Human Trafficking Training | Passed | 0.0 | 16.00 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/22/2025 | REG1934C | Staff Meeting | Passed | 0.0 | 2.50 |
 | 6/25/2025 | BPT0456B | Teams/AI/Data Label Sensitivity | Passed | 0.0 | 1.00 |
 | 6/25/2025 | BPT4299B | Scenario Overview | Passed | 0.0 | 1.00 |
 | 6/25/2025 | BPT3480B | EVO Overview | Passed | 0.0 | 1.00 |
