@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/31/2025 | PDP3545C | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP2768C | 2025 Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 11/14/2025 | PDP4167C | 2025-3 Advanced Academy Walking Beat | Passed | 0.0 | 20.00 |
 | 11/13/2025 | PDP3567C | 2025-3 Advanced Academy Fitness | Passed | 0.0 | 7.50 |
 | 11/12/2025 | PDP3059C | 2025-3 Advanced Academy Patrol Procedures FA | Passed | 0.0 | 65.25 |

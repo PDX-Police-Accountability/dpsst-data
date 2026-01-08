@@ -29,6 +29,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/26/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 12/26/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |
+| 12/26/2025 | PDP2922C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 12/26/2025 | PDP3102C | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP1969C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0027C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/18/2025 | REG0256C | SFST/DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/30/2025 | REG0026C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/25/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

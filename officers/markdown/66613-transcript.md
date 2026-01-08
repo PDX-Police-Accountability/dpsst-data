@@ -29,6 +29,26 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/30/2025 | PDP1543C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP2169C | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP0876C | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP0439C | 2025 IS PVO Stop Stick Hyperlink (External) | Passed | 0.0 | 0.75 |
+| 12/28/2025 | PDP2342C | 2025 IS - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
+| 12/28/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP2922C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 12/28/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP3102C | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP1969C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP1893C | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP3625C | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP3212C | 2025-07 CAO Legal Updates for 08  09/2024 | Passed | 0.0 | 0.50 |
+| 12/24/2025 | PDP1472C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
+| 12/24/2025 | PDP0519C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0027C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 12/23/2025 | PDP0697C | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
+| 12/23/2025 | PDP4279C | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 11/18/2025 | REG0256C | SFST/DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 11/14/2025 | PDP0373C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/30/2025 | REG0026C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

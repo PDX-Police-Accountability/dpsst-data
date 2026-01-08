@@ -48,6 +48,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 12/9/2025 | PDP0718C | AA 2025 [CIT-111-A] Project Respond | Passed | 0.0 | 0.25 |
+| 12/9/2025 | PDP0574C | AA 2025 [CIT-112-A] BHU Overview | Passed | 0.0 | 0.25 |
+| 12/8/2025 | PDP0781C | 2022-1 In Service CIT PSRvsPR Video 1 | Passed | 0.0 | 0.25 |
+| 12/8/2025 | PDP2445C | 2022-1 In Service CIT PSRvsPR Video 2 | Passed | 0.0 | 0.25 |
+| 12/8/2025 | PDP1316C | 2022-1 In Service PP CIT the 4C's | Passed | 0.0 | 0.25 |
+| 12/8/2025 | PDP3893C | 2022-1 Online IS Patrol Procedures-Mental Health | Passed | 0.0 | 0.50 |
+| 12/4/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/25/2025 | PDP2121C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 11/18/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/4/2025 | PDP3639C | 2025 Sup IS HR 2.02 for Supervisors Video | Passed | 0.0 | 0.50 |

@@ -49,6 +49,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/4/2025
+  course: PDP1608C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/4/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/6/2025
   course: PDP2662C
   title: 2025 Lead Exposure Training

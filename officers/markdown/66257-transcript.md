@@ -29,9 +29,20 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/15/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/15/2025 | PDP0707C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 12/9/2025 | PDP3070C | FTEP Geography | Passed | 0.0 | 1.75 |
+| 12/8/2025 | PDP0697C | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
+| 12/8/2025 | PDP4111C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
 | 12/2/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 12/1/2025 | PDP3045C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP0356C | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP3336C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP0302C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 12/1/2025 | PDP1824C | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 12/1/2025 | PDP0784C | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP2285C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 11/19/2025 | PDP0240C | Post Basic CEW (Conducted Electrical Weapon) | Passed | 0.0 | 9.00 |
 | 11/19/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/17/2025 | PDP2140C | 2025 All Sworn IS PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |

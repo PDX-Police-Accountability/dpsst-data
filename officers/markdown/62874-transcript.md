@@ -32,6 +32,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/5/2025 | PDP0439C | 2025 IS PVO Stop Stick Hyperlink (External) | Passed | 0.0 | 0.75 |
+| 12/5/2025 | PDP2342C | 2025 IS - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
+| 12/5/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 12/5/2025 | PDP0972C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 12/5/2025 | PDP2085C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/5/2025 | PDP3336C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 12/5/2025 | PDP0821C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/5/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/5/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/5/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/11/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/2/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 11/2/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |

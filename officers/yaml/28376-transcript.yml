@@ -88,6 +88,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/30/2025
+  course: PDP3067C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/30/2025
+  course: PDP1842C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2025
+  course: PDP4018C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/16/2025
+  course: PDP2825C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2025
+  course: PDP0972C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2025
+  course: PDP2085C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2025
+  course: PDP0821C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/13/2025
+  course: PDP1608C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/10/2025
   course: PDP2365C
   title: 2025-3 Range Qualification Primary Firearm
@@ -106,6 +154,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 12/8/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

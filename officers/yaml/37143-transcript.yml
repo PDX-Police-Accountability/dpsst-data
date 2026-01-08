@@ -64,6 +64,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/29/2025
+  course: PDP0397C
+  title: 2025 Sup IS HR 2.02 for Supervisors Video
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/17/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/20/2025
   course: PDP2365C
   title: 2025-3 Range Qualification Primary Firearm

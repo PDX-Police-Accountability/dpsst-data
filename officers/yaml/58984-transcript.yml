@@ -74,12 +74,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/28/2025
+  course: PDP3067C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP1842C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/10/2025
   course: PDP2559C
   title: 2025 Intoxilyzer 8000 Certification Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/9/2025
+  course: PDP2293C
+  title: 2025 Adv Roadside Impaired Driving Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 11/13/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

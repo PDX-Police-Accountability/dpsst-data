@@ -56,12 +56,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/10/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/9/2025
   course: PDP2540C
   title: 2025 Patrol Rifle Operator's In-Service Day 2
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/2/2025
+  course: PDP1003C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 11/3/2025
   course: PDP0016C
   title: 2025-09 CAO Legal Updates for 02/2025
@@ -3213,6 +3231,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/8/2025
@@ -3221,10 +3243,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/17/2018

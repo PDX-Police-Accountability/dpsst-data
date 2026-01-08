@@ -29,6 +29,37 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/30/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 12/30/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |
+| 12/30/2025 | PDP2922C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 12/30/2025 | PDP3102C | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP1969C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP3927C | 2021 Online IS Procedural Justice | Passed | 0.0 | 0.75 |
+| 12/24/2025 | PDP2589C | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP2169C | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0070C | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
+| 12/24/2025 | PDP0577C | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 12/24/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 12/24/2025 | PDP0356C | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0972C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP2085C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0821C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP2743C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP3336C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP3075C | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0519C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0110C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 12/24/2025 | PDP2741C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0027C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP1917C | 2020 TOD Shots Fired Incident Reporting (SFIR) | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP1132C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP2408C | 2021 Online IS Equity Trng Series: Racism Part 1 | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP0987C | 2018-1 TT Hazard Towing v. Private Request Tows | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP4414C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 12/22/2025 | PDP0356C | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP0697C | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/18/2025 | REG0256C | SFST/DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/30/2025 | REG0026C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/25/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

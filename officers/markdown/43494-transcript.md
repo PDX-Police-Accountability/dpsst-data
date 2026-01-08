@@ -44,7 +44,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 12/15/2025 | PDP4031C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 12/12/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 12/9/2025 | PDP0781C | 2022-1 In Service CIT PSRvsPR Video 1 | Passed | 0.0 | 0.25 |
+| 12/9/2025 | PDP2445C | 2022-1 In Service CIT PSRvsPR Video 2 | Passed | 0.0 | 0.25 |
+| 12/9/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/18/2025 | PDP2298C | 2020 Trng Managing Critical Incidents Well 5/2020 | Passed | 0.0 | 0.25 |
 | 11/17/2025 | PDP3813C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
 | 11/17/2025 | PDP1367C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |

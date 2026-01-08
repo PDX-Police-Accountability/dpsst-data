@@ -43,6 +43,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/6/2025
+  course: PDP3475C
+  title: 2025 Recalibrating Axon Signal Sensor
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/6/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/4/2025
   course: PDP4169C
   title: 2025 SERT Training - SCENARIO

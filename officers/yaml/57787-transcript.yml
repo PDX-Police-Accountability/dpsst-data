@@ -31,6 +31,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/23/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/19/2025
+  course: PDP0251C
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/19/2025
+  course: PDP0928C
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/4/2025
+  course: PDP3240C
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/4/2025
+  course: PDP1608C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/4/2025
+  course: PDP2108C
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/4/2025
+  course: PDP1944C
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/21/2025
   course: PDP3572C
   title: ALPR Training (Motorola)

@@ -63,12 +63,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/9/2025
   course: PDP3618C
   title: 2025 Sergeant's Leadership Workshop
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/3/2025
+  course: PDP1025C
+  title: 2025 Sup IS Leadership in Action Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2025
+  course: PDP2606C
+  title: 2025 Sup IS Critical Incidents - Controlling the
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/3/2025
+  course: PDP2780C
+  title: 2025 Sup IS Managing Up Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2025
+  course: PDP1427C
+  title: 2025 Sup IS Supporting Officers During Internal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/26/2025
   course: PDP3221C
   title: 2025 ECIT Call Resolution

@@ -33,6 +33,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/19/2025 | PDP0251C | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.50 |
+| 12/19/2025 | PDP0928C | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
+| 12/4/2025 | PDP3240C | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
+| 12/4/2025 | PDP1608C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
+| 12/4/2025 | PDP2108C | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
+| 12/4/2025 | PDP1944C | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 11/21/2025 | PDP3572C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 11/16/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/16/2025 | PDP4274C | 2025-3 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |

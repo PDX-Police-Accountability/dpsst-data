@@ -41,9 +41,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 12/30/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 12/16/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 12/16/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/16/2025 | PDP0972C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 12/16/2025 | PDP2085C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/16/2025 | PDP0821C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/13/2025 | PDP1608C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 12/10/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 12/9/2025 | PDP1098C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 9.00 |
 | 12/8/2025 | PDP1098C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 18.00 |
+| 12/8/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2025 | PDP3570C | 2025 Patrol Rifle Operator's In-Service Day 2 | Passed | 0.0 | 9.00 |
 | 11/19/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |

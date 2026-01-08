@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/18/2025
+  course: PDP2342C
+  title: 2025 IS - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/18/2025
+  course: PDP0439C
+  title: 2025 IS PVO Stop Stick Hyperlink (External)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/9/2025
   course: PDP3618C
   title: 2025 Sergeant's Leadership Workshop

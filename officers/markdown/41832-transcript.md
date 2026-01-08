@@ -39,7 +39,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 12/23/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/16/2025 | PDP2606C | 2025 Sup IS Critical Incidents - Controlling the | Passed | 0.0 | 1.50 |
+| 12/16/2025 | PDP1427C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/1/2025 | PDP0943C | 2025 Sup IS Crime Scene Management for Mass | Passed | 0.0 | 1.50 |
+| 12/1/2025 | PDP1025C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
+| 12/1/2025 | PDP2780C | 2025 Sup IS Managing Up Video | Passed | 0.0 | 1.00 |
 | 11/24/2025 | PDP0604C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
 | 11/24/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/19/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/8/2025
+  course: PDP1827C
+  title: 2025 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP2565C
+  title: AA 2025 [PJU-101-H] Introduction to PJPL
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/24/2025
   course: PDP2662C
   title: 2025 Lead Exposure Training

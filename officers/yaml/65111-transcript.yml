@@ -24,6 +24,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2025
+  course: PDP2342C
+  title: 2025 IS - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2025
+  course: PDP0439C
+  title: 2025 IS PVO Stop Stick Hyperlink (External)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/15/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2025
+  course: PDP2293C
+  title: 2025 Adv Roadside Impaired Driving Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 11/24/2025
   course: PDP0935C
   title: 2025-10 CAO Legal Updates for 03/2025

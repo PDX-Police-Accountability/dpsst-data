@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/5/2025
+  course: PDP2960C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/20/2025
   course: PDP3257C
   title: 2025 SERT Training - SCENARIO

@@ -37,6 +37,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2025 | PDP1827C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 12/11/2025 | PDP2991C | 2024-10 CAO Legal Updates for 07  08/2023 | Passed | 0.0 | 0.25 |
+| 12/11/2025 | PDP2682C | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
+| 12/11/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/11/2025 | PDP4031C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
+| 12/11/2025 | PDP1944C | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 12/11/2025 | PDP0372C | OSU Modified Duty and Cold Call-Taking Training | Passed | 0.0 | 0.25 |
 | 11/25/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/20/2025 | PDP3671C | 2025 All Sworn In-Service Active Threat (Video) | Passed | 0.0 | 1.00 |
 | 11/20/2025 | PDP1738C | 2025 All Sworn IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |

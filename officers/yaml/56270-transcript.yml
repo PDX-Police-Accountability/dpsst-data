@@ -98,6 +98,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2025
+  course: MISCMAIN
+  title: 2025 LE Basic 3-Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/25/2025
+  course: PDP2960C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/22/2025
+  course: PDP1559C
+  title: 2023-2 Trauma Informed Interview Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/22/2025
+  course: PDP2743C
+  title: 2025-10 CHO EO, DIR 0625.00 Automatic License
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -1822,6 +1852,10 @@ training_records:
   hours: '2.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
@@ -1829,10 +1863,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/10/2025
   expiration_date: 5/10/2027
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 11/18/2019

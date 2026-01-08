@@ -50,6 +50,48 @@ certification_records:
   expiration_date: 3/30/2026
   probation_date: ''
 training_records:
+- date: 12/30/2025
+  course: PDP3024C
+  title: 2025 IS Taser Training (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/30/2025
+  course: PDP1003C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 12/30/2025
+  course: PDP0274C
+  title: 2025 IS Active Threat (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2025
+  course: PDP3551C
+  title: 2025 IS Public Order Shields (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/30/2025
+  course: PDP3067C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/30/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/30/2025
+  course: PDP1842C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/7/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

@@ -35,7 +35,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP2960C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 12/18/2025 | PDP2726C | Legally Justified But Was it Avoidable | Passed | 0.0 | 6.00 |
+| 12/16/2025 | PDP3490C | 2024-3 Supv In-Service Force Inspector Video | Passed | 0.0 | 0.25 |
+| 12/16/2025 | PDP3024C | 2025 IS Taser Training (Video) | Passed | 0.0 | 0.50 |
+| 12/16/2025 | PDP0274C | 2025 IS Active Threat (Video) | Passed | 0.0 | 1.00 |
+| 12/16/2025 | PDP3551C | 2025 IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |
+| 12/15/2025 | PDP0177C | 2024-3 IS PP Shooting at Moving Vehicle Video 1 | Passed | 0.0 | 1.25 |
+| 12/15/2025 | PDP2646C | 2024-3 IS PP Shooting at Moving vehicles Video 2 | Passed | 0.0 | 1.25 |
+| 12/15/2025 | PDP1316C | 2022-1 In Service PP CIT the 4C's | Passed | 0.0 | 0.25 |
+| 12/15/2025 | PDP2154C | 2023-1 In Service Force Reporting Online Recording | Passed | 0.0 | 0.50 |
 | 11/27/2025 | PDP3390C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 11/10/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/4/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

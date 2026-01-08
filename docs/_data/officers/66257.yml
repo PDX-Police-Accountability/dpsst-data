@@ -30,12 +30,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/15/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2025
+  course: PDP0707C
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/9/2025
   course: PDP3070C
   title: FTEP Geography
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 12/8/2025
+  course: PDP0697C
+  title: '2025-10, Legal Updates: Miranda and Right'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP4111C
+  title: 2025-2 CAO Legal Updates for 12/2023-02/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/2/2025
   course: PDP2729C
   title: Property and Evidence
@@ -48,6 +72,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/1/2025
+  course: PDP3045C
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP0356C
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP3336C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP0302C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/1/2025
+  course: PDP1824C
+  title: 2025-1 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/1/2025
+  course: PDP0784C
+  title: 2025-1 CAO Legal Updates for 09  10/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP2285C
+  title: 2025-3 CAO Legal Updates for 03/2024-06/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/19/2025
   course: PDP0240C
   title: Post Basic CEW (Conducted Electrical Weapon)

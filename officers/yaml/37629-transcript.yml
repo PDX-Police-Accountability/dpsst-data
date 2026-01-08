@@ -50,12 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/18/2025
+  course: PDP2960C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/16/2025
+  course: PDP1925C
+  title: 2020 Ethics and Leadership PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/11/2025
   course: PDP0102C
   title: 2025-1 All Sworn In-Service PVO
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 12/10/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/20/2025
   course: PDP2310C
   title: 2025-3 Range Qualification CEW

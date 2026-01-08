@@ -29,6 +29,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/14/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/13/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 12/13/2025 | PDP0972C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 12/13/2025 | PDP2085C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/13/2025 | PDP0821C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/13/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/20/2025 | PDP0360C | 2025-3 Advanced Academy Law | Passed | 0.0 | 29.25 |
 | 11/20/2025 | PDP1690C | 2025-3 Advanced Academy Wellness | Passed | 0.0 | 8.50 |
 | 11/19/2025 | PDP3059C | 2025-3 Advanced Academy Patrol Procedures FA | Passed | 0.0 | 85.25 |

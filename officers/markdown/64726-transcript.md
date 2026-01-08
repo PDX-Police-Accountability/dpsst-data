@@ -32,6 +32,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2025 | PDP0078C | 2020 Ethics and Leadership | Passed | 0.0 | 0.75 |
+| 12/18/2025 | PDP1925C | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |
+| 12/11/2025 | PDP1752C | 2020 Ethics and Leadership Lesson Plan | Passed | 0.0 | 0.50 |
+| 12/11/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/5/2025 | PDP0878C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 11/1/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |

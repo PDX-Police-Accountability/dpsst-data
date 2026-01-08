@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/31/2025
+  course: GLP0244C
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/10/2024
   course: GLP4165A
   title: Domestic Violence DA Training

@@ -41,6 +41,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/5/2025 | PDP2673C | 2025 Sup IS Chiefs Hour Video | Passed | 0.0 | 1.00 |
+| 12/5/2025 | PDP0943C | 2025 Sup IS Crime Scene Management for Mass | Passed | 0.0 | 1.50 |
+| 12/5/2025 | PDP1025C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
+| 12/5/2025 | PDP2606C | 2025 Sup IS Critical Incidents - Controlling the | Passed | 0.0 | 1.50 |
+| 12/5/2025 | PDP2780C | 2025 Sup IS Managing Up Video | Passed | 0.0 | 1.00 |
+| 12/5/2025 | PDP1427C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |
+| 12/3/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/24/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/24/2025 | PDP0989C | 2025-3 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 11/19/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |

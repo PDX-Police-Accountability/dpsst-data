@@ -43,6 +43,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 12/23/2025 | PDP0397C | 2025 Sup IS HR 2.02 for Supervisors Video | Passed | 0.0 | 0.50 |
+| 12/23/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 12/23/2025 | PDP0026C | HRAR 2.02 Supervisor/Manager Refresher Training | Passed | 0.0 | 0.50 |
+| 12/16/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/12/2025 | PDP0693C | 2025 Sup IS Critical Incidents - Controlling | Passed | 0.0 | 1.50 |
 | 11/11/2025 | PDP4300C | 2024-3 All IS PP Shooting at Moving Vehicle Vid 1 | Passed | 0.0 | 1.25 |
 | 11/11/2025 | PDP2398C | 2024-3 All Sworn IS MFF Response to PO Events | Passed | 0.0 | 1.50 |

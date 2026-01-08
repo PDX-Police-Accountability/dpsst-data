@@ -30,6 +30,126 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/30/2025
+  course: PDP1543C
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP3171C
+  title: 2018 TOD 100% Collection  Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP3174C
+  title: 2018-5 TT 100% Collection and Submission Model FA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP2169C
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP0876C
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP0439C
+  title: 2025 IS PVO Stop Stick Hyperlink (External)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/28/2025
+  course: PDP2342C
+  title: 2025 IS - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/28/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP2922C
+  title: DIR 660.10, Property  Evidence Procedures/2018-5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/28/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP3102C
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP1969C
+  title: 2020-10 CAO Legal Updates for 10/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP1893C
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP3625C
+  title: 2021 Online IS Language Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP3212C
+  title: 2025-07 CAO Legal Updates for 08  09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/24/2025
+  course: PDP1472C
+  title: 2025-07 CAO Legal Updates for 12/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/24/2025
+  course: PDP0519C
+  title: 2025-10 CAO Updates Disorderly Conduct  ORS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP0027C
+  title: 'DIR 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP0697C
+  title: '2025-10, Legal Updates: Miranda and Right'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP4279C
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/18/2025
   course: REG0256C
   title: SFST/DID (Hours included in Basic)

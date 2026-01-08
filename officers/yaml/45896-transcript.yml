@@ -62,6 +62,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/3/2025
+  course: PDP0439C
+  title: 2025 IS PVO Stop Stick Hyperlink (External)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/3/2025
+  course: PDP2342C
+  title: 2025 IS - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/21/2025
   course: PDP2558C
   title: 2025-1 All Sworn In-Service Active Threat, LRE

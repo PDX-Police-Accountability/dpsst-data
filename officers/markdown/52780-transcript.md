@@ -37,6 +37,28 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 12/31/2025 | PDP0972C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP0302C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 12/31/2025 | PDP2085C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP0821C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP3336C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP1472C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
+| 12/31/2025 | PDP3602C | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP0519C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP2446C | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP3733C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP4487C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP0697C | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP2743C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP0945C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP0110C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 12/31/2025 | PDP2872C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 12/31/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/21/2025 | PDP3572C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2025
+  course: PDP2342C
+  title: 2025 IS - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2025
+  course: PDP0439C
+  title: 2025 IS PVO Stop Stick Hyperlink (External)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/15/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2025
+  course: PDP2960C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/11/2025
   course: PDP0102C
   title: 2025-1 All Sworn In-Service PVO
@@ -62,6 +86,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/1/2025
+  course: PDP1608C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/25/2025
   course: PDP0321C
   title: 2025 All Sworn IS PVO Stop Stick Intro Video

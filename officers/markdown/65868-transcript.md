@@ -29,6 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/24/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 12/9/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/20/2025 | PDP0360C | 2025-3 Advanced Academy Law | Passed | 0.0 | 29.25 |
 | 11/20/2025 | PDP1690C | 2025-3 Advanced Academy Wellness | Passed | 0.0 | 8.50 |
 | 11/19/2025 | PDP4005C | 2025-3 Advanced Academy Control Tactics | Passed | 0.0 | 55.50 |

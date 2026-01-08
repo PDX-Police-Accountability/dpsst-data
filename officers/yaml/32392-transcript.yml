@@ -68,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/26/2025
+  course: TGP4132C
+  title: Taser 10 Operator Online Pre-work
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/11/2025
   course: TGP2432C
   title: Connected Vehicle Investigations

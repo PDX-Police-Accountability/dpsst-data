@@ -37,7 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
+| 12/3/2025 | PDP1025C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
+| 12/3/2025 | PDP2606C | 2025 Sup IS Critical Incidents - Controlling the | Passed | 0.0 | 1.50 |
+| 12/3/2025 | PDP2780C | 2025 Sup IS Managing Up Video | Passed | 0.0 | 1.00 |
+| 12/3/2025 | PDP1427C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |
 | 11/26/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 11/26/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/14/2025 | PDP0604C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |

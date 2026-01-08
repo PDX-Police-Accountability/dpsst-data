@@ -29,9 +29,36 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/17/2025 | PDP3625C | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 12/17/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 12/17/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |
+| 12/17/2025 | PDP0577C | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 12/17/2025 | PDP4414C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 12/17/2025 | PDP2922C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 12/15/2025 | PDP1969C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 12/15/2025 | PDP1132C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 12/15/2025 | PDP0356C | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 12/15/2025 | PDP3336C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 12/15/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/15/2025 | PDP1358C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 12/9/2025 | PDP3070C | FTEP Geography | Passed | 0.0 | 1.75 |
+| 12/8/2025 | PDP0945C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 12/8/2025 | PDP1818C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
 | 12/2/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 12/1/2025 | PDP1893C | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP2448C | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 12/1/2025 | PDP0972C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP2085C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP0821C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP0697C | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP0110C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 12/1/2025 | PDP2872C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP0027C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 12/1/2025 | PDP3102C | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 11/26/2025 | PDP3646C | TEEX WMD Terrorism Awareness | Passed | 0.0 | 8.00 |
 | 11/19/2025 | PDP0240C | Post Basic CEW (Conducted Electrical Weapon) | Passed | 0.0 | 9.00 |
 | 11/19/2025 | PDP2310C | 2025-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

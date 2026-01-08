@@ -44,6 +44,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/1/2025
+  course: PDP1608C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/1/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/23/2025
   course: PDP3719C
   title: 2025-10 CHO Executive Order, DIR 0625.00 Auto

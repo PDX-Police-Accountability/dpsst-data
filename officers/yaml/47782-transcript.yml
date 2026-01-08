@@ -82,6 +82,48 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/9/2025
+  course: PDP0718C
+  title: AA 2025 [CIT-111-A] Project Respond
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2025
+  course: PDP0574C
+  title: AA 2025 [CIT-112-A] BHU Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP0781C
+  title: 2022-1 In Service CIT PSRvsPR Video 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP2445C
+  title: 2022-1 In Service CIT PSRvsPR Video 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP1316C
+  title: 2022-1 In Service PP CIT the 4C's
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP3893C
+  title: 2022-1 Online IS Patrol Procedures-Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/4/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/25/2025
   course: PDP2121C
   title: 2025-1 All Sworn In-Service PVO

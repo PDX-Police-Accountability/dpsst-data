@@ -80,12 +80,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/8/2025
+  course: PDP2293C
+  title: 2025 Adv Roadside Impaired Driving Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/1/2025
+  course: PDP1608C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/1/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/25/2025
   course: PDP4084C
   title: '2025-10 CAO Updates: Disorderly Conduct  ORS'

@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/30/2025
+  course: PDP2960C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/24/2025
   course: PDP1941C
   title: SERT Firearms Training
@@ -49,6 +55,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/8/2025
+  course: PDP0519C
+  title: 2025-10 CAO Updates Disorderly Conduct  ORS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -61,6 +79,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/2/2025
+  course: PDP0302C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/2/2025
+  course: PDP3336C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/26/2025
   course: PDP2603C
   title: 2025 SERT Training - FIREARMS

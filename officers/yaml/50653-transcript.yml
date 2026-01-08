@@ -63,12 +63,54 @@ training_records:
   status: Cancelled
   score: '0.0'
   hours: '0.00'
+- date: 12/23/2025
+  course: PDP0397C
+  title: 2025 Sup IS HR 2.02 for Supervisors Video
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/23/2025
+  course: PDP0026C
+  title: HRAR 2.02 Supervisor/Manager Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/16/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/4/2025
+  course: PDP0943C
+  title: 2025 Sup IS Crime Scene Management for Mass
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/4/2025
+  course: PDP2606C
+  title: 2025 Sup IS Critical Incidents - Controlling the
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/4/2025
+  course: PDP1427C
+  title: 2025 Sup IS Supporting Officers During Internal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/4/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/25/2025
   course: PDP3813C
   title: 2025 Supervisors In-Service Managing Up Video

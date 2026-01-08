@@ -29,6 +29,67 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/28/2025 | PDP1375C | 2019 CHO SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP1132C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP1893C | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP1043C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP3625C | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP4414C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 12/28/2025 | PDP3045C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP0943C | 2025 Sup IS Crime Scene Management for Mass | Passed | 0.0 | 1.50 |
+| 12/28/2025 | PDP2606C | 2025 Sup IS Critical Incidents - Controlling the | Passed | 0.0 | 1.50 |
+| 12/28/2025 | PDP1427C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |
+| 12/28/2025 | PDP3212C | 2025-07 CAO Legal Updates for 08  09/2024 | Passed | 0.0 | 0.50 |
+| 12/28/2025 | PDP4101C | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP3733C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP1824C | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 12/28/2025 | PDP0945C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP4111C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 12/28/2025 | PDP2285C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 12/28/2025 | PDP1358C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP2872C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 12/28/2025 | PDP0902C | Annual HRAR 2.04 Gender ID Nondiscrimination | Passed | 0.0 | 0.50 |
+| 12/28/2025 | PDP0928C | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
+| 12/27/2025 | PDP0664C | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
+| 12/27/2025 | PDP2448C | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 12/25/2025 | PDP1700C | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 12/25/2025 | PDP0248C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 12/25/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 12/25/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 12/25/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |
+| 12/25/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/25/2025 | PDP0972C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 12/25/2025 | PDP0302C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 12/25/2025 | PDP2085C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/25/2025 | PDP0821C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/25/2025 | PDP2922C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 12/25/2025 | PDP3102C | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP1969C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP3927C | 2021 Online IS Procedural Justice | Passed | 0.0 | 0.75 |
+| 12/24/2025 | PDP2589C | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0070C | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
+| 12/24/2025 | PDP0577C | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 12/24/2025 | PDP3551C | 2025 IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |
+| 12/24/2025 | PDP0356C | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP3336C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP2446C | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0519C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP3075C | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0784C | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0697C | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP2743C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0110C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 12/24/2025 | PDP0027C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP2741C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
+| 12/24/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 12/23/2025 | PDP1025C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
+| 12/23/2025 | PDP2780C | 2025 Sup IS Managing Up Video | Passed | 0.0 | 1.00 |
+| 12/23/2025 | PDP1818C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
+| 12/23/2025 | PDP2450C | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
+| 12/23/2025 | PDP4279C | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/22/2025 | PDP2673C | 2025 Sup IS Chiefs Hour Video | Passed | 0.0 | 1.00 |
+| 12/22/2025 | PDP1003C | 2025 IS ABLE (Video) | Passed | 0.0 | 1.75 |
 | 11/18/2025 | REG0256C | SFST/DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/30/2025 | REG0026C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/25/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

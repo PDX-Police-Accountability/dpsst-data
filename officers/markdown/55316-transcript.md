@@ -22,9 +22,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 4/28/2025 | 4/28/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 1/11/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -34,7 +34,40 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | PDP0115C | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |
+| 12/31/2025 | PDP2646C | 2024-3 IS PP Shooting at Moving vehicles Video 2 | Passed | 0.0 | 1.25 |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/29/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 12/29/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP0972C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP0302C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 12/29/2025 | PDP2085C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP2743C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP0821C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP2872C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP1818C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 12/15/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 12/11/2025 | PDP2978C | 2022-1 In Service Patrol Procedures Video 1 | Passed | 0.0 | 0.75 |
+| 12/11/2025 | PDP1200C | 2022-1 In Service Patrol Procedures Video 2 | Passed | 0.0 | 1.00 |
+| 12/11/2025 | PDP0476C | 2022-2 In Service Legal Updates 1010.00 | Passed | 0.0 | 2.50 |
+| 12/11/2025 | PDP4578C | 2022-2 In Service Legal Updates Part 1 | Passed | 0.0 | 1.00 |
+| 12/11/2025 | PDP3308C | 2022-2 In Service Legal Updates Part 2 | Passed | 0.0 | 1.00 |
+| 12/11/2025 | PDP2542C | 2022-2 In Service Legal Updates Part 3 | Passed | 0.0 | 0.50 |
+| 12/11/2025 | PDP0274C | 2025 IS Active Threat (Video) | Passed | 0.0 | 1.00 |
+| 12/10/2025 | PDP0660C | 2022 Advanced Shotgun Operator PowerPoint | Passed | 0.0 | 0.75 |
+| 12/10/2025 | PDP2986C | 2022 Adv Shotgun Operator Pre-Test Study Guide | Passed | 0.0 | 0.25 |
+| 12/10/2025 | PDP3024C | 2025 IS Taser Training (Video) | Passed | 0.0 | 0.50 |
+| 12/10/2025 | PDP1316C | 2022-1 In Service PP CIT the 4C's | Passed | 0.0 | 0.25 |
+| 12/10/2025 | PDP2154C | 2023-1 In Service Force Reporting Online Recording | Passed | 0.0 | 0.50 |
+| 12/10/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 12/10/2025 | PDP3475C | 2025 Recalibrating Axon Signal Sensor | Passed | 0.0 | 0.25 |
+| 12/10/2025 | PDP1003C | 2025 IS ABLE (Video) | Passed | 0.0 | 1.75 |
+| 12/10/2025 | PDP3551C | 2025 IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |
+| 12/10/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 12/10/2025 | PDP0972C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 12/10/2025 | PDP2085C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 12/10/2025 | PDP0821C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 11/21/2025 | PDP3572C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/10/2025 | SAG0550A | Fences  Preparing Case for Prosecution | Passed | 0.0 | 3.50 |

@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: 4/10/2026
 training_records:
+- date: 12/24/2025
+  course: PDP3067C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP1842C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/18/2025
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

@@ -44,6 +44,7 @@
 | 6/11/2025 | GLP0674B | Red Dot Transition Course and Qualification | Passed | 0.0 | 16.00 |
 | 4/8/2025 | GLP0779A | Defensive Tactics Spring 2025 | Passed | 0.0 | 3.00 |
 | 3/31/2025 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 3/31/2025 | GLP0244C | Ethics | Passed | 0.0 | 1.00 |
 | 12/10/2024 | GLP4165A | Domestic Violence DA Training | Passed | 0.0 | 3.00 |
 | 11/8/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/28/2024 | GLP2871A | Expert Analysis of OIS in Clear Creek CO | Passed | 0.0 | 2.00 |

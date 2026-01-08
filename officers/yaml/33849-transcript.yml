@@ -50,12 +50,84 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/29/2025
+  course: PDP3067C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/29/2025
+  course: PDP1842C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2025
+  course: PDP2960C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/18/2025
   course: PDP2726C
   title: Legally Justified But Was it Avoidable
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 12/16/2025
+  course: PDP3490C
+  title: 2024-3 Supv In-Service Force Inspector Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2025
+  course: PDP3024C
+  title: 2025 IS Taser Training (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/16/2025
+  course: PDP0274C
+  title: 2025 IS Active Threat (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/16/2025
+  course: PDP3551C
+  title: 2025 IS Public Order Shields (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2025
+  course: PDP0177C
+  title: 2024-3 IS PP Shooting at Moving Vehicle Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/15/2025
+  course: PDP2646C
+  title: 2024-3 IS PP Shooting at Moving vehicles Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/15/2025
+  course: PDP1316C
+  title: 2022-1 In Service PP CIT the 4C's
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2025
+  course: PDP2154C
+  title: 2023-1 In Service Force Reporting Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/27/2025
   course: PDP3390C
   title: 2025 All Sworn In-Service ABLE (Video)

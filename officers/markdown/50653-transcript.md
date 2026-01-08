@@ -37,7 +37,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Cancelled | 0.0 | 0.00 |
+| 12/23/2025 | PDP0397C | 2025 Sup IS HR 2.02 for Supervisors Video | Passed | 0.0 | 0.50 |
+| 12/23/2025 | PDP0026C | HRAR 2.02 Supervisor/Manager Refresher Training | Passed | 0.0 | 0.50 |
+| 12/16/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/4/2025 | PDP0943C | 2025 Sup IS Crime Scene Management for Mass | Passed | 0.0 | 1.50 |
+| 12/4/2025 | PDP2606C | 2025 Sup IS Critical Incidents - Controlling the | Passed | 0.0 | 1.50 |
+| 12/4/2025 | PDP1427C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |
+| 12/4/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/25/2025 | PDP3813C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
 | 11/20/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/16/2025
+  course: PDP0089C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/8/2025
   course: PDP3730C
   title: CPR/First Aid

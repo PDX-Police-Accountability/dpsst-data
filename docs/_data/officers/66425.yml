@@ -30,6 +30,48 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/30/2025
+  course: PDP3067C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/30/2025
+  course: PDP1842C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/17/2025
+  course: PDP1893C
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2025
+  course: PDP0070C
+  title: 2025 Bridging the Language Gap (Curricula)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2025
+  course: PDP0577C
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2025
+  course: PDP4414C
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2025
+  course: PDP3075C
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/11/2025
   course: PDP4274C
   title: 2025-3 Range Qual Secondary Firearm (25 Round)
@@ -42,6 +84,96 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 12/8/2025
+  course: PDP4018C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2025
+  course: PDP2448C
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP1695C
+  title: 2025 Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 12/8/2025
+  course: PDP2825C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP0972C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP2085C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP3212C
+  title: 2025-07 CAO Legal Updates for 08  09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2025
+  course: PDP1472C
+  title: 2025-07 CAO Legal Updates for 12/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2025
+  course: PDP0821C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP1544C
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2025
+  course: PDP4010C
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2025
+  course: PDP4237C
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2025
+  course: PDP0707C
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2025
+  course: PDP3393C
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/2/2025
   course: PDP2729C
   title: Property and Evidence
@@ -51,6 +183,66 @@ training_records:
 - date: 12/2/2025
   course: PDP2365C
   title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/1/2025
+  course: PDP1132C
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP0356C
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP3336C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP3602C
+  title: 2025-07 CAO Legal Updates for 01/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP4101C
+  title: 2025-07 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP2446C
+  title: 2025-07 CAO Legal Updates for 11/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP0697C
+  title: '2025-10, Legal Updates: Miranda and Right'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP0945C
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP1358C
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2025
+  course: PDP0110C
+  title: 2025-8 Deflection Intake and Reporting
   status: Passed
   score: '0.0'
   hours: '0.50'

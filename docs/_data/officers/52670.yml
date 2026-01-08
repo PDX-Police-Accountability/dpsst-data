@@ -44,6 +44,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/4/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/4/2025
+  course: PDP2960C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/1/2025
   course: PDP0117C
   title: 2025 Patrol Rifle Operator's IS Day 2

@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/17/2025
+  course: TGP4132C
+  title: Taser 10 Operator Online Pre-work
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/3/2025
   course: TGP0736B
   title: Patrol Rifle Training

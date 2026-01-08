@@ -30,6 +30,210 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/31/2025
+  course: PDP1818C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/24/2025
+  course: PDP4018C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/24/2025
+  course: PDP1893C
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP4350C
+  title: 2024 PVO Recorded In-Service
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/24/2025
+  course: PDP2589C
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP0070C
+  title: 2025 Bridging the Language Gap (Curricula)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/24/2025
+  course: PDP2825C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP0972C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP2085C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP3075C
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP0821C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP2741C
+  title: DIR 0640.37, Communication with Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/24/2025
+  course: PDP1142C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/23/2025
+  course: PDP1827C
+  title: 2025 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP2164C
+  title: 2024-3 IS Active Bystandership for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/23/2025
+  course: PDP4463C
+  title: 2024-3 IS Legal Updates Use of Force Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/23/2025
+  course: PDP3024C
+  title: 2025 IS Taser Training (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/23/2025
+  course: PDP3535C
+  title: 2023-2 TT Body Worn Camera (BWC) Pilot Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP1003C
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 12/23/2025
+  course: PDP0274C
+  title: 2025 IS Active Threat (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/23/2025
+  course: PDP0302C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/23/2025
+  course: PDP0972C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP2085C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP0356C
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP0821C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP0697C
+  title: '2025-10, Legal Updates: Miranda and Right'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP0928C
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2025
+  course: PDP4237C
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/22/2025
+  course: PDP0622C
+  title: '2020 In-Service Wellness: Mindfulness Video'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/22/2025
+  course: PDP3941C
+  title: 2021 Training Response to Calls Involving Youth
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/22/2025
+  course: PDP2825C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2025
+  course: PDP2450C
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2025
+  course: PDP0358C
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/18/2025
   course: REG0256C
   title: SFST/DID (Hours included in Basic)
