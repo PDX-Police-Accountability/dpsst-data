@@ -30,6 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/24/2025
+  course: PDP4307C
+  title: IS-700 National Incident Management Intro
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/24/2025
+  course: PDP0447C
+  title: ICS-100 Intro to Incident Command Syst
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/24/2025
+  course: PDP2770C
+  title: ICS-200 Basic Inc Command System for Init Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/27/2025
   course: M10-23A
   title: DPSST Basic Police Course

@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/6/2026
+  course: NGP4183C
+  title: TASER 7 RECERT
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/13/2025
   course: NGP3330C
   title: Defensive Tactics

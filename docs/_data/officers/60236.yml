@@ -1137,6 +1137,10 @@ training_records:
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
+  effective_date: 1/5/2026
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
   effective_date: 9/23/2025
   expiration_date: ''
 - topic: Code of Ethics

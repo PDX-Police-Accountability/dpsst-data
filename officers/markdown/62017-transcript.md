@@ -87,6 +87,7 @@
 | 4/22/2025 | PDP3882B | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 4/22/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 4/3/2025 | PDP1530A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/2/2025 | PDP2410C | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 3/21/2025 | PDP4456A | 2025 Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 3/13/2025 | PDP1113A | 2024-5 Naloxone Adm Guidelines | Passed | 0.0 | 0.25 |
 | 3/13/2025 | PDP2978A | HR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

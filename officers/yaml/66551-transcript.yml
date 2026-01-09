@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/29/2025
+  course: PDP2410C
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/28/2025
   course: PDP1375C
   title: 2019 CHO SPLC Aryan Prison Gangs

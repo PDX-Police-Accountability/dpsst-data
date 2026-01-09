@@ -304,6 +304,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/21/2025
+  course: REG0531C
+  title: Intoxilyzer 8000 Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 2/20/2025
   course: OSH1947A
   title: 'STOP Program: Data Collection on the Road'

@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/19/2025
+  course: PDP2410C
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/24/2025
   course: PDP1046A
   title: 2025 Mobile Identification Device (MIDD) Training
@@ -37,6 +43,12 @@ training_records:
   hours: '1.00'
 - date: 5/6/2025
   course: PDP1818A
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/2/2025
+  course: PDP2410C
   title: 2025 Mobile Identification Device (MIDD) Training
   status: Instructed
   score: '0.0'

@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 1/7/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 8/29/2024
   certificate: Police Officer
   level: Basic
@@ -1149,4 +1156,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 5/15/2023
   expiration_date: ''
-education_records: []
+education_records:
+- date: 2/1/2021
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: Psychology
+  hours: '122.0'

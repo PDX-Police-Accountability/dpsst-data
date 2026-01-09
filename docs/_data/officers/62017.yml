@@ -360,6 +360,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/2/2025
+  course: PDP2410C
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/21/2025
   course: PDP4456A
   title: 2025 Extreme Risk Protection Orders

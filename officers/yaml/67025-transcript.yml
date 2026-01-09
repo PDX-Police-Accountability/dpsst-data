@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/22/2025
+  course: PDP4307C
+  title: IS-700 National Incident Management Intro
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/9/2025
   course: PDP0012C
   title: 2025 FTEP Policy  Procedure
@@ -60,5 +66,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-attribute_records: []
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 1/5/2026
+  expiration_date: ''
 education_records: []

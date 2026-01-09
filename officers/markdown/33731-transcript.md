@@ -21,14 +21,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/18/2004 | Parole  Probation Officer | Intermediate | Granted | 11/18/2004 | 12/30/2025 |  |
-| 8/7/2002 | Parole  Probation Officer | Basic | Granted | 8/7/2002 | 12/30/2025 |  |
+| 12/30/2025 | Parole  Probation Officer | Basic | Lapsed | 8/7/2002 | 9/30/2030 |  |
+| 12/30/2025 | Parole  Probation Officer | Intermediate | Lapsed | 11/18/2004 | 9/30/2030 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/1/2024 | 5/1/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 10/23/2001 |  |
 ## Education
 | date | degree | school | major | hours |

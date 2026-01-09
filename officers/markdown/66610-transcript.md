@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/31/2025 | PDP1818C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
+| 12/29/2025 | PDP2410C | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 12/24/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 12/24/2025 | PDP1893C | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/24/2025 | PDP4350C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |

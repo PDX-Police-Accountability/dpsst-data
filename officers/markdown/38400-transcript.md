@@ -25,10 +25,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2025 | PDP2410C | 2025 Mobile Identification Device (MIDD) Training | Instructed | 0.0 | 1.00 |
 | 6/24/2025 | PDP1046A | 2025 Mobile Identification Device (MIDD) Training | Instructed | 0.0 | 1.00 |
 | 6/11/2025 | PDP1769B | 2025 Mobile Identification Device (MIDD) Training | Instructed | 0.0 | 1.00 |
 | 5/13/2025 | PDP0408A | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 5/6/2025 | PDP1818A | 2025 Mobile Identification Device (MIDD) Training | Instructed | 0.0 | 1.00 |
+| 4/2/2025 | PDP2410C | 2025 Mobile Identification Device (MIDD) Training | Instructed | 0.0 | 1.00 |
 | 8/30/2019 | PDP00452 | PNWD-IAI/NWAFS Joint Educational Conference | Passed | 0.0 | 40.00 |
 | 1/10/2019 | PDP39528 | Digital Processing of Evidentiary Photography | Passed | 0.0 | 21.00 |
 | 12/31/2014 | 14-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |

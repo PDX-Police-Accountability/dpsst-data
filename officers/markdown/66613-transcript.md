@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/30/2025 | PDP1543C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP2410C | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 12/28/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 12/28/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |
 | 12/28/2025 | PDP2169C | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |

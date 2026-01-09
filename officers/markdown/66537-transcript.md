@@ -33,6 +33,7 @@
 | 12/30/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |
 | 12/30/2025 | PDP2922C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
 | 12/30/2025 | PDP3102C | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 12/29/2025 | PDP2410C | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 12/24/2025 | PDP1969C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 12/24/2025 | PDP3927C | 2021 Online IS Procedural Justice | Passed | 0.0 | 0.75 |
 | 12/24/2025 | PDP2589C | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |

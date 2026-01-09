@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/6/2026 | NGP4183C | TASER 7 RECERT | Instructed | 0.0 | 1.00 |
 | 11/13/2025 | NGP3330C | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 11/13/2025 | NGP2301C | Taser Recertification | Instructed | 0.0 | 3.00 |
 | 11/13/2025 | NGP3709C | HSI - BLS All Ages First Aid/CPR/AED | Passed | 0.0 | 6.00 |

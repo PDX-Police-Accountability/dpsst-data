@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/29/2025
+  course: PDP0568C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/8/2025
   course: PDP2960C
   title: Annual Bloodborne Pathogens (CityLearner)
