@@ -113,6 +113,138 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2025
+  course: BNP4594C
+  title: Axon Standards Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2025
+  course: BNP3089C
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP1077C
+  title: Electronic Search Warrant SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP0102C
+  title: Emergency Operations Plan Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP2440C
+  title: Firearm Evidence Release SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP3130C
+  title: Evidence Dispositions SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP4590C
+  title: Harassment and Equal Employment Opportunity
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/31/2025
+  course: BNP1893C
+  title: Lithium Battery Fire Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP3974C
+  title: OSHA Wildfire Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP3966C
+  title: Fire Extinguisher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP2408C
+  title: Firearm Purchase Denial SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP2575C
+  title: HAZCOM-hazmat awareness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2025
+  course: BNP4589C
+  title: OSHA Heat Illness Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP0714C
+  title: Ladder Safety Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP3726C
+  title: Investigation Unit Threshold and Notification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP1740C
+  title: Law Enforcement Standards of Conduct Rules
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2025
+  course: BNP3037C
+  title: Language Line SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP3526C
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2025
+  course: BNP0335C
+  title: Safekeeping of Animals SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP4579C
+  title: Special Operations Incident Commander SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP1413C
+  title: Statistical Transparency of Policing (STOPS)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2025
+  course: BNP3593C
+  title: WRAP restraint SOP
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/4/2025
   course: BNP1476C
   title: Defensive Tactics / Ground control

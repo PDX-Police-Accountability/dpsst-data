@@ -100,6 +100,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/7/2026
+  course: PDP2217C
+  title: 2024-3 IS Legal Updates Use of Force Video 1
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/7/2026
+  course: PDP2638C
+  title: 2024-3 IS Legal Updates Use of Force Video 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2026
+  course: PDP2407C
+  title: 2024-3 IS Video Recording of the ABLE
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 1/7/2026
+  course: PDP1799C
+  title: 2024-3 IS MFF Baton  OC Spray Video
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/31/2025
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/31/2025
+  course: MAINTMUF
+  title: Maintenance Makeup Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/23/2025
   course: PDP3067C
   title: 2025 Federal Interaction Reporting
@@ -4475,14 +4517,14 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/3/2025
   expiration_date: 9/3/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2024

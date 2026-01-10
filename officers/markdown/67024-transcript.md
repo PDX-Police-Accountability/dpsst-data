@@ -41,4 +41,5 @@
 | 12/23/2025 | PDP0707C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 12/23/2025 | PDP3393C | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 12/22/2025 | PDP3537C | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 12/18/2025 | PDP0680C | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 12/9/2025 | PDP0012C | 2025 FTEP Policy  Procedure | Passed | 0.0 | 9.00 |

@@ -464,18 +464,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 1/9/2025
-  course: MISCMAIN
-  title: 2024 LE Annual Maintenance
-  status: Completed
-  score: '0.0'
-  hours: '0.00'
 - date: 1/8/2025
   course: PDP3277A
   title: 2025 SFST Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/31/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/19/2024
   course: PDP1983A
   title: 2024-3 All Sworn In-Service CAO Legal Updates

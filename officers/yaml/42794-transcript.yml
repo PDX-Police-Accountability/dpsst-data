@@ -92,6 +92,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/23/2025
+  course: OCS0401C
+  title: Low Light Shoot / No-Shoot Decision Making
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
+- date: 12/23/2025
+  course: OCS0401C
+  title: Low Light Shoot / No-Shoot Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/22/2025
+  course: OCS4155C
+  title: 2025 4th Qtr Corrections Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '26.00'
+- date: 12/15/2025
+  course: OCS2110C
+  title: Use of Force Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -110,6 +134,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 12/2/2025
+  course: OCS1828C
+  title: Marksmanship, Shoot / No Shoot decisions
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/26/2025
   course: OCS1478C
   title: Marksmanship, Shoot / No-Shoot decision making
@@ -118,6 +148,18 @@ training_records:
   hours: '1.00'
 - date: 11/26/2025
   course: OCS1478C
+  title: Marksmanship, Shoot / No-Shoot decision making
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
+- date: 11/26/2025
+  course: OCS3209C
+  title: Marksmanship, Shoot / No-Shoot decision making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/26/2025
+  course: OCS3209C
   title: Marksmanship, Shoot / No-Shoot decision making
   status: Instructed
   score: '0.0'

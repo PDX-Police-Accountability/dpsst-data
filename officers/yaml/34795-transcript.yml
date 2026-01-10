@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/3/2025
+  course: WLP4530C
+  title: Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/13/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

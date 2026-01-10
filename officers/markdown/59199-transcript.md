@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | EGP0998C | SWAT Search Skills / Tactical Mini Scenarios | Passed | 0.0 | 6.00 |
 | 11/19/2025 | EGP3827C | TCCC Medical Training | Passed | 0.0 | 3.00 |
 | 11/19/2025 | EGP1419C | SWAT Low Light Overland Tactical Scenarios | Passed | 0.0 | 4.00 |
 | 11/19/2025 | EGP0682C | TCCC Medical Training | Passed | 0.0 | 3.00 |

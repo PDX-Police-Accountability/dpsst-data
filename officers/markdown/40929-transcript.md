@@ -42,6 +42,7 @@
 | 12/11/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/25/2025 | PDP2121C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
 | 11/23/2025 | PDP0779C | 2025 Red Dot Sight for Pistol Transition | Instructed | 0.0 | 27.00 |
+| 11/23/2025 | PDP4203C | Red Dot Firearms | Instructed | 0.0 | 4.50 |
 | 11/21/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |
 | 11/21/2025 | PDP1668C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 11/19/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

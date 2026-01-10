@@ -32,8 +32,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 9/3/2025 | 9/3/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2027 |
 | Code of Ethics | Signed | 1/30/2002 |  |
 ## Education
@@ -43,6 +43,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/7/2026 | PDP2217C | 2024-3 IS Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
+| 1/7/2026 | PDP2638C | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 0.25 |
+| 1/7/2026 | PDP2407C | 2024-3 IS Video Recording of the ABLE | Passed | 0.0 | 1.75 |
+| 1/7/2026 | PDP1799C | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 0.00 |
+| 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 0.25 |
+| 12/31/2025 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 2.00 |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/23/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/23/2025 | PDP0397C | 2025 Sup IS HR 2.02 for Supervisors Video | Passed | 0.0 | 0.50 |
 | 12/23/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |

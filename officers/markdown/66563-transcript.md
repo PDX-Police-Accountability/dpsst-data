@@ -47,6 +47,7 @@
 | 12/22/2025 | PDP1457C | 2019 CHO SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |
 | 12/22/2025 | PDP2857C | 2021-10 TT Citation-in-Lieu-of-Custody Warrants | Passed | 0.0 | 0.25 |
 | 12/22/2025 | PDP4237C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 12/22/2025 | PDP0598C | TEEX WMD Terrorism Aware for Emer Responders | Passed | 0.0 | 8.00 |
 | 11/18/2025 | REG0256C | SFST/DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/30/2025 | REG0026C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/25/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

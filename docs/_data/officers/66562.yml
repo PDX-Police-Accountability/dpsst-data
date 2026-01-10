@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/2/2026
+  course: PDP0598C
+  title: TEEX WMD Terrorism Aware for Emer Responders
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/20/2025
   course: M10-23A
   title: DPSST Basic Police Course

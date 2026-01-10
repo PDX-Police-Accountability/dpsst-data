@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/15/2025
+  course: PDP3477C
+  title: LEDA Oregon Fall 2025 Training AUS
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/24/2025
   course: PDP1568C
   title: 2025-3 Range Qualification AR-15 Qual (20 Yard)

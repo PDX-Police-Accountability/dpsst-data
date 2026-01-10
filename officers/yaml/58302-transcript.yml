@@ -374,6 +374,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 3/10/2025
+  course: PDP3569C
+  title: OPOA Search Warrants
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/8/2025
   course: PDP2978A
   title: HR 2.04 Gender Identity Nondiscrimination

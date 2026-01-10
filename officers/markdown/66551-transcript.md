@@ -91,6 +91,7 @@
 | 12/23/2025 | PDP4279C | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/22/2025 | PDP2673C | 2025 Sup IS Chiefs Hour Video | Passed | 0.0 | 1.00 |
 | 12/22/2025 | PDP1003C | 2025 IS ABLE (Video) | Passed | 0.0 | 1.75 |
+| 12/22/2025 | PDP0598C | TEEX WMD Terrorism Aware for Emer Responders | Passed | 0.0 | 8.00 |
 | 11/18/2025 | REG0256C | SFST/DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/30/2025 | REG0026C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/25/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

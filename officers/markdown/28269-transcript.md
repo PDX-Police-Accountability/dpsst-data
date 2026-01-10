@@ -45,6 +45,28 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | BNP4594C | Axon Standards Training | Passed | 0.0 | 2.00 |
+| 12/31/2025 | BNP3089C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP1077C | Electronic Search Warrant SOP | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP0102C | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP2440C | Firearm Evidence Release SOP | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP3130C | Evidence Dispositions SOP | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP4590C | Harassment and Equal Employment Opportunity | Passed | 0.0 | 5.00 |
+| 12/31/2025 | BNP1893C | Lithium Battery Fire Exposure | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP3974C | OSHA Wildfire Training | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP3966C | Fire Extinguisher Training | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP2408C | Firearm Purchase Denial SOP | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP2575C | HAZCOM-hazmat awareness | Passed | 0.0 | 1.00 |
+| 12/31/2025 | BNP4589C | OSHA Heat Illness Prevention | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP0714C | Ladder Safety Training | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP3726C | Investigation Unit Threshold and Notification | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP1740C | Law Enforcement Standards of Conduct Rules | Passed | 0.0 | 1.00 |
+| 12/31/2025 | BNP3037C | Language Line SOP | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP3526C | Legal Updates | Passed | 0.0 | 1.00 |
+| 12/31/2025 | BNP0335C | Safekeeping of Animals SOP | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP4579C | Special Operations Incident Commander SOP | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP1413C | Statistical Transparency of Policing (STOPS) | Passed | 0.0 | 0.50 |
+| 12/31/2025 | BNP3593C | WRAP restraint SOP | Passed | 0.0 | 0.50 |
 | 12/4/2025 | BNP1476C | Defensive Tactics / Ground control | Passed | 0.0 | 1.00 |
 | 11/6/2025 | BNP2193C | Skidcar | Passed | 0.0 | 1.00 |
 | 10/14/2025 | BNP1265B | Leadership | Instructed | 0.0 | 0.50 |

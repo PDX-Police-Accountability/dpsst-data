@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2025
+  course: EGP0998C
+  title: SWAT Search Skills / Tactical Mini Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/19/2025
   course: EGP3827C
   title: TCCC Medical Training

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2025 | WLP4530C | Search and Seizure | Passed | 0.0 | 1.50 |
 | 11/3/2025 | WLP1689B | Duty to Intercede | Passed | 0.0 | 1.00 |
 | 10/29/2025 | OCA3429B | MCT - Amber Alert System | Passed | 0.0 | 1.00 |
 | 10/15/2025 | WLP0161B | Firearms Training / Qualifications | Passed | 0.0 | 3.00 |

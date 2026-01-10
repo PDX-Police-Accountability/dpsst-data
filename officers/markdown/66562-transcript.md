@@ -30,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/2/2026 | PDP0598C | TEEX WMD Terrorism Aware for Emer Responders | Passed | 0.0 | 8.00 |
 | 10/20/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 9/25/2025 | PDP1557B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 8/25/2025 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |

@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 12/18/2025
+  course: PDP0680C
+  title: FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 12/9/2025
   course: PDP0012C
   title: 2025 FTEP Policy  Procedure
