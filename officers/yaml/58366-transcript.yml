@@ -87,12 +87,6 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
-- date: 2/28/2026
-  course: OSH4381C
-  title: Adult/Child First Aid and CPR
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 12/16/2025
   course: OSH4272C
   title: Manager Comptency Training - Program Evaluation
@@ -359,6 +353,12 @@ training_records:
   hours: '4.00'
 - date: 2/28/2024
   course: OSH1143A
+  title: Adult/Child First Aid and CPR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/28/2024
+  course: OSH4381C
   title: Adult/Child First Aid and CPR
   status: Passed
   score: '0.0'
@@ -1618,10 +1618,6 @@ training_records:
   score: '0.0'
   hours: '6.50'
 attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/28/2026
-  expiration_date: 2/28/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

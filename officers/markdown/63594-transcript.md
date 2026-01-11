@@ -28,6 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/18/2018 | Bachelor Science | University Of Oregon | Biological Sciences | 226.0 |
+| 6/15/2013 | No Degree | Portland Community College |  | 9.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

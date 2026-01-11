@@ -1113,4 +1113,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/18/2023
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/18/2018
+  degree: Bachelor Science
+  school: University Of Oregon
+  major: Biological Sciences
+  hours: '226.0'
+- date: 6/15/2013
+  degree: No Degree
+  school: Portland Community College
+  major: ''
+  hours: '9.0'

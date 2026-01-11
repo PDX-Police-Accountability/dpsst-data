@@ -16,18 +16,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/9/2025
+- status_date: 1/9/2026
   certificate: Police Officer
   level: Advanced
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 1/9/2026
   expiration_date: ''
   probation_date: ''
-- status_date: 10/9/2025
+- status_date: 1/9/2026
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 1/9/2026
   expiration_date: ''
   probation_date: ''
 - status_date: 2/16/2010
