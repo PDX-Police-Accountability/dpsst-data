@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/23/2025 | Clackamas County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 5/23/2025 | Clackamas County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 9/10/2013 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 9/9/2013 | West Linn Police Department | Resigned | Detective |  |  |

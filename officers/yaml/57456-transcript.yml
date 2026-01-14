@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/18/2025
   course: PDP3221C
   title: 2025 ECIT Call Resolution
@@ -254,7 +260,7 @@ training_records:
   title: 2025-1 All Sworn In-Service ABLE Refresher
   status: Passed
   score: '0.0'
-  hours: '2.25'
+  hours: '1.25'
 - date: 8/14/2025
   course: PDP0017C
   title: 2025-1 All Sworn In-Service Firearms Range
@@ -411,6 +417,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2024
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 8/28/2024
   course: PDP1283A
   title: 'Directive 0910.00 Update: De Minimis Force'
@@ -2356,6 +2374,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/16/2025
@@ -2364,10 +2386,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/27/2020

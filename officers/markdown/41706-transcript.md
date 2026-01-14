@@ -4,8 +4,8 @@
 | name | Lovell, Charles, III |
 | dpsst_identifier | 41706 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
-| rank | Chief |
+| employment_status | Inactive |
+| rank | Assistant Chief |
 | level |  |
 | classification |  |
 | assignment |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 12/30/2025 | Port of Portland Police Department | Hired | Captain |  |  |
+| 12/23/2025 | Portland Police Bureau | Resigned | Asst Chief |  |  |
 | 6/11/2020 | Portland Police Bureau | Promotion | Chief |  |  |
 | 6/9/2020 | Portland Police Bureau | Promotion | Captain |  |  |
 | 7/6/2017 | Portland Police Bureau | Promotion | Lieutenant |  |  |

@@ -3,8 +3,8 @@ header_record:
   name: Lovell, Charles, III
   dpsst_identifier: '41706'
   agency: Portland Police Bureau
-  employment_status: Active
-  rank: Chief
+  employment_status: Inactive
+  rank: Assistant Chief
   level: ''
   classification: ''
   assignment: ''
@@ -13,6 +13,12 @@ employment_records:
   agency: Port of Portland Police Department
   action: Hired
   rank: Captain
+  classification: ''
+  assignment: ''
+- date: 12/23/2025
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Asst Chief
   classification: ''
   assignment: ''
 - date: 6/11/2020
