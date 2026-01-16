@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/1/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/13/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 11/18/2025 | PDP0518C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 10/28/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/21/2025 | PDP3581B | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |

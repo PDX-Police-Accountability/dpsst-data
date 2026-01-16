@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/2/2026
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 10/16/2023
   agency: Hood River County Sheriff's Office
   action: Hired
@@ -2155,4 +2161,14 @@ education_records:
   degree: No Degree
   school: All Other Education Institutes
   major: ''
-  hours: '153.0'
+  hours: '63.0'
+- date: 12/15/2015
+  degree: No Degree
+  school: Linn-Benton Community College
+  major: ''
+  hours: '49.0'
+- date: 3/15/2015
+  degree: No Degree
+  school: Chemeketa Community College
+  major: ''
+  hours: '105.0'

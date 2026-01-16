@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/2/2026 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 10/16/2023 | Hood River County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 10/12/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 8/22/2019 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -32,7 +33,9 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 3/15/2019 | No Degree | All Other Education Institutes |  | 153.0 |
+| 3/15/2019 | No Degree | All Other Education Institutes |  | 63.0 |
+| 12/15/2015 | No Degree | Linn-Benton Community College |  | 49.0 |
+| 3/15/2015 | No Degree | Chemeketa Community College |  | 105.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

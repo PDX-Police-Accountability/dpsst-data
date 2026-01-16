@@ -20,6 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 1/14/2026 | Police Officer | Advanced | App Recd |  |  |  |
 | 11/11/2025 | Emergency Medical Dispatcher | Basic | Expired | 1/3/2020 |  |  |
 | 11/11/2025 | Telecommunicator | Basic | Expired | 1/3/2020 |  |  |
 | 12/27/2023 | Police Officer | Intermediate | Granted | 12/27/2023 |  |  |
