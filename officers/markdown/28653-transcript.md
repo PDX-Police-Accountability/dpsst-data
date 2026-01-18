@@ -40,6 +40,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2025 | F1539558 | Operational Force Multipliers | Passed | 0.0 | 0.50 |
+| 11/24/2025 | F1522640 | AI in Public Safety | Passed | 0.0 | 0.50 |
+| 11/24/2025 | F1519672 | Safety Culture: How are We Doing? | Passed | 0.0 | 0.75 |
+| 11/24/2025 | F1530204 | The Mission Evolves - So Must We | Passed | 0.0 | 0.75 |
+| 11/24/2025 | F1522186 | Trends in Law and Policy | Passed | 0.0 | 0.50 |
+| 11/20/2025 | F1532097 | 5 Warning Signs in Personnel Behav. | Passed | 0.0 | 0.75 |
+| 11/20/2025 | F1528000 | Confronting the Leadership Crisis | Passed | 0.0 | 0.75 |
+| 11/20/2025 | F1542433 | Readiness is a Mindset, Not a Moment | Passed | 0.0 | 0.75 |
+| 11/20/2025 | F1531948 | Equity: Native American Heritage | Passed | 0.0 | 0.25 |
+| 11/14/2025 | F1542012 | Lessons from Targeted Violence Case | Passed | 0.0 | 1.50 |
+| 11/14/2025 | F1523788 | UCC Shooting | Passed | 0.0 | 1.50 |
 | 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/21/2025 | F1528520 | Micro-Affirmations Part 1 | Passed | 0.0 | 0.25 |
 | 10/21/2025 | F1514649 | Micro-Affirmations Part 2 | Passed | 0.0 | 0.25 |

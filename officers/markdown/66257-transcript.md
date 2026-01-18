@@ -34,6 +34,7 @@
 | 12/9/2025 | PDP3070C | FTEP Geography | Passed | 0.0 | 1.75 |
 | 12/8/2025 | PDP0697C | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
 | 12/8/2025 | PDP4111C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 12/3/2025 | PDP2397C | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
 | 12/2/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/1/2025 | PDP3045C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |

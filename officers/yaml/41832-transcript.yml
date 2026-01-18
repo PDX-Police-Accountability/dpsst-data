@@ -178,6 +178,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/6/2025
+  course: PDP0350C
+  title: National Executive Forum on Public Order Policing
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 10/13/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training
@@ -274,6 +280,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 9/10/2025
+  course: PDP1816C
+  title: 2025 Lvl 5 Crowd Safety - Applied Crowd Science
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 8/23/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop

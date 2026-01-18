@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/12/2026
+  course: GSP3111C
+  title: CEW (Taser) refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/1/2026
+  course: GSP1753C
+  title: PowerTime Schedule
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/17/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

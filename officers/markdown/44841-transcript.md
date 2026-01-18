@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2026 | LOP2811C | ICAC Cyber tip training | Instructed | 0.0 | 1.50 |
 | 12/22/2025 | LOP1924C | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
 | 11/13/2025 | LOP2994C | AHA Basic Life Support (CPR/AED) | Passed | 0.0 | 2.00 |
 | 10/30/2025 | LOP2106B | TASER 10 Recertification | Passed | 0.0 | 5.00 |

@@ -86,6 +86,7 @@
 | 12/7/2025 | PDP4111C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 12/7/2025 | PDP2285C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 12/7/2025 | PDP0902C | Annual HRAR 2.04 Gender ID Nondiscrimination | Passed | 0.0 | 0.50 |
+| 12/3/2025 | PDP2397C | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
 | 12/2/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/1/2025 | PDP3045C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |

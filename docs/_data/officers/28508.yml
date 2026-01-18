@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2026
+  course: PDP0814C
+  title: RegJin RMS/MRE Report Writing
+  status: Instructed
+  score: '0.0'
+  hours: '15.00'
 - date: 12/4/2025
   course: PDP2960C
   title: Annual Bloodborne Pathogens (CityLearner)

@@ -120,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/3/2025
+  course: PDP2397C
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/2/2025
   course: PDP2729C
   title: Property and Evidence

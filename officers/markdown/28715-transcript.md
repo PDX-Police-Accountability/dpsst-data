@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2025 | HBP1676C | DV Update | Passed | 0.0 | 2.00 |
 | 10/22/2025 | HBP2847C | Range | Passed | 0.0 | 5.00 |
 | 10/22/2025 | HBP2385C | Analytics for Patrol | Passed | 0.0 | 1.00 |
 | 10/22/2025 | HBP3978C | Fraud Investigations for Patrol | Passed | 0.0 | 1.00 |

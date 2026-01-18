@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/9/2026
+  course: PDP2369C
+  title: 2026 Enhanced Crisis Intervention Team (ECIT) Cert
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 1/7/2026
+  course: PDP0874C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/2/2026
   course: PDP4246C
   title: CPR/First Aid
@@ -2426,6 +2438,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/7/2026
+  expiration_date: 1/7/2028
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/2/2026

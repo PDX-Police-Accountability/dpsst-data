@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2025 | REG0671C | PNW TacFit Conference | Passed | 0.0 | 16.00 |
 | 12/11/2025 | PDP1827C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 12/11/2025 | PDP2991C | 2024-10 CAO Legal Updates for 07  08/2023 | Passed | 0.0 | 0.25 |
 | 12/11/2025 | PDP2682C | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |

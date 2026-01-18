@@ -4,7 +4,7 @@
 | name | Passadore, Anthony V. |
 | dpsst_identifier | 33482 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Captain |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/13/2026 | Portland Police Bureau | Retired | Captain |  |  |
 | 6/18/2024 | Portland Police Bureau | LOA | Captain |  |  |
 | 5/9/2023 | Portland Police Bureau | Return LOA | Captain |  |  |
 | 10/5/2022 | Portland Police Bureau | LOA | Captain |  |  |
@@ -26,12 +27,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/29/2022 | Police Officer | Executive | Granted | 11/29/2022 |  |  |
-| 11/29/2022 | Police Officer | Management | Granted | 11/29/2022 |  |  |
-| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 |  |  |
-| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 |  |  |
-| 3/20/2001 | Police Officer | Intermediate | Granted | 3/20/2001 |  |  |
-| 3/30/1998 | Police Officer | Basic | Granted | 3/30/1998 |  |  |
+| 11/29/2022 | Police Officer | Executive | Granted | 11/29/2022 | 4/13/2026 |  |
+| 11/29/2022 | Police Officer | Management | Granted | 11/29/2022 | 4/13/2026 |  |
+| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 | 4/13/2026 |  |
+| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 | 4/13/2026 |  |
+| 3/20/2001 | Police Officer | Intermediate | Granted | 3/20/2001 | 4/13/2026 |  |
+| 3/30/1998 | Police Officer | Basic | Granted | 3/30/1998 | 4/13/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

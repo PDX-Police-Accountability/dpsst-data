@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/30/2025
+  course: HBS0051C
+  title: Active Threat Response for LE
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/29/2025
+  course: HBS3838C
+  title: Active Threat Response for LE
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/17/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -1502,6 +1514,10 @@ training_records:
   score: '0.0'
   hours: '36.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/8/2026
+  expiration_date: 1/7/2028
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2026

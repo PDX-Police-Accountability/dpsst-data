@@ -87,9 +87,21 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 1/12/2026
+  course: OSH4553C
+  title: Adult/Child CPR and First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/16/2025
   course: OSH4272C
   title: Manager Comptency Training - Program Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2025
+  course: OSH0107C
+  title: Best Evidence Collection Practices Part 1
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1618,6 +1630,10 @@ training_records:
   score: '0.0'
   hours: '6.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/12/2026
+  expiration_date: 1/31/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

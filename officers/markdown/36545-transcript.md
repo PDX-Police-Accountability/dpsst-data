@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2025 | HBP1676C | DV Update | Passed | 0.0 | 2.00 |
 | 10/22/2025 | HBP2847C | Range | Passed | 0.0 | 5.00 |
 | 10/10/2025 | HBS1434B | SPI Homicide Investigations School | Passed | 0.0 | 80.00 |
 | 9/25/2025 | RSS3476B | 2025 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
@@ -327,6 +328,8 @@
 | 6/28/2006 | 06-0790 | Tactical Duty Knife | Passed | 0.0 | 4.00 |
 | 6/28/2006 | 06-0047 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 6/28/2006 | 06-0038 | SFST | Passed | 0.0 | 4.50 |
+| 6/1/2006 | HBP3887C | FEMA ICS 100 | Passed | 0.0 | 2.00 |
+| 6/1/2006 | HBP2800C | FEMA ICS 700 | Passed | 0.0 | 3.50 |
 | 5/17/2006 | 06-2346 | Blood Splatter | Passed | 0.0 | 2.00 |
 | 4/26/2006 | 06-0159 | Taser X26 | Passed | 0.0 | 2.50 |
 | 4/26/2006 | 06-0047 | Defensive Tactics | Passed | 0.0 | 4.00 |

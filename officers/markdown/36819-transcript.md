@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2026 | LOP2811C | ICAC Cyber tip training | Instructed | 0.0 | 1.50 |
 | 12/22/2025 | LOP1924C | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
 | 11/24/2025 | LOP2518C | 40mm Launcher Certification | Passed | 0.0 | 9.00 |
 | 11/19/2025 | OCA3728C | Open Source DNA | Passed | 0.0 | 1.00 |

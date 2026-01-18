@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/12/2026 | GSP3111C | CEW (Taser) refresher | Passed | 0.0 | 1.00 |
+| 1/1/2026 | GSP1753C | PowerTime Schedule | Passed | 0.0 | 0.25 |
 | 12/19/2025 | GSP3096C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 12/18/2025 | GSP3457C | SWAT Active Threat Training | Passed | 0.0 | 10.00 |
 | 12/17/2025 | GSP4567C | SWAT Firearms | Passed | 0.0 | 10.00 |

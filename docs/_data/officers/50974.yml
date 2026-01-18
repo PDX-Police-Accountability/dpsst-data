@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/14/2026
+  course: OCP1082C
+  title: Emotional Activation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2026
+  course: OCP4260C
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/17/2025
   course: OCP4263C
   title: Clarvida Community Crisis Center

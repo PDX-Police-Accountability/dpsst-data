@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/11/2026
+  course: OSH4190C
+  title: Adult/Child CPR and First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/12/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -1574,6 +1580,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/11/2026
+  expiration_date: 1/31/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

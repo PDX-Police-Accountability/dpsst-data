@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/14/2026 | Hillsboro Police Department | LOA | Police Off |  |  |
 | 10/26/2020 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 10/21/2020 | Washington County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 1/1/2020 | Portland Police Bureau | Resigned | Reserve |  |  |

@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2026 | BNP1331C | SWAT- Active Threat Response | Passed | 0.0 | 8.00 |
+| 1/7/2026 | RMP3656C | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2025 | RMP1404C | Foundations in Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/16/2025 | BNP0807C | SWAT-Building Clearing | Passed | 0.0 | 8.00 |

@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/14/2026 | OCP1082C | Emotional Activation | Passed | 0.0 | 0.25 |
+| 1/13/2026 | OCP4260C | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 12/17/2025 | OCP4263C | Clarvida Community Crisis Center | Passed | 0.0 | 0.50 |
 | 12/4/2025 | OCP4242C | Lexipol Daily Training Bulletins | Passed | 0.0 | 7.25 |
 | 12/3/2025 | OCP0323C | Adult / Child CPR First Aid | Passed | 0.0 | 2.00 |

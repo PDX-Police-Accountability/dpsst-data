@@ -53,6 +53,7 @@
 | 12/8/2025 | PDP4237C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 12/8/2025 | PDP0707C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 12/8/2025 | PDP3393C | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 12/3/2025 | PDP2397C | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
 | 12/2/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/1/2025 | PDP1132C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |

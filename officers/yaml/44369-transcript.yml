@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2026
+  course: STP4521C
+  title: Night Shooting Qualification and Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/23/2025
   course: STP1374C
   title: Lexipol Daily Training Bulletins

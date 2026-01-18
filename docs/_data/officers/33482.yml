@@ -3,12 +3,18 @@ header_record:
   name: Passadore, Anthony V.
   dpsst_identifier: '33482'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Captain
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/13/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Captain
+  classification: ''
+  assignment: ''
 - date: 6/18/2024
   agency: Portland Police Bureau
   action: LOA
@@ -81,42 +87,42 @@ certification_records:
   level: Executive
   status: Granted
   certificate_date: 11/29/2022
-  expiration_date: ''
+  expiration_date: 4/13/2026
   probation_date: ''
 - status_date: 11/29/2022
   certificate: Police Officer
   level: Management
   status: Granted
   certificate_date: 11/29/2022
-  expiration_date: ''
+  expiration_date: 4/13/2026
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 4/13/2026
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 4/13/2026
   probation_date: ''
 - status_date: 3/20/2001
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 3/20/2001
-  expiration_date: ''
+  expiration_date: 4/13/2026
   probation_date: ''
 - status_date: 3/30/1998
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/30/1998
-  expiration_date: ''
+  expiration_date: 4/13/2026
   probation_date: ''
 training_records:
 - date: 5/21/2024

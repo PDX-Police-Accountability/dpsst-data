@@ -49,6 +49,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2026
+  course: MFN2926C
+  title: Building Collaborative Teams
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2026
+  course: MFN2520C
+  title: Transitional Care Prog/Golden Rule Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/9/2025
   course: MFN1833C
   title: Leading with Emotional Intelligence

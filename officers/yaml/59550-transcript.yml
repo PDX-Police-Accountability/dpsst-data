@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2026
+  course: BNP1331C
+  title: SWAT- Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/7/2026
+  course: RMP3656C
+  title: Defensive Tactics - Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

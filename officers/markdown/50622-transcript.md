@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/14/2026 | OCP2636C | OCPD Leadership Training | Passed | 0.0 | 4.50 |
+| 1/12/2026 | OCP3575C | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 12/18/2025 | OCP3676C | HB 4002 Briefing Training | Passed | 0.0 | 0.50 |
 | 12/17/2025 | OCP4263C | Clarvida Community Crisis Center | Passed | 0.0 | 0.50 |
 | 12/15/2025 | OCP3748C | Constitutional Use Of Force | Passed | 0.0 | 6.00 |

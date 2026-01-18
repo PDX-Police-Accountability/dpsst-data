@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2025
+  course: HBP1676C
+  title: DV Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/22/2025
   course: HBP2847C
   title: Range
@@ -1802,6 +1808,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 6/1/2006
+  course: HBP3887C
+  title: FEMA ICS 100
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/1/2006
+  course: HBP2800C
+  title: FEMA ICS 700
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 5/17/2006
   course: 06-2346
   title: Blood Splatter

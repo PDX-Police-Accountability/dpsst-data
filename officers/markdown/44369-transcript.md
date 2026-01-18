@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/13/2026 | STP4521C | Night Shooting Qualification and Training | Passed | 0.0 | 4.00 |
 | 12/23/2025 | STP1374C | Lexipol Daily Training Bulletins | Passed | 0.0 | 30.00 |
 | 12/3/2025 | OCS3922C | Below 00 | Passed | 0.0 | 8.00 |
 | 11/12/2025 | STP3109C | Taser 10 Instructor Course | Passed | 0.0 | 10.00 |

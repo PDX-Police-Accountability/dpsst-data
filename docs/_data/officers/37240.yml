@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/7/2026
+  course: PDP0879C
+  title: 2026 Standard Field Sobriety Test (SFST) Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/8/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

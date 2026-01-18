@@ -83,6 +83,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/25/2025
+  course: F1539558
+  title: Operational Force Multipliers
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/24/2025
+  course: F1522640
+  title: AI in Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/24/2025
+  course: F1519672
+  title: 'Safety Culture: How are We Doing?'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/24/2025
+  course: F1530204
+  title: The Mission Evolves - So Must We
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/24/2025
+  course: F1522186
+  title: Trends in Law and Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/20/2025
+  course: F1532097
+  title: 5 Warning Signs in Personnel Behav.
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/20/2025
+  course: F1528000
+  title: Confronting the Leadership Crisis
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/20/2025
+  course: F1542433
+  title: Readiness is a Mindset, Not a Moment
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/20/2025
+  course: F1531948
+  title: 'Equity: Native American Heritage'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/14/2025
+  course: F1542012
+  title: Lessons from Targeted Violence Case
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/14/2025
+  course: F1523788
+  title: UCC Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/31/2025
   course: PDA3164C
   title: Handgun Firearms

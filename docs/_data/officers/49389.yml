@@ -56,6 +56,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/3/2025
+  course: PDP2397C
+  title: FTEP Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/1/2025
   course: PDP0762C
   title: Emergency Operations Plan (EOP)
