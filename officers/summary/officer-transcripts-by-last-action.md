@@ -806,6 +806,8 @@
 | Jaganjac, Hajdar | 67144 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67144-transcript.md) - [yaml](../yaml/67144-transcript.yml) |
 | Scott, Owen A. | 67145 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67145-transcript.md) - [yaml](../yaml/67145-transcript.yml) |
 | Cazassa, Antonio W. | 67153 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67153-transcript.md) - [yaml](../yaml/67153-transcript.yml) |
+| Himes, Connor G. | 67160 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67160-transcript.md) - [yaml](../yaml/67160-transcript.yml) |
+| Frossard, Marcio | 67168 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67168-transcript.md) - [yaml](../yaml/67168-transcript.yml) |
 | Sessions, Timothy E. | 21772 | Portland Police Bureau | Active | Sergeant | LOA | 2025-12-02 | [md](../markdown/21772-transcript.md) - [yaml](../yaml/21772-transcript.yml) |
 | Pryce, Jimmy L. | 34677 | Portland Police Bureau | Active | Police Officer | LOA | 2025-12-08 | [md](../markdown/34677-transcript.md) - [yaml](../yaml/34677-transcript.yml) |
 | Hollan, Angela E. | 36825 | Portland Police Bureau | Active | Detective | LOA | 2025-05-23 | [md](../markdown/36825-transcript.md) - [yaml](../yaml/36825-transcript.yml) |
