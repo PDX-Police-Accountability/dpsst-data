@@ -663,4 +663,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 9/30/2024
   expiration_date: 9/30/2026
-education_records: []
+education_records:
+- date: 3/25/2023
+  degree: Bachelor Science
+  school: Portland State University
+  major: ''
+  hours: '188.0'

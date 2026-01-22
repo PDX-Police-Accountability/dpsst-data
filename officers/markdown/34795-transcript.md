@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/7/2026 | WLP3844C | Overview of mental health statues  BHU resources | Passed | 0.0 | 1.00 |
 | 12/18/2025 | WLP3850C | Taser 7 Re-certification | Passed | 0.0 | 3.00 |
 | 12/3/2025 | WLP4530C | Search and Seizure | Passed | 0.0 | 1.50 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

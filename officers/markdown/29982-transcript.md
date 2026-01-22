@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/14/2026 | RRP1439C | OACP ELTS Board Meeting | Passed | 0.0 | 2.00 |
 | 12/17/2025 | SVP2206C | Low Light / Night Firearms Training | Passed | 0.0 | 2.50 |
 | 12/10/2025 | AVP0375C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 11/19/2025 | SVP1956C | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 4.00 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2026 | BVP1987C | First Aid/CPR 010826 PM | Passed | 0.0 | 3.00 |
 | 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/30/2025 | HBS0051C | Active Threat Response for LE | Instructed | 0.0 | 3.00 |
 | 12/29/2025 | HBS3838C | Active Threat Response for LE | Instructed | 0.0 | 3.00 |

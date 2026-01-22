@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2026
+  course: BVP1821C
+  title: First Aid/CPR 010826 AM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/31/2025
   course: XDELETE1
   title: Pending for Deletion Due to Duplicate or Other Rea
