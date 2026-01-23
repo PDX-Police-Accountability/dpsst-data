@@ -29,6 +29,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/17/2023 | Bachelor Science | Portland State University |  | 74.0 |
+| 6/12/2021 | Associate Science | Mt Hood Community College |  | 115.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

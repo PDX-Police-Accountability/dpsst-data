@@ -1072,4 +1072,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 5/15/2023
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/17/2023
+  degree: Bachelor Science
+  school: Portland State University
+  major: ''
+  hours: '74.0'
+- date: 6/12/2021
+  degree: Associate Science
+  school: Mt Hood Community College
+  major: ''
+  hours: '115.0'

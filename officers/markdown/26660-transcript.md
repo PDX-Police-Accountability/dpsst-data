@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/17/2026 | HSU3765C | Supplemental Range | Passed | 0.0 | 2.00 |
 | 10/24/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/18/2025 | HSU1020B | 2025 Spring In-Service Firearms | Instructed | 0.0 | 4.00 |
 | 10/17/2025 | HSU0012B | 2025 Spring In-Service-ActiveThreat/ForceScenarios | Instructed | 0.0 | 4.00 |

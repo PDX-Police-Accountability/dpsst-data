@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/20/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 1/15/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 1/13/2026 | MFN2926C | Building Collaborative Teams | Passed | 0.0 | 1.00 |
 | 1/7/2026 | MFN2520C | Transitional Care Prog/Golden Rule Overview | Passed | 0.0 | 1.00 |
 | 12/9/2025 | MFN1833C | Leading with Emotional Intelligence | Passed | 0.0 | 1.00 |

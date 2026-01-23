@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2025
+  course: TAP4559C
+  title: LEXIPOL Daily Training Bulletins Jan1-Dec 31 2025
+  status: Passed
+  score: '0.0'
+  hours: '11.50'
 - date: 11/18/2025
   course: ADP0306C
   title: Defensive Tactics

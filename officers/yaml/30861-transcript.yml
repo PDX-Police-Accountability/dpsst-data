@@ -308,6 +308,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 2/9/2025
+  course: BNS3500C
+  title: Hazardous Communications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/6/2024
   course: BNS3028A
   title: Use of Force, Pepperball, 40mm

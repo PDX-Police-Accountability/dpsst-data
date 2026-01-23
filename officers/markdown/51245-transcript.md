@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/17/2026 | HSU3765C | Supplemental Range | Passed | 0.0 | 2.00 |
 | 10/18/2025 | HSU3716B | 2025 Spring In-Service Patrol Procedures/ PVO | Passed | 0.0 | 2.00 |
 | 10/18/2025 | HSU3493B | 2025 Spring In-Service Chief's Message | Passed | 0.0 | 2.00 |
 | 10/18/2025 | HSU1020B | 2025 Spring In-Service Firearms | Passed | 0.0 | 4.00 |

@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 1/21/2026 | Police Officer | Intermediate | App Recd |  |  |  |
 | 7/12/2021 | Police Officer | Basic | Granted | 7/12/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -27,6 +28,9 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 3/15/2019 | No Degree | Mt Hood Community College |  | 54.0 |
+| 3/15/2017 | No Degree | Clackamas Community College |  | 5.0 |
+| 3/15/2017 | No Degree | Portland Community College |  | 26.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

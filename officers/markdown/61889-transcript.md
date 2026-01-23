@@ -29,6 +29,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/14/2019 | Masters Science | All Other Education Institutes | Criminal Justice | 32.0 |
+| 5/3/2019 | Bachelor Science | All Other Education Institutes | Criminal Justice | 128.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

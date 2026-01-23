@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 1/21/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 7/12/2021
   certificate: Police Officer
   level: Basic
@@ -2555,4 +2562,19 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/20/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 3/15/2019
+  degree: No Degree
+  school: Mt Hood Community College
+  major: ''
+  hours: '54.0'
+- date: 3/15/2017
+  degree: No Degree
+  school: Clackamas Community College
+  major: ''
+  hours: '5.0'
+- date: 3/15/2017
+  degree: No Degree
+  school: Portland Community College
+  major: ''
+  hours: '26.0'

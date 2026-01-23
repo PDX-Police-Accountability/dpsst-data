@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/14/2026
+  course: PDP2252C
+  title: FTEP Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '6.45'
 - date: 12/9/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

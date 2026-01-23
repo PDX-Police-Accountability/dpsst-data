@@ -79,6 +79,7 @@
 | 3/2/2025 | BNS4138A | Welcome to the Patrol Division Leadership Team | Passed | 0.0 | 1.50 |
 | 2/24/2025 | BNS3186A | Building Clearing/Prep for Retirement | Passed | 0.0 | 3.00 |
 | 2/13/2025 | BNS1582A | Pepperball | Instructed | 0.0 | 3.00 |
+| 2/9/2025 | BNS3500C | Hazardous Communications | Passed | 0.0 | 0.50 |
 | 11/6/2024 | BNS3028A | Use of Force, Pepperball, 40mm | Instructed | 0.0 | 2.00 |
 | 10/14/2024 | BNS3545A | Strangulation | Passed | 0.0 | 0.50 |
 | 10/14/2024 | BNS1058A | Emergeny Protection Orders | Passed | 0.0 | 1.00 |

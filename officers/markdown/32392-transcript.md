@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | TGP0352C | Path of the Guardian - Legal Updates | Passed | 0.0 | 8.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/26/2025 | TGP4132C | Taser 10 Operator Online Pre-work | Passed | 0.0 | 4.00 |
 | 12/11/2025 | TGP2432C | Connected Vehicle Investigations | Passed | 0.0 | 8.00 |

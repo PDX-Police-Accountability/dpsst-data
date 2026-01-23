@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2026
+  course: PDP3711C
+  title: L0962 FEMA All Hazards Planning Section Chief
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 12/22/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

@@ -1569,6 +1569,7 @@
 | Cazassa, Antonio W. | 67153 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67153-transcript.md) - [yaml](../yaml/67153-transcript.yml) |
 | Himes, Connor G. | 67160 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67160-transcript.md) - [yaml](../yaml/67160-transcript.yml) |
 | Frossard, Marcio | 67168 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67168-transcript.md) - [yaml](../yaml/67168-transcript.yml) |
+| Djuderija, Mirza | 67183 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67183-transcript.md) - [yaml](../yaml/67183-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Moore, Gary D. | 15650 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2018-07-04 | [md](../markdown/15650-transcript.md) - [yaml](../yaml/15650-transcript.yml) |
 | Wilkinson, Steven P. | 17691 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1995-01-01 | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
