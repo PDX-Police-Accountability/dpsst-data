@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/15/2026 | 1/14/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/30/2024 | 1/30/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
@@ -38,8 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/31/2025 | BVP1982C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/30/2025 | BVP3902C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/10/2025 | VND0002C | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/16/2025 | BVP3628B | SFST/Intoxilyzer Refresher 101625 | Passed | 0.0 | 8.00 |

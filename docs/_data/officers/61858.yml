@@ -49,15 +49,33 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/21/2026
+  course: MFN0510C
+  title: Social Media Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/20/2026
   course: XDELETE2
   title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/20/2026
+  course: MFN4474C
+  title: Annual UoF training/UoF report writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/15/2026
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/15/2026
+  course: MFN2996C
+  title: Firearms-low light night shoot
   status: Passed
   score: '0.0'
   hours: '3.00'

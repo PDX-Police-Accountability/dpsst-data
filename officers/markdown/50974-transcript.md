@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/21/2026 | OCP3095C | Animal Crimes Investigations | Passed | 0.0 | 1.00 |
 | 1/14/2026 | OCP1082C | Emotional Activation | Passed | 0.0 | 0.25 |
 | 1/13/2026 | OCP4260C | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 12/17/2025 | OCP4263C | Clarvida Community Crisis Center | Passed | 0.0 | 0.50 |

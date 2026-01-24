@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/21/2026 | OCP3095C | Animal Crimes Investigations | Passed | 0.0 | 1.00 |
 | 12/18/2025 | OCP3676C | HB 4002 Briefing Training | Passed | 0.0 | 0.50 |
 | 12/4/2025 | OCP4242C | Lexipol Daily Training Bulletins | Passed | 0.0 | 7.25 |
 | 11/18/2025 | OCP2472C | Low Light Firearms | Passed | 0.0 | 1.50 |

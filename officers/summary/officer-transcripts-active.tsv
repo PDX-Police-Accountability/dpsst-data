@@ -211,7 +211,7 @@ Faris, Joshua J.	41138	Portland Police Bureau	Active	Police Officer	Hired	2001-0
 Koenig, Jason M.	41301	Portland Police Bureau	Active	Detective	Promotion	2018-10-18
 Ismail, Hythum A.	41302	Portland Police Bureau	Active	Sergeant	Promotion	2019-07-11
 McDaniel, Eric B.	41372	Portland Police Bureau	Active	Detective	Promotion	2007-09-20
-Helwig, Heidi J.	41499	Portland Police Bureau	Active	Police Officer	LOA	2025-09-09
+Helwig, Heidi J.	41499	Portland Police Bureau	Active	Detective	Return LOA	2026-01-14
 Scott, Hilary J.	41513	Portland Police Bureau	Active	Detective	Promotion	2014-01-09
 Zoeller, Anthony J.	41636	Portland Police Bureau	Active	Detective	Promotion	2021-02-04
 Bledsoe, Michael T., Jr.	41701	Portland Police Bureau	Active	Detective	Return LOA	2023-05-22
@@ -322,9 +322,9 @@ Garrison, Ty K.	46311	Portland Police Bureau	Active	Police Officer	Hired	2005-11
 Leeper, Teresa L.	46361	Portland Police Bureau	Active	Civilian Employee	Hired	2005-08-22
 Curtiss, Royce G.	46427	Portland Police Bureau	Active	Sergeant	Promotion	2025-07-17
 Mawdsley, Patrick S.	46428	Portland Police Bureau	Active	Sergeant	Return LOA	2024-12-17
-Clark, Bradley N.	46430	Portland Police Bureau	Active	Police Officer	LOA	2025-11-06
+Clark, Bradley N.	46430	Portland Police Bureau	Active	Police Officer	Hired	2006-01-26
 Mendoza, Jorge R.	46431	Portland Police Bureau	Active	Sergeant	Promotion	2022-10-27
-Walsh, Roger M.	46434	Portland Police Bureau	Active	Police Officer	LOA	2025-11-06
+Walsh, Roger M.	46434	Portland Police Bureau	Active	Police Officer	Return LOA	2010-04-22
 Knodel, Jimmie	46506	Portland Police Bureau	Active	Civilian Employee	Hired	2003-06-01
 Lewis, Clyde	46507	Portland Police Bureau	Active	Civilian Employee	Hired	2004-06-01
 Piombo, Mark M.	46529	Portland Police Bureau	Active	Police Officer	Hired	2006-01-26
@@ -630,7 +630,7 @@ Dooley, Kyle M.	59189	Portland Police Bureau	Active	Police Officer	Hired	2018-10
 McAbery, Clayton R.	59217	Portland Police Bureau	Active	Police Officer	Hired	2022-09-22
 Mora, Anthony R.	59317	Portland Police Bureau	Active	Police Officer	Hired	2019-01-03
 Hall, Daniel E.	59367	Portland Police Bureau	Active	Police Officer	Return LOA	2024-02-16
-Smith, Sammy D., Jr.	59492	Portland Police Bureau	Active	Police Officer	LOA	2025-09-21
+Smith, Sammy D., Jr.	59492	Portland Police Bureau	Active	Police Officer	Return LOA	2026-01-15
 Bledsoe, Joshua M.	59515	Portland Police Bureau	Active	Police Officer	Retrn MLOA	2021-11-18
 Bauer, Kurt D.	59626	Portland Police Bureau	Active	Police Officer	Retrn MLOA	2025-09-18
 Postula, Kayla H.	59627	Portland Police Bureau	Active	Police Officer	Hired	2019-02-07
@@ -725,7 +725,7 @@ Miller, Cory G.	63080	Portland Police Bureau	Active	Police Officer	LOA	2025-09-3
 Martinez, Brett L.	63081	Portland Police Bureau	Active	Police Officer	Hired	2022-07-21
 Jackson, Trey S.	63083	Portland Police Bureau	Active	Police Officer	LOA	2025-08-25
 Huq, Amadeo M.	63084	Portland Police Bureau	Active	Police Officer	Hired	2022-07-21
-Duque-Valencia, Juan P.	63086	Portland Police Bureau	Active	Police Officer	LOA	2025-06-28
+Duque-Valencia, Juan P.	63086	Portland Police Bureau	Active	Police Officer	Return LOA	2026-01-01
 Wolfe, Gavin P.	63164	Portland Police Bureau	Active	Police Officer	Hired	2022-08-18
 Chen, Jacob Y.	63180	Portland Police Bureau	Active	Police Officer	Hired	2022-08-18
 Keep, Hayden J.	63210	Portland Police Bureau	Active	Police Officer	Hired	2022-09-22
@@ -750,7 +750,7 @@ Rudakova, Diana L.	63527	Portland Police Bureau	Active	Police Officer	Hired	2022
 Liu, Simeni M.	63530	Portland Police Bureau	Active	Police Officer	Hired	2025-06-05
 MacIntyre, Nathan W., Jr.	63589	Portland Police Bureau	Active	Police Officer	Hired	2022-11-10
 Purcell, Hannah Z.	63594	Portland Police Bureau	Active	Police Officer	Hired	2022-12-15
-Epton, Jason A.	63601	Portland Police Bureau	Active	Police Officer	LOA	2025-06-28
+Epton, Jason A.	63601	Portland Police Bureau	Active	Police Officer	Return LOA	2026-01-01
 Dahlgren, Angela D.	63660	Portland Police Bureau	Active	Police Officer	Hired	2022-12-15
 Chong, Nicholas J.	63677	Portland Police Bureau	Active	Police Officer	Hired	2022-12-15
 Buckingham, Alexander J.	63678	Portland Police Bureau	Active	Police Officer	Hired	2022-12-15
@@ -782,7 +782,7 @@ Swanson, Nathan E.	64446	Portland Police Bureau	Active	Police Officer	Hired	2023
 Harper, Sydney C.	64447	Portland Police Bureau	Active	Police Officer	Hired	2023-08-17
 Lee, Martin M.	64449	Portland Police Bureau	Active	Police Officer	Hired	2023-08-24
 Vlaski, Marko	64450	Portland Police Bureau	Active	Police Officer	Hired	2023-08-17
-Wortman, Travis L.	64475	Portland Police Bureau	Active	Police Officer	LOA	2025-06-28
+Wortman, Travis L.	64475	Portland Police Bureau	Active	Police Officer	Return LOA	2026-01-01
 Cropp, Carson F.	64482	Portland Police Bureau	Active	Police Officer	Hired	2023-08-24
 Trujillo, Michael A.	64588	Portland Police Bureau	Active	Police Officer	Hired	2023-10-12
 Randall, David C.	64594	Portland Police Bureau	Active	Police Officer	Hired	2023-08-17
@@ -794,7 +794,7 @@ Roedel, Coedy J.	64718	Portland Police Bureau	Active	Police Officer	Hired	2023-1
 Austen, Rebekah A.	64722	Portland Police Bureau	Active	Police Officer	Hired	2023-11-09
 Walton, Elizabeth I.	64726	Portland Police Bureau	Active	Police Officer	Retrn MLOA	2025-09-17
 Gerlach, Caden R.	64727	Portland Police Bureau	Active	Police Officer	Hired	2023-11-09
-Babasin, Melissa A.	64740	Portland Police Bureau	Active	Police Officer	LOA	2025-09-28
+Babasin, Melissa A.	64740	Portland Police Bureau	Active	Police Officer	Return LOA	2026-01-15
 Reeser, Garrett S.	64741	Portland Police Bureau	Active	Police Officer	Hired	2023-11-09
 Vega Mendez, Esmeralda	64818	Portland Police Bureau	Active	Police Officer	Hired	2024-02-15
 Wilson, Danielle E.	64828	Portland Police Bureau	Active	Police Officer	Hired	2024-02-15
@@ -830,7 +830,7 @@ Irvine, Derek J.	65498	Portland Police Bureau	Active	Police Officer	Hired	2024-0
 Scoggins, Carson L.	65499	Portland Police Bureau	Active	Police Officer	Hired	2024-08-01
 Dawson, Gabriel A.	65501	Portland Police Bureau	Active	Police Officer	Hired	2024-08-01
 Serrano Gutierrez, Boide	65503	Portland Police Bureau	Active	Police Officer	Hired	2024-08-01
-Foster, Spencer N.	65504	Portland Police Bureau	Active	Police Officer	LOA	2025-09-21
+Foster, Spencer N.	65504	Portland Police Bureau	Active	Police Officer	Return LOA	2026-01-15
 Tran, Minh Q.	65522	Portland Police Bureau	Active	Police Officer	Hired	2024-08-01
 MacKay, Maxwell O.	65523	Portland Police Bureau	Active	Police Officer	Hired	2024-08-01
 Diehl, Eric J.	65526	Portland Police Bureau	Active	Police Officer	Hired	2024-08-01

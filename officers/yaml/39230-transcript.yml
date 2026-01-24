@@ -100,6 +100,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2026
+  course: EGP1672C
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/15/2026
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/15/2026
+  course: EGP2620C
+  title: State of Oregon DOJ Domestic Violence Updates
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/9/2025
   course: EGP3943B
   title: DT Taser scenarios
@@ -4529,6 +4547,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 1/15/2026
+  expiration_date: 1/15/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

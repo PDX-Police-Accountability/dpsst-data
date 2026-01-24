@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/21/2026
+  course: PDS2919C
+  title: Monthly Reserve Unit Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/1/2025
   course: PDS3752C
   title: Firearms

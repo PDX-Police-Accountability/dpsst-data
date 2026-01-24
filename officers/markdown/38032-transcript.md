@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2025 | BPT2503C | Use of Force Scenario Instructor Workshop | Passed | 0.0 | 16.00 |
 | 11/24/2025 | BPT1519C | Skill Instructor Updates | Passed | 0.0 | 8.00 |
 | 7/11/2025 | REG2387B | Use of Force Instructor Development Course | Passed | 0.0 | 40.00 |
 | 2/26/2025 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |

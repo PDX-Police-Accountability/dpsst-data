@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2026
+  course: BVP2660C
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/5/2026
   course: BVP0853C
   title: First Aid/CPR 010526 PM
@@ -115,6 +121,12 @@ training_records:
   hours: '1.00'
 - date: 12/31/2025
   course: BVP1982C
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2025
+  course: BVP3902C
   title: Bloodborne Pathogens
   status: Passed
   score: '0.0'

@@ -69,6 +69,12 @@ certification_records:
   expiration_date: 11/19/2029
   probation_date: ''
 training_records:
+- date: 12/29/2025
+  course: BPT2503C
+  title: Use of Force Scenario Instructor Workshop
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/24/2025
   course: BPT1519C
   title: Skill Instructor Updates

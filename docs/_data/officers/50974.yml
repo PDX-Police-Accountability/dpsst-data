@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/21/2026
+  course: OCP3095C
+  title: Animal Crimes Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/14/2026
   course: OCP1082C
   title: Emotional Activation

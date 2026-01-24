@@ -32,6 +32,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 1/15/2026 | 1/15/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
@@ -44,6 +45,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
+| 1/15/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 1/15/2026 | EGP2620C | State of Oregon DOJ Domestic Violence Updates | Passed | 0.0 | 4.00 |
 | 10/9/2025 | EGP3943B | DT Taser scenarios | Passed | 0.0 | 3.50 |
 | 10/9/2025 | EGP2280B | Firearms Qualification | Passed | 0.0 | 2.00 |
 | 10/9/2025 | EGP4084B | CIT/Mental Health - Mental Health Review | Passed | 0.0 | 1.00 |
