@@ -108,6 +108,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/21/2026
+  course: CAP0898C
+  title: Annual Handgun Qualifications and Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/21/2026
+  course: CAP1754C
+  title: Annual Handgun Qualifications and Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/19/2025
   course: CAP2104C
   title: Firearms - Night Shoot - Handgun

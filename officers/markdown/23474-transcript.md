@@ -51,6 +51,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2026 | OAC1992C | Police Actions on Community Relations | Passed | 0.0 | 4.00 |
+| 1/15/2026 | OAC2673C | Ethical Leaders  Organizations | Passed | 0.0 | 1.00 |
+| 1/15/2026 | OAC1250C | Silverton HS Swatting Call | Passed | 0.0 | 1.50 |
+| 1/15/2026 | OAC1392C | Fight to Thrive: Through critical incidents | Passed | 0.0 | 1.50 |
+| 1/15/2026 | OAC3673C | Leadership and Effective Followership | Passed | 0.0 | 1.00 |
+| 1/15/2026 | OAC1540C | Practical Actions for Reducing Misconduct | Passed | 0.0 | 3.00 |
+| 1/14/2026 | OAC4414C | Bad Hire, Big Consequences: Liability Lessons | Passed | 0.0 | 4.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/22/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |

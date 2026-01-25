@@ -46,6 +46,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/21/2026 | CAP0898C | Annual Handgun Qualifications and Fundamentals | Passed | 0.0 | 1.50 |
+| 1/21/2026 | CAP1754C | Annual Handgun Qualifications and Fundamentals | Passed | 0.0 | 1.50 |
 | 11/19/2025 | CAP2104C | Firearms - Night Shoot - Handgun | Passed | 0.0 | 2.00 |
 | 10/23/2025 | CAP2337B | Airways Training Video - Patient Evaluation For LE | Passed | 0.0 | 2.00 |
 | 10/22/2025 | CAP3011B | Firearms - Precision Rifle | Passed | 0.0 | 2.00 |

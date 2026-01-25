@@ -49,6 +49,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/21/2026 | AVP3468C | In-Service / Legal Updates | Passed | 0.0 | 1.00 |
+| 1/21/2026 | AVP1768C | METCOM Dispatch Protocols | Passed | 0.0 | 1.00 |
+| 1/15/2026 | OAC2673C | Ethical Leaders  Organizations | Passed | 0.0 | 1.00 |
+| 1/15/2026 | OAC1250C | Silverton HS Swatting Call | Passed | 0.0 | 1.50 |
+| 1/15/2026 | OAC1392C | Fight to Thrive: Through critical incidents | Passed | 0.0 | 1.50 |
+| 1/15/2026 | OAC3673C | Leadership and Effective Followership | Passed | 0.0 | 1.00 |
+| 1/14/2026 | OAC4414C | Bad Hire, Big Consequences: Liability Lessons | Passed | 0.0 | 4.00 |
+| 1/14/2026 | OAC1794C | AI Training | Passed | 0.0 | 4.00 |
 | 12/17/2025 | SVP2206C | Low Light / Night Firearms Training | Passed | 0.0 | 4.00 |
 | 12/10/2025 | AVP0375C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 11/19/2025 | SVP1956C | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 4.00 |

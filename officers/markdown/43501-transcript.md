@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2026 | OAC1992C | Police Actions on Community Relations | Passed | 0.0 | 4.00 |
+| 1/15/2026 | OAC1540C | Practical Actions for Reducing Misconduct | Passed | 0.0 | 3.00 |
+| 1/14/2026 | OAC4414C | Bad Hire, Big Consequences: Liability Lessons | Passed | 0.0 | 4.00 |
+| 1/14/2026 | OAC1794C | AI Training | Passed | 0.0 | 4.00 |
 | 12/23/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/23/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/23/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |

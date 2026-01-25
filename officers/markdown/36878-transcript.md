@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/15/2026 | BVP1921C | First Aid/CPR 011526 AM | Passed | 0.0 | 3.00 |
 | 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/31/2025 | BVP1982C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/30/2025 | BVP3902C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

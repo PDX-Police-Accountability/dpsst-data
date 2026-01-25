@@ -47,6 +47,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2026 | OAC1992C | Police Actions on Community Relations | Passed | 0.0 | 4.00 |
+| 1/15/2026 | OAC2673C | Ethical Leaders  Organizations | Passed | 0.0 | 1.00 |
+| 1/15/2026 | OAC1250C | Silverton HS Swatting Call | Passed | 0.0 | 1.50 |
+| 1/15/2026 | OAC1392C | Fight to Thrive: Through critical incidents | Passed | 0.0 | 1.50 |
+| 1/15/2026 | OAC3855C | The Four Pillars Retirement | Passed | 0.0 | 1.00 |
+| 1/15/2026 | OAC1540C | Practical Actions for Reducing Misconduct | Passed | 0.0 | 3.00 |
+| 1/14/2026 | OAC4414C | Bad Hire, Big Consequences: Liability Lessons | Passed | 0.0 | 4.00 |
+| 1/14/2026 | OAC1794C | AI Training | Passed | 0.0 | 4.00 |
 | 12/31/2025 | BNP4594C | Axon Standards Training | Passed | 0.0 | 2.00 |
 | 12/31/2025 | BNP3089C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 12/31/2025 | BNP1077C | Electronic Search Warrant SOP | Passed | 0.0 | 0.50 |

@@ -172,6 +172,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/15/2026
+  course: OSH2268C
+  title: Adult/Child CPR and First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/17/2025
   course: PLS3226C
   title: SFST Refresher
@@ -3767,6 +3773,10 @@ training_records:
   score: '0.0'
   hours: '281.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/15/2026
+  expiration_date: 1/31/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

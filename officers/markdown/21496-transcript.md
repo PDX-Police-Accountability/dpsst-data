@@ -43,6 +43,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/15/2026 | 1/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | CPR | 3/1/2024 | 3/31/2026 |
@@ -61,6 +62,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2026 | OSH1883C | Adult/Child CPR and First Aid | Passed | 0.0 | 2.00 |
+| 1/15/2026 | OSH2268C | Adult/Child CPR and First Aid | Passed | 0.0 | 8.00 |
 | 12/17/2025 | PLS3226C | SFST Refresher | Instructed | 0.0 | 5.00 |
 | 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/16/2025 | OSH1696B | Defensive Tactics/Taser 2nd Trimester | Passed | 0.0 | 7.00 |

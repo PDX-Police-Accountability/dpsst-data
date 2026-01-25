@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/15/2026
+  course: EGP3677C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/9/2025
   course: EGP3943B
   title: DT Taser scenarios
@@ -4549,6 +4555,10 @@ training_records:
 attribute_records:
 - topic: Certification Cards
   value: CPR
+  effective_date: 1/15/2026
+  expiration_date: 1/15/2028
+- topic: Certification Cards
+  value: First Aid and CPR
   effective_date: 1/15/2026
   expiration_date: 1/15/2028
 - topic: Maintenance Requirements

@@ -129,6 +129,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/21/2026
+  course: AVP3468C
+  title: In-Service / Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/21/2026
+  course: AVP1768C
+  title: METCOM Dispatch Protocols
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2026
+  course: OAC2673C
+  title: Ethical Leaders  Organizations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2026
+  course: OAC1250C
+  title: Silverton HS Swatting Call
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/15/2026
+  course: OAC1392C
+  title: 'Fight to Thrive: Through critical incidents'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/15/2026
+  course: OAC3673C
+  title: Leadership and Effective Followership
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/14/2026
+  course: OAC4414C
+  title: 'Bad Hire, Big Consequences: Liability Lessons'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/14/2026
+  course: OAC1794C
+  title: AI Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/17/2025
   course: SVP2206C
   title: Low Light / Night Firearms Training

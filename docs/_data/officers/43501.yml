@@ -88,6 +88,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2026
+  course: OAC1992C
+  title: Police Actions on Community Relations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/15/2026
+  course: OAC1540C
+  title: Practical Actions for Reducing Misconduct
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/14/2026
+  course: OAC4414C
+  title: 'Bad Hire, Big Consequences: Liability Lessons'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/14/2026
+  course: OAC1794C
+  title: AI Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/23/2025
   course: PDP3067C
   title: 2025 Federal Interaction Reporting

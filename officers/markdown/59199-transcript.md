@@ -29,6 +29,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | CPR | 1/15/2026 | 1/15/2028 |
+| Certification Cards | First Aid and CPR | 1/15/2026 | 1/15/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/9/2025 | 1/9/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
@@ -45,6 +46,7 @@
 | 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 1/15/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 1/15/2026 | EGP2620C | State of Oregon DOJ Domestic Violence Updates | Passed | 0.0 | 4.00 |
+| 1/15/2026 | EGP3677C | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 1/8/2026 | SPP2944C | Search Warrant Fundamentals | Passed | 0.0 | 4.00 |
 | 12/31/2025 | EGP0998C | SWAT Search Skills / Tactical Mini Scenarios | Passed | 0.0 | 6.00 |
 | 11/19/2025 | EGP3827C | TCCC Medical Training | Passed | 0.0 | 3.00 |

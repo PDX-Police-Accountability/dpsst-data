@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/14/2026 | BVP3073C | First Aid/CPR 011426 AM | Passed | 0.0 | 3.00 |
 | 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/9/2025 | HBS3388C | MFF - Public Order Day 2 | Passed | 0.0 | 9.00 |
 | 12/8/2025 | HBS4202C | MFF - APR | Passed | 0.0 | 0.50 |

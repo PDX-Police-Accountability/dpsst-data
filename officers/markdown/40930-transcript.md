@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2025 | PDP1352C | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 11/6/2025 | PDP4412C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 11/6/2025 | PDP2662C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 11/6/2025 | PDP4229C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

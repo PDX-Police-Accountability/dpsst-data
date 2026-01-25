@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/14/2026
+  course: BVP3073C
+  title: First Aid/CPR 011426 AM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/31/2025
   course: XDELETE1
   title: Pending for Deletion Due to Duplicate or Other Rea

@@ -46,6 +46,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2026 | OAC1992C | Police Actions on Community Relations | Passed | 0.0 | 1.00 |
+| 1/15/2026 | OAC2673C | Ethical Leaders  Organizations | Passed | 0.0 | 1.00 |
+| 1/15/2026 | OAC1250C | Silverton HS Swatting Call | Passed | 0.0 | 1.50 |
+| 1/15/2026 | OAC1392C | Fight to Thrive: Through critical incidents | Passed | 0.0 | 1.50 |
+| 1/14/2026 | OAC4414C | Bad Hire, Big Consequences: Liability Lessons | Passed | 0.0 | 4.00 |
+| 1/14/2026 | OAC1794C | AI Training | Passed | 0.0 | 2.00 |
 | 1/12/2026 | GSP3111C | CEW (Taser) refresher | Passed | 0.0 | 1.00 |
 | 1/1/2026 | GSP2363C | PowerTime Schedule Training | Passed | 0.0 | 0.50 |
 | 10/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

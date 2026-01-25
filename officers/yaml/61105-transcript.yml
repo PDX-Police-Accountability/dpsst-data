@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2026
+  course: NGP2843C
+  title: Basic Tactical Medical Instructor Program
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 1/6/2026
   course: NGP4183C
   title: TASER 7 RECERT

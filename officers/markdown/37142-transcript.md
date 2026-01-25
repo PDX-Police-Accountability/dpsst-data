@@ -48,6 +48,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2026 | OAC1992C | Police Actions on Community Relations | Passed | 0.0 | 4.00 |
+| 1/15/2026 | OAC1250C | Silverton HS Swatting Call | Passed | 0.0 | 1.50 |
+| 1/15/2026 | OAC1392C | Fight to Thrive: Through critical incidents | Passed | 0.0 | 1.50 |
+| 1/15/2026 | OAC3673C | Leadership and Effective Followership | Passed | 0.0 | 1.00 |
+| 1/15/2026 | OAC1540C | Practical Actions for Reducing Misconduct | Passed | 0.0 | 3.00 |
 | 11/12/2025 | SPP0848C | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 11/3/2025 | SPP2016B | The Art of Effective Communication | Passed | 0.0 | 1.00 |
 | 11/3/2025 | SPP3287B | Foundations in Ethics | Passed | 0.0 | 1.00 |

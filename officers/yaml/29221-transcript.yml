@@ -119,6 +119,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2026
+  course: OAC1992C
+  title: Police Actions on Community Relations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/15/2026
+  course: OAC2673C
+  title: Ethical Leaders  Organizations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2026
+  course: OAC1250C
+  title: Silverton HS Swatting Call
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/15/2026
+  course: OAC1392C
+  title: 'Fight to Thrive: Through critical incidents'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/15/2026
+  course: OAC3855C
+  title: The Four Pillars Retirement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2026
+  course: OAC1540C
+  title: Practical Actions for Reducing Misconduct
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/14/2026
+  course: OAC4414C
+  title: 'Bad Hire, Big Consequences: Liability Lessons'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/14/2026
+  course: OAC1794C
+  title: AI Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/31/2025
   course: BNP4594C
   title: Axon Standards Training

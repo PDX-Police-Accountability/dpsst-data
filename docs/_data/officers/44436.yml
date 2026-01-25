@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/21/2026
+  course: PDP0898C
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/14/2026
   course: PDP2131C
   title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
