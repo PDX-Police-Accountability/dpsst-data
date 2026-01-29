@@ -166,6 +166,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2026
+  course: OSH1868C
+  title: ARIDE
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/15/2026
   course: OSH1883C
   title: Adult/Child CPR and First Aid

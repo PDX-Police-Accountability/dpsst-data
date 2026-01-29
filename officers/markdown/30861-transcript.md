@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/22/2026 | Deschutes County Sheriff's Office | Promotion | Sergeant |  |  |
 | 1/2/2024 | Deschutes County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 1/1/2024 | Out of State Employment | Resigned | Sergeant |  |  |
 | 2/20/2020 | Out of State Employment | Promotion | Sergeant |  |  |
@@ -45,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/22/2027 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 12/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2025 | BNS3114C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 11/30/2025 | BNS3127C | DCSO Policies: 4.41 and 5.14 | Passed | 0.0 | 1.00 |

@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/19/2026
+  course: PDS4308C
+  title: Taser 7
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/30/2025
   course: PDS3752C
   title: Firearms

@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2026
+  course: HDA1952C
+  title: Drug Unit Supervisor
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/19/2025
   course: PDS2306C
   title: Defensive Tactics

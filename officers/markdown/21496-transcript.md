@@ -61,6 +61,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2026 | OSH1868C | ARIDE | Instructed | 0.0 | 8.00 |
 | 1/15/2026 | OSH1883C | Adult/Child CPR and First Aid | Passed | 0.0 | 2.00 |
 | 1/15/2026 | OSH2268C | Adult/Child CPR and First Aid | Passed | 0.0 | 8.00 |
 | 12/17/2025 | PLS3226C | SFST Refresher | Instructed | 0.0 | 5.00 |

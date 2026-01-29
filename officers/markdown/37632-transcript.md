@@ -26,14 +26,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/15/2025 | Police Officer | Advanced | App Recd |  |  | 4/6/2027 |
-| 12/15/2025 | Police Officer | Basic | App Recd |  |  | 4/6/2027 |
-| 12/15/2025 | Police Officer | Intermediate | App Recd |  |  | 4/6/2027 |
-| 12/15/2025 | Police Officer | Supervisory | App Recd |  |  | 4/6/2027 |
-| 3/1/2025 | Police Officer | Advanced | Lapsed | 3/23/2010 |  |  |
-| 3/1/2025 | Police Officer | Basic | Lapsed | 6/12/2000 |  |  |
-| 3/1/2025 | Police Officer | Intermediate | Lapsed | 3/23/2010 |  |  |
-| 3/1/2025 | Police Officer | Supervisory | Lapsed | 9/28/2021 |  |  |
+| 1/27/2026 | Police Officer | Advanced | Reactivatd | 3/23/2010 |  |  |
+| 1/27/2026 | Police Officer | Basic | Reactivatd | 6/12/2000 |  |  |
+| 1/27/2026 | Police Officer | Intermediate | Reactivatd | 3/23/2010 |  |  |
+| 1/27/2026 | Police Officer | Supervisory | Reactivatd | 9/28/2021 |  |  |
 | 5/11/2023 | Instructor |  | Granted | 5/11/2023 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

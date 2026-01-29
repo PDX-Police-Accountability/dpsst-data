@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/23/2026 | OCS2111C | Marksmanship, Nov and Dec 2025 Monthly Firearms | Instructed | 0.0 | 3.00 |
+| 1/22/2026 | OCS4389C | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 12/23/2025 | OCS0401C | Low Light Shoot / No-Shoot Decision Making | Instructed | 0.0 | 30.00 |
 | 12/23/2025 | OCS0401C | Low Light Shoot / No-Shoot Decision Making | Passed | 0.0 | 1.00 |
 | 12/22/2025 | OCS4155C | 2025 4th Qtr Corrections Firearms | Instructed | 0.0 | 26.00 |

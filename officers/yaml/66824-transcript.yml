@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: 3/25/2027
 training_records:
+- date: 1/22/2026
+  course: REG2570C
+  title: INTOX 8000 (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/27/2025
   course: M10-23A
   title: DPSST Basic Police Course

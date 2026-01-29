@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/22/2026
+  agency: Deschutes County Sheriff's Office
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 1/2/2024
   agency: Deschutes County Sheriff's Office
   action: Hired
@@ -104,6 +110,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/22/2027
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 12/18/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
