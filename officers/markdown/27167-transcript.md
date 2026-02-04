@@ -22,8 +22,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 1/14/2026 | Police Officer | Basic | Expired | 2/23/1995 |  |  |
 | 2/10/2022 | Instructor |  | Granted | 2/10/2022 |  |  |
-| 4/14/2021 | Police Officer | Basic | Lapsed | 2/23/1995 | 1/14/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

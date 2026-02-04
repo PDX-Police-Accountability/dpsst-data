@@ -103,7 +103,6 @@
 | 3/7/2025 | PDP4258A | 2025 Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 3/7/2025 | VND0640B | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 2/7/2025 | PDP2962A | FBI-LEEDS Executive Leadership Institute | Passed | 0.0 | 25.00 |
-| 2/7/2025 | PDP1936B | 2025 FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 1/22/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 1/18/2025 | PDP1398A | 2025-1 City Att Legal Updates for Sep  Oct 2023 | Passed | 0.0 | 0.25 |
 | 1/18/2025 | PDP3324A | 2025-1 City Attorney Legal Updates for Nov 2023 | Passed | 0.0 | 0.75 |

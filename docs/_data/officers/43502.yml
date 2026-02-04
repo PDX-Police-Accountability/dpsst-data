@@ -447,12 +447,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
-- date: 2/7/2025
-  course: PDP1936B
-  title: 2025 FBI LEEDA Command Leadership Institute
-  status: Passed
-  score: '0.0'
-  hours: '28.00'
 - date: 1/22/2025
   course: PDP3257A
   title: 2025-1 Range Qualification Primary Firearm
