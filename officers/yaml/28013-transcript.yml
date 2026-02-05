@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2026
+  course: PSU4230C
+  title: Use of Force Policy and Application
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/28/2026
+  course: PSU3153C
+  title: Extreme Risk Protection Order Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/21/2026
   course: PSU0155C
   title: Defensive Tactics

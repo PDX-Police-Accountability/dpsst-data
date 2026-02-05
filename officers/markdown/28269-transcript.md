@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | BNP1097C | Organizational Health | Passed | 0.0 | 16.00 |
 | 12/31/2025 | BNP4594C | Axon Standards Training | Passed | 0.0 | 2.00 |
 | 12/31/2025 | BNP3089C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 12/31/2025 | BNP1077C | Electronic Search Warrant SOP | Passed | 0.0 | 0.50 |

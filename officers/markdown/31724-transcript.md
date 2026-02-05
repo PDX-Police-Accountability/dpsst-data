@@ -33,6 +33,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/29/2026 | 1/31/2028 |
 | Certification Cards | First Aid and CPR | 4/26/2024 | 4/26/2026 |
 | Code of Ethics | Signed | 2/2/2009 |  |
 ## Education
@@ -43,6 +44,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | BNS0469C | Arrest and Control | Passed | 0.0 | 2.00 |
+| 1/29/2026 | BNS4483C | First Aid/TCCC Review and Scenarios | Passed | 0.0 | 2.00 |
+| 1/29/2026 | BNS4451C | Online First Aid | Passed | 0.0 | 5.00 |
 | 12/20/2025 | BNS0533C | Critical Incident Debriefs | Passed | 0.0 | 3.00 |
 | 11/26/2025 | BNS1555C | (Police1) Airway Circulatory Anatomy Physiology | Passed | 0.0 | 2.00 |
 | 11/11/2025 | BNS0688C | WRAP refresher | Passed | 0.0 | 1.00 |

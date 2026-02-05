@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/14/2026
+  course: SAG2745C
+  title: Firerms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/11/2025
   course: SAG0233C
   title: Firearms training

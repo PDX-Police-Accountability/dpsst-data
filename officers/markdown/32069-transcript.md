@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2026 | SDP1945C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |
+| 1/28/2026 | SDP0241C | DV Legal update DDA Presentation | Passed | 0.0 | 1.50 |
 | 11/6/2025 | SDP2766C | Alison - Ethics in Law Enforcement Online Course | Passed | 0.0 | 3.00 |
 | 10/22/2025 | SDP4358C | Amber Alert  PREA | Passed | 0.0 | 1.00 |
 | 10/22/2025 | SDP3562C | DT's 2 vs 1 control tactics | Passed | 0.0 | 2.50 |

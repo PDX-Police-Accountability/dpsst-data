@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 11/24/2025
+  course: PDP0739C
+  title: G0191 Emergency Ops Center ICS Syst Interface
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 11/21/2025
   course: PDP2365C
   title: 2025-3 Range Qualification Primary Firearm

@@ -61,6 +61,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2026
+  course: HBP3193C
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/18/2026
+  course: HBP1860C
+  title: EVOC - PIT
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 12/30/2025
   course: MISCMAIN
   title: 2025 LE Basic 3-Year Maintenance
@@ -1448,6 +1460,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/29/2026
+  expiration_date: 1/29/2028
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2026

@@ -26,6 +26,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/30/2026 | 1/30/2028 |
+| Certification Cards | First Aid and CPR | 1/29/2026 | 1/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/24/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
@@ -37,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/30/2026 | PLS1613C | CPR/AED | Passed | 0.0 | 4.00 |
+| 1/29/2026 | OSH0438C | Adult/Child CPR and First Aid | Passed | 0.0 | 8.00 |
 | 12/17/2025 | OSH1258C | Defensive Tactics/Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
 | 10/16/2025 | OSH1857B | Defensive Tactics/ Taser 2nd Trimester | Instructed | 0.0 | 8.00 |
 | 10/13/2025 | OSH3118B | Defensive Tactics/ Taser 2nd Trimester | Instructed | 0.0 | 8.00 |

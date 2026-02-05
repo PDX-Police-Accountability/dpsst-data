@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2026
+  course: PDP0232C
+  title: 2026 Training Instructor Development
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 12/23/2025
   course: PDP3067C
   title: 2025 Federal Interaction Reporting

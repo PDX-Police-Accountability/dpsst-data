@@ -36,6 +36,42 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 1/29/2026
+  course: PDP1185C
+  title: ICS-100 Intro to Incident Command Syst
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/29/2026
+  course: PDP3144C
+  title: ICS-200 Basic Inc Command System for Init Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/29/2026
+  course: PDP2803C
+  title: IS-700 National Inc Manag Systems
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/28/2026
+  course: PDP4444C
+  title: FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 1/26/2026
+  course: PDP1707C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/22/2026
+  course: PDP1642C
+  title: FTEP PVO-EVOC Orientation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/20/2026
   course: PDP28751
   title: 2026 FTEP Policy and Procedure
@@ -48,5 +84,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-attribute_records: []
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/26/2026
+  expiration_date: 1/26/2028
 education_records: []

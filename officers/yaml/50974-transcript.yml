@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2026
+  course: OCP3005C
+  title: Night Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/28/2026
+  course: OCS3048C
+  title: Annual truck inspector LE refresher
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/21/2026
   course: OCP3095C
   title: Animal Crimes Investigations

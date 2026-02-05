@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/27/2026
+  course: OCP2394C
+  title: Low Light Night Range
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/21/2026
   course: OCP3095C
   title: Animal Crimes Investigations

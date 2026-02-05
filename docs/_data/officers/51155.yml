@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2026
+  course: PDP3214C
+  title: 2026 40mm Less Lethal New Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 1/9/2026
   course: PDP2369C
   title: 2026 Enhanced Crisis Intervention Team (ECIT) Cert

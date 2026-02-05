@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2026
+  course: OCS1848C
+  title: Striking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/23/2025
   course: OCS0401C
   title: Low Light Shoot / No-Shoot Decision Making

@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | OCP3005C | Night Range | Passed | 0.0 | 2.00 |
+| 1/28/2026 | OCS3048C | Annual truck inspector LE refresher | Passed | 0.0 | 3.00 |
 | 1/21/2026 | OCP3095C | Animal Crimes Investigations | Passed | 0.0 | 1.00 |
 | 1/14/2026 | OCP1082C | Emotional Activation | Passed | 0.0 | 0.25 |
 | 1/13/2026 | OCP4260C | SFST Refresher | Instructed | 0.0 | 4.00 |

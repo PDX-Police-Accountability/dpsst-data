@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2026 | PDP4444C | FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2025 | PDP0680C | FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 12/8/2025 | PDP1003C | 2025 IS ABLE (Video) | Passed | 0.0 | 1.75 |

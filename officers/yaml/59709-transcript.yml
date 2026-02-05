@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2026
+  course: BNS3329C
+  title: Internet Crimes Against Children 101
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/13/2026
   course: BNP1415C
   title: DFR, SAR, Drone Warrants, Case Law Update

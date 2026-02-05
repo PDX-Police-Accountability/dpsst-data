@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | MFN4328C | DNA Collection and CODIS | Passed | 0.0 | 2.00 |
+| 1/28/2026 | MFN0909C | Mental Health Overview | Passed | 0.0 | 0.50 |
+| 1/28/2026 | MFN2656C | DOC Dashboard Overview | Passed | 0.0 | 0.50 |
 | 1/21/2026 | MFN0510C | Social Media Overview | Passed | 0.0 | 0.75 |
 | 1/20/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 1/20/2026 | MFN4474C | Annual UoF training/UoF report writing | Passed | 0.0 | 2.00 |

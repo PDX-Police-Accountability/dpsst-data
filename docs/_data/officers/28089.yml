@@ -76,40 +76,40 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/18/2020
-  certificate: Police Officer
-  level: Management
-  status: Granted
-  certificate_date: 6/18/2020
-  expiration_date: 1/6/2026
-  probation_date: ''
-- status_date: 10/31/2011
-  certificate: Police Officer
-  level: Supervisory
-  status: Granted
-  certificate_date: 10/31/2011
-  expiration_date: 1/6/2026
-  probation_date: ''
-- status_date: 9/8/1999
+- status_date: 1/6/2026
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 9/8/1999
-  expiration_date: 1/6/2026
+  expiration_date: 10/6/2030
   probation_date: ''
-- status_date: 2/25/1997
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 2/25/1997
-  expiration_date: 1/6/2026
-  probation_date: ''
-- status_date: 11/23/1993
+- status_date: 1/6/2026
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 11/23/1993
-  expiration_date: 1/6/2026
+  expiration_date: 10/6/2030
+  probation_date: ''
+- status_date: 1/6/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 2/25/1997
+  expiration_date: 10/6/2030
+  probation_date: ''
+- status_date: 1/6/2026
+  certificate: Police Officer
+  level: Management
+  status: Lapsed
+  certificate_date: 6/18/2020
+  expiration_date: 10/6/2030
+  probation_date: ''
+- status_date: 1/6/2026
+  certificate: Police Officer
+  level: Supervisory
+  status: Lapsed
+  certificate_date: 10/31/2011
+  expiration_date: 10/6/2030
   probation_date: ''
 training_records:
 - date: 7/28/2025
@@ -5085,14 +5085,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/28/2025
   expiration_date: 5/28/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2027
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/31/2011

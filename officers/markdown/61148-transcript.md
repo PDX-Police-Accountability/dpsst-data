@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2026 | PDP0232C | 2026 Training Instructor Development | Passed | 0.0 | 28.00 |
 | 12/18/2025 | PDP3240C | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
 | 12/18/2025 | PDP2108C | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
 | 12/18/2025 | PDP1944C | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/28/2026
+  course: STP1495C
+  title: RAID Team Training-Team Movements
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/13/2026
   course: STP4521C
   title: Night Shooting Qualification and Training

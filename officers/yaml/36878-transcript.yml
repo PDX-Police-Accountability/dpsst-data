@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2026
+  course: BVP2168C
+  title: Modern Lessons in Leadership for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/16/2026
   course: BVP2660C
   title: Bloodborne Pathogens

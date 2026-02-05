@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2026
+  course: BVP2124C
+  title: Threat Discretion/UTM Range 013026PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/16/2026
   course: BVP2660C
   title: Bloodborne Pathogens

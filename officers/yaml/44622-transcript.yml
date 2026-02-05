@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2026
+  course: PLS1613C
+  title: CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/29/2026
+  course: OSH0438C
+  title: Adult/Child CPR and First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/17/2025
   course: OSH1258C
   title: Defensive Tactics/Taser 2nd Trimester
@@ -3069,6 +3081,14 @@ training_records:
   score: '0.0'
   hours: '32.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/30/2026
+  expiration_date: 1/30/2028
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/29/2026
+  expiration_date: 1/31/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

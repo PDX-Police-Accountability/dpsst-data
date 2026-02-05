@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2026 | OCA3663C | MCT - Digital Search Warrants | Passed | 0.0 | 2.00 |
 | 12/3/2025 | WLP4530C | Search and Seizure | Passed | 0.0 | 1.50 |
 | 11/3/2025 | WLP1689B | Duty to Intercede | Passed | 0.0 | 1.00 |
 | 10/29/2025 | OCA3429B | MCT - Amber Alert System | Passed | 0.0 | 1.00 |

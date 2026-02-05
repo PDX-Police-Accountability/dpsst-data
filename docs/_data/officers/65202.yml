@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/27/2026
+  course: PDP3783C
+  title: 2026 Legal Interpreting in Policing In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/2/2025
   course: PDP0762C
   title: Emergency Operations Plan (EOP)

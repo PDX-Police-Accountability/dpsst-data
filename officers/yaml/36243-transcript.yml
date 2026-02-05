@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2026
+  course: HBS3954C
+  title: Rifle Updates
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/18/2025
   course: HBS0506C
   title: Virtual - WCSO Deflection Training

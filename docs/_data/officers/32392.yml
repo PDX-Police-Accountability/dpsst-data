@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/28/2026
+  course: TGP0109C
+  title: Cautious Clearing/Search Warrant Service Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/31/2025
   course: TGP0352C
   title: Path of the Guardian - Legal Updates

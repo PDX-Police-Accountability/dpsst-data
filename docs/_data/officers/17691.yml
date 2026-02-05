@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/28/2026
+  course: OCS3048C
+  title: Annual truck inspector LE refresher
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/12/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

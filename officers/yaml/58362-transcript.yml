@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/28/2026
+  course: OCS2184C
+  title: Marksmanship, Dec 2025 Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/26/2025
   course: OCS1091C
   title: Taser

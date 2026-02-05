@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/22/2026
+  course: PDP2375C
+  title: NW Peer Support Conference Roster
+  status: Passed
+  score: '0.0'
+  hours: '13.75'
 - date: 12/22/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

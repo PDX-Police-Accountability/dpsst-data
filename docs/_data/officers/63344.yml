@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/28/2026
+  course: STP1495C
+  title: RAID Team Training-Team Movements
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2025
+  course: VRP2411C
+  title: Lexipol Daily Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 12/10/2025
   course: STP0748C
   title: Interview and Interrogation

@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | PSU4230C | Use of Force Policy and Application | Passed | 0.0 | 1.00 |
+| 1/28/2026 | PSU3153C | Extreme Risk Protection Order Conference | Passed | 0.0 | 8.00 |
 | 1/21/2026 | PSU0155C | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/31/2025 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 0.50 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

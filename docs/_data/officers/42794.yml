@@ -98,6 +98,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/28/2026
+  course: OCS2184C
+  title: Marksmanship, Dec 2025 Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/23/2026
   course: OCS2111C
   title: Marksmanship, Nov and Dec 2025 Monthly Firearms

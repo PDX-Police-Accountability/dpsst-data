@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/15/2026 | PDP1381C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/8/2026 | PDP0675C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/31/2025 | PDP0682C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 12/31/2025 | PDP0682C | 2025 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |

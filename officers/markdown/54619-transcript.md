@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/29/2026 | 1/29/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 3/19/2024 | 3/19/2026 |
@@ -41,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
+| 1/18/2026 | HBP1860C | EVOC - PIT | Instructed | 0.0 | 20.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/23/2025 | HBP4397C | PoliceOne Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
 | 11/5/2025 | HBP3912C | ODT - Working from Cleared Areas | Passed | 0.0 | 1.00 |

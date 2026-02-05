@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/21/2026 | PDP4531C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 1/8/2026 | PDP4344C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 12/22/2025 | PDP0251C | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.50 |
 | 12/22/2025 | PDP0928C | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |

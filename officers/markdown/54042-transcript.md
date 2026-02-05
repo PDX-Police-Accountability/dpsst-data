@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2026 | OCS1848C | Striking | Passed | 0.0 | 1.00 |
 | 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
 | 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |
 | 11/26/2025 | OCS3209C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |

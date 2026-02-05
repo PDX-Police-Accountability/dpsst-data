@@ -34,6 +34,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/29/2026 | 1/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 4/16/2024 |  |
@@ -47,6 +48,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/22/2027 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 1/29/2026 | BNS0469C | Arrest and Control | Passed | 0.0 | 2.00 |
+| 1/29/2026 | BNS4483C | First Aid/TCCC Review and Scenarios | Passed | 0.0 | 2.00 |
+| 1/29/2026 | BNS4451C | Online First Aid | Passed | 0.0 | 5.00 |
 | 12/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2025 | BNS3114C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 11/30/2025 | BNS3127C | DCSO Policies: 4.41 and 5.14 | Passed | 0.0 | 1.00 |
@@ -68,6 +72,7 @@
 | 9/3/2025 | BNS2480B | 40MM | Passed | 0.0 | 1.00 |
 | 9/3/2025 | BNS0801B | Pepperball | Instructed | 0.0 | 7.00 |
 | 9/3/2025 | BNS3718B | Firearms | Passed | 0.0 | 2.00 |
+| 8/10/2025 | BNS4551C | Spit Mask | Passed | 0.0 | 1.00 |
 | 7/14/2025 | BNS3425B | July Firearms | Passed | 0.0 | 2.00 |
 | 7/14/2025 | BNS2038B | July Firearms | Passed | 0.0 | 2.00 |
 | 7/14/2025 | BNS1111B | July Arrest and Control | Passed | 0.0 | 2.00 |

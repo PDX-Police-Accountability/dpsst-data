@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/14/2026 | SAG2745C | Firerms Training | Instructed | 0.0 | 7.00 |
 | 12/11/2025 | SAG0233C | Firearms training | Passed | 0.0 | 1.00 |
 | 12/11/2025 | SAG0233C | Firearms training | Instructed | 0.0 | 3.00 |
 | 11/4/2025 | SAG2131C | Glock Armorers Course | Passed | 0.0 | 8.00 |

@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/22/2026
+  course: BNP0657C
+  title: SWAT- Less lethal /chemical munitions tests
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/22/2026
+  course: BNP4460C
+  title: SWAT- Distraction Devices Test
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/22/2026
+  course: BNP2467C
+  title: SWAT- Weapons Qualifications and proficiency
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 1/8/2026
   course: BNP1331C
   title: SWAT- Active Threat Response

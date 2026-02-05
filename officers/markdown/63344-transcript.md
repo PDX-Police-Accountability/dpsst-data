@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2026 | STP1495C | RAID Team Training-Team Movements | Passed | 0.0 | 4.00 |
+| 12/31/2025 | VRP2411C | Lexipol Daily Training Bulletin | Passed | 0.0 | 12.00 |
 | 12/10/2025 | STP0748C | Interview and Interrogation | Passed | 0.0 | 7.00 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2025 | SCP0463C | MILO Scenarios | Passed | 0.0 | 1.00 |

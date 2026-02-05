@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2025 | TDP4330C | STOP, ethnic, sexual harrassment reporting | Passed | 0.0 | 0.50 |
 | 12/15/2025 | TDP0384C | Implicit Bias 2025 | Passed | 0.0 | 1.00 |
 | 12/14/2025 | TDP3618C | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 12/9/2025 | TDP0765C | Taser10 Operators Course Online/On-site Practical | Passed | 0.0 | 8.00 |

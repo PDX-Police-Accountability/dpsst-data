@@ -31,6 +31,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/29/2026 | 1/29/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 2/1/2024 | 2/1/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
@@ -43,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 10/15/2025 | HBP4183C | Range | Passed | 0.0 | 5.00 |
 | 10/14/2025 | HBP3698B | Hillsboro Police Threat Assessment Team Training | Passed | 0.0 | 1.50 |
 | 9/26/2025 | HBP2563B | SWAT Command Decision Making  Leadership | Passed | 0.0 | 40.00 |

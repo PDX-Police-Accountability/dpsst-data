@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2026
+  course: BNP1097C
+  title: Organizational Health
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/16/2026
   course: OAC1992C
   title: Police Actions on Community Relations
