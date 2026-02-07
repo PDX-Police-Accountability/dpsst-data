@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/2/2026 | VND0692C | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/4/2025 | OCP4242C | Lexipol Daily Training Bulletins | Passed | 0.0 | 7.25 |
 | 11/20/2025 | OCP4190C | Low Light Firearms | Passed | 0.0 | 1.50 |
 | 11/17/2025 | OCP1506C | Search and Seizure | Passed | 0.0 | 0.25 |

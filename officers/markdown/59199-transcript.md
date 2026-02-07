@@ -43,6 +43,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | EGP3965C | SWAT Crisis Entry/Controlled Pace/Scenarios | Passed | 0.0 | 8.00 |
+| 1/29/2026 | EGP0932C | SWAT Crisis Entry/Controlled Pace/Scenarios | Passed | 0.0 | 8.00 |
+| 1/29/2026 | EGP2996C | SWAT Firearms Skills | Passed | 0.0 | 1.00 |
+| 1/28/2026 | EGP3529C | SWAT Overland Searches - Drone Intergration | Passed | 0.0 | 8.00 |
+| 1/28/2026 | EGP0909C | SWAT Overland Searches - Drone Intergration | Passed | 0.0 | 8.00 |
 | 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 1/15/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 1/15/2026 | EGP2620C | State of Oregon DOJ Domestic Violence Updates | Passed | 0.0 | 4.00 |

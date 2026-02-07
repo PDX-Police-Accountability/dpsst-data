@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/4/2026
+  course: MKL0677C
+  title: DAC 2026 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2026
+  course: MKL4289C
+  title: DAS 2026 Immigration Law Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/17/2025
   course: MKL2828C
   title: OLCC Administrative Rules Update

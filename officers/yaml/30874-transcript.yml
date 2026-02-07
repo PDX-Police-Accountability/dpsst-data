@@ -93,6 +93,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 1/26/2026
+  course: GSP1878C
+  title: vMobile Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/12/2026
   course: GSP3111C
   title: CEW (Taser) refresher

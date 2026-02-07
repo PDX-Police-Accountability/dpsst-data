@@ -39,6 +39,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2026 | BNS3329C | Internet Crimes Against Children 101 | Passed | 0.0 | 8.00 |
+| 1/27/2026 | BNP2052C | Below 100 / speed and vehicle related deaths | Passed | 0.0 | 1.00 |
+| 1/27/2026 | BNP2067C | Self-Regulation | Passed | 0.0 | 0.50 |
+| 1/27/2026 | BNP2379C | Building clears / active threat / hostage rescue | Passed | 0.0 | 2.00 |
+| 1/27/2026 | BNP2901C | SFST refresher | Passed | 0.0 | 4.00 |
 | 1/13/2026 | BNP1415C | DFR, SAR, Drone Warrants, Case Law Update | Passed | 0.0 | 7.00 |
 | 12/31/2025 | BNP3089C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 12/31/2025 | BNP4594C | Axon Standards Training | Passed | 0.0 | 2.00 |

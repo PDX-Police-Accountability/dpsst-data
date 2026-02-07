@@ -49,6 +49,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/27/2026
+  course: BNP2052C
+  title: Below 100 / speed and vehicle related deaths
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/27/2026
+  course: BNP2067C
+  title: Self-Regulation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/27/2026
+  course: BNP2379C
+  title: Building clears / active threat / hostage rescue
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/27/2026
+  course: BNP2901C
+  title: SFST refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/13/2026
   course: BNP1415C
   title: DFR, SAR, Drone Warrants, Case Law Update

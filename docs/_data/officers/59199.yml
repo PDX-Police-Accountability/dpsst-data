@@ -74,6 +74,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2026
+  course: EGP3965C
+  title: SWAT Crisis Entry/Controlled Pace/Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/29/2026
+  course: EGP0932C
+  title: SWAT Crisis Entry/Controlled Pace/Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/29/2026
+  course: EGP2996C
+  title: SWAT Firearms Skills
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/28/2026
+  course: EGP3529C
+  title: SWAT Overland Searches - Drone Intergration
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/28/2026
+  course: EGP0909C
+  title: SWAT Overland Searches - Drone Intergration
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/15/2026
   course: EGP1672C
   title: Bloodborne Pathogens

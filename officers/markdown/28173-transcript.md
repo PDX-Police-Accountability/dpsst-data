@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/4/2026 | MKL0677C | DAC 2026 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 1/29/2026 | MKL4289C | DAS 2026 Immigration Law Refresher | Passed | 0.0 | 1.00 |
 | 12/17/2025 | MKL2828C | OLCC Administrative Rules Update | Passed | 0.0 | 1.00 |
 | 12/17/2025 | MKL4317C | OLCC Administrative Rules Update | Passed | 0.0 | 1.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

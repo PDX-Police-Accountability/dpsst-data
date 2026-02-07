@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/26/2026 | GSP1878C | vMobile Training | Passed | 0.0 | 0.25 |
+| 1/19/2026 | GSP0676C | UAS Monthly Training | Passed | 0.0 | 8.00 |
 | 1/12/2026 | GSP3111C | CEW (Taser) refresher | Passed | 0.0 | 1.00 |
 | 1/1/2026 | GSP2363C | PowerTime Schedule Training | Passed | 0.0 | 0.50 |
 | 11/17/2025 | GSP3856C | UAS Monthly Training | Passed | 0.0 | 10.00 |
