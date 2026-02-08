@@ -5,14 +5,14 @@
 | dpsst_identifier | 49709 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Captain |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 2/3/2025 | Portland Police Bureau | Return LOA | Police Off |  |  |
+| 2/3/2025 | Portland Police Bureau | Return LOA | Captain |  |  |
 | 5/29/2024 | Portland Police Bureau | LOA | Captain |  |  |
 | 4/25/2024 | Portland Police Bureau | Demotion | Captain |  |  |
 | 7/20/2023 | Portland Police Bureau | Promotion | Commander |  |  |

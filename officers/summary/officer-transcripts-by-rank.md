@@ -49,7 +49,6 @@
 | * MISSING | 21430 |  |  |  |  |  | [md](../markdown/21430-transcript.md) - [yaml](../yaml/21430-transcript.yml) |
 | * MISSING | 21603 |  |  |  |  |  | [md](../markdown/21603-transcript.md) - [yaml](../yaml/21603-transcript.yml) |
 | * MISSING | 21689 |  |  |  |  |  | [md](../markdown/21689-transcript.md) - [yaml](../yaml/21689-transcript.yml) |
-| * MISSING | 21707 |  |  |  |  |  | [md](../markdown/21707-transcript.md) - [yaml](../yaml/21707-transcript.yml) |
 | * MISSING | 21775 |  |  |  |  |  | [md](../markdown/21775-transcript.md) - [yaml](../yaml/21775-transcript.yml) |
 | * MISSING | 22234 |  |  |  |  |  | [md](../markdown/22234-transcript.md) - [yaml](../yaml/22234-transcript.yml) |
 | * MISSING | 22282 |  |  |  |  |  | [md](../markdown/22282-transcript.md) - [yaml](../yaml/22282-transcript.yml) |
@@ -229,6 +228,7 @@
 | Burley, Christopher H. | 45975 | Portland Police Bureau | Active | Captain | Promotion | 2025-01-16 | [md](../markdown/45975-transcript.md) - [yaml](../yaml/45975-transcript.yml) |
 | Sheppard, Nathan A. | 46619 | Portland Police Bureau | Active | Captain | Promotion | 2025-08-14 | [md](../markdown/46619-transcript.md) - [yaml](../yaml/46619-transcript.yml) |
 | Jackson, David | 47782 | Portland Police Bureau | Active | Captain | Promotion | 2025-05-22 | [md](../markdown/47782-transcript.md) - [yaml](../yaml/47782-transcript.yml) |
+| Crooker, James W. | 49709 | Portland Police Bureau | Active | Captain | Return LOA | 2025-02-03 | [md](../markdown/49709-transcript.md) - [yaml](../yaml/49709-transcript.yml) |
 | Reese, Michael W. | 23000 | Portland Police Bureau | Inactive | Chief | Retired | 2015-01-02 | [md](../markdown/23000-transcript.md) - [yaml](../yaml/23000-transcript.yml) |
 | Day, Robert H. | 23474 | Portland Police Bureau | Active | Chief | Hired | 2023-10-11 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
 | Outlaw, Danielle M. | 58095 | Portland Police Bureau | Inactive | Chief | Resigned | 2019-12-31 | [md](../markdown/58095-transcript.md) - [yaml](../yaml/58095-transcript.yml) |
@@ -249,6 +249,7 @@
 | Coleman, Barbara A. | 20108 | Portland Police Bureau | Active | Civilian Employee | Hired | 1987-02-19 | [md](../markdown/20108-transcript.md) - [yaml](../yaml/20108-transcript.yml) |
 | Mason, Christine S. | 20384 | Portland Police Bureau | Active | Civilian Employee | Reclassed | 1990-10-11 | [md](../markdown/20384-transcript.md) - [yaml](../yaml/20384-transcript.yml) |
 | Geiger, Bert L. | 21285 | Portland Police Bureau | Active | Civilian Employee | Reclassed | 2005-03-01 | [md](../markdown/21285-transcript.md) - [yaml](../yaml/21285-transcript.yml) |
+| Rose, Jack D. | 21707 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1994-09-30 | [md](../markdown/21707-transcript.md) - [yaml](../yaml/21707-transcript.yml) |
 | Veldink, Ralph D. | 22058 | Portland Police Bureau | Active | Civilian Employee | Hired | 1988-10-03 | [md](../markdown/22058-transcript.md) - [yaml](../yaml/22058-transcript.yml) |
 | Wong, Johnny F. | 22235 | Portland Police Bureau | Active | Civilian Employee | Hired | 1988-12-08 | [md](../markdown/22235-transcript.md) - [yaml](../yaml/22235-transcript.yml) |
 | Rendsland, Kimberly A. | 22821 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1989-09-24 | [md](../markdown/22821-transcript.md) - [yaml](../yaml/22821-transcript.yml) |
@@ -920,7 +921,6 @@
 | Kemmer, William J. | 49537 | Portland Police Bureau | Active | Police Officer | Hired | 2015-05-28 | [md](../markdown/49537-transcript.md) - [yaml](../yaml/49537-transcript.yml) |
 | Lovato, Dominic | 49571 | Portland Police Bureau | Active | Police Officer | Hired | 2008-06-12 | [md](../markdown/49571-transcript.md) - [yaml](../yaml/49571-transcript.yml) |
 | Holsti, Israel E. | 49650 | Portland Police Bureau | Active | Police Officer | Hired | 2008-07-17 | [md](../markdown/49650-transcript.md) - [yaml](../yaml/49650-transcript.yml) |
-| Crooker, James W. | 49709 | Portland Police Bureau | Active | Police Officer | Return LOA | 2025-02-03 | [md](../markdown/49709-transcript.md) - [yaml](../yaml/49709-transcript.yml) |
 | Hansen, Michael J. | 49732 | Portland Police Bureau | Active | Police Officer | Hired | 2008-08-14 | [md](../markdown/49732-transcript.md) - [yaml](../yaml/49732-transcript.yml) |
 | Risley, Lawrence G. | 49793 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2010-07-24 | [md](../markdown/49793-transcript.md) - [yaml](../yaml/49793-transcript.yml) |
 | Harris, Todd W. | 49823 | Portland Police Bureau | Inactive | Police Officer | Layoff | 2022-04-01 | [md](../markdown/49823-transcript.md) - [yaml](../yaml/49823-transcript.yml) |

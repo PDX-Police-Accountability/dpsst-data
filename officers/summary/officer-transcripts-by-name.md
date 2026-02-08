@@ -49,7 +49,6 @@
 | * MISSING | 21430 |  |  |  |  |  | [md](../markdown/21430-transcript.md) - [yaml](../yaml/21430-transcript.yml) |
 | * MISSING | 21603 |  |  |  |  |  | [md](../markdown/21603-transcript.md) - [yaml](../yaml/21603-transcript.yml) |
 | * MISSING | 21689 |  |  |  |  |  | [md](../markdown/21689-transcript.md) - [yaml](../yaml/21689-transcript.yml) |
-| * MISSING | 21707 |  |  |  |  |  | [md](../markdown/21707-transcript.md) - [yaml](../yaml/21707-transcript.yml) |
 | * MISSING | 21775 |  |  |  |  |  | [md](../markdown/21775-transcript.md) - [yaml](../yaml/21775-transcript.yml) |
 | * MISSING | 22234 |  |  |  |  |  | [md](../markdown/22234-transcript.md) - [yaml](../yaml/22234-transcript.yml) |
 | * MISSING | 22282 |  |  |  |  |  | [md](../markdown/22282-transcript.md) - [yaml](../yaml/22282-transcript.yml) |
@@ -521,7 +520,7 @@
 | Crockett, William J. | 29985 | Portland Police Bureau | Inactive | Detective | Resigned | 2022-01-05 | [md](../markdown/29985-transcript.md) - [yaml](../yaml/29985-transcript.yml) |
 | Cronin, Lawrence K. | 60815 | Portland Police Bureau | Active | Police Officer | Hired | 2020-03-26 | [md](../markdown/60815-transcript.md) - [yaml](../yaml/60815-transcript.yml) |
 | Cronkhite, Corey J. | 57090 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-03-28 | [md](../markdown/57090-transcript.md) - [yaml](../yaml/57090-transcript.yml) |
-| Crooker, James W. | 49709 | Portland Police Bureau | Active | Police Officer | Return LOA | 2025-02-03 | [md](../markdown/49709-transcript.md) - [yaml](../yaml/49709-transcript.yml) |
+| Crooker, James W. | 49709 | Portland Police Bureau | Active | Captain | Return LOA | 2025-02-03 | [md](../markdown/49709-transcript.md) - [yaml](../yaml/49709-transcript.yml) |
 | Cropp, Carson F. | 64482 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64482-transcript.md) - [yaml](../yaml/64482-transcript.yml) |
 | Cross, Jonathan P. | 66611 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-10-17 | [md](../markdown/66611-transcript.md) - [yaml](../yaml/66611-transcript.yml) |
 | Crouchley, Angela M. | 62008 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62008-transcript.md) - [yaml](../yaml/62008-transcript.yml) |
@@ -1459,6 +1458,7 @@
 | Romero Velazco, Arnoldo | 64868 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64868-transcript.md) - [yaml](../yaml/64868-transcript.yml) |
 | Romero, John M. | 46623 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-05-27 | [md](../markdown/46623-transcript.md) - [yaml](../yaml/46623-transcript.yml) |
 | Romine, Stephanie L. | 45023 | Portland Police Bureau | Active | Civilian Employee | Hired | 2004-08-26 | [md](../markdown/45023-transcript.md) - [yaml](../yaml/45023-transcript.yml) |
+| Rose, Jack D. | 21707 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1994-09-30 | [md](../markdown/21707-transcript.md) - [yaml](../yaml/21707-transcript.yml) |
 | Rosenbohm, Bennett W. | 60377 | Portland Police Bureau | Active | Police Officer | Hired | 2019-10-03 | [md](../markdown/60377-transcript.md) - [yaml](../yaml/60377-transcript.yml) |
 | Ross, Alexandra S. | 56566 | Portland Police Bureau | Active | Police Officer | Hired | 2016-10-20 | [md](../markdown/56566-transcript.md) - [yaml](../yaml/56566-transcript.yml) |
 | Rossetto, Catherine M. | 35807 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-06 | [md](../markdown/35807-transcript.md) - [yaml](../yaml/35807-transcript.yml) |
