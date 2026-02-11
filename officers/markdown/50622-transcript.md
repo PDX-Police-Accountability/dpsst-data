@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2026 | 00940C | Ethical Behavior For Local Government | Passed | 0.0 | 0.75 |
+| 2/5/2026 | OCP1421C | Ethical Behavior For Local Government | Passed | 0.0 | 0.75 |
 | 1/27/2026 | OCP2394C | Low Light Night Range | Instructed | 0.0 | 3.00 |
 | 1/21/2026 | OCP3095C | Animal Crimes Investigations | Passed | 0.0 | 1.00 |
 | 1/20/2026 | OCP3219C | Firearms/Use of Force | Instructed | 0.0 | 8.00 |

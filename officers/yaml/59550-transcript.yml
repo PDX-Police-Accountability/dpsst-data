@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/5/2026
+  course: BNP2413C
+  title: SWAT- Building Clearing
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/22/2026
   course: BNP0657C
   title: SWAT- Less lethal /chemical munitions tests

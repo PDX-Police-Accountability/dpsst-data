@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 1/14/2026
+  course: PDP3857C
+  title: 2026 Crisis Negotiation Team (CNT) Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/23/2025
   course: PDP3067C
   title: 2025 Federal Interaction Reporting

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/2/2026
+  agency: Gresham Police Department
+  action: Hired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 2/2/2023
   agency: Portland Police Bureau
   action: Promotion

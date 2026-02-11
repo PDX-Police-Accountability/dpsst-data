@@ -49,6 +49,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/5/2026
+  course: 41698C
+  title: Firearm qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/5/2026
+  course: MFN3248C
+  title: Firearm qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/29/2026
   course: MFN4328C
   title: DNA Collection and CODIS

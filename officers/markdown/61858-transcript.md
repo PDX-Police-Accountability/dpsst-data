@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2026 | 41698C | Firearm qualifications | Passed | 0.0 | 0.50 |
+| 2/5/2026 | MFN3248C | Firearm qualifications | Passed | 0.0 | 0.50 |
 | 1/29/2026 | MFN4328C | DNA Collection and CODIS | Passed | 0.0 | 2.00 |
 | 1/28/2026 | MFN0909C | Mental Health Overview | Passed | 0.0 | 0.50 |
 | 1/28/2026 | MFN2656C | DOC Dashboard Overview | Passed | 0.0 | 0.50 |

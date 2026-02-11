@@ -55,6 +55,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.00'
+- date: 1/29/2026
+  course: NGP0545C
+  title: Search and Seizure Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/15/2026
   course: NGP2843C
   title: Basic Tactical Medical Instructor Program

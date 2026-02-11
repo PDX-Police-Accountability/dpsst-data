@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/3/2026
+  course: VND2967C
+  title: Trauma Informed Response Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/9/2025
   course: PDN2553C
   title: CPR/1st Aid Infant to Adult

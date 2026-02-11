@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | PDP1254C | 2026 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 12/5/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/4/2025 | PDP1273C | PPB SFST Refresher Training | Instructed | 0.0 | 4.00 |
 | 11/13/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

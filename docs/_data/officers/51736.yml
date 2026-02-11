@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/3/2026
+  course: PDP4427C
+  title: 2026 Red Dot Sight for Pistol Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 1/29/2026
   course: PDP1290C
   title: 2026 SERT Training - SCENARIO

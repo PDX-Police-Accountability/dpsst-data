@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2026 | VND2967C | Trauma Informed Response Training | Passed | 0.0 | 7.00 |
 | 12/9/2025 | PDN2553C | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 11/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |

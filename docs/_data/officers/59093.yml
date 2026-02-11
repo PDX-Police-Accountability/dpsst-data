@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/3/2026
+  course: PDP4427C
+  title: 2026 Red Dot Sight for Pistol Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 5/28/2025
   course: PDP2267B
   title: ORS 181A.440 Airways Part 1

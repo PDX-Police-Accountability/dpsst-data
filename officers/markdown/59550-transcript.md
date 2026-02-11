@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2026 | BNP2413C | SWAT- Building Clearing | Passed | 0.0 | 8.00 |
 | 1/22/2026 | BNP0657C | SWAT- Less lethal /chemical munitions tests | Passed | 0.0 | 1.00 |
 | 1/22/2026 | BNP4460C | SWAT- Distraction Devices Test | Passed | 0.0 | 0.50 |
 | 1/22/2026 | BNP2467C | SWAT- Weapons Qualifications and proficiency | Passed | 0.0 | 6.50 |

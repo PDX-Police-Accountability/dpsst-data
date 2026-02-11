@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/2/2026 | Gresham Police Department | Hired | Lieutenant |  |  |
 | 2/2/2023 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 1/14/2016 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/1/2014 | DPSST Use Only | InstrApp |  |  | AcadTrng |

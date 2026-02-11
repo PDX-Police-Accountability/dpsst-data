@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/29/2026
+  course: PDP1254C
+  title: 2026 Standard Field Sobriety Test (SFST) Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/27/2026
   course: PDP3783C
   title: 2026 Legal Interpreting in Policing In-Service

@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/16/2026
+  course: SMS4442C
+  title: Case Law Review
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/29/2025
   course: PDP3067C
   title: 2025 Federal Interaction Reporting

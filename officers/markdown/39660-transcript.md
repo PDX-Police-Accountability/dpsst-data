@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | PDP3670C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 1/21/2026 | PDP4531C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 1/8/2026 | PDP4344C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 12/23/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

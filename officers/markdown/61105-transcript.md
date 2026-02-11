@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/3/2026 | NGP0895C | Tourniquet Training Drills | Instructed | 0.0 | 1.00 |
 | 2/3/2026 | NGP1360C | Tourniquet Training Drills | Instructed | 0.0 | 1.00 |
+| 1/29/2026 | NGP0545C | Search and Seizure Legal Updates | Passed | 0.0 | 2.00 |
 | 1/15/2026 | NGP2843C | Basic Tactical Medical Instructor Program | Passed | 0.0 | 24.00 |
 | 1/6/2026 | NGP4183C | TASER 7 RECERT | Instructed | 0.0 | 1.00 |
 | 11/13/2025 | NGP3330C | Defensive Tactics | Passed | 0.0 | 3.00 |
