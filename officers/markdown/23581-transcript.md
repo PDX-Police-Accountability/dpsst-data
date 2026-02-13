@@ -4,7 +4,7 @@
 | name | Thorsen, Erick M. |
 | dpsst_identifier | 23581 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/28/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 9/9/1993 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/31/1993 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 2/21/1990 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/7/2011 | Police Officer | Advanced | Granted | 10/7/2011 |  |  |
-| 10/7/2011 | Police Officer | Intermediate | Granted | 10/7/2011 |  |  |
-| 6/17/1994 | Police Officer | Basic | Granted | 6/17/1994 |  |  |
+| 10/7/2011 | Police Officer | Advanced | Granted | 10/7/2011 | 4/28/2026 |  |
+| 10/7/2011 | Police Officer | Intermediate | Granted | 10/7/2011 | 4/28/2026 |  |
+| 6/17/1994 | Police Officer | Basic | Granted | 6/17/1994 | 4/28/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
