@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 2/11/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 9/13/2024
   certificate: Police Officer
   level: Basic
@@ -1131,4 +1138,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 5/15/2023
   expiration_date: ''
-education_records: []
+education_records:
+- date: 5/3/1996
+  degree: Masters Arts
+  school: George Fox University
+  major: ''
+  hours: '36.0'
+- date: 4/28/1995
+  degree: Bachelor Science
+  school: George Fox University
+  major: Health Professions
+  hours: '129.0'

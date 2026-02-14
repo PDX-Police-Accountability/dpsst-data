@@ -41,6 +41,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/28/2026 | SDP1945C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |
 | 1/28/2026 | SDP0241C | DV Legal update DDA Presentation | Passed | 0.0 | 1.50 |
+| 1/28/2026 | SDP0406C | Contemporary Diversity, Equity, Inclusion Concerns | Passed | 0.0 | 3.00 |
+| 1/28/2026 | SDP0965C | Bloodborne Pathogens - CIS Learn Portal | Passed | 0.0 | 1.00 |
 | 1/14/2026 | SDP1962C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |
 | 1/14/2026 | SDP0188C | DV Legal update DDA Presentation | Passed | 0.0 | 1.50 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

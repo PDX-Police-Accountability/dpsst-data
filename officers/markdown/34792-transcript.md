@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/10/2026 | TAP1689C | Eagle Point Officer Involved Shooting review | Passed | 0.0 | 1.50 |
 | 12/31/2025 | TAP4559C | LEXIPOL Daily Training Bulletins Jan1-Dec 31 2025 | Passed | 0.0 | 11.50 |
 | 11/18/2025 | ADP0306C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 11/12/2025 | RRP4286C | Leadership Responsibilities in a LODD | Passed | 0.0 | 3.00 |

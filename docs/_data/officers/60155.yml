@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/3/2026
+  course: PDP1426C
+  title: 2026 Legal Interpreting in Policing In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/25/2026
   course: PDP3214C
   title: 2026 40mm Less Lethal New Operator Course

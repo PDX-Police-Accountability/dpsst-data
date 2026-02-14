@@ -55,12 +55,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/3/2026
+  course: BVP3499C
+  title: Threat Discretion/UTM Range 020326PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/28/2026
+  course: HBS0480C
+  title: TNT Cautious Clears/TCCC/K9/Drones
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 1/16/2026
   course: BVP2660C
   title: Bloodborne Pathogens
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/14/2026
+  course: HBS3448C
+  title: TNT Range Day
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/8/2026
   course: BVP1987C
   title: First Aid/CPR 010826 PM

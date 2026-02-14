@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/4/2026 | REG1809C | CORE-RADAR Classroom | Passed | 0.0 | 6.00 |
 | 1/2/2026 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |
 | 1/2/2026 | PDP2770C | ICS-200 Basic Inc Command System for Init Resp | Passed | 0.0 | 4.00 |
 | 12/24/2025 | PDP0447C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |

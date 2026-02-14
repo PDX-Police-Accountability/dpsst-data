@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 2/11/2026 | Police Officer | Intermediate | App Recd |  |  |  |
 | 9/13/2024 | Police Officer | Basic | Granted | 9/13/2024 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -28,6 +29,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/3/1996 | Masters Arts | George Fox University |  | 36.0 |
+| 4/28/1995 | Bachelor Science | George Fox University | Health Professions | 129.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

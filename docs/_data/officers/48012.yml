@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/3/2026
+  course: PDP1426C
+  title: 2026 Legal Interpreting in Policing In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/29/2024
   course: PDP4500A
   title: 2024 CHO Introduction to Interpreting in Policing

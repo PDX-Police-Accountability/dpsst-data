@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/6/2026 | OSH0752C | OSP Defensive Tactics - 1st Trimester | Passed | 0.0 | 3.00 |
+| 2/4/2026 | OSH2976C | OSP Defensive Tactics - 1st Trimester | Passed | 0.0 | 3.00 |
 | 1/30/2026 | PLS1613C | CPR/AED | Passed | 0.0 | 4.00 |
 | 1/29/2026 | OSH0438C | Adult/Child CPR and First Aid | Passed | 0.0 | 8.00 |
 | 12/17/2025 | OSH1258C | Defensive Tactics/Taser 2nd Trimester | Instructed | 0.0 | 8.00 |

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2026 | PDP1048C | 2026 Training Spanish Phrases for Use of Force | Passed | 0.0 | 1.00 |
 | 12/23/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/19/2025 | PDP0251C | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.50 |
 | 12/19/2025 | PDP0928C | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |

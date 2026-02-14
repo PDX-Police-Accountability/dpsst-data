@@ -80,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/28/2026
+  course: SDP0406C
+  title: Contemporary Diversity, Equity, Inclusion Concerns
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/28/2026
+  course: SDP0965C
+  title: Bloodborne Pathogens - CIS Learn Portal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/14/2026
   course: SDP1962C
   title: Defensive Tactics 2 person arrest tactics

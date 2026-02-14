@@ -75,6 +75,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/11/2025
+  course: PDP0950C
+  title: 2025 External Training VIN Identification Basics
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 11/18/2025
   course: PDP3221C
   title: 2025 ECIT Call Resolution

@@ -34,6 +34,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2025 | PDP1636C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 12/16/2025 | PDP0089C | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 12/11/2025 | PDP0950C | 2025 External Training VIN Identification Basics | Passed | 0.0 | 18.00 |
 | 12/8/2025 | PDP3730C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 11/20/2025 | PDP0518C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 10/24/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 2/4/2026
+  course: REG1809C
+  title: CORE-RADAR Classroom
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 1/2/2026
   course: PDP4307C
   title: IS-700 National Incident Management Intro

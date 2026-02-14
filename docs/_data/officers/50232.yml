@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/11/2025
+  course: PDP0950C
+  title: 2025 External Training VIN Identification Basics
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 12/8/2025
   course: PDP2540C
   title: 2025 Patrol Rifle Operator's In-Service Day 2

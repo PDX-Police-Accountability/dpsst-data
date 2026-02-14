@@ -41,7 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2026 | BVP3499C | Threat Discretion/UTM Range 020326PM | Passed | 0.0 | 3.00 |
+| 1/28/2026 | HBS0480C | TNT Cautious Clears/TCCC/K9/Drones | Passed | 0.0 | 7.50 |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/14/2026 | HBS3448C | TNT Range Day | Passed | 0.0 | 8.00 |
 | 1/8/2026 | BVP1987C | First Aid/CPR 010826 PM | Passed | 0.0 | 3.00 |
 | 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/30/2025 | HBS0051C | Active Threat Response for LE | Instructed | 0.0 | 3.00 |

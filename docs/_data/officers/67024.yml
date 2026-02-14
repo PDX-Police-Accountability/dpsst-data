@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/24/2025
+  course: PDP1007C
+  title: ICS-200 Basic Inc Command System for Init Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/23/2025
   course: PDP1543C
   title: 2024 DIR 0640.80, Bias Event Response
@@ -120,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 10/24/2024
+  course: PDP2084C
+  title: ICS-100 Intro to Incident Command Syst
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
