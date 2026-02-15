@@ -4,7 +4,7 @@
 | name | Wolf, Jason M. |
 | dpsst_identifier | 35396 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 2/2/2026 | Gresham Police Department | Hired | Lieutenant |  |  |
+| 1/22/2026 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 2/2/2023 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 1/14/2016 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/1/2014 | DPSST Use Only | InstrApp |  |  | AcadTrng |

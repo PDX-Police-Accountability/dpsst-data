@@ -3,7 +3,7 @@ header_record:
   name: Wolf, Jason M.
   dpsst_identifier: '35396'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Lieutenant
   level: ''
   classification: ''
@@ -12,6 +12,12 @@ employment_records:
 - date: 2/2/2026
   agency: Gresham Police Department
   action: Hired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
+- date: 1/22/2026
+  agency: Portland Police Bureau
+  action: Retired
   rank: Lieutenant
   classification: ''
   assignment: ''

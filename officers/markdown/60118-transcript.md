@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 2/2/2026 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
+| 1/22/2026 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 1/22/2026 | Hood River County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 10/16/2023 | Hood River County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 10/12/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
