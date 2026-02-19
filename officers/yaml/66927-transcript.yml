@@ -33,9 +33,9 @@ training_records:
 - date: 1/5/2026
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Withdrew
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
 - date: 12/24/2025
   course: PDP0384C
   title: ICS-100 Intro to Incident Command Syst
