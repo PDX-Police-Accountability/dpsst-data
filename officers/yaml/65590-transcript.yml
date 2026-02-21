@@ -48,7 +48,7 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 3/2/2026
+- date: 9/21/2026
   course: 26-0004
   title: DPSST Basic Police COD Self-Study
   status: Registered

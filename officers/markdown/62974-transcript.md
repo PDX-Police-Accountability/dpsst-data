@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/11/2026 | OCP0316C | Delusions Vs. Hallucination | Passed | 0.0 | 0.25 |
 | 1/21/2026 | OCP3095C | Animal Crimes Investigations | Passed | 0.0 | 1.00 |
 | 12/18/2025 | OCP3676C | HB 4002 Briefing Training | Passed | 0.0 | 0.50 |
 | 12/4/2025 | OCP4242C | Lexipol Daily Training Bulletins | Passed | 0.0 | 7.25 |

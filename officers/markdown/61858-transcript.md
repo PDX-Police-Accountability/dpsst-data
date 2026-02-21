@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/10/2026 | MFN0286C | Feedback and Communication | Passed | 0.0 | 1.00 |
 | 2/5/2026 | 41698C | Firearm qualifications | Passed | 0.0 | 0.50 |
 | 2/5/2026 | MFN3248C | Firearm qualifications | Passed | 0.0 | 0.50 |
 | 1/29/2026 | MFN4328C | DNA Collection and CODIS | Passed | 0.0 | 2.00 |

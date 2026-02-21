@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/10/2026
+  course: MFN0286C
+  title: Feedback and Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/5/2026
   course: 41698C
   title: Firearm qualifications

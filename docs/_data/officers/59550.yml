@@ -67,6 +67,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 1/15/2026
+  course: RMP0827C
+  title: SFST Refresher Course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/15/2026
+  course: RMP0471C
+  title: 1st Responder Wellness
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/8/2026
   course: BNP1331C
   title: SWAT- Active Threat Response

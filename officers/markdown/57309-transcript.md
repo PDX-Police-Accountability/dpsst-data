@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2026 | OCS4105C | February 2026 - UAS Drone training | Passed | 0.0 | 4.00 |
 | 1/15/2026 | OCS1848C | Striking | Passed | 0.0 | 1.00 |
 | 12/23/2025 | OCS0401C | Low Light Shoot / No-Shoot Decision Making | Passed | 0.0 | 1.00 |
 | 12/15/2025 | OCS2110C | Use of Force Law Update | Passed | 0.0 | 1.00 |

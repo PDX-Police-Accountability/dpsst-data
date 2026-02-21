@@ -41,6 +41,8 @@
 | 1/22/2026 | BNP0657C | SWAT- Less lethal /chemical munitions tests | Passed | 0.0 | 1.00 |
 | 1/22/2026 | BNP4460C | SWAT- Distraction Devices Test | Passed | 0.0 | 0.50 |
 | 1/22/2026 | BNP2467C | SWAT- Weapons Qualifications and proficiency | Passed | 0.0 | 6.50 |
+| 1/15/2026 | RMP0827C | SFST Refresher Course | Passed | 0.0 | 4.00 |
+| 1/15/2026 | RMP0471C | 1st Responder Wellness | Passed | 0.0 | 4.00 |
 | 1/8/2026 | BNP1331C | SWAT- Active Threat Response | Passed | 0.0 | 8.00 |
 | 1/7/2026 | RMP3656C | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

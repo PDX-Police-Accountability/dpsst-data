@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/11/2026
+  course: OCP0316C
+  title: Delusions Vs. Hallucination
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/29/2026
   course: OCP3005C
   title: Night Range
