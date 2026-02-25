@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/18/2026 | CAP0362C | On-Line Fraud  Security Awareness Training | Passed | 0.0 | 1.00 |
 | 1/21/2026 | CAP0898C | Annual Handgun Qualifications and Fundamentals | Instructed | 0.0 | 6.00 |
 | 10/23/2025 | CAP2337B | Airways Training Video - Patient Evaluation For LE | Passed | 0.0 | 2.00 |
 | 10/22/2025 | CAP3011B | Firearms - Precision Rifle | Passed | 0.0 | 1.00 |

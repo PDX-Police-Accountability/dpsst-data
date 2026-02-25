@@ -33,10 +33,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/19/2026 | PDS3279C | Peer Support | Passed | 0.0 | 1.00 |
+| 1/19/2026 | PDS2146C | Human Trafficking | Passed | 0.0 | 2.00 |
+| 1/19/2026 | PDS2692C | Courthouse Jail Evacuation | Passed | 0.0 | 1.00 |
 | 11/11/2025 | PDS2218C | CSU Tactical Medical Training | Passed | 0.0 | 1.00 |
 | 11/11/2025 | PDS2501C | CSU Explosive Training | Passed | 0.0 | 1.00 |
 | 11/11/2025 | PDS1203C | CSU Courtroom Security Training | Passed | 0.0 | 6.00 |
 | 11/11/2025 | PDS1850C | CSU Restraint Chair Training | Passed | 0.0 | 1.00 |
+| 11/11/2025 | PDS3079C | CSU Tactical Medical Training | Passed | 0.0 | 1.00 |
+| 11/11/2025 | PDS1556C | CSU Courtroom Security Training | Passed | 0.0 | 6.00 |
+| 11/11/2025 | PDS0917C | CSU Explosive Training | Passed | 0.0 | 1.00 |
+| 11/11/2025 | PDS1551C | CSU Restraint Chair Training | Passed | 0.0 | 1.00 |
 | 10/20/2025 | PDS0688B | UNET RANGE QUAL | Passed | 0.0 | 8.00 |
 | 10/9/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
 | 10/9/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |

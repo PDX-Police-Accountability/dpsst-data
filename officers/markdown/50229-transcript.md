@@ -35,6 +35,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/19/2026 | TRN3727C | 2026 Information Security Training Foundations 2 | Passed | 0.0 | 1.00 |
+| 1/19/2026 | TRN0176C | DOC - Bloodborne Pathogens v2026 | Passed | 0.0 | 1.00 |
+| 1/19/2026 | TRN0610C | DOC - Fire Alarm Panel Monitoring v2026 Volume 1 | Passed | 0.0 | 1.00 |
+| 1/19/2026 | TRN1237C | DOC - Fire Extinguisher Use and Safety  v2026 | Passed | 0.0 | 0.50 |
+| 1/19/2026 | TRN2159C | Prison Rape Elimination Act (PREA) - 2026 | Passed | 0.0 | 1.00 |
+| 1/12/2026 | TRN1525C | DOC - Duty to Intervene v2026 | Passed | 0.0 | 2.00 |
+| 1/11/2026 | TRN0767C | Prison Rape Elimination Act 2026 | Passed | 0.0 | 1.00 |
+| 1/5/2026 | TRN0658C | DOC - Use of Force Applications for Security v2026 | Passed | 0.0 | 4.00 |
+| 1/3/2026 | TRN2297C | CRCI Fire Suppression Training v2026 Volume 1 | Passed | 0.0 | 1.00 |
+| 1/3/2026 | TRN1032C | DOC - Airway Circulatory Anatomy and Phys v2026 | Passed | 0.0 | 2.00 |
 | 7/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/2/2025 | TRN3289B | CRCI Fire Suppression Training v2025 (Volume 2) | Passed | 0.0 | 1.00 |
 | 7/2/2025 | TRN0416B | Fire Alarm Panel Monitoring v2025 (Volume 2) cont | Passed | 0.0 | 1.00 |

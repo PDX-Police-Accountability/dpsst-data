@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/19/2026 | PDS4308C | Taser 7 | Instructed | 0.0 | 6.00 |
 | 12/30/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
+| 12/18/2025 | PDS1064C | Firearms | Instructed | 0.0 | 2.00 |
 | 12/11/2025 | PDS0813C | Range | Instructed | 0.0 | 4.00 |
 | 12/8/2025 | PDS2475C | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 12/8/2025 | PDS0974C | Taser 7 | Instructed | 0.0 | 4.00 |

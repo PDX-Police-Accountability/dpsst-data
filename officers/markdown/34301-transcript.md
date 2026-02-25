@@ -38,6 +38,25 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/27/2026 | TRN4474C | DOC - AT - ODOC Professionalism v2026 | Passed | 0.0 | 2.50 |
+| 1/27/2026 | TRN2031C | DOC - Basic Public Records Training v2026 | Passed | 0.0 | 1.50 |
+| 1/27/2026 | TRN3097C | DOC - Conducting Cross-Gender Searches v2026 | Passed | 0.0 | 1.00 |
+| 1/27/2026 | TRN1310C | DOC - Introduction to Neurodivergence v2026 | Passed | 0.0 | 1.00 |
+| 1/26/2026 | TRN2667C | 2026 Immigration Law Refresher for State Employees | Passed | 0.0 | 1.00 |
+| 1/26/2026 | TRN1375C | 2026 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 1/26/2026 | TRN2862C | Accessibility for AICs with Disabilities v2026 | Passed | 0.0 | 1.00 |
+| 1/26/2026 | TRN1793C | DOC - Suicide Detection and Prevention v2026 | Passed | 0.0 | 2.00 |
+| 1/26/2026 | TRN1546C | DOC - Use of Force Rule Review v2026 | Passed | 0.0 | 2.00 |
+| 1/23/2026 | TRN2698C | DOC - Bloodborne Pathogens v2026 2 | Passed | 0.0 | 1.00 |
+| 1/23/2026 | TRN2443C | DOC - Fire Alarm Panel Monitoring v2026 Volume  2 | Passed | 0.0 | 1.00 |
+| 1/23/2026 | TRN0453C | DOC - Fire Extinguisher Use and Safety  v2026 2 | Passed | 0.0 | 0.50 |
+| 1/23/2026 | TRN0282C | Incident Command System for Corrections v2026 | Passed | 0.0 | 1.00 |
+| 1/22/2026 | TRN1078C | CCCF Fire Suppression Training v2026 Volume 1 | Passed | 0.0 | 1.00 |
+| 1/22/2026 | TRN2548C | DOC - Airway Circulatory Anatomy and Phys v2026 2 | Passed | 0.0 | 2.00 |
+| 1/22/2026 | TRN1525C | DOC - Duty to Intervene v2026 | Passed | 0.0 | 2.00 |
+| 1/22/2026 | TRN0658C | DOC - Use of Force Applications for Security v2026 | Passed | 0.0 | 4.00 |
+| 1/22/2026 | TRN2159C | Prison Rape Elimination Act (PREA) - 2026 | Passed | 0.0 | 1.00 |
+| 1/22/2026 | TRN2729C | Statewide Travel Policy v2024 | Passed | 0.0 | 1.50 |
 | 12/8/2025 | TRN2425C | 2025 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 12/8/2025 | TRN2155C | CCCF Fire Suppression v2025 (Volume 2) | Passed | 0.0 | 1.00 |
 | 12/8/2025 | TRN0180C | Fire Alarm Panel Monitoring v2025 (Volume 2) | Passed | 0.0 | 1.00 |

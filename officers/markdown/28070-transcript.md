@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/2/2025 | MNS1475C | Domestic Violence Investigations | Passed | 0.0 | 1.50 |
 | 12/2/2025 | MNS3090C | Mental Wellness | Passed | 0.0 | 1.00 |

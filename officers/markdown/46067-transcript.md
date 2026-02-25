@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 1/15/2026 | PDP1381C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |

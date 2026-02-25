@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/11/2026
+  course: MNS0808C
+  title: Emotional Survival and Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/22/2026
   course: PDP4425C
   title: 2026 SERT Training - FIREARMS

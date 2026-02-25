@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2026 | SVP1824C | Prodedural Justice | Passed | 0.0 | 2.00 |
 | 1/21/2026 | AVP3468C | In-Service / Legal Updates | Passed | 0.0 | 1.00 |
 | 1/21/2026 | AVP1768C | METCOM Dispatch Protocols | Passed | 0.0 | 1.00 |
 | 1/15/2026 | OAC2673C | Ethical Leaders  Organizations | Passed | 0.0 | 1.00 |

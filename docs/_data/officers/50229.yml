@@ -49,6 +49,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/19/2026
+  course: TRN3727C
+  title: 2026 Information Security Training Foundations 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/19/2026
+  course: TRN0176C
+  title: DOC - Bloodborne Pathogens v2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/19/2026
+  course: TRN0610C
+  title: DOC - Fire Alarm Panel Monitoring v2026 Volume 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/19/2026
+  course: TRN1237C
+  title: DOC - Fire Extinguisher Use and Safety  v2026
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/19/2026
+  course: TRN2159C
+  title: Prison Rape Elimination Act (PREA) - 2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/12/2026
+  course: TRN1525C
+  title: DOC - Duty to Intervene v2026
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/11/2026
+  course: TRN0767C
+  title: Prison Rape Elimination Act 2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/5/2026
+  course: TRN0658C
+  title: DOC - Use of Force Applications for Security v2026
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/3/2026
+  course: TRN2297C
+  title: CRCI Fire Suppression Training v2026 Volume 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/3/2026
+  course: TRN1032C
+  title: DOC - Airway Circulatory Anatomy and Phys v2026
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/17/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

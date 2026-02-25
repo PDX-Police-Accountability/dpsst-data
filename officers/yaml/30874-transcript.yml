@@ -93,6 +93,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 2/11/2026
+  course: MNS0808C
+  title: Emotional Survival and Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/31/2026
   course: GSP1974C
   title: IBIS Fingerprint Scanner

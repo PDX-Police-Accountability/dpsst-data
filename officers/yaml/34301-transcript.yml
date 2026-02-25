@@ -67,6 +67,120 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/27/2026
+  course: TRN4474C
+  title: DOC - AT - ODOC Professionalism v2026
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 1/27/2026
+  course: TRN2031C
+  title: DOC - Basic Public Records Training v2026
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/27/2026
+  course: TRN3097C
+  title: DOC - Conducting Cross-Gender Searches v2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/27/2026
+  course: TRN1310C
+  title: DOC - Introduction to Neurodivergence v2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/26/2026
+  course: TRN2667C
+  title: 2026 Immigration Law Refresher for State Employees
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/26/2026
+  course: TRN1375C
+  title: 2026 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/26/2026
+  course: TRN2862C
+  title: Accessibility for AICs with Disabilities v2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/26/2026
+  course: TRN1793C
+  title: DOC - Suicide Detection and Prevention v2026
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/26/2026
+  course: TRN1546C
+  title: DOC - Use of Force Rule Review v2026
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/23/2026
+  course: TRN2698C
+  title: DOC - Bloodborne Pathogens v2026 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/23/2026
+  course: TRN2443C
+  title: DOC - Fire Alarm Panel Monitoring v2026 Volume  2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/23/2026
+  course: TRN0453C
+  title: DOC - Fire Extinguisher Use and Safety  v2026 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/23/2026
+  course: TRN0282C
+  title: Incident Command System for Corrections v2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/22/2026
+  course: TRN1078C
+  title: CCCF Fire Suppression Training v2026 Volume 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/22/2026
+  course: TRN2548C
+  title: DOC - Airway Circulatory Anatomy and Phys v2026 2
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/22/2026
+  course: TRN1525C
+  title: DOC - Duty to Intervene v2026
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/22/2026
+  course: TRN0658C
+  title: DOC - Use of Force Applications for Security v2026
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/22/2026
+  course: TRN2159C
+  title: Prison Rape Elimination Act (PREA) - 2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/22/2026
+  course: TRN2729C
+  title: Statewide Travel Policy v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/8/2025
   course: TRN2425C
   title: 2025 Information Security Training Foundations

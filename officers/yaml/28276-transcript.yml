@@ -129,6 +129,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2026
+  course: SVP1824C
+  title: Prodedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/21/2026
   course: AVP3468C
   title: In-Service / Legal Updates

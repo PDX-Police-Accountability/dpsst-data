@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/9/2026 | Burlington Northern Railroad Police | Discharged | Spec Agent |  |  |
 | 5/1/2023 | Burlington Northern Railroad Police | Hired | Spec Agent |  |  |
 | 10/30/2019 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 7/5/2012 | Portland Police Bureau | Promotion | Lieutenant |  |  |
@@ -20,11 +21,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/28/2025 | Police Officer | Advanced | Reactivatd | 10/28/1999 |  |  |
-| 1/28/2025 | Police Officer | Basic | Reactivatd | 5/21/1991 |  |  |
-| 1/28/2025 | Police Officer | Intermediate | Reactivatd | 10/28/1999 |  |  |
-| 1/28/2025 | Police Officer | Management | Reactivatd | 1/26/2016 |  |  |
-| 1/28/2025 | Police Officer | Supervisory | Reactivatd | 9/6/2011 |  |  |
+| 1/28/2025 | Police Officer | Advanced | Reactivatd | 10/28/1999 | 5/9/2026 |  |
+| 1/28/2025 | Police Officer | Basic | Reactivatd | 5/21/1991 | 5/9/2026 |  |
+| 1/28/2025 | Police Officer | Intermediate | Reactivatd | 10/28/1999 | 5/9/2026 |  |
+| 1/28/2025 | Police Officer | Management | Reactivatd | 1/26/2016 | 5/9/2026 |  |
+| 1/28/2025 | Police Officer | Supervisory | Reactivatd | 9/6/2011 | 5/9/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

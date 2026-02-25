@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2025 | PDS1064C | Firearms | Passed | 0.0 | 2.00 |
 | 11/12/2025 | PDS2345C | Legal Update | Passed | 0.0 | 2.00 |
 | 11/7/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 11/7/2025 | PDS3716C | Taser 7 | Passed | 0.0 | 4.00 |

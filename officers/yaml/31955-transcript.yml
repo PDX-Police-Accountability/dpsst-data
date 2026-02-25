@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/18/2026
+  course: CAP0362C
+  title: On-Line Fraud  Security Awareness Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/21/2026
   course: CAP0898C
   title: Annual Handgun Qualifications and Fundamentals
