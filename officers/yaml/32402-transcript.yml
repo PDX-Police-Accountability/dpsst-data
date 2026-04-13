@@ -62,6 +62,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/30/2026
+  course: HBS2251C
+  title: 'Inservice Session #1 DT''s'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/19/2026
+  course: HBS2653C
+  title: Rifle Remediation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/13/2026
+  course: HBS0613C
+  title: Rifle Updates
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/13/2026
+  course: HBS2871C
+  title: Rifle Updates
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/11/2025
   course: HBS0481C
   title: 'InService Session #2 Firearms'

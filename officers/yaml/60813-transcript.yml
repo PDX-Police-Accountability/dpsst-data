@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/14/2026
+  course: OSH0454C
+  title: OSP Defensive Tactics - 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/11/2026
   course: OSH4190C
   title: Adult/Child CPR and First Aid

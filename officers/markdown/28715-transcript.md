@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/25/2026 | HBP0383C | K9 Arrest and Control | Passed | 0.0 | 4.50 |
+| 2/25/2026 | HBP0098C | Tactical De-escalation | Passed | 0.0 | 4.50 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 12/16/2025 | HBP1676C | DV Update | Passed | 0.0 | 2.00 |
 | 10/22/2025 | HBP2847C | Range | Passed | 0.0 | 5.00 |

@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2026 | GSP0816C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
+| 1/8/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/16/2025 | PDP2960C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

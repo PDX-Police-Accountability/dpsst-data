@@ -39,7 +39,38 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/18/2026 | PDP1724C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 2/3/2026 | PDP4427C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
+| 1/29/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
+| 1/29/2026 | PDP0753C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
+| 1/29/2026 | PDP2198C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 1/29/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 1/29/2026 | PDP0431C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP2947C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 1/29/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP1016C | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP3979C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP1817C | 2025-07 CAO Legal Updates for 08 - 09/2024 | Passed | 0.0 | 0.50 |
+| 1/29/2026 | PDP2758C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
+| 1/29/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP1901C | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP4467C | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP2402C | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 1/29/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/28/2026 | PDP2305C | 2025 All Sworn In-Service - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
+| 1/28/2026 | PDP2178C | 2025 IS PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
+| 1/28/2026 | PDP3077C | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
+| 1/28/2026 | PDP3668C | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 5/28/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |

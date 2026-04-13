@@ -56,18 +56,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/11/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/5/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/3/2026
   course: PDP4427C
   title: 2026 Red Dot Sight for Pistol Transition Course
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 1/27/2026
+  course: PDP1727C
+  title: 2025 AR In-Service Wrap Up
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/9/2026
   course: PDP2369C
   title: 2026 Enhanced Crisis Intervention Team (ECIT) Cert
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 1/2/2026
+  course: PDP0723C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/31/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

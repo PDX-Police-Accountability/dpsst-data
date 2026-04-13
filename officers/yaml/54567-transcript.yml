@@ -67,6 +67,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2026
+  course: OSH3924C
+  title: Human Trafficking Chatter Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/3/2026
+  course: MLP2147C
+  title: Officer Involved Critical Incident Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/25/2026
+  course: OCA1037C
+  title: February MCT - Brady
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/28/2026
+  course: MLP2852C
+  title: Public Safety Union Leadership
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 1/15/2026
+  course: MLP3927C
+  title: Slips, Trips and Falls
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/19/2025
   course: OCA3728C
   title: Open Source DNA
@@ -115,6 +145,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/31/2025
+  course: MLP3121C
+  title: Resilience and Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/8/2025
   course: MLP0449B
   title: PREA Prision Rape Elimination Act
@@ -169,12 +205,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/4/2025
+  course: MLP2162C
+  title: OSHA Heat Illness Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/16/2025
   course: LOP0010A
   title: 2025 Metro Area Sergeants Academy
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 4/9/2025
+  course: MLP1815C
+  title: Why Emergency Preparedness Matters
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/31/2025
   course: MLP0965C
   title: MILO Instructor Program

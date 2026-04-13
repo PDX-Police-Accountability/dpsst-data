@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/12/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 2/12/2026
+  course: LCP0199C
+  title: FTEP Supervision Course
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 1/29/2026
   course: PSU4230C
   title: Use of Force Policy and Application

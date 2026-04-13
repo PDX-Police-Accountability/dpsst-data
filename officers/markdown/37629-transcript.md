@@ -35,6 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/12/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/8/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 1/13/2026 | PDP3350C | FTEP Report Writing | Passed | 0.0 | 2.00 |
+| 1/13/2026 | PDP0205C | FTEP Report Writing | Passed | 0.0 | 2.00 |
+| 1/8/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/8/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 12/18/2025 | PDP2960C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 12/16/2025 | PDP1925C | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |
 | 12/11/2025 | PDP0102C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |

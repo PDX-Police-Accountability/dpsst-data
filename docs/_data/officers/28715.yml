@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/25/2026
+  course: HBP0383C
+  title: K9 Arrest and Control
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 2/25/2026
+  course: HBP0098C
+  title: Tactical De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 1/29/2026
   course: HBP3193C
   title: CPR/First Aid/AED

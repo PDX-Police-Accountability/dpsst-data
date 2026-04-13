@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/30/2026
+  agency: Clackamas County Sheriff's Office
+  action: LOA
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
 - date: 6/3/2024
   agency: Clackamas County Sheriff's Office
   action: Hired
@@ -67,6 +73,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2026
+  course: OCS1425C
+  title: Financial Education-VOYA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/10/2026
+  course: OCS3162C
+  title: CPR First Aid
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/12/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -1490,6 +1508,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/10/2026
+  expiration_date: 3/10/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

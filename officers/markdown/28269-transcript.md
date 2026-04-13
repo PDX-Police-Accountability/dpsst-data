@@ -45,6 +45,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/27/2026 | VND4239C | Progressive Discipline 101 | Passed | 0.0 | 1.00 |
+| 2/26/2026 | VND4055C | 2026 Case Law/Legal Updates | Passed | 0.0 | 1.00 |
+| 2/26/2026 | VND4193C | Leave  Accommodations 101 | Passed | 0.0 | 1.00 |
+| 2/26/2026 | VND1617C | Life of a Claim: From Tort Notice to Jury Verdict | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND2433C | Top 10 Ways to Get Sued | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND3324C | Navigating Line of Duty Loss | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND0754C | Fostering Effective Relationships | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND2916C | Early Detection, Better Outcomes: Prescreening | Passed | 0.0 | 1.00 |
 | 1/29/2026 | BNP1097C | Organizational Health | Passed | 0.0 | 16.00 |
 | 1/26/2026 | BNP2052C | Below 100 / speed and vehicle related deaths | Passed | 0.0 | 1.00 |
 | 1/26/2026 | BNP2379C | Building clears / active threat / hostage rescue | Passed | 0.0 | 2.00 |

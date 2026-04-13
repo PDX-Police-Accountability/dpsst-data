@@ -40,13 +40,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2026 | PDP3951C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 3/12/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/12/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/7/2026 | GLP0708C | Criminal Gang Investigations 101 | Instructed | 0.0 | 4.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
+| 2/4/2026 | PDP4141C | Dignitary Protection Seminar | Passed | 0.0 | 6.00 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
+| 1/27/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 1/22/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/22/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/22/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 1/15/2026 | PDP1381C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 1/15/2026 | PDP1381C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/8/2026 | PDP0675C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 1/8/2026 | PDP0675C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/2/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/11/2025 | PDP0824C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/11/2025 | PDP0824C | 2025 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -43,7 +43,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2026 | SVP3347C | Preventing Workplace Discrimination  Harassment | Passed | 0.0 | 0.75 |
+| 3/20/2026 | SVP2971C | Sexual Harassment Prevention - Manager | Passed | 0.0 | 0.50 |
+| 3/17/2026 | SVP2327C | Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
+| 3/11/2026 | AVP1012C | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
+| 2/25/2026 | SVP1235C | Taser 7 Operator Course | Passed | 0.0 | 6.00 |
 | 2/13/2026 | SVP1824C | Prodedural Justice | Passed | 0.0 | 2.00 |
+| 2/11/2026 | AVP1983C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
+| 2/11/2026 | AVP2590C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 1/21/2026 | AVP3468C | In-Service / Legal Updates | Passed | 0.0 | 1.00 |
 | 1/21/2026 | AVP1768C | METCOM Dispatch Protocols | Passed | 0.0 | 1.00 |
 | 1/15/2026 | OAC2673C | Ethical Leaders  Organizations | Passed | 0.0 | 1.00 |

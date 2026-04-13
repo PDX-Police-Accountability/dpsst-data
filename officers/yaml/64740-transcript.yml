@@ -36,6 +36,90 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2026
+  course: PDP3019C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/19/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/6/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/19/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP0615C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP4432C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP0051C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2026
+  course: PDP0774C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP0431C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP3709C
+  title: 2025-10 CAO Updates Disorderly Conduct  ORS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP2947C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/15/2026
+  course: PDP2402C
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP0443C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP1239C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/3/2025
   course: PDP0439C
   title: 2025 IS PVO Stop Stick Hyperlink (External)
@@ -667,6 +751,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/27/2026
+  expiration_date: 3/27/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

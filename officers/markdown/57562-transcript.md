@@ -37,6 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2026 | OCP2913C | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 3/10/2026 | OCP2870C | HB 4002 | Passed | 0.0 | 0.25 |
+| 3/2/2026 | OCP3644C | Airborne and Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 3/2/2026 | OCP3126C | Global SDS / Hazardous Communication Standard | Passed | 0.0 | 1.00 |
+| 2/19/2026 | OCP0822C | Patrol Tactics | Passed | 0.0 | 4.00 |
+| 2/19/2026 | OCP2119C | Patrol Tactics | Passed | 0.0 | 4.00 |
+| 2/12/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
+| 2/12/2026 | OCP3725C | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 2/2/2026 | VND0692C | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/4/2025 | OCP4242C | Lexipol Daily Training Bulletins | Passed | 0.0 | 7.25 |
 | 11/20/2025 | OCP4190C | Low Light Firearms | Passed | 0.0 | 1.50 |

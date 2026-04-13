@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2026
+  course: PDS1311C
+  title: Suicide Intervention
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/13/2026
+  course: PDS0663C
+  title: Wrap Restraint
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/27/2025
   course: PDS1000C
   title: Life Safety Training

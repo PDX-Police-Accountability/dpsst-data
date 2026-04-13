@@ -43,6 +43,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/5/2026
+  course: 30603C
+  title: 3si Tracker  ORT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/17/2026
+  course: SAP1219C
+  title: Radar/Lidar Instructor Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/17/2026
+  course: SAP2992C
+  title: Radar/Lidar Instructor Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/13/2026
+  course: NGP3906C
+  title: Tourniquet Training Drills
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2026
+  course: NGP3784C
+  title: Tourniquet Training Drills
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2026
+  course: NGP4388C
+  title: Tourniquet Training Drills
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2026
+  course: NGP3560C
+  title: Emotional Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/3/2026
   course: NGP0895C
   title: Tourniquet Training Drills

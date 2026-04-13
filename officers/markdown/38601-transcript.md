@@ -36,7 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2026 | GSP3149C | Effective Report Writing | Passed | 0.0 | 1.50 |
+| 2/18/2026 | GSP3886C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
+| 2/10/2026 | GSP0138C | TruNarc Analyzer | Passed | 0.0 | 2.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |
+| 1/31/2026 | GSP2632C | vMobile CAD Training | Passed | 0.0 | 0.25 |
 | 1/26/2026 | GSP1878C | vMobile Training | Passed | 0.0 | 0.25 |
 | 1/12/2026 | GSP3111C | CEW (Taser) refresher | Passed | 0.0 | 1.00 |
 | 1/1/2026 | GSP1753C | PowerTime Schedule | Passed | 0.0 | 0.25 |

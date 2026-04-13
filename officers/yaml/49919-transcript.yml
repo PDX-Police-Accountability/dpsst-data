@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/4/2026
+  course: HBP3163C
+  title: K9 Arrest and Control
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 2/4/2026
+  course: HBP1493C
+  title: Tactical De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 10/31/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

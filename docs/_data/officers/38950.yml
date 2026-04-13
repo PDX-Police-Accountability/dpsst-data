@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/9/2026
+  agency: Washington County Sheriff's Office
+  action: LOA
+  rank: Commander
+  classification: ''
+  assignment: ''
 - date: 1/9/2021
   agency: Washington County Sheriff's Office
   action: Promotion

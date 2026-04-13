@@ -35,6 +35,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 3/3/2026
+  course: VND3054C
+  title: Trauma Informed Response Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 11/5/2025
   course: PDP3722C
   title: 2025 Introduction to Interpreting in Policing

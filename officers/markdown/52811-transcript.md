@@ -38,6 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/12/2026 | GSP2955C | SWAT Active Threat | Passed | 0.0 | 10.00 |
+| 2/11/2026 | GSP2552C | SWAT Firearms | Passed | 0.0 | 10.00 |
+| 1/23/2026 | PDS3582C | Range IDC | Instructed | 0.0 | 4.00 |
+| 1/22/2026 | PDS2236C | Red Dot Firearms | Instructed | 0.0 | 24.00 |
+| 1/16/2026 | GSP3667C | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 1/15/2026 | GSP1673C | SWAT - Cautious Clearing with K9 | Passed | 0.0 | 10.00 |
+| 1/14/2026 | GSP3140C | SWAT - Firearms | Passed | 0.0 | 10.00 |
+| 1/12/2026 | PDS3582C | Range IDC | Passed | 0.0 | 4.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2025 | GSP3457C | SWAT Active Threat Training | Passed | 0.0 | 10.00 |
 | 12/17/2025 | GSP4567C | SWAT Firearms | Passed | 0.0 | 10.00 |

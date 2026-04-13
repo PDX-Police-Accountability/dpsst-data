@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/30/2026 | Clackamas County Sheriff's Office | LOA | Par/prob O |  |  |
 | 6/3/2024 | Clackamas County Sheriff's Office | Hired | Par/prob O |  |  |
 | 5/13/2024 | Oregon City Police Department | Resigned | Police Off |  |  |
 | 4/19/2022 | Oregon City Police Department | Hired | Police Off |  |  |
@@ -27,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/10/2026 | 3/10/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/20/2025 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
@@ -43,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2026 | OCS1425C | Financial Education-VOYA | Passed | 0.0 | 1.00 |
+| 3/10/2026 | OCS3162C | CPR First Aid | Passed | 0.0 | 6.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2025 | OCS0669C | Human Trafficking | Passed | 0.0 | 2.00 |
 | 11/6/2025 | OCS3484C | Consim | Passed | 0.0 | 3.00 |

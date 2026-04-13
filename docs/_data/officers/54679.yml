@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2026
+  course: MLP3927C
+  title: Slips, Trips and Falls
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/13/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -109,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/31/2025
+  course: MLP3121C
+  title: Resilience and Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/22/2025
   course: MLP1438B
   title: Crisis Intervention Training CIT - Crisis Response
@@ -145,6 +157,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/4/2025
+  course: MLP2162C
+  title: OSHA Heat Illness Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/9/2025
+  course: MLP1815C
+  title: Why Emergency Preparedness Matters
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/5/2025
   course: MLP2154A
   title: MOPD New Carrier Less Lethal Qualification

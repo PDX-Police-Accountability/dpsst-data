@@ -43,6 +43,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2026
+  course: BNP1699C
+  title: SWAT-Rifle and Pistol Skill Builder
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/10/2026
+  course: BNP3078C
+  title: SWAT- Overland HRT Scenario
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/19/2026
+  course: BNP4319C
+  title: SWAT-Active Threat / Rescue Task Force Scenerios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/19/2026
+  course: BNP3794C
+  title: SWAT-Active Threat / Rescue Task Force Scenerios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/5/2026
   course: BNP2413C
   title: SWAT- Building Clearing
@@ -85,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/8/2026
+  course: RMP2584C
+  title: CIT  Mental Health Awareness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/7/2026
   course: RMP3656C
   title: Defensive Tactics - Ground Control

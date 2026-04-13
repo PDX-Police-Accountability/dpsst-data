@@ -36,7 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/4/2026 | 36279C | Oregon Sanctuary Promise | Passed | 0.0 | 0.50 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/17/2025 | VND1499C | QPR Suicide Prevention Gatekeeper Program | Passed | 0.0 | 3.00 |
 | 12/3/2025 | GLP0613C | Defensive Tactics Winter 2025 | Passed | 0.0 | 2.00 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Passed | 0.0 | 4.00 |
 | 10/13/2025 | GLP1210B | Q3 Range - Threat ID and Target Transition | Passed | 0.0 | 3.00 |

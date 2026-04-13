@@ -38,6 +38,120 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/5/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/5/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/30/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/28/2026
+  course: XDELETE5
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/28/2026
+  course: REG3940C
+  title: Extreme Risk Protection Orders Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/21/2026
+  course: PDP2305C
+  title: 2025 All Sworn In-Service - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/21/2026
+  course: PDP2178C
+  title: 2025 IS PVO Stop Stick Hyperlink (External Trng)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/21/2026
+  course: PDP1239C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/16/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/16/2026
+  course: PDP4467C
+  title: 2025-07 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/16/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/16/2026
+  course: PDP4106C
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2026
+  course: PDP2947C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2026
+  course: PDP1817C
+  title: 2025-07 CAO Legal Updates for 08 - 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2026
+  course: PDP2758C
+  title: 2025-07 CAO Legal Updates for 12/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2026
+  course: PDP3709C
+  title: 2025-10 CAO Updates Disorderly Conduct  ORS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2026
+  course: PDP0443C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2026
+  course: PDP3009C
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

@@ -38,6 +38,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2026
+  course: PDP2511C
+  title: 2026 Rapid Response team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/12/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/3/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/13/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/13/2026
+  course: PDP3809C
+  title: 2026 Rapid Response team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/29/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/28/2026
   course: PDP1048C
   title: 2026 Training Spanish Phrases for Use of Force

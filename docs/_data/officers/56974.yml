@@ -44,6 +44,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/24/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/18/2026
+  course: PDP3022C
+  title: 2026 Investigators IS Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2026
+  course: PDP2663C
+  title: 2026 Investigators IS Digital Tata Analysis
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2026
+  course: PDP4231C
+  title: 2026 Investigators IS Exemption Review/Legal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2026
+  course: PDP4289C
+  title: 2026 Investigators IS Tech Warrants and Testimony
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2026
+  course: PDP0336C
+  title: 2026 Investigators IS Mass Casualty Incident
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/20/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/16/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/16/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/16/2026
+  course: PDP1239C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/3/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

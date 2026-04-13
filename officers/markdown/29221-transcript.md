@@ -47,6 +47,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2026 | BNP2912C | Supervisor In-Service Training | Passed | 0.0 | 17.00 |
+| 3/4/2026 | BNP1416C | Supervisor In Service | Passed | 0.0 | 16.00 |
+| 2/26/2026 | BNP4058C | Control Tactics / drawing and retention | Passed | 0.0 | 1.00 |
 | 1/29/2026 | BNP1097C | Organizational Health | Passed | 0.0 | 16.00 |
 | 1/26/2026 | BNP2052C | Below 100 / speed and vehicle related deaths | Passed | 0.0 | 1.00 |
 | 1/26/2026 | BNP2379C | Building clears / active threat / hostage rescue | Passed | 0.0 | 2.00 |

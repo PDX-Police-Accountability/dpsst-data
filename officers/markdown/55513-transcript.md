@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/18/2026 | HBS1169C | TNT - New Operator Vehicle Operations | Instructed | 0.0 | 3.00 |
+| 2/11/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.75 |
+| 2/11/2026 | HBS3702C | TNT-Hostage Rescue | Passed | 0.0 | 6.75 |
 | 2/3/2026 | BVP3499C | Threat Discretion/UTM Range 020326PM | Passed | 0.0 | 3.00 |
 | 1/28/2026 | HBS0480C | TNT Cautious Clears/TCCC/K9/Drones | Passed | 0.0 | 7.50 |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

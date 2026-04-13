@@ -83,6 +83,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2026
+  course: OCS4238C
+  title: Holster Speed, Marksmanship at Distance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/20/2026
+  course: OCS4425C
+  title: CNT Monthly Training - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/20/2026
+  course: OCS2223C
+  title: Forward Negotiating / Armored Vehicle Driving
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/20/2026
+  course: OCS3018C
+  title: Striking Takedowns
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/2/2026
+  course: OCS3309C
+  title: Below 100
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/16/2026
   course: OCS3980C
   title: CNT Monthly Training - Deescalation
@@ -1746,6 +1776,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/20/2026
+  expiration_date: 3/3/2028
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2026

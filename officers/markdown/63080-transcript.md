@@ -4,7 +4,7 @@
 | name | Miller, Cory G. |
 | dpsst_identifier | 63080 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/26/2026 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/30/2025 | Portland Police Bureau | LOA | Police Off |  |  |
 | 7/21/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/29/2024 | Police Officer | Basic | Granted | 5/29/2024 |  |  |
+| 5/29/2024 | Police Officer | Basic | Granted | 5/29/2024 | 5/26/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

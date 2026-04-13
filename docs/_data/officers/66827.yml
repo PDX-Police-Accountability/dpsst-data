@@ -30,6 +30,78 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/31/2026
+  course: PDP4571C
+  title: Radar/Lidar Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 3/26/2026
+  course: PDP3042C
+  title: FTEP Hazmat/WMD APR Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/26/2026
+  course: PDP1435C
+  title: FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 3/25/2026
+  course: PDP2229C
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.25'
+- date: 3/24/2026
+  course: PDP3751C
+  title: FTEP Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/23/2026
+  course: PDP4452C
+  title: Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/23/2026
+  course: PDP4004C
+  title: Mobile Identification Device (MIDD)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/19/2026
+  course: PDP2706C
+  title: RegJin RMS/MRE Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 3/12/2026
+  course: PDP0793C
+  title: FTEP Post PVO StopSticks Box IN
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/10/2026
+  course: PDP4079C
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/9/2026
+  course: PDP1474C
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/9/2026
+  course: PDP3109C
+  title: 2024 PVO Recorded In-Service
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/22/2026
   course: REG2570C
   title: INTOX 8000 (Hours included in Basic)

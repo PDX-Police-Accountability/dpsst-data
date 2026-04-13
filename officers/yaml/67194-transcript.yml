@@ -36,5 +36,33 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
-attribute_records: []
+- date: 2/26/2026
+  course: PDP0720C
+  title: New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 2/24/2026
+  course: PDP1239C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/18/2026
+  course: PDP0648C
+  title: 2026 FTEP Policy and Procedure
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/4/2026
+  course: PDP0663C
+  title: Amended DOJ Settlement Agreement (04/2022)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 3/2/2026
+  expiration_date: ''
 education_records: []

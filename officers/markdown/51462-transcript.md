@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/19/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 1/21/2026 | PDS2919C | Monthly Reserve Unit Meeting | Passed | 0.0 | 2.00 |
 | 12/1/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 11/19/2025 | PDS0065C | Monthly Reserve Unit Meeting | Passed | 0.0 | 2.00 |

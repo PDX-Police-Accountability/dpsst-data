@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/22/2026 | DOJ-Criminal Justice Division | Promotion | Spec Agent |  |  |
 | 6/15/2021 | DOJ-Criminal Justice Division | Hired | Spec Agent |  |  |
 | 6/14/2021 | Portland Police Bureau | Resigned | Detective |  |  |
 | 9/21/2006 | Portland Police Bureau | Promotion | Detective |  |  |
@@ -36,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
+| 1/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
+| 1/22/2026 | VND4455C | NW Peer Support Conference - Responder Life | Passed | 0.0 | 16.00 |
 | 1/14/2026 | SAG2745C | Firerms Training | Passed | 0.0 | 2.00 |
 | 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |
 | 6/6/2025 | SAG0243A | Firearms training | Passed | 0.0 | 1.50 |

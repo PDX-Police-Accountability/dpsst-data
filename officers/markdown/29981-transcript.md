@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2026 | WLP2992C | WLPD 2026 TASER Recertification | Passed | 0.0 | 2.00 |
+| 3/13/2026 | WLP4062C | CA Sexual Assault Investigators Assoc Conference | Passed | 0.0 | 25.00 |
+| 2/25/2026 | OCA1037C | February MCT - Brady | Passed | 0.0 | 1.00 |
 | 1/28/2026 | OCA3663C | MCT - Digital Search Warrants | Passed | 0.0 | 2.00 |
 | 12/3/2025 | WLP4530C | Search and Seizure | Passed | 0.0 | 1.50 |
 | 11/3/2025 | WLP1689B | Duty to Intercede | Passed | 0.0 | 1.00 |

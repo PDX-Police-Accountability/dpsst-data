@@ -34,6 +34,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 3/26/2026
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 7/6/2022
   certificate: Police Officer
   level: Intermediate
@@ -49,6 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/26/2026
+  course: REG2422C
+  title: Understanding and Improving DV Investigation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 2/12/2026
+  course: LCP0199C
+  title: FTEP Supervision Course
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 2/1/2026
   course: REQSUPV
   title: 'REQUIRED TRAINING:  Supervision'

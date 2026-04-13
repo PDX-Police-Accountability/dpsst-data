@@ -55,6 +55,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/18/2026
+  course: HBS1169C
+  title: TNT - New Operator Vehicle Operations
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/11/2026
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '6.75'
+- date: 2/11/2026
+  course: HBS3702C
+  title: TNT-Hostage Rescue
+  status: Passed
+  score: '0.0'
+  hours: '6.75'
 - date: 2/3/2026
   course: BVP3499C
   title: Threat Discretion/UTM Range 020326PM

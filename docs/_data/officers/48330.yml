@@ -63,12 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2026
+  course: GSP3149C
+  title: Effective Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/16/2026
+  course: GSP3538C
+  title: UAS Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/31/2026
   course: GSP1974C
   title: IBIS Fingerprint Scanner
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/31/2026
+  course: GSP2632C
+  title: vMobile CAD Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/26/2026
   course: GSP1878C
   title: vMobile Training

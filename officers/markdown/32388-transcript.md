@@ -35,9 +35,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/18/2026 | GSP1464C | Post Academy Firearms Training | Instructed | 0.0 | 8.00 |
+| 2/23/2026 | GSP2061C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
+| 2/13/2026 | GSP4267C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
+| 2/12/2026 | GSP2955C | SWAT Active Threat | Passed | 0.0 | 10.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |
+| 1/31/2026 | GSP2632C | vMobile CAD Training | Passed | 0.0 | 0.25 |
 | 1/26/2026 | GSP1878C | vMobile Training | Passed | 0.0 | 0.25 |
 | 1/23/2026 | GSP0480C | NSSF SHOT Show | Passed | 0.0 | 40.00 |
+| 1/16/2026 | GSP3667C | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 1/15/2026 | GSP1673C | SWAT - Cautious Clearing with K9 | Passed | 0.0 | 10.00 |
+| 1/14/2026 | GSP3140C | SWAT - Firearms | Passed | 0.0 | 10.00 |
 | 1/12/2026 | GSP3111C | CEW (Taser) refresher | Passed | 0.0 | 1.00 |
 | 1/1/2026 | GSP1753C | PowerTime Schedule | Passed | 0.0 | 0.25 |
 | 12/19/2025 | GSP3096C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |

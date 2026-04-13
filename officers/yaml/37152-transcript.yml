@@ -44,9 +44,87 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/20/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/18/2026
+  course: VND3490C
+  title: Effective Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/19/2026
+  course: PDP3022C
+  title: 2026 Investigators IS Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/19/2026
+  course: PDP2663C
+  title: 2026 Investigators IS Digital Tata Analysis
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2026
+  course: PDP4231C
+  title: 2026 Investigators IS Exemption Review/Legal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2026
+  course: PDP4289C
+  title: 2026 Investigators IS Tech Warrants and Testimony
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/19/2026
+  course: PDP0336C
+  title: 2026 Investigators IS Mass Casualty Incident
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/18/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2026
+  course: PDP2069C
+  title: ALPR Training (Motorola)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/31/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/31/2025
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
   status: Passed
   score: '0.0'
   hours: '0.25'

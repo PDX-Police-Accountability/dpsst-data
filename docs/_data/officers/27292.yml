@@ -106,6 +106,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/3/2026
+  course: PDS1311C
+  title: Suicide Intervention
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/3/2026
+  course: PDS0663C
+  title: Wrap Restraint
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/6/2026
   course: PDS2204C
   title: Crisis Negotiation Team Training

@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2026 | EGP1845C | Lead Smarter in 2026:  3 Leadership Traps to Avoid | Passed | 0.0 | 1.00 |
+| 3/12/2026 | EGP4597C | Leading Through Generations:People-Focused Leaders | Passed | 0.0 | 1.00 |
 | 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 1/15/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 1/15/2026 | EGP2620C | State of Oregon DOJ Domestic Violence Updates | Passed | 0.0 | 4.00 |

@@ -20,6 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 4/9/2026 | Police Officer | Intermediate | App Recd |  |  |  |
 | 6/26/2023 | Police Officer | Basic | Granted | 6/26/2023 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/25/2026 | OSH3109C | SFST Refresher Course | Passed | 0.0 | 8.00 |
 | 1/21/2026 | PSU0238C | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

@@ -68,6 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2026
+  course: WLP2992C
+  title: WLPD 2026 TASER Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/13/2026
+  course: WLP4062C
+  title: CA Sexual Assault Investigators Assoc Conference
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 2/25/2026
+  course: OCA1037C
+  title: February MCT - Brady
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/28/2026
   course: OCA3663C
   title: MCT - Digital Search Warrants

@@ -43,7 +43,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2026 | HBS2653C | Rifle Remediation | Passed | 0.0 | 4.00 |
+| 3/19/2026 | HBS1675C | MFF - Public Order | Passed | 0.0 | 9.00 |
+| 2/24/2026 | HBS4205C | IMT Training | Passed | 0.0 | 8.00 |
 | 2/1/2026 | HBS3954C | Rifle Updates | Passed | 0.0 | 10.00 |
+| 1/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
+| 1/22/2026 | VND4455C | NW Peer Support Conference - Responder Life | Passed | 0.0 | 16.00 |
 | 12/18/2025 | HBS0506C | Virtual - WCSO Deflection Training | Passed | 0.0 | 1.50 |
 | 12/18/2025 | HBS1609C | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |
 | 12/18/2025 | HBS4389C | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |

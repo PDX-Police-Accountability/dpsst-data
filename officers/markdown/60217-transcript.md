@@ -33,15 +33,26 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/26/2026 | PDP1750C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/19/2026 | PDP2207C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 2/16/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/12/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 2/12/2026 | PDP3076C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 4.00 |
+| 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
+| 2/11/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/22/2026 | PDP2386C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/22/2026 | PDP2386C | 2026 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
+| 1/19/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
+| 1/19/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/15/2026 | PDP1381C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/8/2026 | PDP0675C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/27/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/27/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 12/24/2025 | PDP1941C | SERT Firearms Training | Passed | 0.0 | 9.00 |
 | 12/17/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 12/10/2025 | PDP2357C | 2025 Patrol Rifle Operator's In-Service Day 2 | Instructed | 0.0 | 30.00 |
 | 11/26/2025 | PDP4058C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/6/2025 | PDP1277C | 2025 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

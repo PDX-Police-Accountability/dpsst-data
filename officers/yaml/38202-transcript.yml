@@ -68,6 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/18/2026
+  course: PDS1438C
+  title: Deep Dive
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/4/2026
+  course: PDS1020C
+  title: Equipment Management and Dock Dive
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/12/2026
+  course: PDS1039C
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/18/2025
   course: PDS1064C
   title: Firearms

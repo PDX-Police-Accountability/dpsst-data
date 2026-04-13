@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2026
+  course: OCS1777C
+  title: Take Downs Ground Offense/Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2026
+  course: OCS4419C
+  title: February 2026 Monthly Firearms Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/28/2026
   course: OCS2184C
   title: Marksmanship, Dec 2025 Monthly Firearms
@@ -2451,6 +2463,10 @@ training_records:
   score: '0.0'
   hours: '6.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/17/2026
+  expiration_date: 3/3/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

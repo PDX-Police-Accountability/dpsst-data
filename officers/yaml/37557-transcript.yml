@@ -81,6 +81,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/1/2026
+  course: LOP1902C
+  title: Overview of Mental Health Statutes and Resources
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/10/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/10/2026
+  course: LOP3893C
+  title: 40mm Launcher Recertification Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/19/2025
   course: OCA3728C
   title: Open Source DNA

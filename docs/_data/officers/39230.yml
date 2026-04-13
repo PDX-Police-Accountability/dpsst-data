@@ -100,6 +100,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/12/2026
+  course: EGP2619C
+  title: Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/12/2026
+  course: EGP3799C
+  title: Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/15/2026
   course: EGP1672C
   title: Bloodborne Pathogens

@@ -87,6 +87,42 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 3/17/2026
+  course: OSH4403C
+  title: Manager Comp. Trng. - PAF/TOMP Check-Ins
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2026
+  course: OSH3995C
+  title: Leadership with General Mattis
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2026
+  course: OSH0842C
+  title: Leadership with General Mattis
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/12/2026
+  course: OSH1060C
+  title: 'The Self-Deception Trap: Saving Leaders'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2026
+  course: OSH3824C
+  title: 'The Self-Deception Trap: Saving Leaders'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/20/2026
+  course: OSH0503C
+  title: Manager Comp. Trng. - Legislative Process
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/12/2026
   course: OSH4553C
   title: Adult/Child CPR and First Aid

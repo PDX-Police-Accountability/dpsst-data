@@ -46,6 +46,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2026 | PDS1311C | Suicide Intervention | Passed | 0.0 | 4.00 |
+| 2/3/2026 | PDS0663C | Wrap Restraint | Passed | 0.0 | 4.00 |
 | 1/6/2026 | PDS2204C | Crisis Negotiation Team Training | Instructed | 0.0 | 16.00 |
 | 12/17/2025 | PDS4383C | Handgun Training  Qualification | Passed | 0.0 | 8.00 |
 | 11/24/2025 | PDS1489C | GLOVE Training | Passed | 0.0 | 4.00 |

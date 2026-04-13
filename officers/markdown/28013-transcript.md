@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 14.00 |
+| 2/12/2026 | LCP0199C | FTEP Supervision Course | Passed | 0.0 | 14.00 |
 | 1/29/2026 | PSU4230C | Use of Force Policy and Application | Passed | 0.0 | 1.00 |
 | 1/28/2026 | PSU3153C | Extreme Risk Protection Order Conference | Passed | 0.0 | 8.00 |
 | 1/21/2026 | PSU0155C | Defensive Tactics | Passed | 0.0 | 1.00 |

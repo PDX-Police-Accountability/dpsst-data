@@ -61,6 +61,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/4/2026
+  course: HBS4435C
+  title: Realistic De-Escalation Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/11/2026
+  course: HBN4185C
+  title: Defensive Tactics Planning session
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/11/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/14/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

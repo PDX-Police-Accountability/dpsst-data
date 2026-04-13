@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 3/6/2026
+  course: VND1335C
+  title: Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 5/23/2018
   course: PDP40857
   title: 'Leadership 2018: Law Enforcement Professionals'

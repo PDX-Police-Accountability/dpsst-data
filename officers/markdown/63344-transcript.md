@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/11/2026 | ATS3766C | Green Lab | Passed | 0.0 | 8.00 |
+| 2/26/2026 | STP0664C | RAID Team Training- Breaching Training | Passed | 0.0 | 4.00 |
 | 1/28/2026 | STP1495C | RAID Team Training-Team Movements | Passed | 0.0 | 4.00 |
 | 12/31/2025 | VRP2411C | Lexipol Daily Training Bulletin | Passed | 0.0 | 12.00 |
 | 12/10/2025 | STP0748C | Interview and Interrogation | Passed | 0.0 | 7.00 |

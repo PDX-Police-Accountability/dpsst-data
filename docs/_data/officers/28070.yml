@@ -74,12 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/7/2026
+  course: MNS1771C
+  title: Building Clearing and K9 Introduction
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/11/2026
   course: MNS0808C
   title: Emotional Survival and Leadership Seminar
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/3/2026
+  course: MNP0906C
+  title: Search  Seizure Case Law Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/12/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

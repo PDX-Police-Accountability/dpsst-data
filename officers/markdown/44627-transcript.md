@@ -37,6 +37,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/6/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/6/2026 | PDP2406C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
+| 1/6/2026 | PDP0450C | 2025 Sup IS Crime Scene Management for Mass | Passed | 0.0 | 1.50 |
+| 1/6/2026 | PDP1233C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
+| 1/6/2026 | PDP2658C | 2025 Sup IS Critical Incidents - Controlling the | Passed | 0.0 | 1.50 |
+| 1/6/2026 | PDP4076C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
+| 1/6/2026 | PDP2046C | 2025 Sup IS  Supporting Officers During Internal | Passed | 0.0 | 1.00 |
+| 1/6/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
+| 1/6/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 1/6/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/21/2025 | PDP2558C | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |

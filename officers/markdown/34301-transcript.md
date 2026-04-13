@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/29/2026 | 1/5/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 2/12/2024 | 2/1/2026 |
@@ -38,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2026 | TRN2333C | DOC - Armed Post Qualification (APQ) v2026 | Passed | 0.0 | 6.00 |
+| 1/29/2026 | TRN1633C | First Aid Adult Child Infant CPR AED v2026 | Passed | 0.0 | 6.00 |
 | 1/27/2026 | TRN4474C | DOC - AT - ODOC Professionalism v2026 | Passed | 0.0 | 2.50 |
 | 1/27/2026 | TRN2031C | DOC - Basic Public Records Training v2026 | Passed | 0.0 | 1.50 |
 | 1/27/2026 | TRN3097C | DOC - Conducting Cross-Gender Searches v2026 | Passed | 0.0 | 1.00 |

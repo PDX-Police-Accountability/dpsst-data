@@ -38,6 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2026 | BNP3238C | FTO Leadership Training | Passed | 0.0 | 2.00 |
+| 3/17/2026 | BNP2735C | Case Law Update | Passed | 0.0 | 1.00 |
+| 3/17/2026 | BNP3024C | UAS/Counter UAS- Indoor/Outdoor Searches | Passed | 0.0 | 4.50 |
+| 3/12/2026 | BNP4528C | Hearing Conservation Training | Passed | 0.0 | 0.75 |
+| 3/3/2026 | BNP1240C | Emergency Vehicle Operations/Vehicle Placement | Passed | 0.0 | 1.00 |
+| 2/19/2026 | BNP3542C | UAS Response to Active Shooter | Passed | 0.0 | 7.50 |
 | 1/29/2026 | BNS3329C | Internet Crimes Against Children 101 | Passed | 0.0 | 8.00 |
 | 1/27/2026 | BNP2052C | Below 100 / speed and vehicle related deaths | Passed | 0.0 | 1.00 |
 | 1/27/2026 | BNP2067C | Self-Regulation | Passed | 0.0 | 0.50 |

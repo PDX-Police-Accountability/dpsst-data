@@ -35,6 +35,79 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/27/2026 | PDP1265C | 2020 Supervisor IS Crime Scene Management Part 1 | Passed | 0.0 | 0.50 |
+| 2/27/2026 | PDP2871C | 2020 Supervisor IS Crime Scene Management Part 2 | Passed | 0.0 | 1.00 |
+| 2/27/2026 | PDP2719C | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
+| 2/27/2026 | PDP2014C | 2024-3IS PP Shooting at Moving Vehicle Video 1 | Passed | 0.0 | 1.25 |
+| 2/26/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 2/26/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP0121C | 2019 Chief's Office SPLC Sovereign Citizen Mvmt | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP2199C | 2019 Chief's Office SPLC The Rise of the Lone Wolf | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP1081C | 2019-1 CAO Legal Updates for 01/2019 | Passed | 0.0 | 0.50 |
+| 2/25/2026 | PDP3747C | 2019-1 PSD Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP1645C | 2019-1 PSD Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP4525C | 2019-10 CAO Legal Updates for 10/2019 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP1152C | 2019-11 CAO Legal Updates for 11/2019 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP2727C | 2019-2 CHO Force Inspector Updates for Q2 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP0129C | 2019-2 CAO Legal Updates for 02/2019 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP4042C | 2019-2 TT Use of Force/De-escalation QA | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP0775C | 2019-4 CAO Legal Updates for 04/2019 | Passed | 0.0 | 0.50 |
+| 2/25/2026 | PDP0420C | 2019-5 CAO Legal Updates for 05/2019 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP3828C | 2020 CAO ACLU/Bushong TRO Training | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP2089C | 2020 CAO Index Newspapers/Simon TRO Training | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP1897C | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP3006C | 2018-2 TT Disposition of Records Upon Retirement | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP3976C | 2018-4 CAO Legal Updates for Q4 | Passed | 0.0 | 0.50 |
+| 2/25/2026 | PDP3407C | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP0617C | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP4336C | 2019 Chief's Office SPLC Hate Crimes | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP2711C | 2019 Chief's Office SPLC Racists Skinheads | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP3040C | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP3152C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP2295C | 2020-2 CAO Legal Updates for 02/2020 | Passed | 0.0 | 0.50 |
+| 2/25/2026 | PDP3185C | 2020-5 CAO Legal Updates for 05/2020 | Passed | 0.0 | 0.50 |
+| 2/25/2026 | PDP3498C | 2020-8 CAO Legal Updates for 08/2020 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP0842C | 2022-2 In Service Legal Updates Part 1 | Passed | 0.0 | 1.00 |
+| 2/25/2026 | PDP2494C | 2022-2 In Service Legal Updates Part 2 | Passed | 0.0 | 1.00 |
+| 2/25/2026 | PDP1345C | 2022-2 In Service Legal Updates Part 3 | Passed | 0.0 | 0.50 |
+| 2/25/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP0968C | 2023 Office 365/OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP2211C | 2024-1 Online Sup IS - Message from the Force Insp | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP3969C | 2024-1 Sup IS Deminimus Force BWC Review (Video) | Passed | 0.0 | 1.00 |
+| 2/25/2026 | PDP1863C | 2024-3 IS Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
+| 2/25/2026 | PDP2151C | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |
+| 2/25/2026 | PDP2465C | 2024-3 Supv In-Service Force Inspector Video | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP2596C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP0764C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
+| 2/24/2026 | PDP0753C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
+| 2/24/2026 | PDP1094C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP3668C | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 2/24/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 2/24/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP0431C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP2947C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 2/24/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP3979C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP1016C | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP1817C | 2025-07 CAO Legal Updates for 08 - 09/2024 | Passed | 0.0 | 0.50 |
+| 2/24/2026 | PDP2758C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
+| 2/24/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP1901C | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP4467C | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP2402C | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP2930C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 2/24/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 2/24/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP3161C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
+| 2/24/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/24/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |

@@ -29,6 +29,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/31/2026 | PDP3386C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
+| 3/30/2026 | PDP1560C | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 3/23/2026 | PDP4452C | Body Worn Camera Training | Passed | 0.0 | 2.00 |
+| 3/23/2026 | PDP4004C | Mobile Identification Device (MIDD) | Passed | 0.0 | 1.00 |
+| 3/19/2026 | PDP2706C | RegJin RMS/MRE Training | Passed | 0.0 | 14.00 |
+| 3/12/2026 | PDP0793C | FTEP Post PVO StopSticks Box IN | Passed | 0.0 | 4.00 |
+| 3/9/2026 | PDP1474C | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/24/2025 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |
 | 12/24/2025 | PDP0447C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |

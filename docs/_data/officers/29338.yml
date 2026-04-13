@@ -80,6 +80,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/25/2026
+  course: PDS1349C
+  title: UAS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/27/2026
+  course: PDS1039C
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/22/2025
   course: PDS3752C
   title: Firearms

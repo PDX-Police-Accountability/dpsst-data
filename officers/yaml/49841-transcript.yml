@@ -44,24 +44,126 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/10/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/26/2026
+  course: PDP1750C
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/18/2026
+  course: PDP3022C
+  title: 2026 Investigators IS Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2026
+  course: PDP2663C
+  title: 2026 Investigators IS Digital Tata Analysis
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2026
+  course: PDP4231C
+  title: 2026 Investigators IS Exemption Review/Legal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2026
+  course: PDP4289C
+  title: 2026 Investigators IS Tech Warrants and Testimony
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2026
+  course: PDP0336C
+  title: 2026 Investigators IS Mass Casualty Incident
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/12/2026
+  course: XDELETE4
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2026
+  course: PDP3076C
+  title: 2026 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2026
+  course: PDP2132C
+  title: 2026 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/11/2026
   course: MNS0808C
   title: Emotional Survival and Leadership Seminar
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/4/2026
+  course: PDP4141C
+  title: Dignitary Protection Seminar
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/3/2026
+  course: PDP1727C
+  title: 2025 AR In-Service Wrap Up
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/3/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/29/2026
   course: PDP1290C
   title: 2026 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/27/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/22/2026
   course: PDP4425C
   title: 2026 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/20/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/20/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/15/2026
   course: PDP1381C
   title: 2026 SERT Training - SCENARIO
@@ -74,6 +176,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/3/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/31/2025
   course: PDP0682C
   title: 2025 SERT Training - FIREARMS
@@ -86,6 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/10/2025
+  course: PDP2357C
+  title: 2025 Patrol Rifle Operator's In-Service Day 2
+  status: Instructed
+  score: '0.0'
+  hours: '50.00'
 - date: 12/9/2025
   course: PDP3618C
   title: 2025 Sergeant's Leadership Workshop

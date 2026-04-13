@@ -49,12 +49,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/3/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/29/2026
   course: PDP1290C
   title: 2026 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/27/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2026
+  course: PDP1239C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/22/2026
   course: PDP2386C
   title: 2026 SERT Training - FIREARMS
@@ -85,6 +109,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/31/2025
+  course: PDP1554C
+  title: 2025 All Sworn In-Service ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 12/24/2025
   course: PDP1941C
   title: SERT Firearms Training

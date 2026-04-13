@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2026 | MLP3927C | Slips, Trips and Falls | Passed | 0.0 | 0.50 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/3/2025 | MLP2455C | Night Shoot/Qual-Pistol | Passed | 0.0 | 3.00 |
 | 11/3/2025 | MLP1825C | Night Shoot/Qual-Pistol | Passed | 0.0 | 3.00 |
@@ -47,12 +48,15 @@
 | 9/23/2025 | MLP3532B | Implicit Bias | Passed | 0.0 | 1.00 |
 | 9/22/2025 | MLP0449B | PREA Prision Rape Elimination Act | Passed | 0.0 | 1.00 |
 | 8/25/2025 | MLP3428B | Handgun and Rifle qualifications | Passed | 0.0 | 3.00 |
+| 7/31/2025 | MLP3121C | Resilience and Stress Management | Passed | 0.0 | 0.50 |
 | 7/22/2025 | MLP1438B | Crisis Intervention Training CIT - Crisis Response | Passed | 0.0 | 1.00 |
 | 7/15/2025 | MLP3796B | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/15/2025 | MLP2491B | Hazardous Material Response | Passed | 0.0 | 0.50 |
 | 7/15/2025 | MLP1580B | Strangulation Forensic Evidence Kits, SKITs | Passed | 0.0 | 0.50 |
 | 7/15/2025 | MLP1880B | Use of Force | Passed | 0.0 | 1.00 |
 | 6/10/2025 | MLP0151A | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 6/4/2025 | MLP2162C | OSHA Heat Illness Prevention | Passed | 0.0 | 0.50 |
+| 4/9/2025 | MLP1815C | Why Emergency Preparedness Matters | Passed | 0.0 | 0.50 |
 | 3/5/2025 | MLP2154A | MOPD New Carrier Less Lethal Qualification | Instructed | 0.0 | 4.00 |
 | 12/18/2024 | MLP2579A | Taser Training and Updates | Passed | 0.0 | 3.00 |
 | 12/11/2024 | HBS0216A | Less Lethal Impact Munitions Instructor Program | Passed | 0.0 | 8.00 |

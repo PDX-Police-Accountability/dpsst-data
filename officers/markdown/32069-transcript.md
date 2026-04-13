@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/25/2026 | SDP4058C | K9 Track Training | Passed | 0.0 | 1.00 |
+| 2/18/2026 | SDP1268C | Taser - Operator  Re-Certification | Passed | 0.0 | 4.00 |
+| 2/18/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 1/28/2026 | SDP1945C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |
 | 1/28/2026 | SDP0241C | DV Legal update DDA Presentation | Passed | 0.0 | 1.50 |
 | 1/28/2026 | SDP0965C | Bloodborne Pathogens - CIS Learn Portal | Passed | 0.0 | 1.00 |
@@ -77,6 +80,7 @@
 | 4/22/2025 | OAC1588A | So, You Wanted to Be a Cop | Passed | 0.0 | 1.00 |
 | 4/22/2025 | OAC2881A | Relaxing Transition to Retirement or Tsunami? | Passed | 0.0 | 1.00 |
 | 4/16/2025 | SDP1314A | Handgun Qualification | Passed | 0.0 | 2.00 |
+| 4/16/2025 | SDP0974C | Redkite Leadership DISC Management 2 of 4 | Passed | 0.0 | 4.50 |
 | 4/14/2025 | REG2174B | Strike Defense/Ground Control | Passed | 0.0 | 1.00 |
 | 4/9/2025 | SDP2569A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 4/7/2025 | REG3411B | Striking/Butterfly Guard Sweep | Passed | 0.0 | 1.00 |
@@ -85,6 +89,7 @@
 | 3/19/2025 | SDP2161A | Drone Introduction | Passed | 0.0 | 1.50 |
 | 3/19/2025 | SDP0260A | Eyewitness Idetification Training | Passed | 0.0 | 1.00 |
 | 3/19/2025 | SDP4482A | Major Incidents and Death Investigations | Passed | 0.0 | 1.00 |
+| 3/19/2025 | SDP3768C | SFST Refresher | Passed | 0.0 | 4.00 |
 | 3/10/2025 | REG1078A | Take Downs/Ground Control | Passed | 0.0 | 1.00 |
 | 3/3/2025 | REG3712A | DT | Passed | 0.0 | 1.00 |
 | 2/26/2025 | SDP3225A | TASER Annual Recertification 4hr | Passed | 0.0 | 4.00 |

@@ -35,14 +35,29 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/23/2026 | PDP2703C | 2026 Investigators IS - Digital Data Analysis | Passed | 0.0 | 1.00 |
+| 3/23/2026 | PDP3913C | 2026 Investigators IS Exemption Review Legal | Passed | 0.0 | 1.00 |
+| 3/23/2026 | PDP0724C | 2026 Investigators IS - Mass Casualty Incidents | Passed | 0.0 | 1.75 |
+| 3/17/2026 | PDP4164C | 2026 Investigators IS - Device Warrant Searches | Passed | 0.0 | 1.75 |
+| 3/12/2026 | PDP0317C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 3/2/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/12/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 2/12/2026 | PDP3076C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 4.00 |
+| 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
+| 2/9/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/22/2026 | PDP2386C | 2026 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
 | 1/22/2026 | PDP2386C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/15/2026 | PDP1381C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/8/2026 | PDP0675C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/5/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 1/1/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/1/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 12/15/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/15/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 12/11/2025 | PDP0824C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 12/10/2025 | PDP2357C | 2025 Patrol Rifle Operator's In-Service Day 2 | Instructed | 0.0 | 30.00 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
 | 11/25/2025 | PDP2073C | 2025-3 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 11/25/2025 | PDP1568C | 2025-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |

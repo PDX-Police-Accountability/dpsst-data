@@ -16,6 +16,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 2/26/2026
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/26/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 4/19/2018
   certificate: Police Officer
   level: Basic
@@ -24,6 +38,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/12/2026
+  course: PDP1727C
+  title: 2025 AR In-Service Wrap Up
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/12/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP1239C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/4/2025
   course: PDP2743C
   title: 2025-10 CHO EO, DIR 0625.00 Automatic License

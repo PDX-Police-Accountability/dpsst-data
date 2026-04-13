@@ -30,6 +30,78 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/13/2026
+  course: PDP2955C
+  title: AA [CIT-113-H] Responding to a MH Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/2/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/26/2026
+  course: PDP4150C
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/15/2026
+  course: PDP3825C
+  title: AA [CIT-112-A] Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/7/2026
+  course: PDP0306C
+  title: AA [PJU-101-H] Introduction to Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/4/2026
+  course: PDP1837C
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/2/2026
+  course: PDP0211C
+  title: AA [WEL-101-H] Introduction to Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP2442C
+  title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/19/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/19/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/18/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

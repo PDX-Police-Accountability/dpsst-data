@@ -43,6 +43,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/30/2026 | OCS2515C | 2026 1st Quarter Corrections Firearms | Instructed | 0.0 | 24.00 |
+| 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
+| 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Instructed | 0.0 | 26.00 |
+| 3/19/2026 | OCS1545C | Marksmanship/Drawing to a shot efficiently | Instructed | 0.0 | 2.00 |
+| 3/13/2026 | OCS4550C | March 2026 New Hire Firearms | Instructed | 0.0 | 16.00 |
+| 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Passed | 0.0 | 1.00 |
+| 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Instructed | 0.0 | 35.00 |
 | 2/9/2026 | OCS2974C | Holster Speed / Marksmanship | Instructed | 0.0 | 1.00 |
 | 1/28/2026 | OCS2184C | Marksmanship, Dec 2025 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 1/23/2026 | OCS2111C | Marksmanship, Nov and Dec 2025 Monthly Firearms | Instructed | 0.0 | 3.00 |

@@ -105,6 +105,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/6/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/18/2026
+  course: PDP2030C
+  title: 2026 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 2/11/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/11/2026
+  course: PDP2665C
+  title: 2026 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/4/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/30/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/29/2026
   course: PDP3670C
   title: 2026 K-9 (K9) Weekly Training
@@ -117,6 +153,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 1/9/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2026
+  course: PDP0723C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/8/2026
   course: PDP4344C
   title: 2026 K-9 (K9) Weekly Training
@@ -171,6 +219,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/10/2025
+  course: PDP2357C
+  title: 2025 Patrol Rifle Operator's In-Service Day 2
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 12/4/2025
   course: PDP0762C
   title: Emergency Operations Plan (EOP)

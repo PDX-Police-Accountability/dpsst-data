@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/29/2026 | PSU2725C | Firearms Q1 / Qualification | Passed | 0.0 | 2.00 |
 | 12/10/2025 | PSU3518C | Defensive Tactics and Appled Use of Force | Passed | 0.0 | 4.00 |
 | 12/8/2025 | PSU4536C | Report Writing 1 | Passed | 0.0 | 1.00 |
 | 12/8/2025 | PSU0586C | Report Writing 2 | Passed | 0.0 | 1.00 |

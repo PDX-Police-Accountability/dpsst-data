@@ -42,8 +42,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 2/19/2026 | GSP0537C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |
+| 1/31/2026 | GSP2632C | vMobile CAD Training | Passed | 0.0 | 0.25 |
 | 1/26/2026 | GSP1878C | vMobile Training | Passed | 0.0 | 0.25 |
 | 1/12/2026 | GSP3111C | CEW (Taser) refresher | Passed | 0.0 | 1.00 |
 | 1/1/2026 | GSP2363C | PowerTime Schedule Training | Passed | 0.0 | 0.50 |
@@ -114,8 +116,10 @@
 | 12/29/2021 | F6F16400 | Critical Incident Response, Use of Force | Passed | 0.0 | 1.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2021 | F6E11232 | ICS 200 | Passed | 0.0 | 3.00 |
+| 12/9/2021 | GSP3047C | FEMA IS800 | Passed | 0.0 | 3.00 |
 | 11/17/2021 | F6K00735 | Wrap Restraint System | Passed | 0.0 | 1.50 |
 | 11/17/2021 | F6E00082 | The Red Door Project | Passed | 0.0 | 3.00 |
+| 9/22/2021 | GSP0192C | FEMA WMD/Terrorism Awareness | Passed | 0.0 | 8.00 |
 | 9/17/2021 | F6F21914 | First Aid/CPR | Passed | 0.0 | 3.00 |
 | 9/15/2021 | FGP32676 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 9/13/2021 | F6F38381 | 40mm/ Baton/ OC Refresher | Passed | 0.0 | 1.00 |
@@ -760,6 +764,8 @@
 | 8/28/2006 | 06-1644 | CPS Training | Passed | 0.0 | 8.00 |
 | 8/24/2006 | 06-1936 | Three Flags Safety Belt Training | Passed | 0.0 | 8.00 |
 | 8/16/2006 | 06-0032 | Intoxilyzer 8000 | Passed | 0.0 | 4.00 |
+| 7/19/2006 | GSP2932C | FEMA IS100 | Passed | 0.0 | 2.00 |
+| 7/19/2006 | GSP1547C | FEMA IS700 | Passed | 0.0 | 3.50 |
 | 6/5/2006 | 06-0908 | Motorcycle Training | Passed | 0.0 | 8.00 |
 | 3/10/2006 | 06-0528 | Child Passenger Safety | Instructed | 0.0 | 32.00 |
 | 3/10/2006 | 06-0528 | Child Passenger Safety | Passed | 0.0 | 32.00 |

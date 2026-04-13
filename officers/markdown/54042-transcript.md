@@ -29,6 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/20/2026 | 3/3/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2026 |
@@ -40,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
+| 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Passed | 0.0 | 1.00 |
+| 2/20/2026 | OCS3018C | Striking Takedowns | Passed | 0.0 | 1.00 |
+| 2/2/2026 | OCS3309C | Below 100 | Passed | 0.0 | 0.50 |
 | 1/15/2026 | OCS1848C | Striking | Passed | 0.0 | 1.00 |
 | 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
 | 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |

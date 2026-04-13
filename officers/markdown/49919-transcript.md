@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/4/2026 | HBP3163C | K9 Arrest and Control | Passed | 0.0 | 4.50 |
+| 2/4/2026 | HBP1493C | Tactical De-escalation | Passed | 0.0 | 4.50 |
 | 10/31/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/15/2025 | SPP3907B | Law Enforcement Drone Association - Fall Conf. | Passed | 0.0 | 8.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: 2/18/2027
 training_records:
+- date: 3/29/2026
+  course: PSU2725C
+  title: Firearms Q1 / Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/10/2025
   course: PSU3518C
   title: Defensive Tactics and Appled Use of Force

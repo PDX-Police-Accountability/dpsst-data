@@ -46,8 +46,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2026 | GSP0816C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |
+| 1/31/2026 | GSP2632C | vMobile CAD Training | Passed | 0.0 | 0.25 |
 | 1/26/2026 | GSP1878C | vMobile Training | Passed | 0.0 | 0.25 |
 | 1/16/2026 | OAC1992C | Police Actions on Community Relations | Passed | 0.0 | 1.00 |
 | 1/15/2026 | OAC2673C | Ethical Leaders  Organizations | Passed | 0.0 | 1.00 |

@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/25/2026
+  course: SDP4058C
+  title: K9 Track Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2026
+  course: SDP1268C
+  title: Taser - Operator  Re-Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/18/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/28/2026
   course: SDP1945C
   title: Defensive Tactics 2 person arrest tactics
@@ -297,6 +315,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/16/2025
+  course: SDP0974C
+  title: Redkite Leadership DISC Management 2 of 4
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 4/14/2025
   course: REG2174B
   title: Strike Defense/Ground Control
@@ -345,6 +369,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/19/2025
+  course: SDP3768C
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/10/2025
   course: REG1078A
   title: Take Downs/Ground Control

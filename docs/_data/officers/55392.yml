@@ -62,6 +62,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/10/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/21/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/13/2026
+  course: PDP2783C
+  title: 2025-10 CHO EO, DIR 0625.00 Automatic License
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/24/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/13/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2026
+  course: PDP0723C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2026
+  course: PDP2069C
+  title: ALPR Training (Motorola)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/21/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

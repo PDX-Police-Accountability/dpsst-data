@@ -28,20 +28,110 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/30/2026
+- status_date: 3/24/2026
   certificate: Police Officer
   level: Basic
-  status: ReqCertExt
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 2/1/2027
 training_records:
-- date: 2/1/2027
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
+- date: 3/24/2026
+  course: E11PDP19
+  title: FTM Equivalency Review (Portland Police Bureau)
+  status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 2/13/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/19/2026
+  course: PDP1554C
+  title: 2025 All Sworn In-Service ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 1/19/2026
+  course: PDP3010C
+  title: 2025 All Sworn In-Service Active Threat (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/19/2026
+  course: PDP0712C
+  title: 2025 IS Public Order Shields (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/15/2026
+  course: PDP3035C
+  title: 2025 All Sworn In-Service Taser Training (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/15/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP0615C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP4432C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP0051C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2026
+  course: PDP0774C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP0431C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/3/2025
   course: PDP3336C
   title: 2025-10 National Incident Based Reporting System

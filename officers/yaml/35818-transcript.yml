@@ -50,12 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/4/2026
+  course: 36279C
+  title: Oregon Sanctuary Promise
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/31/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/17/2025
+  course: VND1499C
+  title: QPR Suicide Prevention Gatekeeper Program
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/3/2025
   course: GLP0613C
   title: Defensive Tactics Winter 2025

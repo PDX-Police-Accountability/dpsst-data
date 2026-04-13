@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/6/2026 | VND1335C | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 5/23/2018 | PDP40857 | Leadership 2018: Law Enforcement Professionals | Passed | 0.0 | 4.00 |
 | 12/31/2014 | 14-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/17/2012 | 12-0994 | CPR / First Aid Instructor Development Course | Passed | 0.0 | 6.00 |

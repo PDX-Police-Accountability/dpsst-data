@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/14/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/24/2025
   course: PDP2960C
   title: Annual Bloodborne Pathogens (CityLearner)
@@ -2175,4 +2193,19 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 8/4/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 5/12/2018
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: Criminal Justice Administration
+  hours: '88.0'
+- date: 9/15/2017
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '6.0'
+- date: 3/15/2015
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '58.0'

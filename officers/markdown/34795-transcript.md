@@ -29,6 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 3/11/2026 | 3/11/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
@@ -43,6 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2026 | WLP2992C | WLPD 2026 TASER Recertification | Passed | 0.0 | 2.00 |
+| 3/11/2026 | WLP0951C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 0.00 |
+| 3/6/2026 | VND1335C | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
+| 2/25/2026 | WLP2022C | Firearms Training / Qualifications | Passed | 0.0 | 3.00 |
 | 1/7/2026 | WLP3844C | Overview of mental health statues  BHU resources | Passed | 0.0 | 1.00 |
 | 12/18/2025 | WLP3850C | Taser 7 Re-certification | Passed | 0.0 | 3.00 |
 | 12/3/2025 | WLP4530C | Search and Seizure | Passed | 0.0 | 1.50 |

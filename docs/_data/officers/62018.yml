@@ -24,12 +24,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2026
+  course: PDP2511C
+  title: 2026 Rapid Response team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/3/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/13/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/13/2026
+  course: PDP3809C
+  title: 2026 Rapid Response team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/12/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/30/2026
   course: PDP2964C
   title: 2026 RRT Field Force Extraction In-Service
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/25/2026
+  course: PDP1727C
+  title: 2025 AR In-Service Wrap Up
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/25/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/23/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/23/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/15/2026
   course: PDP1381C
   title: 2026 SERT Training - SCENARIO
@@ -42,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/10/2025
+  course: PDP2357C
+  title: 2025 Patrol Rifle Operator's In-Service Day 2
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 11/26/2025
   course: PDP3221C
   title: 2025 ECIT Call Resolution

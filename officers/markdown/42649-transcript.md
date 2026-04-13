@@ -38,15 +38,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/11/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
+| 2/11/2026 | PDP2665C | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
+| 2/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/10/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP3670C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 1/21/2026 | PDP4531C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 1/8/2026 | PDP4344C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
+| 1/8/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 12/30/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 12/30/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/13/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/12/2025 | MISCMAIN | 2025 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/10/2025 | PDP1098C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 9.00 |
 | 12/10/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 12/10/2025 | PDP2357C | 2025 Patrol Rifle Operator's In-Service Day 2 | Instructed | 0.0 | 20.00 |
 | 12/9/2025 | PDP3618C | 2025 Sergeant's Leadership Workshop | Passed | 0.0 | 9.00 |
 | 12/8/2025 | PDP1098C | 2025 Red Dot Sight for Pistol Transition | Passed | 0.0 | 18.00 |
 | 12/3/2025 | PDP3046C | 2025 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

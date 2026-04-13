@@ -45,10 +45,27 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/5/2025 | No Degree | All Other Education Institutes |  | 18.0 |
 | 12/15/2000 | No Degree | Chemeketa Community College |  | 23.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2026 | SVP2081C | Documenting Police Use of Force  Lethal Restraint | Passed | 0.0 | 1.00 |
+| 3/17/2026 | SVP2327C | Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
+| 3/13/2026 | SVP1235C | Taser 7 Operator Course | Passed | 0.0 | 6.00 |
+| 3/12/2026 | SVP3070C | Preventing Workplace Discrimination  Harass | Passed | 0.0 | 0.75 |
+| 3/12/2026 | SVP4236C | Sexual Harassment Prevention Manager CIS | Passed | 0.0 | 0.50 |
+| 3/11/2026 | AVP1012C | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
+| 2/27/2026 | VND3690C | Documentation 101: for Workplace Leaders | Passed | 0.0 | 1.00 |
+| 2/27/2026 | VND4239C | Progressive Discipline 101 | Passed | 0.0 | 1.00 |
+| 2/26/2026 | VND4055C | 2026 Case Law/Legal Updates | Passed | 0.0 | 1.00 |
+| 2/26/2026 | VND4193C | Leave  Accommodations 101 | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND4203C | Cybersecurity Essentials: Affordable Resources | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND2433C | Top 10 Ways to Get Sued | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND0754C | Fostering Effective Relationships | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND3324C | Navigating Line of Duty Loss | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND2026C | Fit to Serve: Fitness for Duty Examinations | Passed | 0.0 | 1.00 |
+| 2/25/2026 | VND1376C | When the Call Comes In: Critical Incidents | Passed | 0.0 | 1.00 |
 | 2/13/2026 | SVP1824C | Prodedural Justice | Passed | 0.0 | 2.00 |
 | 1/21/2026 | AVP3468C | In-Service / Legal Updates | Passed | 0.0 | 1.00 |
 | 1/21/2026 | AVP1768C | METCOM Dispatch Protocols | Passed | 0.0 | 1.00 |

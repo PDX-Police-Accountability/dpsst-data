@@ -93,6 +93,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 2/19/2026
+  course: GSP0537C
+  title: 2026 Defensive Tactics In-service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/11/2026
   course: MNS0808C
   title: Emotional Survival and Leadership Seminar
@@ -105,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/31/2026
+  course: GSP2632C
+  title: vMobile CAD Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/26/2026
   course: GSP1878C
   title: vMobile Training
@@ -525,6 +537,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/9/2021
+  course: GSP3047C
+  title: FEMA IS800
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/17/2021
   course: F6K00735
   title: Wrap Restraint System
@@ -537,6 +555,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/22/2021
+  course: GSP0192C
+  title: FEMA WMD/Terrorism Awareness
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/17/2021
   course: F6F21914
   title: First Aid/CPR
@@ -4401,6 +4425,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/19/2006
+  course: GSP2932C
+  title: FEMA IS100
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/19/2006
+  course: GSP1547C
+  title: FEMA IS700
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 6/5/2006
   course: 06-0908
   title: Motorcycle Training

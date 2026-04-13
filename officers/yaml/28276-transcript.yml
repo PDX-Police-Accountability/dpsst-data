@@ -129,6 +129,102 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2026
+  course: SVP2081C
+  title: Documenting Police Use of Force  Lethal Restraint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/17/2026
+  course: SVP2327C
+  title: Hazmat First Responder Awareness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/13/2026
+  course: SVP1235C
+  title: Taser 7 Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/12/2026
+  course: SVP3070C
+  title: Preventing Workplace Discrimination  Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/12/2026
+  course: SVP4236C
+  title: Sexual Harassment Prevention Manager CIS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/11/2026
+  course: AVP1012C
+  title: Monthly Leadership Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/27/2026
+  course: VND3690C
+  title: 'Documentation 101: for Workplace Leaders'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2026
+  course: VND4239C
+  title: Progressive Discipline 101
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2026
+  course: VND4055C
+  title: 2026 Case Law/Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2026
+  course: VND4193C
+  title: Leave  Accommodations 101
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/25/2026
+  course: VND4203C
+  title: 'Cybersecurity Essentials: Affordable Resources'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/25/2026
+  course: VND2433C
+  title: Top 10 Ways to Get Sued
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/25/2026
+  course: VND0754C
+  title: Fostering Effective Relationships
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/25/2026
+  course: VND3324C
+  title: Navigating Line of Duty Loss
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/25/2026
+  course: VND2026C
+  title: 'Fit to Serve: Fitness for Duty Examinations'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/25/2026
+  course: VND1376C
+  title: 'When the Call Comes In: Critical Incidents'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/13/2026
   course: SVP1824C
   title: Prodedural Justice
@@ -5005,6 +5101,11 @@ attribute_records:
   effective_date: 4/12/2006
   expiration_date: ''
 education_records:
+- date: 6/5/2025
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '18.0'
 - date: 12/15/2000
   degree: No Degree
   school: Chemeketa Community College

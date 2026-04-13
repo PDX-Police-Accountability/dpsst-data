@@ -40,6 +40,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/9/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 6/26/2023
   certificate: Police Officer
   level: Basic
@@ -48,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/25/2026
+  course: OSH3109C
+  title: SFST Refresher Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/21/2026
   course: PSU0238C
   title: Defensive Tactics

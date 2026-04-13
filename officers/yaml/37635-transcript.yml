@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2026
+  course: EGP1845C
+  title: 'Lead Smarter in 2026:  3 Leadership Traps to Avoid'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2026
+  course: EGP4597C
+  title: Leading Through Generations:People-Focused Leaders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/15/2026
   course: EGP1672C
   title: Bloodborne Pathogens

@@ -67,6 +67,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/29/2026
+  course: TRN2333C
+  title: DOC - Armed Post Qualification (APQ) v2026
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/29/2026
+  course: TRN1633C
+  title: First Aid Adult Child Infant CPR AED v2026
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 1/27/2026
   course: TRN4474C
   title: DOC - AT - ODOC Professionalism v2026
@@ -1436,6 +1448,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/29/2026
+  expiration_date: 1/5/2026
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2026

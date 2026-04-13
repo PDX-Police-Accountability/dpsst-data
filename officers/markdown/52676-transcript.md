@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/15/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/15/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 1/6/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/6/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 1/6/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 12/30/2025 | REG0671C | PNW TacFit Conference | Passed | 0.0 | 16.00 |
 | 12/11/2025 | PDP1827C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 12/11/2025 | PDP2991C | 2024-10 CAO Legal Updates for 07  08/2023 | Passed | 0.0 | 0.25 |
@@ -45,6 +50,10 @@
 | 12/11/2025 | PDP4031C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 12/11/2025 | PDP1944C | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 12/11/2025 | PDP0372C | OSU Modified Duty and Cold Call-Taking Training | Passed | 0.0 | 0.25 |
+| 12/5/2025 | PDP1255C | Pathways to Resiliency: Comm Policing  Extremism | Passed | 0.0 | 4.00 |
+| 12/5/2025 | PDP3145C | Vehicle Pursuit Mgmt: Balancing Risks | Passed | 0.0 | 3.00 |
+| 12/1/2025 | PDP2763C | Better Encounters Police and People w/Disabilites | Passed | 0.0 | 3.00 |
+| 12/1/2025 | PDP0126C | Into to Non-Confrontational Invest Interviewing | Passed | 0.0 | 1.00 |
 | 11/25/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/20/2025 | PDP3671C | 2025 All Sworn In-Service Active Threat (Video) | Passed | 0.0 | 1.00 |
 | 11/20/2025 | PDP1738C | 2025 All Sworn IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |

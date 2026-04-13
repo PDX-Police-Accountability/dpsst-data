@@ -44,6 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/25/2026 | HBP0383C | K9 Arrest and Control | Passed | 0.0 | 4.50 |
+| 2/25/2026 | HBP0098C | Tactical De-escalation | Passed | 0.0 | 4.50 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 10/15/2025 | HBP4183C | Range | Passed | 0.0 | 5.00 |
 | 10/14/2025 | HBP3698B | Hillsboro Police Threat Assessment Team Training | Passed | 0.0 | 1.50 |

@@ -30,18 +30,96 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/12/2026
+  course: PDP2955C
+  title: AA [CIT-113-H] Responding to a MH Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/1/2026
+  course: PDP4150C
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/16/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/16/2026
+  course: PDP3825C
+  title: AA [CIT-112-A] Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/7/2026
+  course: PDP1837C
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/7/2026
+  course: PDP0306C
+  title: AA [PJU-101-H] Introduction to Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP0211C
+  title: AA [WEL-101-H] Introduction to Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP2442C
+  title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/14/2026
   course: PDP2252C
   title: FTEP Orientation
   status: Passed
   score: '0.0'
   hours: '6.45'
+- date: 1/14/2026
+  course: PDP2178C
+  title: 2025 IS PVO Stop Stick Hyperlink (External Trng)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/14/2026
+  course: PDP3548C
+  title: 2025 PVO-101/Stop Stick Training for Post Academy
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 1/13/2026
   course: PDP3224C
   title: FTEP Post PVO Stop Sticks Box In
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/13/2026
+  course: PDP3350C
+  title: FTEP Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/13/2026
+  course: PDP0205C
+  title: FTEP Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/12/2026
   course: PDP0676C
   title: Post Basic FTEP Firearms
@@ -60,6 +138,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/1/2026
+  course: PDP4451C
+  title: 2025 Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 1/1/2026
+  course: PDP1295C
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/1/2026
+  course: PDP0666C
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/1/2026
+  course: PDP2758C
+  title: 2025-07 CAO Legal Updates for 12/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/1/2026
+  course: PDP1901C
+  title: 2025-07 CAO Legal Updates for 01/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/29/2025
   course: PDP2410C
   title: 2025 Mobile Identification Device (MIDD) Training
@@ -438,6 +546,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/19/2025
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 11/18/2025
   course: REG0256C
   title: SFST/DID (Hours included in Basic)
@@ -448,12 +562,6 @@ training_records:
   course: REG0026C
   title: INTOX 8000 (Hours included in Basic)
   status: Passed
-  score: '0.0'
-  hours: '0.00'
-- date: 8/25/2025
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 8/21/2025

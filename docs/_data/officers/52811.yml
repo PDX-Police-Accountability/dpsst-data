@@ -57,6 +57,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/12/2026
+  course: GSP2955C
+  title: SWAT Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/11/2026
+  course: GSP2552C
+  title: SWAT Firearms
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/23/2026
+  course: PDS3582C
+  title: Range IDC
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/22/2026
+  course: PDS2236C
+  title: Red Dot Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/16/2026
+  course: GSP3667C
+  title: SWAT Sniper Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/15/2026
+  course: GSP1673C
+  title: SWAT - Cautious Clearing with K9
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/14/2026
+  course: GSP3140C
+  title: SWAT - Firearms
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/12/2026
+  course: PDS3582C
+  title: Range IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/30/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

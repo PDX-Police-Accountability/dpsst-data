@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2026 | 06672C | 3si Tracker | Passed | 0.0 | 8.00 |
+| 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
 | 1/14/2026 | SAG2745C | Firerms Training | Passed | 0.0 | 2.00 |
 | 12/11/2025 | SAG0233C | Firearms training | Passed | 0.0 | 3.00 |
 | 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |

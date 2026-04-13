@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2025
+  course: REG2148C
+  title: Use of Force IDC
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/25/2025
   course: BPT1092C
   title: Use of Force Scenario Instructor Workshop

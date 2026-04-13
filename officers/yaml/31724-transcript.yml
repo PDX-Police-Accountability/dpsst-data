@@ -107,6 +107,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/10/2026
+  course: BNS2154C
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/28/2026
+  course: BNS3575C
+  title: Rescue Task Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2026
+  course: BNS0410C
+  title: Deflection Program - Patrol Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2026
+  course: BNS0994C
+  title: Hearing Conservation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/28/2026
+  course: BNS3254C
+  title: "(Police1) CIT - Crisis Response"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2026
+  course: BNS0207C
+  title: Ladder Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/31/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2026
+  course: BNS2179C
+  title: "(Police1) Suicide Pevention for Law Enforcement"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/29/2026
   course: BNS0469C
   title: Arrest and Control

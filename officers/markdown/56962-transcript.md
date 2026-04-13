@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2026 | HBS4435C | Realistic De-Escalation Instructor Course | Passed | 0.0 | 16.00 |
+| 2/11/2026 | HBN4185C | Defensive Tactics Planning session | Passed | 0.0 | 2.00 |
+| 2/11/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/27/2025 | HBN4189C | Use of Force: Ethical Considerations | Passed | 0.0 | 1.00 |
 | 8/6/2025 | HBN0707B | DTs/Use of Force/Decision Making | Passed | 0.0 | 8.00 |

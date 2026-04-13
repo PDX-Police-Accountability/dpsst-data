@@ -63,6 +63,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/6/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP2406C
+  title: 2025 Supervisor In-Service Chiefs Hour Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/6/2026
+  course: PDP0450C
+  title: 2025 Sup IS Crime Scene Management for Mass
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/6/2026
+  course: PDP1233C
+  title: 2025 Sup IS Leadership in Action Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/6/2026
+  course: PDP2658C
+  title: 2025 Sup IS Critical Incidents - Controlling the
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/6/2026
+  course: PDP4076C
+  title: 2025 Supervisors In-Service Managing Up Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/6/2026
+  course: PDP2046C
+  title: 2025 Sup IS  Supporting Officers During Internal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/6/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP0723C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/9/2025
   course: PDP3618C
   title: 2025 Sergeant's Leadership Workshop

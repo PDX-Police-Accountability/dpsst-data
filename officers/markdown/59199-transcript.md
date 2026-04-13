@@ -43,6 +43,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2026 | EGP2862C | EVOC Skills | Passed | 0.0 | 3.50 |
+| 3/12/2026 | EGP2888C | MRT Concepts  Skills | Passed | 0.0 | 1.00 |
+| 3/12/2026 | EGP1953C | Firearms Training | Passed | 0.0 | 2.50 |
+| 3/11/2026 | VND0792C | 28CFR-Part23;RISSIntel-RISSafe;Deconfliction | Passed | 0.0 | 2.00 |
+| 3/4/2026 | 06672C | 3si Tracker | Passed | 0.0 | 8.00 |
+| 3/2/2026 | EGP0156C | SWAT Breaching- Explosive Door Charges-Viewports | Passed | 0.0 | 8.00 |
+| 2/28/2026 | EGP2656C | LEDS Recertification | Passed | 0.0 | 1.00 |
+| 2/26/2026 | EGP4386C | SWAT Firearms Skills | Passed | 0.0 | 4.00 |
+| 2/26/2026 | EGP4288C | SWAT Firearms Skills | Passed | 0.0 | 4.00 |
+| 2/26/2026 | EGP1083C | Basic Narcotic Specalised Unit Investigator Course | Passed | 0.0 | 40.00 |
+| 2/12/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.50 |
+| 2/12/2026 | EGP2619C | Suicide Prevention | Passed | 0.0 | 1.50 |
+| 2/12/2026 | EGP1815C | Investigations Updates | Passed | 0.0 | 2.50 |
+| 2/12/2026 | EGP3459C | Karly's Law | Passed | 0.0 | 3.00 |
+| 2/12/2026 | EGP3799C | Suicide Prevention | Passed | 0.0 | 1.50 |
+| 2/4/2026 | EGP1761C | SWAT Breaching - MMBTH Skills-Refresher | Passed | 0.0 | 8.00 |
 | 1/29/2026 | EGP3965C | SWAT Crisis Entry/Controlled Pace/Scenarios | Passed | 0.0 | 8.00 |
 | 1/29/2026 | EGP0932C | SWAT Crisis Entry/Controlled Pace/Scenarios | Passed | 0.0 | 8.00 |
 | 1/29/2026 | EGP2996C | SWAT Firearms Skills | Passed | 0.0 | 1.00 |

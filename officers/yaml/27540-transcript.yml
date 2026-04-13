@@ -64,47 +64,47 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/8/2018
-  certificate: Police Officer
-  level: Executive
-  status: Granted
-  certificate_date: 8/8/2018
-  expiration_date: 2/19/2026
-  probation_date: ''
-- status_date: 3/8/2018
-  certificate: Police Officer
-  level: Management
-  status: Granted
-  certificate_date: 3/8/2018
-  expiration_date: 2/19/2026
-  probation_date: ''
-- status_date: 12/7/2011
-  certificate: Police Officer
-  level: Supervisory
-  status: Granted
-  certificate_date: 12/7/2011
-  expiration_date: 2/19/2026
-  probation_date: ''
-- status_date: 7/19/2007
+- status_date: 2/19/2026
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 7/19/2007
-  expiration_date: 2/19/2026
+  expiration_date: 11/19/2030
   probation_date: ''
-- status_date: 7/19/2007
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 7/19/2007
-  expiration_date: 2/19/2026
-  probation_date: ''
-- status_date: 7/12/1993
+- status_date: 2/19/2026
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 7/12/1993
-  expiration_date: 2/19/2026
+  expiration_date: 11/19/2030
+  probation_date: ''
+- status_date: 2/19/2026
+  certificate: Police Officer
+  level: Executive
+  status: Lapsed
+  certificate_date: 8/8/2018
+  expiration_date: 11/19/2030
+  probation_date: ''
+- status_date: 2/19/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 7/19/2007
+  expiration_date: 11/19/2030
+  probation_date: ''
+- status_date: 2/19/2026
+  certificate: Police Officer
+  level: Management
+  status: Lapsed
+  certificate_date: 3/8/2018
+  expiration_date: 11/19/2030
+  probation_date: ''
+- status_date: 2/19/2026
+  certificate: Police Officer
+  level: Supervisory
+  status: Lapsed
+  certificate_date: 12/7/2011
+  expiration_date: 11/19/2030
   probation_date: ''
 training_records:
 - date: 11/13/2025
@@ -4194,14 +4194,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/10/2024

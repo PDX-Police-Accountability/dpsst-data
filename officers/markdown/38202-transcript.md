@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/18/2026 | PDS1438C | Deep Dive | Passed | 0.0 | 8.00 |
+| 3/4/2026 | PDS1020C | Equipment Management and Dock Dive | Instructed | 0.0 | 8.00 |
+| 2/12/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 12/18/2025 | PDS1064C | Firearms | Passed | 0.0 | 2.00 |
 | 11/12/2025 | PDS2345C | Legal Update | Passed | 0.0 | 2.00 |
 | 11/7/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |

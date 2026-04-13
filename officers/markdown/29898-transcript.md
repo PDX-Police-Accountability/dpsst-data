@@ -44,8 +44,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 2/27/2026 | OCS1583C | FBI - LEEDA | Passed | 0.0 | 40.00 |
+| 2/19/2026 | GSP0537C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |
+| 1/31/2026 | GSP2632C | vMobile CAD Training | Passed | 0.0 | 0.25 |
 | 1/26/2026 | GSP1878C | vMobile Training | Passed | 0.0 | 0.25 |
 | 1/1/2026 | GSP2363C | PowerTime Schedule Training | Passed | 0.0 | 0.50 |
 | 10/24/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |

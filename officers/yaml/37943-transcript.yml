@@ -63,6 +63,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/16/2026
+  course: PDP4079C
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2026
+  course: PDP3951C
+  title: 2026 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/16/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: XDELETE4
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2026
+  course: PDP3076C
+  title: 2026 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2026
+  course: PDP2132C
+  title: 2026 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/3/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/29/2026
   course: PDP1290C
   title: 2026 SERT Training - SCENARIO
@@ -75,6 +123,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/20/2026
+  course: PDP1727C
+  title: 2025 AR In-Service Wrap Up
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/15/2026
   course: PDP1381C
   title: 2026 SERT Training - SCENARIO
@@ -87,6 +141,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/5/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/5/2026
+  course: PDP0723C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/5/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/11/2025
   course: PDP0824C
   title: 2025 SERT Training - SCENARIO

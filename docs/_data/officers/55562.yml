@@ -42,6 +42,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/16/2026
+  course: PDS1311C
+  title: Suicide Intervention
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/16/2026
+  course: PDS0663C
+  title: Wrap Restraint
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/19/2026
   course: PDS3279C
   title: Peer Support
@@ -85,26 +97,14 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 11/11/2025
-  course: PDS3079C
-  title: CSU Tactical Medical Training
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 11/11/2025
-  course: PDS1556C
-  title: CSU Courtroom Security Training
+  course: XDELETE7
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '6.00'
 - date: 11/11/2025
-  course: PDS0917C
-  title: CSU Explosive Training
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 11/11/2025
-  course: PDS1551C
-  title: CSU Restraint Chair Training
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

@@ -43,6 +43,114 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/24/2026
+  course: PDP4545C
+  title: FTEP Geography
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/24/2026
+  course: PDP3751C
+  title: FTEP Report Writing
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/23/2026
+  course: PDP4452C
+  title: Body Worn Camera Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/17/2026
+  course: PDP3709C
+  title: 2025-10 CAO Updates Disorderly Conduct  ORS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/17/2026
+  course: PDP0443C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/17/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP4432C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP0051C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2026
+  course: PDP0431C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP0774C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP0615C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP2947C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/12/2026
+  course: PDP2783C
+  title: 2025-10 CHO EO, DIR 0625.00 Automatic License
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP2402C
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP3771C
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP3009C
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/27/2025
   course: PDP1982C
   title: Annual Bloodborne Pathogens (CityLearner)

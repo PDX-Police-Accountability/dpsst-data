@@ -44,6 +44,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 3/17/2026 | OSH4403C | Manager Comp. Trng. - PAF/TOMP Check-Ins | Passed | 0.0 | 2.00 |
+| 2/18/2026 | OSH3995C | Leadership with General Mattis | Passed | 0.0 | 2.00 |
+| 2/18/2026 | OSH0842C | Leadership with General Mattis | Passed | 0.0 | 0.00 |
+| 2/12/2026 | OSH1060C | The Self-Deception Trap: Saving Leaders | Passed | 0.0 | 1.00 |
+| 2/12/2026 | OSH3824C | The Self-Deception Trap: Saving Leaders | Passed | 0.0 | 1.00 |
+| 1/20/2026 | OSH0503C | Manager Comp. Trng. - Legislative Process | Passed | 0.0 | 1.00 |
 | 1/12/2026 | OSH4553C | Adult/Child CPR and First Aid | Passed | 0.0 | 8.00 |
 | 12/16/2025 | OSH4272C | Manager Comptency Training - Program Evaluation | Passed | 0.0 | 1.00 |
 | 12/3/2025 | OSH0107C | Best Evidence Collection Practices Part 1 | Passed | 0.0 | 1.00 |

@@ -29,12 +29,49 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/16/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 3/11/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/27/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 2/17/2026 | PDP3825C | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 2/11/2026 | PDP1837C | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 2/11/2026 | PDP0306C | AA [PJU-101-H] Introduction to Procedural Justice | Passed | 0.0 | 0.25 |
+| 2/4/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
+| 2/4/2026 | PDP2442C | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
+| 1/14/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 1/6/2026 | PDP4451C | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
+| 1/5/2026 | PDP1222C | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP0325C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP1295C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP3204C | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
+| 1/5/2026 | PDP0666C | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP4168C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP0435C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP0926C | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP3979C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP0579C | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP1016C | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP1817C | 2025-07 CAO Legal Updates for 08 - 09/2024 | Passed | 0.0 | 0.50 |
+| 1/5/2026 | PDP2758C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
+| 1/5/2026 | PDP2947C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 1/5/2026 | PDP1959C | 2025-1 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.75 |
+| 1/5/2026 | PDP3746C | 2025-1 CAO Legal Updates for 09  10/2023 | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP1901C | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP4467C | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP2930C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
+| 1/5/2026 | PDP3161C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 12/17/2025 | PDP3625C | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 12/17/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 12/17/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |
 | 12/17/2025 | PDP0577C | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
 | 12/17/2025 | PDP4414C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 12/17/2025 | PDP2922C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 12/16/2025 | PDP1978C | FTEP Report Writing | Passed | 0.0 | 2.00 |
+| 12/16/2025 | PDP1422C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 12/15/2025 | PDP1969C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 12/15/2025 | PDP1132C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 12/15/2025 | PDP0356C | 2025-1 Revisiting Directive 0850.10: Custody | Passed | 0.0 | 0.25 |

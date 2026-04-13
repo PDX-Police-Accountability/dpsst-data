@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2026
+  course: OCS4238C
+  title: Holster Speed, Marksmanship at Distance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/17/2026
+  course: OCS1777C
+  title: Take Downs Ground Offense/Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/20/2026
+  course: OCS3018C
+  title: Striking Takedowns
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/23/2025
   course: OCS0401C
   title: Low Light Shoot / No-Shoot Decision Making
@@ -4065,6 +4083,14 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/17/2026
+  expiration_date: 3/3/2028
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/20/2026
+  expiration_date: 3/3/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

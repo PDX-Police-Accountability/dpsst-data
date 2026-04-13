@@ -55,6 +55,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2026
+  course: OCP2913C
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/10/2026
+  course: OCP2870C
+  title: HB 4002
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/2/2026
+  course: OCP3644C
+  title: Airborne and Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/2/2026
+  course: OCP3126C
+  title: Global SDS / Hazardous Communication Standard
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2026
+  course: OCP0822C
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/19/2026
+  course: OCP2119C
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2026
+  course: XDELETE7
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2026
+  course: OCP3725C
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/2/2026
   course: VND0692C
   title: 28 CFR 23 and WSIN Resources

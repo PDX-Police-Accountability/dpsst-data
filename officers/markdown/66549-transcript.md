@@ -29,7 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 8/25/2025 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
+| 1/28/2026 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 1/28/2026 | REG3940C | Extreme Risk Protection Orders Conference | Passed | 0.0 | 8.00 |
+| 12/19/2025 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 8/21/2025 | PDP2014B | ICS-100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 8/21/2025 | PDP0512B | ICS-200 Basic Incident Comm System Initial Resp | Passed | 0.0 | 4.00 |
 | 8/21/2025 | PDP3559B | IS-700 National Inc Management System | Passed | 0.0 | 4.00 |

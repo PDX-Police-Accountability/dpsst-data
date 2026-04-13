@@ -19,6 +19,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/26/2026 | Police Officer | Supervisory | App Recd |  |  |  |
 | 7/6/2022 | Police Officer | Intermediate | Granted | 7/6/2022 |  |  |
 | 11/30/2021 | Police Officer | Basic | Granted | 11/30/2021 |  |  |
 ## Attributes
@@ -35,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/26/2026 | REG2422C | Understanding and Improving DV Investigation | Passed | 0.0 | 4.00 |
+| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 14.00 |
+| 2/12/2026 | LCP0199C | FTEP Supervision Course | Passed | 0.0 | 14.00 |
 | 2/1/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 1/5/2026 | 26-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

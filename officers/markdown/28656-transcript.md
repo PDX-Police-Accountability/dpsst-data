@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/7/2026 | Tigard Police Department | Retired | Police Off |  |  |
 | 1/18/2021 | Tigard Police Department | Hired | Police Off |  |  |
 | 8/28/2020 | Portland Police Bureau | Retired | Detective |  |  |
 | 4/21/2011 | Portland Police Bureau | Return LOA | Detective |  |  |
@@ -21,9 +22,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/19/2021 | Police Officer | Advanced | Reactivatd | 6/23/2000 |  |  |
-| 1/19/2021 | Police Officer | Basic | Reactivatd | 6/17/1994 |  |  |
-| 1/19/2021 | Police Officer | Intermediate | Reactivatd | 5/21/1997 |  |  |
+| 1/19/2021 | Police Officer | Advanced | Reactivatd | 6/23/2000 | 6/7/2026 |  |
+| 1/19/2021 | Police Officer | Basic | Reactivatd | 6/17/1994 | 6/7/2026 |  |
+| 1/19/2021 | Police Officer | Intermediate | Reactivatd | 5/21/1997 | 6/7/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -38,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2026 | TGP1891C | Axon Assistant Introduction | Passed | 0.0 | 0.50 |
+| 1/31/2026 | TGP3392C | Fleet 3, ALPR, and Axon Dashboard | Passed | 0.0 | 0.50 |
 | 1/8/2026 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2025 | TGP0352C | Path of the Guardian - Legal Updates | Passed | 0.0 | 8.00 |
 | 12/22/2025 | TGP2056C | Force on Force | Passed | 0.0 | 1.50 |

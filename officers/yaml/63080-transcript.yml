@@ -3,12 +3,18 @@ header_record:
   name: Miller, Cory G.
   dpsst_identifier: '63080'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/26/2026
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 9/30/2025
   agency: Portland Police Bureau
   action: LOA
@@ -27,7 +33,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 5/29/2024
-  expiration_date: ''
+  expiration_date: 5/26/2026
   probation_date: ''
 training_records:
 - date: 9/7/2025

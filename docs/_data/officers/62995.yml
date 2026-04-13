@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 3/10/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 1/3/2024
   certificate: Police Officer
   level: Basic
@@ -24,6 +31,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/13/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/25/2026
   course: PDP3214C
   title: 2026 40mm Less Lethal New Operator Course
@@ -36,6 +55,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 1/8/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/2/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/2/2026
+  course: PDP0723C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/10/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'
@@ -1521,4 +1558,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 10/10/2022
   expiration_date: ''
-education_records: []
+education_records:
+- date: 9/2/2018
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '180.5'

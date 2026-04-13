@@ -63,12 +63,198 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/18/2026
+  course: PDP1724C
+  title: 2026 Crisis Negotiation Team (CNT) Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/3/2026
   course: PDP4427C
   title: 2026 Red Dot Sight for Pistol Transition Course
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 1/29/2026
+  course: PDP1554C
+  title: 2025 All Sworn In-Service ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 1/29/2026
+  course: PDP0753C
+  title: 2025 ECIT Call Resolution
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2026
+  course: PDP2198C
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2026
+  course: PDP4432C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP0051C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2026
+  course: PDP0431C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP0774C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP0615C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP2947C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2026
+  course: PDP2783C
+  title: 2025-10 CHO EO, DIR 0625.00 Automatic License
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP1016C
+  title: 2025-07 CAO Legal Updates for 11/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP3979C
+  title: 2025-07 CAO Legal Updates for 10/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP1817C
+  title: 2025-07 CAO Legal Updates for 08 - 09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2026
+  course: PDP2758C
+  title: 2025-07 CAO Legal Updates for 12/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2026
+  course: PDP3709C
+  title: 2025-10 CAO Updates Disorderly Conduct  ORS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP1901C
+  title: 2025-07 CAO Legal Updates for 01/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP4467C
+  title: 2025-07 CAO Legal Updates for 07/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP2402C
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP0443C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP3009C
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2026
+  course: PDP3771C
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP4106C
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP1239C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/28/2026
+  course: PDP2305C
+  title: 2025 All Sworn In-Service - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/28/2026
+  course: PDP2178C
+  title: 2025 IS PVO Stop Stick Hyperlink (External Trng)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/28/2026
+  course: PDP3077C
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/28/2026
+  course: PDP3668C
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/28/2025
   course: PDP2267B
   title: ORS 181A.440 Airways Part 1

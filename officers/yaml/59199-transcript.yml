@@ -74,6 +74,102 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2026
+  course: EGP2862C
+  title: EVOC Skills
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 3/12/2026
+  course: EGP2888C
+  title: MRT Concepts  Skills
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2026
+  course: EGP1953C
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/11/2026
+  course: VND0792C
+  title: 28CFR-Part23;RISSIntel-RISSafe;Deconfliction
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/4/2026
+  course: 06672C
+  title: 3si Tracker
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/2/2026
+  course: EGP0156C
+  title: SWAT Breaching- Explosive Door Charges-Viewports
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/28/2026
+  course: EGP2656C
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2026
+  course: EGP4386C
+  title: SWAT Firearms Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/26/2026
+  course: EGP4288C
+  title: SWAT Firearms Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/26/2026
+  course: EGP1083C
+  title: Basic Narcotic Specalised Unit Investigator Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/12/2026
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/12/2026
+  course: EGP2619C
+  title: Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/12/2026
+  course: EGP1815C
+  title: Investigations Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/12/2026
+  course: EGP3459C
+  title: Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/12/2026
+  course: EGP3799C
+  title: Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/4/2026
+  course: EGP1761C
+  title: SWAT Breaching - MMBTH Skills-Refresher
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/29/2026
   course: EGP3965C
   title: SWAT Crisis Entry/Controlled Pace/Scenarios

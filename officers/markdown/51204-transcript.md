@@ -35,12 +35,17 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
+| 2/3/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/27/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/27/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/27/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 1/22/2026 | PDP2386C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/15/2026 | PDP1381C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/8/2026 | PDP0675C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/31/2025 | PDP1003C | 2025 IS ABLE (Video) | Passed | 0.0 | 1.75 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2025 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 12/24/2025 | PDP1941C | SERT Firearms Training | Passed | 0.0 | 9.00 |
 | 12/11/2025 | PDP0824C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/9/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |

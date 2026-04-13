@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2026
+  course: WLP2992C
+  title: WLPD 2026 TASER Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/25/2026
+  course: WLP2022C
+  title: Firearms Training / Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/3/2025
   course: WLP4530C
   title: Search and Seizure

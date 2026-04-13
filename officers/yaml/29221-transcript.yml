@@ -119,6 +119,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/5/2026
+  course: BNP2912C
+  title: Supervisor In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
+- date: 3/4/2026
+  course: BNP1416C
+  title: Supervisor In Service
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/26/2026
+  course: BNP4058C
+  title: Control Tactics / drawing and retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/29/2026
   course: BNP1097C
   title: Organizational Health

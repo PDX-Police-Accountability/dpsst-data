@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/2/2026 | MNP0587C | RDS transition/day and night qual | Passed | 0.0 | 10.00 |
 | 11/16/2025 | MNP1083C | WRAP Restraint/SRI Shield | Passed | 0.0 | 1.00 |
 | 11/16/2025 | MNP0633C | EVOC/Vehicle Stops Skills/Scenarios | Passed | 0.0 | 4.00 |
 | 11/16/2025 | MNP3967C | Adult/Child First Aid CPR Recertification | Passed | 0.0 | 1.00 |

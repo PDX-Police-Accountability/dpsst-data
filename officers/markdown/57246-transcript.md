@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/17/2026 | HBN1635C | Team Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/21/2025 | HBS1701C | InService Session #2 Firearms | Passed | 0.0 | 4.50 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/7/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |

@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/20/2026
+  course: PDS4236C
+  title: Criminal Interdiction
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/23/2026
+  course: PDS1039C
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/17/2025
   course: PDS3752C
   title: Firearms

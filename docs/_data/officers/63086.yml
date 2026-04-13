@@ -36,12 +36,180 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/24/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/24/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/27/2026
   course: PDP3783C
   title: 2026 Legal Interpreting in Policing In-Service
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/7/2026
+  course: PDP2719C
+  title: 2020 Training Segmenting Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2026
+  course: PDP2627C
+  title: 2024-3 IS PP Shooting at Moving vehicles Video 2
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/7/2026
+  course: PDP3668C
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/7/2026
+  course: PDP2947C
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/7/2026
+  course: PDP2783C
+  title: 2025-10 CHO EO, DIR 0625.00 Automatic License
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2026
+  course: PDP1016C
+  title: 2025-07 CAO Legal Updates for 11/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2026
+  course: PDP3709C
+  title: 2025-10 CAO Updates Disorderly Conduct  ORS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2026
+  course: PDP3009C
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/7/2026
+  course: PDP3771C
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP4432C
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP0051C
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/6/2026
+  course: PDP0774C
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP0431C
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP0615C
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP2758C
+  title: 2025-07 CAO Legal Updates for 12/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/6/2026
+  course: PDP1901C
+  title: 2025-07 CAO Legal Updates for 01/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP2402C
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP0443C
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/5/2026
+  course: PDP1554C
+  title: 2025 All Sworn In-Service ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 1/5/2026
+  course: PDP3010C
+  title: 2025 All Sworn In-Service Active Threat (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/5/2026
+  course: PDP0712C
+  title: 2025 IS Public Order Shields (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/5/2026
+  course: PDP3035C
+  title: 2025 All Sworn In-Service Taser Training (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/5/2026
+  course: PDP1031C
+  title: 2024-3 IS MFF Baton  OC Spray Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/5/2026
+  course: PDP1755C
+  title: 2024-3 IS MFF Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/5/2026
+  course: PDP1239C
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 6/13/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

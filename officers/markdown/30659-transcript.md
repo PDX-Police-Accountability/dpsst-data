@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2026 | PDS1311C | Suicide Intervention | Passed | 0.0 | 4.00 |
+| 2/13/2026 | PDS0663C | Wrap Restraint | Passed | 0.0 | 4.00 |
 | 11/27/2025 | PDS1000C | Life Safety Training | Passed | 0.0 | 0.50 |
 | 10/22/2025 | PDS0882C | Anti-Harassment Training | Passed | 0.0 | 1.00 |
 | 10/22/2025 | PDS2539C | Narcan | Passed | 0.0 | 0.50 |

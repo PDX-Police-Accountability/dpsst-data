@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/23/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 12/18/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2025 | PDS1900C | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 11/18/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |

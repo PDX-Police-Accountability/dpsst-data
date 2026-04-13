@@ -49,18 +49,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2026
+  course: MFN1891C
+  title: Milo Use of Force training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/18/2026
+  course: MFN0056C
+  title: Oregon Board of Parole Hearings
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/26/2026
+  course: MFN1328C
+  title: Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/19/2026
+  course: MFN2742C
+  title: DT's- Handcuffing  Striking
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/12/2026
+  course: MFN3610C
+  title: ICOTS/EDIS/STTL Overview
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/12/2026
+  course: MFN1761C
+  title: ICOTS/EDIS/STTL Overview
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/11/2026
+  course: MFN0688C
+  title: Reclaiming Lives Recovery Panel
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/10/2026
   course: MFN0286C
   title: Feedback and Communication
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/5/2026
-  course: 41698C
-  title: Firearm qualifications
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 2/5/2026
   course: MFN3248C
   title: Firearm qualifications

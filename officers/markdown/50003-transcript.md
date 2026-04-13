@@ -37,6 +37,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/16/2026 | PDP3022C | 2026 Investigators IS Control Tactics | Passed | 0.0 | 2.00 |
+| 2/16/2026 | PDP4231C | 2026 Investigators IS Exemption Review/Legal | Passed | 0.0 | 1.00 |
+| 2/16/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |
+| 2/16/2026 | PDP4289C | 2026 Investigators IS Tech Warrants and Testimony | Passed | 0.0 | 2.00 |
+| 2/16/2026 | PDP0336C | 2026 Investigators IS Mass Casualty Incident | Passed | 0.0 | 2.00 |
+| 2/12/2026 | PDP2658C | 2025 Sup IS Critical Incidents - Controlling the | Passed | 0.0 | 1.50 |
+| 2/12/2026 | PDP2046C | 2025 Sup IS  Supporting Officers During Internal | Passed | 0.0 | 1.00 |
+| 2/2/2026 | PDP4076C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
+| 2/2/2026 | PDP0764C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP1233C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |
+| 1/27/2026 | PDP0450C | 2025 Sup IS Crime Scene Management for Mass | Passed | 0.0 | 1.50 |
+| 1/26/2026 | PDP2406C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/20/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 9/26/2025 | PDP2558C | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |

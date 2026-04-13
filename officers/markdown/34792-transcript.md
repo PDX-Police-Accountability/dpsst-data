@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2026 | PDP3152C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 3/30/2026 | PDP0663C | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
+| 3/10/2026 | TAP0721C | How to Build a DFR Program Right From Day One | Passed | 0.0 | 2.00 |
 | 2/10/2026 | TAP1689C | Eagle Point Officer Involved Shooting review | Passed | 0.0 | 1.50 |
 | 12/31/2025 | TAP4559C | LEXIPOL Daily Training Bulletins Jan1-Dec 31 2025 | Passed | 0.0 | 11.50 |
 | 11/18/2025 | ADP0306C | Defensive Tactics | Passed | 0.0 | 4.00 |

@@ -43,6 +43,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2026
+  course: BNP3238C
+  title: FTO Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/17/2026
+  course: BNP2735C
+  title: Case Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/17/2026
+  course: BNP3024C
+  title: UAS/Counter UAS- Indoor/Outdoor Searches
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/12/2026
+  course: BNP4528C
+  title: Hearing Conservation Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/3/2026
+  course: BNP1240C
+  title: Emergency Vehicle Operations/Vehicle Placement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2026
+  course: BNP3542C
+  title: UAS Response to Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 1/29/2026
   course: BNS3329C
   title: Internet Crimes Against Children 101

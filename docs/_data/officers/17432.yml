@@ -1,2 +1,255 @@
 ---
-missing_transcript: true
+header_record:
+  name: Azorr, Robert M.
+  dpsst_identifier: '17432'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 3/21/1991
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 9/21/1984
+  agency: DOJ-Criminal Justice Division
+  action: Resigned
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 1/3/1984
+  agency: DOJ-Criminal Justice Division
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 7/14/2022
+  course: HDA16104
+  title: 2022 ONEA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/14/2022
+  course: PDP09525
+  title: OR Narcotics Enforcement Association Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/11/2019
+  course: F6D26814
+  title: 2019 ONEA Training Summit
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/11/2019
+  course: PDP32116
+  title: 2019 ONEA Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/30/2019
+  course: PDP28977
+  title: Federal State Drug Legal Update Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/10/2018
+  course: F6B43354
+  title: Narco Money Laundering
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/12/2018
+  course: F6B41954
+  title: 2018 ONEA Training Summit
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/12/2018
+  course: PDP33250
+  title: Oregon Narcotics Enforcement Assoc
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/20/2017
+  course: F6A08805
+  title: ONEA Training Summit
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/14/2016
+  course: F6A02253
+  title: ONEA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 7/14/2016
+  course: '39724'
+  title: ONEA Conference
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
+- date: 5/1/2015
+  course: 15-1125
+  title: Forfeitures - Civil / Criminal
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 2/24/2015
+  course: 15-1068
+  title: Drugs - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/26/2012
+  course: 12-1125
+  title: Forfeitures - Civil / Criminal
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/25/2012
+  course: 12-1125
+  title: Forfeitures - Civil / Criminal
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 7/12/2012
+  course: 12-0583
+  title: ONEA Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 1/25/2012
+  course: 12-1120
+  title: Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/14/2011
+  course: 11-0583
+  title: ONEA Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/18/2008
+  course: '08-1122'
+  title: Law  Legal - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/27/2006
+  course: 06-1478
+  title: Oregon Narcotics Enforcmnt Assoc (ONEA)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/26/2004
+  course: 04-4149
+  title: Money Laundering
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/28/2003
+  course: 03-0872
+  title: OSIN Basic Criminal Intelligence Concepts Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/24/2000
+  course: 00P625
+  title: Asset Forfeiture for Law Enforcement  Prosecutors
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
+- date: 7/28/1999
+  course: 99P506
+  title: ASSET FORFEITURE FOR LAW ENFORCE  PROS
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/25/1997
+  course: 97P415
+  title: 1997 ASSET FORFEITURE CONFERENCE
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 3/6/1997
+  course: 97P113
+  title: DEFENSIVE TACTICS
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/29/1994
+  course: 94K088
+  title: ASSET FORFEITURE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/15/1990
+  course: '909178'
+  title: EASTERN OREGON NARCOTICS CONFERENCE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/1/1990
+  course: '909027'
+  title: DRUG ASSET FORFEITURE TRAINING CONFERENC
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 8/10/1984
+  course: '845007'
+  title: MARIJUANA ERADICATION/SUPRESSION
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/27/1984
+  course: '845019'
+  title: LINK ANALYSIS CHARTING TECHNIQUES
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/6/1984
+  course: '841114'
+  title: 'BASIC POLICE CLASS #114'
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/14/1984
+  course: 84Q001
+  title: FIRST AID
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+attribute_records: []
+education_records: []

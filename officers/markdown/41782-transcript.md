@@ -43,10 +43,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP2217C | 2024-3 IS Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
 | 1/7/2026 | PDP2638C | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP2407C | 2024-3 IS Video Recording of the ABLE | Passed | 0.0 | 1.75 |
 | 1/7/2026 | PDP1799C | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 0.00 |
+| 1/7/2026 | PDP2356C | 2024-3 IS ABLE Video | Passed | 0.0 | 2.00 |
+| 1/7/2026 | PDP3991C | 2024-3 IS Air Purifying Respirator (APR) Video | Passed | 0.0 | 1.00 |
+| 1/7/2026 | PDP1863C | 2024-3 IS Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
+| 1/7/2026 | PDP2151C | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |
+| 1/7/2026 | PDP2627C | 2024-3 IS PP Shooting at Moving vehicles Video 2 | Passed | 0.0 | 1.25 |
+| 1/7/2026 | PDP1031C | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
+| 1/5/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 0.25 |
 | 12/31/2025 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

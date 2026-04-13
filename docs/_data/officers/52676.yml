@@ -50,6 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/15/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/15/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP0723C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/30/2025
   course: REG0671C
   title: PNW TacFit Conference
@@ -98,6 +128,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/5/2025
+  course: PDP1255C
+  title: 'Pathways to Resiliency: Comm Policing  Extremism'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/5/2025
+  course: PDP3145C
+  title: 'Vehicle Pursuit Mgmt: Balancing Risks'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/1/2025
+  course: PDP2763C
+  title: Better Encounters Police and People w/Disabilites
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/1/2025
+  course: PDP0126C
+  title: Into to Non-Confrontational Invest Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/25/2025
   course: PDP2365C
   title: 2025-3 Range Qualification Primary Firearm

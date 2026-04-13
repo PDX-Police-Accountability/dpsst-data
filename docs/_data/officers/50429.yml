@@ -38,6 +38,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/16/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/11/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/30/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/20/2026
+  course: PDP1727C
+  title: 2025 AR In-Service Wrap Up
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/20/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/20/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/15/2026
   course: PDP0232C
   title: 2026 Training Instructor Development
@@ -56,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/10/2025
+  course: PDP2357C
+  title: 2025 Patrol Rifle Operator's In-Service Day 2
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/30/2025
   course: PDP1232C
   title: 2025 Patrol Rifle Operator's IS Day 2

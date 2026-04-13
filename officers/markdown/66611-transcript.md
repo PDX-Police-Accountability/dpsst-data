@@ -28,9 +28,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2025 | M10-23A | DPSST Basic Police Course | Failed | 0.0 | 0.00 |
 | 10/10/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/4/2025 | PDP4424B | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
-| 8/25/2025 | M10-23A | DPSST Basic Police Course | Failed | 0.0 | 0.00 |
 | 8/21/2025 | PDP2014B | ICS-100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 8/21/2025 | PDP0512B | ICS-200 Basic Incident Comm System Initial Resp | Passed | 0.0 | 4.00 |
 | 8/21/2025 | PDP3559B | IS-700 National Inc Management System | Passed | 0.0 | 4.00 |

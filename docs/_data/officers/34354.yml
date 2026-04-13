@@ -38,12 +38,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/18/2026
+  course: PDP1724C
+  title: 2026 Crisis Negotiation Team (CNT) Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/6/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/4/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/23/2026
+  course: PDP1727C
+  title: 2025 AR In-Service Wrap Up
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/23/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/15/2026
+  course: PDP2854C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP1059C
+  title: 2025-12 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/14/2026
   course: PDP3857C
   title: 2026 Crisis Negotiation Team (CNT) Annual Training
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/1/2026
+  course: PDP2225C
+  title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/10/2025
+  course: PDP2357C
+  title: 2025 Patrol Rifle Operator's In-Service Day 2
+  status: Instructed
+  score: '0.0'
+  hours: '70.00'
 - date: 11/14/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

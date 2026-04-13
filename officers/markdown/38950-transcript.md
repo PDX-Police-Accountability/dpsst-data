@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/9/2026 | Washington County Sheriff's Office | LOA | Commander |  |  |
 | 1/9/2021 | Washington County Sheriff's Office | Promotion | Commander |  |  |
 | 7/14/2018 | Washington County Sheriff's Office | Promotion | Lieutenant |  |  |
 | 2/25/2017 | Washington County Sheriff's Office | Promotion | Sergeant |  |  |

@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2026 | BNP1699C | SWAT-Rifle and Pistol Skill Builder | Passed | 0.0 | 8.00 |
+| 3/10/2026 | BNP3078C | SWAT- Overland HRT Scenario | Passed | 0.0 | 8.00 |
+| 2/19/2026 | BNP4319C | SWAT-Active Threat / Rescue Task Force Scenerios | Passed | 0.0 | 8.00 |
+| 2/19/2026 | BNP3794C | SWAT-Active Threat / Rescue Task Force Scenerios | Passed | 0.0 | 8.00 |
 | 2/5/2026 | BNP2413C | SWAT- Building Clearing | Passed | 0.0 | 8.00 |
 | 1/22/2026 | BNP0657C | SWAT- Less lethal /chemical munitions tests | Passed | 0.0 | 1.00 |
 | 1/22/2026 | BNP4460C | SWAT- Distraction Devices Test | Passed | 0.0 | 0.50 |
@@ -44,6 +48,7 @@
 | 1/15/2026 | RMP0827C | SFST Refresher Course | Passed | 0.0 | 4.00 |
 | 1/15/2026 | RMP0471C | 1st Responder Wellness | Passed | 0.0 | 4.00 |
 | 1/8/2026 | BNP1331C | SWAT- Active Threat Response | Passed | 0.0 | 8.00 |
+| 1/8/2026 | RMP2584C | CIT  Mental Health Awareness | Passed | 0.0 | 1.00 |
 | 1/7/2026 | RMP3656C | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2025 | RMP1404C | Foundations in Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
