@@ -41,18 +41,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/3/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/3/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP3022C | 2026 Investigators IS Control Tactics | Passed | 0.0 | 2.00 |
 | 2/16/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |
 | 2/16/2026 | PDP4231C | 2026 Investigators IS Exemption Review/Legal | Passed | 0.0 | 1.00 |
 | 2/16/2026 | PDP0336C | 2026 Investigators IS Mass Casualty Incident | Passed | 0.0 | 2.00 |
 | 2/16/2026 | PDP4289C | 2026 Investigators IS Tech Warrants and Testimony | Passed | 0.0 | 2.00 |
+| 2/5/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 1/21/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/14/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 1/14/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/14/2026 | PDP0764C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
 | 1/14/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 1/14/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
 | 9/22/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 7/24/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |
 | 7/24/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |

@@ -51,6 +51,8 @@
 | 3/9/2026 | PDP3035C | 2025 All Sworn In-Service Taser Training (Video) | Passed | 0.0 | 0.50 |
 | 3/9/2026 | PDP1031C | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
 | 3/9/2026 | PDP2596C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 3/5/2026 | PDP2308C | RegJIN RMS/MRE Report Writing Training | Passed | 0.0 | 14.00 |
 | 3/3/2026 | PDP2198C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 3/3/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
@@ -58,6 +60,9 @@
 | 3/3/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 3/3/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/3/2026 | PDP2442C | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
+| 3/3/2026 | PDP2851C | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |
+| 3/3/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/3/2026 | PDP2535C | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
 | 2/4/2026 | REG0443C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/15/2026 | REG2450C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

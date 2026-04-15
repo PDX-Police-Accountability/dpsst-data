@@ -39,8 +39,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/8/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/8/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/8/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/8/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 1/19/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/15/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 1/15/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
+| 1/15/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/29/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/29/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |

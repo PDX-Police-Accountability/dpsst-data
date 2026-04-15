@@ -32,4 +32,5 @@
 | 2/26/2026 | PDP0720C | New Hire Firearms | Passed | 0.0 | 24.00 |
 | 2/24/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 2/18/2026 | PDP0648C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
+| 2/18/2026 | PDP3417C | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 2/9/2026 | PDP0663C | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

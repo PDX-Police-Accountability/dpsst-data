@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/26/2026 | PDP0638C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 3/18/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP4517C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/26/2026 | PDP1750C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/19/2026 | PDP2207C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
@@ -43,7 +45,9 @@
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 2/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/10/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/2/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
+| 2/2/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/22/2026 | PDP2386C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/15/2026 | PDP1381C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

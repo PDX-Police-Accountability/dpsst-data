@@ -82,6 +82,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/13/2026
+  course: PDP3319C
+  title: 2026 Dialogue Liaison Officer (DLO) Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/2/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/18/2026
+  course: PDP4239C
+  title: 'Testosterone Replacement: Help, Hype or Harm'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/13/2026
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
@@ -97,6 +115,12 @@ training_records:
 - date: 2/10/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/16/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/3/2026
   course: PDP1426C
   title: 2026 Legal Interpreting in Policing In-Service

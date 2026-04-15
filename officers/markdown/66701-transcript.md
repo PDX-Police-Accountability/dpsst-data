@@ -34,6 +34,8 @@
 | 3/31/2026 | PDP4467C | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP2947C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 3/31/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP0359C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 3/30/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 3/28/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 3/28/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
@@ -49,6 +51,7 @@
 | 3/9/2026 | PDP1474C | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 3/9/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
+| 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 11/28/2025 | PDP0373C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/27/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

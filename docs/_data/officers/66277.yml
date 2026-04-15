@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/31/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/18/2026
+  course: HBP0722C
+  title: ODT - Working from Cleared Areas, Foot Chases
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/16/2026
   course: PDP4150C
   title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
@@ -45,6 +57,12 @@ training_records:
 - date: 3/16/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/16/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'

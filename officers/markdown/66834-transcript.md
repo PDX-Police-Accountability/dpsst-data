@@ -40,6 +40,7 @@
 | 3/12/2026 | PDP0793C | FTEP Post PVO StopSticks Box IN | Passed | 0.0 | 4.00 |
 | 3/10/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/9/2026 | PDP1474C | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 3/5/2026 | PDP2308C | RegJIN RMS/MRE Report Writing Training | Passed | 0.0 | 14.00 |
 | 2/4/2026 | REG0443C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/15/2026 | REG2450C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

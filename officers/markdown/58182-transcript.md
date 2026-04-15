@@ -35,8 +35,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2026 | PDP2270C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 3/25/2026 | PDP2526C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 3/7/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/7/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/7/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/7/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/18/2026 | PDP2030C | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 2/11/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/11/2026 | PDP2665C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

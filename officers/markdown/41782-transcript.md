@@ -43,8 +43,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/9/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/9/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/2/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP2217C | 2024-3 IS Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
 | 1/7/2026 | PDP2638C | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP2407C | 2024-3 IS Video Recording of the ABLE | Passed | 0.0 | 1.75 |

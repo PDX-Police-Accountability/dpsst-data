@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/6/2026 | MKL2069C | OLCC Defensive Tactics | Passed | 0.0 | 8.00 |
 | 2/4/2026 | MKL0677C | DAC 2026 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 1/29/2026 | MKL4289C | DAS 2026 Immigration Law Refresher | Passed | 0.0 | 1.00 |
 | 12/17/2025 | MKL2828C | OLCC Administrative Rules Update | Passed | 0.0 | 1.00 |

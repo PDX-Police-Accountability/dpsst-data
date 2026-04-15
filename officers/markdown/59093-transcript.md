@@ -41,6 +41,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/31/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/18/2026 | PDP1724C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 2/3/2026 | PDP4427C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
 | 1/29/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
@@ -67,10 +69,15 @@
 | 1/29/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/29/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 1/29/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
 | 1/28/2026 | PDP2305C | 2025 All Sworn In-Service - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
 | 1/28/2026 | PDP2178C | 2025 IS PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 1/28/2026 | PDP3077C | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |
 | 1/28/2026 | PDP3668C | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 1/28/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 1/28/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/28/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 5/28/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 5/28/2025 | PDP0359B | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 5/28/2025 | PDP2059B | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |

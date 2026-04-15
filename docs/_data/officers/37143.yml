@@ -64,6 +64,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/25/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/18/2026
   course: PDP1724C
   title: 2026 Crisis Negotiation Team (CNT) Annual Training
@@ -79,6 +85,18 @@ training_records:
 - date: 2/10/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/4/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -106,6 +124,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/12/2026
+  course: PDP3250C
+  title: HRAR 2.02 Supervisor/Manager Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/12/2026
+  course: PDP2683C
+  title: HRAR 2.02, Workplace Harassment Discrimination Ref
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/29/2025
   course: PDP0397C
   title: 2025 Sup IS HR 2.02 for Supervisors Video

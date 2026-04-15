@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/11/2026 | HBP0215C | ODT - Working from Cleared Areas, Foot Chases | Passed | 0.0 | 1.00 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 1/18/2026 | HBP1860C | EVOC - PIT | Instructed | 0.0 | 20.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |

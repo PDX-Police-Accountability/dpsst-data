@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 12/2/2027
   probation_date: ''
 training_records:
+- date: 3/3/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/12/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -76,6 +82,12 @@ training_records:
 - date: 2/12/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'

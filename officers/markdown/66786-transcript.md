@@ -44,6 +44,8 @@
 | 3/9/2026 | PDP1474C | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 3/9/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/24/2025 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |
 | 12/24/2025 | PDP0447C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |

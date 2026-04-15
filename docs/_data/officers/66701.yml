@@ -60,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/31/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2026
+  course: PDP0359C
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/30/2026
   course: PDP3771C
   title: '2025-9, Legal Updates: State Crimes'
@@ -150,6 +162,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/9/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/22/2026
   course: REG2570C
   title: INTOX 8000 (Hours included in Basic)

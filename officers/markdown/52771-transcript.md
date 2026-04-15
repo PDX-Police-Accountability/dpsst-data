@@ -37,9 +37,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/18/2026 | PDP3413C | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
 | 3/18/2026 | PDP0998C | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.50 |
+| 3/18/2026 | PDP2721C | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
 | 3/17/2026 | PDP2469C | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
 | 3/17/2026 | PDP0228C | After Action Reports PowerPoint (2020) | Passed | 0.0 | 0.50 |
+| 3/16/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/26/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/26/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |

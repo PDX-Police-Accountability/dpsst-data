@@ -88,6 +88,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/3/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/3/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

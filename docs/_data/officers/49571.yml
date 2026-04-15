@@ -43,6 +43,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/17/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/5/2026
   course: PDP4517C
   title: 2026 SERT Training - SCENARIO

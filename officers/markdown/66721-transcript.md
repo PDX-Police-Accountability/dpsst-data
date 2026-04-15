@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/31/2026 | PDP4571C | Radar/Lidar Operators Course | Passed | 0.0 | 18.00 |
+| 3/31/2026 | PDP4120C | DIR 660.10, PE Procedures/2018-5 TT 100% Collect | Passed | 0.0 | 0.50 |
 | 3/29/2026 | PDP0599C | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 3/29/2026 | PDP4168C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 3/29/2026 | PDP0435C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
@@ -46,6 +47,10 @@
 | 3/26/2026 | PDP3979C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
+| 3/26/2026 | PDP2901C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Passed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |
@@ -55,6 +60,7 @@
 | 3/12/2026 | PDP0793C | FTEP Post PVO StopSticks Box IN | Passed | 0.0 | 4.00 |
 | 3/10/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
+| 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 3/8/2026 | PDP1474C | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/2/2026 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |

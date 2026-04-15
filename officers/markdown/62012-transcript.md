@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/27/2026 | PDP1265C | 2020 Supervisor IS Crime Scene Management Part 1 | Passed | 0.0 | 0.50 |
 | 2/27/2026 | PDP2871C | 2020 Supervisor IS Crime Scene Management Part 2 | Passed | 0.0 | 1.00 |
 | 2/27/2026 | PDP2719C | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
@@ -80,6 +81,7 @@
 | 2/25/2026 | PDP2596C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 2/25/2026 | PDP0764C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
 | 2/25/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 2/24/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 2/24/2026 | PDP0753C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 2/24/2026 | PDP1094C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
@@ -108,6 +110,11 @@
 | 2/24/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 2/24/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/24/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 2/24/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
+| 2/24/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/24/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |

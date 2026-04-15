@@ -65,6 +65,7 @@
 | 6/12/2025 | EGP1470A | Cell Phone Seizure Policy/Legal Updates | Passed | 0.0 | 0.50 |
 | 6/12/2025 | EGP0396A | Flock Camera System Rollout | Passed | 0.0 | 1.50 |
 | 6/12/2025 | EGP1443A | Kids First Advocacy for Human Trafficking | Passed | 0.0 | 0.50 |
+| 6/3/2025 | EGP4423C | SWAT Command Decision Making  Leadership 1 | Passed | 0.0 | 40.00 |
 | 5/25/2025 | EGP3185A | SWAT Search Skills-Mini Scenarios | Passed | 0.0 | 4.00 |
 | 5/25/2025 | EGP3949B | SWAT Firearms Pistol- Carbine Drills | Passed | 0.0 | 3.00 |
 | 5/25/2025 | EGP1394B | SWAT Scenarios HR-Search Drills-Explosive Breach | Passed | 0.0 | 4.00 |

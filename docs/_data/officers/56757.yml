@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2026
+  course: PDS4384C
+  title: Basic Detective Academy
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/6/2026
   course: PPP1757C
   title: First Aid/CPR/AED/Narcan and Skills Practical

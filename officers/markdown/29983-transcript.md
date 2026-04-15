@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2026 | APD0333C | Range Qualification and Pistol Training | Passed | 0.0 | 8.00 |
 | 12/9/2025 | APD1722C | Active Threat Tactics | Passed | 0.0 | 4.00 |
 | 12/9/2025 | APD2811C | Tactical Medical | Passed | 0.0 | 4.00 |
 | 11/25/2025 | APD2038C | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |

@@ -33,7 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/7/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/1/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/1/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 2/8/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
@@ -46,11 +48,14 @@
 | 2/8/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 2/8/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/8/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
+| 2/8/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 2/6/2026 | PDP1016C | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
 | 2/6/2026 | PDP2758C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
 | 2/6/2026 | PDP2947C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 2/6/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 2/6/2026 | PDP1901C | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
+| 2/6/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP4078C | 2020 BHU ECIT Update Section 1 | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP2676C | 2020 BHU ECIT Update Section 2 | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP0557C | 2020 BHU ECIT Update Section 3 | Passed | 0.0 | 0.25 |

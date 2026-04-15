@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/10/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 3/4/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP3825C | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP4451C | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
@@ -40,6 +41,13 @@
 | 2/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP2442C | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
+| 2/10/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/10/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
+| 2/10/2026 | PDP0032C | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 2/10/2026 | PDP4191C | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 2/10/2026 | PDP0359C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 2/10/2026 | PDP0382C | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 2/10/2026 | PDP3363C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 2/8/2026 | PDP1295C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP0953C | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP0666C | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
@@ -48,6 +56,7 @@
 | 2/8/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP1837C | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP0306C | AA [PJU-101-H] Introduction to Procedural Justice | Passed | 0.0 | 0.25 |
+| 2/8/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/14/2026 | PDP2252C | FTEP Orientation | Passed | 0.0 | 6.45 |
 | 1/13/2026 | PDP3224C | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
@@ -55,6 +64,7 @@
 | 1/13/2026 | PDP0205C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 1/13/2026 | PDP2178C | 2025 IS PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 1/13/2026 | PDP3548C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
+| 1/13/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/12/2026 | PDP0676C | Post Basic FTEP Firearms | Passed | 0.0 | 23.00 |
 | 1/8/2026 | PDP0814C | RegJin RMS/MRE Report Writing | Passed | 0.0 | 15.00 |
 | 1/6/2026 | PDP1753C | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |

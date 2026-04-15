@@ -156,6 +156,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/9/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/9/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/5/2026
   course: PDP2308C
   title: RegJIN RMS/MRE Report Writing Training
@@ -195,6 +207,24 @@ training_records:
 - date: 3/3/2026
   course: PDP2442C
   title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/3/2026
+  course: PDP2851C
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/3/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/3/2026
+  course: PDP2535C
+  title: Oregon Ballot Measure 114
   status: Passed
   score: '0.0'
   hours: '0.25'

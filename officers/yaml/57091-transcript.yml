@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/26/2026
   course: PDP1435C
   title: FTEP Post DPSST Firearms
@@ -59,6 +65,12 @@ training_records:
 - date: 3/5/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/5/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -86,6 +98,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '25.00'
+- date: 1/28/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/22/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

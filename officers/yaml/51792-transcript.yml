@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/10/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/2/2026
   course: PDP1727C
   title: 2025 AR In-Service Wrap Up
@@ -152,6 +158,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/6/2026
+  course: PDP2683C
+  title: HRAR 2.02, Workplace Harassment Discrimination Ref
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

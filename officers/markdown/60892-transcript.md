@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2026 | REG3473C | Emergency Vehicle Operations Refresher | Passed | 0.0 | 4.00 |
 | 3/25/2026 | OSH3109C | SFST Refresher Course | Passed | 0.0 | 8.00 |
 | 2/6/2026 | FGP2264C | DPSST Legal Updates Fall 2025 | Passed | 0.0 | 1.00 |
 | 12/11/2025 | FGP2154C | Domestic Violence Training | Passed | 0.0 | 2.00 |

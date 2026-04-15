@@ -88,6 +88,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/16/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/16/2026
+  course: PDP4239C
+  title: 'Testosterone Replacement: Help, Hype or Harm'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/5/2026
   course: PDP2116C
   title: OR Exec Development Institute Annual Session

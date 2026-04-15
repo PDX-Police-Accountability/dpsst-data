@@ -39,6 +39,7 @@
 | 3/1/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 3/1/2026 | PDP0431C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 3/1/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 3/1/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/21/2026 | PDP2947C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 2/21/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 2/21/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
@@ -47,6 +48,8 @@
 | 2/21/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 2/21/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/21/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/21/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/21/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 12/4/2025 | PDP2743C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 11/21/2025 | PDP3572C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 8/14/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |

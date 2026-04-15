@@ -30,7 +30,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/12/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 3/4/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/15/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/15/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP3825C | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP1837C | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP0306C | AA [PJU-101-H] Introduction to Procedural Justice | Passed | 0.0 | 0.25 |
@@ -60,6 +62,13 @@
 | 1/12/2026 | PDP3548C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
 | 1/12/2026 | PDP0431C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP0579C | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 1/12/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
+| 1/12/2026 | PDP0359C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 1/12/2026 | PDP0032C | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 1/12/2026 | PDP4191C | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 1/12/2026 | PDP0382C | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 1/12/2026 | PDP3363C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 1/12/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/8/2026 | PDP0814C | RegJin RMS/MRE Report Writing | Passed | 0.0 | 15.00 |
 | 1/8/2026 | PDP4168C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 1/8/2026 | PDP0435C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
@@ -86,6 +95,9 @@
 | 1/4/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 1/4/2026 | PDP3161C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 1/4/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 1/4/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 1/4/2026 | PDP2421C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 1/4/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
 | 12/29/2025 | PDP2410C | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 12/26/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 12/26/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |

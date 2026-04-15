@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 3/31/2026
+  course: PDP4120C
+  title: DIR 660.10, PE Procedures/2018-5 TT 100% Collect
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/29/2026
   course: PDP0599C
   title: 2018-5 TT 100% Collection  Submission Model FA
@@ -132,6 +138,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/26/2026
+  course: PDP4281C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/26/2026
+  course: PDP2901C
+  title: 'DIR 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/26/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/26/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/25/2026
   course: PDP2229C
   title: FTEP Orientation
@@ -186,6 +216,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 3/9/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/8/2026
   course: PDP1474C
   title: 2023 Terminator Tire Deflation Device

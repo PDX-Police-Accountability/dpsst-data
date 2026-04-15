@@ -54,6 +54,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/9/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/9/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/3/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/8/2026
   course: PDP0615C
   title: 2025 Oregon State Lead Quick Facts
@@ -132,6 +150,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/7/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2026
+  course: PDP4281C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/7/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/6/2026
   course: PDP3709C
   title: 2025-10 CAO Updates Disorderly Conduct  ORS
@@ -162,6 +198,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/5/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/7/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

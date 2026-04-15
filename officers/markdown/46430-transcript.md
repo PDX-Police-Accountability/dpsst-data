@@ -33,10 +33,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/22/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/22/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/22/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
+| 1/20/2026 | PDP2721C | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
+| 1/20/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
+| 1/20/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/4/2025 | PDP4412C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 11/4/2025 | PDP2662C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

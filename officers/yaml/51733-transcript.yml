@@ -56,6 +56,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/26/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/26/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/24/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

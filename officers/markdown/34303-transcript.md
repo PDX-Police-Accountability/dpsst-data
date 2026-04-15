@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/16/2026 | HBP2482C | FTP Academy Prep | Passed | 0.0 | 8.00 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 5/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/16/2025 | HBP2125A | ACAP - Airways Training Video | Passed | 0.0 | 2.00 |

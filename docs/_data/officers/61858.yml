@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2026
+  course: MFN3307C
+  title: OIS Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/26/2026
   course: MFN1891C
   title: Milo Use of Force training
@@ -69,6 +75,12 @@ training_records:
   hours: '2.00'
 - date: 2/19/2026
   course: MFN2742C
+  title: DT's- Handcuffing  Striking
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/19/2026
+  course: MFN1160C
   title: DT's- Handcuffing  Striking
   status: Passed
   score: '0.0'

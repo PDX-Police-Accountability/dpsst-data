@@ -30,12 +30,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/26/2026 | SAG0348C | Protecting Lives Saving Futures | Passed | 0.0 | 4.00 |
 | 2/25/2026 | SAG1282C | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |
 | 2/24/2026 | SAG2648C | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |
 | 2/23/2026 | SAG0706C | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |
 | 2/14/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/14/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/14/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 1/16/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/16/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/16/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |

@@ -29,8 +29,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/24/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/17/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
 | 3/12/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/12/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/8/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP0306C | AA [PJU-101-H] Introduction to Procedural Justice | Passed | 0.0 | 0.25 |
@@ -39,6 +41,7 @@
 | 2/4/2026 | PDP3548C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
 | 2/4/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP2442C | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
+| 2/4/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/14/2026 | PDP2252C | FTEP Orientation | Passed | 0.0 | 6.45 |
 | 1/13/2026 | PDP3224C | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 1/13/2026 | PDP3350C | FTEP Report Writing | Passed | 0.0 | 2.00 |
@@ -75,6 +78,14 @@
 | 1/11/2026 | PDP3161C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 1/11/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 1/11/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 1/11/2026 | PDP2421C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 1/11/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
+| 1/11/2026 | PDP0359C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 1/11/2026 | PDP0032C | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 1/11/2026 | PDP4191C | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 1/11/2026 | PDP0382C | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 1/11/2026 | PDP3363C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 1/8/2026 | PDP0814C | RegJin RMS/MRE Report Writing | Passed | 0.0 | 15.00 |
 | 1/6/2026 | PDP1753C | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 12/30/2025 | PDP1543C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/28/2026
+  course: PDP2137C
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/27/2026
   course: PDP1222C
   title: 2019-4 TT Emailing Security Reports
@@ -90,6 +96,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/27/2026
+  course: PDP4281C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/27/2026
+  course: PDP4120C
+  title: DIR 660.10, PE Procedures/2018-5 TT 100% Collect
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/26/2026
   course: PDP3042C
   title: FTEP Hazmat/WMD APR Gas Mask
@@ -102,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 3/26/2026
+  course: PDP1056C
+  title: DIR 0640.37, Communication with Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/25/2026
   course: PDP2229C
   title: FTEP Orientation
@@ -162,6 +186,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 3/9/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/22/2026
   course: REG2570C
   title: INTOX 8000 (Hours included in Basic)

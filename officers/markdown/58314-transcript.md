@@ -36,10 +36,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2026 | PDP3319C | 2026 Dialogue Liaison Officer (DLO) Training | Passed | 0.0 | 9.00 |
 | 3/5/2026 | PDP2305C | 2025 All Sworn In-Service - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
 | 3/5/2026 | PDP2178C | 2025 IS PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 3/1/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/1/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/1/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/1/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 1/17/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 1/17/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/17/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

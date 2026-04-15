@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/16/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/12/2026 | PDP3951C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 3/8/2026 | PDP2080C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
 | 3/5/2026 | PDP4517C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
@@ -47,6 +48,7 @@
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 2/11/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/11/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 1/22/2026 | PDP4425C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

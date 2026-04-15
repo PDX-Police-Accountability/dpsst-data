@@ -83,6 +83,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2026
+  course: PDA0182C
+  title: Government Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/7/2026
+  course: PDA0008C
+  title: Government Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/25/2025
   course: F1539558
   title: Operational Force Multipliers

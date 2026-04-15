@@ -43,9 +43,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/30/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/10/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/10/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -64,6 +76,12 @@ training_records:
 - date: 2/3/2026
   course: PDP2225C
   title: 2025-12 CAO Legal Updates Inventory Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/20/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -163,6 +181,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/15/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP2683C
+  title: HRAR 2.02, Workplace Harassment Discrimination Ref
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/21/2025
   course: PDP3572C
   title: ALPR Training (Motorola)

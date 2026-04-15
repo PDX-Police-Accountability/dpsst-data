@@ -34,9 +34,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/27/2026 | PDP3019C | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 3/27/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/19/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/19/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/6/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 1/20/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 1/19/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
+| 1/19/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
+| 1/19/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

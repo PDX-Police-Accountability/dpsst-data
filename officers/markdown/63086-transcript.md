@@ -35,6 +35,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/24/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/24/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/2/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 1/27/2026 | PDP3783C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
 | 1/7/2026 | PDP2719C | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP2627C | 2024-3 IS PP Shooting at Moving vehicles Video 2 | Passed | 0.0 | 1.25 |
@@ -46,6 +48,8 @@
 | 1/7/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 1/7/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 1/7/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 1/7/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 1/6/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
@@ -62,6 +66,9 @@
 | 1/5/2026 | PDP1031C | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
 | 1/5/2026 | PDP1755C | 2024-3 IS MFF Response to Public Order Events | Passed | 0.0 | 1.50 |
 | 1/5/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/5/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/5/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
+| 1/5/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 6/13/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/4/2025 | PDP2323A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/4/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |

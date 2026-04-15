@@ -41,6 +41,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/13/2026 | OSH2833C | 1st Trimester Firearms | Instructed | 0.0 | 3.00 |
 | 3/13/2026 | OSH0558C | 1st Trimester Firearms | Instructed | 0.0 | 3.00 |
+| 3/9/2026 | OSH2530C | 1st Trimester Fireaerms | Instructed | 0.0 | 3.00 |
+| 3/9/2026 | OSH2744C | 1st Trimester Fireaerms | Instructed | 0.0 | 3.00 |
+| 3/6/2026 | OSH2742C | 1st Trimester Fireaerms | Instructed | 0.0 | 3.00 |
+| 3/6/2026 | OSH3256C | 1st Trimester Fireaerms | Instructed | 0.0 | 3.00 |
 | 2/6/2026 | OSH0752C | OSP Defensive Tactics - 1st Trimester | Passed | 0.0 | 3.00 |
 | 2/4/2026 | OSH2976C | OSP Defensive Tactics - 1st Trimester | Passed | 0.0 | 3.00 |
 | 1/30/2026 | PLS1613C | CPR/AED | Passed | 0.0 | 4.00 |

@@ -33,7 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/9/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/9/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/2/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP1863C | 2024-3 IS Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
 | 1/12/2026 | PDP2402C | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
@@ -47,6 +49,10 @@
 | 1/7/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP1901C | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP3734C | 2026 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 1/7/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 1/7/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/7/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 1/7/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
 | 1/6/2026 | PDP1315C | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP2014C | 2024-3IS PP Shooting at Moving Vehicle Video 1 | Passed | 0.0 | 1.25 |
 | 1/6/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
@@ -64,6 +70,7 @@
 | 1/5/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 6/17/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/19/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 4/18/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |

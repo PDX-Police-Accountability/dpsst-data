@@ -35,6 +35,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/9/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP1016C | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP2758C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
@@ -43,6 +45,7 @@
 | 1/20/2026 | PDP2402C | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 1/20/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 1/19/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 12/31/2025 | PDP0115C | 2024-3 IS Legal Updates Use of Force Video 2 | Passed | 0.0 | 1.25 |

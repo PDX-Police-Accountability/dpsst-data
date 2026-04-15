@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/9/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/2/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2026 | OCS0606C | Balancing Speed and Marksmanship | Instructed | 0.0 | 3.00 |
 | 3/30/2026 | OCS2515C | 2026 1st Quarter Corrections Firearms | Instructed | 0.0 | 24.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Instructed | 0.0 | 26.00 |

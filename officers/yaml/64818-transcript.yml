@@ -30,9 +30,21 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/7/2026
+  course: PDP2087C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/19/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/19/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -751,6 +763,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/7/2026
+  expiration_date: 4/7/2028
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/4/2024

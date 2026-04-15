@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/6/2026
+  course: MKL2069C
+  title: OLCC Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/4/2026
   course: MKL0677C
   title: DAC 2026 Preventing Discrimination and Harassment

@@ -50,6 +50,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/5/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/5/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/30/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia
@@ -86,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/21/2026
+  course: PDP4281C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/16/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting
@@ -110,6 +128,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/16/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/16/2026
+  course: PDP2683C
+  title: HRAR 2.02, Workplace Harassment Discrimination Ref
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/9/2026
   course: PDP2947C
   title: 2025-10 CAO Legal Updates for 03/2025
@@ -152,6 +182,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/9/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

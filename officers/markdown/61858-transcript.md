@@ -37,10 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/7/2026 | MFN3307C | OIS Training | Passed | 0.0 | 1.50 |
 | 3/26/2026 | MFN1891C | Milo Use of Force training | Passed | 0.0 | 0.50 |
 | 3/18/2026 | MFN0056C | Oregon Board of Parole Hearings | Passed | 0.0 | 0.50 |
 | 2/26/2026 | MFN1328C | Search and Seizure | Passed | 0.0 | 2.00 |
 | 2/19/2026 | MFN2742C | DT's- Handcuffing  Striking | Passed | 0.0 | 2.00 |
+| 2/19/2026 | MFN1160C | DT's- Handcuffing  Striking | Passed | 0.0 | 2.00 |
 | 2/12/2026 | MFN3610C | ICOTS/EDIS/STTL Overview | Passed | 0.0 | 3.00 |
 | 2/12/2026 | MFN1761C | ICOTS/EDIS/STTL Overview | Passed | 0.0 | 3.00 |
 | 2/11/2026 | MFN0688C | Reclaiming Lives Recovery Panel | Passed | 0.0 | 1.00 |

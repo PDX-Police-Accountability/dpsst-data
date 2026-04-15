@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2026 | PDP3319C | 2026 Dialogue Liaison Officer (DLO) Training | Passed | 0.0 | 9.00 |
 | 2/7/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/19/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/15/2026 | PDP0232C | 2026 Training Instructor Development | Passed | 0.0 | 28.00 |

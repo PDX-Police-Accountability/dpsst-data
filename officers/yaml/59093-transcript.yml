@@ -75,6 +75,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/31/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/18/2026
   course: PDP1724C
   title: 2026 Crisis Negotiation Team (CNT) Annual Training
@@ -231,6 +243,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/29/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/29/2026
+  course: PDP2683C
+  title: HRAR 2.02, Workplace Harassment Discrimination Ref
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/28/2026
   course: PDP2305C
   title: 2025 All Sworn In-Service - PVO - Stop Sticks
@@ -255,6 +279,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/28/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/28/2026
+  course: PDP4281C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/28/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/28/2025
   course: PDP2267B
   title: ORS 181A.440 Airways Part 1

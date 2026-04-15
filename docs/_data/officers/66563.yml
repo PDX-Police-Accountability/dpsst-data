@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/30/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/16/2026
   course: PDP1295C
   title: 2024 DIR 0640.80, Bias Event Response
@@ -84,6 +90,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/16/2026
+  course: PDP4120C
+  title: DIR 660.10, PE Procedures/2018-5 TT 100% Collect
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/16/2026
+  course: PDP1056C
+  title: DIR 0640.37, Communication with Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/14/2026
   course: PDP4451C
   title: 2025 Airway Circulatory Anatomy and Physiology
@@ -108,6 +126,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/14/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/14/2026
+  course: PDP0359C
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/14/2026
+  course: PDP0032C
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/14/2026
+  course: PDP4191C
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/14/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/14/2026
+  course: PDP0382C
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/14/2026
+  course: PDP3363C
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/26/2026
   course: PDP0953C
   title: 2024 ECIT Dispatch Update Video
@@ -144,6 +204,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/26/2026
+  course: PDP2137C
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/21/2026
   course: PDP3668C
   title: '2025 Disability Series: I/DD'
@@ -162,6 +228,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/21/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/21/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/19/2026
   course: PDP0443C
   title: 2025-10 National Incident Based Reporting System
@@ -240,6 +318,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 2/12/2026
+  course: PDP2421C
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/11/2026
   course: PDP3979C
   title: 2025-07 CAO Legal Updates for 10/2024

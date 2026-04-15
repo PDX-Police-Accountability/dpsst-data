@@ -36,7 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2026 | PDP1997C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 18.00 |
+| 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/7/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/7/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP4517C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/5/2026 | PDP4517C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 3/4/2026 | PDP0890C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 18.00 |

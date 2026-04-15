@@ -38,8 +38,13 @@
 | 3/31/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP2421C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 3/31/2026 | PDP4120C | DIR 660.10, PE Procedures/2018-5 TT 100% Collect | Passed | 0.0 | 0.50 |
 | 3/30/2026 | PDP4310C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 3/30/2026 | PDP0599C | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 3/30/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
+| 3/30/2026 | PDP2137C | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 3/26/2026 | PDP0926C | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
@@ -65,6 +70,9 @@
 | 3/26/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP2402C | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 3/26/2026 | PDP2901C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Passed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |

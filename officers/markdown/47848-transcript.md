@@ -38,9 +38,13 @@
 | 3/24/2026 | PDP4545C | FTEP Geography | Instructed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Instructed | 0.0 | 2.00 |
 | 3/23/2026 | PDP4452C | Body Worn Camera Training | Instructed | 0.0 | 2.00 |
+| 3/9/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 2/17/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 2/17/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 2/17/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/17/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/17/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 2/12/2026 | PDP0431C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

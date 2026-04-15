@@ -36,6 +36,9 @@
 | 3/26/2026 | PDP1560C | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP2901C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP2137C | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Passed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |
@@ -45,6 +48,7 @@
 | 3/12/2026 | PDP0793C | FTEP Post PVO StopSticks Box IN | Passed | 0.0 | 4.00 |
 | 3/10/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
+| 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/27/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/23/2025 | PDP1892B | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |

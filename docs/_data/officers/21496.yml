@@ -166,6 +166,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2026
+  course: OSH3131C
+  title: Criminal Interdictoin Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/16/2026
   course: OSH1868C
   title: ARIDE

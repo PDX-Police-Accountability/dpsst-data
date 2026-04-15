@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/25/2026
+  course: PDP4364C
+  title: 2026 Focused Intervention Team (FIT) Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 2/12/2026
   course: PDP1727C
   title: 2025 AR In-Service Wrap Up
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 2/12/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/4/2025
   course: PDP2743C
   title: 2025-10 CHO EO, DIR 0625.00 Automatic License

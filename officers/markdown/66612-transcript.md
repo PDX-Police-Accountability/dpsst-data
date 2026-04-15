@@ -31,6 +31,7 @@
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/16/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
 | 3/1/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 3/1/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP4451C | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
 | 2/12/2026 | PDP3204C | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
 | 2/12/2026 | PDP1094C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
@@ -41,6 +42,9 @@
 | 2/12/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP0431C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP0579C | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 2/12/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
+| 2/12/2026 | PDP0382C | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 2/12/2026 | PDP3363C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 2/11/2026 | PDP3172C | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP1295C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP0953C | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
@@ -60,6 +64,10 @@
 | 2/11/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP3825C | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP1837C | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 2/11/2026 | PDP2421C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 2/11/2026 | PDP0359C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 2/11/2026 | PDP0032C | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 2/11/2026 | PDP4191C | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 2/10/2026 | PDP4467C | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP1817C | 2025-07 CAO Legal Updates for 08 - 09/2024 | Passed | 0.0 | 0.50 |
 | 2/10/2026 | PDP2758C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
@@ -67,12 +75,14 @@
 | 2/10/2026 | PDP3161C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 2/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP0306C | AA [PJU-101-H] Introduction to Procedural Justice | Passed | 0.0 | 0.25 |
+| 2/10/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP2442C | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
 | 1/18/2026 | PDP2178C | 2025 IS PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 1/18/2026 | PDP3548C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
+| 1/18/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/16/2026 | PDP4168C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 1/14/2026 | PDP2252C | FTEP Orientation | Passed | 0.0 | 6.45 |
 | 1/13/2026 | PDP3224C | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
@@ -82,11 +92,15 @@
 | 1/11/2026 | PDP1222C | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP0325C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP2947C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
+| 1/11/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 1/11/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
 | 1/10/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 1/10/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 1/8/2026 | PDP0814C | RegJin RMS/MRE Report Writing | Passed | 0.0 | 15.00 |
 | 1/8/2026 | PDP4310C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 1/8/2026 | PDP0599C | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 1/8/2026 | PDP4120C | DIR 660.10, PE Procedures/2018-5 TT 100% Collect | Passed | 0.0 | 0.50 |
+| 1/8/2026 | PDP2137C | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP1753C | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 12/29/2025 | PDP2410C | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 12/24/2025 | PDP1969C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |

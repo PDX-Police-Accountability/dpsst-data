@@ -56,6 +56,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/11/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/20/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

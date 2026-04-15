@@ -34,12 +34,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/25/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/24/2026 | PDP3913C | 2026 Investigators IS Exemption Review Legal | Passed | 0.0 | 1.00 |
 | 3/24/2026 | PDP0724C | 2026 Investigators IS - Mass Casualty Incidents | Passed | 0.0 | 1.75 |
 | 3/18/2026 | PDP1724C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 3/11/2026 | PDP4164C | 2026 Investigators IS - Device Warrant Searches | Passed | 0.0 | 1.75 |
 | 3/11/2026 | PDP2703C | 2026 Investigators IS - Digital Data Analysis | Passed | 0.0 | 1.00 |
 | 2/24/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/2/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/14/2026 | PDP3857C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |

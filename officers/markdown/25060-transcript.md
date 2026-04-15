@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2026 | WBP0172C | 2026 Q1 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 3/24/2026 | WBP2430C | Spring Range: Drills and Distance Training | Passed | 0.0 | 3.00 |
 | 3/24/2026 | WBP2430C | Spring Range: Drills and Distance Training | Instructed | 0.0 | 3.00 |
 | 3/17/2026 | WBP1051C | Oregon Santuary Law  Local LE Impacts | Passed | 0.0 | 0.75 |

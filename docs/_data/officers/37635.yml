@@ -219,6 +219,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/3/2025
+  course: EGP4423C
+  title: SWAT Command Decision Making  Leadership 1
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/25/2025
   course: EGP3185A
   title: SWAT Search Skills-Mini Scenarios

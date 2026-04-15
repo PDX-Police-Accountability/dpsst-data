@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/24/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/17/2026
   course: PDP2955C
   title: AA [CIT-113-H] Responding to a MH Facility
@@ -39,6 +45,12 @@ training_records:
 - date: 3/12/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/12/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -90,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/4/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/14/2026
   course: PDP2252C
   title: FTEP Orientation
@@ -306,6 +324,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/11/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/11/2026
+  course: PDP2421C
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/11/2026
+  course: PDP1056C
+  title: DIR 0640.37, Communication with Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/11/2026
+  course: PDP0359C
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/11/2026
+  course: PDP0032C
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/11/2026
+  course: PDP4191C
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/11/2026
+  course: PDP0382C
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/11/2026
+  course: PDP3363C
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/8/2026
   course: PDP0814C
   title: RegJin RMS/MRE Report Writing

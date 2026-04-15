@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/23/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/22/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia

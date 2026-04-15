@@ -30,6 +30,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/16/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/16/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/16/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/11/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
 | 3/10/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 3/3/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
@@ -44,6 +46,7 @@
 | 1/13/2026 | PDP3224C | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 1/13/2026 | PDP3350C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 1/13/2026 | PDP0205C | FTEP Report Writing | Passed | 0.0 | 2.00 |
+| 1/13/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/12/2026 | PDP0676C | Post Basic FTEP Firearms | Passed | 0.0 | 23.00 |
 | 1/11/2026 | PDP1222C | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP0325C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
@@ -56,6 +59,11 @@
 | 1/7/2026 | PDP3172C | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP0435C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP0926C | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 1/7/2026 | PDP0359C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 1/7/2026 | PDP0032C | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 1/7/2026 | PDP4191C | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 1/7/2026 | PDP0382C | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 1/7/2026 | PDP3363C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 1/6/2026 | PDP1753C | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 1/6/2026 | PDP3204C | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
 | 1/6/2026 | PDP1094C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
@@ -79,11 +87,14 @@
 | 1/6/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 1/6/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP2947C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 1/5/2026 | PDP2930C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 1/5/2026 | PDP3161C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 1/5/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP2421C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 12/29/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 12/29/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |
 | 12/29/2025 | PDP2922C | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |

@@ -56,6 +56,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/10/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/4/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/12/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
@@ -68,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/8/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/13/2026
   course: PDP3350C
   title: FTEP Report Writing

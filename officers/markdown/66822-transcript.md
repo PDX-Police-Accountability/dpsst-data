@@ -33,14 +33,18 @@
 | 3/31/2026 | PDP0926C | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP4571C | Radar/Lidar Operators Course | Passed | 0.0 | 18.00 |
 | 3/31/2026 | PDP3979C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP4120C | DIR 660.10, PE Procedures/2018-5 TT 100% Collect | Passed | 0.0 | 0.50 |
 | 3/30/2026 | PDP4310C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 3/30/2026 | PDP0599C | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 3/30/2026 | PDP2137C | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 3/26/2026 | PDP3152C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP1560C | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP2901C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Passed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |
@@ -50,6 +54,8 @@
 | 3/12/2026 | PDP0793C | FTEP Post PVO StopSticks Box IN | Passed | 0.0 | 4.00 |
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 3/9/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
+| 3/9/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
+| 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/27/2025 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |
 | 12/26/2025 | PDP0447C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |

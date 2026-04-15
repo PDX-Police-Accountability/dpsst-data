@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/16/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/12/2026
   course: PDP2955C
   title: AA [CIT-113-H] Responding to a MH Facility
@@ -51,6 +57,12 @@ training_records:
 - date: 2/16/2026
   course: PDP3825C
   title: AA [CIT-112-A] Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/16/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -81,6 +93,12 @@ training_records:
 - date: 2/2/2026
   course: PDP2442C
   title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP2851C
+  title: DIR 0311.50 Investigative Use of Social Media
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -126,6 +144,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '23.00'
+- date: 1/12/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/8/2026
   course: PDP0814C
   title: RegJin RMS/MRE Report Writing
@@ -168,6 +192,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/1/2026
+  course: PDP0359C
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/1/2026
+  course: PDP0032C
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/1/2026
+  course: PDP4191C
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/1/2026
+  course: PDP0382C
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/1/2026
+  course: PDP3363C
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/29/2025
   course: PDP2410C
   title: 2025 Mobile Identification Device (MIDD) Training

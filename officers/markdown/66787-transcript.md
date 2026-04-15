@@ -36,6 +36,12 @@
 | 3/31/2026 | PDP4571C | Radar/Lidar Operators Course | Passed | 0.0 | 18.00 |
 | 3/31/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP2421C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 3/31/2026 | PDP2901C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP4120C | DIR 660.10, PE Procedures/2018-5 TT 100% Collect | Passed | 0.0 | 0.50 |
+| 3/31/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 3/31/2026 | PDP2137C | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 3/30/2026 | PDP1222C | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 3/30/2026 | PDP3152C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/30/2026 | PDP1560C | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
@@ -43,6 +49,7 @@
 | 3/29/2026 | PDP0325C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 3/26/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Passed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |
@@ -53,6 +60,7 @@
 | 3/10/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/9/2026 | PDP1474C | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
+| 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/2/2026 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |
 | 1/2/2026 | PDP2770C | ICS-200 Basic Inc Command System for Init Resp | Passed | 0.0 | 4.00 |

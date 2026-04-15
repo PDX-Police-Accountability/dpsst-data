@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: 2/1/2027
 training_records:
+- date: 3/28/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/24/2026
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)
@@ -45,6 +51,12 @@ training_records:
 - date: 2/13/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/13/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -72,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/19/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/15/2026
   course: PDP3035C
   title: 2025 All Sworn In-Service Taser Training (Video)

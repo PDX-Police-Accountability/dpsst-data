@@ -74,6 +74,30 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 3/9/2026
+  course: OSH2530C
+  title: 1st Trimester Fireaerms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/9/2026
+  course: OSH2744C
+  title: 1st Trimester Fireaerms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/6/2026
+  course: OSH2742C
+  title: 1st Trimester Fireaerms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/6/2026
+  course: OSH3256C
+  title: 1st Trimester Fireaerms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/6/2026
   course: OSH0752C
   title: OSP Defensive Tactics - 1st Trimester

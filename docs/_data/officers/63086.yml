@@ -48,6 +48,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/24/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/27/2026
   course: PDP3783C
   title: 2026 Legal Interpreting in Policing In-Service
@@ -111,6 +123,18 @@ training_records:
 - date: 1/7/2026
   course: PDP3771C
   title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/7/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -210,6 +234,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/5/2026
+  course: PDP4281C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/5/2026
+  course: PDP2683C
+  title: HRAR 2.02, Workplace Harassment Discrimination Ref
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/5/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/13/2025
   course: PDP2702B
   title: '2025 Disability Series: Intro to Disability'

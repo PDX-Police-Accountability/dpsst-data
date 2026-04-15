@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/22/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

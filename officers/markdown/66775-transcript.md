@@ -34,13 +34,17 @@
 | 3/28/2026 | PDP3152C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/28/2026 | PDP0435C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 3/28/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
+| 3/28/2026 | PDP2137C | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 3/27/2026 | PDP1222C | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 3/27/2026 | PDP0325C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 3/27/2026 | PDP4310C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 3/27/2026 | PDP0599C | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 3/27/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/27/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
+| 3/27/2026 | PDP4120C | DIR 660.10, PE Procedures/2018-5 TT 100% Collect | Passed | 0.0 | 0.50 |
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 3/26/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Passed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |
@@ -51,6 +55,7 @@
 | 3/10/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/9/2026 | PDP1474C | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
+| 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/2/2026 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |
 | 1/2/2026 | PDP0447C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |

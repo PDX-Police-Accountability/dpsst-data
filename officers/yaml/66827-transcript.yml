@@ -102,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 3/9/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/22/2026
   course: REG2570C
   title: INTOX 8000 (Hours included in Basic)

@@ -96,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/9/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/5/2026
   course: PDP2308C
   title: RegJIN RMS/MRE Report Writing Training

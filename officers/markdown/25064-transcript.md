@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/6/2026 | MKL2069C | OLCC Defensive Tactics | Passed | 0.0 | 8.00 |
 | 2/13/2026 | MKL2952C | CJIS Recertification | Passed | 0.0 | 1.00 |
 | 12/17/2025 | MKL2828C | OLCC Administrative Rules Update | Passed | 0.0 | 1.00 |
 | 12/17/2025 | MKL4317C | OLCC Administrative Rules Update | Passed | 0.0 | 1.00 |

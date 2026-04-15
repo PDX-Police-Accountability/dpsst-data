@@ -84,6 +84,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/31/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2026
+  course: PDP2421C
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2026
+  course: PDP4120C
+  title: DIR 660.10, PE Procedures/2018-5 TT 100% Collect
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/30/2026
   course: PDP4310C
   title: 2018 TOD 100% Collection  Submission Model
@@ -93,6 +111,18 @@ training_records:
 - date: 3/30/2026
   course: PDP0599C
   title: 2018-5 TT 100% Collection  Submission Model FA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/30/2026
+  course: PDP4281C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/30/2026
+  course: PDP2137C
+  title: School Emergency Actions
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -246,6 +276,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/26/2026
+  course: PDP2901C
+  title: 'DIR 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/26/2026
+  course: PDP1056C
+  title: DIR 0640.37, Communication with Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/26/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/25/2026
   course: PDP2229C
   title: FTEP Orientation

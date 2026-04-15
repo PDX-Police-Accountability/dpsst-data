@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/7/2026 | PDA0182C | Government Ethics | Passed | 0.0 | 1.00 |
+| 4/7/2026 | PDA0008C | Government Ethics | Passed | 0.0 | 1.00 |
 | 2/3/2026 | VND2967C | Trauma Informed Response Training | Passed | 0.0 | 7.00 |
 | 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |

@@ -68,6 +68,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/8/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/8/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/19/2026
   course: PDP2225C
   title: 2025-12 CAO Legal Updates Inventory Searches
@@ -80,6 +92,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/15/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/15/2026
+  course: PDP2683C
+  title: HRAR 2.02, Workplace Harassment Discrimination Ref
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

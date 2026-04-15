@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/12/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/26/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

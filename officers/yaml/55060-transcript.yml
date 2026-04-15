@@ -38,12 +38,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/1/2026
+  course: PDP1418C
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/11/2026
   course: PDP1713C
   title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/10/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/18/2026
   course: PDP2698C
   title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
@@ -59,6 +71,12 @@ training_records:
 - date: 2/10/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'

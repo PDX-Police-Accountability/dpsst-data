@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/11/2026
+  course: HBP0215C
+  title: ODT - Working from Cleared Areas, Foot Chases
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/29/2026
   course: HBP3193C
   title: CPR/First Aid/AED

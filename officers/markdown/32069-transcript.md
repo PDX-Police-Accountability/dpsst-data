@@ -46,6 +46,10 @@
 | 1/28/2026 | SDP0241C | DV Legal update DDA Presentation | Passed | 0.0 | 1.50 |
 | 1/28/2026 | SDP0965C | Bloodborne Pathogens - CIS Learn Portal | Passed | 0.0 | 1.00 |
 | 1/28/2026 | SDP0406C | Contemporary Diversity, Equity, Inclusion Concerns | Passed | 0.0 | 3.00 |
+| 12/29/2025 | BPT4026C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
+| 12/29/2025 | BPT2670C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
+| 12/22/2025 | BPT0330C | Clinch Control | Passed | 0.0 | 1.00 |
+| 12/8/2025 | BPT2745C | Ground and Standing Control | Passed | 0.0 | 1.00 |
 | 11/6/2025 | SDP2766C | Alison - Ethics in Law Enforcement Online Course | Passed | 0.0 | 3.00 |
 | 10/22/2025 | SDP4358C | Amber Alert  PREA | Passed | 0.0 | 1.00 |
 | 10/22/2025 | SDP3562C | DT's 2 vs 1 control tactics | Passed | 0.0 | 2.50 |

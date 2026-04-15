@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/4/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/23/2026
   course: PDP4150C
   title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
@@ -96,6 +102,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/10/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2026
+  course: PDP1056C
+  title: DIR 0640.37, Communication with Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2026
+  course: PDP0032C
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/10/2026
+  course: PDP4191C
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/10/2026
+  course: PDP0359C
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2026
+  course: PDP0382C
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/10/2026
+  course: PDP3363C
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/8/2026
   course: PDP1295C
   title: 2024 DIR 0640.80, Bias Event Response
@@ -144,6 +192,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/8/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/4/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
@@ -186,6 +240,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 1/13/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/12/2026
   course: PDP0676C
   title: Post Basic FTEP Firearms

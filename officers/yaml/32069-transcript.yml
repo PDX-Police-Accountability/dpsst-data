@@ -111,6 +111,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/29/2025
+  course: BPT4026C
+  title: Standing and Ground Sparring
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/29/2025
+  course: BPT2670C
+  title: Standing and Ground Sparring
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/22/2025
+  course: BPT0330C
+  title: Clinch Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2025
+  course: BPT2745C
+  title: Ground and Standing Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/6/2025
   course: SDP2766C
   title: Alison - Ethics in Law Enforcement Online Course

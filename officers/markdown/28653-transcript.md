@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/7/2026 | PDA0182C | Government Ethics | Passed | 0.0 | 1.00 |
+| 4/7/2026 | PDA0008C | Government Ethics | Passed | 0.0 | 1.00 |
 | 11/25/2025 | F1539558 | Operational Force Multipliers | Passed | 0.0 | 0.50 |
 | 11/24/2025 | F1522640 | AI in Public Safety | Passed | 0.0 | 0.50 |
 | 11/24/2025 | F1519672 | Safety Culture: How are We Doing? | Passed | 0.0 | 0.75 |

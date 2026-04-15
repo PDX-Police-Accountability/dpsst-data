@@ -62,12 +62,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/31/2026
+  course: PDP2901C
+  title: 'DIR 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/31/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/30/2026
   course: PDP0663C
   title: Amended DOJ Settlement Agreement (04/2022)
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/30/2026
+  course: PDP2917C
+  title: Safe Training Procedures Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/10/2026
   course: TAP0721C
   title: How to Build a DFR Program Right From Day One

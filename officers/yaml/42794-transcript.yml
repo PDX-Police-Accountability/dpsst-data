@@ -98,6 +98,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/1/2026
+  course: OCS0606C
+  title: Balancing Speed and Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/30/2026
   course: OCS2515C
   title: 2026 1st Quarter Corrections Firearms

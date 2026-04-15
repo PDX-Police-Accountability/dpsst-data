@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/7/2026 | MNS1771C | Building Clearing and K9 Introduction | Passed | 0.0 | 1.50 |
+| 3/4/2026 | MNS4332C | Low Light Qualification/Training | Passed | 0.0 | 2.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
 | 2/3/2026 | MNP0906C | Search  Seizure Case Law Update | Passed | 0.0 | 2.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/16/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/15/2026
   course: PDP4150C
   title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
@@ -39,6 +45,12 @@ training_records:
 - date: 3/15/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -162,6 +174,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/1/2026
+  course: PDP2421C
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2026
+  course: PDP0032C
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2026
+  course: PDP4191C
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2026
+  course: PDP0382C
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2026
+  course: PDP3363C
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/20/2026
   course: PDP1295C
   title: 2024 DIR 0640.80, Bias Event Response
@@ -216,6 +258,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 1/20/2026
+  course: PDP2901C
+  title: 'DIR 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/20/2026
+  course: PDP0359C
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/14/2026
   course: PDP2252C
   title: FTEP Orientation
@@ -282,6 +336,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/13/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2026
+  course: PDP4120C
+  title: DIR 660.10, PE Procedures/2018-5 TT 100% Collect
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/13/2026
+  course: PDP2535C
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2026
+  course: PDP2137C
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/12/2026
   course: PDP0676C
   title: Post Basic FTEP Firearms
@@ -336,6 +414,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/31/2025
+  course: PDP4281C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/29/2025
   course: PDP2410C
   title: 2025 Mobile Identification Device (MIDD) Training

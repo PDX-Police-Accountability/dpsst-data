@@ -84,12 +84,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/23/2026
+  course: PDP4120C
+  title: DIR 660.10, PE Procedures/2018-5 TT 100% Collect
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/19/2026
   course: PDP2706C
   title: RegJin RMS/MRE Training
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 3/19/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/12/2026
   course: PDP0793C
   title: FTEP Post PVO StopSticks Box IN
@@ -114,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 3/9/2026
+  course: PDP0854C
+  title: Patrol Vehicle Operations Policy  [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/5/2026
   course: PDP0435C
   title: 2024-3 CAO Legal Updates for BWC
@@ -141,6 +159,12 @@ training_records:
 - date: 3/5/2026
   course: PDP0431C
   title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/5/2026
+  course: PDP2901C
+  title: 'DIR 0910.00 Update: De Minimis Force'
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -198,9 +222,33 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/4/2026
+  course: PDP4281C
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/4/2026
+  course: PDP1056C
+  title: DIR 0640.37, Communication with Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/4/2026
+  course: PDP4573C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/2/2026
   course: PDP0325C
   title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/2/2026
+  course: PDP2137C
+  title: School Emergency Actions
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -264,6 +312,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/27/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/24/2026
   course: PDP2947C
   title: 2025-10 CAO Legal Updates for 03/2025
@@ -306,12 +360,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/21/2026
+  course: PDP0032C
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/21/2026
+  course: PDP4191C
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/21/2026
+  course: PDP0382C
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/21/2026
+  course: PDP3363C
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/20/2026
   course: PDP2930C
   title: 2025-2 CAO Legal Updates for 12/2023-02/2024
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/20/2026
+  course: PDP2421C
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/20/2026
+  course: PDP0359C
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/19/2026
   course: PDP3771C
   title: '2025-9, Legal Updates: State Crimes'
@@ -321,6 +411,12 @@ training_records:
 - date: 2/17/2026
   course: PDP0443C
   title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/12/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
   status: Passed
   score: '0.0'
   hours: '0.25'
