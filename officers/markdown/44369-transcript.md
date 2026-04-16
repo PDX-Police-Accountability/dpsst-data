@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2026 | HBS3496C | EVO In-Service Training | Passed | 0.0 | 7.50 |
 | 2/26/2026 | STP0664C | RAID Team Training- Breaching Training | Passed | 0.0 | 4.00 |
 | 1/28/2026 | STP1495C | RAID Team Training-Team Movements | Passed | 0.0 | 4.00 |
 | 1/13/2026 | STP4521C | Night Shooting Qualification and Training | Passed | 0.0 | 4.00 |

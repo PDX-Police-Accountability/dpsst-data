@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2026
+  course: OSH3543C
+  title: 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2)
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/2/2026
+  course: OSH4469C
+  title: 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 1)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/20/2026
   course: PDP4079C
   title: 2026 Axon Taser 7 Operator Certification Course

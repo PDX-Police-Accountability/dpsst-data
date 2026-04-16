@@ -49,6 +49,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/28/2026
+  course: TRN3813C
+  title: DOC - Basic Public Records Training v2026
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/18/2026
+  course: TRN2911C
+  title: DOC - Protection from Ambient Heat  v2026
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/18/2026
+  course: TRN4142C
+  title: Incident Command System for Corrections v2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/14/2026
+  course: TRN1550C
+  title: 2026 Immigration Law Refresher for State Employees
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/14/2026
+  course: TRN3026C
+  title: 2026 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/19/2026
   course: TRN3727C
   title: 2026 Information Security Training Foundations 2

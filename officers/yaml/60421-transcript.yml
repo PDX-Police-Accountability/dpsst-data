@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/11/2026
+  course: SAG2789C
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/11/2026
+  course: SAG2115C
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/5/2026
   course: SAG2754C
   title: Active Listening

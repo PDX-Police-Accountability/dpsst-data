@@ -35,6 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2026 | TRN3813C | DOC - Basic Public Records Training v2026 | Passed | 0.0 | 1.50 |
+| 3/18/2026 | TRN2911C | DOC - Protection from Ambient Heat  v2026 | Passed | 0.0 | 0.50 |
+| 3/18/2026 | TRN4142C | Incident Command System for Corrections v2026 | Passed | 0.0 | 1.00 |
+| 3/14/2026 | TRN1550C | 2026 Immigration Law Refresher for State Employees | Passed | 0.0 | 1.00 |
+| 3/14/2026 | TRN3026C | 2026 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 1/19/2026 | TRN3727C | 2026 Information Security Training Foundations 2 | Passed | 0.0 | 1.00 |
 | 1/19/2026 | TRN0176C | DOC - Bloodborne Pathogens v2026 | Passed | 0.0 | 1.00 |
 | 1/19/2026 | TRN0610C | DOC - Fire Alarm Panel Monitoring v2026 Volume 1 | Passed | 0.0 | 1.00 |

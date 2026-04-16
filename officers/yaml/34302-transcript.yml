@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2026
+  course: OSH3543C
+  title: 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2)
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 2/17/2026
   course: GSP0794C
   title: 2026 Defensive Tactics In-service

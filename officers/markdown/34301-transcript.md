@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2026 | TRN4398C | Evidence Handling Crime Scene Preservation v2019 | Passed | 0.0 | 2.00 |
 | 1/29/2026 | TRN2333C | DOC - Armed Post Qualification (APQ) v2026 | Passed | 0.0 | 6.00 |
 | 1/29/2026 | TRN1633C | First Aid Adult Child Infant CPR AED v2026 | Passed | 0.0 | 6.00 |
 | 1/27/2026 | TRN4474C | DOC - AT - ODOC Professionalism v2026 | Passed | 0.0 | 2.50 |

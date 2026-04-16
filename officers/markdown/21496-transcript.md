@@ -61,6 +61,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |
 | 3/26/2026 | OSH3131C | Criminal Interdictoin Training | Passed | 0.0 | 3.00 |
 | 1/16/2026 | OSH1868C | ARIDE | Instructed | 0.0 | 8.00 |
 | 1/15/2026 | OSH1883C | Adult/Child CPR and First Aid | Passed | 0.0 | 2.00 |

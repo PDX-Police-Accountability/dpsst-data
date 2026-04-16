@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2026
+  course: HBS3496C
+  title: EVO In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 2/26/2026
   course: STP0664C
   title: RAID Team Training- Breaching Training

@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/11/2026 | SAG2789C | Firearms Training | Instructed | 0.0 | 8.00 |
+| 3/11/2026 | SAG2115C | Firearms Training | Instructed | 0.0 | 8.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
 | 1/14/2026 | SAG2745C | Firerms Training | Instructed | 0.0 | 7.00 |
 | 12/11/2025 | SAG0233C | Firearms training | Passed | 0.0 | 1.00 |

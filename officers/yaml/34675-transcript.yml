@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/11/2026
+  course: SAG2789C
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/11/2026
+  course: SAG2115C
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/4/2026
   course: 06672C
   title: 3si Tracker

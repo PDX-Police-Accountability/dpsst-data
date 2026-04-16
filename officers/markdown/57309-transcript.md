@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
 | 3/17/2026 | OCS1777C | Take Downs Ground Offense/Handcuffing | Passed | 0.0 | 1.00 |
+| 3/17/2026 | HBP1041C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |
 | 3/9/2026 | OCS1383C | Drone Training - Flight Sim/Covert Surveillance | Passed | 0.0 | 3.00 |
 | 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Passed | 0.0 | 1.00 |
 | 2/20/2026 | OCS3018C | Striking Takedowns | Passed | 0.0 | 1.00 |

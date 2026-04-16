@@ -16,11 +16,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/15/2024 | Police Officer | Basic | ReqCertExt |  |  | 8/15/2026 |
+| 4/13/2026 | Police Officer | Basic | App Recd |  |  | 8/15/2026 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/7/2026 | 4/7/2028 |
+| Code of Ethics | Law Enforcement Signed | 11/25/2025 |  |
 | Code of Ethics | Law Enforcement Signed | 3/4/2024 |  |
 | Certification Cards | First Aid and CPR | 2/28/2024 | 2/28/2026 |
 ## Education
@@ -29,7 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/15/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/13/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 4/7/2026 | PDP2087C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/19/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/19/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

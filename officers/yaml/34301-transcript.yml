@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/9/2026
+  course: TRN4398C
+  title: Evidence Handling Crime Scene Preservation v2019
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/29/2026
   course: TRN2333C
   title: DOC - Armed Post Qualification (APQ) v2026
