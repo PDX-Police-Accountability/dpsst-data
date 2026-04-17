@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/13/2026
+  agency: Gervais Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/16/2023
   agency: Portland Police Bureau
   action: Retired
@@ -46,6 +52,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/13/2026
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 10/13/2027
 - status_date: 4/16/2023
   certificate: Police Officer
   level: Advanced
@@ -89,6 +102,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/13/2027
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 9/21/2026
+  course: 26-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
 - date: 12/1/2022
   course: PDP36927
   title: 2022-5 CAO Legal Updates for 05/2022

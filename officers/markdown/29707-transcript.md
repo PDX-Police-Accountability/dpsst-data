@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/13/2026 | Gervais Police Department | Hired | Police Off |  |  |
 | 1/16/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/15/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/12/1999 | Oregon State Police | Resigned | Dispatcher |  |  |
@@ -21,6 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 4/13/2026 | Police Officer | Basic | Required |  |  | 10/13/2027 |
 | 4/16/2023 | Police Officer | Advanced | Lapsed | 3/8/2001 | 1/16/2028 |  |
 | 4/16/2023 | Police Officer | Basic | Lapsed | 3/13/2000 | 1/16/2028 |  |
 | 4/16/2023 | Police Officer | Intermediate | Lapsed | 3/8/2001 | 1/16/2028 |  |
@@ -42,6 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/21/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 12/1/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/16/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/16/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |

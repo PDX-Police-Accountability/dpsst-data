@@ -65,4 +65,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 3/2/2026
   expiration_date: ''
-education_records: []
+education_records:
+- date: 4/1/2026
+  degree: Associate Science
+  school: All Other Education Institutes
+  major: Business Administration
+  hours: '81.0'
