@@ -43,6 +43,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2026
+  course: BNP2981C
+  title: SWAT- Leadership Book and Class
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/9/2026
+  course: BNP0216C
+  title: SWAT- Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/9/2026
+  course: BNP1506C
+  title: SWAT- Officer Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/8/2026
+  course: BNP3191C
+  title: SWAT- Grid Searches
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/8/2026
+  course: BNP4549C
+  title: SWAT- Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/8/2026
+  course: BNP0273C
+  title: SWAT- Overland Movements
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/7/2026
+  course: BNP0731C
+  title: SWAT- Overland and Night Operations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/7/2026
+  course: BNP1682C
+  title: SWAT- Slow Clears
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/7/2026
+  course: BNP1610C
+  title: SWAT- Hostage Rescue Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/6/2026
+  course: BNP3760C
+  title: SWAT- Building clearing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/19/2026
   course: BNP1699C
   title: SWAT-Rifle and Pistol Skill Builder

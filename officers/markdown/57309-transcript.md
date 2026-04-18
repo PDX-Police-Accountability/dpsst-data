@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/1/2026 | 4/1/2028 |
 | Certification Cards | First Aid and CPR | 3/17/2026 | 3/3/2028 |
 | Certification Cards | First Aid and CPR | 2/20/2026 | 3/3/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
@@ -42,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
+| 3/27/2026 | OCS4253C | Clackamas County New Hire Patrol Tactics | Instructed | 0.0 | 5.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
 | 3/17/2026 | OCS1777C | Take Downs Ground Offense/Handcuffing | Passed | 0.0 | 1.00 |
 | 3/17/2026 | HBP1041C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |

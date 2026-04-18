@@ -37,6 +37,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2026 | BNP2981C | SWAT- Leadership Book and Class | Passed | 0.0 | 8.00 |
+| 4/9/2026 | BNP0216C | SWAT- Scenarios | Passed | 0.0 | 8.00 |
+| 4/9/2026 | BNP1506C | SWAT- Officer Involved Shootings | Passed | 0.0 | 2.00 |
+| 4/8/2026 | BNP3191C | SWAT- Grid Searches | Passed | 0.0 | 4.00 |
+| 4/8/2026 | BNP4549C | SWAT- Search and Seizure | Passed | 0.0 | 2.00 |
+| 4/8/2026 | BNP0273C | SWAT- Overland Movements | Passed | 0.0 | 4.00 |
+| 4/7/2026 | BNP0731C | SWAT- Overland and Night Operations | Passed | 0.0 | 4.00 |
+| 4/7/2026 | BNP1682C | SWAT- Slow Clears | Passed | 0.0 | 4.00 |
+| 4/7/2026 | BNP1610C | SWAT- Hostage Rescue Tactics | Passed | 0.0 | 4.00 |
+| 4/6/2026 | BNP3760C | SWAT- Building clearing | Passed | 0.0 | 2.00 |
 | 3/19/2026 | BNP1699C | SWAT-Rifle and Pistol Skill Builder | Passed | 0.0 | 8.00 |
 | 3/10/2026 | BNP3078C | SWAT- Overland HRT Scenario | Passed | 0.0 | 8.00 |
 | 2/19/2026 | BNP4319C | SWAT-Active Threat / Rescue Task Force Scenerios | Passed | 0.0 | 8.00 |

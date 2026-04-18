@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2026
+  course: PDP4137C
+  title: FTEP Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/30/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

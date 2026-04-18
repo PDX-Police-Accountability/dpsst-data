@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/31/2026 | PDP3386C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
+| 3/31/2026 | PDP4137C | FTEP Orientation | Passed | 0.0 | 4.00 |
 | 3/30/2026 | PDP1560C | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 3/23/2026 | PDP4452C | Body Worn Camera Training | Passed | 0.0 | 2.00 |

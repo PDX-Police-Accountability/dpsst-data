@@ -32,6 +32,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/1/2026 | 4/1/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
@@ -44,6 +45,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/1/2026 | OCS0606C | Balancing Speed and Marksmanship | Instructed | 0.0 | 3.00 |
+| 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/30/2026 | OCS2515C | 2026 1st Quarter Corrections Firearms | Instructed | 0.0 | 24.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Instructed | 0.0 | 26.00 |

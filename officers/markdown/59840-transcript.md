@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/1/2026 | 4/1/2028 |
 | Certification Cards | First Aid and CPR | 3/10/2026 | 3/10/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/20/2025 |  |
@@ -45,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/12/2026 | OCS1425C | Financial Education-VOYA | Passed | 0.0 | 1.00 |
 | 3/10/2026 | OCS3162C | CPR First Aid | Passed | 0.0 | 6.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
