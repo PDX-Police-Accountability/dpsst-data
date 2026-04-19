@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/16/2026 | OSH2956C | 1st Tri Firearms | Passed | 0.0 | 3.00 |
 | 3/14/2026 | OSH0454C | OSP Defensive Tactics - 1st Trimester | Passed | 0.0 | 3.00 |
 | 1/11/2026 | OSH4190C | Adult/Child CPR and First Aid | Passed | 0.0 | 8.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

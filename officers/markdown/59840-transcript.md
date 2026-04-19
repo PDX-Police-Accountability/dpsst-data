@@ -49,6 +49,7 @@
 | 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/12/2026 | OCS1425C | Financial Education-VOYA | Passed | 0.0 | 1.00 |
 | 3/10/2026 | OCS3162C | CPR First Aid | Passed | 0.0 | 6.00 |
+| 2/12/2026 | OCS1768C | Search  Seizure/Court Testimony | Passed | 0.0 | 2.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2025 | OCS0669C | Human Trafficking | Passed | 0.0 | 2.00 |
 | 11/6/2025 | OCS3484C | Consim | Passed | 0.0 | 3.00 |

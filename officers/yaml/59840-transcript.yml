@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 2/12/2026
+  course: OCS1768C
+  title: Search  Seizure/Court Testimony
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/12/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

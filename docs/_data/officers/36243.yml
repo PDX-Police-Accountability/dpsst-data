@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2026
+  course: HBS0595C
+  title: 'Inservice Session #1 DT''s'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 3/19/2026
   course: HBS2653C
   title: Rifle Remediation

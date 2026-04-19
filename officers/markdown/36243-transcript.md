@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2026 | HBS0595C | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
 | 3/19/2026 | HBS2653C | Rifle Remediation | Passed | 0.0 | 4.00 |
 | 3/19/2026 | HBS1675C | MFF - Public Order | Passed | 0.0 | 9.00 |
 | 2/24/2026 | HBS4205C | IMT Training | Passed | 0.0 | 8.00 |
