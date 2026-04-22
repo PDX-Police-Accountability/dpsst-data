@@ -46,11 +46,11 @@
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 3/9/2026 | PDP1474C | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
+| 3/6/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/2/2026 | PDP2770C | ICS-200 Basic Inc Command System for Init Resp | Passed | 0.0 | 4.00 |
 | 1/2/2026 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |
 | 1/2/2026 | PDP0447C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |
-| 10/27/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/23/2025 | PDP1892B | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 10/13/2025 | PDP3784B | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 10/1/2025 | PDP1880B | TEEX WMD Terrorism Aware for Emer Resp | Passed | 0.0 | 8.00 |

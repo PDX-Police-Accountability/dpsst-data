@@ -46,6 +46,7 @@
 | 3/9/2026 | PDP3152C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
+| 3/6/2026 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 3/5/2026 | PDP0435C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
@@ -102,7 +103,6 @@
 | 2/4/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP4467C | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
-| 10/27/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/23/2025 | PDP1892B | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 10/15/2025 | PDP4406B | TEEX WMD Terrorism Aware for Emer Responders | Passed | 0.0 | 8.00 |
 | 10/15/2025 | PDP2205B | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

@@ -28,8 +28,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/6/2026 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
-| 10/27/2025 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
 | 10/23/2025 | PDP1892B | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 10/14/2025 | PDP2205B | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
 | 10/6/2025 | PDP4323B | TEEX WMD Terrorism Aware for Emer Responders | Passed | 0.0 | 8.00 |

@@ -64,11 +64,11 @@
 | 3/3/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/3/2026 | PDP2535C | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 2/27/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 2/4/2026 | REG0443C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/15/2026 | REG2450C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/2/2026 | PDP0598C | TEEX WMD Terrorism Aware for Emer Responders | Passed | 0.0 | 8.00 |
 | 12/19/2025 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
-| 10/20/2025 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 9/25/2025 | PDP1557B | 2025 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 8/20/2025 | PDP2997B | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 8/14/2025 | PDP4324B | CPR/First Aid | Passed | 0.0 | 3.00 |

@@ -342,6 +342,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 2/27/2026
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
 - date: 2/23/2026
   course: REG2450C
   title: INTOX 8000 (Hours included in Basic)
@@ -384,12 +390,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
-- date: 10/20/2025
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 10/13/2025
   course: PDP2205B
   title: Amended DOJ Settlement Agreement (04/2022)

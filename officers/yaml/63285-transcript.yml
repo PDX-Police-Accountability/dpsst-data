@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/10/2026
+  course: HBS1304C
+  title: 'Evade the Fight 1: Tactical De-Escalation'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/31/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

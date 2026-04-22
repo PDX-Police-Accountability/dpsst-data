@@ -132,6 +132,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/6/2026
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 1/22/2026
   course: REG2570C
   title: INTOX 8000 (Hours included in Basic)
@@ -156,12 +162,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 10/27/2025
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 10/23/2025
   course: PDP1892B
   title: 2025 FTEP New Hire Firearms
