@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/25/2026 | PDS1349C | UAS TRAINING | Passed | 0.0 | 4.00 |
+| 2/25/2026 | PDS1604C | UAS TRAINING | Passed | 0.0 | 4.00 |
 | 1/27/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 12/22/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 11/21/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |

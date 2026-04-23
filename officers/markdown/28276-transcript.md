@@ -51,6 +51,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/31/2026 | SVP2081C | Documenting Police Use of Force  Lethal Restraint | Passed | 0.0 | 1.00 |
+| 3/18/2026 | SVP2034C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/17/2026 | SVP2327C | Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
 | 3/13/2026 | SVP1235C | Taser 7 Operator Course | Passed | 0.0 | 6.00 |
 | 3/12/2026 | SVP3070C | Preventing Workplace Discrimination  Harass | Passed | 0.0 | 0.75 |

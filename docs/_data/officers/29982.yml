@@ -108,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/18/2026
+  course: SVP2034C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/17/2026
   course: SVP2327C
   title: Hazmat First Responder Awareness

@@ -10,6 +10,12 @@ header_record:
   assignment: ''
 employment_records:
 - date: 8/12/2025
+  agency: DPSST Use Only
+  action: Resigned
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
+- date: 8/12/2025
   agency: Portland Police Bureau
   action: Retired
   rank: Captain
@@ -5184,18 +5190,10 @@ training_records:
   score: '0.0'
   hours: '408.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/8/2025
   expiration_date: 4/8/2027
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2027
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/2/2001

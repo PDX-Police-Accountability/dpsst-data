@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/12/2025 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 8/12/2025 | Portland Police Bureau | Retired | Captain |  |  |
 | 1/2/2025 | Portland Police Bureau | Promotion | Captain |  |  |
 | 12/18/2024 | DPSST Use Only | InstrApp |  |  | AcadTrng |
@@ -36,9 +37,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/8/2025 | 4/8/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 7/2/2001 |  |
 ## Education
 | date | degree | school | major | hours |

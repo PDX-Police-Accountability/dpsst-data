@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/12/2026
+  course: TAP0813C
+  title: Search Incident to Arrest
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/10/2026
   course: TAP0721C
   title: How to Build a DFR Program Right From Day One

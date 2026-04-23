@@ -61,6 +61,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2026
+  course: HBN1303C
+  title: Case Management
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/6/2026
+  course: HBN2239C
+  title: OC Spray Recert
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/6/2026
+  course: HBN2239C
+  title: OC Spray Recert
+  status: Instructed
+  score: '0.0'
+  hours: '3.50'
 - date: 3/4/2026
   course: HBS4435C
   title: Realistic De-Escalation Instructor Course
@@ -79,6 +97,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/6/2026
+  course: HBN3745C
+  title: 25-0716 (LEDS Recertification)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/14/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

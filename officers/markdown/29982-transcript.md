@@ -45,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2026 | SVP3347C | Preventing Workplace Discrimination  Harassment | Passed | 0.0 | 0.75 |
 | 3/20/2026 | SVP2971C | Sexual Harassment Prevention - Manager | Passed | 0.0 | 0.50 |
+| 3/18/2026 | SVP2034C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/17/2026 | SVP2327C | Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
 | 3/11/2026 | AVP1012C | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 2/25/2026 | SVP1235C | Taser 7 Operator Course | Passed | 0.0 | 6.00 |
