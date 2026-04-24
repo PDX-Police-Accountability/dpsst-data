@@ -23,9 +23,9 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 4/13/2026 | Police Officer | Basic | Required |  |  | 10/13/2027 |
-| 4/16/2023 | Police Officer | Advanced | Lapsed | 3/8/2001 | 1/16/2028 |  |
-| 4/16/2023 | Police Officer | Basic | Lapsed | 3/13/2000 | 1/16/2028 |  |
-| 4/16/2023 | Police Officer | Intermediate | Lapsed | 3/8/2001 | 1/16/2028 |  |
+| 4/16/2023 | Police Officer | Advanced | Lapsed | 3/8/2001 |  |  |
+| 4/16/2023 | Police Officer | Basic | Lapsed | 3/13/2000 |  |  |
+| 4/16/2023 | Police Officer | Intermediate | Lapsed | 3/8/2001 |  |  |
 | 2/15/2020 | Telecommunicator | Advanced | Expired | 4/4/1997 |  |  |
 | 2/15/2020 | Telecommunicator | Basic | Expired | 12/9/1994 |  |  |
 | 2/15/2020 | Telecommunicator | Intermediate | Expired | 5/19/1995 |  |  |
