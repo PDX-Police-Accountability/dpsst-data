@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2026 | GSP2713C | UAS Monthly Training | Passed | 0.0 | 10.00 |
 | 3/12/2026 | GSP3149C | Effective Report Writing | Passed | 0.0 | 1.50 |
 | 2/16/2026 | GSP3538C | UAS Monthly Training | Passed | 0.0 | 10.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |

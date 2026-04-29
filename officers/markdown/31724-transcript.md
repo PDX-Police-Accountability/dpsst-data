@@ -44,6 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2026 | BNS0940C | (P1) Ambush Awareness and Preparation | Passed | 0.0 | 1.00 |
+| 3/31/2026 | BNS0184C | (P1) Advanced Policing: Emotional Intelligence | Passed | 0.0 | 1.00 |
 | 3/10/2026 | BNS2154C | Active Threat Response | Passed | 0.0 | 4.00 |
 | 2/28/2026 | BNS3575C | Rescue Task Force | Passed | 0.0 | 1.00 |
 | 2/28/2026 | BNS0410C | Deflection Program - Patrol Update | Passed | 0.0 | 0.50 |

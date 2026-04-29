@@ -74,12 +74,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 3/4/2026
-  course: 06672C
-  title: 3si Tracker
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 2/5/2026
   course: SAG2754C
   title: Active Listening

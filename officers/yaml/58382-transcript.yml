@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2026
+  course: HBP2666C
+  title: 2026 OPCA Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/1/2026
   course: OCS1348C
   title: CPR First Aid

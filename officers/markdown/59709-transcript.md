@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2026 | BNP2098C | UAS Monthly- Indoor/Outdoor/Operation Roles | Passed | 0.0 | 8.00 |
 | 3/17/2026 | BNP3238C | FTO Leadership Training | Passed | 0.0 | 2.00 |
 | 3/17/2026 | BNP2735C | Case Law Update | Passed | 0.0 | 1.00 |
 | 3/17/2026 | BNP3024C | UAS/Counter UAS- Indoor/Outdoor Searches | Passed | 0.0 | 4.50 |

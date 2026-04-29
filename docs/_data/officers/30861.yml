@@ -116,6 +116,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 3/31/2026
+  course: BNS0940C
+  title: "(P1) Ambush Awareness and Preparation"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2026
+  course: BNS0184C
+  title: "(P1) Advanced Policing: Emotional Intelligence"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/28/2026
   course: BNS3575C
   title: Rescue Task Force

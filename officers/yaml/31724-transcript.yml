@@ -107,6 +107,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2026
+  course: BNS0940C
+  title: "(P1) Ambush Awareness and Preparation"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2026
+  course: BNS0184C
+  title: "(P1) Advanced Policing: Emotional Intelligence"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/10/2026
   course: BNS2154C
   title: Active Threat Response

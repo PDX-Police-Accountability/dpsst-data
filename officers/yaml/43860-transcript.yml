@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2026
+  course: VND2676C
+  title: Collective Bargaining For Public Safety Employees
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 3/3/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

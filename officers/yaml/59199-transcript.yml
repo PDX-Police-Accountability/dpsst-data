@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2026
+  course: EGP2984C
+  title: SWAT Breaching- Explosive View Ports-Thru Wall
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/24/2026
+  course: EGP1258C
+  title: SWAT Breaching- Explosive View Ports-Thru Wall
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/12/2026
   course: EGP2862C
   title: EVOC Skills
@@ -98,12 +110,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 3/4/2026
-  course: 06672C
-  title: 3si Tracker
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 3/2/2026
   course: EGP0156C
   title: SWAT Breaching- Explosive Door Charges-Viewports

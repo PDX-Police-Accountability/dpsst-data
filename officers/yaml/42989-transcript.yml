@@ -87,6 +87,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/17/2026
+  course: VND2676C
+  title: Collective Bargaining For Public Safety Employees
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 3/23/2026
   course: 26-0026
   title: DPSST Middle Management
