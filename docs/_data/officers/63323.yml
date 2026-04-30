@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/22/2026
+  agency: Portland State University DPS
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 8/18/2025
   agency: Portland State University DPS
   action: Hired
@@ -27,14 +33,7 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 8/18/2025
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 2/18/2027
+certification_records: []
 training_records:
 - date: 3/29/2026
   course: PSU2725C

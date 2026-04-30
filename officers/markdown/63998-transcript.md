@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2026 | PDP2757C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 3/25/2026 | PDP4364C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 6.00 |
 | 3/5/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/15/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

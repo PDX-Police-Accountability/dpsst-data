@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/9/2026
+  course: LOP4459C
+  title: DEI, Sustainability,  ADA Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/1/2026
   course: LOP1902C
   title: Overview of Mental Health Statutes and Resources

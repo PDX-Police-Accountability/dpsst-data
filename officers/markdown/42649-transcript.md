@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/15/2026 | HBP2666C | 2026 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
+| 4/15/2026 | HBP3076C | 2026 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/1/2026 | PDP2270C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 3/17/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/11/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |

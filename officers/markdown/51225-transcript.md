@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2026 | PDP0445C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/9/2026 | PDP2757C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 3/12/2026 | PDP3951C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 3/12/2026 | PDP3951C | 2026 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 3/6/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |

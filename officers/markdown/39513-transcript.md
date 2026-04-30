@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2026 | PDP0445C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/16/2026 | PDP0445C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
+| 4/9/2026 | PDP2757C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
+| 4/9/2026 | PDP2757C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 5.00 |
 | 4/2/2026 | PDP1997C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 18.00 |
 | 3/12/2026 | PDP3951C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 3/11/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

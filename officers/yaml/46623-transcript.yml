@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2026
+  course: PDP2148C
+  title: 2026 Annual Honor Guard In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/25/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

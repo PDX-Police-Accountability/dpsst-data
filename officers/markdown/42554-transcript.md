@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
 | 3/31/2026 | PDP4571C | Radar/Lidar Operators Course | Instructed | 0.0 | 18.00 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Instructed | 0.0 | 25.00 |
 | 3/23/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |

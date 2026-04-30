@@ -40,6 +40,7 @@
 | 3/17/2026 | OCS1777C | Take Downs Ground Offense/Handcuffing | Passed | 0.0 | 1.00 |
 | 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Passed | 0.0 | 1.00 |
 | 1/28/2026 | OCS2184C | Marksmanship, Dec 2025 Monthly Firearms | Passed | 0.0 | 2.00 |
+| 12/20/2025 | OCS4192C | Emotional Intelligence | Passed | 0.0 | 3.00 |
 | 11/26/2025 | OCS1091C | Taser | Passed | 0.0 | 3.00 |
 | 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |
 | 11/26/2025 | OCS3209C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |

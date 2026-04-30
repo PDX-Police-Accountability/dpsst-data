@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2026 | PDP3789C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 20.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
 | 2/3/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

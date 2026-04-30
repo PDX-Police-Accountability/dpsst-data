@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2026
+  course: OCP3038C
+  title: Defensive Tactics - Segmenting and Takedowns
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/3/2026
   course: OSH3543C
   title: 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2)

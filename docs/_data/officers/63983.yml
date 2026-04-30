@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: 2/18/2027
 training_records:
+- date: 3/12/2026
+  course: PSU0633C
+  title: HSI Adult First Aid CPR AED All ages
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/10/2025
   course: PSU1496C
   title: Human Trafficking 101
@@ -799,6 +805,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 3/12/2026
+  expiration_date: 3/12/2028
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/17/2023

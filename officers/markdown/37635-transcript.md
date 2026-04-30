@@ -40,6 +40,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/15/2026 | HBP2666C | 2026 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
+| 4/15/2026 | HBP3076C | 2026 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
+| 4/9/2026 | EGP0287C | Taser Recertification | Passed | 0.0 | 3.50 |
 | 3/12/2026 | EGP1845C | Lead Smarter in 2026:  3 Leadership Traps to Avoid | Passed | 0.0 | 1.00 |
 | 3/12/2026 | EGP4597C | Leading Through Generations:People-Focused Leaders | Passed | 0.0 | 1.00 |
 | 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |

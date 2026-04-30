@@ -130,12 +130,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/24/2026
+  course: LGS2683C
+  title: Implicit Bias Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/18/2026
   course: LGS1945C
   title: Defensive Tactics
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/15/2026
+  course: LGS4113C
+  title: Crisis Initervention Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/10/2025
   course: LGP1004C
   title: SWAT-Team movement / Hostage Rescue

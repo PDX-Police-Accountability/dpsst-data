@@ -52,6 +52,7 @@
 | 2/2/2026 | OCS3309C | Below 100 | Passed | 0.0 | 0.50 |
 | 1/16/2026 | OCS3980C | CNT Monthly Training - Deescalation | Passed | 0.0 | 8.00 |
 | 12/23/2025 | OCS0401C | Low Light Shoot / No-Shoot Decision Making | Passed | 0.0 | 1.00 |
+| 12/20/2025 | OCS4192C | Emotional Intelligence | Passed | 0.0 | 3.00 |
 | 12/15/2025 | OCS2110C | Use of Force Law Update | Passed | 0.0 | 1.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/10/2025 | OCS1299C | Bias Crime Training | Passed | 0.0 | 0.25 |

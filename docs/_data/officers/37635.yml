@@ -69,6 +69,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/15/2026
+  course: HBP3076C
+  title: 2026 OPCA Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/9/2026
+  course: EGP0287C
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 3/12/2026
   course: EGP1845C
   title: 'Lead Smarter in 2026:  3 Leadership Traps to Avoid'

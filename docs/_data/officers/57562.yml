@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/19/2026
+  course: OCP1744C
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/19/2026
   course: OCP2913C
   title: Firearms/Use of Force

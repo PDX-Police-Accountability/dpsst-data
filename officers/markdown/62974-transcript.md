@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2026 | OCP1744C | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 4/7/2026 | OCP3038C | Defensive Tactics - Segmenting and Takedowns | Passed | 0.0 | 0.50 |
 | 3/19/2026 | OCP2913C | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 3/11/2026 | OCP1395C | POH vs Directors Hold | Passed | 0.0 | 0.25 |
 | 3/2/2026 | OCP3126C | Global SDS / Hazardous Communication Standard | Passed | 0.0 | 1.00 |

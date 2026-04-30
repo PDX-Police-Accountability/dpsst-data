@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2026 | PDP3789C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 20.00 |
 | 3/26/2026 | PDP0638C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 3/23/2026 | PDP2703C | 2026 Investigators IS - Digital Data Analysis | Passed | 0.0 | 1.00 |
 | 3/23/2026 | PDP3913C | 2026 Investigators IS Exemption Review Legal | Passed | 0.0 | 1.00 |

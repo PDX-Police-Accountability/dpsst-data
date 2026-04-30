@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 3/12/2026 | 3/12/2028 |
 | Code of Ethics | Law Enforcement Signed | 7/17/2023 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -29,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2026 | PSU0633C | HSI Adult First Aid CPR AED All ages | Passed | 0.0 | 4.00 |
 | 12/10/2025 | PSU1496C | Human Trafficking 101 | Passed | 0.0 | 1.00 |
 | 12/10/2025 | PSU3518C | Defensive Tactics and Appled Use of Force | Passed | 0.0 | 4.00 |
 | 12/9/2025 | PSU4437C | Interview and Interrogations | Passed | 0.0 | 1.00 |

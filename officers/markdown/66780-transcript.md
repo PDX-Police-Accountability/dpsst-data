@@ -33,6 +33,7 @@
 | 3/31/2026 | PDP4137C | FTEP Orientation | Passed | 0.0 | 4.00 |
 | 3/30/2026 | PDP1560C | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 3/26/2026 | PDP4519C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 3/23/2026 | PDP4452C | Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 3/23/2026 | PDP4004C | Mobile Identification Device (MIDD) | Passed | 0.0 | 1.00 |
 | 3/19/2026 | PDP2706C | RegJin RMS/MRE Training | Passed | 0.0 | 14.00 |

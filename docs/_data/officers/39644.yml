@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/15/2026
+  course: HBP3076C
+  title: 2026 OPCA Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/3/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

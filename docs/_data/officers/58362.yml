@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/20/2025
+  course: OCS4192C
+  title: Emotional Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/26/2025
   course: OCS1091C
   title: Taser

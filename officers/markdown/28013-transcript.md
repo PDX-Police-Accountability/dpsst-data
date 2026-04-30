@@ -25,6 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 2/24/2026 | 2/24/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/29/2024 | 4/29/2026 |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2026 | PSU4321C | HSI Adult First Aid CPR AED All ages | Passed | 0.0 | 4.00 |
 | 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 14.00 |
 | 2/12/2026 | LCP0199C | FTEP Supervision Course | Passed | 0.0 | 14.00 |
 | 1/29/2026 | PSU4230C | Use of Force Policy and Application | Passed | 0.0 | 1.00 |

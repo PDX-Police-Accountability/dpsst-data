@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/20/2025
+  course: OCS4192C
+  title: Emotional Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/15/2025
   course: OCS2110C
   title: Use of Force Law Update

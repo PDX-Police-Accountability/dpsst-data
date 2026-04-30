@@ -64,6 +64,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2026
+  course: PDP3211C
+  title: 2026 Crisis Negotiation Team (CNT) Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/5/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia

@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2026
+  course: EGP0287C
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 2/12/2026
   course: EGP2619C
   title: Suicide Prevention

@@ -54,6 +54,7 @@
 | 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Passed | 0.0 | 1.00 |
 | 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Instructed | 0.0 | 35.00 |
 | 2/9/2026 | OCS2974C | Holster Speed / Marksmanship | Instructed | 0.0 | 1.00 |
+| 2/5/2026 | OCS1843C | 2026 Honor Guard Revolver | Instructed | 0.0 | 2.00 |
 | 1/28/2026 | OCS2184C | Marksmanship, Dec 2025 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 1/23/2026 | OCS2111C | Marksmanship, Nov and Dec 2025 Monthly Firearms | Instructed | 0.0 | 3.00 |
 | 1/22/2026 | OCS4389C | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |

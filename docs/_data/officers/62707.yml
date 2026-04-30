@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/24/2026
+  course: PSU4321C
+  title: HSI Adult First Aid CPR AED All ages
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/21/2026
   course: PSU0238C
   title: Defensive Tactics
@@ -794,6 +800,10 @@ training_records:
   score: '0.0'
   hours: '1.25'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 2/24/2026
+  expiration_date: 2/24/2028
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2026

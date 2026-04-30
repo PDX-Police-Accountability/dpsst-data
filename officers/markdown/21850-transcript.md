@@ -52,6 +52,7 @@
 | 1/14/2026 | RRP1439C | OACP ELTS Board Meeting | Passed | 0.0 | 2.00 |
 | 11/13/2025 | LOP2994C | AHA Basic Life Support (CPR/AED) | Passed | 0.0 | 2.00 |
 | 10/25/2025 | LOP4497B | DOT Hazmat | Passed | 0.0 | 0.75 |
+| 10/16/2025 | LOP4459C | DEI, Sustainability,  ADA Training | Passed | 0.0 | 1.00 |
 | 10/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/6/2025 | LOP0583B | E-bikes and Devices - ODOT | Passed | 0.0 | 1.00 |
 | 10/1/2025 | LOP1370B | Unconscious Bias | Passed | 0.0 | 0.50 |

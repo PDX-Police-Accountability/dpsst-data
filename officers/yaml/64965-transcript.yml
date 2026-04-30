@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/14/2026
+  course: PDP3130C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/6/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
@@ -897,6 +903,10 @@ training_records:
   score: '0.0'
   hours: '559.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/14/2026
+  expiration_date: 4/14/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

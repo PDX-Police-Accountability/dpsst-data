@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/9/2026
+  course: REG4463C
+  title: INTOX 8000 (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 2/2/2026
   course: M10-23A
   title: DPSST Basic Police Course

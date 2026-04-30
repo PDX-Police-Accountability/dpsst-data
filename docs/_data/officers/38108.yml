@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/15/2026
+  course: HBP3076C
+  title: 2026 OPCA Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/1/2026
   course: PDP2270C
   title: 2026 K-9 (K9) Weekly Training

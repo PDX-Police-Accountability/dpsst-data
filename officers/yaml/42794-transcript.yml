@@ -158,6 +158,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.00'
+- date: 2/5/2026
+  course: OCS1843C
+  title: 2026 Honor Guard Revolver
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/28/2026
   course: OCS2184C
   title: Marksmanship, Dec 2025 Monthly Firearms

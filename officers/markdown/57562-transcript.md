@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2026 | OCP1744C | Defensive Tactics | Instructed | 0.0 | 6.00 |
 | 3/19/2026 | OCP2913C | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 3/10/2026 | OCP2870C | HB 4002 | Passed | 0.0 | 0.25 |
 | 3/2/2026 | OCP3644C | Airborne and Bloodborne Pathogens | Passed | 0.0 | 1.00 |

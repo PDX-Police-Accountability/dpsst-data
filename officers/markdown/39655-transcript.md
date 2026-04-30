@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2026 | PDP2990C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 4/16/2026 | PDP2990C | 2026 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
+| 4/9/2026 | PDP3789C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 20.00 |
 | 3/26/2026 | PDP0638C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 3/18/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP4517C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
