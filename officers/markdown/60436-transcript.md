@@ -35,6 +35,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/5/2026 | PDP4517C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/11/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 2/11/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/11/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/5/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP1426C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
 | 1/29/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |

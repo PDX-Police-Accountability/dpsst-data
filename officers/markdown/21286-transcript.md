@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/21/2026 | Black Butte Ranch Police Department | Discharged | Police Off |  |  |
 | 3/20/2020 | Black Butte Ranch Police Department | Hired | Police Off |  |  |
 | 10/28/2019 | Marion County Sheriff's Office | Retired | Sergeant |  |  |
 | 7/15/2010 | Marion County Sheriff's Office | Promotion | Sergeant |  |  |
@@ -23,10 +24,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/18/2021 | Police Officer | Advanced | Reactivatd | 9/23/1997 |  |  |
-| 2/18/2021 | Police Officer | Basic | Reactivatd | 8/24/1989 |  |  |
-| 2/18/2021 | Police Officer | Intermediate | Reactivatd | 9/16/1993 |  |  |
-| 2/18/2021 | Police Officer | Supervisory | Reactivatd | 5/6/2014 |  |  |
+| 2/18/2021 | Police Officer | Advanced | Reactivatd | 9/23/1997 | 7/21/2026 |  |
+| 2/18/2021 | Police Officer | Basic | Reactivatd | 8/24/1989 | 7/21/2026 |  |
+| 2/18/2021 | Police Officer | Intermediate | Reactivatd | 9/16/1993 | 7/21/2026 |  |
+| 2/18/2021 | Police Officer | Supervisory | Reactivatd | 5/6/2014 | 7/21/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

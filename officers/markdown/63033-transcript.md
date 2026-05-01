@@ -34,7 +34,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
+| 3/14/2026 | PDP4195C | 2026-1 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 3/13/2026 | PDP2511C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 3/12/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/12/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/11/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 3/11/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 3/11/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
@@ -44,6 +47,7 @@
 | 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3809C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 2/3/2026 | PDP4427C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
+| 2/3/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/28/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/28/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/9/2025 | PDP0302C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |

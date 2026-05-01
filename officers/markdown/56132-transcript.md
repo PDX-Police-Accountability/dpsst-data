@@ -36,9 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2026 | PDP3607C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/16/2026 | PDP0445C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/26/2026 | PDP0638C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 3/25/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/20/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/12/2026 | PDP3951C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 3/12/2026 | PDP3951C | 2026 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 2/26/2026 | PDP1750C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
@@ -53,6 +55,10 @@
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 2/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/23/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 1/23/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 1/23/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/23/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 1/22/2026 | PDP4425C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/16/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 1/16/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

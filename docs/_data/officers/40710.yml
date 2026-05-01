@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/17/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/16/2026
   course: PDP3022C
   title: 2026 Investigators IS Control Tactics

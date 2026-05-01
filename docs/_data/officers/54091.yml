@@ -85,6 +85,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/16/2026
+  course: PDP3879C
+  title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/16/2026
+  course: PDP0531C
+  title: 2026-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/16/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/30/2025
   course: PDP3067C
   title: 2025 Federal Interaction Reporting

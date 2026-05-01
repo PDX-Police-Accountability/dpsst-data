@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/24/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/10/2025
   course: PDP0762C
   title: Emergency Operations Plan (EOP)

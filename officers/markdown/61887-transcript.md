@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 3/26/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/26/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 3/25/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/25/2026 | PDP4364C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 6.00 |
 | 3/7/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

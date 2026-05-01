@@ -36,6 +36,7 @@
 | 1/21/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/19/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/19/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/8/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/3/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/24/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 11/24/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |

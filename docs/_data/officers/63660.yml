@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/9/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2026
+  course: PDP4195C
+  title: 2026-1 Range Qual Secondary Firearm (25 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/25/2025
   course: PDP1842C
   title: 2025-12 Federal Interactions Reporting

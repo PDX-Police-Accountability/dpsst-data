@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/18/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 3/18/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 3/18/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |

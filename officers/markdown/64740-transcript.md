@@ -39,6 +39,7 @@
 | 3/19/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/6/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 1/20/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/19/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 1/19/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
 | 1/19/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |

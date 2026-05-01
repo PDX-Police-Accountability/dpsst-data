@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 4/2/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 4/2/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/25/2026 | PDP4364C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 6.00 |
 | 2/12/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

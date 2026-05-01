@@ -35,8 +35,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | PDP3320C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 4/2/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/2/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 3/25/2026 | PDP4364C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 6.00 |
 | 3/2/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/25/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/23/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

@@ -43,6 +43,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '18.00'
+- date: 3/14/2026
+  course: PDP4195C
+  title: 2026-1 Range Qual Secondary Firearm (25 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/14/2026
+  course: PDP0783C
+  title: 2026-1 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/7/2026
   course: PDP4079C
   title: 2026 Axon Taser 7 Operator Certification Course
@@ -55,6 +67,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/6/2026
+  course: PDP3879C
+  title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/6/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/19/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

@@ -40,6 +40,7 @@
 | 1/9/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/9/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 1/9/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 1/9/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/17/2025 | PDP2814C | 2025 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 12/17/2025 | PDP2342C | 2025 IS - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
 | 12/17/2025 | PDP0439C | 2025 IS PVO Stop Stick Hyperlink (External) | Passed | 0.0 | 0.75 |

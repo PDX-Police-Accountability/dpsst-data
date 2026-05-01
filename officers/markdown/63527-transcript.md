@@ -36,6 +36,7 @@
 | 3/12/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/5/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP1426C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
+| 1/19/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/17/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 12/29/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/29/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |

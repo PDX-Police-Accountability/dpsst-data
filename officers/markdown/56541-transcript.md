@@ -47,6 +47,7 @@
 | 2/4/2026 | PDP0306C | AA [PJU-101-H] Introduction to Procedural Justice | Passed | 0.0 | 0.25 |
 | 2/2/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
 | 2/2/2026 | PDP2442C | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
+| 1/22/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/9/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/9/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 1/9/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |

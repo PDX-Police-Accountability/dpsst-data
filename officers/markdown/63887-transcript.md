@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/18/2026 | 4/18/2028 |
 | Certification Cards | First Aid and CPR | 11/5/2025 | 11/5/2027 |
 | Code of Ethics | Law Enforcement Signed | 11/4/2025 |  |
 | Code of Ethics | Law Enforcement Signed | 6/12/2023 |  |
@@ -31,6 +32,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2026 | HSU0548C | Spring In-Service 2026 De Escalation Practical | Passed | 0.0 | 4.00 |
+| 4/18/2026 | HSU0568C | Spring In-Service 2026 CPR/ First Aid | Passed | 0.0 | 4.00 |
+| 4/18/2026 | HSU2800C | Spring In-Service 2026 Ethics | Passed | 0.0 | 2.00 |
+| 4/18/2026 | HSU4415C | Spring In-Service 2026 Taser 10 Update | Passed | 0.0 | 2.00 |
+| 4/17/2026 | HSU3489C | Spring In-Service 2026 Firearms | Passed | 0.0 | 4.00 |
+| 4/17/2026 | HSU3356C | Spring In-Service 2026 Defensive Tactics | Passed | 0.0 | 2.00 |
+| 4/17/2026 | HSU2124C | Spring In-Service 2026 EVOC | Passed | 0.0 | 2.00 |
 | 11/25/2025 | HSU0730C | Law | Passed | 0.0 | 4.00 |
 | 11/25/2025 | HSU0494C | Taser/ BWC | Passed | 0.0 | 5.00 |
 | 11/23/2025 | HSU3445C | Firearms | Passed | 0.0 | 30.00 |

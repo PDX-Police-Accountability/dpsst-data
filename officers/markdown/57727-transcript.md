@@ -40,6 +40,9 @@
 | 3/3/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP2069C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
+| 2/5/2026 | PDP0679C | 2026-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 2/5/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/5/2026 | PDP2216C | 2026-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 2/3/2026 | PDP1426C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
 | 1/18/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

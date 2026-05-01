@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/13/2026 | PDP2511C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 3/13/2026 | PDP3319C | 2026 Dialogue Liaison Officer (DLO) Training | Passed | 0.0 | 9.00 |
+| 3/11/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/2/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/18/2026 | PDP4239C | Testosterone Replacement: Help, Hype or Harm | Passed | 0.0 | 1.00 |
 | 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |

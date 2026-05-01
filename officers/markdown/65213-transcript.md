@@ -38,6 +38,7 @@
 | 1/23/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/21/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/21/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/13/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/18/2025 | PDP1827C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 12/18/2025 | PDP2342C | 2025 IS - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
 | 12/18/2025 | PDP0439C | 2025 IS PVO Stop Stick Hyperlink (External) | Passed | 0.0 | 0.75 |

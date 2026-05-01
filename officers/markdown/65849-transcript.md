@@ -34,6 +34,8 @@
 | 3/11/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/26/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 2/13/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 2/5/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/4/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/14/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/14/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |

@@ -35,6 +35,7 @@
 | 3/27/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/27/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/25/2026 | PDP4364C | 2026 Focused Intervention Team (FIT) Training | Instructed | 0.0 | 6.00 |
+| 3/11/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/26/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/28/2026 | PDP1048C | 2026 Training Spanish Phrases for Use of Force | Passed | 0.0 | 1.00 |
 | 1/24/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |

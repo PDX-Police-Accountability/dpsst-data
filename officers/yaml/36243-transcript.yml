@@ -107,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 4/12/2026
+  course: HBS4068C
+  title: 'Inservice Session #1 Firearms'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 3/19/2026
   course: HBS2653C
   title: Rifle Remediation

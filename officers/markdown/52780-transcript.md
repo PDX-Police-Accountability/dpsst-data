@@ -44,10 +44,14 @@
 | 2/15/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 2/15/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 2/15/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 1/22/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 1/22/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/21/2026 | PDP2596C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 1/7/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
 | 1/7/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
+| 1/2/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 1/2/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/31/2025 | PDP2825C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 12/31/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/31/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

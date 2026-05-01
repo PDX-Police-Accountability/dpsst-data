@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/9/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/30/2026
   course: PDP2800C
   title: 2022 DIR 0650.00 Search, Seizures, and Inventories

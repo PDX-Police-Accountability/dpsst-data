@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2026 | BVP2956C | April 2026 Control Tactics IST 041026 PM | Passed | 0.0 | 3.00 |
+| 3/10/2026 | BVP1612C | EVOC 031026AM | Passed | 0.0 | 3.00 |
 | 1/30/2026 | BVP2124C | Threat Discretion/UTM Range 013026PM | Passed | 0.0 | 3.00 |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/14/2026 | BVP3073C | First Aid/CPR 011426 AM | Passed | 0.0 | 3.00 |

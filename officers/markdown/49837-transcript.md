@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2026 | PDP0157C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/9/2026 | PDP2757C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 3/26/2026 | PDP0638C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 3/23/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
@@ -56,6 +57,10 @@
 | 2/16/2026 | PDP0336C | 2026 Investigators IS Mass Casualty Incident | Passed | 0.0 | 2.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
 | 2/4/2026 | PDP4141C | Dignitary Protection Seminar | Passed | 0.0 | 6.00 |
+| 1/23/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 1/23/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 1/23/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/23/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 1/22/2026 | PDP4425C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/19/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 1/19/2026 | PDP2069C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |

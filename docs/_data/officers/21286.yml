@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/21/2026
+  agency: Black Butte Ranch Police Department
+  action: Discharged
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/20/2020
   agency: Black Butte Ranch Police Department
   action: Hired
@@ -63,28 +69,28 @@ certification_records:
   level: Advanced
   status: Reactivatd
   certificate_date: 9/23/1997
-  expiration_date: ''
+  expiration_date: 7/21/2026
   probation_date: ''
 - status_date: 2/18/2021
   certificate: Police Officer
   level: Basic
   status: Reactivatd
   certificate_date: 8/24/1989
-  expiration_date: ''
+  expiration_date: 7/21/2026
   probation_date: ''
 - status_date: 2/18/2021
   certificate: Police Officer
   level: Intermediate
   status: Reactivatd
   certificate_date: 9/16/1993
-  expiration_date: ''
+  expiration_date: 7/21/2026
   probation_date: ''
 - status_date: 2/18/2021
   certificate: Police Officer
   level: Supervisory
   status: Reactivatd
   certificate_date: 5/6/2014
-  expiration_date: ''
+  expiration_date: 7/21/2026
   probation_date: ''
 training_records:
 - date: 12/17/2025

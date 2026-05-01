@@ -98,6 +98,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2026
+  course: OCS0452C
+  title: April 2026 TEMS Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/16/2026
+  course: OCS3651C
+  title: Marksmanship, Handgun Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/13/2026
+  course: OCS2713C
+  title: Marksmanship, Handgun Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/1/2026
   course: OCS0606C
   title: Balancing Speed and Marksmanship

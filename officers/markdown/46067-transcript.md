@@ -41,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/16/2026 | PDP0445C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/9/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 4/9/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/2/2026 | PDP1997C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 18.00 |
 | 3/12/2026 | PDP3951C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 3/12/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

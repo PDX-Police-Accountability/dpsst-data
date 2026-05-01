@@ -34,6 +34,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2026 | PDP3320C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 4/2/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 4/2/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/2/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 3/25/2026 | PDP4364C | 2026 Focused Intervention Team (FIT) Training | Instructed | 0.0 | 6.00 |
 | 3/13/2026 | PDP2511C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 3/5/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/14/2026
+  course: HBP1561C
+  title: Search and Seizure Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/13/2026
+  course: BVP3647C
+  title: April 2026 Control Tactics IST 041326 PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/16/2026
+  course: BVP1461C
+  title: EVOC 031626PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/27/2026
   course: BVP2763C
   title: Threat Discretion/UTM Range 012726PM

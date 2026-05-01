@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/16/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/19/2026 | PDP3022C | 2026 Investigators IS Control Tactics | Passed | 0.0 | 2.00 |
 | 2/19/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |
 | 2/19/2026 | PDP4231C | 2026 Investigators IS Exemption Review/Legal | Passed | 0.0 | 1.00 |

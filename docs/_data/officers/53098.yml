@@ -128,12 +128,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/11/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/4/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/30/2026
+  course: OSH3063C
+  title: DRE - Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/22/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

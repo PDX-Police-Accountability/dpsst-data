@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2026
+  course: HSU3489C
+  title: Spring In-Service 2026 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/12/2026
+  course: HSU3489C
+  title: Spring In-Service 2026 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/3/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/3/2026
+  course: PDP0783C
+  title: 2026-1 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/10/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

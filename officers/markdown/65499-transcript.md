@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/21/2026 | PDP2783C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 3/21/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/1/2026 | PDP0549C | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |

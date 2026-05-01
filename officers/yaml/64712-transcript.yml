@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/21/2026
+  course: PDP1212C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/28/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
@@ -54,12 +60,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/3/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/1/2026
   course: PDP3214C
   title: 2026 40mm Less Lethal New Operator Course
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 2/1/2026
+  course: PDP0531C
+  title: 2026-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/9/2026
   course: PDP2369C
   title: 2026 Enhanced Crisis Intervention Team (ECIT) Cert
@@ -907,6 +925,10 @@ training_records:
   score: '0.0'
   hours: '7.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/21/2026
+  expiration_date: 4/21/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

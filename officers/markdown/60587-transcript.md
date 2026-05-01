@@ -36,6 +36,9 @@
 | 2/8/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/27/2026 | PDP3783C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
 | 1/12/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 1/8/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/8/2026 | PDP4195C | 2026-1 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
+| 1/8/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 12/24/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/24/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 12/8/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |

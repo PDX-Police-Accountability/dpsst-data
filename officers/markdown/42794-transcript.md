@@ -44,6 +44,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2026 | OCS0452C | April 2026 TEMS Firearms | Instructed | 0.0 | 2.00 |
+| 4/16/2026 | OCS3651C | Marksmanship, Handgun Qualification | Instructed | 0.0 | 3.00 |
+| 4/13/2026 | OCS2713C | Marksmanship, Handgun Qualification | Instructed | 0.0 | 2.00 |
 | 4/1/2026 | OCS0606C | Balancing Speed and Marksmanship | Instructed | 0.0 | 3.00 |
 | 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/30/2026 | OCS2515C | 2026 1st Quarter Corrections Firearms | Instructed | 0.0 | 24.00 |

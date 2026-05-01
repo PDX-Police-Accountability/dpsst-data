@@ -68,6 +68,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/3/2026
+  course: PDP0679C
+  title: 2026-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/3/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/3/2026
+  course: PDP0783C
+  title: 2026-1 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/3/2026
+  course: PDP2216C
+  title: 2026-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/19/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

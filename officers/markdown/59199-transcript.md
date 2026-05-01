@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2026 | EGP3698C | AVI Protocols Scenario | Passed | 0.0 | 3.00 |
 | 4/9/2026 | EGP1097C | Firearms Qualification | Passed | 0.0 | 3.50 |
 | 4/7/2026 | EGP2984C | SWAT Breaching- Explosive View Ports-Thru Wall | Passed | 0.0 | 8.00 |
 | 3/24/2026 | EGP1258C | SWAT Breaching- Explosive View Ports-Thru Wall | Passed | 0.0 | 8.00 |

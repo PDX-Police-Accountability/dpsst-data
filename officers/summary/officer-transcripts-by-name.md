@@ -163,7 +163,6 @@
 | * MISSING | 50649 |  |  |  |  |  | [md](../markdown/50649-transcript.md) - [yaml](../yaml/50649-transcript.yml) |
 | * MISSING | 50999 |  |  |  |  |  | [md](../markdown/50999-transcript.md) - [yaml](../yaml/50999-transcript.yml) |
 | * MISSING | 51026 |  |  |  |  |  | [md](../markdown/51026-transcript.md) - [yaml](../yaml/51026-transcript.yml) |
-| * MISSING | 51073 |  |  |  |  |  | [md](../markdown/51073-transcript.md) - [yaml](../yaml/51073-transcript.yml) |
 | * MISSING | 51194 |  |  |  |  |  | [md](../markdown/51194-transcript.md) - [yaml](../yaml/51194-transcript.yml) |
 | * MISSING | 52344 |  |  |  |  |  | [md](../markdown/52344-transcript.md) - [yaml](../yaml/52344-transcript.yml) |
 | * MISSING | 52783 |  |  |  |  |  | [md](../markdown/52783-transcript.md) - [yaml](../yaml/52783-transcript.yml) |
@@ -1051,6 +1050,7 @@
 | Lee, Martin M. | 64449 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64449-transcript.md) - [yaml](../yaml/64449-transcript.yml) |
 | Lee, Ryan P. | 39878 | Portland Police Bureau | Inactive | Assistant Chief | Resigned | 2020-07-02 | [md](../markdown/39878-transcript.md) - [yaml](../yaml/39878-transcript.yml) |
 | Leeper, Teresa L. | 46361 | Portland Police Bureau | Active | Civilian Employee | Hired | 2005-08-22 | [md](../markdown/46361-transcript.md) - [yaml](../yaml/46361-transcript.yml) |
+| Lehman, Craig F. | 51073 | Portland Police Bureau | Active | Police Officer | Hired | 2012-08-30 | [md](../markdown/51073-transcript.md) - [yaml](../yaml/51073-transcript.yml) |
 | Lehman, Susan L. | 29532 | Portland Police Bureau | Active | Civilian Employee | Hired | 1994-05-19 | [md](../markdown/29532-transcript.md) - [yaml](../yaml/29532-transcript.yml) |
 | Lemen, Denise C. | 34303 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-02-22 | [md](../markdown/34303-transcript.md) - [yaml](../yaml/34303-transcript.yml) |
 | Lemke, Jena L. | 52801 | Portland Police Bureau | Active | Police Officer | Hired | 2012-09-27 | [md](../markdown/52801-transcript.md) - [yaml](../yaml/52801-transcript.yml) |

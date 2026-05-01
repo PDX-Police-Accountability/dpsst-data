@@ -47,6 +47,8 @@
 | 3/22/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/22/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/22/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/19/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/19/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/11/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/11/2026 | PDP2665C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 2/2/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |

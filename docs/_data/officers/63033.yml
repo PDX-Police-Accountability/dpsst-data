@@ -37,12 +37,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/14/2026
+  course: PDP4195C
+  title: 2026-1 Range Qual Secondary Firearm (25 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/13/2026
   course: PDP2511C
   title: 2026 Rapid Response team (RRT) Monthly Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/12/2026
+  course: PDP3879C
+  title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/12/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/11/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia
@@ -97,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 2/3/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/28/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

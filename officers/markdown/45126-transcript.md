@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/5/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP3022C | 2026 Investigators IS Control Tactics | Passed | 0.0 | 2.00 |
 | 2/16/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |

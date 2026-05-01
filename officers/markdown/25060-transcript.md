@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2026 | WBP3455C | Conflict Simulation Training | Passed | 0.0 | 3.00 |
 | 3/31/2026 | WBP0172C | 2026 Q1 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 3/24/2026 | WBP2430C | Spring Range: Drills and Distance Training | Passed | 0.0 | 3.00 |
 | 3/24/2026 | WBP2430C | Spring Range: Drills and Distance Training | Instructed | 0.0 | 3.00 |

@@ -66,12 +66,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/29/2026
+  course: PDP0531C
+  title: 2026-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/25/2026
   course: PDP3214C
   title: 2026 40mm Less Lethal New Operator Course
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 1/25/2026
+  course: PDP0531C
+  title: 2026-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/21/2026
   course: PDP1239C
   title: Annual Bloodborne Pathogens (CityLearner)

@@ -40,6 +40,7 @@
 | 3/2/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 2/1/2026 | PDP0549C | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
+| 1/23/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/10/2025 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 11/13/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 11/13/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |

@@ -41,6 +41,8 @@
 | 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3809C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 2/5/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 2/5/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/4/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 1/27/2026 | PDP3783C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
 | 12/31/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/31/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/13/2026 | PDP3319C | 2026 Dialogue Liaison Officer (DLO) Training | Passed | 0.0 | 9.00 |
 | 3/12/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/4/2026 | HBS4435C | Realistic De-Escalation Instructor Course | Passed | 0.0 | 16.00 |

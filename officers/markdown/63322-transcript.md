@@ -56,6 +56,7 @@
 | 2/6/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 2/6/2026 | PDP1901C | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
 | 2/6/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 1/19/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/5/2026 | PDP4078C | 2020 BHU ECIT Update Section 1 | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP2676C | 2020 BHU ECIT Update Section 2 | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP0557C | 2020 BHU ECIT Update Section 3 | Passed | 0.0 | 0.25 |

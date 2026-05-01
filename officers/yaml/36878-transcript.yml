@@ -70,6 +70,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2026
+  course: BVP4346C
+  title: April 2026 Control Tactics IST 040926 PM
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/3/2026
+  course: BVP1891C
+  title: April 2026 Control Tactics Instructors
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/29/2026
   course: BVP2168C
   title: Modern Lessons in Leadership for Law Enforcement

@@ -44,6 +44,7 @@
 | 3/9/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3809C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 2/6/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/30/2026 | PDP2964C | 2026 RRT Field Force Extraction In-Service | Passed | 0.0 | 9.00 |
 | 1/11/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |

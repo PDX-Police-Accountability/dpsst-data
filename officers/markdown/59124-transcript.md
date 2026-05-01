@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/14/2026 | HBP1561C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |
+| 4/13/2026 | BVP3647C | April 2026 Control Tactics IST 041326 PM | Passed | 0.0 | 3.00 |
+| 3/16/2026 | BVP1461C | EVOC 031626PM | Passed | 0.0 | 3.00 |
 | 1/27/2026 | BVP2763C | Threat Discretion/UTM Range 012726PM | Passed | 0.0 | 3.00 |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/8/2026 | BVP1987C | First Aid/CPR 010826 PM | Passed | 0.0 | 3.00 |

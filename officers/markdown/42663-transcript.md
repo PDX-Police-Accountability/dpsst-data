@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2026 | PDP3607C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 4/21/2026 | PDP0157C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/16/2026 | PDP2990C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/9/2026 | PDP3789C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 20.00 |
 | 3/26/2026 | PDP0638C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
@@ -47,10 +49,14 @@
 | 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP3076C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
+| 2/12/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/11/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP1290C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/23/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 1/23/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 1/23/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/22/2026 | PDP2386C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/19/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |

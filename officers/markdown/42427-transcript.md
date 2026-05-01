@@ -45,6 +45,7 @@
 | 2/2/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 2/2/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 2/2/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/27/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/11/2025 | PDP0950C | 2025 External Training VIN Identification Basics | Passed | 0.0 | 18.00 |
 | 11/27/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 11/27/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |

@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/4/2026
+  course: OCP1044C
+  title: Emergency Vehicle Operation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 2/18/2026
   course: CAP0362C
   title: On-Line Fraud  Security Awareness Training
@@ -92,6 +98,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 1/21/2026
+  course: CAP2488C
+  title: Handgun Reloads and Malfunctions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/23/2025
   course: CAP2337B
   title: Airways Training Video - Patient Evaluation For LE

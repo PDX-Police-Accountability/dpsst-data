@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2026 | PDP4233C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 4/15/2026 | PDP3680C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 4/1/2026 | PDP1418C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 3/16/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
@@ -44,6 +45,7 @@
 | 2/19/2026 | PDP4289C | 2026 Investigators IS Tech Warrants and Testimony | Passed | 0.0 | 2.00 |
 | 2/19/2026 | PDP0336C | 2026 Investigators IS Mass Casualty Incident | Passed | 0.0 | 2.00 |
 | 2/18/2026 | PDP2698C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
+| 2/17/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/16/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

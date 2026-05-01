@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2026
+  course: PDP1235C
+  title: 2026 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 4/21/2026
+  course: PDP3956C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/15/2026
   course: PDP3833C
   title: 2026 FTEP Policy and Procedure
@@ -4083,6 +4095,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/21/2026
+  expiration_date: 4/21/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

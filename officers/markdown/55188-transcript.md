@@ -40,6 +40,8 @@
 | 3/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 3/3/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/3/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/26/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/26/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 2/16/2026 | PDP3022C | 2026 Investigators IS Control Tactics | Passed | 0.0 | 2.00 |
 | 2/16/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |
 | 2/16/2026 | PDP4231C | 2026 Investigators IS Exemption Review/Legal | Passed | 0.0 | 1.00 |

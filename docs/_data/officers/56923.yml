@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/19/2026
+  course: PDP0783C
+  title: 2026-1 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/9/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

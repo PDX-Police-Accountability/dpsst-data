@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2026 | SVP0243C | Firearms Inservice Training | Passed | 0.0 | 4.00 |
 | 3/20/2026 | SVP3347C | Preventing Workplace Discrimination  Harassment | Passed | 0.0 | 0.75 |
 | 3/20/2026 | SVP2971C | Sexual Harassment Prevention - Manager | Passed | 0.0 | 0.50 |
 | 3/18/2026 | SVP2034C | Defensive Tactics | Passed | 0.0 | 4.00 |

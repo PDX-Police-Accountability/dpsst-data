@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 4/22/2026 | 4/22/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/22/2024 | 4/22/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2026 | MLP3962C | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 1/15/2026 | MLP3927C | Slips, Trips and Falls | Passed | 0.0 | 0.50 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/3/2025 | MLP2455C | Night Shoot/Qual-Pistol | Passed | 0.0 | 3.00 |

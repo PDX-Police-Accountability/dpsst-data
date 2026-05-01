@@ -35,6 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2026 | UPR3579C | Handgun Qualification | Passed | 0.0 | 1.00 |
+| 4/22/2026 | UPR1535C | Patrol Rifle Qualification | Passed | 0.0 | 1.00 |
+| 4/22/2026 | UPR3258C | Karly's Law Training | Passed | 0.0 | 1.00 |
+| 4/22/2026 | UPR2367C | Patrol Rifle Training | Passed | 0.0 | 3.50 |
 | 10/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/8/2025 | UPR0437B | ACAP Training | Passed | 0.0 | 2.00 |
 | 10/8/2025 | UPR3933B | Patrol Rifle Training/Qualification | Passed | 0.0 | 4.00 |

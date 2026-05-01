@@ -52,6 +52,9 @@
 | 2/11/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 2/9/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP1426C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
+| 1/7/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 1/7/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 1/7/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/2/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 12/9/2025 | PDP2540C | 2025 Patrol Rifle Operator's In-Service Day 2 | Passed | 0.0 | 9.00 |
 | 11/22/2025 | PDP3221C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |

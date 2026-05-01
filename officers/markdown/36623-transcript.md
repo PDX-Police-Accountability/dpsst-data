@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/15/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/15/2025 | PDP2743C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 12/15/2025 | PDP0519C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |

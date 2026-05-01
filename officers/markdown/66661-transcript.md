@@ -41,6 +41,7 @@
 | 3/26/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP4519C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 3/26/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Passed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |

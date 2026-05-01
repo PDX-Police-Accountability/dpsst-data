@@ -38,6 +38,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/9/2026 | PDP2757C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 3/25/2026 | PDP2526C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
+| 3/19/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/19/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 3/19/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/6/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/6/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/6/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

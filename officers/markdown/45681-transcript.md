@@ -45,6 +45,7 @@
 | 2/20/2026 | PDP4289C | 2026 Investigators IS Tech Warrants and Testimony | Passed | 0.0 | 2.00 |
 | 2/20/2026 | PDP0336C | 2026 Investigators IS Mass Casualty Incident | Passed | 0.0 | 2.00 |
 | 2/18/2026 | PDP4239C | Testosterone Replacement: Help, Hype or Harm | Passed | 0.0 | 1.00 |
+| 2/17/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

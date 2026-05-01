@@ -104,6 +104,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/22/2026
+  course: PDP3879C
+  title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/22/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/21/2026
   course: PDP2596C
   title: 2025 Field Drug Test Kits
@@ -128,6 +140,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/2/2026
+  course: PDP3879C
+  title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/2/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/31/2025
   course: PDP2825C
   title: 2025 PPB Lead Exposures Information

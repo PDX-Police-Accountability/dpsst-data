@@ -110,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/8/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/8/2026
+  course: PDP0531C
+  title: 2026-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/8/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

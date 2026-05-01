@@ -46,6 +46,8 @@
 | 2/16/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 1/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 1/22/2026 | VND4455C | NW Peer Support Conference - Responder Life | Passed | 0.0 | 16.00 |
+| 1/20/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 1/20/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/19/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/15/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

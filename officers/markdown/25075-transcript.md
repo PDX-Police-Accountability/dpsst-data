@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2026 | WBP3455C | Conflict Simulation Training | Passed | 0.0 | 3.00 |
 | 3/31/2026 | WBP0172C | 2026 Q1 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 3/17/2026 | WBP1051C | Oregon Santuary Law  Local LE Impacts | Passed | 0.0 | 0.75 |
 | 12/31/2025 | WBP4096C | Firearms - Range Quarter 4 Qualifications | Passed | 0.0 | 0.50 |

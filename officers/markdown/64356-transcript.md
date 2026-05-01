@@ -41,7 +41,9 @@
 | 2/7/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 2/7/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/7/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 1/24/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/6/2026 | PDP3374C | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 1/3/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/2/2026 | PDP0764C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
 | 9/23/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/16/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |

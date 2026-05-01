@@ -54,6 +54,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/12/2026
+  course: PDP3879C
+  title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/12/2026
+  course: PDP0531C
+  title: 2026-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/12/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/8/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -84,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 2/3/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/27/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia

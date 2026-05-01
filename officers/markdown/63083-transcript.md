@@ -35,6 +35,7 @@
 | 3/13/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/13/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/17/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 1/10/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/3/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 1/3/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 1/3/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

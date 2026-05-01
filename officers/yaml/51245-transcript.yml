@@ -50,6 +50,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2026
+  course: HSU0548C
+  title: Spring In-Service 2026 De Escalation Practical
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/18/2026
+  course: HSU0568C
+  title: Spring In-Service 2026 CPR/ First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/18/2026
+  course: HSU2800C
+  title: Spring In-Service 2026 Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/18/2026
+  course: HSU4415C
+  title: Spring In-Service 2026 Taser 10 Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/17/2026
+  course: HSU3489C
+  title: Spring In-Service 2026 Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/17/2026
+  course: HSU3356C
+  title: Spring In-Service 2026 Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/17/2026
+  course: HSU2124C
+  title: Spring In-Service 2026 EVOC
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/17/2026
   course: HSU3765C
   title: Supplemental Range
@@ -2193,6 +2235,10 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/18/2026
+  expiration_date: 4/18/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

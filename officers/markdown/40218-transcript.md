@@ -41,6 +41,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/26/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/26/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/19/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/18/2026 | PDP4239C | Testosterone Replacement: Help, Hype or Harm | Passed | 0.0 | 1.00 |
 | 2/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |

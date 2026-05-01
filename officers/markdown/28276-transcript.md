@@ -50,6 +50,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2026 | SVP0243C | Firearms Inservice Training | Passed | 0.0 | 4.00 |
+| 4/8/2026 | SVP2916C | LEFTA  Fleet 3 Intro | Passed | 0.0 | 4.00 |
 | 3/31/2026 | SVP2081C | Documenting Police Use of Force  Lethal Restraint | Passed | 0.0 | 1.00 |
 | 3/18/2026 | SVP2034C | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/17/2026 | SVP2327C | Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |

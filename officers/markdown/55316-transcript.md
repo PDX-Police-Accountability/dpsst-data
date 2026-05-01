@@ -38,6 +38,7 @@
 | 3/9/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/4/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/20/2026 | PDP1016C | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP2758C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
 | 1/20/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |

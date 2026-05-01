@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2026
+  course: BVP2956C
+  title: April 2026 Control Tactics IST 041026 PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/10/2026
+  course: BVP1612C
+  title: EVOC 031026AM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/30/2026
   course: BVP2124C
   title: Threat Discretion/UTM Range 013026PM

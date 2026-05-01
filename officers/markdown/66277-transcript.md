@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/9/2026 | HBP2466C | Legal Update - HB 4138 | Passed | 0.0 | 0.50 |
 | 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/18/2026 | HBP0722C | ODT - Working from Cleared Areas, Foot Chases | Passed | 0.0 | 1.00 |
 | 3/16/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
@@ -45,6 +46,7 @@
 | 1/26/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/13/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/13/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 1/7/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/16/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/2/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 11/2/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |

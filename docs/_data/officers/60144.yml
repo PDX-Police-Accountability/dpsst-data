@@ -61,6 +61,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/27/2026
+  course: PDP0679C
+  title: 2026-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/27/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/27/2026
+  course: PDP2216C
+  title: 2026-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/26/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

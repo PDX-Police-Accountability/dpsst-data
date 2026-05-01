@@ -50,6 +50,7 @@
 | 2/21/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/21/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/21/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 2/3/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/4/2025 | PDP2743C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 11/21/2025 | PDP3572C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 8/14/2025 | PDP0762B | 2025 Disability Series Intellectual  Develop | Passed | 0.0 | 0.50 |

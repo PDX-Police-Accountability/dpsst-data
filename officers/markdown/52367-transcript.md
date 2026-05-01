@@ -39,7 +39,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
 | 4/10/2026 | PDP3320C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 3/26/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 3/13/2026 | PDP2511C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 3/12/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/12/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/7/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/7/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 3/7/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

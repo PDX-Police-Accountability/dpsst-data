@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/16/2026
+  course: PDP0531C
+  title: 2026-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/16/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/15/2026
   course: PDP0232C
   title: 2026 Training Instructor Development

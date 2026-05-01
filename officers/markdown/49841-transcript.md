@@ -51,6 +51,9 @@
 | 2/12/2026 | PDP3076C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
+| 2/5/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/5/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 2/5/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/4/2026 | PDP4141C | Dignitary Protection Seminar | Passed | 0.0 | 6.00 |
 | 2/3/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

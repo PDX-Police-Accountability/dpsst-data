@@ -19,15 +19,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/7/2011 | Police Officer | Advanced | Granted | 10/7/2011 | 4/28/2026 |  |
-| 10/7/2011 | Police Officer | Intermediate | Granted | 10/7/2011 | 4/28/2026 |  |
-| 6/17/1994 | Police Officer | Basic | Granted | 6/17/1994 | 4/28/2026 |  |
+| 4/28/2026 | Police Officer | Advanced | Lapsed | 10/7/2011 | 1/28/2031 |  |
+| 4/28/2026 | Police Officer | Basic | Lapsed | 6/17/1994 | 1/28/2031 |  |
+| 4/28/2026 | Police Officer | Intermediate | Lapsed | 10/7/2011 | 1/28/2031 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/23/2025 | 4/23/2027 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 10/7/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/28/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/28/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/28/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |

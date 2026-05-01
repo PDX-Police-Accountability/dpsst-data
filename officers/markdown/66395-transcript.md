@@ -34,6 +34,7 @@
 | 3/11/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/11/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 3/9/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/27/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
 | 2/17/2026 | PDP3825C | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP1837C | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |

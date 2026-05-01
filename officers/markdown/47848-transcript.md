@@ -56,6 +56,7 @@
 | 2/12/2026 | PDP2402C | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 1/8/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/6/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 11/27/2025 | PDP1982C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 11/11/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

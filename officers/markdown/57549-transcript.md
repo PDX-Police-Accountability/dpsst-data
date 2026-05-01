@@ -41,6 +41,8 @@
 | 1/19/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/19/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/14/2026 | PDP2069C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
+| 1/8/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 1/8/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/17/2025 | PDP2743C | 2025-10 CHO EO, DIR 0625.00 Automatic License | Passed | 0.0 | 0.25 |
 | 12/16/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/10/2025 | PDP2357C | 2025 Patrol Rifle Operator's In-Service Day 2 | Instructed | 0.0 | 50.00 |

@@ -44,6 +44,8 @@
 | 2/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
+| 1/12/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/12/2026 | PDP4195C | 2026-1 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 12/21/2025 | PDP2960C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 12/11/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/1/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

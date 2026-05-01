@@ -39,6 +39,9 @@
 | 3/9/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/9/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/8/2026 | PDP2080C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
+| 3/8/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/3/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/3/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/26/2026 | SAG0348C | Protecting Lives Saving Futures | Passed | 0.0 | 4.00 |
 | 2/25/2026 | SAG1282C | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |
 | 2/24/2026 | SAG2648C | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |

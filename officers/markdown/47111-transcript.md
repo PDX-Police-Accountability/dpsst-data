@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2026 | BVP0950C | April 2026 Control Tactics IST 040926 AM | Passed | 0.0 | 3.00 |
+| 3/12/2026 | BVP1695C | EVOC 031226AM | Passed | 0.0 | 3.00 |
 | 2/5/2026 | BVP0926C | Threat Discretion/UTM Range 020526AM | Passed | 0.0 | 3.00 |
 | 1/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 1/22/2026 | VND4455C | NW Peer Support Conference - Responder Life | Passed | 0.0 | 16.00 |

@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2026
+  course: PDP3607C
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/21/2026
+  course: PDP0157C
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/16/2026
   course: PDP2990C
   title: 2026 SERT Training - FIREARMS
@@ -116,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/12/2026
+  course: PDP3879C
+  title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/11/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -140,6 +158,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/23/2026
+  course: PDP3879C
+  title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/23/2026
+  course: PDP0531C
+  title: 2026-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/23/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/22/2026
   course: PDP2386C
   title: 2026 SERT Training - FIREARMS

@@ -47,6 +47,8 @@
 | 1/12/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 1/8/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/8/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 12/8/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/3/2025 | PDP4107C | 2025-10 CAO Legal Memo: PPB Response to ICE | Passed | 0.0 | 0.25 |
 | 11/3/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

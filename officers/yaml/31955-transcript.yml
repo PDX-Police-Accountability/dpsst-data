@@ -120,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/21/2026
+  course: CAP2488C
+  title: Handgun Reloads and Malfunctions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/19/2025
   course: CAP2104C
   title: Firearms - Night Shoot - Handgun

@@ -44,6 +44,7 @@
 | 3/13/2026 | PDP3319C | 2026 Dialogue Liaison Officer (DLO) Training | Passed | 0.0 | 9.00 |
 | 3/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/10/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 3/4/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/26/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP1426C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
 | 1/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |

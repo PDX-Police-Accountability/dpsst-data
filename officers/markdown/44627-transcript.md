@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/6/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP2406C | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
 | 1/6/2026 | PDP0450C | 2025 Sup IS Crime Scene Management for Mass | Passed | 0.0 | 1.50 |

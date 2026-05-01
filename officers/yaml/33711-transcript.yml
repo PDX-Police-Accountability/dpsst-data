@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/2/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/2/2026
+  course: PDP4195C
+  title: 2026-1 Range Qual Secondary Firearm (25 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/11/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

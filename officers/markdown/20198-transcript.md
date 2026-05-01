@@ -30,6 +30,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/18/2026 | 4/18/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/19/2024 | 4/19/2026 |
@@ -40,6 +41,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2026 | HSU0548C | Spring In-Service 2026 De Escalation Practical | Passed | 0.0 | 4.00 |
+| 4/18/2026 | HSU0568C | Spring In-Service 2026 CPR/ First Aid | Passed | 0.0 | 4.00 |
+| 4/18/2026 | HSU2800C | Spring In-Service 2026 Ethics | Passed | 0.0 | 2.00 |
+| 4/18/2026 | HSU4415C | Spring In-Service 2026 Taser 10 Update | Passed | 0.0 | 2.00 |
+| 4/17/2026 | HSU2124C | Spring In-Service 2026 EVOC | Instructed | 0.0 | 2.00 |
+| 4/12/2026 | HSU2124C | Spring In-Service 2026 EVOC | Instructed | 0.0 | 2.00 |
 | 10/24/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/17/2025 | HSU0012B | 2025 Spring In-Service-ActiveThreat/ForceScenarios | Passed | 0.0 | 4.00 |
 | 10/17/2025 | HSU3227B | 2025 Spring In-Service TacticalCombatCasualtyCare | Passed | 0.0 | 3.00 |

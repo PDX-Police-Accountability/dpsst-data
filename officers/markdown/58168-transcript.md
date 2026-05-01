@@ -43,6 +43,7 @@
 | 2/10/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 2/3/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 2/3/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/15/2026 | PDP0232C | 2026 Training Instructor Development | Passed | 0.0 | 28.00 |
 | 1/9/2026 | PDP2369C | 2026 Enhanced Crisis Intervention Team (ECIT) Cert | Passed | 0.0 | 36.00 |
 | 12/27/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |

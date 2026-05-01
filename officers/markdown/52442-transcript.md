@@ -43,6 +43,8 @@
 | 1/20/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/20/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/20/2026 | PDP4195C | 2026-1 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/25/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/18/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |

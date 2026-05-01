@@ -104,6 +104,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/26/2026
+  course: PDP3879C
+  title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/26/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/26/2026
+  course: PDP0783C
+  title: 2026-1 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/18/2026
   course: PDP3022C
   title: 2026 Investigators IS Control Tactics

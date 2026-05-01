@@ -42,6 +42,9 @@
 | 2/19/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |
 | 2/19/2026 | PDP4289C | 2026 Investigators IS Tech Warrants and Testimony | Passed | 0.0 | 2.00 |
 | 2/19/2026 | PDP0336C | 2026 Investigators IS Mass Casualty Incident | Passed | 0.0 | 2.00 |
+| 2/16/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/16/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/16/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 1/29/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/29/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

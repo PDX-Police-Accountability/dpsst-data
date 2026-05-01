@@ -44,6 +44,7 @@
 | 1/27/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 1/27/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/27/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/27/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/22/2026 | PDP2305C | 2025 All Sworn In-Service - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
 | 1/22/2026 | PDP2178C | 2025 IS PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 12/31/2025 | PDP2169C | 2025 IS PVO Stop Stick Intro Video | Passed | 0.0 | 0.25 |

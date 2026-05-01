@@ -42,12 +42,14 @@
 | 2/4/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
 | 2/2/2026 | PDP2178C | 2025 IS PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 2/2/2026 | PDP3548C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
+| 1/27/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/14/2026 | PDP2252C | FTEP Orientation | Passed | 0.0 | 6.45 |
 | 1/13/2026 | PDP3224C | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 1/13/2026 | PDP3350C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 1/13/2026 | PDP0205C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 1/13/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 1/12/2026 | PDP0676C | Post Basic FTEP Firearms | Passed | 0.0 | 23.00 |
+| 1/12/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/11/2026 | PDP1222C | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP0325C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 1/9/2026 | PDP1295C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

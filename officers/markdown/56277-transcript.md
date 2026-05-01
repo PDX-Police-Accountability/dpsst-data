@@ -42,8 +42,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/4/2026 | OCP2942C | EVO - PIT Re-certification | Passed | 0.0 | 0.50 |
+| 4/4/2026 | OCP1044C | Emergency Vehicle Operation | Passed | 0.0 | 7.00 |
 | 2/18/2026 | CAP0362C | On-Line Fraud  Security Awareness Training | Passed | 0.0 | 1.00 |
 | 1/21/2026 | CAP0898C | Annual Handgun Qualifications and Fundamentals | Instructed | 0.0 | 6.00 |
+| 1/21/2026 | CAP2488C | Handgun Reloads and Malfunctions | Passed | 0.0 | 2.00 |
 | 10/23/2025 | CAP2337B | Airways Training Video - Patient Evaluation For LE | Passed | 0.0 | 2.00 |
 | 10/22/2025 | CAP3011B | Firearms - Precision Rifle | Passed | 0.0 | 1.00 |
 | 10/8/2025 | CAP1362B | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |

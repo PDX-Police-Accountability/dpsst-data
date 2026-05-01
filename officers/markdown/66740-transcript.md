@@ -64,6 +64,7 @@
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 3/23/2026 | PDP4452C | Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 3/23/2026 | PDP4004C | Mobile Identification Device (MIDD) | Passed | 0.0 | 1.00 |
+| 3/23/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/19/2026 | PDP2706C | RegJin RMS/MRE Training | Passed | 0.0 | 14.00 |
 | 3/12/2026 | PDP0793C | FTEP Post PVO StopSticks Box IN | Passed | 0.0 | 4.00 |
 | 3/9/2026 | PDP1474C | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |

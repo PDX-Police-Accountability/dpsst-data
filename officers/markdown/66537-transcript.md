@@ -68,6 +68,7 @@
 | 1/13/2026 | PDP0205C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 1/13/2026 | PDP1295C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP0676C | Post Basic FTEP Firearms | Passed | 0.0 | 23.00 |
+| 1/12/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/11/2026 | PDP1222C | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP0666C | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP2758C | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |

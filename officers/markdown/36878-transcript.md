@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2026 | BVP4346C | April 2026 Control Tactics IST 040926 PM | Instructed | 0.0 | 3.00 |
+| 4/3/2026 | BVP1891C | April 2026 Control Tactics Instructors | Passed | 0.0 | 3.00 |
 | 1/29/2026 | BVP2168C | Modern Lessons in Leadership for Law Enforcement | Passed | 0.0 | 16.00 |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/15/2026 | BVP1921C | First Aid/CPR 011526 AM | Passed | 0.0 | 3.00 |

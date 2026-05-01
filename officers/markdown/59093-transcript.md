@@ -45,7 +45,9 @@
 | 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/18/2026 | PDP1724C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
+| 3/9/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/3/2026 | PDP4427C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
+| 2/3/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/29/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 1/29/2026 | PDP0753C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 1/29/2026 | PDP2198C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |

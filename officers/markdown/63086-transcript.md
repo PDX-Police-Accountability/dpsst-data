@@ -59,6 +59,7 @@
 | 1/6/2026 | PDP1901C | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP2402C | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 1/6/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/5/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 1/5/2026 | PDP3010C | 2025 All Sworn In-Service Active Threat (Video) | Passed | 0.0 | 1.00 |
 | 1/5/2026 | PDP0712C | 2025 IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |

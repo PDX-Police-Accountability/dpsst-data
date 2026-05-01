@@ -41,6 +41,7 @@
 | 1/23/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 1/23/2026 | PDP0431C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 1/23/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 1/22/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/17/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/17/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/17/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |

@@ -59,6 +59,7 @@
 | 1/6/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP2402C | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 1/6/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/5/2026 | PDP4309C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 1/5/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 1/5/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |

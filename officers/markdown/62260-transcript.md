@@ -41,6 +41,7 @@
 | 2/16/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/3/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/2/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/15/2026 | PDP0232C | 2026 Training Instructor Development | Passed | 0.0 | 28.00 |
 | 1/7/2026 | PDP0879C | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |

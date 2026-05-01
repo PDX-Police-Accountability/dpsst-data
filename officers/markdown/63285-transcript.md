@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/14/2026 | HBP1561C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |
 | 4/10/2026 | HBS0713C | Evade the Fight 1: Tactical De-Escalation | Passed | 0.0 | 8.00 |
 | 4/10/2026 | HBS1304C | Evade the Fight 1: Tactical De-Escalation | Passed | 0.0 | 8.00 |
 | 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
@@ -40,6 +41,7 @@
 | 2/24/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/24/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/6/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 2/3/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/27/2026 | PDP3783C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
 | 1/16/2026 | SMS4442C | Case Law Review | Passed | 0.0 | 1.50 |
 | 12/29/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

@@ -32,6 +32,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/18/2026 | 4/18/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/15/2024 | 4/19/2026 |
@@ -43,6 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2026 | HSU0568C | Spring In-Service 2026 CPR/ First Aid | Passed | 0.0 | 4.00 |
+| 4/18/2026 | HSU0548C | Spring In-Service 2026 De Escalation Practical | Passed | 0.0 | 4.00 |
+| 4/18/2026 | HSU2800C | Spring In-Service 2026 Ethics | Passed | 0.0 | 2.00 |
+| 4/18/2026 | HSU4415C | Spring In-Service 2026 Taser 10 Update | Passed | 0.0 | 2.00 |
 | 3/12/2026 | HSU4256C | Critical Incident Response | Instructed | 0.0 | 4.00 |
 | 3/8/2026 | HSU2651C | Pistol Mounted Optics | Instructed | 0.0 | 30.00 |
 | 3/4/2026 | HSU2134C | Active Threat Tactics | Instructed | 0.0 | 10.00 |

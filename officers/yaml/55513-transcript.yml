@@ -55,6 +55,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2026
+  course: HBS0971C
+  title: TNT Range/Deliberate Movement Drills
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/15/2026
+  course: BVP1600C
+  title: April 2026 Control Tactics IST 041526 AM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/17/2026
+  course: BVP0380C
+  title: EVOC 031726PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/18/2026
   course: HBS1169C
   title: TNT - New Operator Vehicle Operations

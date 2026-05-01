@@ -62,6 +62,7 @@
 | 1/6/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP3009C | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 1/6/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 1/6/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/5/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 1/5/2026 | PDP3010C | 2025 All Sworn In-Service Active Threat (Video) | Passed | 0.0 | 1.00 |
 | 1/5/2026 | PDP0712C | 2025 IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |

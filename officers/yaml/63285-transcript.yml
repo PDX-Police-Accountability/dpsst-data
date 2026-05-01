@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/14/2026
+  course: HBP1561C
+  title: Search and Seizure Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/10/2026
   course: HBS0713C
   title: 'Evade the Fight 1: Tactical De-Escalation'
@@ -63,6 +69,12 @@ training_records:
 - date: 2/6/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/3/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'

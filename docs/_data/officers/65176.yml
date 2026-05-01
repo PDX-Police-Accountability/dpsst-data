@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/14/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

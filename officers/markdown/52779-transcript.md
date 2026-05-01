@@ -42,6 +42,7 @@
 | 4/2/2026 | OSH4469C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 1) | Passed | 0.0 | 8.00 |
 | 3/10/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/8/2026 | PDP2080C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
+| 3/8/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/17/2026 | PDP4239C | Testosterone Replacement: Help, Hype or Harm | Passed | 0.0 | 1.00 |
 | 2/13/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/13/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

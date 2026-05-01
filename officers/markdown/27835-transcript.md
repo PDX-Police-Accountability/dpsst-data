@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/13/2026 | 4/18/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/15/2024 | 4/19/2026 |
@@ -35,6 +36,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2026 | HSU0548C | Spring In-Service 2026 De Escalation Practical | Passed | 0.0 | 4.00 |
+| 4/13/2026 | HSU0568C | Spring In-Service 2026 CPR/ First Aid | Passed | 0.0 | 4.00 |
+| 4/13/2026 | HSU4415C | Spring In-Service 2026 Taser 10 Update | Passed | 0.0 | 2.00 |
+| 4/13/2026 | HSU2800C | Spring In-Service 2026 Ethics | Passed | 0.0 | 2.00 |
+| 4/12/2026 | HSU3356C | Spring In-Service 2026 Defensive Tactics | Passed | 0.0 | 2.00 |
+| 4/12/2026 | HSU2124C | Spring In-Service 2026 EVOC | Passed | 0.0 | 2.00 |
+| 4/12/2026 | HSU3489C | Spring In-Service 2026 Firearms | Passed | 0.0 | 4.00 |
 | 10/18/2025 | HSU3071B | 2025 Spring In-Service Control Tactics | Passed | 0.0 | 2.00 |
 | 10/18/2025 | HSU3716B | 2025 Spring In-Service Patrol Procedures/ PVO | Passed | 0.0 | 2.00 |
 | 10/18/2025 | HSU1020B | 2025 Spring In-Service Firearms | Passed | 0.0 | 4.00 |

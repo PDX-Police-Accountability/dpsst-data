@@ -69,6 +69,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 3/17/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/15/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

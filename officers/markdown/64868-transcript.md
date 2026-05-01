@@ -36,6 +36,7 @@
 | 1/16/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/16/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/16/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
+| 1/12/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/5/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/12/2025 | PDP2662C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 11/12/2025 | PDP4229C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

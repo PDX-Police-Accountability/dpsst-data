@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/9/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/17/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/16/2026 | PDP3022C | 2026 Investigators IS Control Tactics | Passed | 0.0 | 2.00 |
 | 2/16/2026 | PDP4231C | 2026 Investigators IS Exemption Review/Legal | Passed | 0.0 | 1.00 |
 | 2/16/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |

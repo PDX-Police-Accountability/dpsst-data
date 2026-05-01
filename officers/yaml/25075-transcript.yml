@@ -75,6 +75,12 @@ certification_records:
   expiration_date: 8/23/2026
   probation_date: ''
 training_records:
+- date: 4/21/2026
+  course: WBP3455C
+  title: Conflict Simulation Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/31/2026
   course: WBP0172C
   title: 2026 Q1 Firearms Qualifications

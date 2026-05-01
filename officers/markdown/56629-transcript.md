@@ -47,6 +47,8 @@
 | 2/14/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 1/28/2026 | PDP3098C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/23/2026 | PDP2596C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 1/23/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/23/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 1/21/2026 | PDP0898C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 1/16/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/14/2026 | PDP2131C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
