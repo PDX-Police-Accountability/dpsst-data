@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/14/2026 | CAP0384C | SB1516 - ALPR Legislation Update Training | Passed | 0.0 | 1.00 |
 | 4/4/2026 | OCP2942C | EVO - PIT Re-certification | Passed | 0.0 | 0.50 |
 | 4/4/2026 | OCP1044C | Emergency Vehicle Operation | Passed | 0.0 | 7.00 |
 | 2/18/2026 | CAP0362C | On-Line Fraud  Security Awareness Training | Passed | 0.0 | 1.00 |

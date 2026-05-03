@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2026 | SMP2865C | Axon Taser Instructor Course | Passed | 0.0 | 16.00 |
 | 3/11/2026 | SAG2789C | Firearms Training | Instructed | 0.0 | 8.00 |
 | 3/11/2026 | SAG2115C | Firearms Training | Instructed | 0.0 | 8.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |

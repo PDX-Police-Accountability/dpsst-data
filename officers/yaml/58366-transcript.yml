@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/11/2026
+  course: OSH3626C
+  title: Oregon Women in Law Enforcement Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 2/18/2026
   course: OSH3995C
   title: Leadership with General Mattis

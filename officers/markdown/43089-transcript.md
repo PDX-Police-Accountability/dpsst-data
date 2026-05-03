@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2026 | LGS2539C | Foundation in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 2/24/2026 | LGS2683C | Implicit Bias Training | Passed | 0.0 | 1.00 |
 | 2/18/2026 | LGS1945C | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 2/15/2026 | LGS4113C | Crisis Initervention Training | Passed | 0.0 | 1.00 |

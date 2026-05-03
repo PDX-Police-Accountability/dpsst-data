@@ -81,12 +81,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 2/13/2026
-  course: HBS0613C
-  title: Rifle Updates
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
-- date: 2/13/2026
   course: HBS2871C
   title: Rifle Updates
   status: Passed

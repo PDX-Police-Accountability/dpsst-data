@@ -83,6 +83,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2026
+  course: OCS1114C
+  title: CNT Monthly Training - Scenario / De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/1/2026
   course: OCS1348C
   title: CPR First Aid

@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2026
+  course: OCA2047C
+  title: MCT - Investigative Strategies / Insanity Defense
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 3/17/2026
   course: WLP2992C
   title: WLPD 2026 TASER Recertification

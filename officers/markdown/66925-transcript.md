@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 12/24/2025 | PDP0384C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |
 | 12/24/2025 | PDP1007C | ICS-200 Basic Inc Command System for Init Resp | Passed | 0.0 | 4.00 |

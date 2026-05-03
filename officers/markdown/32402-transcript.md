@@ -40,7 +40,6 @@
 | 3/30/2026 | HBS2251C | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
 | 3/30/2026 | HBS0264C | Inservice session #1 firearms | Passed | 0.0 | 4.50 |
 | 3/19/2026 | HBS2653C | Rifle Remediation | Passed | 0.0 | 4.00 |
-| 2/13/2026 | HBS0613C | Rifle Updates | Passed | 0.0 | 9.00 |
 | 2/13/2026 | HBS2871C | Rifle Updates | Passed | 0.0 | 9.00 |
 | 12/11/2025 | HBS0481C | InService Session #2 Firearms | Passed | 0.0 | 4.50 |
 | 10/15/2025 | HBS2152B | InService Session #2 EVO | Passed | 0.0 | 4.50 |

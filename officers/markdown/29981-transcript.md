@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2026 | OCA2047C | MCT - Investigative Strategies / Insanity Defense | Passed | 0.0 | 1.25 |
 | 3/17/2026 | WLP2992C | WLPD 2026 TASER Recertification | Passed | 0.0 | 2.00 |
 | 3/13/2026 | WLP4062C | CA Sexual Assault Investigators Assoc Conference | Passed | 0.0 | 25.00 |
 | 2/25/2026 | OCA1037C | February MCT - Brady | Passed | 0.0 | 1.00 |

@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/14/2026 | CAP0384C | SB1516 - ALPR Legislation Update Training | Passed | 0.0 | 1.00 |
 | 2/18/2026 | CAP0362C | On-Line Fraud  Security Awareness Training | Passed | 0.0 | 1.00 |
 | 1/21/2026 | CAP0898C | Annual Handgun Qualifications and Fundamentals | Passed | 0.0 | 1.50 |
 | 1/21/2026 | CAP2488C | Handgun Reloads and Malfunctions | Passed | 0.0 | 2.00 |
