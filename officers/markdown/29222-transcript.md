@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2026 | GSP3646C | Overcoming AI  Deepfake Defense in ICAC Cases | Passed | 0.0 | 1.00 |
+| 4/8/2026 | GSP2130C | Investigative Consideration w/ iPhone  iOS | Passed | 0.0 | 6.00 |
 | 3/12/2026 | GSP3149C | Effective Report Writing | Passed | 0.0 | 1.50 |
 | 2/20/2026 | GSP1758C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |

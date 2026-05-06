@@ -34,7 +34,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/14/2026 | HBP1561C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |
-| 4/10/2026 | HBS0713C | Evade the Fight 1: Tactical De-Escalation | Passed | 0.0 | 8.00 |
 | 4/10/2026 | HBS1304C | Evade the Fight 1: Tactical De-Escalation | Passed | 0.0 | 8.00 |
 | 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/24/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

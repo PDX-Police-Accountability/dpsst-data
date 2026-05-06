@@ -46,6 +46,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2026 | OCP0280C | EVOC | Passed | 0.0 | 7.00 |
+| 5/3/2026 | OCP2691C | EVOC | Passed | 0.0 | 7.00 |
+| 5/3/2026 | OCP0808C | PIT Re-certification | Passed | 0.0 | 0.50 |
 | 4/14/2026 | CAP0384C | SB1516 - ALPR Legislation Update Training | Passed | 0.0 | 1.00 |
 | 2/18/2026 | CAP0362C | On-Line Fraud  Security Awareness Training | Passed | 0.0 | 1.00 |
 | 1/21/2026 | CAP0898C | Annual Handgun Qualifications and Fundamentals | Passed | 0.0 | 1.50 |

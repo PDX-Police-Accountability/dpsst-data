@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2026
+  course: PDP1332C
+  title: 2026 Focused Intervention Team (FIT) Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 4/10/2026
   course: PDP3320C
   title: 2026 Rapid Response team (RRT) Monthly Training

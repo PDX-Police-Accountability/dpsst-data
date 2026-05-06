@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2026
+  course: GSP3646C
+  title: Overcoming AI  Deepfake Defense in ICAC Cases
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/8/2026
+  course: GSP2130C
+  title: Investigative Consideration w/ iPhone  iOS
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/12/2026
   course: GSP3149C
   title: Effective Report Writing

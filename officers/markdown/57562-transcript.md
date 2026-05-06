@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2026 | OCP4068C | Responsible AI For Public Professionals | Passed | 0.0 | 2.00 |
+| 5/1/2026 | OCP2975C | Anti Harassment | Passed | 0.0 | 1.00 |
+| 5/1/2026 | OCP2862C | Miranda and Invocation | Passed | 0.0 | 0.50 |
+| 5/1/2026 | OCP2721C | Interim Directive 26-01 and HB 4138 | Passed | 0.0 | 0.25 |
+| 5/1/2026 | OCP1205C | E Bike Enforcement | Passed | 0.0 | 0.25 |
 | 4/19/2026 | OCP1744C | Defensive Tactics | Instructed | 0.0 | 6.00 |
 | 3/19/2026 | OCP2913C | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 3/10/2026 | OCP2870C | HB 4002 | Passed | 0.0 | 0.25 |

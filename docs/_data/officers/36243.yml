@@ -102,12 +102,6 @@ training_records:
   score: '0.0'
   hours: '4.50'
 - date: 4/12/2026
-  course: HBS0930C
-  title: 'Inservice Session #1 DT''s'
-  status: Passed
-  score: '0.0'
-  hours: '4.50'
-- date: 4/12/2026
   course: HBS4068C
   title: 'Inservice Session #1 Firearms'
   status: Passed

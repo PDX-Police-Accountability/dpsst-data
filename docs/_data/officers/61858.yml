@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2026
+  course: MFN2302C
+  title: Diversity, Equity, and Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/7/2026
   course: MFN3307C
   title: OIS Training

@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 3/11/2026
+  course: WLP2335C
+  title: Defensive Tactics - Crisis Scenarios with BHU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/6/2026
   course: VND1335C
   title: Northwest Leadership Seminar

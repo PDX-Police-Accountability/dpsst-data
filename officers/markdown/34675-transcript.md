@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2026 | SAG4569C | Firearms | Passed | 0.0 | 2.00 |
 | 3/11/2026 | SAG2789C | Firearms Training | Passed | 0.0 | 2.00 |
 | 3/11/2026 | SAG2115C | Firearms Training | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |

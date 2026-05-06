@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2026 | MFN2302C | Diversity, Equity, and Inclusion | Passed | 0.0 | 2.00 |
 | 4/7/2026 | MFN3307C | OIS Training | Passed | 0.0 | 1.50 |
 | 3/26/2026 | MFN1891C | Milo Use of Force training | Passed | 0.0 | 0.50 |
 | 3/18/2026 | MFN0056C | Oregon Board of Parole Hearings | Passed | 0.0 | 0.50 |

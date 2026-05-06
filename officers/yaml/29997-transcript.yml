@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2026
+  course: PDP1332C
+  title: 2026 Focused Intervention Team (FIT) Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.50'
 - date: 3/13/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

@@ -63,6 +63,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/3/2026
+  course: OCP0280C
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/3/2026
+  course: OCP2691C
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/3/2026
+  course: OCP0808C
+  title: PIT Re-certification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/1/2026
+  course: OCP4068C
+  title: Responsible AI For Public Professionals
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/1/2026
+  course: OCP2975C
+  title: Anti Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2026
+  course: OCP2721C
+  title: Interim Directive 26-01 and HB 4138
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2026
+  course: OCP2862C
+  title: Miranda and Invocation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/1/2026
+  course: OCP1205C
+  title: E Bike Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/7/2026
   course: OCP3038C
   title: Defensive Tactics - Segmenting and Takedowns

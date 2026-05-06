@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2026
+  course: OCS0633C
+  title: FBI LEEDA Command Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 4/10/2026
   course: PDP2634C
   title: 2026 Dialogue Liaison Officer (DLO) Training

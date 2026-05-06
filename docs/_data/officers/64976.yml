@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2026
+  course: PDP2652C
+  title: 2026 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/15/2026
   course: XDELETE7
   title: Pending for Deletion Due to Duplicate or Other Rea
