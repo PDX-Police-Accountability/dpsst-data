@@ -135,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 1/22/2026
+  course: PDP0214C
+  title: NW Peer Support Conference Roster
+  status: Passed
+  score: '0.0'
+  hours: '13.75'
 - date: 1/19/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia

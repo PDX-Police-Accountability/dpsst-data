@@ -29,7 +29,20 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/8/2026 | PDP1493C | 2026-1 Advanced Academy Law | Passed | 0.0 | 29.25 |
+| 4/8/2026 | PDP3686C | 2026-1 Advanced Academy Firearms | Passed | 0.0 | 31.25 |
+| 4/8/2026 | PDP0765C | 2026-1 Advanced Academy Wellness | Passed | 0.0 | 9.00 |
+| 4/8/2026 | PDP0111C | 2026-1 Advanced Academy Control Tactics | Passed | 0.0 | 60.00 |
+| 4/7/2026 | PDP3455C | 2026-1 Advanced Academy Patrol Proc FA | Passed | 0.0 | 80.75 |
+| 4/4/2026 | PDP2077C | 2026-1 Advanced Academy PVO | Passed | 0.0 | 40.25 |
+| 4/1/2026 | PDP3341C | 2026-1 Advanced Academy Equity | Passed | 0.0 | 23.50 |
+| 4/1/2026 | PDP0272C | 2026-1 Advanced Academy PDX Community Engagement | Passed | 0.0 | 4.50 |
+| 3/31/2026 | PDP1774C | 2026-1 Advanced Academy MDT Operations | Passed | 0.0 | 1.25 |
+| 3/31/2026 | PDP1678C | 2026-1 Advanced Academy Fitness | Passed | 0.0 | 9.75 |
 | 3/30/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/25/2026 | PDP2937C | 2026-1 Advanced Academy CEW | Passed | 0.0 | 1.25 |
+| 3/24/2026 | PDP4037C | 2026-1 Advanced Academy Walking Beat | Passed | 0.0 | 20.00 |
+| 3/19/2026 | PDP2239C | 2026-1 Advanced Academy Crisis Int Training | Passed | 0.0 | 21.00 |
 | 3/16/2026 | PDP1295C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/16/2026 | PDP4310C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 3/16/2026 | PDP0599C | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
@@ -41,6 +54,7 @@
 | 3/16/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
 | 3/16/2026 | PDP4120C | DIR 660.10, PE Procedures/2018-5 TT 100% Collect | Passed | 0.0 | 0.50 |
 | 3/16/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
+| 3/16/2026 | PDP2319C | 2026-1 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
 | 3/14/2026 | PDP4451C | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
 | 3/14/2026 | PDP2198C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 3/14/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
@@ -78,9 +92,14 @@
 | 2/12/2026 | PDP2930C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 2/12/2026 | PDP3161C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 2/12/2026 | PDP2421C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 2/12/2026 | PDP0974C | 2026-1 Advanced Academy Legit-Proc Justice | Passed | 0.0 | 1.00 |
+| 2/12/2026 | PDP3540C | 2026-1 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
 | 2/11/2026 | PDP3979C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 2/11/2026 | PDP3758C | 2026-1 Advanced Academy Trauma Informed Interview | Passed | 0.0 | 2.25 |
+| 2/10/2026 | PDP3241C | 2026-1 Advanced Academy Able | Passed | 0.0 | 10.00 |
 | 2/4/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP2442C | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
+| 2/2/2026 | PDP0538C | 2026-1 Advanced Academy Patrol Proc Other | Passed | 0.0 | 9.00 |
 | 1/20/2026 | PDP3224C | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 1/14/2026 | PDP2252C | FTEP Orientation | Passed | 0.0 | 6.45 |
 | 1/14/2026 | PDP0435C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |

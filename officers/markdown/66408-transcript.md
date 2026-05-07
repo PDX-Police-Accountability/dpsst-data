@@ -32,7 +32,18 @@
 | 3/10/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
 | 3/4/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 2/19/2026 | PDP1493C | 2026-1 Advanced Academy Law | Passed | 0.0 | 15.00 |
+| 2/19/2026 | PDP3341C | 2026-1 Advanced Academy Equity | Passed | 0.0 | 9.00 |
+| 2/19/2026 | PDP0765C | 2026-1 Advanced Academy Wellness | Passed | 0.0 | 4.00 |
+| 2/19/2026 | PDP1678C | 2026-1 Advanced Academy Fitness | Passed | 0.0 | 5.00 |
+| 2/18/2026 | PDP0111C | 2026-1 Advanced Academy Control Tactics | Passed | 0.0 | 19.75 |
+| 2/18/2026 | PDP3455C | 2026-1 Advanced Academy Patrol Proc FA | Passed | 0.0 | 9.00 |
+| 2/17/2026 | PDP2077C | 2026-1 Advanced Academy PVO | Passed | 0.0 | 4.50 |
+| 2/16/2026 | PDP3686C | 2026-1 Advanced Academy Firearms | Passed | 0.0 | 13.50 |
+| 2/12/2026 | PDP0974C | 2026-1 Advanced Academy Legit-Proc Justice | Passed | 0.0 | 1.00 |
+| 2/12/2026 | PDP3540C | 2026-1 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
 | 2/11/2026 | PDP3825C | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 2/11/2026 | PDP3758C | 2026-1 Advanced Academy Trauma Informed Interview | Passed | 0.0 | 2.25 |
 | 2/10/2026 | PDP4451C | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
 | 2/10/2026 | PDP3204C | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
 | 2/10/2026 | PDP1094C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
@@ -48,6 +59,8 @@
 | 2/10/2026 | PDP0359C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP0382C | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 2/10/2026 | PDP3363C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 2/10/2026 | PDP3241C | 2026-1 Advanced Academy Able | Passed | 0.0 | 10.00 |
+| 2/9/2026 | PDP2239C | 2026-1 Advanced Academy Crisis Int Training | Passed | 0.0 | 7.50 |
 | 2/8/2026 | PDP1295C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP0953C | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP0666C | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
@@ -58,6 +71,8 @@
 | 2/8/2026 | PDP0306C | AA [PJU-101-H] Introduction to Procedural Justice | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/3/2026 | PDP2319C | 2026-1 Advanced Academy Public Order | Passed | 0.0 | 4.50 |
+| 2/2/2026 | PDP0538C | 2026-1 Advanced Academy Patrol Proc Other | Passed | 0.0 | 9.00 |
 | 1/14/2026 | PDP2252C | FTEP Orientation | Passed | 0.0 | 6.45 |
 | 1/13/2026 | PDP3224C | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 1/13/2026 | PDP3350C | FTEP Report Writing | Passed | 0.0 | 2.00 |

@@ -30,12 +30,96 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/8/2026
+  course: PDP1493C
+  title: 2026-1 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '29.25'
+- date: 4/8/2026
+  course: PDP3686C
+  title: 2026-1 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '31.25'
+- date: 4/8/2026
+  course: PDP0765C
+  title: 2026-1 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/8/2026
+  course: PDP0111C
+  title: 2026-1 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '60.00'
+- date: 4/7/2026
+  course: PDP3455C
+  title: 2026-1 Advanced Academy Patrol Proc FA
+  status: Passed
+  score: '0.0'
+  hours: '80.75'
+- date: 4/4/2026
+  course: PDP2077C
+  title: 2026-1 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '40.25'
+- date: 4/1/2026
+  course: PDP3341C
+  title: 2026-1 Advanced Academy Equity
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
+- date: 4/1/2026
+  course: PDP0272C
+  title: 2026-1 Advanced Academy PDX Community Engagement
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/31/2026
+  course: PDP1774C
+  title: 2026-1 Advanced Academy MDT Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 3/31/2026
+  course: PDP1678C
+  title: 2026-1 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '9.75'
+- date: 3/25/2026
+  course: PDP2937C
+  title: 2026-1 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 3/24/2026
+  course: PDP4037C
+  title: 2026-1 Advanced Academy Walking Beat
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 3/19/2026
+  course: PDP2239C
+  title: 2026-1 Advanced Academy Crisis Int Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 3/16/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/16/2026
+  course: PDP2319C
+  title: 2026-1 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/12/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -66,6 +150,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/12/2026
+  course: PDP0974C
+  title: 2026-1 Advanced Academy Legit-Proc Justice
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2026
+  course: PDP3540C
+  title: 2026-1 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/11/2026
   course: PDP3825C
   title: AA [CIT-112-A] Behavioral Health Unit Overview
@@ -78,6 +174,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/11/2026
+  course: PDP3758C
+  title: 2026-1 Advanced Academy Trauma Informed Interview
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 2/10/2026
+  course: PDP3241C
+  title: 2026-1 Advanced Academy Able
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 2/4/2026
   course: PDP0211C
   title: AA [WEL-101-H] Introduction to Wellness
@@ -96,6 +204,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/2/2026
+  course: PDP0538C
+  title: 2026-1 Advanced Academy Patrol Proc Other
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/29/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm
