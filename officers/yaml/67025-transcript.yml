@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/4/2026
+  course: PDP1906C
+  title: Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/29/2026
+  course: PDP1017C
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/12/2026
   course: REG1205C
   title: INTOX 8000 (Hours included in Basic)

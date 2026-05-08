@@ -266,6 +266,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/26/2025
+  course: PDP4438C
+  title: Cellebrite Certified Operator  Physical Analyst
+  status: Passed
+  score: '0.0'
+  hours: '35.00'
 - date: 9/4/2025
   course: PDP4274C
   title: 2025-3 Range Qual Secondary Firearm (25 Round)

@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/4/2026
+  course: PDP1906C
+  title: Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/29/2026
+  course: PDP1017C
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/22/2026
   course: PDP1235C
   title: 2026 FTEP Post DPSST Firearms

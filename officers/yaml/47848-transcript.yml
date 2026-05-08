@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2026
+  course: PDP1017C
+  title: FTEP Geography
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/24/2026
   course: PDP4545C
   title: FTEP Geography

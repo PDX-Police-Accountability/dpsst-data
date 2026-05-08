@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/5/2026 | OCP4339C | Taser 7 Certification | Passed | 0.0 | 3.00 |
+| 5/5/2026 | OCP1241C | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 5/1/2026 | OCP4068C | Responsible AI For Public Professionals | Passed | 0.0 | 2.00 |
 | 5/1/2026 | OCP2975C | Anti Harassment | Passed | 0.0 | 1.00 |
 | 5/1/2026 | OCP2862C | Miranda and Invocation | Passed | 0.0 | 0.50 |

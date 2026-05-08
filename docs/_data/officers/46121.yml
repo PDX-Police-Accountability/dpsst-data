@@ -3888,6 +3888,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/15/1994
+  course: PDP1153C
+  title: 'PHL Critical Thinking: TV  the pres of reality'
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 3/15/1994
+  course: PDP1833C
+  title: WR 122 English Composition
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 6/15/1993
+  course: PDP2902C
+  title: PS 203 State  Local Government
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 3/15/1993
+  course: PDP0537C
+  title: WR 121 English Composition
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 3/15/1993
+  course: PDP0808C
+  title: SOC 204 General Sociology
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 6/15/1992
+  course: PDP3043C
+  title: HST 203 History of the US
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 6/15/1992
+  course: PDP2686C
+  title: PSY 231 Human Seuxality
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 6/15/1992
+  course: PDP1338C
+  title: RD 115 Speed Reading  Voc
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year

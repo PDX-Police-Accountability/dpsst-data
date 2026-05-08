@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/4/2026 | PDP1906C | Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 4/10/2026 | PDP3320C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Instructed | 0.0 | 2.00 |
 | 3/26/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |

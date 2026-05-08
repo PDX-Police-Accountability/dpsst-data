@@ -206,6 +206,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/13/2025
+  course: PDP3342C
+  title: Animal Cruelty Investigations for LEO
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/8/2025
   course: PDP1832B
   title: '2025-7, Legal Updates: Search  Seizure'

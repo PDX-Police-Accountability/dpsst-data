@@ -63,6 +63,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/26/2026
+  course: PDP0803C
+  title: ICS 400 Advanced Command and General Staff
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/16/2026
   course: PDP3022C
   title: 2026 Investigators IS Control Tactics

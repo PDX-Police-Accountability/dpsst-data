@@ -107,6 +107,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2026
+  course: BNS0660C
+  title: Range/ArCon Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/31/2026
   course: BNS0940C
   title: "(P1) Ambush Awareness and Preparation"

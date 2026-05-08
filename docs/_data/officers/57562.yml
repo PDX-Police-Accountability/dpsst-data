@@ -55,6 +55,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/5/2026
+  course: OCP4339C
+  title: Taser 7 Certification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/5/2026
+  course: OCP1241C
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/1/2026
   course: OCP4068C
   title: Responsible AI For Public Professionals

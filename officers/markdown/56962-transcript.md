@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2026 | HBN3280C | WRNA Booster | Passed | 0.0 | 4.00 |
 | 3/17/2026 | HBN1303C | Case Management | Passed | 0.0 | 1.00 |
 | 3/6/2026 | HBN2239C | OC Spray Recert | Passed | 0.0 | 1.00 |
 | 3/6/2026 | HBN2239C | OC Spray Recert | Instructed | 0.0 | 3.50 |

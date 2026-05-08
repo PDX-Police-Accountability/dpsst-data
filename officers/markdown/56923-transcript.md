@@ -73,6 +73,7 @@
 | 10/8/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/8/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 10/8/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 9/26/2025 | PDP4438C | Cellebrite Certified Operator  Physical Analyst | Passed | 0.0 | 35.00 |
 | 9/4/2025 | PDP4274C | 2025-3 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 9/4/2025 | PDP0989C | 2025-3 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 9/1/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
