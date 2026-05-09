@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/9/2023 | Police Officer | Basic | ReqCertExt |  |  | 5/9/2026 |
+| 5/6/2026 | Police Officer | Basic | App Recd |  |  | 5/9/2026 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 3/9/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
@@ -105,7 +106,6 @@
 | 10/6/2025 | PDP1261B | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/6/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/6/2025 | PDP4394B | School Emergency Actions | Passed | 0.0 | 0.25 |
-| 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/1/2024 | PDP3325A | 2024-2 Advanced Academy Ethics | Passed | 0.0 | 42.00 |
 | 7/30/2024 | PDP2589A | 2024-2 Advanced Academy Bike School | Passed | 0.0 | 35.00 |
 | 7/29/2024 | PDP2621A | 2024-2 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
