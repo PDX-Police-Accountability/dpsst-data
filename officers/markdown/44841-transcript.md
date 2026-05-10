@@ -12,8 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 10/17/2005 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 10/17/2005 | Lake Oswego Police Department | Hired | Police Off |  |  |
+| 10/17/2005 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 9/27/2004 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

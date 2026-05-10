@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 3/17/2025 | Gresham Police Department | Hired | Police Off |  |  |
+| 3/17/2025 | Gresham Police Department | Hired | Asst Chief |  |  |
 | 3/16/2025 | Springfield Police Department | Resigned | Chief |  |  |
 | 3/28/2022 | Springfield Police Department | Reclassed | Chief |  |  |
 | 5/18/2021 | Springfield Police Department | Hired | Actng Chf |  |  |

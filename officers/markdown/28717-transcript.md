@@ -4,7 +4,7 @@
 | name | McCormick, David P. |
 | dpsst_identifier | 28717 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/1/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 9/21/2017 | Portland Police Bureau | Promotion | Detective |  |  |
 | 9/1/2011 | Portland Police Bureau | Hired | Police Off |  |  |
 | 11/1/2008 | Portland Police Bureau | Layoff | Police Off |  |  |
@@ -21,11 +22,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/21/2011 | Police Officer | Advanced | Granted | 12/21/2011 |  |  |
-| 12/21/2011 | Police Officer | Basic | Granted | 12/21/2011 |  |  |
-| 12/21/2011 | Police Officer | Intermediate | Granted | 12/21/2011 |  |  |
-| 2/1/2009 | Police Officer | Basic | Lapsed | 8/17/1994 |  |  |
-| 2/1/2009 | Police Officer | Intermediate | Lapsed | 11/19/1999 |  |  |
+| 12/21/2011 | Police Officer | Advanced | Granted | 12/21/2011 | 8/1/2026 |  |
+| 12/21/2011 | Police Officer | Basic | Reactivatd | 8/17/1994 | 8/1/2026 |  |
+| 12/21/2011 | Police Officer | Intermediate | Reactivatd | 11/19/1999 | 8/1/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

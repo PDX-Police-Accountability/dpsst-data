@@ -22,14 +22,14 @@ employment_records:
   classification: ''
   assignment: ''
 - date: 2/1/2021
-  agency: Portland Police Bureau
-  action: Resigned
+  agency: Canby Police Department
+  action: Hired
   rank: Police Off
   classification: ''
   assignment: ''
 - date: 2/1/2021
-  agency: Canby Police Department
-  action: Hired
+  agency: Portland Police Bureau
+  action: Resigned
   rank: Police Off
   classification: ''
   assignment: ''

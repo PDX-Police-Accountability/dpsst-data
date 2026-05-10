@@ -4,7 +4,7 @@
 | name | Ladd, Joshua D. |
 | dpsst_identifier | 31811 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/6/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 4/25/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 | 4/24/1996 | Monmouth Police Department | Resigned | Reserve |  |  |
 | 12/4/1995 | Monmouth Police Department | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/20/2010 | Police Officer | Advanced | Granted | 12/20/2010 |  |  |
-| 12/20/2010 | Police Officer | Intermediate | Granted | 12/20/2010 |  |  |
-| 3/6/1997 | Police Officer | Basic | Granted | 3/6/1997 |  |  |
+| 12/20/2010 | Police Officer | Advanced | Granted | 12/20/2010 | 8/6/2026 |  |
+| 12/20/2010 | Police Officer | Intermediate | Granted | 12/20/2010 | 8/6/2026 |  |
+| 3/6/1997 | Police Officer | Basic | Granted | 3/6/1997 | 8/6/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

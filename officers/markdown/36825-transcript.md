@@ -4,7 +4,7 @@
 | name | Hollan, Angela E. |
 | dpsst_identifier | 36825 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/6/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 5/23/2025 | Portland Police Bureau | LOA | Detective |  |  |
 | 11/1/2023 | Portland Police Bureau | Return LOA | Detective |  |  |
 | 2/15/2023 | Portland Police Bureau | LOA | Detective |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
-| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 |  |  |
-| 1/27/2000 | Police Officer | Basic | Granted | 1/27/2000 |  |  |
+| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 | 8/6/2026 |  |
+| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 | 8/6/2026 |  |
+| 1/27/2000 | Police Officer | Basic | Granted | 1/27/2000 | 8/6/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -3,12 +3,18 @@ header_record:
   name: McCormick, David P.
   dpsst_identifier: '28717'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/1/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 9/21/2017
   agency: Portland Police Bureau
   action: Promotion
@@ -51,35 +57,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 12/21/2011
-  expiration_date: ''
+  expiration_date: 8/1/2026
   probation_date: ''
 - status_date: 12/21/2011
   certificate: Police Officer
   level: Basic
-  status: Granted
-  certificate_date: 12/21/2011
-  expiration_date: ''
-  probation_date: ''
-- status_date: 12/21/2011
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 12/21/2011
-  expiration_date: ''
-  probation_date: ''
-- status_date: 2/1/2009
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 8/17/1994
-  expiration_date: ''
+  expiration_date: 8/1/2026
   probation_date: ''
-- status_date: 2/1/2009
+- status_date: 12/21/2011
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 11/19/1999
-  expiration_date: ''
+  expiration_date: 8/1/2026
   probation_date: ''
 training_records:
 - date: 1/6/2026

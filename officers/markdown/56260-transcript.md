@@ -14,8 +14,8 @@
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 9/22/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/17/2022 | Canby Police Department | Resigned | Police Off |  |  |
-| 2/1/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 2/1/2021 | Canby Police Department | Hired | Police Off |  |  |
+| 2/1/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/28/2016 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
