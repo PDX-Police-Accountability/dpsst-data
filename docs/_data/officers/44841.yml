@@ -10,15 +10,15 @@ header_record:
   assignment: ''
 employment_records:
 - date: 10/17/2005
-  agency: Lake Oswego Police Department
-  action: Hired
-  rank: Police Off
-  classification: ''
-  assignment: ''
-- date: 10/17/2005
   agency: Portland Police Bureau
   action: Resigned
   rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 10/17/2005
+  agency: Lake Oswego Police Department
+  action: Hired
+  rank: Police Off
   classification: ''
   assignment: ''
 - date: 9/27/2004

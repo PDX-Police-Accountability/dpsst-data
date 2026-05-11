@@ -10,14 +10,14 @@ header_record:
   assignment: ''
 employment_records:
 - date: 4/1/2022
-  agency: Oregon City Police Department
-  action: Hired
+  agency: Portland Police Bureau
+  action: Resigned
   rank: Police Off
   classification: ''
   assignment: ''
 - date: 4/1/2022
-  agency: Portland Police Bureau
-  action: Resigned
+  agency: Oregon City Police Department
+  action: Hired
   rank: Police Off
   classification: ''
   assignment: ''
