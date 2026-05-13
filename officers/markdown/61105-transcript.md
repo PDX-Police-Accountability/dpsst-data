@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/26/2026 | NGP0797C | Pistol RDS | Passed | 0.0 | 8.00 |
+| 3/18/2026 | NGP1174C | Oregon Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 2/17/2026 | SAP1219C | Radar/Lidar Instructor Training | Passed | 0.0 | 9.00 |
 | 2/17/2026 | SAP2992C | Radar/Lidar Instructor Training | Passed | 0.0 | 9.00 |
 | 2/13/2026 | NGP3906C | Tourniquet Training Drills | Instructed | 0.0 | 1.00 |

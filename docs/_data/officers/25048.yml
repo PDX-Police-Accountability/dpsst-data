@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/6/2026
+  course: AVP4586C
+  title: Monthly Leadership Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/11/2026
   course: AVP1012C
   title: Monthly Leadership Meeting
@@ -87,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/3/2026
+  course: SAG2918C
+  title: First Aid  CPR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/13/2025
   course: SAG3264C
   title: Night Shoot
@@ -2758,6 +2770,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/3/2026
+  expiration_date: 2/2/2028
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

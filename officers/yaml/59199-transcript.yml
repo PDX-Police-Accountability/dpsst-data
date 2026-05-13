@@ -74,6 +74,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2026
+  course: EGP1209C
+  title: SWAT Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/30/2026
+  course: EGP0135C
+  title: SWAT Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/30/2026
+  course: EGP0648C
+  title: SWAT Search Skills
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/29/2026
+  course: EGP0648C
+  title: SWAT Search Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/29/2026
+  course: EGP1209C
+  title: SWAT Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/29/2026
+  course: EGP0135C
+  title: SWAT Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/27/2026
   course: EGP3391C
   title: CPR/First Aid/AED/Narcan

@@ -107,6 +107,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2026
+  course: BNS3251C
+  title: "(Police1) Hazmat First Responder Awareness"
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/30/2026
+  course: BNS2490C
+  title: "(Police1) Interacting with the Mentally Ill"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/29/2026
   course: BNS0660C
   title: Range/ArCon Scenarios

@@ -157,8 +157,6 @@
 | * MISSING | 48505 |  |  |  |  |  | [md](../markdown/48505-transcript.md) - [yaml](../yaml/48505-transcript.yml) |
 | * MISSING | 48578 |  |  |  |  |  | [md](../markdown/48578-transcript.md) - [yaml](../yaml/48578-transcript.yml) |
 | * MISSING | 49083 |  |  |  |  |  | [md](../markdown/49083-transcript.md) - [yaml](../yaml/49083-transcript.yml) |
-| * MISSING | 49793 |  |  |  |  |  | [md](../markdown/49793-transcript.md) - [yaml](../yaml/49793-transcript.yml) |
-| * MISSING | 49823 |  |  |  |  |  | [md](../markdown/49823-transcript.md) - [yaml](../yaml/49823-transcript.yml) |
 | * MISSING | 49885 |  |  |  |  |  | [md](../markdown/49885-transcript.md) - [yaml](../yaml/49885-transcript.yml) |
 | * MISSING | 49984 |  |  |  |  |  | [md](../markdown/49984-transcript.md) - [yaml](../yaml/49984-transcript.yml) |
 | * MISSING | 50436 |  |  |  |  |  | [md](../markdown/50436-transcript.md) - [yaml](../yaml/50436-transcript.yml) |
@@ -200,7 +198,6 @@
 | * MISSING | 58332 |  |  |  |  |  | [md](../markdown/58332-transcript.md) - [yaml](../yaml/58332-transcript.yml) |
 | * MISSING | 58410 |  |  |  |  |  | [md](../markdown/58410-transcript.md) - [yaml](../yaml/58410-transcript.yml) |
 | * MISSING | 58767 |  |  |  |  |  | [md](../markdown/58767-transcript.md) - [yaml](../yaml/58767-transcript.yml) |
-| * MISSING | 67318 |  |  |  |  |  | [md](../markdown/67318-transcript.md) - [yaml](../yaml/67318-transcript.yml) |
 | Ferraris, James C. | 11406 | Portland Police Bureau | Inactive | Commander | Retired | 2011-05-06 | [md](../markdown/11406-transcript.md) - [yaml](../yaml/11406-transcript.yml) |
 | Gill, Peter J. | 11688 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-07-23 | [md](../markdown/11688-transcript.md) - [yaml](../yaml/11688-transcript.yml) |
 | Lucich, Rod H. | 12241 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2008-06-30 | [md](../markdown/12241-transcript.md) - [yaml](../yaml/12241-transcript.yml) |
@@ -1098,6 +1095,8 @@
 | Holsti, Israel E. | 49650 | Portland Police Bureau | Active | Police Officer | Hired | 2008-07-17 | [md](../markdown/49650-transcript.md) - [yaml](../yaml/49650-transcript.yml) |
 | Crooker, James W. | 49709 | Portland Police Bureau | Active | Captain | Return LOA | 2025-02-03 | [md](../markdown/49709-transcript.md) - [yaml](../yaml/49709-transcript.yml) |
 | Hansen, Michael J. | 49732 | Portland Police Bureau | Active | Police Officer | Hired | 2008-08-14 | [md](../markdown/49732-transcript.md) - [yaml](../yaml/49732-transcript.yml) |
+| Risley, Lawrence G. | 49793 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2010-07-24 | [md](../markdown/49793-transcript.md) - [yaml](../yaml/49793-transcript.yml) |
+| Harris, Todd W. | 49823 | Portland Police Bureau | Inactive | Police Officer | Layoff | 2022-04-01 | [md](../markdown/49823-transcript.md) - [yaml](../yaml/49823-transcript.yml) |
 | Parker, Neil A., II | 49837 | Portland Police Bureau | Active | Detective | Promotion | 2026-02-12 | [md](../markdown/49837-transcript.md) - [yaml](../yaml/49837-transcript.yml) |
 | Ockunzzi, Joel M. | 49841 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/49841-transcript.md) - [yaml](../yaml/49841-transcript.yml) |
 | Lawhorn, Jessica B. | 49847 | Portland Police Bureau | Active | Police Officer | Hired | 2008-08-14 | [md](../markdown/49847-transcript.md) - [yaml](../yaml/49847-transcript.yml) |
@@ -1844,6 +1843,7 @@
 | Djuderija, Mirza | 67183 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67183-transcript.md) - [yaml](../yaml/67183-transcript.yml) |
 | Burn, Gavin D. | 67194 | Portland Police Bureau | Active | Police Officer | Hired | 2026-01-29 | [md](../markdown/67194-transcript.md) - [yaml](../yaml/67194-transcript.yml) |
 | Cram, Zachary A. | 67317 | Portland Police Bureau | Active | Police Officer | Hired | 2026-03-26 | [md](../markdown/67317-transcript.md) - [yaml](../yaml/67317-transcript.yml) |
+| Neri Wong, Antonio | 67318 | Portland Police Bureau | Active | Police Officer | Hired | 2026-03-26 | [md](../markdown/67318-transcript.md) - [yaml](../yaml/67318-transcript.yml) |
 | Swails, Jon E. | 67319 | Portland Police Bureau | Active | Police Officer | Hired | 2026-03-26 | [md](../markdown/67319-transcript.md) - [yaml](../yaml/67319-transcript.yml) |
 | LaFrance, Trotman E. | 67338 | Portland Police Bureau | Active | Police Officer | Hired | 2026-03-26 | [md](../markdown/67338-transcript.md) - [yaml](../yaml/67338-transcript.yml) |
 | Swackhamer, Colby H. | 67341 | Portland Police Bureau | Active | Police Officer | Hired | 2026-03-26 | [md](../markdown/67341-transcript.md) - [yaml](../yaml/67341-transcript.yml) |

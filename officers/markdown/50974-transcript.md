@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2026 | OCP3173C | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 5/3/2026 | OCP0280C | EVOC | Passed | 0.0 | 7.00 |
 | 5/3/2026 | OCP2691C | EVOC | Passed | 0.0 | 7.00 |
 | 5/3/2026 | OCP0808C | PIT Re-certification | Passed | 0.0 | 0.50 |

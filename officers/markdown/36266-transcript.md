@@ -25,6 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/3/2026 | 2/2/2028 |
 | Certification Cards | First Aid and CPR | 6/25/2025 | 6/25/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
@@ -41,6 +42,7 @@
 | 3/11/2026 | SAG2789C | Firearms Training | Passed | 0.0 | 2.00 |
 | 3/11/2026 | SAG2115C | Firearms Training | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
+| 2/3/2026 | SAG2918C | First Aid  CPR | Passed | 0.0 | 4.00 |
 | 1/14/2026 | SAG2745C | Firerms Training | Passed | 0.0 | 2.00 |
 | 12/11/2025 | SAG0233C | Firearms training | Passed | 0.0 | 3.00 |
 | 7/9/2025 | SAG2878B | Firearms training | Passed | 0.0 | 1.00 |

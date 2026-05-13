@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/4/2026
+  course: VND0305C
+  title: Firearms and Vehicle Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/5/2026
   course: PDP4304C
   title: 2026 Red Dot Sight for Pistol Transition Course

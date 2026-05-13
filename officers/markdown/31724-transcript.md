@@ -44,6 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2026 | BNS3251C | (Police1) Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
+| 4/30/2026 | BNS2490C | (Police1) Interacting with the Mentally Ill | Passed | 0.0 | 1.00 |
 | 4/29/2026 | BNS0660C | Range/ArCon Scenarios | Passed | 0.0 | 4.00 |
 | 3/31/2026 | BNS0940C | (P1) Ambush Awareness and Preparation | Passed | 0.0 | 1.00 |
 | 3/31/2026 | BNS0184C | (P1) Advanced Policing: Emotional Intelligence | Passed | 0.0 | 1.00 |

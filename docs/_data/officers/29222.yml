@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2026
+  course: GSP2251C
+  title: Inv of Android Devices  the Google Ecosystem
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/21/2026
+  course: GSP4209C
+  title: Beyond Google-Online Resources in Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/15/2026
   course: GSP3646C
   title: Overcoming AI  Deepfake Defense in ICAC Cases

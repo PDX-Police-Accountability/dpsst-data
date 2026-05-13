@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2026 | GSP2251C | Inv of Android Devices  the Google Ecosystem | Passed | 0.0 | 6.00 |
+| 4/21/2026 | GSP4209C | Beyond Google-Online Resources in Investigations | Passed | 0.0 | 16.00 |
 | 4/15/2026 | GSP3646C | Overcoming AI  Deepfake Defense in ICAC Cases | Passed | 0.0 | 1.00 |
 | 4/8/2026 | GSP2130C | Investigative Consideration w/ iPhone  iOS | Passed | 0.0 | 6.00 |
 | 3/12/2026 | GSP3149C | Effective Report Writing | Passed | 0.0 | 1.50 |

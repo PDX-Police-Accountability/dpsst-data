@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/3/2026 | 2/2/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 7/15/2025 | 7/15/2027 |
@@ -44,6 +45,7 @@
 | 3/4/2026 | SAG2690C | 3si Tracker | Passed | 0.0 | 8.00 |
 | 3/4/2026 | SAG4019C | 3si Tracker | Passed | 0.0 | 8.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
+| 2/3/2026 | SAG2918C | First Aid  CPR | Passed | 0.0 | 4.00 |
 | 1/14/2026 | SAG2745C | Firerms Training | Passed | 0.0 | 2.00 |
 | 12/11/2025 | SAG0233C | Firearms training | Passed | 0.0 | 3.00 |
 | 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |

@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/3/2026
+  course: SAG2918C
+  title: First Aid  CPR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/14/2026
   course: SAG2745C
   title: Firerms Training
@@ -3777,6 +3783,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/3/2026
+  expiration_date: 2/2/2028
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/25/2025
