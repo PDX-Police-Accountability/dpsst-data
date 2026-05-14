@@ -59,7 +59,6 @@
 | 3/12/2026 | EGP1953C | Firearms Training | Passed | 0.0 | 2.50 |
 | 3/11/2026 | VND0792C | 28CFR-Part23;RISSIntel-RISSafe;Deconfliction | Passed | 0.0 | 2.00 |
 | 3/4/2026 | SAG2690C | 3si Tracker | Passed | 0.0 | 8.00 |
-| 3/4/2026 | SAG4019C | 3si Tracker | Passed | 0.0 | 8.00 |
 | 3/2/2026 | EGP0156C | SWAT Breaching- Explosive Door Charges-Viewports | Passed | 0.0 | 8.00 |
 | 2/28/2026 | EGP2656C | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 2/26/2026 | EGP4386C | SWAT Firearms Skills | Passed | 0.0 | 4.00 |

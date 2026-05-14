@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | PDP2862C | Body Worn Camera | Passed | 0.0 | 2.50 |
+| 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Passed | 0.0 | 2.00 |
 | 5/4/2026 | PDP1906C | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 4/29/2026 | PDP1017C | FTEP Geography | Passed | 0.0 | 2.00 |
 | 4/22/2026 | PDP1235C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |

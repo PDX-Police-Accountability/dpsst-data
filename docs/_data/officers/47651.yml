@@ -63,6 +63,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '20.00'
+- date: 3/6/2026
+  course: PDP4139C
+  title: 2026 Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/26/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

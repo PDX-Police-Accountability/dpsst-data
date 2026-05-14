@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2026 | OCP1777C | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/3/2026 | OCP0280C | EVOC | Instructed | 0.0 | 7.00 |
 | 5/3/2026 | OCP2691C | EVOC | Instructed | 0.0 | 7.00 |
 | 5/3/2026 | OCP0808C | PIT Re-certification | Passed | 0.0 | 0.50 |

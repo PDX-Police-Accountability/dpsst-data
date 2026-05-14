@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | PDP2862C | Body Worn Camera | Instructed | 0.0 | 2.50 |
 | 4/29/2026 | PDP1017C | FTEP Geography | Instructed | 0.0 | 2.00 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Instructed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Instructed | 0.0 | 2.00 |

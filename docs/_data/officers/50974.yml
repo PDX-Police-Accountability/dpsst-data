@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/11/2026
+  course: OCP1777C
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/6/2026
   course: OCP3173C
   title: SFST Refresher

@@ -44,6 +44,7 @@
 | 3/11/2026 | HBP0215C | ODT - Working from Cleared Areas, Foot Chases | Passed | 0.0 | 1.00 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 1/18/2026 | HBP1860C | EVOC - PIT | Instructed | 0.0 | 20.00 |
+| 1/13/2026 | REG2144C | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/23/2025 | HBP4397C | PoliceOne Anti-Bias Training for LE | Passed | 0.0 | 2.00 |
 | 11/5/2025 | HBP3912C | ODT - Working from Cleared Areas | Passed | 0.0 | 1.00 |
