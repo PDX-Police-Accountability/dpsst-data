@@ -46,40 +46,40 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/28/2025
+- status_date: 5/9/2026
   certificate: Police Officer
   level: Advanced
-  status: Reactivatd
+  status: Lapsed
   certificate_date: 10/28/1999
-  expiration_date: 5/9/2026
+  expiration_date: 2/9/2031
   probation_date: ''
-- status_date: 1/28/2025
+- status_date: 5/9/2026
   certificate: Police Officer
   level: Basic
-  status: Reactivatd
+  status: Lapsed
   certificate_date: 5/21/1991
-  expiration_date: 5/9/2026
+  expiration_date: 2/9/2031
   probation_date: ''
-- status_date: 1/28/2025
+- status_date: 5/9/2026
   certificate: Police Officer
   level: Intermediate
-  status: Reactivatd
+  status: Lapsed
   certificate_date: 10/28/1999
-  expiration_date: 5/9/2026
+  expiration_date: 2/9/2031
   probation_date: ''
-- status_date: 1/28/2025
+- status_date: 5/9/2026
   certificate: Police Officer
   level: Management
-  status: Reactivatd
+  status: Lapsed
   certificate_date: 1/26/2016
-  expiration_date: 5/9/2026
+  expiration_date: 2/9/2031
   probation_date: ''
-- status_date: 1/28/2025
+- status_date: 5/9/2026
   certificate: Police Officer
   level: Supervisory
-  status: Reactivatd
+  status: Lapsed
   certificate_date: 9/6/2011
-  expiration_date: 5/9/2026
+  expiration_date: 2/9/2031
   probation_date: ''
 training_records:
 - date: 12/10/2025
@@ -3383,18 +3383,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/21/2025
   expiration_date: 3/21/2027
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2027
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/2/2011

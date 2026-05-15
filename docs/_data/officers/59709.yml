@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/12/2026
+  course: BNP2170C
+  title: UAS Monthly- New Products/ Vehicle Follows
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/7/2026
   course: BNP1567C
   title: E-Motorcycles

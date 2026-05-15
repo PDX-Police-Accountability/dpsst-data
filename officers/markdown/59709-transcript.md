@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2026 | BNP2170C | UAS Monthly- New Products/ Vehicle Follows | Passed | 0.0 | 8.00 |
 | 5/7/2026 | BNP1567C | E-Motorcycles | Passed | 0.0 | 1.00 |
 | 4/16/2026 | BNP2098C | UAS Monthly- Indoor/Outdoor/Operation Roles | Passed | 0.0 | 8.00 |
 | 4/13/2026 | BNP3702C | Internal Affairs Process Overview | Passed | 0.0 | 1.25 |

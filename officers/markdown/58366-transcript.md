@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 5/12/2026 | OSH3345C | Interrupting the Pathways to Violence | Passed | 0.0 | 1.00 |
 | 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 3/17/2026 | OSH4403C | Manager Comp. Trng. - PAF/TOMP Check-Ins | Passed | 0.0 | 2.00 |
 | 3/11/2026 | OSH3626C | Oregon Women in Law Enforcement Conference | Passed | 0.0 | 20.00 |
