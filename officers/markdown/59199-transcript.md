@@ -43,14 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/30/2026 | EGP1209C | SWAT Firearms Qualifications | Passed | 0.0 | 8.00 |
-| 4/30/2026 | EGP0135C | SWAT Firearms Qualifications | Passed | 0.0 | 4.00 |
-| 4/30/2026 | EGP0648C | SWAT Search Skills | Instructed | 0.0 | 4.00 |
 | 4/30/2026 | EGP0484C | SWAT Search Skills | Instructed | 0.0 | 4.00 |
 | 4/30/2026 | EGP0809C | SWAT Firearms Qualifications | Passed | 0.0 | 4.00 |
-| 4/29/2026 | EGP0648C | SWAT Search Skills | Passed | 0.0 | 4.00 |
-| 4/29/2026 | EGP1209C | SWAT Firearms Qualifications | Passed | 0.0 | 8.00 |
-| 4/29/2026 | EGP0135C | SWAT Firearms Qualifications | Passed | 0.0 | 4.00 |
 | 4/29/2026 | EGP3935C | 40MM/Pepperball/FSDD/CS Gas/FSDD Certifications | Passed | 0.0 | 8.00 |
 | 4/27/2026 | EGP3391C | CPR/First Aid/AED/Narcan | Instructed | 0.0 | 4.00 |
 | 4/24/2026 | EGP3698C | AVI Protocols Scenario | Passed | 0.0 | 3.00 |

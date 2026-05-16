@@ -173,6 +173,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/1/2026
+  course: BNS3760C
+  title: Deflection Update - Briefing Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/31/2026
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

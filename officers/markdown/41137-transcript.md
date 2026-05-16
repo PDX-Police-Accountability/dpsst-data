@@ -4,7 +4,7 @@
 | name | Scott, Nathan G. |
 | dpsst_identifier | 41137 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/4/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 8/16/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/12/2011 | Police Officer | Advanced | Granted | 1/12/2011 |  |  |
-| 1/12/2011 | Police Officer | Intermediate | Granted | 1/12/2011 |  |  |
-| 9/13/2002 | Police Officer | Basic | Granted | 9/13/2002 |  |  |
+| 1/12/2011 | Police Officer | Advanced | Granted | 1/12/2011 | 8/4/2026 |  |
+| 1/12/2011 | Police Officer | Intermediate | Granted | 1/12/2011 | 8/4/2026 |  |
+| 9/13/2002 | Police Officer | Basic | Granted | 9/13/2002 | 8/4/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

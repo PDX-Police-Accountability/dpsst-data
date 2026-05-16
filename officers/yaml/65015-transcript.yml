@@ -3,12 +3,18 @@ header_record:
   name: Pierce-Smith, Skylar K.
   dpsst_identifier: '65015'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/4/2026
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/28/2025
   agency: Portland Police Bureau
   action: LOA
@@ -21,14 +27,7 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 2/15/2024
-  certificate: Police Officer
-  level: Basic
-  status: ReqCertExt
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 8/15/2026
+certification_records: []
 training_records:
 - date: 2/18/2026
   course: PDP0615C

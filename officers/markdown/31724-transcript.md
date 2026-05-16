@@ -55,6 +55,7 @@
 | 2/28/2026 | BNS0994C | Hearing Conservation | Passed | 0.0 | 0.25 |
 | 2/28/2026 | BNS3254C | (Police1) CIT - Crisis Response | Passed | 0.0 | 1.00 |
 | 2/28/2026 | BNS0207C | Ladder Safety | Passed | 0.0 | 0.25 |
+| 2/1/2026 | BNS3760C | Deflection Update - Briefing Training | Passed | 0.0 | 0.25 |
 | 1/31/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 1/31/2026 | BNS2179C | (Police1) Suicide Pevention for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2026 | BNS0469C | Arrest and Control | Passed | 0.0 | 2.00 |
