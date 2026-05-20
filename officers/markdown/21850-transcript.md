@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2026 | RRP1631C | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.50 |
 | 1/14/2026 | RRP1439C | OACP ELTS Board Meeting | Passed | 0.0 | 2.00 |
 | 11/13/2025 | LOP2994C | AHA Basic Life Support (CPR/AED) | Passed | 0.0 | 2.00 |
 | 10/25/2025 | LOP4497B | DOT Hazmat | Passed | 0.0 | 0.75 |

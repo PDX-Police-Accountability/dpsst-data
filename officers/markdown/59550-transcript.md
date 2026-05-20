@@ -49,7 +49,6 @@
 | 4/6/2026 | BNP3760C | SWAT- Building clearing | Passed | 0.0 | 2.00 |
 | 3/19/2026 | BNP1699C | SWAT-Rifle and Pistol Skill Builder | Passed | 0.0 | 8.00 |
 | 3/10/2026 | BNP3078C | SWAT- Overland HRT Scenario | Passed | 0.0 | 8.00 |
-| 2/19/2026 | BNP4319C | SWAT-Active Threat / Rescue Task Force Scenerios | Passed | 0.0 | 8.00 |
 | 2/19/2026 | BNP3794C | SWAT-Active Threat / Rescue Task Force Scenerios | Passed | 0.0 | 8.00 |
 | 2/5/2026 | BNP2413C | SWAT- Building Clearing | Passed | 0.0 | 8.00 |
 | 1/22/2026 | BNP0657C | SWAT- Less lethal /chemical munitions tests | Passed | 0.0 | 1.00 |

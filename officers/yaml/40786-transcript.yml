@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 4/18/2026
+  course: VND2091C
+  title: 28 CFR 23
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/18/2016
   course: F6C07039
   title: Investigating Officer Involved Shootings

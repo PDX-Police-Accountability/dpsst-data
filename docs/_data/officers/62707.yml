@@ -55,6 +55,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2026
+  course: PSU3450C
+  title: Active Shooter - Schools (ACTS108)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/29/2026
+  course: PSU4318C
+  title: Active Shooter (ACTS0100)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2026
+  course: PSU2830C
+  title: Active Shooter - LE Response (ACTS1009)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/25/2026
   course: OSH3109C
   title: SFST Refresher Course

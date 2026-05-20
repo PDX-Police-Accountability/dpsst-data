@@ -26,6 +26,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2026 | VND2091C | 28 CFR 23 | Passed | 0.0 | 0.00 |
 | 11/18/2016 | F6C07039 | Investigating Officer Involved Shootings | Passed | 0.0 | 40.00 |
 | 11/10/2009 | 09-0952 | CPR / First Aid | Passed | 0.0 | 4.00 |
 | 9/2/2009 | 09-0663 | Gang Training - Other | Passed | 0.0 | 3.00 |

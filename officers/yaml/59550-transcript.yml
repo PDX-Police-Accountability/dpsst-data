@@ -116,12 +116,6 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 2/19/2026
-  course: BNP4319C
-  title: SWAT-Active Threat / Rescue Task Force Scenerios
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 2/19/2026
   course: BNP3794C
   title: SWAT-Active Threat / Rescue Task Force Scenerios
   status: Passed

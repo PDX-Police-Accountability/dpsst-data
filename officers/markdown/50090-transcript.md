@@ -36,7 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | PDP4399C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/30/2026 | PDP2652C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 8.00 |
+| 4/30/2026 | PDP3601C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/15/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 4/15/2026 | HBP3076C | 2026 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/9/2026 | PDP2757C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |

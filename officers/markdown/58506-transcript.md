@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 4/30/2026 | PDP3601C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/23/2026 | PDP3607C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/22/2026 | PDP1332C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 5.00 |
 | 4/16/2026 | PDP2990C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

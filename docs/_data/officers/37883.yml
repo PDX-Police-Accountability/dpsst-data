@@ -38,8 +38,20 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2026
+  course: PDP2591C
+  title: 2026 Crisis Negotiation Team (CNT) Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/8/2026
   course: PDP2120C
+  title: 2026 Rapid Response team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/8/2026
+  course: PDP4516C
   title: 2026 Rapid Response team (RRT) Monthly Training
   status: Passed
   score: '0.0'

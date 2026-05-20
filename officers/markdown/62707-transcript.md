@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2026 | PSU3450C | Active Shooter - Schools (ACTS108) | Passed | 0.0 | 1.00 |
+| 4/29/2026 | PSU4318C | Active Shooter (ACTS0100) | Passed | 0.0 | 1.00 |
+| 4/11/2026 | PSU2830C | Active Shooter - LE Response (ACTS1009) | Passed | 0.0 | 2.00 |
 | 3/25/2026 | OSH3109C | SFST Refresher Course | Passed | 0.0 | 8.00 |
 | 2/24/2026 | PSU4321C | HSI Adult First Aid CPR AED All ages | Passed | 0.0 | 4.00 |
 | 1/21/2026 | PSU0238C | Defensive Tactics | Passed | 0.0 | 2.00 |

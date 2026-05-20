@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/13/2026 | PDP2591C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 3/25/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/24/2026 | PDP3913C | 2026 Investigators IS Exemption Review Legal | Passed | 0.0 | 1.00 |
 | 3/24/2026 | PDP0724C | 2026 Investigators IS - Mass Casualty Incidents | Passed | 0.0 | 1.75 |

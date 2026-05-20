@@ -48,6 +48,7 @@
 | 4/18/2026 | HSU0548C | Spring In-Service 2026 De Escalation Practical | Passed | 0.0 | 4.00 |
 | 4/18/2026 | HSU2800C | Spring In-Service 2026 Ethics | Passed | 0.0 | 2.00 |
 | 4/18/2026 | HSU4415C | Spring In-Service 2026 Taser 10 Update | Passed | 0.0 | 2.00 |
+| 4/13/2026 | VND2091C | 28 CFR 23 | Passed | 0.0 | 2.00 |
 | 3/12/2026 | HSU4256C | Critical Incident Response | Instructed | 0.0 | 4.00 |
 | 3/8/2026 | HSU2651C | Pistol Mounted Optics | Instructed | 0.0 | 30.00 |
 | 3/4/2026 | HSU2134C | Active Threat Tactics | Instructed | 0.0 | 10.00 |

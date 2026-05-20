@@ -53,6 +53,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2026 | RRP1631C | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.50 |
 | 11/6/2025 | OAC0563C | Law Enforcement  Schools | Passed | 0.0 | 1.75 |
 | 11/6/2025 | OAC2601C | Risk Mitigation Strategies for Small Agencies | Passed | 0.0 | 1.00 |
 | 11/5/2025 | OAC0557C | Performance Discussions | Passed | 0.0 | 1.50 |

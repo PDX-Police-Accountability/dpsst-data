@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2026
+  course: OSH4576C
+  title: Drug Evaluation  Classification School
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/22/2026
+  course: OSH0496C
+  title: Drug Evaluation  Classification Pre-School
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/17/2026
   course: PDP2148C
   title: 2026 Annual Honor Guard In-Service

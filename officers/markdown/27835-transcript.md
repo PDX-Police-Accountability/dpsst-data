@@ -40,6 +40,7 @@
 | 4/13/2026 | HSU0568C | Spring In-Service 2026 CPR/ First Aid | Passed | 0.0 | 4.00 |
 | 4/13/2026 | HSU4415C | Spring In-Service 2026 Taser 10 Update | Passed | 0.0 | 2.00 |
 | 4/13/2026 | HSU2800C | Spring In-Service 2026 Ethics | Passed | 0.0 | 2.00 |
+| 4/13/2026 | VND2091C | 28 CFR 23 | Passed | 0.0 | 2.00 |
 | 4/12/2026 | HSU3356C | Spring In-Service 2026 Defensive Tactics | Passed | 0.0 | 2.00 |
 | 4/12/2026 | HSU2124C | Spring In-Service 2026 EVOC | Passed | 0.0 | 2.00 |
 | 4/12/2026 | HSU3489C | Spring In-Service 2026 Firearms | Passed | 0.0 | 4.00 |

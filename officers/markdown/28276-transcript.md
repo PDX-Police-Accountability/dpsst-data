@@ -50,6 +50,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2026 | RRP1631C | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.50 |
 | 4/22/2026 | SVP0243C | Firearms Inservice Training | Passed | 0.0 | 4.00 |
 | 4/8/2026 | SVP2916C | LEFTA  Fleet 3 Intro | Passed | 0.0 | 4.00 |
 | 3/31/2026 | SVP2081C | Documenting Police Use of Force  Lethal Restraint | Passed | 0.0 | 1.00 |

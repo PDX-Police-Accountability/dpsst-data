@@ -31,6 +31,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2026
+  course: OSH4576C
+  title: Drug Evaluation  Classification School
+  status: Passed
+  score: '0.0'
+  hours: '56.00'
+- date: 4/22/2026
+  course: OSH0496C
+  title: Drug Evaluation  Classification Pre-School
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/3/2026
   course: OSH3543C
   title: 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2)

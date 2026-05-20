@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2026 | OSH4576C | Drug Evaluation  Classification School | Instructed | 0.0 | 16.00 |
+| 4/22/2026 | OSH0496C | Drug Evaluation  Classification Pre-School | Instructed | 0.0 | 16.00 |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
 | 4/10/2026 | PDP2634C | 2026 Dialogue Liaison Officer (DLO) Training | Passed | 0.0 | 9.00 |
 | 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |

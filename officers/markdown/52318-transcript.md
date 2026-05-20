@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/14/2026 | VND0707C | ICS 400 Advanced ICS for Complex Incidents | Passed | 0.0 | 15.00 |
 | 4/24/2026 | OCS0633C | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 3/9/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

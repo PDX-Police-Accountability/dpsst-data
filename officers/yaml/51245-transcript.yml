@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/18/2026
+  course: VND2091C
+  title: 28 CFR 23
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/17/2026
   course: HSU3489C
   title: Spring In-Service 2026 Firearms

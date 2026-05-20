@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2026 | RRP1631C | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.50 |
 | 4/29/2026 | OCA2047C | MCT - Investigative Strategies / Insanity Defense | Passed | 0.0 | 1.25 |
 | 3/17/2026 | WLP2992C | WLPD 2026 TASER Recertification | Passed | 0.0 | 2.00 |
 | 3/13/2026 | WLP4062C | CA Sexual Assault Investigators Assoc Conference | Passed | 0.0 | 25.00 |

@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/8/2026 | 3/3/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/15/2024 | 4/1/2026 |
@@ -35,11 +36,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/6/2026 | TRN3625C | DOC - Introduction to Neurodivergence v2026 | Passed | 0.0 | 1.00 |
+| 4/6/2026 | TRN4611C | DOC - Suicide Detection and Prevention v2026 | Passed | 0.0 | 2.00 |
+| 4/6/2026 | TRN0921C | DOC - Use of Force Rule Review v2026 | Passed | 0.0 | 2.00 |
+| 4/1/2026 | TRN3545C | Accessibility for AICs with Disabilities v2026 | Passed | 0.0 | 1.00 |
+| 4/1/2026 | TRN0297C | DOC - AT - ODOC Professionalism v2026 | Passed | 0.0 | 2.50 |
+| 4/1/2026 | TRN2975C | DOC - Conducting Cross-Gender Searches v2026 | Passed | 0.0 | 1.00 |
 | 3/28/2026 | TRN3813C | DOC - Basic Public Records Training v2026 | Passed | 0.0 | 1.50 |
 | 3/18/2026 | TRN2911C | DOC - Protection from Ambient Heat  v2026 | Passed | 0.0 | 0.50 |
 | 3/18/2026 | TRN4142C | Incident Command System for Corrections v2026 | Passed | 0.0 | 1.00 |
 | 3/14/2026 | TRN1550C | 2026 Immigration Law Refresher for State Employees | Passed | 0.0 | 1.00 |
 | 3/14/2026 | TRN3026C | 2026 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 3/8/2026 | TRN2399C | First Aid Adult Child Infant CPR AED v2026 | Passed | 0.0 | 6.00 |
 | 1/19/2026 | TRN3727C | 2026 Information Security Training Foundations 2 | Passed | 0.0 | 1.00 |
 | 1/19/2026 | TRN0176C | DOC - Bloodborne Pathogens v2026 | Passed | 0.0 | 1.00 |
 | 1/19/2026 | TRN0610C | DOC - Fire Alarm Panel Monitoring v2026 Volume 1 | Passed | 0.0 | 1.00 |

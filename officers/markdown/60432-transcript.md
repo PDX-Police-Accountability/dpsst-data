@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2026 | OSH4576C | Drug Evaluation  Classification School | Passed | 0.0 | 56.00 |
+| 4/22/2026 | OSH0496C | Drug Evaluation  Classification Pre-School | Passed | 0.0 | 16.00 |
 | 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |
 | 4/2/2026 | OSH4469C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 1) | Passed | 0.0 | 8.00 |
 | 3/5/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

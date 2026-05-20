@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2026 | PDP3601C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/23/2026 | PDP3607C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/21/2026 | PDP0157C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/16/2026 | PDP0445C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
