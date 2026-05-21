@@ -4,7 +4,7 @@
 | name | Sorenson, Monica D. |
 | dpsst_identifier | 45180 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/11/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 8/27/2015 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 5/21/2015 | Portland Police Bureau | LOA | Police Off |  |  |
 | 6/19/2014 | Portland Police Bureau | Return LOA | Police Off |  |  |
@@ -24,9 +25,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/18/2010 | Police Officer | Advanced | Granted | 10/18/2010 |  |  |
-| 10/18/2010 | Police Officer | Intermediate | Granted | 10/18/2010 |  |  |
-| 11/25/2005 | Police Officer | Basic | Granted | 11/25/2005 |  |  |
+| 10/18/2010 | Police Officer | Advanced | Granted | 10/18/2010 | 8/11/2026 |  |
+| 10/18/2010 | Police Officer | Intermediate | Granted | 10/18/2010 | 8/11/2026 |  |
+| 11/25/2005 | Police Officer | Basic | Granted | 11/25/2005 | 8/11/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

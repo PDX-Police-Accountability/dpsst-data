@@ -3,12 +3,18 @@ header_record:
   name: Sessions, Timothy E.
   dpsst_identifier: '21772'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/6/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 12/2/2025
   agency: Portland Police Bureau
   action: LOA
@@ -69,28 +75,28 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 8/31/2006
-  expiration_date: ''
+  expiration_date: 8/6/2026
   probation_date: ''
 - status_date: 8/31/2006
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 8/31/2006
-  expiration_date: ''
+  expiration_date: 8/6/2026
   probation_date: ''
 - status_date: 8/31/2006
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 8/31/2006
-  expiration_date: ''
+  expiration_date: 8/6/2026
   probation_date: ''
 - status_date: 6/2/1989
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/2/1989
-  expiration_date: ''
+  expiration_date: 8/6/2026
   probation_date: ''
 training_records:
 - date: 11/19/2025

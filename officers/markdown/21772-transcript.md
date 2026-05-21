@@ -4,7 +4,7 @@
 | name | Sessions, Timothy E. |
 | dpsst_identifier | 21772 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/6/2026 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 12/2/2025 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 6/10/2025 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 12/3/2024 | Portland Police Bureau | LOA | Sergeant |  |  |
@@ -24,10 +25,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/31/2006 | Police Officer | Advanced | Granted | 8/31/2006 |  |  |
-| 8/31/2006 | Police Officer | Intermediate | Granted | 8/31/2006 |  |  |
-| 8/31/2006 | Police Officer | Supervisory | Granted | 8/31/2006 |  |  |
-| 6/2/1989 | Police Officer | Basic | Granted | 6/2/1989 |  |  |
+| 8/31/2006 | Police Officer | Advanced | Granted | 8/31/2006 | 8/6/2026 |  |
+| 8/31/2006 | Police Officer | Intermediate | Granted | 8/31/2006 | 8/6/2026 |  |
+| 8/31/2006 | Police Officer | Supervisory | Granted | 8/31/2006 | 8/6/2026 |  |
+| 6/2/1989 | Police Officer | Basic | Granted | 6/2/1989 | 8/6/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
