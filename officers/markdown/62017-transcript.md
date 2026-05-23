@@ -28,6 +28,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/14/2020 | Masters Science | Portland State University | Criminal Justice | 54.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

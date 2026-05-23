@@ -152,7 +152,6 @@
 | * MISSING | 47553 |  |  |  |  |  | [md](../markdown/47553-transcript.md) - [yaml](../yaml/47553-transcript.yml) |
 | * MISSING | 47557 |  |  |  |  |  | [md](../markdown/47557-transcript.md) - [yaml](../yaml/47557-transcript.yml) |
 | * MISSING | 47863 |  |  |  |  |  | [md](../markdown/47863-transcript.md) - [yaml](../yaml/47863-transcript.yml) |
-| * MISSING | 47891 |  |  |  |  |  | [md](../markdown/47891-transcript.md) - [yaml](../yaml/47891-transcript.yml) |
 | * MISSING | 48107 |  |  |  |  |  | [md](../markdown/48107-transcript.md) - [yaml](../yaml/48107-transcript.yml) |
 | * MISSING | 48404 |  |  |  |  |  | [md](../markdown/48404-transcript.md) - [yaml](../yaml/48404-transcript.yml) |
 | * MISSING | 48505 |  |  |  |  |  | [md](../markdown/48505-transcript.md) - [yaml](../yaml/48505-transcript.yml) |
@@ -1054,6 +1053,7 @@
 | Doran, Gary R. | 47826 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-02 | [md](../markdown/47826-transcript.md) - [yaml](../yaml/47826-transcript.yml) |
 | Schroeder, Matthew J. | 47848 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-08-04 | [md](../markdown/47848-transcript.md) - [yaml](../yaml/47848-transcript.yml) |
 | Fox, Kenneth S. | 47852 | Portland Police Bureau | Active | Criminalist | Promotion | 2023-05-11 | [md](../markdown/47852-transcript.md) - [yaml](../yaml/47852-transcript.yml) |
+| Roberts, Michael D. | 47891 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-13 | [md](../markdown/47891-transcript.md) - [yaml](../yaml/47891-transcript.yml) |
 | Dunbar, Robin L. | 47968 | Portland Police Bureau | Active | Lieutenant | Promotion | 2024-06-06 | [md](../markdown/47968-transcript.md) - [yaml](../yaml/47968-transcript.yml) |
 | Vanblokland, Elaine O. | 48006 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-02-20 | [md](../markdown/48006-transcript.md) - [yaml](../yaml/48006-transcript.yml) |
 | Ungard, Maria | 48012 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-02-20 | [md](../markdown/48012-transcript.md) - [yaml](../yaml/48012-transcript.yml) |

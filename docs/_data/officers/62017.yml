@@ -2319,4 +2319,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 10/25/2021
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/14/2020
+  degree: Masters Science
+  school: Portland State University
+  major: Criminal Justice
+  hours: '54.0'
