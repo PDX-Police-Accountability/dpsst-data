@@ -4,7 +4,7 @@
 | name | Feist, Andrew D. |
 | dpsst_identifier | 38844 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/12/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/3/2000 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/17/2009 | Police Officer | Advanced | Granted | 2/17/2009 |  |  |
-| 2/17/2009 | Police Officer | Intermediate | Granted | 2/17/2009 |  |  |
-| 5/22/2001 | Police Officer | Basic | Granted | 5/22/2001 |  |  |
+| 2/17/2009 | Police Officer | Advanced | Granted | 2/17/2009 | 8/12/2026 |  |
+| 2/17/2009 | Police Officer | Intermediate | Granted | 2/17/2009 | 8/12/2026 |  |
+| 5/22/2001 | Police Officer | Basic | Granted | 5/22/2001 | 8/12/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -4,7 +4,7 @@
 | name | Harris, James A. |
 | dpsst_identifier | 27566 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/14/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 3/20/2008 | Portland Police Bureau | Promotion | Detective |  |  |
 | 3/15/2001 | Marion County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 3/15/2001 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -23,9 +24,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/3/2000 | Police Officer | Advanced | Granted | 8/3/2000 |  |  |
-| 8/21/1996 | Police Officer | Intermediate | Granted | 8/21/1996 |  |  |
-| 9/7/1995 | Police Officer | Basic | Granted | 9/7/1995 |  |  |
+| 8/3/2000 | Police Officer | Advanced | Granted | 8/3/2000 | 8/14/2026 |  |
+| 8/21/1996 | Police Officer | Intermediate | Granted | 8/21/1996 | 8/14/2026 |  |
+| 9/7/1995 | Police Officer | Basic | Granted | 9/7/1995 | 8/14/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -4,7 +4,7 @@
 | name | Christensen, Brent W. |
 | dpsst_identifier | 39643 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/7/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 9/21/2006 | Portland Police Bureau | Promotion | Detective |  |  |
 | 11/30/2000 | Portland Police Bureau | Hired | Police Off |  |  |
+| 11/17/2000 | Police Corps Academy-Participant | Resigned | Cadet |  |  |
+| 6/13/2000 | Police Corps Academy-Participant | Hired | Cadet |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/13/2009 | Police Officer | Advanced | Granted | 10/13/2009 |  |  |
-| 10/13/2009 | Police Officer | Intermediate | Granted | 10/13/2009 |  |  |
-| 7/25/2001 | Police Officer | Basic | Granted | 7/25/2001 |  |  |
+| 10/13/2009 | Police Officer | Advanced | Granted | 10/13/2009 | 8/7/2026 |  |
+| 10/13/2009 | Police Officer | Intermediate | Granted | 10/13/2009 | 8/7/2026 |  |
+| 7/25/2001 | Police Officer | Basic | Granted | 7/25/2001 | 8/7/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

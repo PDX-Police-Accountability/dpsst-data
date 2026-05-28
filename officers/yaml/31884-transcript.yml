@@ -3,12 +3,18 @@ header_record:
   name: Miller, Matthew C.
   dpsst_identifier: '31884'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/18/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/18/2002
   agency: Portland Police Bureau
   action: Hired
@@ -51,21 +57,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 3/29/2011
-  expiration_date: ''
+  expiration_date: 8/18/2026
   probation_date: ''
 - status_date: 3/29/2011
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 3/29/2011
-  expiration_date: ''
+  expiration_date: 8/18/2026
   probation_date: ''
 - status_date: 4/1/1997
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 4/1/1997
-  expiration_date: ''
+  expiration_date: 8/18/2026
   probation_date: ''
 training_records:
 - date: 3/18/2026

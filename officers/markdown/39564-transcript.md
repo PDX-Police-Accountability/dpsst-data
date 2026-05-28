@@ -4,7 +4,7 @@
 | name | Abrahamson, David A. |
 | dpsst_identifier | 39564 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Captain |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/12/2026 | Portland Police Bureau | Retired | Captain |  |  |
 | 10/2/2025 | Portland Police Bureau | LOA | Captain |  |  |
 | 8/27/2020 | Portland Police Bureau | Promotion | Captain |  |  |
 | 7/6/2017 | Portland Police Bureau | Promotion | Lieutenant |  |  |
@@ -23,12 +24,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/31/2022 | Police Officer | Executive | Granted | 8/31/2022 |  |  |
-| 7/6/2022 | Police Officer | Management | Granted | 7/6/2022 |  |  |
-| 2/20/2014 | Police Officer | Advanced | Granted | 2/20/2014 |  |  |
-| 2/20/2014 | Police Officer | Intermediate | Granted | 2/20/2014 |  |  |
-| 2/20/2014 | Police Officer | Supervisory | Granted | 2/20/2014 |  |  |
-| 10/10/2001 | Police Officer | Basic | Granted | 10/10/2001 |  |  |
+| 8/31/2022 | Police Officer | Executive | Granted | 8/31/2022 | 8/12/2026 |  |
+| 7/6/2022 | Police Officer | Management | Granted | 7/6/2022 | 8/12/2026 |  |
+| 2/20/2014 | Police Officer | Advanced | Granted | 2/20/2014 | 8/12/2026 |  |
+| 2/20/2014 | Police Officer | Intermediate | Granted | 2/20/2014 | 8/12/2026 |  |
+| 2/20/2014 | Police Officer | Supervisory | Granted | 2/20/2014 | 8/12/2026 |  |
+| 10/10/2001 | Police Officer | Basic | Granted | 10/10/2001 | 8/12/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

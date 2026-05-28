@@ -4,7 +4,7 @@
 | name | Miller, Matthew C. |
 | dpsst_identifier | 31884 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/18/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 7/18/2002 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/6/2002 | Clackamas County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 12/15/1997 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |
@@ -21,9 +22,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/29/2011 | Police Officer | Advanced | Granted | 3/29/2011 |  |  |
-| 3/29/2011 | Police Officer | Intermediate | Granted | 3/29/2011 |  |  |
-| 4/1/1997 | Police Officer | Basic | Granted | 4/1/1997 |  |  |
+| 3/29/2011 | Police Officer | Advanced | Granted | 3/29/2011 | 8/18/2026 |  |
+| 3/29/2011 | Police Officer | Intermediate | Granted | 3/29/2011 | 8/18/2026 |  |
+| 4/1/1997 | Police Officer | Basic | Granted | 4/1/1997 | 8/18/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

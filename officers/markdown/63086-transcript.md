@@ -4,7 +4,7 @@
 | name | Duque-Valencia, Juan P. |
 | dpsst_identifier | 63086 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/13/2026 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 1/1/2026 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 6/28/2025 | Portland Police Bureau | LOA | Police Off |  |  |
 | 7/21/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/8/2024 | Police Officer | Basic | Granted | 3/8/2024 |  |  |
+| 3/8/2024 | Police Officer | Basic | Granted | 3/8/2024 | 8/13/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -4,7 +4,7 @@
 | name | Macomber, Sean P. |
 | dpsst_identifier | 37147 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/20/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 2/4/2021 | Portland Police Bureau | Promotion | Detective |  |  |
 | 2/15/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/23/2011 | Police Officer | Advanced | Granted | 2/23/2011 |  |  |
-| 2/23/2011 | Police Officer | Intermediate | Granted | 2/23/2011 |  |  |
-| 3/10/2000 | Police Officer | Basic | Granted | 3/10/2000 |  |  |
+| 2/23/2011 | Police Officer | Advanced | Granted | 2/23/2011 | 8/20/2026 |  |
+| 2/23/2011 | Police Officer | Intermediate | Granted | 2/23/2011 | 8/20/2026 |  |
+| 3/10/2000 | Police Officer | Basic | Granted | 3/10/2000 | 8/20/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

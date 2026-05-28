@@ -3,12 +3,18 @@ header_record:
   name: Habkirk, James B.
   dpsst_identifier: '29192'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/7/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/24/1994
   agency: Portland Police Bureau
   action: Hired
@@ -21,21 +27,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/20/2001
-  expiration_date: ''
+  expiration_date: 8/7/2026
   probation_date: ''
 - status_date: 2/20/2001
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/20/2001
-  expiration_date: ''
+  expiration_date: 8/7/2026
   probation_date: ''
 - status_date: 12/28/1994
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 12/28/1994
-  expiration_date: ''
+  expiration_date: 8/7/2026
   probation_date: ''
 training_records:
 - date: 3/10/2026

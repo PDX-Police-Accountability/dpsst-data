@@ -3,12 +3,18 @@ header_record:
   name: Helwig, Heidi J.
   dpsst_identifier: '41499'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/13/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 1/14/2026
   agency: Portland Police Bureau
   action: Return LOA
@@ -63,21 +69,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 12/20/2010
-  expiration_date: ''
+  expiration_date: 8/13/2026
   probation_date: ''
 - status_date: 12/20/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 12/20/2010
-  expiration_date: ''
+  expiration_date: 8/13/2026
   probation_date: ''
 - status_date: 10/25/2002
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 10/25/2002
-  expiration_date: ''
+  expiration_date: 8/13/2026
   probation_date: ''
 training_records:
 - date: 3/26/2026

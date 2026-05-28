@@ -168,7 +168,7 @@ training_records:
   title: CIT  Mental Health Awareness
   status: Passed
   score: '0.0'
-  hours: '1.00'
+  hours: '0.00'
 - date: 1/7/2026
   course: RMP3656C
   title: Defensive Tactics - Ground Control
@@ -181,12 +181,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/31/2025
+  course: MAINTMUC
+  title: Maintenance Makeup CIT/MH
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/30/2025
   course: RMP1404C
   title: Foundations in Ethics in Law Enforcement
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/30/2025
+  course: MISCMAIN
+  title: 2025 LE 3-Year Maintenance MEt
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/16/2025
   course: BNP0807C
   title: SWAT-Building Clearing
@@ -1797,6 +1809,10 @@ training_records:
   hours: '2.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
@@ -1804,10 +1820,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/8/2025
   expiration_date: 1/8/2027
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/27/2020

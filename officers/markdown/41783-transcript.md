@@ -4,7 +4,7 @@
 | name | Corona, Joseph R. |
 | dpsst_identifier | 41783 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/20/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 2/8/2018 | Portland Police Bureau | Promotion | Detective |  |  |
 | 1/17/2002 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/19/2023 | Police Officer | Advanced | Granted | 10/19/2023 |  |  |
-| 10/19/2023 | Police Officer | Intermediate | Granted | 10/19/2023 |  |  |
-| 9/18/2003 | Police Officer | Basic | Granted | 9/18/2003 |  |  |
+| 10/19/2023 | Police Officer | Advanced | Granted | 10/19/2023 | 8/20/2026 |  |
+| 10/19/2023 | Police Officer | Intermediate | Granted | 10/19/2023 | 8/20/2026 |  |
+| 9/18/2003 | Police Officer | Basic | Granted | 9/18/2003 | 8/20/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

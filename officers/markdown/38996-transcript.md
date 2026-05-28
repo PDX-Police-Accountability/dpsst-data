@@ -4,7 +4,7 @@
 | name | Bell, Jeffrey M. |
 | dpsst_identifier | 38996 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Commander |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/15/2026 | Portland Police Bureau | Retired | Commander |  |  |
 | 4/25/2024 | Portland Police Bureau | Demotion | Commander |  |  |
 | 10/13/2022 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 2/14/2019 | Portland Police Bureau | Promotion | Commander |  |  |
@@ -22,11 +23,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/29/2016 | Police Officer | Management | Granted | 3/29/2016 |  |  |
-| 5/7/2010 | Police Officer | Supervisory | Granted | 5/7/2010 |  |  |
-| 3/24/2008 | Police Officer | Advanced | Granted | 3/24/2008 |  |  |
-| 3/24/2008 | Police Officer | Intermediate | Granted | 3/24/2008 |  |  |
-| 4/2/2001 | Police Officer | Basic | Granted | 4/2/2001 |  |  |
+| 3/29/2016 | Police Officer | Management | Granted | 3/29/2016 | 8/15/2026 |  |
+| 5/7/2010 | Police Officer | Supervisory | Granted | 5/7/2010 | 8/15/2026 |  |
+| 3/24/2008 | Police Officer | Advanced | Granted | 3/24/2008 | 8/15/2026 |  |
+| 3/24/2008 | Police Officer | Intermediate | Granted | 3/24/2008 | 8/15/2026 |  |
+| 4/2/2001 | Police Officer | Basic | Granted | 4/2/2001 | 8/15/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

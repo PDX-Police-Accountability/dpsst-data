@@ -4,7 +4,7 @@
 | name | Lafrenz, Christopher J. |
 | dpsst_identifier | 34673 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/13/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 11/10/2020 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 9/9/2019 | Portland Police Bureau | LOA | Police Off |  |  |
 | 8/7/1998 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/29/2010 | Police Officer | Advanced | Granted | 10/29/2010 |  |  |
-| 10/29/2010 | Police Officer | Intermediate | Granted | 10/29/2010 |  |  |
-| 10/5/2000 | Police Officer | Basic | Granted | 10/5/2000 |  |  |
+| 10/29/2010 | Police Officer | Advanced | Granted | 10/29/2010 | 8/13/2026 |  |
+| 10/29/2010 | Police Officer | Intermediate | Granted | 10/29/2010 | 8/13/2026 |  |
+| 10/5/2000 | Police Officer | Basic | Granted | 10/5/2000 | 8/13/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

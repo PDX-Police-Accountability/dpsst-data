@@ -3,12 +3,18 @@ header_record:
   name: Duque-Valencia, Juan P.
   dpsst_identifier: '63086'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/13/2026
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/1/2026
   agency: Portland Police Bureau
   action: Return LOA
@@ -33,7 +39,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 3/8/2024
-  expiration_date: ''
+  expiration_date: 8/13/2026
   probation_date: ''
 training_records:
 - date: 2/24/2026
