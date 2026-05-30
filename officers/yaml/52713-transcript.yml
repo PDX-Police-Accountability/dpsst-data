@@ -4559,7 +4559,7 @@ training_records:
   hours: '1.00'
 attribute_records:
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
+  value: LE Leadership 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
 - topic: Maintenance Requirements

@@ -9,12 +9,6 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
-- date: 10/28/2025
-  agency: Portland Police Bureau
-  action: LOA
-  rank: Sergeant
-  classification: ''
-  assignment: ''
 - date: 2/20/2020
   agency: Portland Police Bureau
   action: Promotion

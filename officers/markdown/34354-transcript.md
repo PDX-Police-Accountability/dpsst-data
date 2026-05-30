@@ -4,7 +4,7 @@
 | name | Taylor, Peter Z. |
 | dpsst_identifier | 34354 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/13/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 9/4/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/21/2010 | Police Officer | Advanced | Granted | 12/21/2010 |  |  |
-| 12/21/2010 | Police Officer | Intermediate | Granted | 12/21/2010 |  |  |
-| 6/15/1998 | Police Officer | Basic | Granted | 6/15/1998 |  |  |
+| 12/21/2010 | Police Officer | Advanced | Granted | 12/21/2010 | 8/13/2026 |  |
+| 12/21/2010 | Police Officer | Intermediate | Granted | 12/21/2010 | 8/13/2026 |  |
+| 6/15/1998 | Police Officer | Basic | Granted | 6/15/1998 | 8/13/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

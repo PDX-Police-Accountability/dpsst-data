@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/1/2026
+  agency: Gresham Police Department
+  action: Promotion
+  rank: Asst Chief
+  classification: ''
+  assignment: ''
 - date: 9/11/2025
   agency: Gresham Police Department
   action: Promotion

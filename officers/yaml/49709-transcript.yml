@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '49709'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Captain
+  rank: Commander
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/21/2026
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Commander
+  classification: ''
+  assignment: ''
 - date: 2/3/2025
   agency: Portland Police Bureau
   action: Return LOA

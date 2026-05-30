@@ -5,13 +5,14 @@
 | dpsst_identifier | 41832 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Commander |
+| rank | Assistant Chief |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/21/2026 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 1/18/2024 | Portland Police Bureau | Promotion | Commander |  |  |
 | 10/13/2022 | Portland Police Bureau | Promotion | Captain |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Lieutenant |  |  |

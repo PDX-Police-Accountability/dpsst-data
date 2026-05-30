@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/28/2026 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 7/1/2025 | Portland Police Bureau | LOA | Police Off |  |  |
 | 10/17/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/2/2019 | Bureau of Emergency Communications | Resigned | Dispatcher |  |  |
@@ -28,7 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/6/2025 | 5/6/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 12/20/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 11/4/2019 |  |
 | Code of Ethics | Telecommunication Signed | 1/13/2019 |  |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/1/2026 | Gresham Police Department | Promotion | Asst Chief |  |  |
 | 9/11/2025 | Gresham Police Department | Promotion | Captain |  |  |
 | 1/2/2024 | Gresham Police Department | Hired | Lieutenant |  |  |
 | 12/21/2023 | Portland Police Bureau | Retired | Sergeant |  |  |
