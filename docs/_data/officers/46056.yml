@@ -3,12 +3,18 @@ header_record:
   name: Jakubauskas, Gedemynas J.
   dpsst_identifier: '46056'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Criminalist
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/27/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Criminalst
+  classification: ''
+  assignment: ''
 - date: 9/15/2020
   agency: Portland Police Bureau
   action: Promotion
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 3/17/2022
-  expiration_date: ''
+  expiration_date: 8/27/2026
   probation_date: ''
 - status_date: 5/9/2011
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 5/9/2011
-  expiration_date: ''
+  expiration_date: 8/27/2026
   probation_date: ''
 - status_date: 11/29/2006
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 11/29/2006
-  expiration_date: ''
+  expiration_date: 8/27/2026
   probation_date: ''
 training_records:
 - date: 4/17/2026

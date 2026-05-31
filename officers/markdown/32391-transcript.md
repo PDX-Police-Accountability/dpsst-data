@@ -4,7 +4,7 @@
 | name | Edwards, John M. |
 | dpsst_identifier | 32391 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/26/2026 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 4/22/2025 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 9/5/2024 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 2/20/2020 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -29,12 +30,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/11/2023 | Police Officer | Supervisory | Granted | 10/11/2023 |  |  |
+| 10/11/2023 | Police Officer | Supervisory | Granted | 10/11/2023 | 8/26/2026 |  |
 | 2/15/2020 | Corrections Officer | Basic | Expired | 4/12/1999 |  |  |
 | 2/15/2020 | Corrections Officer | Intermediate | Expired | 6/27/2003 |  |  |
-| 2/16/2012 | Police Officer | Advanced | Granted | 2/16/2012 |  |  |
-| 2/3/2005 | Police Officer | Basic | Granted | 2/3/2005 |  |  |
-| 2/3/2005 | Police Officer | Intermediate | Granted | 2/3/2005 |  |  |
+| 2/16/2012 | Police Officer | Advanced | Granted | 2/16/2012 | 8/26/2026 |  |
+| 2/3/2005 | Police Officer | Basic | Granted | 2/3/2005 | 8/26/2026 |  |
+| 2/3/2005 | Police Officer | Intermediate | Granted | 2/3/2005 | 8/26/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

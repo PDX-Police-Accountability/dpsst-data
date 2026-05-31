@@ -3,12 +3,18 @@ header_record:
   name: Macaulay, John A.
   dpsst_identifier: '35563'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/26/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/3/2005
   agency: Portland Police Bureau
   action: Hired
@@ -45,21 +51,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 12/17/2024
-  expiration_date: ''
+  expiration_date: 8/26/2026
   probation_date: ''
 - status_date: 12/17/2024
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 12/17/2024
-  expiration_date: ''
+  expiration_date: 8/26/2026
   probation_date: ''
 - status_date: 6/24/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/24/1999
-  expiration_date: ''
+  expiration_date: 8/26/2026
   probation_date: ''
 training_records:
 - date: 2/11/2026

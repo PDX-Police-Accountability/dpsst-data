@@ -4,7 +4,7 @@
 | name | Dobson, Craig N. |
 | dpsst_identifier | 35609 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Commander |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/22/2026 | Portland Police Bureau | Retired | Commander |  |  |
 | 12/4/2025 | Portland Police Bureau | Demotion | Commander |  |  |
 | 1/2/2025 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 8/17/2020 | Portland Police Bureau | Promotion | Commander |  |  |
@@ -22,12 +23,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/7/2020 | Police Officer | Executive | Granted | 2/7/2020 |  |  |
-| 2/7/2020 | Police Officer | Management | Granted | 2/7/2020 |  |  |
-| 10/31/2011 | Police Officer | Supervisory | Granted | 10/31/2011 |  |  |
-| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
-| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 |  |  |
-| 5/18/1999 | Police Officer | Basic | Granted | 5/18/1999 |  |  |
+| 2/7/2020 | Police Officer | Executive | Granted | 2/7/2020 | 8/22/2026 |  |
+| 2/7/2020 | Police Officer | Management | Granted | 2/7/2020 | 8/22/2026 |  |
+| 10/31/2011 | Police Officer | Supervisory | Granted | 10/31/2011 | 8/22/2026 |  |
+| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 | 8/22/2026 |  |
+| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 | 8/22/2026 |  |
+| 5/18/1999 | Police Officer | Basic | Granted | 5/18/1999 | 8/22/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

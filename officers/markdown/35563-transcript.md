@@ -4,7 +4,7 @@
 | name | Macaulay, John A. |
 | dpsst_identifier | 35563 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/26/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/3/2005 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/28/2005 | Beaverton Police Department | Resigned | Police Off |  |  |
 | 5/18/1998 | Beaverton Police Department | Hired | Police Off |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/17/2024 | Police Officer | Advanced | Granted | 12/17/2024 |  |  |
-| 12/17/2024 | Police Officer | Intermediate | Granted | 12/17/2024 |  |  |
-| 6/24/1999 | Police Officer | Basic | Granted | 6/24/1999 |  |  |
+| 12/17/2024 | Police Officer | Advanced | Granted | 12/17/2024 | 8/26/2026 |  |
+| 12/17/2024 | Police Officer | Intermediate | Granted | 12/17/2024 | 8/26/2026 |  |
+| 6/24/1999 | Police Officer | Basic | Granted | 6/24/1999 | 8/26/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

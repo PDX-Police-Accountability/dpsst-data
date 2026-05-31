@@ -4,7 +4,7 @@
 | name | Ho, Quency G. |
 | dpsst_identifier | 37608 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/25/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 6/17/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
-| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 |  |  |
-| 6/23/2000 | Police Officer | Basic | Granted | 6/23/2000 |  |  |
+| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 | 8/25/2026 |  |
+| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 | 8/25/2026 |  |
+| 6/23/2000 | Police Officer | Basic | Granted | 6/23/2000 | 8/25/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

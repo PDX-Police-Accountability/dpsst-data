@@ -4,7 +4,7 @@
 | name | Becker, Jeffrey S. |
 | dpsst_identifier | 34352 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/26/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 9/21/2017 | Portland Police Bureau | Promotion | Detective |  |  |
 | 4/19/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 | 4/17/2001 | Beaverton Police Department | Resigned | Police Off |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/8/2016 | Police Officer | Advanced | Granted | 7/8/2016 |  |  |
-| 7/8/2016 | Police Officer | Intermediate | Granted | 7/8/2016 |  |  |
-| 8/21/1998 | Police Officer | Basic | Granted | 8/21/1998 |  |  |
+| 7/8/2016 | Police Officer | Advanced | Granted | 7/8/2016 | 8/26/2026 |  |
+| 7/8/2016 | Police Officer | Intermediate | Granted | 7/8/2016 | 8/26/2026 |  |
+| 8/21/1998 | Police Officer | Basic | Granted | 8/21/1998 | 8/26/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

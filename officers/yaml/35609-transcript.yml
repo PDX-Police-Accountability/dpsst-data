@@ -3,12 +3,18 @@ header_record:
   name: Dobson, Craig N.
   dpsst_identifier: '35609'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Commander
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/22/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Commander
+  classification: ''
+  assignment: ''
 - date: 12/4/2025
   agency: Portland Police Bureau
   action: Demotion
@@ -57,42 +63,42 @@ certification_records:
   level: Executive
   status: Granted
   certificate_date: 2/7/2020
-  expiration_date: ''
+  expiration_date: 8/22/2026
   probation_date: ''
 - status_date: 2/7/2020
   certificate: Police Officer
   level: Management
   status: Granted
   certificate_date: 2/7/2020
-  expiration_date: ''
+  expiration_date: 8/22/2026
   probation_date: ''
 - status_date: 10/31/2011
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 10/31/2011
-  expiration_date: ''
+  expiration_date: 8/22/2026
   probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 8/22/2026
   probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 8/22/2026
   probation_date: ''
 - status_date: 5/18/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 5/18/1999
-  expiration_date: ''
+  expiration_date: 8/22/2026
   probation_date: ''
 training_records:
 - date: 3/5/2026

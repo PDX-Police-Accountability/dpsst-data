@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/1/2026
+  agency: Sherwood Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 5/7/2026
   agency: Portland Police Bureau
   action: Retired
@@ -45,21 +51,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/13/2009
-  expiration_date: 8/7/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 10/13/2009
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/13/2009
-  expiration_date: 8/7/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 7/25/2001
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 7/25/2001
-  expiration_date: 8/7/2026
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 3/12/2026

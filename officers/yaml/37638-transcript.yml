@@ -3,12 +3,18 @@ header_record:
   name: Chapin, Travis M.
   dpsst_identifier: '37638'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/27/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 8/26/1999
   agency: Portland Police Bureau
   action: Hired
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 8/27/2026
   probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: ''
+  expiration_date: 8/27/2026
   probation_date: ''
 - status_date: 12/6/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 12/6/2000
-  expiration_date: ''
+  expiration_date: 8/27/2026
   probation_date: ''
 training_records:
 - date: 4/2/2026

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/1/2026 | Sherwood Police Department | Hired | Police Off |  |  |
 | 5/7/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 9/21/2006 | Portland Police Bureau | Promotion | Detective |  |  |
 | 11/30/2000 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/13/2009 | Police Officer | Advanced | Granted | 10/13/2009 | 8/7/2026 |  |
-| 10/13/2009 | Police Officer | Intermediate | Granted | 10/13/2009 | 8/7/2026 |  |
-| 7/25/2001 | Police Officer | Basic | Granted | 7/25/2001 | 8/7/2026 |  |
+| 10/13/2009 | Police Officer | Advanced | Granted | 10/13/2009 |  |  |
+| 10/13/2009 | Police Officer | Intermediate | Granted | 10/13/2009 |  |  |
+| 7/25/2001 | Police Officer | Basic | Granted | 7/25/2001 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

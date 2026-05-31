@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/23/2026 | Washington County Sheriff's Office | Hired | Lieutenant |  |  |
 | 3/3/2025 | Forest Grove Police Department | Resigned | Captain |  |  |
 | 2/22/2022 | Forest Grove Police Department | Hired | Captain |  |  |
 | 1/19/2021 | Portland Police Bureau | Retired | Sergeant |  |  |
@@ -24,11 +25,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/3/2025 | Police Officer | Advanced | Lapsed | 9/23/2008 | 3/3/2030 |  |
-| 6/3/2025 | Police Officer | Basic | Lapsed | 2/5/1993 | 3/3/2030 |  |
-| 6/3/2025 | Police Officer | Intermediate | Lapsed | 9/23/2008 | 3/3/2030 |  |
-| 6/3/2025 | Police Officer | Management | Lapsed | 3/6/2024 | 3/3/2030 |  |
-| 6/3/2025 | Police Officer | Supervisory | Lapsed | 12/17/2008 | 3/3/2030 |  |
+| 5/23/2026 | Police Officer | Basic | Required |  |  | 11/23/2027 |
+| 6/3/2025 | Police Officer | Advanced | Lapsed | 9/23/2008 |  |  |
+| 6/3/2025 | Police Officer | Basic | Lapsed | 2/5/1993 |  |  |
+| 6/3/2025 | Police Officer | Intermediate | Lapsed | 9/23/2008 |  |  |
+| 6/3/2025 | Police Officer | Management | Lapsed | 3/6/2024 |  |  |
+| 6/3/2025 | Police Officer | Supervisory | Lapsed | 12/17/2008 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

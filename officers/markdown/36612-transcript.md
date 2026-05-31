@@ -4,7 +4,7 @@
 | name | Fox, Sara M. |
 | dpsst_identifier | 36612 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/26/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 11/19/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/29/2015 | Police Officer | Advanced | Granted | 12/29/2015 |  |  |
-| 12/29/2015 | Police Officer | Intermediate | Granted | 12/29/2015 |  |  |
-| 2/8/2000 | Police Officer | Basic | Granted | 2/8/2000 |  |  |
+| 12/29/2015 | Police Officer | Advanced | Granted | 12/29/2015 | 8/26/2026 |  |
+| 12/29/2015 | Police Officer | Intermediate | Granted | 12/29/2015 | 8/26/2026 |  |
+| 2/8/2000 | Police Officer | Basic | Granted | 2/8/2000 | 8/26/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
