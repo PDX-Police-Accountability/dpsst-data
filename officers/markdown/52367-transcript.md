@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/8/2026 | PDP4516C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 5/8/2026 | PDP0275C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
 | 4/10/2026 | PDP3320C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 3/26/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |

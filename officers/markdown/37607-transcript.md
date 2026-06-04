@@ -4,7 +4,7 @@
 | name | Taylor, Sarah L. |
 | dpsst_identifier | 37607 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/27/2026 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 6/17/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 |  |  |
-| 12/21/2009 | Police Officer | Advanced | Granted | 12/21/2009 |  |  |
-| 12/21/2009 | Police Officer | Intermediate | Granted | 12/21/2009 |  |  |
-| 7/12/2000 | Police Officer | Basic | Granted | 7/12/2000 |  |  |
+| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 | 8/27/2026 |  |
+| 12/21/2009 | Police Officer | Advanced | Granted | 12/21/2009 | 8/27/2026 |  |
+| 12/21/2009 | Police Officer | Intermediate | Granted | 12/21/2009 | 8/27/2026 |  |
+| 7/12/2000 | Police Officer | Basic | Granted | 7/12/2000 | 8/27/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

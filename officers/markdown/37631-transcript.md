@@ -4,7 +4,7 @@
 | name | Sparling, Lacey A. |
 | dpsst_identifier | 37631 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/25/2026 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 3/26/2020 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 9/27/2012 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/26/1999 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,11 +21,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/4/2022 | Police Officer | Management | Granted | 10/4/2022 |  |  |
-| 1/3/2014 | Police Officer | Supervisory | Granted | 1/3/2014 |  |  |
-| 1/24/2006 | Police Officer | Advanced | Granted | 1/24/2006 |  |  |
-| 12/22/2005 | Police Officer | Intermediate | Granted | 12/22/2005 |  |  |
-| 12/12/2000 | Police Officer | Basic | Granted | 12/12/2000 |  |  |
+| 10/4/2022 | Police Officer | Management | Granted | 10/4/2022 | 8/25/2026 |  |
+| 1/3/2014 | Police Officer | Supervisory | Granted | 1/3/2014 | 8/25/2026 |  |
+| 1/24/2006 | Police Officer | Advanced | Granted | 1/24/2006 | 8/25/2026 |  |
+| 12/22/2005 | Police Officer | Intermediate | Granted | 12/22/2005 | 8/25/2026 |  |
+| 12/12/2000 | Police Officer | Basic | Granted | 12/12/2000 | 8/25/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

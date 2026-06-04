@@ -5079,7 +5079,7 @@ attribute_records:
   expiration_date: ''
 education_records:
 - date: 3/20/1999
-  degree: No Degree
+  degree: Bachelor Science
   school: Portland State University
   major: Business Administration
   hours: '86.0'

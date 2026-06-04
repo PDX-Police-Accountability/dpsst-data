@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/14/2026
+  course: OCP3027C
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/11/2026
   course: OCP1777C
   title: Ethics in Law Enforcement

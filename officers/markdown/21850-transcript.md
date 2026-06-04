@@ -71,6 +71,7 @@
 | 4/23/2025 | OAC4330A | Foolproof: 'Simple Strategies to Retain People' | Passed | 0.0 | 3.00 |
 | 4/23/2025 | OAC0999C | Critical LE Lessons from Active Shooter Events | Passed | 0.0 | 3.00 |
 | 4/22/2025 | RRP3586A | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.00 |
+| 3/6/2025 | LOP2480C | City wide Anti-Harassment Training | Passed | 0.0 | 1.50 |
 | 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
 | 1/29/2025 | RRP1564A | Oregon Immigration Enforcement Laws | Passed | 0.0 | 1.00 |
 | 1/10/2025 | OAC3842A | UNLV Active Shooter Debrief | Passed | 0.0 | 1.50 |

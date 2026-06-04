@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2026
+  course: BNP1089C
+  title: SWAT- Low Light Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/10/2026
   course: BNP2981C
   title: SWAT- Leadership Book and Class

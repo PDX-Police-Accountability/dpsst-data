@@ -43,6 +43,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/8/2026
+  course: PDP0275C
+  title: 2026 Rapid Response team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/25/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | BNP1089C | SWAT- Low Light Qualifications | Passed | 0.0 | 8.00 |
 | 4/10/2026 | BNP2981C | SWAT- Leadership Book and Class | Passed | 0.0 | 8.00 |
 | 4/9/2026 | BNP0216C | SWAT- Scenarios | Passed | 0.0 | 8.00 |
 | 4/9/2026 | BNP1506C | SWAT- Officer Involved Shootings | Passed | 0.0 | 2.00 |

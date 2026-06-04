@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/14/2026 | PDP1018C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 2.00 |
 | 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/30/2026 | PDP3601C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/28/2026 | PDP0387C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |

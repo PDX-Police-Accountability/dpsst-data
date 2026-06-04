@@ -64,6 +64,7 @@
 | 5/12/2025 | LOP2143A | Mindset Matters | Passed | 0.0 | 5.00 |
 | 3/23/2025 | LOP3764B | Serving Protection/Restraining Orders | Passed | 0.0 | 0.50 |
 | 3/6/2025 | LOP2287A | Cooperative and Forcible Removal From Vehicles | Passed | 0.0 | 2.00 |
+| 3/6/2025 | LOP2480C | City wide Anti-Harassment Training | Passed | 0.0 | 1.50 |
 | 2/14/2025 | LOP1092A | CCDA DV Investigations Presentation | Passed | 0.0 | 2.00 |
 | 1/31/2025 | LOP1946A | Firearms Training | Passed | 0.0 | 5.00 |
 | 12/31/2024 | LOP2336A | OC Refresher | Passed | 0.0 | 2.00 |

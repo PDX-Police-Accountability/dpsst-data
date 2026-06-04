@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/17/2026 | HSU0960C | Supplemental Firearms May 2026 | Passed | 0.0 | 2.00 |
 | 4/18/2026 | HSU0568C | Spring In-Service 2026 CPR/ First Aid | Passed | 0.0 | 4.00 |
 | 4/18/2026 | HSU0548C | Spring In-Service 2026 De Escalation Practical | Passed | 0.0 | 4.00 |
 | 4/18/2026 | HSU2800C | Spring In-Service 2026 Ethics | Passed | 0.0 | 2.00 |

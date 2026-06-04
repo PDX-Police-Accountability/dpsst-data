@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2026
+  course: HSU0960C
+  title: Supplemental Firearms May 2026
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/18/2026
   course: HSU0568C
   title: Spring In-Service 2026 CPR/ First Aid

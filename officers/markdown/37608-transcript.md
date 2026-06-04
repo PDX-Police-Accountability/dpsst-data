@@ -30,7 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 3/20/1999 | No Degree | Portland State University | Business Administration | 86.0 |
+| 3/20/1999 | Bachelor Science | Portland State University | Business Administration | 86.0 |
 | 6/20/1997 | Associate Arts | Mt Hood Community College | Business Administration | 123.0 |
 ## Training
 | date | course | title | status | score | hours |

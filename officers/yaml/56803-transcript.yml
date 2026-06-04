@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/14/2026
+  course: PDP1018C
+  title: 2026 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/14/2026
+  course: PDP1018C
+  title: 2026 SERT Training - FIREARMS
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/7/2026
   course: PDP1979C
   title: 2026 SERT Training - FIREARMS

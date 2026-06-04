@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/8/2026 | PDP4516C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 5/8/2026 | PDP0275C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Instructed | 0.0 | 2.00 |
 | 4/10/2026 | PDP3320C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 3/31/2026 | PDP3386C | FTEP Hazmat/WMD APR Gas Mask | Instructed | 0.0 | 2.00 |

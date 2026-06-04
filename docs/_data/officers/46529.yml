@@ -3,7 +3,7 @@ header_record:
   name: Piombo, Mark M.
   dpsst_identifier: '46529'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
@@ -12,6 +12,12 @@ employment_records:
 - date: 6/1/2026
   agency: Gresham Police Department
   action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 5/28/2026
+  agency: Portland Police Bureau
+  action: Retired
   rank: Police Off
   classification: ''
   assignment: ''

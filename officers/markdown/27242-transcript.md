@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/31/2026 | Gresham Police Department | Retired | Asst Chief |  |  |
 | 3/17/2025 | Gresham Police Department | Hired | Asst Chief |  |  |
 | 3/16/2025 | Springfield Police Department | Resigned | Chief |  |  |
 | 3/28/2022 | Springfield Police Department | Reclassed | Chief |  |  |
@@ -26,12 +27,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/1/2021 | Police Officer | Advanced | Reactivatd | 10/10/2007 |  |  |
-| 7/1/2021 | Police Officer | Basic | Reactivatd | 4/12/1993 |  |  |
-| 7/1/2021 | Police Officer | Executive | Reactivatd | 8/7/2017 |  |  |
-| 7/1/2021 | Police Officer | Intermediate | Reactivatd | 10/10/2007 |  |  |
-| 7/1/2021 | Police Officer | Management | Reactivatd | 8/7/2017 |  |  |
-| 7/1/2021 | Police Officer | Supervisory | Reactivatd | 9/19/2011 |  |  |
+| 7/1/2021 | Police Officer | Advanced | Reactivatd | 10/10/2007 | 8/31/2026 |  |
+| 7/1/2021 | Police Officer | Basic | Reactivatd | 4/12/1993 | 8/31/2026 |  |
+| 7/1/2021 | Police Officer | Executive | Reactivatd | 8/7/2017 | 8/31/2026 |  |
+| 7/1/2021 | Police Officer | Intermediate | Reactivatd | 10/10/2007 | 8/31/2026 |  |
+| 7/1/2021 | Police Officer | Management | Reactivatd | 8/7/2017 | 8/31/2026 |  |
+| 7/1/2021 | Police Officer | Supervisory | Reactivatd | 9/19/2011 | 8/31/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

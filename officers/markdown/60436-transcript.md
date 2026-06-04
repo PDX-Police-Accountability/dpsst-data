@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/14/2026 | PDP4075C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 2.00 |
 | 3/5/2026 | PDP4517C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/11/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 2/11/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |

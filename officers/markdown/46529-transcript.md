@@ -4,7 +4,7 @@
 | name | Piombo, Mark M. |
 | dpsst_identifier | 46529 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 6/1/2026 | Gresham Police Department | Hired | Police Off |  |  |
+| 5/28/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/26/2006 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/25/2006 | Out of State Employment | Resigned | Police Off |  |  |
 | 3/16/1997 | Out of State Employment | Hired | Police Off |  |  |

@@ -263,6 +263,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/6/2025
+  course: LOP2480C
+  title: City wide Anti-Harassment Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/31/2025
   course: LOP1946A
   title: Firearms Training

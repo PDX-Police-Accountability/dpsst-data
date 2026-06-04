@@ -57,7 +57,9 @@
 | 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |
 | 10/13/2025 | SAG3264C | Night Shoot | Instructed | 0.0 | 4.00 |
 | 9/18/2025 | SAG3096C | Close Protection for LEO's | Passed | 0.0 | 4.00 |
+| 9/18/2025 | SAG2524C | Close Protection for LEO's | Passed | 0.0 | 4.00 |
 | 9/16/2025 | SAG2921C | Confinded Space Engagement Course | Passed | 0.0 | 4.00 |
+| 9/16/2025 | SAG1013C | Confinded Space Engagement Course | Passed | 0.0 | 4.00 |
 | 7/29/2025 | SAG2878B | Firearms training | Instructed | 0.0 | 2.00 |
 | 7/9/2025 | SAG2878B | Firearms training | Passed | 0.0 | 1.00 |
 | 6/6/2025 | SAG0243A | Firearms training | Instructed | 0.0 | 1.50 |
