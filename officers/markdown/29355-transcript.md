@@ -4,7 +4,7 @@
 | name | Francis, Jason K. |
 | dpsst_identifier | 29355 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/28/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 4/21/1994 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/1/2024 | Police Officer | Advanced | Granted | 3/1/2024 |  |  |
-| 3/1/2024 | Police Officer | Intermediate | Granted | 3/1/2024 |  |  |
-| 2/7/1995 | Police Officer | Basic | Granted | 2/7/1995 |  |  |
+| 3/1/2024 | Police Officer | Advanced | Granted | 3/1/2024 | 8/28/2026 |  |
+| 3/1/2024 | Police Officer | Intermediate | Granted | 3/1/2024 | 8/28/2026 |  |
+| 2/7/1995 | Police Officer | Basic | Granted | 2/7/1995 | 8/28/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
