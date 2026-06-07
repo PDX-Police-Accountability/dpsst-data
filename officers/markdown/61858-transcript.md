@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/2/2026 | 6/30/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 6/5/2024 | 6/1/2026 |
@@ -37,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2026 | MFN2967D | All Ages CPR, AED and Basic 1st Aid Training | Passed | 0.0 | 3.00 |
+| 6/2/2026 | MFN3620C | All Ages CPR, AED and Basic 1st Aid Training | Passed | 0.0 | 3.00 |
 | 4/30/2026 | MFN2302C | Diversity, Equity, and Inclusion | Passed | 0.0 | 2.00 |
 | 4/7/2026 | MFN3307C | OIS Training | Passed | 0.0 | 1.50 |
 | 3/26/2026 | MFN1891C | Milo Use of Force training | Passed | 0.0 | 0.50 |

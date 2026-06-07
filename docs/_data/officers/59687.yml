@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/29/2026
+  course: WLP1761C
+  title: Adult First Aid/CPR/AED-BL-r.21
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/17/2026
   course: WLP2992C
   title: WLPD 2026 TASER Recertification
@@ -1160,6 +1166,10 @@ training_records:
   score: '0.0'
   hours: '20.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 5/29/2026
+  expiration_date: 5/29/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

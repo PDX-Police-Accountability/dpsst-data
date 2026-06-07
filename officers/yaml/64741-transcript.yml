@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/19/2026
+  course: PDP1612D
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2026
+  course: PDP0546C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/14/2026
   course: HBP1561C
   title: Search and Seizure Fundamentals
@@ -919,6 +931,10 @@ training_records:
   score: '0.0'
   hours: '7.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/19/2026
+  expiration_date: 5/19/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

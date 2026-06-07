@@ -49,6 +49,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2026
+  course: MFN2967D
+  title: All Ages CPR, AED and Basic 1st Aid Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/2/2026
+  course: MFN3620C
+  title: All Ages CPR, AED and Basic 1st Aid Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/30/2026
   course: MFN2302C
   title: Diversity, Equity, and Inclusion
@@ -1268,6 +1280,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/2/2026
+  expiration_date: 6/30/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

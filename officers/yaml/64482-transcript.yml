@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2026
+  course: PDP4517D
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/20/2026
+  course: PDP1125C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/14/2026
   course: PDP0774C
   title: 2025 PPB Lead Exposures Information
@@ -847,6 +859,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/20/2026
+  expiration_date: 5/20/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026
