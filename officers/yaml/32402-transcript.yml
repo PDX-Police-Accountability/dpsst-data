@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2026
+  course: HBS1746C
+  title: 2026 National Cyber Crime Conf.
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 3/30/2026
   course: HBS2251C
   title: 'Inservice Session #1 DT''s'

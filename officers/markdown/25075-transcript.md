@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2026 | WBP0117C | Tactical K9 with Breaching | Instructed | 0.0 | 3.00 |
 | 5/12/2026 | WBP0622C | Tactical K9 with Breaching | Instructed | 0.0 | 3.00 |
 | 4/21/2026 | WBP3455C | Conflict Simulation Training | Passed | 0.0 | 3.00 |
 | 3/31/2026 | WBP0172C | 2026 Q1 Firearms Qualifications | Passed | 0.0 | 0.50 |

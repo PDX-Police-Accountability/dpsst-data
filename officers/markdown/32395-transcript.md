@@ -39,6 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
+| 3/11/2026 | PPP1747C | District Attorney Updates with DA Nathan Vasquez | Passed | 0.0 | 1.00 |
+| 2/18/2026 | PPP0470C | Case Law Updates and Report Writing | Passed | 0.0 | 2.00 |
+| 2/9/2026 | PPP4466C | Active Shooter and Winning Mindset | Passed | 0.0 | 4.00 |
+| 1/20/2026 | PPP0818C | Wellness | Passed | 0.0 | 1.00 |
 | 1/6/2026 | PPP1757C | First Aid/CPR/AED/Narcan and Skills Practical | Passed | 0.0 | 4.00 |
 | 11/11/2025 | PPP2227C | Handgun Qual for Special Assignment | Passed | 0.0 | 1.00 |
 | 9/27/2025 | PPP1024B | Defensive Tactics | Passed | 0.0 | 4.00 |

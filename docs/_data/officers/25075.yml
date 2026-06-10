@@ -75,6 +75,12 @@ certification_records:
   expiration_date: 8/23/2026
   probation_date: ''
 training_records:
+- date: 5/19/2026
+  course: WBP0117C
+  title: Tactical K9 with Breaching
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/12/2026
   course: WBP0622C
   title: Tactical K9 with Breaching

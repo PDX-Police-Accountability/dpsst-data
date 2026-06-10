@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/11/2026 | PPP1747C | District Attorney Updates with DA Nathan Vasquez | Passed | 0.0 | 1.00 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2025 | PPP1808C | Handgun Training | Passed | 0.0 | 4.00 |
 | 9/15/2025 | PPP0995B | Leadership Summit | Passed | 0.0 | 8.00 |

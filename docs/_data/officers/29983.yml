@@ -148,6 +148,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/25/2025
+  course: APD2414C
+  title: Low Light Pistol Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/11/2025
   course: APD0849B
   title: Range Qualification and Pistol Training

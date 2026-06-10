@@ -62,6 +62,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/30/2026
+  course: PPP1546C
+  title: Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/23/2026
+  course: PPP0470C
+  title: Case Law Updates and Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/9/2026
+  course: PPP4466C
+  title: Active Shooter and Winning Mindset
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/20/2026
+  course: PPP0818C
+  title: Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/27/2025
   course: PPP1024B
   title: Defensive Tactics

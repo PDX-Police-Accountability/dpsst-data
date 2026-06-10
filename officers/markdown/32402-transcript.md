@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2026 | HBS1746C | 2026 National Cyber Crime Conf. | Passed | 0.0 | 20.00 |
 | 3/30/2026 | HBS2251C | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
 | 3/30/2026 | HBS0264C | Inservice session #1 firearms | Passed | 0.0 | 4.50 |
 | 3/19/2026 | HBS2653C | Rifle Remediation | Passed | 0.0 | 4.00 |

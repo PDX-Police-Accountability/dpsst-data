@@ -61,13 +61,19 @@ training_records:
   title: Firearms
   status: Passed
   score: '0.0'
-  hours: '2.00'
+  hours: '0.50'
 - date: 2/3/2026
   course: SAG2918C
   title: First Aid  CPR
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/31/2025
+  course: MAINTMUF
+  title: Maintenance Makeup Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/13/2025
   course: SAG3264C
   title: Night Shoot

@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2026 | HBS0920C | IMT - Tactical Operations Center Level I | Passed | 0.0 | 2.00 |
+| 4/30/2026 | HBS3555C | IMT Training | Passed | 0.0 | 5.00 |
 | 4/12/2026 | HBS0595C | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
 | 4/12/2026 | HBS4068C | Inservice Session #1 Firearms | Passed | 0.0 | 4.50 |
 | 3/19/2026 | HBS2653C | Rifle Remediation | Passed | 0.0 | 4.00 |
@@ -56,6 +58,7 @@
 | 12/18/2025 | HBS4389C | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |
 | 12/18/2025 | HBS1679C | Virtual - Crowd Control | Passed | 0.0 | 1.00 |
 | 12/18/2025 | HBS3203C | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
+| 12/16/2025 | HBS1097C | IMT Training | Passed | 0.0 | 7.50 |
 | 12/9/2025 | HBS3388C | MFF - Public Order Day 2 | Passed | 0.0 | 9.00 |
 | 12/8/2025 | HBS4202C | MFF - APR | Passed | 0.0 | 0.50 |
 | 12/8/2025 | HBS4198C | MFF - Public Order Day 1 | Passed | 0.0 | 5.00 |
@@ -65,6 +68,7 @@
 | 12/1/2025 | HBS2200C | Virtual - Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS3003C | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
 | 10/15/2025 | LOP2356C | West Metro - Monthy Motor Training October 2025 | Passed | 0.0 | 8.00 |
+| 10/7/2025 | HBS1596C | IMT Training | Passed | 0.0 | 6.00 |
 | 10/2/2025 | HBS4448C | MFF - Public Order | Passed | 0.0 | 8.00 |
 | 10/1/2025 | PDP3294B | Multi-Agency Motorcade Training | Instructed | 0.0 | 10.00 |
 | 9/18/2025 | PDP1717B | Motorcycle Training at PIR | Instructed | 0.0 | 20.00 |
