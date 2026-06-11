@@ -44,18 +44,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 5/8/2026
-  course: PDP4516C
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
-- date: 5/8/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 4/26/2026
   course: PDP2557C
   title: 2026 Red Dot Sight for Pistol Transition Course
@@ -92,12 +80,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/13/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 2/13/2026
   course: PDP3809C
   title: 2026 Rapid Response team (RRT) Monthly Training

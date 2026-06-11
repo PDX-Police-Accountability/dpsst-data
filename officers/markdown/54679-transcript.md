@@ -41,7 +41,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/22/2026 | MLP3962C | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 4/1/2026 | MLP4349C | Why Emergency Preparedness Matters | Passed | 0.0 | 0.50 |
+| 3/31/2026 | MLP4035C | Overview of Oregon Ethics Law | Passed | 0.0 | 0.50 |
+| 3/31/2026 | MLP0886C | Intro to OR Public Records | Passed | 0.0 | 0.50 |
 | 1/15/2026 | MLP3927C | Slips, Trips and Falls | Passed | 0.0 | 0.50 |
+| 1/15/2026 | MLP4484C | Slips, Trips and Falls | Passed | 0.0 | 0.50 |
+| 1/9/2026 | MLP3543C | Drugs and Alcohol in the Workplace | Passed | 0.0 | 0.50 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/3/2025 | MLP2455C | Night Shoot/Qual-Pistol | Passed | 0.0 | 3.00 |
 | 11/3/2025 | MLP1825C | Night Shoot/Qual-Pistol | Passed | 0.0 | 3.00 |
@@ -49,8 +54,11 @@
 | 9/23/2025 | MLP2071B | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 9/23/2025 | MLP3532B | Implicit Bias | Passed | 0.0 | 1.00 |
 | 9/22/2025 | MLP0449B | PREA Prision Rape Elimination Act | Passed | 0.0 | 1.00 |
+| 9/3/2025 | MLP3773C | Equipment Safety Essentails | Passed | 0.0 | 0.50 |
 | 8/25/2025 | MLP3428B | Handgun and Rifle qualifications | Passed | 0.0 | 3.00 |
 | 7/31/2025 | MLP3121C | Resilience and Stress Management | Passed | 0.0 | 0.50 |
+| 7/31/2025 | MLP0753C | Slips, Trips and Falls | Passed | 0.0 | 0.50 |
+| 7/31/2025 | MLP0812C | OSHA Wildfire Smoke | Passed | 0.0 | 0.50 |
 | 7/22/2025 | MLP1438B | Crisis Intervention Training CIT - Crisis Response | Passed | 0.0 | 1.00 |
 | 7/15/2025 | MLP3796B | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/15/2025 | MLP2491B | Hazardous Material Response | Passed | 0.0 | 0.50 |
@@ -58,7 +66,9 @@
 | 7/15/2025 | MLP1880B | Use of Force | Passed | 0.0 | 1.00 |
 | 6/10/2025 | MLP0151A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 6/4/2025 | MLP2162C | OSHA Heat Illness Prevention | Passed | 0.0 | 0.50 |
+| 6/4/2025 | MLP3247C | OSHA Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 4/9/2025 | MLP1815C | Why Emergency Preparedness Matters | Passed | 0.0 | 0.50 |
+| 4/9/2025 | MLP1345C | Why Emergency Preparedness Matters | Passed | 0.0 | 0.50 |
 | 3/5/2025 | MLP2154A | MOPD New Carrier Less Lethal Qualification | Instructed | 0.0 | 4.00 |
 | 12/18/2024 | MLP2579A | Taser Training and Updates | Passed | 0.0 | 3.00 |
 | 12/11/2024 | HBS0216A | Less Lethal Impact Munitions Instructor Program | Passed | 0.0 | 8.00 |

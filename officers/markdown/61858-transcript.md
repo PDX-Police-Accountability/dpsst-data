@@ -38,7 +38,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/2/2026 | MFN2967D | All Ages CPR, AED and Basic 1st Aid Training | Passed | 0.0 | 3.00 |
 | 6/2/2026 | MFN3620C | All Ages CPR, AED and Basic 1st Aid Training | Passed | 0.0 | 3.00 |
 | 4/30/2026 | MFN2302C | Diversity, Equity, and Inclusion | Passed | 0.0 | 2.00 |
 | 4/7/2026 | MFN3307C | OIS Training | Passed | 0.0 | 1.50 |

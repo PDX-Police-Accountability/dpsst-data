@@ -49,18 +49,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 5/8/2026
-  course: PDP4516C
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
-- date: 5/8/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 4/17/2026
   course: PDP2148C
   title: 2026 Annual Honor Guard In-Service
@@ -85,12 +73,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/13/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 2/13/2026
   course: PDP3809C
   title: 2026 Rapid Response team (RRT) Monthly Training

@@ -67,9 +67,39 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/1/2026
+  course: MLP4349C
+  title: Why Emergency Preparedness Matters
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2026
+  course: MLP4035C
+  title: Overview of Oregon Ethics Law
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2026
+  course: MLP0886C
+  title: Intro to OR Public Records
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/15/2026
   course: MLP3927C
   title: Slips, Trips and Falls
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/15/2026
+  course: MLP4484C
+  title: Slips, Trips and Falls
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2026
+  course: MLP3543C
+  title: Drugs and Alcohol in the Workplace
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -115,6 +145,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/3/2025
+  course: MLP3773C
+  title: Equipment Safety Essentails
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/25/2025
   course: MLP3428B
   title: Handgun and Rifle qualifications
@@ -124,6 +160,18 @@ training_records:
 - date: 7/31/2025
   course: MLP3121C
   title: Resilience and Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2025
+  course: MLP0753C
+  title: Slips, Trips and Falls
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2025
+  course: MLP0812C
+  title: OSHA Wildfire Smoke
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -169,8 +217,20 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/4/2025
+  course: MLP3247C
+  title: OSHA Heat Illness Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/9/2025
   course: MLP1815C
+  title: Why Emergency Preparedness Matters
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/9/2025
+  course: MLP1345C
   title: Why Emergency Preparedness Matters
   status: Passed
   score: '0.0'

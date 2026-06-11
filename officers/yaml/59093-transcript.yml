@@ -134,7 +134,7 @@ training_records:
   title: 2025 All Sworn In-Service ABLE (Video)
   status: Passed
   score: '0.0'
-  hours: '1.75'
+  hours: '0.75'
 - date: 1/29/2026
   course: PDP0753C
   title: 2025 ECIT Call Resolution
@@ -327,6 +327,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2025
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/28/2025
   course: PDP2267B
   title: ORS 181A.440 Airways Part 1
@@ -2698,14 +2710,14 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/6/2025
   expiration_date: 5/6/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

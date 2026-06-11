@@ -39,11 +39,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2026 | MLP4349C | Why Emergency Preparedness Matters | Passed | 0.0 | 0.50 |
 | 3/31/2026 | OSH3924C | Human Trafficking Chatter Training | Passed | 0.0 | 4.00 |
+| 3/31/2026 | MLP4035C | Overview of Oregon Ethics Law | Passed | 0.0 | 0.50 |
+| 3/31/2026 | MLP0886C | Intro to OR Public Records | Passed | 0.0 | 0.50 |
 | 3/3/2026 | MLP2147C | Officer Involved Critical Incident Investigations | Passed | 0.0 | 2.50 |
 | 2/25/2026 | OCA1037C | February MCT - Brady | Passed | 0.0 | 1.00 |
 | 1/28/2026 | MLP2852C | Public Safety Union Leadership | Passed | 0.0 | 20.00 |
 | 1/15/2026 | MLP3927C | Slips, Trips and Falls | Passed | 0.0 | 0.50 |
+| 1/15/2026 | MLP4484C | Slips, Trips and Falls | Passed | 0.0 | 0.50 |
+| 1/9/2026 | MLP3543C | Drugs and Alcohol in the Workplace | Passed | 0.0 | 0.50 |
 | 11/19/2025 | OCA3728C | Open Source DNA | Passed | 0.0 | 1.00 |
 | 11/13/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/10/2025 | MLP2455C | Night Shoot/Qual-Pistol | Instructed | 0.0 | 3.00 |
@@ -51,8 +56,11 @@
 | 11/4/2025 | MLP0745B | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 11/4/2025 | MLP1565C | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 10/21/2025 | MLP4394B | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 9/3/2025 | MLP3773C | Equipment Safety Essentails | Passed | 0.0 | 0.50 |
 | 8/25/2025 | MLP3428B | Handgun and Rifle qualifications | Passed | 0.0 | 3.00 |
 | 7/31/2025 | MLP3121C | Resilience and Stress Management | Passed | 0.0 | 0.50 |
+| 7/31/2025 | MLP0753C | Slips, Trips and Falls | Passed | 0.0 | 0.50 |
+| 7/31/2025 | MLP0812C | OSHA Wildfire Smoke | Passed | 0.0 | 0.50 |
 | 7/8/2025 | MLP0449B | PREA Prision Rape Elimination Act | Passed | 0.0 | 1.00 |
 | 7/8/2025 | MLP3796B | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/8/2025 | MLP1580B | Strangulation Forensic Evidence Kits, SKITs | Passed | 0.0 | 0.50 |
@@ -63,8 +71,10 @@
 | 7/7/2025 | MLP3532B | Implicit Bias | Passed | 0.0 | 1.00 |
 | 6/10/2025 | MLP0151A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 6/4/2025 | MLP2162C | OSHA Heat Illness Prevention | Passed | 0.0 | 0.50 |
+| 6/4/2025 | MLP3247C | OSHA Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 5/16/2025 | LOP0010A | 2025 Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/9/2025 | MLP1815C | Why Emergency Preparedness Matters | Passed | 0.0 | 0.50 |
+| 4/9/2025 | MLP1345C | Why Emergency Preparedness Matters | Passed | 0.0 | 0.50 |
 | 3/31/2025 | MLP0965C | MILO Instructor Program | Passed | 0.0 | 8.00 |
 | 3/19/2025 | OCA3739A | Digital Evidence Training | Passed | 0.0 | 4.00 |
 | 3/5/2025 | MLP2154A | MOPD New Carrier Less Lethal Qualification | Instructed | 0.0 | 4.00 |

@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 2/4/2026
+  course: PPP4466C
+  title: Active Shooter and Winning Mindset
+  status: Instructed
+  score: '0.0'
+  hours: '28.00'
 - date: 1/6/2026
   course: PPP1757C
   title: First Aid/CPR/AED/Narcan and Skills Practical

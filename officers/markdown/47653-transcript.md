@@ -34,8 +34,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
-| 5/8/2026 | PDP4516C | Undefined | Passed | 0.0 | 9.00 |
-| 5/8/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Instructed | 0.0 | 2.00 |
 | 5/4/2026 | PDP1906C | Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 4/10/2026 | PDP3320C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
