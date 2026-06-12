@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2026
+  course: OSH2003C
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/1/2026
   course: OSH4576C
   title: Drug Evaluation  Classification School

@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/12/2026
+  course: BVP1367C
+  title: May 2026 Pistol Range IST 051226AM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/16/2026
   course: BVP1782C
   title: Domestic Violence Investigations

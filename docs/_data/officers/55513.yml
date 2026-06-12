@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2026
+  course: BVP1249C
+  title: May 2026 Pistol Rifle Range IST 050726AM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/22/2026
   course: HBS0971C
   title: TNT Range/Deliberate Movement Drills

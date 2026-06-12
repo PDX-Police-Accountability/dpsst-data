@@ -50,14 +50,14 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 6/2/2026
-  course: MFN2967D
+  course: MFN3620C
   title: All Ages CPR, AED and Basic 1st Aid Training
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 6/2/2026
-  course: MFN3620C
-  title: All Ages CPR, AED and Basic 1st Aid Training
+- date: 5/21/2026
+  course: MFN1847C
+  title: Case Management Training
   status: Passed
   score: '0.0'
   hours: '3.00'

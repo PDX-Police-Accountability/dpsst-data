@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2026
+  course: PDP0045C
+  title: IS-100.c Intro to Incident Command
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/28/2026
+  course: PDP2228C
+  title: IS-200.c Basic Inc Com System for Initial Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/28/2026
+  course: PDP0499C
+  title: IS-700.b An Intro to NIMS
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/24/2026
   course: OCS0633C
   title: FBI LEEDA Command Leadership Institute

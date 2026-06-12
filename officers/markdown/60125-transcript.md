@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2026 | PDS2859C | Field Training and Evaluation Program, 24 hr basic | Passed | 0.0 | 24.00 |
 | 3/20/2026 | PDS4236C | Criminal Interdiction | Passed | 0.0 | 1.50 |
 | 2/23/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 12/17/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |

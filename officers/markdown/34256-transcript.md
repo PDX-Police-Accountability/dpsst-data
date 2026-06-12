@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2026 | BVP1367C | May 2026 Pistol Range IST 051226AM | Passed | 0.0 | 3.00 |
 | 4/16/2026 | BVP1782C | Domestic Violence Investigations | Passed | 0.0 | 2.00 |
 | 4/16/2026 | BVP1991C | April 2026 Control Tactics IST 041626 PM | Passed | 0.0 | 3.00 |
 | 3/17/2026 | BVP0380C | EVOC 031726PM | Passed | 0.0 | 3.00 |

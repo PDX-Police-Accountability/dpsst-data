@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | BVP0670C | May 2026 Pistol Range IST 050726PM | Passed | 0.0 | 3.00 |
 | 4/9/2026 | BVP0950C | April 2026 Control Tactics IST 040926 AM | Passed | 0.0 | 3.00 |
 | 3/12/2026 | BVP1695C | EVOC 031226AM | Passed | 0.0 | 3.00 |
 | 2/5/2026 | BVP0926C | Threat Discretion/UTM Range 020526AM | Passed | 0.0 | 3.00 |

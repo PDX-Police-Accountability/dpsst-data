@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2026
+  course: PDS2859C
+  title: Field Training and Evaluation Program, 24 hr basic
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/20/2026
   course: PDS4236C
   title: Criminal Interdiction

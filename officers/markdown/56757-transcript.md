@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2026 | VND4322C | 28 CFR 23 | Passed | 0.0 | 2.00 |
 | 4/3/2026 | PDS4384C | Basic Detective Academy | Passed | 0.0 | 40.00 |
 | 2/4/2026 | PPP4466C | Active Shooter and Winning Mindset | Instructed | 0.0 | 28.00 |
 | 1/6/2026 | PPP1757C | First Aid/CPR/AED/Narcan and Skills Practical | Passed | 0.0 | 4.00 |

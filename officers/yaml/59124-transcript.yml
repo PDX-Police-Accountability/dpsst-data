@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2026
+  course: BVP3495C
+  title: May 2026 Pistol Range IST 050826PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/14/2026
   course: HBP1561C
   title: Search and Seizure Fundamentals

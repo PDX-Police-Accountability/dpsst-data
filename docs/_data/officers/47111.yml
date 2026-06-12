@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2026
+  course: BVP0670C
+  title: May 2026 Pistol Range IST 050726PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/9/2026
   course: BVP0950C
   title: April 2026 Control Tactics IST 040926 AM

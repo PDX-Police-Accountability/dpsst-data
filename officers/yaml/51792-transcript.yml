@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/17/2026
+  course: PDP1853C
+  title: Multnomah County Anti Trafficking Conference
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/26/2026
   course: PDP0531C
   title: 2026-1 Range Qualification 40mm Less Lethal Qual

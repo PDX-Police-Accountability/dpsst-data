@@ -73,6 +73,7 @@
 | 11/12/2025 | PDP1491C | 2025-10, Legal Updates: Miranda  Right | Passed | 0.0 | 0.25 |
 | 11/12/2025 | PDP0373C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 11/12/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 11/8/2025 | PDP4260C | LEDA Law Enforcement UAS Training | Passed | 0.0 | 8.00 |
 | 10/22/2025 | PDP2812B | 2025-1 Supervisors In-Service (CIT/MH) | Passed | 0.0 | 2.00 |
 | 10/22/2025 | PDP3412B | 2025-1 Supervisors In-Service (Leadership) | Passed | 0.0 | 7.00 |
 | 10/1/2025 | PDP2787B | 2025 Traffic Multi-Agency Motorcade Training | Passed | 0.0 | 9.00 |

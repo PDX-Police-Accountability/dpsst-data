@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 3/18/2026
+  course: PDP2018C
+  title: Effective Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/19/2026
   course: PDP3022C
   title: 2026 Investigators IS Control Tactics

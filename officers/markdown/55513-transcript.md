@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | BVP1249C | May 2026 Pistol Rifle Range IST 050726AM | Passed | 0.0 | 3.00 |
 | 4/22/2026 | HBS0971C | TNT Range/Deliberate Movement Drills | Passed | 0.0 | 9.00 |
 | 4/15/2026 | BVP1600C | April 2026 Control Tactics IST 041526 AM | Passed | 0.0 | 3.00 |
 | 3/17/2026 | BVP0380C | EVOC 031726PM | Passed | 0.0 | 3.00 |

@@ -49,6 +49,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/11/2026 | PPP1747C | District Attorney Updates with DA Nathan Vasquez | Passed | 0.0 | 1.00 |
+| 1/15/2026 | PPP4139C | Lateral Hire RDS Handgun Training | Passed | 0.0 | 20.00 |
 | 12/8/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/12/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/10/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

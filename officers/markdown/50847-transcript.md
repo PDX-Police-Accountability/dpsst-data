@@ -27,9 +27,12 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Signed | 12/11/2009 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/13/2004 | Bachelor Arts | All Other Education Institutes | Criminal Justice | 140.0 |
+| 9/15/2002 | No Degree | All Other Education Institutes |  | 9.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
@@ -171,3 +174,62 @@
 | 5/18/2011 | 11-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 1.00 |
 | 5/18/2011 | 11-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 4.00 |
 | 5/18/2011 | 11-0129 | Firearms Training | Passed | 0.0 | 4.00 |
+| 5/18/2011 | 11-0915 | Agency Policies / Procedures | Passed | 0.0 | 1.00 |
+| 5/18/2011 | 11-0795 | Domestic Violence Investigations | Passed | 0.0 | 1.00 |
+| 5/18/2011 | 11-1203 | EVOC | Passed | 0.0 | 4.00 |
+| 5/18/2011 | 11-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 5/18/2011 | 11-1093 | Civil Law | Passed | 0.0 | 1.00 |
+| 5/18/2011 | 11-0928 | Workplace - Other | Passed | 0.0 | 0.50 |
+| 5/18/2011 | 11-1116 | Legal/Legislative Update | Passed | 0.0 | 3.00 |
+| 4/25/2011 | 11-0699 | CAD / MDS / MDT System | Passed | 0.0 | 8.00 |
+| 2/2/2011 | 11-0953 | CPR / First Aid / AED | Passed | 0.0 | 4.00 |
+| 12/31/2010 | 10-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
+| 12/31/2010 | 10-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 3.50 |
+| 12/15/2010 | 10-1173 | Lidar Operators Course | Passed | 0.0 | 4.00 |
+| 12/14/2010 | 10-1179 | Radar Operators Course | Passed | 0.0 | 8.00 |
+| 9/15/2010 | 10-1075 | Intoxilyzer 8000 | Passed | 0.0 | 4.00 |
+| 8/31/2010 | 10-0114 | Defensive Tactics | Passed | 0.0 | 2.50 |
+| 6/22/2010 | 10T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
+| 5/27/2010 | 10-0175 | Tactical Firearms | Passed | 0.0 | 4.00 |
+| 5/27/2010 | 10-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 4.00 |
+| 3/26/2010 | 10-1061 | Drug Field Kit Testing | Passed | 0.0 | 2.00 |
+| 3/25/2010 | 10-0114 | Defensive Tactics | Passed | 0.0 | 88.00 |
+| 3/25/2010 | 10-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 59.00 |
+| 3/25/2010 | 10-0129 | Firearms Training | Passed | 0.0 | 76.00 |
+| 3/25/2010 | 10-0683 | Crisis Intervention | Passed | 0.0 | 29.00 |
+| 3/18/2010 | 10-0834 | Investigation Training - Other | Passed | 0.0 | 4.50 |
+| 3/18/2010 | 10-1122 | Law  Legal - Other | Passed | 0.0 | 53.50 |
+| 3/17/2010 | 10-0109 | Confrontational Simulation | Passed | 0.0 | 9.00 |
+| 3/16/2010 | 10-0273 | Taser X26 Certification | Passed | 0.0 | 9.50 |
+| 3/15/2010 | 10-0101 | Active Shooter - Tactical Response | Passed | 0.0 | 12.50 |
+| 3/10/2010 | 10-0795 | Domestic Violence Investigations | Passed | 0.0 | 14.50 |
+| 3/3/2010 | 10-0839 | Radio Procedures | Passed | 0.0 | 9.50 |
+| 3/2/2010 | 10-1204 | EVOC / PIT | Passed | 0.0 | 23.00 |
+| 2/25/2010 | 10-0985 | Hostage / Tactical Negotiation Team (HNT/TNT) Trng | Passed | 0.0 | 1.50 |
+| 2/18/2010 | 10-1122 | Law  Legal - Other | Passed | 0.0 | 4.00 |
+| 2/11/2010 | 10-0925 | Use of Force Policy | Passed | 0.0 | 4.00 |
+| 1/28/2010 | 10-1122 | Law  Legal - Other | Passed | 0.0 | 16.50 |
+| 1/27/2010 | 10-0854 | Gas Mask Training | Passed | 0.0 | 1.00 |
+| 1/27/2010 | 10-1090 | K-9 Introduction | Passed | 0.0 | 3.00 |
+| 1/27/2010 | 10-1251 | Tactical Call-Out | Passed | 0.0 | 2.00 |
+| 1/20/2010 | 10-0630 | Verbal Communication - Other | Passed | 0.0 | 9.00 |
+| 1/13/2010 | 10-1252 | Tactical Communication | Passed | 0.0 | 4.50 |
+| 1/6/2010 | 10-0918 | Employee Assistance Program | Passed | 0.0 | 1.00 |
+| 1/6/2010 | 10-0925 | Use of Force Policy | Passed | 0.0 | 1.00 |
+| 1/6/2010 | 10-0925 | Use of Force Policy | Passed | 0.0 | 1.00 |
+| 1/6/2010 | 10-0925 | Use of Force Policy | Passed | 0.0 | 1.00 |
+| 1/6/2010 | 10-1094 | Civil Liability Training | Passed | 0.0 | 1.00 |
+| 1/6/2010 | 10-0660 | Culture / Diversity - Other | Passed | 0.0 | 2.00 |
+| 1/4/2010 | 10-0129 | Firearms Training | Passed | 0.0 | 4.00 |
+| 1/4/2010 | 10-0915 | Agency Policies / Procedures | Passed | 0.0 | 1.00 |
+| 12/31/2009 | 09-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 1.00 |
+| 12/18/2009 | 09-0009 | DPSST Basic Police COD | Passed | 0.0 | 80.00 |
+| 12/14/2009 | 09-0952 | CPR / First Aid | Passed | 0.0 | 4.00 |
+| 11/18/2009 | 09-0715 | LEDS Inquiry Level | Passed | 0.0 | 4.00 |
+| 9/25/2009 | 09-0395 | IS 700  NIMS, An Introduction | Passed | 0.0 | 3.00 |
+| 8/26/2009 | 09-1269 | Field Training  Evaluation Program | Passed | 0.0 | 3.00 |
+| 8/26/2009 | 09-0245 | Prisoner Restraint | Passed | 0.0 | 2.00 |
+| 8/25/2009 | 09-0388 | ICS 100 / IS 100 - Introduction to ICS | Passed | 0.0 | 3.00 |
+| 8/25/2009 | 09-0129 | Firearms Training | Passed | 0.0 | 10.00 |
+| 8/24/2009 | 09-0121 | Patrol Tactics - DT Focus | Passed | 0.0 | 4.00 |
+| 6/10/2009 | 09U002 | Approved Out-of-State Training | Passed | 0.0 | 1218.75 |

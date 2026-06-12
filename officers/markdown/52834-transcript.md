@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2026 | OCS2902C | CNT Monthly Training - Negotiations | Passed | 0.0 | 8.00 |
 | 4/17/2026 | OCS1114C | CNT Monthly Training - Scenario / De-escalation | Passed | 0.0 | 8.00 |
 | 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
