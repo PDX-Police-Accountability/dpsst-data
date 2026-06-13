@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2026
+  course: APD4224C
+  title: Investigator / Detective Conference 4/28 to 4/30
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 3/31/2026
   course: APD0333C
   title: Range Qualification and Pistol Training

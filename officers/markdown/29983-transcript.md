@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2026 | APD4224C | Investigator / Detective Conference 4/28 to 4/30 | Passed | 0.0 | 21.00 |
 | 3/31/2026 | APD0333C | Range Qualification and Pistol Training | Passed | 0.0 | 8.00 |
 | 12/9/2025 | APD1722C | Active Threat Tactics | Passed | 0.0 | 4.00 |
 | 12/9/2025 | APD2811C | Tactical Medical | Passed | 0.0 | 4.00 |

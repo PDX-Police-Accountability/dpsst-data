@@ -98,6 +98,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2026
+  course: OCS2358C
+  title: May 2026 SWAT Sniper Training
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/30/2026
+  course: OCS3950C
+  title: Feb, Mar, April Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/27/2026
+  course: OCS1269C
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/24/2026
+  course: OCS2098C
+  title: 2026 Annual Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/24/2026
+  course: OCS2098C
+  title: 2026 Annual Handgun Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
+- date: 4/23/2026
+  course: OCS0851C
+  title: 2026 Feb, Mar, April Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/17/2026
   course: OCS0452C
   title: April 2026 TEMS Firearms
@@ -182,6 +218,30 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 1/30/2026
+  course: OCS2908C
+  title: 2026 1st Qtr Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/30/2026
+  course: OCS2908C
+  title: 2026 1st Qtr Patrol Shotgun
+  status: Instructed
+  score: '0.0'
+  hours: '21.00'
+- date: 1/29/2026
+  course: OCS2721C
+  title: MILO- Deescalation and use of force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2026
+  course: OCS2721C
+  title: MILO- Deescalation and use of force
+  status: Instructed
+  score: '0.0'
+  hours: '15.00'
 - date: 1/28/2026
   course: OCS2184C
   title: Marksmanship, Dec 2025 Monthly Firearms

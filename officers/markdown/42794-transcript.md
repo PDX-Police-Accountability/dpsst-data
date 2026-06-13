@@ -44,6 +44,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2026 | OCS2358C | May 2026 SWAT Sniper Training | Instructed | 0.0 | 6.00 |
+| 4/30/2026 | OCS3950C | Feb, Mar, April Monthly Firearms | Instructed | 0.0 | 3.00 |
+| 4/27/2026 | OCS1269C | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
+| 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Instructed | 0.0 | 25.00 |
+| 4/23/2026 | OCS0851C | 2026 Feb, Mar, April Monthly Firearms | Instructed | 0.0 | 3.00 |
 | 4/17/2026 | OCS0452C | April 2026 TEMS Firearms | Instructed | 0.0 | 2.00 |
 | 4/16/2026 | OCS3651C | Marksmanship, Handgun Qualification | Instructed | 0.0 | 3.00 |
 | 4/13/2026 | OCS2713C | Marksmanship, Handgun Qualification | Instructed | 0.0 | 2.00 |
@@ -58,6 +64,10 @@
 | 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Instructed | 0.0 | 35.00 |
 | 2/9/2026 | OCS2974C | Holster Speed / Marksmanship | Instructed | 0.0 | 1.00 |
 | 2/5/2026 | OCS1843C | 2026 Honor Guard Revolver | Instructed | 0.0 | 2.00 |
+| 1/30/2026 | OCS2908C | 2026 1st Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
+| 1/30/2026 | OCS2908C | 2026 1st Qtr Patrol Shotgun | Instructed | 0.0 | 21.00 |
+| 1/29/2026 | OCS2721C | MILO- Deescalation and use of force | Passed | 0.0 | 1.00 |
+| 1/29/2026 | OCS2721C | MILO- Deescalation and use of force | Instructed | 0.0 | 15.00 |
 | 1/28/2026 | OCS2184C | Marksmanship, Dec 2025 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 1/23/2026 | OCS2111C | Marksmanship, Nov and Dec 2025 Monthly Firearms | Instructed | 0.0 | 3.00 |
 | 1/22/2026 | OCS4389C | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
