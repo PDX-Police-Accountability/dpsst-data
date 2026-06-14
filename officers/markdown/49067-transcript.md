@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/17/2026 | 3/3/2028 |
 | Certification Cards | First Aid and CPR | 4/1/2026 | 4/1/2028 |
 | Certification Cards | First Aid and CPR | 3/17/2026 | 3/3/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
@@ -38,12 +39,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/18/2026 | OCS1158C | Community Peer CIT and Referral | Passed | 0.0 | 1.50 |
+| 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
+| 4/24/2026 | OCS2002C | Peer Quarterly training | Passed | 0.0 | 4.00 |
+| 4/17/2026 | OCS0103C | April DTs | Passed | 0.0 | 1.00 |
 | 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |
 | 4/2/2026 | OSH4469C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 1) | Passed | 0.0 | 8.00 |
 | 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
 | 3/17/2026 | OCS1777C | Take Downs Ground Offense/Handcuffing | Passed | 0.0 | 1.00 |
 | 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Passed | 0.0 | 1.00 |
+| 1/30/2026 | OCS2908C | 2026 1st Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 1/15/2026 | OCS1848C | Striking | Passed | 0.0 | 1.00 |
 | 12/23/2025 | OCS0401C | Low Light Shoot / No-Shoot Decision Making | Passed | 0.0 | 1.00 |
 | 12/17/2025 | LOP4008C | West Metro - Spring Motors School - 80hrs | Instructed | 0.0 | 5.00 |

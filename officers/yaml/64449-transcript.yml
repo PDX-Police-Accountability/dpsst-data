@@ -25,12 +25,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 5/20/2026
-  course: PDP4517D
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/20/2026
   course: PDP1125C
   title: CPR/First Aid
   status: Passed

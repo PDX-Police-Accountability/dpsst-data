@@ -23,7 +23,6 @@
 | Certification Cards | First Aid and CPR | 5/20/2026 | 5/20/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 4/10/2024 | 4/9/2026 |
 | Code of Ethics | Law Enforcement Signed | 11/27/2023 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -31,7 +30,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/20/2026 | PDP4517D | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/20/2026 | PDP1125C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/14/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 3/14/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

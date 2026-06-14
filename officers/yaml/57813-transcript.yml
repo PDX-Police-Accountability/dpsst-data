@@ -122,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/30/2026
+  course: OCS0553C
+  title: Basic Narcotics Investigations
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 1/15/2026
   course: PDP1727C
   title: 2025 AR In-Service Wrap Up

@@ -29,6 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/17/2026 | 3/3/2028 |
 | Certification Cards | First Aid and CPR | 4/1/2026 | 4/1/2028 |
 | Certification Cards | First Aid and CPR | 2/20/2026 | 3/3/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
@@ -45,13 +46,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/15/2026 | OCS2902C | CNT Monthly Training - Negotiations | Passed | 0.0 | 8.00 |
+| 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/17/2026 | OCS1114C | CNT Monthly Training - Scenario / De-escalation | Passed | 0.0 | 8.00 |
+| 4/17/2026 | OCS0103C | April DTs | Passed | 0.0 | 1.00 |
 | 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
 | 3/20/2026 | OCS4425C | CNT Monthly Training - Scenarios | Passed | 0.0 | 8.00 |
 | 2/20/2026 | OCS2223C | Forward Negotiating / Armored Vehicle Driving | Passed | 0.0 | 4.00 |
 | 2/20/2026 | OCS3018C | Striking Takedowns | Passed | 0.0 | 1.00 |
 | 2/2/2026 | OCS3309C | Below 100 | Passed | 0.0 | 0.50 |
+| 1/29/2026 | OCS2721C | MILO- Deescalation and use of force | Passed | 0.0 | 1.00 |
 | 1/16/2026 | OCS3980C | CNT Monthly Training - Deescalation | Passed | 0.0 | 8.00 |
 | 12/23/2025 | OCS0401C | Low Light Shoot / No-Shoot Decision Making | Passed | 0.0 | 1.00 |
 | 12/20/2025 | OCS4192C | Emotional Intelligence | Passed | 0.0 | 3.00 |

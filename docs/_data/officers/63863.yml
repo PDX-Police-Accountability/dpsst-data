@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/10/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 12/13/2024
   certificate: Police Officer
   level: Basic
@@ -102,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/8/2025
+  course: PDP2366C
+  title: LEDA Law Enforcement UAS Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/31/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training

@@ -133,6 +133,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/30/2026
+  course: OCS0553C
+  title: Basic Narcotics Investigations
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 1/22/2026
   course: PDP4425C
   title: 2026 SERT Training - FIREARMS

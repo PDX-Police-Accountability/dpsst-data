@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2026
+  course: OCS2098C
+  title: 2026 Annual Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2026
+  course: OCS0103C
+  title: April DTs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/1/2026
   course: OCS2627C
   title: CPR First Aid
@@ -2475,6 +2487,10 @@ training_records:
   score: '0.0'
   hours: '6.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/17/2026
+  expiration_date: 3/3/2028
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/1/2026

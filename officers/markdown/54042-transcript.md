@@ -29,6 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/17/2026 | 3/3/2028 |
 | Certification Cards | First Aid and CPR | 4/1/2026 | 4/1/2028 |
 | Certification Cards | First Aid and CPR | 2/20/2026 | 3/3/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
@@ -42,11 +43,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
+| 4/17/2026 | OCS0103C | April DTs | Passed | 0.0 | 1.00 |
 | 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
 | 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Passed | 0.0 | 1.00 |
 | 2/20/2026 | OCS3018C | Striking Takedowns | Passed | 0.0 | 1.00 |
 | 2/2/2026 | OCS3309C | Below 100 | Passed | 0.0 | 0.50 |
+| 1/29/2026 | OCS2721C | MILO- Deescalation and use of force | Passed | 0.0 | 1.00 |
 | 1/15/2026 | OCS1848C | Striking | Passed | 0.0 | 1.00 |
 | 11/29/2025 | OCS2652C | Taser | Passed | 0.0 | 3.00 |
 | 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |

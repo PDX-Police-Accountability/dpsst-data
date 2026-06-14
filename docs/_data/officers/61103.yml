@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2026
+  course: PDP3714C
+  title: FTEP New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
 - date: 3/8/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

@@ -50,6 +50,7 @@
 | 2/4/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP0228C | After Action Reports PowerPoint (2020) | Passed | 0.0 | 0.50 |
 | 2/3/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
+| 1/30/2026 | OCS0553C | Basic Narcotics Investigations | Passed | 0.0 | 80.00 |
 | 1/22/2026 | PDP4425C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/15/2026 | PDP1381C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/8/2026 | PDP0675C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

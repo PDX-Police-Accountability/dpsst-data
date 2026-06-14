@@ -55,6 +55,8 @@
 | 3/9/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 3/6/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 1/31/2026 | PDP1646C | IS-200 Basic Inc Command Syst for Init Response | Passed | 0.0 | 4.00 |
+| 1/30/2026 | PDP0637C | ICS-100 Intro to Inc Command System | Passed | 0.0 | 2.00 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 11/28/2025 | PDP0373C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/23/2025 | PDP1892B | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |

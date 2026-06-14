@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/30/2026
+  course: OCS0553C
+  title: Basic Narcotics Investigations
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 1/27/2026
   course: PDP3783C
   title: 2026 Legal Interpreting in Policing In-Service

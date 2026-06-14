@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2026 | OCP1758C | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 5/11/2026 | OCP1777C | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/5/2026 | OCP4339C | Taser 7 Certification | Passed | 0.0 | 3.00 |
 | 5/5/2026 | OCP1241C | Defensive Tactics | Instructed | 0.0 | 3.00 |

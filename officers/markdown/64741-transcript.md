@@ -32,7 +32,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/19/2026 | PDP1612D | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/19/2026 | PDP0546C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 4/14/2026 | HBP1561C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |
 | 3/16/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

@@ -25,12 +25,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 5/20/2026
-  course: PDP4517D
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 5/20/2026
   course: PDP1125C
   title: CPR/First Aid
   status: Passed
@@ -871,10 +865,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/10/2024
-  expiration_date: 4/9/2026
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 11/27/2023

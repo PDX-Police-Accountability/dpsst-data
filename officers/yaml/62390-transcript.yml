@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2026
+  course: PDP3714C
+  title: FTEP New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
 - date: 3/6/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -54,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/30/2026
+  course: OCS0553C
+  title: Basic Narcotics Investigations
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 1/23/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

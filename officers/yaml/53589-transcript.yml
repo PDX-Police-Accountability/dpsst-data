@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2026
+  course: OCS2098C
+  title: 2026 Annual Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/1/2026
   course: OCS1348C
   title: CPR First Aid
@@ -82,6 +88,12 @@ training_records:
 - date: 2/20/2026
   course: OCS3018C
   title: Striking Takedowns
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2026
+  course: OCS2721C
+  title: MILO- Deescalation and use of force
   status: Passed
   score: '0.0'
   hours: '1.00'

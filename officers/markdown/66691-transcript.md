@@ -105,6 +105,8 @@
 | 2/4/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP4467C | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 1/8/2026 | PDP1646C | IS-200 Basic Inc Command Syst for Init Response | Passed | 0.0 | 4.00 |
+| 1/6/2026 | PDP0637C | ICS-100 Intro to Inc Command System | Passed | 0.0 | 2.00 |
 | 10/23/2025 | PDP1892B | 2025 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 10/15/2025 | PDP4406B | TEEX WMD Terrorism Aware for Emer Responders | Passed | 0.0 | 8.00 |
 | 10/15/2025 | PDP2205B | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

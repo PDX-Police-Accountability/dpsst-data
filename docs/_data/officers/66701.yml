@@ -186,6 +186,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 1/31/2026
+  course: PDP1646C
+  title: IS-200 Basic Inc Command Syst for Init Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/30/2026
+  course: PDP0637C
+  title: ICS-100 Intro to Inc Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/22/2026
   course: REG2570C
   title: INTOX 8000 (Hours included in Basic)

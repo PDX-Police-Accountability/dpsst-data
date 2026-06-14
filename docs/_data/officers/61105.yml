@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2026
+  course: OCS2560C
+  title: Covert Surveillance
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/18/2026
   course: NGP4505C
   title: Autism for Law Enforcement

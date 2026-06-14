@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/26/2026 | OCP3444C | Firearms/Use of Force | Instructed | 0.0 | 7.00 |
+| 5/21/2026 | OCP1758C | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 5/14/2026 | OCP3027C | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 5/11/2026 | OCP1777C | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/3/2026 | OCP0280C | EVOC | Instructed | 0.0 | 7.00 |

@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 5/20/2026
+  course: PDP3714C
+  title: FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 attribute_records: []
 education_records: []
