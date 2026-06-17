@@ -4,7 +4,7 @@
 | name | Musser, Jennifer M. |
 | dpsst_identifier | 40710 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/30/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 3/5/2009 | Portland Police Bureau | Promotion | Detective |  |  |
 | 4/19/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/21/2009 | Police Officer | Advanced | Granted | 9/21/2009 |  |  |
-| 9/21/2009 | Police Officer | Intermediate | Granted | 9/21/2009 |  |  |
-| 5/31/2002 | Police Officer | Basic | Granted | 5/31/2002 |  |  |
+| 9/21/2009 | Police Officer | Advanced | Granted | 9/21/2009 | 8/30/2026 |  |
+| 9/21/2009 | Police Officer | Intermediate | Granted | 9/21/2009 | 8/30/2026 |  |
+| 5/31/2002 | Police Officer | Basic | Granted | 5/31/2002 | 8/30/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
