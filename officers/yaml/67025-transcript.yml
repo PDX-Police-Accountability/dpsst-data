@@ -66,16 +66,16 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/24/2026
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 3/12/2026
   course: REG1205C
   title: INTOX 8000 (Hours included in Basic)
   status: Passed
-  score: '0.0'
-  hours: '0.00'
-- date: 1/5/2026
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 12/22/2025

@@ -74,16 +74,16 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 2/6/2026
+  course: 26-0029
+  title: DPSST Supervision
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 2/1/2026
   course: REQSUPV
   title: 'REQUIRED TRAINING:  Supervision'
   status: Required
-  score: '0.0'
-  hours: '0.00'
-- date: 1/5/2026
-  course: 26-0029
-  title: DPSST Supervision
-  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 12/30/2025

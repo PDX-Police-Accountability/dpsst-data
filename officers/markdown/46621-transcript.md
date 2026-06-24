@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 1.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |

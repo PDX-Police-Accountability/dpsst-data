@@ -34,9 +34,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/24/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/2/2026 | 26-0004 | DPSST Basic Police COD Self-Study | Cancelled | 0.0 | 0.00 |
-| 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 12/1/2025 | HBS3003C | Virtual - Nasal Naloxone (NARCAN) | Passed | 0.0 | 0.25 |
 | 12/1/2025 | HBS2930C | Virtual - Crowd Control | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS3694C | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |

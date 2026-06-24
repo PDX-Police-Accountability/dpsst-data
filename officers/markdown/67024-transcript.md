@@ -34,8 +34,8 @@
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Passed | 0.0 | 2.00 |
 | 5/4/2026 | PDP1906C | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 4/29/2026 | PDP1017C | FTEP Geography | Passed | 0.0 | 2.00 |
+| 4/24/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
-| 1/5/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 12/24/2025 | PDP1043C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 12/24/2025 | PDP0027C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 12/24/2025 | PDP1007C | ICS-200 Basic Inc Command System for Init Resp | Passed | 0.0 | 4.00 |

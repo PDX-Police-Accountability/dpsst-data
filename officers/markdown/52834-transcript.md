@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 1.00 |
 | 5/15/2026 | OCS2902C | CNT Monthly Training - Negotiations | Passed | 0.0 | 8.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/17/2026 | OCS1114C | CNT Monthly Training - Scenario / De-escalation | Passed | 0.0 | 8.00 |
