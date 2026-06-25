@@ -71,6 +71,7 @@
 | 1/5/2026 | PDP4281C | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.75 |
 | 1/5/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
 | 1/5/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP0049C | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 6/13/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 6/4/2025 | PDP2323A | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/4/2025 | PDP3090B | 2024-5 Naloxone (Narcan) Admin Guidelines | Passed | 0.0 | 0.25 |

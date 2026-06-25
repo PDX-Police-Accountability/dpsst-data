@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2026 | OSH1521C | HIPS Mobile and Foot Surveillance | Passed | 0.0 | 30.00 |
 | 3/20/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/8/2026 | PDP2080C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
 | 3/8/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

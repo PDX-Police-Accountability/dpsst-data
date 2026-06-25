@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 3/27/2026
+  course: PDP2024C
+  title: 2021 External Training The Advanced SEND Protocol
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/26/2026
   course: PDP3042C
   title: FTEP Hazmat/WMD APR Gas Mask
@@ -258,6 +264,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/4/2026
+  course: PDP4406C
+  title: 2021 Online IS Language Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/4/2026
+  course: PDP0404C
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/2/2026
   course: PDP0325C
   title: 2019-5 TT Enforcement of Protection Orders
@@ -489,6 +507,12 @@ training_records:
 - date: 1/8/2026
   course: PDP1646C
   title: IS-200 Basic Inc Command Syst for Init Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/8/2026
+  course: PDP2574C
+  title: IS-700 National Incid Management System
   status: Passed
   score: '0.0'
   hours: '4.00'

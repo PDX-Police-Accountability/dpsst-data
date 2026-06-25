@@ -96,6 +96,7 @@
 | 1/11/2026 | PDP4106C | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 1/11/2026 | PDP2421C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 1/11/2026 | PDP4406C | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 1/8/2026 | PDP0814C | RegJin RMS/MRE Report Writing | Passed | 0.0 | 15.00 |
 | 1/7/2026 | PDP0325C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 1/6/2026 | PDP1753C | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |

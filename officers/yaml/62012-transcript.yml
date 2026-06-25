@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 2/27/2026
+  course: PDP2254C
+  title: 2021 PIO Photos for Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/26/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting
@@ -319,6 +325,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/25/2026
+  course: PDP4249C
+  title: 2021 Online In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/25/2026
+  course: PDP3364C
+  title: 2021 Legal Bulletin on the Effects of Measure 110
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/24/2026
   course: PDP1554C
   title: 2025 All Sworn In-Service ABLE (Video)

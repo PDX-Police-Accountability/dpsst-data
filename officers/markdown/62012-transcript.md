@@ -40,6 +40,7 @@
 | 2/27/2026 | PDP2871C | 2020 Supervisor IS Crime Scene Management Part 2 | Passed | 0.0 | 1.00 |
 | 2/27/2026 | PDP2719C | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
 | 2/27/2026 | PDP2014C | 2024-3IS PP Shooting at Moving Vehicle Video 1 | Passed | 0.0 | 1.25 |
+| 2/27/2026 | PDP2254C | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
 | 2/26/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 2/26/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 2/25/2026 | PDP0121C | 2019 Chief's Office SPLC Sovereign Citizen Mvmt | Passed | 0.0 | 0.25 |
@@ -82,6 +83,8 @@
 | 2/25/2026 | PDP0764C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
 | 2/25/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/25/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 2/25/2026 | PDP4249C | 2021 Online In-Service Legal Updates | Passed | 0.0 | 0.75 |
+| 2/25/2026 | PDP3364C | 2021 Legal Bulletin on the Effects of Measure 110 | Passed | 0.0 | 0.50 |
 | 2/24/2026 | PDP1554C | 2025 All Sworn In-Service ABLE (Video) | Passed | 0.0 | 1.75 |
 | 2/24/2026 | PDP0753C | 2025 ECIT Call Resolution | Passed | 0.0 | 0.50 |
 | 2/24/2026 | PDP1094C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |

@@ -36,6 +36,7 @@
 | 3/31/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP4120C | DIR 660.10, PE Procedures/2018-5 TT 100% Collect | Passed | 0.0 | 0.50 |
 | 3/30/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 3/30/2026 | PDP2024C | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 3/27/2026 | PDP2901C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |

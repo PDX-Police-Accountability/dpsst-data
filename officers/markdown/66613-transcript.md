@@ -106,6 +106,7 @@
 | 1/11/2026 | PDP4191C | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 1/11/2026 | PDP0382C | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 1/11/2026 | PDP3363C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 1/11/2026 | PDP0404C | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 1/8/2026 | PDP0814C | RegJin RMS/MRE Report Writing | Passed | 0.0 | 15.00 |
 | 1/6/2026 | PDP1753C | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 12/30/2025 | PDP1543C | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

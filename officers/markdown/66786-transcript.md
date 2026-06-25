@@ -36,6 +36,8 @@
 | 3/26/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP4519C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 3/26/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/26/2026 | PDP4406C | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP2024C | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 3/23/2026 | PDP4452C | Body Worn Camera Training | Passed | 0.0 | 2.00 |

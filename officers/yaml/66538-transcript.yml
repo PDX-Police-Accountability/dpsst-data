@@ -390,6 +390,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/12/2026
+  course: PDP4406C
+  title: 2021 Online IS Language Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2026
+  course: PDP0404C
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/8/2026
   course: PDP0814C
   title: RegJin RMS/MRE Report Writing

@@ -40,7 +40,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2026 | HBP0407C | In-Service 2026-2, Range | Instructed | 0.0 | 4.00 |
+| 4/22/2026 | HBP4315C | In-Service 2026-2, Range | Instructed | 0.0 | 4.00 |
 | 4/20/2026 | SMP2865C | Axon Taser Instructor Course | Passed | 0.0 | 16.00 |
+| 4/15/2026 | HBP3568C | In-Service 2026-2, Range | Instructed | 0.0 | 4.00 |
+| 4/8/2026 | HBP1991C | In-Service 2026-2, Range | Instructed | 0.0 | 4.00 |
+| 4/1/2026 | HBP3956C | In-Service 2026-2, Range - FTI prep | Passed | 0.0 | 2.00 |
+| 4/1/2026 | HBP1117C | In-Service 2026-2, Range - FTI prep | Instructed | 0.0 | 2.00 |
 | 2/25/2026 | HBP0383C | K9 Arrest and Control | Passed | 0.0 | 4.50 |
 | 2/25/2026 | HBP0098C | Tactical De-escalation | Passed | 0.0 | 4.50 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |

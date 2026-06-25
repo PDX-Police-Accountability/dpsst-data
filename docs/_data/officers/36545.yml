@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2026
+  course: HBP0407C
+  title: In-Service 2026-2, Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/29/2026
   course: HBP3193C
   title: CPR/First Aid/AED

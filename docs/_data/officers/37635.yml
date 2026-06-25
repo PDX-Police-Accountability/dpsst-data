@@ -75,6 +75,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/14/2026
+  course: EGP3725C
+  title: DT Skills/ACAP
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/14/2026
+  course: EGP3726C
+  title: MRT Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/30/2026
   course: EGP0484C
   title: SWAT Search Skills

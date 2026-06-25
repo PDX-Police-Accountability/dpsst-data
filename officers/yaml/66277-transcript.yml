@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/22/2026
+  course: HBP4315C
+  title: In-Service 2026-2, Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/9/2026
   course: HBP2466C
   title: Legal Update - HB 4138

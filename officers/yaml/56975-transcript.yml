@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2026
+  course: OSH1521C
+  title: HIPS Mobile and Foot Surveillance
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 3/16/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

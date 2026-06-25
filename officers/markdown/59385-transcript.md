@@ -37,10 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/26/2026 | REG2422C | Understanding and Improving DV Investigation | Passed | 0.0 | 4.00 |
-| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 14.00 |
 | 2/12/2026 | LCP0199C | FTEP Supervision Course | Passed | 0.0 | 14.00 |
 | 2/6/2026 | 26-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
-| 2/1/2026 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2025 | PSU0099C | Duty Pistol / Tactical Shooting | Passed | 0.0 | 11.50 |
 | 12/15/2025 | PSU2172C | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |

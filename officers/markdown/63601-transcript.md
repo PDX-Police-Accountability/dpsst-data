@@ -72,6 +72,7 @@
 | 1/5/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP0049C | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 6/17/2025 | PDP2702B | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 4/19/2025 | PDP1481B | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 4/18/2025 | PDP2267B | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |

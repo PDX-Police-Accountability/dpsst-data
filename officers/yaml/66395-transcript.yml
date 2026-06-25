@@ -414,6 +414,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/5/2026
+  course: PDP0404C
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/17/2025
   course: PDP3625C
   title: 2021 Online IS Language Access - Translation

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2026 | VND3496C | Washington County CIT Training | Passed | 0.0 | 40.00 |
 | 5/8/2026 | BVP3495C | May 2026 Pistol Range IST 050826PM | Passed | 0.0 | 3.00 |
 | 4/14/2026 | HBP1561C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |
 | 4/13/2026 | BVP3647C | April 2026 Control Tactics IST 041326 PM | Passed | 0.0 | 3.00 |

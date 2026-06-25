@@ -25,11 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/1/2026 | 4/1/2028 |
-| Certification Cards | First Aid and CPR | 3/17/2026 | 3/3/2028 |
-| Certification Cards | First Aid and CPR | 2/20/2026 | 3/3/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
 | Code of Ethics | Signed | 3/29/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,13 +37,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 1.00 |
+| 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 0.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
 | 3/17/2026 | OCS1777C | Take Downs Ground Offense/Handcuffing | Passed | 0.0 | 1.00 |
 | 2/20/2026 | OCS3018C | Striking Takedowns | Passed | 0.0 | 1.00 |
 | 1/29/2026 | OCS2721C | MILO- Deescalation and use of force | Passed | 0.0 | 1.00 |
+| 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 12/23/2025 | OCS0401C | Low Light Shoot / No-Shoot Decision Making | Passed | 0.0 | 1.00 |
 | 12/20/2025 | OCS4192C | Emotional Intelligence | Passed | 0.0 | 3.00 |
 | 12/15/2025 | OCS2110C | Use of Force Law Update | Passed | 0.0 | 1.00 |

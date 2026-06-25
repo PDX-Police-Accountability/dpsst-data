@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/29/2026 | WLP1761C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
+| 5/27/2026 | OCA3190C | May MCT-Child Death Investigations | Passed | 0.0 | 1.00 |
 | 5/12/2026 | RRP1631C | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.50 |
 | 4/29/2026 | OCA2047C | MCT - Investigative Strategies / Insanity Defense | Passed | 0.0 | 1.25 |
 | 3/17/2026 | WLP2992C | WLPD 2026 TASER Recertification | Passed | 0.0 | 2.00 |

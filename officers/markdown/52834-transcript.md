@@ -29,12 +29,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 4/17/2026 | 3/3/2028 |
 | Certification Cards | First Aid and CPR | 4/1/2026 | 4/1/2028 |
-| Certification Cards | First Aid and CPR | 2/20/2026 | 3/3/2028 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/11/2021 |  |
 | Code of Ethics | Telecommunication Signed | 7/28/2019 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
@@ -45,7 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 1.00 |
+| 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 0.00 |
 | 5/15/2026 | OCS2902C | CNT Monthly Training - Negotiations | Passed | 0.0 | 8.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/17/2026 | OCS1114C | CNT Monthly Training - Scenario / De-escalation | Passed | 0.0 | 8.00 |
@@ -58,6 +55,8 @@
 | 2/2/2026 | OCS3309C | Below 100 | Passed | 0.0 | 0.50 |
 | 1/29/2026 | OCS2721C | MILO- Deescalation and use of force | Passed | 0.0 | 1.00 |
 | 1/16/2026 | OCS3980C | CNT Monthly Training - Deescalation | Passed | 0.0 | 8.00 |
+| 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 12/23/2025 | OCS0401C | Low Light Shoot / No-Shoot Decision Making | Passed | 0.0 | 1.00 |
 | 12/20/2025 | OCS4192C | Emotional Intelligence | Passed | 0.0 | 3.00 |
 | 12/15/2025 | OCS2110C | Use of Force Law Update | Passed | 0.0 | 1.00 |

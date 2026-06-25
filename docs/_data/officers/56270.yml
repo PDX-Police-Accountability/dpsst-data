@@ -140,6 +140,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/8/2026
+  course: PDP2568C
+  title: 2021 Equity Training Series Introduction Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/8/2026
+  course: PDP3313C
+  title: 2021 Online IS Equity Training Series Racism Pt 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/3/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

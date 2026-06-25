@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2026
+  course: HBP3568C
+  title: In-Service 2026-2, Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/4/2026
   course: HBP3163C
   title: K9 Arrest and Control

@@ -96,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 3/26/2026
+  course: PDP2024C
+  title: 2021 External Training The Advanced SEND Protocol
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/25/2026
   course: PDP2229C
   title: FTEP Orientation
@@ -183,6 +189,12 @@ training_records:
 - date: 1/2/2026
   course: PDP1646C
   title: IS-200 Basic Inc Command Syst for Init Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/2/2026
+  course: PDP2574C
+  title: IS-700 National Incid Management System
   status: Passed
   score: '0.0'
   hours: '4.00'

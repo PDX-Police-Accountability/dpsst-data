@@ -70,6 +70,7 @@
 | 2/8/2026 | PDP1837C | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP0306C | AA [PJU-101-H] Introduction to Procedural Justice | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 2/8/2026 | PDP0404C | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 2/4/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP2319C | 2026-1 Advanced Academy Public Order | Passed | 0.0 | 4.50 |
 | 2/2/2026 | PDP0538C | 2026-1 Advanced Academy Patrol Proc Other | Passed | 0.0 | 9.00 |

@@ -366,6 +366,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/7/2026
+  course: PDP0404C
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/6/2026
   course: PDP1753C
   title: FTEP Post Basic CEW

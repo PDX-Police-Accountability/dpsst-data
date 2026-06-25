@@ -85,6 +85,7 @@
 | 1/7/2026 | PDP4191C | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 1/7/2026 | PDP0382C | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
 | 1/7/2026 | PDP3363C | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 1/7/2026 | PDP0404C | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 1/6/2026 | PDP1753C | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 1/6/2026 | PDP3204C | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
 | 1/6/2026 | PDP1094C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |

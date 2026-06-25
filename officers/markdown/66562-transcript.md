@@ -55,6 +55,8 @@
 | 3/9/2026 | PDP2596C | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
+| 3/9/2026 | PDP3900C | 2021 Online IS Training Equity Trng Series - Prep | Passed | 0.0 | 0.50 |
+| 3/9/2026 | PDP1171C | 2021 Online IS Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP2308C | RegJIN RMS/MRE Report Writing Training | Passed | 0.0 | 14.00 |
 | 3/3/2026 | PDP2198C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 3/3/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
@@ -66,6 +68,7 @@
 | 3/3/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/3/2026 | PDP2535C | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 3/2/2026 | PDP2024C | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 2/27/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 2/4/2026 | REG0443C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/15/2026 | REG2450C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

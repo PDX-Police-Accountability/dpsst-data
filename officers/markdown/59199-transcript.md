@@ -43,6 +43,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2026 | EGP4392C | SWAT Shield Techniques | Passed | 0.0 | 7.50 |
+| 5/27/2026 | EGP3201C | Vehicle/Pedestrian Arrest | Passed | 0.0 | 8.00 |
+| 5/14/2026 | EGP3302C | AVI Response Protocol Refresher  Medical Skills | Passed | 0.0 | 3.00 |
+| 5/14/2026 | EGP3725C | DT Skills/ACAP | Passed | 0.0 | 3.00 |
+| 5/14/2026 | EGP3726C | MRT Updates | Passed | 0.0 | 0.50 |
 | 4/30/2026 | EGP0484C | SWAT Search Skills | Instructed | 0.0 | 4.00 |
 | 4/30/2026 | EGP0809C | SWAT Firearms Qualifications | Passed | 0.0 | 4.00 |
 | 4/29/2026 | EGP3935C | 40MM/Pepperball/FSDD/CS Gas/FSDD Certifications | Passed | 0.0 | 8.00 |

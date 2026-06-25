@@ -24,12 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 4/17/2026 | 3/3/2028 |
 | Certification Cards | First Aid and CPR | 4/1/2026 | 4/1/2028 |
-| Certification Cards | First Aid and CPR | 3/17/2026 | 3/3/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/6/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
 ## Education
@@ -39,13 +36,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 1.00 |
+| 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 0.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/17/2026 | OCS0103C | April DTs | Passed | 0.0 | 1.00 |
 | 4/1/2026 | OCS2627C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/17/2026 | OCS1777C | Take Downs Ground Offense/Handcuffing | Passed | 0.0 | 1.00 |
 | 2/26/2026 | OCS4419C | February 2026 Monthly Firearms Marksmanship | Passed | 0.0 | 1.00 |
 | 1/28/2026 | OCS2184C | Marksmanship, Dec 2025 Monthly Firearms | Passed | 0.0 | 2.00 |
+| 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 12/20/2025 | OCS4192C | Emotional Intelligence | Passed | 0.0 | 3.00 |
 | 11/26/2025 | OCS1091C | Taser | Passed | 0.0 | 3.00 |
 | 11/26/2025 | OCS1478C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |

@@ -88,9 +88,11 @@
 | 1/20/2026 | PDP3161C | 2025-3 CAO Legal Updates for 03/2024-06/2024 | Passed | 0.0 | 0.75 |
 | 1/20/2026 | PDP2901C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 1/20/2026 | PDP0359C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 1/20/2026 | PDP0404C | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 1/14/2026 | PDP2252C | FTEP Orientation | Passed | 0.0 | 6.45 |
 | 1/14/2026 | PDP2930C | 2025-2 CAO Legal Updates for 12/2023-02/2024 | Passed | 0.0 | 0.50 |
 | 1/14/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 1/14/2026 | PDP4406C | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 1/13/2026 | PDP3224C | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 1/13/2026 | PDP3350C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 1/13/2026 | PDP0205C | FTEP Report Writing | Passed | 0.0 | 2.00 |

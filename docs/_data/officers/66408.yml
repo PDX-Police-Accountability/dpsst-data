@@ -276,6 +276,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/8/2026
+  course: PDP0404C
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 2/4/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

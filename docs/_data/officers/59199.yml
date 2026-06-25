@@ -74,6 +74,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/28/2026
+  course: EGP4392C
+  title: SWAT Shield Techniques
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 5/27/2026
+  course: EGP3201C
+  title: Vehicle/Pedestrian Arrest
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/14/2026
+  course: EGP3302C
+  title: AVI Response Protocol Refresher  Medical Skills
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/14/2026
+  course: EGP3725C
+  title: DT Skills/ACAP
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/14/2026
+  course: EGP3726C
+  title: MRT Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/30/2026
   course: EGP0484C
   title: SWAT Search Skills

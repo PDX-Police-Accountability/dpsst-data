@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/30/2026
+  course: PDP2024C
+  title: 2021 External Training The Advanced SEND Protocol
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/27/2026
   course: PDP2901C
   title: 'DIR 0910.00 Update: De Minimis Force'

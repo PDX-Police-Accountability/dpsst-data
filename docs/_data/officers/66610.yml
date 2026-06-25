@@ -384,6 +384,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/20/2026
+  course: PDP0404C
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/14/2026
   course: PDP2252C
   title: FTEP Orientation
@@ -399,6 +405,12 @@ training_records:
 - date: 1/14/2026
   course: PDP3771C
   title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/14/2026
+  course: PDP4406C
+  title: 2021 Online IS Language Access - Translation
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -102,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/19/2026
+  course: PDP0049C
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/15/2026
   course: PDP3035C
   title: 2025 All Sworn In-Service Taser Training (Video)

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2026 | OSH1521C | HIPS Mobile and Foot Surveillance | Passed | 0.0 | 30.00 |
 | 5/4/2026 | VND0305C | Firearms and Vehicle Tactics | Passed | 0.0 | 8.00 |
 | 4/5/2026 | PDP4304C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
 | 4/5/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

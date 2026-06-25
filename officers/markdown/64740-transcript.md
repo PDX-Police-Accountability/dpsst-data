@@ -43,6 +43,7 @@
 | 1/19/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 1/19/2026 | PDP2683C | HRAR 2.02, Workplace Harassment Discrimination Ref | Passed | 0.0 | 1.00 |
 | 1/19/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 1/19/2026 | PDP0049C | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

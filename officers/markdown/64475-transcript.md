@@ -63,6 +63,7 @@
 | 1/5/2026 | PDP4309C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 1/5/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 1/5/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP0049C | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2025 | PDP0957B | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 6/27/2025 | PDP2657B | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |

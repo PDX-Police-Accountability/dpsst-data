@@ -69,12 +69,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2026
+  course: HBP0407C
+  title: In-Service 2026-2, Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/22/2026
+  course: HBP4315C
+  title: In-Service 2026-2, Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/20/2026
   course: SMP2865C
   title: Axon Taser Instructor Course
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 4/15/2026
+  course: HBP3568C
+  title: In-Service 2026-2, Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/8/2026
+  course: HBP1991C
+  title: In-Service 2026-2, Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/1/2026
+  course: HBP3956C
+  title: In-Service 2026-2, Range - FTI prep
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/1/2026
+  course: HBP1117C
+  title: In-Service 2026-2, Range - FTI prep
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/25/2026
   course: HBP0383C
   title: K9 Arrest and Control

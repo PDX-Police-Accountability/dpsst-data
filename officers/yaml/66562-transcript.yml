@@ -180,6 +180,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/9/2026
+  course: PDP3900C
+  title: 2021 Online IS Training Equity Trng Series - Prep
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/9/2026
+  course: PDP1171C
+  title: 2021 Online IS Language Access - LanguageLine
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/5/2026
   course: PDP2308C
   title: RegJIN RMS/MRE Report Writing Training
@@ -243,6 +255,12 @@ training_records:
 - date: 3/2/2026
   course: PDP4150C
   title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/2/2026
+  course: PDP2024C
+  title: 2021 External Training The Advanced SEND Protocol
   status: Passed
   score: '0.0'
   hours: '0.25'

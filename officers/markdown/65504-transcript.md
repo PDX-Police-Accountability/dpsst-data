@@ -42,6 +42,7 @@
 | 1/19/2026 | PDP3010C | 2025 All Sworn In-Service Active Threat (Video) | Passed | 0.0 | 1.00 |
 | 1/19/2026 | PDP0712C | 2025 IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |
 | 1/19/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 1/19/2026 | PDP0049C | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP3035C | 2025 All Sworn In-Service Taser Training (Video) | Passed | 0.0 | 0.50 |
 | 1/15/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

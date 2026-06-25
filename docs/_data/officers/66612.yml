@@ -468,9 +468,21 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/18/2026
+  course: PDP0404C
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/16/2026
   course: PDP4168C
   title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/16/2026
+  course: PDP4406C
+  title: 2021 Online IS Language Access - Translation
   status: Passed
   score: '0.0'
   hours: '0.25'

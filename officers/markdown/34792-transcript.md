@@ -53,6 +53,7 @@
 | 3/31/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 3/30/2026 | PDP0663C | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
 | 3/30/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 3/30/2026 | PDP0049C | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 3/12/2026 | TAP0813C | Search Incident to Arrest | Passed | 0.0 | 1.00 |
 | 3/10/2026 | TAP0721C | How to Build a DFR Program Right From Day One | Passed | 0.0 | 2.00 |
 | 2/10/2026 | TAP1689C | Eagle Point Officer Involved Shooting review | Passed | 0.0 | 1.50 |

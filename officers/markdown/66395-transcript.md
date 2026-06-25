@@ -93,6 +93,7 @@
 | 1/5/2026 | PDP2421C | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 1/5/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
 | 1/5/2026 | PDP0359C | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 1/5/2026 | PDP0404C | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 12/17/2025 | PDP3625C | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 12/17/2025 | PDP3171C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 12/17/2025 | PDP3174C | 2018-5 TT 100% Collection and Submission Model FA | Passed | 0.0 | 0.25 |

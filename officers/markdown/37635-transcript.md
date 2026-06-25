@@ -41,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/3/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 5/14/2026 | EGP3725C | DT Skills/ACAP | Passed | 0.0 | 3.00 |
+| 5/14/2026 | EGP3726C | MRT Updates | Passed | 0.0 | 0.50 |
 | 4/30/2026 | EGP0484C | SWAT Search Skills | Passed | 0.0 | 4.00 |
 | 4/30/2026 | EGP0809C | SWAT Firearms Qualifications | Passed | 0.0 | 4.00 |
 | 4/29/2026 | EGP0648C | SWAT Search Skills | Passed | 0.0 | 4.00 |

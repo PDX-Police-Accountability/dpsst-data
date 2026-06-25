@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2026 | OSH2658C | Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
