@@ -34,32 +34,32 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/28/2021
+  certificate: Police Officer
+  level: Advanced
+  status: Expired
+  certificate_date: 1/28/2013
+  expiration_date: ''
+  probation_date: ''
+- status_date: 4/28/2021
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 2/4/1992
+  expiration_date: ''
+  probation_date: ''
+- status_date: 4/28/2021
+  certificate: Police Officer
+  level: Intermediate
+  status: Expired
+  certificate_date: 1/28/2013
+  expiration_date: ''
+  probation_date: ''
 - status_date: 12/3/2018
   certificate: Regulatory Specialist
   level: Basic
   status: Granted
   certificate_date: 12/3/2018
-  expiration_date: ''
-  probation_date: ''
-- status_date: 7/28/2016
-  certificate: Police Officer
-  level: Advanced
-  status: Lapsed
-  certificate_date: 1/28/2013
-  expiration_date: ''
-  probation_date: ''
-- status_date: 7/28/2016
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 2/4/1992
-  expiration_date: ''
-  probation_date: ''
-- status_date: 7/28/2016
-  certificate: Police Officer
-  level: Intermediate
-  status: Lapsed
-  certificate_date: 1/28/2013
   expiration_date: ''
   probation_date: ''
 training_records:
