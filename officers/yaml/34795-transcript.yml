@@ -92,7 +92,7 @@ training_records:
   title: Adult First Aid/CPR/AED-BL-r.21
   status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '4.00'
 - date: 3/11/2026
   course: WLP2335C
   title: Defensive Tactics - Crisis Scenarios with BHU

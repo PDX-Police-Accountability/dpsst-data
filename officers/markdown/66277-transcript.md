@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/24/2025 | Police Officer | Basic | Required |  |  | 10/24/2026 |
+| 6/25/2026 | Police Officer | Basic | App Recd |  |  | 10/24/2026 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/25/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 4/22/2026 | HBP4315C | In-Service 2026-2, Range | Passed | 0.0 | 4.00 |
 | 4/9/2026 | HBP2466C | Legal Update - HB 4138 | Passed | 0.0 | 0.50 |
 | 4/8/2026 | PDP3686C | 2026-1 Advanced Academy Firearms | Passed | 0.0 | 29.00 |

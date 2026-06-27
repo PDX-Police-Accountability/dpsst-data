@@ -45,7 +45,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2026 | WLP2992C | WLPD 2026 TASER Recertification | Passed | 0.0 | 2.00 |
-| 3/11/2026 | WLP0951C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 0.00 |
+| 3/11/2026 | WLP0951C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
 | 3/11/2026 | WLP2335C | Defensive Tactics - Crisis Scenarios with BHU | Passed | 0.0 | 2.00 |
 | 3/6/2026 | VND1335C | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 2/25/2026 | WLP2022C | Firearms Training / Qualifications | Passed | 0.0 | 3.00 |

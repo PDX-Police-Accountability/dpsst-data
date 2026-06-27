@@ -3386,6 +3386,11 @@ attribute_records:
   effective_date: 2/21/2017
   expiration_date: ''
 education_records:
+- date: 6/13/2026
+  degree: Masters Arts
+  school: Portland State University
+  major: History
+  hours: '77.0'
 - date: 6/13/2009
   degree: Bachelor Arts
   school: Oregon State University

@@ -31,6 +31,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/13/2026 | Masters Arts | Portland State University | History | 77.0 |
 | 6/13/2009 | Bachelor Arts | Oregon State University | History | 194.0 |
 ## Training
 | date | course | title | status | score | hours |
