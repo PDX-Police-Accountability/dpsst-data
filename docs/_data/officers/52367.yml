@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2026
+  course: OSH0450C
+  title: Oregon State Police - Public Order Basic Course
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 5/8/2026
   course: PDP2120C
   title: 2026 Rapid Response team (RRT) Monthly Training

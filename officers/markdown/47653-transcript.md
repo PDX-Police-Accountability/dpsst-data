@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2026 | PDP1581C | Post Basic CEW | Instructed | 0.0 | 9.00 |
+| 6/5/2026 | OSH0450C | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
+| 5/26/2026 | PDP1019C | Hazmat/WMD Awareness APR Gas Mask | Instructed | 0.0 | 2.00 |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Instructed | 0.0 | 2.00 |
 | 5/4/2026 | PDP1906C | Post Basic CEW | Instructed | 0.0 | 9.00 |
@@ -45,6 +48,8 @@
 | 3/17/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/17/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/13/2026 | PDP2511C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 2/26/2026 | PDP2224C | 2026-1 IS Patrol Vehicle Operations | Passed | 0.0 | 3.00 |
+| 2/26/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.50 |
 | 2/20/2026 | PDP3335C | 2026 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 9.00 |
 | 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3809C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

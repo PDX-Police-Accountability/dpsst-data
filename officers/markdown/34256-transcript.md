@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2026 | BVP0702C | North Americam Motor Ofcrs Assoc Conference | Passed | 0.0 | 40.00 |
 | 5/12/2026 | BVP1367C | May 2026 Pistol Range IST 051226AM | Passed | 0.0 | 3.00 |
 | 4/16/2026 | BVP1782C | Domestic Violence Investigations | Passed | 0.0 | 2.00 |
 | 4/16/2026 | BVP1991C | April 2026 Control Tactics IST 041626 PM | Passed | 0.0 | 3.00 |

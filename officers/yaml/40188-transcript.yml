@@ -80,6 +80,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/19/2026
+  course: PDP0086C
+  title: Return to Work Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/14/2026
+  course: PDP3367C
+  title: 2026 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
 - date: 3/23/2026
   course: PDP4452C
   title: Body Worn Camera Training
@@ -110,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/5/2026
+  course: PDP3912C
+  title: 2026-1 IS Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 3/4/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

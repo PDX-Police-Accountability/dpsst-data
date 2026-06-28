@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/22/2026
+  course: BVP1656C
+  title: Oregon Assoc of Public Info Officers
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
 - date: 4/10/2026
   course: BVP2956C
   title: April 2026 Control Tactics IST 041026 PM

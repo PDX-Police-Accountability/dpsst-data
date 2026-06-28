@@ -29,5 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/23/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/25/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 5/21/2026 | PDP3398C | TEEX WMD/Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 5/20/2026 | PDP3714C | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 5/20/2026 | PDP1525C | LEDS Certification | Passed | 0.0 | 3.00 |
+| 5/11/2026 | PDP0050C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |

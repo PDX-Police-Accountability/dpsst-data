@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |
 | 4/24/2026 | OCS0633C | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 2/24/2026 | GSP0816C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 1/8/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |

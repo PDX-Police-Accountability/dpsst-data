@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/14/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
+| 5/14/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
+| 5/14/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |
+| 5/14/2026 | PDP2224C | 2026-1 IS Patrol Vehicle Operations | Passed | 0.0 | 2.25 |
 | 3/6/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/18/2026 | PDP3022C | 2026 Investigators IS Control Tactics | Passed | 0.0 | 2.00 |
 | 2/18/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |

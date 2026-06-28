@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/13/2026 | GSP0614C | SWAT Firearms | Passed | 0.0 | 10.00 |
 | 4/10/2026 | GSP3480C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 4/9/2026 | GSP3411C | SWAT Training | Passed | 0.0 | 10.00 |
 | 4/8/2026 | GSP0446C | SWAT Training | Instructed | 0.0 | 10.00 |

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/13/2026 | HBP3279C | AA 2026-2, Building Clearing | Instructed | 0.0 | 8.50 |
 | 4/29/2026 | HBP0407C | In-Service 2026-2, Range | Instructed | 0.0 | 4.00 |
 | 4/22/2026 | HBP4315C | In-Service 2026-2, Range | Instructed | 0.0 | 4.00 |
 | 4/20/2026 | SMP2865C | Axon Taser Instructor Course | Passed | 0.0 | 16.00 |

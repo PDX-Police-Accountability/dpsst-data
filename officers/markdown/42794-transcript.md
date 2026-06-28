@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2026 | OCS4592C | Balancing Speed and Marksmanship | Instructed | 0.0 | 2.00 |
 | 5/8/2026 | OCS2358C | May 2026 SWAT Sniper Training | Instructed | 0.0 | 6.00 |
 | 4/30/2026 | OCS3950C | Feb, Mar, April Monthly Firearms | Instructed | 0.0 | 3.00 |
 | 4/27/2026 | OCS1269C | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |

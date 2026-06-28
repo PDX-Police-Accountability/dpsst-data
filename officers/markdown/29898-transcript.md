@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |
 | 5/14/2026 | VND0707C | ICS 400 Advanced ICS for Complex Incidents | Passed | 0.0 | 15.00 |
 | 4/24/2026 | OCS0633C | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 2/27/2026 | OCS1583C | FBI - LEEDA | Passed | 0.0 | 40.00 |

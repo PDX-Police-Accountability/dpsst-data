@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2026
+  course: HBS3169C
+  title: 'InService Session #1 Firearms'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 6/10/2026
+  course: HBS0563C
+  title: 'Inservice Session #1 DT''s'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 3/8/2026
   course: HBS1367C
   title: LEDs Recertification

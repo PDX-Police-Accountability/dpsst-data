@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2026 | PDP1301C | NWGIA Gang Training Symposium | Passed | 0.0 | 32.00 |
 | 4/17/2026 | PDP1853C | Multnomah County Anti Trafficking Conference | Passed | 0.0 | 6.00 |
 | 3/12/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/3/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

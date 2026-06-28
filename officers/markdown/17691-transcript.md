@@ -37,8 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2026 | MNS1093C | Reserve Academy EVO Day 2- DPSST track | Instructed | 0.0 | 10.00 |
+| 4/30/2026 | MNS1132C | Reserve Academy EVO Day 3- DPSST track | Instructed | 0.0 | 10.00 |
 | 3/6/2026 | MNS4332C | Low Light Qualification/Training | Passed | 0.0 | 2.00 |
 | 1/28/2026 | OCS3048C | Annual truck inspector LE refresher | Passed | 0.0 | 3.00 |
+| 12/31/2025 | MNS1257C | 2025 Policy Review | Passed | 0.0 | 5.00 |
 | 12/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/2/2025 | MNS1475C | Domestic Violence Investigations | Passed | 0.0 | 1.50 |
 | 12/2/2025 | MNS3090C | Mental Wellness | Passed | 0.0 | 1.00 |

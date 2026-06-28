@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2026
+  course: GSP0614C
+  title: SWAT Firearms
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/10/2026
   course: GSP3480C
   title: SWAT Sniper Range

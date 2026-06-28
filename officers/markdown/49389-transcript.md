@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2026 | PDP3834C | FTEP Orientation | Instructed | 0.0 | 6.00 |
 | 5/12/2026 | PDP1450C | FTEP Orientation | Instructed | 0.0 | 5.50 |
 | 3/31/2026 | PDP4137C | FTEP Orientation | Instructed | 0.0 | 4.00 |
 | 3/30/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

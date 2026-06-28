@@ -30,6 +30,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
+| 4/9/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
+| 4/9/2026 | PDP2224C | 2026-1 IS Patrol Vehicle Operations | Passed | 0.0 | 2.25 |
+| 4/8/2026 | PDP3203C | 2026-1 IS CIT: Extreme Risk Protection Orders | Passed | 0.0 | 1.00 |
+| 4/8/2026 | PDP0758C | 2026-1 IS PT: Intent, Means  Opportunity | Passed | 0.0 | 1.50 |
+| 4/8/2026 | PDP3821C | 2026-1 IS Firearms Range | Passed | 0.0 | 2.25 |
+| 4/8/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.25 |
 | 3/2/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/26/2026 | SAG0348C | Protecting Lives Saving Futures | Passed | 0.0 | 4.00 |
 | 2/25/2026 | SAG1282C | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |

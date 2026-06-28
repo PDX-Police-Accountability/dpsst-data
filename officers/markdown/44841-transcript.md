@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2026 | LOP0908C | IPICD Abnormal Breathing | Passed | 0.0 | 1.00 |
 | 4/29/2026 | OCA2047C | MCT - Investigative Strategies / Insanity Defense | Passed | 0.0 | 1.25 |
 | 3/1/2026 | LOP1902C | Overview of Mental Health Statutes and Resources | Passed | 0.0 | 1.00 |
 | 2/10/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |

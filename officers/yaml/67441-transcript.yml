@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 5/21/2026
+  course: PDP3398C
+  title: TEEX WMD/Terrorism Awareness for Emer Resp
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/20/2026
   course: PDP3714C
   title: FTEP New Hire Firearms
@@ -48,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/11/2026
+  course: PDP0050C
+  title: 2026 FTEP Policy and Procedure
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

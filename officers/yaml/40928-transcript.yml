@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2026
+  course: OSH0450C
+  title: Oregon State Police - Public Order Basic Course
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 5/8/2026
   course: PDP2120C
   title: 2026 Rapid Response team (RRT) Monthly Training
@@ -98,12 +104,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/5/2026
+  course: PDP3912C
+  title: 2026-1 IS Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 3/4/2026
   course: HBS4435C
   title: Realistic De-Escalation Instructor Course
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 3/2/2026
+  course: PDP3821C
+  title: 2026-1 IS Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/26/2026
+  course: PDP0065C
+  title: 2026-1 IS Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/25/2026
+  course: PDP3805C
+  title: 2026-1 IS Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 2/20/2026
   course: PDP3335C
   title: 2026 Rapid Response Team (RRT) Grenadier Cadre
@@ -128,6 +158,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/17/2026
+  course: PDP1198C
+  title: 2026-1 IS ABLE
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/13/2026
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

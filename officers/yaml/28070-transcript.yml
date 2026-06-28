@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/31/2025
+  course: MNS1257C
+  title: 2025 Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 12/12/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/6/2026 | BVP2031C | May 2026 Pistol Range IST 050626AM | Passed | 0.0 | 3.00 |
+| 4/16/2026 | BVP4383C | Homicide Investigations  Crime Scene Training | Passed | 0.0 | 24.00 |
 | 4/9/2026 | BVP4346C | April 2026 Control Tactics IST 040926 PM | Instructed | 0.0 | 3.00 |
 | 4/3/2026 | BVP1891C | April 2026 Control Tactics Instructors | Passed | 0.0 | 3.00 |
 | 1/29/2026 | BVP2168C | Modern Lessons in Leadership for Law Enforcement | Passed | 0.0 | 16.00 |

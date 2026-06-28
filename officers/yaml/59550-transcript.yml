@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2026
+  course: BNP0153C
+  title: SWAT- Building Clears and HRT
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/7/2026
   course: BNP1089C
   title: SWAT- Low Light Qualifications

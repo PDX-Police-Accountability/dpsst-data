@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2026
+  course: PDP2452C
+  title: 2026 AR-15 Instructor In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/17/2026
   course: PDP2148C
   title: 2026 Annual Honor Guard In-Service

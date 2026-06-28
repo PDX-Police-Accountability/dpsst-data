@@ -96,6 +96,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/25/2026
+  course: PDP3805C
+  title: 2026-1 IS Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/23/2026
+  course: PDP0758C
+  title: '2026-1 IS PT: Intent, Means  Opportunity'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/23/2026
+  course: PDP0054C
+  title: '2026-1 IS Public Order: Crowd Theory'
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 2/19/2026
   course: PDP2207C
   title: 2026 SERT Training - ITERATION

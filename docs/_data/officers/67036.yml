@@ -30,6 +30,42 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/9/2026
+  course: PDP1581C
+  title: Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/8/2026
+  course: PDP2797C
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/3/2026
+  course: PDP3834C
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/1/2026
+  course: PDP0482C
+  title: Body Worn Camera Introduction
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/26/2026
+  course: PDP1019C
+  title: Hazmat/WMD Awareness APR Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/29/2026
+  course: REG1885C
+  title: SFST-DID (Hours inlcuded in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 4/9/2026
   course: REG4463C
   title: INTOX 8000 (Hours included in Basic)

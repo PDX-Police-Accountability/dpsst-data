@@ -836,6 +836,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 5/17/2024
+  course: OSH4487C
+  title: Drug Certification Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/7/2024
   course: PDP1138A
   title: 2024-1 All Sworn In-Service Firearms

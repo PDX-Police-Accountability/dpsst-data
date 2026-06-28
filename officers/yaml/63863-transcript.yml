@@ -31,6 +31,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/27/2026
+  course: PDP2993C
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/20/2026
+  course: PDP3203C
+  title: '2026-1 IS CIT: Extreme Risk Protection Orders'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/20/2026
+  course: PDP0758C
+  title: '2026-1 IS PT: Intent, Means  Opportunity'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/20/2026
+  course: PDP3821C
+  title: 2026-1 IS Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 5/20/2026
+  course: PDP0054C
+  title: '2026-1 IS Public Order: Crowd Theory'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/20/2026
+  course: PDP0065C
+  title: 2026-1 IS Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 5/13/2026
+  course: PDP2760C
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/12/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

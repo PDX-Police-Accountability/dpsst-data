@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/3/2026
+  course: WBP1154C
+  title: City of Woodburn Emergency Operations Plan Review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/21/2026
   course: WBP3455C
   title: Conflict Simulation Training

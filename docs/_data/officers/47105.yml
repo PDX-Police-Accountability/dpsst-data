@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2026
+  course: OCS1222C
+  title: FBI LEEDA Executive Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/31/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

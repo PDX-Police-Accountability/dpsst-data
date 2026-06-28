@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2026
+  course: HBP3279C
+  title: AA 2026-2, Building Clearing
+  status: Instructed
+  score: '0.0'
+  hours: '8.50'
 - date: 4/29/2026
   course: HBP0407C
   title: In-Service 2026-2, Range

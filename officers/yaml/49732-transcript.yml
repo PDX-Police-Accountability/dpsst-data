@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/24/2026
+  course: PDP3203C
+  title: '2026-1 IS CIT: Extreme Risk Protection Orders'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/19/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

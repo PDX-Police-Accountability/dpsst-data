@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/3/2026
+  course: PDP3834C
+  title: FTEP Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/12/2026
   course: PDP1450C
   title: FTEP Orientation

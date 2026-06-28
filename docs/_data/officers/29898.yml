@@ -93,6 +93,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/12/2026
+  course: OCS1222C
+  title: FBI LEEDA Executive Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 5/14/2026
   course: VND0707C
   title: ICS 400 Advanced ICS for Complex Incidents

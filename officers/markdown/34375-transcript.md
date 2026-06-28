@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2026 | OSA3015C | J.D. Edwards Practical Wellness for LE | Passed | 0.0 | 3.50 |
+| 5/19/2026 | OCS4010C | Enforcement Command Council | Passed | 0.0 | 6.00 |
 | 4/23/2026 | STS3316C | Glock Patrol Pistol Training | Passed | 0.0 | 1.00 |
 | 12/3/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/30/2025 | STS4083C | BWC Ethics | Passed | 0.0 | 2.00 |

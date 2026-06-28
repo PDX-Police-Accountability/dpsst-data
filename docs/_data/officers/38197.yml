@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/7/2026
+  course: PDP2452C
+  title: 2026 AR-15 Instructor In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/13/2026
   course: PDP2591C
   title: 2026 Crisis Negotiation Team (CNT) Annual Training
@@ -87,6 +93,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/9/2026
+  course: PDP1198C
+  title: 2026-1 IS ABLE
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/9/2026
+  course: PDP3912C
+  title: 2026-1 IS Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/9/2026
+  course: PDP2224C
+  title: 2026-1 IS Patrol Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/8/2026
+  course: PDP3203C
+  title: '2026-1 IS CIT: Extreme Risk Protection Orders'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/8/2026
+  course: PDP3821C
+  title: 2026-1 IS Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/8/2026
+  course: PDP0758C
+  title: '2026-1 IS PT: Intent, Means  Opportunity'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/8/2026
+  course: PDP0065C
+  title: 2026-1 IS Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 3/23/2026
   course: PDP4079C
   title: 2026 Axon Taser 7 Operator Certification Course

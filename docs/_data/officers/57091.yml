@@ -56,6 +56,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '25.00'
+- date: 5/14/2026
+  course: PDP3367C
+  title: 2026 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
 - date: 4/22/2026
   course: PDP1235C
   title: 2026 FTEP Post DPSST Firearms
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/5/2026
+  course: PDP3912C
+  title: 2026-1 IS Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 2/19/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

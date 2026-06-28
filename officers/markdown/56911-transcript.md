@@ -167,6 +167,7 @@
 | 5/31/2024 | PDP2311A | 2024-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/31/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |
 | 5/18/2024 | PDP4422A | Oregon Drug Recognition Expert School Cert. | Passed | 0.0 | 40.00 |
+| 5/17/2024 | OSH4487C | Drug Certification Training | Passed | 0.0 | 40.00 |
 | 5/7/2024 | PDP1138A | 2024-1 All Sworn In-Service Firearms | Passed | 0.0 | 2.50 |
 | 5/7/2024 | PDP2966A | 2024-1 All Sworn In-Service MFF Classroom | Passed | 0.0 | 1.00 |
 | 5/7/2024 | PDP1595A | 2024-1 All Sworn In-Service MFF Scenarios | Passed | 0.0 | 2.50 |

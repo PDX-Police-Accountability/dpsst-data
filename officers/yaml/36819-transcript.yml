@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2026
+  course: LOP0908C
+  title: IPICD Abnormal Breathing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/1/2026
   course: LOP1902C
   title: Overview of Mental Health Statutes and Resources

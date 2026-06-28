@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/14/2026 | PDP3367C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 5/12/2026 | PDP1450C | FTEP Orientation | Passed | 0.0 | 5.50 |
 | 5/11/2026 | PDP0266C | TEEX WMD Terror Awareness AWR160 | Passed | 0.0 | 8.00 |
 | 5/7/2026 | PDP2862C | Body Worn Camera | Passed | 0.0 | 2.50 |

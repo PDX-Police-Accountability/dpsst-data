@@ -45,7 +45,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2026 | OAC4191C | Combating Isolation in the Most Demanding Role | Passed | 0.0 | 3.50 |
+| 5/14/2026 | OAC4552C | Creating Thriving Police Cultures | Passed | 0.0 | 2.00 |
+| 5/14/2026 | OAC0862C | Tackling the #1 Killer of Active  Ret LE | Passed | 0.0 | 3.00 |
+| 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |
+| 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
 | 5/12/2026 | RRP1631C | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.50 |
+| 5/12/2026 | OAC3682C | "Four Paws to a Complete Wellness Program" | Passed | 0.0 | 0.50 |
 | 2/27/2026 | VND4239C | Progressive Discipline 101 | Passed | 0.0 | 1.00 |
 | 2/26/2026 | VND4055C | 2026 Case Law/Legal Updates | Passed | 0.0 | 1.00 |
 | 2/26/2026 | VND4193C | Leave  Accommodations 101 | Passed | 0.0 | 1.00 |

@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2026
+  course: PDP3659C
+  title: Advanced Crime Scene Inestigations
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/17/2026
   course: PDP2148C
   title: 2026 Annual Honor Guard In-Service

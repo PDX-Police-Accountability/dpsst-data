@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2026
+  course: PDP1301C
+  title: NWGIA Gang Training Symposium
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 4/17/2026
   course: PDP1853C
   title: Multnomah County Anti Trafficking Conference

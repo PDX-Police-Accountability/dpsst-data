@@ -62,6 +62,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/14/2026
+  course: OAC4552C
+  title: Creating Thriving Police Cultures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/14/2026
+  course: OAC2790C
+  title: AI for Investigations  Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2026
+  course: OAC2101C
+  title: Leadership for Reducing Org Stress in LE
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/13/2026
+  course: OAC3967C
+  title: Leadership for Reducing Org Stress in LE
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/9/2026
   course: SAG4569C
   title: Firearms

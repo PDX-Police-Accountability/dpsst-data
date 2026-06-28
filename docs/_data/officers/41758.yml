@@ -89,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2026
+  course: OAC3967C
+  title: Leadership for Reducing Org Stress in LE
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/2/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

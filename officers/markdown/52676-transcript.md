@@ -37,10 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |
 | 4/28/2026 | PDP0045C | IS-100.c Intro to Incident Command | Passed | 0.0 | 2.00 |
 | 4/28/2026 | PDP2228C | IS-200.c Basic Inc Com System for Initial Response | Passed | 0.0 | 4.00 |
 | 4/28/2026 | PDP0499C | IS-700.b An Intro to NIMS | Passed | 0.0 | 4.00 |
 | 4/24/2026 | OCS0633C | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
+| 4/24/2026 | PDP1452C | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 4/9/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/24/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/15/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

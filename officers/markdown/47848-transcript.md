@@ -35,13 +35,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2026 | PDP2797C | FTEP Geography | Instructed | 0.0 | 2.00 |
+| 6/1/2026 | PDP0482C | Body Worn Camera Introduction | Instructed | 0.0 | 2.50 |
 | 5/7/2026 | PDP2862C | Body Worn Camera | Instructed | 0.0 | 2.50 |
 | 4/29/2026 | PDP1017C | FTEP Geography | Instructed | 0.0 | 2.00 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Instructed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Instructed | 0.0 | 2.00 |
 | 3/23/2026 | PDP4452C | Body Worn Camera Training | Instructed | 0.0 | 2.00 |
 | 3/9/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/5/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.50 |
+| 2/26/2026 | PDP2224C | 2026-1 IS Patrol Vehicle Operations | Passed | 0.0 | 3.00 |
+| 2/26/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.50 |
+| 2/25/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.50 |
 | 2/24/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 2/24/2026 | PDP3203C | 2026-1 IS CIT: Extreme Risk Protection Orders | Passed | 0.0 | 1.50 |
+| 2/23/2026 | PDP0758C | 2026-1 IS PT: Intent, Means  Opportunity | Passed | 0.0 | 2.00 |
+| 2/23/2026 | PDP0054C | 2026-1 IS Public Order: Crowd Theory | Passed | 0.0 | 2.50 |
 | 2/17/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 2/17/2026 | PDP0443C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 2/17/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

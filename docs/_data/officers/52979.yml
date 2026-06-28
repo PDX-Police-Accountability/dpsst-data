@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2026
+  course: PDP2452C
+  title: 2026 AR-15 Instructor In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/1/2026
   course: PDP3879C
   title: 2026-1 Range Qualification AR-15 Qual (20 Yard)

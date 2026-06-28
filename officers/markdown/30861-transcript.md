@@ -66,6 +66,7 @@
 | 11/30/2025 | BNS3127C | DCSO Policies: 4.41 and 5.14 | Passed | 0.0 | 1.00 |
 | 11/26/2025 | BNS1555C | (Police1) Airway Circulatory Anatomy Physiology | Passed | 0.0 | 2.00 |
 | 11/23/2025 | BNS0202C | DCSO Policies: 4.10 Evidence, 4.34 Social Media | Passed | 0.0 | 1.00 |
+| 11/23/2025 | BNS3291C | DCSO Policies: 4.10 Evidence, 4.34 Social Media | Passed | 0.0 | 1.00 |
 | 11/11/2025 | BNS0688C | WRAP refresher | Passed | 0.0 | 1.00 |
 | 11/10/2025 | BNS3328C | SFST Refresher/DUII Wet Lab | Passed | 0.0 | 4.00 |
 | 11/3/2025 | BNS2450C | Pepperball Instructor Development Course | Instructed | 0.0 | 16.00 |

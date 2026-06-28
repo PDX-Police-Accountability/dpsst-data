@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2026
+  course: PDP1095C
+  title: 2026 Gresham UAS Pilot Training Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 5/8/2026
   course: PDP2120C
   title: 2026 Rapid Response team (RRT) Monthly Training

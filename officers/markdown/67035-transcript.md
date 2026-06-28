@@ -29,6 +29,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/9/2026 | PDP1581C | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 6/8/2026 | PDP2797C | FTEP Geography | Passed | 0.0 | 2.00 |
+| 6/3/2026 | PDP3834C | FTEP Orientation | Passed | 0.0 | 6.00 |
+| 6/1/2026 | PDP0482C | Body Worn Camera Introduction | Passed | 0.0 | 2.50 |
+| 5/26/2026 | PDP1019C | Hazmat/WMD Awareness APR Gas Mask | Passed | 0.0 | 2.00 |
+| 4/29/2026 | REG1885C | SFST-DID (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 4/9/2026 | REG4463C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/2/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 1/29/2026 | PDP1185C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |

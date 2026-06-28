@@ -53,6 +53,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/14/2026 | OAC4552C | Creating Thriving Police Cultures | Passed | 0.0 | 2.00 |
+| 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |
+| 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
 | 5/12/2026 | RRP1631C | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.50 |
 | 11/6/2025 | OAC0563C | Law Enforcement  Schools | Passed | 0.0 | 1.75 |
 | 11/6/2025 | OAC2601C | Risk Mitigation Strategies for Small Agencies | Passed | 0.0 | 1.00 |

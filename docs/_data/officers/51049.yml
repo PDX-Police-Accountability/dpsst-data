@@ -38,6 +38,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/14/2026
+  course: PDP1198C
+  title: 2026-1 IS ABLE
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 5/14/2026
+  course: PDP3912C
+  title: 2026-1 IS Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 5/14/2026
+  course: PDP3805C
+  title: 2026-1 IS Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 5/14/2026
+  course: PDP2224C
+  title: 2026-1 IS Patrol Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 3/6/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

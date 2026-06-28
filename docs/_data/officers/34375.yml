@@ -126,6 +126,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2026
+  course: OSA3015C
+  title: J.D. Edwards Practical Wellness for LE
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 5/19/2026
+  course: OCS4010C
+  title: Enforcement Command Council
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/23/2026
   course: STS3316C
   title: Glock Patrol Pistol Training

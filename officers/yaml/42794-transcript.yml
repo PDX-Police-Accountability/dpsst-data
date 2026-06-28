@@ -98,6 +98,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2026
+  course: OCS4592C
+  title: Balancing Speed and Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/8/2026
   course: OCS2358C
   title: May 2026 SWAT Sniper Training

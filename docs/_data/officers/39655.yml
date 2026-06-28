@@ -98,18 +98,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/2/2026
+  course: PDP3821C
+  title: 2026-1 IS Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/26/2026
   course: PDP1750C
   title: 2026 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/25/2026
+  course: PDP3805C
+  title: 2026-1 IS Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/23/2026
+  course: PDP0758C
+  title: '2026-1 IS PT: Intent, Means  Opportunity'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/19/2026
   course: PDP2207C
   title: 2026 SERT Training - ITERATION
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/17/2026
+  course: PDP1198C
+  title: 2026-1 IS ABLE
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/13/2026
   course: PDP3879C
   title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
