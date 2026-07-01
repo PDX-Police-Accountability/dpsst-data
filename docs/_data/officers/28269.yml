@@ -113,6 +113,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/19/2026
+  course: BNP1586C
+  title: Creating Bounce
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/19/2026
+  course: BNP4275C
+  title: Taser 10 Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/19/2026
+  course: BNP1989C
+  title: 'One Decision at a Time: Neutralizing Blind Spots'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/15/2026
   course: OAC4191C
   title: Combating Isolation in the Most Demanding Role

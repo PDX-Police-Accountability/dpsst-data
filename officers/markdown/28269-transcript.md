@@ -45,6 +45,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2026 | BNP1586C | Creating Bounce | Passed | 0.0 | 0.50 |
+| 5/19/2026 | BNP4275C | Taser 10 Recertification | Passed | 0.0 | 2.00 |
+| 5/19/2026 | BNP1989C | One Decision at a Time: Neutralizing Blind Spots | Passed | 0.0 | 3.00 |
 | 5/15/2026 | OAC4191C | Combating Isolation in the Most Demanding Role | Passed | 0.0 | 3.50 |
 | 5/14/2026 | OAC4552C | Creating Thriving Police Cultures | Passed | 0.0 | 2.00 |
 | 5/14/2026 | OAC0862C | Tackling the #1 Killer of Active  Ret LE | Passed | 0.0 | 3.00 |

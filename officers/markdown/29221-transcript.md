@@ -47,6 +47,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2026 | BNP1332C | Bend PD Ethics | Instructed | 0.0 | 1.00 |
+| 5/19/2026 | BNP1586C | Creating Bounce | Passed | 0.0 | 0.50 |
+| 5/19/2026 | BNP4275C | Taser 10 Recertification | Passed | 0.0 | 2.00 |
+| 5/19/2026 | BNP1989C | One Decision at a Time: Neutralizing Blind Spots | Passed | 0.0 | 3.00 |
 | 3/5/2026 | BNP2912C | Supervisor In-Service Training | Passed | 0.0 | 17.00 |
 | 3/4/2026 | BNP1416C | Supervisor In Service | Passed | 0.0 | 16.00 |
 | 2/26/2026 | BNP4058C | Control Tactics / drawing and retention | Passed | 0.0 | 1.00 |
