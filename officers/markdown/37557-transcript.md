@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/31/2026 | LOP0908C | IPICD Abnormal Breathing | Passed | 0.0 | 1.00 |
 | 3/9/2026 | LOP4459C | DEI, Sustainability,  ADA Training | Passed | 0.0 | 1.00 |
+| 3/3/2026 | LOP4062C | EVOC | Passed | 0.0 | 4.00 |
 | 3/1/2026 | LOP1902C | Overview of Mental Health Statutes and Resources | Passed | 0.0 | 1.00 |
 | 2/10/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/10/2026 | LOP3893C | 40mm Launcher Recertification Training | Passed | 0.0 | 4.00 |

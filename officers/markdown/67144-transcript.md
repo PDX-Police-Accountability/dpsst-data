@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/29/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/22/2026 | PDP3770C | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
+| 6/22/2026 | PDP3745C | ICS 200 Basic Incident Command Syst for Init Resp | Passed | 0.0 | 4.00 |
 | 5/27/2026 | REG1453C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/7/2026 | REG4150C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/2/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
@@ -35,3 +37,4 @@
 | 2/24/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 2/18/2026 | PDP0648C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
 | 2/18/2026 | PDP0663C | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
+| 6/22/2024 | PDP3354C | IS 700 National Incident Manage System Intro | Passed | 0.0 | 4.00 |

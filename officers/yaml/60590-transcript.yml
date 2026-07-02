@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/14/2026
+  course: PDP1370C
+  title: 2026 40mm Less Lethal New Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 5/7/2026
   course: PDP1198C
   title: 2026-1 IS ABLE

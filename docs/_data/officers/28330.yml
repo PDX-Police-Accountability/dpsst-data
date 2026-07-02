@@ -149,6 +149,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/24/2026
+  course: PPP2940C
+  title: Management  Leadership
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/27/2026
+  course: PPP4574C
+  title: 2026 Annual Qualification Handgun  Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/31/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

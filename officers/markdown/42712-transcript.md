@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/10/2026 | HBS3169C | InService Session #1 Firearms | Passed | 0.0 | 4.50 |
 | 6/10/2026 | HBS0563C | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
+| 6/10/2026 | HBS3666C | InService Session #1 Firearms | Passed | 0.0 | 4.50 |
 | 3/8/2026 | HBS1367C | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 12/18/2025 | HBS3203C | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS1094C | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |

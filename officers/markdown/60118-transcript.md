@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/3/2026 | 2/3/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 10/3/2024 | 10/3/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
@@ -41,6 +42,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/10/2026 | PDS2020C | Mental Health First Aid | Passed | 0.0 | 8.00 |
+| 2/10/2026 | PDS1728C | High Risk Handcuffing | Passed | 0.0 | 4.00 |
+| 2/10/2026 | PDS0296C | LE ConSim | Passed | 0.0 | 8.00 |
+| 2/9/2026 | PDS4303C | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 2/6/2026 | PDS2302C | De-Escalation | Passed | 0.0 | 4.00 |
+| 2/6/2026 | PDS4099C | Red Dot Range | Passed | 0.0 | 12.00 |
+| 2/5/2026 | PDS4243C | Basic Communication | Passed | 0.0 | 4.00 |
+| 2/5/2026 | PDS2476C | Use of Force | Passed | 0.0 | 4.00 |
+| 2/4/2026 | PDS2999C | Peer Support | Passed | 0.0 | 0.50 |
+| 2/4/2026 | PDS4249C | Intro to Public Safety | Passed | 0.0 | 1.00 |
+| 2/4/2026 | PDS1963C | Mindset | Passed | 0.0 | 4.00 |
+| 2/3/2026 | PDS0697C | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 2/2/2026 | PDS0765C | NH Orientation | Passed | 0.0 | 8.00 |
+| 2/2/2026 | PDS0740C | PREA | Passed | 0.0 | 2.00 |
+| 2/2/2026 | PDS1038C | Ethics  IAU | Passed | 0.0 | 2.00 |
 | 7/17/2025 | HRS0206B | Marine Division Familiarization | Passed | 0.0 | 3.00 |
 | 7/17/2025 | HRS0858B | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 6/19/2025 | HRS2424B | High Risk Stops Refresher | Passed | 0.0 | 4.00 |

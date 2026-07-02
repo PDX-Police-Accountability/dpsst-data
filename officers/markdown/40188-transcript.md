@@ -40,8 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2026 | PDP2977C | Post Basic Firearms | Instructed | 0.0 | 25.00 |
 | 5/19/2026 | PDP0086C | Return to Work Firearms | Instructed | 0.0 | 4.00 |
 | 5/14/2026 | PDP3367C | 2026 FTEP Post DPSST Firearms | Instructed | 0.0 | 25.00 |
+| 5/14/2026 | PDP3953C | 2026 FTEP Post DPSST Firearms | Instructed | 0.0 | 25.00 |
 | 3/23/2026 | PDP4452C | Body Worn Camera Training | Instructed | 0.0 | 2.00 |
 | 3/16/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

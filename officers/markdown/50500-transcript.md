@@ -36,9 +36,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/7/2026 | PDP2452C | 2026 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
+| 6/4/2026 | PDP4483C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/6/2026 | PDP1455C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 4/9/2026 | PDP3789C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 20.00 |
+| 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 8.00 |
 | 3/26/2026 | PDP0638C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 3/23/2026 | PDP2703C | 2026 Investigators IS - Digital Data Analysis | Passed | 0.0 | 1.00 |
 | 3/23/2026 | PDP3913C | 2026 Investigators IS Exemption Review Legal | Passed | 0.0 | 1.00 |

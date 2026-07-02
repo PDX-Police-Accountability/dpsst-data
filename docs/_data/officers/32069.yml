@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2026
+  course: SDP0742C
+  title: LEDS Certification Inquiry and Entry Level
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 5/14/2026
   course: OAC0862C
   title: 'Tackling the #1 Killer of Active  Ret LE'

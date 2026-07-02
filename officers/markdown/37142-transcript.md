@@ -48,6 +48,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2026 | SPP3904C | Cybersecurity | Passed | 0.0 | 0.50 |
+| 6/23/2026 | SPP3398C | Fire Extinguisher Safety | Passed | 0.0 | 0.50 |
+| 6/23/2026 | SPP1144C | Harassment Prevention for Employees | Passed | 0.0 | 1.00 |
+| 6/23/2026 | SPP0728C | OSHA Heat Illness/Wildfire Smoke | Passed | 0.0 | 2.00 |
 | 1/16/2026 | OAC1992C | Police Actions on Community Relations | Passed | 0.0 | 4.00 |
 | 1/15/2026 | OAC1250C | Silverton HS Swatting Call | Passed | 0.0 | 1.50 |
 | 1/15/2026 | OAC1392C | Fight to Thrive: Through critical incidents | Passed | 0.0 | 1.50 |

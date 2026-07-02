@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/17/2026
+  course: BPT1161C
+  title: Operational Peer Support Symposium 2026
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/31/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

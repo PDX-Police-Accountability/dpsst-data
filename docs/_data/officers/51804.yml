@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/8/2026
+  course: HBS0340C
+  title: Oregon LEDA Interior/Exterior Flight Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/17/2026
   course: GSP0362C
   title: UAS Ground School
@@ -59,6 +65,12 @@ training_records:
   hours: '20.00'
 - date: 5/16/2026
   course: PDP1095C
+  title: 2026 Gresham UAS Pilot Training Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 5/16/2026
+  course: PDP3444C
   title: 2026 Gresham UAS Pilot Training Course
   status: Passed
   score: '0.0'

@@ -35,3 +35,6 @@
 | 2/24/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 2/18/2026 | PDP0648C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
 | 2/4/2026 | PDP0663C | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
+| 6/22/2024 | PDP3354C | IS 700 National Incident Manage System Intro | Passed | 0.0 | 4.00 |
+| 2/15/2024 | PDP3770C | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
+| 2/15/2024 | PDP3745C | ICS 200 Basic Incident Command Syst for Init Resp | Passed | 0.0 | 4.00 |

@@ -62,6 +62,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2026
+  course: OSH3913C
+  title: DT2-Taser
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/15/2026
+  course: OSH1864C
+  title: DT2-Taser
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/22/2026
+  course: OSH4596C
+  title: DT2/TASER
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/18/2026
   course: OSH2451C
   title: FA2 Rifle

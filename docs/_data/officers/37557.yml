@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/3/2026
+  course: LOP4062C
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/1/2026
   course: LOP1902C
   title: Overview of Mental Health Statutes and Resources

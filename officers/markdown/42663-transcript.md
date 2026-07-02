@@ -36,10 +36,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2026 | PDP4483C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/28/2026 | PDP0344C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/21/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 5/21/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 5/21/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |
 | 5/21/2026 | PDP2224C | 2026-1 IS Patrol Vehicle Operations | Passed | 0.0 | 2.25 |
+| 5/21/2026 | PDP3041C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/20/2026 | PDP3203C | 2026-1 IS CIT: Extreme Risk Protection Orders | Passed | 0.0 | 1.00 |
 | 5/20/2026 | PDP3821C | 2026-1 IS Firearms Range | Passed | 0.0 | 2.25 |
 | 5/20/2026 | PDP0054C | 2026-1 IS Public Order: Crowd Theory | Passed | 0.0 | 2.00 |

@@ -37,7 +37,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/14/2026 | VND0707C | ICS 400 Advanced ICS for Complex Incidents | Passed | 0.0 | 15.00 |
-| 4/24/2026 | OCS0633C | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 4/24/2026 | PDP1780C | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 4/16/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 4/16/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |

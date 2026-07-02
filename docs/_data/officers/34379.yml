@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/13/2026
+  course: LOP1672C
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/9/2026
   course: PPP4466C
   title: Active Shooter and Winning Mindset
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/13/2026
+  course: PPP4574C
+  title: 2026 Annual Qualification Handgun  Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/27/2025
   course: PPP1024B
   title: Defensive Tactics

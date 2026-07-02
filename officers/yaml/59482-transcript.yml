@@ -37,7 +37,7 @@ certification_records:
 - status_date: 11/4/2025
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Lapsed-UR
   certificate_date: 2/14/2020
   expiration_date: 8/4/2030
   probation_date: ''

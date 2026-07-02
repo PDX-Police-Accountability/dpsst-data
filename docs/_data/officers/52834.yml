@@ -83,6 +83,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2026
+  course: OCS2213C
+  title: CNT Monthly Training - SWAT / CNT joint scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/16/2026
   course: OCS2622C
   title: 'LE Ethics: 2025 Make-Up Hours'

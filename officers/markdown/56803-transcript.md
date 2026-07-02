@@ -36,6 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2026 | PDP4483C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/28/2026 | PDP0344C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/28/2026 | PDP0344C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
+| 5/21/2026 | PDP3041C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/21/2026 | PDP3041C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 5/14/2026 | PDP1018C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 2.00 |
 | 5/14/2026 | PDP1018C | 2026 SERT Training - FIREARMS | Instructed | 0.0 | 2.00 |
 | 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
@@ -44,6 +49,7 @@
 | 4/23/2026 | PDP3607C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/16/2026 | PDP2990C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/9/2026 | PDP3789C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 20.00 |
+| 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 20.00 |
 | 3/27/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/27/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/27/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

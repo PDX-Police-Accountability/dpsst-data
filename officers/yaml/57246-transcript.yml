@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2026
+  course: HBN2584C
+  title: Team Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/21/2026
   course: HBN3280C
   title: WRNA Booster

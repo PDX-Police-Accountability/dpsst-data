@@ -35,11 +35,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2026 | PPP4371C | Rapid Response Team Refresher Training | Passed | 0.0 | 10.00 |
+| 6/2/2026 | PPP3243C | OC Deployment and Rendering Aid | Passed | 0.0 | 0.50 |
+| 4/6/2026 | PPP1137C | RRT April Training | Passed | 0.0 | 10.00 |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
 | 3/11/2026 | PPP1747C | District Attorney Updates with DA Nathan Vasquez | Passed | 0.0 | 1.00 |
 | 2/18/2026 | PPP0470C | Case Law Updates and Report Writing | Passed | 0.0 | 2.00 |
 | 2/5/2026 | PPP4466C | Active Shooter and Winning Mindset | Passed | 0.0 | 4.00 |
 | 1/22/2026 | PPP0818C | Wellness | Passed | 0.0 | 1.00 |
+| 1/16/2026 | PPP4574C | 2026 Annual Qualification Handgun  Rifle | Passed | 0.0 | 4.00 |
 | 1/6/2026 | PPP1757C | First Aid/CPR/AED/Narcan and Skills Practical | Passed | 0.0 | 4.00 |
 | 9/27/2025 | PPP1024B | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

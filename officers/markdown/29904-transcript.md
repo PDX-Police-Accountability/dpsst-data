@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2026 | LOP4062C | EVOC | Passed | 0.0 | 4.00 |
 | 2/17/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 1/16/2026 | HDA1952C | Drug Unit Supervisor | Passed | 0.0 | 40.00 |
 | 11/19/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |

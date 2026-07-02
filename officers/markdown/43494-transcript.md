@@ -53,6 +53,7 @@
 | 4/29/2026 | PDP3821C | 2026-1 IS Firearms Range | Passed | 0.0 | 2.25 |
 | 4/29/2026 | PDP0054C | 2026-1 IS Public Order: Crowd Theory | Passed | 0.0 | 2.00 |
 | 4/29/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.25 |
+| 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 8.00 |
 | 3/3/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/23/2026 | SVP0804C | 2 Hour Break - Hostage Case Debrief | Passed | 0.0 | 5.00 |
 | 2/11/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

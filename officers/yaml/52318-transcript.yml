@@ -58,12 +58,6 @@ training_records:
   score: '0.0'
   hours: '15.00'
 - date: 4/24/2026
-  course: OCS0633C
-  title: FBI LEEDA Command Leadership Institute
-  status: Passed
-  score: '0.0'
-  hours: '28.00'
-- date: 4/24/2026
   course: PDP1780C
   title: FBI LEEDA Command Leadership Institute
   status: Passed

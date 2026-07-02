@@ -98,6 +98,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2026
+  course: OCS2878C
+  title: Marksmanship/Holster Speed
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/9/2026
+  course: OCS3511C
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/4/2026
   course: OCS4592C
   title: Balancing Speed and Marksmanship
@@ -116,6 +128,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 4/30/2026
+  course: OCS2198C
+  title: 2026 2nd Qtr Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2026
+  course: OCS2198C
+  title: 2026 2nd Qtr Patrol Shotgun
+  status: Instructed
+  score: '0.0'
+  hours: '15.00'
 - date: 4/27/2026
   course: OCS1269C
   title: New Hire Shotgun Orientation

@@ -41,12 +41,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2026 | HBS1221C | TNT Night Vision Operator Course | Passed | 0.0 | 16.00 |
+| 6/10/2026 | HBS1312C | TNT Training with Fire Contingencies | Passed | 0.0 | 9.00 |
+| 6/6/2026 | BVP0875C | Unconscious Bias | Passed | 0.0 | 0.50 |
+| 5/21/2026 | HBS0516C | TNT-Hostage Rescue | Passed | 0.0 | 8.00 |
+| 5/20/2026 | HBS1417C | TNT Cautious Clears | Passed | 0.0 | 7.00 |
+| 5/19/2026 | HBS1899C | TNT - Night Vision Day 1  2 | Passed | 0.0 | 16.00 |
 | 5/13/2026 | HBS4339C | TNT-Hostage Rescue | Passed | 0.0 | 5.00 |
 | 5/7/2026 | BVP1249C | May 2026 Pistol Rifle Range IST 050726AM | Passed | 0.0 | 3.00 |
 | 4/29/2026 | HBS2668C | TNT Cautious Clears | Passed | 0.0 | 9.00 |
 | 4/22/2026 | HBS0971C | TNT Range/Deliberate Movement Drills | Passed | 0.0 | 9.00 |
 | 4/15/2026 | BVP1600C | April 2026 Control Tactics IST 041526 AM | Passed | 0.0 | 3.00 |
 | 4/8/2026 | HBS4106C | TNT-Vehicle/Pedestrian Takedown | Instructed | 0.0 | 4.00 |
+| 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 20.00 |
 | 3/17/2026 | BVP0380C | EVOC 031726PM | Passed | 0.0 | 3.00 |
 | 3/11/2026 | HBS3704C | TNT Live Fire Range | Passed | 0.0 | 3.00 |
 | 2/18/2026 | HBS1169C | TNT - New Operator Vehicle Operations | Instructed | 0.0 | 3.00 |

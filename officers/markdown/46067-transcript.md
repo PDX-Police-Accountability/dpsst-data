@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2026 | PDP0344C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/21/2026 | PDP3041C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/23/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 4/23/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |

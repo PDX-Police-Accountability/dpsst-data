@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2026 | PDP4483C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/28/2026 | PDP0344C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/21/2026 | PDP3041C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/14/2026 | PDP1018C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 2.00 |
 | 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/30/2026 | PDP3601C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
@@ -40,6 +43,7 @@
 | 4/22/2026 | PDP1332C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 5.00 |
 | 4/16/2026 | PDP2990C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/9/2026 | PDP3789C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 20.00 |
+| 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 20.00 |
 | 3/27/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP0638C | 2026 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
 | 3/26/2026 | PDP0638C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2026 | PDP4483C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 6/4/2026 | PDP4483C | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 5/14/2026 | PDP1018C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 2.00 |
 | 5/14/2026 | PDP1018C | 2026 SERT Training - FIREARMS | Instructed | 0.0 | 2.00 |
 | 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

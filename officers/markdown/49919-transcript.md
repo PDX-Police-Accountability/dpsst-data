@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/15/2026 | HBP3568C | In-Service 2026-2, Range | Passed | 0.0 | 4.00 |
+| 3/6/2026 | HBP3735C | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 2/4/2026 | HBP3163C | K9 Arrest and Control | Passed | 0.0 | 4.50 |
 | 2/4/2026 | HBP1493C | Tactical De-escalation | Passed | 0.0 | 4.50 |
 | 10/31/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

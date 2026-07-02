@@ -166,6 +166,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2026
+  course: OSH4006C
+  title: OSP Defensive Tactics - 2nd Trimester / TASER10
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/30/2026
   course: OSH1033C
   title: 1st trimester firearms

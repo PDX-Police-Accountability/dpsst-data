@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2026
+  course: PDP1446C
+  title: 2026 Rapid Response team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/20/2026
   course: PDP3714C
   title: FTEP New Hire Firearms
@@ -58,6 +64,12 @@ training_records:
   hours: '25.00'
 - date: 5/14/2026
   course: PDP3367C
+  title: 2026 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
+- date: 5/14/2026
+  course: PDP3953C
   title: 2026 FTEP Post DPSST Firearms
   status: Instructed
   score: '0.0'

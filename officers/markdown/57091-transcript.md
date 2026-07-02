@@ -36,8 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2026 | PDP1446C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/20/2026 | PDP3714C | FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 5/14/2026 | PDP3367C | 2026 FTEP Post DPSST Firearms | Instructed | 0.0 | 25.00 |
+| 5/14/2026 | PDP3953C | 2026 FTEP Post DPSST Firearms | Instructed | 0.0 | 25.00 |
 | 4/22/2026 | PDP1235C | 2026 FTEP Post DPSST Firearms | Instructed | 0.0 | 25.00 |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
 | 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

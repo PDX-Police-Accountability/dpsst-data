@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2026 | PDP1370C | 2026 40mm Less Lethal New Operator Course | Passed | 0.0 | 18.00 |
 | 4/26/2026 | PDP2557C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |
 | 4/26/2026 | PDP2405C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/30/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

@@ -43,8 +43,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2026 | VND4322C | 28 CFR 23 | Passed | 0.0 | 2.00 |
+| 5/21/2026 | PPP3215C | 28 CFR 23 | Passed | 0.0 | 2.00 |
+| 4/6/2026 | PPP1137C | RRT April Training | Passed | 0.0 | 10.00 |
 | 4/3/2026 | PDS4384C | Basic Detective Academy | Passed | 0.0 | 40.00 |
+| 3/10/2026 | LOP1909C | EVOC | Passed | 0.0 | 4.00 |
 | 2/4/2026 | PPP4466C | Active Shooter and Winning Mindset | Instructed | 0.0 | 28.00 |
+| 1/13/2026 | PPP4574C | 2026 Annual Qualification Handgun  Rifle | Passed | 0.0 | 4.00 |
 | 1/6/2026 | PPP1757C | First Aid/CPR/AED/Narcan and Skills Practical | Passed | 0.0 | 4.00 |
 | 10/16/2025 | PPP4041C | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 9/27/2025 | PPP1024B | Defensive Tactics | Passed | 0.0 | 4.00 |

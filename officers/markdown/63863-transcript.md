@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2026 | PDP1370C | 2026 40mm Less Lethal New Operator Course | Passed | 0.0 | 18.00 |
 | 5/27/2026 | PDP2993C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 5/20/2026 | PDP3203C | 2026-1 IS CIT: Extreme Risk Protection Orders | Passed | 0.0 | 1.00 |
 | 5/20/2026 | PDP0758C | 2026-1 IS PT: Intent, Means  Opportunity | Passed | 0.0 | 1.50 |

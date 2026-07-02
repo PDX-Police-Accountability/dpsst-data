@@ -57,6 +57,7 @@
 | 5/13/2026 | OAC2101C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 2.50 |
 | 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
 | 5/12/2026 | RRP1631C | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.50 |
+| 3/6/2026 | LOP0257C | EVOC | Passed | 0.0 | 4.00 |
 | 1/14/2026 | RRP1439C | OACP ELTS Board Meeting | Passed | 0.0 | 2.00 |
 | 11/13/2025 | LOP2994C | AHA Basic Life Support (CPR/AED) | Passed | 0.0 | 2.00 |
 | 10/25/2025 | LOP4497B | DOT Hazmat | Passed | 0.0 | 0.75 |

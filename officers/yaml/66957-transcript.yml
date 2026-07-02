@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 5/14/2026
+  course: PDP3953C
+  title: 2026 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 5/12/2026
   course: PDP1450C
   title: FTEP Orientation

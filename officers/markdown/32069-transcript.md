@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2026 | SDP0742C | LEDS Certification Inquiry and Entry Level | Passed | 0.0 | 12.00 |
 | 5/14/2026 | OAC0862C | Tackling the #1 Killer of Active  Ret LE | Passed | 0.0 | 3.00 |
 | 5/14/2026 | OAC4552C | Creating Thriving Police Cultures | Passed | 0.0 | 2.00 |
 | 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |

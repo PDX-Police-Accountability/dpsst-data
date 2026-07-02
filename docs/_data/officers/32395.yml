@@ -74,12 +74,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/25/2026
+  course: PPP0208C
+  title: Airport Explosive Detection K9 Training March
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 3/13/2026
+  course: LOP1672C
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/11/2026
   course: PPP1747C
   title: District Attorney Updates with DA Nathan Vasquez
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/25/2026
+  course: PPP4507C
+  title: Airport Explosive Detection K9 Training February
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 2/18/2026
   course: PPP0470C
   title: Case Law Updates and Report Writing
@@ -92,12 +110,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/28/2026
+  course: PPP0690C
+  title: Airport Explosive Detection K9 Training January
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 1/20/2026
   course: PPP0818C
   title: Wellness
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/16/2026
+  course: PPP4574C
+  title: 2026 Annual Qualification Handgun  Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/6/2026
   course: PPP1757C
   title: First Aid/CPR/AED/Narcan and Skills Practical

@@ -80,6 +80,30 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 2/10/2026
+  course: PDS1728C
+  title: High Risk Handcuffing
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/10/2026
+  course: PDS0296C
+  title: LE ConSim
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/9/2026
+  course: PDS4303C
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/6/2026
+  course: PDS4099C
+  title: Red Dot Range
+  status: Instructed
+  score: '0.0'
+  hours: '12.00'
 - date: 1/22/2026
   course: PDS2236C
   title: Red Dot Firearms

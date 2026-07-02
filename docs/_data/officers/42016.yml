@@ -50,6 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2026
+  course: PDP4483C
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/28/2026
+  course: PDP0344C
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/28/2026
+  course: PDP0344C
+  title: 2026 SERT Training - SCENARIO
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/21/2026
+  course: PDP3041C
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/21/2026
+  course: PDP3041C
+  title: 2026 SERT Training - SCENARIO
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/7/2026
   course: PDP1979C
   title: 2026 SERT Training - FIREARMS

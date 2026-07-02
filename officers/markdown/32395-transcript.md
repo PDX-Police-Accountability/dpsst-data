@@ -40,10 +40,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
+| 3/25/2026 | PPP0208C | Airport Explosive Detection K9 Training March | Passed | 0.0 | 30.00 |
+| 3/13/2026 | LOP1672C | EVOC | Passed | 0.0 | 4.00 |
 | 3/11/2026 | PPP1747C | District Attorney Updates with DA Nathan Vasquez | Passed | 0.0 | 1.00 |
+| 2/25/2026 | PPP4507C | Airport Explosive Detection K9 Training February | Passed | 0.0 | 30.00 |
 | 2/18/2026 | PPP0470C | Case Law Updates and Report Writing | Passed | 0.0 | 2.00 |
 | 2/9/2026 | PPP4466C | Active Shooter and Winning Mindset | Passed | 0.0 | 4.00 |
+| 1/28/2026 | PPP0690C | Airport Explosive Detection K9 Training January | Passed | 0.0 | 36.00 |
 | 1/20/2026 | PPP0818C | Wellness | Passed | 0.0 | 1.00 |
+| 1/16/2026 | PPP4574C | 2026 Annual Qualification Handgun  Rifle | Passed | 0.0 | 4.00 |
 | 1/6/2026 | PPP1757C | First Aid/CPR/AED/Narcan and Skills Practical | Passed | 0.0 | 4.00 |
 | 11/11/2025 | PPP2227C | Handgun Qual for Special Assignment | Passed | 0.0 | 1.00 |
 | 9/27/2025 | PPP1024B | Defensive Tactics | Passed | 0.0 | 4.00 |

@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2026 | TDP3395C | Duty to Intervene and Policy Review--2026 | Passed | 0.0 | 1.00 |
+| 5/31/2026 | TDP0922C | Shaping an Ethical Workplace Culture | Passed | 0.0 | 1.00 |
 | 5/15/2026 | OAC4191C | Combating Isolation in the Most Demanding Role | Passed | 0.0 | 3.25 |
 | 5/14/2026 | OAC4552C | Creating Thriving Police Cultures | Passed | 0.0 | 2.00 |
 | 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |
@@ -45,6 +47,7 @@
 | 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
 | 5/12/2026 | OAC3682C | "Four Paws to a Complete Wellness Program" | Passed | 0.0 | 0.50 |
 | 4/21/2026 | TDP0710C | Spring Firearms Qualifications and Training | Passed | 0.0 | 4.00 |
+| 4/3/2026 | TDP2606C | GOVERNMENTAL INTEREST 2026 | Passed | 0.0 | 1.00 |
 | 12/31/2025 | TDP4330C | STOP, ethnic, sexual harrassment reporting | Passed | 0.0 | 0.50 |
 | 12/15/2025 | TDP0384C | Implicit Bias 2025 | Passed | 0.0 | 1.00 |
 | 12/14/2025 | TDP3618C | Defensive Tactics | Passed | 0.0 | 2.00 |

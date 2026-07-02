@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/22/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 6/19/2026 | VND1967C | The Rights Of Police Officers | Instructed | 0.0 | 15.00 |
 | 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |
 | 4/30/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 4/30/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |

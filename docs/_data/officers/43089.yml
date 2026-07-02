@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2026
+  course: REG3366C
+  title: Handgun IDC
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/15/2026
   course: LGS2539C
   title: Foundation in Ethics for Law Enforcement

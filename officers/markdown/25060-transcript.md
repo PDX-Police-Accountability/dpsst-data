@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2026 | WBP3791C | OSP Forensic Lab Evidence Training | Passed | 0.0 | 2.25 |
 | 6/3/2026 | WBP1154C | City of Woodburn Emergency Operations Plan Review | Passed | 0.0 | 0.50 |
 | 4/21/2026 | WBP3455C | Conflict Simulation Training | Passed | 0.0 | 3.00 |
 | 3/31/2026 | WBP0172C | 2026 Q1 Firearms Qualifications | Passed | 0.0 | 0.50 |

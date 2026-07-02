@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2026 | HBN2584C | Team Defensive Tactics | Passed | 0.0 | 1.00 |
 | 4/21/2026 | HBN3280C | WRNA Booster | Passed | 0.0 | 4.00 |
 | 3/6/2026 | HBN2239C | OC Spray Recert | Passed | 0.0 | 5.00 |
 | 2/17/2026 | HBN1635C | Team Defensive Tactics | Passed | 0.0 | 1.00 |

@@ -63,12 +63,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 3/18/2026
-  course: VND3490C
-  title: Effective Background Investigations
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 3/18/2026
   course: PDP2018C
   title: Effective Background Investigations
   status: Passed

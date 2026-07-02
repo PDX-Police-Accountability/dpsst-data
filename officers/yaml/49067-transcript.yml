@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/30/2026
+  course: OCS2198C
+  title: 2026 2nd Qtr Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2026
   course: OCS2098C
   title: 2026 Annual Handgun Qualification

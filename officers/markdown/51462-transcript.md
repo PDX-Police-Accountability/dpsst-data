@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/30/2026 | Multnomah County Sheriff's Office | Retired | Reserve |  |  |
 | 7/24/2018 | Multnomah County Sheriff's Office | Hired | Reserve |  |  |
 | 7/4/2018 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 6/22/2010 | Portland Police Bureau | Hired | Reserve |  |  |
@@ -28,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/6/2026 | LOP0257C | EVOC | Passed | 0.0 | 4.00 |
 | 2/19/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 1/21/2026 | PDS2919C | Monthly Reserve Unit Meeting | Passed | 0.0 | 2.00 |
 | 12/1/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |

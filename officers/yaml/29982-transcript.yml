@@ -96,6 +96,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2026
+  course: AVP2658C
+  title: Monthly Leadership Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/22/2026
   course: SVP0243C
   title: Firearms Inservice Training

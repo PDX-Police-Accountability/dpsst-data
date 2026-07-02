@@ -34,8 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/27/2026 | PDP3459C | 2026 Patrol Rifle New Operator Courses | Passed | 0.0 | 54.00 |
 | 5/19/2026 | PDP0546C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 5/17/2026 | PDP1095C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 27.00 |
+| 5/17/2026 | PDP3444C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 27.00 |
 | 5/8/2026 | HBP2232C | Understanding and Improving DV Investigations | Passed | 0.0 | 6.00 |
 | 4/14/2026 | HBP1561C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |
 | 3/17/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

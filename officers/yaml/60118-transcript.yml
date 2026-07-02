@@ -61,6 +61,96 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/10/2026
+  course: PDS2020C
+  title: Mental Health First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/10/2026
+  course: PDS1728C
+  title: High Risk Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/10/2026
+  course: PDS0296C
+  title: LE ConSim
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/9/2026
+  course: PDS4303C
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/6/2026
+  course: PDS2302C
+  title: De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/6/2026
+  course: PDS4099C
+  title: Red Dot Range
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 2/5/2026
+  course: PDS4243C
+  title: Basic Communication
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/5/2026
+  course: PDS2476C
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/4/2026
+  course: PDS2999C
+  title: Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/4/2026
+  course: PDS4249C
+  title: Intro to Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/4/2026
+  course: PDS1963C
+  title: Mindset
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/3/2026
+  course: PDS0697C
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/2/2026
+  course: PDS0765C
+  title: NH Orientation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/2/2026
+  course: PDS0740C
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/2/2026
+  course: PDS1038C
+  title: Ethics  IAU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/17/2025
   course: HRS0206B
   title: Marine Division Familiarization
@@ -2144,6 +2234,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/3/2026
+  expiration_date: 2/3/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2025

@@ -55,6 +55,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/18/2026
+  course: PHP3352C
+  title: Flashbang IDP
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/17/2026
+  course: PHP2680C
+  title: Chemical Munitions IDP
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/16/2026
+  course: PHP1762C
+  title: Impact Munitions IDP
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/29/2026
   course: PSU3450C
   title: Active Shooter - Schools (ACTS108)

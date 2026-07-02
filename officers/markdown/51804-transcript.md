@@ -35,8 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2026 | HBS0340C | Oregon LEDA Interior/Exterior Flight Tactics | Passed | 0.0 | 8.00 |
 | 5/17/2026 | GSP0362C | UAS Ground School | Instructed | 0.0 | 20.00 |
 | 5/16/2026 | PDP1095C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 18.00 |
+| 5/16/2026 | PDP3444C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 18.00 |
 | 4/16/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 4/16/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 4/16/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |

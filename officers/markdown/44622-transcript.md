@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2026 | OSH3913C | DT2-Taser | Passed | 0.0 | 4.00 |
+| 6/15/2026 | OSH1864C | DT2-Taser | Instructed | 0.0 | 4.00 |
+| 5/22/2026 | OSH4596C | DT2/TASER | Instructed | 0.0 | 4.00 |
 | 5/18/2026 | OSH2451C | FA2 Rifle | Instructed | 0.0 | 8.00 |
 | 5/15/2026 | OSH3264C | FA2 Rifle | Instructed | 0.0 | 8.00 |
 | 5/8/2026 | OSH3664C | FA2 Rifle | Instructed | 0.0 | 4.00 |

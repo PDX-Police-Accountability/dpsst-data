@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/27/2026
+  course: PDP3459C
+  title: 2026 Patrol Rifle New Operator Courses
+  status: Passed
+  score: '0.0'
+  hours: '54.00'
 - date: 5/19/2026
   course: PDP0546C
   title: CPR/First Aid
@@ -32,6 +38,12 @@ training_records:
   hours: '1.00'
 - date: 5/17/2026
   course: PDP1095C
+  title: 2026 Gresham UAS Pilot Training Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 5/17/2026
+  course: PDP3444C
   title: 2026 Gresham UAS Pilot Training Course
   status: Passed
   score: '0.0'

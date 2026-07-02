@@ -44,6 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2026 | HSU3592C | Rifle In-Service 2026 | Instructed | 0.0 | 5.00 |
+| 6/19/2026 | HSU3592C | Rifle In-Service 2026 | Instructed | 0.0 | 5.00 |
 | 5/17/2026 | HSU0960C | Supplemental Firearms May 2026 | Instructed | 0.0 | 4.00 |
 | 4/18/2026 | HSU0568C | Spring In-Service 2026 CPR/ First Aid | Passed | 0.0 | 4.00 |
 | 4/18/2026 | HSU0548C | Spring In-Service 2026 De Escalation Practical | Passed | 0.0 | 4.00 |

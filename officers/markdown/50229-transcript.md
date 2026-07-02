@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2026 | TRN2352C | Tethered Restraints v2023 | Passed | 0.0 | 0.50 |
 | 4/6/2026 | TRN3625C | DOC - Introduction to Neurodivergence v2026 | Passed | 0.0 | 1.00 |
 | 4/6/2026 | TRN4611C | DOC - Suicide Detection and Prevention v2026 | Passed | 0.0 | 2.00 |
 | 4/6/2026 | TRN0921C | DOC - Use of Force Rule Review v2026 | Passed | 0.0 | 2.00 |

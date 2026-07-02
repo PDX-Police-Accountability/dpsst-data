@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2026
+  course: TDP3395C
+  title: Duty to Intervene and Policy Review--2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2026
+  course: TDP0922C
+  title: Shaping an Ethical Workplace Culture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/15/2026
   course: OAC4191C
   title: Combating Isolation in the Most Demanding Role
@@ -110,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/3/2026
+  course: TDP2606C
+  title: GOVERNMENTAL INTEREST 2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2025
   course: TDP4330C
   title: STOP, ethnic, sexual harrassment reporting

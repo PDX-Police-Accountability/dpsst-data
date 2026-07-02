@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/12/2026
+  course: TRN2352C
+  title: Tethered Restraints v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/6/2026
   course: TRN3625C
   title: DOC - Introduction to Neurodivergence v2026

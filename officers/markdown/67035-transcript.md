@@ -29,8 +29,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/16/2026 | PDP2977C | Post Basic Firearms | Passed | 0.0 | 25.00 |
 | 6/9/2026 | PDP1581C | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 6/8/2026 | PDP2797C | FTEP Geography | Passed | 0.0 | 2.00 |
+| 6/4/2026 | PDP3664C | TEEX WMD/Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 6/3/2026 | PDP3834C | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 6/1/2026 | PDP0482C | Body Worn Camera Introduction | Passed | 0.0 | 2.50 |
 | 5/26/2026 | PDP1019C | Hazmat/WMD Awareness APR Gas Mask | Passed | 0.0 | 2.00 |

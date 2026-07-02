@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2026
+  course: BNP3614C
+  title: UAS Monthly- Indoor Outdoor, Map Marking
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/22/2026
   course: PDP1332C
   title: 2026 Focused Intervention Team (FIT) Training

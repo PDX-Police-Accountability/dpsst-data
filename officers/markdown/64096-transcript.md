@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2026 | BNP3614C | UAS Monthly- Indoor Outdoor, Map Marking | Passed | 0.0 | 8.00 |
 | 4/22/2026 | PDP1332C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 5.00 |
 | 3/30/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/6/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

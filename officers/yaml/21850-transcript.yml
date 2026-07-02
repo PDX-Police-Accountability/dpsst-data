@@ -179,6 +179,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 3/6/2026
+  course: LOP0257C
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/14/2026
   course: RRP1439C
   title: OACP ELTS Board Meeting

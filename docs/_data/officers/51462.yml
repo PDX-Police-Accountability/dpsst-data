@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/30/2026
+  agency: Multnomah County Sheriff's Office
+  action: Retired
+  rank: Reserve
+  classification: ''
+  assignment: ''
 - date: 7/24/2018
   agency: Multnomah County Sheriff's Office
   action: Hired
@@ -29,6 +35,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 3/6/2026
+  course: LOP0257C
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/19/2026
   course: PDS1039C
   title: Range Qualification

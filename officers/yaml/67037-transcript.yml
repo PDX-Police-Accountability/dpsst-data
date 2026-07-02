@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/16/2026
+  course: PDP2977C
+  title: Post Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 6/9/2026
   course: PDP1581C
   title: Post Basic CEW
@@ -42,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/4/2026
+  course: PDP3664C
+  title: TEEX WMD/Terrorism Awareness for Emer Resp
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/3/2026
   course: PDP3834C
   title: FTEP Orientation

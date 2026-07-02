@@ -69,12 +69,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/27/2026
+  course: HBP2782C
+  title: PA 2026-02 Reaction Drills, Tac De-escltn, Srch/Sz
+  status: Instructed
+  score: '0.0'
+  hours: '9.50'
+- date: 5/27/2026
+  course: HBP0454C
+  title: PA 2026-02, Ext Range Impact Munitions, Shield
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/25/2026
+  course: HBP2103C
+  title: PA 2026-02, Foundations of Force, Arrest, Gun Ret
+  status: Instructed
+  score: '0.0'
+  hours: '6.75'
+- date: 5/21/2026
+  course: HBP3994C
+  title: AA 2026-2, Use of Force, Use of Tools Scenarios
+  status: Instructed
+  score: '0.0'
+  hours: '3.50'
+- date: 5/20/2026
+  course: HBP3311C
+  title: AA 2026-2, Ext Range Impact Munitions - Shield
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/19/2026
+  course: HBP0380C
+  title: AA 2026-2, Reaction Drills
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/17/2026
+  course: HBP1987C
+  title: AA 2026-2, Traffic Stops / Known-Risk Stops
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/13/2026
   course: HBP3279C
   title: AA 2026-2, Building Clearing
   status: Instructed
   score: '0.0'
   hours: '8.50'
+- date: 5/12/2026
+  course: HBP0275C
+  title: AA 2026-02, Foundations of Force, Arrest, Gun Ret
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/29/2026
   course: HBP0407C
   title: In-Service 2026-2, Range
@@ -117,6 +165,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 3/6/2026
+  course: HBP3735C
+  title: PoliceOne Hate Crimes Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/25/2026
   course: HBP0383C
   title: K9 Arrest and Control

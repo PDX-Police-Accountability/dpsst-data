@@ -43,6 +43,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/17/2026
+  course: BNP0891C
+  title: Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/17/2026
+  course: BNP1219C
+  title: Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/17/2026
+  course: BNP0308C
+  title: FTO Supervisor Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/16/2026
+  course: BNP3614C
+  title: UAS Monthly- Indoor Outdoor, Map Marking
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/19/2026
   course: BNP1586C
   title: Creating Bounce

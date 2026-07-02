@@ -46,6 +46,7 @@
 | 5/13/2026 | PDP3821C | 2026-1 IS Firearms Range | Passed | 0.0 | 2.25 |
 | 5/13/2026 | PDP0054C | 2026-1 IS Public Order: Crowd Theory | Passed | 0.0 | 2.00 |
 | 5/13/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.25 |
+| 5/6/2026 | PDP0695C | NWGIA Gang Training Symposium | Passed | 0.0 | 21.00 |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
 | 3/26/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

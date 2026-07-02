@@ -50,6 +50,8 @@
 | 5/13/2026 | OAC2101C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 2.50 |
 | 5/12/2026 | OAC2485C | Leading with Peer Support and CISM | Passed | 0.0 | 1.00 |
 | 3/11/2026 | PPP1747C | District Attorney Updates with DA Nathan Vasquez | Passed | 0.0 | 1.00 |
+| 2/24/2026 | PPP2940C | Management  Leadership | Passed | 0.0 | 2.00 |
+| 1/27/2026 | PPP4574C | 2026 Annual Qualification Handgun  Rifle | Passed | 0.0 | 4.00 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2025 | PPP1808C | Handgun Training | Passed | 0.0 | 4.00 |
 | 9/15/2025 | PPP0995B | Leadership Summit | Passed | 0.0 | 8.00 |

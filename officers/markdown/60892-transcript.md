@@ -38,6 +38,7 @@
 | 4/19/2026 | FGP2216C | DPSST Legal Updates Winter 2025-2026 | Passed | 0.0 | 1.00 |
 | 4/2/2026 | REG3473C | Emergency Vehicle Operations Refresher | Passed | 0.0 | 4.00 |
 | 3/25/2026 | OSH3109C | SFST Refresher Course | Passed | 0.0 | 8.00 |
+| 3/1/2026 | FGP4142C | Quarterly Firearms | Passed | 0.0 | 1.00 |
 | 2/6/2026 | FGP2264C | DPSST Legal Updates Fall 2025 | Passed | 0.0 | 1.00 |
 | 12/11/2025 | FGP2154C | Domestic Violence Training | Passed | 0.0 | 2.00 |
 | 12/10/2025 | HBP3071C | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |

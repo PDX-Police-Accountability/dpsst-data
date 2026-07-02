@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/27/2026
+  course: PDP3459C
+  title: 2026 Patrol Rifle New Operator Courses
+  status: Passed
+  score: '0.0'
+  hours: '54.00'
 - date: 4/8/2026
   course: PDP1722C
   title: CPR/First Aid

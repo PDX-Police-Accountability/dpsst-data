@@ -44,9 +44,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2026 | OCS2878C | Marksmanship/Holster Speed | Instructed | 0.0 | 2.00 |
+| 6/9/2026 | OCS3511C | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 6/4/2026 | OCS4592C | Balancing Speed and Marksmanship | Instructed | 0.0 | 2.00 |
 | 5/8/2026 | OCS2358C | May 2026 SWAT Sniper Training | Instructed | 0.0 | 6.00 |
 | 4/30/2026 | OCS3950C | Feb, Mar, April Monthly Firearms | Instructed | 0.0 | 3.00 |
+| 4/30/2026 | OCS2198C | 2026 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
+| 4/30/2026 | OCS2198C | 2026 2nd Qtr Patrol Shotgun | Instructed | 0.0 | 15.00 |
 | 4/27/2026 | OCS1269C | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Instructed | 0.0 | 25.00 |

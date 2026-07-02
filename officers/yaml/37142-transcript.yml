@@ -131,6 +131,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2026
+  course: SPP3904C
+  title: Cybersecurity
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/23/2026
+  course: SPP3398C
+  title: Fire Extinguisher Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/23/2026
+  course: SPP1144C
+  title: Harassment Prevention for Employees
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/23/2026
+  course: SPP0728C
+  title: OSHA Heat Illness/Wildfire Smoke
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/16/2026
   course: OAC1992C
   title: Police Actions on Community Relations

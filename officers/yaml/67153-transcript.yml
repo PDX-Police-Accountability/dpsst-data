@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/22/2026
+  course: PDP3770C
+  title: ICS 100 Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/22/2026
+  course: PDP3745C
+  title: ICS 200 Basic Incident Command Syst for Init Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/27/2026
   course: REG1453C
   title: SFST-DID (Hours included in Basic)
@@ -78,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/22/2024
+  course: PDP3354C
+  title: IS 700 National Incident Manage System Intro
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

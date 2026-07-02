@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/17/2026
+  course: PPP4371C
+  title: Rapid Response Team Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/2/2026
+  course: PPP3243C
+  title: OC Deployment and Rendering Aid
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/6/2026
+  course: PPP1137C
+  title: RRT April Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/30/2026
   course: PPP1546C
   title: Safety
@@ -80,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/16/2026
+  course: PPP4574C
+  title: 2026 Annual Qualification Handgun  Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/6/2026
   course: PPP1757C
   title: First Aid/CPR/AED/Narcan and Skills Practical

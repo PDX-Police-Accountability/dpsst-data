@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2026
+  course: PDP1657C
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/11/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -919,6 +925,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/12/2026
+  expiration_date: 6/12/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

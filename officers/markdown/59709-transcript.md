@@ -38,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2026 | BNP0891C | Karly's Law | Passed | 0.0 | 1.00 |
+| 6/17/2026 | BNP1219C | Search and Seizure | Passed | 0.0 | 1.50 |
+| 6/17/2026 | BNP0308C | FTO Supervisor Training | Passed | 0.0 | 0.50 |
+| 6/16/2026 | BNP3614C | UAS Monthly- Indoor Outdoor, Map Marking | Passed | 0.0 | 8.00 |
 | 5/19/2026 | BNP1586C | Creating Bounce | Passed | 0.0 | 0.50 |
 | 5/19/2026 | BNP1989C | One Decision at a Time: Neutralizing Blind Spots | Passed | 0.0 | 3.00 |
 | 5/19/2026 | BNP4275C | Taser 10 Recertification | Passed | 0.0 | 2.00 |

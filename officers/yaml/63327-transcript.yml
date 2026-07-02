@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2026
+  course: PDP3864C
+  title: 2026 Red Dot Sight for Pistol Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 5/8/2026
   course: PDP2120C
   title: 2026 Rapid Response team (RRT) Monthly Training

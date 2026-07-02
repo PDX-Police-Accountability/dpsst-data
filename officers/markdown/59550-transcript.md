@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2026 | BNP4250C | SWAT-Full team HRT scenario | Passed | 0.0 | 8.00 |
 | 6/4/2026 | BNP0153C | SWAT- Building Clears and HRT | Instructed | 0.0 | 8.00 |
 | 5/7/2026 | BNP1089C | SWAT- Low Light Qualifications | Passed | 0.0 | 8.00 |
 | 4/10/2026 | BNP2981C | SWAT- Leadership Book and Class | Passed | 0.0 | 8.00 |
@@ -49,6 +50,7 @@
 | 4/7/2026 | BNP1682C | SWAT- Slow Clears | Passed | 0.0 | 4.00 |
 | 4/7/2026 | BNP1610C | SWAT- Hostage Rescue Tactics | Passed | 0.0 | 4.00 |
 | 4/6/2026 | BNP3760C | SWAT- Building clearing | Passed | 0.0 | 2.00 |
+| 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 20.00 |
 | 3/19/2026 | BNP1699C | SWAT-Rifle and Pistol Skill Builder | Passed | 0.0 | 8.00 |
 | 3/10/2026 | BNP3078C | SWAT- Overland HRT Scenario | Passed | 0.0 | 8.00 |
 | 2/19/2026 | BNP3794C | SWAT-Active Threat / Rescue Task Force Scenerios | Passed | 0.0 | 8.00 |

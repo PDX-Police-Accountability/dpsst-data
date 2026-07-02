@@ -81,6 +81,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/8/2026
+  course: OSH3288C
+  title: 2nd Tri Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/19/2026
   course: OSH3633C
   title: Manager Comp. Trng. - Records Management

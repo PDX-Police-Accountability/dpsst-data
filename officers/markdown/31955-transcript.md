@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2026 | CAP2562C | Rifle Reloads and Malfunctions | Passed | 0.0 | 2.00 |
 | 5/14/2026 | OAC0862C | Tackling the #1 Killer of Active  Ret LE | Passed | 0.0 | 3.00 |
 | 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |
 | 5/13/2026 | OAC2101C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 2.50 |

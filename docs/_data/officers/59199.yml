@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2026
+  course: EGP2755C
+  title: Taser Recertification Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/28/2026
   course: EGP4392C
   title: SWAT Shield Techniques
@@ -146,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/2/2026
+  course: SMP4142C
+  title: 2026 OTOA TACTICAL CONFERENCE
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 3/24/2026
   course: EGP1258C
   title: SWAT Breaching- Explosive View Ports-Thru Wall

@@ -33,7 +33,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2025 | No Degree | All Other Education Institutes |  | 51.0 |
+| 4/1/2025 | Bachelor Science | All Other Education Institutes | Criminal Justice | 51.0 |
 | 3/24/2007 | Associate Science | Portland Community College | Criminal Justice | 100.1 |
 | 5/31/1990 | Associate Science | All Other Education Institutes |  | 66.8 |
 ## Training

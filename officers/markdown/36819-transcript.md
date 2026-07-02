@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/31/2026 | LOP0908C | IPICD Abnormal Breathing | Passed | 0.0 | 1.00 |
+| 3/4/2026 | LOP1412C | Pursuit Intervention Technique Certification | Passed | 0.0 | 5.50 |
 | 3/1/2026 | LOP1902C | Overview of Mental Health Statutes and Resources | Passed | 0.0 | 1.00 |
 | 1/28/2026 | OCA3663C | MCT - Digital Search Warrants | Passed | 0.0 | 2.00 |
 | 1/15/2026 | LOP2811C | ICAC Cyber tip training | Instructed | 0.0 | 1.50 |

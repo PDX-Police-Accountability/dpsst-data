@@ -5374,10 +5374,10 @@ attribute_records:
   effective_date: 4/6/2007
   expiration_date: ''
 education_records:
-- date: 6/15/2025
-  degree: No Degree
+- date: 4/1/2025
+  degree: Bachelor Science
   school: All Other Education Institutes
-  major: ''
+  major: Criminal Justice
   hours: '51.0'
 - date: 3/24/2007
   degree: Associate Science

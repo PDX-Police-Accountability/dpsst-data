@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2026 | EGP2755C | Taser Recertification Training | Passed | 0.0 | 3.00 |
 | 5/28/2026 | EGP4392C | SWAT Shield Techniques | Passed | 0.0 | 7.50 |
 | 5/27/2026 | EGP3201C | Vehicle/Pedestrian Arrest | Passed | 0.0 | 8.00 |
 | 5/14/2026 | EGP3302C | AVI Response Protocol Refresher  Medical Skills | Passed | 0.0 | 3.00 |
@@ -55,6 +56,7 @@
 | 4/24/2026 | EGP3698C | AVI Protocols Scenario | Passed | 0.0 | 3.00 |
 | 4/9/2026 | EGP1097C | Firearms Qualification | Passed | 0.0 | 3.50 |
 | 4/7/2026 | EGP2984C | SWAT Breaching- Explosive View Ports-Thru Wall | Passed | 0.0 | 8.00 |
+| 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 20.00 |
 | 3/24/2026 | EGP1258C | SWAT Breaching- Explosive View Ports-Thru Wall | Passed | 0.0 | 8.00 |
 | 3/12/2026 | EGP2862C | EVOC Skills | Passed | 0.0 | 3.50 |
 | 3/12/2026 | EGP2888C | MRT Concepts  Skills | Passed | 0.0 | 1.00 |

@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2026
+  course: MKL2448C
+  title: Lab Sampling
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/21/2026
+  course: MKL1127C
+  title: Lab Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/6/2026
   course: MKL2069C
   title: OLCC Defensive Tactics

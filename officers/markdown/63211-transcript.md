@@ -34,6 +34,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/17/2026 | GSP0362C | UAS Ground School | Passed | 0.0 | 30.00 |
 | 5/17/2026 | PDP1095C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 27.00 |
+| 5/17/2026 | PDP3444C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 27.00 |
 | 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

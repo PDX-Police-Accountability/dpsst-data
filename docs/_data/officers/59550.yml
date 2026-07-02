@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2026
+  course: BNP4250C
+  title: SWAT-Full team HRT scenario
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/4/2026
   course: BNP0153C
   title: SWAT- Building Clears and HRT
@@ -115,6 +121,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/2/2026
+  course: SMP4142C
+  title: 2026 OTOA TACTICAL CONFERENCE
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 3/19/2026
   course: BNP1699C
   title: SWAT-Rifle and Pistol Skill Builder

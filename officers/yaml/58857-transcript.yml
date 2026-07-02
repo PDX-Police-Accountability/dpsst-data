@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2026
+  course: BPT1718C
+  title: Emotional Survival for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 3/25/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

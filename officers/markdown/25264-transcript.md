@@ -40,6 +40,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/16/2026 | PDS1039C | Range Qualification | Instructed | 0.0 | 2.00 |
 | 2/12/2026 | PDS1039C | Range Qualification | Instructed | 0.0 | 2.00 |
+| 2/10/2026 | PDS1728C | High Risk Handcuffing | Instructed | 0.0 | 4.00 |
+| 2/10/2026 | PDS0296C | LE ConSim | Instructed | 0.0 | 8.00 |
+| 2/9/2026 | PDS4303C | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 2/6/2026 | PDS4099C | Red Dot Range | Instructed | 0.0 | 12.00 |
 | 1/22/2026 | PDS2236C | Red Dot Firearms | Instructed | 0.0 | 24.00 |
 | 1/19/2026 | PDS4308C | Taser 7 | Instructed | 0.0 | 6.00 |
 | 1/12/2026 | PDS3582C | Range IDC | Passed | 0.0 | 4.00 |

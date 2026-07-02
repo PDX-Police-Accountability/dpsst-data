@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/18/2026 | OCP3892C | Active Threat Response | Passed | 0.0 | 4.00 |
+| 6/11/2026 | OCP1649C | Defensive Tactics | Instructed | 0.0 | 2.00 |
 | 5/27/2026 | OCP1264C | Taser 7 Certification | Instructed | 0.0 | 5.00 |
 | 5/21/2026 | OCP1758C | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 5/11/2026 | OCP1777C | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |

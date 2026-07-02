@@ -37,10 +37,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2026 | PPP1255C | Duty to Render Aid and Duty to Intervene | Passed | 0.0 | 0.50 |
+| 6/2/2026 | PPP3243C | OC Deployment and Rendering Aid | Passed | 0.0 | 0.50 |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
 | 2/23/2026 | PPP0470C | Case Law Updates and Report Writing | Passed | 0.0 | 2.00 |
 | 2/9/2026 | PPP4466C | Active Shooter and Winning Mindset | Passed | 0.0 | 4.00 |
 | 1/20/2026 | PPP0818C | Wellness | Passed | 0.0 | 1.00 |
+| 1/16/2026 | PPP4574C | 2026 Annual Qualification Handgun  Rifle | Passed | 0.0 | 4.00 |
 | 9/27/2025 | PPP1024B | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 9/19/2025 | PPP2314B | First Aid/AED/Adult and Child CPR | Passed | 0.0 | 4.00 |
 | 9/12/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

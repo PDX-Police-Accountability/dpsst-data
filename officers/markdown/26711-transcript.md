@@ -51,6 +51,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2026 | BPT1161C | Operational Peer Support Symposium 2026 | Passed | 0.0 | 8.00 |
 | 2/11/2026 | HBP0167C | K9 Arrest and Control | Passed | 0.0 | 4.50 |
 | 2/11/2026 | HBP1127C | Tactical De-escalation | Passed | 0.0 | 4.50 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
