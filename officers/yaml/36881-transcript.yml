@@ -105,12 +105,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 1/22/2026
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 1/22/2026
   course: VND4455C
   title: NW Peer Support Conference - Responder Life
   status: Passed

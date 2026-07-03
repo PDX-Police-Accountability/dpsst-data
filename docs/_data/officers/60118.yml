@@ -150,7 +150,19 @@ training_records:
   title: Ethics  IAU
   status: Passed
   score: '0.0'
-  hours: '2.00'
+  hours: '1.00'
+- date: 12/31/2025
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/17/2025
   course: HRS0206B
   title: Marine Division Familiarization
@@ -2240,8 +2252,8 @@ attribute_records:
   expiration_date: 2/3/2028
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2025
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 10/3/2024

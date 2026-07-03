@@ -27,7 +27,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/3/2026 | 2/3/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/3/2024 | 10/3/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/10/2021 |  |
@@ -56,7 +56,9 @@
 | 2/3/2026 | PDS0697C | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 2/2/2026 | PDS0765C | NH Orientation | Passed | 0.0 | 8.00 |
 | 2/2/2026 | PDS0740C | PREA | Passed | 0.0 | 2.00 |
-| 2/2/2026 | PDS1038C | Ethics  IAU | Passed | 0.0 | 2.00 |
+| 2/2/2026 | PDS1038C | Ethics  IAU | Passed | 0.0 | 1.00 |
+| 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 7/17/2025 | HRS0206B | Marine Division Familiarization | Passed | 0.0 | 3.00 |
 | 7/17/2025 | HRS0858B | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 6/19/2025 | HRS2424B | High Risk Stops Refresher | Passed | 0.0 | 4.00 |
