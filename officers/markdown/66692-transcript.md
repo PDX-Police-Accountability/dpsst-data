@@ -25,6 +25,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/10/2022 | Bachelor Science | Oregon Institute Of Technology | Engineering | 230.0 |
+| 9/15/2019 | No Degree | Portland Community College |  | 80.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

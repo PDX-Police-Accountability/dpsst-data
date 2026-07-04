@@ -225,4 +225,14 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 10/13/2025
   expiration_date: 10/13/2027
-education_records: []
+education_records:
+- date: 6/10/2022
+  degree: Bachelor Science
+  school: Oregon Institute Of Technology
+  major: Engineering
+  hours: '230.0'
+- date: 9/15/2019
+  degree: No Degree
+  school: Portland Community College
+  major: ''
+  hours: '80.0'
