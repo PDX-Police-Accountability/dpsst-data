@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2026 | PDP3615C | 2026 Control Tactics Satellite Instructor Course | Passed | 0.0 | 18.00 |
 | 6/12/2026 | PDP1446C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/8/2026 | PDP2452C | 2026 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

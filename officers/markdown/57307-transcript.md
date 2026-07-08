@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2026 | PDP2403C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 9.00 |
 | 1/15/2026 | PDP0232C | 2026 Training Instructor Development | Passed | 0.0 | 28.00 |
 | 1/8/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 12/26/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

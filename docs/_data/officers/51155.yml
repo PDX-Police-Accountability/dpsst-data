@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2026
+  course: PDP3615C
+  title: 2026 Control Tactics Satellite Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/8/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

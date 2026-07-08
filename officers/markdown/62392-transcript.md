@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/21/2026 | PDP0521C | 2026 40mm Less Lethal New Operator Course | Passed | 0.0 | 18.00 |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 4/16/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 4/16/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |

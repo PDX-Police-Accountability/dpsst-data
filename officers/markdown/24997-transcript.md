@@ -40,6 +40,7 @@
 | 4/6/2026 | PPP1137C | RRT April Training | Passed | 0.0 | 10.00 |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
 | 3/11/2026 | PPP1747C | District Attorney Updates with DA Nathan Vasquez | Passed | 0.0 | 1.00 |
+| 3/9/2026 | LOP0761C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/18/2026 | PPP0470C | Case Law Updates and Report Writing | Passed | 0.0 | 2.00 |
 | 2/5/2026 | PPP4466C | Active Shooter and Winning Mindset | Passed | 0.0 | 4.00 |
 | 1/22/2026 | PPP0818C | Wellness | Passed | 0.0 | 1.00 |

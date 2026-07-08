@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2026
+  course: BNP0787C
+  title: Defensive Tactics Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/17/2026
   course: BNP0891C
   title: Karly's Law

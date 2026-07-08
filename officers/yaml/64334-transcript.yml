@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/21/2026
+  course: PDP0521C
+  title: 2026 40mm Less Lethal New Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 6/5/2026
   course: OSH0450C
   title: Oregon State Police - Public Order Basic Course

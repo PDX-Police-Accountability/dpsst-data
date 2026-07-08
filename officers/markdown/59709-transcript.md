@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2026 | BNP0787C | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 6/17/2026 | BNP0891C | Karly's Law | Passed | 0.0 | 1.00 |
 | 6/17/2026 | BNP1219C | Search and Seizure | Passed | 0.0 | 1.50 |
 | 6/17/2026 | BNP0308C | FTO Supervisor Training | Passed | 0.0 | 0.50 |

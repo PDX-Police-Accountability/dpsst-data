@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Instructed | 0.0 | 9.00 |
+| 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Instructed | 0.0 | 9.00 |
 | 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
 | 3/31/2026 | PDP4571C | Radar/Lidar Operators Course | Instructed | 0.0 | 18.00 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Instructed | 0.0 | 25.00 |

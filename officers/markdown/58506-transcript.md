@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2026 | PDP2403C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 9.00 |
 | 6/4/2026 | PDP4483C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/28/2026 | PDP0344C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/21/2026 | PDP3041C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

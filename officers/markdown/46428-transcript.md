@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
+| 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Passed | 0.0 | 9.00 |
 | 3/25/2026 | PDP2069C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 3/19/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |

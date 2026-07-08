@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |
 | 4/2/2026 | OSH4469C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 1) | Passed | 0.0 | 8.00 |
 | 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Passed | 0.0 | 9.00 |

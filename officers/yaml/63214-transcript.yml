@@ -24,12 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/20/2026
+  course: PDP2055C
+  title: 2026 Patrol Rifle Operator Summer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/14/2026
   course: PDP1370C
   title: 2026 40mm Less Lethal New Operator Course
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/12/2026
+  course: PDP2236C
+  title: 2026 Red Dot Sight for Pistol Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 4/30/2026
   course: PDP1198C
   title: 2026-1 IS ABLE

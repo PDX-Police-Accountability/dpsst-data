@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2026 | OSH0450C | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
+| 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
 | 4/10/2026 | PDP2634C | 2026 Dialogue Liaison Officer (DLO) Training | Passed | 0.0 | 9.00 |
 | 4/5/2026 | PDP4304C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |

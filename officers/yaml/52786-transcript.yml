@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/5/2026
+  course: LOP3930C
+  title: EVOC with Use of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/23/2026
   course: PDS1039C
   title: Range Qualification

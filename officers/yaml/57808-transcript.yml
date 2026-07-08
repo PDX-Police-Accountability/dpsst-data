@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2026
+  course: PDP2055C
+  title: 2026 Patrol Rifle Operator Summer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/8/2026
   course: HBS0340C
   title: Oregon LEDA Interior/Exterior Flight Tactics

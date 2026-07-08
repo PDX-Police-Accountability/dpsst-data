@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/6/2026
+  course: PDP0605C
+  title: 2026 Traffic Monthly Motor Training Roster
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/17/2026
   course: PDP2148C
   title: 2026 Annual Honor Guard In-Service

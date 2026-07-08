@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/21/2026 | PDP0521C | 2026 40mm Less Lethal New Operator Course | Passed | 0.0 | 18.00 |
 | 5/21/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 5/21/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 5/21/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |

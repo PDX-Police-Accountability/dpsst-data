@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/6/2026 | LOP1766C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/10/2026 | PDS2020C | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 2/10/2026 | PDS1728C | High Risk Handcuffing | Passed | 0.0 | 4.00 |
 | 2/10/2026 | PDS0296C | LE ConSim | Passed | 0.0 | 8.00 |

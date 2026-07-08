@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 5/13/2026 | PDP2591C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 4/15/2026 | PDP3211C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 3/18/2026 | PDP1724C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |

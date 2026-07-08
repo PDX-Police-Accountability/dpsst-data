@@ -50,9 +50,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2026
+  course: HBN1297C
+  title: Officer Safety Home Visit  Search/Seizure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/2/2026
   course: HBN2584C
   title: Team Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/14/2026
+  course: HBN2471C
+  title: Case Management
   status: Passed
   score: '0.0'
   hours: '1.00'

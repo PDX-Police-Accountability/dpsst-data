@@ -45,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2026 | 09278C | Implicit Bias | Passed | 0.0 | 1.00 |
+| 3/9/2026 | LOP0761C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 12/3/2025 | GLP0613C | Defensive Tactics Winter 2025 | Passed | 0.0 | 2.00 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Passed | 0.0 | 4.00 |
 | 10/13/2025 | GLP1210B | Q3 Range - Threat ID and Target Transition | Passed | 0.0 | 3.00 |

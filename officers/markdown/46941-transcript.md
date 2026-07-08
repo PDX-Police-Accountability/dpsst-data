@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 5/28/2026 | PDP4242C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 5/14/2026 | PDP2806C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 5/7/2026 | PDP4399C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |

@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2026
+  course: PDP2055C
+  title: 2026 Patrol Rifle Operator Summer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/18/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

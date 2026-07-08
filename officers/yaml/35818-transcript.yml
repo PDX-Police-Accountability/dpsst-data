@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2026
+  course: '09278C'
+  title: Implicit Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/9/2026
+  course: LOP0761C
+  title: EVOC with Use of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/4/2026
   course: 36279C
   title: Oregon Sanctuary Promise

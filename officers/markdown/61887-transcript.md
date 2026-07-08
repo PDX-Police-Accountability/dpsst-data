@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2026 | PDP2403C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 9.00 |
 | 6/8/2026 | HBS0340C | Oregon LEDA Interior/Exterior Flight Tactics | Passed | 0.0 | 8.00 |
 | 4/22/2026 | PDP1332C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 5.00 |
 | 4/1/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |

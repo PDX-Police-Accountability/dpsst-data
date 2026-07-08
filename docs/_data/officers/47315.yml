@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/20/2026
+  course: PDP2055C
+  title: 2026 Patrol Rifle Operator Summer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/21/2026
   course: PDP1198C
   title: 2026-1 IS ABLE

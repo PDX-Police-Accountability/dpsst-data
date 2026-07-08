@@ -61,6 +61,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2026
+  course: HBN1297C
+  title: Officer Safety Home Visit  Search/Seizure
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/12/2026
+  course: HBN1297C
+  title: Officer Safety Home Visit  Search/Seizure
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/9/2026
+  course: HBN1297C
+  title: Officer Safety Home Visit  Search/Seizure
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/9/2026
+  course: HBN1297C
+  title: Officer Safety Home Visit  Search/Seizure
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/21/2026
   course: HBN3280C
   title: WRNA Booster

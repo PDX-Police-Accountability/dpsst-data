@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2026 | PDP3615C | 2026 Control Tactics Satellite Instructor Course | Passed | 0.0 | 18.00 |
 | 6/5/2026 | OSH0450C | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/13/2026 | PDP0150C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/31/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

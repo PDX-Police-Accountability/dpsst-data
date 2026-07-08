@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 6/12/2026 | PDP1446C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/5/2026 | OSH0450C | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
 | 5/13/2026 | PDP2591C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |

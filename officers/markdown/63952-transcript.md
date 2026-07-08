@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Passed | 0.0 | 9.00 |
 | 3/1/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

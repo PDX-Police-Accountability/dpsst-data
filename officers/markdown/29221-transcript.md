@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2026 | BNP0787C | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 5/20/2026 | BNP1332C | Bend PD Ethics | Instructed | 0.0 | 1.00 |
 | 5/19/2026 | BNP1586C | Creating Bounce | Passed | 0.0 | 0.50 |
 | 5/19/2026 | BNP4275C | Taser 10 Recertification | Passed | 0.0 | 2.00 |

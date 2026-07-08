@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2026
+  course: PDP3615C
+  title: 2026 Control Tactics Satellite Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 6/12/2026
   course: PDP1446C
   title: 2026 Rapid Response team (RRT) Monthly Training

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Passed | 0.0 | 9.00 |
 | 3/15/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/3/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
