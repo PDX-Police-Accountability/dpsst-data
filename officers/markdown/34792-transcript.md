@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/23/2026 | Talent Police Department | Resigned | Police Off |  |  |
 | 10/29/2007 | Talent Police Department | Reclassed | Police Off |  |  |
 | 5/16/2007 | Talent Police Department | Hired | Reserve |  |  |
 | 7/7/1998 | Portland Police Bureau | Resigned | Reserve |  |  |
@@ -19,17 +20,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/15/2021 | Police Officer | Advanced | Granted | 12/15/2021 |  |  |
-| 7/8/2020 | Police Officer | Intermediate | Granted | 7/8/2020 |  |  |
-| 1/14/2009 | Police Officer | Basic | Granted | 1/14/2009 |  |  |
+| 6/23/2026 | Police Officer | Advanced | Lapsed | 12/15/2021 | 3/23/2031 |  |
+| 6/23/2026 | Police Officer | Basic | Lapsed | 1/14/2009 | 3/23/2031 |  |
+| 6/23/2026 | Police Officer | Intermediate | Lapsed | 7/8/2020 | 3/23/2031 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/21/2026 | 4/21/2028 |
 | Certification Cards | First Aid and CPR | 2/10/2026 | 2/10/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/30/2024 | 10/30/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |

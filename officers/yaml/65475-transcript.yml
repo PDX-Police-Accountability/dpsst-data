@@ -16,13 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/30/2026
+- status_date: 7/7/2026
   certificate: Police Officer
   level: Basic
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 7/7/2026
   expiration_date: ''
-  probation_date: 4/10/2026
+  probation_date: ''
 training_records:
 - date: 3/31/2026
   course: PDP4523C

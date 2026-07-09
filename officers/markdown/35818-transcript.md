@@ -36,7 +36,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/1/2026 | 09278C | Implicit Bias | Passed | 0.0 | 1.00 |
 | 3/9/2026 | LOP0761C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/4/2026 | 36279C | Oregon Sanctuary Promise | Passed | 0.0 | 0.50 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

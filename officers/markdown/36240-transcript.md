@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/6/2026 | Gresham Police Department | Hired | Police Off |  |  |
 | 5/28/2020 | Portland Police Bureau | Return LOA | Detective |  |  |
 | 11/22/2019 | Portland Police Bureau | LOA | Detective |  |  |
 | 9/10/1998 | Portland Police Bureau | Hired | Police Off |  |  |

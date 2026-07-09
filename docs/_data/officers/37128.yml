@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/6/2026
+  agency: Gresham Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/15/2009
   agency: Portland Police Bureau
   action: Promotion

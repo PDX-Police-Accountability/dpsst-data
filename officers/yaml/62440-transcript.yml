@@ -21,14 +21,7 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 7/14/2023
-  certificate: Police Officer
-  level: Basic
-  status: App Recd
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: ''
+certification_records: []
 training_records:
 - date: 7/12/2023
   course: E11PDP19
