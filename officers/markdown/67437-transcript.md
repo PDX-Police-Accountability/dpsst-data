@@ -24,6 +24,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 11/11/2014 | Doctor Of Jurisprudence | All Other Education Institutes |  | 0.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

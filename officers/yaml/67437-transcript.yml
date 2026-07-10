@@ -65,4 +65,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 5/25/2026
   expiration_date: ''
-education_records: []
+education_records:
+- date: 11/11/2014
+  degree: Doctor Of Jurisprudence
+  school: All Other Education Institutes
+  major: ''
+  hours: '0.0'
