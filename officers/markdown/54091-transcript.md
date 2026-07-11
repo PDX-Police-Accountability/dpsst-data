@@ -18,8 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/1/2026 | Police Officer | Basic | App Incmpl |  | 9/1/2026 | 12/20/2025 |
-| 1/1/2022 | Police Officer | Basic | Lapsed | 11/17/2015 |  |  |
+| 7/9/2026 | Police Officer | Basic | Reactivatd | 11/17/2015 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -36,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2026 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 0.00 |
 | 5/17/2026 | GSP0362C | UAS Ground School | Passed | 0.0 | 30.00 |
 | 5/17/2026 | PDP1095C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 27.00 |
 | 5/17/2026 | PDP3444C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 27.00 |
@@ -51,7 +51,6 @@
 | 1/16/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/30/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 12/30/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
-| 12/20/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/10/2025 | PDP2540C | 2025 Patrol Rifle Operator's In-Service Day 2 | Passed | 0.0 | 9.00 |
 | 12/5/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/21/2025 | PDP3572C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
