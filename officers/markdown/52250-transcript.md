@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit |  | 0.0 | 3.00 |
+| 4/30/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit | Passed | 0.0 | 6.00 |
+| 4/29/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit | Passed | 0.0 | 6.00 |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
 | 3/5/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/27/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

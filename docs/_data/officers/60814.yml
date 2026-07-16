@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2026
+  course: VND4605D
+  title: Oregon Child Abuse and Human Trafficking Summit
+  status: ''
+  score: '0.0'
+  hours: '3.00'
 - date: 4/23/2026
   course: PDP1198C
   title: 2026-1 IS ABLE

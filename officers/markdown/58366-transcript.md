@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 6/17/2026 | OSH3916D | Central Region Leadership Summit | Passed | 0.0 | 4.00 |
 | 6/8/2026 | OSH3288C | 2nd Tri Firearms | Passed | 0.0 | 4.00 |
 | 5/19/2026 | OSH3633C | Manager Comp. Trng. - Records Management | Passed | 0.0 | 1.00 |
 | 5/12/2026 | OSH3345C | Interrupting the Pathways to Violence | Passed | 0.0 | 1.00 |

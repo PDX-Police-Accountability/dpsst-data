@@ -43,12 +43,33 @@
 | 5/14/2026 | PDP3953C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 5/12/2026 | PDP1450C | FTEP Orientation | Passed | 0.0 | 5.50 |
 | 5/7/2026 | PDP2862C | Body Worn Camera | Passed | 0.0 | 2.50 |
+| 5/6/2026 | PDP2567D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 5/6/2026 | PDP2743D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 5/6/2026 | PDP3889D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 5/6/2026 | PDP1803D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Passed | 0.0 | 2.00 |
 | 5/4/2026 | PDP1906C | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 4/29/2026 | PDP1017C | FTEP Geography | Passed | 0.0 | 2.00 |
 | 4/22/2026 | PDP1235C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 4/21/2026 | PDP3956C | CPR/First Aid | Passed | 0.0 | 3.00 |
+| 4/21/2026 | PDP3912D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/21/2026 | PDP1222D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/15/2026 | PDP3833C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 5.00 |
+| 4/1/2026 | PDP0978D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP1306D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP4000D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP2006D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP1042D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP1080D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP1715D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP4569D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0045D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0725D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP3161D | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0447D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0364D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0466D | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0922D | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP3152C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP2901C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

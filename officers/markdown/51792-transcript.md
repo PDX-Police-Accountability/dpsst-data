@@ -39,6 +39,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/12/2026 | PDP1446C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 5/2/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit |  | 0.0 | 8.00 |
+| 5/1/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit |  | 0.0 | 3.00 |
+| 4/30/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit | Passed | 0.0 | 6.00 |
+| 4/29/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit | Passed | 0.0 | 6.00 |
 | 4/17/2026 | PDP1853C | Multnomah County Anti Trafficking Conference | Passed | 0.0 | 6.00 |
 | 3/26/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 3/13/2026 | PDP2511C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

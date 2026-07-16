@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2026
+  course: GSP0474D
+  title: Ballistic Shield Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/10/2026
+  course: GSP0414D
+  title: Ballistic Shield Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/4/2026
   course: PDP4483C
   title: 2026 SERT Training - SCENARIO

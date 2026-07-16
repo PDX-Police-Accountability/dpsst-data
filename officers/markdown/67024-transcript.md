@@ -35,7 +35,15 @@
 | 5/7/2026 | PDP2862C | Body Worn Camera | Passed | 0.0 | 2.50 |
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Passed | 0.0 | 2.00 |
 | 5/4/2026 | PDP1906C | Post Basic CEW | Passed | 0.0 | 9.00 |
+| 5/3/2026 | PDP4023D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 5/3/2026 | PDP2255D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 4/29/2026 | PDP1017C | FTEP Geography | Passed | 0.0 | 2.00 |
+| 4/27/2026 | PDP2743D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP2567D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP1803D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP3889D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP0466D | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP3161D | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 4/24/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/24/2025 | PDP1043C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |

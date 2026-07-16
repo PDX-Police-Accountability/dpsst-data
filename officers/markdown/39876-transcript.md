@@ -31,7 +31,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2000 | No Degree | All Other Education Institutes |  | 51.0 |
+| 6/15/2000 | Bachelor Arts | All Other Education Institutes | Criminal Justice | 51.0 |
 | 6/15/1999 | Associate Arts | All Other Education Institutes |  | 132.0 |
 ## Training
 | date | course | title | status | score | hours |

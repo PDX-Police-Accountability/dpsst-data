@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2026 | SAG4549D | Firearms | Passed | 0.0 | 2.00 |
+| 6/22/2026 | SAG3802D | Firearms | Passed | 0.0 | 2.00 |
 | 4/9/2026 | SAG4569C | Firearms | Passed | 0.0 | 0.50 |
 | 2/3/2026 | SAG2918C | First Aid  CPR | Passed | 0.0 | 4.00 |
 | 12/31/2025 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 1.50 |

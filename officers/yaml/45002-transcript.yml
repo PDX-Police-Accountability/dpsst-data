@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/18/2026
+  course: PDP2705D
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/18/2026
+  course: PDP0916D
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/23/2026
   course: PDP1198C
   title: 2026-1 IS ABLE

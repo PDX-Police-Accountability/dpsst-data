@@ -36,6 +36,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2026
+  course: SAG3141D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/25/2026
+  course: SAG1009D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/24/2026
+  course: SAG1732D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/23/2026
+  course: SAG0099D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/15/2026
   course: VND3496C
   title: Washington County CIT Training

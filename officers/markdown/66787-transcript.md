@@ -29,6 +29,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/26/2026 | PDP1306D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 4/26/2026 | PDP1715D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP1080D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP0364D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP0978D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP4000D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP4569D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP0447D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP0466D | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP3161D | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP1222D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP0922D | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP4310C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP0599C | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP0666C | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
@@ -65,6 +77,8 @@
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 3/6/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 3/4/2026 | REG1614D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 3/4/2026 | REG4177D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/2/2026 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |
 | 1/2/2026 | PDP2770C | ICS-200 Basic Inc Command System for Init Resp | Passed | 0.0 | 4.00 |

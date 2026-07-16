@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/22/2026 | PDP3875D | 2019-3 TT ECIT Dispatch Criteria  BOEC Training | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP4235D | 2019-3 TT ECIT Dispatch Criteria  BOEC Training | Passed | 0.0 | 0.25 |
 | 4/8/2026 | PDP3686C | 2026-1 Advanced Academy Firearms | Passed | 0.0 | 31.25 |
 | 4/8/2026 | PDP0765C | 2026-1 Advanced Academy Wellness | Passed | 0.0 | 9.00 |
 | 4/8/2026 | PDP0111C | 2026-1 Advanced Academy Control Tactics | Passed | 0.0 | 55.50 |

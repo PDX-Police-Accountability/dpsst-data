@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2026
+  course: GSP0474D
+  title: Ballistic Shield Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/10/2026
+  course: GSP0414D
+  title: Ballistic Shield Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/15/2026
+  course: GSP1957D
+  title: SWAT Sniper Range
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/13/2026
   course: GSP0614C
   title: SWAT Firearms

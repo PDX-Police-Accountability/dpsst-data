@@ -46,6 +46,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2026 | STP0098D | 9 Career Saving Lessons for Cops | Passed | 0.0 | 1.00 |
+| 7/1/2026 | STP2341D | 9 Career Saving Lessons for Cops | Passed | 0.0 | 1.00 |
 | 4/29/2026 | STP1738C | RAID Team High Risk Traffic Stops/Caravan Training | Passed | 0.0 | 3.00 |
 | 3/31/2026 | HBS3496C | EVO In-Service Training | Passed | 0.0 | 7.50 |
 | 2/26/2026 | STP0664C | RAID Team Training- Breaching Training | Passed | 0.0 | 4.00 |

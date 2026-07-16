@@ -4,7 +4,7 @@
 | name | Sims, Brian J. |
 | dpsst_identifier | 37128 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 7/6/2026 | Gresham Police Department | Hired | Police Off |  |  |
+| 7/2/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 10/15/2009 | Portland Police Bureau | Promotion | Detective |  |  |
 | 2/15/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification

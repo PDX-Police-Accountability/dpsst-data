@@ -28,6 +28,24 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/29/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/28/2026 | PDP1306D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP2743D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP0978D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP2567D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP4000D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP1080D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP4018D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP1803D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP0447D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP0374D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP3889D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP1715D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP4569D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 6/28/2026 | PDP0364D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 6/23/2026 | PDP4023D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 6/23/2026 | PDP3695D | 2023 DIR 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 6/23/2026 | PDP2255D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 6/23/2026 | PDP3438D | 2023 DIR 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/27/2026 | REG1453C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/7/2026 | REG4150C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/2/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

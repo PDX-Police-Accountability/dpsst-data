@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2026 | SAG4549D | Firearms | Passed | 0.0 | 2.00 |
+| 6/22/2026 | SAG3802D | Firearms | Passed | 0.0 | 2.00 |
 | 4/9/2026 | SAG4569C | Firearms | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
 | 2/3/2026 | SAG2918C | First Aid  CPR | Passed | 0.0 | 4.00 |

@@ -62,12 +62,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/29/2026
+  course: TGP2515D
+  title: Handgun
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/29/2026
+  course: TGP2515D
+  title: Handgun
+  status: Instructed
+  score: '0.0'
+  hours: '48.00'
 - date: 5/15/2026
   course: TGP1041C
   title: Motor Training
   status: Instructed
   score: '0.0'
   hours: '40.00'
+- date: 4/30/2026
+  course: VND4605D
+  title: Oregon Child Abuse and Human Trafficking Summit
+  status: ''
+  score: '0.0'
+  hours: '6.00'
+- date: 4/29/2026
+  course: VND4605D
+  title: Oregon Child Abuse and Human Trafficking Summit
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 2/28/2026
   course: TGP1891C
   title: Axon Assistant Introduction

@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/23/2026
+  course: PDP2660D
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/23/2026
+  course: PDP2635D
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/12/2026
   course: PDP2955C
   title: AA [CIT-113-H] Responding to a MH Facility

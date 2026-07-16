@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2026 | GSP0474D | Ballistic Shield Training | Passed | 0.0 | 5.00 |
+| 6/10/2026 | GSP0414D | Ballistic Shield Training | Passed | 0.0 | 10.00 |
+| 5/15/2026 | GSP1957D | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 5/14/2026 | GSP4107C | SWAT Firearms | Passed | 0.0 | 10.00 |
 | 5/13/2026 | GSP0614C | SWAT Firearms | Passed | 0.0 | 10.00 |
 | 4/10/2026 | GSP3480C | SWAT Sniper Range | Passed | 0.0 | 10.00 |

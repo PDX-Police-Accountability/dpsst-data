@@ -29,6 +29,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/14/2026 | PDP1222D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/2/2026 | PDP4023D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 4/2/2026 | PDP2255D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 4/2/2026 | PDP3912D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP1042D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP2006D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0045D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0725D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0466D | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP3161D | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP1094C | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP2198C | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
 | 3/31/2026 | PDP4571C | Radar/Lidar Operators Course | Passed | 0.0 | 18.00 |

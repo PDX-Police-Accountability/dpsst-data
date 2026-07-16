@@ -31,6 +31,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2026
+  course: PDP2705D
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/4/2026
+  course: PDP0857D
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/4/2026
+  course: PDP0916D
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/4/2026
+  course: PDP0924D
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/27/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

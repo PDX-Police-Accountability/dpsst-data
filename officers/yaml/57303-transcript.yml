@@ -37,6 +37,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/10/2026
+  course: PDP0857D
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/10/2026
+  course: PDP2705D
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/10/2026
+  course: PDP0916D
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/10/2026
+  course: PDP0924D
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/13/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

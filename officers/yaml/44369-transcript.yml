@@ -112,6 +112,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/1/2026
+  course: STP0098D
+  title: 9 Career Saving Lessons for Cops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2026
+  course: STP2341D
+  title: 9 Career Saving Lessons for Cops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/29/2026
   course: STP1738C
   title: RAID Team High Risk Traffic Stops/Caravan Training

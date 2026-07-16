@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/23/2026 | PDP2660D | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP2635D | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 3/12/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |

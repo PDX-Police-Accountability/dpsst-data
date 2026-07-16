@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/10/2026
+  agency: Canby Police Department
+  action: Promotion
+  rank: Actng Chf
+  classification: ''
+  assignment: ''
 - date: 10/6/2021
   agency: DPSST Use Only
   action: InstrApp

@@ -44,6 +44,8 @@
 | 5/20/2026 | PDP3821C | 2026-1 IS Firearms Range | Passed | 0.0 | 2.25 |
 | 5/20/2026 | PDP0054C | 2026-1 IS Public Order: Crowd Theory | Passed | 0.0 | 2.00 |
 | 5/20/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.25 |
+| 4/7/2026 | PDP4254D | 2019 Training Range Qualification System Update | Passed | 0.0 | 0.25 |
+| 4/7/2026 | PDP3424D | 2019 Training Range Qualification System Update | Passed | 0.0 | 0.25 |
 | 3/1/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/9/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/9/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

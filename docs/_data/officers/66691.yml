@@ -276,6 +276,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 3/4/2026
+  course: REG1614D
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/4/2026
+  course: REG4177D
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 3/2/2026
   course: PDP0325C
   title: 2019-5 TT Enforcement of Protection Orders

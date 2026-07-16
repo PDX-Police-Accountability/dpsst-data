@@ -98,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 4/7/2026
+  course: PDP4254D
+  title: 2019 Training Range Qualification System Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/7/2026
+  course: PDP3424D
+  title: 2019 Training Range Qualification System Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/1/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

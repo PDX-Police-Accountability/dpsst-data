@@ -30,6 +30,66 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/14/2026
+  course: PDP1222D
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2026
+  course: PDP4023D
+  title: 2021 The Advanced SEND Protocol Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2026
+  course: PDP2255D
+  title: 2021 The Advanced SEND Protocol Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2026
+  course: PDP3912D
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2026
+  course: PDP1042D
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2026
+  course: PDP2006D
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2026
+  course: PDP0045D
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2026
+  course: PDP0725D
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2026
+  course: PDP0466D
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2026
+  course: PDP3161D
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/31/2026
   course: PDP1094C
   title: 2025 Extreme Risk Protection Orders (ERPOs)

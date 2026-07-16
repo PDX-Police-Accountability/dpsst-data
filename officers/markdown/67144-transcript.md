@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/29/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/23/2026 | PDP4018D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 6/23/2026 | PDP0374D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 6/22/2026 | PDP3770C | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 6/22/2026 | PDP3745C | ICS 200 Basic Incident Command Syst for Init Resp | Passed | 0.0 | 4.00 |
 | 5/27/2026 | REG1453C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |

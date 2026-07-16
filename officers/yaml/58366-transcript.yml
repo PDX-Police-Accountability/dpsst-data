@@ -81,6 +81,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/17/2026
+  course: OSH3916D
+  title: Central Region Leadership Summit
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/8/2026
   course: OSH3288C
   title: 2nd Tri Firearms

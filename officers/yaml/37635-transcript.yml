@@ -75,6 +75,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/26/2026
+  course: SAG3141D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/25/2026
+  course: SAG1009D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/24/2026
+  course: SAG1732D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/23/2026
+  course: SAG0099D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/14/2026
   course: EGP3725C
   title: DT Skills/ACAP

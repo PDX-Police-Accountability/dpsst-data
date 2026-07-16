@@ -3,7 +3,7 @@ header_record:
   name: Jones, Michael K.
   dpsst_identifier: '36240'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
@@ -13,6 +13,12 @@ employment_records:
   agency: Gresham Police Department
   action: Hired
   rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/3/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
   classification: ''
   assignment: ''
 - date: 5/28/2020

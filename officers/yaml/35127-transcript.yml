@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2026
+  course: SAG4549D
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/22/2026
+  course: SAG3802D
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/9/2026
   course: SAG4569C
   title: Firearms

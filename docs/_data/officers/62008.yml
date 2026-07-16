@@ -30,6 +30,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 5/1/2026
+  course: VND4605D
+  title: Oregon Child Abuse and Human Trafficking Summit
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/30/2026
+  course: VND4605D
+  title: Oregon Child Abuse and Human Trafficking Summit
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/29/2026
+  course: VND4605D
+  title: Oregon Child Abuse and Human Trafficking Summit
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/17/2026
   course: PDP1853C
   title: Multnomah County Anti Trafficking Conference

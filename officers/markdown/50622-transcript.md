@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2026 | OCP1423D | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |
 | 5/26/2026 | OCP3444C | Firearms/Use of Force | Instructed | 0.0 | 7.00 |
 | 5/21/2026 | OCP1758C | Firearms/Use of Force | Passed | 0.0 | 1.00 |

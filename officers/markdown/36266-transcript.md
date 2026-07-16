@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2026 | SAG4549D | Firearms | Passed | 0.0 | 2.00 |
+| 6/22/2026 | SAG3802D | Firearms | Passed | 0.0 | 2.00 |
 | 4/9/2026 | SAG4569C | Firearms | Passed | 0.0 | 2.00 |
 | 3/11/2026 | SAG2789C | Firearms Training | Passed | 0.0 | 2.00 |
 | 3/11/2026 | SAG2115C | Firearms Training | Passed | 0.0 | 2.00 |

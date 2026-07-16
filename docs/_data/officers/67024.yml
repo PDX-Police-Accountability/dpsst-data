@@ -72,12 +72,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/3/2026
+  course: PDP4023D
+  title: 2021 The Advanced SEND Protocol Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/3/2026
+  course: PDP2255D
+  title: 2021 The Advanced SEND Protocol Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/29/2026
   course: PDP1017C
   title: FTEP Geography
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/27/2026
+  course: PDP2743D
+  title: 2018 TOD 100% Collection  Submission Model Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2026
+  course: PDP2567D
+  title: 2018-5 TT 100% Collection  Submission Model FA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2026
+  course: PDP1803D
+  title: 2018-5 TT 100% Collection  Submission Model FA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2026
+  course: PDP3889D
+  title: 2018 TOD 100% Collection  Submission Model Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2026
+  course: PDP0466D
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2026
+  course: PDP3161D
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/24/2026
   course: M10-23A
   title: DPSST Basic Police Course

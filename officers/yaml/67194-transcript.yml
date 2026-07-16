@@ -30,6 +30,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/23/2026
+  course: PDP1042D
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP2006D
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP0045D
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP0725D
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP0466D
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/22/2026
   course: PDP3770C
   title: ICS 100 Intro to Incident Command System

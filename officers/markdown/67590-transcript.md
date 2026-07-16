@@ -28,3 +28,14 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/3/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 4/22/2026 | PDP1306D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP1080D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP1715D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 4/22/2026 | PDP0364D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 4/21/2026 | PDP0978D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 4/21/2026 | PDP4000D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 4/21/2026 | PDP0447D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
+| 4/21/2026 | PDP4569D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
+| 4/21/2026 | PDP0922D | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP4018D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 4/1/2026 | PDP0374D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |

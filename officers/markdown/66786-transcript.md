@@ -29,6 +29,23 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/24/2026 | PDP4018D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 4/24/2026 | PDP0374D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP2567D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP2743D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP1803D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP3889D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 4/18/2026 | PDP1222D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/17/2026 | PDP3912D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 4/5/2026 | PDP1042D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 4/5/2026 | PDP2006D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 4/5/2026 | PDP1080D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 4/5/2026 | PDP0045D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 4/5/2026 | PDP0725D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 4/5/2026 | PDP0364D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
+| 4/5/2026 | PDP0466D | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 4/5/2026 | PDP3161D | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 4/5/2026 | PDP0922D | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 3/26/2026 | PDP1560C | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
@@ -51,6 +68,8 @@
 | 3/9/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
 | 3/6/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 3/4/2026 | REG1614D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 3/4/2026 | REG4177D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/22/2026 | REG2570C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/24/2025 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |
 | 12/24/2025 | PDP0447C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |

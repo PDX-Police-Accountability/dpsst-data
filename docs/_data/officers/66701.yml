@@ -30,6 +30,168 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/19/2026
+  course: PDP1306D
+  title: 2021 Online IS Language Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP1042D
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP0978D
+  title: 2021 Online IS Training Procedural Justice Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP2006D
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP4000D
+  title: 2021 Online IS Training Procedural Justice Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP1080D
+  title: 2021 Online IS Training Procedural Justice Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP1715D
+  title: 2021 Online IS Language Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP4569D
+  title: 2021 Online IS Training Procedural Justice Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP0045D
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP0725D
+  title: 2019-5 TT Enforcement of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP3161D
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP0447D
+  title: 2021 Online IS Training Procedural Justice Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP0364D
+  title: 2021 Online IS Training Procedural Justice Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP3912D
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP1222D
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2026
+  course: PDP0922D
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2026
+  course: PDP2567D
+  title: 2018-5 TT 100% Collection  Submission Model FA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2026
+  course: PDP2743D
+  title: 2018 TOD 100% Collection  Submission Model Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2026
+  course: PDP4018D
+  title: 2020-10 CAO Legal Updates for 10/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2026
+  course: PDP1803D
+  title: 2018-5 TT 100% Collection  Submission Model FA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2026
+  course: PDP3889D
+  title: 2018 TOD 100% Collection  Submission Model Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2026
+  course: PDP0374D
+  title: 2020-10 CAO Legal Updates for 10/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2026
+  course: PDP0466D
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2026
+  course: PDP4023D
+  title: 2021 The Advanced SEND Protocol Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2026
+  course: PDP2255D
+  title: 2021 The Advanced SEND Protocol Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2026
+  course: PDP3695D
+  title: 2023 DIR 0650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2026
+  course: PDP3438D
+  title: 2023 DIR 0650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/31/2026
   course: PDP1094C
   title: 2025 Extreme Risk Protection Orders (ERPOs)
@@ -186,6 +348,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 3/4/2026
+  course: REG1614D
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/4/2026
+  course: REG4177D
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 1/31/2026
   course: PDP1646C
   title: IS-200 Basic Inc Command Syst for Init Response

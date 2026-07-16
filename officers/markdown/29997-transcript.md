@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit |  | 0.0 | 6.00 |
+| 4/29/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit | Passed | 0.0 | 6.00 |
 | 4/22/2026 | PDP1332C | 2026 Focused Intervention Team (FIT) Training | Instructed | 0.0 | 2.50 |
 | 3/26/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 3/26/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |

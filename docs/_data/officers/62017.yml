@@ -31,6 +31,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/20/2026
+  course: PDP0857D
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/20/2026
+  course: PDP0924D
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/12/2026
   course: PDP1446C
   title: 2026 Rapid Response team (RRT) Monthly Training

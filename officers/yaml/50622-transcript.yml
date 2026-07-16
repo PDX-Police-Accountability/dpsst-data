@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/1/2026
+  course: OCP1423D
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/12/2026
   course: OCS1222C
   title: FBI LEEDA Executive Leadership Institute

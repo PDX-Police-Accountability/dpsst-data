@@ -96,6 +96,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2026
+  course: SVP1987D
+  title: Emergency Vehilce Operations (EVO)
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/12/2026
+  course: SVP1987D
+  title: Emergency Vehilce Operations (EVO)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/10/2026
   course: AVP2658C
   title: Monthly Leadership Meeting

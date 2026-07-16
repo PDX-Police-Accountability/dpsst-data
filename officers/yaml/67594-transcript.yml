@@ -36,5 +36,83 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 6/22/2026
+  course: PDP2743D
+  title: 2018 TOD 100% Collection  Submission Model Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2026
+  course: PDP2567D
+  title: 2018-5 TT 100% Collection  Submission Model FA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2026
+  course: PDP1803D
+  title: 2018-5 TT 100% Collection  Submission Model FA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2026
+  course: PDP3889D
+  title: 2018 TOD 100% Collection  Submission Model Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2026
+  course: PDP1306D
+  title: 2021 Online IS Language Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/22/2026
+  course: PDP1715D
+  title: 2021 Online IS Language Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2026
+  course: PDP0978D
+  title: 2021 Online IS Training Procedural Justice Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2026
+  course: PDP4000D
+  title: 2021 Online IS Training Procedural Justice Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2026
+  course: PDP1080D
+  title: 2021 Online IS Training Procedural Justice Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2026
+  course: PDP0447D
+  title: 2021 Online IS Training Procedural Justice Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2026
+  course: PDP4569D
+  title: 2021 Online IS Training Procedural Justice Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2026
+  course: PDP0364D
+  title: 2021 Online IS Training Procedural Justice Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2026
+  course: PDP0922D
+  title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 attribute_records: []
 education_records: []

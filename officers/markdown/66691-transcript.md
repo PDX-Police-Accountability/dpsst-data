@@ -70,6 +70,8 @@
 | 3/4/2026 | PDP4573C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 3/4/2026 | PDP4406C | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 3/4/2026 | PDP0404C | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 3/4/2026 | REG1614D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 3/4/2026 | REG4177D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/2/2026 | PDP0325C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP2137C | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 2/28/2026 | PDP3668C | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |

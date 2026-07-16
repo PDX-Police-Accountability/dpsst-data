@@ -5656,9 +5656,9 @@ attribute_records:
   expiration_date: ''
 education_records:
 - date: 6/15/2000
-  degree: No Degree
+  degree: Bachelor Arts
   school: All Other Education Institutes
-  major: ''
+  major: Criminal Justice
   hours: '51.0'
 - date: 6/15/1999
   degree: Associate Arts

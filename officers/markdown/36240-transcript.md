@@ -4,7 +4,7 @@
 | name | Jones, Michael K. |
 | dpsst_identifier | 36240 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 7/6/2026 | Gresham Police Department | Hired | Police Off |  |  |
+| 7/3/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 5/28/2020 | Portland Police Bureau | Return LOA | Detective |  |  |
 | 11/22/2019 | Portland Police Bureau | LOA | Detective |  |  |
 | 9/10/1998 | Portland Police Bureau | Hired | Police Off |  |  |

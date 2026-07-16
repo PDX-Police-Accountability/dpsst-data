@@ -36,6 +36,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/12/2026 | PDP1446C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/9/2026 | PDP1581C | Post Basic CEW | Instructed | 0.0 | 9.00 |
+| 6/4/2026 | PDP2705D | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
+| 6/4/2026 | PDP0857D | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
+| 6/4/2026 | PDP0916D | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
+| 6/4/2026 | PDP0924D | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 4/10/2026 | PDP3320C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 3/4/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
