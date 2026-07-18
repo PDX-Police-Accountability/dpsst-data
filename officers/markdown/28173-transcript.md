@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2026 | MKL0077D | Lab Training | Passed | 0.0 | 2.00 |
 | 6/24/2026 | MKL2448C | Lab Sampling | Passed | 0.0 | 4.50 |
 | 5/21/2026 | MKL1127C | Lab Training | Passed | 0.0 | 2.00 |
 | 4/6/2026 | MKL2069C | OLCC Defensive Tactics | Passed | 0.0 | 8.00 |

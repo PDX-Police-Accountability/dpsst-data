@@ -29,7 +29,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/25/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
+| 6/22/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 6/22/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 4/22/2026 | HBP4315C | In-Service 2026-2, Range | Passed | 0.0 | 4.00 |
+| 4/15/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/9/2026 | HBP2466C | Legal Update - HB 4138 | Passed | 0.0 | 0.50 |
 | 4/8/2026 | PDP3686C | 2026-1 Advanced Academy Firearms | Passed | 0.0 | 29.00 |
 | 4/8/2026 | PDP0765C | 2026-1 Advanced Academy Wellness | Passed | 0.0 | 8.00 |

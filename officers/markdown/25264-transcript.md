@@ -38,10 +38,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2026 | PDS4219D | Range | Instructed | 0.0 | 2.00 |
 | 3/16/2026 | PDS1039C | Range Qualification | Instructed | 0.0 | 2.00 |
+| 3/13/2026 | LOP1483D | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/12/2026 | PDS1039C | Range Qualification | Instructed | 0.0 | 2.00 |
 | 2/10/2026 | PDS1728C | High Risk Handcuffing | Instructed | 0.0 | 4.00 |
 | 2/10/2026 | PDS0296C | LE ConSim | Instructed | 0.0 | 8.00 |
+| 2/10/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 2/10/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 2/10/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 2/10/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 2/10/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/9/2026 | PDS4303C | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 2/6/2026 | PDS4099C | Red Dot Range | Instructed | 0.0 | 12.00 |
 | 1/22/2026 | PDS2236C | Red Dot Firearms | Instructed | 0.0 | 24.00 |

@@ -30,6 +30,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2026
+  course: PDP4354D
+  title: Enhanced Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/7/2026
+  course: PDP2155D
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/20/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/1/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/23/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -847,6 +871,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/7/2026
+  expiration_date: 7/7/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

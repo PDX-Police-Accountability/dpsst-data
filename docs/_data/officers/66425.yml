@@ -30,6 +30,126 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/1/2026
+  course: PDP0714D
+  title: 2026-2 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '29.25'
+- date: 7/1/2026
+  course: PDP2562D
+  title: 2026-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '31.25'
+- date: 7/1/2026
+  course: PDP2648D
+  title: 2026-2 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '55.50'
+- date: 7/1/2026
+  course: PDP2360D
+  title: 2026-2 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
+- date: 6/30/2026
+  course: PDP1368D
+  title: 2026-2 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '83.25'
+- date: 6/25/2026
+  course: PDP1472D
+  title: 2026-2 Advanced Academy Crisis Int Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 6/25/2026
+  course: PDP0391D
+  title: 2026-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/24/2026
+  course: PDP1679D
+  title: 2026-2 Advanced Academy MDT Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/24/2026
+  course: PDP2553D
+  title: 2026-2 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/22/2026
+  course: PDP3023D
+  title: 2026-2 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/18/2026
+  course: PDP1523D
+  title: 2026-2 Advanced Academy Walking Beat
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 6/13/2026
+  course: PDP2471D
+  title: 2026-2 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '38.25'
+- date: 6/4/2026
+  course: PDP1824D
+  title: 2026-2 Advanced Academy Equity
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 6/3/2026
+  course: PDP3726D
+  title: 2026-2 Advanced Academy PDX Comm Engage
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/13/2026
+  course: PDP1303D
+  title: 2026-2 Advanced Academy Cares Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 5/7/2026
+  course: PDP1413D
+  title: 2026-2 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/7/2026
+  course: PDP3545D
+  title: 2026-2 Advanced Academy Legit  Proc Just
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/4/2026
+  course: PDP3955D
+  title: 2026-2 Advanced Academy Trauma Info Inter
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/30/2026
+  course: PDP1308D
+  title: 2026-2 Advanced Academy Able Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/27/2026
+  course: PDP1259D
+  title: 2026-2 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/23/2026
   course: PDP2660D
   title: 2021 Training Emergency Entry Recap Video

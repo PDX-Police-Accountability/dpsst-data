@@ -55,6 +55,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 6/4/2026
+  course: PDP2275D
+  title: After Action Reports PowerPoint (2020)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2026
+  course: PDP0436D
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/13/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/14/2026
+  course: PDP1994D
+  title: 2025 IS - PVO - Stop Sticks
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/14/2026
+  course: PDP0002D
+  title: 2025 IS - PVO Stop Stick Hyperlink (External Trng)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/27/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

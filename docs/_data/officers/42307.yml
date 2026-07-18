@@ -38,6 +38,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP0976D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/14/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/7/2026
   course: PDP0605C
   title: 2026 Traffic Monthly Motor Training Roster
@@ -68,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/6/2026
+  course: PDP3226D
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/1/2026
   course: PDP1967C
   title: 2026 Traffic Monthly Motor Training

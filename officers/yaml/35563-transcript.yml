@@ -68,6 +68,12 @@ certification_records:
   expiration_date: 8/26/2026
   probation_date: ''
 training_records:
+- date: 4/16/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/11/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

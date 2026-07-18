@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2026 | NGP4429D | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/20/2026 | OCS2560C | Covert Surveillance | Passed | 0.0 | 24.00 |
 | 5/18/2026 | NGP4505C | Autism for Law Enforcement | Passed | 0.0 | 2.00 |
 | 3/26/2026 | NGP0797C | Pistol RDS | Passed | 0.0 | 8.00 |

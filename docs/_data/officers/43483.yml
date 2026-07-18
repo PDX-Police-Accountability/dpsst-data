@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/13/2026
   course: OAC3967C
   title: Leadership for Reducing Org Stress in LE
@@ -136,6 +142,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 4/2/2026
+  course: PDP1237D
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2026
+  course: PDP0386D
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/18/2026
   course: PDP3879C
   title: 2026-1 Range Qualification AR-15 Qual (20 Yard)

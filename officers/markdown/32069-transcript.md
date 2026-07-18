@@ -39,12 +39,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2026 | SDP4470D | Rifle/Handgun Range Day | Passed | 0.0 | 8.00 |
 | 6/16/2026 | SDP0742C | LEDS Certification Inquiry and Entry Level | Passed | 0.0 | 12.00 |
 | 5/14/2026 | OAC0862C | Tackling the #1 Killer of Active  Ret LE | Passed | 0.0 | 3.00 |
 | 5/14/2026 | OAC4552C | Creating Thriving Police Cultures | Passed | 0.0 | 2.00 |
 | 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |
 | 5/13/2026 | OAC2101C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 2.50 |
 | 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
+| 3/11/2026 | LOP2089D | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/25/2026 | SDP4058C | K9 Track Training | Passed | 0.0 | 1.00 |
 | 2/18/2026 | SDP1268C | Taser - Operator  Re-Certification | Passed | 0.0 | 4.00 |
 | 2/18/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |

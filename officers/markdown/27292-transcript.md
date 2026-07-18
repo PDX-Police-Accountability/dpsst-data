@@ -46,7 +46,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2026 | PDS0931D | ConSim | Passed | 0.0 | 4.00 |
+| 6/2/2026 | PDS1362D | Use of Force Reports | Passed | 0.0 | 4.00 |
+| 6/1/2026 | PDS3728D | Medications for Addiction Treatment | Passed | 0.0 | 0.50 |
+| 5/19/2026 | PDS0868D | May Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 4/23/2026 | PDS0768C | MCDC Quarterly Sergeants Meeting | Passed | 0.0 | 1.25 |
+| 4/16/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 4/15/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 4/15/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 4/7/2026 | PDS3949D | ADA Policy | Passed | 0.0 | 0.50 |
+| 4/7/2026 | PDS3410D | Foundations in Ethics | Passed | 0.0 | 1.00 |
+| 4/7/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 2/3/2026 | PDS1311C | Suicide Intervention | Passed | 0.0 | 4.00 |
 | 2/3/2026 | PDS0663C | Wrap Restraint | Passed | 0.0 | 4.00 |
 | 1/6/2026 | PDS2204C | Crisis Negotiation Team Training | Instructed | 0.0 | 16.00 |

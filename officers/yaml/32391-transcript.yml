@@ -143,6 +143,18 @@ certification_records:
   expiration_date: 8/26/2026
   probation_date: ''
 training_records:
+- date: 5/18/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/2/2026
+  course: PDP3226D
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/12/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

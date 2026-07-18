@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 5/19/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/28/2026
   course: PDP0045C
   title: IS-100.c Intro to Incident Command

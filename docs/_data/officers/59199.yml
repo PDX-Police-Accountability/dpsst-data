@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2026
+  course: EGP2210D
+  title: SWAT Search Skills
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/24/2026
+  course: EGP0810D
+  title: AVI Management/ AVI Debrief
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/24/2026
+  course: EGP0804D
+  title: SWAT Shield Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 6/15/2026
   course: EGP2755C
   title: Taser Recertification Training

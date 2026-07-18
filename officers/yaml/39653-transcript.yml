@@ -38,6 +38,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2026
+  course: PDP1391D
+  title: 2026 FTEP Intro to Police Vehicle Operations (PVO)
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/3/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/20/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/26/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

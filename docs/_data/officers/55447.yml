@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/10/2026
+  course: PDP0940D
+  title: 2026 Rapid Response team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/12/2026
   course: PDP1446C
   title: 2026 Rapid Response team (RRT) Monthly Training
@@ -50,6 +56,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/3/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2026
+  course: PDP0976D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/14/2026
   course: PDP2806C
   title: 2026 K-9 (K9) Weekly Training
@@ -62,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/15/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/10/2026
   course: PDP3320C
   title: 2026 Rapid Response team (RRT) Monthly Training

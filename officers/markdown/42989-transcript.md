@@ -42,8 +42,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/22/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 6/23/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/23/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/19/2026 | VND1967C | The Rights Of Police Officers | Instructed | 0.0 | 15.00 |
 | 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |
+| 6/1/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 5/14/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 5/6/2026 | PDP3226D | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
+| 5/1/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/30/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 4/30/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 4/30/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |

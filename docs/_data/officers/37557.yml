@@ -88,6 +88,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2026
+  course: LOP1530D
+  title: sUAS Part 91 Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2026
   course: LOP0908C
   title: IPICD Abnormal Breathing

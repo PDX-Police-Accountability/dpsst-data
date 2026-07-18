@@ -36,6 +36,30 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 6/24/2026
+  course: PDP2984D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/1/2026
+  course: PDP0976D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/4/2026
+  course: PDP3696D
+  title: Annual Bloodborne Pathogens (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/22/2026
   course: PDP1306D
   title: 2021 Online IS Language Access - Translation
@@ -87,6 +111,90 @@ training_records:
 - date: 4/21/2026
   course: PDP0922D
   title: 2024 ECIT Dispatch Update Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/20/2026
+  course: PDP3639D
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/20/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2026
+  course: PDP3895D
+  title: 2025 Bridging the Language Gap (Curricula)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2026
+  course: PDP4152D
+  title: '2025 Disability Series: Introduction to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2026
+  course: PDP4216D
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2026
+  course: PDP4612D
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2026
+  course: PDP2243D
+  title: Amended DOJ Settlement Agreement (04/2022)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2026
+  course: PDP4379D
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2026
+  course: PDP2677D
+  title: DIR 0640.37, Communication w Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/8/2026
+  course: PDP1527D
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/8/2026
+  course: PDP2181D
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2026
+  course: PDP2922D
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2026
+  course: PDP1912D
+  title: School Emergency Actions
   status: Passed
   score: '0.0'
   hours: '0.25'

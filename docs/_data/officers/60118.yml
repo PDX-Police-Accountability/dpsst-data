@@ -61,12 +61,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/21/2026
+  course: PDS4219D
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/6/2026
   course: LOP1766C
   title: EVOC with Use of Force Scenarios
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/24/2026
+  course: PDS3384D
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/24/2026
+  course: PDS0009D
+  title: FEMA ICS-800
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/23/2026
+  course: PDS2886D
+  title: FEMA ICS-100
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/23/2026
+  course: PDS1905D
+  title: FEMA ICS-700
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 2/23/2026
+  course: PDS2705D
+  title: FEMA ICS-200
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/20/2026
+  course: PDS3387D
+  title: Tourniquets and Trauma Kits
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/20/2026
+  course: PDS1385D
+  title: NARCAN
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/10/2026
   course: PDS2020C
   title: Mental Health First Aid

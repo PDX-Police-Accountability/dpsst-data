@@ -62,6 +62,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/9/2026
+  course: PDS4443D
+  title: Emergency Fire and Life Safety Drill
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/10/2026
+  course: PDS0931D
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/10/2026
+  course: PDS1362D
+  title: Use of Force Reports
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/5/2026
+  course: PDS3384D
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/5/2026
+  course: PDS3949D
+  title: ADA Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/5/2026
+  course: PDS3410D
+  title: Foundations in Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/5/2026
+  course: PDS1365D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/5/2026
+  course: PDS1056D
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/5/2026
+  course: PDS2541D
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/13/2026
   course: PDS1311C
   title: Suicide Intervention

@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/4/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/8/2026
   course: OSH1521C
   title: HIPS Mobile and Foot Surveillance

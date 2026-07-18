@@ -48,7 +48,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 2/24/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
+| 2/18/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 2/2/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 2/1/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 2/1/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 2/1/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/1/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 10/24/2025 | PDS2213B | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/15/2025 | PDS4490B | Mental Health First Aid | Passed | 0.0 | 8.00 |

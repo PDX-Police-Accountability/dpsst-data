@@ -34,11 +34,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 6/23/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/23/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 5/14/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 5/7/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Instructed | 0.0 | 9.00 |
 | 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Instructed | 0.0 | 9.00 |
 | 4/12/2026 | PDP4443C | 2026 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 4/9/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 4/9/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/6/2026 | PDP3226D | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Instructed | 0.0 | 9.00 |
 | 3/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/10/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

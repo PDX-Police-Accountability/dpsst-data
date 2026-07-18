@@ -37,9 +37,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/6/2026 | RMP1537D | DA Updates / DV-Strangulation | Passed | 0.0 | 1.00 |
 | 6/16/2026 | BNP4250C | SWAT-Full team HRT scenario | Passed | 0.0 | 8.00 |
+| 6/8/2026 | RMP3957D | Axon Body Camera  Evidence Training | Passed | 0.0 | 2.00 |
 | 6/4/2026 | BNP0153C | SWAT- Building Clears and HRT | Instructed | 0.0 | 8.00 |
+| 5/18/2026 | RMP0869D | Active Threat - Use of Force | Passed | 0.0 | 8.00 |
 | 5/7/2026 | BNP1089C | SWAT- Low Light Qualifications | Passed | 0.0 | 8.00 |
+| 5/7/2026 | RMP1518D | Active Threat - Use of Force | Passed | 0.0 | 8.00 |
 | 4/10/2026 | BNP2981C | SWAT- Leadership Book and Class | Passed | 0.0 | 8.00 |
 | 4/9/2026 | BNP0216C | SWAT- Scenarios | Passed | 0.0 | 8.00 |
 | 4/9/2026 | BNP1506C | SWAT- Officer Involved Shootings | Passed | 0.0 | 2.00 |

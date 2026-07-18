@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2026 | BNP2935D | UAS Scene Mapping and Tactical Remote Deployment | Passed | 0.0 | 7.50 |
 | 6/23/2026 | BNP0787C | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 6/17/2026 | BNP0891C | Karly's Law | Passed | 0.0 | 1.00 |
 | 6/17/2026 | BNP1219C | Search and Seizure | Passed | 0.0 | 1.50 |

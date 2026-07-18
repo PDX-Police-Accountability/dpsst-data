@@ -75,12 +75,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/3/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/13/2026
   course: PDP2591C
   title: 2026 Crisis Negotiation Team (CNT) Annual Training
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/13/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/7/2026
+  course: PDP3226D
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/30/2026
   course: PDP1198C
   title: 2026-1 IS ABLE

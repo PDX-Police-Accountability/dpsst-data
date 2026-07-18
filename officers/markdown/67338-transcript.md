@@ -33,3 +33,4 @@
 | 4/22/2026 | PDP1235C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 4/21/2026 | PDP3956C | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 4/15/2026 | PDP3833C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 5.00 |
+| 4/8/2026 | PDP2243D | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

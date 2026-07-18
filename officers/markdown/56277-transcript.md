@@ -41,11 +41,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | CAP0029D | Active Threat Training | Passed | 0.0 | 4.00 |
 | 6/24/2026 | CAP2562C | Rifle Reloads and Malfunctions | Passed | 0.0 | 2.00 |
 | 4/29/2026 | MFS1798C | Haley Strategic -Disruptive Science- Pistol | Passed | 0.0 | 36.00 |
 | 4/14/2026 | CAP0384C | SB1516 - ALPR Legislation Update Training | Passed | 0.0 | 1.00 |
 | 4/4/2026 | OCP2942C | EVO - PIT Re-certification | Passed | 0.0 | 0.50 |
 | 4/4/2026 | OCP1044C | Emergency Vehicle Operation | Passed | 0.0 | 7.00 |
+| 3/28/2026 | CAP3719D | Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
+| 3/28/2026 | CAP3526D | PREA: Rights, Reporting  Retaliation | Passed | 0.0 | 1.00 |
+| 3/16/2026 | CAP3687D | Bloodborne Pathogens for First Responders | Passed | 0.0 | 1.00 |
 | 2/18/2026 | CAP0362C | On-Line Fraud  Security Awareness Training | Passed | 0.0 | 1.00 |
 | 1/21/2026 | CAP0898C | Annual Handgun Qualifications and Fundamentals | Instructed | 0.0 | 6.00 |
 | 1/21/2026 | CAP2488C | Handgun Reloads and Malfunctions | Passed | 0.0 | 2.00 |

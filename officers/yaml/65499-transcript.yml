@@ -24,6 +24,96 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2026
+  course: PDP2381D
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP1637D
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/29/2026
+  course: PDP1532D
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP1527D
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP3252D
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/29/2026
+  course: PDP4576D
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP3642D
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP3127D
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP0724D
+  title: '2025-10, Legal Updates: Miranda and Right'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP4612D
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP1237D
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/29/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP0386D
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/29/2026
+  course: PDP2922D
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/4/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

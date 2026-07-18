@@ -30,6 +30,42 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/9/2026
+  course: PDP1163D
+  title: RegJIN RMS MRE
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 7/7/2026
+  course: PDP3637D
+  title: Body Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/2/2026
+  course: PDP1396D
+  title: 2026 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 6/29/2026
+  course: PDP2618D
+  title: Air Purifying Respirator HAZMAT WMD
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/24/2026
+  course: PDP1131D
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/23/2026
   course: PDP1042D
   title: 2019-5 TT Enforcement of Protection Orders
@@ -60,6 +96,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/23/2026
+  course: PDP0002D
+  title: 2025 IS - PVO Stop Stick Hyperlink (External Trng)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 6/23/2026
+  course: PDP2127D
+  title: 2024-3 CAO Legal Updates for BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP4153D
+  title: 2025 PVO-101/Stop Stick Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/23/2026
+  course: PDP4612D
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP2181D
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP3646D
+  title: Patrol Vehicle Operations Policy [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/22/2026
   course: PDP3770C
   title: ICS 100 Intro to Incident Command System

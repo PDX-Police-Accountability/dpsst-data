@@ -31,6 +31,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/20/2026 | PDP1125C | CPR/First Aid | Passed | 0.0 | 1.00 |
+| 5/2/2026 | PDP2381D | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 5/2/2026 | PDP1637D | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
+| 5/2/2026 | PDP1532D | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 5/2/2026 | PDP3642D | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 5/2/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
+| 5/2/2026 | PDP3696D | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 5/2/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/14/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 3/14/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/14/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

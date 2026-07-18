@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2026
+  course: SDP4470D
+  title: Rifle/Handgun Range Day
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/25/2026
   course: SDP2988C
   title: Taser 7 Recertification

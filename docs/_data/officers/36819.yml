@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/11/2026
+  course: LOP2089D
+  title: EVOC with Use of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/4/2026
   course: LOP1412C
   title: Pursuit Intervention Technique Certification

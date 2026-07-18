@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/7/2026
+  course: NGP4429D
+  title: Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/20/2026
   course: OCS2560C
   title: Covert Surveillance

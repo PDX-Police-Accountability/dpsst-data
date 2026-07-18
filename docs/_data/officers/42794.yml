@@ -98,6 +98,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2026
+  course: OCS1839D
+  title: Marksmanship/Holster Speed/ Target ID
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/11/2026
   course: OCS2878C
   title: Marksmanship/Holster Speed

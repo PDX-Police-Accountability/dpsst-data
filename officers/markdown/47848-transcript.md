@@ -35,10 +35,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 6/16/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/8/2026 | PDP2797C | FTEP Geography | Instructed | 0.0 | 2.00 |
 | 6/1/2026 | PDP0482C | Body Worn Camera Introduction | Instructed | 0.0 | 2.50 |
+| 5/12/2026 | PDP1913D | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 5/12/2026 | PDP2607D | 2026-1 CAO Legal Updates for 04/2025 | Passed | 0.0 | 0.50 |
 | 5/7/2026 | PDP2862C | Body Worn Camera | Instructed | 0.0 | 2.50 |
 | 4/29/2026 | PDP1017C | FTEP Geography | Instructed | 0.0 | 2.00 |
+| 4/13/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Instructed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Instructed | 0.0 | 2.00 |
 | 3/23/2026 | PDP4452C | Body Worn Camera Training | Instructed | 0.0 | 2.00 |

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/29/2026 | LOP1530D | sUAS Part 91 Operations | Passed | 0.0 | 1.00 |
 | 5/31/2026 | LOP0908C | IPICD Abnormal Breathing | Passed | 0.0 | 1.00 |
 | 3/9/2026 | LOP4459C | DEI, Sustainability,  ADA Training | Passed | 0.0 | 1.00 |
 | 3/3/2026 | LOP4062C | EVOC | Passed | 0.0 | 4.00 |

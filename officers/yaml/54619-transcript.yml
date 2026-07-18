@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2026
+  course: HBP4411D
+  title: Case Law Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/11/2026
   course: HBP0215C
   title: ODT - Working from Cleared Areas, Foot Chases

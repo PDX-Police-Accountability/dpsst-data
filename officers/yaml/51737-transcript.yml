@@ -44,12 +44,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2026
+  course: PDP2984D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/17/2026
+  course: PDP0976D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/16/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/16/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/15/2026
   course: PDP2055C
   title: 2026 Patrol Rifle Operator Summer In-Service
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 5/11/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/7/2026
   course: PDP0605C
   title: 2026 Traffic Monthly Motor Training Roster
@@ -173,6 +203,12 @@ training_records:
 - date: 1/8/2026
   course: PDP3711C
   title: L0962 FEMA All Hazards Planning Section Chief
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 1/8/2026
+  course: PDP2050D
+  title: L-0962 NIMS ICS All-Hazards Planning Section Chief
   status: Passed
   score: '0.0'
   hours: '25.00'

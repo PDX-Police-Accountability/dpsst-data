@@ -42,12 +42,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/17/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/1/2026
   course: PDP0482C
   title: Body Worn Camera Introduction
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 6/1/2026
+  course: PDP2307D
+  title: 2025 Sup IS  Crime Scene Mngmt for Mass Casualty
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/1/2026
+  course: PDP3473D
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/28/2026
+  course: PDP0331D
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/27/2026
   course: PDP0279D
   title: 2021 Equity Training Series Introduction Video
@@ -57,6 +81,42 @@ training_records:
 - date: 5/27/2026
   course: PDP0469D
   title: 2021 Equity Training Series Introduction Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/27/2026
+  course: PDP3811D
+  title: '2025 Sup IS: Critical Incidents - Controlling'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/27/2026
+  course: PDP0701D
+  title: 2025 Sup IS Managing Up Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2026
+  course: PDP2563D
+  title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/27/2026
+  course: PDP3800D
+  title: AA [PJU-101-H] Intro to PJPL
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/27/2026
+  course: PDP0976D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/27/2026
+  course: PDP1945D
+  title: Safe Training Procedures Video
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -96,6 +156,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/26/2026
+  course: PDP1773D
+  title: 2025 IS Active Threat (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/26/2026
+  course: PDP0912D
+  title: 2025 IS Public Order Shields (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/26/2026
+  course: PDP2196D
+  title: 2025 IS Taser Training (Video)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/26/2026
+  course: PDP2381D
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/26/2026
+  course: PDP4576D
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/26/2026
+  course: PDP3642D
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/21/2026
   course: PDP4013D
   title: 2020 Ethics and Leadership PowerPoint
@@ -108,6 +204,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 5/21/2026
+  course: PDP3684D
+  title: 2025 IS ABLE (Video)
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/21/2026
+  course: PDP3639D
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/13/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/16/2026
   course: PDP1591C
   title: CPR/First Aid

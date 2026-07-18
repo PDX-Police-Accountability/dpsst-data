@@ -116,6 +116,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/31/2026
+  course: BNS1890D
+  title: "(Police1) Pursuit Driving Basics"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2026
+  course: BNS2586D
+  title: "(Police1) Stop Stick Safety Course"
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/31/2026
   course: BNS0940C
   title: "(P1) Ambush Awareness and Preparation"

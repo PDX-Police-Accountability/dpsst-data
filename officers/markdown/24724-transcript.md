@@ -44,6 +44,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2026 | HBS2880D | Virtual - ACAP | Passed | 0.0 | 2.00 |
+| 7/1/2026 | HBS1116D | Virtual - A Blueprint for Financial Well | Passed | 0.0 | 0.50 |
+| 7/1/2026 | HBS0454D | Virtual Anti-Harassment in the Workplace | Passed | 0.0 | 1.00 |
+| 7/1/2026 | HBS3865D | Virtual - Duty to Intercede | Passed | 0.0 | 1.00 |
+| 7/1/2026 | HBS2108D | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |
 | 5/29/2026 | HBS1639C | Inservice Session #1 Firearms | Passed | 0.0 | 4.50 |
 | 2/11/2025 | FGP3863A | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 11/14/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

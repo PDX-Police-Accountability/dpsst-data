@@ -30,6 +30,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/13/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/13/2026
+  course: PDP2014D
+  title: ALPR Training (Motorola)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/22/2026
   course: PDP1332C
   title: 2026 Focused Intervention Team (FIT) Training

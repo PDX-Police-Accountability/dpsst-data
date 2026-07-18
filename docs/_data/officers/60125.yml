@@ -43,18 +43,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2026
+  course: PDS3384D
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/22/2026
   course: PDS2859C
   title: Field Training and Evaluation Program, 24 hr basic
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/14/2026
+  course: PDS4219D
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/20/2026
   course: PDS4236C
   title: Criminal Interdiction
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 3/13/2026
+  course: PDS3774D
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/13/2026
+  course: PDS1365D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/13/2026
+  course: PDS1056D
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/13/2026
+  course: PDS2541D
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2026
+  course: LOP2000D
+  title: EVOC with Use of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/23/2026
   course: PDS1039C
   title: Range Qualification

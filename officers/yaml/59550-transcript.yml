@@ -43,21 +43,45 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/6/2026
+  course: RMP1537D
+  title: DA Updates / DV-Strangulation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/16/2026
   course: BNP4250C
   title: SWAT-Full team HRT scenario
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/8/2026
+  course: RMP3957D
+  title: Axon Body Camera  Evidence Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/4/2026
   course: BNP0153C
   title: SWAT- Building Clears and HRT
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 5/18/2026
+  course: RMP0869D
+  title: Active Threat - Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/7/2026
   course: BNP1089C
   title: SWAT- Low Light Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/7/2026
+  course: RMP1518D
+  title: Active Threat - Use of Force
   status: Passed
   score: '0.0'
   hours: '8.00'

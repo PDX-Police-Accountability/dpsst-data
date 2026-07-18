@@ -50,6 +50,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/3/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/1/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/2/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

@@ -56,12 +56,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 4/16/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/12/2026
   course: HSU3489C
   title: Spring In-Service 2026 Firearms
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 4/2/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/3/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

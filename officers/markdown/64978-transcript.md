@@ -32,6 +32,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/21/2026 | PDP0116D | 2026 40mm Less Lethal New Operator Course | Passed | 0.0 | 18.00 |
+| 6/7/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 6/4/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
+| 4/23/2026 | PDP2014D | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 3/26/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 3/26/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 3/26/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |

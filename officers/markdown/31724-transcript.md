@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2026 | BNS1890D | (Police1) Pursuit Driving Basics | Passed | 0.0 | 1.00 |
+| 5/31/2026 | BNS2586D | (Police1) Stop Stick Safety Course | Passed | 0.0 | 0.50 |
 | 4/30/2026 | BNS3251C | (Police1) Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
 | 4/30/2026 | BNS2490C | (Police1) Interacting with the Mentally Ill | Passed | 0.0 | 1.00 |
 | 4/29/2026 | BNS0660C | Range/ArCon Scenarios | Passed | 0.0 | 4.00 |

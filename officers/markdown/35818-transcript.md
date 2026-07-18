@@ -36,6 +36,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2026 | GLP0428D | Firearms Qualification - 40mm Less Lethal | Passed | 0.0 | 1.00 |
+| 7/9/2026 | GLP2888D | Firearms Qualification - Glock 47 | Passed | 0.0 | 1.00 |
+| 6/29/2026 | GLP0414D | Basic Patrol Rifle Course and Qual | Passed | 0.0 | 5.00 |
+| 6/25/2026 | GLP2184D | Q2 Firearms Training | Passed | 0.0 | 3.00 |
+| 6/1/2026 | GLP1378D | Implicit Bias | Passed | 0.0 | 1.00 |
+| 6/1/2026 | GLP2911D | Implicit Bias | Passed | 0.0 | 1.00 |
+| 3/10/2026 | GLP1097D | Ethics |  | 0.0 | 1.00 |
 | 3/9/2026 | LOP0761C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/4/2026 | 36279C | Oregon Sanctuary Promise | Passed | 0.0 | 0.50 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

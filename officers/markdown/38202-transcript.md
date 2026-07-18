@@ -40,9 +40,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/18/2026 | PDS1438C | Deep Dive | Passed | 0.0 | 8.00 |
 | 3/4/2026 | PDS1020C | Equipment Management and Dock Dive | Instructed | 0.0 | 8.00 |
 | 2/12/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
+| 2/3/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 2/3/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 2/3/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 2/3/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 2/3/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/18/2025 | PDS1064C | Firearms | Passed | 0.0 | 2.00 |
 | 11/12/2025 | PDS2345C | Legal Update | Passed | 0.0 | 2.00 |
 | 11/7/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |

@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/6/2026 | LOP0257C | EVOC | Passed | 0.0 | 4.00 |
 | 2/19/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 1/21/2026 | PDS2919C | Monthly Reserve Unit Meeting | Passed | 0.0 | 2.00 |

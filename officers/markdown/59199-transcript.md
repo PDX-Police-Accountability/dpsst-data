@@ -43,6 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2026 | EGP2210D | SWAT Search Skills | Instructed | 0.0 | 4.00 |
+| 6/24/2026 | EGP0810D | AVI Management/ AVI Debrief | Passed | 0.0 | 3.00 |
+| 6/24/2026 | EGP0804D | SWAT Shield Tactics | Passed | 0.0 | 4.50 |
 | 6/15/2026 | EGP2755C | Taser Recertification Training | Passed | 0.0 | 3.00 |
 | 5/28/2026 | EGP4392C | SWAT Shield Techniques | Passed | 0.0 | 7.50 |
 | 5/27/2026 | EGP3201C | Vehicle/Pedestrian Arrest | Passed | 0.0 | 8.00 |

@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/16/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 5/7/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/18/2026 | PDP3413C | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
 | 3/18/2026 | PDP0998C | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.50 |
 | 3/18/2026 | PDP2721C | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |

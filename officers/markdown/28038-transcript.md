@@ -41,7 +41,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/17/2026 | GSP0362C | UAS Ground School | Passed | 0.0 | 30.00 |
+| 4/27/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
+| 4/7/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 4/2/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 4/2/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 3/4/2026 | LOP1056C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
+| 3/1/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 3/1/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/25/2026 | PDS1349C | UAS TRAINING | Passed | 0.0 | 4.00 |
 | 2/25/2026 | PDS1604C | UAS TRAINING | Passed | 0.0 | 4.00 |
 | 1/27/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |

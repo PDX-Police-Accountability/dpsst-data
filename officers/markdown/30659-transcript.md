@@ -38,6 +38,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2026 | PDS4443D | Emergency Fire and Life Safety Drill | Passed | 0.0 | 0.50 |
+| 4/10/2026 | PDS0931D | ConSim | Passed | 0.0 | 4.00 |
+| 4/10/2026 | PDS1362D | Use of Force Reports | Passed | 0.0 | 4.00 |
+| 3/5/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 3/5/2026 | PDS3949D | ADA Policy | Passed | 0.0 | 0.50 |
+| 3/5/2026 | PDS3410D | Foundations in Ethics | Passed | 0.0 | 1.00 |
+| 3/5/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 3/5/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 3/5/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/13/2026 | PDS1311C | Suicide Intervention | Passed | 0.0 | 4.00 |
 | 2/13/2026 | PDS0663C | Wrap Restraint | Passed | 0.0 | 4.00 |
 | 11/27/2025 | PDS1000C | Life Safety Training | Passed | 0.0 | 0.50 |

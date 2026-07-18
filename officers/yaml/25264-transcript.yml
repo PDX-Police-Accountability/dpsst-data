@@ -68,12 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2026
+  course: PDS4219D
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/16/2026
   course: PDS1039C
   title: Range Qualification
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 3/13/2026
+  course: LOP1483D
+  title: EVOC with Use of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/12/2026
   course: PDS1039C
   title: Range Qualification
@@ -92,6 +104,36 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 2/10/2026
+  course: PDS3774D
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/10/2026
+  course: PDS3384D
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/10/2026
+  course: PDS1365D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/10/2026
+  course: PDS1056D
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/10/2026
+  course: PDS2541D
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/9/2026
   course: PDS4303C
   title: Defensive Tactics

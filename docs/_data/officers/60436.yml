@@ -37,6 +37,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/17/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/22/2026
+  course: SMP1873D
+  title: OTOA Basic SWAT School
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/14/2026
   course: PDP4075C
   title: 2026 SERT Training - SCENARIO

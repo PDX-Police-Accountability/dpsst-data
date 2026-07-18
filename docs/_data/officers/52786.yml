@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/27/2026
+  course: PDS4219D
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/5/2026
   course: LOP3930C
   title: EVOC with Use of Force Scenarios
@@ -98,6 +104,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/22/2026
+  course: PDS1365D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/31/2026
+  course: PDS3774D
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2026
+  course: PDS3384D
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/31/2026
+  course: PDS1056D
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2026
+  course: PDS2541D
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/18/2025
   course: MISCMAIN
   title: 2025 LE Basic 3 Year Maintenance

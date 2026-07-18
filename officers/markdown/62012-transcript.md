@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/19/2026 | PDP0086C | Return to Work Firearms | Passed | 0.0 | 4.00 |
+| 5/1/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/4/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/27/2026 | PDP1265C | 2020 Supervisor IS Crime Scene Management Part 1 | Passed | 0.0 | 0.50 |
 | 2/27/2026 | PDP2871C | 2020 Supervisor IS Crime Scene Management Part 2 | Passed | 0.0 | 1.00 |

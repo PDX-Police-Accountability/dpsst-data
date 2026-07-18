@@ -33,6 +33,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2026 | PDS3030D | Spring Range AIT | Passed | 0.0 | 8.00 |
+| 4/9/2026 | PDS0931D | ConSim | Passed | 0.0 | 4.00 |
+| 4/9/2026 | PDS1362D | Use of Force Reports | Passed | 0.0 | 4.00 |
+| 2/26/2026 | PDS3410D | Foundations in Ethics | Passed | 0.0 | 1.00 |
+| 2/26/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 2/26/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 2/25/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 2/25/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 2/20/2026 | PDS3949D | ADA Policy | Passed | 0.0 | 0.50 |
 | 2/16/2026 | PDS1311C | Suicide Intervention | Passed | 0.0 | 4.00 |
 | 2/16/2026 | PDS0663C | Wrap Restraint | Passed | 0.0 | 4.00 |
 | 1/19/2026 | PDS3279C | Peer Support | Passed | 0.0 | 1.00 |

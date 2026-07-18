@@ -101,6 +101,12 @@ certification_records:
   expiration_date: 8/22/2026
   probation_date: ''
 training_records:
+- date: 5/18/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/5/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

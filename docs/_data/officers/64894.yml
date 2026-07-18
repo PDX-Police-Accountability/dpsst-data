@@ -30,6 +30,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/21/2026
+  course: PDP0116D
+  title: 2026 40mm Less Lethal New Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 6/11/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/5/2026
   course: OSH0450C
   title: Oregon State Police - Public Order Basic Course
@@ -42,6 +54,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '54.00'
+- date: 5/14/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/9/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/8/2026
   course: PDP1722C
   title: CPR/First Aid

@@ -29,6 +29,39 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/1/2026 | PDP0714D | 2026-2 Advanced Academy Law | Passed | 0.0 | 29.25 |
+| 7/1/2026 | PDP2648D | 2026-2 Advanced Academy Control Tactics | Passed | 0.0 | 55.50 |
+| 7/1/2026 | PDP2562D | 2026-2 Advanced Academy Firearms | Passed | 0.0 | 31.25 |
+| 7/1/2026 | PDP2360D | 2026-2 Advanced Academy Wellness | Passed | 0.0 | 8.50 |
+| 6/30/2026 | PDP1368D | 2026-2 Advanced Academy Patrol Procedures | Passed | 0.0 | 83.25 |
+| 6/25/2026 | PDP1472D | 2026-2 Advanced Academy Crisis Int Training | Passed | 0.0 | 21.00 |
+| 6/25/2026 | PDP0391D | 2026-2 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
+| 6/24/2026 | PDP1679D | 2026-2 Advanced Academy MDT Operations | Passed | 0.0 | 1.25 |
+| 6/24/2026 | PDP2553D | 2026-2 Advanced Academy Fitness | Passed | 0.0 | 8.00 |
+| 6/22/2026 | PDP3023D | 2026-2 Advanced Academy CEW | Passed | 0.0 | 1.25 |
+| 6/17/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 6/17/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 6/17/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 6/14/2026 | PDP2471D | 2026-2 Advanced Academy PVO | Passed | 0.0 | 38.25 |
+| 6/8/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/8/2026 | PDP1523D | 2026-2 Advanced Academy Walking Beat | Passed | 0.0 | 18.00 |
+| 6/4/2026 | PDP1824D | 2026-2 Advanced Academy Equity | Passed | 0.0 | 22.50 |
+| 6/4/2026 | PDP3242D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 6/3/2026 | PDP3726D | 2026-2 Advanced Academy PDX Comm Engage | Passed | 0.0 | 4.50 |
+| 5/13/2026 | PDP1303D | 2026-2 Advanced Academy Cares Child Abuse | Passed | 0.0 | 2.25 |
+| 5/7/2026 | PDP1413D | 2026-2 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
+| 5/7/2026 | PDP3545D | 2026-2 Advanced Academy Legit  Proc Just | Passed | 0.0 | 1.00 |
+| 5/7/2026 | PDP2563D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
+| 5/7/2026 | PDP3061D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 5/4/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
+| 5/4/2026 | PDP3955D | 2026-2 Advanced Academy Trauma Info Inter | Passed | 0.0 | 2.25 |
+| 4/30/2026 | PDP1308D | 2026-2 Advanced Academy Able Training | Passed | 0.0 | 9.00 |
+| 4/28/2026 | PDP0824D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
+| 4/28/2026 | PDP3800D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP1259D | 2026-2 Advanced Academy Patrol Procedures | Passed | 0.0 | 9.00 |
+| 4/27/2026 | PDP1633D | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 4/23/2026 | PDP0625D | Post Academy LMS Material | Passed | 0.0 | 0.75 |
 | 3/31/2026 | PDP4571C | Radar/Lidar Operators Course | Passed | 0.0 | 18.00 |
 | 3/27/2026 | PDP2024C | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |

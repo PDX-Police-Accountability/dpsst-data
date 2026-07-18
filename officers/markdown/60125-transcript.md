@@ -38,8 +38,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 5/22/2026 | PDS2859C | Field Training and Evaluation Program, 24 hr basic | Passed | 0.0 | 24.00 |
+| 4/14/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/20/2026 | PDS4236C | Criminal Interdiction | Passed | 0.0 | 1.50 |
+| 3/13/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 3/13/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 3/13/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 3/13/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 3/12/2026 | LOP2000D | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/23/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 12/17/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 12/15/2025 | PDS1661C | ACAP Training | Passed | 0.0 | 2.00 |

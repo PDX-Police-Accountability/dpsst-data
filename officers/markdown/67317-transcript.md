@@ -29,7 +29,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/17/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 6/17/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 6/3/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 4/27/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 4/22/2026 | PDP1235C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 4/21/2026 | PDP3956C | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 4/15/2026 | PDP3833C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 5.00 |
+| 4/6/2026 | PDP2243D | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
+| 4/1/2026 | PDP3696D | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 4/1/2026 | PDP3137D | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

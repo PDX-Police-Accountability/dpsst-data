@@ -50,12 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/10/2026
+  course: PDP0940D
+  title: 2026 Rapid Response team (RRT) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/12/2026
   course: PDP1446C
   title: 2026 Rapid Response team (RRT) Monthly Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/2/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/8/2026
   course: PDP2120C
   title: 2026 Rapid Response team (RRT) Monthly Training
@@ -92,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 4/8/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/26/2026
   course: PDP0531C
   title: 2026-1 Range Qualification 40mm Less Lethal Qual

@@ -30,6 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/9/2026
+  course: PDP1163D
+  title: RegJIN RMS MRE
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 7/7/2026
+  course: PDP3637D
+  title: Body Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/2/2026
+  course: PDP1396D
+  title: 2026 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 6/29/2026
+  course: PDP2618D
+  title: Air Purifying Respirator HAZMAT WMD
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/28/2026
   course: PDP1306D
   title: 2021 Online IS Language Access - Translation
@@ -114,6 +138,66 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/28/2026
+  course: PDP3899D
+  title: DIR 660.10, Property  Evidence Procedures/2018-5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/24/2026
+  course: PDP4487D
+  title: 2024-3 TT Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2026
+  course: PDP1527D
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2026
+  course: PDP3127D
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2026
+  course: PDP0724D
+  title: '2025-10, Legal Updates: Miranda and Right'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2026
+  course: PDP3473D
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/24/2026
+  course: PDP0976D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/24/2026
+  course: PDP2922D
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2026
+  course: PDP3414D
+  title: 'DIR 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2026
+  course: PDP1912D
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/23/2026
   course: PDP4023D
   title: 2021 The Advanced SEND Protocol Video
@@ -135,6 +219,54 @@ training_records:
 - date: 6/23/2026
   course: PDP3438D
   title: 2023 DIR 0650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP0002D
+  title: 2025 IS - PVO Stop Stick Hyperlink (External Trng)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 6/23/2026
+  course: PDP3958D
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2026
+  course: PDP4153D
+  title: 2025 PVO-101/Stop Stick Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/23/2026
+  course: PDP0625D
+  title: Post Academy LMS Material
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 6/23/2026
+  course: PDP3646D
+  title: Patrol Vehicle Operations Policy [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/22/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2026
+  course: PDP2984D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/2/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -35,10 +35,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/8/2026 | HBS0340C | Oregon LEDA Interior/Exterior Flight Tactics | Passed | 0.0 | 8.00 |
+| 6/3/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 6/3/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/3/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 5/17/2026 | GSP0362C | UAS Ground School | Instructed | 0.0 | 20.00 |
 | 5/16/2026 | PDP1095C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 18.00 |
 | 5/16/2026 | PDP3444C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 18.00 |
+| 4/22/2026 | PDP3226D | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
+| 4/22/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/16/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 4/16/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 4/16/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |

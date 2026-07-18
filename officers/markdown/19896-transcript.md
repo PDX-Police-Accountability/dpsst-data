@@ -61,6 +61,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2026 | PLS3317D | East Oregon Search And Rescue Regional Training | Passed | 0.0 | 26.00 |
 | 3/31/2026 | JDN1022C | Firearms Qualifications | Passed | 0.0 | 1.00 |
 | 3/31/2026 | JDN3790C | Reloading and transition drills | Passed | 0.0 | 2.00 |
 | 3/4/2026 | HBS4435C | Realistic De-Escalation Instructor Course | Passed | 0.0 | 16.00 |

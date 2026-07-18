@@ -106,12 +106,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2026
+  course: PDS0931D
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/2/2026
+  course: PDS1362D
+  title: Use of Force Reports
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/1/2026
+  course: PDS3728D
+  title: Medications for Addiction Treatment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/19/2026
+  course: PDS0868D
+  title: May Crisis Negotiation Team Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/23/2026
   course: PDS0768C
   title: MCDC Quarterly Sergeants Meeting
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 4/16/2026
+  course: PDS3384D
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/15/2026
+  course: PDS1365D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 4/15/2026
+  course: PDS2541D
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/7/2026
+  course: PDS3949D
+  title: ADA Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/7/2026
+  course: PDS3410D
+  title: Foundations in Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/7/2026
+  course: PDS1056D
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/3/2026
   course: PDS1311C
   title: Suicide Intervention

@@ -37,17 +37,36 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/1/2026 | PDP0482C | Body Worn Camera Introduction | Passed | 0.0 | 2.50 |
+| 6/1/2026 | PDP2307D | 2025 Sup IS  Crime Scene Mngmt for Mass Casualty | Passed | 0.0 | 1.50 |
+| 6/1/2026 | PDP3473D | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 5/28/2026 | PDP0331D | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 5/27/2026 | PDP0279D | 2021 Equity Training Series Introduction Video | Passed | 0.0 | 0.25 |
 | 5/27/2026 | PDP0469D | 2021 Equity Training Series Introduction Video | Passed | 0.0 | 0.25 |
+| 5/27/2026 | PDP3811D | 2025 Sup IS: Critical Incidents - Controlling | Passed | 0.0 | 1.50 |
+| 5/27/2026 | PDP0701D | 2025 Sup IS Managing Up Video | Passed | 0.0 | 1.00 |
+| 5/27/2026 | PDP2563D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
+| 5/27/2026 | PDP3800D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.25 |
+| 5/27/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 5/27/2026 | PDP1945D | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 5/26/2026 | PDP1349D | 2024-3 IS ABLE Video | Passed | 0.0 | 2.00 |
 | 5/26/2026 | PDP3318D | 2024-3 IS Legal Updates Use of Force Video 1 | Passed | 0.0 | 1.25 |
 | 5/26/2026 | PDP2643D | 2024-3 IS Legal Updates Use of Force Video  2 | Passed | 0.0 | 1.25 |
 | 5/26/2026 | PDP4289D | 2024-3 IS PP Shooting at Moving Vehicle Video 1 | Passed | 0.0 | 1.25 |
 | 5/26/2026 | PDP4550D | 2024-3 IS PP Shooting at Moving vehicles Video 2 | Passed | 0.0 | 1.25 |
 | 5/26/2026 | PDP0821D | 2024-3 IS MFF Baton  OC Spray Video | Passed | 0.0 | 1.00 |
+| 5/26/2026 | PDP1773D | 2025 IS Active Threat (Video) | Passed | 0.0 | 1.00 |
+| 5/26/2026 | PDP0912D | 2025 IS Public Order Shields (Video) | Passed | 0.0 | 0.50 |
+| 5/26/2026 | PDP2196D | 2025 IS Taser Training (Video) | Passed | 0.0 | 0.50 |
+| 5/26/2026 | PDP2381D | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 5/26/2026 | PDP4576D | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 5/26/2026 | PDP3642D | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 5/21/2026 | PDP4013D | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |
 | 5/21/2026 | PDP0217D | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |
+| 5/21/2026 | PDP3684D | 2025 IS ABLE (Video) | Passed | 0.0 | 1.75 |
+| 5/21/2026 | PDP3639D | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 5/13/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/16/2026 | PDP1591C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 3/26/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/11/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

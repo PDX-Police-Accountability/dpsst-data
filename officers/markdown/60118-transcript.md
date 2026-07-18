@@ -42,7 +42,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/6/2026 | LOP1766C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
+| 2/24/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 2/24/2026 | PDS0009D | FEMA ICS-800 | Passed | 0.0 | 3.00 |
+| 2/23/2026 | PDS2886D | FEMA ICS-100 | Passed | 0.0 | 2.00 |
+| 2/23/2026 | PDS1905D | FEMA ICS-700 | Passed | 0.0 | 3.50 |
+| 2/23/2026 | PDS2705D | FEMA ICS-200 | Passed | 0.0 | 3.00 |
+| 2/20/2026 | PDS3387D | Tourniquets and Trauma Kits | Passed | 0.0 | 1.00 |
+| 2/20/2026 | PDS1385D | NARCAN | Passed | 0.0 | 0.50 |
 | 2/10/2026 | PDS2020C | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 2/10/2026 | PDS1728C | High Risk Handcuffing | Passed | 0.0 | 4.00 |
 | 2/10/2026 | PDS0296C | LE ConSim | Passed | 0.0 | 8.00 |

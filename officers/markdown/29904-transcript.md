@@ -34,7 +34,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2026 | PDS1168D | Kinetic Impact Projectile Refresher | Passed | 0.0 | 0.50 |
+| 6/25/2026 | PDS0770D | Implicit Bias | Passed | 0.0 | 1.00 |
+| 6/25/2026 | PDS4464D | Taser Recertification | Passed | 0.0 | 1.00 |
+| 6/25/2026 | PDS0465D | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
+| 6/25/2026 | PDS1124D | Emergency Management and Evacuation Plan | Passed | 0.0 | 0.50 |
+| 4/21/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/3/2026 | LOP4062C | EVOC | Passed | 0.0 | 4.00 |
+| 2/24/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 2/24/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 2/24/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 2/24/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 2/24/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/17/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 1/16/2026 | HDA1952C | Drug Unit Supervisor | Passed | 0.0 | 40.00 |
 | 11/19/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |

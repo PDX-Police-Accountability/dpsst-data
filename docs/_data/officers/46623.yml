@@ -57,6 +57,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/9/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/9/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/30/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/17/2026
   course: PDP2148C
   title: 2026 Annual Honor Guard In-Service
@@ -81,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 4/9/2026
+  course: PDP3226D
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/8/2026
   course: PDP3203C
   title: '2026-1 IS CIT: Extreme Risk Protection Orders'

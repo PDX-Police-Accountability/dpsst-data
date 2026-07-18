@@ -33,6 +33,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/10/2026 | PDP0940D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 6/29/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 6/29/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/29/2026 | PDP2618D | Air Purifying Respirator HAZMAT WMD | Instructed | 0.0 | 2.00 |
+| 6/29/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 6/21/2026 | PDP0116D | 2026 40mm Less Lethal New Operator Course | Instructed | 0.0 | 18.00 |
 | 6/12/2026 | PDP1446C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/9/2026 | PDP1581C | Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 6/5/2026 | OSH0450C | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
@@ -40,7 +46,9 @@
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Instructed | 0.0 | 2.00 |
 | 5/4/2026 | PDP1906C | Post Basic CEW | Instructed | 0.0 | 9.00 |
+| 4/27/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/10/2026 | PDP3320C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 4/6/2026 | PDP3226D | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Instructed | 0.0 | 2.00 |
 | 3/26/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 3/26/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

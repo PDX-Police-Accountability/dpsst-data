@@ -29,6 +29,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2026 | BPT3673D | ICISF: Group Crisis Intervention | Passed | 0.0 | 16.00 |
+| 6/30/2026 | BPT4501D | ICISF: Assisting Individuals in Crisis | Passed | 0.0 | 16.00 |
 | 5/25/2023 | PDP1553A | 2023 External Training Intro to Comm Tech 052523 | Passed | 0.0 | 4.00 |
 | 5/27/2016 | F6A00845 | Suicide Intervention Training | Passed | 0.0 | 12.50 |
 | 2/29/2016 | F6C04700 | Emergency Protection Orders | Passed | 0.0 | 0.25 |

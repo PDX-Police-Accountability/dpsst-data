@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/3/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 5/8/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/8/2026 | PDP1493C | 2026-1 Advanced Academy Law | Passed | 0.0 | 29.25 |
 | 4/8/2026 | PDP3686C | 2026-1 Advanced Academy Firearms | Passed | 0.0 | 31.25 |
 | 4/8/2026 | PDP0765C | 2026-1 Advanced Academy Wellness | Passed | 0.0 | 9.00 |

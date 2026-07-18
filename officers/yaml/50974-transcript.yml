@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/8/2026
+  course: OCP4377D
+  title: Suicide Response and Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/24/2026
   course: OCP0159C
   title: OCPD Field Training Officer Meeting

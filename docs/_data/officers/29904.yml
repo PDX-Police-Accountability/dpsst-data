@@ -48,12 +48,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2026
+  course: PDS1168D
+  title: Kinetic Impact Projectile Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/25/2026
+  course: PDS0770D
+  title: Implicit Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2026
+  course: PDS4464D
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2026
+  course: PDS0465D
+  title: OSHA  Respiratory Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2026
+  course: PDS1124D
+  title: Emergency Management and Evacuation Plan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/21/2026
+  course: PDS4219D
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/3/2026
   course: LOP4062C
   title: EVOC
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/24/2026
+  course: PDS3774D
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/24/2026
+  course: PDS3384D
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/24/2026
+  course: PDS1365D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/24/2026
+  course: PDS1056D
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/24/2026
+  course: PDS2541D
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/17/2026
   course: PDS1039C
   title: Range Qualification

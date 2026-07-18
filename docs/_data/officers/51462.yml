@@ -35,6 +35,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 4/21/2026
+  course: PDS4219D
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/6/2026
   course: LOP0257C
   title: EVOC

@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |
+| 5/19/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/28/2026 | PDP0045C | IS-100.c Intro to Incident Command | Passed | 0.0 | 2.00 |
 | 4/28/2026 | PDP2228C | IS-200.c Basic Inc Com System for Initial Response | Passed | 0.0 | 4.00 |
 | 4/28/2026 | PDP0499C | IS-700.b An Intro to NIMS | Passed | 0.0 | 4.00 |

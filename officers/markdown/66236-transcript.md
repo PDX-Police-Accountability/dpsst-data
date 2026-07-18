@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/24/2025 | Police Officer | Basic | Required |  |  | 10/24/2026 |
+| 7/16/2026 | Police Officer | Basic | App Recd |  |  | 10/24/2026 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -28,7 +28,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/24/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/16/2026 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 6/18/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 6/10/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 6/3/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/2/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 5/13/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/8/2026 | PDP3686C | 2026-1 Advanced Academy Firearms | Passed | 0.0 | 31.25 |
 | 4/8/2026 | PDP0765C | 2026-1 Advanced Academy Wellness | Passed | 0.0 | 9.00 |
 | 4/8/2026 | PDP0111C | 2026-1 Advanced Academy Control Tactics | Passed | 0.0 | 60.00 |
@@ -37,6 +42,7 @@
 | 4/3/2026 | PDP2077C | 2026-1 Advanced Academy PVO | Passed | 0.0 | 40.25 |
 | 4/1/2026 | PDP0272C | 2026-1 Advanced Academy PDX Community Engagement | Passed | 0.0 | 4.50 |
 | 4/1/2026 | PDP3341C | 2026-1 Advanced Academy Equity | Passed | 0.0 | 23.50 |
+| 4/1/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/31/2026 | PDP1774C | 2026-1 Advanced Academy MDT Operations | Passed | 0.0 | 1.25 |
 | 3/31/2026 | PDP1678C | 2026-1 Advanced Academy Fitness | Passed | 0.0 | 9.75 |
 | 3/25/2026 | PDP2937C | 2026-1 Advanced Academy CEW | Passed | 0.0 | 1.25 |

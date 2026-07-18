@@ -33,3 +33,4 @@
 | 5/20/2026 | PDP3714C | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 5/20/2026 | PDP1525C | LEDS Certification | Passed | 0.0 | 3.00 |
 | 5/11/2026 | PDP0050C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
+| 4/30/2026 | PDP2243D | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

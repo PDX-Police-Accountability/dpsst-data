@@ -43,6 +43,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 6/20/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/20/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/20/2026
+  course: PDP2827D
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 6/20/2026
+  course: PDP2984D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/19/2026
+  course: PDP2275D
+  title: After Action Reports PowerPoint (2020)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/19/2026
+  course: PDP0436D
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/12/2026
   course: PDP1446C
   title: 2026 Rapid Response team (RRT) Monthly Training
@@ -55,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/14/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/10/2026
   course: PDP3320C
   title: 2026 Rapid Response team (RRT) Monthly Training

@@ -164,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/15/2025
+  course: WLP1540D
+  title: Inservice Firearms Training (G43X Familiarization)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/27/2025
   course: WLP3646B
   title: WLPD EVOC / Patrol Tactics

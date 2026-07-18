@@ -36,15 +36,43 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 6/25/2026
+  course: PDP1391D
+  title: 2026 FTEP Intro to Police Vehicle Operations (PVO)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/24/2026
+  course: PDP1223D
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/23/2026
   course: PDP2176C
   title: 2026 FTEP Policy and Procedure
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 6/23/2026
+  course: PDP2243D
+  title: Amended DOJ Settlement Agreement (04/2022)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/6/2026
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/24/2026
+  expiration_date: 6/24/2028
 education_records: []

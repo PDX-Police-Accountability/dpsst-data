@@ -41,8 +41,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/5/2026 | LOP3930C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/23/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
+| 2/22/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 1/31/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 1/31/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 1/31/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 1/31/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/18/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2025 | PDS1900C | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 11/18/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |

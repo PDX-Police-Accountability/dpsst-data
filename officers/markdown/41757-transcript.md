@@ -33,9 +33,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/18/2026 | PDP0168D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 6/10/2026 | PDP4448D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 5/28/2026 | PDP4242C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 5/14/2026 | PDP2806C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 5/7/2026 | PDP4399C | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
+| 5/5/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/30/2026 | PDP2652C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 4/30/2026 | PDP3601C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/15/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |

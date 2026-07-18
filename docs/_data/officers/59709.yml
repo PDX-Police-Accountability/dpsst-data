@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/7/2026
+  course: BNP2935D
+  title: UAS Scene Mapping and Tactical Remote Deployment
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 6/23/2026
   course: BNP0787C
   title: Defensive Tactics Scenarios

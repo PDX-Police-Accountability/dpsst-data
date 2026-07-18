@@ -29,6 +29,26 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/1/2026 | PDP0714D | 2026-2 Advanced Academy Law | Passed | 0.0 | 29.25 |
+| 7/1/2026 | PDP2562D | 2026-2 Advanced Academy Firearms | Passed | 0.0 | 31.25 |
+| 7/1/2026 | PDP2648D | 2026-2 Advanced Academy Control Tactics | Passed | 0.0 | 55.50 |
+| 7/1/2026 | PDP2360D | 2026-2 Advanced Academy Wellness | Passed | 0.0 | 8.50 |
+| 6/30/2026 | PDP1368D | 2026-2 Advanced Academy Patrol Procedures | Passed | 0.0 | 83.25 |
+| 6/25/2026 | PDP1472D | 2026-2 Advanced Academy Crisis Int Training | Passed | 0.0 | 21.00 |
+| 6/25/2026 | PDP0391D | 2026-2 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
+| 6/24/2026 | PDP1679D | 2026-2 Advanced Academy MDT Operations | Passed | 0.0 | 1.25 |
+| 6/24/2026 | PDP2553D | 2026-2 Advanced Academy Fitness | Passed | 0.0 | 8.00 |
+| 6/22/2026 | PDP3023D | 2026-2 Advanced Academy CEW | Passed | 0.0 | 1.25 |
+| 6/18/2026 | PDP1523D | 2026-2 Advanced Academy Walking Beat | Passed | 0.0 | 18.00 |
+| 6/13/2026 | PDP2471D | 2026-2 Advanced Academy PVO | Passed | 0.0 | 38.25 |
+| 6/4/2026 | PDP1824D | 2026-2 Advanced Academy Equity | Passed | 0.0 | 22.50 |
+| 6/3/2026 | PDP3726D | 2026-2 Advanced Academy PDX Comm Engage | Passed | 0.0 | 4.50 |
+| 5/13/2026 | PDP1303D | 2026-2 Advanced Academy Cares Child Abuse | Passed | 0.0 | 2.25 |
+| 5/7/2026 | PDP1413D | 2026-2 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
+| 5/7/2026 | PDP3545D | 2026-2 Advanced Academy Legit  Proc Just | Passed | 0.0 | 1.00 |
+| 5/4/2026 | PDP3955D | 2026-2 Advanced Academy Trauma Info Inter | Passed | 0.0 | 2.25 |
+| 4/30/2026 | PDP1308D | 2026-2 Advanced Academy Able Training | Passed | 0.0 | 9.00 |
+| 4/27/2026 | PDP1259D | 2026-2 Advanced Academy Patrol Procedures | Passed | 0.0 | 9.00 |
 | 4/23/2026 | PDP2660D | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 4/23/2026 | PDP2635D | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 3/12/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |

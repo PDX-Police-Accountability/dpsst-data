@@ -87,6 +87,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/28/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/28/2026
+  course: PDP3481D
+  title: 'Testosterone Replacement: Help, Hype or Harm'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/17/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm
@@ -117,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/12/2026
+  course: PDP0284D
+  title: L0958 All Hazard Operations Section
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 2/3/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

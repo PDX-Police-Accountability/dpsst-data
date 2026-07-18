@@ -44,12 +44,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2026
+  course: PDP1494D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/18/2026
+  course: PDP2687D
+  title: 2026 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/11/2026
+  course: PDP1742D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/4/2026
   course: PDP4483C
   title: 2026 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/22/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/21/2026
   course: PDP3041C
   title: 2026 SERT Training - SCENARIO
@@ -74,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '20.00'
+- date: 4/3/2026
+  course: PDP3226D
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/2/2026
   course: PDP1997C
   title: 2026 SERT Training - SCENARIO

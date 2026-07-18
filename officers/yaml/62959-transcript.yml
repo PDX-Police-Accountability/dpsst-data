@@ -42,6 +42,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/17/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/17/2026
+  course: PDP3481D
+  title: 'Testosterone Replacement: Help, Hype or Harm'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/30/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

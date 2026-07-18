@@ -207,6 +207,12 @@ certification_records:
   expiration_date: 6/6/2030
   probation_date: ''
 training_records:
+- date: 5/31/2026
+  course: PLS3317D
+  title: East Oregon Search And Rescue Regional Training
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 3/31/2026
   course: JDN1022C
   title: Firearms Qualifications

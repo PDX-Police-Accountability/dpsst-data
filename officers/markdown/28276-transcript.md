@@ -50,6 +50,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2026 | SVP1660D | CIS OSHA Heat Illness Prevention | Passed | 0.0 | 1.00 |
 | 6/12/2026 | SVP1987D | Emergency Vehilce Operations (EVO) | Passed | 0.0 | 4.00 |
 | 6/10/2026 | AVP2658C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 5/15/2026 | OAC4191C | Combating Isolation in the Most Demanding Role | Passed | 0.0 | 3.50 |

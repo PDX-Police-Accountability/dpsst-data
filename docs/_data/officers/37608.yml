@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/18/2026
+  course: PDS3384D
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/18/2026
+  course: PDS1385D
+  title: NARCAN
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/20/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

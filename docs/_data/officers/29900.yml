@@ -101,6 +101,12 @@ certification_records:
   expiration_date: 7/17/2028
   probation_date: ''
 training_records:
+- date: 6/30/2026
+  course: REG2772D
+  title: PNW TacFit 1-Day Clinic - Willamette Valley
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/22/2023
   course: PDP4501A
   title: 2023 SERT/CNT/CIC Camp Rilea Training

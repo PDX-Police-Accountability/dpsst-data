@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/1/2026
+  course: HBS1116D
+  title: Virtual - A Blueprint for Financial Well
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: HBS0454D
+  title: Virtual Anti-Harassment in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2026
+  course: HBS2108D
+  title: Virtual-ADA Compliance for Business
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/10/2026
   course: HBS3169C
   title: 'InService Session #1 Firearms'

@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/30/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/15/2026
   course: PDP3211C
   title: 2026 Crisis Negotiation Team (CNT) Annual Training

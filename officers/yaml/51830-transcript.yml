@@ -44,12 +44,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/15/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/1/2026
   course: PDP3659C
   title: Advanced Crime Scene Inestigations
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 4/19/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/17/2026
   course: PDP2148C
   title: 2026 Annual Honor Guard In-Service

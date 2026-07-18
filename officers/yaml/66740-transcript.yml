@@ -30,6 +30,198 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/1/2026
+  course: PDP0714D
+  title: 2026-2 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '29.25'
+- date: 7/1/2026
+  course: PDP2648D
+  title: 2026-2 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '55.50'
+- date: 7/1/2026
+  course: PDP2562D
+  title: 2026-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '31.25'
+- date: 7/1/2026
+  course: PDP2360D
+  title: 2026-2 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
+- date: 6/30/2026
+  course: PDP1368D
+  title: 2026-2 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '83.25'
+- date: 6/25/2026
+  course: PDP1472D
+  title: 2026-2 Advanced Academy Crisis Int Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 6/25/2026
+  course: PDP0391D
+  title: 2026-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/24/2026
+  course: PDP2553D
+  title: 2026-2 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/24/2026
+  course: PDP1679D
+  title: 2026-2 Advanced Academy MDT Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/22/2026
+  course: PDP3023D
+  title: 2026-2 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/18/2026
+  course: PDP1523D
+  title: 2026-2 Advanced Academy Walking Beat
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 6/13/2026
+  course: PDP2471D
+  title: 2026-2 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '38.25'
+- date: 6/11/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/4/2026
+  course: PDP1824D
+  title: 2026-2 Advanced Academy Equity
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 6/3/2026
+  course: PDP3726D
+  title: 2026-2 Advanced Academy PDX Comm Engage
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 6/2/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/2/2026
+  course: PDP0976D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/27/2026
+  course: PDP3242D
+  title: AA [CIT-113-H] Responding to a MH Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/13/2026
+  course: PDP1303D
+  title: 2026-2 Advanced Academy Cares Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 5/7/2026
+  course: PDP1413D
+  title: 2026-2 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/7/2026
+  course: PDP3545D
+  title: 2026-2 Advanced Academy Legit  Proc Just
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/7/2026
+  course: PDP2563D
+  title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/7/2026
+  course: PDP3061D
+  title: AA [CIT-112-A] Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/4/2026
+  course: PDP3955D
+  title: 2026-2 Advanced Academy Trauma Info Inter
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 4/30/2026
+  course: PDP1308D
+  title: 2026-2 Advanced Academy Able Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/27/2026
+  course: PDP1259D
+  title: 2026-2 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/27/2026
+  course: PDP0824D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2026
+  course: PDP3800D
+  title: AA [PJU-101-H] Intro to PJPL
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2026
+  course: PDP1633D
+  title: AA [WEL-101-H] Introduction to Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/23/2026
+  course: PDP3958D
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/23/2026
+  course: PDP0625D
+  title: Post Academy LMS Material
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/18/2026
+  course: PDP0693D
+  title: 2025 Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 4/17/2026
   course: PDP0978D
   title: 2021 Online IS Training Procedural Justice Part 1
@@ -84,6 +276,66 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/17/2026
+  course: PDP2381D
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2026
+  course: PDP1637D
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2026
+  course: PDP1532D
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2026
+  course: PDP3639D
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/17/2026
+  course: PDP3642D
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2026
+  course: PDP2769D
+  title: 2025-07 CAO Legal Updates for 10/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2026
+  course: PDP3960D
+  title: 2025-07 CAO Legal Updates for 12/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/16/2026
+  course: PDP2737D
+  title: 2025-07 CAO Legal Updates for 01/ 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2026
+  course: PDP1237D
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2026
+  course: PDP0386D
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/15/2026
   course: PDP4023D
   title: 2021 The Advanced SEND Protocol Video
@@ -108,6 +360,66 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/15/2026
+  course: PDP0925D
+  title: 2025-07 CAO Legal Updates for 08-09/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/15/2026
+  course: PDP3252D
+  title: 2025-10 CAO Legal Updates for 03/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2026
+  course: PDP3895D
+  title: 2025 Bridging the Language Gap (Curricula)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2026
+  course: PDP1131D
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2026
+  course: PDP4216D
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2026
+  course: PDP4379D
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2026
+  course: PDP2677D
+  title: DIR 0640.37, Communication w Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/12/2026
+  course: PDP4152D
+  title: '2025 Disability Series: Introduction to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/2/2026
+  course: PDP3473D
+  title: 2025-8 Deflection Intake and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/31/2026
   course: PDP4571C
   title: Radar/Lidar Operators Course

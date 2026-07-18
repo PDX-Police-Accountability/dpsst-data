@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/16/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/8/2026
   course: PDP2797C
   title: FTEP Geography
@@ -55,6 +67,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.50'
+- date: 5/12/2026
+  course: PDP1913D
+  title: 2025-07 CAO Legal Updates for 11/2024
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2026
+  course: PDP2607D
+  title: 2026-1 CAO Legal Updates for 04/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/7/2026
   course: PDP2862C
   title: Body Worn Camera
@@ -67,6 +91,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 4/13/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/24/2026
   course: PDP4545C
   title: FTEP Geography

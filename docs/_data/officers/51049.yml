@@ -62,6 +62,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 5/1/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/2/2026
+  course: PDP3048D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/6/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

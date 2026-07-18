@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/29/2026 | OCS1839D | Marksmanship/Holster Speed/ Target ID | Instructed | 0.0 | 2.00 |
 | 6/11/2026 | OCS2878C | Marksmanship/Holster Speed | Instructed | 0.0 | 2.00 |
 | 6/9/2026 | OCS3511C | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 6/4/2026 | OCS4592C | Balancing Speed and Marksmanship | Instructed | 0.0 | 2.00 |

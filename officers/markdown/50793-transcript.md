@@ -36,8 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2026 | PDP3451D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 6/13/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
+| 6/10/2026 | PDP4448D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 5/28/2026 | PDP4242C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 5/16/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 5/14/2026 | PDP2806C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 5/7/2026 | PDP4399C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/30/2026 | PDP2652C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 7.00 |

@@ -38,6 +38,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2026
+  course: PDS3410D
+  title: Foundations in Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/11/2026
+  course: PDS1365D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/11/2026
+  course: PDS1056D
+  title: Wildfire Smoke Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/10/2026
+  course: PDS3384D
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/10/2026
+  course: PDS3949D
+  title: ADA Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/10/2026
+  course: PDS2541D
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/2/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/17/2026
   course: GSP0362C
   title: UAS Ground School
@@ -56,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 5/6/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/18/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm
