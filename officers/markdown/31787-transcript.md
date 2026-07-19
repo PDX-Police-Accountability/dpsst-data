@@ -4,7 +4,7 @@
 | name | Tuquero, Teresita S. |
 | dpsst_identifier | 31787 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Civilian Employee |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/1/2010 | Portland Police Bureau | Inactive | Civln Emp |  |  |
 | 6/2/2000 | Portland Police Bureau | Hired | Civln Emp |  |  |
 | 2/22/2000 | Portland Police Bureau | Resigned | Civln Emp |  |  |
 | 11/16/1995 | Portland Police Bureau | Hired | Civln Emp |  |  |

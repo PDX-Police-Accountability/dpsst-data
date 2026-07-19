@@ -3,12 +3,18 @@ header_record:
   name: Tuquero, Teresita S.
   dpsst_identifier: '31787'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Civilian Employee
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/1/2010
+  agency: Portland Police Bureau
+  action: Inactive
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
 - date: 6/2/2000
   agency: Portland Police Bureau
   action: Hired
