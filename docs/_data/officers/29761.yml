@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/21/2026
+  agency: W.C.C.C.A.
+  action: Hired
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
 - date: 10/21/2025
   agency: Bureau of Emergency Communications
   action: Resigned
@@ -69,8 +75,28 @@ employment_records:
   rank: Civln Emp
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 7/21/2026
+  certificate: Emergency Medical Dispatcher
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 1/21/2028
+- status_date: 7/21/2026
+  certificate: Telecommunicator
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 1/21/2028
 training_records:
+- date: 1/21/2028
+  course: E50-25A
+  title: Basic EMD Equivalency APCO or  IAED
+  status: Required
+  score: '0.0'
+  hours: '24.00'
 - date: 12/1/2025
   course: PMC4269C
   title: Legacy Fire/EMS Call Types for Dispatch

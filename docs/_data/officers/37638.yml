@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/20/2026
+  agency: OHSU University Police
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 5/27/2026
   agency: Portland Police Bureau
   action: Retired
@@ -39,21 +45,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: 8/27/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/29/2010
-  expiration_date: 8/27/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 12/6/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 12/6/2000
-  expiration_date: 8/27/2026
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 5/7/2026

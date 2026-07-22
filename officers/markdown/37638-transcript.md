@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/20/2026 | OHSU University Police | Hired | Police Off |  |  |
 | 5/27/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 8/26/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/25/1999 | Portland Police Bureau | Resigned | Cadet |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 | 8/27/2026 |  |
-| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 | 8/27/2026 |  |
-| 12/6/2000 | Police Officer | Basic | Granted | 12/6/2000 | 8/27/2026 |  |
+| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
+| 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 |  |  |
+| 12/6/2000 | Police Officer | Basic | Granted | 12/6/2000 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

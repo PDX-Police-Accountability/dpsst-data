@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/21/2026 | W.C.C.C.A. | Hired | Dispatcher |  |  |
 | 10/21/2025 | Bureau of Emergency Communications | Resigned | Dispatcher |  |  |
 | 2/27/2025 | Bureau of Emergency Communications | Hired | Dispatcher |  |  |
 | 10/1/2018 | Bureau of Emergency Communications | Resigned | Dispatcher |  |  |
@@ -25,6 +26,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 7/21/2026 | Emergency Medical Dispatcher | Basic | Required |  |  | 1/21/2028 |
+| 7/21/2026 | Telecommunicator | Basic | Required |  |  | 1/21/2028 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -36,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/21/2028 | E50-25A | Basic EMD Equivalency APCO or  IAED | Required | 0.0 | 24.00 |
 | 12/1/2025 | PMC4269C | Legacy Fire/EMS Call Types for Dispatch | Passed | 0.0 | 0.50 |
 | 10/20/2025 | PMC3442B | Ethics Fall 2025 In-Service | Passed | 0.0 | 1.00 |
 | 10/20/2025 | PMC4523B | Fall 2025 In-Service | Passed | 0.0 | 7.00 |
