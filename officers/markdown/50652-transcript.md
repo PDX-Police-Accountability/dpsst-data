@@ -5,13 +5,14 @@
 | dpsst_identifier | 50652 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Criminalist |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/16/2026 | Portland Police Bureau | Promotion | Criminalst |  |  |
 | 10/1/2009 | Portland Police Bureau | Hired | Police Off |  |  |
 | 12/20/2003 | Military Service | Resigned | Miltry Pol |  |  |
 | 6/22/1996 | Military Service | Hired | Miltry Pol |  |  |

@@ -5,13 +5,14 @@
 | dpsst_identifier | 55392 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/16/2026 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 12/1/2024 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 5/26/2024 | Portland Police Bureau | LOA | Police Off |  |  |
 | 7/7/2023 | Portland Police Bureau | Return LOA | Police Off |  |  |
