@@ -72,7 +72,7 @@
 | 2/26/2026 | EGP4288C | SWAT Firearms Skills | Passed | 0.0 | 4.00 |
 | 2/26/2026 | EGP1083C | Basic Narcotic Specalised Unit Investigator Course | Passed | 0.0 | 40.00 |
 | 2/12/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.50 |
-| 2/12/2026 | EGP2619C | Suicide Prevention | Passed | 0.0 | 1.50 |
+| 2/12/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 2/12/2026 | EGP1815C | Investigations Updates | Passed | 0.0 | 2.50 |
 | 2/12/2026 | EGP3459C | Karly's Law | Passed | 0.0 | 3.00 |
 | 2/12/2026 | EGP3799C | Suicide Prevention | Passed | 0.0 | 1.50 |

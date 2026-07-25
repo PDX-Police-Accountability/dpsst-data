@@ -47,7 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/9/2026 | EGP0287C | Taser Recertification | Passed | 0.0 | 3.50 |
-| 2/12/2026 | EGP2619C | Suicide Prevention | Passed | 0.0 | 1.50 |
+| 2/12/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 2/12/2026 | EGP3799C | Suicide Prevention | Passed | 0.0 | 1.50 |
 | 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 1/15/2026 | EGP2620C | State of Oregon DOJ Domestic Violence Updates | Passed | 0.0 | 4.00 |

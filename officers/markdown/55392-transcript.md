@@ -23,7 +23,7 @@
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 3/26/2024 | Police Officer | Advanced | App InProc |  |  |  |
 | 9/12/2023 | Police Officer | Intermediate | App InProc |  |  |  |
-| 10/12/2016 | Police Officer | Basic | Granted-UR | 10/12/2016 |  |  |
+| 10/12/2016 | Police Officer | Basic | Granted | 10/12/2016 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

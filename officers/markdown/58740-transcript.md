@@ -5,13 +5,14 @@
 | dpsst_identifier | 58740 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/16/2026 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 6/11/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 | 6/5/2020 | West Linn Police Department | Resigned | Police Off |  |  |
 | 5/14/2018 | West Linn Police Department | Hired | Police Off |  |  |
