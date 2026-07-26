@@ -5,13 +5,14 @@
 | dpsst_identifier | 53470 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/16/2026 | Portland Police Bureau | Promotion | Detective |  |  |
 | 7/23/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 4/1/2021 | Portland Police Bureau | LOA | Police Off |  |  |
 | 9/30/2019 | Portland Police Bureau | Return LOA | Police Off |  |  |

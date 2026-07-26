@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/10/2026
+  agency: Jackson County Community Justice
+  action: Resigned
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
 - date: 9/21/2023
   agency: DPSST Use Only
   action: InstrApp
@@ -39,14 +45,14 @@ certification_records:
   level: Intermediate
   status: Granted
   certificate_date: 7/7/2025
-  expiration_date: ''
+  expiration_date: 10/10/2026
   probation_date: ''
 - status_date: 1/18/2023
   certificate: Parole  Probation Officer
   level: Basic
   status: Granted
   certificate_date: 1/18/2023
-  expiration_date: ''
+  expiration_date: 10/10/2026
   probation_date: ''
 training_records:
 - date: 6/2/2026

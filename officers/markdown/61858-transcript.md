@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/10/2026 | Jackson County Community Justice | Resigned | Par/prob O |  |  |
 | 9/21/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 3/28/2022 | Jackson County Community Justice | Hired | Par/prob O |  |  |
 | 3/9/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
@@ -19,8 +20,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/7/2025 | Parole  Probation Officer | Intermediate | Granted | 7/7/2025 |  |  |
-| 1/18/2023 | Parole  Probation Officer | Basic | Granted | 1/18/2023 |  |  |
+| 7/7/2025 | Parole  Probation Officer | Intermediate | Granted | 7/7/2025 | 10/10/2026 |  |
+| 1/18/2023 | Parole  Probation Officer | Basic | Granted | 1/18/2023 | 10/10/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
