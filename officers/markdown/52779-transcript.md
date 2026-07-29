@@ -43,6 +43,7 @@
 | 6/16/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/16/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/12/2026 | REG0910C | Adult Learning Core | Passed | 0.0 | 2.00 |
+| 6/12/2026 | REG3748D | SFST Instructor Development Course | Passed | 0.0 | 48.00 |
 | 5/17/2026 | GSP0362C | UAS Ground School | Instructed | 0.0 | 25.00 |
 | 5/17/2026 | PDP1095C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 18.00 |
 | 5/17/2026 | PDP3444C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 18.00 |

@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2026 | HDA1357D | Redflags for UC / Final Day General Session | Passed | 0.0 | 4.00 |
+| 7/8/2026 | HDA3061D | Financial Planning | Passed | 0.0 | 2.00 |
+| 7/8/2026 | HDA2987D | Jeremy Brown Shooting | Passed | 0.0 | 2.00 |
+| 7/8/2026 | HDA0977D | Overdose Death Investigations | Passed | 0.0 | 4.00 |
 | 6/17/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 5/22/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 5/14/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |

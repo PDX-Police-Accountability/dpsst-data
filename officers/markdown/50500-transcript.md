@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2026 | PDP2866D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/11/2026 | PDP1742D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/10/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/10/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
@@ -55,8 +56,6 @@
 | 3/2/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/2/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
-| 2/12/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP3076C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 2/9/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

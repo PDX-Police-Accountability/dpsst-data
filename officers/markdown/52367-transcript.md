@@ -61,7 +61,6 @@
 | 2/19/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |
 | 2/19/2026 | PDP4289C | 2026 Investigators IS Tech Warrants and Testimony | Passed | 0.0 | 2.00 |
 | 2/19/2026 | PDP0336C | 2026 Investigators IS Mass Casualty Incident | Passed | 0.0 | 2.00 |
-| 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3809C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 2/3/2026 | PDP1426C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
 | 1/30/2026 | PDP2964C | 2026 RRT Field Force Extraction In-Service | Passed | 0.0 | 9.00 |

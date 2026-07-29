@@ -48,7 +48,6 @@
 | 3/10/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/16/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
-| 1/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 1/22/2026 | VND4455C | NW Peer Support Conference - Responder Life | Passed | 0.0 | 16.00 |
 | 1/20/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 1/20/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -69,6 +69,7 @@
 | 10/24/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 10/11/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 8/13/2025 | PDP1900D | Animal Cruelty Investigations | Passed | 0.0 | 8.00 |
 | 8/10/2025 | PDP1832B | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/25/2025 | PDP4212B | 2025-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |

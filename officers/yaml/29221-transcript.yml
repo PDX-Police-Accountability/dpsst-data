@@ -119,6 +119,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/24/2026
+  course: BNP4343D
+  title: Active Threat / Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/24/2026
+  course: BNP2872D
+  title: The Art  Science of Leadership
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/25/2026
   course: BNP0787C
   title: Defensive Tactics Scenarios

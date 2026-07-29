@@ -46,7 +46,6 @@
 | 2/24/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/24/2026 | PDP3203C | 2026-1 IS CIT: Extreme Risk Protection Orders | Passed | 0.0 | 1.50 |
 | 1/30/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
-| 1/28/2026 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 1/28/2026 | REG3940C | Extreme Risk Protection Orders Conference | Passed | 0.0 | 8.00 |
 | 1/21/2026 | PDP2305C | 2025 All Sworn In-Service - PVO - Stop Sticks | Passed | 0.0 | 1.00 |
 | 1/21/2026 | PDP2178C | 2025 IS PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |

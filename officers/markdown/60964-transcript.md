@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | PDP3949D | 2026 Satellite Firearms Instructor School | Passed | 0.0 | 90.00 |
 | 6/7/2026 | PDP2452C | 2026 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/12/2026 | PDP0857D | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
 | 5/12/2026 | PDP0924D | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |

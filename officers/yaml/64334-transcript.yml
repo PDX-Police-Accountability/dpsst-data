@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2026
+  course: PDP3796D
+  title: Advanced Roadside Impairment Drive Enforce
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/21/2026
   course: PDP0521C
   title: 2026 40mm Less Lethal New Operator Course

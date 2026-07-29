@@ -44,6 +44,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2026
+  course: HDA1357D
+  title: Redflags for UC / Final Day General Session
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/8/2026
+  course: HDA3061D
+  title: Financial Planning
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/8/2026
+  course: HDA2987D
+  title: Jeremy Brown Shooting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/6/2026
+  course: HDA3121D
+  title: General Session - Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/30/2026
   course: PDP3134D
   title: 2025-2026 Police Interceptor Utility Summary

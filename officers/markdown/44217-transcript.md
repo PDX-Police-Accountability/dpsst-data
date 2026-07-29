@@ -48,6 +48,7 @@
 | 6/29/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/29/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/12/2026 | PDP1446C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 6/12/2026 | PDP4171D | RRT Monthly Training | Instructed | 0.0 | 9.00 |
 | 6/5/2026 | OSH0450C | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
 | 6/5/2026 | PDP2043D | 2026 OSP Public Order State Basic Course | Passed | 0.0 | 27.00 |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
@@ -70,7 +71,6 @@
 | 2/23/2026 | PDP0054C | 2026-1 IS Public Order: Crowd Theory | Passed | 0.0 | 2.50 |
 | 2/20/2026 | PDP3335C | 2026 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 9.00 |
 | 2/17/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 3.00 |
-| 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3809C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 1/30/2026 | PDP2964C | 2026 RRT Field Force Extraction In-Service | Passed | 0.0 | 9.00 |
 | 1/5/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

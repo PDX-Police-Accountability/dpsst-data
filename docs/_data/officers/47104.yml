@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/8/2026
+  course: HDA0977D
+  title: Overdose Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/6/2026
+  course: HDA3121D
+  title: General Session - Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/14/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

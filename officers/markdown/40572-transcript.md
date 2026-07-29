@@ -831,6 +831,7 @@
 | 12/31/2006 | 06-9996 | CPR/First Aid Makeup Training 2004-2006 | Passed | 0.0 | 4.00 |
 | 12/31/2006 | 06-9999 | Other  Makeup Training 2004-2006 | Passed | 0.0 | 8.00 |
 | 8/22/2006 | 06-0032 | Intoxilyzer 8000 | Passed | 0.0 | 4.00 |
+| 5/29/2006 | PDP2741D | ICS 100 Intro to Incident Command Syst | Passed | 0.0 | 3.00 |
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 12.80 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 15.50 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |

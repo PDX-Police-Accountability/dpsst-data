@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/14/2026
+  course: BNP4592D
+  title: SWAT-Weapon Proficiency
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/14/2026
+  course: BNP0975D
+  title: SWAT-Active Threat / Rescue Task Force
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/14/2026
+  course: BNP4381D
+  title: SWAT-Building Clearing and Scenerios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/6/2026
   course: RMP1537D
   title: DA Updates / DV-Strangulation

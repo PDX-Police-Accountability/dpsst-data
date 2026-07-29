@@ -36,6 +36,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/29/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/29/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/12/2026 | OSH0314D | HIPS Mobile and Foot Surveillance | Passed | 0.0 | 30.00 |
 | 6/8/2026 | HBS0340C | Oregon LEDA Interior/Exterior Flight Tactics | Passed | 0.0 | 8.00 |
 | 5/13/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/24/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

@@ -40,6 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/8/2026 | HDA4309D | Leadership in Investigations | Passed | 0.0 | 4.00 |
+| 7/8/2026 | HDA1808D | Synthetic Opioids | Passed | 0.0 | 4.00 |
+| 7/7/2026 | HDA4087D | Jeremy Brown Shooting | Passed | 0.0 | 2.00 |
+| 7/7/2026 | HDA0135D | Transnational Marijuana Investigations | Passed | 0.0 | 4.00 |
 | 4/28/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/18/2026 | PDS1438C | Deep Dive | Passed | 0.0 | 8.00 |
 | 3/4/2026 | PDS1020C | Equipment Management and Dock Dive | Instructed | 0.0 | 8.00 |

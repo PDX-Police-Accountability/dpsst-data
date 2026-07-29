@@ -37,6 +37,7 @@
 | 5/7/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 4/15/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |
+| 4/3/2026 | PDP2251D | 2026 DUII Multi-Disciplinary Conference | Passed | 0.0 | 16.00 |
 | 4/2/2026 | OSH4469C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 1) | Passed | 0.0 | 8.00 |
 | 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Passed | 0.0 | 9.00 |
 | 3/18/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |

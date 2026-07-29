@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/19/2026
+  course: OCP3152D
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/8/2026
   course: OCP4377D
   title: Suicide Response and Prevention
@@ -219,12 +225,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 2/12/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 2/12/2026
   course: OCP3725C
   title: Defensive Tactics
@@ -3856,10 +3856,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 12/3/2025
   expiration_date: 12/3/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/23/2024
-  expiration_date: 1/17/2026
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/18/2009

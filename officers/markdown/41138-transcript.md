@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2026 | PDP0919D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/30/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/30/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/30/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
@@ -57,8 +58,6 @@
 | 3/4/2026 | PDP0890C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 18.00 |
 | 2/26/2026 | PDP1750C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/19/2026 | PDP2207C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
-| 2/12/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP3076C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 2/4/2026 | PDP4141C | Dignitary Protection Seminar | Passed | 0.0 | 6.00 |

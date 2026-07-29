@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2026 | PDP2866D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/25/2026 | PDP1494D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/18/2026 | PDP2687D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 6/17/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
@@ -59,8 +60,6 @@
 | 3/12/2026 | PDP0317C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 2/26/2026 | PDP1750C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/19/2026 | PDP2207C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
-| 2/12/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP3076C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |

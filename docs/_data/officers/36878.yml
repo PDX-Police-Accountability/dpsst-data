@@ -113,12 +113,6 @@ training_records:
   score: '0.0'
   hours: '3.00'
 - date: 12/31/2025
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 12/31/2025
   course: BVP1982C
   title: Bloodborne Pathogens
   status: Passed
@@ -3301,10 +3295,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/30/2024
-  expiration_date: 1/30/2026
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2024

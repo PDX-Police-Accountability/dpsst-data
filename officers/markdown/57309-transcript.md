@@ -33,7 +33,6 @@
 | Certification Cards | First Aid and CPR | 2/20/2026 | 3/3/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
 | Code of Ethics | Signed | 6/14/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +47,7 @@
 | 4/1/2026 | OCS1348C | CPR First Aid | Passed | 0.0 | 4.00 |
 | 3/27/2026 | OCS4253C | Clackamas County New Hire Patrol Tactics | Instructed | 0.0 | 5.00 |
 | 3/26/2026 | OCS4238C | Holster Speed, Marksmanship at Distance | Passed | 0.0 | 1.00 |
+| 3/25/2026 | OCS4235D | SFST Refresher | Passed | 0.0 | 6.00 |
 | 3/17/2026 | OCS1777C | Take Downs Ground Offense/Handcuffing | Passed | 0.0 | 1.00 |
 | 3/17/2026 | HBP1041C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |
 | 3/9/2026 | OCS1383C | Drone Training - Flight Sim/Covert Surveillance | Passed | 0.0 | 3.00 |

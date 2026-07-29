@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/10/2026 | PDP0940D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 7/6/2026 | PDP3547D | FTEP Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 6/29/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/29/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/29/2026 | PDP2618D | Air Purifying Respirator HAZMAT WMD | Instructed | 0.0 | 2.00 |
@@ -60,7 +61,6 @@
 | 2/26/2026 | PDP2224C | 2026-1 IS Patrol Vehicle Operations | Passed | 0.0 | 3.00 |
 | 2/26/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.50 |
 | 2/20/2026 | PDP3335C | 2026 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 9.00 |
-| 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3809C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 2/2/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 1/16/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

@@ -153,12 +153,6 @@ training_records:
   score: '0.0'
   hours: '3.00'
 - date: 3/31/2025
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 3/31/2025
   course: GLP0244C
   title: Ethics
   status: Passed
@@ -4331,10 +4325,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/15/2024
-  expiration_date: 4/15/2026
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/7/2024

@@ -26,7 +26,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/17/2026 | 4/17/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 3/21/2024 | 3/21/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/7/2024 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 12/19/2022 |  |
@@ -39,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2026 | PDP0426D | Intermediate Comparison of Friction Ridge | Passed | 0.0 | 32.00 |
 | 5/14/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 5/14/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 5/14/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |

@@ -30,7 +30,6 @@
 | Certification Cards | CPR | 5/29/2026 | 5/29/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 7/10/2024 | 7/10/2026 |
 | Code of Ethics | Signed | 10/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/10/2026 | WLP2414C | Firearms Training | Passed | 0.0 | 3.00 |
 | 5/29/2026 | WLP1761C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
+| 5/29/2026 | WLP0110D | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
 | 5/27/2026 | OCA3190C | May MCT-Child Death Investigations | Passed | 0.0 | 1.00 |
 | 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |
 | 5/13/2026 | OAC2101C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 2.50 |

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2026 | PDP0919D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/7/2026 | PDP2452C | 2026 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/13/2026 | PDP2591C | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 4/30/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

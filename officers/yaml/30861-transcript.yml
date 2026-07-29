@@ -116,6 +116,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 7/20/2026
+  course: BNS2496D
+  title: Ethos Academy - Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/30/2026
+  course: BNS1798D
+  title: "(Online) Fire Suppression Tools"
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2026
+  course: BNS0240D
+  title: "(Online) Oleoresin Capsicum Refresher"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2026
+  course: 31405D
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/31/2026
   course: BNS1890D
   title: "(Police1) Pursuit Driving Basics"
@@ -176,12 +200,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 1/31/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 1/31/2026
   course: BNS2179C
   title: "(Police1) Suicide Pevention for Law Enforcement"
@@ -811,10 +829,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/16/2024
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/24/2024
-  expiration_date: 1/5/2026
 education_records:
 - date: 12/20/2003
   degree: Bachelor of General Studies

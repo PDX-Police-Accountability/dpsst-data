@@ -29,7 +29,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 12/3/2025 | 12/3/2027 |
-| Certification Cards | First Aid and CPR | 1/23/2024 | 1/17/2026 |
 | Code of Ethics | Signed | 11/18/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/19/2026 | OCP3152D | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 7/8/2026 | OCP4377D | Suicide Response and Prevention | Passed | 0.0 | 0.25 |
 | 6/24/2026 | OCP0159C | OCPD Field Training Officer Meeting | Passed | 0.0 | 1.50 |
 | 6/18/2026 | OCP3892C | Active Threat Response | Passed | 0.0 | 4.00 |
@@ -65,7 +65,6 @@
 | 2/25/2026 | OCP0249C | Children's Center | Passed | 0.0 | 0.50 |
 | 2/19/2026 | OCP0822C | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 2/19/2026 | OCP2119C | Patrol Tactics | Passed | 0.0 | 4.00 |
-| 2/12/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 2/12/2026 | OCP3725C | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/11/2026 | OCP0316C | Delusions Vs. Hallucination | Passed | 0.0 | 0.25 |
 | 1/29/2026 | OCP3005C | Night Range | Passed | 0.0 | 2.00 |

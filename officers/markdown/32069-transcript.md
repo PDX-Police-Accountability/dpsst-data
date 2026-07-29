@@ -49,7 +49,6 @@
 | 3/11/2026 | LOP2089D | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/25/2026 | SDP4058C | K9 Track Training | Passed | 0.0 | 1.00 |
 | 2/18/2026 | SDP1268C | Taser - Operator  Re-Certification | Passed | 0.0 | 4.00 |
-| 2/18/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 1/28/2026 | SDP1945C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |
 | 1/28/2026 | SDP0241C | DV Legal update DDA Presentation | Passed | 0.0 | 1.50 |
 | 1/28/2026 | SDP0965C | Bloodborne Pathogens - CIS Learn Portal | Passed | 0.0 | 1.00 |

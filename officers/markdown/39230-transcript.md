@@ -36,7 +36,6 @@
 | Certification Cards | First Aid and CPR | 1/15/2026 | 1/15/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,7 +46,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/9/2026 | EGP0287C | Taser Recertification | Passed | 0.0 | 3.50 |
-| 2/12/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 2/12/2026 | EGP3799C | Suicide Prevention | Passed | 0.0 | 1.50 |
 | 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 1/15/2026 | EGP2620C | State of Oregon DOJ Domestic Violence Updates | Passed | 0.0 | 4.00 |

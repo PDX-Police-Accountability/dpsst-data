@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2026 | PDP4398D | CMIC-Chemical Agents and Tear Gas | Passed | 0.0 | 1.50 |
 | 7/10/2026 | PDP0940D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 7/6/2026 | SCP1979D | Air Purifying Respirator (APR) Program | Instructed | 0.0 | 3.00 |
 | 6/29/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
@@ -63,7 +64,6 @@
 | 2/23/2026 | PDP0758C | 2026-1 IS PT: Intent, Means  Opportunity | Passed | 0.0 | 2.00 |
 | 2/23/2026 | PDP0054C | 2026-1 IS Public Order: Crowd Theory | Passed | 0.0 | 2.50 |
 | 2/20/2026 | PDP3335C | 2026 Rapid Response Team (RRT) Grenadier Cadre | Passed | 0.0 | 9.00 |
-| 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3809C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 2/12/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

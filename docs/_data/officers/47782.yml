@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/16/2026
+  course: PDP4398D
+  title: CMIC-Chemical Agents and Tear Gas
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/29/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees

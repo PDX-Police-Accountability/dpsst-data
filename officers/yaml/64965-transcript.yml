@@ -955,10 +955,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 3/4/2024
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/28/2024
-  expiration_date: 2/28/2026
 education_records:
 - date: 11/30/2020
   degree: Bachelor Science

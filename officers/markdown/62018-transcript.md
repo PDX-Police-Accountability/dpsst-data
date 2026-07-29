@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2026 | PDP0919D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/27/2026 | PDP3615C | 2026 Control Tactics Satellite Instructor Course | Passed | 0.0 | 18.00 |
 | 6/25/2026 | PDP1494D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/25/2026 | PDP1494D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
@@ -39,6 +40,7 @@
 | 6/23/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/23/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/18/2026 | PDP2687D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 6/16/2026 | PDP1470D | 2026 SERT Training - CLASSROOM | Passed | 0.0 | 2.00 |
 | 6/11/2026 | PDP1742D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/7/2026 | PDP2452C | 2026 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/22/2026 | SMP1873D | OTOA Basic SWAT School | Passed | 0.0 | 40.00 |
@@ -59,7 +61,6 @@
 | 3/1/2026 | PDP2917C | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP0758C | 2026-1 IS PT: Intent, Means  Opportunity | Passed | 0.0 | 2.00 |
 | 2/17/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 3.00 |
-| 2/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3809C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 2/12/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/30/2026 | PDP2964C | 2026 RRT Field Force Extraction In-Service | Passed | 0.0 | 9.00 |

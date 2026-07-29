@@ -104,12 +104,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
-- date: 6/10/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.50'
 - date: 3/8/2026
   course: HBS1367C
   title: LEDs Recertification

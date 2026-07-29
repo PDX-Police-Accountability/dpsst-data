@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/6/2026
+  course: PDP3547D
+  title: FTEP Post Basic CEW
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/27/2026
   course: PDP3615C
   title: 2026 Control Tactics Satellite Instructor Course

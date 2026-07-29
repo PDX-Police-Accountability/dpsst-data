@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/8/2026 | PDP3959D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
+| 7/8/2026 | PDP3959D | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 3.00 |
 | 6/28/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/28/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/10/2026 | PDP4448D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
@@ -44,7 +46,6 @@
 | 5/14/2026 | PDP2806C | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 5/7/2026 | PDP4399C | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 5/5/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
-| 4/15/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 4/15/2026 | HBP3076C | 2026 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/1/2026 | PDP2270C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 4/1/2026 | PDP2270C | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
@@ -54,7 +55,6 @@
 | 3/19/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/23/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
-| 2/11/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/11/2026 | PDP2665C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 2/2/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 2/2/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

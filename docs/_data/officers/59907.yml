@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/21/2026
+  course: PDP3949D
+  title: 2026 Satellite Firearms Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
 - date: 6/20/2026
   course: PDP2055C
   title: 2026 Patrol Rifle Operator Summer In-Service
@@ -61,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/4/2026
+  course: PDP4209D
+  title: OPOA Firearm and Vehicle Tactics
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/17/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

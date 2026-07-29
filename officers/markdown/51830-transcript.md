@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2026 | PDP2665D | Logical Latent Analysis | Passed | 0.0 | 16.00 |
 | 6/15/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/15/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 5/1/2026 | PDP3659C | Advanced Crime Scene Inestigations | Passed | 0.0 | 40.00 |

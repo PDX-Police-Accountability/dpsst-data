@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/21/2026
+  course: PDP3949D
+  title: 2026 Satellite Firearms Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
 - date: 6/4/2026
   course: PDP2705D
   title: 2020 Trng Managing Critical Incidents Well Sgts

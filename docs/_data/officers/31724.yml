@@ -86,6 +86,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/20/2026
+  course: BNS2496D
+  title: Ethos Academy - Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/30/2026
+  course: BNS0240D
+  title: "(Online) Oleoresin Capsicum Refresher"
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2026
+  course: 31405D
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/31/2026
   course: BNS1890D
   title: "(Police1) Pursuit Driving Basics"
@@ -170,12 +188,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 1/31/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 1/31/2026
   course: BNS2179C
   title: "(Police1) Suicide Pevention for Law Enforcement"
@@ -5047,10 +5059,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/29/2026
   expiration_date: 1/31/2028
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/26/2024
-  expiration_date: 4/26/2026
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/2/2009

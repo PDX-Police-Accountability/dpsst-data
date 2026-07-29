@@ -54,8 +54,6 @@
 | 2/18/2026 | PDP4231C | 2026 Investigators IS Exemption Review/Legal | Passed | 0.0 | 1.00 |
 | 2/18/2026 | PDP4289C | 2026 Investigators IS Tech Warrants and Testimony | Passed | 0.0 | 2.00 |
 | 2/18/2026 | PDP0336C | 2026 Investigators IS Mass Casualty Incident | Passed | 0.0 | 2.00 |
-| 2/12/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP3076C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/14/2026
+  course: PDP3989D
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/9/2026
   course: PDP1163D
   title: RegJIN RMS MRE
@@ -42,12 +48,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/6/2026
+  course: PDP3547D
+  title: FTEP Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/2/2026
   course: PDP1396D
   title: 2026 FTEP Post DPSST Firearms
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 7/2/2026
+  course: PDP2948D
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 6/29/2026
   course: PDP2618D
   title: Air Purifying Respirator HAZMAT WMD

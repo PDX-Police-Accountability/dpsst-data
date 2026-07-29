@@ -41,7 +41,6 @@
 | 5/31/2026 | LOP0908C | IPICD Abnormal Breathing | Passed | 0.0 | 1.00 |
 | 4/29/2026 | OCA2047C | MCT - Investigative Strategies / Insanity Defense | Passed | 0.0 | 1.25 |
 | 3/1/2026 | LOP1902C | Overview of Mental Health Statutes and Resources | Passed | 0.0 | 1.00 |
-| 2/10/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/10/2026 | LOP3893C | 40mm Launcher Recertification Training | Passed | 0.0 | 4.00 |
 | 1/28/2026 | OCA3663C | MCT - Digital Search Warrants | Passed | 0.0 | 2.00 |
 | 1/15/2026 | LOP2811C | ICAC Cyber tip training | Instructed | 0.0 | 1.50 |

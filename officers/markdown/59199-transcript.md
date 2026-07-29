@@ -71,8 +71,6 @@
 | 2/26/2026 | EGP4386C | SWAT Firearms Skills | Passed | 0.0 | 4.00 |
 | 2/26/2026 | EGP4288C | SWAT Firearms Skills | Passed | 0.0 | 4.00 |
 | 2/26/2026 | EGP1083C | Basic Narcotic Specalised Unit Investigator Course | Passed | 0.0 | 40.00 |
-| 2/12/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.50 |
-| 2/12/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 2/12/2026 | EGP1815C | Investigations Updates | Passed | 0.0 | 2.50 |
 | 2/12/2026 | EGP3459C | Karly's Law | Passed | 0.0 | 3.00 |
 | 2/12/2026 | EGP3799C | Suicide Prevention | Passed | 0.0 | 1.50 |
@@ -83,7 +81,6 @@
 | 1/28/2026 | EGP3529C | SWAT Overland Searches - Drone Intergration | Passed | 0.0 | 8.00 |
 | 1/28/2026 | EGP0909C | SWAT Overland Searches - Drone Intergration | Passed | 0.0 | 8.00 |
 | 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
-| 1/15/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 1/15/2026 | EGP2620C | State of Oregon DOJ Domestic Violence Updates | Passed | 0.0 | 4.00 |
 | 1/15/2026 | EGP3677C | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 1/8/2026 | SPP2944C | Search Warrant Fundamentals | Passed | 0.0 | 4.00 |

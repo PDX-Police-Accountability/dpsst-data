@@ -29,7 +29,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/15/2026 | 1/14/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 1/30/2024 | 1/30/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 6/16/2008 |  |
 ## Education
@@ -46,7 +45,6 @@
 | 1/29/2026 | BVP2168C | Modern Lessons in Leadership for Law Enforcement | Passed | 0.0 | 16.00 |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/15/2026 | BVP1921C | First Aid/CPR 011526 AM | Passed | 0.0 | 3.00 |
-| 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/31/2025 | BVP1982C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/30/2025 | BVP3902C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/10/2025 | VND0002C | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

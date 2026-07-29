@@ -27,7 +27,6 @@
 | Certification Cards | First Aid and CPR | 1/8/2026 | 1/7/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 1/18/2024 | 1/18/2026 |
 | Code of Ethics | Signed | 3/4/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,11 +40,9 @@
 | 4/9/2026 | BVP0950C | April 2026 Control Tactics IST 040926 AM | Passed | 0.0 | 3.00 |
 | 3/12/2026 | BVP1695C | EVOC 031226AM | Passed | 0.0 | 3.00 |
 | 2/5/2026 | BVP0926C | Threat Discretion/UTM Range 020526AM | Passed | 0.0 | 3.00 |
-| 1/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 1/22/2026 | VND4455C | NW Peer Support Conference - Responder Life | Passed | 0.0 | 16.00 |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/8/2026 | BVP1821C | First Aid/CPR 010826 AM | Passed | 0.0 | 3.00 |
-| 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/31/2025 | BVP1982C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/30/2025 | BVP3902C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/17/2025 | MISCMAIN | 2025 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |

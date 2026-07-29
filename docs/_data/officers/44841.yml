@@ -69,12 +69,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 2/10/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 2/10/2026
   course: LOP3893C
   title: 40mm Launcher Recertification Training
   status: Passed

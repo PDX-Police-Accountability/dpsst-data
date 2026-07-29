@@ -28,7 +28,6 @@
 | Certification Cards | First Aid and CPR | 1/8/2026 | 1/7/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 1/18/2024 | 1/18/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/11/2018 |  |
 ## Education
@@ -57,14 +56,12 @@
 | 3/17/2026 | BVP0380C | EVOC 031726PM | Passed | 0.0 | 3.00 |
 | 3/11/2026 | HBS3704C | TNT Live Fire Range | Passed | 0.0 | 3.00 |
 | 2/18/2026 | HBS1169C | TNT - New Operator Vehicle Operations | Instructed | 0.0 | 3.00 |
-| 2/11/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.75 |
 | 2/11/2026 | HBS3702C | TNT-Hostage Rescue | Passed | 0.0 | 6.75 |
 | 2/3/2026 | BVP3499C | Threat Discretion/UTM Range 020326PM | Passed | 0.0 | 3.00 |
 | 1/28/2026 | HBS0480C | TNT Cautious Clears/TCCC/K9/Drones | Passed | 0.0 | 7.50 |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/14/2026 | HBS3448C | TNT Range Day | Passed | 0.0 | 8.00 |
 | 1/8/2026 | BVP1987C | First Aid/CPR 010826 PM | Passed | 0.0 | 3.00 |
-| 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/30/2025 | HBS0051C | Active Threat Response for LE | Instructed | 0.0 | 3.00 |
 | 12/29/2025 | HBS3838C | Active Threat Response for LE | Instructed | 0.0 | 3.00 |
 | 12/17/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

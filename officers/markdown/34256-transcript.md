@@ -35,7 +35,6 @@
 | Certification Cards | First Aid and CPR | 1/5/2026 | 1/4/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Code of Ethics | Signed | 2/27/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -53,7 +52,6 @@
 | 2/4/2026 | BVP2532C | Threat Discretion/UTM Range 020426AM | Passed | 0.0 | 3.00 |
 | 1/16/2026 | BVP2660C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/5/2026 | BVP0853C | First Aid/CPR 010526 PM | Passed | 0.0 | 3.00 |
-| 12/31/2025 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/31/2025 | BVP1982C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/30/2025 | BVP3902C | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -28,7 +28,6 @@
 | Certification Cards | First Aid and CPR | 6/2/2026 | 6/30/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Certification Cards | First Aid and CPR | 6/5/2024 | 6/1/2026 |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 3/28/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 5/30/2021 |  |
@@ -59,9 +58,7 @@
 | 1/28/2026 | MFN0909C | Mental Health Overview | Passed | 0.0 | 0.50 |
 | 1/28/2026 | MFN2656C | DOC Dashboard Overview | Passed | 0.0 | 0.50 |
 | 1/21/2026 | MFN0510C | Social Media Overview | Passed | 0.0 | 0.75 |
-| 1/20/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 1/20/2026 | MFN4474C | Annual UoF training/UoF report writing | Passed | 0.0 | 2.00 |
-| 1/15/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 1/15/2026 | MFN2996C | Firearms-low light night shoot | Passed | 0.0 | 3.00 |
 | 1/13/2026 | MFN2926C | Building Collaborative Teams | Passed | 0.0 | 1.00 |
 | 1/7/2026 | MFN2520C | Transitional Care Prog/Golden Rule Overview | Passed | 0.0 | 1.00 |

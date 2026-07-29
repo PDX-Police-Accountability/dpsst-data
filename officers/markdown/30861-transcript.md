@@ -38,7 +38,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 4/16/2024 |  |
-| Certification Cards | First Aid and CPR | 1/24/2024 | 1/5/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -48,6 +47,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/22/2027 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 7/20/2026 | BNS2496D | Ethos Academy - Ethics | Passed | 0.0 | 3.00 |
+| 6/30/2026 | BNS1798D | (Online) Fire Suppression Tools | Passed | 0.0 | 0.50 |
+| 6/30/2026 | BNS0240D | (Online) Oleoresin Capsicum Refresher | Passed | 0.0 | 1.00 |
+| 6/4/2026 | 31405D | EVOC | Passed | 0.0 | 4.00 |
 | 5/31/2026 | BNS1890D | (Police1) Pursuit Driving Basics | Passed | 0.0 | 1.00 |
 | 5/31/2026 | BNS2586D | (Police1) Stop Stick Safety Course | Passed | 0.0 | 0.50 |
 | 3/31/2026 | BNS0940C | (P1) Ambush Awareness and Preparation | Passed | 0.0 | 1.00 |
@@ -58,7 +61,6 @@
 | 2/28/2026 | BNS0994C | Hearing Conservation | Passed | 0.0 | 0.25 |
 | 2/28/2026 | BNS0207C | Ladder Safety | Passed | 0.0 | 0.25 |
 | 2/1/2026 | BNS3760C | Deflection Update - Briefing Training | Passed | 0.0 | 0.25 |
-| 1/31/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 1/31/2026 | BNS2179C | (Police1) Suicide Pevention for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2026 | BNS0469C | Arrest and Control | Passed | 0.0 | 2.00 |
 | 1/29/2026 | BNS4483C | First Aid/TCCC Review and Scenarios | Passed | 0.0 | 2.00 |

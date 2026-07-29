@@ -46,8 +46,6 @@
 | Certification Cards | First Aid and CPR | 1/15/2026 | 1/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | CPR | 3/1/2024 | 3/31/2026 |
-| Certification Cards | First Aid | 3/1/2024 | 3/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/25/2024 |  |
 | Code of Ethics | Telecommunication Signed | 9/11/2023 |  |
 | Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
@@ -61,6 +59,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2026 | OSH4307D | 0166 2nd Trimester Firearms | Passed | 0.0 | 3.00 |
 | 6/11/2026 | OSH4006C | OSP Defensive Tactics - 2nd Trimester / TASER10 | Passed | 0.0 | 4.00 |
 | 4/30/2026 | OSH1033C | 1st trimester firearms | Passed | 0.0 | 3.00 |
 | 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |

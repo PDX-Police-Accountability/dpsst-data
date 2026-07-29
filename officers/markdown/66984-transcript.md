@@ -104,6 +104,7 @@
 | 4/28/2026 | PDP1912D | School Emergency Actions | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP3646D | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
 | 4/24/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 4/1/2026 | REG2263D | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/24/2025 | PDP0384C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |
 | 12/24/2025 | PDP1007C | ICS-200 Basic Inc Command System for Init Resp | Passed | 0.0 | 4.00 |

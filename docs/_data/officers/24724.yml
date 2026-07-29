@@ -149,6 +149,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 5/29/2026
+  course: HBS3443D
+  title: 'Inservice Session #1 DT''s'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 2/11/2025
   course: FGP3863A
   title: CPR/First Aid/AED

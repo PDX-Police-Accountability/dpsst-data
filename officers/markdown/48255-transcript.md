@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2026 | PDP2866D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/20/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/20/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/18/2026 | PDP2687D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
@@ -60,8 +61,6 @@
 | 2/19/2026 | PDP2207C | 2026 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 2/19/2026 | PDP2207C | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 2/13/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
-| 2/12/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 2/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP3076C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 4.00 |
 | 2/12/2026 | PDP2132C | 2026 SERT Training - ITERATION | Passed | 0.0 | 4.00 |
 | 2/4/2026 | PDP4141C | Dignitary Protection Seminar | Passed | 0.0 | 6.00 |

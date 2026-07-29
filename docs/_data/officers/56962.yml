@@ -121,12 +121,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 2/11/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 1/6/2026
   course: HBN3745C
   title: 25-0716 (LEDS Recertification)

@@ -52,7 +52,6 @@
 | 2/25/2026 | OCP0249C | Children's Center | Passed | 0.0 | 0.50 |
 | 2/19/2026 | OCP0822C | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 2/19/2026 | OCP2119C | Patrol Tactics | Passed | 0.0 | 4.00 |
-| 2/12/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 2/12/2026 | OCP3725C | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/11/2026 | OCP0316C | Delusions Vs. Hallucination | Passed | 0.0 | 0.25 |
 | 1/21/2026 | OCP3095C | Animal Crimes Investigations | Passed | 0.0 | 1.00 |

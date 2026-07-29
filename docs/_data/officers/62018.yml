@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/2/2026
+  course: PDP0919D
+  title: 2026 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/27/2026
   course: PDP3615C
   title: 2026 Control Tactics Satellite Instructor Course
@@ -72,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/16/2026
+  course: PDP1470D
+  title: 2026 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/11/2026
   course: PDP1742D
   title: 2026 SERT Training - SCENARIO
@@ -192,12 +204,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 2/13/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 2/13/2026
   course: PDP3809C
   title: 2026 Rapid Response team (RRT) Monthly Training

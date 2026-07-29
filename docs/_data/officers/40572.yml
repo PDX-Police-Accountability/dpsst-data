@@ -4827,6 +4827,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/29/2006
+  course: PDP2741D
+  title: ICS 100 Intro to Incident Command Syst
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/31/2005
   course: 05-2977
   title: PPB - Other LE Classes

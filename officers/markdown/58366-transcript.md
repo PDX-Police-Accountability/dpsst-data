@@ -31,7 +31,6 @@
 | Certification Cards | First Aid and CPR | 1/12/2026 | 1/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 2/28/2024 | 1/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
 ## Education
@@ -42,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | OSH2246D | Court Decisions About Officer Decision-Making | Passed | 0.0 | 1.00 |
 | 7/9/2026 | OSH3801D | Unleashing Self-Aware Leadership | Passed | 0.0 | 1.00 |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 6/17/2026 | OSH3916D | Central Region Leadership Summit | Passed | 0.0 | 4.00 |

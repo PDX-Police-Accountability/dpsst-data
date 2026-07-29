@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/8/2026
+  course: PDP3959D
+  title: 2026 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/18/2026
   course: PDP0168D
   title: 2026 K-9 (K9) Weekly Training
@@ -135,12 +141,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 4/15/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
-- date: 4/15/2026
   course: HBP3076C
   title: 2026 OPCA Spring Seminar
   status: Passed
@@ -188,12 +188,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 2/11/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 2/11/2026
   course: PDP2665C
   title: 2026 K-9 (K9) Weekly Training

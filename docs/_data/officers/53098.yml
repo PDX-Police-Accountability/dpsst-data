@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2026
+  course: REG3748D
+  title: SFST Instructor Development Course
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/22/2026
   course: OSH2003C
   title: SFST Refresher

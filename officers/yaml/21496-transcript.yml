@@ -166,6 +166,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2026
+  course: OSH4307D
+  title: 0166 2nd Trimester Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/11/2026
   course: OSH4006C
   title: OSP Defensive Tactics - 2nd Trimester / TASER10
@@ -3821,14 +3827,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Certification Cards
-  value: CPR
-  effective_date: 3/1/2024
-  expiration_date: 3/31/2026
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 3/1/2024
-  expiration_date: 3/31/2026
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/25/2024

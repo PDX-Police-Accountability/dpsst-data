@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2026 | HDA1357D | Redflags for UC / Final Day General Session | Passed | 0.0 | 4.00 |
+| 7/8/2026 | HDA3061D | Financial Planning | Passed | 0.0 | 2.00 |
+| 7/6/2026 | HDA3121D | General Session - Legal Updates | Passed | 0.0 | 4.00 |
 | 6/18/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/17/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/17/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

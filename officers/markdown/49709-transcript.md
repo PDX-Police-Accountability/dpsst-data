@@ -52,6 +52,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2026 | PDP4398D | CMIC-Chemical Agents and Tear Gas | Passed | 0.0 | 1.50 |
 | 6/29/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 5/19/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/14/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2026 | BKS2621D | 2025 Lesson 12- DUII | Passed | 0.0 | 1.00 |
 | 12/19/2025 | M10-23A | DPSST Basic Police Course | Failed | 0.0 | 0.00 |
 | 10/10/2025 | PDP1050B | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 1.00 |
 | 10/4/2025 | PDP4424B | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.25 |

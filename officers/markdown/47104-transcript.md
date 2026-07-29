@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/8/2026 | HDA0977D | Overdose Death Investigations | Passed | 0.0 | 4.00 |
+| 7/6/2026 | HDA3121D | General Session - Legal Updates | Passed | 0.0 | 4.00 |
 | 5/14/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/26/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 3/26/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |

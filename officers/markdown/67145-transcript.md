@@ -28,9 +28,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/29/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/14/2026 | PDP3989D | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 7/9/2026 | PDP1163D | RegJIN RMS MRE | Passed | 0.0 | 14.00 |
 | 7/7/2026 | PDP3637D | Body Worn Camera | Passed | 0.0 | 3.00 |
+| 7/6/2026 | PDP3547D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 7/2/2026 | PDP1396D | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 7/2/2026 | PDP2948D | FTEP Geography | Passed | 0.0 | 2.50 |
 | 6/29/2026 | PDP2618D | Air Purifying Respirator HAZMAT WMD | Passed | 0.0 | 2.00 |
 | 6/28/2026 | PDP1306D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 6/28/2026 | PDP2743D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |

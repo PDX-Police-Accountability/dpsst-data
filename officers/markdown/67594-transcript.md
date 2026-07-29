@@ -28,6 +28,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/3/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 7/21/2026 | PDP0665D | FTEP Policy and Procedures | Passed | 0.0 | 5.00 |
 | 6/22/2026 | PDP2743D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 6/22/2026 | PDP2567D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 6/22/2026 | PDP1803D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |

@@ -32,7 +32,6 @@
 | Certification Cards | CPR | 3/11/2026 | 3/11/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
 | Code of Ethics | Signed | 3/10/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +48,7 @@
 | 3/11/2026 | WLP0951C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
 | 3/11/2026 | WLP2335C | Defensive Tactics - Crisis Scenarios with BHU | Passed | 0.0 | 2.00 |
 | 3/11/2026 | WLP4167C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
+| 3/11/2026 | WLP1119D | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 0.00 |
 | 3/6/2026 | VND1335C | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 2/25/2026 | WLP2022C | Firearms Training / Qualifications | Passed | 0.0 | 3.00 |
 | 1/7/2026 | WLP3844C | Overview of mental health statues  BHU resources | Passed | 0.0 | 1.00 |

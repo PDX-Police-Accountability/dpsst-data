@@ -60,6 +60,7 @@
 | 4/27/2026 | PDP0386D | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP3899D | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
 | 4/24/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 4/1/2026 | REG2263D | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/24/2025 | PDP1043C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 12/24/2025 | PDP0027C | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |

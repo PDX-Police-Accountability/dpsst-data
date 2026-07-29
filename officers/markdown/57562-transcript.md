@@ -57,7 +57,6 @@
 | 3/2/2026 | OCP3126C | Global SDS / Hazardous Communication Standard | Passed | 0.0 | 1.00 |
 | 2/19/2026 | OCP0822C | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 2/19/2026 | OCP2119C | Patrol Tactics | Passed | 0.0 | 4.00 |
-| 2/12/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
 | 2/12/2026 | OCP3725C | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 2/2/2026 | VND0692C | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/4/2025 | OCP4242C | Lexipol Daily Training Bulletins | Passed | 0.0 | 7.25 |

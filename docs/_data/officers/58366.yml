@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/21/2026
+  course: OSH2246D
+  title: Court Decisions About Officer Decision-Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/9/2026
   course: OSH3801D
   title: Unleashing Self-Aware Leadership
@@ -1714,10 +1720,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/28/2024
-  expiration_date: 1/31/2026
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 2/8/2019

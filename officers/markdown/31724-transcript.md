@@ -31,7 +31,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/29/2026 | 1/31/2028 |
-| Certification Cards | First Aid and CPR | 4/26/2024 | 4/26/2026 |
 | Code of Ethics | Signed | 2/2/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/20/2026 | BNS2496D | Ethos Academy - Ethics | Passed | 0.0 | 3.00 |
+| 6/30/2026 | BNS0240D | (Online) Oleoresin Capsicum Refresher | Passed | 0.0 | 1.00 |
+| 6/4/2026 | 31405D | EVOC | Passed | 0.0 | 4.00 |
 | 5/31/2026 | BNS1890D | (Police1) Pursuit Driving Basics | Passed | 0.0 | 1.00 |
 | 5/31/2026 | BNS2586D | (Police1) Stop Stick Safety Course | Passed | 0.0 | 0.50 |
 | 4/30/2026 | BNS3251C | (Police1) Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
@@ -55,7 +57,6 @@
 | 2/28/2026 | BNS3254C | (Police1) CIT - Crisis Response | Passed | 0.0 | 1.00 |
 | 2/28/2026 | BNS0207C | Ladder Safety | Passed | 0.0 | 0.25 |
 | 2/1/2026 | BNS3760C | Deflection Update - Briefing Training | Passed | 0.0 | 0.25 |
-| 1/31/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 1/31/2026 | BNS2179C | (Police1) Suicide Pevention for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2026 | BNS0469C | Arrest and Control | Passed | 0.0 | 2.00 |
 | 1/29/2026 | BNS4483C | First Aid/TCCC Review and Scenarios | Passed | 0.0 | 2.00 |

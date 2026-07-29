@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2026 | PDP1426D | 2026 Critical Incident Command Debrief | Passed | 0.0 | 2.00 |
 | 6/19/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
 | 5/7/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |

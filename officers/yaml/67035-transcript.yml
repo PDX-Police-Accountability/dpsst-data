@@ -36,6 +36,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/17/2026
+  course: BKS2382D
+  title: Firearms Training and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/17/2026
+  course: BKS0193D
+  title: Firearms Training and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/16/2026
   course: PDP2977C
   title: Post Basic Firearms

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | PDP3949D | 2026 Satellite Firearms Instructor School | Passed | 0.0 | 90.00 |
 | 6/27/2026 | PDP3615C | 2026 Control Tactics Satellite Instructor Course | Passed | 0.0 | 18.00 |
 | 6/8/2026 | PDP3541D | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 5/7/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |

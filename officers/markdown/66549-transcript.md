@@ -111,6 +111,7 @@
 | 4/27/2026 | PDP1237D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP0386D | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP3646D | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
+| 4/1/2026 | REG2263D | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/28/2026 | REG3940C | Extreme Risk Protection Orders Conference | Passed | 0.0 | 8.00 |
 | 12/19/2025 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |

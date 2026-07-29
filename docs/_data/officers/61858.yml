@@ -176,23 +176,11 @@ training_records:
   score: '0.0'
   hours: '0.75'
 - date: 1/20/2026
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 1/20/2026
   course: MFN4474C
   title: Annual UoF training/UoF report writing
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 1/15/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
 - date: 1/15/2026
   course: MFN2996C
   title: Firearms-low light night shoot
@@ -1310,10 +1298,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/5/2024
-  expiration_date: 6/1/2026
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/26/2022

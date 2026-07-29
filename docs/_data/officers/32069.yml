@@ -129,12 +129,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 2/18/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 1/28/2026
   course: SDP1945C
   title: Defensive Tactics 2 person arrest tactics

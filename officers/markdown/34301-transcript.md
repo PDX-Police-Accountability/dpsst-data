@@ -30,7 +30,6 @@
 | Certification Cards | First Aid and CPR | 1/29/2026 | 1/5/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 2/12/2024 | 2/1/2026 |
 | Code of Ethics | Signed | 7/28/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/27/2026 | TRN3050D | CNT_SWAT - Joint Operations Drills | Passed | 0.0 | 8.00 |
 | 2/9/2026 | TRN4398C | Evidence Handling Crime Scene Preservation v2019 | Passed | 0.0 | 2.00 |
 | 1/29/2026 | TRN2333C | DOC - Armed Post Qualification (APQ) v2026 | Passed | 0.0 | 6.00 |
 | 1/29/2026 | TRN1633C | First Aid Adult Child Infant CPR AED v2026 | Passed | 0.0 | 6.00 |

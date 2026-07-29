@@ -103,6 +103,7 @@
 | 4/21/2026 | PDP4018D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 4/21/2026 | PDP0374D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 4/21/2026 | PDP3127D | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 4/1/2026 | REG2263D | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/22/2025 | PDP1312C | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
 | 12/22/2025 | PDP4307C | IS-700 National Incident Management Intro | Passed | 0.0 | 4.00 |

@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2026 | PDP3796D | Advanced Roadside Impairment Drive Enforce | Passed | 0.0 | 16.00 |
 | 6/21/2026 | PDP0521C | 2026 40mm Less Lethal New Operator Course | Passed | 0.0 | 18.00 |
 | 6/5/2026 | OSH0450C | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 4/29/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

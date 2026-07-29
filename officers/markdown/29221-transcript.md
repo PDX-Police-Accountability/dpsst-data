@@ -47,6 +47,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2026 | BNP4343D | Active Threat / Use of Force | Passed | 0.0 | 3.00 |
+| 7/24/2026 | BNP2872D | The Art  Science of Leadership | Passed | 0.0 | 3.00 |
 | 6/25/2026 | BNP0787C | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 5/20/2026 | BNP1332C | Bend PD Ethics | Instructed | 0.0 | 1.00 |
 | 5/19/2026 | BNP1586C | Creating Bounce | Passed | 0.0 | 0.50 |

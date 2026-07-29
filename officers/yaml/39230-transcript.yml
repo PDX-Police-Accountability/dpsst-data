@@ -107,12 +107,6 @@ training_records:
   score: '0.0'
   hours: '3.50'
 - date: 2/12/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.50'
-- date: 2/12/2026
   course: EGP3799C
   title: Suicide Prevention
   status: Passed
@@ -4581,10 +4575,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/11/2024
-  expiration_date: 1/11/2026
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/29/2003

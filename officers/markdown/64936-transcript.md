@@ -24,20 +24,19 @@
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 3/4/2024 |  |
-| Certification Cards | First Aid and CPR | 2/28/2024 | 2/28/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | PDP3949D | 2026 Satellite Firearms Instructor School | Passed | 0.0 | 90.00 |
 | 6/10/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/10/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/5/2026 | OSH0450C | Oregon State Police - Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/27/2026 | PDP3459C | 2026 Patrol Rifle New Operator Courses | Passed | 0.0 | 54.00 |
 | 4/30/2026 | PDP3601C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/20/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
-| 4/15/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 4/15/2026 | HBP3076C | 2026 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/3/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/19/2026 | PDP0067C | CPR/First Aid | Passed | 0.0 | 1.00 |

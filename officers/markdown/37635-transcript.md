@@ -54,13 +54,11 @@
 | 4/29/2026 | EGP0135C | SWAT Firearms Qualifications | Passed | 0.0 | 4.00 |
 | 4/29/2026 | EGP3935C | 40MM/Pepperball/FSDD/CS Gas/FSDD Certifications | Passed | 0.0 | 8.00 |
 | 4/24/2026 | EGP3698C | AVI Protocols Scenario | Passed | 0.0 | 3.00 |
-| 4/15/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 4/15/2026 | HBP3076C | 2026 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/9/2026 | EGP0287C | Taser Recertification | Passed | 0.0 | 3.50 |
 | 3/12/2026 | EGP1845C | Lead Smarter in 2026:  3 Leadership Traps to Avoid | Passed | 0.0 | 1.00 |
 | 3/12/2026 | EGP4597C | Leading Through Generations:People-Focused Leaders | Passed | 0.0 | 1.00 |
 | 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
-| 1/15/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 1/15/2026 | EGP2620C | State of Oregon DOJ Domestic Violence Updates | Passed | 0.0 | 4.00 |
 | 1/15/2026 | EGP3677C | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 11/26/2025 | EGP2580C | SWAT Search Skills / Tactical Mini Scenarios | Passed | 0.0 | 6.00 |

@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/27/2026
+  course: TRN3050D
+  title: CNT_SWAT - Joint Operations Drills
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/9/2026
   course: TRN4398C
   title: Evidence Handling Crime Scene Preservation v2019
@@ -1466,10 +1472,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/12/2024
-  expiration_date: 2/1/2026
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/28/2000

@@ -47,12 +47,10 @@
 | 5/14/2026 | PDP2806C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 5/7/2026 | PDP4399C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/17/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
-| 4/15/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 4/15/2026 | HBP3076C | 2026 OPCA Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/1/2026 | PDP2270C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 3/17/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/12/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
-| 2/11/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
 | 2/11/2026 | PDP2665C | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
 | 2/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

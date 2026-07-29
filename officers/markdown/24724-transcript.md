@@ -50,6 +50,7 @@
 | 7/1/2026 | HBS3865D | Virtual - Duty to Intercede | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS2108D | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |
 | 5/29/2026 | HBS1639C | Inservice Session #1 Firearms | Passed | 0.0 | 4.50 |
+| 5/29/2026 | HBS3443D | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
 | 2/11/2025 | FGP3863A | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 11/14/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2024 | VND0127A | Understand Equity in a LE Environment | Passed | 0.0 | 4.00 |

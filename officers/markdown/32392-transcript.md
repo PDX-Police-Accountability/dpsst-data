@@ -29,7 +29,6 @@
 | Certification Cards | First Aid and CPR | 2/16/2026 | 2/16/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 2/28/2024 | 1/31/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -44,9 +43,7 @@
 | 4/29/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit | Passed | 0.0 | 6.00 |
 | 2/28/2026 | TGP1891C | Axon Assistant Introduction | Passed | 0.0 | 0.50 |
 | 2/26/2026 | TGP1124C | Axon Investigate Operator and Examiner Training | Passed | 0.0 | 16.00 |
-| 2/16/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 2/16/2026 | TGP3339C | First Aid and CPR | Passed | 0.0 | 0.50 |
-| 2/16/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/31/2026 | TGP3392C | Fleet 3, ALPR, and Axon Dashboard | Passed | 0.0 | 0.50 |
 | 1/28/2026 | TGP0109C | Cautious Clearing/Search Warrant Service Training | Passed | 0.0 | 8.00 |
 | 12/31/2025 | TGP0352C | Path of the Guardian - Legal Updates | Passed | 0.0 | 8.00 |
