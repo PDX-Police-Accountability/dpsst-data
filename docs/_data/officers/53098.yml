@@ -182,6 +182,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 1/30/2026
+  course: PDP0021D
+  title: OR DECP Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/22/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

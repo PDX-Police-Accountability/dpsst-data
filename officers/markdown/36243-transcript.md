@@ -48,6 +48,7 @@
 | 7/1/2026 | HBS3865D | Virtual - Duty to Intercede | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS0454D | Virtual Anti-Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS2108D | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |
+| 7/1/2026 | HBS1307D | Virtual - Baton and OC Updates | Passed | 0.0 | 0.50 |
 | 4/30/2026 | HBS0920C | IMT - Tactical Operations Center Level I | Passed | 0.0 | 2.00 |
 | 4/30/2026 | HBS3555C | IMT Training | Passed | 0.0 | 5.00 |
 | 4/12/2026 | HBS0595C | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |

@@ -131,7 +131,13 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 6/5/2026
-  course: 35735D
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/5/2026
+  course: BNS1350D
   title: 2026 OLERA Conference (June 3-5)
   status: Passed
   score: '0.0'

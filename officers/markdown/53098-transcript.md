@@ -61,6 +61,7 @@
 | 2/11/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/4/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/30/2026 | OSH3063C | DRE - Instructor Development Course | Passed | 0.0 | 16.00 |
+| 1/30/2026 | PDP0021D | OR DECP Instructor Development Course | Passed | 0.0 | 40.00 |
 | 1/22/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/22/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/7/2026 | PDP0879C | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |

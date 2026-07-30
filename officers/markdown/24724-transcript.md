@@ -49,6 +49,7 @@
 | 7/1/2026 | HBS0454D | Virtual Anti-Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS3865D | Virtual - Duty to Intercede | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS2108D | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |
+| 7/1/2026 | HBS1307D | Virtual - Baton and OC Updates | Passed | 0.0 | 0.50 |
 | 5/29/2026 | HBS1639C | Inservice Session #1 Firearms | Passed | 0.0 | 4.50 |
 | 5/29/2026 | HBS3443D | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
 | 2/11/2025 | FGP3863A | CPR/First Aid/AED | Passed | 0.0 | 2.00 |

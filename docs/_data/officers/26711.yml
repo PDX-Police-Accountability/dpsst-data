@@ -124,6 +124,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/27/2026
+  course: HBP4419D
+  title: Supervisor Complaint Trng - Internal  External
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/11/2026
   course: HBP0167C
   title: K9 Arrest and Control

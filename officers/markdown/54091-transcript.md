@@ -22,13 +22,15 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Code of Ethics | Law Enforcement Signed | 11/12/2024 |  |
 | Certification Cards | First Aid and CPR | 9/21/2024 | 9/21/2026 |
 | Code of Ethics | Signed | 4/24/2014 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/15/2012 | No Degree | All Other Education Institutes |  | 20.0 |
+| 9/6/2013 | Bachelor Science | All Other Education Institutes | Criminal Justice Administration | 56.0 |
 | 12/15/2010 | No Degree | All Other Education Institutes | Law Enforcement | 69.0 |
 | 3/15/2008 | No Degree | All Other Education Institutes |  | 23.0 |
 | 6/15/2005 | No Degree | All Other Education Institutes |  | 54.2 |

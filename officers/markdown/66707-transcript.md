@@ -152,3 +152,4 @@
 | 10/13/2025 | PDP3784B | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 10/1/2025 | PDP1880B | TEEX WMD Terrorism Aware for Emer Resp | Passed | 0.0 | 8.00 |
 | 10/1/2025 | PDP2205B | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
+| 11/1/2021 | MISCOOS | Approved Out of State Training | Passed | 0.0 | 1284.00 |

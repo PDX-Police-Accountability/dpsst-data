@@ -768,6 +768,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/1/2021
+  course: MISCOOS
+  title: Approved Out of State Training
+  status: Passed
+  score: '0.0'
+  hours: '1284.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

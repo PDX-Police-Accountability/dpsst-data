@@ -3475,6 +3475,14 @@ training_records:
   score: '0.0'
   hours: '30.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 11/12/2024
@@ -3488,11 +3496,11 @@ attribute_records:
   effective_date: 4/24/2014
   expiration_date: ''
 education_records:
-- date: 12/15/2012
-  degree: No Degree
+- date: 9/6/2013
+  degree: Bachelor Science
   school: All Other Education Institutes
-  major: ''
-  hours: '20.0'
+  major: Criminal Justice Administration
+  hours: '56.0'
 - date: 12/15/2010
   degree: No Degree
   school: All Other Education Institutes

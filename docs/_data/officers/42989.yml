@@ -195,6 +195,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/17/2026
+  course: PDP1015D
+  title: Collective Bargaining for Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 3/23/2026
   course: 26-0026
   title: DPSST Middle Management

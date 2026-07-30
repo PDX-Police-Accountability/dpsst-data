@@ -42,6 +42,7 @@
 | 7/1/2026 | HBS1116D | Virtual - A Blueprint for Financial Well | Passed | 0.0 | 0.50 |
 | 7/1/2026 | HBS0454D | Virtual Anti-Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS2108D | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |
+| 7/1/2026 | HBS1307D | Virtual - Baton and OC Updates | Passed | 0.0 | 0.50 |
 | 6/10/2026 | HBS3169C | InService Session #1 Firearms | Passed | 0.0 | 4.50 |
 | 6/10/2026 | HBS0563C | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
 | 3/8/2026 | HBS1367C | LEDs Recertification | Passed | 0.0 | 2.00 |

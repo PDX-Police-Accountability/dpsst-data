@@ -50,7 +50,8 @@
 | 7/20/2026 | BNS2496D | Ethos Academy - Ethics | Passed | 0.0 | 3.00 |
 | 6/30/2026 | BNS1798D | (Online) Fire Suppression Tools | Passed | 0.0 | 0.50 |
 | 6/30/2026 | BNS0240D | (Online) Oleoresin Capsicum Refresher | Passed | 0.0 | 1.00 |
-| 6/4/2026 | 31405D | EVOC | Passed | 0.0 | 4.00 |
+| 6/4/2026 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 6/4/2026 | BNS3278D | EVOC | Passed | 0.0 | 4.00 |
 | 5/31/2026 | BNS1890D | (Police1) Pursuit Driving Basics | Passed | 0.0 | 1.00 |
 | 5/31/2026 | BNS2586D | (Police1) Stop Stick Safety Course | Passed | 0.0 | 0.50 |
 | 3/31/2026 | BNS0940C | (P1) Ambush Awareness and Preparation | Passed | 0.0 | 1.00 |

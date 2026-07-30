@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/1/2026
+  course: HBS1307D
+  title: Virtual - Baton and OC Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/30/2026
   course: HBS0920C
   title: IMT - Tactical Operations Center Level I
