@@ -11,7 +11,7 @@ header_record:
 employment_records:
 - date: 6/6/2026
   agency: Washington County Sheriff's Office
-  action: Return LOA
+  action: LOA
   rank: Lieutenant
   classification: ''
   assignment: ''

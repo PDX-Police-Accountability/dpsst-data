@@ -66,6 +66,7 @@
 | 10/9/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/25/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/12/2025 | ALP3085B | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
+| 9/12/2025 | PDP3319D | LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 8/28/2025 | PDP4384C | 2025-1 All Sworn In-Service ABLE Refresher | Passed | 0.0 | 2.25 |
 | 8/28/2025 | PDP0017C | 2025-1 All Sworn In-Service Firearms Range | Passed | 0.0 | 2.25 |
 | 8/28/2025 | PDP0355C | 2025-1 All Sworn In-Service Intro to Public Order | Passed | 0.0 | 2.25 |

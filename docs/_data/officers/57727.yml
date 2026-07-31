@@ -236,6 +236,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 11/8/2025
+  course: PDP0273D
+  title: LEDA Law Enforcement UAS Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/18/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training

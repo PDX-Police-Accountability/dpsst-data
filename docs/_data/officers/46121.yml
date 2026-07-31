@@ -3902,6 +3902,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/7/2004
+  course: MISCOOS
+  title: Approved Out of State Training
+  status: Passed
+  score: '0.0'
+  hours: '573.75'
 - date: 6/15/1994
   course: PDP1153C
   title: 'PHL Critical Thinking: TV  the pres of reality'

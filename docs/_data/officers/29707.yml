@@ -114,6 +114,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 4/14/2026
+  course: GVP2606D
+  title: Taser 10 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/1/2022
   course: PDP36927
   title: 2022-5 CAO Legal Updates for 05/2022

@@ -453,6 +453,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 8/13/2025
+  course: PDP4455D
+  title: Field Force Extrication Tactics
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/20/2025
   course: PDP3845B
   title: 2025 Dialogue Training Class

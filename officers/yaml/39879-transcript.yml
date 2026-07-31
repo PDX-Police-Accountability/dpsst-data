@@ -135,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/6/2026
+  course: PDP0097D
+  title: LEDA Drone Training
+  status: Passed
+  score: '0.0'
+  hours: '19.00'
 - date: 2/4/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia

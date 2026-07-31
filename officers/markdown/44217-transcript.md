@@ -105,6 +105,7 @@
 | 8/20/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |
 | 8/20/2025 | PDP1668C | 2025-1 All Sworn In-Service CT Refresher | Passed | 0.0 | 1.75 |
 | 8/20/2025 | PDP2121C | 2025-1 All Sworn In-Service PVO | Passed | 0.0 | 2.25 |
+| 8/13/2025 | PDP4455D | Field Force Extrication Tactics | Passed | 0.0 | 24.00 |
 | 7/20/2025 | PDP3845B | 2025 Dialogue Training Class | Passed | 0.0 | 9.00 |
 | 7/17/2025 | PDP0468B | 2025-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/17/2025 | PDP3360B | 2025-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |

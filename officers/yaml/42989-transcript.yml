@@ -105,6 +105,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '15.00'
+- date: 6/19/2026
+  course: PDP2497D
+  title: LRIS Rights of Police Officers
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 6/12/2026
   course: OCS1222C
   title: FBI LEEDA Executive Leadership Institute
@@ -207,6 +213,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 3/11/2026
+  course: PDP3486D
+  title: Lexipol Leading Through the Generations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/4/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

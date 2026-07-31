@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 6/12/2026
+  course: PDP0811D
+  title: Hiding in Plain Sight Mobile Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 5/28/2026
   course: PDP4242C
   title: 2026 K-9 (K9) Weekly Training

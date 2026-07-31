@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2026 | HBP0461D | PA 2026-3, Reaction Drills, Tac De-escltn, Srch/Sz | Instructed | 0.0 | 9.50 |
+| 6/22/2026 | HBP3908D | PA 2026-3, TASER Certification | Instructed | 0.0 | 4.00 |
 | 5/27/2026 | HBP2782C | PA 2026-02 Reaction Drills, Tac De-escltn, Srch/Sz | Instructed | 0.0 | 9.50 |
 | 5/27/2026 | HBP0454C | PA 2026-02, Ext Range Impact Munitions, Shield | Instructed | 0.0 | 2.00 |
 | 5/25/2026 | HBP2103C | PA 2026-02, Foundations of Force, Arrest, Gun Ret | Instructed | 0.0 | 6.75 |

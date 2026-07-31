@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2026
+  course: HBP0461D
+  title: PA 2026-3, Reaction Drills, Tac De-escltn, Srch/Sz
+  status: Instructed
+  score: '0.0'
+  hours: '9.50'
+- date: 6/22/2026
+  course: HBP3908D
+  title: PA 2026-3, TASER Certification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/27/2026
   course: HBP2782C
   title: PA 2026-02 Reaction Drills, Tac De-escltn, Srch/Sz

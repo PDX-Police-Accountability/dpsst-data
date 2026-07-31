@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 1/5/2026
+  course: PDP1790D
+  title: Human Trafficking Portland
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 12/12/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

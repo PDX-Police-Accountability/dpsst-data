@@ -61,6 +61,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.50'
+- date: 6/30/2026
+  course: BNP2130D
+  title: Emergency Operations Plan Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2026
+  course: BNP2894D
+  title: OSHA Wildfire Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2026
+  course: BNP3655D
+  title: OSHA Wildfire Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/23/2026
   course: BNP0787C
   title: Defensive Tactics Scenarios
@@ -133,6 +151,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 3/19/2026
+  course: BNP0733D
+  title: Airway and Circulatory Anatomy Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/17/2026
   course: BNP3238C
   title: FTO Leadership Training

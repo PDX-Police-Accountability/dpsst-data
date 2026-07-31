@@ -49,6 +49,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/24/2026 | BNP4343D | Active Threat / Use of Force | Passed | 0.0 | 3.00 |
 | 7/24/2026 | BNP2872D | The Art  Science of Leadership | Passed | 0.0 | 3.00 |
+| 6/30/2026 | BNP2130D | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |
 | 6/25/2026 | BNP0787C | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 5/20/2026 | BNP1332C | Bend PD Ethics | Instructed | 0.0 | 1.00 |
 | 5/19/2026 | BNP1586C | Creating Bounce | Passed | 0.0 | 0.50 |
@@ -57,6 +58,7 @@
 | 3/5/2026 | BNP2912C | Supervisor In-Service Training | Passed | 0.0 | 17.00 |
 | 3/4/2026 | BNP1416C | Supervisor In Service | Passed | 0.0 | 16.00 |
 | 2/26/2026 | BNP4058C | Control Tactics / drawing and retention | Passed | 0.0 | 1.00 |
+| 2/13/2026 | BNP0733D | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 1/29/2026 | BNP1097C | Organizational Health | Passed | 0.0 | 16.00 |
 | 1/26/2026 | BNP2052C | Below 100 / speed and vehicle related deaths | Passed | 0.0 | 1.00 |
 | 1/26/2026 | BNP2379C | Building clears / active threat / hostage rescue | Passed | 0.0 | 2.00 |

@@ -679,6 +679,7 @@
 | 9/8/2009 | 09-1178 | Radar / Lidar Training - Home Agency Approved | Passed | 0.0 | 8.00 |
 | 7/16/2009 | 09-0715 | LEDS Inquiry Level | Passed | 0.0 | 4.00 |
 | 7/10/2009 | 09-0920 | New Hire Orientation | Passed | 0.0 | 3.00 |
+| 10/7/2004 | MISCOOS | Approved Out of State Training | Passed | 0.0 | 573.75 |
 | 6/15/1994 | PDP1153C | PHL Critical Thinking: TV  the pres of reality | Passed | 0.0 | 30.00 |
 | 3/15/1994 | PDP1833C | WR 122 English Composition | Passed | 0.0 | 30.00 |
 | 6/15/1993 | PDP2902C | PS 203 State  Local Government | Passed | 0.0 | 30.00 |

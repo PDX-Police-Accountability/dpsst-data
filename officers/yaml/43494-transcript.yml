@@ -233,6 +233,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/26/2026
+  course: PDP2284D
+  title: Gift of Time  Distance Advantages for SWAT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/7/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia

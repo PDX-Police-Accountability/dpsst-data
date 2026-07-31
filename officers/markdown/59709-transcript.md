@@ -41,6 +41,9 @@
 | 7/21/2026 | BNP2872D | The Art  Science of Leadership | Passed | 0.0 | 3.00 |
 | 7/21/2026 | BNP4343D | Active Threat / Use of Force | Passed | 0.0 | 3.00 |
 | 7/7/2026 | BNP2935D | UAS Scene Mapping and Tactical Remote Deployment | Passed | 0.0 | 7.50 |
+| 6/30/2026 | BNP2130D | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |
+| 6/30/2026 | BNP2894D | OSHA Wildfire Training | Passed | 0.0 | 0.50 |
+| 6/30/2026 | BNP3655D | OSHA Wildfire Training | Passed | 0.0 | 0.50 |
 | 6/23/2026 | BNP0787C | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 6/17/2026 | BNP0891C | Karly's Law | Passed | 0.0 | 1.00 |
 | 6/17/2026 | BNP1219C | Search and Seizure | Passed | 0.0 | 1.50 |
@@ -53,6 +56,7 @@
 | 5/7/2026 | BNP1567C | E-Motorcycles | Passed | 0.0 | 1.00 |
 | 4/16/2026 | BNP2098C | UAS Monthly- Indoor/Outdoor/Operation Roles | Passed | 0.0 | 8.00 |
 | 4/13/2026 | BNP3702C | Internal Affairs Process Overview | Passed | 0.0 | 1.25 |
+| 3/19/2026 | BNP0733D | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 3/17/2026 | BNP3238C | FTO Leadership Training | Passed | 0.0 | 2.00 |
 | 3/17/2026 | BNP2735C | Case Law Update | Passed | 0.0 | 1.00 |
 | 3/17/2026 | BNP3024C | UAS/Counter UAS- Indoor/Outdoor Searches | Passed | 0.0 | 4.50 |
