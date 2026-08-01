@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '12.00'
+- date: 7/2/2026
+  course: REG0822D
+  title: Radar/Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/17/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)

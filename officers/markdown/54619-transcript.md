@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
 | 6/23/2026 | HBP4411D | Case Law Update | Passed | 0.0 | 2.00 |
 | 3/11/2026 | HBP0215C | ODT - Working from Cleared Areas, Foot Chases | Passed | 0.0 | 1.00 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |

@@ -69,6 +69,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/22/2026
+  course: HBP4412D
+  title: In-Service 2026-3, Active Shooter
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/15/2026
+  course: HBP1549D
+  title: In-Service 2026-3, Active Shooter
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/8/2026
+  course: HBP2056D
+  title: In-Service 2026-3, Active Shooter
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/1/2026
+  course: HBP2589D
+  title: In-service 2026-3, Active Shooter
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/24/2026
   course: HBP0461D
   title: PA 2026-3, Reaction Drills, Tac De-escltn, Srch/Sz

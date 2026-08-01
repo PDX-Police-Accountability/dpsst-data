@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2026
+  course: WBP2573D
+  title: Glock Armoerers Course (AC) Gen 5 Plus
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/16/2026
   course: WBP3791C
   title: OSP Forensic Lab Evidence Training

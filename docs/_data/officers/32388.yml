@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2026
+  course: GSP0568D
+  title: Shots Fired Training Projectile Launcher
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/11/2026
   course: GSP0474D
   title: Ballistic Shield Training

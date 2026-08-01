@@ -46,6 +46,7 @@
 | 2/24/2026 | PSU4321C | HSI Adult First Aid CPR AED All ages | Passed | 0.0 | 4.00 |
 | 1/21/2026 | PSU0238C | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 1/13/2026 | REG2144C | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
+| 1/10/2026 | PSU2020D | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2025 | PSU1822C | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |

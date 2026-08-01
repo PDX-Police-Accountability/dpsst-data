@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2026 | REG0822D | Radar/Lidar Agency Practical | Instructed | 0.0 | 16.00 |
+| 5/21/2026 | REG0822D | Radar/Lidar Agency Practical | Instructed | 0.0 | 16.00 |
 | 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |
 | 2/17/2026 | GSP0794C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |

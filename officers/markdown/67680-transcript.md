@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Parker, Tiffany R. |
+| name | Parker, Tiffany |
 | dpsst_identifier | 67680 |
 | agency | Portland Police Bureau |
 | employment_status | Active |

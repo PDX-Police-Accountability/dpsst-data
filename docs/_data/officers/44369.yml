@@ -142,6 +142,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/27/2026
+  course: STS1434D
+  title: RAID Team / K-9  Building Searches
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/29/2026
   course: STP1738C
   title: RAID Team High Risk Traffic Stops/Caravan Training

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2026 | WBP2573D | Glock Armoerers Course (AC) Gen 5 Plus | Passed | 0.0 | 8.00 |
 | 5/19/2026 | WBP0117C | Tactical K9 with Breaching | Instructed | 0.0 | 3.00 |
 | 5/12/2026 | WBP0622C | Tactical K9 with Breaching | Instructed | 0.0 | 3.00 |
 | 4/21/2026 | WBP3455C | Conflict Simulation Training | Passed | 0.0 | 3.00 |

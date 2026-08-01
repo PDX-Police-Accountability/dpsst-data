@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2026 | BVP0340D | IST Taser10 Certification 062626 | Instructed | 0.0 | 4.50 |
 | 5/6/2026 | BVP2031C | May 2026 Pistol Range IST 050626AM | Passed | 0.0 | 3.00 |
 | 4/16/2026 | BVP4383C | Homicide Investigations  Crime Scene Training | Passed | 0.0 | 24.00 |
 | 4/9/2026 | BVP4346C | April 2026 Control Tactics IST 040926 PM | Instructed | 0.0 | 3.00 |

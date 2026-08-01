@@ -178,6 +178,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '20.00'
+- date: 3/6/2026
+  course: PDP1203D
+  title: Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '17.50'
 - date: 3/4/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

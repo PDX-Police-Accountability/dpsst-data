@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2026 | OCP3024D | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 7/19/2026 | OCP3152D | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 7/8/2026 | OCP4377D | Suicide Response and Prevention | Passed | 0.0 | 0.25 |
 | 6/24/2026 | OCP0159C | OCPD Field Training Officer Meeting | Passed | 0.0 | 1.50 |

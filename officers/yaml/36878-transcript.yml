@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2026
+  course: BVP0340D
+  title: IST Taser10 Certification 062626
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
 - date: 5/6/2026
   course: BVP2031C
   title: May 2026 Pistol Range IST 050626AM

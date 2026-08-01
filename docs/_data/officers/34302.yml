@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/29/2026
+  course: REG0822D
+  title: Radar/Lidar Agency Practical
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/21/2026
+  course: REG0822D
+  title: Radar/Lidar Agency Practical
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/3/2026
   course: OSH3543C
   title: 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2)

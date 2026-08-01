@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2026
+  course: BVP0706D
+  title: IST Taser10 Certification 062926
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/26/2026
   course: SAG3141D
   title: 16th Annual Domestic Violence Academy

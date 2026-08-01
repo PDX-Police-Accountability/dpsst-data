@@ -231,6 +231,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/31/2025
+  course: PDP0429D
+  title: N0310 Type 3 Incident Management Facilitator
+  status: Passed
+  score: '0.0'
+  hours: '35.00'
 - date: 10/22/2025
   course: PDP2812B
   title: 2025-1 Supervisors In-Service (CIT/MH)

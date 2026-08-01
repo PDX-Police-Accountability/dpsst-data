@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2026 | GSP0568D | Shots Fired Training Projectile Launcher | Passed | 0.0 | 0.25 |
 | 6/11/2026 | GSP0474D | Ballistic Shield Training | Passed | 0.0 | 10.00 |
 | 6/10/2026 | GSP0414D | Ballistic Shield Training | Passed | 0.0 | 10.00 |
 | 5/15/2026 | GSP1957D | SWAT Sniper Range | Instructed | 0.0 | 10.00 |

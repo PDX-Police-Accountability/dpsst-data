@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2026 | OCP3024D | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 7/23/2026 | OCP3024D | Firearms/Use of Force | Instructed | 0.0 | 20.00 |
 | 7/8/2026 | OCP4377D | Suicide Response and Prevention | Passed | 0.0 | 0.25 |
 | 7/1/2026 | OCP1423D | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |

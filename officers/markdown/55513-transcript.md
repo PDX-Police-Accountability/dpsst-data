@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2026 | BVP2487D | IST Taser10 Certification 062326 | Passed | 0.0 | 9.00 |
 | 6/17/2026 | HBS1221C | TNT Night Vision Operator Course | Passed | 0.0 | 16.00 |
 | 6/10/2026 | HBS1312C | TNT Training with Fire Contingencies | Passed | 0.0 | 9.00 |
 | 6/6/2026 | BVP0875C | Unconscious Bias | Passed | 0.0 | 0.50 |

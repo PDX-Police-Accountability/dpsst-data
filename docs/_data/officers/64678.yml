@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/14/2026
+  course: PDP1155D
+  title: Search and Seizure Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/17/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
