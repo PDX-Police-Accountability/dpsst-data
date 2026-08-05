@@ -54,10 +54,10 @@
 | 6/23/2026 | PDP3646D | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
 | 6/22/2026 | PDP3770C | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 6/22/2026 | PDP3745C | ICS 200 Basic Incident Command Syst for Init Resp | Passed | 0.0 | 4.00 |
+| 6/19/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 6/17/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 5/27/2026 | REG1453C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/7/2026 | REG4150C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
-| 3/2/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 2/26/2026 | PDP0720C | New Hire Firearms | Passed | 0.0 | 24.00 |
 | 2/24/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 2/18/2026 | PDP0648C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |

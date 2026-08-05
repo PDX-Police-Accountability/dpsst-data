@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/19/2026
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 6/7/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation
@@ -130,12 +136,6 @@ training_records:
   course: REG4150C
   title: INTOX 8000 (Hours included in Basic)
   status: Passed
-  score: '0.0'
-  hours: '0.00'
-- date: 3/2/2026
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 2/26/2026

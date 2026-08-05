@@ -66,9 +66,9 @@
 | 6/22/2026 | PDP4612D | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 6/22/2026 | PDP2181D | 2026-2 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 6/22/2026 | PDP3899D | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 6/19/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/27/2026 | REG1453C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/7/2026 | REG4150C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
-| 3/2/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 2/26/2026 | PDP0720C | New Hire Firearms | Passed | 0.0 | 24.00 |
 | 2/24/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 2/18/2026 | PDP0648C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
