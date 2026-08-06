@@ -1233,6 +1233,11 @@ attribute_records:
   effective_date: 5/15/2016
   expiration_date: ''
 education_records:
+- date: 7/26/2026
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '130.0'
 - date: 9/7/2014
   degree: Associate Arts
   school: Portland Community College

@@ -35,6 +35,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 7/26/2026 | Bachelor Science | All Other Education Institutes | Criminal Justice | 130.0 |
 | 9/7/2014 | Associate Arts | Portland Community College |  | 113.0 |
 ## Training
 | date | course | title | status | score | hours |
