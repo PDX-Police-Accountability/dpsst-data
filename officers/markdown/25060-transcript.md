@@ -42,6 +42,8 @@
 | 6/23/2026 | WBP2573D | Glock Armoerers Course (AC) Gen 5 Plus | Passed | 0.0 | 8.00 |
 | 6/16/2026 | WBP3791C | OSP Forensic Lab Evidence Training | Passed | 0.0 | 2.25 |
 | 6/3/2026 | WBP1154C | City of Woodburn Emergency Operations Plan Review | Passed | 0.0 | 0.50 |
+| 5/27/2026 | WBP2183D | Handgun  Rifle Training and Qualifications | Instructed | 0.0 | 7.00 |
+| 5/27/2026 | WBP3994D | Handgun  Rifle Training and Qualifications | Instructed | 0.0 | 7.00 |
 | 4/21/2026 | WBP3455C | Conflict Simulation Training | Passed | 0.0 | 3.00 |
 | 3/31/2026 | WBP0172C | 2026 Q1 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 3/24/2026 | WBP2430C | Spring Range: Drills and Distance Training | Passed | 0.0 | 3.00 |

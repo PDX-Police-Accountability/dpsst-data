@@ -40,10 +40,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
+| 7/22/2026 | HBP2255D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
 | 7/15/2026 | HBP1549D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
+| 7/15/2026 | HBP3957D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
 | 7/8/2026 | HBP2056D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
+| 7/8/2026 | HBP0702D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
 | 7/1/2026 | HBP2589D | In-service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
+| 7/1/2026 | HBP4045D | In-service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
 | 6/24/2026 | HBP0461D | PA 2026-3, Reaction Drills, Tac De-escltn, Srch/Sz | Instructed | 0.0 | 9.50 |
+| 6/24/2026 | HBP2269D | In-Service 2026-3, Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |
 | 6/22/2026 | HBP3908D | PA 2026-3, TASER Certification | Instructed | 0.0 | 4.00 |
 | 5/27/2026 | HBP2782C | PA 2026-02 Reaction Drills, Tac De-escltn, Srch/Sz | Instructed | 0.0 | 9.50 |
 | 5/27/2026 | HBP0454C | PA 2026-02, Ext Range Impact Munitions, Shield | Instructed | 0.0 | 2.00 |

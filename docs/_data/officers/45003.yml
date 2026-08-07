@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/28/2026
+  course: REG0736D
+  title: DPSST 2026 Cyber Summit
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/27/2026
   course: HBP4419D
   title: Supervisor Complaint Trng - Internal  External

@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/29/2026 | PDP2339D | K9 Unit Training | Passed | 0.0 | 4.50 |
 | 6/24/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/24/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/18/2026 | PDP0168D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |

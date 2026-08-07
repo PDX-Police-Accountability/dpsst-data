@@ -30,6 +30,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/8/2026
+  course: HBP4289D
+  title: In-Service 2026-3,Tactical Emrgncy Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/8/2026
+  course: HBP0702D
+  title: In-Service 2026-3, Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/25/2026
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

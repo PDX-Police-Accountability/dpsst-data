@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/8/2026 | HBP2056D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
+| 7/8/2026 | HBP4289D | In-Service 2026-3,Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |
+| 7/8/2026 | HBP0702D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
 | 6/25/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 6/22/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/22/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

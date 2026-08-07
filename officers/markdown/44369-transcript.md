@@ -47,6 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/22/2026 | STP0031D | RAID Team- Team Movements/Vehicle Extractions | Passed | 0.0 | 4.00 |
+| 7/8/2026 | BVP3280D | PIT EVOC IST 070826AM | Passed | 0.0 | 3.00 |
 | 7/1/2026 | STP0098D | 9 Career Saving Lessons for Cops | Passed | 0.0 | 1.00 |
 | 7/1/2026 | STP2341D | 9 Career Saving Lessons for Cops | Passed | 0.0 | 1.00 |
 | 6/5/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |

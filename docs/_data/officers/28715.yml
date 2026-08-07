@@ -75,8 +75,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 7/22/2026
+  course: HBP2255D
+  title: In-Service 2026-3, Active Shooter
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/15/2026
   course: HBP1549D
+  title: In-Service 2026-3, Active Shooter
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/15/2026
+  course: HBP3957D
   title: In-Service 2026-3, Active Shooter
   status: Instructed
   score: '0.0'
@@ -87,8 +99,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 7/8/2026
+  course: HBP0702D
+  title: In-Service 2026-3, Active Shooter
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/1/2026
   course: HBP2589D
+  title: In-service 2026-3, Active Shooter
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/1/2026
+  course: HBP4045D
   title: In-service 2026-3, Active Shooter
   status: Instructed
   score: '0.0'
@@ -99,6 +123,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.50'
+- date: 6/24/2026
+  course: HBP2269D
+  title: In-Service 2026-3, Tactical Emrgncy Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/22/2026
   course: HBP3908D
   title: PA 2026-3, TASER Certification

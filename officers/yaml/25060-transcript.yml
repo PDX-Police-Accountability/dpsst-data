@@ -94,6 +94,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/27/2026
+  course: WBP2183D
+  title: Handgun  Rifle Training and Qualifications
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/27/2026
+  course: WBP3994D
+  title: Handgun  Rifle Training and Qualifications
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/21/2026
   course: WBP3455C
   title: Conflict Simulation Training

@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/31/2026 | OCS0139D | 2026 3rd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
+| 7/29/2026 | OCS1503D | Draw Speed/Marksmanship, Movement | Passed | 0.0 | 1.00 |
 | 4/30/2026 | OCS2198C | 2026 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/17/2026 | OCS0103C | April DTs | Passed | 0.0 | 1.00 |

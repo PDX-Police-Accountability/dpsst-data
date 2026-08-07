@@ -88,6 +88,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/28/2026
+  course: REG0736D
+  title: DPSST 2026 Cyber Summit
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/29/2026
   course: LOP1530D
   title: sUAS Part 91 Operations

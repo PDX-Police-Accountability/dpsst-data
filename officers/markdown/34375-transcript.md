@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2026 | STS4101D | LEDS Inquiry Only-- Recertification | Passed | 0.0 | 1.00 |
 | 5/20/2026 | OSA3015C | J.D. Edwards Practical Wellness for LE | Passed | 0.0 | 3.50 |
 | 5/19/2026 | OCS4010C | Enforcement Command Council | Passed | 0.0 | 6.00 |
 | 4/23/2026 | STS3316C | Glock Patrol Pistol Training | Passed | 0.0 | 1.00 |

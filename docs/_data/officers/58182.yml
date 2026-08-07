@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/29/2026
+  course: PDP2339D
+  title: K9 Unit Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
 - date: 7/1/2026
   course: PDP3451D
   title: 2026 K-9 (K9) Weekly Training

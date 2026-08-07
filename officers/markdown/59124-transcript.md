@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2026 | BVP0548D | PIT EVOC IST 072426AM | Passed | 0.0 | 3.00 |
+| 7/24/2026 | BVP0753D | PIT EVOC IST 072426PM | Passed | 0.0 | 3.00 |
 | 6/29/2026 | BVP0706D | IST Taser10 Certification 062926 | Passed | 0.0 | 9.00 |
 | 6/26/2026 | SAG3141D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 4.00 |
 | 6/25/2026 | SAG1009D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |

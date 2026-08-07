@@ -36,6 +36,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 7/29/2026
+  course: PDP2980D
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/27/2026
+  course: PDP1852D
+  title: FTEP Intro to Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/21/2026
   course: PDP0665D
   title: FTEP Policy and Procedures

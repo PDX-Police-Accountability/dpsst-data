@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/22/2026
+  course: HBP2255D
+  title: In-Service 2026-3, Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/22/2026
+  course: HBP3022D
+  title: In-Service 2026-3, Tactical Emrgncy Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/23/2026
   course: HBP4411D
   title: Case Law Update

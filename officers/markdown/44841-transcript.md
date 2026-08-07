@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2026 | REG0736D | DPSST 2026 Cyber Summit | Passed | 0.0 | 8.00 |
 | 5/31/2026 | LOP0908C | IPICD Abnormal Breathing | Passed | 0.0 | 1.00 |
 | 4/29/2026 | OCA2047C | MCT - Investigative Strategies / Insanity Defense | Passed | 0.0 | 1.25 |
 | 3/1/2026 | LOP1902C | Overview of Mental Health Statutes and Resources | Passed | 0.0 | 1.00 |

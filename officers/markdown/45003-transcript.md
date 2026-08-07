@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2026 | REG0736D | DPSST 2026 Cyber Summit | Passed | 0.0 | 8.00 |
 | 4/27/2026 | HBP4419D | Supervisor Complaint Trng - Internal  External | Passed | 0.0 | 4.00 |
 | 3/6/2026 | HBP3735C | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 2/25/2026 | HBP0383C | K9 Arrest and Control | Passed | 0.0 | 4.50 |

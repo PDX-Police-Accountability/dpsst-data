@@ -98,6 +98,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2026
+  course: OCS0139D
+  title: 2026 3rd Qtr Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2026
+  course: OCS0139D
+  title: 2026 3rd Qtr Patrol Shotgun
+  status: Instructed
+  score: '0.0'
+  hours: '12.00'
+- date: 7/29/2026
+  course: OCS1503D
+  title: Draw Speed/Marksmanship, Movement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/29/2026
+  course: OCS1503D
+  title: Draw Speed/Marksmanship, Movement
+  status: Instructed
+  score: '0.0'
+  hours: '47.00'
+- date: 6/30/2026
+  course: OCS2360D
+  title: June 2026 Patrol Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
+- date: 6/30/2026
+  course: OCS2360D
+  title: June 2026 Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/29/2026
   course: OCS1839D
   title: Marksmanship/Holster Speed/ Target ID

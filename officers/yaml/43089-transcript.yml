@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2028
+  course: LGS3083D
+  title: Adult CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/11/2026
   course: REG3366C
   title: Handgun IDC
@@ -3377,6 +3383,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/31/2028
+  expiration_date: 7/31/2028
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2026

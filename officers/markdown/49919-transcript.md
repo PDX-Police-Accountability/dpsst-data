@@ -42,6 +42,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
+| 7/22/2026 | HBP2255D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
+| 7/22/2026 | HBP3022D | In-Service 2026-3, Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |
 | 4/15/2026 | HBP3568C | In-Service 2026-2, Range | Passed | 0.0 | 4.00 |
 | 3/6/2026 | HBP3735C | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 2/4/2026 | HBP3163C | K9 Arrest and Control | Passed | 0.0 | 4.50 |

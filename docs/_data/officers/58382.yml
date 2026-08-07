@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/29/2026
+  course: OCS1503D
+  title: Draw Speed/Marksmanship, Movement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2026
+  course: OCS2360D
+  title: June 2026 Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/16/2026
   course: OCS2622C
   title: 'LE Ethics: 2025 Make-Up Hours'

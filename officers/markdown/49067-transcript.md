@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/29/2026 | OCS1503D | Draw Speed/Marksmanship, Movement | Passed | 0.0 | 1.00 |
 | 5/18/2026 | OCS1158C | Community Peer CIT and Referral | Passed | 0.0 | 1.50 |
 | 4/30/2026 | OCS2198C | 2026 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |

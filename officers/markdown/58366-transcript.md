@@ -41,9 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/30/2026 | OSH1698D | Difficult Conversation: Not Meeting Expectations | Passed | 0.0 | 0.50 |
 | 7/21/2026 | OSH2246D | Court Decisions About Officer Decision-Making | Passed | 0.0 | 1.00 |
 | 7/9/2026 | OSH3801D | Unleashing Self-Aware Leadership | Passed | 0.0 | 1.00 |
 | 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 6/29/2026 | OSH2725D | OSP Defensive Tactics - 2nd Trimester TASER Course | Passed | 0.0 | 5.00 |
 | 6/17/2026 | OSH3916D | Central Region Leadership Summit | Passed | 0.0 | 4.00 |
 | 6/8/2026 | OSH3288C | 2nd Tri Firearms | Passed | 0.0 | 4.00 |
 | 5/19/2026 | OSH3633C | Manager Comp. Trng. - Records Management | Passed | 0.0 | 1.00 |

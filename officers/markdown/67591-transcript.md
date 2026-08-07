@@ -28,4 +28,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/3/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 7/29/2026 | PDP2980D | LEDS Certification | Passed | 0.0 | 3.00 |
+| 7/27/2026 | PDP1852D | FTEP Intro to Police Vehicle Operations | Passed | 0.0 | 1.00 |
 | 7/21/2026 | PDP0665D | FTEP Policy and Procedures | Passed | 0.0 | 5.00 |

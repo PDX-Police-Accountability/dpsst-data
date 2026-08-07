@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/8/2026 | BVP4488D | PIT EVOC IST 070826PM | Passed | 0.0 | 3.00 |
 | 6/23/2026 | BVP2487D | IST Taser10 Certification 062326 | Passed | 0.0 | 9.00 |
 | 5/15/2026 | BVP3278C | May 2026 Pistol Rifle Range IST 051526PM | Passed | 0.0 | 3.00 |
 | 4/22/2026 | BVP1656C | Oregon Assoc of Public Info Officers | Passed | 0.0 | 22.00 |

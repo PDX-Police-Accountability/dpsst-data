@@ -27,7 +27,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2028 |
 | Code of Ethics | Law Enforcement Signed | 6/17/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 2/17/2020 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 7/15/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

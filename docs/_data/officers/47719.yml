@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/8/2026
+  course: BVP4488D
+  title: PIT EVOC IST 070826PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/23/2026
   course: BVP2487D
   title: IST Taser10 Certification 062326

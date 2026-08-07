@@ -43,6 +43,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/31/2026 | OCS0139D | 2026 3rd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
+| 7/31/2026 | OCS0139D | 2026 3rd Qtr Patrol Shotgun | Instructed | 0.0 | 12.00 |
+| 7/29/2026 | OCS1503D | Draw Speed/Marksmanship, Movement | Passed | 0.0 | 1.00 |
+| 7/29/2026 | OCS1503D | Draw Speed/Marksmanship, Movement | Instructed | 0.0 | 47.00 |
+| 6/30/2026 | OCS2360D | June 2026 Patrol Rifle | Instructed | 0.0 | 25.00 |
+| 6/30/2026 | OCS2360D | June 2026 Patrol Rifle | Passed | 0.0 | 1.00 |
 | 6/29/2026 | OCS1839D | Marksmanship/Holster Speed/ Target ID | Instructed | 0.0 | 2.00 |
 | 6/11/2026 | OCS2878C | Marksmanship/Holster Speed | Instructed | 0.0 | 2.00 |
 | 6/9/2026 | OCS3511C | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
