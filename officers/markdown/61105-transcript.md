@@ -38,6 +38,7 @@
 | 7/7/2026 | NGP4429D | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/20/2026 | OCS2560C | Covert Surveillance | Passed | 0.0 | 24.00 |
 | 5/18/2026 | NGP4505C | Autism for Law Enforcement | Passed | 0.0 | 2.00 |
+| 4/7/2026 | NGP2083D | Shaping an Ethical Workplace Culture | Passed | 0.0 | 1.00 |
 | 3/26/2026 | NGP0797C | Pistol RDS | Passed | 0.0 | 8.00 |
 | 3/18/2026 | NGP1174C | Oregon Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 2/17/2026 | SAP1219C | Radar/Lidar Instructor Training | Passed | 0.0 | 9.00 |

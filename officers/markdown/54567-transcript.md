@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/15/2026 | 4/15/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2026 | MLP3784D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 4/1/2026 | MLP4349C | Why Emergency Preparedness Matters | Passed | 0.0 | 0.50 |
 | 3/31/2026 | OSH3924C | Human Trafficking Chatter Training | Passed | 0.0 | 4.00 |
 | 3/31/2026 | MLP4035C | Overview of Oregon Ethics Law | Passed | 0.0 | 0.50 |

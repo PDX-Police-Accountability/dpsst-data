@@ -60,7 +60,7 @@
 | 5/13/2026 | OAC2101C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 2.50 |
 | 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
 | 5/12/2026 | RRP1631C | OACP Annual Conference Board Meeting | Passed | 0.0 | 3.50 |
-| 5/12/2026 | OAC3682C | "Four Paws to a Complete Wellness Program" | Passed | 0.0 | 0.50 |
+| 5/12/2026 | OAC3682C | Four Paws to a Complete Wellness Program | Passed | 0.0 | 0.50 |
 | 5/12/2026 | OAC2485C | Leading with Peer Support and CISM | Passed | 0.0 | 1.00 |
 | 4/22/2026 | SVP0243C | Firearms Inservice Training | Passed | 0.0 | 4.00 |
 | 4/8/2026 | SVP2916C | LEFTA  Fleet 3 Intro | Passed | 0.0 | 4.00 |

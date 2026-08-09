@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/12/2026 | REG3748D | SFST Instructor Development Course | Instructed | 0.0 | 8.00 |
 | 5/22/2026 | OSH2003C | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 5/16/2026 | OSH4310D | Drug Certification Training | Instructed | 0.0 | 40.00 |
 | 5/13/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 5/1/2026 | OSH4576C | Drug Evaluation  Classification School | Instructed | 0.0 | 16.00 |
 | 4/22/2026 | OSH0496C | Drug Evaluation  Classification Pre-School | Instructed | 0.0 | 16.00 |

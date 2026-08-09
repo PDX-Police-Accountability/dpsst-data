@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2026 | BNP4133D | Open Range / Firearms Exertion Course | Passed | 0.0 | 1.00 |
 | 7/24/2026 | BNP4343D | Active Threat / Use of Force | Passed | 0.0 | 3.00 |
 | 7/24/2026 | BNP2872D | The Art  Science of Leadership | Passed | 0.0 | 3.00 |
 | 6/30/2026 | BNP2130D | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |

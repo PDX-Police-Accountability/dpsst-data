@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/22/2026
+  course: MLP3784D
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/1/2026
   course: MLP4349C
   title: Why Emergency Preparedness Matters
@@ -1219,6 +1225,10 @@ attribute_records:
   value: CPR
   effective_date: 4/22/2026
   expiration_date: 4/22/2028
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/22/2026
+  expiration_date: 4/15/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026
