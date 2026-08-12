@@ -1616,6 +1616,9 @@
 | Parker, Tiffany | 67680 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67680-transcript.md) - [yaml](../yaml/67680-transcript.yml) |
 | Brake, Jillian K. | 67681 | Portland Police Bureau | Active | Police Officer | Hired | 2026-07-16 | [md](../markdown/67681-transcript.md) - [yaml](../yaml/67681-transcript.yml) |
 | McShane, Joseph P. | 67694 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67694-transcript.md) - [yaml](../yaml/67694-transcript.yml) |
+| Elstad, Aaron E. | 67701 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67701-transcript.md) - [yaml](../yaml/67701-transcript.yml) |
+| Conners, Arina P. | 67702 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67702-transcript.md) - [yaml](../yaml/67702-transcript.yml) |
+| Newby, Caeden S. | 67709 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67709-transcript.md) - [yaml](../yaml/67709-transcript.yml) |
 | Maldonado Dones, Yamil J. | 67726 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67726-transcript.md) - [yaml](../yaml/67726-transcript.yml) |
 | Jensen, Benjamin N. | 67727 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67727-transcript.md) - [yaml](../yaml/67727-transcript.yml) |
 | Munn, Levi C. | 67735 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67735-transcript.md) - [yaml](../yaml/67735-transcript.yml) |
