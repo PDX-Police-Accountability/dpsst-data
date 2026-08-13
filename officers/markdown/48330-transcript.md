@@ -38,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | GSP4239D | UAS Monthly Training | Passed | 0.0 | 10.00 |
+| 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
 | 3/17/2026 | GSP2713C | UAS Monthly Training | Passed | 0.0 | 10.00 |
 | 3/12/2026 | GSP3149C | Effective Report Writing | Passed | 0.0 | 1.50 |
 | 2/16/2026 | GSP3538C | UAS Monthly Training | Passed | 0.0 | 10.00 |

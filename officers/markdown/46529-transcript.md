@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
+| 6/19/2026 | GSP3746D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
 | 6/10/2026 | GSP3979D | Post Academy Firearms Training | Passed | 0.0 | 30.00 |
 | 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Passed | 0.0 | 9.00 |
 | 3/12/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

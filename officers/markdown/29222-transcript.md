@@ -40,6 +40,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2026 | GSP2406D | Karly's Law Training | Passed | 0.0 | 0.50 |
+| 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
+| 5/29/2026 | GSP4439D | Instructor Training - Rifle  Handgun | Passed | 0.0 | 20.00 |
+| 5/11/2026 | GSP3788D | 2026 Deflection Center Updates | Passed | 0.0 | 0.25 |
+| 5/11/2026 | GSP3763D | HB 1516 and HB 4138 Training | Passed | 0.0 | 0.25 |
 | 4/22/2026 | GSP2251C | Inv of Android Devices  the Google Ecosystem | Passed | 0.0 | 6.00 |
 | 4/21/2026 | GSP4209C | Beyond Google-Online Resources in Investigations | Passed | 0.0 | 16.00 |
 | 4/15/2026 | GSP3646C | Overcoming AI  Deepfake Defense in ICAC Cases | Passed | 0.0 | 1.00 |

@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 5/28/2026
+  course: WGP0040D
+  title: Peak performance Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/24/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

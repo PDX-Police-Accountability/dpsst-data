@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/28/2026
+  course: GSP2406D
+  title: Karly's Law Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/24/2026
+  course: GSP1611D
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 4/14/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

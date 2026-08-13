@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/7/2026 | 8/7/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/24/2024 | 10/24/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
@@ -39,8 +40,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2026 | GSP4304D | Adult and Child CPR First Aid | Passed | 0.0 | 4.00 |
+| 7/20/2026 | GSP0602D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
+| 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
 | 5/29/2026 | REG0822D | Radar/Lidar Agency Practical | Instructed | 0.0 | 16.00 |
 | 5/21/2026 | REG0822D | Radar/Lidar Agency Practical | Instructed | 0.0 | 16.00 |
+| 5/11/2026 | GSP3788D | 2026 Deflection Center Updates | Passed | 0.0 | 0.25 |
+| 5/11/2026 | GSP3763D | HB 1516 and HB 4138 Training | Passed | 0.0 | 0.25 |
 | 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |
 | 2/17/2026 | GSP0794C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |

@@ -47,6 +47,7 @@
 | 5/16/2026 | OSH4310D | Drug Certification Training | Instructed | 0.0 | 40.00 |
 | 5/13/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 5/1/2026 | OSH4576C | Drug Evaluation  Classification School | Instructed | 0.0 | 16.00 |
+| 4/28/2026 | REG2769D | SFST Instructor Hours | Instructed | 0.0 | 8.00 |
 | 4/22/2026 | OSH0496C | Drug Evaluation  Classification Pre-School | Instructed | 0.0 | 16.00 |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
 | 4/10/2026 | PDP2634C | 2026 Dialogue Liaison Officer (DLO) Training | Passed | 0.0 | 9.00 |

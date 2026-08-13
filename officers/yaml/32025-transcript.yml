@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/27/2026
+  course: REG2769D
+  title: SFST Instructor Hours
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/25/2021
   course: PDP22491
   title: 2021-8 Tips  Tech Ballot Measure 110 - Update

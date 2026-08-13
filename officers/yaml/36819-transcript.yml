@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2026
+  course: LOP2875D
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/31/2026
   course: LOP0908C
   title: IPICD Abnormal Breathing

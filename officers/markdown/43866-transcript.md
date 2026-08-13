@@ -56,6 +56,7 @@
 | 4/8/2026 | PDP3821C | 2026-1 IS Firearms Range | Passed | 0.0 | 2.25 |
 | 4/8/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.25 |
 | 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 8.00 |
+| 4/1/2026 | PDP1252D | OTOA 2026 Tactical Conference | Passed | 0.0 | 8.00 |
 | 3/24/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/24/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/20/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -96,6 +96,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/3/2026
+  course: SVP0528D
+  title: Inquiry Level LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/3/2026
+  course: SVP2510D
+  title: CJIS Security Test
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/14/2026
   course: SVP2956D
   title: Incident Command Table Top Exercise

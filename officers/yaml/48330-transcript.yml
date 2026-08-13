@@ -63,6 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/21/2026
+  course: GSP4239D
+  title: UAS Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/13/2026
+  course: GSP3295D
+  title: Deflection Update 2026
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/13/2026
+  course: GSP1932D
+  title: PowerAction Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/13/2026
+  course: GSP3354D
+  title: New Oregon Laws
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/17/2026
   course: GSP2713C
   title: UAS Monthly Training

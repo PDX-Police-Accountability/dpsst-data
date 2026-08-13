@@ -42,6 +42,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
+| 5/29/2026 | GSP2752D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
+| 5/11/2026 | GSP3788D | 2026 Deflection Center Updates | Passed | 0.0 | 0.25 |
+| 5/11/2026 | GSP3763D | HB 1516 and HB 4138 Training | Passed | 0.0 | 0.25 |
 | 2/18/2026 | GSP3886C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |
 | 1/31/2026 | GSP1974C | IBIS Fingerprint Scanner | Passed | 0.0 | 0.50 |

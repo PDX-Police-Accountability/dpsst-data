@@ -101,6 +101,7 @@
 | 11/12/2025 | PDP0072C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 11/12/2025 | PDP1491C | 2025-10, Legal Updates: Miranda  Right | Passed | 0.0 | 0.25 |
 | 11/12/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 11/7/2025 | PDP1976D | Breaching Circle | Passed | 0.0 | 45.00 |
 | 10/28/2025 | PDP4574C | 2025 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/28/2025 | PDP4574C | 2025 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 10/17/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |

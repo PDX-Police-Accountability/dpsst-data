@@ -75,6 +75,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 7/31/2026
+  course: EGP3228D
+  title: LEDS Recertification  CJIS Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/26/2026
   course: SAG3141D
   title: 16th Annual Domestic Violence Academy

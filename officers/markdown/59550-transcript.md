@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/6/2026 | BNP3122D | SWAT-Land Navigation and GPS applications | Passed | 0.0 | 5.00 |
+| 8/6/2026 | BNP4518D | SWAT-Equipment overview / review | Passed | 0.0 | 1.00 |
 | 7/14/2026 | BNP4592D | SWAT-Weapon Proficiency | Passed | 0.0 | 8.00 |
 | 7/14/2026 | BNP0975D | SWAT-Active Threat / Rescue Task Force | Passed | 0.0 | 8.00 |
 | 7/14/2026 | BNP4381D | SWAT-Building Clearing and Scenerios | Passed | 0.0 | 8.00 |

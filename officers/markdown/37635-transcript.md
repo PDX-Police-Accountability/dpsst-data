@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/3/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 7/31/2026 | EGP3228D | LEDS Recertification  CJIS Training | Passed | 0.0 | 1.00 |
 | 6/26/2026 | SAG3141D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 4.00 |
 | 6/25/2026 | SAG1009D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
 | 6/24/2026 | SAG1732D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |

@@ -42,6 +42,7 @@
 | 5/17/2026 | PDP1095C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 27.00 |
 | 5/17/2026 | PDP3444C | 2026 Gresham UAS Pilot Training Course | Passed | 0.0 | 27.00 |
 | 5/8/2026 | HBP2232C | Understanding and Improving DV Investigations | Passed | 0.0 | 6.00 |
+| 5/8/2026 | PDP4114D | Understanding  Improving Domestic Violence Inv | Passed | 0.0 | 6.00 |
 | 5/3/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/14/2026 | HBP1561C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |
 | 4/14/2026 | PDP1155D | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |

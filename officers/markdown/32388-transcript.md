@@ -35,11 +35,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/2/2026 | GSP3072D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
+| 7/28/2026 | GSP2406D | Karly's Law Training | Passed | 0.0 | 0.50 |
+| 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
 | 6/26/2026 | GSP0568D | Shots Fired Training Projectile Launcher | Passed | 0.0 | 0.25 |
 | 6/11/2026 | GSP0474D | Ballistic Shield Training | Passed | 0.0 | 10.00 |
 | 6/10/2026 | GSP0414D | Ballistic Shield Training | Passed | 0.0 | 10.00 |
+| 5/29/2026 | GSP4439D | Instructor Training - Rifle  Handgun | Passed | 0.0 | 20.00 |
+| 5/22/2026 | GSP1838D | Handgun Training | Instructed | 0.0 | 10.00 |
 | 5/15/2026 | GSP1957D | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 5/13/2026 | GSP0614C | SWAT Firearms | Passed | 0.0 | 10.00 |
+| 5/11/2026 | GSP3788D | 2026 Deflection Center Updates | Passed | 0.0 | 0.25 |
+| 5/11/2026 | GSP3763D | HB 1516 and HB 4138 Training | Passed | 0.0 | 0.25 |
 | 4/10/2026 | GSP3480C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 4/9/2026 | GSP3411C | SWAT Training | Passed | 0.0 | 10.00 |
 | 4/8/2026 | GSP0446C | SWAT Training | Instructed | 0.0 | 10.00 |

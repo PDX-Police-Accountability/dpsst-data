@@ -91,6 +91,7 @@
 | 11/25/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/21/2025 | PDP1789C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/13/2025 | PDP2968C | 2025 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 11/7/2025 | PDP1976D | Breaching Circle | Passed | 0.0 | 45.00 |
 | 10/29/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/29/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/29/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

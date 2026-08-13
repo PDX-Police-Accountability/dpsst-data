@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/6/2026
+  course: PDP3376D
+  title: Scenarios and Tactics for the FTO
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

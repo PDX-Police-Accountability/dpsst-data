@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/7/2026 | 8/7/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 11/19/2024 | 11/19/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
@@ -36,6 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2026 | GSP4304D | Adult and Child CPR First Aid | Passed | 0.0 | 4.00 |
+| 7/28/2026 | GSP2406D | Karly's Law Training | Passed | 0.0 | 0.50 |
+| 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
+| 6/19/2026 | GSP3746D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
+| 5/11/2026 | GSP3788D | 2026 Deflection Center Updates | Passed | 0.0 | 0.25 |
+| 5/11/2026 | GSP3763D | HB 1516 and HB 4138 Training | Passed | 0.0 | 0.25 |
 | 3/12/2026 | GSP3149C | Effective Report Writing | Passed | 0.0 | 1.50 |
 | 2/18/2026 | GSP3886C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 2/10/2026 | GSP0138C | TruNarc Analyzer | Passed | 0.0 | 2.00 |

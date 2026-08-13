@@ -42,8 +42,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
+| 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
 | 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |
+| 5/29/2026 | GSP2752D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
 | 5/14/2026 | VND0707C | ICS 400 Advanced ICS for Complex Incidents | Passed | 0.0 | 15.00 |
+| 5/11/2026 | GSP3788D | 2026 Deflection Center Updates | Passed | 0.0 | 0.25 |
+| 5/11/2026 | GSP3763D | HB 1516 and HB 4138 Training | Passed | 0.0 | 0.25 |
 | 4/24/2026 | OCS0633C | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 2/19/2026 | GSP0537C | 2026 Defensive Tactics In-service | Passed | 0.0 | 4.00 |
 | 2/11/2026 | MNS0808C | Emotional Survival and Leadership Seminar | Passed | 0.0 | 4.00 |

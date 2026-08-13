@@ -50,6 +50,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2026
+  course: GSP4304D
+  title: Adult and Child CPR First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/28/2026
+  course: GSP2406D
+  title: Karly's Law Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/13/2026
+  course: GSP3295D
+  title: Deflection Update 2026
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/13/2026
+  course: GSP3354D
+  title: New Oregon Laws
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/13/2026
+  course: GSP1932D
+  title: PowerAction Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/19/2026
+  course: GSP3746D
+  title: PVO In-service 2026
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/11/2026
+  course: GSP3788D
+  title: 2026 Deflection Center Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2026
+  course: GSP3763D
+  title: HB 1516 and HB 4138 Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/12/2026
   course: GSP3149C
   title: Effective Report Writing
@@ -1701,6 +1749,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/7/2026
+  expiration_date: 8/7/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

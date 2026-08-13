@@ -101,12 +101,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/13/2026
+  course: GSP3295D
+  title: Deflection Update 2026
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/13/2026
+  course: GSP1932D
+  title: PowerAction Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/13/2026
+  course: GSP3354D
+  title: New Oregon Laws
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/12/2026
   course: OCS1222C
   title: FBI LEEDA Executive Leadership Institute
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 5/29/2026
+  course: GSP2752D
+  title: PVO In-service 2026
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/11/2026
+  course: GSP3788D
+  title: 2026 Deflection Center Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2026
+  course: GSP3763D
+  title: HB 1516 and HB 4138 Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/24/2026
   course: OCS0633C
   title: FBI LEEDA Command Leadership Institute

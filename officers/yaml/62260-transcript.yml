@@ -187,6 +187,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/6/2026
+  course: PDP3376D
+  title: Scenarios and Tactics for the FTO
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/25/2025
   course: PDP3067C
   title: 2025 Federal Interaction Reporting

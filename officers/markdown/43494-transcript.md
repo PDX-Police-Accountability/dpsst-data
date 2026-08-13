@@ -60,8 +60,10 @@
 | 4/29/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.25 |
 | 4/14/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 8.00 |
+| 4/1/2026 | PDP1252D | OTOA 2026 Tactical Conference | Passed | 0.0 | 8.00 |
 | 3/3/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/23/2026 | SVP0804C | 2 Hour Break - Hostage Case Debrief | Passed | 0.0 | 5.00 |
+| 2/23/2026 | PDP1598D | Two Hour Break Managing Time Risk Resolution | Passed | 0.0 | 4.00 |
 | 2/11/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/9/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

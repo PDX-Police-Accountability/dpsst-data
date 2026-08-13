@@ -74,6 +74,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/13/2026
+  course: GSP3295D
+  title: Deflection Update 2026
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/13/2026
+  course: GSP3354D
+  title: New Oregon Laws
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/13/2026
+  course: GSP1932D
+  title: PowerAction Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/19/2026
+  course: GSP3746D
+  title: PVO In-service 2026
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/10/2026
   course: GSP3979D
   title: Post Academy Firearms Training

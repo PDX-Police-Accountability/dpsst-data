@@ -172,6 +172,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/1/2026
+  course: PDP1252D
+  title: OTOA 2026 Tactical Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/24/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
