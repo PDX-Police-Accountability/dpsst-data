@@ -56,7 +56,7 @@
 | 5/18/2026 | PDP4576D | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP1527D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP0925D | 2025-07 CAO Legal Updates for 08-09/2024 | Passed | 0.0 | 0.50 |
-| 5/18/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 5/18/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP2381D | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP1532D | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP2769D | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
@@ -70,6 +70,7 @@
 | 5/18/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP0386D | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP2922D | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 5/18/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 5/14/2026 | PDP3367C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 5/14/2026 | PDP3953C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 5/12/2026 | PDP1450C | FTEP Orientation | Passed | 0.0 | 5.50 |

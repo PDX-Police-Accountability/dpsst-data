@@ -31,7 +31,8 @@
 | 6/10/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/8/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/8/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
-| 5/19/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 5/19/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 5/19/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 5/18/2026 | PDP4152D | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
 | 5/18/2026 | PDP0002D | 2025 IS - PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 5/18/2026 | PDP0508D | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |

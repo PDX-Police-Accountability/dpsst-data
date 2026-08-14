@@ -108,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/2/2026
+  course: SVP0153D
+  title: Temporary Warrant Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/14/2026
   course: SVP2956D
   title: Incident Command Table Top Exercise

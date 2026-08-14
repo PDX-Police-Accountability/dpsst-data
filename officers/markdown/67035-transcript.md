@@ -55,7 +55,7 @@
 | 6/4/2026 | PDP4576D | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP1527D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP0925D | 2025-07 CAO Legal Updates for 08-09/2024 | Passed | 0.0 | 0.50 |
-| 6/4/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 6/4/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP4216D | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP2381D | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP1532D | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
@@ -68,6 +68,7 @@
 | 6/4/2026 | PDP4379D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 6/4/2026 | PDP2677D | DIR 0640.37, Communication w Persons Who Have | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP0625D | Post Academy LMS Material | Passed | 0.0 | 0.75 |
+| 6/4/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 6/3/2026 | PDP3834C | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 6/3/2026 | PDP2127D | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 6/3/2026 | PDP1131D | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
@@ -121,4 +122,5 @@
 | 1/26/2026 | PDP1707C | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 1/22/2026 | PDP1642C | FTEP PVO-EVOC Orientation | Passed | 0.0 | 1.00 |
 | 1/20/2026 | PDP28751 | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
+| 1/13/2026 | BKS3061D | Use of Force/report writing | Passed | 0.0 | 2.00 |
 | 12/8/2025 | PDP1312C | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

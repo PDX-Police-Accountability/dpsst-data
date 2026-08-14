@@ -86,7 +86,7 @@
 | 5/26/2026 | PDP0386D | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 5/25/2026 | PDP0002D | 2025 IS - PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 5/25/2026 | PDP1527D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
-| 5/25/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 5/25/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/25/2026 | PDP4153D | 2025 PVO-101/Stop Stick Training | Passed | 0.0 | 1.25 |
 | 5/25/2026 | PDP1913D | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
 | 5/25/2026 | PDP3127D | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
@@ -95,6 +95,7 @@
 | 5/25/2026 | PDP3252D | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 5/25/2026 | PDP0724D | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
 | 5/25/2026 | PDP3646D | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
+| 5/25/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 4/29/2026 | REG1885C | SFST-DID (Hours inlcuded in Basic) | Passed | 0.0 | 0.00 |
 | 4/9/2026 | REG4463C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/2/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

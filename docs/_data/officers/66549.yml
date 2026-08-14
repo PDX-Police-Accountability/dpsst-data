@@ -144,8 +144,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 5/16/2026
-  course: PDP3958D
-  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -185,6 +185,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/16/2026
+  course: PDP4531D
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/14/2026
   course: PDP3367C
   title: 2026 FTEP Post DPSST Firearms

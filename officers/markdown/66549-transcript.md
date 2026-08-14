@@ -48,13 +48,14 @@
 | 5/16/2026 | PDP1637D | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 5/16/2026 | PDP1532D | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP1527D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
-| 5/16/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 5/16/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP4576D | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP3642D | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP4216D | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP0724D | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP3473D | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 5/16/2026 | PDP2677D | DIR 0640.37, Communication w Persons Who Have | Passed | 0.0 | 0.25 |
+| 5/16/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 5/14/2026 | PDP3367C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 5/14/2026 | PDP3953C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 5/13/2026 | PDP0693D | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |

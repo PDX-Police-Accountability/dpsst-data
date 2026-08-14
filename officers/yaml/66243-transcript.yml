@@ -133,8 +133,8 @@ training_records:
   score: '0.0'
   hours: '21.00'
 - date: 3/16/2026
-  course: PDP2955C
-  title: AA [CIT-113-H] Responding to a MH Facility
+  course: XDELETE6
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -144,6 +144,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/16/2026
+  course: PDP1661D
+  title: AA [CIT-113-H] Responding to a MH Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/9/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm
@@ -175,17 +181,29 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/26/2026
-  course: PDP4150C
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/26/2026
+  course: PDP4531D
   title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/24/2026
+  course: XDELETE4
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
 - date: 2/24/2026
-  course: PDP3825C
+  course: PDP0621D
   title: AA [CIT-112-A] Behavioral Health Unit Overview
   status: Passed
   score: '0.0'
-  hours: '0.25'
+  hours: '0.50'
 - date: 2/12/2026
   course: PDP0974C
   title: 2026-1 Advanced Academy Legit-Proc Justice
@@ -205,14 +223,14 @@ training_records:
   score: '0.0'
   hours: '2.25'
 - date: 2/10/2026
-  course: PDP1837C
-  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
 - date: 2/10/2026
-  course: PDP0306C
-  title: AA [PJU-101-H] Introduction to Procedural Justice
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -222,6 +240,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 2/10/2026
+  course: PDP1503D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/10/2026
+  course: PDP3301D
+  title: AA [PJU-101-H] Intro to PJPL
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/4/2026
   course: PDP0211C
   title: AA [WEL-101-H] Introduction to Wellness
@@ -229,11 +259,17 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/4/2026
-  course: PDP2442C
-  title: AA [CIT-111-A] Project Respond  Portland Street
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/4/2026
+  course: PDP0140D
+  title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 2/2/2026
   course: PDP0538C
   title: 2026-1 Advanced Academy Patrol Proc Other

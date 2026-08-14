@@ -24,6 +24,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/12/2026 | Police Officer | Supervisory | App Recd |  | 10/7/2029 |  |
 | 1/27/2023 | Police Officer | Basic | Lapsed | 4/26/1993 | 10/7/2029 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

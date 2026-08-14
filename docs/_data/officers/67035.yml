@@ -187,8 +187,8 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 6/4/2026
-  course: PDP3958D
-  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -264,6 +264,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 6/4/2026
+  course: PDP4531D
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/3/2026
   course: PDP3834C
   title: FTEP Orientation
@@ -582,6 +588,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 1/13/2026
+  course: BKS3061D
+  title: Use of Force/report writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/8/2025
   course: PDP1312C
   title: Amended DOJ Settlement Agreement (04/2022)

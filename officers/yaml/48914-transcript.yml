@@ -3,12 +3,18 @@ header_record:
   name: McFarland, Sean M.
   dpsst_identifier: '48914'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/6/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/17/2008
   agency: Portland Police Bureau
   action: Hired
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 7/6/2023
-  expiration_date: ''
+  expiration_date: 11/6/2026
   probation_date: ''
 - status_date: 7/17/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 7/17/2012
-  expiration_date: ''
+  expiration_date: 11/6/2026
   probation_date: ''
 - status_date: 10/22/2009
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 10/22/2009
-  expiration_date: ''
+  expiration_date: 11/6/2026
   probation_date: ''
 training_records:
 - date: 4/16/2026

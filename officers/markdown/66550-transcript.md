@@ -50,17 +50,23 @@
 | 3/16/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/16/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/16/2026 | PDP2319C | 2026-1 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
-| 3/11/2026 | PDP2955C | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 3/11/2026 | XDELETE6 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 3/11/2026 | PDP1661D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.50 |
 | 3/10/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
-| 3/3/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
-| 2/16/2026 | PDP3825C | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 3/3/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 3/3/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
+| 2/16/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 2/16/2026 | PDP0621D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.50 |
 | 2/12/2026 | PDP0974C | 2026-1 Advanced Academy Legit-Proc Justice | Passed | 0.0 | 1.00 |
 | 2/12/2026 | PDP3540C | 2026-1 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
 | 2/11/2026 | PDP3758C | 2026-1 Advanced Academy Trauma Informed Interview | Passed | 0.0 | 2.25 |
-| 2/10/2026 | PDP2442C | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
-| 2/10/2026 | PDP1837C | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
-| 2/10/2026 | PDP0306C | AA [PJU-101-H] Introduction to Procedural Justice | Passed | 0.0 | 0.25 |
+| 2/10/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 2/10/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 2/10/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP3241C | 2026-1 Advanced Academy Able | Passed | 0.0 | 10.00 |
+| 2/10/2026 | PDP1503D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
+| 2/10/2026 | PDP0140D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |
+| 2/10/2026 | PDP3301D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.50 |
 | 2/4/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
 | 2/2/2026 | PDP2178C | 2025 IS PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 2/2/2026 | PDP3548C | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |

@@ -98,12 +98,13 @@
 | 4/27/2026 | PDP0374D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP0002D | 2025 IS - PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 4/27/2026 | PDP4153D | 2025 PVO-101/Stop Stick Training | Passed | 0.0 | 1.25 |
-| 4/27/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 4/27/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP3127D | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP0724D | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP3414D | DIR 0910.00 Update: De Minimis Force | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP3646D | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
 | 4/27/2026 | PDP1912D | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 4/24/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/1/2026 | REG2263D | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

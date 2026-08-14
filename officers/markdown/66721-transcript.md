@@ -47,20 +47,25 @@
 | 6/3/2026 | PDP3726D | 2026-2 Advanced Academy PDX Comm Engage | Passed | 0.0 | 4.50 |
 | 6/1/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/1/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
-| 5/27/2026 | PDP3242D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 5/27/2026 | PDP3242D | Undefined | Passed | 0.0 | 0.25 |
+| 5/27/2026 | PDP1661D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.50 |
 | 5/13/2026 | PDP1303D | 2026-2 Advanced Academy Cares Child Abuse | Passed | 0.0 | 2.25 |
 | 5/7/2026 | PDP1413D | 2026-2 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
 | 5/7/2026 | PDP3545D | 2026-2 Advanced Academy Legit  Proc Just | Passed | 0.0 | 1.00 |
-| 5/7/2026 | PDP2563D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
-| 5/7/2026 | PDP3061D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 5/7/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 5/7/2026 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 5/7/2026 | PDP0140D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |
+| 5/7/2026 | PDP0621D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.50 |
 | 5/4/2026 | PDP3955D | 2026-2 Advanced Academy Trauma Info Inter | Passed | 0.0 | 2.25 |
 | 4/30/2026 | PDP1308D | 2026-2 Advanced Academy Able Training | Passed | 0.0 | 9.00 |
 | 4/27/2026 | PDP1259D | 2026-2 Advanced Academy Patrol Procedures | Passed | 0.0 | 9.00 |
-| 4/27/2026 | PDP0824D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
-| 4/27/2026 | PDP3800D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP0824D | Undefined | Passed | 0.0 | 0.25 |
+| 4/27/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP1633D | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP3301D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.50 |
+| 4/27/2026 | PDP1503D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
 | 4/25/2026 | PDP0625D | Post Academy LMS Material | Passed | 0.0 | 0.75 |
-| 4/23/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 4/23/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/18/2026 | PDP0693D | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
 | 4/15/2026 | PDP4000D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
 | 4/15/2026 | PDP1080D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
@@ -114,7 +119,7 @@
 | 3/26/2026 | PDP4310C | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3152C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP1560C | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
-| 3/26/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 3/26/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3979C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
@@ -125,6 +130,7 @@
 | 3/26/2026 | PDP4519C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 3/26/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/26/2026 | PDP2024C | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
+| 3/26/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Passed | 0.0 | 3.00 |
 | 3/24/2026 | PDP3751C | FTEP Report Writing | Passed | 0.0 | 2.00 |

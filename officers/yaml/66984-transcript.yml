@@ -49,11 +49,17 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 5/19/2026
-  course: PDP3958D
-  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/19/2026
+  course: PDP4531D
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/18/2026
   course: PDP4152D
   title: '2025 Disability Series: Introduction to Disability'

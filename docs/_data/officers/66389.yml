@@ -49,8 +49,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 3/10/2026
-  course: PDP2955C
-  title: AA [CIT-113-H] Responding to a MH Facility
+  course: XDELETE6
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/10/2026
+  course: PDP1661D
+  title: AA [CIT-113-H] Responding to a MH Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/5/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
@@ -103,8 +109,8 @@ training_records:
   score: '0.0'
   hours: '20.25'
 - date: 2/26/2026
-  course: PDP4150C
-  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -126,6 +132,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.50'
+- date: 2/26/2026
+  course: PDP4531D
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/12/2026
   course: PDP0974C
   title: 2026-1 Advanced Academy Legit-Proc Justice
@@ -139,20 +151,20 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 2/11/2026
-  course: PDP3825C
-  title: AA [CIT-112-A] Behavioral Health Unit Overview
+  course: XDELETE4
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
 - date: 2/11/2026
-  course: PDP1837C
-  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
 - date: 2/11/2026
-  course: PDP0306C
-  title: AA [PJU-101-H] Introduction to Procedural Justice
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -162,6 +174,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 2/11/2026
+  course: PDP1503D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/11/2026
+  course: PDP0621D
+  title: AA [CIT-112-A] Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/11/2026
+  course: PDP3301D
+  title: AA [PJU-101-H] Intro to PJPL
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/10/2026
   course: PDP3241C
   title: 2026-1 Advanced Academy Able
@@ -175,11 +205,17 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/4/2026
-  course: PDP2442C
-  title: AA [CIT-111-A] Project Respond  Portland Street
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/4/2026
+  course: PDP0140D
+  title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 2/3/2026
   course: PDP2319C
   title: 2026-1 Advanced Academy Public Order

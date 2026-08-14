@@ -42,6 +42,7 @@
 | 6/12/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/5/2026 | PDP2452C | 2026 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/19/2026 | 26-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 5/15/2026 | LOP0922D | 2026 Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/26/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/20/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/7/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

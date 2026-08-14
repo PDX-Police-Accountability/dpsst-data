@@ -47,21 +47,27 @@
 | 6/3/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/3/2026 | PDP3726D | 2026-2 Advanced Academy PDX Comm Engage | Passed | 0.0 | 4.50 |
 | 6/3/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
-| 5/27/2026 | PDP3242D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 5/27/2026 | PDP3242D | Undefined | Passed | 0.0 | 0.25 |
+| 5/27/2026 | PDP1661D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.50 |
 | 5/13/2026 | PDP1303D | 2026-2 Advanced Academy Cares Child Abuse | Passed | 0.0 | 2.25 |
 | 5/7/2026 | PDP1413D | 2026-2 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
 | 5/7/2026 | PDP3545D | 2026-2 Advanced Academy Legit  Proc Just | Passed | 0.0 | 1.00 |
-| 5/7/2026 | PDP2563D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
-| 5/7/2026 | PDP3061D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 5/7/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 5/7/2026 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 5/7/2026 | PDP0140D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |
+| 5/7/2026 | PDP0621D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.50 |
 | 5/4/2026 | PDP3955D | 2026-2 Advanced Academy Trauma Info Inter | Passed | 0.0 | 2.25 |
 | 4/30/2026 | PDP1308D | 2026-2 Advanced Academy Able Training | Passed | 0.0 | 9.00 |
 | 4/27/2026 | PDP1259D | 2026-2 Advanced Academy Patrol Procedures | Passed | 0.0 | 9.00 |
-| 4/27/2026 | PDP0824D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
-| 4/27/2026 | PDP3800D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP0824D | Undefined | Passed | 0.0 | 0.25 |
+| 4/27/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP1633D | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
-| 4/23/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP1503D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
+| 4/27/2026 | PDP3301D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.50 |
+| 4/23/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/23/2026 | PDP0625D | Post Academy LMS Material | Passed | 0.0 | 0.75 |
 | 4/23/2026 | PDP3481D | Testosterone Replacement: Help, Hype or Harm | Passed | 0.0 | 1.00 |
+| 4/23/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 4/14/2026 | PDP1222D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/14/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/2/2026 | PDP4023D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
@@ -106,7 +112,7 @@
 | 3/26/2026 | PDP4432C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP0774C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP0431C | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
-| 3/26/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 3/26/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3709C | 2025-10 CAO Updates Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP3979C | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP0579C | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

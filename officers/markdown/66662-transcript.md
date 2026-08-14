@@ -43,14 +43,17 @@
 | 6/18/2026 | PDP1523D | 2026-2 Advanced Academy Walking Beat | Passed | 0.0 | 18.00 |
 | 6/14/2026 | PDP2471D | 2026-2 Advanced Academy PVO | Passed | 0.0 | 38.25 |
 | 6/8/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
-| 6/8/2026 | PDP3242D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 6/8/2026 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 6/8/2026 | PDP1661D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.50 |
 | 6/4/2026 | PDP1824D | 2026-2 Advanced Academy Equity | Passed | 0.0 | 22.50 |
 | 6/3/2026 | PDP3726D | 2026-2 Advanced Academy PDX Comm Engage | Passed | 0.0 | 4.50 |
-| 5/14/2026 | PDP2563D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
+| 5/14/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 5/14/2026 | PDP0140D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |
 | 5/13/2026 | PDP1303D | 2026-2 Advanced Academy Cares Child Abuse | Passed | 0.0 | 2.25 |
 | 5/7/2026 | PDP1413D | 2026-2 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
 | 5/7/2026 | PDP3545D | 2026-2 Advanced Academy Legit  Proc Just | Passed | 0.0 | 1.00 |
-| 5/7/2026 | PDP3061D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 5/7/2026 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 5/7/2026 | PDP0621D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.50 |
 | 5/4/2026 | PDP3955D | 2026-2 Advanced Academy Trauma Info Inter | Passed | 0.0 | 2.25 |
 | 4/30/2026 | PDP1308D | 2026-2 Advanced Academy Able Training | Passed | 0.0 | 9.00 |
 | 4/28/2026 | PDP0978D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
@@ -61,9 +64,11 @@
 | 4/28/2026 | PDP0447D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
 | 4/28/2026 | PDP0364D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
 | 4/28/2026 | PDP0922D | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
-| 4/28/2026 | PDP0824D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
-| 4/28/2026 | PDP3800D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.25 |
+| 4/28/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 4/28/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/28/2026 | PDP1633D | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
+| 4/28/2026 | PDP1503D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
+| 4/28/2026 | PDP3301D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.50 |
 | 4/27/2026 | PDP3912D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP1222D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP0693D | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
@@ -71,7 +76,7 @@
 | 4/27/2026 | PDP2381D | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP1637D | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 4/27/2026 | PDP1532D | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
-| 4/27/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 4/27/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP4576D | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP3642D | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP2546D | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
@@ -82,6 +87,7 @@
 | 4/27/2026 | PDP4379D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 4/27/2026 | PDP0386D | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP0625D | Post Academy LMS Material | Passed | 0.0 | 0.75 |
+| 4/27/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 4/22/2026 | PDP1527D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 4/22/2026 | PDP0724D | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
 | 4/22/2026 | PDP1131D | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
@@ -126,7 +132,7 @@
 | 3/26/2026 | PDP3042C | FTEP Hazmat/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
 | 3/26/2026 | PDP1435C | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 3/26/2026 | PDP1560C | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
-| 3/26/2026 | PDP4150C | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 3/26/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/26/2026 | PDP4519C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Passed | 0.0 | 6.25 |
 | 3/24/2026 | PDP4545C | FTEP Geography | Passed | 0.0 | 3.00 |

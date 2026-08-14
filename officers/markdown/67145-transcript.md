@@ -64,10 +64,11 @@
 | 6/23/2026 | PDP2255D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 6/23/2026 | PDP3438D | 2023 DIR 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 6/23/2026 | PDP0002D | 2025 IS - PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
-| 6/23/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 6/23/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/23/2026 | PDP4153D | 2025 PVO-101/Stop Stick Training | Passed | 0.0 | 1.25 |
 | 6/23/2026 | PDP0625D | Post Academy LMS Material | Passed | 0.0 | 0.75 |
 | 6/23/2026 | PDP3646D | Patrol Vehicle Operations Policy [PVO101] | Passed | 0.0 | 0.50 |
+| 6/23/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 6/22/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/22/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/19/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |

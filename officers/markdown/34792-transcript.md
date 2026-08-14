@@ -56,12 +56,13 @@
 | 5/6/2026 | PDP2743D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 5/6/2026 | PDP3889D | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 5/6/2026 | PDP1803D | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
-| 5/6/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 5/6/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/6/2026 | PDP2769D | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
 | 5/6/2026 | PDP1913D | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
 | 5/6/2026 | PDP2546D | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 5/6/2026 | PDP3899D | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
 | 5/6/2026 | PDP1912D | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 5/6/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Passed | 0.0 | 2.00 |
 | 5/5/2026 | PDP0002D | 2025 IS - PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 5/5/2026 | PDP4153D | 2025 PVO-101/Stop Stick Training | Passed | 0.0 | 1.25 |

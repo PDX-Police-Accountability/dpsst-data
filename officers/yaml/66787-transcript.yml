@@ -140,10 +140,16 @@ training_records:
   hours: '0.25'
 - date: 5/27/2026
   course: PDP3242D
-  title: AA [CIT-113-H] Responding to a MH Facility
+  title: Undefined
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/27/2026
+  course: PDP1661D
+  title: AA [CIT-113-H] Responding to a MH Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/13/2026
   course: PDP1303D
   title: 2026-2 Advanced Academy Cares Child Abuse
@@ -163,17 +169,29 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 5/7/2026
-  course: PDP2563D
-  title: AA [CIT-111-A] Project Respond  Portland Street
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
 - date: 5/7/2026
-  course: PDP3061D
-  title: AA [CIT-112-A] Behavioral Health Unit Overview
+  course: XDELETE5
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/7/2026
+  course: PDP0140D
+  title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 5/7/2026
+  course: PDP0621D
+  title: AA [CIT-112-A] Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/4/2026
   course: PDP3955D
   title: 2026-2 Advanced Academy Trauma Info Inter
@@ -194,13 +212,13 @@ training_records:
   hours: '9.00'
 - date: 4/27/2026
   course: PDP0824D
-  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  title: Undefined
   status: Passed
   score: '0.0'
   hours: '0.25'
 - date: 4/27/2026
-  course: PDP3800D
-  title: AA [PJU-101-H] Intro to PJPL
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -210,6 +228,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/27/2026
+  course: PDP1503D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/27/2026
+  course: PDP3301D
+  title: AA [PJU-101-H] Intro to PJPL
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/26/2026
   course: PDP1306D
   title: 2021 Online IS Language Access - Translation
@@ -325,8 +355,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/22/2026
-  course: PDP3958D
-  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -360,6 +390,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/22/2026
+  course: PDP4531D
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/20/2026
   course: PDP0925D
   title: 2025-07 CAO Legal Updates for 08-09/2024
@@ -559,8 +595,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 3/30/2026
-  course: PDP4150C
-  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

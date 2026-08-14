@@ -4,7 +4,7 @@
 | name | McFarland, Sean M. |
 | dpsst_identifier | 48914 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/6/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 7/17/2008 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/16/2008 | Troutdale Police Department | Resigned | Reserve |  |  |
 | 9/25/2007 | Troutdale Police Department | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/6/2023 | Police Officer | Advanced | Granted | 7/6/2023 |  |  |
-| 7/17/2012 | Police Officer | Intermediate | Granted | 7/17/2012 |  |  |
-| 10/22/2009 | Police Officer | Basic | Granted | 10/22/2009 |  |  |
+| 7/6/2023 | Police Officer | Advanced | Granted | 7/6/2023 | 11/6/2026 |  |
+| 7/17/2012 | Police Officer | Intermediate | Granted | 7/17/2012 | 11/6/2026 |  |
+| 10/22/2009 | Police Officer | Basic | Granted | 10/22/2009 | 11/6/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

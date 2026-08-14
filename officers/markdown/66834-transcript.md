@@ -49,21 +49,26 @@
 | 6/3/2026 | PDP3726D | 2026-2 Advanced Academy PDX Comm Engage | Passed | 0.0 | 4.50 |
 | 6/2/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/2/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
-| 5/27/2026 | PDP3242D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.25 |
+| 5/27/2026 | PDP3242D | Undefined | Passed | 0.0 | 0.25 |
+| 5/27/2026 | PDP1661D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.50 |
 | 5/13/2026 | PDP1303D | 2026-2 Advanced Academy Cares Child Abuse | Passed | 0.0 | 2.25 |
 | 5/7/2026 | PDP1413D | 2026-2 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
 | 5/7/2026 | PDP3545D | 2026-2 Advanced Academy Legit  Proc Just | Passed | 0.0 | 1.00 |
-| 5/7/2026 | PDP2563D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.25 |
-| 5/7/2026 | PDP3061D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.25 |
+| 5/7/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 5/7/2026 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
+| 5/7/2026 | PDP0140D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |
+| 5/7/2026 | PDP0621D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.50 |
 | 5/4/2026 | PDP3955D | 2026-2 Advanced Academy Trauma Info Inter | Passed | 0.0 | 2.25 |
 | 4/30/2026 | PDP1308D | 2026-2 Advanced Academy Able Training | Passed | 0.0 | 9.00 |
 | 4/27/2026 | PDP4018D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP0374D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/27/2026 | PDP1259D | 2026-2 Advanced Academy Patrol Procedures | Passed | 0.0 | 9.00 |
-| 4/27/2026 | PDP0824D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.25 |
-| 4/27/2026 | PDP3800D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP0824D | Undefined | Passed | 0.0 | 0.25 |
+| 4/27/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP1633D | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
+| 4/27/2026 | PDP1503D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
+| 4/27/2026 | PDP3301D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.50 |
 | 4/25/2026 | PDP0978D | 2021 Online IS Training Procedural Justice Part 1 | Passed | 0.0 | 0.25 |
 | 4/25/2026 | PDP4000D | 2021 Online IS Training Procedural Justice Part 2 | Passed | 0.0 | 0.25 |
 | 4/25/2026 | PDP1080D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
@@ -104,8 +109,9 @@
 | 4/24/2026 | PDP3912D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
 | 4/24/2026 | PDP3438D | 2023 DIR 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/24/2026 | PDP1222D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
-| 4/24/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 4/24/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/24/2026 | PDP0625D | Post Academy LMS Material | Passed | 0.0 | 0.75 |
+| 4/24/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 4/23/2026 | PDP3161D | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 4/23/2026 | PDP1131D | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 4/23/2026 | PDP4612D | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |

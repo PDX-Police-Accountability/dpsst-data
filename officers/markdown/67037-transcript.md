@@ -60,11 +60,12 @@
 | 6/4/2026 | PDP3639D | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
 | 6/4/2026 | PDP1527D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP0925D | 2025-07 CAO Legal Updates for 08-09/2024 | Passed | 0.0 | 0.50 |
-| 6/4/2026 | PDP3958D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.25 |
+| 6/4/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP4216D | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP3127D | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP2737D | 2025-07 CAO Legal Updates for 01/ 2025 | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP2677D | DIR 0640.37, Communication w Persons Who Have | Passed | 0.0 | 0.25 |
+| 6/4/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 6/3/2026 | PDP3834C | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 6/3/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/3/2026 | PDP3960D | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
