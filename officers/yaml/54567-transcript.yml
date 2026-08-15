@@ -1693,6 +1693,11 @@ attribute_records:
   effective_date: 3/18/2018
   expiration_date: ''
 education_records:
+- date: 8/10/2026
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '72.0'
 - date: 9/15/2018
   degree: No Degree
   school: Chemeketa Community College

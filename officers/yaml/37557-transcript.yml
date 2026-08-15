@@ -94,6 +94,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/13/2026
+  course: LOP3002D
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/29/2026
   course: LOP1530D
   title: sUAS Part 91 Operations

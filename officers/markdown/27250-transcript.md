@@ -29,12 +29,14 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/12/2026 | 11/10/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2026 | PSU1970D | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 1.00 |
 | 5/6/2024 | PSU0447A | Officer Survival 1/2 | Passed | 0.0 | 2.00 |
 | 4/29/2024 | PSU0921A | Adult  Pediatric First Aid/CPR/AED | Passed | 0.0 | 8.00 |
 | 11/10/2023 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |

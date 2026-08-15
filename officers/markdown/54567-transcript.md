@@ -34,6 +34,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/10/2026 | Bachelor Science | All Other Education Institutes | Criminal Justice | 72.0 |
 | 9/15/2018 | No Degree | Chemeketa Community College |  | 21.0 |
 | 9/15/2014 | No Degree | Clackamas Community College |  | 41.0 |
 ## Training

@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/28/2026 | GPN2995D | Secondary Trauma  Resiliency | Passed | 0.0 | 2.00 |
 | 5/13/2026 | UOP0349C | Patient Evaluation for Law Enforcement | Passed | 0.0 | 2.00 |
+| 5/8/2026 | REG3877D | Patrol Rifle Instructor Development Course | Passed | 0.0 | 30.00 |
 | 4/8/2026 | GPN0718C | PSC - R | Passed | 0.0 | 1.00 |
 | 12/10/2025 | GPN1735C | Taser Operator course | Instructed | 0.0 | 8.00 |
 | 12/1/2025 | GPN0565C | Taser VR | Instructed | 0.0 | 6.00 |

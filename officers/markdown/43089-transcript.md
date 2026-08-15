@@ -37,7 +37,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 7/31/2028 | 7/31/2028 |
+| Certification Cards | First Aid and CPR | 7/31/2026 | 7/31/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Code of Ethics | Signed | 2/21/2006 |  |
@@ -48,7 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/31/2028 | LGS3083D | Adult CPR/First Aid | Passed | 0.0 | 1.50 |
+| 7/31/2026 | LGS3083D | Adult CPR/First Aid | Passed | 0.0 | 1.50 |
 | 6/11/2026 | REG3366C | Handgun IDC | Instructed | 0.0 | 40.00 |
 | 3/15/2026 | LGS2539C | Foundation in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 2/24/2026 | LGS2683C | Implicit Bias Training | Passed | 0.0 | 1.00 |

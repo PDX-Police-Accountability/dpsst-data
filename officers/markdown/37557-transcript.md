@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/28/2026 | REG0736D | DPSST 2026 Cyber Summit | Passed | 0.0 | 8.00 |
+| 7/13/2026 | LOP3002D | Active Threat | Passed | 0.0 | 9.00 |
 | 6/29/2026 | LOP1530D | sUAS Part 91 Operations | Passed | 0.0 | 1.00 |
 | 6/12/2026 | LOP2875D | Firearms | Passed | 0.0 | 4.00 |
 | 5/31/2026 | LOP0908C | IPICD Abnormal Breathing | Passed | 0.0 | 1.00 |
