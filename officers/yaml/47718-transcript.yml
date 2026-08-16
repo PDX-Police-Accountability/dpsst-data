@@ -64,6 +64,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/15/2026
+  course: PDP1268D
+  title: 2026 Crisis Negotiation Team (CNT) Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/1/2026
   course: PDP1426D
   title: 2026 Critical Incident Command Debrief

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | PDP1602D | 2026 Satellite Firearms Instructor School | Instructed | 0.0 | 90.00 |
 | 6/20/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 6/20/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 4/20/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

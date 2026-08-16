@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2026 | PDP4414D | 2026 Patrol Rifle New Operator Courses | Passed | 0.0 | 54.00 |
 | 6/20/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/4/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/4/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

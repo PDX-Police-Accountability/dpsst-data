@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/11/2026 | OCS0977D | Glock Gen 5/6 Armorer Course | Passed | 0.0 | 8.00 |
+| 7/15/2026 | PDP1268D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 6/21/2026 | PDP0116D | 2026 40mm Less Lethal New Operator Course | Instructed | 0.0 | 18.00 |
 | 6/5/2026 | PDP2452C | 2026 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/18/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

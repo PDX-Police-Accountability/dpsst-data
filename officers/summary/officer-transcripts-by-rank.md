@@ -286,7 +286,6 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
-| * MISSING | 63986 |  |  |  |  |  | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
 | Smith, Bret J. | 14157 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2010-01-16 | [md](../markdown/14157-transcript.md) - [yaml](../yaml/14157-transcript.yml) |
 | Eckhart, John C. | 14495 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2010-07-29 | [md](../markdown/14495-transcript.md) - [yaml](../yaml/14495-transcript.yml) |
 | Shearer, Andrew T. | 27242 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2020-08-03 | [md](../markdown/27242-transcript.md) - [yaml](../yaml/27242-transcript.yml) |
@@ -1412,6 +1411,7 @@
 | Tran, Danny K. | 63983 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-09-24 | [md](../markdown/63983-transcript.md) - [yaml](../yaml/63983-transcript.yml) |
 | Ossenkop, Jacob T. | 63984 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63984-transcript.md) - [yaml](../yaml/63984-transcript.yml) |
 | Wu, Jing F. | 63985 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-01-21 | [md](../markdown/63985-transcript.md) - [yaml](../yaml/63985-transcript.yml) |
+| San, Luan A. | 63986 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-18 | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
 | Blakeslee, Samson L. | 63987 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63987-transcript.md) - [yaml](../yaml/63987-transcript.yml) |
 | Yeldell, Cade T. | 63998 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63998-transcript.md) - [yaml](../yaml/63998-transcript.yml) |
 | Orr, Riagan F. | 64051 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-09-12 | [md](../markdown/64051-transcript.md) - [yaml](../yaml/64051-transcript.yml) |

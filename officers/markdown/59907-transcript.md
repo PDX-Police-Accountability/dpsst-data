@@ -35,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/21/2026 | PDP3949D | 2026 Satellite Firearms Instructor School | Passed | 0.0 | 90.00 |
 | 6/20/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
+| 6/12/2026 | PDP2303D | Hiding in Plain Sight Mobile Surveillance Training | Passed | 0.0 | 27.00 |
 | 6/3/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/3/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 5/8/2026 | OSH1521C | HIPS Mobile and Foot Surveillance | Passed | 0.0 | 30.00 |
@@ -81,6 +82,7 @@
 | 10/18/2025 | PDP2961B | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 10/18/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |
 | 10/18/2025 | PDP1093B | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 10/15/2025 | PDP2663D | LEDA Oregon Fall 2025 Training AUS | Passed | 0.0 | 8.00 |
 | 10/10/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/10/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
 | 9/19/2025 | PDP1047B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |

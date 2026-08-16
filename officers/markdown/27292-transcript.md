@@ -46,6 +46,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2026 | PDS2507D | Summer 2026 Sgt. Training | Passed | 0.0 | 4.00 |
+| 7/28/2026 | 42290D | July 2026 Crisis Negotiations Team Training | Passed | 0.0 | 16.00 |
+| 7/24/2026 | PDS4213D | Fire Safety Training | Passed | 0.0 | 0.75 |
 | 6/2/2026 | PDS0931D | ConSim | Passed | 0.0 | 4.00 |
 | 6/2/2026 | PDS1362D | Use of Force Reports | Passed | 0.0 | 4.00 |
 | 6/1/2026 | PDS3728D | Medications for Addiction Treatment | Passed | 0.0 | 0.50 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | PDP1068D | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 6/24/2026 | PDP0759C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 5/27/2026 | PDP2993C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 5/14/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

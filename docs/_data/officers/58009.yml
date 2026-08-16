@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2026
+  course: PDP2303D
+  title: Hiding in Plain Sight Mobile Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 6/11/2026
   course: PDP3134D
   title: 2025-2026 Police Interceptor Utility Summary

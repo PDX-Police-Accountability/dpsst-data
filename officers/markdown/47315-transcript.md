@@ -40,6 +40,7 @@
 | 6/20/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 6/16/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/16/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/12/2026 | PDP2303D | Hiding in Plain Sight Mobile Surveillance Training | Passed | 0.0 | 27.00 |
 | 5/21/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 5/21/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 5/21/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |
@@ -81,6 +82,7 @@
 | 10/24/2025 | PDP3597B | 2025-10 CHO Executive Order, DIR 0625.00 | Passed | 0.0 | 0.25 |
 | 10/24/2025 | PDP3739B | 2025-10 CAO Updates: Disorderly Conduct | Passed | 0.0 | 0.25 |
 | 10/24/2025 | PDP1093B | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 10/22/2025 | PDP1575D | IACP 2025 Annual Conference | Passed | 0.0 | 36.00 |
 | 10/9/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/9/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/9/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

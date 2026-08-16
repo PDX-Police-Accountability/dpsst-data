@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2026 | PDP2296D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/27/2026 | PDP3615C | 2026 Control Tactics Satellite Instructor Course | Passed | 0.0 | 18.00 |
 | 6/17/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 5/22/2026 | SMP1873D | OTOA Basic SWAT School | Passed | 0.0 | 40.00 |

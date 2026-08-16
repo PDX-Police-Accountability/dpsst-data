@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/30/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 6/26/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
 | 5/22/2026 | PDS2859C | Field Training and Evaluation Program, 24 hr basic | Passed | 0.0 | 24.00 |
 | 4/14/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/20/2026 | PDS4236C | Criminal Interdiction | Passed | 0.0 | 1.50 |

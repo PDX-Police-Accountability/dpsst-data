@@ -50,12 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/21/2026
+  course: PDP1602D
+  title: 2026 Satellite Firearms Instructor School
+  status: Instructed
+  score: '0.0'
+  hours: '90.00'
 - date: 7/10/2026
   course: PDP0940D
   title: 2026 Rapid Response team (RRT) Monthly Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/3/2026
+  course: PDP2555D
+  title: 2026 FTEP New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '25.00'
 - date: 6/12/2026
   course: PDP1446C
   title: 2026 Rapid Response team (RRT) Monthly Training

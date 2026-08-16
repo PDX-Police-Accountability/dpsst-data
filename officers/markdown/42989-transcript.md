@@ -74,6 +74,7 @@
 | 1/1/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 12/22/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/18/2025 | PDP0462D | Lexipol Two Tracks One Event Mission Ready | Passed | 0.0 | 3.00 |
 | 11/11/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/28/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/23/2025 | PDP2219B | 2020 Trrng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |

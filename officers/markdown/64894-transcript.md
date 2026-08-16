@@ -46,6 +46,7 @@
 | 2/6/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/30/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/30/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 1/7/2026 | PDP0876D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 1/2/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/29/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 10/26/2025 | PDP3376B | 2025-10 CAO Legal Updates for 3/2025 | Passed | 0.0 | 0.50 |

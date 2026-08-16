@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/30/2026 | PDP2211D | SERT Scenario Training | Passed | 0.0 | 9.00 |
+| 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 6/18/2026 | PDP2687D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 6/11/2026 | PDP1742D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/10/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

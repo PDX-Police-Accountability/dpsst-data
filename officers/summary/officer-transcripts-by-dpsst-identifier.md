@@ -1667,7 +1667,7 @@
 | Tran, Danny K. | 63983 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-09-24 | [md](../markdown/63983-transcript.md) - [yaml](../yaml/63983-transcript.yml) |
 | Ossenkop, Jacob T. | 63984 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63984-transcript.md) - [yaml](../yaml/63984-transcript.yml) |
 | Wu, Jing F. | 63985 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-01-21 | [md](../markdown/63985-transcript.md) - [yaml](../yaml/63985-transcript.yml) |
-| * MISSING | 63986 |  |  |  |  |  | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
+| San, Luan A. | 63986 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-18 | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
 | Blakeslee, Samson L. | 63987 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63987-transcript.md) - [yaml](../yaml/63987-transcript.yml) |
 | Yeldell, Cade T. | 63998 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63998-transcript.md) - [yaml](../yaml/63998-transcript.yml) |
 | Orr, Riagan F. | 64051 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-09-12 | [md](../markdown/64051-transcript.md) - [yaml](../yaml/64051-transcript.yml) |

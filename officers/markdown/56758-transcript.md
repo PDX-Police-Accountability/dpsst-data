@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | PDP1602D | 2026 Satellite Firearms Instructor School | Passed | 0.0 | 90.00 |
 | 7/16/2026 | PDP4398D | CMIC-Chemical Agents and Tear Gas | Passed | 0.0 | 1.50 |
 | 7/10/2026 | PDP0940D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 7/6/2026 | SCP1979D | Air Purifying Respirator (APR) Program | Instructed | 0.0 | 3.00 |

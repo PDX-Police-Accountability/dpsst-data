@@ -40,6 +40,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/30/2026 | PDP2211D | SERT Scenario Training | Passed | 0.0 | 9.00 |
+| 7/23/2026 | PDP3768D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/16/2026 | PDP2296D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
+| 7/7/2026 | PDP1841D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 7/2/2026 | PDP0919D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/25/2026 | PDP1494D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/19/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

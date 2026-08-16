@@ -31,6 +31,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/6/2026
+  course: PDP0895D
+  title: 2026 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/23/2026
+  course: PDP2335D
+  title: 2026 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/16/2026
+  course: PDP0109D
+  title: 2026 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/9/2026
+  course: PDP4099D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 7/8/2026
+  course: HBS3813D
+  title: Joint Team Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/2/2026
   course: PDP2866D
   title: 2026 SERT Training - SCENARIO

@@ -251,6 +251,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/21/2026
+  course: PDP0777D
+  title: Navigating the Treacheries of Video Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/7/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia
@@ -305,6 +311,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/18/2025
+  course: PDP0462D
+  title: Lexipol Two Tracks One Event Mission Ready
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/17/2025
   course: PDP3813C
   title: 2025 Supervisors In-Service Managing Up Video

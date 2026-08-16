@@ -84,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/7/2026
+  course: PDP0876D
+  title: Enhanced Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/28/2025
   course: PDP3067C
   title: 2025 Federal Interaction Reporting

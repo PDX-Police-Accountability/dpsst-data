@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2026 | PDP1928D | 2026 US Marshal PNVOTF Officer Safety Seminar | Passed | 0.0 | 40.00 |
 | 7/8/2026 | PDP3959D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 7/1/2026 | PDP3451D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 6/13/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |

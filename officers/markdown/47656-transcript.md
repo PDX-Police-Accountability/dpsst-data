@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | PDP1268D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
+| 7/15/2026 | PDP1268D | 2026 Crisis Negotiation Team (CNT) Annual Training | Instructed | 0.0 | 8.00 |
+| 7/8/2026 | HBS3813D | Joint Team Scenario Training | Passed | 0.0 | 9.00 |
 | 7/1/2026 | PDP1426D | 2026 Critical Incident Command Debrief | Passed | 0.0 | 2.00 |
 | 6/30/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/29/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

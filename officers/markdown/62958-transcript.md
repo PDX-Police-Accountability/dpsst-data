@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2026 | PDP4414D | 2026 Patrol Rifle New Operator Courses | Passed | 0.0 | 54.00 |
+| 7/15/2026 | PDP1268D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 6/20/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 3/19/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |

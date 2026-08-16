@@ -32,6 +32,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/30/2026 | PDP2211D | SERT Scenario Training | Passed | 0.0 | 9.00 |
+| 7/23/2026 | PDP2335D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 7/2/2026 | PDP2866D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/25/2026 | PDP1494D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/18/2026 | PDP2687D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

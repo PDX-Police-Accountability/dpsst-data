@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | PDP1602D | 2026 Satellite Firearms Instructor School | Passed | 0.0 | 90.00 |
 | 7/10/2026 | PDP0940D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/30/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/14/2026 | PDP1370C | 2026 40mm Less Lethal New Operator Course | Passed | 0.0 | 18.00 |

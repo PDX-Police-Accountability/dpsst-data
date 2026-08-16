@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | PDP1068D | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 6/24/2026 | PDP0759C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 6/16/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/4/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

@@ -286,7 +286,6 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
-| * MISSING | 63986 |  |  |  |  |  | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
 | Cassity, Nancy S. | 12845 | Portland Police Bureau | Active | Civilian Employee | Hired | 1980-02-19 | [md](../markdown/12845-transcript.md) - [yaml](../yaml/12845-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Ortez, Armond A. | 18966 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1986-07-31 | [md](../markdown/18966-transcript.md) - [yaml](../yaml/18966-transcript.yml) |
@@ -1399,6 +1398,7 @@
 | Trujillo, Michael A. | 64588 | Portland Police Bureau | Active | Police Officer | Hired | 2023-10-12 | [md](../markdown/64588-transcript.md) - [yaml](../yaml/64588-transcript.yml) |
 | Sushak, Josiah K. | 64650 | Portland Police Bureau | Active | Police Officer | Hired | 2023-10-12 | [md](../markdown/64650-transcript.md) - [yaml](../yaml/64650-transcript.yml) |
 | Schultz, Bradley S. | 63344 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-18 | [md](../markdown/63344-transcript.md) - [yaml](../yaml/63344-transcript.yml) |
+| San, Luan A. | 63986 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-18 | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
 | McHugill, Steven N. | 24736 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-10-20 | [md](../markdown/24736-transcript.md) - [yaml](../yaml/24736-transcript.yml) |
 | Taylor, Brent M. | 51250 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-10-26 | [md](../markdown/51250-transcript.md) - [yaml](../yaml/51250-transcript.yml) |
 | Francis, Michael R. | 28248 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-10-27 | [md](../markdown/28248-transcript.md) - [yaml](../yaml/28248-transcript.yml) |

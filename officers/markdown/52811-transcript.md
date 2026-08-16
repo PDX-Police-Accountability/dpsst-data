@@ -40,6 +40,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/11/2026 | GSP0474D | Ballistic Shield Training | Passed | 0.0 | 5.00 |
 | 6/10/2026 | GSP0414D | Ballistic Shield Training | Passed | 0.0 | 10.00 |
+| 6/4/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
+| 6/3/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
+| 5/19/2026 | PDS1930D | Firearms IDC | Passed | 0.0 | 4.00 |
 | 5/15/2026 | GSP1957D | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 5/14/2026 | GSP4107C | SWAT Firearms | Passed | 0.0 | 10.00 |
 | 5/13/2026 | GSP0614C | SWAT Firearms | Passed | 0.0 | 10.00 |

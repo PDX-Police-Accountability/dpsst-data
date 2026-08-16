@@ -39,6 +39,7 @@
 | 6/25/2026 | PDS4464D | Taser Recertification | Passed | 0.0 | 1.00 |
 | 6/25/2026 | PDS0465D | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
 | 6/25/2026 | PDS1124D | Emergency Management and Evacuation Plan | Passed | 0.0 | 0.50 |
+| 6/23/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
 | 4/21/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/3/2026 | LOP4062C | EVOC | Passed | 0.0 | 4.00 |
 | 2/24/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |

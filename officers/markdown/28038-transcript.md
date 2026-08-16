@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
 | 5/17/2026 | GSP0362C | UAS Ground School | Passed | 0.0 | 30.00 |
 | 4/27/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 4/7/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |

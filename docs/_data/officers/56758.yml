@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/21/2026
+  course: PDP1602D
+  title: 2026 Satellite Firearms Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
 - date: 7/16/2026
   course: PDP4398D
   title: CMIC-Chemical Agents and Tear Gas

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/21/2026
+  course: PDP1602D
+  title: 2026 Satellite Firearms Instructor School
+  status: Instructed
+  score: '0.0'
+  hours: '90.00'
 - date: 4/17/2026
   course: HSU3489C
   title: Spring In-Service 2026 Firearms

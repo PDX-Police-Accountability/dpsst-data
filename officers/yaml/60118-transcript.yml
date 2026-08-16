@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2026
+  course: PDS1974D
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/21/2026
   course: PDS4219D
   title: Range
@@ -85,6 +91,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/24/2026
+  course: PDS4250D
+  title: Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/24/2026
+  course: PDS3215D
+  title: Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/23/2026
   course: PDS2886D
   title: FEMA ICS-100
@@ -103,6 +121,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/23/2026
+  course: PDS0142D
+  title: Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/20/2026
   course: PDS3387D
   title: Tourniquets and Trauma Kits
@@ -115,6 +139,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/20/2026
+  course: PDS0672D
+  title: High Risk Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/10/2026
   course: PDS2020C
   title: Mental Health First Aid

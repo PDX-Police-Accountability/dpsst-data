@@ -74,6 +74,7 @@
 | 10/17/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/17/2025 | PDP0507B | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 10/15/2025 | SPP3907B | Law Enforcement Drone Association - Fall Conf. | Passed | 0.0 | 8.00 |
+| 10/15/2025 | PDP2663D | LEDA Oregon Fall 2025 Training AUS | Passed | 0.0 | 8.00 |
 | 10/1/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/14/2025 | MISCMAIN | 2025 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

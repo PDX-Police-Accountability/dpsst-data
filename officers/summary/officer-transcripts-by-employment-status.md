@@ -286,7 +286,6 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
-| * MISSING | 63986 |  |  |  |  |  | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
 | Cassity, Nancy S. | 12845 | Portland Police Bureau | Active | Civilian Employee | Hired | 1980-02-19 | [md](../markdown/12845-transcript.md) - [yaml](../yaml/12845-transcript.yml) |
 | Courtney, Lynn R. | 13609 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-07-09 | [md](../markdown/13609-transcript.md) - [yaml](../yaml/13609-transcript.yml) |
 | Towle, Cordes K. | 13923 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-07-23 | [md](../markdown/13923-transcript.md) - [yaml](../yaml/13923-transcript.yml) |
@@ -1856,6 +1855,7 @@
 | Webster, Cacina Y. | 63887 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-07-11 | [md](../markdown/63887-transcript.md) - [yaml](../yaml/63887-transcript.yml) |
 | Tran, Danny K. | 63983 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-09-24 | [md](../markdown/63983-transcript.md) - [yaml](../yaml/63983-transcript.yml) |
 | Wu, Jing F. | 63985 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-01-21 | [md](../markdown/63985-transcript.md) - [yaml](../yaml/63985-transcript.yml) |
+| San, Luan A. | 63986 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-18 | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
 | Orr, Riagan F. | 64051 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-09-12 | [md](../markdown/64051-transcript.md) - [yaml](../yaml/64051-transcript.yml) |
 | Wenger, Noah H. | 64197 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-01-07 | [md](../markdown/64197-transcript.md) - [yaml](../yaml/64197-transcript.yml) |
 | Labato, Chaz J. | 64296 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-03-28 | [md](../markdown/64296-transcript.md) - [yaml](../yaml/64296-transcript.yml) |

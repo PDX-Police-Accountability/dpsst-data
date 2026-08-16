@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | PDP1268D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 6/26/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/26/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/4/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

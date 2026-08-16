@@ -98,6 +98,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/11/2026
+  course: OCS0977D
+  title: Glock Gen 5/6 Armorer Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/10/2026
+  course: OCS2785D
+  title: July and August 2026 Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/31/2026
   course: OCS0139D
   title: 2026 3rd Qtr Patrol Shotgun

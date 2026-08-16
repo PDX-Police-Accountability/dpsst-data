@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 7/3/2026
+  course: PDP2555D
+  title: 2026 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 6/25/2026
   course: PDP1391D
   title: 2026 FTEP Intro to Police Vehicle Operations (PVO)

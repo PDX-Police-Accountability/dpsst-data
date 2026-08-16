@@ -70,6 +70,7 @@
 | 2/9/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 2/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/26/2026 | PDP2284D | Gift of Time  Distance Advantages for SWAT | Passed | 0.0 | 1.00 |
+| 1/21/2026 | PDP0777D | Navigating the Treacheries of Video Evidence | Passed | 0.0 | 2.00 |
 | 1/7/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 12/29/2025 | PDP1842C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 12/29/2025 | PDP3067C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
@@ -79,6 +80,7 @@
 | 12/9/2025 | PDP2445C | 2022-1 In Service CIT PSRvsPR Video 2 | Passed | 0.0 | 0.25 |
 | 12/9/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/18/2025 | PDP2298C | 2020 Trng Managing Critical Incidents Well 5/2020 | Passed | 0.0 | 0.25 |
+| 11/18/2025 | PDP0462D | Lexipol Two Tracks One Event Mission Ready | Passed | 0.0 | 3.00 |
 | 11/17/2025 | PDP3813C | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |
 | 11/17/2025 | PDP1367C | 2025 Sup IS Supporting Officers During Internal | Passed | 0.0 | 1.00 |
 | 11/17/2025 | PDP4482C | 2025 Sup IS Leadership in Action Video | Passed | 0.0 | 1.00 |

@@ -272,6 +272,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/15/2025
+  course: PDP2663D
+  title: LEDA Oregon Fall 2025 Training AUS
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/1/2025
   course: PDP2365C
   title: 2025-3 Range Qualification Primary Firearm

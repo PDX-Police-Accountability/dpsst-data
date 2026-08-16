@@ -106,6 +106,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/13/2026
+  course: PDS2507D
+  title: Summer 2026 Sgt. Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/28/2026
+  course: 42290D
+  title: July 2026 Crisis Negotiations Team Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/24/2026
+  course: PDS4213D
+  title: Fire Safety Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 6/2/2026
   course: PDS0931D
   title: ConSim

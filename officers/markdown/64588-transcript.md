@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2026 | PDP4414D | 2026 Patrol Rifle New Operator Courses | Passed | 0.0 | 54.00 |
 | 6/12/2026 | PDP1657C | CPR/First Aid | Passed | 0.0 | 1.00 |
 | 6/10/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/6/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

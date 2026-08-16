@@ -69,6 +69,7 @@
 | 11/7/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
 | 11/7/2025 | PDP0072C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
 | 11/7/2025 | PDP1491C | 2025-10, Legal Updates: Miranda  Right | Passed | 0.0 | 0.25 |
+| 10/22/2025 | PDP1575D | IACP 2025 Annual Conference | Passed | 0.0 | 36.00 |
 | 10/15/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/15/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/15/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
 | 4/27/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/5/2026 | LOP3930C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/23/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |

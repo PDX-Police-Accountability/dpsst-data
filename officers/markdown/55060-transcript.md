@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | PDP1068D | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |
 | 6/25/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/25/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/24/2026 | PDP0759C | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Passed | 0.0 | 9.00 |

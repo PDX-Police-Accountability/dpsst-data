@@ -36,7 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | PDP1602D | 2026 Satellite Firearms Instructor School | Instructed | 0.0 | 90.00 |
 | 7/10/2026 | PDP0940D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 7/3/2026 | PDP2555D | 2026 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 6/12/2026 | PDP1446C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/10/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/10/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

@@ -38,9 +38,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
+| 6/15/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
+| 6/8/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
+| 6/5/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
+| 6/3/2026 | REG3027D | Patrol Rifle IDC | Passed | 0.0 | 30.00 |
+| 5/19/2026 | PDS1930D | Firearms IDC | Instructed | 0.0 | 4.00 |
 | 4/15/2026 | PDS4219D | Range | Instructed | 0.0 | 2.00 |
 | 3/16/2026 | PDS1039C | Range Qualification | Instructed | 0.0 | 2.00 |
 | 3/13/2026 | LOP1483D | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
+| 2/24/2026 | PDS4250D | Traffic Stops | Passed | 0.0 | 2.00 |
+| 2/23/2026 | PDS0142D | Less Lethal | Instructed | 0.0 | 4.00 |
 | 2/12/2026 | PDS1039C | Range Qualification | Instructed | 0.0 | 2.00 |
 | 2/10/2026 | PDS1728C | High Risk Handcuffing | Instructed | 0.0 | 4.00 |
 | 2/10/2026 | PDS0296C | LE ConSim | Instructed | 0.0 | 8.00 |

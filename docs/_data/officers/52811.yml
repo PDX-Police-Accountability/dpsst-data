@@ -69,6 +69,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/4/2026
+  course: PDS1974D
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/3/2026
+  course: PDS1974D
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/19/2026
+  course: PDS1930D
+  title: Firearms IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/15/2026
   course: GSP1957D
   title: SWAT Sniper Range

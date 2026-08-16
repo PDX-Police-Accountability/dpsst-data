@@ -43,6 +43,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/12/2026
+  course: PDP2303D
+  title: Hiding in Plain Sight Mobile Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 6/3/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation
@@ -319,6 +325,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/15/2025
+  course: PDP2663D
+  title: LEDA Oregon Fall 2025 Training AUS
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/10/2025
   course: PDP1044B
   title: 2025-09 CAO Legal Updates for 2/2025

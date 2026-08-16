@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/28/2026
+  course: PDP4414D
+  title: 2026 Patrol Rifle New Operator Courses
+  status: Passed
+  score: '0.0'
+  hours: '54.00'
 - date: 6/20/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees

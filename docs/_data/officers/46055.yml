@@ -249,6 +249,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/22/2025
+  course: PDP1575D
+  title: IACP 2025 Annual Conference
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 10/15/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training

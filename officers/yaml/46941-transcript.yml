@@ -57,6 +57,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 7/17/2026
+  course: PDP1928D
+  title: 2026 US Marshal PNVOTF Officer Safety Seminar
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/8/2026
   course: PDP3959D
   title: 2026 K-9 (K9) Weekly Training

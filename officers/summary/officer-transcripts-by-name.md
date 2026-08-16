@@ -286,7 +286,6 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
-| * MISSING | 63986 |  |  |  |  |  | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2024-11-07 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, Andrew D. | 63736 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63736-transcript.md) - [yaml](../yaml/63736-transcript.yml) |
@@ -1533,6 +1532,7 @@
 | Salmestrelli, Eric O. | 57743 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-04-06 | [md](../markdown/57743-transcript.md) - [yaml](../yaml/57743-transcript.yml) |
 | Samaranch Parellada, Jaume | 67443 | Portland Police Bureau | Active | Police Officer | Hired | 2026-04-23 | [md](../markdown/67443-transcript.md) - [yaml](../yaml/67443-transcript.yml) |
 | Samora, Shaye L. | 51733 | Portland Police Bureau | Active | Detective | Promotion | 2017-09-21 | [md](../markdown/51733-transcript.md) - [yaml](../yaml/51733-transcript.yml) |
+| San, Luan A. | 63986 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-18 | [md](../markdown/63986-transcript.md) - [yaml](../yaml/63986-transcript.yml) |
 | Sanchez, John Paul G. | 66662 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66662-transcript.md) - [yaml](../yaml/66662-transcript.yml) |
 | Sanders, David P. | 47719 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-01 | [md](../markdown/47719-transcript.md) - [yaml](../yaml/47719-transcript.yml) |
 | Sandsness, James C., II | 64356 | Portland Police Bureau | Active | Police Officer | Hired | 2023-07-20 | [md](../markdown/64356-transcript.md) - [yaml](../yaml/64356-transcript.yml) |

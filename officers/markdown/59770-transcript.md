@@ -31,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/30/2026 | PDP2211D | SERT Scenario Training | Passed | 0.0 | 9.00 |
+| 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 7/2/2026 | PDP0919D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/27/2026 | PDP3615C | 2026 Control Tactics Satellite Instructor Course | Passed | 0.0 | 18.00 |
 | 6/18/2026 | PDP2687D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

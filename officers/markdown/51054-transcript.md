@@ -35,6 +35,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2026 | PDP3768D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/23/2026 | PDP3768D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
+| 7/16/2026 | PDP2296D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
+| 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 5.00 |
+| 7/7/2026 | PDP1841D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/11/2026 | PDP1742D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/21/2026 | PDP3041C | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

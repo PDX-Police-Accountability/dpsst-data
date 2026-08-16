@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 6/12/2026
+  course: PDP2115D
+  title: Hiding in Plain Sight Mobile Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 5/13/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'
