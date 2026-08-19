@@ -5,13 +5,14 @@
 | dpsst_identifier | 50696 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/13/2026 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 10/21/2021 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 11/9/2020 | Portland Police Bureau | Retrn MLOA | Police Off |  |  |
 | 10/10/2019 | Portland Police Bureau | Mil-LOA | Police Off |  |  |
@@ -44,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 6/30/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/30/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/30/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |

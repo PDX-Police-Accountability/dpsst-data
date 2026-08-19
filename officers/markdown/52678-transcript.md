@@ -5,19 +5,20 @@
 | dpsst_identifier | 52678 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/13/2026 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 3/17/2022 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 7/9/2012 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/24/2026 | Police Officer | Supervisory | App Recd |  |  |  |
+| 8/17/2026 | Police Officer | Supervisory | Granted | 8/17/2026 |  |  |
 | 5/7/2024 | Police Officer | Advanced | Granted | 5/7/2024 |  |  |
 | 3/9/2022 | Police Officer | Intermediate | Granted | 3/9/2022 |  |  |
 | 1/2/2014 | Police Officer | Basic | Granted | 1/2/2014 |  |  |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 6/25/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/25/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/14/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |

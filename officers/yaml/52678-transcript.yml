@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '52678'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Sergeant
+  rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/13/2026
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 3/17/2022
   agency: Portland Police Bureau
   action: Promotion
@@ -22,11 +28,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/24/2026
+- status_date: 8/17/2026
   certificate: Police Officer
   level: Supervisory
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 8/17/2026
   expiration_date: ''
   probation_date: ''
 - status_date: 5/7/2024
@@ -51,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/13/2027
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 6/25/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)

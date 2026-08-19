@@ -1929,6 +1929,10 @@ attribute_records:
   expiration_date: 2/2/2028
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
