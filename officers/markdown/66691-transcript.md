@@ -88,7 +88,7 @@
 | 3/9/2026 | PDP3152C | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/9/2026 | PDP3109C | 2024 PVO Recorded In-Service | Passed | 0.0 | 1.50 |
 | 3/9/2026 | PDP0854C | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
-| 3/6/2026 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 3/6/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/5/2026 | PDP0435C | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP0615C | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP0051C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

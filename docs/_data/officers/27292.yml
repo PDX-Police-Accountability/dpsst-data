@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/28/2026
+  course: PDS4128D
+  title: July 2026 Crisis Negotiations Team Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/24/2026
   course: PDS4213D
   title: Fire Safety Training

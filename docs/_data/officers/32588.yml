@@ -94,6 +94,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/14/2026
+  course: GSP4094D
+  title: Handgun In-service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/13/2026
+  course: GSP1328D
+  title: First Aid / CPR Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/13/2026
   course: GSP3295D
   title: Deflection Update 2026

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/21/2026
+  course: VND0666D
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/16/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation

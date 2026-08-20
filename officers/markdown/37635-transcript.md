@@ -27,10 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | CPR | 1/15/2026 | 1/15/2028 |
 | Certification Cards | First Aid and CPR | 1/15/2026 | 1/15/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 1/9/2025 | 1/9/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education

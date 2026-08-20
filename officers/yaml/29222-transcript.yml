@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/14/2026
+  course: GSP1914D
+  title: First Aid / CPR Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/28/2026
   course: GSP2406D
   title: Karly's Law Training

@@ -6010,7 +6010,7 @@ training_records:
   hours: '12.00'
 attribute_records:
 - topic: Certification Cards
-  value: CPR
+  value: First Aid and CPR
   effective_date: 5/29/2026
   expiration_date: 5/29/2028
 - topic: Maintenance Requirements

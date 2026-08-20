@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2026
+  course: PDP0118D
+  title: Use of Drones by Public Safety Agencies
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/25/2026
   course: PDP4424C
   title: Homeland Security Specialist Capstone

@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2026 | BNP1671D | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 7/22/2026 | BNP2872D | The Art  Science of Leadership | Passed | 0.0 | 3.00 |
 | 6/30/2026 | BNP2130D | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |
 | 5/19/2026 | BNP1586C | Creating Bounce | Passed | 0.0 | 0.50 |

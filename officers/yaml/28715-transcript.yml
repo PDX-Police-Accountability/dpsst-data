@@ -76,8 +76,8 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 7/22/2026
-  course: HBP2255D
-  title: In-Service 2026-3, Active Shooter
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '8.00'
@@ -88,8 +88,8 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 7/15/2026
-  course: HBP3957D
-  title: In-Service 2026-3, Active Shooter
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '8.00'
@@ -100,8 +100,8 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 7/8/2026
-  course: HBP0702D
-  title: In-Service 2026-3, Active Shooter
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '8.00'
@@ -112,8 +112,8 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 7/1/2026
-  course: HBP4045D
-  title: In-service 2026-3, Active Shooter
+  course: XDELETE4
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '8.00'

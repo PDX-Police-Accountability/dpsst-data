@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2026 | PDP0118D | Use of Drones by Public Safety Agencies | Passed | 0.0 | 2.00 |
 | 6/25/2026 | PDP4424C | Homeland Security Specialist Capstone | Passed | 0.0 | 10.00 |
 | 6/16/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/3/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

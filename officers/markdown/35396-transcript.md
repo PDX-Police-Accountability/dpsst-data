@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2026 | GSP4094D | Handgun In-service | Passed | 0.0 | 10.00 |
 | 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
 | 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
 | 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |

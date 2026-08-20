@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/5/2026
+  course: VND3736D
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/31/2026
   course: LGS3083D
   title: Adult CPR/First Aid

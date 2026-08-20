@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2026
+  course: GSP3616D
+  title: PVO In-service 2026
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/21/2026
   course: GSP4239D
   title: UAS Monthly Training

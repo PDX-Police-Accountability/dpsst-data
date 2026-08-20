@@ -41,7 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
-| 7/22/2026 | HBP2255D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
+| 7/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 7/22/2026 | HBP3022D | In-Service 2026-3, Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |
 | 6/23/2026 | HBP4411D | Case Law Update | Passed | 0.0 | 2.00 |
 | 3/11/2026 | HBP0215C | ODT - Working from Cleared Areas, Foot Chases | Passed | 0.0 | 1.00 |

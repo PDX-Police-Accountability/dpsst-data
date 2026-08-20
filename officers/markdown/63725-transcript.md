@@ -28,6 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/13/2016 | Bachelor Science | University Of Oregon |  | 175.0 |
+| 6/15/2014 | No Degree | Portland State University |  | 19.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

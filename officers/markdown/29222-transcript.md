@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2026 | GSP1914D | First Aid / CPR Training | Passed | 0.0 | 4.00 |
 | 7/28/2026 | GSP2406D | Karly's Law Training | Passed | 0.0 | 0.50 |
 | 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
 | 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |

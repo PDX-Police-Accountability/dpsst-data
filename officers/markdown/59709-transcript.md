@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/11/2026 | BNP1671D | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 7/21/2026 | BNP2872D | The Art  Science of Leadership | Passed | 0.0 | 3.00 |
 | 7/21/2026 | BNP4343D | Active Threat / Use of Force | Passed | 0.0 | 3.00 |
 | 7/7/2026 | BNP2935D | UAS Scene Mapping and Tactical Remote Deployment | Passed | 0.0 | 7.50 |

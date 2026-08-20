@@ -5,13 +5,14 @@
 | dpsst_identifier | 50500 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Detective |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/13/2026 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 11/21/2019 | Portland Police Bureau | Promotion | Detective |  |  |
 | 4/16/2009 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 7/2/2026 | PDP2866D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/11/2026 | PDP1742D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/10/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

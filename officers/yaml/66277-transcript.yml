@@ -37,8 +37,8 @@ training_records:
   score: '0.0'
   hours: '1.50'
 - date: 7/8/2026
-  course: HBP0702D
-  title: In-Service 2026-3, Active Shooter
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '8.00'
@@ -63,6 +63,12 @@ training_records:
 - date: 4/22/2026
   course: HBP4315C
   title: In-Service 2026-2, Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/22/2026
+  course: HBP4314D
+  title: In-Service 2026-2, Trauma Informed Response Trng
   status: Passed
   score: '0.0'
   hours: '4.00'

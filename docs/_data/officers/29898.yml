@@ -93,6 +93,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 8/14/2026
+  course: GSP4094D
+  title: Handgun In-service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/13/2026
   course: GSP3295D
   title: Deflection Update 2026
