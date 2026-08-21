@@ -50,6 +50,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2026 | SVP3257D | CIS OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 8/2/2026 | SVP0153D | Temporary Warrant Update | Passed | 0.0 | 0.25 |
 | 7/7/2026 | SVP1660D | CIS OSHA Heat Illness Prevention | Passed | 0.0 | 1.00 |
 | 6/12/2026 | SVP1987D | Emergency Vehilce Operations (EVO) | Passed | 0.0 | 4.00 |

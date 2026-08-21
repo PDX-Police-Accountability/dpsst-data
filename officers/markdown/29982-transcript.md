@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2026 | SVP3257D | CIS OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 8/3/2026 | SVP0528D | Inquiry Level LEDS Recertification | Passed | 0.0 | 1.00 |
 | 8/3/2026 | SVP2510D | CJIS Security Test | Passed | 0.0 | 1.00 |
 | 8/2/2026 | SVP0153D | Temporary Warrant Update | Passed | 0.0 | 0.25 |

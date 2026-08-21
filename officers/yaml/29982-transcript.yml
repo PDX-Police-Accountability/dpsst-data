@@ -96,6 +96,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2026
+  course: SVP3257D
+  title: CIS OSHA Wildfire Smoke Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/3/2026
   course: SVP0528D
   title: Inquiry Level LEDS Recertification

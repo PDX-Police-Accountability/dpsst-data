@@ -4,14 +4,15 @@
 | name | Carnighan, Lencin F. |
 | dpsst_identifier | 34792 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/26/2026 | Portland Police Bureau | Hired | Police Off |  |  |
 | 3/23/2026 | Talent Police Department | Resigned | Police Off |  |  |
 | 10/29/2007 | Talent Police Department | Reclassed | Police Off |  |  |
 | 5/16/2007 | Talent Police Department | Hired | Reserve |  |  |
@@ -20,13 +21,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/23/2026 | Police Officer | Advanced | Lapsed | 12/15/2021 | 3/23/2031 |  |
-| 6/23/2026 | Police Officer | Basic | Lapsed | 1/14/2009 | 3/23/2031 |  |
-| 6/23/2026 | Police Officer | Intermediate | Lapsed | 7/8/2020 | 3/23/2031 |  |
+| 12/15/2021 | Police Officer | Advanced | Granted | 12/15/2021 |  |  |
+| 7/8/2020 | Police Officer | Intermediate | Granted | 7/8/2020 |  |  |
+| 1/14/2009 | Police Officer | Basic | Granted | 1/14/2009 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/21/2026 | 4/21/2028 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |

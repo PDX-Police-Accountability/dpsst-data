@@ -48,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/1/2026 | CAP0325D | Ethics - Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
+| 7/29/2026 | CAP2636D | DV Strangulation Investigations | Passed | 0.0 | 2.00 |
 | 6/24/2026 | CAP2562C | Rifle Reloads and Malfunctions | Passed | 0.0 | 2.00 |
 | 5/14/2026 | OAC0862C | Tackling the #1 Killer of Active  Ret LE | Passed | 0.0 | 3.00 |
 | 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |

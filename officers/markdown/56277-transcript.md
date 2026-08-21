@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/1/2026 | CAP0325D | Ethics - Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
+| 7/29/2026 | CAP2636D | DV Strangulation Investigations | Passed | 0.0 | 2.00 |
 | 7/15/2026 | CAP0029D | Active Threat Training | Passed | 0.0 | 4.00 |
 | 6/24/2026 | CAP2562C | Rifle Reloads and Malfunctions | Passed | 0.0 | 2.00 |
 | 4/29/2026 | MFS1798C | Haley Strategic -Disruptive Science- Pistol | Passed | 0.0 | 36.00 |

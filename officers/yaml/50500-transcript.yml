@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 8/19/2026
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 7/19/2022
   certificate: Police Officer
   level: Advanced
@@ -182,6 +189,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/26/2026
+  course: PDP1218D
+  title: ICS 400 Advanced Command and General Staff
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/12/2026
   course: PDP3076C
   title: 2026 SERT Training - FIREARMS
@@ -296,6 +309,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/4/2025
+  course: PDP1513D
+  title: ICS 300 Intermediate Incident Comm for Expand
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 11/28/2025
+  course: PDP1788D
+  title: IS-200 Basic Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/28/2025
+  course: PDP2527D
+  title: IS 800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/25/2025
   course: PDP2073C
   title: 2025-3 Range Qualification 40mm Less Lethal Qual

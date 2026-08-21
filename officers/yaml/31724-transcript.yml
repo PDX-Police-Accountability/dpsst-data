@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2026
+  course: BNS2035D
+  title: Civil Commitment and Aid and Assist
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/20/2026
   course: BNS2496D
   title: Ethos Academy - Ethics

@@ -3,12 +3,18 @@ header_record:
   name: Carnighan, Lencin F.
   dpsst_identifier: '34792'
   agency: Portland Police Bureau
-  employment_status: Inactive
-  rank: Reserve Officer
+  employment_status: Active
+  rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/26/2026
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/23/2026
   agency: Talent Police Department
   action: Resigned
@@ -40,26 +46,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/23/2026
+- status_date: 12/15/2021
   certificate: Police Officer
   level: Advanced
-  status: Lapsed
+  status: Granted
   certificate_date: 12/15/2021
-  expiration_date: 3/23/2031
+  expiration_date: ''
   probation_date: ''
-- status_date: 6/23/2026
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 1/14/2009
-  expiration_date: 3/23/2031
-  probation_date: ''
-- status_date: 6/23/2026
+- status_date: 7/8/2020
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Granted
   certificate_date: 7/8/2020
-  expiration_date: 3/23/2031
+  expiration_date: ''
+  probation_date: ''
+- status_date: 1/14/2009
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 1/14/2009
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 6/28/2026
@@ -4549,6 +4555,14 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/21/2026
   expiration_date: 4/21/2028
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/10/2008
