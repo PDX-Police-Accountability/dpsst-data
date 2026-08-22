@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2026 | MNS3225D | Yamhill County Deflection Program | Passed | 0.0 | 0.50 |
 | 4/30/2026 | MNS1093C | Reserve Academy EVO Day 2- DPSST track | Instructed | 0.0 | 10.00 |
 | 4/30/2026 | MNS1132C | Reserve Academy EVO Day 3- DPSST track | Instructed | 0.0 | 10.00 |
 | 3/6/2026 | MNS4332C | Low Light Qualification/Training | Passed | 0.0 | 2.00 |

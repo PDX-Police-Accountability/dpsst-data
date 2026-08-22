@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/10/2026
+  course: PSU2183D
+  title: Critical Incident Review
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/18/2026
   course: PHP3352C
   title: Flashbang IDP

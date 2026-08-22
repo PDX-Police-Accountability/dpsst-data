@@ -276,6 +276,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 2/25/2026
+  course: PDP0210D
+  title: First Aid/CPR Certification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/24/2026
   course: PDP1239C
   title: Annual Bloodborne Pathogens (CityLearner)

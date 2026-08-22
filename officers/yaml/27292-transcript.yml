@@ -112,6 +112,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/13/2026
+  course: PDS3493D
+  title: Summer 2026 Sgt. Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/28/2026
   course: XDELETE1
   title: Pending for Deletion Due to Duplicate or Other Rea

@@ -40,6 +40,8 @@
 | 7/1/2026 | HBS0454D | Virtual Anti-Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS2108D | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS1307D | Virtual - Baton and OC Updates | Passed | 0.0 | 0.50 |
+| 7/1/2026 | HBS4511D | Virtual - PREA | Passed | 0.0 | 1.00 |
+| 7/1/2026 | HBS1627D | Virtual Cultural Awareness Diversity | Passed | 0.0 | 1.00 |
 | 4/24/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/1/2026 | REG2263D | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/12/2026 | REG1205C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

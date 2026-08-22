@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2026 | PSU2183D | Critical Incident Review | Passed | 0.0 | 0.25 |
 | 6/18/2026 | PHP3352C | Flashbang IDP | Passed | 0.0 | 8.00 |
 | 6/17/2026 | PHP2680C | Chemical Munitions IDP | Passed | 0.0 | 8.00 |
 | 6/16/2026 | PHP1762C | Impact Munitions IDP | Passed | 0.0 | 8.00 |

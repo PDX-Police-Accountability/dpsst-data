@@ -136,6 +136,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/5/2026
+  course: VND1519D
+  title: 28 CFR 23
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/31/2026
   course: LGS3083D
   title: Adult CPR/First Aid

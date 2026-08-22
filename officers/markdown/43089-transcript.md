@@ -49,6 +49,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/5/2026 | VND3736D | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 8/5/2026 | VND1519D | 28 CFR 23 | Passed | 0.0 | 2.00 |
 | 7/31/2026 | LGS3083D | Adult CPR/First Aid | Passed | 0.0 | 1.50 |
 | 6/11/2026 | REG3366C | Handgun IDC | Instructed | 0.0 | 40.00 |
 | 3/15/2026 | LGS2539C | Foundation in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |

@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/18/2026 | BNP1242D | SWAT-Tactical Combat Casuality Care | Passed | 0.0 | 4.00 |
+| 8/18/2026 | BNP1119D | SWAT-Gas mask fit testing | Passed | 0.0 | 0.50 |
+| 8/18/2026 | BNP2665D | SWAT-Physical and Weapon Qualifications | Passed | 0.0 | 3.50 |
 | 8/6/2026 | BNP3122D | SWAT-Land Navigation and GPS applications | Passed | 0.0 | 5.00 |
 | 8/6/2026 | BNP4518D | SWAT-Equipment overview / review | Passed | 0.0 | 1.00 |
 | 7/14/2026 | BNP4592D | SWAT-Weapon Proficiency | Passed | 0.0 | 8.00 |
@@ -61,6 +64,11 @@
 | 4/6/2026 | BNP3760C | SWAT- Building clearing | Passed | 0.0 | 2.00 |
 | 4/2/2026 | SMP4142C | 2026 OTOA TACTICAL CONFERENCE | Passed | 0.0 | 20.00 |
 | 3/19/2026 | BNP1699C | SWAT-Rifle and Pistol Skill Builder | Passed | 0.0 | 8.00 |
+| 3/12/2026 | RMP2159D | Crime Lab and Forms Review | Passed | 0.0 | 1.00 |
+| 3/12/2026 | RMP3024D | EVOC | Passed | 0.0 | 4.00 |
+| 3/12/2026 | RMP0079D | Deflection Program Overview | Passed | 0.0 | 1.00 |
+| 3/12/2026 | RMP2138D | Ethics | Passed | 0.0 | 1.00 |
+| 3/12/2026 | RMP1362D | Leadership | Passed | 0.0 | 1.00 |
 | 3/10/2026 | BNP3078C | SWAT- Overland HRT Scenario | Passed | 0.0 | 8.00 |
 | 2/19/2026 | BNP3794C | SWAT-Active Threat / Rescue Task Force Scenerios | Passed | 0.0 | 8.00 |
 | 2/5/2026 | BNP2413C | SWAT- Building Clearing | Passed | 0.0 | 8.00 |

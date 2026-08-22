@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/13/2026
+  course: MNS3225D
+  title: Yamhill County Deflection Program
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/30/2026
   course: MNS1093C
   title: Reserve Academy EVO Day 2- DPSST track

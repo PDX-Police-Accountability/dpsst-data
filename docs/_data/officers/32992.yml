@@ -3,12 +3,18 @@ header_record:
   name: Harris, Sean W.
   dpsst_identifier: '32992'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/13/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 5/14/2020
   agency: Portland Police Bureau
   action: Promotion
@@ -63,7 +69,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 4/13/1998
-  expiration_date: ''
+  expiration_date: 11/13/2026
   probation_date: ''
 training_records:
 - date: 6/30/2026

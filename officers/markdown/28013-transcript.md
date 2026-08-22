@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2026 | PSU2183D | Critical Incident Review | Passed | 0.0 | 0.25 |
 | 2/24/2026 | PSU4321C | HSI Adult First Aid CPR AED All ages | Passed | 0.0 | 4.00 |
 | 2/12/2026 | LCP0199C | FTEP Supervision Course | Passed | 0.0 | 14.00 |
 | 1/29/2026 | PSU4230C | Use of Force Policy and Application | Passed | 0.0 | 1.00 |

@@ -171,6 +171,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/26/2026
+  course: PDP1562D
+  title: ICS 400 Advanced Command and General Staff
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/20/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

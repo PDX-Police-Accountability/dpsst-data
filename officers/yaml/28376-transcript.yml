@@ -148,6 +148,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/25/2026
+  course: PDP0210D
+  title: First Aid/CPR Certification
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/3/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg

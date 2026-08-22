@@ -4,7 +4,7 @@
 | name | Harris, Sean W. |
 | dpsst_identifier | 32992 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/13/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 5/14/2020 | Portland Police Bureau | Promotion | Detective |  |  |
 | 3/23/2006 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/5/2006 | Bend Police Department | Resigned | Police Off |  |  |
@@ -23,7 +24,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/13/1998 | Police Officer | Basic | Granted | 4/13/1998 |  |  |
+| 4/13/1998 | Police Officer | Basic | Granted | 4/13/1998 | 11/13/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

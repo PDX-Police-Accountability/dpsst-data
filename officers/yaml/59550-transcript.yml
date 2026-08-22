@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/18/2026
+  course: BNP1242D
+  title: SWAT-Tactical Combat Casuality Care
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/18/2026
+  course: BNP1119D
+  title: SWAT-Gas mask fit testing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/18/2026
+  course: BNP2665D
+  title: SWAT-Physical and Weapon Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 8/6/2026
   course: BNP3122D
   title: SWAT-Land Navigation and GPS applications
@@ -187,6 +205,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/12/2026
+  course: RMP2159D
+  title: Crime Lab and Forms Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2026
+  course: RMP3024D
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/12/2026
+  course: RMP0079D
+  title: Deflection Program Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2026
+  course: RMP2138D
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2026
+  course: RMP1362D
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/10/2026
   course: BNP3078C
   title: SWAT- Overland HRT Scenario

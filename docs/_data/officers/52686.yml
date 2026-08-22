@@ -152,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/25/2026
+  course: PDP0210D
+  title: First Aid/CPR Certification
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/20/2026
   course: PDP1502C
   title: 2026-1 Range Qualification Primary Firearm

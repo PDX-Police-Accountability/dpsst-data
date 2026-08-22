@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/10/2026
+  course: PSU2183D
+  title: Critical Incident Review
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/24/2026
   course: PSU4321C
   title: HSI Adult First Aid CPR AED All ages

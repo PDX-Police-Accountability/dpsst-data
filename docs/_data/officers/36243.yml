@@ -131,6 +131,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/1/2026
+  course: HBS4511D
+  title: Virtual - PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2026
+  course: HBS1627D
+  title: Virtual Cultural Awareness Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/30/2026
   course: HBS0920C
   title: IMT - Tactical Operations Center Level I
