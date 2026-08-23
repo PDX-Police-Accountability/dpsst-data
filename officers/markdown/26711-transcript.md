@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/7/2026 | Hillsboro Police Department | LOA | Lieutenant |  |  |
 | 4/30/2025 | Hillsboro Police Department | Return LOA | Lieutenant |  |  |
 | 10/9/2024 | Hillsboro Police Department | LOA | Lieutenant |  |  |
 | 1/11/2016 | Hillsboro Police Department | Reclassed | Lieutenant |  |  |
