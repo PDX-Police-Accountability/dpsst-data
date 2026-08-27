@@ -108,6 +108,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/9/2023
+  course: PDP2279D
+  title: IS 700 NIMS An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/10/2023
+  course: PDP1991D
+  title: ICS 200 Basic Incident Com System for Init Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/12/2023
+  course: PDP2461D
+  title: ICS 100 Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

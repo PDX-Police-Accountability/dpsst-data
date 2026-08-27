@@ -44,6 +44,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/12/2026
+  course: PDP1775D
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/6/2026
+  course: PDP3167D
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/5/2026
+  course: PDP2955D
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/4/2026
+  course: PDP4196D
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/4/2026
+  course: PDP4196D
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/3/2026
+  course: PDP3284D
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/22/2026
+  course: PDP2969D
+  title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/15/2026
   course: PDP1068D
   title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng

@@ -56,6 +56,10 @@
 | 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |
 | 10/16/2025 | LOP4459C | DEI, Sustainability,  ADA Training | Passed | 0.0 | 1.00 |
 | 9/16/2025 | HBA2747B | Recognizing and Responding to Stalking | Passed | 0.0 | 7.00 |
+| 9/11/2025 | LOP4359D | Taser Certification | Passed | 0.0 | 9.00 |
+| 9/10/2025 | LOP0928D | High Risk Traffic Stops | Passed | 0.0 | 2.00 |
+| 9/10/2025 | LOP2606D | Unknown Risk Traffic Stops | Passed | 0.0 | 4.00 |
+| 9/9/2025 | LOP2866D | Handgun Training | Passed | 0.0 | 32.00 |
 | 9/4/2025 | LOP3765B | OC Certification | Passed | 0.0 | 9.00 |
 | 9/3/2025 | LOP1386B | New Officer Defensive Tactics and Handcuffing | Passed | 0.0 | 5.00 |
 | 9/3/2025 | LOP4217B | High Risk Handcuffing and ASP | Passed | 0.0 | 4.00 |

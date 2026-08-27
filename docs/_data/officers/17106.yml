@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/12/2026
+  course: PDA3876D
+  title: Use of Force Update
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/7/2026
   course: PDA0182C
   title: Government Ethics

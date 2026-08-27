@@ -49,6 +49,12 @@ certification_records:
   expiration_date: 8/14/2028
   probation_date: ''
 training_records:
+- date: 8/19/2026
+  course: TMS3540D
+  title: Confrontational Simulations
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/11/2026
   course: TMS2318C
   title: Extreme Ownership Leadership Training 101

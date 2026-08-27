@@ -98,6 +98,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2026
+  course: OCS2327D
+  title: Shotgun Re-Familiarzation
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/11/2026
   course: OCS0977D
   title: Glock Gen 5/6 Armorer Course

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2026
+  course: REG3932D
+  title: Intoxilyzer 8000 Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/14/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)

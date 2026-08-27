@@ -80,6 +80,12 @@ certification_records:
   expiration_date: 3/29/2028
   probation_date: ''
 training_records:
+- date: 7/8/2026
+  course: JCP4108D
+  title: Professional Standards (ethics bulletin material)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/9/2022
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

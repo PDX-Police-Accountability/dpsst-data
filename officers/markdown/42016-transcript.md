@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2026 | PDP2955D | 2026 Explosive Disposal Unit (MEDU) Weekly Trng | Instructed | 0.0 | 9.00 |
 | 7/23/2026 | PDP3768D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/16/2026 | PDP2296D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |

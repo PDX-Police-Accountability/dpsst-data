@@ -42,9 +42,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2026 | OCS1014D | CNT Monthly Training - Scenario/Equipment | Passed | 0.0 | 6.00 |
 | 6/19/2026 | OCS2213C | CNT Monthly Training - SWAT / CNT joint scenarios | Passed | 0.0 | 8.00 |
 | 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 0.00 |
 | 5/15/2026 | OCS2902C | CNT Monthly Training - Negotiations | Passed | 0.0 | 8.00 |
+| 4/29/2026 | OCS3403D | WSHAN-Hostage Negotiations | Passed | 0.0 | 28.00 |
 | 4/24/2026 | OCS2098C | 2026 Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/17/2026 | OCS1114C | CNT Monthly Training - Scenario / De-escalation | Passed | 0.0 | 8.00 |
 | 4/17/2026 | OCS0103C | April DTs | Passed | 0.0 | 1.00 |

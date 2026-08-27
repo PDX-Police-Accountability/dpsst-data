@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/19/2026
+  course: HBP3441D
+  title: PoliceOne Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/29/2026
   course: HBP0407C
   title: In-Service 2026-2, Range

@@ -51,6 +51,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 6/17/2026 | BPT1161C | Operational Peer Support Symposium 2026 | Passed | 0.0 | 8.00 |
 | 4/27/2026 | HBP4419D | Supervisor Complaint Trng - Internal  External | Passed | 0.0 | 4.00 |
 | 2/11/2026 | HBP0167C | K9 Arrest and Control | Passed | 0.0 | 4.50 |

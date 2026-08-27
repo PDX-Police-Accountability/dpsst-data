@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2026 | PDP1508D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 6/24/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/16/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/12/2026 | OSH0314D | HIPS Mobile and Foot Surveillance | Passed | 0.0 | 30.00 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/18/2026 | Clackamas County Sheriff's Office | Resigned | Par/prob O |  |  |
 | 3/30/2026 | Clackamas County Sheriff's Office | LOA | Par/prob O |  |  |
 | 6/3/2024 | Clackamas County Sheriff's Office | Hired | Par/prob O |  |  |
 | 5/13/2024 | Oregon City Police Department | Resigned | Police Off |  |  |
@@ -23,8 +24,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/23/2025 | Parole  Probation Officer | Basic | Granted | 4/23/2025 |  |  |
-| 2/11/2022 | Police Officer | Basic | Granted | 2/11/2022 |  |  |
+| 4/23/2025 | Parole  Probation Officer | Basic | Granted | 4/23/2025 | 11/18/2026 |  |
+| 2/11/2022 | Police Officer | Basic | Granted | 2/11/2022 | 11/18/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

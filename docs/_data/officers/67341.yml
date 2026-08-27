@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/14/2026
+  course: PDP0959D
+  title: ICS-100 Intro to the Incident Command Syst
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/27/2026
   course: M10-23A
   title: DPSST Basic Police Course

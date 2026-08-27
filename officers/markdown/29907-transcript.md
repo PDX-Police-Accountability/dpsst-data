@@ -4,7 +4,7 @@
 | name | Russell, John M. |
 | dpsst_identifier | 29907 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/24/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 6/6/2002 | Portland Police Bureau | Promotion | Detective |  |  |
 | 9/8/1994 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/12/1995 | Police Officer | Basic | Granted | 6/12/1995 |  |  |
+| 6/12/1995 | Police Officer | Basic | Granted | 6/12/1995 | 11/24/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

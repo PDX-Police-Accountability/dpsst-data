@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/8/2026
+  course: MLP1240D
+  title: Pistol Qualifications
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/1/2026
   course: MLP4349C
   title: Why Emergency Preparedness Matters

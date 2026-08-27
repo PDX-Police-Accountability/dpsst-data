@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2026
+  course: PDP1508D
+  title: Enhanced Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/25/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation

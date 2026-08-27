@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2026 | OCS2327D | Shotgun Re-Familiarzation | Instructed | 0.0 | 1.00 |
 | 8/11/2026 | OCS0977D | Glock Gen 5/6 Armorer Course | Passed | 0.0 | 8.00 |
 | 8/10/2026 | OCS2785D | July and August 2026 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 7/31/2026 | OCS0139D | 2026 3rd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |

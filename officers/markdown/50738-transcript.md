@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2026 | PDP1508D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 7/30/2026 | PDP2211D | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 6/16/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/8/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

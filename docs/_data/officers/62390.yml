@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 1/30/2026
+  course: PDP2786D
+  title: HIDTA Basic Narcotics Investigation Course
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 1/23/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

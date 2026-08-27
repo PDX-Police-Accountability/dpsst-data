@@ -4,7 +4,7 @@
 | name | Frolov, Larry |
 | dpsst_identifier | 26855 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/6/2026 | Portland Police Bureau | Retired | Police Off |  |  |
 | 12/22/1993 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 10/1/1992 | Portland Police Bureau | LOA | Police Off |  |  |
 | 3/12/1992 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/28/1994 | Police Officer | Basic | Granted | 2/28/1994 |  |  |
+| 2/28/1994 | Police Officer | Basic | Granted | 2/28/1994 | 11/6/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

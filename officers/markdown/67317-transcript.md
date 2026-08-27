@@ -42,3 +42,6 @@
 | 4/6/2026 | PDP2243D | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
 | 4/1/2026 | PDP3696D | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
 | 4/1/2026 | PDP3137D | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 11/9/2023 | PDP2279D | IS 700 NIMS An Introduction | Passed | 0.0 | 4.00 |
+| 4/10/2023 | PDP1991D | ICS 200 Basic Incident Com System for Init Resp | Passed | 0.0 | 4.00 |
+| 3/12/2023 | PDP2461D | ICS 100 Intro to Incident Command System | Passed | 0.0 | 2.00 |

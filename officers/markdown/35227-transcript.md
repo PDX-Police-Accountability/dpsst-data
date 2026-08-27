@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2026 | PDA3876D | Use of Force Update | Passed | 0.0 | 1.50 |
 | 4/7/2026 | PDA0182C | Government Ethics | Passed | 0.0 | 1.00 |
 | 11/14/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |

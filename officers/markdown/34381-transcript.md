@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2026 | PDP1508D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 7/23/2026 | PDP3768D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/14/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/16/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

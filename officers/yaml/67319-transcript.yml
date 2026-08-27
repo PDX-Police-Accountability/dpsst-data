@@ -72,6 +72,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 4/23/2026
+  course: PDP0959D
+  title: ICS-100 Intro to the Incident Command Syst
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/22/2026
   course: PDP1235C
   title: 2026 FTEP Post DPSST Firearms

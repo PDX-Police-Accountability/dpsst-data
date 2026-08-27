@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2026 | PDP1508D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 6/21/2026 | PDP0521C | 2026 40mm Less Lethal New Operator Course | Passed | 0.0 | 18.00 |
 | 6/17/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/17/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/18/2026
+  agency: Clackamas County Sheriff's Office
+  action: Resigned
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
 - date: 3/30/2026
   agency: Clackamas County Sheriff's Office
   action: LOA
@@ -63,14 +69,14 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 4/23/2025
-  expiration_date: ''
+  expiration_date: 11/18/2026
   probation_date: ''
 - status_date: 2/11/2022
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/11/2022
-  expiration_date: ''
+  expiration_date: 11/18/2026
   probation_date: ''
 training_records:
 - date: 4/1/2026

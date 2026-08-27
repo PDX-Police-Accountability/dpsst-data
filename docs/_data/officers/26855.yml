@@ -3,12 +3,18 @@ header_record:
   name: Frolov, Larry
   dpsst_identifier: '26855'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/6/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/22/1993
   agency: Portland Police Bureau
   action: Return LOA
@@ -33,7 +39,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 2/28/1994
-  expiration_date: ''
+  expiration_date: 11/6/2026
   probation_date: ''
 training_records:
 - date: 6/30/2026

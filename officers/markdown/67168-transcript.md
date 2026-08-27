@@ -30,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/29/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/20/2026 | PDP1508D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 7/14/2026 | PDP3989D | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 7/9/2026 | PDP1163D | RegJIN RMS MRE | Passed | 0.0 | 14.00 |
 | 7/7/2026 | PDP3637D | Body Worn Camera | Passed | 0.0 | 3.00 |

@@ -40,6 +40,7 @@
 | 2/5/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 2/5/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/30/2026 | OCS0553C | Basic Narcotics Investigations | Passed | 0.0 | 80.00 |
+| 1/30/2026 | PDP2786D | HIDTA Basic Narcotics Investigation Course | Passed | 0.0 | 80.00 |
 | 1/23/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/23/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/2/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |

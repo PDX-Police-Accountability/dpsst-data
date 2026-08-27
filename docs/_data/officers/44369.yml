@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/19/2026
+  course: STP4157D
+  title: RAID Team Training 40 mm Use Against Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/6/2026
   course: STP0112D
   title: Adult and Child First Aid/CPR/AED

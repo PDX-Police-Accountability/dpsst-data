@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2026 | PDA3876D | Use of Force Update | Passed | 0.0 | 1.50 |
 | 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |
 | 10/9/2025 | PDA0352B | Tourniquet and Wound Packing | Passed | 0.0 | 1.00 |

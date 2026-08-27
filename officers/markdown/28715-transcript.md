@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
 | 7/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
 | 7/15/2026 | HBP1549D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |

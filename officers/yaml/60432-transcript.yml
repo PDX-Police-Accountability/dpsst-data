@@ -31,6 +31,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2026
+  course: REG3932D
+  title: Intoxilyzer 8000 Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 8/17/2026
+  course: PDP3747D
+  title: Intoxilyzer 8000 Certification
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/12/2026
   course: REG0910C
   title: Adult Learning Core

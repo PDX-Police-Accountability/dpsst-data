@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2026 | AVP4426D | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 7/8/2026 | AVP2857D | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 6/10/2026 | AVP2658C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 5/14/2026 | OAC4552C | Creating Thriving Police Cultures | Passed | 0.0 | 2.00 |

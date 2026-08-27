@@ -83,6 +83,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/17/2026
+  course: OCS1014D
+  title: CNT Monthly Training - Scenario/Equipment
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/19/2026
   course: OCS2213C
   title: CNT Monthly Training - SWAT / CNT joint scenarios
@@ -101,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/29/2026
+  course: OCS3403D
+  title: WSHAN-Hostage Negotiations
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 4/24/2026
   course: OCS2098C
   title: 2026 Annual Handgun Qualification
