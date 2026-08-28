@@ -31,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Passed | 0.0 | 7.00 |
+| 7/14/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Passed | 0.0 | 7.00 |
 | 6/27/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/12/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/12/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

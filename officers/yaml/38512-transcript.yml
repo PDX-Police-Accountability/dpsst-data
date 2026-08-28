@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/29/2026
+  course: PDP1255D
+  title: 2026 RRT Field Force Extrication In-Service Trng
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/24/2026
   course: PDP0759C
   title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng

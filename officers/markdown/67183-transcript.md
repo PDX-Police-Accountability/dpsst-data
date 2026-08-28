@@ -61,6 +61,7 @@
 | 2/26/2026 | PDP0720C | New Hire Firearms | Passed | 0.0 | 24.00 |
 | 2/25/2026 | PDP0210D | First Aid/CPR Certification | Passed | 0.0 | 3.00 |
 | 2/24/2026 | PDP1239C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 0.75 |
+| 2/23/2026 | PDP3223D | TEEX WMD/Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |
 | 2/18/2026 | PDP0648C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
 | 2/3/2026 | PDP0663C | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |
 | 6/22/2024 | PDP3354C | IS 700 National Incident Manage System Intro | Passed | 0.0 | 4.00 |

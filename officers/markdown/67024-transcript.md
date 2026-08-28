@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/5/2026 |  |
+| Certification Cards | First Aid and CPR | 12/18/2025 | 12/18/2027 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -77,6 +78,7 @@
 | 12/23/2025 | PDP3393C | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 12/22/2025 | PDP3537C | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 12/18/2025 | PDP0680C | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
+| 12/18/2025 | PDP0385D | Adult CPR/AED Infant CPR and First Aid | Passed | 0.0 | 3.00 |
 | 12/9/2025 | PDP0012C | 2025 FTEP Policy  Procedure | Passed | 0.0 | 9.00 |
 | 10/24/2024 | PDP2084C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |
 | 10/2/2024 | PDP3451C | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

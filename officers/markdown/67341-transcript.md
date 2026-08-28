@@ -33,8 +33,10 @@
 | 7/2/2026 | PDP1901D | New Radar Lidar Operator Course | Passed | 0.0 | 12.00 |
 | 7/2/2026 | REG0822D | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 5/14/2026 | PDP0959D | ICS-100 Intro to the Incident Command Syst | Passed | 0.0 | 2.00 |
+| 5/14/2026 | PDP2413D | ICS 200 Basic Incident Command Syst for Init Resp | Passed | 0.0 | 4.00 |
+| 5/14/2026 | PDP2447D | IS-700 NIMS An Introduction | Passed | 0.0 | 4.00 |
 | 4/27/2026 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
-| 4/22/2026 | PDP1235C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 4/22/2026 | PDP1235C | 2026 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 4/21/2026 | PDP3956C | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 4/15/2026 | PDP3833C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 5.00 |
 | 3/31/2026 | PDP0663C | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

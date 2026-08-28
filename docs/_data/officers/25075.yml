@@ -46,33 +46,33 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 8/23/2026
+  certificate: Police Officer
+  level: Advanced
+  status: Expired
+  certificate_date: 3/22/2010
+  expiration_date: ''
+  probation_date: ''
+- status_date: 8/23/2026
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 2/24/1994
+  expiration_date: ''
+  probation_date: ''
+- status_date: 8/23/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: Expired
+  certificate_date: 3/22/2010
+  expiration_date: ''
+  probation_date: ''
 - status_date: 3/31/2025
   certificate: Instructor
   level: ''
   status: Expired
   certificate_date: 1/20/2021
   expiration_date: ''
-  probation_date: ''
-- status_date: 11/23/2021
-  certificate: Police Officer
-  level: Advanced
-  status: Lapsed
-  certificate_date: 3/22/2010
-  expiration_date: 8/23/2026
-  probation_date: ''
-- status_date: 11/23/2021
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 2/24/1994
-  expiration_date: 8/23/2026
-  probation_date: ''
-- status_date: 11/23/2021
-  certificate: Police Officer
-  level: Intermediate
-  status: Lapsed
-  certificate_date: 3/22/2010
-  expiration_date: 8/23/2026
   probation_date: ''
 training_records:
 - date: 6/23/2026

@@ -20,6 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2027 | 12/31/2029 |
 | Code of Ethics | Law Enforcement Signed | 3/3/2025 |  |
 | Certification Cards | First Aid and CPR | 2/20/2025 | 2/20/2027 |
 ## Education
@@ -28,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2026 | PDP2004D | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
 | 5/27/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 5/7/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 4/1/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

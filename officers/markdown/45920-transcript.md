@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Passed | 0.0 | 7.00 |
 | 6/7/2026 | PDP2452C | 2026 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 4/23/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |

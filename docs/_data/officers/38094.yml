@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/15/2026
+  course: PDP2294D
+  title: 2026 Traffic Portland International Raceway Track
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 7/14/2026
+  course: PDP2294D
+  title: 2026 Traffic Portland International Raceway Track
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/28/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)

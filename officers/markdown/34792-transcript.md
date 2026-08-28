@@ -80,7 +80,7 @@
 | 4/27/2026 | PDP0724D | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP1237D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 4/27/2026 | PDP0386D | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
-| 4/22/2026 | PDP1235C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 4/22/2026 | PDP1235C | 2026 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 4/22/2026 | PDP0508D | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 4/22/2026 | PDP2381D | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 4/22/2026 | PDP1637D | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

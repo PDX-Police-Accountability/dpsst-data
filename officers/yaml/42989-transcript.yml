@@ -81,12 +81,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 5/22/2027
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 6/23/2026
   course: PDP3134D
   title: 2025-2026 Police Interceptor Utility Summary
@@ -195,6 +189,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 4/24/2026
+  course: 26-0026
+  title: DPSST Middle Management
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 4/17/2026
   course: VND2676C
   title: Collective Bargaining For Public Safety Employees
@@ -207,12 +207,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
-- date: 3/23/2026
-  course: 26-0026
-  title: DPSST Middle Management
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 3/11/2026
   course: PDP3486D
   title: Lexipol Leading Through the Generations

@@ -31,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Passed | 0.0 | 7.00 |
+| 7/14/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Passed | 0.0 | 7.00 |
 | 7/2/2026 | PDP1901D | New Radar Lidar Operator Course | Instructed | 0.0 | 12.00 |
 | 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 4/30/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

@@ -66,9 +66,21 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/23/2026
+  course: PDP2413D
+  title: ICS 200 Basic Incident Command Syst for Init Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/23/2026
+  course: PDP2447D
+  title: IS-700 NIMS An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/22/2026
   course: PDP1235C
-  title: 2026 FTEP Post DPSST Firearms
+  title: 2026 FTEP New Hire Firearms
   status: Passed
   score: '0.0'
   hours: '25.00'

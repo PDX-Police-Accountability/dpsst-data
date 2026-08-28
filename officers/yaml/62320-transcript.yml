@@ -37,6 +37,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '54.00'
+- date: 7/15/2026
+  course: PDP2294D
+  title: 2026 Traffic Portland International Raceway Track
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 7/14/2026
+  course: PDP2294D
+  title: 2026 Traffic Portland International Raceway Track
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/20/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation

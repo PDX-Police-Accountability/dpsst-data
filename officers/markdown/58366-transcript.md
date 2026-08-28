@@ -41,17 +41,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/25/2026 | OSH4505D | Stop Doing It All | Passed | 0.0 | 0.50 |
 | 8/12/2026 | OSH1346D | Decentralized Command | Passed | 0.0 | 1.00 |
 | 7/30/2026 | OSH1698D | Difficult Conversation: Not Meeting Expectations | Passed | 0.0 | 0.50 |
 | 7/21/2026 | OSH2246D | Court Decisions About Officer Decision-Making | Passed | 0.0 | 1.00 |
 | 7/9/2026 | OSH3801D | Unleashing Self-Aware Leadership | Passed | 0.0 | 1.00 |
-| 7/1/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 6/29/2026 | OSH2725D | OSP Defensive Tactics - 2nd Trimester TASER Course | Passed | 0.0 | 5.00 |
 | 6/17/2026 | OSH3916D | Central Region Leadership Summit | Passed | 0.0 | 4.00 |
 | 6/8/2026 | OSH3288C | 2nd Tri Firearms | Passed | 0.0 | 4.00 |
 | 5/19/2026 | OSH3633C | Manager Comp. Trng. - Records Management | Passed | 0.0 | 1.00 |
 | 5/12/2026 | OSH3345C | Interrupting the Pathways to Violence | Passed | 0.0 | 1.00 |
-| 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 4/24/2026 | 26-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 3/17/2026 | OSH4403C | Manager Comp. Trng. - PAF/TOMP Check-Ins | Passed | 0.0 | 2.00 |
 | 3/16/2026 | OSH0212D | 1st Tri Firearms | Passed | 0.0 | 3.00 |
 | 3/11/2026 | OSH3626C | Oregon Women in Law Enforcement Conference | Passed | 0.0 | 20.00 |

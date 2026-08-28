@@ -594,6 +594,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/2/2025
+  course: PDP3332D
+  title: FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 12/1/2025
   course: PDP1893C
   title: 2024 ECIT Dispatch Update Video

@@ -324,6 +324,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 12/18/2025
+  course: PDP0385D
+  title: Adult CPR/AED Infant CPR and First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/9/2025
   course: PDP0012C
   title: 2025 FTEP Policy  Procedure
@@ -347,4 +353,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/5/2026
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/18/2025
+  expiration_date: 12/18/2027
 education_records: []

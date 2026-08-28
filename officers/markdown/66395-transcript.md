@@ -123,6 +123,7 @@
 | 12/3/2025 | PDP2397C | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
 | 12/2/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 12/2/2025 | PDP3332D | FTEP Post DPSST Firearms | Passed | 0.0 | 24.00 |
 | 12/1/2025 | PDP1893C | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 12/1/2025 | PDP2448C | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 12/1/2025 | PDP4018C | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |

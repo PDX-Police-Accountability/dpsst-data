@@ -20,6 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2027 | 12/31/2029 |
 | Code of Ethics | Law Enforcement Signed | 3/3/2025 |  |
 | Certification Cards | First Aid and CPR | 2/20/2025 | 2/20/2027 |
 ## Education
@@ -30,6 +32,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/30/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/30/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 6/7/2026 | PDP2004D | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
 | 5/13/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 4/26/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/5/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

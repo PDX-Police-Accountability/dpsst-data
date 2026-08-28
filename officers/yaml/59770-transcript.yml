@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/5/2026
+  course: PDP4345D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 7/30/2026
   course: PDP2211D
   title: SERT Scenario Training

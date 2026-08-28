@@ -546,6 +546,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/2/2025
+  course: PDP3332D
+  title: FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 12/1/2025
   course: PDP1132C
   title: 2025 Extreme Risk Protection Orders (ERPOs)

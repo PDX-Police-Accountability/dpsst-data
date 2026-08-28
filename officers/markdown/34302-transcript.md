@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/7/2026 | GSP4304D | Adult and Child CPR First Aid | Passed | 0.0 | 4.00 |
 | 7/20/2026 | GSP0602D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
+| 7/14/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Passed | 0.0 | 7.00 |
 | 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
 | 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
 | 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |

@@ -28,7 +28,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/5/2026 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/28/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/23/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
@@ -128,6 +127,7 @@
 | 12/3/2025 | PDP2397C | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 12/2/2025 | PDP2729C | Property and Evidence | Passed | 0.0 | 3.00 |
 | 12/2/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 12/2/2025 | PDP3332D | FTEP Post DPSST Firearms | Passed | 0.0 | 24.00 |
 | 12/1/2025 | PDP3045C | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 11/26/2025 | PDP3646C | TEEX WMD Terrorism Awareness | Passed | 0.0 | 8.00 |
 | 11/19/2025 | PDP0240C | Post Basic CEW (Conducted Electrical Weapon) | Passed | 0.0 | 9.00 |

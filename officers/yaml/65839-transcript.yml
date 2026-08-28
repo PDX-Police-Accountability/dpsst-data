@@ -739,6 +739,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2027
+  expiration_date: 12/31/2027
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/20/2025

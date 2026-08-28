@@ -41,7 +41,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/22/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 6/23/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/23/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/19/2026 | VND1967C | The Rights Of Police Officers | Instructed | 0.0 | 15.00 |
@@ -60,9 +59,9 @@
 | 4/29/2026 | PDP0054C | 2026-1 IS Public Order: Crowd Theory | Passed | 0.0 | 2.00 |
 | 4/29/2026 | PDP0758C | 2026-1 IS PT: Intent, Means  Opportunity | Passed | 0.0 | 1.50 |
 | 4/29/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.25 |
+| 4/24/2026 | 26-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 4/17/2026 | VND2676C | Collective Bargaining For Public Safety Employees | Passed | 0.0 | 15.00 |
 | 4/17/2026 | PDP1015D | Collective Bargaining for Public Safety | Passed | 0.0 | 15.00 |
-| 3/23/2026 | 26-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 3/11/2026 | PDP3486D | Lexipol Leading Through the Generations | Passed | 0.0 | 1.00 |
 | 3/4/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/9/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

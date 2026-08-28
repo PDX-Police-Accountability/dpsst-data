@@ -30,18 +30,16 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/11/2023 | Police Officer | Supervisory | Granted | 10/11/2023 | 8/26/2026 |  |
+| 8/26/2026 | Police Officer | Advanced | Lapsed | 2/16/2012 | 5/26/2031 |  |
+| 8/26/2026 | Police Officer | Basic | Lapsed | 2/3/2005 | 5/26/2031 |  |
+| 8/26/2026 | Police Officer | Intermediate | Lapsed | 2/3/2005 | 5/26/2031 |  |
+| 8/26/2026 | Police Officer | Supervisory | Lapsed | 10/11/2023 | 5/26/2031 |  |
 | 2/15/2020 | Corrections Officer | Basic | Expired | 4/12/1999 |  |  |
 | 2/15/2020 | Corrections Officer | Intermediate | Expired | 6/27/2003 |  |  |
-| 2/16/2012 | Police Officer | Advanced | Granted | 2/16/2012 | 8/26/2026 |  |
-| 2/3/2005 | Police Officer | Basic | Granted | 2/3/2005 | 8/26/2026 |  |
-| 2/3/2005 | Police Officer | Intermediate | Granted | 2/3/2005 | 8/26/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/7/2025 | 5/7/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2026 |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
 | date | degree | school | major | hours |
