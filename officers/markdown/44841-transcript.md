@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2026 | OCA1706D | August MCT - Court Testimony | Passed | 0.0 | 1.25 |
 | 7/28/2026 | REG0736D | DPSST 2026 Cyber Summit | Passed | 0.0 | 8.00 |
 | 7/17/2026 | LOP3699D | Active Threat | Passed | 0.0 | 9.00 |
 | 6/12/2026 | LOP2875D | Firearms | Passed | 0.0 | 4.00 |

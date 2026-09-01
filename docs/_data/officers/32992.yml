@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/24/2026
+  agency: Black Butte Ranch Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 8/13/2026
   agency: Portland Police Bureau
   action: Retired
@@ -69,7 +75,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 4/13/1998
-  expiration_date: 11/13/2026
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 6/30/2026

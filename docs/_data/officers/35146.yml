@@ -75,6 +75,12 @@ training_records:
   status: ''
   score: '0.0'
   hours: '1.00'
+- date: 7/29/2026
+  course: TRN2687D
+  title: Dashboards  Reports Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/28/2026
   course: GPN2995D
   title: Secondary Trauma  Resiliency

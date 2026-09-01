@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/24/2026 | Black Butte Ranch Police Department | Hired | Police Off |  |  |
 | 8/13/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 5/14/2020 | Portland Police Bureau | Promotion | Detective |  |  |
 | 3/23/2006 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -24,7 +25,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/13/1998 | Police Officer | Basic | Granted | 4/13/1998 | 11/13/2026 |  |
+| 4/13/1998 | Police Officer | Basic | Granted | 4/13/1998 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

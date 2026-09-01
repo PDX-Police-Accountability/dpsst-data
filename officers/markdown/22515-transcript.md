@@ -12,8 +12,6 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 12/4/2021 | Board Regulatory Action | Cert Riens |  |  |  |
-| 10/24/2019 | Board Regulatory Action | CertSuspnd |  |  |  |
 | 12/3/2018 | Portland Police Bureau | Resigned | Sergeant |  |  |
 | 2/12/2017 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 12/1/2016 | Portland Police Bureau | Hired | Sergeant |  |  |
@@ -25,7 +23,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/4/2021 | Police Officer | Basic | Lapsed | 2/4/1992 |  |  |
+| 12/3/2023 | Police Officer | Basic | Expired | 2/4/1992 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -29,9 +29,12 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Signed | 5/13/2015 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 3/20/1979 | No Degree | Portland State University | Biological Sciences | 14.0 |
+| 5/23/1976 | Bachelor Science | All Other Education Institutes | Biological Sciences | 193.5 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
@@ -209,3 +212,51 @@
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 9.00 |
 | 9/22/2005 | 05-2514 | FTEP Instructor School | Passed | 0.0 | 40.00 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
+| 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 9.00 |
+| 12/31/2004 | 04-3580 | PPB - Leadership | Passed | 0.0 | 40.00 |
+| 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 56.50 |
+| 5/14/2004 | 04-0822 | Sergeants Academy | Passed | 0.0 | 1.00 |
+| 5/14/2004 | 04-0822 | Sergeants Academy | Instructed | 0.0 | 1.00 |
+| 3/19/2004 | 04-0461 | Bicycle Mtn Bike Mechanics Class | Instructed | 0.0 | 16.00 |
+| 3/19/2004 | 04-0461 | Bicycle Mtn Bike Mechanics Class | Passed | 0.0 | 16.00 |
+| 1/25/2003 | 03-0358 | PPB Instructor Development Course | Passed | 0.0 | 30.00 |
+| 8/5/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 98.00 |
+| 11/27/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
+| 8/30/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 8.00 |
+| 7/13/2001 | 01CP182 | Basic Instructor Development II | Passed | 0.0 | 16.00 |
+| 3/20/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 32.00 |
+| 10/25/2000 | 00P475 | Basic Instructor Developement Part I | Passed | 0.0 | 24.00 |
+| 8/9/2000 | 00P501 | DPSST Training Manager Update | Passed | 0.0 | 8.00 |
+| 10/31/1999 | 99U001 | Approved In-State Training | Passed | 0.0 | 118.00 |
+| 9/4/1999 | 99U002 | Approved Out-of-State Training | Passed | 0.0 | 60.00 |
+| 8/30/1998 | 98U001 | Approved In-State Training | Passed | 0.0 | 68.00 |
+| 11/19/1997 | 97U001 | Approved In-State Training | Passed | 0.0 | 116.00 |
+| 5/16/1997 | 97U001 | Approved In-State Training | Passed | 0.0 | 28.00 |
+| 4/19/1997 | 97P296 | POLICE MOUNTAIN BIKE BASIC OPERATIONS | Passed | 0.0 | 32.00 |
+| 3/31/1997 | 97U001 | Approved In-State Training | Passed | 0.0 | 2.00 |
+| 12/31/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 2.00 |
+| 6/15/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 72.00 |
+| 5/17/1996 | 96U001 | Approved In-State Training | Passed | 0.0 | 40.00 |
+| 10/14/1995 | 95U001 | Approved In-State Training | Passed | 0.0 | 24.00 |
+| 5/12/1995 | 95U001 | Approved In-State Training | Passed | 0.0 | 40.00 |
+| 10/4/1994 | 94U001 | Approved In-State Training | Passed | 0.0 | 32.00 |
+| 7/19/1994 | 94K075 | FTO REFRESHER TRAINING | Passed | 0.0 | 16.00 |
+| 11/10/1993 | 93U001 | Approved In-State Training | Passed | 0.0 | 32.00 |
+| 5/28/1993 | 92J069 | 1992-93 IN-SERVICE TRAINING | Passed | 0.0 | 40.00 |
+| 4/26/1993 | 93U001 | Approved In-State Training | Passed | 0.0 | 4.00 |
+| 2/26/1993 | 93J010 | INTOXILYZER 5000 | Passed | 0.0 | 2.00 |
+| 9/16/1992 | 92U001 | Approved In-State Training | Passed | 0.0 | 105.00 |
+| 6/11/1992 | 92N022 | COP TALK ART OF TACTICAL VERBAL COMMUN | Passed | 0.0 | 7.00 |
+| 5/29/1992 | 92K008 | FIRST CARE | Passed | 0.0 | 4.00 |
+| 12/5/1991 | 91K209 | CHILD ABUSE INV. MULTIDISCIPLINARY TEAM | Passed | 0.0 | 8.00 |
+| 10/26/1990 | 909241 | POLICE BICYCLE OPERATIONS | Passed | 0.0 | 24.00 |
+| 4/18/1989 | 89P099 | Approved In-State Training | Passed | 0.0 | 21.00 |
+| 5/31/1988 | 88P099 | Approved In-State Training | Passed | 0.0 | 80.00 |
+| 3/1/1987 | 879058 | LEDS MANUAL INTRODUCTORY LEVEL | Passed | 0.0 | 10.00 |
+| 5/21/1986 | 869158 | ADVANCED ACADEMY 86-1 | Passed | 0.0 | 296.00 |
+| 2/19/1986 | 86M050 | Police Field Training Manual | Passed | 0.0 | 50.00 |
+| 2/22/1985 | 851118 | BASIC POLICE CLASS #118 | Passed | 0.0 | 280.00 |
+| 2/20/1985 | 85P099 | Approved In-State Training | Passed | 0.0 | 4.00 |
+| 2/20/1985 | 859099 | INTOXILYZER MODEL 4011-A | Passed | 0.0 | 4.00 |
+| 2/12/1985 | 85F001 | FIRST AID  CPR | Passed | 0.0 | 8.00 |
+| 1/24/1985 | 859164 | COPS AND COMPUTERS | Passed | 0.0 | 3.00 |

@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/26/2026
+  course: OCA1706D
+  title: August MCT - Court Testimony
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 6/10/2026
   course: WLP2414C
   title: Firearms Training

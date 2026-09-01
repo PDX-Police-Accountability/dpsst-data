@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2026 | OCA1706D | August MCT - Court Testimony | Passed | 0.0 | 1.25 |
 | 6/10/2026 | WLP2414C | Firearms Training | Passed | 0.0 | 3.00 |
 | 5/29/2026 | WLP1761C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
 | 5/29/2026 | WLP0110D | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |

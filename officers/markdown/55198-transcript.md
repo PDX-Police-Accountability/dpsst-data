@@ -22,14 +22,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 4/22/2025 | 4/22/2027 |
-| Code of Ethics | Signed | 1/11/2016 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/13/2014 | Bachelor Science | Portland State University | Business Administration | 181.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
@@ -727,16 +722,3 @@
 | 1/7/2016 | 16-0711 | Computer Training - Other | Passed | 0.0 | 27.00 |
 | 12/31/2015 | 15-1262 | Video Training Courses | Passed | 0.0 | 1.50 |
 | 12/31/2015 | 15-0388 | ICS 100 / IS 100 - Introduction to ICS | Passed | 0.0 | 3.00 |
-| 12/31/2015 | 15-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
-| 12/31/2015 | 15-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
-| 12/30/2015 | PPB23746 | Lidar Operator Course | Passed | 0.0 | 4.00 |
-| 12/30/2015 | PPB23747 | Radar / Lidar Practical | Passed | 0.0 | 16.00 |
-| 12/29/2015 | PPB23748 | Radar Operator Course | Passed | 0.0 | 8.00 |
-| 12/18/2015 | 15-0634 | Report Writing | Passed | 0.0 | 4.00 |
-| 12/18/2015 | 15-1182 | Geography | Passed | 0.0 | 4.00 |
-| 12/11/2015 | 15-0008 | DPSST Basic Police | Passed | 0.0 | 640.00 |
-| 11/10/2015 | 15-0016 | Weapons of Mass Destruction-Hours incl. in Basic | Passed | 0.0 | 0.00 |
-| 11/9/2015 | 15-0011 | Intoxilyzer 8000-Training hours included in Basic | Passed | 0.0 | 0.00 |
-| 10/29/2015 | 15-0010 | SFST/DID- Training hours included in Basic | Passed | 0.0 | 0.00 |
-| 8/13/2015 | PDP16385 | IS-00100 Introduction to Incident Command | Passed | 0.0 | 3.00 |
-| 8/6/2015 | 15-1269 | Field Training  Evaluation Program | Passed | 0.0 | 8.00 |

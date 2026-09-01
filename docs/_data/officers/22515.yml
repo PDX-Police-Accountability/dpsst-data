@@ -9,18 +9,6 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
-- date: 12/4/2021
-  agency: Board Regulatory Action
-  action: Cert Riens
-  rank: ''
-  classification: ''
-  assignment: ''
-- date: 10/24/2019
-  agency: Board Regulatory Action
-  action: CertSuspnd
-  rank: ''
-  classification: ''
-  assignment: ''
 - date: 12/3/2018
   agency: Portland Police Bureau
   action: Resigned
@@ -70,10 +58,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/4/2021
+- status_date: 12/3/2023
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Expired
   certificate_date: 2/4/1992
   expiration_date: ''
   probation_date: ''

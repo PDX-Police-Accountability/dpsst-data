@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2026 | OCA1706D | August MCT - Court Testimony | Passed | 0.0 | 1.25 |
 | 7/9/2026 | LOP0304D | Active Threat | Passed | 0.0 | 9.00 |
 | 6/12/2026 | LOP2875D | Firearms | Passed | 0.0 | 4.00 |
 | 5/31/2026 | LOP0908C | IPICD Abnormal Breathing | Passed | 0.0 | 1.00 |
