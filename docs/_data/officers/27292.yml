@@ -119,12 +119,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 7/28/2026
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 7/28/2026
   course: PDS4128D
   title: July 2026 Crisis Negotiations Team Training
   status: Passed

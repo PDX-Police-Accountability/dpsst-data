@@ -41,13 +41,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
-| 7/22/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
 | 7/15/2026 | HBP1549D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
-| 7/15/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
 | 7/8/2026 | HBP2056D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
-| 7/8/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
 | 7/1/2026 | HBP2589D | In-service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
-| 7/1/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
 | 6/24/2026 | HBP0461D | PA 2026-3, Reaction Drills, Tac De-escltn, Srch/Sz | Instructed | 0.0 | 9.50 |
 | 6/24/2026 | HBP2269D | In-Service 2026-3, Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |
 | 6/22/2026 | HBP3908D | PA 2026-3, TASER Certification | Instructed | 0.0 | 4.00 |
