@@ -163,18 +163,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/28/2026
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/28/2026
-  course: XDELETE5
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/28/2026
   course: PDP0140D
   title: AA [CIT-111-A] Project Respond  Portland Street
   status: Passed
@@ -201,12 +189,6 @@ training_records:
 - date: 4/27/2026
   course: PDP0824D
   title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/27/2026
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -409,12 +391,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/23/2026
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/23/2026
   course: PDP2381D
   title: 2025 OSHA Lead Exposure Quick Card
   status: Passed
@@ -576,12 +552,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 3/26/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/26/2026
   course: PDP4519C
   title: 2026 FTEP Post DPSST Firearms

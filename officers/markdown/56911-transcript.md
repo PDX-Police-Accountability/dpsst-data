@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/2/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
+| 7/28/2026 | EGP0601D | Police Motorcade Training | Passed | 0.0 | 6.00 |
 | 7/15/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Instructed | 0.0 | 14.00 |
 | 6/20/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/20/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

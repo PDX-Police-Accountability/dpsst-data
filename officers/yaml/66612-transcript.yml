@@ -133,12 +133,6 @@ training_records:
   score: '0.0'
   hours: '21.00'
 - date: 3/16/2026
-  course: XDELETE6
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/16/2026
   course: PDP2319C
   title: 2026-1 Advanced Academy Public Order
   status: Passed
@@ -150,12 +144,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 3/1/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/1/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
@@ -355,18 +343,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/11/2026
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/11/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/11/2026
   course: PDP2421C
   title: Annual HRAR 2.04 Gender Identity Nondiscrimination
   status: Passed
@@ -451,12 +427,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/10/2026
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/10/2026
   course: PDP3624C
   title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
@@ -489,12 +459,6 @@ training_records:
 - date: 2/4/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/4/2026
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

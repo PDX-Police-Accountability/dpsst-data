@@ -73,18 +73,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
-- date: 5/17/2026
-  course: PDP3444C
-  title: 2026 Gresham UAS Pilot Training Course
-  status: Passed
-  score: '0.0'
-  hours: '27.00'
-- date: 5/8/2026
-  course: HBP2232C
-  title: Understanding and Improving DV Investigations
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
 - date: 5/8/2026
   course: PDP4114D
   title: Understanding  Improving Domestic Violence Inv
@@ -97,12 +85,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 4/14/2026
-  course: HBP1561C
-  title: Search and Seizure Fundamentals
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 4/14/2026
   course: PDP1155D
   title: Search and Seizure Fundamentals

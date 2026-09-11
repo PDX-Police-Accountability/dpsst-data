@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/12/2026
+  course: SAG2609D
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/16/2026
   course: SAG1874D
   title: Firearms
@@ -3985,10 +3991,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2025
   expiration_date: 12/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/29/2024
-  expiration_date: 8/29/2026
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/15/2005

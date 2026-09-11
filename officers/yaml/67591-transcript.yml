@@ -30,12 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 8/3/2026
+- date: 8/31/2026
   course: M10-23A
   title: DPSST Basic Police Course
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 8/3/2026
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Withdrew
+  score: '0.0'
+  hours: '640.00'
 - date: 7/29/2026
   course: PDP2980D
   title: LEDS Certification

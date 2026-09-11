@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2026 | SDP1695D | Crisis Intervention Response for Veterans | Passed | 0.0 | 1.00 |
+| 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |
+| 8/30/2026 | SDP0093D | Crisis Intervention Response for Youth | Passed | 0.0 | 1.00 |
 | 6/24/2026 | SDP4470D | Rifle/Handgun Range Day | Passed | 0.0 | 8.00 |
 | 2/25/2026 | SDP2988C | Taser 7 Recertification | Passed | 0.0 | 4.00 |
 | 1/28/2026 | SDP1945C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |

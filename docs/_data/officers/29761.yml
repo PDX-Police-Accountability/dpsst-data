@@ -91,12 +91,6 @@ certification_records:
   expiration_date: ''
   probation_date: 1/21/2028
 training_records:
-- date: 1/21/2028
-  course: E50-25A
-  title: Basic EMD Equivalency APCO or  IAED
-  status: Required
-  score: '0.0'
-  hours: '24.00'
 - date: 7/24/2026
   course: HBY1679D
   title: Adult/Child/Infant First Aid/CPR/AED

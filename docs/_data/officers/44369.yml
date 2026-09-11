@@ -149,12 +149,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 6/5/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 6/5/2026
   course: BNS1350D
   title: 2026 OLERA Conference (June 3-5)
   status: Passed
@@ -2359,10 +2353,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/27/2024
-  expiration_date: 8/27/2026
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2024

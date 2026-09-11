@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2026 | BNP0216D | SWAT- Overland Movements | Passed | 0.0 | 8.00 |
 | 8/18/2026 | BNP1242D | SWAT-Tactical Combat Casuality Care | Passed | 0.0 | 4.00 |
 | 8/18/2026 | BNP1119D | SWAT-Gas mask fit testing | Passed | 0.0 | 0.50 |
 | 8/18/2026 | BNP2665D | SWAT-Physical and Weapon Qualifications | Passed | 0.0 | 3.50 |

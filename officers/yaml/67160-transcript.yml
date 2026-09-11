@@ -235,12 +235,6 @@ training_records:
   score: '0.0'
   hours: '0.75'
 - date: 6/23/2026
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 6/23/2026
   course: PDP4153D
   title: 2025 PVO-101/Stop Stick Training
   status: Passed

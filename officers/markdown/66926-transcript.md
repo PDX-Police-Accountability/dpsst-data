@@ -49,7 +49,6 @@
 | 5/18/2026 | PDP0922D | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP3639D | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
 | 5/18/2026 | PDP0925D | 2025-07 CAO Legal Updates for 08-09/2024 | Passed | 0.0 | 0.50 |
-| 5/18/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP3127D | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 5/14/2026 | PDP3367C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |

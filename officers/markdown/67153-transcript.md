@@ -73,7 +73,6 @@
 | 6/23/2026 | PDP3438D | 2023 DIR 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 6/23/2026 | PDP0002D | 2025 IS - PVO Stop Stick Hyperlink (External Trng) | Passed | 0.0 | 0.75 |
 | 6/23/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
-| 6/23/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 6/23/2026 | PDP4153D | 2025 PVO-101/Stop Stick Training | Passed | 0.0 | 1.25 |
 | 6/23/2026 | PDP1913D | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
 | 6/23/2026 | PDP3960D | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |

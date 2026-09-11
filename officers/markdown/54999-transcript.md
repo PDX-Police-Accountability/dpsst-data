@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/3/2026 | Multnomah County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 5/12/2026 | Multnomah County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 11/17/2025 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 11/16/2025 | Hood River County Sheriff's Office | Resigned | Sergeant |  |  |

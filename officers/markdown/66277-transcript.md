@@ -31,7 +31,6 @@
 | 8/4/2026 | PDP0160D | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
 | 7/8/2026 | HBP2056D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
 | 7/8/2026 | HBP4289D | In-Service 2026-3,Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |
-| 7/8/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 6/25/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 6/22/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/22/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
@@ -54,7 +53,6 @@
 | 3/24/2026 | PDP4037C | 2026-1 Advanced Academy Walking Beat | Passed | 0.0 | 20.00 |
 | 3/19/2026 | PDP2239C | 2026-1 Advanced Academy Crisis Int Training | Passed | 0.0 | 16.50 |
 | 3/18/2026 | HBP0722C | ODT - Working from Cleared Areas, Foot Chases | Passed | 0.0 | 1.00 |
-| 3/16/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/16/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/16/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 3/16/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
@@ -66,11 +64,6 @@
 | 2/11/2026 | PDP3758C | 2026-1 Advanced Academy Trauma Informed Interview | Passed | 0.0 | 2.25 |
 | 2/10/2026 | PDP3241C | 2026-1 Advanced Academy Able | Passed | 0.0 | 10.00 |
 | 2/4/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
-| 2/4/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
-| 2/4/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
-| 2/4/2026 | XDELETE6 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
-| 2/4/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
-| 2/4/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/4/2026 | PDP0140D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |
 | 2/4/2026 | PDP3301D | AA [PJU-101-H] Intro to PJPL | Passed | 0.0 | 0.50 |
 | 2/4/2026 | PDP0621D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.50 |

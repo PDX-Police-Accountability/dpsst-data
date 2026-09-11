@@ -145,12 +145,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 3/16/2026
-  course: XDELETE6
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/16/2026
   course: PDP3624C
   title: DIR 0630.05 Vehicle Interventions  Pursuits
   status: Passed
@@ -181,23 +175,11 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 3/1/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/1/2026
   course: PDP4531D
   title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 2/17/2026
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/17/2026
   course: PDP0621D
   title: AA [CIT-112-A] Behavioral Health Unit Overview
@@ -216,18 +198,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/11/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/11/2026
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/11/2026
   course: PDP3758C
   title: 2026-1 Advanced Academy Trauma Informed Interview
@@ -261,12 +231,6 @@ training_records:
 - date: 2/4/2026
   course: PDP0211C
   title: AA [WEL-101-H] Introduction to Wellness
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/4/2026
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

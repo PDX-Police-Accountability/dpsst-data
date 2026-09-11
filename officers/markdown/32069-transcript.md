@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2026 | SDP0093D | Crisis Intervention Response for Youth | Passed | 0.0 | 1.00 |
+| 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |
+| 8/30/2026 | SDP1695D | Crisis Intervention Response for Veterans | Passed | 0.0 | 1.00 |
 | 6/24/2026 | SDP4470D | Rifle/Handgun Range Day | Passed | 0.0 | 8.00 |
 | 6/16/2026 | SDP0742C | LEDS Certification Inquiry and Entry Level | Passed | 0.0 | 12.00 |
 | 5/14/2026 | OAC0862C | Tackling the #1 Killer of Active  Ret LE | Passed | 0.0 | 3.00 |

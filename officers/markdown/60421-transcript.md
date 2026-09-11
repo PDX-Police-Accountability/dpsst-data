@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 6/22/2026 | SAG4549D | Firearms | Instructed | 0.0 | 8.00 |
 | 6/22/2026 | SAG3802D | Firearms | Instructed | 0.0 | 8.00 |
 | 4/20/2026 | SMP2865C | Axon Taser Instructor Course | Passed | 0.0 | 16.00 |

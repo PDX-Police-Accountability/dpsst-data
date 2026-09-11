@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2026
+  course: GSP3564D
+  title: 2026 Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/17/2026
+  course: GSP1541D
+  title: Rifle In-service
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/17/2026
+  course: GSP3460D
+  title: Rifle In-service
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/10/2026
   course: GSP0826D
   title: Rifle In-service

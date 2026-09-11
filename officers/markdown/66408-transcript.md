@@ -30,10 +30,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/18/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
-| 3/10/2026 | XDELETE6 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/10/2026 | PDP1661D | AA [CIT-113-H] Responding to a MH Facility | Passed | 0.0 | 0.50 |
 | 3/4/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
-| 2/23/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/23/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 2/19/2026 | PDP1493C | 2026-1 Advanced Academy Law | Passed | 0.0 | 15.00 |
 | 2/19/2026 | PDP3341C | 2026-1 Advanced Academy Equity | Passed | 0.0 | 9.00 |
@@ -45,7 +43,6 @@
 | 2/16/2026 | PDP3686C | 2026-1 Advanced Academy Firearms | Passed | 0.0 | 13.50 |
 | 2/12/2026 | PDP0974C | 2026-1 Advanced Academy Legit-Proc Justice | Passed | 0.0 | 1.00 |
 | 2/12/2026 | PDP3540C | 2026-1 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
-| 2/11/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP3758C | 2026-1 Advanced Academy Trauma Informed Interview | Passed | 0.0 | 2.25 |
 | 2/11/2026 | PDP0621D | AA [CIT-112-A] Behavioral Health Unit Overview | Passed | 0.0 | 0.50 |
 | 2/10/2026 | PDP4451C | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
@@ -55,7 +52,6 @@
 | 2/10/2026 | PDP0579C | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP0211C | AA [WEL-101-H] Introduction to Wellness | Passed | 0.0 | 0.25 |
-| 2/10/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP1056C | DIR 0640.37, Communication with Persons Who Have | Passed | 0.0 | 0.25 |
 | 2/10/2026 | PDP0032C | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
@@ -72,8 +68,6 @@
 | 2/8/2026 | PDP3172C | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP3668C | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
 | 2/8/2026 | PDP3771C | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
-| 2/8/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
-| 2/8/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/8/2026 | PDP0404C | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 2/8/2026 | PDP1503D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |

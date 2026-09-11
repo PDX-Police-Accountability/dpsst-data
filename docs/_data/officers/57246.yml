@@ -50,8 +50,20 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/6/2026
+  course: HBN0591D
+  title: Trauma Informed Response Training (TIRT)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/12/2026
   course: HBN1297C
+  title: Officer Safety Home Visit  Search/Seizure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 6/12/2026
+  course: HBN4541D
   title: Officer Safety Home Visit  Search/Seizure
   status: Passed
   score: '0.0'

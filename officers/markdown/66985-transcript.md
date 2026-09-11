@@ -66,7 +66,6 @@
 | 5/11/2026 | PDP0466D | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 5/7/2026 | PDP2862C | Body Worn Camera | Passed | 0.0 | 2.50 |
 | 5/6/2026 | PDP1527D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
-| 5/6/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/6/2026 | PDP3473D | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 5/6/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Passed | 0.0 | 2.00 |

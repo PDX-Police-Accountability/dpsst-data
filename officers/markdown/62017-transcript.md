@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/2/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 7/15/2026 | PDP1268D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
 | 6/20/2026 | PDP0857D | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
 | 6/20/2026 | PDP0924D | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |

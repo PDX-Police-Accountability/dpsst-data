@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/27/2026 | OSH1638D | Luring a Minor Through Text | Passed | 0.0 | 1.00 |
 | 8/25/2026 | OSH4505D | Stop Doing It All | Passed | 0.0 | 0.50 |
 | 8/12/2026 | OSH1346D | Decentralized Command | Passed | 0.0 | 1.00 |
 | 7/30/2026 | OSH1698D | Difficult Conversation: Not Meeting Expectations | Passed | 0.0 | 0.50 |

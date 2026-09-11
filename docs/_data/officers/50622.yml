@@ -75,6 +75,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2026
+  course: OCP3859D
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/31/2026
+  course: OCP3859D
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/27/2026
+  course: OCP1670D
+  title: Huerta-Contretas  Almestica Case Law Update
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 8/27/2026
+  course: OCP0302D
+  title: Use of Force Policy Review
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/7/2026
+  course: OCP2936D
+  title: Pursuit Management
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/1/2026
+  course: OCP1842D
+  title: Policy 419 ALPR
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/23/2026
   course: OCP3024D
   title: Firearms/Use of Force
@@ -3210,10 +3246,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 12/3/2025
   expiration_date: 12/3/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/15/2025
-  expiration_date: 1/15/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/4/2026 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 6/25/2025 | Springfield Police Department | Promotion | Chief |  |  |
 | 3/17/2025 | Springfield Police Department | Promotion | Actng Chf |  |  |
 | 1/17/2023 | Springfield Police Department | Hired | Dpty Chief |  |  |

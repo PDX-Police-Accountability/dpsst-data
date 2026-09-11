@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2026
+  course: HSU0807D
+  title: Pistol Mounted Optics
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 7/2/2026
   course: PDP0919D
   title: 2026 SERT Training - ITERATION

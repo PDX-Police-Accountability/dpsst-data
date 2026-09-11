@@ -218,6 +218,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/30/2025
+  course: OCS1764D
+  title: EMT Refresher Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 12/16/2024
   course: OCS0503A
   title: Taser and Use of Force Law

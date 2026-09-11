@@ -41,10 +41,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/27/2026 | REG3515D | Handgun Fundelmentals | Passed | 0.0 | 16.00 |
+| 8/18/2026 | HBN0591D | Trauma Informed Response Training (TIRT) | Passed | 0.0 | 3.00 |
 | 6/16/2026 | HBN1297C | Officer Safety Home Visit  Search/Seizure | Instructed | 0.0 | 4.00 |
+| 6/16/2026 | HBN4541D | Officer Safety Home Visit  Search/Seizure | Instructed | 0.0 | 4.00 |
 | 6/12/2026 | HBN1297C | Officer Safety Home Visit  Search/Seizure | Instructed | 0.0 | 4.00 |
+| 6/12/2026 | HBN4541D | Officer Safety Home Visit  Search/Seizure | Instructed | 0.0 | 4.00 |
 | 6/9/2026 | HBN1297C | Officer Safety Home Visit  Search/Seizure | Passed | 0.0 | 3.00 |
 | 6/9/2026 | HBN1297C | Officer Safety Home Visit  Search/Seizure | Instructed | 0.0 | 4.00 |
+| 6/9/2026 | HBN4541D | Officer Safety Home Visit  Search/Seizure | Passed | 0.0 | 3.00 |
+| 6/9/2026 | HBN4541D | Officer Safety Home Visit  Search/Seizure | Instructed | 0.0 | 4.00 |
 | 4/21/2026 | HBN3280C | WRNA Booster | Passed | 0.0 | 4.00 |
 | 3/17/2026 | HBN1303C | Case Management | Passed | 0.0 | 1.00 |
 | 3/6/2026 | HBN2239C | OC Spray Recert | Passed | 0.0 | 1.00 |

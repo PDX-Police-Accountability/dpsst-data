@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/9/2026
+  course: GLP0297D
+  title: First Aid/ Adult and Child CPR
+  status: ''
+  score: '0.0'
+  hours: '3.00'
 - date: 3/10/2026
   course: GLP1097D
   title: Ethics
@@ -4333,6 +4339,10 @@ attribute_records:
   value: Signed
   effective_date: 1/27/2009
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 9/2/2026
 education_records:
 - date: 6/20/1994
   degree: Bachelor Science

@@ -25,7 +25,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/16/2026 | 4/16/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2028 |
 | Code of Ethics | Law Enforcement Signed | 9/10/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 9/14/2017 |  |
@@ -46,8 +46,6 @@
 | 5/27/2026 | PDP0469D | 2021 Equity Training Series Introduction Video | Passed | 0.0 | 0.25 |
 | 5/27/2026 | PDP3811D | 2025 Sup IS: Critical Incidents - Controlling | Passed | 0.0 | 1.50 |
 | 5/27/2026 | PDP0701D | 2025 Sup IS Managing Up Video | Passed | 0.0 | 1.00 |
-| 5/27/2026 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
-| 5/27/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/27/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 5/27/2026 | PDP1945D | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 5/27/2026 | PDP0140D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |

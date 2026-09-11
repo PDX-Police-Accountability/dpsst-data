@@ -74,6 +74,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2026
+  course: HBS2948D
+  title: Virtual - PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2026
+  course: HBS2862D
+  title: Virtual - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/20/2026
+  course: HBS0689D
+  title: Virtual - CIT - Crisis Response
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2026
+  course: HBS0671D
+  title: Virtual - Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2026
+  course: HBS2008D
+  title: Virtual Cultural Awareness Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/1/2026
   course: HBS1116D
   title: Virtual - A Blueprint for Financial Well

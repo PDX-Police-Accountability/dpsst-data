@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/7/2026 | GSP3616D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
 | 7/21/2026 | GSP4239D | UAS Monthly Training | Passed | 0.0 | 10.00 |
 | 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |

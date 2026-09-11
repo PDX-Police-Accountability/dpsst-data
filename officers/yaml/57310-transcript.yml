@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2026
+  course: HBP4076D
+  title: Retail Theft Symposium
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/10/2026
   course: PDP0940D
   title: 2026 Rapid Response team (RRT) Monthly Training

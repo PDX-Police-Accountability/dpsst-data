@@ -29,7 +29,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 8/29/2024 | 8/29/2026 |
 | Code of Ethics | Signed | 6/15/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 7/16/2026 | SAG1874D | Firearms | Passed | 0.0 | 1.00 |
 | 6/22/2026 | SAG4549D | Firearms | Passed | 0.0 | 2.00 |
 | 6/22/2026 | SAG3802D | Firearms | Passed | 0.0 | 2.00 |

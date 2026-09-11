@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 8/25/2026
+  course: PDP2072D
+  title: Intro to Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 attribute_records: []
 education_records: []

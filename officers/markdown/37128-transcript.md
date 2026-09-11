@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 7/28/2026 | GSP2406D | Karly's Law Training | Passed | 0.0 | 0.50 |
 | 7/24/2026 | GSP1611D | Handgun Training | Passed | 0.0 | 30.00 |
 | 4/14/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

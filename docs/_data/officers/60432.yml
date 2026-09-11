@@ -43,6 +43,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 8/2/2026
+  course: PDP0852D
+  title: 2026 Patrol Rifle Operator Summer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/12/2026
   course: REG0910C
   title: Adult Learning Core

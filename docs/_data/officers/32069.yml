@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2026
+  course: SDP0093D
+  title: Crisis Intervention Response for Youth
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2026
+  course: SDP3789D
+  title: Serving Behavioral and Cognitive Disabilities
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2026
+  course: SDP1695D
+  title: Crisis Intervention Response for Veterans
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/24/2026
   course: SDP4470D
   title: Rifle/Handgun Range Day

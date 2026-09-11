@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/1/2026
+  course: PDP0852D
+  title: 2026 Patrol Rifle Operator Summer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/30/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)

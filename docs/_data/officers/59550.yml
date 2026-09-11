@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/3/2026
+  course: BNP0216D
+  title: SWAT- Overland Movements
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/18/2026
   course: BNP1242D
   title: SWAT-Tactical Combat Casuality Care

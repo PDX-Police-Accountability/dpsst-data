@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2026 | BPT0161D | ICISF: Group Crisis Intervention | Passed | 0.0 | 16.00 |
+| 9/1/2026 | BPT2445D | ICISF: Assisting Individuals in Crisis | Passed | 0.0 | 16.00 |
+| 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 7/16/2026 | SAG1874D | Firearms | Passed | 0.0 | 1.00 |
 | 6/22/2026 | SAG4549D | Firearms | Passed | 0.0 | 2.00 |
 | 6/22/2026 | SAG3802D | Firearms | Passed | 0.0 | 2.00 |

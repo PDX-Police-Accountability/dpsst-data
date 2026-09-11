@@ -36,7 +36,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 8/6/2026 | 8/6/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 8/27/2024 | 8/27/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 10/12/2006 |  |
 ## Education
@@ -53,7 +52,6 @@
 | 7/8/2026 | BVP3280D | PIT EVOC IST 070826AM | Passed | 0.0 | 3.00 |
 | 7/1/2026 | STP0098D | 9 Career Saving Lessons for Cops | Passed | 0.0 | 1.00 |
 | 7/1/2026 | STP2341D | 9 Career Saving Lessons for Cops | Passed | 0.0 | 1.00 |
-| 6/5/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 6/5/2026 | BNS1350D | 2026 OLERA Conference (June 3-5) | Passed | 0.0 | 16.00 |
 | 5/27/2026 | STS1434D | RAID Team / K-9  Building Searches | Passed | 0.0 | 4.00 |
 | 4/29/2026 | STP1738C | RAID Team High Risk Traffic Stops/Caravan Training | Passed | 0.0 | 3.00 |

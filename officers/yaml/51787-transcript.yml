@@ -38,15 +38,15 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/1/2026
+  course: PDP0852D
+  title: 2026 Patrol Rifle Operator Summer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/21/2026
   course: VND0666D
   title: 28 CFR 23 and WSIN Resources
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 7/21/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'

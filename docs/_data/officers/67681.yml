@@ -30,10 +30,10 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 8/31/2026
+- date: 11/30/2026
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Pending
   score: '0.0'
   hours: '0.00'
 attribute_records: []

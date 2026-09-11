@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2026 | NGP2994D | Taser 10 CEW User Certification | Instructed | 0.0 | 8.00 |
+| 7/14/2026 | NGP2440D | Resiliency | Passed | 0.0 | 3.00 |
 | 7/7/2026 | NGP4429D | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/20/2026 | OCS2560C | Covert Surveillance | Passed | 0.0 | 24.00 |
 | 5/18/2026 | NGP4505C | Autism for Law Enforcement | Passed | 0.0 | 2.00 |

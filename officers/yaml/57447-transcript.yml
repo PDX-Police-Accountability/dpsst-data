@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/31/2026
+  course: PDP0852D
+  title: 2026 Patrol Rifle Operator Summer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/29/2026
   course: PDP1255D
   title: 2026 RRT Field Force Extrication In-Service Trng

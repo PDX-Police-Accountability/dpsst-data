@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/16/2026
+  course: NGP2994D
+  title: Taser 10 CEW User Certification
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/14/2026
+  course: NGP2440D
+  title: Resiliency
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/7/2026
   course: NGP4429D
   title: Patrol Rifle

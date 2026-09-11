@@ -30,7 +30,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 12/3/2025 | 12/3/2027 |
-| Certification Cards | First Aid and CPR | 1/15/2025 | 1/15/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 6/25/2009 |  |
 ## Education
@@ -41,6 +40,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2026 | OCP3859D | Firearms/Use of Force | Passed | 0.0 | 2.00 |
+| 8/31/2026 | OCP3859D | Firearms/Use of Force | Instructed | 0.0 | 6.00 |
+| 8/27/2026 | OCP1670D | Huerta-Contretas  Almestica Case Law Update | Instructed | 0.0 | 4.50 |
+| 8/27/2026 | OCP0302D | Use of Force Policy Review | Instructed | 0.0 | 1.50 |
+| 8/7/2026 | OCP2936D | Pursuit Management | Passed | 0.0 | 1.00 |
+| 8/1/2026 | OCP1842D | Policy 419 ALPR | Passed | 0.0 | 0.25 |
 | 7/23/2026 | OCP3024D | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 7/23/2026 | OCP3024D | Firearms/Use of Force | Instructed | 0.0 | 20.00 |
 | 7/8/2026 | OCP4377D | Suicide Response and Prevention | Passed | 0.0 | 0.25 |

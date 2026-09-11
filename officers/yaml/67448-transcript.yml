@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/13/2026
+  course: REG3111D
+  title: INTOX 8000 (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/2/2026
   course: PDP1901D
   title: New Radar Lidar Operator Course
@@ -72,6 +78,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/19/2026
+  course: PDP4406D
+  title: ICS-200 Basic Incident Command Syst for Init Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/19/2026
+  course: PDP1258D
+  title: IS-700 NIMS and Introduction
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/12/2026
+  course: PDP2691D
+  title: ICS-100 Intro to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/11/2026
   course: PDP0050C
   title: 2026 FTEP Policy and Procedure

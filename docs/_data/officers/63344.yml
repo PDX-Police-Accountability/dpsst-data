@@ -9,6 +9,18 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/27/2026
+  agency: Gladstone Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 8/24/2026
+  agency: Vernonia Police Department
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/18/2024
   agency: Vernonia Police Department
   action: Hired
@@ -36,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/2/2026
+  course: GLP2600D
+  title: Red Dot Transition Course and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/11/2026
   course: ATS3766C
   title: Green Lab

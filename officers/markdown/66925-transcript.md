@@ -34,7 +34,6 @@
 | 6/3/2026 | PDP0724D | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
 | 6/3/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 5/28/2026 | PDP1527D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
-| 5/28/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/28/2026 | PDP3252D | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 5/28/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 5/27/2026 | PDP4152D | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |

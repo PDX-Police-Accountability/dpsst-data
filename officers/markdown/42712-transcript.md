@@ -39,6 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/20/2026 | HBS2948D | Virtual - PREA | Passed | 0.0 | 1.00 |
+| 8/20/2026 | HBS2862D | Virtual - ACAP | Passed | 0.0 | 2.00 |
+| 8/20/2026 | HBS0689D | Virtual - CIT - Crisis Response | Passed | 0.0 | 1.00 |
+| 8/20/2026 | HBS0671D | Virtual - Duty to Intercede | Passed | 0.0 | 1.00 |
+| 8/20/2026 | HBS2008D | Virtual Cultural Awareness Diversity | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS1116D | Virtual - A Blueprint for Financial Well | Passed | 0.0 | 0.50 |
 | 7/1/2026 | HBS0454D | Virtual Anti-Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS2108D | Virtual-ADA Compliance for Business | Passed | 0.0 | 1.00 |

@@ -30,6 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/2/2026
+  course: PDP0834D
+  title: 2026 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/1/2026
+  course: PDP0497D
+  title: FTEP Post DPSST Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/6/2026
+  course: REG4461D
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/22/2026
   course: REG2962D
   title: INTOX 8000 (Hours included in Basic)

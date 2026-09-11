@@ -1,2 +1,87 @@
 ---
-missing_transcript: true
+header_record:
+  name: Cassity, Nancy S.
+  dpsst_identifier: '12845'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 2/19/1980
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/12/2008
+  course: '08-0708'
+  title: Internet Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/28/2008
+  course: '08-0964'
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2007
+  course: 07-0809
+  title: Identity Theft Investigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/18/2007
+  course: 07-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/6/2007
+  course: 07-0747
+  title: Corrections Overview
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/7/2007
+  course: 07-0928
+  title: Workplace - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/1986
+  course: '869049'
+  title: LEDS MANUAL--GENERAL LEVEL CERTIFICATION
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 4/10/1985
+  course: '859203'
+  title: LEDS SYSTEM CHANGES
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+attribute_records: []
+education_records: []

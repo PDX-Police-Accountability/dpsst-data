@@ -38,6 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/27/2026 | OCP1670D | Huerta-Contretas  Almestica Case Law Update | Passed | 0.0 | 0.75 |
+| 8/27/2026 | OCP4506D | 40 MM / OC re-certification | Passed | 0.0 | 0.75 |
+| 8/27/2026 | OCP2870D | Defensive Tactics | Passed | 0.0 | 0.75 |
+| 8/27/2026 | OCP2692D | Taser Re-Certification | Passed | 0.0 | 0.75 |
+| 8/27/2026 | OCP0302D | Use of Force Policy Review | Passed | 0.0 | 0.15 |
+| 8/7/2026 | OCP2936D | Pursuit Management | Passed | 0.0 | 1.00 |
+| 8/1/2026 | OCP1842D | Policy 419 ALPR | Passed | 0.0 | 0.25 |
 | 7/23/2026 | OCP3024D | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 7/19/2026 | OCP3152D | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 7/8/2026 | OCP4377D | Suicide Response and Prevention | Passed | 0.0 | 0.25 |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2026
+  course: HBP4076D
+  title: Retail Theft Symposium
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/27/2026
   course: PDP1698C
   title: ATV Basic Rider Certification

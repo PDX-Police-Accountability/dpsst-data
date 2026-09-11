@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2026
+  course: GSP3564D
+  title: 2026 Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/7/2026
   course: GSP4304D
   title: Adult and Child CPR First Aid
@@ -1757,10 +1763,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/19/2024
-  expiration_date: 11/19/2026
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

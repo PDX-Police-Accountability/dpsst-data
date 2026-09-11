@@ -39,7 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2026 | CPP3172D | Glock Armorer | Passed | 0.0 | 8.00 |
 | 8/6/2026 | GPN0088D | Alison Ethics in Law Enforcement |  | 0.0 | 1.00 |
+| 8/6/2026 | GPN2794D | Alison Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 7/29/2026 | TRN2687D | Dashboards  Reports Training | Passed | 0.0 | 1.00 |
 | 7/28/2026 | GPN2995D | Secondary Trauma  Resiliency | Passed | 0.0 | 2.00 |
 | 5/13/2026 | UOP0349C | Patient Evaluation for Law Enforcement | Passed | 0.0 | 2.00 |

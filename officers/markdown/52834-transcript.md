@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2026 | OCS2313D | Vehicle extractions | Passed | 0.0 | 1.00 |
 | 7/17/2026 | OCS1014D | CNT Monthly Training - Scenario/Equipment | Passed | 0.0 | 6.00 |
 | 6/19/2026 | OCS2213C | CNT Monthly Training - SWAT / CNT joint scenarios | Passed | 0.0 | 8.00 |
 | 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 0.00 |

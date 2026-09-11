@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/2/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 7/8/2026 | PDP3959D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 2.00 |
 | 7/1/2026 | PDP3451D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 6/26/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

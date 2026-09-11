@@ -36,6 +36,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/27/2026
+  course: OCP1670D
+  title: Huerta-Contretas  Almestica Case Law Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/27/2026
+  course: OCP4506D
+  title: 40 MM / OC re-certification
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/27/2026
+  course: OCP2870D
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/27/2026
+  course: OCP0302D
+  title: Use of Force Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '0.15'
+- date: 8/27/2026
+  course: OCP2692D
+  title: Taser Re-Certification
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/1/2026
+  course: OCP1842D
+  title: Policy 419 ALPR
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/23/2026
   course: OCP3024D
   title: Firearms/Use of Force

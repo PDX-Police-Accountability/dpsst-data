@@ -63,6 +63,7 @@
 | 9/15/2025 | OCS0409B | ConSims | Passed | 0.0 | 1.00 |
 | 9/2/2025 | OCS2138B | Firearms Qualification | Passed | 0.0 | 1.00 |
 | 8/13/2025 | OCS0877B | De-escalation | Passed | 0.0 | 1.00 |
+| 6/30/2025 | OCS1764D | EMT Refresher Course | Passed | 0.0 | 24.00 |
 | 12/16/2024 | OCS0503A | Taser and Use of Force Law | Passed | 0.0 | 2.00 |
 | 11/20/2024 | OCS4266A | Taser | Passed | 0.0 | 1.00 |
 | 10/26/2024 | OCS1723A | De-escalation in Scenario | Passed | 0.0 | 1.00 |

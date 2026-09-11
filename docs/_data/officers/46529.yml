@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2026
+  course: GSP3564D
+  title: 2026 Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/25/2026
+  course: GSP2800D
+  title: PVO In-service 2026
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 7/13/2026
   course: GSP3295D
   title: Deflection Update 2026

@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2026 | TGP0746D | National LE  Corporate Crimes Convention | Passed | 0.0 | 28.00 |
+| 8/21/2026 | TGP3835D | Covert Surveillance Training | Passed | 0.0 | 18.00 |
 | 5/29/2026 | TGP2515D | Handgun | Passed | 0.0 | 4.00 |
 | 5/29/2026 | TGP2515D | Handgun | Instructed | 0.0 | 48.00 |
 | 5/15/2026 | TGP1041C | Motor Training | Instructed | 0.0 | 40.00 |

@@ -1,2 +1,63 @@
 ---
-missing_transcript: true
+header_record:
+  name: Gissel, Kevin R.
+  dpsst_identifier: '14308'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 10/7/2020
+  agency: Clackamas County Sheriff's Office
+  action: Inactive
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 7/5/2007
+  agency: Clackamas County Sheriff's Office
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 7/4/2007
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 5/13/1981
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 3/1/2011
+  course: 11-0926
+  title: Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/12/2010
+  course: 10-0954
+  title: CPR / First Aid / AED / Bloodbourne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/20/2008
+  course: '08-0954'
+  title: CPR / First Aid / AED / Bloodbourne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2007
+  course: 07-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+attribute_records: []
+education_records: []

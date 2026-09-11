@@ -157,12 +157,6 @@ training_records:
   score: '0.0'
   hours: '9.00'
 - date: 3/13/2026
-  course: XDELETE6
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/13/2026
   course: PDP1661D
   title: AA [CIT-113-H] Responding to a MH Facility
   status: Passed
@@ -181,23 +175,11 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/26/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/26/2026
   course: PDP4531D
   title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 2/15/2026
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/15/2026
   course: PDP0621D
   title: AA [CIT-112-A] Behavioral Health Unit Overview
@@ -229,23 +211,11 @@ training_records:
   score: '0.0'
   hours: '10.00'
 - date: 2/7/2026
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/7/2026
   course: PDP3301D
   title: AA [PJU-101-H] Intro to PJPL
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 2/4/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/4/2026
   course: PDP1503D
   title: AA [ETH-101-H] Introduction to Ethics in Policing
@@ -267,12 +237,6 @@ training_records:
 - date: 2/2/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/2/2026
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

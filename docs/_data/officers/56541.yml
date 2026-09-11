@@ -183,12 +183,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/26/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/26/2026
   course: PDP4531D
   title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
   status: Passed
@@ -197,12 +191,6 @@ training_records:
 - date: 2/17/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/17/2026
-  course: XDELETE6
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -237,24 +225,6 @@ training_records:
   score: '0.0'
   hours: '10.00'
 - date: 2/4/2026
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/4/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/4/2026
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/4/2026
   course: PDP3301D
   title: AA [PJU-101-H] Intro to PJPL
   status: Passed
@@ -275,12 +245,6 @@ training_records:
 - date: 2/2/2026
   course: PDP0211C
   title: AA [WEL-101-H] Introduction to Wellness
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/2/2026
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

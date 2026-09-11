@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/27/2026 | OCP2870D | Defensive Tactics | Instructed | 0.0 | 13.50 |
+| 8/7/2026 | OCP2936D | Pursuit Management | Passed | 0.0 | 1.00 |
+| 8/1/2026 | OCP1842D | Policy 419 ALPR | Passed | 0.0 | 0.25 |
 | 7/23/2026 | OCP3024D | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 6/18/2026 | OCP3892C | Active Threat Response | Passed | 0.0 | 4.00 |
 | 6/11/2026 | OCP1649C | Defensive Tactics | Instructed | 0.0 | 2.00 |

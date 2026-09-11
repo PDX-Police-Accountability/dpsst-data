@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/31/2026 | HBS2399D | LEDs Recertification | Passed | 0.0 | 2.00 |
+| 7/28/2026 | EGP0601D | Police Motorcade Training | Passed | 0.0 | 6.00 |
 | 7/14/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Passed | 0.0 | 7.00 |
 | 7/1/2026 | HBS2880D | Virtual - ACAP | Passed | 0.0 | 2.00 |
 | 7/1/2026 | HBS1116D | Virtual - A Blueprint for Financial Well | Passed | 0.0 | 0.50 |

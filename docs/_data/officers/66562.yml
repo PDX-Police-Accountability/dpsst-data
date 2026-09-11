@@ -115,12 +115,6 @@ training_records:
   score: '0.0'
   hours: '4.50'
 - date: 5/21/2026
-  course: XDELETE5
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 5/21/2026
   course: PDP1661D
   title: AA [CIT-113-H] Responding to a MH Facility
   status: Passed
@@ -138,12 +132,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 5/15/2026
-  course: XDELETE5
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 5/15/2026
   course: PDP0621D
   title: AA [CIT-112-A] Behavioral Health Unit Overview
@@ -259,12 +247,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 5/11/2026
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 5/11/2026
   course: PDP3414D
   title: 'DIR 0910.00 Update: De Minimis Force'
   status: Passed
@@ -294,12 +276,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/7/2026
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 5/7/2026
   course: PDP3301D
   title: AA [PJU-101-H] Intro to PJPL
@@ -453,12 +429,6 @@ training_records:
 - date: 4/27/2026
   course: PDP2127D
   title: 2024-3 CAO Legal Updates for BWC
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/27/2026
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -757,12 +727,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 3/3/2026
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/3/2026
   course: PDP2851C
   title: DIR 0311.50 Investigative Use of Social Media
   status: Passed
@@ -786,12 +750,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
-- date: 3/2/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/2/2026
   course: PDP2024C
   title: 2021 External Training The Advanced SEND Protocol

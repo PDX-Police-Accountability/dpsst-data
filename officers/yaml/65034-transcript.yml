@@ -23,6 +23,42 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 9/2/2026
+  course: PDP0834D
+  title: 2026 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/1/2026
+  course: PDP0497D
+  title: FTEP Post DPSST Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/27/2026
+  course: PDP1717D
+  title: CPR First Aid Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/26/2026
+  course: PDP1848D
+  title: FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 8/26/2026
+  course: PDP2003D
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/25/2026
+  course: PDP2072D
+  title: Intro to Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/24/2026
   course: PDP3413D
   title: FTEP Policy and Procedure
@@ -390,6 +426,10 @@ training_records:
   score: '0.0'
   hours: '0.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/27/2026
+  expiration_date: 8/26/2028
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/1/2024

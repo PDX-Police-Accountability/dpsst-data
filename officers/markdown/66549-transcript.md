@@ -48,7 +48,6 @@
 | 5/16/2026 | PDP1637D | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 5/16/2026 | PDP1532D | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP1527D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
-| 5/16/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP4576D | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP3642D | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 5/16/2026 | PDP4216D | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |

@@ -334,6 +334,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/5/2025
+  course: PDP0184D
+  title: DC Leadership Academy Roster
+  status: Passed
+  score: '0.0'
+  hours: '110.00'
 - date: 9/26/2025
   course: PDP2310C
   title: 2025-3 Range Qualification CEW

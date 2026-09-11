@@ -12,6 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/27/2026 | Gladstone Police Department | Hired | Police Off |  |  |
+| 8/24/2026 | Vernonia Police Department | Resigned | Police Off |  |  |
 | 3/18/2024 | Vernonia Police Department | Hired | Police Off |  |  |
 | 10/18/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/22/2022 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -32,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/2/2026 | GLP2600D | Red Dot Transition Course and Qualification | Passed | 0.0 | 6.00 |
 | 3/11/2026 | ATS3766C | Green Lab | Passed | 0.0 | 8.00 |
 | 2/26/2026 | STP0664C | RAID Team Training- Breaching Training | Passed | 0.0 | 4.00 |
 | 1/28/2026 | STP1495C | RAID Team Training-Team Movements | Passed | 0.0 | 4.00 |

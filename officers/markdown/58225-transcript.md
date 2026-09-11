@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 6/12/2026 | OSH0314D | HIPS Mobile and Foot Surveillance | Passed | 0.0 | 30.00 |
 | 6/12/2026 | PDP3106D | Hiding in Plain Sight Mobile Surveillance Training | Passed | 0.0 | 27.00 |
 | 5/25/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

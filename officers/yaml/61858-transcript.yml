@@ -127,12 +127,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 2/12/2026
-  course: XDELETE6
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
 - date: 2/11/2026
   course: MFN0688C
   title: Reclaiming Lives Recovery Panel

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2026
+  course: HSU0807D
+  title: Pistol Mounted Optics
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 7/21/2026
   course: PDP1602D
   title: 2026 Satellite Firearms Instructor School

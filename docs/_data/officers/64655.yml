@@ -3,12 +3,18 @@ header_record:
   name: Dunn, Jeremiah E.
   dpsst_identifier: '64655'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/20/2026
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 11/9/2023
   agency: Portland Police Bureau
   action: Hired
@@ -21,9 +27,15 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 7/23/2025
-  expiration_date: ''
+  expiration_date: 11/20/2026
   probation_date: ''
 training_records:
+- date: 8/28/2026
+  course: NGP3272D
+  title: Taser 10 CEW User Certification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/26/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)

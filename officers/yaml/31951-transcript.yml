@@ -3841,10 +3841,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/29/2024
-  expiration_date: 8/1/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
@@ -3853,6 +3849,10 @@ attribute_records:
   value: Signed
   effective_date: 10/1/2010
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 9/2/2026
 education_records:
 - date: 5/7/1995
   degree: Bachelor Science

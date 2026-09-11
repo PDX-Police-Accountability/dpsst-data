@@ -63,6 +63,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 1/25/2027
+  course: 27-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
 - date: 6/27/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)

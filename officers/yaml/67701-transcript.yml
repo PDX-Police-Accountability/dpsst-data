@@ -24,23 +24,45 @@ certification_records:
   expiration_date: ''
   probation_date: 2/13/2028
 training_records:
-- date: 2/13/2028
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 8/31/2026
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Withdrew
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
+- date: 8/27/2026
+  course: PDP1717D
+  title: CPR First Aid Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/26/2026
+  course: PDP2003D
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/26/2026
+  course: PDP1848D
+  title: FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 8/25/2026
+  course: PDP2072D
+  title: Intro to Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/24/2026
   course: PDP3413D
   title: FTEP Policy and Procedure
   status: Passed
   score: '0.0'
   hours: '5.00'
-attribute_records: []
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/27/2026
+  expiration_date: 8/26/2028
 education_records: []

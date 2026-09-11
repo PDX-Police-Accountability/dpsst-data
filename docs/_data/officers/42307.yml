@@ -44,6 +44,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 7/31/2026
+  course: PDP0852D
+  title: 2026 Patrol Rifle Operator Summer In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/28/2026
+  course: EGP0601D
+  title: Police Motorcade Training
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/15/2026
   course: PDP2294D
   title: 2026 Traffic Portland International Raceway Track

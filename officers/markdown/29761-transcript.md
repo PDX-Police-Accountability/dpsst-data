@@ -40,7 +40,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/21/2028 | E50-25A | Basic EMD Equivalency APCO or  IAED | Required | 0.0 | 24.00 |
 | 7/24/2026 | HBY1679D | Adult/Child/Infant First Aid/CPR/AED | Passed | 0.0 | 8.00 |
 | 12/1/2025 | PMC4269C | Legacy Fire/EMS Call Types for Dispatch | Passed | 0.0 | 0.50 |
 | 10/20/2025 | PMC3442B | Ethics Fall 2025 In-Service | Passed | 0.0 | 1.00 |

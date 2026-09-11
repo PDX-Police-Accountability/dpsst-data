@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2026
+  course: TGP0746D
+  title: National LE  Corporate Crimes Convention
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 8/21/2026
+  course: TGP3835D
+  title: Covert Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 5/29/2026
   course: TGP2515D
   title: Handgun

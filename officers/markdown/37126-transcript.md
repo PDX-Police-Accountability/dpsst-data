@@ -4,7 +4,7 @@
 | name | Shadron, John P. |
 | dpsst_identifier | 37126 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,16 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/31/2026 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 11/28/2025 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 10/27/2022 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 2/15/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/4/2024 | Police Officer | Supervisory | Granted | 11/4/2024 |  |  |
-| 11/15/2010 | Police Officer | Advanced | Granted | 11/15/2010 |  |  |
-| 11/15/2010 | Police Officer | Intermediate | Granted | 11/15/2010 |  |  |
-| 6/12/2000 | Police Officer | Basic | Granted | 6/12/2000 |  |  |
+| 11/4/2024 | Police Officer | Supervisory | Granted | 11/4/2024 | 10/31/2026 |  |
+| 11/15/2010 | Police Officer | Advanced | Granted | 11/15/2010 | 10/31/2026 |  |
+| 11/15/2010 | Police Officer | Intermediate | Granted | 11/15/2010 | 10/31/2026 |  |
+| 6/12/2000 | Police Officer | Basic | Granted | 6/12/2000 | 10/31/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

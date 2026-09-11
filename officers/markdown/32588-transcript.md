@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/14/2026 | GSP4094D | Handgun In-service | Passed | 0.0 | 10.00 |
 | 8/13/2026 | GSP1328D | First Aid / CPR Training | Passed | 0.0 | 4.00 |
 | 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |

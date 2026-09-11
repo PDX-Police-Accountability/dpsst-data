@@ -69,10 +69,22 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2026
+  course: CPP3172D
+  title: Glock Armorer
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/6/2026
   course: GPN0088D
   title: Alison Ethics in Law Enforcement
   status: ''
+  score: '0.0'
+  hours: '1.00'
+- date: 8/6/2026
+  course: GPN2794D
+  title: Alison Ethics in Law Enforcement
+  status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 7/29/2026

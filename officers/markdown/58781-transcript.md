@@ -17,7 +17,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/30/2026 | Police Officer | Supervisory | App Recd |  |  |  |
+| 9/4/2026 | Police Officer | Supervisory | Granted | 9/4/2026 |  |  |
 | 7/16/2024 | Police Officer | Advanced | Granted | 7/16/2024 |  |  |
 | 3/27/2024 | Police Officer | Intermediate | Granted | 3/27/2024 |  |  |
 | 8/16/2019 | Police Officer | Basic | Granted | 8/16/2019 |  |  |
@@ -25,7 +25,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 4/1/2025 | 4/1/2027 |
 | Code of Ethics | Law Enforcement Signed | 7/15/2018 |  |
 ## Education

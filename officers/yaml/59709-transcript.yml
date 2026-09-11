@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/20/2026
+  course: BNP2472D
+  title: UAS Monthly- Outdoor/Indoor Suspect Searches
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/11/2026
   course: BNP1671D
   title: Defensive Tactics Scenarios

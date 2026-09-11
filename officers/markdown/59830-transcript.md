@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 6/17/2026 | PDP2403C | 2026 Focused Intervention Team (FIT) Training | Passed | 0.0 | 9.00 |
 | 5/8/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/26/2026 | PDP2557C | 2026 Red Dot Sight for Pistol Transition Course | Passed | 0.0 | 27.00 |

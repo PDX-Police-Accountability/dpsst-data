@@ -1,2 +1,165 @@
 ---
-missing_transcript: true
+header_record:
+  name: Mathis, Angela M.
+  dpsst_identifier: '17080'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/28/2020
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 10/31/1983
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 3/20/2019
+  course: PDP43537
+  title: What Law Enforcement Professionals Need to Know
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/29/2016
+  course: F6C04700
+  title: Emergency Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2014
+  course: 14-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/28/2011
+  course: 11-0713
+  title: LEDS Certification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/5/2010
+  course: 10-0371
+  title: NW Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 11/4/2009
+  course: '09-0834'
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/20/2009
+  course: '09-0702'
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2007
+  course: 07-0703
+  title: Data System
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/28/2006
+  course: 06-0052
+  title: Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/26/2006
+  course: 06-2300
+  title: Oregon Open Records Law
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/25/2003
+  course: 03-0358
+  title: PPB Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 12/31/1997
+  course: 97P208
+  title: LEDS 1997 RECERTIFICATION TEST
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/1995
+  course: 95X088
+  title: LEDS 1995 RECERTIFICATION TEST
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/16/1994
+  course: 94J042
+  title: COP TALK
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/6/1990
+  course: '909040'
+  title: LEDS MANUAL GENERAL LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 12/9/1988
+  course: '889277'
+  title: STREET GANG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/25/1988
+  course: '889166'
+  title: FINGERPRINT-IDENTIFICATION
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/10/1985
+  course: '859203'
+  title: LEDS SYSTEM CHANGES
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/21/1984
+  course: '849161'
+  title: BASIC OR CRIM JUST INFO SYSTEM
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+attribute_records: []
+education_records: []

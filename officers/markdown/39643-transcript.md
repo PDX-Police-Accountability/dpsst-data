@@ -27,9 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/20/2026 | 8/20/2028 |
 | Code of Ethics | Law Enforcement Signed | 6/3/2026 |  |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 4/22/2025 | 4/22/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 1/31/2001 |  |
 ## Education
@@ -40,6 +40,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2026 | SDP0093D | Crisis Intervention Response for Youth | Passed | 0.0 | 1.00 |
+| 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |
+| 8/30/2026 | SDP1695D | Crisis Intervention Response for Veterans | Passed | 0.0 | 1.00 |
+| 8/20/2026 | SDP3021D | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 6.00 |
+| 8/12/2026 | SDP0607D | SFST Refresher | Passed | 0.0 | 4.00 |
 | 6/10/2026 | SDP4470D | Rifle/Handgun Range Day | Passed | 0.0 | 8.00 |
 | 4/16/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/12/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
