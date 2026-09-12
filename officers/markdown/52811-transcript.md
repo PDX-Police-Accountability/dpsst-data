@@ -4,7 +4,7 @@
 | name | Hughes, David E. |
 | dpsst_identifier | 52811 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Reserve Officer |
 | level |  |
 | classification |  |
@@ -14,6 +14,7 @@
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 9/27/2019 | Multnomah County Sheriff's Office | Promotion | Sergeant |  |  |
 | 10/8/2012 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
+| 10/7/2012 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 9/5/2012 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

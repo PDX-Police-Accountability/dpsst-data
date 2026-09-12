@@ -4,7 +4,7 @@
 | name | Morinville, Steven M. |
 | dpsst_identifier | 37145 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/9/2026 | Portland Police Bureau | Resigned | Detective |  |  |
 | 2/4/2021 | Portland Police Bureau | Promotion | Detective |  |  |
 | 2/15/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/4/2011 | Police Officer | Advanced | Granted | 5/4/2011 |  |  |
-| 5/4/2011 | Police Officer | Intermediate | Granted | 5/4/2011 |  |  |
-| 5/25/2000 | Police Officer | Basic | Granted | 5/25/2000 |  |  |
+| 5/4/2011 | Police Officer | Advanced | Granted | 5/4/2011 | 12/9/2026 |  |
+| 5/4/2011 | Police Officer | Intermediate | Granted | 5/4/2011 | 12/9/2026 |  |
+| 5/25/2000 | Police Officer | Basic | Granted | 5/25/2000 | 12/9/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

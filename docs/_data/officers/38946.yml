@@ -3,12 +3,18 @@ header_record:
   name: Gjovik, Christopher N.
   dpsst_identifier: '38946'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Deputy Chief
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/20/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Dpty Chief
+  classification: ''
+  assignment: ''
 - date: 1/2/2025
   agency: Portland Police Bureau
   action: Promotion
@@ -52,47 +58,47 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 11/2/2023
-  certificate: Police Officer
-  level: Executive
-  status: Granted
-  certificate_date: 11/2/2023
-  expiration_date: ''
-  probation_date: ''
-- status_date: 6/16/2021
-  certificate: Police Officer
-  level: Management
-  status: Granted
-  certificate_date: 6/16/2021
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/13/2016
-  certificate: Police Officer
-  level: Supervisory
-  status: Granted
-  certificate_date: 8/9/2016
-  expiration_date: ''
-  probation_date: ''
-- status_date: 7/16/2009
+- status_date: 8/20/2026
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 7/16/2009
-  expiration_date: ''
+  expiration_date: 5/20/2031
   probation_date: ''
-- status_date: 7/16/2009
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 7/16/2009
-  expiration_date: ''
-  probation_date: ''
-- status_date: 4/30/2001
+- status_date: 8/20/2026
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 4/30/2001
-  expiration_date: ''
+  expiration_date: 5/20/2031
+  probation_date: ''
+- status_date: 8/20/2026
+  certificate: Police Officer
+  level: Executive
+  status: Lapsed
+  certificate_date: 11/2/2023
+  expiration_date: 5/20/2031
+  probation_date: ''
+- status_date: 8/20/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 7/16/2009
+  expiration_date: 5/20/2031
+  probation_date: ''
+- status_date: 8/20/2026
+  certificate: Police Officer
+  level: Management
+  status: Lapsed
+  certificate_date: 6/16/2021
+  expiration_date: 5/20/2031
+  probation_date: ''
+- status_date: 8/20/2026
+  certificate: Police Officer
+  level: Supervisory
+  status: Lapsed
+  certificate_date: 8/9/2016
+  expiration_date: 5/20/2031
   probation_date: ''
 training_records:
 - date: 4/13/2026
@@ -5064,18 +5070,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/8/2025
   expiration_date: 5/8/2027
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2025
-  expiration_date: 12/31/2027
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/6/2000

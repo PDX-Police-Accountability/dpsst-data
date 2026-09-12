@@ -4,7 +4,7 @@
 | name | Gjovik, Christopher N. |
 | dpsst_identifier | 38946 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Deputy Chief |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/20/2026 | Portland Police Bureau | Retired | Dpty Chief |  |  |
 | 1/2/2025 | Portland Police Bureau | Promotion | Dpty Chief |  |  |
 | 1/18/2024 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 10/13/2022 | Portland Police Bureau | Promotion | Commander |  |  |
@@ -22,18 +23,16 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/2/2023 | Police Officer | Executive | Granted | 11/2/2023 |  |  |
-| 6/16/2021 | Police Officer | Management | Granted | 6/16/2021 |  |  |
-| 8/13/2016 | Police Officer | Supervisory | Granted | 8/9/2016 |  |  |
-| 7/16/2009 | Police Officer | Advanced | Granted | 7/16/2009 |  |  |
-| 7/16/2009 | Police Officer | Intermediate | Granted | 7/16/2009 |  |  |
-| 4/30/2001 | Police Officer | Basic | Granted | 4/30/2001 |  |  |
+| 8/20/2026 | Police Officer | Advanced | Lapsed | 7/16/2009 | 5/20/2031 |  |
+| 8/20/2026 | Police Officer | Basic | Lapsed | 4/30/2001 | 5/20/2031 |  |
+| 8/20/2026 | Police Officer | Executive | Lapsed | 11/2/2023 | 5/20/2031 |  |
+| 8/20/2026 | Police Officer | Intermediate | Lapsed | 7/16/2009 | 5/20/2031 |  |
+| 8/20/2026 | Police Officer | Management | Lapsed | 6/16/2021 | 5/20/2031 |  |
+| 8/20/2026 | Police Officer | Supervisory | Lapsed | 8/9/2016 | 5/20/2031 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/8/2025 | 5/8/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 9/6/2000 |  |
 ## Education
 | date | degree | school | major | hours |
