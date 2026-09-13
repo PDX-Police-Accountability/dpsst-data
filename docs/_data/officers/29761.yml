@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/1/2026
+  agency: W.C.C.C.A.
+  action: Resigned
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
 - date: 7/21/2026
   agency: W.C.C.C.A.
   action: Hired
@@ -75,21 +81,7 @@ employment_records:
   rank: Civln Emp
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 7/21/2026
-  certificate: Emergency Medical Dispatcher
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 1/21/2028
-- status_date: 7/21/2026
-  certificate: Telecommunicator
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 1/21/2028
+certification_records: []
 training_records:
 - date: 7/24/2026
   course: HBY1679D

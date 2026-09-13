@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/1/2026 | W.C.C.C.A. | Resigned | Dispatcher |  |  |
 | 7/21/2026 | W.C.C.C.A. | Hired | Dispatcher |  |  |
 | 10/21/2025 | Bureau of Emergency Communications | Resigned | Dispatcher |  |  |
 | 2/27/2025 | Bureau of Emergency Communications | Hired | Dispatcher |  |  |
@@ -26,8 +27,6 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/21/2026 | Emergency Medical Dispatcher | Basic | Required |  |  | 1/21/2028 |
-| 7/21/2026 | Telecommunicator | Basic | Required |  |  | 1/21/2028 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
