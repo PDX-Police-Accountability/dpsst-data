@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/3/2026
+  course: SAG2918C
+  title: First Aid  CPR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/16/2025
   course: SAG0868A
   title: 4th Annual OCCIA Conference
@@ -3837,6 +3843,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/3/2026
+  expiration_date: 2/3/2028
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025
@@ -3849,10 +3859,6 @@ attribute_records:
   value: Signed
   effective_date: 10/1/2010
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 9/2/2026
 education_records:
 - date: 5/7/1995
   degree: Bachelor Science

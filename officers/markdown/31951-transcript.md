@@ -25,10 +25,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/3/2026 | 2/3/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Signed | 10/1/2010 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 9/2/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2026 | SAG2918C | First Aid  CPR | Passed | 0.0 | 4.00 |
 | 5/16/2025 | SAG0868A | 4th Annual OCCIA Conference | Passed | 0.0 | 8.00 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 1.00 |
 | 1/29/2025 | SAG1349A | Firearms training | Passed | 0.0 | 2.00 |
