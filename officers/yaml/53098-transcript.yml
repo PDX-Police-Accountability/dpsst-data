@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '22.00'
+- date: 7/30/2026
+  course: PDP3513D
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/12/2026
   course: REG3748D
   title: SFST Instructor Development Course

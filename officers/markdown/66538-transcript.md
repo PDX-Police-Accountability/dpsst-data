@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/31/2025 | Police Officer | Basic | Required |  |  | 1/31/2027 |
+| 9/15/2026 | Police Officer | Basic | App Recd |  |  | 1/31/2027 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/31/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/15/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 7/2/2026 | PDP1901D | New Radar Lidar Operator Course | Passed | 0.0 | 12.00 |
 | 7/2/2026 | REG0822D | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 6/16/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
@@ -70,6 +70,7 @@
 | 1/13/2026 | PDP3224C | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 1/13/2026 | PDP3350C | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 1/13/2026 | PDP0205C | FTEP Report Writing | Passed | 0.0 | 2.00 |
+| 1/13/2026 | PDP0124D | FTEP Geography | Passed | 0.0 | 2.25 |
 | 1/12/2026 | PDP0676C | Post Basic FTEP Firearms | Passed | 0.0 | 23.00 |
 | 1/12/2026 | PDP0325C | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 1/12/2026 | PDP4451C | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |

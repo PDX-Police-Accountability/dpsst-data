@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2026 | SAG2859D | Attorney General Consortium Conference | Passed | 0.0 | 12.00 |
+| 9/9/2026 | AVP1216D | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |
 | 8/12/2026 | AVP4426D | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 7/8/2026 | AVP2857D | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
@@ -52,7 +53,18 @@
 | 2/11/2026 | AVP1983C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 2/11/2026 | AVP2590C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
+| 2/5/2026 | SAG1975D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
+| 2/5/2026 | SAG3224D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
+| 2/5/2026 | SAG3687D | Oregon TITAN Fusion Center ACISS | Passed | 0.0 | 2.00 |
+| 2/5/2026 | SAG1684D | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 2/5/2026 | SAG2916D | Legal Updates | Passed | 0.0 | 2.00 |
+| 2/4/2026 | SAG3255D | OIS and Use of Force | Instructed | 0.0 | 8.00 |
+| 2/4/2026 | SAG3255D | OIS and Use of Force | Passed | 0.0 | 4.00 |
 | 2/3/2026 | SAG2918C | First Aid  CPR | Passed | 0.0 | 4.00 |
+| 2/3/2026 | SAG2738D | Firearms Training | Passed | 0.0 | 4.00 |
+| 2/2/2026 | SAG2588D | Report Writing | Passed | 0.0 | 1.00 |
+| 2/2/2026 | SAG3347D | WSIN training | Passed | 0.0 | 1.00 |
+| 2/2/2026 | SAG3232D | Evidence Handling | Passed | 0.0 | 1.00 |
 | 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |
 | 9/10/2025 | AVP1649B | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |
 | 9/10/2025 | AVP4578C | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |

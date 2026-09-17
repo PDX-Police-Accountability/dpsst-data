@@ -45,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/10/2026 | EGP4393D | Legal Updates | Passed | 0.0 | 1.50 |
+| 9/10/2026 | EGP0700D | MRT Field Force Skills  Scenario Training | Passed | 0.0 | 3.00 |
 | 4/9/2026 | EGP0287C | Taser Recertification | Passed | 0.0 | 3.50 |
 | 2/12/2026 | EGP3799C | Suicide Prevention | Passed | 0.0 | 1.50 |
 | 1/15/2026 | EGP1672C | Bloodborne Pathogens | Passed | 0.0 | 0.50 |

@@ -2503,6 +2503,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/14/2022
+  course: PDP4344D
+  title: 'OSP Crime Lab: Touch DNA'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/12/2022
   course: PDP04025
   title: Foot Pursuits (effective 01/14/2022)

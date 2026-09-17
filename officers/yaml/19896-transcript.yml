@@ -207,6 +207,12 @@ certification_records:
   expiration_date: 6/6/2030
   probation_date: ''
 training_records:
+- date: 9/9/2026
+  course: OSA0287D
+  title: SARAC Quarterly Meeting/Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 5/31/2026
   course: PLS3317D
   title: East Oregon Search And Rescue Regional Training

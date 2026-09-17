@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/26/2026
+  course: PDS1141D
+  title: Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/25/2026
   course: PDS1168D
   title: Kinetic Impact Projectile Refresher

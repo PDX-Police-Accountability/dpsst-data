@@ -75,6 +75,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 9/10/2026
+  course: EGP4393D
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/10/2026
+  course: EGP0700D
+  title: MRT Field Force Skills  Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/31/2026
   course: EGP3228D
   title: LEDS Recertification  CJIS Training

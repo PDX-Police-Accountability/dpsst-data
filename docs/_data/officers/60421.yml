@@ -122,12 +122,84 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/5/2026
+  course: SAG1975D
+  title: DOJ Government Ethics Laws
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/5/2026
+  course: SAG1684D
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/5/2026
+  course: SAG3224D
+  title: DOJ Government Ethics Laws
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/5/2026
+  course: SAG3687D
+  title: Oregon TITAN Fusion Center ACISS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/5/2026
+  course: SAG1684D
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/5/2026
+  course: SAG2916D
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/5/2026
+  course: SAG2587D
+  title: Bias Crimes and Equity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/4/2026
+  course: SAG0031D
+  title: Building Searches
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/4/2026
+  course: SAG3255D
+  title: OIS and Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/3/2026
   course: SAG2918C
   title: First Aid  CPR
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/3/2026
+  course: SAG2738D
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/3/2026
+  course: SAG2738D
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/2/2026
+  course: SAG3232D
+  title: Evidence Handling
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/14/2026
   course: SAG2745C
   title: Firerms Training

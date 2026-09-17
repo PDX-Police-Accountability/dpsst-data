@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/2/2026 | SPP4304D | Body Worn Camera Training | Passed | 0.0 | 1.00 |
 | 6/23/2026 | SPP3904C | Cybersecurity | Passed | 0.0 | 0.50 |
 | 6/23/2026 | SPP3398C | Fire Extinguisher Safety | Passed | 0.0 | 0.50 |
 | 6/23/2026 | SPP1144C | Harassment Prevention for Employees | Passed | 0.0 | 1.00 |

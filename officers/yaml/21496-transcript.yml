@@ -166,6 +166,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/28/2026
+  course: OSH4297D
+  title: ARIDE
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 8/6/2026
   course: OSH1078D
   title: OSP Ethics 2026

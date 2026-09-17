@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2026
+  course: GLP2868D
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/9/2026
   course: GLP0428D
   title: Firearms Qualification - 40mm Less Lethal

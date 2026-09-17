@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/9/2026 | PDP3188D | RegJIN RMS MRE | Instructed | 0.0 | 14.00 |
 | 7/9/2026 | PDP1163D | RegJIN RMS MRE | Instructed | 0.0 | 14.00 |
 | 6/3/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/3/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

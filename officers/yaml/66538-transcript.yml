@@ -16,18 +16,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 7/31/2025
+- status_date: 9/15/2026
   certificate: Police Officer
   level: Basic
-  status: Required
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 1/31/2027
 training_records:
-- date: 1/31/2027
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
+- date: 9/15/2026
+  course: E11PDP19
+  title: FTM Equivalency Review (Portland Police Bureau)
+  status: Completed
   score: '0.0'
   hours: '50.00'
 - date: 7/2/2026
@@ -276,6 +276,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/13/2026
+  course: PDP0124D
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 1/12/2026
   course: PDP0676C
   title: Post Basic FTEP Firearms

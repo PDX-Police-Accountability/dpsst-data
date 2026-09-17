@@ -109,6 +109,7 @@
 | 1/13/2026 | PDP4120C | DIR 660.10, PE Procedures/2018-5 TT 100% Collect | Passed | 0.0 | 0.50 |
 | 1/13/2026 | PDP2535C | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 1/13/2026 | PDP2137C | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 1/13/2026 | PDP0124D | FTEP Geography | Passed | 0.0 | 2.25 |
 | 1/12/2026 | PDP0676C | Post Basic FTEP Firearms | Passed | 0.0 | 23.00 |
 | 1/12/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/8/2026 | PDP0814C | RegJin RMS/MRE Report Writing | Passed | 0.0 | 15.00 |

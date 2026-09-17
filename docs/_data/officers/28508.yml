@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/9/2026
+  course: PDP3188D
+  title: RegJIN RMS MRE
+  status: Instructed
+  score: '0.0'
+  hours: '14.00'
 - date: 7/9/2026
   course: PDP1163D
   title: RegJIN RMS MRE

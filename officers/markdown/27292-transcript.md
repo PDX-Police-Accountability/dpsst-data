@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2026 | PDS3963D | Summer Sergeants Training | Passed | 0.0 | 4.00 |
 | 8/13/2026 | PDS2507D | Summer 2026 Sgt. Training | Passed | 0.0 | 4.00 |
 | 8/13/2026 | PDS3493D | Summer 2026 Sgt. Training | Passed | 0.0 | 4.00 |
 | 7/28/2026 | PDS4128D | July 2026 Crisis Negotiations Team Training | Passed | 0.0 | 16.00 |

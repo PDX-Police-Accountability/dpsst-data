@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/9/2026
+  course: HSU0648D
+  title: Airways Training Video Patient Evaluation for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/13/2026
   course: OSU1254D
   title: ICS300  Intermediate Expanding Events

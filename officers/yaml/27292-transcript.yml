@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/26/2026
+  course: PDS3963D
+  title: Summer Sergeants Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/13/2026
   course: PDS2507D
   title: Summer 2026 Sgt. Training

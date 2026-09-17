@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2026 | PDS1141D | Legal Update | Passed | 0.0 | 4.00 |
 | 7/8/2026 | HDA4309D | Leadership in Investigations | Passed | 0.0 | 4.00 |
 | 7/8/2026 | HDA1808D | Synthetic Opioids | Passed | 0.0 | 4.00 |
 | 7/7/2026 | HDA4087D | Jeremy Brown Shooting | Passed | 0.0 | 2.00 |

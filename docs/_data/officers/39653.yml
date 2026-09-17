@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/4/2026
+  course: REG1810D
+  title: 'EVOIC #1'
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/25/2026
   course: PDP1391D
   title: 2026 FTEP Intro to Police Vehicle Operations (PVO)

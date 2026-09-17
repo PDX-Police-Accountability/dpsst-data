@@ -225,6 +225,7 @@
 | 7/22/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/11/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |
 | 7/11/2024 | PDP2096A | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 7/11/2024 | PDP2064D | OSP Crime Lab: Touch DNA | Passed | 0.0 | 2.00 |
 | 7/10/2024 | PDP1434A | 2024 Body Worn Camera Training | Passed | 0.0 | 2.00 |
 | 6/28/2024 | PDP1150A | 2024 AR-15 Operator In-Service | Passed | 0.0 | 9.00 |
 | 6/28/2024 | PDP2841A | 2024-3 Range Qualification AR-15 (100 Yard) | Passed | 0.0 | 0.50 |

@@ -29,7 +29,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/9/2026 | PDP3188D | RegJIN RMS MRE | Passed | 0.0 | 14.00 |
+| 9/7/2026 | PDP0220D | FTEP Control Tactics Searches | Passed | 0.0 | 3.00 |
 | 9/2/2026 | PDP0834D | 2026 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.50 |
+| 9/2/2026 | PDP2349D | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 9/1/2026 | PDP0497D | FTEP Post DPSST Control Tactics | Passed | 0.0 | 4.00 |
 | 8/6/2026 | REG4461D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/22/2026 | REG2962D | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

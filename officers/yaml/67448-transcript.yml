@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/18/2026
+  course: PDP3488D
+  title: Basic CPR/First Aid Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/12/2026
   course: PDP2691D
   title: ICS-100 Intro to Incident Command System
@@ -113,4 +119,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 5/25/2026
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/18/2026
+  expiration_date: 5/18/2028
 education_records: []

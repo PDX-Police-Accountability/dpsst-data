@@ -282,6 +282,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/13/2026
+  course: PDP0124D
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 1/12/2026
   course: PDP0676C
   title: Post Basic FTEP Firearms

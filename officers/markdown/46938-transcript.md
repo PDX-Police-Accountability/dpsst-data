@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2026 | SAG1426D | ICAC 101 | Passed | 0.0 | 8.00 |
 | 4/30/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit |  | 0.0 | 6.00 |
 | 4/29/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit | Passed | 0.0 | 6.00 |
 | 4/8/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

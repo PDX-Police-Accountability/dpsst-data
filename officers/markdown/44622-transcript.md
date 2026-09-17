@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/9/2026 | OSH0417D | HRVS Refresher | Instructed | 0.0 | 1.00 |
 | 6/15/2026 | OSH3913C | DT2-Taser | Passed | 0.0 | 4.00 |
 | 6/15/2026 | OSH1864C | DT2-Taser | Instructed | 0.0 | 4.00 |
 | 5/22/2026 | OSH4596C | DT2/TASER | Instructed | 0.0 | 4.00 |

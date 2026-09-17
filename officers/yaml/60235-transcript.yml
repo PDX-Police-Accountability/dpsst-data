@@ -679,6 +679,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/11/2024
+  course: PDP2064D
+  title: 'OSP Crime Lab: Touch DNA'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/10/2024
   course: PDP1434A
   title: 2024 Body Worn Camera Training

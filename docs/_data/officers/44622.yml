@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/9/2026
+  course: OSH0417D
+  title: HRVS Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/15/2026
   course: OSH3913C
   title: DT2-Taser

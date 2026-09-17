@@ -303,6 +303,7 @@
 | 2/1/2022 | PDP12187 | 2022 In-Service Patrol Procedures - Scenarios | Passed | 0.0 | 1.50 |
 | 1/19/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/19/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
+| 1/14/2022 | PDP4344D | OSP Crime Lab: Touch DNA | Passed | 0.0 | 2.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 12/30/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |

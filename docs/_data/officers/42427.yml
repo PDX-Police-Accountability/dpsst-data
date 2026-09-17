@@ -656,6 +656,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/11/2024
+  course: PDP2064D
+  title: 'OSP Crime Lab: Touch DNA'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/31/2024
   course: OSH2907A
   title: Tactical Rope Operations

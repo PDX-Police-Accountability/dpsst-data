@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2026 | OCP0099D | ASHER Response Training | Passed | 0.0 | 3.00 |
+| 9/9/2026 | OCP4112D | Effects of Sleep and Mental Health | Passed | 0.0 | 0.50 |
 | 8/31/2026 | OCP3859D | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 8/31/2026 | OCP3859D | Firearms/Use of Force | Instructed | 0.0 | 6.00 |
 | 8/27/2026 | OCP1670D | Huerta-Contretas  Almestica Case Law Update | Instructed | 0.0 | 4.50 |

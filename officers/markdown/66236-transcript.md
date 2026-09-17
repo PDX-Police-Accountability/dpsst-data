@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/30/2026 | PDP3513D | SFST Refresher | Passed | 0.0 | 4.00 |
 | 7/16/2026 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 6/18/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/10/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |

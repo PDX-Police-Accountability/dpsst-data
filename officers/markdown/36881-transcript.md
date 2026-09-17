@@ -39,7 +39,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/3/2026 | BPT0161D | ICISF: Group Crisis Intervention | Passed | 0.0 | 16.00 |
+| 9/3/2026 | BPT0615D | ICISF: Group Crisis Intervention | Passed | 0.0 | 16.00 |
 | 9/1/2026 | BPT2445D | ICISF: Assisting Individuals in Crisis | Passed | 0.0 | 16.00 |
+| 9/1/2026 | BPT3363D | ICISF: Assisting Individuals in Crisis | Passed | 0.0 | 16.00 |
 | 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 7/16/2026 | SAG1874D | Firearms | Passed | 0.0 | 1.00 |
 | 6/22/2026 | SAG4549D | Firearms | Passed | 0.0 | 2.00 |
@@ -49,8 +51,20 @@
 | 5/13/2026 | OAC2101C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 2.50 |
 | 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
 | 4/9/2026 | SAG4569C | Firearms | Passed | 0.0 | 2.00 |
+| 2/6/2026 | SAG2587D | Bias Crimes and Equity | Passed | 0.0 | 1.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
+| 2/5/2026 | SAG3224D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
+| 2/5/2026 | SAG1975D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
+| 2/5/2026 | SAG1684D | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 2/5/2026 | SAG3687D | Oregon TITAN Fusion Center ACISS | Passed | 0.0 | 2.00 |
+| 2/5/2026 | SAG2916D | Legal Updates | Passed | 0.0 | 2.00 |
+| 2/4/2026 | SAG0031D | Building Searches | Passed | 0.0 | 4.00 |
+| 2/4/2026 | SAG3255D | OIS and Use of Force | Passed | 0.0 | 4.00 |
 | 2/3/2026 | SAG2918C | First Aid  CPR | Passed | 0.0 | 4.00 |
+| 2/3/2026 | SAG2738D | Firearms Training | Passed | 0.0 | 4.00 |
+| 2/2/2026 | SAG2588D | Report Writing | Passed | 0.0 | 1.00 |
+| 2/2/2026 | SAG3347D | WSIN training | Passed | 0.0 | 1.00 |
+| 2/2/2026 | SAG3232D | Evidence Handling | Passed | 0.0 | 1.00 |
 | 1/14/2026 | SAG2745C | Firerms Training | Passed | 0.0 | 2.00 |
 | 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |
 | 6/6/2025 | SAG0243A | Firearms training | Passed | 0.0 | 1.50 |

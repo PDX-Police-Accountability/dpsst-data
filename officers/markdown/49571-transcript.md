@@ -465,6 +465,7 @@
 | 2/12/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/12/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 1/18/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
+| 1/14/2022 | PDP4344D | OSP Crime Lab: Touch DNA | Passed | 0.0 | 2.00 |
 | 1/6/2022 | PDP39616 | Focused Intervention Team Firearms Training | Passed | 0.0 | 2.50 |
 | 1/5/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/5/2022 | PDP36959 | 2022 In-Service Firearms - Scenarios | Passed | 0.0 | 1.00 |

@@ -59,6 +59,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2026 | OSH4297D | ARIDE | Instructed | 0.0 | 16.00 |
 | 8/6/2026 | OSH1078D | OSP Ethics 2026 | Passed | 0.0 | 1.00 |
 | 7/9/2026 | OSH4307D | 0166 2nd Trimester Firearms | Passed | 0.0 | 3.00 |
 | 6/11/2026 | OSH4006C | OSP Defensive Tactics - 2nd Trimester / TASER10 | Passed | 0.0 | 4.00 |

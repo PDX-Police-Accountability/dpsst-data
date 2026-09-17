@@ -100,6 +100,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/10/2026
+  course: EGP4393D
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/10/2026
+  course: EGP0700D
+  title: MRT Field Force Skills  Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/9/2026
   course: EGP0287C
   title: Taser Recertification

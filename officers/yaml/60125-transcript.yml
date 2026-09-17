@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/4/2026
+  course: REG1810D
+  title: 'EVOIC #1'
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/30/2026
   course: PDS3384D
   title: Airway and Circulatory Training

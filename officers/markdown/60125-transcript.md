@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2026 | REG1810D | EVOIC #1 | Passed | 0.0 | 40.00 |
 | 6/30/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 6/26/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
 | 5/22/2026 | PDS2859C | Field Training and Evaluation Program, 24 hr basic | Passed | 0.0 | 24.00 |

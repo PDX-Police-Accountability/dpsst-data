@@ -45,7 +45,12 @@
 | 6/22/2026 | SAG4549D | Firearms | Passed | 0.0 | 2.00 |
 | 6/22/2026 | SAG3802D | Firearms | Passed | 0.0 | 2.00 |
 | 4/9/2026 | SAG4569C | Firearms | Passed | 0.0 | 0.50 |
+| 2/4/2026 | SAG3255D | OIS and Use of Force | Passed | 0.0 | 4.00 |
 | 2/3/2026 | SAG2918C | First Aid  CPR | Passed | 0.0 | 4.00 |
+| 2/3/2026 | SAG2738D | Firearms Training | Passed | 0.0 | 4.00 |
+| 2/2/2026 | SAG3232D | Evidence Handling | Passed | 0.0 | 1.00 |
+| 2/2/2026 | SAG2588D | Report Writing | Passed | 0.0 | 1.00 |
+| 2/2/2026 | SAG3347D | WSIN training | Passed | 0.0 | 1.00 |
 | 12/31/2025 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 1.50 |
 | 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |
 | 7/9/2025 | SAG2878B | Firearms training | Passed | 0.0 | 1.00 |

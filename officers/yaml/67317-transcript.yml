@@ -30,12 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/9/2026
+  course: PDP3188D
+  title: RegJIN RMS MRE
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 9/7/2026
+  course: PDP0220D
+  title: FTEP Control Tactics Searches
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/2/2026
   course: PDP0834D
   title: 2026 Mobile Identification Device (MIDD) Training
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/2/2026
+  course: PDP2349D
+  title: FTEP Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/1/2026
   course: PDP0497D
   title: FTEP Post DPSST Control Tactics

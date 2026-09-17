@@ -469,6 +469,7 @@
 | 2/4/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 2/3/2022 | PDP20181 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 1/20/2022 | PDP33711 | 2022 SERT Training - Classroom | Passed | 0.0 | 9.00 |
+| 1/14/2022 | PDP4344D | OSP Crime Lab: Touch DNA | Passed | 0.0 | 2.00 |
 | 1/13/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/13/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/13/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2026 | GLP2868D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 7/9/2026 | GLP0428D | Firearms Qualification - 40mm Less Lethal | Passed | 0.0 | 1.00 |
 | 7/9/2026 | GLP2888D | Firearms Qualification - Glock 47 | Passed | 0.0 | 1.00 |
 | 6/29/2026 | GLP0414D | Basic Patrol Rifle Course and Qual | Passed | 0.0 | 5.00 |

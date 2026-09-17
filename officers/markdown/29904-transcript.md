@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2026 | PDS1141D | Legal Update | Passed | 0.0 | 4.00 |
 | 6/25/2026 | PDS1168D | Kinetic Impact Projectile Refresher | Passed | 0.0 | 0.50 |
 | 6/25/2026 | PDS0770D | Implicit Bias | Passed | 0.0 | 1.00 |
 | 6/25/2026 | PDS4464D | Taser Recertification | Passed | 0.0 | 1.00 |

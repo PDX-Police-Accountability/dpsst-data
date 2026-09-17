@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/4/2025 | Police Officer | Basic | Required |  |  | 2/4/2027 |
+| 9/15/2026 | Police Officer | Basic | App Recd |  |  | 2/4/2027 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -33,7 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/15/2026 | E11HBS19 | FTM Equivalency (WA County Sheriff) | Completed | 0.0 | 50.00 |
 | 7/1/2026 | HBS2880D | Virtual - ACAP | Passed | 0.0 | 2.00 |
 | 7/1/2026 | HBS1116D | Virtual - A Blueprint for Financial Well | Passed | 0.0 | 0.50 |
 | 7/1/2026 | HBS3865D | Virtual - Duty to Intercede | Passed | 0.0 | 1.00 |

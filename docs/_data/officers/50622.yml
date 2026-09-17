@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/13/2026
+  course: OCP0099D
+  title: ASHER Response Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/9/2026
+  course: OCP4112D
+  title: Effects of Sleep and Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/31/2026
   course: OCP3859D
   title: Firearms/Use of Force

@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 5/25/2026 |  |
+| Certification Cards | First Aid and CPR | 5/18/2026 | 5/18/2028 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -37,6 +38,7 @@
 | 5/20/2026 | PDP1525C | LEDS Certification | Passed | 0.0 | 3.00 |
 | 5/19/2026 | PDP4406D | ICS-200 Basic Incident Command Syst for Init Resp | Passed | 0.0 | 4.00 |
 | 5/19/2026 | PDP1258D | IS-700 NIMS and Introduction | Passed | 0.0 | 4.00 |
+| 5/18/2026 | PDP3488D | Basic CPR/First Aid Certification | Passed | 0.0 | 4.00 |
 | 5/12/2026 | PDP2691D | ICS-100 Intro to Incident Command System | Passed | 0.0 | 2.00 |
 | 5/11/2026 | PDP0050C | 2026 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
 | 4/30/2026 | PDP2243D | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

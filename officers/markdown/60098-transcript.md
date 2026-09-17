@@ -146,6 +146,7 @@
 | 7/22/2024 | PDP0918A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/18/2024 | PDP0018A | 2024-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/18/2024 | PDP2034A | 2024-2 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
+| 7/11/2024 | PDP2064D | OSP Crime Lab: Touch DNA | Passed | 0.0 | 2.00 |
 | 7/9/2024 | PDP3890A | 2023-4 CAO Legal Updates for 04/2023 | Passed | 0.0 | 0.25 |
 | 7/9/2024 | PDP0737A | 2024 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/9/2024 | PDP2564A | 2024 Safe Training Procedures | Passed | 0.0 | 0.25 |

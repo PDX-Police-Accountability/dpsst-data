@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/30/2026 | PDP3513D | SFST Refresher | Passed | 0.0 | 4.00 |
 | 7/20/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 4/22/2026 | PDP3875D | 2019-3 TT ECIT Dispatch Criteria  BOEC Training | Passed | 0.0 | 0.25 |
 | 4/22/2026 | PDP4235D | 2019-3 TT ECIT Dispatch Criteria  BOEC Training | Passed | 0.0 | 0.25 |

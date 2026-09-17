@@ -59,6 +59,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/9/2026 | OSA0287D | SARAC Quarterly Meeting/Training | Passed | 0.0 | 0.75 |
 | 5/31/2026 | PLS3317D | East Oregon Search And Rescue Regional Training | Passed | 0.0 | 26.00 |
 | 3/31/2026 | JDN1022C | Firearms Qualifications | Passed | 0.0 | 1.00 |
 | 3/31/2026 | JDN3790C | Reloading and transition drills | Passed | 0.0 | 2.00 |
