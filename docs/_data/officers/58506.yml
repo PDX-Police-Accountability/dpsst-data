@@ -31,6 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/3/2026
+  course: PDP0796D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/3/2026
+  course: PDP0796D
+  title: 2026 SERT Training - SCENARIO
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/3/2026
+  course: PDP0540D
+  title: 2026 Trng BWC Body 4 Conversion Train the Trainer
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/6/2026
   course: PDP0895D
   title: 2026 SERT Training - ITERATION
@@ -133,6 +151,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/14/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/14/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/14/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/7/2026
   course: PDP1979C
   title: 2026 SERT Training - FIREARMS

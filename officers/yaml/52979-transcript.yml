@@ -50,6 +50,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 8/16/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/21/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/21/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/21/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/23/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)

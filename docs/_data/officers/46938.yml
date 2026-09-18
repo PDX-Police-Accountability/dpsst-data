@@ -44,12 +44,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2026
+  course: SAG0820D
+  title: ICAC 201
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/14/2026
   course: SAG1426D
   title: ICAC 101
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/17/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/30/2026
   course: VND4605D
   title: Oregon Child Abuse and Human Trafficking Summit

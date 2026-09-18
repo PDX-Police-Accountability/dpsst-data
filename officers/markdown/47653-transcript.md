@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2026 | PDP0540D | 2026 Trng BWC Body 4 Conversion Train the Trainer | Instructed | 0.0 | 1.50 |
 | 7/10/2026 | PDP0940D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 7/6/2026 | PDP3547D | FTEP Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 6/29/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
@@ -44,6 +45,8 @@
 | 6/9/2026 | PDP1581C | Post Basic CEW | Instructed | 0.0 | 9.00 |
 | 6/5/2026 | OSH0450C | Oregon State Police - Public Order Basic Course | Instructed | 0.0 | 30.00 |
 | 5/26/2026 | PDP1019C | Hazmat/WMD Awareness APR Gas Mask | Instructed | 0.0 | 2.00 |
+| 5/25/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 5/25/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/8/2026 | PDP2120C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/5/2026 | PDP1728C | Hazmat/WMD Awareness APR Gas Mask | Instructed | 0.0 | 2.00 |
 | 5/4/2026 | PDP1906C | Post Basic CEW | Instructed | 0.0 | 9.00 |

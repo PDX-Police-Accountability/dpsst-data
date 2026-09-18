@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 6/5/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/19/2026 | 26-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 5/15/2026 | LOP0922D | 2026 Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/21/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

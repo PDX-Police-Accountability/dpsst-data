@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '90.00'
+- date: 7/16/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/10/2026
   course: PDP0940D
   title: 2026 Rapid Response team (RRT) Monthly Training
@@ -55,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/14/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/12/2026
   course: PDP1446C
   title: 2026 Rapid Response team (RRT) Monthly Training
@@ -133,6 +145,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 5/14/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/8/2026
   course: PDP2120C
   title: 2026 Rapid Response team (RRT) Monthly Training

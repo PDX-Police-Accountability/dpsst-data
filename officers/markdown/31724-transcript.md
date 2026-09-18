@@ -42,32 +42,32 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/17/2026 | BNS2035D | Civil Commitment and Aid and Assist | Passed | 0.0 | 1.00 |
 | 7/20/2026 | BNS2496D | Ethos Academy - Ethics | Passed | 0.0 | 3.00 |
-| 6/30/2026 | BNS0240D | (Online) Oleoresin Capsicum Refresher | Passed | 0.0 | 1.00 |
+| 6/30/2026 | BNS0240D | Online Oleoresin Capsicum Refresher | Passed | 0.0 | 1.00 |
 | 6/4/2026 | BNS3278D | EVOC | Passed | 0.0 | 4.00 |
-| 5/31/2026 | BNS1890D | (Police1) Pursuit Driving Basics | Passed | 0.0 | 1.00 |
-| 5/31/2026 | BNS2586D | (Police1) Stop Stick Safety Course | Passed | 0.0 | 0.50 |
-| 4/30/2026 | BNS3251C | (Police1) Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
-| 4/30/2026 | BNS2490C | (Police1) Interacting with the Mentally Ill | Passed | 0.0 | 1.00 |
+| 5/31/2026 | BNS1890D | Police1 Pursuit Driving Basics | Passed | 0.0 | 1.00 |
+| 5/31/2026 | BNS2586D | Police1 Stop Stick Safety Course | Passed | 0.0 | 0.50 |
+| 4/30/2026 | BNS3251C | Police1 Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
+| 4/30/2026 | BNS2490C | Police1 Interacting with the Mentally Ill | Passed | 0.0 | 1.00 |
 | 4/29/2026 | BNS0660C | Range/ArCon Scenarios | Passed | 0.0 | 4.00 |
-| 3/31/2026 | BNS0940C | (P1) Ambush Awareness and Preparation | Passed | 0.0 | 1.00 |
-| 3/31/2026 | BNS0184C | (P1) Advanced Policing: Emotional Intelligence | Passed | 0.0 | 1.00 |
+| 3/31/2026 | BNS0940C | P1 Ambush Awareness and Preparation | Passed | 0.0 | 1.00 |
+| 3/31/2026 | BNS0184C | P1 Advanced Policing: Emotional Intelligence | Passed | 0.0 | 1.00 |
 | 3/10/2026 | BNS2154C | Active Threat Response | Passed | 0.0 | 4.00 |
 | 2/28/2026 | BNS3575C | Rescue Task Force | Passed | 0.0 | 1.00 |
 | 2/28/2026 | BNS0410C | Deflection Program - Patrol Update | Passed | 0.0 | 0.50 |
 | 2/28/2026 | BNS0994C | Hearing Conservation | Passed | 0.0 | 0.25 |
-| 2/28/2026 | BNS3254C | (Police1) CIT - Crisis Response | Passed | 0.0 | 1.00 |
+| 2/28/2026 | BNS3254C | Police1 CIT - Crisis Response | Passed | 0.0 | 1.00 |
 | 2/28/2026 | BNS0207C | Ladder Safety | Passed | 0.0 | 0.25 |
 | 2/1/2026 | BNS3760C | Deflection Update - Briefing Training | Passed | 0.0 | 0.25 |
-| 1/31/2026 | BNS2179C | (Police1) Suicide Pevention for Law Enforcement | Passed | 0.0 | 1.00 |
+| 1/31/2026 | BNS2179C | Police1 Suicide Pevention for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2026 | BNS0469C | Arrest and Control | Passed | 0.0 | 2.00 |
 | 1/29/2026 | BNS4483C | First Aid/TCCC Review and Scenarios | Passed | 0.0 | 2.00 |
 | 1/29/2026 | BNS4451C | Online First Aid | Passed | 0.0 | 5.00 |
 | 12/20/2025 | BNS0533C | Critical Incident Debriefs | Passed | 0.0 | 3.00 |
-| 11/26/2025 | BNS1555C | (Police1) Airway Circulatory Anatomy Physiology | Passed | 0.0 | 2.00 |
+| 11/26/2025 | BNS1555C | Police1 Airway Circulatory Anatomy Physiology | Passed | 0.0 | 2.00 |
 | 11/11/2025 | BNS0688C | WRAP refresher | Passed | 0.0 | 1.00 |
 | 11/10/2025 | BNS3328C | SFST Refresher/DUII Wet Lab | Passed | 0.0 | 4.00 |
-| 11/2/2025 | BNS1694C | (Police1) Implicit Bias | Passed | 0.0 | 1.00 |
-| 11/1/2025 | BNS0095C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
+| 11/2/2025 | BNS1694C | Police1 Implicit Bias | Passed | 0.0 | 1.00 |
+| 11/1/2025 | BNS0095C | Police1 Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 9/3/2025 | BNS2860B | Firearms | Passed | 0.0 | 4.00 |
 | 9/3/2025 | BNS0086B | 40MM | Passed | 0.0 | 4.00 |
 | 9/3/2025 | BNS3525B | Pepperball | Passed | 0.0 | 4.00 |

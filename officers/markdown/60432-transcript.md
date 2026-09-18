@@ -37,6 +37,8 @@
 | 8/17/2026 | PDP3747D | Intoxilyzer 8000 Certification | Passed | 0.0 | 6.00 |
 | 8/2/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 7/30/2026 | PDP3513D | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 6/25/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 6/25/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/12/2026 | REG0910C | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 6/12/2026 | REG3748D | SFST Instructor Development Course | Passed | 0.0 | 48.00 |
 | 6/12/2026 | PDP4227D | SFST Instructor Development Course | Passed | 0.0 | 40.00 |

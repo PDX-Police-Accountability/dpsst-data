@@ -51,6 +51,7 @@
 | 5/18/2026 | PDP0925D | 2025-07 CAO Legal Updates for 08-09/2024 | Passed | 0.0 | 0.50 |
 | 5/18/2026 | PDP3127D | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 5/18/2026 | PDP4531D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
+| 5/18/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/14/2026 | PDP3367C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 5/14/2026 | PDP3953C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 5/12/2026 | PDP1450C | FTEP Orientation | Passed | 0.0 | 5.50 |

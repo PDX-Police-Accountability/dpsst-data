@@ -39,6 +39,10 @@
 | 8/6/2026 | PDP0895D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/5/2026 | PDP4345D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 18.00 |
 | 7/30/2026 | PDP2211D | SERT Scenario Training | Passed | 0.0 | 9.00 |
+| 7/29/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 7/29/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/29/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 7/29/2026 | PDP3143D | 2026-2 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 7/16/2026 | PDP0109D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 7/2/2026 | PDP2866D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

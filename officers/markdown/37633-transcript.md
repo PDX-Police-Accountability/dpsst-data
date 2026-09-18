@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 7/23/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/8/2026 | PDP3959D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 7/8/2026 | PDP3959D | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 3.00 |
 | 6/28/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

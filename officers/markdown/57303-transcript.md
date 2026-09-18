@@ -43,6 +43,8 @@
 | 6/10/2026 | PDP2827D | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.50 |
 | 6/10/2026 | PDP2275D | After Action Reports PowerPoint (2020) | Passed | 0.0 | 0.50 |
 | 6/10/2026 | PDP0436D | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
+| 6/3/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 6/3/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/2/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 4/17/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/13/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

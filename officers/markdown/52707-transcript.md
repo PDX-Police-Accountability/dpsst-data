@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2026 | PDP0540D | 2026 Trng BWC Body 4 Conversion Train the Trainer | Passed | 0.0 | 0.50 |
 | 6/21/2026 | PDP3541D | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/21/2026 | PDP2014D | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 6/21/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |

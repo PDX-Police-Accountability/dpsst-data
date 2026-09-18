@@ -141,12 +141,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/11/2026
-  course: AVP2590C
-  title: Monthly Leadership Meeting
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 2/5/2026
   course: SAG2754C
   title: Active Listening
@@ -155,12 +149,6 @@ training_records:
   hours: '2.00'
 - date: 2/5/2026
   course: SAG1975D
-  title: DOJ Government Ethics Laws
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 2/5/2026
-  course: SAG3224D
   title: DOJ Government Ethics Laws
   status: Passed
   score: '0.0'

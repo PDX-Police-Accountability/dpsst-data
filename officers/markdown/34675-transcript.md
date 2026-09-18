@@ -42,11 +42,11 @@
 | 7/16/2026 | SAG1874D | Firearms | Passed | 0.0 | 1.00 |
 | 4/9/2026 | SAG4569C | Firearms | Passed | 0.0 | 2.00 |
 | 3/11/2026 | SAG2789C | Firearms Training | Passed | 0.0 | 2.00 |
-| 3/11/2026 | SAG2115C | Firearms Training | Passed | 0.0 | 2.00 |
+| 3/11/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 3/4/2026 | SAG2690C | 3si Tracker | Passed | 0.0 | 8.00 |
 | 2/6/2026 | SAG2587D | Bias Crimes and Equity | Passed | 0.0 | 1.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
-| 2/5/2026 | SAG3224D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
+| 2/5/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 2/5/2026 | SAG1975D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
 | 2/5/2026 | SAG1684D | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG3687D | Oregon TITAN Fusion Center ACISS | Passed | 0.0 | 2.00 |

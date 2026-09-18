@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/3/2026
+  course: PDP0796D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/20/2026
   course: PDP4176D
   title: 2026 K-9 (K9) Weekly Training
@@ -86,6 +92,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/1/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP3143D
+  title: 2026-2 Range Qualification Secondary FA (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/25/2026
   course: PDP1494D
   title: 2026 SERT Training - SCENARIO

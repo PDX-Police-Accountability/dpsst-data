@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2026 | GLP4276D | Tactical Medic / TCCC | Passed | 0.0 | 3.00 |
 | 9/2/2026 | GLP2600D | Red Dot Transition Course and Qualification | Passed | 0.0 | 6.00 |
 | 8/28/2026 | GLP2868D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 3/11/2026 | ATS3766C | Green Lab | Passed | 0.0 | 8.00 |

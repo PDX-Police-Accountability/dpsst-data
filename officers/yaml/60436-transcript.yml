@@ -31,12 +31,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/3/2026
+  course: PDP0796D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/20/2026
   course: PDP1508D
   title: Enhanced Tactical Medicine
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 8/20/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/20/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/23/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/23/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/16/2026
   course: PDP2296D
   title: 2026 SERT Training - SCENARIO

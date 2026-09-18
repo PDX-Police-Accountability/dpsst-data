@@ -39,6 +39,7 @@
 | 5/18/2026 | PDP4153D | 2025 PVO-101/Stop Stick Training | Passed | 0.0 | 1.25 |
 | 5/14/2026 | PDP3367C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 5/14/2026 | PDP3953C | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
+| 5/14/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/12/2026 | PDP1450C | FTEP Orientation | Passed | 0.0 | 5.50 |
 | 5/12/2026 | PDP3912D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
 | 5/12/2026 | PDP1222D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

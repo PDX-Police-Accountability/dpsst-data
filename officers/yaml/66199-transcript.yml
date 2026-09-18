@@ -36,6 +36,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 5/24/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/22/2026
   course: PDP3875D
   title: 2019-3 TT ECIT Dispatch Criteria  BOEC Training

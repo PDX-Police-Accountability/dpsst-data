@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '90.00'
+- date: 7/16/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/20/2026
   course: PDP2055C
   title: 2026 Patrol Rifle Operator Summer In-Service
@@ -61,6 +67,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/3/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/8/2026
   course: OSH1521C
   title: HIPS Mobile and Foot Surveillance

@@ -44,6 +44,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '40.00'
+- date: 8/3/2026
+  course: PDP3143D
+  title: 2026-2 Range Qualification Secondary FA (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/25/2026
   course: PDP1391D
   title: 2026 FTEP Intro to Police Vehicle Operations (PVO)

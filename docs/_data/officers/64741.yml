@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/21/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/17/2026
   course: PDP3134D
   title: 2025-2026 Police Interceptor Utility Summary
@@ -45,6 +51,12 @@ training_records:
 - date: 6/17/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/8/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'

@@ -48,34 +48,34 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/22/2027 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 7/20/2026 | BNS2496D | Ethos Academy - Ethics | Passed | 0.0 | 3.00 |
-| 6/30/2026 | BNS1798D | (Online) Fire Suppression Tools | Passed | 0.0 | 0.50 |
-| 6/30/2026 | BNS0240D | (Online) Oleoresin Capsicum Refresher | Passed | 0.0 | 1.00 |
+| 6/30/2026 | BNS1798D | Online Fire Suppression Tools | Passed | 0.0 | 0.50 |
+| 6/30/2026 | BNS0240D | Online Oleoresin Capsicum Refresher | Passed | 0.0 | 1.00 |
 | 6/4/2026 | BNS3278D | EVOC | Passed | 0.0 | 4.00 |
-| 5/31/2026 | BNS1890D | (Police1) Pursuit Driving Basics | Passed | 0.0 | 1.00 |
-| 5/31/2026 | BNS2586D | (Police1) Stop Stick Safety Course | Passed | 0.0 | 0.50 |
-| 3/31/2026 | BNS0940C | (P1) Ambush Awareness and Preparation | Passed | 0.0 | 1.00 |
-| 3/31/2026 | BNS0184C | (P1) Advanced Policing: Emotional Intelligence | Passed | 0.0 | 1.00 |
+| 5/31/2026 | BNS1890D | Police1 Pursuit Driving Basics | Passed | 0.0 | 1.00 |
+| 5/31/2026 | BNS2586D | Police1 Stop Stick Safety Course | Passed | 0.0 | 0.50 |
+| 3/31/2026 | BNS0940C | P1 Ambush Awareness and Preparation | Passed | 0.0 | 1.00 |
+| 3/31/2026 | BNS0184C | P1 Advanced Policing: Emotional Intelligence | Passed | 0.0 | 1.00 |
 | 2/28/2026 | BNS3575C | Rescue Task Force | Passed | 0.0 | 1.00 |
 | 2/28/2026 | BNS0410C | Deflection Program - Patrol Update | Passed | 0.0 | 0.50 |
-| 2/28/2026 | BNS3254C | (Police1) CIT - Crisis Response | Passed | 0.0 | 1.00 |
+| 2/28/2026 | BNS3254C | Police1 CIT - Crisis Response | Passed | 0.0 | 1.00 |
 | 2/28/2026 | BNS0994C | Hearing Conservation | Passed | 0.0 | 0.25 |
 | 2/28/2026 | BNS0207C | Ladder Safety | Passed | 0.0 | 0.25 |
 | 2/1/2026 | BNS3760C | Deflection Update - Briefing Training | Passed | 0.0 | 0.25 |
-| 1/31/2026 | BNS2179C | (Police1) Suicide Pevention for Law Enforcement | Passed | 0.0 | 1.00 |
+| 1/31/2026 | BNS2179C | Police1 Suicide Pevention for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/29/2026 | BNS0469C | Arrest and Control | Passed | 0.0 | 2.00 |
 | 1/29/2026 | BNS4483C | First Aid/TCCC Review and Scenarios | Passed | 0.0 | 2.00 |
 | 1/29/2026 | BNS4451C | Online First Aid | Passed | 0.0 | 5.00 |
 | 12/18/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 12/15/2025 | BNS3114C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
+| 12/15/2025 | BNS3114C | Police1 Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 11/30/2025 | BNS3127C | DCSO Policies: 4.41 and 5.14 | Passed | 0.0 | 1.00 |
-| 11/26/2025 | BNS1555C | (Police1) Airway Circulatory Anatomy Physiology | Passed | 0.0 | 2.00 |
+| 11/26/2025 | BNS1555C | Police1 Airway Circulatory Anatomy Physiology | Passed | 0.0 | 2.00 |
 | 11/23/2025 | BNS0202C | DCSO Policies: 4.10 Evidence, 4.34 Social Media | Passed | 0.0 | 1.00 |
 | 11/23/2025 | BNS3291C | DCSO Policies: 4.10 Evidence, 4.34 Social Media | Passed | 0.0 | 1.00 |
 | 11/11/2025 | BNS0688C | WRAP refresher | Passed | 0.0 | 1.00 |
 | 11/10/2025 | BNS3328C | SFST Refresher/DUII Wet Lab | Passed | 0.0 | 4.00 |
 | 11/3/2025 | BNS2450C | Pepperball Instructor Development Course | Instructed | 0.0 | 16.00 |
-| 11/2/2025 | BNS1694C | (Police1) Implicit Bias | Passed | 0.0 | 1.00 |
-| 11/1/2025 | BNS0095C | (Police1) Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
+| 11/2/2025 | BNS1694C | Police1 Implicit Bias | Passed | 0.0 | 1.00 |
+| 11/1/2025 | BNS0095C | Police1 Foundations in Ethic for LE | Passed | 0.0 | 1.00 |
 | 10/15/2025 | BNS4407B | Annual Pepperball Refresher | Instructed | 0.0 | 2.00 |
 | 10/1/2025 | BNS1771B | Information Elicitation | Passed | 0.0 | 2.00 |
 | 10/1/2025 | BNS2263B | WRAP Application | Passed | 0.0 | 1.00 |

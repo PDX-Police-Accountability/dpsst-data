@@ -45,6 +45,7 @@
 | 8/12/2026 | PDA3876D | Use of Force Update | Passed | 0.0 | 1.50 |
 | 4/7/2026 | PDA0182C | Government Ethics | Passed | 0.0 | 1.00 |
 | 4/7/2026 | PDA0008C | Government Ethics | Passed | 0.0 | 1.00 |
+| 4/7/2026 | PDA4418D | Government Ethics | Passed | 0.0 | 1.00 |
 | 2/3/2026 | VND2967C | Trauma Informed Response Training | Passed | 0.0 | 7.00 |
 | 12/9/2025 | PDN2553C | CPR/1st Aid Infant to Adult | Passed | 0.0 | 5.00 |
 | 11/25/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

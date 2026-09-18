@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/29/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/3/2026
   course: PDP3226D
   title: 2026 Axon Taser 7 Operator Certification Course

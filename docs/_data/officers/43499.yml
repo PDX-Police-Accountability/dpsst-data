@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2026
+  course: PDP2586D
+  title: 2026 IAI Educational Conference
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/29/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/21/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees

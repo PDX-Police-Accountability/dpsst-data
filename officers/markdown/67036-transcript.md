@@ -53,6 +53,7 @@
 | 6/17/2026 | PDP2381D | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 6/17/2026 | PDP1532D | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 6/16/2026 | PDP2977C | Post Basic Firearms | Passed | 0.0 | 25.00 |
+| 6/16/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/11/2026 | PDP2006D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 6/11/2026 | PDP0045D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 6/11/2026 | PDP3912D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |

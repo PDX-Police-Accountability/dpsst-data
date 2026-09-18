@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/25/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/17/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees

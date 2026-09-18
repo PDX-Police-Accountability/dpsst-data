@@ -116,6 +116,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 5/5/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/5/2026
+  course: PDP3143D
+  title: 2026-2 Range Qualification Secondary FA (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/5/2026
   course: PDP4304C
   title: 2026 Red Dot Sight for Pistol Transition Course

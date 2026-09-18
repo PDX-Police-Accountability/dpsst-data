@@ -41,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/20/2026 | PDP4176D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 7/27/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/27/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/8/2026 | PDP3959D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 6/18/2026 | PDP0168D | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 6/10/2026 | PDP4448D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

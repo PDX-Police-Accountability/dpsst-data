@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/8/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/1/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation
@@ -234,6 +240,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/18/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/14/2026
   course: PDP3367C
   title: 2026 FTEP Post DPSST Firearms

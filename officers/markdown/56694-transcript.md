@@ -38,6 +38,10 @@
 | 7/21/2026 | PDP3949D | 2026 Satellite Firearms Instructor School | Passed | 0.0 | 90.00 |
 | 6/27/2026 | PDP3615C | 2026 Control Tactics Satellite Instructor Course | Passed | 0.0 | 18.00 |
 | 6/8/2026 | PDP3541D | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 5/22/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 5/22/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/22/2026 | PDP3715D | 2026-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 5/22/2026 | PDP0320D | 2026-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/7/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 5/7/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 5/7/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |

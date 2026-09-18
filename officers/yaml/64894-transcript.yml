@@ -36,18 +36,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/21/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/11/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/10/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/10/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/5/2026
   course: OSH0450C
   title: Oregon State Police - Public Order Basic Course
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 6/1/2026
+  course: PDP1800D
+  title: 2026-2 Range Qualification AR-15 Qual (100 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/1/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/27/2026
   course: PDP3459C
   title: 2026 Patrol Rifle New Operator Courses

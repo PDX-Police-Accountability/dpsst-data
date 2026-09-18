@@ -38,6 +38,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/16/2026 | HSU0807D | Pistol Mounted Optics | Instructed | 0.0 | 30.00 |
 | 7/21/2026 | PDP1602D | 2026 Satellite Firearms Instructor School | Instructed | 0.0 | 90.00 |
+| 7/17/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/17/2026 | PDP3143D | 2026-2 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
+| 7/2/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/2/2026 | PDP3143D | 2026-2 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 4/17/2026 | HSU3489C | Spring In-Service 2026 Firearms | Instructed | 0.0 | 4.00 |
 | 4/16/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/12/2026 | HSU3489C | Spring In-Service 2026 Firearms | Instructed | 0.0 | 4.00 |

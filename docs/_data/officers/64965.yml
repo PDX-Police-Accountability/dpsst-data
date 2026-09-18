@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '54.00'
+- date: 7/27/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/20/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees
@@ -77,6 +83,12 @@ training_records:
 - date: 6/4/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/8/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'

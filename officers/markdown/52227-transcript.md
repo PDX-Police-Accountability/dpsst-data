@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/9/2026 | HDA1357D | Redflags for UC / Final Day General Session | Passed | 0.0 | 4.00 |
 | 7/8/2026 | HDA3061D | Financial Planning | Passed | 0.0 | 2.00 |
 | 7/8/2026 | HDA2987D | Jeremy Brown Shooting | Passed | 0.0 | 2.00 |

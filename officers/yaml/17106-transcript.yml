@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/7/2026
+  course: PDA4418D
+  title: Government Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/3/2026
   course: VND2967C
   title: Trauma Informed Response Training

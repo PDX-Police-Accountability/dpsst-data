@@ -35,6 +35,7 @@
 | 7/6/2026 | PDP3547D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 7/2/2026 | PDP1396D | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 7/2/2026 | PDP2948D | FTEP Geography | Passed | 0.0 | 2.50 |
+| 7/2/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/29/2026 | PDP2618D | Air Purifying Respirator HAZMAT WMD | Passed | 0.0 | 2.00 |
 | 6/29/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 6/29/2026 | PDP4379D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

@@ -74,12 +74,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 6/22/2026
-  course: SAG3802D
-  title: Firearms
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/9/2026
   course: SAG4569C
   title: Firearms

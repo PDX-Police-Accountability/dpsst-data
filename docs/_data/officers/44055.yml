@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2026
+  course: PDP0540D
+  title: 2026 Trng BWC Body 4 Conversion Train the Trainer
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/30/2026
   course: PDP2211D
   title: SERT Scenario Training
@@ -87,6 +93,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/25/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/25/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/28/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

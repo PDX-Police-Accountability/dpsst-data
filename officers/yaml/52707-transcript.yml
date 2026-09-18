@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2026
+  course: PDP0540D
+  title: 2026 Trng BWC Body 4 Conversion Train the Trainer
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/21/2026
   course: PDP3541D
   title: 2025 Field Drug Test Kits

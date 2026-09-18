@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/2/2026
+  course: PDP0540D
+  title: 2026 Trng BWC Body 4 Conversion Train the Trainer
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/22/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees
@@ -45,6 +51,12 @@ training_records:
 - date: 6/15/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/5/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'

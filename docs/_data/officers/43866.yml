@@ -88,6 +88,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/7/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/7/2026
+  course: PDP3143D
+  title: 2026-2 Range Qualification Secondary FA (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/1/2026
   course: PDP1426D
   title: 2026 Critical Incident Command Debrief

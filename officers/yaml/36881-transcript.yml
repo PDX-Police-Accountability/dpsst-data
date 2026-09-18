@@ -68,20 +68,8 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
-- date: 9/3/2026
-  course: BPT0615D
-  title: 'ICISF: Group Crisis Intervention'
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
 - date: 9/1/2026
   course: BPT2445D
-  title: 'ICISF: Assisting Individuals in Crisis'
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 9/1/2026
-  course: BPT3363D
   title: 'ICISF: Assisting Individuals in Crisis'
   status: Passed
   score: '0.0'
@@ -100,12 +88,6 @@ training_records:
   hours: '1.00'
 - date: 6/22/2026
   course: SAG4549D
-  title: Firearms
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 6/22/2026
-  course: SAG3802D
   title: Firearms
   status: Passed
   score: '0.0'
@@ -152,12 +134,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 2/5/2026
-  course: SAG3224D
-  title: DOJ Government Ethics Laws
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 2/5/2026
   course: SAG1975D
   title: DOJ Government Ethics Laws

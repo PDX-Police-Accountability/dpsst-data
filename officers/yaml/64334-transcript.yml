@@ -37,12 +37,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/21/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/5/2026
   course: OSH0450C
   title: Oregon State Police - Public Order Basic Course
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/24/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/29/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

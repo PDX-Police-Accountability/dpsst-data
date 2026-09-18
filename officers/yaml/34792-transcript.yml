@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/2/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/19/2026
   course: PDP4379D
   title: Annual HRAR 2.04 Gender Identity Nondiscrimination
@@ -110,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 5/14/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/12/2026
   course: PDP1450C
   title: FTEP Orientation

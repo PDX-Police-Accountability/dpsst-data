@@ -45,6 +45,7 @@
 | 8/23/2026 | OSH4022D | Impaired Driving Traffic Safety Conference | Passed | 0.0 | 22.00 |
 | 7/30/2026 | PDP3513D | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 6/12/2026 | REG3748D | SFST Instructor Development Course | Instructed | 0.0 | 8.00 |
+| 6/9/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/7/2026 | PDP2004D | 2026 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 5/22/2026 | OSH2003C | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 5/16/2026 | OSH4310D | Drug Certification Training | Instructed | 0.0 | 40.00 |

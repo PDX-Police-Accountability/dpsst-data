@@ -30,12 +30,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '54.00'
+- date: 7/27/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/9/2026
   course: PDP4354D
   title: Enhanced Tactical Medicine
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/18/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/4/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

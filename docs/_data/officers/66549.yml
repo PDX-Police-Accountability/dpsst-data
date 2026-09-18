@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 5/28/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/20/2026
   course: PDP3127D
   title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
@@ -197,6 +203,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '25.00'
+- date: 5/14/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/13/2026
   course: PDP0693D
   title: 2025 Airway Circulatory Anatomy and Physiology

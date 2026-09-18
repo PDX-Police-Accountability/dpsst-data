@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/25/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/21/2026
   course: PDP0157C
   title: 2026 SERT Training - SCENARIO

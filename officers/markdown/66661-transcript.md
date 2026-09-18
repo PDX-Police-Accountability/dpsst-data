@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/2/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/1/2026 | PDP0714D | 2026-2 Advanced Academy Law | Passed | 0.0 | 29.25 |
 | 7/1/2026 | PDP2562D | 2026-2 Advanced Academy Firearms | Passed | 0.0 | 31.25 |
 | 7/1/2026 | PDP2648D | 2026-2 Advanced Academy Control Tactics | Passed | 0.0 | 55.50 |

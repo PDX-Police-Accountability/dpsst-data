@@ -35,7 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2026 | PDP0540D | 2026 Trng BWC Body 4 Conversion Train the Trainer | Instructed | 0.0 | 2.50 |
 | 7/21/2026 | PDP0665D | FTEP Policy and Procedures | Instructed | 0.0 | 5.00 |
+| 7/13/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/2/2026 | PDP2948D | FTEP Geography | Instructed | 0.0 | 2.50 |
 | 6/16/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/16/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

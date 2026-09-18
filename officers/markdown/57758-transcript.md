@@ -41,7 +41,10 @@
 | 6/1/2026 | PDP0482C | Body Worn Camera Introduction | Passed | 0.0 | 2.50 |
 | 6/1/2026 | PDP2307D | 2025 Sup IS  Crime Scene Mngmt for Mass Casualty | Passed | 0.0 | 1.50 |
 | 6/1/2026 | PDP3473D | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 6/1/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/28/2026 | PDP0331D | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 5/28/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 5/28/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/27/2026 | PDP0279D | 2021 Equity Training Series Introduction Video | Passed | 0.0 | 0.25 |
 | 5/27/2026 | PDP0469D | 2021 Equity Training Series Introduction Video | Passed | 0.0 | 0.25 |
 | 5/27/2026 | PDP3811D | 2025 Sup IS: Critical Incidents - Controlling | Passed | 0.0 | 1.50 |

@@ -62,7 +62,7 @@
 | 2/25/2026 | SVP1235C | Taser 7 Operator Course | Passed | 0.0 | 6.00 |
 | 2/13/2026 | SVP1824C | Prodedural Justice | Passed | 0.0 | 2.00 |
 | 2/11/2026 | AVP1983C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
-| 2/11/2026 | AVP2590C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
+| 2/11/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 1/21/2026 | AVP3468C | In-Service / Legal Updates | Passed | 0.0 | 1.00 |
 | 1/21/2026 | AVP1768C | METCOM Dispatch Protocols | Passed | 0.0 | 1.00 |
 | 1/15/2026 | OAC2673C | Ethical Leaders  Organizations | Passed | 0.0 | 1.00 |

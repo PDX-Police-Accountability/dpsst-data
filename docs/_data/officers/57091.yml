@@ -50,12 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/29/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/21/2026
   course: PDP1602D
   title: 2026 Satellite Firearms Instructor School
   status: Instructed
   score: '0.0'
   hours: '90.00'
+- date: 7/14/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/14/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/14/2026
+  course: PDP3143D
+  title: 2026-2 Range Qualification Secondary FA (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/10/2026
   course: PDP0940D
   title: 2026 Rapid Response team (RRT) Monthly Training

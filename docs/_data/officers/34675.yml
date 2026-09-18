@@ -81,8 +81,8 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 3/11/2026
-  course: SAG2115C
-  title: Firearms Training
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -105,8 +105,8 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 2/5/2026
-  course: SAG3224D
-  title: DOJ Government Ethics Laws
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

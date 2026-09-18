@@ -36,6 +36,9 @@
 | 8/6/2026 | PDP0895D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/6/2026 | PDP0895D | 2026 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 7/30/2026 | PDP2211D | SERT Scenario Training | Passed | 0.0 | 9.00 |
+| 7/1/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 7/1/2026 | PDP3143D | 2026-2 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 6/25/2026 | PDP1494D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/25/2026 | PDP1494D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 6/23/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/3/2026
+  course: PDP0796D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/30/2026
   course: PDP2211D
   title: SERT Scenario Training
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/7/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/2/2026
   course: PDP2866D
   title: 2026 SERT Training - SCENARIO
@@ -230,6 +242,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 5/18/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/18/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/18/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/18/2026
+  course: PDP3352D
+  title: 2026-2 Range Qualification Secondary FA (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/14/2026
   course: PDP1018C
   title: 2026 SERT Training - FIREARMS

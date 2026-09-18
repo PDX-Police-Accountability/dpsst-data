@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2026 | PDP0796D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 6.00 |
 | 7/30/2026 | PDP2211D | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 7/23/2026 | PDP2335D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 7/23/2026 | PDP2335D | 2026 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
@@ -45,6 +46,7 @@
 | 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 5.00 |
 | 7/8/2026 | HBS3813D | Joint Team Scenario Training | Passed | 0.0 | 9.00 |
 | 7/7/2026 | PDP1841D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 7/7/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/2/2026 | PDP2866D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 7/2/2026 | PDP2866D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 6/25/2026 | PDP1494D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
@@ -66,6 +68,10 @@
 | 5/20/2026 | PDP0054C | 2026-1 IS Public Order: Crowd Theory | Passed | 0.0 | 2.00 |
 | 5/20/2026 | PDP0758C | 2026-1 IS PT: Intent, Means  Opportunity | Passed | 0.0 | 1.50 |
 | 5/20/2026 | PDP0065C | 2026-1 IS Taser Update | Passed | 0.0 | 2.25 |
+| 5/18/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 5/18/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 5/18/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/18/2026 | PDP3352D | 2026-2 Range Qualification Secondary FA (25 Round) | Passed | 0.0 | 0.50 |
 | 5/14/2026 | PDP1018C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 2.00 |
 | 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/6/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

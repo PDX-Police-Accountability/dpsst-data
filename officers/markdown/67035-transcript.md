@@ -33,6 +33,7 @@
 | 6/17/2026 | BKS2382D | Firearms Training and Qualification | Passed | 0.0 | 4.00 |
 | 6/17/2026 | BKS0193D | Firearms Training and Qualification | Passed | 0.0 | 4.00 |
 | 6/16/2026 | PDP2977C | Post Basic Firearms | Passed | 0.0 | 25.00 |
+| 6/16/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/9/2026 | PDP1581C | Post Basic CEW | Passed | 0.0 | 9.00 |
 | 6/8/2026 | PDP2797C | FTEP Geography | Passed | 0.0 | 2.00 |
 | 6/4/2026 | PDP3664C | TEEX WMD/Terrorism Awareness for Emer Resp | Passed | 0.0 | 8.00 |

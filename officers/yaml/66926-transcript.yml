@@ -162,6 +162,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/18/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/14/2026
   course: PDP3367C
   title: 2026 FTEP Post DPSST Firearms

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2026 | WLP4462D | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 6/3/2026 | WLP2414C | Firearms Training | Passed | 0.0 | 3.00 |
 | 3/17/2026 | WLP2992C | WLPD 2026 TASER Recertification | Passed | 0.0 | 2.00 |
 | 3/11/2026 | WLP0951C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |

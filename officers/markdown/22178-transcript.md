@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2026 | GLP4276D | Tactical Medic / TCCC | Passed | 0.0 | 3.00 |
 | 8/29/2026 | GLP2868D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/29/2026 | GLP0414D | Basic Patrol Rifle Course and Qual | Passed | 0.0 | 5.00 |
 | 6/25/2026 | GLP1023D | Q2 Firearms Training | Passed | 0.0 | 3.00 |

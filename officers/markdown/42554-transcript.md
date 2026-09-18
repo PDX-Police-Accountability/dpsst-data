@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/2/2026 | PDP1901D | New Radar Lidar Operator Course | Instructed | 0.0 | 12.00 |
 | 7/2/2026 | REG0822D | Radar/Lidar Agency Practical | Instructed | 0.0 | 16.00 |
 | 6/17/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |

@@ -28,6 +28,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2026 | PDP4122D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
+| 9/14/2026 | PDP0971D | FTEP HAZMAT/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
+| 9/14/2026 | PDP0303D | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 9/9/2026 | PDP3188D | RegJIN RMS MRE | Passed | 0.0 | 14.00 |
 | 9/7/2026 | PDP0220D | FTEP Control Tactics Searches | Passed | 0.0 | 3.00 |
 | 9/2/2026 | PDP0834D | 2026 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.50 |

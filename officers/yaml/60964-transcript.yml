@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '90.00'
+- date: 7/16/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/7/2026
   course: PDP2452C
   title: 2026 AR-15 Instructor In-Service Training
@@ -91,6 +97,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/7/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/7/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/7/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/7/2026
+  course: PDP3143D
+  title: 2026-2 Range Qualification Secondary FA (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/5/2026
   course: PDP2705D
   title: 2020 Trng Managing Critical Incidents Well Sgts

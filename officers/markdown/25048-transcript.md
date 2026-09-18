@@ -51,10 +51,8 @@
 | 5/6/2026 | AVP4586C | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 3/11/2026 | AVP1012C | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 2/11/2026 | AVP1983C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
-| 2/11/2026 | AVP2590C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG1975D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
-| 2/5/2026 | SAG3224D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
 | 2/5/2026 | SAG3687D | Oregon TITAN Fusion Center ACISS | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG1684D | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG2916D | Legal Updates | Passed | 0.0 | 2.00 |

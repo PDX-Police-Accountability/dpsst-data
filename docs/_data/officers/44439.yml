@@ -63,6 +63,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 1/25/2027
+  course: 27-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
+- date: 8/12/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/3/2026
   course: PDP0852D
   title: 2026 Patrol Rifle Operator Summer In-Service
@@ -90,6 +102,24 @@ training_records:
 - date: 6/30/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/20/2026
+  course: PDP0775D
+  title: 2026-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/20/2026
+  course: PDP1687D
+  title: 2026-2 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/20/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'

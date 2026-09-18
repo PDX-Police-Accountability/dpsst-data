@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2026 | PDP0796D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 6.00 |
+| 9/3/2026 | PDP0796D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 6.00 |
 | 8/6/2026 | PDP0895D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/6/2026 | PDP0895D | 2026 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 8/5/2026 | PDP4345D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 18.00 |
@@ -47,6 +49,9 @@
 | 7/16/2026 | PDP2296D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 7/2/2026 | PDP0919D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 7/2/2026 | PDP0919D | 2026 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
+| 7/1/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP3143D | 2026-2 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 6/25/2026 | PDP1494D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/22/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/18/2026 | PDP2687D | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
