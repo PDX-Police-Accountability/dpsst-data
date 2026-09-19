@@ -62,6 +62,7 @@
 | 1/22/2025 | GSP1751A | FEMA ICS-200 | Passed | 0.0 | 4.00 |
 | 12/19/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2024 | GSP0075A | 2024 Ethics In Service | Passed | 0.0 | 1.00 |
+| 12/11/2024 | GSP0217D | 2024 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 11/21/2024 | GSP1104A | Taser X26P Recertification | Passed | 0.0 | 1.00 |
 | 11/19/2024 | GSP1467A | First Aid and Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 10/22/2024 | VND0887A | Sexual Assault Investigations | Passed | 0.0 | 12.00 |

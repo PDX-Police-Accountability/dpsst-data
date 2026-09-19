@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2026 | HBN1184D | Team Defensive Tactics and Miranda Warning | Passed | 0.0 | 1.00 |
 | 8/6/2026 | HBN0591D | Trauma Informed Response Training (TIRT) | Passed | 0.0 | 3.00 |
 | 6/12/2026 | HBN1297C | Officer Safety Home Visit  Search/Seizure | Passed | 0.0 | 7.00 |
 | 6/12/2026 | HBN4541D | Officer Safety Home Visit  Search/Seizure | Passed | 0.0 | 7.00 |

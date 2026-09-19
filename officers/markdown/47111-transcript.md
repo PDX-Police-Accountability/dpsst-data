@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2026 | BVP0210D | September 2026 Range 090426 AM | Passed | 0.0 | 3.00 |
 | 6/17/2026 | BVP1918D | IST Taser10 Certification 061726 | Passed | 0.0 | 9.00 |
 | 6/6/2026 | BVP0875C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 5/7/2026 | BVP0670C | May 2026 Pistol Range IST 050726PM | Passed | 0.0 | 3.00 |

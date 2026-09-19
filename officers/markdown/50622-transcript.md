@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2026 | OCP3818D | First Officer Response to Crime Scenes | Passed | 0.0 | 0.50 |
 | 9/13/2026 | OCP0099D | ASHER Response Training | Passed | 0.0 | 3.00 |
 | 9/9/2026 | OCP4112D | Effects of Sleep and Mental Health | Passed | 0.0 | 0.50 |
 | 8/31/2026 | OCP3859D | Firearms/Use of Force | Passed | 0.0 | 2.00 |

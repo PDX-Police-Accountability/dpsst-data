@@ -24,11 +24,11 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/9/2026 | 4/9/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 3/7/2024 |  |
 | Code of Ethics | Signed | 1/27/2009 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 9/2/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -43,8 +43,8 @@
 | 6/25/2026 | GLP2184D | Q2 Firearms Training | Passed | 0.0 | 3.00 |
 | 6/1/2026 | GLP1378D | Implicit Bias | Passed | 0.0 | 1.00 |
 | 6/1/2026 | GLP2911D | Implicit Bias | Passed | 0.0 | 1.00 |
-| 4/9/2026 | GLP0297D | First Aid/ Adult and Child CPR |  | 0.0 | 3.00 |
-| 3/10/2026 | GLP1097D | Ethics |  | 0.0 | 1.00 |
+| 4/9/2026 | GLP0297D | First Aid/ Adult and Child CPR | Passed | 0.0 | 3.00 |
+| 3/10/2026 | GLP1097D | Ethics | Passed | 0.0 | 1.00 |
 | 3/9/2026 | LOP0761C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/4/2026 | 36279C | Oregon Sanctuary Promise | Passed | 0.0 | 0.50 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |

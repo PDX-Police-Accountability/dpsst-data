@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2026 | BVP3843D | September 2026 Range 091126 PM | Passed | 0.0 | 3.00 |
 | 6/25/2026 | BVP0818D | IST Taser10 Certification 062526 | Passed | 0.0 | 9.00 |
 | 6/6/2026 | BVP0875C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 5/22/2026 | BVP0702C | North Americam Motor Ofcrs Assoc Conference | Passed | 0.0 | 40.00 |

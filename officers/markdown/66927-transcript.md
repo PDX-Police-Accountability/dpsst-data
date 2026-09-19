@@ -4,7 +4,7 @@
 | name | Elizarraraz, Everardo |
 | dpsst_identifier | 66927 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/8/2026 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/17/2026 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 12/4/2025 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 10/8/2026 | Police Officer | Basic | Required |  |  | 4/8/2028 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -27,6 +29,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/8/2028 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/30/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 1/5/2026 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 12/24/2025 | PDP0384C | ICS-100 Intro to Incident Command Syst | Passed | 0.0 | 2.00 |
 | 12/24/2025 | PDP1007C | ICS-200 Basic Inc Command System for Init Resp | Passed | 0.0 | 4.00 |
