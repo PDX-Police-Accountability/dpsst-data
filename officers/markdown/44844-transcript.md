@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/2/2026 | Portland Police Bureau | LOA | Police Off |  |  |
 | 5/15/2008 | Portland Police Bureau | Hired | Police Off |  |  |
 | 5/10/2008 | Lake Oswego Police Department | Resigned | Police Off |  |  |
 | 6/15/2005 | Lake Oswego Police Department | Hired | Police Off |  |  |

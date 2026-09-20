@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2026 | 26-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 8/12/2026 | AVP4426D | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 8/7/2026 | SVP3257D | CIS OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 8/3/2026 | SVP0528D | Inquiry Level LEDS Recertification | Passed | 0.0 | 1.00 |
@@ -146,7 +147,6 @@
 | 4/17/2024 | SVP4457A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/13/2024 | SVP1282A | Implicit Bias Course #23548-2301 | Passed | 0.0 | 1.00 |
 | 4/10/2024 | AVP2787A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
-| 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
 | 4/3/2024 | HBS2524A | FBINAA Spring Leadership Training | Passed | 0.0 | 8.00 |
 | 4/1/2024 | SVP3829A | FEMA AWR-160-WMD/Terriorism Awareness | Passed | 0.0 | 8.00 |
 | 3/27/2024 | SVP2435A | Legal Update Marion County D.A. Office | Passed | 0.0 | 3.00 |
