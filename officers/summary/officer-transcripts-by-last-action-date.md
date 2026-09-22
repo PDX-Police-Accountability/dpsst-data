@@ -1879,3 +1879,7 @@
 | Elstad, Aaron E. | 67701 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2026-09-08 | [md](../markdown/67701-transcript.md) - [yaml](../yaml/67701-transcript.yml) |
 | Morinville, Steven M. | 37145 | Portland Police Bureau | Inactive | Detective | Resigned | 2026-09-09 | [md](../markdown/37145-transcript.md) - [yaml](../yaml/37145-transcript.yml) |
 | Elizarraraz, Everardo | 66927 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/66927-transcript.md) - [yaml](../yaml/66927-transcript.yml) |
+| Torres, Gabriel A. | 67811 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67811-transcript.md) - [yaml](../yaml/67811-transcript.yml) |
+| Jensen, Micah P. | 67846 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67846-transcript.md) - [yaml](../yaml/67846-transcript.yml) |
+| Nicholls, Carson S. | 67862 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67862-transcript.md) - [yaml](../yaml/67862-transcript.yml) |
+| Reid, Kellen M. | 67863 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67863-transcript.md) - [yaml](../yaml/67863-transcript.yml) |

@@ -1879,3 +1879,7 @@
 | Jensen, Benjamin N. | 67727 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67727-transcript.md) - [yaml](../yaml/67727-transcript.yml) |
 | Munn, Levi C. | 67735 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67735-transcript.md) - [yaml](../yaml/67735-transcript.yml) |
 | Padilla Cervantes, Brenda M. | 67762 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67762-transcript.md) - [yaml](../yaml/67762-transcript.yml) |
+| Torres, Gabriel A. | 67811 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67811-transcript.md) - [yaml](../yaml/67811-transcript.yml) |
+| Jensen, Micah P. | 67846 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67846-transcript.md) - [yaml](../yaml/67846-transcript.yml) |
+| Nicholls, Carson S. | 67862 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67862-transcript.md) - [yaml](../yaml/67862-transcript.yml) |
+| Reid, Kellen M. | 67863 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67863-transcript.md) - [yaml](../yaml/67863-transcript.yml) |
