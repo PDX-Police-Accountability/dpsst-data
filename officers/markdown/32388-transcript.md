@@ -37,7 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/17/2026 | GSP1541D | Rifle In-service | Instructed | 0.0 | 10.00 |
-| 8/17/2026 | GSP3460D | Rifle In-service | Instructed | 0.0 | 10.00 |
+| 8/17/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 10.00 |
 | 8/10/2026 | GSP0826D | Rifle In-service | Instructed | 0.0 | 10.00 |
 | 8/2/2026 | GSP3072D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
 | 7/28/2026 | GSP2406D | Karly's Law Training | Passed | 0.0 | 0.50 |

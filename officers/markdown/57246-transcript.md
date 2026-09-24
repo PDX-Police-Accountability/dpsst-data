@@ -42,7 +42,7 @@
 | 9/15/2026 | HBN1184D | Team Defensive Tactics and Miranda Warning | Passed | 0.0 | 1.00 |
 | 8/6/2026 | HBN0591D | Trauma Informed Response Training (TIRT) | Passed | 0.0 | 3.00 |
 | 6/12/2026 | HBN1297C | Officer Safety Home Visit  Search/Seizure | Passed | 0.0 | 7.00 |
-| 6/12/2026 | HBN4541D | Officer Safety Home Visit  Search/Seizure | Passed | 0.0 | 7.00 |
+| 6/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 7.00 |
 | 6/2/2026 | HBN2584C | Team Defensive Tactics | Passed | 0.0 | 1.00 |
 | 5/14/2026 | HBN2471C | Case Management | Passed | 0.0 | 1.00 |
 | 4/21/2026 | HBN3280C | WRNA Booster | Passed | 0.0 | 4.00 |

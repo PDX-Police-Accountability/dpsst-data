@@ -44,6 +44,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/18/2026 | 26-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
+| 9/16/2026 | SVP3488D | E-Vehicle MVA Response and Hazards | Passed | 0.0 | 1.50 |
+| 9/16/2026 | SVP0403D | Hazardous Material Training Refresher | Passed | 0.0 | 1.00 |
 | 8/12/2026 | AVP4426D | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 8/7/2026 | SVP3257D | CIS OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 8/3/2026 | SVP0528D | Inquiry Level LEDS Recertification | Passed | 0.0 | 1.00 |

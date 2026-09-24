@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/5/2026
+  course: FGP0674D
+  title: DPSST Spring 2026 Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/15/2026
   course: VND3496C
   title: Washington County CIT Training

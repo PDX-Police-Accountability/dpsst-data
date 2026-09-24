@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/21/2026
+  course: OCP2498D
+  title: Cultural Awareness and Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/16/2026
   course: OCP3818D
   title: First Officer Response to Crime Scenes

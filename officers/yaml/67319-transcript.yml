@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/17/2026
+  course: PDP3762D
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/16/2026
+  course: PDP2404D
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 9/15/2026
   course: PDP4122D
   title: FTEP Post Basic CEW

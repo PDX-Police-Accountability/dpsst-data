@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2026 | OCS2306D | Marksmanship/Single Hand Shooting | Passed | 0.0 | 1.00 |
 | 7/29/2026 | OCS1503D | Draw Speed/Marksmanship, Movement | Passed | 0.0 | 1.00 |
 | 6/30/2026 | OCS2360D | June 2026 Patrol Rifle | Passed | 0.0 | 1.00 |
 | 6/16/2026 | OCS2622C | LE Ethics: 2025 Make-Up Hours | Passed | 0.0 | 0.00 |

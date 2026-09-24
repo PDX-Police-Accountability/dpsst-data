@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/23/2026
+  course: MNS3847D
+  title: Vehicle Ballistics Cover in a Gunfight
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 4/30/2026
   course: MNS1093C
   title: Reserve Academy EVO Day 2- DPSST track

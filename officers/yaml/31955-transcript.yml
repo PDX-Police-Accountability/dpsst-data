@@ -114,6 +114,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/16/2026
+  course: CAP3843D
+  title: CIS - Cyber Security Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/16/2026
+  course: CAP0502D
+  title: Creating a Culture of Civility  Respect
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/1/2026
   course: CAP0325D
   title: Ethics - Sexual Harassment Prevention

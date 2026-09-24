@@ -143,6 +143,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/6/2026
+  course: SPP3132D
+  title: Legal Update Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/23/2026
   course: SPP3904C
   title: Cybersecurity

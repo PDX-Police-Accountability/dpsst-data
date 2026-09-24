@@ -102,6 +102,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/16/2026
+  course: SVP3488D
+  title: E-Vehicle MVA Response and Hazards
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/16/2026
+  course: SVP0403D
+  title: Hazardous Material Training Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/12/2026
   course: AVP4426D
   title: Monthly Leadership Meeting

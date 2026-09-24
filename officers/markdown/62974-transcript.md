@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2026 | OCP2498D | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 8/27/2026 | OCP1670D | Huerta-Contretas  Almestica Case Law Update | Passed | 0.0 | 0.75 |
 | 8/27/2026 | OCP4506D | 40 MM / OC re-certification | Passed | 0.0 | 0.75 |
 | 8/27/2026 | OCP2870D | Defensive Tactics | Passed | 0.0 | 0.75 |

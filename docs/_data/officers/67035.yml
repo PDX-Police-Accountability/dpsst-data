@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/14/2026
+  course: BKS1408D
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/25/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees

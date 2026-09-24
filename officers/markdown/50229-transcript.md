@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2026 | TRN2442D | DOC - CRCI Fire Suppression Training v2026 Vol 2 | Passed | 0.0 | 1.00 |
+| 8/16/2026 | TRN2591D | DOC - Fire Alarm Panel Monitoring v2026 Vol 2 | Passed | 0.0 | 1.00 |
 | 5/12/2026 | TRN2352C | Tethered Restraints v2023 | Passed | 0.0 | 0.50 |
 | 4/6/2026 | TRN3625C | DOC - Introduction to Neurodivergence v2026 | Passed | 0.0 | 1.00 |
 | 4/6/2026 | TRN4611C | DOC - Suicide Detection and Prevention v2026 | Passed | 0.0 | 2.00 |

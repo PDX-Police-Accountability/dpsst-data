@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/3/2026
+  course: OCS1218D
+  title: Third Degree Investigative Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/13/2026
   course: HSU0548C
   title: Spring In-Service 2026 De Escalation Practical

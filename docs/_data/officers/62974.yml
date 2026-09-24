@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/21/2026
+  course: OCP2498D
+  title: Cultural Awareness and Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/27/2026
   course: OCP1670D
   title: Huerta-Contretas  Almestica Case Law Update

@@ -43,6 +43,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2026 | OCS1576D | July, August, Sept 2026 Monthly Firearms | Instructed | 0.0 | 3.00 |
+| 9/4/2026 | OCS2611D | September 2026 New Hire Firearms | Instructed | 0.0 | 30.00 |
+| 8/21/2026 | OCS2306D | Marksmanship/Single Hand Shooting | Passed | 0.0 | 1.00 |
+| 8/21/2026 | OCS2306D | Marksmanship/Single Hand Shooting | Instructed | 0.0 | 24.00 |
 | 8/20/2026 | OCS2327D | Shotgun Re-Familiarzation | Instructed | 0.0 | 1.00 |
 | 8/11/2026 | OCS0977D | Glock Gen 5/6 Armorer Course | Passed | 0.0 | 8.00 |
 | 8/10/2026 | OCS2785D | July and August 2026 Monthly Firearms | Instructed | 0.0 | 2.00 |

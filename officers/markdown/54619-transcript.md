@@ -43,6 +43,7 @@
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
 | 7/22/2026 | HBP3022D | In-Service 2026-3, Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |
+| 6/29/2026 | HBP3405D | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 6/23/2026 | HBP4411D | Case Law Update | Passed | 0.0 | 2.00 |
 | 3/11/2026 | HBP0215C | ODT - Working from Cleared Areas, Foot Chases | Passed | 0.0 | 1.00 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |

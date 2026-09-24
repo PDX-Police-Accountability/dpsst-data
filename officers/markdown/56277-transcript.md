@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2026 | CAP3843D | CIS - Cyber Security Training | Passed | 0.0 | 0.50 |
+| 9/16/2026 | CAP0502D | Creating a Culture of Civility  Respect | Passed | 0.0 | 2.00 |
+| 8/10/2026 | CAP1322D | Implicit Bias | Passed | 0.0 | 1.00 |
 | 8/1/2026 | CAP0325D | Ethics - Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
 | 7/29/2026 | CAP2636D | DV Strangulation Investigations | Passed | 0.0 | 2.00 |
 | 7/15/2026 | CAP0029D | Active Threat Training | Passed | 0.0 | 4.00 |

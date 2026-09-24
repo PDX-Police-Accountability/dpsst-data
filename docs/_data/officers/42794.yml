@@ -98,6 +98,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2026
+  course: OCS1576D
+  title: July, August, Sept 2026 Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/4/2026
+  course: OCS2611D
+  title: September 2026 New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
+- date: 8/21/2026
+  course: OCS2306D
+  title: Marksmanship/Single Hand Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/21/2026
+  course: OCS2306D
+  title: Marksmanship/Single Hand Shooting
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
 - date: 8/20/2026
   course: OCS2327D
   title: Shotgun Re-Familiarzation

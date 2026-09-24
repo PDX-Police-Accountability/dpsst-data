@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 6/29/2026
+  course: HBP3405D
+  title: PoliceOne Hate Crimes Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/23/2026
   course: HBP4411D
   title: Case Law Update

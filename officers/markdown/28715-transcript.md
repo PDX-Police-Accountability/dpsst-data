@@ -39,8 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/24/2026 | HBP2916D | Rifle School - Patrol Rifle Course | Instructed | 0.0 | 36.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 8/16/2026 | HSU0807D | Pistol Mounted Optics | Passed | 0.0 | 30.00 |
+| 8/5/2026 | HBP1940D | PA 2026-4, Reaction Drills, Tac De-esc, Srch  Sz | Instructed | 0.0 | 10.00 |
+| 8/3/2026 | HBP3856D | PA 2026-4, TASER Certification | Instructed | 0.0 | 4.00 |
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
 | 7/15/2026 | HBP1549D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
 | 7/8/2026 | HBP2056D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |

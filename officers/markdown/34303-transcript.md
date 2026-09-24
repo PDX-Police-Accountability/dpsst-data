@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2026 | HBP2366D | PoliceOne Foundation in Ethics for LE | Passed | 0.0 | 1.00 |
 | 3/16/2026 | HBP2482C | FTP Academy Prep | Passed | 0.0 | 8.00 |
 | 3/6/2026 | HBP3735C | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |

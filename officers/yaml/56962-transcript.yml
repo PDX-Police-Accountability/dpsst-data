@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/10/2026
+  course: REG3696D
+  title: Defensive Tactcis Instructo Workshop / Refresher
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 8/27/2026
   course: REG3515D
   title: Handgun Fundelmentals
@@ -80,8 +86,8 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 6/16/2026
-  course: HBN4541D
-  title: Officer Safety Home Visit  Search/Seizure
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '4.00'
@@ -92,8 +98,8 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 6/12/2026
-  course: HBN4541D
-  title: Officer Safety Home Visit  Search/Seizure
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '4.00'
@@ -110,14 +116,14 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 6/9/2026
-  course: HBN4541D
-  title: Officer Safety Home Visit  Search/Seizure
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 6/9/2026
-  course: HBN4541D
-  title: Officer Safety Home Visit  Search/Seizure
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '4.00'

@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/14/2026 | BKS1408D | Firearms | Passed | 0.0 | 4.00 |
 | 6/25/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/17/2026 | BKS2382D | Firearms Training and Qualification | Passed | 0.0 | 4.00 |
 | 6/17/2026 | BKS0193D | Firearms Training and Qualification | Passed | 0.0 | 4.00 |

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2026 | FGP0674D | DPSST Spring 2026 Legal Updates | Passed | 0.0 | 1.00 |
 | 5/15/2026 | VND3496C | Washington County CIT Training | Passed | 0.0 | 40.00 |
 | 4/19/2026 | FGP2216C | DPSST Legal Updates Winter 2025-2026 | Passed | 0.0 | 1.00 |
 | 4/2/2026 | REG3473C | Emergency Vehicle Operations Refresher | Passed | 0.0 | 4.00 |

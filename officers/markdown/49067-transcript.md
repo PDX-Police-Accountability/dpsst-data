@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2026 | OCS2306D | Marksmanship/Single Hand Shooting | Passed | 0.0 | 1.00 |
 | 7/29/2026 | OCS1503D | Draw Speed/Marksmanship, Movement | Passed | 0.0 | 1.00 |
 | 7/18/2026 | OCS2313D | Vehicle extractions | Passed | 0.0 | 1.00 |
 | 5/18/2026 | OCS1158C | Community Peer CIT and Referral | Passed | 0.0 | 1.50 |

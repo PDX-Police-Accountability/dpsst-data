@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/23/2026
+  course: MNS3847D
+  title: Vehicle Ballistics Cover in a Gunfight
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 3/7/2026
   course: MNS1771C
   title: Building Clearing and K9 Introduction

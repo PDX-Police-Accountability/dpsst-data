@@ -28,6 +28,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/17/2026 | PDP3762D | FTEP Geography | Passed | 0.0 | 3.00 |
+| 9/16/2026 | PDP2404D | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 9/15/2026 | PDP4122D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 9/14/2026 | PDP0971D | FTEP HAZMAT/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
 | 9/14/2026 | PDP0303D | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |

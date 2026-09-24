@@ -49,6 +49,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2026
+  course: TRN2442D
+  title: DOC - CRCI Fire Suppression Training v2026 Vol 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/16/2026
+  course: TRN2591D
+  title: DOC - Fire Alarm Panel Monitoring v2026 Vol 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/12/2026
   course: TRN2352C
   title: Tethered Restraints v2023
