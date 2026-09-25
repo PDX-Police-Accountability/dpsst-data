@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/14/2026 | McMinnville Police Department | Resigned | Reserve |  |  |
 | 12/20/2017 | McMinnville Police Department | Hired | Reserve |  |  |
 | 10/13/2008 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 10/9/2008 | Portland Police Bureau | Hired | Police Off |  |  |

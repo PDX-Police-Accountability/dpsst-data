@@ -1665,7 +1665,6 @@
 | Pearce, Emma M. | 66563 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66563-transcript.md) - [yaml](../yaml/66563-transcript.yml) |
 | Beggs, Riley C. | 66610 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66610-transcript.md) - [yaml](../yaml/66610-transcript.yml) |
 | Said, John M. | 66612 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66612-transcript.md) - [yaml](../yaml/66612-transcript.yml) |
-| Weckner, Kody J. | 66613 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66613-transcript.md) - [yaml](../yaml/66613-transcript.yml) |
 | Lowery, Charlie J. | 59482 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-08-04 | [md](../markdown/59482-transcript.md) - [yaml](../yaml/59482-transcript.yml) |
 | Jones, Jason L. | 37668 | Portland Police Bureau | Inactive | Captain | Retired | 2025-08-12 | [md](../markdown/37668-transcript.md) - [yaml](../yaml/37668-transcript.yml) |
 | Sheppard, Nathan A. | 46619 | Portland Police Bureau | Active | Captain | Promotion | 2025-08-14 | [md](../markdown/46619-transcript.md) - [yaml](../yaml/46619-transcript.yml) |
@@ -1878,6 +1877,7 @@
 | Power, Maxwell E. | 66984 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2026-09-01 | [md](../markdown/66984-transcript.md) - [yaml](../yaml/66984-transcript.yml) |
 | Elstad, Aaron E. | 67701 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2026-09-08 | [md](../markdown/67701-transcript.md) - [yaml](../yaml/67701-transcript.yml) |
 | Morinville, Steven M. | 37145 | Portland Police Bureau | Inactive | Detective | Resigned | 2026-09-09 | [md](../markdown/37145-transcript.md) - [yaml](../yaml/37145-transcript.yml) |
+| Weckner, Kody J. | 66613 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2026-09-17 | [md](../markdown/66613-transcript.md) - [yaml](../yaml/66613-transcript.yml) |
 | Elizarraraz, Everardo | 66927 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/66927-transcript.md) - [yaml](../yaml/66927-transcript.yml) |
 | Torres, Gabriel A. | 67811 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67811-transcript.md) - [yaml](../yaml/67811-transcript.yml) |
 | Jensen, Micah P. | 67846 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67846-transcript.md) - [yaml](../yaml/67846-transcript.yml) |
