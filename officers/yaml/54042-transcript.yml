@@ -182,6 +182,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/28/2025
+  course: OCS4526D
+  title: ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/8/2025
   course: OCS3181B
   title: Perspective on Leadership

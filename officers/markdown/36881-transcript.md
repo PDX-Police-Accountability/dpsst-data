@@ -42,6 +42,7 @@
 | 9/1/2026 | BPT2445D | ICISF: Assisting Individuals in Crisis | Passed | 0.0 | 16.00 |
 | 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 7/16/2026 | SAG1874D | Firearms | Passed | 0.0 | 1.00 |
+| 7/15/2026 | SAG2806D | Oregon Assest Forfeiture | Passed | 0.0 | 1.00 |
 | 6/22/2026 | SAG4549D | Firearms | Passed | 0.0 | 2.00 |
 | 5/14/2026 | OAC4552C | Creating Thriving Police Cultures | Passed | 0.0 | 2.00 |
 | 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |

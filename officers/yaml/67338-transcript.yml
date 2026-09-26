@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/22/2026
+  course: PDP3112D
+  title: Body Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/17/2026
   course: PDP3762D
   title: FTEP Geography

@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2026
+  course: HBP1986D
+  title: Preventing the Plea
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 9/16/2026
   course: HBP2366D
   title: PoliceOne Foundation in Ethics for LE

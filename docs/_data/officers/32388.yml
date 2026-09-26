@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/20/2026
+  course: GSP1340D
+  title: Post Academy Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/17/2026
   course: GSP1541D
   title: Rifle In-service

@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | RRP1457D | OACP Fall Executive Board Meeting | Passed | 0.0 | 4.00 |
 | 8/13/2026 | BNP1671D | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 7/22/2026 | BNP2872D | The Art  Science of Leadership | Passed | 0.0 | 3.00 |
 | 6/30/2026 | BNP2130D | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |

@@ -57,6 +57,7 @@
 | 11/26/2025 | OCS3209C | Marksmanship, Shoot / No-Shoot decision making | Passed | 0.0 | 1.00 |
 | 11/5/2025 | OCS2855C | 2025 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 10/31/2025 | OCS1631C | MILO Use of Force Decision Making | Passed | 0.0 | 1.00 |
+| 10/28/2025 | OCS4526D | ACAP | Passed | 0.0 | 2.00 |
 | 10/8/2025 | OCS3181B | Perspective on Leadership | Passed | 0.0 | 4.00 |
 | 9/30/2025 | OCS3371B | Balance Speed/Marksmanship at distance | Passed | 0.0 | 1.00 |
 | 9/17/2025 | OCS0755B | Less Lethal  40mm Launcher Recert/Cert | Passed | 0.0 | 2.00 |

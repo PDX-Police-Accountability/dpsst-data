@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/13/2026 | PDP3701D | FTEP Policy and Procedures | Passed | 0.0 | 8.00 |
 | 7/15/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/1/2026 | PDP2648D | 2026-2 Advanced Academy Control Tactics | Passed | 0.0 | 55.50 |
 | 7/1/2026 | PDP0714D | 2026-2 Advanced Academy Law | Passed | 0.0 | 29.25 |
@@ -70,7 +71,7 @@
 | 4/2/2026 | PDP4023D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 4/2/2026 | PDP2255D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 4/2/2026 | PDP3912D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
-| 4/1/2026 | PDP1042D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 4/1/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/1/2026 | PDP2006D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 4/1/2026 | PDP0045D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 4/1/2026 | PDP0725D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |

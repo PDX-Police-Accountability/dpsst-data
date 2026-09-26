@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2026 | PDS2099D | Glock Armorer Course | Passed | 0.0 | 8.00 |
 | 8/26/2026 | PDS1141D | Legal Update | Passed | 0.0 | 4.00 |
 | 6/11/2026 | GSP0474D | Ballistic Shield Training | Passed | 0.0 | 5.00 |
 | 6/10/2026 | GSP0414D | Ballistic Shield Training | Passed | 0.0 | 10.00 |

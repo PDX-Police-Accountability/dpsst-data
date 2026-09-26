@@ -47,6 +47,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/22/2027 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 9/1/2026 | BNS0467D | Pepperball Refresher | Passed | 0.0 | 0.75 |
+| 9/1/2026 | BNS0467D | Pepperball Refresher | Instructed | 0.0 | 2.25 |
+| 9/1/2026 | BNS3738D | 40mm Refresher | Passed | 0.0 | 0.75 |
+| 9/1/2026 | BNS3738D | 40mm Refresher | Instructed | 0.0 | 2.25 |
 | 7/20/2026 | BNS2496D | Ethos Academy - Ethics | Passed | 0.0 | 3.00 |
 | 6/30/2026 | BNS1798D | Online Fire Suppression Tools | Passed | 0.0 | 0.50 |
 | 6/30/2026 | BNS0240D | Online Oleoresin Capsicum Refresher | Passed | 0.0 | 1.00 |

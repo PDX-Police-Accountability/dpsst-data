@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2026 | PDP3112D | Body Worn Camera | Passed | 0.0 | 3.00 |
 | 9/17/2026 | PDP3762D | FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/16/2026 | PDP2404D | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 9/15/2026 | PDP4122D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |

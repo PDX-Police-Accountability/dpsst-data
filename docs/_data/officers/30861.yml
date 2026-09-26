@@ -116,6 +116,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 9/1/2026
+  course: BNS0467D
+  title: Pepperball Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/1/2026
+  course: BNS0467D
+  title: Pepperball Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '2.25'
+- date: 9/1/2026
+  course: BNS3738D
+  title: 40mm Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/1/2026
+  course: BNS3738D
+  title: 40mm Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '2.25'
 - date: 7/20/2026
   course: BNS2496D
   title: Ethos Academy - Ethics

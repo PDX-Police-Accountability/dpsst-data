@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/3/2026
+  course: PDS2099D
+  title: Glock Armorer Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/23/2026
   course: PDS1974D
   title: Firearms

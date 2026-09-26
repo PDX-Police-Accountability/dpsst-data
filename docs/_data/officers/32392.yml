@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 5/31/2026
+  course: TGP4328D
+  title: 2026 EOC/COOP Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/29/2026
   course: TGP2515D
   title: Handgun

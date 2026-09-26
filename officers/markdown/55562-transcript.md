@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2026 | PDS2099D | Glock Armorer Course | Passed | 0.0 | 8.00 |
 | 4/28/2026 | PDS3030D | Spring Range AIT | Passed | 0.0 | 8.00 |
 | 4/9/2026 | PDS0931D | ConSim | Passed | 0.0 | 4.00 |
 | 4/9/2026 | PDS1362D | Use of Force Reports | Passed | 0.0 | 4.00 |

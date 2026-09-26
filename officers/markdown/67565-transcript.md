@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/10/2026 | REG0582D | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/6/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 6/25/2026 | PDP1391D | 2026 FTEP Intro to Police Vehicle Operations (PVO) | Passed | 0.0 | 1.00 |
 | 6/24/2026 | PDP1223D | CPR/First Aid | Passed | 0.0 | 4.00 |

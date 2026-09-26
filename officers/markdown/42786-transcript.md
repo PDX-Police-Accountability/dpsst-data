@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | RRP1457D | OACP Fall Executive Board Meeting | Passed | 0.0 | 4.00 |
 | 4/18/2026 | HSU0568C | Spring In-Service 2026 CPR/ First Aid | Passed | 0.0 | 4.00 |
 | 4/18/2026 | HSU0548C | Spring In-Service 2026 De Escalation Practical | Passed | 0.0 | 4.00 |
 | 4/18/2026 | HSU2800C | Spring In-Service 2026 Ethics | Instructed | 0.0 | 2.00 |

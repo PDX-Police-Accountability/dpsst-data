@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/13/2026
+  course: PDP3701D
+  title: FTEP Policy and Procedures
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/2/2026
   course: PDP1781D
   title: 2026-2 Range Qualification Primary Firearm
@@ -463,8 +469,8 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 4/3/2026
-  course: PDP1042D
-  title: 2019-5 TT Enforcement of Protection Orders
+  course: XDELETE7
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

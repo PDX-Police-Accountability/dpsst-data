@@ -59,6 +59,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | JDN4558D | Handgun qualifications | Passed | 0.0 | 0.50 |
+| 9/23/2026 | JDN3264D | Rifle qualifications | Passed | 0.0 | 0.50 |
+| 9/23/2026 | JDN3262D | Firearms Training and Tac-Med Refresher | Passed | 0.0 | 2.00 |
 | 9/9/2026 | OSA0287D | SARAC Quarterly Meeting/Training | Passed | 0.0 | 0.75 |
 | 5/31/2026 | PLS3317D | East Oregon Search And Rescue Regional Training | Passed | 0.0 | 26.00 |
 | 3/31/2026 | JDN1022C | Firearms Qualifications | Passed | 0.0 | 1.00 |

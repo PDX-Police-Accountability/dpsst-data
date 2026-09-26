@@ -158,6 +158,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 2/27/2026
+  course: OSH1515D
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/6/2026
   course: OSH0752C
   title: OSP Defensive Tactics - 1st Trimester

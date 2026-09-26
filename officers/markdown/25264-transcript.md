@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2026 | PDS2099D | Glock Armorer Course | Passed | 0.0 | 8.00 |
 | 6/23/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/15/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/8/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |

@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
+| 8/20/2026 | GSP1340D | Post Academy Firearms Training | Instructed | 0.0 | 10.00 |
 | 8/17/2026 | GSP1541D | Rifle In-service | Instructed | 0.0 | 10.00 |
 | 8/17/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 10.00 |
 | 8/10/2026 | GSP0826D | Rifle In-service | Instructed | 0.0 | 10.00 |

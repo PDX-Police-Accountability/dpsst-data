@@ -207,6 +207,24 @@ certification_records:
   expiration_date: 6/6/2030
   probation_date: ''
 training_records:
+- date: 9/23/2026
+  course: JDN4558D
+  title: Handgun qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/23/2026
+  course: JDN3264D
+  title: Rifle qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/23/2026
+  course: JDN3262D
+  title: Firearms Training and Tac-Med Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/9/2026
   course: OSA0287D
   title: SARAC Quarterly Meeting/Training

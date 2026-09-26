@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | RRP1457D | OACP Fall Executive Board Meeting | Passed | 0.0 | 4.00 |
 | 9/2/2026 | SPP4304D | Body Worn Camera Training | Passed | 0.0 | 1.00 |
 | 7/6/2026 | SPP3132D | Legal Update Training | Passed | 0.0 | 1.00 |
 | 6/23/2026 | SPP3904C | Cybersecurity | Passed | 0.0 | 0.50 |

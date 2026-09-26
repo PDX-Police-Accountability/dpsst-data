@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/15/2026
+  course: SAG2806D
+  title: Oregon Assest Forfeiture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/8/2026
   course: AVP2857D
   title: Monthly Leadership Meeting
