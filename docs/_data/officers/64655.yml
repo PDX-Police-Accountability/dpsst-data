@@ -31,7 +31,7 @@ certification_records:
 - status_date: 7/23/2025
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Granted-UR
   certificate_date: 7/23/2025
   expiration_date: ''
   probation_date: ''

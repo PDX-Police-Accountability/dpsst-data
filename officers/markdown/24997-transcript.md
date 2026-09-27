@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/26/2026 | Port of Portland Police Department | LOA | Police Off |  |  |
 | 8/19/2002 | Port of Portland Police Department | Hired | Police Off |  |  |
 | 7/26/2002 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 2/19/1991 | Portland Police Bureau | Hired | Reserve |  |  |
