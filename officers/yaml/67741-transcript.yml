@@ -1,0 +1,40 @@
+---
+header_record:
+  name: Keith, Ammar A.
+  dpsst_identifier: '67741'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 8/14/2026
+  agency: Portland Police Bureau
+  action: Mil-LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 8/13/2026
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 8/13/2026
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 2/13/2028
+training_records:
+- date: 1/11/2027
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []

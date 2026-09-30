@@ -1,0 +1,2367 @@
+---
+header_record:
+  name: Hodges, Luke A.
+  dpsst_identifier: '52084'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 8/13/2026
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 8/11/2026
+  agency: Clackamas County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 2/17/2021
+  agency: Clackamas County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 2/11/2021
+  agency: Sandy Police Department
+  action: Resigned
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 7/24/2019
+  agency: Sandy Police Department
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 7/12/2011
+  agency: Sandy Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 8/6/2018
+  certificate: Police Officer
+  level: Advanced
+  status: Granted
+  certificate_date: 8/6/2018
+  expiration_date: ''
+  probation_date: ''
+- status_date: 11/18/2014
+  certificate: Police Officer
+  level: Intermediate
+  status: Granted
+  certificate_date: 11/18/2014
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/26/2013
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 2/26/2013
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 9/22/2026
+  course: PDP3112D
+  title: Body Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/17/2026
+  course: PDP3762D
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/16/2026
+  course: PDP2404D
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/15/2026
+  course: PDP4122D
+  title: FTEP Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/14/2026
+  course: PDP0971D
+  title: FTEP HAZMAT/WMD APR Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/14/2026
+  course: PDP0303D
+  title: FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 9/9/2026
+  course: PDP3188D
+  title: RegJIN RMS MRE
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 9/7/2026
+  course: PDP0220D
+  title: FTEP Control Tactics Searches
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/2/2026
+  course: PDP0834D
+  title: 2026 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/2/2026
+  course: PDP2349D
+  title: FTEP Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/1/2026
+  course: PDP0497D
+  title: FTEP Post DPSST Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/27/2026
+  course: PDP1717D
+  title: CPR First Aid Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/26/2026
+  course: PDP2003D
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/26/2026
+  course: PDP1848D
+  title: FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 8/25/2026
+  course: PDP2072D
+  title: Intro to Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/24/2026
+  course: PDP3413D
+  title: FTEP Policy and Procedure
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 7/29/2026
+  course: OCS1503D
+  title: Draw Speed/Marksmanship, Movement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2026
+  course: OCS2360D
+  title: June 2026 Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/16/2026
+  course: OCS2622C
+  title: 'LE Ethics: 2025 Make-Up Hours'
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 5/11/2026
+  course: OCS3817C
+  title: Drone Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/24/2026
+  course: OCS2098C
+  title: 2026 Annual Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2026
+  course: OCS0620C
+  title: Drone Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/1/2026
+  course: OCS1348C
+  title: CPR First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/26/2026
+  course: OCS4238C
+  title: Holster Speed, Marksmanship at Distance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/17/2026
+  course: OCS1777C
+  title: Take Downs Ground Offense/Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/9/2026
+  course: OCS1383C
+  title: Drone Training - Flight Sim/Covert Surveillance
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 2/9/2026
+  course: OCS4105C
+  title: February 2026 - UAS Drone training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/29/2026
+  course: OCS2721C
+  title: MILO- Deescalation and use of force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2025
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/23/2025
+  course: OCS0401C
+  title: Low Light Shoot / No-Shoot Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/20/2025
+  course: OCS4192C
+  title: Emotional Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/15/2025
+  course: OCS2110C
+  title: Use of Force Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/29/2025
+  course: OCS2652C
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/26/2025
+  course: OCS1478C
+  title: Marksmanship, Shoot / No-Shoot decision making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/26/2025
+  course: OCS3209C
+  title: Marksmanship, Shoot / No-Shoot decision making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2025
+  course: OCS1631C
+  title: MILO Use of Force Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/13/2025
+  course: OCS0441B
+  title: Intro to Forensic Mapping with a Drone
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/30/2025
+  course: OCS3371B
+  title: Balance Speed/Marksmanship at distance
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/15/2025
+  course: OCS0409B
+  title: ConSims
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2025
+  course: OCS1823B
+  title: ACAP training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/22/2025
+  course: OCS3533B
+  title: Holster Speed / Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/13/2025
+  course: OCS0877B
+  title: De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/15/2025
+  course: OCS3139B
+  title: Suspect Escort and Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/13/2025
+  course: OCS1693B
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 6/1/2025
+  course: OCS1688B
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/15/2025
+  course: OCS0175A
+  title: 2025 Spring Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/15/2025
+  course: OCS2172A
+  title: May monthly firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/28/2025
+  course: OCS1650B
+  title: April 2025 Monthly Firearms Annual Qual
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/24/2025
+  course: OCS1684B
+  title: Street Survival- Calibre Press
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/15/2025
+  course: OCS0056A
+  title: Closed Guard series
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2025
+  course: OCS3895B
+  title: CIT/Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/26/2025
+  course: OCS4478A
+  title: March 2025 Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/25/2025
+  course: OCS0621A
+  title: Ground Offense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/10/2025
+  course: OCS0631A
+  title: March 2025 UAS Drone Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/27/2025
+  course: OCS2050A
+  title: February 2025 Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/30/2025
+  course: OCS2612A
+  title: January 2025 DT's and MILO
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/13/2025
+  course: OCS1640A
+  title: Drone Training - Aerial search nature area
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/20/2024
+  course: OCS1524A
+  title: Marksmanship, Movement, Use of Cover
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/16/2024
+  course: OCS0503A
+  title: Taser and Use of Force Law
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/9/2024
+  course: OCS1587A
+  title: Drone Training - Aerial Searches in Wooded Areas
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 11/27/2024
+  course: MISCMAIN
+  title: 2024 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/21/2024
+  course: OCS2042A
+  title: Equity training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/20/2024
+  course: OCS1237A
+  title: Use of Cover/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/19/2024
+  course: OCS4129A
+  title: Equity
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/29/2024
+  course: OCS3981A
+  title: Advanced Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/26/2024
+  course: OCS0221A
+  title: Use of Force/Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2024
+  course: OCS1723A
+  title: De-escalation in Scenario
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/7/2024
+  course: OCS2087A
+  title: Drone Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/1/2024
+  course: OCS0791A
+  title: 2024 Patrol Fall Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/5/2024
+  course: OCS4230A
+  title: Tactical Leadership
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/5/2024
+  course: OCS0063A
+  title: Tactical Leadership
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/2/2024
+  course: OCS1296A
+  title: Tactical Leadership by Caliber Press
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/1/2024
+  course: OCS2693A
+  title: De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2024
+  course: OCS0329A
+  title: Efficient Holster speed/marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2024
+  course: OCS1950A
+  title: Balancing Speed  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/25/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 7/20/2024
+  course: OCS3211A
+  title: Shield/Low Light/Shoot-No-Shoot
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/20/2024
+  course: OCS2501A
+  title: Shooting with Shields
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/5/2024
+  course: OCS3982A
+  title: 2024 Spring Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/3/2024
+  course: OCS3560A
+  title: Drone Pilot Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/20/2024
+  course: OCS0967A
+  title: Milo
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/20/2024
+  course: OCS0671A
+  title: Takedowns and Ground defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2024
+  course: OCS4202A
+  title: Annual Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2024
+  course: OCS1169A
+  title: Annual Handgun Qual
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2024
+  course: OCS2132A
+  title: Ground Offense Against Punches
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2024
+  course: OCS1848A
+  title: Ethics- ETHOS training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/28/2024
+  course: OCS2583A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/1/2024
+  course: OCS2903A
+  title: First Aid CPR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/28/2024
+  course: OCS1992A
+  title: Striking/Take Downs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2024
+  course: OCS2413A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/23/2024
+  course: OCS4203A
+  title: Striking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2024
+  course: OCS4366A
+  title: Milo De-Escalation Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/16/2023
+  course: OCS2690A
+  title: Bias Hate Crime Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/12/2023
+  course: OCS1304A
+  title: Marksmanship, Movement, problem solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2023
+  course: OCS4325A
+  title: Use of Force Reporting/Case Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/28/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/24/2023
+  course: OCS3237A
+  title: TSA Security Awareness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2023
+  course: OCS0216A
+  title: Fall Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/15/2023
+  course: OCS1812A
+  title: Taser Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2023
+  course: OCS1189A
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/12/2023
+  course: OCS0920A
+  title: Balancing Speed/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2023
+  course: OCS2766A
+  title: Bias Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2023
+  course: OCS3683A
+  title: 2023 September and October DPSST Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2023
+  course: OCS1779A
+  title: 2023 Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2023
+  course: OCS1690A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: OCS2343A
+  title: Force on Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/12/2023
+  course: OCS1205A
+  title: October 2023 DV Refresher Roll Call training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/27/2023
+  course: OCS4284A
+  title: September 2023 New Rifle Carrier
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 9/20/2023
+  course: OCS2211A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/13/2023
+  course: OCS3861A
+  title: Scenarios and Deescalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/22/2023
+  course: BPT0333A
+  title: Struggle Well
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 8/20/2023
+  course: OCS4226A
+  title: Struggle Well
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 8/13/2023
+  course: OCS0541A
+  title: One Hand Shooting/Use of Cover
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/11/2023
+  course: OCS0196A
+  title: Struggle Well Training Program
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/30/2023
+  course: OCS0074A
+  title: Ambush/Vehicle Extractions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/30/2023
+  course: OCS0895A
+  title: Ambush/Vehicle Extractions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/10/2023
+  course: OCS4343A
+  title: 2023 Community Caretaking Update Trg Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/10/2023
+  course: OCS2735A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/12/2023
+  course: OCS4091A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/12/2023
+  course: OCS0983A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/1/2023
+  course: OCS3320A
+  title: Shoot/No Shoot Targets/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/1/2023
+  course: OCS3771A
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/1/2023
+  course: OCS1132A
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/21/2023
+  course: OCS1318A
+  title: Resiliency Training by Dr. Conn
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/17/2023
+  course: OCS2082A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/15/2023
+  course: OCS1888A
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2023
+  course: OCS0712A
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2023
+  course: OCS1599A
+  title: Contraband Case Law
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: OCS4133A
+  title: Use of Force Decisions/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/28/2023
+  course: OCS0348A
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/24/2023
+  course: OCS2909
+  title: Body Worn Cameras
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/24/2023
+  course: OCS1341A
+  title: Strangulation and SKIT training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/20/2023
+  course: OCS2647
+  title: Annual Qualifiation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/20/2023
+  course: OCS1543A
+  title: Legal Update March and April 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/20/2023
+  course: OCS1390A
+  title: Long Gun Retention and Strikes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/20/2023
+  course: OCS2503
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/1/2023
+  course: OCS4258A
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/31/2023
+  course: OCS43888
+  title: Counter Assaults
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/30/2023
+  course: OCS01116
+  title: Use of Force Decisions/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/20/2023
+  course: OCS2814A
+  title: Brady Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/18/2023
+  course: OCS07031
+  title: DUII - SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/28/2022
+  course: OCS33699
+  title: Marksmanship/Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/23/2022
+  course: OCS26095
+  title: Use of Force Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2022
+  course: OCS07967
+  title: Flight Instructor Refresher
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 12/12/2022
+  course: OCS1862A
+  title: 2022 DPSST Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2022
+  course: OCS15169
+  title: Target Zone Transitions - Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2022
+  course: OCS37740
+  title: Taser Refresher Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2022
+  course: OCS3156A
+  title: DPSST Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/20/2022
+  course: OCS30444
+  title: Impact and Edge Weapons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2022
+  course: OCS34377
+  title: Milo De-Escalation  Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2022
+  course: OCS34059
+  title: MIDD Portable Fingerprint Device Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/21/2022
+  course: OCS14962
+  title: IPO Statute Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/15/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/12/2022
+  course: OCS18613
+  title: Low Light/One Hand Shooting/Use of Cover
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2022
+  course: OCS20366
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2022
+  course: OCS36465
+  title: One Hand Shooting/Barricading
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/30/2022
+  course: OCS12963
+  title: De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/25/2022
+  course: OCS39313
+  title: UAS Policy and Flight Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/20/2022
+  course: OCS05500
+  title: One Hand Shooting/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/3/2022
+  course: OCS16566
+  title: Code 3 Driving
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2022
+  course: OCS21814
+  title: Ground Fightint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2022
+  course: OCS08007
+  title: Target Transition  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/20/2022
+  course: OCS41203
+  title: Target Transition  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2022
+  course: OCS39091
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2022
+  course: OCS27163
+  title: Ethos Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2022
+  course: OCS06518
+  title: Ethos Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/3/2022
+  course: OCS03360
+  title: HB 2513 Airway and Circulation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/3/2022
+  course: OCS4479A
+  title: HB2513 Airway and Circulation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/30/2022
+  course: OCS31075
+  title: Weapons Disarm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/20/2022
+  course: OCS02325
+  title: Annual Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/15/2022
+  course: OCS02039
+  title: Axon Bodycam Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/12/2022
+  course: OCS22537
+  title: Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/30/2022
+  course: OCS17075
+  title: Marksmanship/One Hand Shooting/Movement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/25/2022
+  course: OCS06695
+  title: First Aid/CPR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/21/2022
+  course: OCS22090
+  title: Basic Drone Operation
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/20/2022
+  course: OCS05711
+  title: Arrest and Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2022
+  course: OCS37116
+  title: Balancing Speed and Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2022
+  course: OCS16578
+  title: Striking and Weapon Retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2022
+  course: MISCMAIN
+  title: 2021 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/26/2022
+  course: OCS02052
+  title: Interfering w Police Officer OSSA legal update
+  status: Passed
+  score: '0.0'
+  hours: '0.15'
+- date: 1/20/2022
+  course: OCS34045
+  title: Use of Force Decision Making/Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/13/2022
+  course: OCS29468
+  title: 2021 OSSA Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2021
+  course: OCS33256
+  title: Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2021
+  course: OCS20147
+  title: Shoot/No-Shoot Scenarios/Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/21/2021
+  course: OCS25818
+  title: Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/17/2021
+  course: OCS41758
+  title: Workplace violence prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/16/2021
+  course: OCS23717
+  title: Mark 43 - Use of Force Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2021
+  course: OCS43456
+  title: Low Light, Target ID, Fighting around vehicle
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/28/2021
+  course: OCS43712
+  title: October Monthly Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/28/2021
+  course: OCS30796
+  title: De-Escalation/Decision Making/Target ID
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/15/2021
+  course: OCS36185
+  title: OSHA Protection Wildfire Smoke Training
+  status: Passed
+  score: '0.0'
+  hours: '0.15'
+- date: 10/12/2021
+  course: MISCMAIN
+  title: 2021 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/30/2021
+  course: OCS19433
+  title: September Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2021
+  course: OCS02026
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2021
+  course: OCS36108
+  title: August monthly firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2021
+  course: OCS29671
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/21/2021
+  course: OCS15046
+  title: COVID Crisis and Consequences
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2021
+  course: OCS16631
+  title: 'DA Training: Eyewitness ID'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2021
+  course: OCS04137
+  title: Strangulation Supplemental Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/20/2021
+  course: OCS14467
+  title: Keeping Superheroes Super
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2021
+  course: OCS30507
+  title: Keeping Superheroes Super
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/12/2021
+  course: OCS32734
+  title: Social Media Awareness Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/30/2021
+  course: OCS15627
+  title: July Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/30/2021
+  course: OCS42490
+  title: July monthly defensive tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/23/2021
+  course: OCS29653
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/22/2021
+  course: OCS25187
+  title: Getting Out of Your Own Way
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/22/2021
+  course: OCS18300
+  title: Getting Out of Your Own Way
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/13/2021
+  course: OCS14598
+  title: Crime Victim Course
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/30/2021
+  course: OCS09513
+  title: June DT's Ground Work
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/20/2021
+  course: OCS43052
+  title: EVOC track
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/31/2021
+  course: OCS11587
+  title: Ground Work DT's
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2021
+  course: OCS39587
+  title: Defensive Tactics- April
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2021
+  course: OCS30119
+  title: April Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2021
+  course: OCS12772
+  title: May Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2021
+  course: OCS01197
+  title: June Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2021
+  course: OCS36696
+  title: EVOC classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/21/2021
+  course: OCS01274
+  title: EVOC Track Session
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/3/2021
+  course: F6D31314
+  title: Patrol Tactics - Team Movement, Building Searches.
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 3/1/2021
+  course: OCS43999
+  title: Stop Data Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/1/2021
+  course: OCS2020A
+  title: New Hire DTs
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/28/2021
+  course: OCS05265
+  title: February Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2021
+  course: F6D05721
+  title: New Hire Fireamrs - Markmanship, Handling.
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/22/2021
+  course: OCS1573A
+  title: New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/18/2021
+  course: SAP34041
+  title: First Line Supervision Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/14/2021
+  course: F6D16944
+  title: Child Abuse Investigations - Pediatric Trauma
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/27/2020
+  course: SAP05602
+  title: Anti-Harassment in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2020
+  course: SAP28719
+  title: Ballot Measure 110 Zoom Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/15/2020
+  course: SAP13943
+  title: Anti-Bias Training For Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2020
+  course: SAP06660
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/19/2020
+  course: SAP29448
+  title: SANE kits and new strangulation protocols
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/8/2020
+  course: F6D31749
+  title: Vehicular Homicide Response and Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2020
+  course: SAP35938
+  title: Defensive Tactics--Handcuffing. Striking.
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/20/2020
+  course: SAP38934
+  title: Ethics--Shaping An Ethical Workplace Culture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/12/2020
+  course: F6D41437
+  title: Firearms Training-Patrol Rifle and Backup/Off Duty
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/11/2020
+  course: MISCMAIN
+  title: 2020 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/27/2020
+  course: SAP04260
+  title: Defensive Tactics Online
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/10/2020
+  course: SAP04708
+  title: Ethical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2020
+  course: F6D18804
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/9/2020
+  course: F6D07599
+  title: Lockdown Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/1/2020
+  course: F6D07004
+  title: Expandable Baton and Straight Stick Basics Train.
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/29/2020
+  course: F6D33045
+  title: Annual TASER Recert
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/3/2020
+  course: F6D35064
+  title: Defensive Tactics Basics Course, Handcuffing
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/25/2020
+  course: F6D36956
+  title: Range Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/12/2020
+  course: F6D16519
+  title: Stalking Investigations and Prosecutions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/31/2020
+  course: F6D36025
+  title: Incident Command Systems 400
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 1/29/2020
+  course: F6D09943
+  title: Incident Command Systems 300
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/22/2020
+  course: F6D40350
+  title: Defensive Tactics Takedown(s) and Takedown Defense
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/12/2020
+  course: F6D15581
+  title: Introduction to Incident Command System ICS-100
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/10/2020
+  course: F6D02552
+  title: IS-00800.c
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/2/2020
+  course: F6D16966
+  title: IS-00700.b
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/28/2019
+  course: F6D41767
+  title: IS-00200.c
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/25/2019
+  course: F6D23793
+  title: First Aid and CPR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/9/2019
+  course: MISCMAIN
+  title: 2019 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/26/2019
+  course: F6D25554
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/15/2019
+  course: F6D43602
+  title: Couragerous Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/14/2019
+  course: F6D27803
+  title: Oregon Peace Officers Association Annual Conf.
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/6/2019
+  course: F6D24712
+  title: Basic Door Breaching Course
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/9/2019
+  course: F6D40515
+  title: Criminal Law Update and Legislative Changes to ORS
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/12/2019
+  course: F6D05837
+  title: Understanding Custodial Interviews
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/11/2019
+  course: F6D41524
+  title: Defesnive Tactics Hand, Knee and Leg Striking
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/8/2019
+  course: F6D26005
+  title: Missing Persons Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/7/2019
+  course: F6D04830
+  title: Range Training - Ambush Response  Using the PV
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/10/2019
+  course: F6D38259
+  title: Handgun/ Patrol Rifle Qualification and Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/26/2019
+  course: F6D42242
+  title: Defensive Tactics - Jiu Jitsu for LEO
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/1/2019
+  course: F6D24941
+  title: Annual Taser Training/ Re-Cert
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/29/2019
+  course: F6D06456
+  title: Leadership for Command Staff - S.H.A.R.E
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/20/2019
+  course: 19-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 5/17/2019
+  course: F6D19867
+  title: Metro Area Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 5/17/2019
+  course: OCS12063
+  title: Metro Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 4/17/2019
+  course: F6D24944
+  title: Dedfensive Tactics - Baton Work
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/27/2019
+  course: F6D00375
+  title: Active Shooter Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/20/2019
+  course: SAP37471
+  title: Minimal Facts Interviews  Karly's Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/6/2019
+  course: F6D39107
+  title: Firearms/ Pistol Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/20/2019
+  course: F6D34216
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/20/2019
+  course: F6D34216
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/23/2019
+  course: SAP10607
+  title: Less Lethal Impact Munitions
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2018
+  course: MISCMAIN
+  title: 2018 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/26/2018
+  course: F6D07192
+  title: Ethics Bulletin 180 and 181
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2018
+  course: F6D01851
+  title: WSIN,RISS SAFE,  RISS NET
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/10/2018
+  course: F6D35220
+  title: Defensive Tactics:case law review,defending,strike
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/6/2018
+  course: PDP39394
+  title: Advanced Roadside Impaired Driving (ARIDE)
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/7/2018
+  course: F6D03958
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/1/2018
+  course: F6D10184
+  title: Investigating Strangulation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/15/2018
+  course: F6C04276
+  title: Moral Fitness Rule Changes
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/15/2018
+  course: F6B05623
+  title: DUII
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/5/2018
+  course: F6W37082
+  title: Search  Seizure (Powerpoint)
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/5/2018
+  course: F6W00716
+  title: Brady Obligations (Powerpoint)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2018
+  course: F6B33398
+  title: Incapacitation/Injured Officer  Self Care Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/26/2018
+  course: F6B38931
+  title: First Responder Beware-Working Around Utility
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/14/2018
+  course: F6B01436
+  title: Risk Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/13/2018
+  course: F6W10927
+  title: Patrol Week- Field Training Officer (Tuesday)
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/12/2018
+  course: F6W00950
+  title: Patrol Week- Field Training Officer (Monday)
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 2/23/2018
+  course: F6B12172
+  title: Active Shooter - ALERRT
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/14/2018
+  course: F6B03258
+  title: Firearms Training-Duty Pistol,Off-Duty Pistol Qual
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/10/2018
+  course: '16255'
+  title: Adult/Child/Infant CPR, First Aid, Bloodborne
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/1/2017
+  course: F6C39671
+  title: Defensive Tactics-Knife Defense and Striking
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/18/2017
+  course: F6A09491
+  title: UUMV Unvestigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/5/2017
+  course: F6A09695
+  title: 'DPSST Ethics Bulletin #166'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/5/2017
+  course: F6B24089
+  title: Police Training Officer/Reno Model
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 8/9/2017
+  course: F6M22959
+  title: AR-15 Rifle Qualification/Reloading/Transitioning
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/28/2017
+  course: F6C05604
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/8/2017
+  course: F6C28544
+  title: Low Light/Night Shooting
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/3/2017
+  course: F6C17199
+  title: Taser Annual Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/28/2017
+  course: F6C15493
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/20/2017
+  course: F6A04933
+  title: Idenity Theft Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/5/2017
+  course: F6C28441
+  title: Firearms Training (Including Pistol Qual)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/15/2017
+  course: F6C16952
+  title: Defensive Tactics-Weapon Retenton
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/17/2017
+  course: F6A04960
+  title: Emergency Vehicle Operations  Pursuit Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/7/2016
+  course: F6C36135
+  title: Child Abuse Protocols (Karly's Law Update)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2016
+  course: F6C33224
+  title: Patrol Rifle Training/Rifle Qual
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/5/2016
+  course: F6C17187
+  title: Naloxone
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2016
+  course: F6C12707
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/1/2016
+  course: F6A02718
+  title: ORS 475,898-Oregon Good Sam Law
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/17/2016
+  course: F6A01816
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/9/2016
+  course: F6A01817
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/6/2016
+  course: 16-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/3/2016
+  course: 16-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/3/2016
+  course: 16-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/3/2016
+  course: F6C04659
+  title: Policy/Procedures Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/15/2016
+  course: 16-0180
+  title: Defensive Tactics Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/31/2015
+  course: MISCMAIN
+  title: 2015 Police Maintenance Basic
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/28/2015
+  course: 15-0477
+  title: Personnel Topics - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/18/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/10/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/10/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/7/2015
+  course: 15-1202
+  title: Defensive Driving
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/25/2015
+  course: 15-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/19/2014
+  course: 14-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/12/2014
+  course: 14-0209
+  title: K-9 Use of Force Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/8/2014
+  course: 14-0272
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/30/2014
+  course: 14-1013
+  title: Child Abuse Protocols
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2014
+  course: 14-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/2/2014
+  course: 14-0961
+  title: Trauma Care
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/30/2014
+  course: 14-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/19/2014
+  course: 14-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/11/2014
+  course: 14-1063
+  title: Drug Interdiction
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/2/2014
+  course: 14-1083
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/6/2014
+  course: 14-0562
+  title: Reserve Academy
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2013
+  course: 13-0440
+  title: Ethics for Leaders
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2013
+  course: 13-0463
+  title: Employee Development
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/31/2013
+  course: 13-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/31/2013
+  course: 13-1016
+  title: Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 12/7/2013
+  course: 13-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/19/2013
+  course: 13-0149
+  title: Low Light / Night Shooting / Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/11/2013
+  course: 13-1126
+  title: Driver Level 2 / Vehicle Inspection Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/22/2013
+  course: 13-0101
+  title: Active Shooter - Tactical Response
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/10/2013
+  course: 13-0101
+  title: Active Shooter - Tactical Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/15/2013
+  course: 13-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/30/2013
+  course: 13-0688
+  title: Enforce Underage Drinking Laws (EUDL)
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/6/2013
+  course: 13-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/29/2013
+  course: 13-0271
+  title: Taser M26 Certification
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/13/2013
+  course: 13-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/26/2013
+  course: 13T001
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 2/12/2013
+  course: 13-0684
+  title: Effective Contacts with Mentally Ill Citizens
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/30/2013
+  course: 13-0101
+  title: Active Shooter - Tactical Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/8/2012
+  course: 12-0116
+  title: Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/7/2012
+  course: 12-1126
+  title: Driver Level 2 / Vehicle Inspection Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/24/2012
+  course: 12-1030
+  title: Sexual Assault
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/18/2012
+  course: 12-0151
+  title: Tactical Night Shooting
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/1/2012
+  course: 12-0916
+  title: Domestic Violence
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/15/2012
+  course: 12-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/15/2012
+  course: 12-0252
+  title: Ballistic Door Breaching
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/8/2012
+  course: 12-0268
+  title: Tactical Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/25/2012
+  course: 12-0153
+  title: AR-15 Basic Operator / Qualification
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/9/2012
+  course: 12-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/22/2012
+  course: 12-1122
+  title: Law  Legal - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2012
+  course: 12-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/9/2012
+  course: 12-1224
+  title: Spike Strip / Stop Stick Use
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/2/2012
+  course: 12-0699
+  title: CAD / MDS / MDT System
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/27/2012
+  course: 12-0610
+  title: Child Abuse Summit
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 3/10/2012
+  course: 12-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/7/2012
+  course: 12-0703
+  title: Data System
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/7/2012
+  course: 12-1125
+  title: Forfeitures - Civil / Criminal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/14/2012
+  course: 12-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/16/2011
+  course: 11-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 11/11/2011
+  course: 11-0011
+  title: Intoxilyzer 8000-Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/3/2011
+  course: 11-0010
+  title: SFST/DID- Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/4/2011
+  course: 11-3092
+  title: Radar Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/27/2026
+  expiration_date: 8/26/2028
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 8/25/2011
+  expiration_date: ''
+education_records:
+- date: 5/1/2005
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: History
+  hours: '120.0'
