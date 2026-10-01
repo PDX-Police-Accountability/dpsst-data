@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2026 | OCP2771D | EVO | Instructed | 0.0 | 16.00 |
 | 9/21/2026 | OCP2498D | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 9/16/2026 | OCP3818D | First Officer Response to Crime Scenes | Passed | 0.0 | 0.50 |
 | 9/13/2026 | OCP0099D | ASHER Response Training | Passed | 0.0 | 3.00 |

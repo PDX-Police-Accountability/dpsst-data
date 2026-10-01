@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/17/2026
+  course: RSS2573D
+  title: 2026 OHIA Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 8/31/2026
+  course: TDP3870D
+  title: Dr Ben Stone--:Stronger Hearts, Stronger Leaders
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/1/2026
   course: TDP3395C
   title: Duty to Intervene and Policy Review--2026

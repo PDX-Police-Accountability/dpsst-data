@@ -50,6 +50,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/2/2026 | HBP1992D | Respectful Workplace - Supervisor Trng (Equity) | Passed | 0.0 | 1.00 |
+| 9/2/2026 | HBP0195D | Respectful Workplace - Supervisor Trng (Ldrshp) | Passed | 0.0 | 1.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 6/29/2026 | HBP3405D | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 6/17/2026 | BPT1161C | Operational Peer Support Symposium 2026 | Passed | 0.0 | 8.00 |

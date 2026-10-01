@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/25/2026 | Police Officer | Basic | App Recd |  |  | 10/24/2026 |
+| 9/29/2026 | Police Officer | Basic | Granted | 9/29/2026 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/2/2026 | HBP2104D | Respectful Workplace - Employee Training (Equity) | Passed | 0.0 | 1.00 |
 | 8/4/2026 | PDP0160D | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
 | 7/8/2026 | HBP2056D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
 | 7/8/2026 | HBP4289D | In-Service 2026-3,Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |

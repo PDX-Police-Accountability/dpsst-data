@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2026
+  course: OSH3107D
+  title: SFST Refresher Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/28/2026
   course: NGP3272D
   title: Taser 10 CEW User Certification

@@ -639,6 +639,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/23/2024
+  course: KCP0936D
+  title: Pistol Mounted Optics Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/18/2024
   course: SDP1185A
   title: Handgun Qualification

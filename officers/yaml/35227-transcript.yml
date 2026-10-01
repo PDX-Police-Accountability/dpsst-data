@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/17/2026
+  course: RSS2573D
+  title: 2026 OHIA Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/12/2026
   course: PDA3876D
   title: Use of Force Update

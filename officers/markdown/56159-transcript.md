@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
 | 8/20/2026 | HBP4076D | Retail Theft Symposium | Passed | 0.0 | 6.00 |
 | 5/27/2026 | PDP1698C | ATV Basic Rider Certification | Passed | 0.0 | 9.00 |
 | 5/25/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

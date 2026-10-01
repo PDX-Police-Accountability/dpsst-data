@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2026 | VND0913D | Parole Board Hearings Officer Training | Passed | 0.0 | 7.00 |
 | 7/30/2026 | PDP3513D | SFST Refresher | Passed | 0.0 | 4.00 |
 | 7/20/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 5/24/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

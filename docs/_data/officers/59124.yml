@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2026
+  course: BVP3956D
+  title: Washington County Child Abuse MDT Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/11/2026
   course: BVP0907D
   title: September 2026 Range 091126 PM
@@ -66,8 +72,20 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/26/2026
+  course: SAG1562D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/25/2026
   course: SAG1009D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/25/2026
+  course: SAG3757D
   title: 16th Annual Domestic Violence Academy
   status: Passed
   score: '0.0'
@@ -78,8 +96,20 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/24/2026
+  course: SAG1818D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/23/2026
   course: SAG0099D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/23/2026
+  course: SAG4430D
   title: 16th Annual Domestic Violence Academy
   status: Passed
   score: '0.0'

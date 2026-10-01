@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2026 | OSH3107D | SFST Refresher Course | Passed | 0.0 | 8.00 |
 | 8/28/2026 | NGP3272D | Taser 10 CEW User Certification | Passed | 0.0 | 8.00 |
 | 6/26/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/10/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

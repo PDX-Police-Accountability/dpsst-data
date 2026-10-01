@@ -34,14 +34,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2026 | BVP3956D | Washington County Child Abuse MDT Training | Passed | 0.0 | 8.00 |
 | 9/11/2026 | BVP0907D | September 2026 Range 091126 PM | Passed | 0.0 | 3.00 |
 | 7/24/2026 | BVP0548D | PIT EVOC IST 072426AM | Passed | 0.0 | 3.00 |
 | 7/24/2026 | BVP0753D | PIT EVOC IST 072426PM | Passed | 0.0 | 3.00 |
 | 6/29/2026 | BVP0706D | IST Taser10 Certification 062926 | Passed | 0.0 | 9.00 |
 | 6/26/2026 | SAG3141D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 4.00 |
+| 6/26/2026 | SAG1562D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 4.00 |
 | 6/25/2026 | SAG1009D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
+| 6/25/2026 | SAG3757D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
 | 6/24/2026 | SAG1732D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
+| 6/24/2026 | SAG1818D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
 | 6/23/2026 | SAG0099D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
+| 6/23/2026 | SAG4430D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
 | 5/15/2026 | VND3496C | Washington County CIT Training | Passed | 0.0 | 40.00 |
 | 5/8/2026 | BVP3495C | May 2026 Pistol Range IST 050826PM | Passed | 0.0 | 3.00 |
 | 4/14/2026 | HBP1561C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |

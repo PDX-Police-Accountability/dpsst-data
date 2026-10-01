@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2026 | HBS0584D | RDS Transition Course | Passed | 0.0 | 18.00 |
 | 8/27/2026 | HBS1391D | Leadership Training-EStaff  Mid-Mgrs | Passed | 0.0 | 8.00 |
 | 7/31/2026 | HBS2399D | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 7/1/2026 | HBS2880D | Virtual - ACAP | Passed | 0.0 | 2.00 |
@@ -54,6 +55,7 @@
 | 7/1/2026 | HBS1307D | Virtual - Baton and OC Updates | Passed | 0.0 | 0.50 |
 | 7/1/2026 | HBS4511D | Virtual - PREA | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS1627D | Virtual Cultural Awareness Diversity | Passed | 0.0 | 1.00 |
+| 7/1/2026 | HBS4439D | Virtual - CIT - Crisis Response | Passed | 0.0 | 1.00 |
 | 5/29/2026 | HBS1639C | Inservice Session #1 Firearms | Passed | 0.0 | 4.50 |
 | 5/29/2026 | HBS3443D | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
 | 2/11/2025 | FGP3863A | CPR/First Aid/AED | Passed | 0.0 | 2.00 |

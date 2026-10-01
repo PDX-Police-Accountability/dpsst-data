@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | CAP0250D | Vehicle Close Quarter Combat | Passed | 0.0 | 4.00 |
 | 9/16/2026 | CAP3843D | CIS - Cyber Security Training | Passed | 0.0 | 0.50 |
 | 9/16/2026 | CAP0502D | Creating a Culture of Civility  Respect | Passed | 0.0 | 2.00 |
 | 8/10/2026 | CAP1322D | Implicit Bias | Passed | 0.0 | 1.00 |

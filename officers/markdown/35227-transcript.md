@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 8/12/2026 | PDA3876D | Use of Force Update | Passed | 0.0 | 1.50 |
 | 4/7/2026 | PDA0182C | Government Ethics | Passed | 0.0 | 1.00 |
 | 4/7/2026 | PDA4418D | Government Ethics | Passed | 0.0 | 1.00 |

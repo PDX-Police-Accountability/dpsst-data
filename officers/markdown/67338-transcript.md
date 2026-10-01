@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/22/2026 | PDP3112D | Body Worn Camera | Passed | 0.0 | 3.00 |
+| 9/21/2026 | PDP3550D | FTEP PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 9/17/2026 | PDP3762D | FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/16/2026 | PDP2404D | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 9/15/2026 | PDP4122D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
@@ -39,6 +40,7 @@
 | 9/7/2026 | PDP0220D | FTEP Control Tactics Searches | Passed | 0.0 | 3.00 |
 | 9/2/2026 | PDP0834D | 2026 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.50 |
 | 9/2/2026 | PDP2349D | FTEP Report Writing | Passed | 0.0 | 2.00 |
+| 9/2/2026 | PDP3128D | TEEX MWD/Terrorism Awar for Emer Responders | Passed | 0.0 | 8.00 |
 | 9/1/2026 | PDP0497D | FTEP Post DPSST Control Tactics | Passed | 0.0 | 4.00 |
 | 8/11/2026 | REG4005D | CORE-RADAR-LIDAR Classroom | Passed | 0.0 | 8.00 |
 | 8/6/2026 | REG4461D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |

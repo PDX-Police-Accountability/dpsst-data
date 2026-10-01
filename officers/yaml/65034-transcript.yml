@@ -29,6 +29,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/21/2026
+  course: PDP3550D
+  title: FTEP PVO Stop Sticks Box In
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/17/2026
   course: PDP3762D
   title: FTEP Geography

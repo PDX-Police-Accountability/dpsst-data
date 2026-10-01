@@ -99,20 +99,44 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/26/2026
+  course: SAG1562D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/25/2026
   course: SAG1009D
   title: 16th Annual Domestic Violence Academy
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/25/2026
+  course: SAG3757D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 6/24/2026
   course: SAG1732D
   title: 16th Annual Domestic Violence Academy
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/24/2026
+  course: SAG1818D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/23/2026
   course: SAG0099D
+  title: 16th Annual Domestic Violence Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/23/2026
+  course: SAG4430D
   title: 16th Annual Domestic Violence Academy
   status: Passed
   score: '0.0'

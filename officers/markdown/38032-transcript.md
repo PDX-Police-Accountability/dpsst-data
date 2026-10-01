@@ -36,6 +36,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2026 | REG3223D | Ethics Maintenance Session | Passed | 0.0 | 1.00 |
+| 6/25/2026 | REG4134D | Kirkpatrick Model Overview | Passed | 0.0 | 1.50 |
+| 6/25/2026 | REG4625D | Training Consistancy Workshop | Passed | 0.0 | 2.00 |
+| 6/24/2026 | REG4285D | Curriculum Revision Process | Passed | 0.0 | 1.00 |
+| 6/22/2026 | REG4582D | Equity Maintenance Training | Passed | 0.0 | 2.50 |
+| 6/22/2026 | REG0060D | Student Conduct Training | Passed | 0.0 | 4.00 |
 | 12/29/2025 | BPT2503C | Use of Force Scenario Instructor Workshop | Passed | 0.0 | 16.00 |
 | 11/24/2025 | BPT1519C | Skill Instructor Updates | Passed | 0.0 | 8.00 |
 | 7/11/2025 | REG2387B | Use of Force Instructor Development Course | Passed | 0.0 | 40.00 |

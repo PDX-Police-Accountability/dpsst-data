@@ -43,6 +43,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2026 | REG3223D | Ethics Maintenance Session | Passed | 0.0 | 1.00 |
+| 6/25/2026 | REG4134D | Kirkpatrick Model Overview | Passed | 0.0 | 1.50 |
+| 6/25/2026 | REG4625D | Training Consistancy Workshop | Passed | 0.0 | 2.00 |
+| 6/24/2026 | REG3217D | Use Of Force Maintenance Session | Passed | 0.0 | 2.00 |
+| 6/24/2026 | REG4285D | Curriculum Revision Process | Passed | 0.0 | 1.00 |
+| 6/24/2026 | REG0414D | Use Of Force Maintenance Session | Passed | 0.0 | 2.00 |
+| 6/23/2026 | REG1272D | Safety Training | Passed | 0.0 | 4.00 |
+| 6/22/2026 | REG4582D | Equity Maintenance Training | Passed | 0.0 | 2.50 |
+| 6/22/2026 | REG0060D | Student Conduct Training | Passed | 0.0 | 4.00 |
 | 12/22/2025 | REG1934C | Staff Meeting | Passed | 0.0 | 2.50 |
 | 6/26/2025 | F6K0443B | Staff First Aid/CPR/AED Training | Passed | 0.0 | 4.00 |
 | 6/25/2025 | BPT4299B | Scenario Overview | Instructed | 0.0 | 1.00 |

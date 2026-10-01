@@ -143,6 +143,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/8/2026
+  course: SPP4097D
+  title: Report Writing Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/2/2026
   course: SPP4304D
   title: Body Worn Camera Training

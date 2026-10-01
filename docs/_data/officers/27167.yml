@@ -67,6 +67,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2026
+  course: REG3217D
+  title: Use Of Force Maintenance Session
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/24/2026
+  course: REG4285D
+  title: Curriculum Revision Process
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/24/2026
+  course: REG0414D
+  title: Use Of Force Maintenance Session
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/23/2026
+  course: REG1272D
+  title: Safety Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/22/2026
+  course: REG4582D
+  title: Equity Maintenance Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 6/22/2026
+  course: REG0060D
+  title: Student Conduct Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/26/2025
   course: F6K0443B
   title: Staff First Aid/CPR/AED Training

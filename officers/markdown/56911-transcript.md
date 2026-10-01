@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
 | 8/2/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 7/28/2026 | EGP0601D | Police Motorcade Training | Passed | 0.0 | 6.00 |
 | 7/15/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Instructed | 0.0 | 14.00 |

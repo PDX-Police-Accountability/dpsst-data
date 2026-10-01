@@ -54,6 +54,7 @@
 | 7/1/2026 | HBS1307D | Virtual - Baton and OC Updates | Passed | 0.0 | 0.50 |
 | 7/1/2026 | HBS4511D | Virtual - PREA | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS1627D | Virtual Cultural Awareness Diversity | Passed | 0.0 | 1.00 |
+| 7/1/2026 | HBS4439D | Virtual - CIT - Crisis Response | Passed | 0.0 | 1.00 |
 | 4/30/2026 | HBS0920C | IMT - Tactical Operations Center Level I | Passed | 0.0 | 2.00 |
 | 4/30/2026 | HBS3555C | IMT Training | Passed | 0.0 | 5.00 |
 | 4/12/2026 | HBS0595C | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |

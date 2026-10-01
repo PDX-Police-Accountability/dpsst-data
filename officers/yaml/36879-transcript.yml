@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/17/2026
+  course: UPR2613D
+  title: Glock 47 Handgun RCR Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/22/2026
   course: UPR3579C
   title: Handgun Qualification

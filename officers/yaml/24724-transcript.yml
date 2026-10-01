@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2026
+  course: HBS0584D
+  title: RDS Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 8/27/2026
   course: HBS1391D
   title: Leadership Training-EStaff  Mid-Mgrs
@@ -170,6 +176,12 @@ training_records:
 - date: 7/1/2026
   course: HBS1627D
   title: Virtual Cultural Awareness Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2026
+  course: HBS4439D
+  title: Virtual - CIT - Crisis Response
   status: Passed
   score: '0.0'
   hours: '1.00'

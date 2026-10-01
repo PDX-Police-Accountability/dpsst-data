@@ -38,6 +38,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2026 | HBP1986D | Preventing the Plea | Passed | 0.0 | 5.50 |
+| 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 6.00 |
+| 9/3/2026 | HBP1010D | 764 Extremist Network | Passed | 0.0 | 2.00 |
+| 9/2/2026 | HBP2104D | Respectful Workplace - Employee Training (Equity) | Passed | 0.0 | 1.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 4/29/2026 | HBP0407C | In-Service 2026-2, Range | Passed | 0.0 | 4.00 |
 | 3/6/2026 | HBP3735C | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |

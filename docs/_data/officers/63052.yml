@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/5/2026
+  course: PDP1989D
+  title: 2026 Patrol Rifle New Operator Courses
+  status: Passed
+  score: '0.0'
+  hours: '54.00'
 - date: 7/21/2026
   course: PDP1602D
   title: 2026 Satellite Firearms Instructor School

@@ -134,6 +134,7 @@
 | 9/30/2024 | REG2276A | DT | Passed | 0.0 | 1.00 |
 | 9/25/2024 | SDP2089A | Rifle Update and Skills Training | Passed | 0.0 | 4.00 |
 | 9/23/2024 | REG0204A | Weapon Retention  Control | Passed | 0.0 | 1.00 |
+| 9/23/2024 | KCP0936D | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 16.00 |
 | 9/18/2024 | SDP1185A | Handgun Qualification | Instructed | 0.0 | 1.50 |
 | 9/16/2024 | REG2545A | Control Tactic Ground w/Weapons | Passed | 0.0 | 1.00 |
 | 9/11/2024 | SDP2538A | HB 4002 Drug Possession Law and Deflection Update | Passed | 0.0 | 1.00 |

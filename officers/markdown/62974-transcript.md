@@ -33,6 +33,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/21/2026 | OCP2498D | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
+| 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
+| 9/12/2026 | OCP3672D | Halligan Tool Familiarization / Forcible Entry | Passed | 0.0 | 1.00 |
 | 8/27/2026 | OCP1670D | Huerta-Contretas  Almestica Case Law Update | Passed | 0.0 | 0.75 |
 | 8/27/2026 | OCP4506D | 40 MM / OC re-certification | Passed | 0.0 | 0.75 |
 | 8/27/2026 | OCP2870D | Defensive Tactics | Passed | 0.0 | 0.75 |

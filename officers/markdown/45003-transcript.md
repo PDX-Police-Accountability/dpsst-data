@@ -44,6 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2026 | BVP3956D | Washington County Child Abuse MDT Training | Passed | 0.0 | 8.00 |
+| 9/3/2026 | HBP1010D | 764 Extremist Network | Passed | 0.0 | 2.00 |
+| 9/2/2026 | HBP0195D | Respectful Workplace - Supervisor Trng (Ldrshp) | Passed | 0.0 | 1.00 |
+| 9/2/2026 | HBP1992D | Respectful Workplace - Supervisor Trng (Equity) | Passed | 0.0 | 1.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 7/28/2026 | REG0736D | DPSST 2026 Cyber Summit | Passed | 0.0 | 8.00 |
 | 4/27/2026 | HBP4419D | Supervisor Complaint Trng - Internal  External | Passed | 0.0 | 4.00 |

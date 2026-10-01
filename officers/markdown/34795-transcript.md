@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/15/2026 | West Linn Police Department | Retired | Sergeant |  |  |
 | 7/7/2025 | West Linn Police Department | Hired | Sergeant |  |  |
 | 7/2/2025 | Clackamas County Sheriff's Office | Retired | Dpty Shrf |  |  |
 | 9/14/2024 | Clackamas County Sheriff's Office | Demotn Vol | Dpty Shrf |  |  |
@@ -22,10 +23,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/30/2013 | Police Officer | Supervisory | Granted | 9/30/2013 |  |  |
-| 12/14/2007 | Police Officer | Advanced | Granted | 12/14/2007 |  |  |
-| 3/10/2004 | Police Officer | Intermediate | Granted | 3/10/2004 |  |  |
-| 4/19/2000 | Police Officer | Basic | Granted | 4/19/2000 |  |  |
+| 9/30/2013 | Police Officer | Supervisory | Granted | 9/30/2013 | 12/15/2026 |  |
+| 12/14/2007 | Police Officer | Advanced | Granted | 12/14/2007 | 12/15/2026 |  |
+| 3/10/2004 | Police Officer | Intermediate | Granted | 3/10/2004 | 12/15/2026 |  |
+| 4/19/2000 | Police Officer | Basic | Granted | 4/19/2000 | 12/15/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -43,9 +43,13 @@
 | 9/10/2026 | EGP0700D | MRT Field Force Skills  Scenario Training | Passed | 0.0 | 3.00 |
 | 7/31/2026 | EGP3228D | LEDS Recertification  CJIS Training | Passed | 0.0 | 1.00 |
 | 6/26/2026 | SAG3141D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 4.00 |
+| 6/26/2026 | SAG1562D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 4.00 |
 | 6/25/2026 | SAG1009D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
+| 6/25/2026 | SAG3757D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 2.50 |
 | 6/24/2026 | SAG1732D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
+| 6/24/2026 | SAG1818D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
 | 6/23/2026 | SAG0099D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
+| 6/23/2026 | SAG4430D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
 | 5/14/2026 | EGP3725C | DT Skills/ACAP | Passed | 0.0 | 3.00 |
 | 5/14/2026 | EGP3726C | MRT Updates | Passed | 0.0 | 0.50 |
 | 4/30/2026 | EGP0484C | SWAT Search Skills | Passed | 0.0 | 4.00 |

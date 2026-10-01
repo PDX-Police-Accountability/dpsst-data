@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2026 | STS1031D | FIREARMS | Passed | 0.0 | 4.00 |
+| 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 6/22/2026 | STS4101D | LEDS Inquiry Only-- Recertification | Passed | 0.0 | 1.00 |
 | 5/20/2026 | OSA3015C | J.D. Edwards Practical Wellness for LE | Passed | 0.0 | 3.50 |
 | 5/19/2026 | OCS4010C | Enforcement Command Council | Passed | 0.0 | 6.00 |

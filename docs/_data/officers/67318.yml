@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/21/2026
+  course: PDP3550D
+  title: FTEP PVO Stop Sticks Box In
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/17/2026
   course: PDP3762D
   title: FTEP Geography
@@ -90,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/2/2026
+  course: PDP3128D
+  title: TEEX MWD/Terrorism Awar for Emer Responders
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/1/2026
   course: PDP0497D
   title: FTEP Post DPSST Control Tactics

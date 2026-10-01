@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/15/2026
+  agency: West Linn Police Department
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 7/7/2025
   agency: West Linn Police Department
   action: Hired
@@ -57,28 +63,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 9/30/2013
-  expiration_date: ''
+  expiration_date: 12/15/2026
   probation_date: ''
 - status_date: 12/14/2007
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 12/14/2007
-  expiration_date: ''
+  expiration_date: 12/15/2026
   probation_date: ''
 - status_date: 3/10/2004
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 3/10/2004
-  expiration_date: ''
+  expiration_date: 12/15/2026
   probation_date: ''
 - status_date: 4/19/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 4/19/2000
-  expiration_date: ''
+  expiration_date: 12/15/2026
   probation_date: ''
 training_records:
 - date: 9/15/2026

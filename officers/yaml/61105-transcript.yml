@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2026
+  course: 33530D
+  title: Oregon Police Canine Association Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/16/2026
   course: NGP2994D
   title: Taser 10 CEW User Certification

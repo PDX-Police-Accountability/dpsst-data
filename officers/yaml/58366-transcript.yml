@@ -75,9 +75,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/17/2026
+  course: RSS2573D
+  title: 2026 OHIA Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/27/2026
   course: OSH1638D
   title: Luring a Minor Through Text
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/27/2026
+  course: OSH1843D
+  title: Crime Scene Processing
   status: Passed
   score: '0.0'
   hours: '1.00'

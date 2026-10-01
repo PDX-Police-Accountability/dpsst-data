@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/17/2026
+  course: RSS2573D
+  title: 2026 OHIA Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 2/3/2026
   course: SAG2918C
   title: First Aid  CPR

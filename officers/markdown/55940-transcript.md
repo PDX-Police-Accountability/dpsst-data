@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2026 | PDP0741D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/3/2026 | PDP0796D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 6.00 |
 | 9/3/2026 | PDP0796D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 6.00 |
 | 8/20/2026 | PDP4176D | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |

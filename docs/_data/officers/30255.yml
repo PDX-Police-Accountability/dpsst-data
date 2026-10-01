@@ -94,6 +94,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/25/2026
+  course: REG3223D
+  title: Ethics Maintenance Session
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2026
+  course: REG4134D
+  title: Kirkpatrick Model Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/25/2026
+  course: REG4625D
+  title: Training Consistancy Workshop
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/24/2026
+  course: REG3217D
+  title: Use Of Force Maintenance Session
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/24/2026
+  course: REG4285D
+  title: Curriculum Revision Process
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/24/2026
+  course: REG0414D
+  title: Use Of Force Maintenance Session
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/23/2026
+  course: REG1272D
+  title: Safety Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/22/2026
+  course: REG4582D
+  title: Equity Maintenance Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 6/22/2026
+  course: REG0060D
+  title: Student Conduct Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/22/2025
   course: REG1934C
   title: Staff Meeting
