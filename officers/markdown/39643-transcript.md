@@ -45,9 +45,22 @@
 | 8/30/2026 | SDP1695D | Crisis Intervention Response for Veterans | Passed | 0.0 | 1.00 |
 | 8/20/2026 | SDP3021D | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 6.00 |
 | 8/12/2026 | SDP0607D | SFST Refresher | Passed | 0.0 | 4.00 |
+| 6/25/2026 | REG2137D | Ground Control | Passed | 0.0 | 1.00 |
+| 6/18/2026 | REG0250D | Ground Control Choke Defense | Passed | 0.0 | 1.00 |
 | 6/10/2026 | SDP4470D | Rifle/Handgun Range Day | Passed | 0.0 | 8.00 |
+| 5/14/2026 | REG0228D | Positional control | Passed | 0.0 | 1.00 |
+| 4/20/2026 | BPT2932D | Ground Control | Passed | 0.0 | 1.00 |
 | 4/16/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
+| 4/16/2026 | BPT1590D | Ground Control | Passed | 0.0 | 1.00 |
+| 4/13/2026 | BPT3069D | Ground Control | Passed | 0.0 | 1.00 |
+| 3/30/2026 | BPT1923D | Snap Down to take down | Passed | 0.0 | 1.00 |
+| 3/30/2026 | BPT2051D | Snap Down to take down | Passed | 0.0 | 1.00 |
+| 3/23/2026 | BPT0453D | Wall control | Passed | 0.0 | 1.00 |
 | 3/12/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 3/12/2026 | BPT3320D | Ground and Standing Sweeps | Passed | 0.0 | 1.00 |
+| 3/2/2026 | BPT3274D | Ground and Standing control | Passed | 0.0 | 1.00 |
+| 2/26/2026 | BPT2028D | Ground control | Passed | 0.0 | 1.00 |
+| 2/23/2026 | BPT2788D | Take down, Take down defense | Passed | 0.0 | 1.00 |
 | 2/20/2026 | PDP3022C | 2026 Investigators IS Control Tactics | Passed | 0.0 | 2.00 |
 | 2/20/2026 | PDP4231C | 2026 Investigators IS Exemption Review/Legal | Passed | 0.0 | 1.00 |
 | 2/20/2026 | PDP2663C | 2026 Investigators IS Digital Tata Analysis | Passed | 0.0 | 1.00 |
@@ -56,11 +69,18 @@
 | 2/19/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/12/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/12/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 2/12/2026 | BPT4275D | Ground and Standing Sweeps | Passed | 0.0 | 1.00 |
+| 2/9/2026 | BPT3506D | Ground control | Passed | 0.0 | 1.00 |
 | 2/5/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
+| 2/2/2026 | BPT3015D | Ground control | Passed | 0.0 | 1.00 |
+| 1/20/2026 | BPT2296D | Positional control | Passed | 0.0 | 1.00 |
+| 1/12/2026 | BPT3810D | Standing/ Ground control | Passed | 0.0 | 1.00 |
 | 1/8/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/8/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 1/8/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 1/8/2026 | PDP2069C | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
+| 1/8/2026 | BPT2091D | Standing/ Ground control | Passed | 0.0 | 1.00 |
+| 1/5/2026 | BPT1952D | Standing/ Ground control | Passed | 0.0 | 1.00 |
 | 12/30/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/29/2025 | BPT4026C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
 | 12/29/2025 | BPT2670C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |

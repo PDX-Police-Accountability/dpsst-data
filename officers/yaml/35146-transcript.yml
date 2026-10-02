@@ -69,10 +69,28 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/28/2026
+  course: GPN3531D
+  title: Tactical First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/28/2026
+  course: GPN2407D
+  title: Rifle IDC
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 9/1/2026
   course: CPP3172D
   title: Glock Armorer
   status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/20/2026
+  course: GPN0475D
+  title: Firearms/Use of Force
+  status: Instructed
   score: '0.0'
   hours: '8.00'
 - date: 8/6/2026
@@ -93,9 +111,27 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/3/2026
+  course: GPN3733D
+  title: Con Sims
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/2/2026
+  course: GPN3733D
+  title: Con Sims
+  status: Instructed
+  score: '0.0'
+  hours: '22.00'
 - date: 5/13/2026
   course: UOP0349C
   title: Patient Evaluation for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/12/2026
+  course: GPN2450D
+  title: Search and Seizure
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -105,12 +141,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 4/23/2026
+  course: GPN3810D
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/8/2026
   course: GPN0718C
   title: PSC - R
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/18/2026
+  course: GPN0029D
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/7/2026
+  course: GPN3060D
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2026
+  course: GPN3237D
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/10/2025
   course: GPN1735C
   title: Taser Operator course

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2026 | OCP1288D | Firearms/Use of Force | Instructed | 0.0 | 5.00 |
 | 9/27/2026 | OCP2771D | EVO | Instructed | 0.0 | 16.00 |
 | 9/21/2026 | OCP2498D | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 9/16/2026 | OCP3818D | First Officer Response to Crime Scenes | Passed | 0.0 | 0.50 |

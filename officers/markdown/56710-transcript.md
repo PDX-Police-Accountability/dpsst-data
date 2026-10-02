@@ -43,6 +43,15 @@
 | 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP0093D | Crisis Intervention Response for Youth | Passed | 0.0 | 1.00 |
 | 6/24/2026 | SDP4470D | Rifle/Handgun Range Day | Passed | 0.0 | 8.00 |
+| 6/18/2026 | REG0250D | Ground Control Choke Defense | Passed | 0.0 | 1.00 |
+| 6/8/2026 | REG2945D | Striking defense from the ground | Passed | 0.0 | 1.00 |
+| 6/1/2026 | REG1824D | Ground Control | Passed | 0.0 | 1.00 |
+| 5/28/2026 | REG1027D | Ground Control | Passed | 0.0 | 1.00 |
+| 5/25/2026 | REG2229D | Ground Control | Passed | 0.0 | 1.00 |
+| 5/21/2026 | REG4363D | Ground Control | Passed | 0.0 | 1.00 |
+| 5/14/2026 | REG0228D | Positional control | Passed | 0.0 | 1.00 |
+| 5/7/2026 | REG0507D | Side Control | Passed | 0.0 | 1.00 |
+| 5/7/2026 | REG2742D | Side Control | Passed | 0.0 | 1.00 |
 | 2/25/2026 | SDP2988C | Taser 7 Recertification | Passed | 0.0 | 4.00 |
 | 1/28/2026 | SDP1945C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |
 | 1/28/2026 | SDP0241C | DV Legal update DDA Presentation | Passed | 0.0 | 1.50 |
@@ -50,6 +59,8 @@
 | 1/28/2026 | SDP0965C | Bloodborne Pathogens - CIS Learn Portal | Passed | 0.0 | 1.00 |
 | 1/14/2026 | SDP1962C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |
 | 1/14/2026 | SDP0188C | DV Legal update DDA Presentation | Passed | 0.0 | 1.50 |
+| 1/8/2026 | BPT2091D | Standing/ Ground control | Passed | 0.0 | 1.00 |
+| 1/5/2026 | BPT1952D | Standing/ Ground control | Passed | 0.0 | 1.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/6/2025 | SDP2766C | Alison - Ethics in Law Enforcement Online Course | Passed | 0.0 | 3.00 |
 | 10/22/2025 | SDP4358C | Amber Alert  PREA | Passed | 0.0 | 1.00 |

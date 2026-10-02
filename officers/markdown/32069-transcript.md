@@ -42,20 +42,38 @@
 | 8/30/2026 | SDP0093D | Crisis Intervention Response for Youth | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP1695D | Crisis Intervention Response for Veterans | Passed | 0.0 | 1.00 |
+| 6/29/2026 | REG3361D | Ground Control | Passed | 0.0 | 1.00 |
+| 6/29/2026 | REG3258D | Grip Control | Passed | 0.0 | 1.00 |
+| 6/25/2026 | REG2137D | Ground Control | Passed | 0.0 | 1.00 |
 | 6/24/2026 | SDP4470D | Rifle/Handgun Range Day | Passed | 0.0 | 8.00 |
 | 6/16/2026 | SDP0742C | LEDS Certification Inquiry and Entry Level | Passed | 0.0 | 12.00 |
+| 6/11/2026 | REG0550D | Defensive Tactics | Passed | 0.0 | 1.00 |
+| 6/11/2026 | REG2703D | Striking defense from the ground | Passed | 0.0 | 1.00 |
+| 6/1/2026 | REG1824D | Ground Control | Passed | 0.0 | 1.00 |
+| 5/25/2026 | REG2229D | Ground Control | Passed | 0.0 | 1.00 |
 | 5/14/2026 | OAC0862C | Tackling the #1 Killer of Active  Ret LE | Passed | 0.0 | 3.00 |
 | 5/14/2026 | OAC4552C | Creating Thriving Police Cultures | Passed | 0.0 | 2.00 |
 | 5/14/2026 | OAC2790C | AI for Investigations  Report Writing | Passed | 0.0 | 1.00 |
 | 5/13/2026 | OAC2101C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 2.50 |
 | 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
+| 5/4/2026 | REG1862D | Side Control Top | Passed | 0.0 | 1.00 |
+| 4/20/2026 | BPT2932D | Ground Control | Passed | 0.0 | 1.00 |
+| 4/13/2026 | BPT3069D | Ground Control | Passed | 0.0 | 1.00 |
+| 4/6/2026 | REG4055D | Ground Control | Passed | 0.0 | 1.00 |
+| 3/30/2026 | BPT1923D | Snap Down to take down | Passed | 0.0 | 1.00 |
+| 3/30/2026 | BPT2051D | Snap Down to take down | Passed | 0.0 | 1.00 |
+| 3/23/2026 | BPT0453D | Wall control | Passed | 0.0 | 1.00 |
 | 3/11/2026 | LOP2089D | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
+| 3/9/2026 | BPT3840D | Ground and Standing control | Passed | 0.0 | 1.00 |
+| 3/2/2026 | BPT3274D | Ground and Standing control | Passed | 0.0 | 1.00 |
 | 2/25/2026 | SDP4058C | K9 Track Training | Passed | 0.0 | 1.00 |
+| 2/23/2026 | BPT2788D | Take down, Take down defense | Passed | 0.0 | 1.00 |
 | 2/18/2026 | SDP1268C | Taser - Operator  Re-Certification | Passed | 0.0 | 4.00 |
 | 1/28/2026 | SDP1945C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |
 | 1/28/2026 | SDP0241C | DV Legal update DDA Presentation | Passed | 0.0 | 1.50 |
 | 1/28/2026 | SDP0965C | Bloodborne Pathogens - CIS Learn Portal | Passed | 0.0 | 1.00 |
 | 1/28/2026 | SDP0406C | Contemporary Diversity, Equity, Inclusion Concerns | Passed | 0.0 | 3.00 |
+| 1/12/2026 | BPT3810D | Standing/ Ground control | Passed | 0.0 | 1.00 |
 | 12/29/2025 | BPT4026C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
 | 12/29/2025 | BPT2670C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
 | 12/22/2025 | BPT0330C | Clinch Control | Passed | 0.0 | 1.00 |

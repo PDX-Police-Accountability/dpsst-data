@@ -39,13 +39,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2026 | GPN3531D | Tactical First Aid | Passed | 0.0 | 1.00 |
+| 9/28/2026 | GPN2407D | Rifle IDC | Passed | 0.0 | 3.50 |
 | 9/1/2026 | CPP3172D | Glock Armorer | Passed | 0.0 | 8.00 |
+| 8/20/2026 | GPN0475D | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 8/6/2026 | GPN2794D | Alison Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 7/29/2026 | TRN2687D | Dashboards  Reports Training | Passed | 0.0 | 1.00 |
 | 7/28/2026 | GPN2995D | Secondary Trauma  Resiliency | Passed | 0.0 | 2.00 |
+| 6/3/2026 | GPN3733D | Con Sims | Passed | 0.0 | 3.00 |
+| 6/2/2026 | GPN3733D | Con Sims | Instructed | 0.0 | 22.00 |
 | 5/13/2026 | UOP0349C | Patient Evaluation for Law Enforcement | Passed | 0.0 | 2.00 |
+| 5/12/2026 | GPN2450D | Search and Seizure | Passed | 0.0 | 2.00 |
 | 5/8/2026 | REG3877D | Patrol Rifle Instructor Development Course | Passed | 0.0 | 30.00 |
+| 4/23/2026 | GPN3810D | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 4/8/2026 | GPN0718C | PSC - R | Passed | 0.0 | 1.00 |
+| 3/18/2026 | GPN0029D | Defensive Tactics | Instructed | 0.0 | 9.00 |
+| 1/7/2026 | GPN3060D | Firearms/Use of Force | Passed | 0.0 | 1.00 |
+| 1/7/2026 | GPN3237D | Firearms/Use of Force | Passed | 0.0 | 3.00 |
 | 12/10/2025 | GPN1735C | Taser Operator course | Instructed | 0.0 | 8.00 |
 | 12/1/2025 | GPN0565C | Taser VR | Instructed | 0.0 | 6.00 |
 | 11/18/2025 | GPN0969C | M57 Process  Unclassified Misdeanor Training | Passed | 0.0 | 1.00 |

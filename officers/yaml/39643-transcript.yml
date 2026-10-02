@@ -98,24 +98,102 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/25/2026
+  course: REG2137D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/18/2026
+  course: REG0250D
+  title: Ground Control Choke Defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/10/2026
   course: SDP4470D
   title: Rifle/Handgun Range Day
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/14/2026
+  course: REG0228D
+  title: Positional control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/20/2026
+  course: BPT2932D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/16/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/16/2026
+  course: BPT1590D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2026
+  course: BPT3069D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/30/2026
+  course: BPT1923D
+  title: Snap Down to take down
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/30/2026
+  course: BPT2051D
+  title: Snap Down to take down
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/23/2026
+  course: BPT0453D
+  title: Wall control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/12/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/12/2026
+  course: BPT3320D
+  title: Ground and Standing Sweeps
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/2/2026
+  course: BPT3274D
+  title: Ground and Standing control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2026
+  course: BPT2028D
+  title: Ground control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/23/2026
+  course: BPT2788D
+  title: Take down, Take down defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/20/2026
   course: PDP3022C
   title: 2026 Investigators IS Control Tactics
@@ -164,12 +242,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/12/2026
+  course: BPT4275D
+  title: Ground and Standing Sweeps
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/9/2026
+  course: BPT3506D
+  title: Ground control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/5/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/2/2026
+  course: BPT3015D
+  title: Ground control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/20/2026
+  course: BPT2296D
+  title: Positional control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/12/2026
+  course: BPT3810D
+  title: Standing/ Ground control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/8/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting
@@ -194,6 +302,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/8/2026
+  course: BPT2091D
+  title: Standing/ Ground control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/5/2026
+  course: BPT1952D
+  title: Standing/ Ground control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/30/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

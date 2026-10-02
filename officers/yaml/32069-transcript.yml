@@ -87,6 +87,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/29/2026
+  course: REG3361D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/29/2026
+  course: REG3258D
+  title: Grip Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2026
+  course: REG2137D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/24/2026
   course: SDP4470D
   title: Rifle/Handgun Range Day
@@ -99,6 +117,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '12.00'
+- date: 6/11/2026
+  course: REG0550D
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/11/2026
+  course: REG2703D
+  title: Striking defense from the ground
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/1/2026
+  course: REG1824D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/25/2026
+  course: REG2229D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/14/2026
   course: OAC0862C
   title: 'Tackling the #1 Killer of Active  Ret LE'
@@ -129,15 +171,75 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/4/2026
+  course: REG1862D
+  title: Side Control Top
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/20/2026
+  course: BPT2932D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2026
+  course: BPT3069D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/6/2026
+  course: REG4055D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/30/2026
+  course: BPT1923D
+  title: Snap Down to take down
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/30/2026
+  course: BPT2051D
+  title: Snap Down to take down
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/23/2026
+  course: BPT0453D
+  title: Wall control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/11/2026
   course: LOP2089D
   title: EVOC with Use of Force Scenarios
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/9/2026
+  course: BPT3840D
+  title: Ground and Standing control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/2/2026
+  course: BPT3274D
+  title: Ground and Standing control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/25/2026
   course: SDP4058C
   title: K9 Track Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/23/2026
+  course: BPT2788D
+  title: Take down, Take down defense
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -171,6 +273,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/12/2026
+  course: BPT3810D
+  title: Standing/ Ground control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/29/2025
   course: BPT4026C
   title: Standing and Ground Sparring

@@ -76,6 +76,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2026
+  course: APD3418D
+  title: Integrating Communications, Assessment and Tactics
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 9/22/2026
+  course: APD3557D
+  title: Integrating Communications, Assessment and Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/30/2026
   course: APD4224C
   title: Investigator / Detective Conference 4/28 to 4/30

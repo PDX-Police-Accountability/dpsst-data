@@ -48,18 +48,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/1/2026
+  course: REG1824D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2026
+  course: REG1027D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/25/2026
+  course: REG2229D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/21/2026
+  course: REG4363D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/18/2026
   course: PDP1781D
   title: 2026-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/18/2026
+  course: REG0632D
+  title: Sweeps
+  status: ''
+  score: '0.0'
+  hours: '1.00'
+- date: 5/7/2026
+  course: REG0507D
+  title: Side Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/7/2026
+  course: REG2742D
+  title: Side Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/6/2026
   course: PDP0605C
   title: 2026 Traffic Monthly Motor Training Roster
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/4/2026
+  course: REG1862D
+  title: Side Control Top
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2026
+  course: REG0149D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/28/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

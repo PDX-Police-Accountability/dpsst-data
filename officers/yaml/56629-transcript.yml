@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/17/2026
+  course: PDP4614D
+  title: OHIA Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/9/2026
   course: PDP3623D
   title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng

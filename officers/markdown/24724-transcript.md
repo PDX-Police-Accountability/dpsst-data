@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2026 | HBS1206D | Finance Training | Passed | 0.0 | 1.00 |
 | 9/15/2026 | HBS0584D | RDS Transition Course | Passed | 0.0 | 18.00 |
 | 8/27/2026 | HBS1391D | Leadership Training-EStaff  Mid-Mgrs | Passed | 0.0 | 8.00 |
 | 7/31/2026 | HBS2399D | LEDs Recertification | Passed | 0.0 | 2.00 |
