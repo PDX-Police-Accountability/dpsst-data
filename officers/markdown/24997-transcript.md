@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2026 | PPP0689D | AB4 | Passed | 0.0 | 1.00 |
 | 6/17/2026 | PPP4371C | Rapid Response Team Refresher Training | Passed | 0.0 | 10.00 |
 | 6/2/2026 | PPP3243C | OC Deployment and Rendering Aid | Passed | 0.0 | 0.50 |
 | 4/6/2026 | PPP1137C | RRT April Training | Passed | 0.0 | 10.00 |

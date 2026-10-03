@@ -102,7 +102,6 @@
 | 4/7/2026 | PDP0364D | 2021 Online IS Training Procedural Justice Part 3 | Passed | 0.0 | 0.25 |
 | 4/4/2026 | PDP3960D | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
 | 4/4/2026 | PDP0925D | 2025-07 CAO Legal Updates for 08-09/2024 | Passed | 0.0 | 0.50 |
-| 4/3/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/3/2026 | PDP2006D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 4/3/2026 | PDP0045D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 4/3/2026 | PDP0725D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |

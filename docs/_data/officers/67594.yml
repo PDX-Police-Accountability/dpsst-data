@@ -73,12 +73,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 6/22/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 6/22/2026
   course: PDP1803D
   title: 2018-5 TT 100% Collection  Submission Model FA
   status: Passed

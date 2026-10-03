@@ -85,8 +85,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 5/7/2026
-  course: REG0507D
-  title: Side Control
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

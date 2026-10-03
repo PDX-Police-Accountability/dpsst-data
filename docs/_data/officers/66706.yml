@@ -187,12 +187,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/27/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/27/2026
   course: PDP0978D
   title: 2021 Online IS Training Procedural Justice Part 1
   status: Passed
@@ -519,12 +513,6 @@ training_records:
 - date: 4/15/2026
   course: PDP0466D
   title: 2023-11 CAO Legal Updates for 11/2023
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/14/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

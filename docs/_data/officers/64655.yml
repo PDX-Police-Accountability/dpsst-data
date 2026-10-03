@@ -37,8 +37,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 9/25/2026
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: OSH4259D
+  title: SFST Refresher Course
   status: Passed
   score: '0.0'
   hours: '8.00'

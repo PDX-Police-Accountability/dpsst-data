@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/16/2026
+  course: PPP0689D
+  title: AB4
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/14/2026
   course: OAC4552C
   title: Creating Thriving Police Cultures

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2026 | PPP0689D | AB4 | Passed | 0.0 | 1.00 |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
 | 3/13/2026 | LOP1672C | EVOC | Passed | 0.0 | 4.00 |
 | 2/9/2026 | PPP4466C | Active Shooter and Winning Mindset | Passed | 0.0 | 4.00 |

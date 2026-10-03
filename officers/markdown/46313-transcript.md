@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2026 | PPP0689D | AB4 | Passed | 0.0 | 1.00 |
 | 6/13/2026 | PPP1255C | Duty to Render Aid and Duty to Intervene | Passed | 0.0 | 0.50 |
 | 6/2/2026 | PPP3243C | OC Deployment and Rendering Aid | Passed | 0.0 | 0.50 |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |

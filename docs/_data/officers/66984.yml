@@ -228,12 +228,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 5/5/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 5/5/2026
   course: PDP2006D
   title: 2019-4 TT Emailing Security Reports
   status: Passed
@@ -422,12 +416,6 @@ training_records:
 - date: 4/28/2026
   course: PDP2743D
   title: 2018 TOD 100% Collection  Submission Model Video
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/28/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

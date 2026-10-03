@@ -35,7 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/23/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
+| 9/23/2026 | MNS1304D | Oregon Police Canine Association Conference | Passed | 0.0 | 24.00 |
 | 7/16/2026 | NGP2994D | Taser 10 CEW User Certification | Instructed | 0.0 | 8.00 |
 | 7/14/2026 | NGP2440D | Resiliency | Passed | 0.0 | 3.00 |
 | 7/7/2026 | NGP4429D | Patrol Rifle | Passed | 0.0 | 4.00 |

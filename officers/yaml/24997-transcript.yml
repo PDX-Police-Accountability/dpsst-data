@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/16/2026
+  course: PPP0689D
+  title: AB4
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/17/2026
   course: PPP4371C
   title: Rapid Response Team Refresher Training

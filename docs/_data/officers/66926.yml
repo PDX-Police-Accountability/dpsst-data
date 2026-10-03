@@ -115,12 +115,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 5/18/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 5/18/2026
   course: PDP0725D
   title: 2019-5 TT Enforcement of Protection Orders
   status: Passed
@@ -213,12 +207,6 @@ training_records:
 - date: 5/11/2026
   course: PDP0978D
   title: 2021 Online IS Training Procedural Justice Part 1
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 5/11/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

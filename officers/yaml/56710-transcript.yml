@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2026
+  course: SDP1092D
+  title: HB2513 - ACAP Training Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/30/2026
   course: SDP1695D
   title: Crisis Intervention Response for Veterans
@@ -135,8 +141,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 5/7/2026
-  course: REG0507D
-  title: Side Control
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

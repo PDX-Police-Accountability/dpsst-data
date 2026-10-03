@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2026 | OSH4600D | FA3 | Instructed | 0.0 | 3.00 |
 | 9/16/2026 | OSH0659D | OSP Ethics 2026 | Passed | 0.0 | 1.00 |
 | 9/9/2026 | OSH0417D | HRVS Refresher | Instructed | 0.0 | 1.00 |
 | 6/15/2026 | OSH3913C | DT2-Taser | Passed | 0.0 | 4.00 |

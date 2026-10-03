@@ -41,7 +41,7 @@
 | 5/21/2026 | REG4363D | Ground Control | Passed | 0.0 | 1.00 |
 | 5/18/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/18/2026 | REG0632D | Sweeps |  | 0.0 | 1.00 |
-| 5/7/2026 | REG0507D | Side Control | Passed | 0.0 | 1.00 |
+| 5/7/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 5/7/2026 | REG2742D | Side Control | Passed | 0.0 | 1.00 |
 | 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 5/4/2026 | REG1862D | Side Control Top | Passed | 0.0 | 1.00 |

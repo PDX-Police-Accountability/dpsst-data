@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2026
+  course: OSH4600D
+  title: FA3
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/16/2026
   course: OSH0659D
   title: OSP Ethics 2026

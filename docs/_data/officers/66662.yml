@@ -415,12 +415,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/20/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/20/2026
   course: PDP1803D
   title: 2018-5 TT 100% Collection  Submission Model FA
   status: Passed
@@ -519,12 +513,6 @@ training_records:
 - date: 4/9/2026
   course: PDP4023D
   title: 2021 The Advanced SEND Protocol Video
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/9/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

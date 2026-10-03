@@ -39,8 +39,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 9/23/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: MNS1304D
+  title: Oregon Police Canine Association Conference
   status: Passed
   score: '0.0'
   hours: '24.00'

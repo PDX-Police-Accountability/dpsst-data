@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | SDP1092D | HB2513 - ACAP Training Video | Passed | 0.0 | 2.00 |
 | 8/30/2026 | SDP1695D | Crisis Intervention Response for Veterans | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP0093D | Crisis Intervention Response for Youth | Passed | 0.0 | 1.00 |
@@ -50,7 +51,7 @@
 | 5/25/2026 | REG2229D | Ground Control | Passed | 0.0 | 1.00 |
 | 5/21/2026 | REG4363D | Ground Control | Passed | 0.0 | 1.00 |
 | 5/14/2026 | REG0228D | Positional control | Passed | 0.0 | 1.00 |
-| 5/7/2026 | REG0507D | Side Control | Passed | 0.0 | 1.00 |
+| 5/7/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 5/7/2026 | REG2742D | Side Control | Passed | 0.0 | 1.00 |
 | 2/25/2026 | SDP2988C | Taser 7 Recertification | Passed | 0.0 | 4.00 |
 | 1/28/2026 | SDP1945C | Defensive Tactics 2 person arrest tactics | Passed | 0.0 | 2.00 |

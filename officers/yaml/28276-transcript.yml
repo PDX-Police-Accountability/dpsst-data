@@ -129,6 +129,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2026
+  course: SVP2802D
+  title: Service  Sacrifice Police Documentry
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/7/2026
   course: SVP3257D
   title: CIS OSHA Wildfire Smoke Training

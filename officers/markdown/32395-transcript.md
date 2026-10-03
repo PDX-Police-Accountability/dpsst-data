@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2026 | PPP0689D | AB4 | Passed | 0.0 | 1.00 |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
 | 3/25/2026 | PPP0208C | Airport Explosive Detection K9 Training March | Passed | 0.0 | 30.00 |
 | 3/13/2026 | LOP1672C | EVOC | Passed | 0.0 | 4.00 |

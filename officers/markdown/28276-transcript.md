@@ -50,6 +50,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2026 | SVP2802D | Service  Sacrifice Police Documentry | Passed | 0.0 | 0.50 |
 | 8/7/2026 | SVP3257D | CIS OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 8/2/2026 | SVP0153D | Temporary Warrant Update | Passed | 0.0 | 0.25 |
 | 7/21/2026 | SVP0563D | July Range  Quilification | Passed | 0.0 | 4.00 |

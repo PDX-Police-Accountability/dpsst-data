@@ -71,7 +71,6 @@
 | 4/2/2026 | PDP4023D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 4/2/2026 | PDP2255D | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 4/2/2026 | PDP3912D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
-| 4/1/2026 | XDELETE7 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 4/1/2026 | PDP2006D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 4/1/2026 | PDP0045D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 4/1/2026 | PDP0725D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2026 | SVP2802D | Service  Sacrifice Police Documentry | Passed | 0.0 | 0.50 |
 | 9/18/2026 | 26-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 9/16/2026 | SVP3488D | E-Vehicle MVA Response and Hazards | Passed | 0.0 | 1.50 |
 | 9/16/2026 | SVP0403D | Hazardous Material Training Refresher | Passed | 0.0 | 1.00 |
@@ -65,7 +66,6 @@
 | 2/25/2026 | SVP1235C | Taser 7 Operator Course | Passed | 0.0 | 6.00 |
 | 2/13/2026 | SVP1824C | Prodedural Justice | Passed | 0.0 | 2.00 |
 | 2/11/2026 | AVP1983C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
-| 2/11/2026 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 1/21/2026 | AVP3468C | In-Service / Legal Updates | Passed | 0.0 | 1.00 |
 | 1/21/2026 | AVP1768C | METCOM Dispatch Protocols | Passed | 0.0 | 1.00 |
 | 1/15/2026 | OAC2673C | Ethical Leaders  Organizations | Passed | 0.0 | 1.00 |

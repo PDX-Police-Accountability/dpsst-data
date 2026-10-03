@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2026 | PPP0689D | AB4 | Passed | 0.0 | 1.00 |
 | 5/21/2026 | VND4322C | 28 CFR 23 | Passed | 0.0 | 2.00 |
 | 5/21/2026 | PPP3215C | 28 CFR 23 | Passed | 0.0 | 2.00 |
 | 4/6/2026 | PPP1137C | RRT April Training | Passed | 0.0 | 10.00 |

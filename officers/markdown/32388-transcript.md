@@ -26,7 +26,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Certification Cards | First Aid and CPR | 9/18/2024 | 9/18/2026 |
 | Code of Ethics | Signed | 6/19/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,7 +37,6 @@
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/20/2026 | GSP1340D | Post Academy Firearms Training | Instructed | 0.0 | 10.00 |
 | 8/17/2026 | GSP1541D | Rifle In-service | Instructed | 0.0 | 10.00 |
-| 8/17/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 10.00 |
 | 8/10/2026 | GSP0826D | Rifle In-service | Instructed | 0.0 | 10.00 |
 | 8/2/2026 | GSP3072D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
 | 7/28/2026 | GSP2406D | Karly's Law Training | Passed | 0.0 | 0.50 |

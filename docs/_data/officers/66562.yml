@@ -319,12 +319,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/30/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/30/2026
   course: PDP2743D
   title: 2018 TOD 100% Collection  Submission Model Video
   status: Passed
@@ -465,12 +459,6 @@ training_records:
 - date: 4/27/2026
   course: PDP1912D
   title: School Emergency Actions
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/20/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

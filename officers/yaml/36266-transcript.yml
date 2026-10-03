@@ -80,12 +80,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 6/22/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/9/2026
   course: SAG4569C
   title: Firearms

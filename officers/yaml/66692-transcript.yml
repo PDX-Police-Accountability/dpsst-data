@@ -337,20 +337,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/7/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/7/2026
   course: PDP4023D
   title: 2021 The Advanced SEND Protocol Video
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 4/7/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'

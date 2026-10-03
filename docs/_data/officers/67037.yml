@@ -421,18 +421,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 5/26/2026
-  course: XDELETE7
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 5/26/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 5/26/2026
   course: PDP4018D
   title: 2020-10 CAO Legal Updates for 10/2020
   status: Passed
