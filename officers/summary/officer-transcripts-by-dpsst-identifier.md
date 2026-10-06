@@ -35,7 +35,7 @@
 | * MISSING | 15616 |  |  |  |  |  | [md](../markdown/15616-transcript.md) - [yaml](../yaml/15616-transcript.yml) |
 | Moore, Gary D. | 15650 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2018-07-04 | [md](../markdown/15650-transcript.md) - [yaml](../yaml/15650-transcript.yml) |
 | Jarmer, Vincent L. | 15654 | Portland Police Bureau | Inactive | Commander | Retired | 2011-09-12 | [md](../markdown/15654-transcript.md) - [yaml](../yaml/15654-transcript.yml) |
-| Hunter, Charles W. | 15710 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-09-01 | [md](../markdown/15710-transcript.md) - [yaml](../yaml/15710-transcript.yml) |
+| * MISSING | 15710 |  |  |  |  |  | [md](../markdown/15710-transcript.md) - [yaml](../yaml/15710-transcript.yml) |
 | * MISSING | 15907 |  |  |  |  |  | [md](../markdown/15907-transcript.md) - [yaml](../yaml/15907-transcript.yml) |
 | * MISSING | 15909 |  |  |  |  |  | [md](../markdown/15909-transcript.md) - [yaml](../yaml/15909-transcript.yml) |
 | * MISSING | 15910 |  |  |  |  |  | [md](../markdown/15910-transcript.md) - [yaml](../yaml/15910-transcript.yml) |
@@ -1885,3 +1885,10 @@
 | Jensen, Micah P. | 67846 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67846-transcript.md) - [yaml](../yaml/67846-transcript.yml) |
 | Nicholls, Carson S. | 67862 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67862-transcript.md) - [yaml](../yaml/67862-transcript.yml) |
 | Reid, Kellen M. | 67863 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67863-transcript.md) - [yaml](../yaml/67863-transcript.yml) |
+| Brown, Bryan A. | 67881 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67881-transcript.md) - [yaml](../yaml/67881-transcript.yml) |
+| Foidel, Dillon P. | 67882 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67882-transcript.md) - [yaml](../yaml/67882-transcript.yml) |
+| Taylor, Nathan C. | 67902 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67902-transcript.md) - [yaml](../yaml/67902-transcript.yml) |
+| Umali, Jadon C. | 67903 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67903-transcript.md) - [yaml](../yaml/67903-transcript.yml) |
+| Espinosa Barrera, Benjamin, III | 67904 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67904-transcript.md) - [yaml](../yaml/67904-transcript.yml) |
+| Hincapie, George N. | 67905 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67905-transcript.md) - [yaml](../yaml/67905-transcript.yml) |
+| Manninen, Michael F. | 67906 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67906-transcript.md) - [yaml](../yaml/67906-transcript.yml) |

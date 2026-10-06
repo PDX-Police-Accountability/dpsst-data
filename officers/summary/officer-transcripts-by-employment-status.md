@@ -18,6 +18,7 @@
 | * MISSING | 15316 |  |  |  |  |  | [md](../markdown/15316-transcript.md) - [yaml](../yaml/15316-transcript.yml) |
 | * MISSING | 15531 |  |  |  |  |  | [md](../markdown/15531-transcript.md) - [yaml](../yaml/15531-transcript.yml) |
 | * MISSING | 15616 |  |  |  |  |  | [md](../markdown/15616-transcript.md) - [yaml](../yaml/15616-transcript.yml) |
+| * MISSING | 15710 |  |  |  |  |  | [md](../markdown/15710-transcript.md) - [yaml](../yaml/15710-transcript.yml) |
 | * MISSING | 15907 |  |  |  |  |  | [md](../markdown/15907-transcript.md) - [yaml](../yaml/15907-transcript.yml) |
 | * MISSING | 15909 |  |  |  |  |  | [md](../markdown/15909-transcript.md) - [yaml](../yaml/15909-transcript.yml) |
 | * MISSING | 15910 |  |  |  |  |  | [md](../markdown/15910-transcript.md) - [yaml](../yaml/15910-transcript.yml) |
@@ -290,7 +291,6 @@
 | Towle, Cordes K. | 13923 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-07-23 | [md](../markdown/13923-transcript.md) - [yaml](../yaml/13923-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Renna, Barry W. | 15038 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-07-09 | [md](../markdown/15038-transcript.md) - [yaml](../yaml/15038-transcript.yml) |
-| Hunter, Charles W. | 15710 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-09-01 | [md](../markdown/15710-transcript.md) - [yaml](../yaml/15710-transcript.yml) |
 | Azorr, Robert M. | 17432 | Portland Police Bureau | Active | Civilian Employee | Hired | 1991-03-21 | [md](../markdown/17432-transcript.md) - [yaml](../yaml/17432-transcript.yml) |
 | Clark, Deena J. | 17932 | Portland Police Bureau | Active | Civilian Employee | Hired | 1993-05-17 | [md](../markdown/17932-transcript.md) - [yaml](../yaml/17932-transcript.yml) |
 | Coleman, Barbara A. | 20108 | Portland Police Bureau | Active | Civilian Employee | Hired | 1987-02-19 | [md](../markdown/20108-transcript.md) - [yaml](../yaml/20108-transcript.yml) |
@@ -1197,6 +1197,13 @@
 | Jensen, Micah P. | 67846 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67846-transcript.md) - [yaml](../yaml/67846-transcript.yml) |
 | Nicholls, Carson S. | 67862 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67862-transcript.md) - [yaml](../yaml/67862-transcript.yml) |
 | Reid, Kellen M. | 67863 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67863-transcript.md) - [yaml](../yaml/67863-transcript.yml) |
+| Brown, Bryan A. | 67881 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67881-transcript.md) - [yaml](../yaml/67881-transcript.yml) |
+| Foidel, Dillon P. | 67882 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67882-transcript.md) - [yaml](../yaml/67882-transcript.yml) |
+| Taylor, Nathan C. | 67902 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67902-transcript.md) - [yaml](../yaml/67902-transcript.yml) |
+| Umali, Jadon C. | 67903 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67903-transcript.md) - [yaml](../yaml/67903-transcript.yml) |
+| Espinosa Barrera, Benjamin, III | 67904 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67904-transcript.md) - [yaml](../yaml/67904-transcript.yml) |
+| Hincapie, George N. | 67905 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67905-transcript.md) - [yaml](../yaml/67905-transcript.yml) |
+| Manninen, Michael F. | 67906 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67906-transcript.md) - [yaml](../yaml/67906-transcript.yml) |
 | Ferraris, James C. | 11406 | Portland Police Bureau | Inactive | Commander | Retired | 2011-05-06 | [md](../markdown/11406-transcript.md) - [yaml](../yaml/11406-transcript.yml) |
 | Gill, Peter J. | 11688 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-07-23 | [md](../markdown/11688-transcript.md) - [yaml](../yaml/11688-transcript.yml) |
 | Kelley, Denney C. | 12418 | Portland Police Bureau | Inactive | Sergeant | Retired | 2009-07-12 | [md](../markdown/12418-transcript.md) - [yaml](../yaml/12418-transcript.yml) |
