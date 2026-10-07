@@ -135,7 +135,7 @@
 | 3/12/2026 | PDP0793C | FTEP Post PVO StopSticks Box IN | Passed | 0.0 | 4.00 |
 | 3/10/2026 | PDP4079C | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 3/5/2026 | PDP2308C | RegJIN RMS/MRE Report Writing Training | Passed | 0.0 | 14.00 |
-| 2/27/2026 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 2/27/2026 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 2/23/2026 | REG2450C | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/4/2026 | REG1809C | CORE-RADAR Classroom | Passed | 0.0 | 6.00 |
 | 2/4/2026 | REG0443C | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |

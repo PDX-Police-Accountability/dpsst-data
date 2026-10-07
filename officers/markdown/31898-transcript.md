@@ -22,10 +22,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/29/2021 | Police Officer | Advanced | Lapsed | 12/21/2001 | 9/29/2026 |  |
-| 12/29/2021 | Police Officer | Basic | Lapsed | 12/23/1996 | 9/29/2026 |  |
-| 12/29/2021 | Police Officer | Intermediate | Lapsed | 1/5/1998 | 9/29/2026 |  |
-| 12/29/2021 | Police Officer | Supervisory | Lapsed | 12/2/2015 | 9/29/2026 |  |
+| 9/29/2026 | Police Officer | Advanced | Expired | 12/21/2001 |  |  |
+| 9/29/2026 | Police Officer | Basic | Expired | 12/23/1996 |  |  |
+| 9/29/2026 | Police Officer | Intermediate | Expired | 1/5/1998 |  |  |
+| 9/29/2026 | Police Officer | Supervisory | Expired | 12/2/2015 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
