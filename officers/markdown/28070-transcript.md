@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2026 | MNS3062D | Fall EVO 2026 | Passed | 0.0 | 4.00 |
 | 8/13/2026 | MNS3225D | Yamhill County Deflection Program | Passed | 0.0 | 0.50 |
 | 6/23/2026 | MNS3847D | Vehicle Ballistics Cover in a Gunfight | Passed | 0.0 | 3.50 |
 | 3/7/2026 | MNS1771C | Building Clearing and K9 Introduction | Passed | 0.0 | 1.50 |

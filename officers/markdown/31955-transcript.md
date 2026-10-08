@@ -47,6 +47,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | OAC1431D | Beyond the Technology: Leading  through ALPR | Passed | 0.0 | 1.00 |
+| 9/23/2026 | OAC0635D | Agency Culture  Building next Gen | Passed | 0.0 | 3.00 |
 | 9/16/2026 | CAP3843D | CIS - Cyber Security Training | Passed | 0.0 | 0.50 |
 | 9/16/2026 | CAP0502D | Creating a Culture of Civility  Respect | Passed | 0.0 | 2.00 |
 | 8/1/2026 | CAP0325D | Ethics - Sexual Harassment Prevention | Passed | 0.0 | 1.00 |

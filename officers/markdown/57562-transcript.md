@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2026 | OCP2091D | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 9/27/2026 | OCP2771D | EVO | Passed | 0.0 | 7.00 |
 | 8/27/2026 | OCP2870D | Defensive Tactics | Instructed | 0.0 | 13.50 |
 | 8/7/2026 | OCP2936D | Pursuit Management | Passed | 0.0 | 1.00 |

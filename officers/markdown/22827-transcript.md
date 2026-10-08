@@ -47,6 +47,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2026 | OAC1070D | Beyond Report Writing: AI for LE | Passed | 0.0 | 2.00 |
+| 9/24/2026 | OAC3499D | From Success to Succession: Part 2 | Passed | 0.0 | 4.00 |
+| 9/24/2026 | OAC0955D | Handing the Baton of Leadership | Passed | 0.0 | 1.00 |
+| 9/24/2026 | OAC0358D | From Success to Succession: Part 1 | Passed | 0.0 | 4.00 |
+| 9/23/2026 | OAC2096D | Lexipol Readiness Week | Passed | 0.0 | 1.00 |
+| 9/23/2026 | OAC1431D | Beyond the Technology: Leading  through ALPR | Passed | 0.0 | 1.00 |
+| 9/23/2026 | OAC0635D | Agency Culture  Building next Gen | Passed | 0.0 | 3.00 |
 | 9/9/2026 | HSU0648D | Airways Training Video Patient Evaluation for LE | Passed | 0.0 | 2.00 |
 | 8/13/2026 | OSU1254D | ICS300  Intermediate Expanding Events | Passed | 0.0 | 21.00 |
 | 5/17/2026 | HSU0960C | Supplemental Firearms May 2026 | Passed | 0.0 | 2.00 |

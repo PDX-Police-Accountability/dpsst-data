@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/10/2026 | 9/10/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 6/19/2003 |  |
@@ -34,9 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/10/2026 | GSP2181D | First Aid / CPR Training | Passed | 0.0 | 4.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/20/2026 | GSP1340D | Post Academy Firearms Training | Instructed | 0.0 | 10.00 |
 | 8/17/2026 | GSP1541D | Rifle In-service | Instructed | 0.0 | 10.00 |
+| 8/14/2026 | GSP1952D | SWAT Sniper Range |  | 0.0 | 10.00 |
+| 8/13/2026 | GSP4082D | SWAT -- River Rescue  Breakout | Passed | 0.0 | 10.00 |
+| 8/12/2026 | GSP2230D | SWAT -- Pool Rescue Exercises | Passed | 0.0 | 10.00 |
 | 8/10/2026 | GSP0826D | Rifle In-service | Instructed | 0.0 | 10.00 |
 | 8/2/2026 | GSP3072D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
 | 7/28/2026 | GSP2406D | Karly's Law Training | Passed | 0.0 | 0.50 |

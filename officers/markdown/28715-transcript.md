@@ -44,6 +44,7 @@
 | 8/24/2026 | HBP2916D | Rifle School - Patrol Rifle Course | Instructed | 0.0 | 36.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 8/16/2026 | HSU0807D | Pistol Mounted Optics | Passed | 0.0 | 30.00 |
+| 8/12/2026 | HBP0130D | LEDS Recertification | Passed | 0.0 | 0.75 |
 | 8/5/2026 | HBP1940D | PA 2026-4, Reaction Drills, Tac De-esc, Srch  Sz | Instructed | 0.0 | 10.00 |
 | 8/3/2026 | HBP3856D | PA 2026-4, TASER Certification | Instructed | 0.0 | 4.00 |
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Instructed | 0.0 | 8.00 |
@@ -61,6 +62,7 @@
 | 5/19/2026 | HBP0380C | AA 2026-2, Reaction Drills | Instructed | 0.0 | 2.00 |
 | 5/17/2026 | HBP1987C | AA 2026-2, Traffic Stops / Known-Risk Stops | Instructed | 0.0 | 7.00 |
 | 5/13/2026 | HBP3279C | AA 2026-2, Building Clearing | Instructed | 0.0 | 8.50 |
+| 5/13/2026 | HBP3905D | Resolution 2906 and Federal Immigration Impacts | Passed | 0.0 | 1.00 |
 | 5/12/2026 | HBP0275C | AA 2026-02, Foundations of Force, Arrest, Gun Ret | Instructed | 0.0 | 7.00 |
 | 4/29/2026 | HBP0407C | In-Service 2026-2, Range | Instructed | 0.0 | 4.00 |
 | 4/22/2026 | HBP4315C | In-Service 2026-2, Range | Instructed | 0.0 | 4.00 |

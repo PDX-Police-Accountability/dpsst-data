@@ -4,7 +4,7 @@
 | name | Sullivan, Luke T. |
 | dpsst_identifier | 65868 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/19/2026 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 12/5/2024 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/23/2026 | Police Officer | Basic | Granted | 6/23/2026 |  |  |
+| 6/23/2026 | Police Officer | Basic | Granted | 6/23/2026 | 12/19/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

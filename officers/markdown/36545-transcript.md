@@ -42,6 +42,8 @@
 | 9/3/2026 | HBP1010D | 764 Extremist Network | Passed | 0.0 | 2.00 |
 | 9/2/2026 | HBP2104D | Respectful Workplace - Employee Training (Equity) | Passed | 0.0 | 1.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
+| 8/12/2026 | HBP0130D | LEDS Recertification | Passed | 0.0 | 0.75 |
+| 5/13/2026 | HBP3905D | Resolution 2906 and Federal Immigration Impacts | Passed | 0.0 | 1.00 |
 | 4/29/2026 | HBP0407C | In-Service 2026-2, Range | Passed | 0.0 | 4.00 |
 | 3/6/2026 | HBP3735C | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |

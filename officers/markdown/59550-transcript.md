@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2026 | RMP1597D | Firearms Inservice Qualification | Passed | 0.0 | 8.00 |
 | 9/15/2026 | BNP0668D | SWAT- Ropes / rapelling | Passed | 0.0 | 2.00 |
 | 9/15/2026 | BNP0643D | SWAT- Overland / Hostage Scenario | Passed | 0.0 | 5.00 |
 | 9/15/2026 | BNP0261D | SWAT- Hostage Rescue Tactics | Passed | 0.0 | 1.00 |

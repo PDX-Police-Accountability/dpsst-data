@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 8/12/2026
+  course: HBP0130D
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 8/5/2026
   course: HBP1940D
   title: PA 2026-4, Reaction Drills, Tac De-esc, Srch  Sz
@@ -201,6 +207,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.50'
+- date: 5/13/2026
+  course: HBP3905D
+  title: Resolution 2906 and Federal Immigration Impacts
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/12/2026
   course: HBP0275C
   title: AA 2026-02, Foundations of Force, Arrest, Gun Ret

@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/18/2026
+  course: GSP1007D
+  title: Handgun In-service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/31/2026
   course: GSP3564D
   title: 2026 Ethics Training

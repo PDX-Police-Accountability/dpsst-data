@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2026
+  course: WBP1597D
+  title: Firearms (Handgun Training)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/23/2026
   course: WBP2573D
   title: Glock Armoerers Course (AC) Gen 5 Plus

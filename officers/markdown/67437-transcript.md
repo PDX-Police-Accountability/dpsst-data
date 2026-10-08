@@ -30,6 +30,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/23/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/30/2026 | PDP0239D | FTEP Report Writing | Passed | 0.0 | 2.00 |
+| 9/30/2026 | PDP1867D | Mobile Identification Device MIDD | Passed | 0.0 | 2.00 |
 | 9/2/2026 | REG3783D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/13/2026 | REG3111D | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/2/2026 | PDP1901D | New Radar Lidar Operator Course | Passed | 0.0 | 12.00 |

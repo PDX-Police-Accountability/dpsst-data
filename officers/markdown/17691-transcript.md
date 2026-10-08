@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2026 | MNS4134D | Fall EVO 2026 | Instructed | 0.0 | 9.00 |
+| 10/4/2026 | MNS4134D | Fall EVO 2026 | Passed | 0.0 | 2.00 |
+| 9/12/2026 | MNS3062D | Fall EVO 2026 | Passed | 0.0 | 2.00 |
+| 9/12/2026 | MNS3062D | Fall EVO 2026 | Instructed | 0.0 | 8.50 |
 | 8/13/2026 | MNS3225D | Yamhill County Deflection Program | Passed | 0.0 | 0.50 |
 | 6/23/2026 | MNS3847D | Vehicle Ballistics Cover in a Gunfight | Passed | 0.0 | 3.50 |
 | 4/30/2026 | MNS1093C | Reserve Academy EVO Day 2- DPSST track | Instructed | 0.0 | 10.00 |

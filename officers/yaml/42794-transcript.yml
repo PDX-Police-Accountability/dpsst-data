@@ -98,6 +98,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2026
+  course: OCS3725D
+  title: 2026 New Rifle Carrier
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
+- date: 9/29/2026
+  course: OCS1502D
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/28/2026
+  course: OCS2025D
+  title: Shooting/Moving around vehicles, Shoot/No-Shoot
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/28/2026
+  course: OCS2025D
+  title: Shooting/Moving around vehicles, Shoot/No-Shoot
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/21/2026
+  course: OCS2799D
+  title: 2026 3rd Qtr Corrections Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/14/2026
   course: OCS1576D
   title: July, August, Sept 2026 Monthly Firearms

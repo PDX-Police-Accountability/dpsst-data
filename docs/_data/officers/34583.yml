@@ -56,6 +56,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 6/5/2026
+  course: PDA3012D
+  title: Criminal Discovery Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2026
+  course: PDA4282D
+  title: Pop Smoke Homicide Case Study
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/26/2026
+  course: PDA3979D
+  title: Cartel Dynamics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/26/2026
+  course: PDA0392D
+  title: Mexican Mafia 2.0
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/26/2026
+  course: PDA2892D
+  title: PLUG Social Media Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/19/2026
+  course: PDA3488D
+  title: Firearms and Tactictical Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/27/2026
+  course: PDA1582D
+  title: Government Ethics and Political Activity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/7/2026
   course: PDA0182C
   title: Government Ethics
@@ -74,6 +116,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/26/2026
+  course: PDA1924D
+  title: Securus NextGen Jail Call Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/4/2026
+  course: PDA4267D
+  title: ATF Use of Deadly Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/4/2026
+  course: PDA3867D
+  title: Cyber Security Awareness Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2026
+  course: PDA2276D
+  title: Tactical Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2025
+  course: PDA4251D
+  title: Criminal Discovery Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/4/2025
+  course: PDA1665D
+  title: Firearm Qualifications and Tactical Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/25/2025
+  course: PDA3995D
+  title: Reporting/Responding to Sexual Misconduct
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/31/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance

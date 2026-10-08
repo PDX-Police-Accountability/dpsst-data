@@ -36,9 +36,23 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/12/2026 | PDA3876D | Use of Force Update | Passed | 0.0 | 1.50 |
+| 6/5/2026 | PDA3012D | Criminal Discovery Refresher | Passed | 0.0 | 1.00 |
+| 5/27/2026 | PDA4282D | Pop Smoke Homicide Case Study | Passed | 0.0 | 2.00 |
+| 5/26/2026 | PDA3979D | Cartel Dynamics | Passed | 0.0 | 2.00 |
+| 5/26/2026 | PDA0392D | Mexican Mafia 2.0 | Passed | 0.0 | 2.00 |
+| 5/26/2026 | PDA2892D | PLUG Social Media Investigations | Passed | 0.0 | 2.00 |
+| 5/19/2026 | PDA3488D | Firearms and Tactictical Training | Passed | 0.0 | 8.00 |
+| 4/27/2026 | PDA1582D | Government Ethics and Political Activity | Passed | 0.0 | 1.00 |
 | 4/7/2026 | PDA0182C | Government Ethics | Passed | 0.0 | 1.00 |
 | 4/7/2026 | PDA0008C | Government Ethics | Passed | 0.0 | 1.00 |
 | 4/7/2026 | PDA4418D | Government Ethics | Passed | 0.0 | 1.00 |
+| 3/26/2026 | PDA1924D | Securus NextGen Jail Call Training | Passed | 0.0 | 3.00 |
+| 3/4/2026 | PDA4267D | ATF Use of Deadly Force | Passed | 0.0 | 1.00 |
+| 3/4/2026 | PDA3867D | Cyber Security Awareness Training | Passed | 0.0 | 1.00 |
+| 2/27/2026 | PDA2276D | Tactical Training | Passed | 0.0 | 8.00 |
+| 12/31/2025 | PDA4251D | Criminal Discovery Refresher | Passed | 0.0 | 1.00 |
+| 12/4/2025 | PDA1665D | Firearm Qualifications and Tactical Training | Passed | 0.0 | 8.00 |
+| 11/25/2025 | PDA3995D | Reporting/Responding to Sexual Misconduct | Passed | 0.0 | 1.50 |
 | 10/31/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |

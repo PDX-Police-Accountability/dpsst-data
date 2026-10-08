@@ -20,6 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2027 | 12/31/2029 |
 | Code of Ethics | Law Enforcement Signed | 5/19/2025 |  |
 | Certification Cards | First Aid and CPR | 5/6/2025 | 5/6/2027 |
 ## Education
@@ -37,6 +39,7 @@
 | 6/22/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/22/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/1/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/13/2026 | HBP3905D | Resolution 2906 and Federal Immigration Impacts | Passed | 0.0 | 1.00 |
 | 4/22/2026 | HBP4315C | In-Service 2026-2, Range | Passed | 0.0 | 4.00 |
 | 4/22/2026 | HBP4314D | In-Service 2026-2, Trauma Informed Response Trng | Passed | 0.0 | 4.00 |
 | 4/15/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

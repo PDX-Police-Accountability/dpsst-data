@@ -42,6 +42,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 9/25/2026 | OAC1070D | Beyond Report Writing: AI for LE | Passed | 0.0 | 2.00 |
+| 9/24/2026 | OAC3499D | From Success to Succession: Part 2 | Passed | 0.0 | 4.00 |
+| 9/24/2026 | OAC0955D | Handing the Baton of Leadership | Passed | 0.0 | 1.00 |
+| 9/24/2026 | OAC0358D | From Success to Succession: Part 1 | Passed | 0.0 | 4.00 |
+| 9/23/2026 | OAC2096D | Lexipol Readiness Week | Passed | 0.0 | 1.00 |
+| 9/23/2026 | OAC1431D | Beyond the Technology: Leading  through ALPR | Passed | 0.0 | 1.00 |
+| 9/23/2026 | OAC0635D | Agency Culture  Building next Gen | Passed | 0.0 | 3.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/14/2026 | GSP4094D | Handgun In-service | Passed | 0.0 | 10.00 |
 | 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |

@@ -46,6 +46,7 @@
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
 | 7/22/2026 | HBP3022D | In-Service 2026-3, Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |
 | 7/10/2026 | HBP3628D | LEDS Recertification | Passed | 0.0 | 0.75 |
+| 5/13/2026 | HBP3905D | Resolution 2906 and Federal Immigration Impacts | Passed | 0.0 | 1.00 |
 | 4/15/2026 | HBP3568C | In-Service 2026-2, Range | Passed | 0.0 | 4.00 |
 | 4/15/2026 | HBP2981D | In-Service 2026-2, Trauma Informed Response Trng | Passed | 0.0 | 4.00 |
 | 3/6/2026 | HBP3735C | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |

@@ -98,12 +98,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 8/13/2026
+  course: REG3313D
+  title: Striking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/12/2026
   course: SDP0607D
   title: SFST Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/3/2026
+  course: REG3139D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/27/2026
+  course: REG1725D
+  title: Take downs, Strikes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/25/2026
   course: REG2137D
   title: Ground Control

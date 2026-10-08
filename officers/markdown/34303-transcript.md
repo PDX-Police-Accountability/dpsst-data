@@ -44,6 +44,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2026 | HBP1986D | Preventing the Plea | Passed | 0.0 | 5.50 |
 | 9/16/2026 | HBP2366D | PoliceOne Foundation in Ethics for LE | Passed | 0.0 | 1.00 |
+| 8/12/2026 | HBP0130D | LEDS Recertification | Passed | 0.0 | 0.75 |
+| 5/13/2026 | HBP3905D | Resolution 2906 and Federal Immigration Impacts | Passed | 0.0 | 1.00 |
 | 3/16/2026 | HBP2482C | FTP Academy Prep | Passed | 0.0 | 8.00 |
 | 3/6/2026 | HBP3735C | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 1/29/2026 | HBP3193C | CPR/First Aid/AED | Passed | 0.0 | 1.00 |

@@ -38,12 +38,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2026 | GSP3954D | UAS Monthly Training | Passed | 0.0 | 10.00 |
+| 9/11/2026 | GSP2810D | Handgun Training | Passed | 0.0 | 10.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
+| 8/18/2026 | GSP3048D | UAS Monthly Training | Passed | 0.0 | 10.00 |
 | 8/7/2026 | GSP3616D | PVO In-service 2026 | Passed | 0.0 | 10.00 |
 | 7/21/2026 | GSP4239D | UAS Monthly Training | Passed | 0.0 | 10.00 |
 | 7/13/2026 | GSP3295D | Deflection Update 2026 | Passed | 0.0 | 0.25 |
 | 7/13/2026 | GSP1932D | PowerAction Training | Passed | 0.0 | 0.25 |
 | 7/13/2026 | GSP3354D | New Oregon Laws | Passed | 0.0 | 0.25 |
+| 6/8/2026 | GSP2770D | UAS Monthly Training | Passed | 0.0 | 10.00 |
 | 3/17/2026 | GSP2713C | UAS Monthly Training | Passed | 0.0 | 10.00 |
 | 3/12/2026 | GSP3149C | Effective Report Writing | Passed | 0.0 | 1.50 |
 | 2/16/2026 | GSP3538C | UAS Monthly Training | Passed | 0.0 | 10.00 |

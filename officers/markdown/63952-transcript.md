@@ -31,6 +31,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2026 | REG3313D | Striking | Passed | 0.0 | 1.00 |
+| 8/6/2026 | REG3059D | Ground Control | Passed | 0.0 | 1.00 |
+| 7/30/2026 | REG3947D | Ground Control | Passed | 0.0 | 1.00 |
+| 7/27/2026 | REG1725D | Take downs, Strikes | Passed | 0.0 | 1.00 |
 | 7/9/2026 | PDP4354D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 6/9/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/9/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
@@ -40,11 +44,11 @@
 | 5/25/2026 | REG2229D | Ground Control | Passed | 0.0 | 1.00 |
 | 5/21/2026 | REG4363D | Ground Control | Passed | 0.0 | 1.00 |
 | 5/18/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
-| 5/18/2026 | REG0632D | Sweeps |  | 0.0 | 1.00 |
-| 5/7/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 5/18/2026 | REG0632D | Sweeps | Passed | 0.0 | 1.00 |
 | 5/7/2026 | REG2742D | Side Control | Passed | 0.0 | 1.00 |
 | 5/6/2026 | PDP0605C | 2026 Traffic Monthly Motor Training Roster | Passed | 0.0 | 9.00 |
 | 5/4/2026 | REG1862D | Side Control Top | Passed | 0.0 | 1.00 |
+| 5/4/2026 | REG3206D | Side Control Top | Passed | 0.0 | 1.00 |
 | 4/30/2026 | REG0149D | Ground Control | Passed | 0.0 | 1.00 |
 | 4/28/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/1/2026 | PDP1967C | 2026 Traffic Monthly Motor Training | Passed | 0.0 | 9.00 |

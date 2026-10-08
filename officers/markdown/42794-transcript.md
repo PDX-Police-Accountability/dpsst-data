@@ -43,6 +43,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2026 | OCS3725D | 2026 New Rifle Carrier | Instructed | 0.0 | 20.00 |
+| 9/29/2026 | OCS1502D | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 9/28/2026 | OCS2025D | Shooting/Moving around vehicles, Shoot/No-Shoot | Instructed | 0.0 | 16.00 |
+| 9/28/2026 | OCS2025D | Shooting/Moving around vehicles, Shoot/No-Shoot | Passed | 0.0 | 1.00 |
+| 9/21/2026 | OCS2799D | 2026 3rd Qtr Corrections Firearms | Instructed | 0.0 | 24.00 |
 | 9/14/2026 | OCS1576D | July, August, Sept 2026 Monthly Firearms | Instructed | 0.0 | 3.00 |
 | 9/4/2026 | OCS2611D | September 2026 New Hire Firearms | Instructed | 0.0 | 30.00 |
 | 8/21/2026 | OCS2306D | Marksmanship/Single Hand Shooting | Passed | 0.0 | 1.00 |

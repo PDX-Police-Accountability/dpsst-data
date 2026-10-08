@@ -75,6 +75,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/14/2026
+  course: GSP1952D
+  title: SWAT Sniper Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/13/2026
+  course: GSP4082D
+  title: SWAT -- River Rescue  Breakout
+  status: ''
+  score: '0.0'
+  hours: '10.00'
+- date: 8/12/2026
+  course: GSP2230D
+  title: SWAT -- Pool Rescue Exercises
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/11/2026
   course: GSP0474D
   title: Ballistic Shield Training

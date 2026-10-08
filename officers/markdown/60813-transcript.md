@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2026 | OSH2686D | ATV Operator | Passed | 0.0 | 3.00 |
 | 6/22/2026 | OSH1955D | 2nd Tri Firearms | Passed | 0.0 | 4.00 |
 | 3/16/2026 | OSH2956C | 1st Tri Firearms | Passed | 0.0 | 3.00 |
 | 3/16/2026 | OSH2407C | 1st Tri Firearms | Passed | 0.0 | 3.00 |

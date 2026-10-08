@@ -13,7 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 5/4/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
-| 6/1/2007 | Portland Police Bureau | Hired | Police Off |  |  |
+| 6/14/2007 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |

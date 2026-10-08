@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2026 | BNP2109D | ALPR / Senate Bill 1516 Training | Passed | 0.0 | 1.00 |
+| 9/28/2026 | BNP0866D | ALPR Updates | Passed | 0.0 | 0.75 |
+| 9/28/2026 | BNP3315D | Aquatic Death Investigations  Child Abuse | Passed | 0.0 | 0.50 |
+| 9/28/2026 | BNP0538D | FTO Leadership | Passed | 0.0 | 0.50 |
+| 9/28/2026 | BNP0541D | Safeway East Active Shooter Review | Passed | 0.0 | 0.75 |
 | 8/20/2026 | BNP2472D | UAS Monthly- Outdoor/Indoor Suspect Searches | Passed | 0.0 | 8.00 |
 | 8/11/2026 | BNP1671D | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 7/21/2026 | BNP2872D | The Art  Science of Leadership | Passed | 0.0 | 3.00 |

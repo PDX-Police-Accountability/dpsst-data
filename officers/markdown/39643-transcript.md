@@ -45,7 +45,10 @@
 | 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP1695D | Crisis Intervention Response for Veterans | Passed | 0.0 | 1.00 |
 | 8/20/2026 | SDP3021D | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 6.00 |
+| 8/13/2026 | REG3313D | Striking | Passed | 0.0 | 1.00 |
 | 8/12/2026 | SDP0607D | SFST Refresher | Passed | 0.0 | 4.00 |
+| 8/3/2026 | REG3139D | Ground Control | Passed | 0.0 | 1.00 |
+| 7/27/2026 | REG1725D | Take downs, Strikes | Passed | 0.0 | 1.00 |
 | 6/25/2026 | REG2137D | Ground Control | Passed | 0.0 | 1.00 |
 | 6/18/2026 | REG0250D | Ground Control Choke Defense | Passed | 0.0 | 1.00 |
 | 6/10/2026 | SDP4470D | Rifle/Handgun Range Day | Passed | 0.0 | 8.00 |

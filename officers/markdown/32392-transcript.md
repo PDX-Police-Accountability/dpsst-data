@@ -42,7 +42,7 @@
 | 5/29/2026 | TGP2515D | Handgun | Passed | 0.0 | 4.00 |
 | 5/29/2026 | TGP2515D | Handgun | Instructed | 0.0 | 48.00 |
 | 5/15/2026 | TGP1041C | Motor Training | Instructed | 0.0 | 40.00 |
-| 4/30/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit |  | 0.0 | 6.00 |
+| 4/30/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit | Passed | 0.0 | 6.00 |
 | 4/29/2026 | VND4605D | Oregon Child Abuse and Human Trafficking Summit | Passed | 0.0 | 6.00 |
 | 2/28/2026 | TGP1891C | Axon Assistant Introduction | Passed | 0.0 | 0.50 |
 | 2/26/2026 | TGP1124C | Axon Investigate Operator and Examiner Training | Passed | 0.0 | 16.00 |

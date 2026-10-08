@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/30/2026
+  course: PDP0239D
+  title: FTEP Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2026
+  course: PDP1867D
+  title: Mobile Identification Device MIDD
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/2/2026
   course: REG3783D
   title: SFST-DID (Hours included in Basic)

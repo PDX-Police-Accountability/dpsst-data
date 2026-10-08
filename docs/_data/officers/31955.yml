@@ -114,6 +114,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2026
+  course: OAC1431D
+  title: 'Beyond the Technology: Leading  through ALPR'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2026
+  course: OAC0635D
+  title: Agency Culture  Building next Gen
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/16/2026
   course: CAP3843D
   title: CIS - Cyber Security Training

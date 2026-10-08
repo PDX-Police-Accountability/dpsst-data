@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/25/2026
+  course: HBP2961D
+  title: ICAC 101
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/12/2026
   course: PDP3864C
   title: 2026 Red Dot Sight for Pistol Transition Course

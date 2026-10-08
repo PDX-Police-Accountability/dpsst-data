@@ -114,12 +114,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2026
+  course: OAC1070D
+  title: 'Beyond Report Writing: AI for LE'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/24/2026
+  course: OAC3499D
+  title: 'From Success to Succession: Part 2'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/24/2026
+  course: OAC0358D
+  title: 'From Success to Succession: Part 1'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/23/2026
   course: RRP1457D
   title: OACP Fall Executive Board Meeting
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/23/2026
+  course: OAC2096D
+  title: Lexipol Readiness Week
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2026
+  course: OAC0635D
+  title: Agency Culture  Building next Gen
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/18/2026
   course: HSU0568C
   title: Spring In-Service 2026 CPR/ First Aid

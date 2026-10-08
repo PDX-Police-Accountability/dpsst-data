@@ -49,8 +49,11 @@
 | 9/2/2026 | HBP0195D | Respectful Workplace - Supervisor Trng (Ldrshp) | Passed | 0.0 | 1.00 |
 | 9/2/2026 | HBP1992D | Respectful Workplace - Supervisor Trng (Equity) | Passed | 0.0 | 1.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
+| 8/12/2026 | HBP0130D | LEDS Recertification | Passed | 0.0 | 0.75 |
 | 7/28/2026 | REG0736D | DPSST 2026 Cyber Summit | Passed | 0.0 | 8.00 |
+| 5/13/2026 | HBP3905D | Resolution 2906 and Federal Immigration Impacts | Passed | 0.0 | 1.00 |
 | 4/27/2026 | HBP4419D | Supervisor Complaint Trng - Internal  External | Passed | 0.0 | 4.00 |
+| 4/14/2026 | HBP0093D | COH - Equity in Recruitment | Passed | 0.0 | 0.75 |
 | 3/6/2026 | HBP3735C | PoliceOne Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 2/25/2026 | HBP0383C | K9 Arrest and Control | Passed | 0.0 | 4.50 |
 | 2/25/2026 | HBP0098C | Tactical De-escalation | Passed | 0.0 | 4.50 |

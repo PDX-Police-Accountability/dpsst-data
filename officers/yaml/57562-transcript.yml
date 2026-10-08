@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2026
+  course: OCP2091D
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/27/2026
   course: OCP2771D
   title: EVO

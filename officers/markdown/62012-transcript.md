@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2026 | HBP2961D | ICAC 101 | Passed | 0.0 | 8.00 |
 | 5/19/2026 | PDP0086C | Return to Work Firearms | Passed | 0.0 | 4.00 |
 | 5/19/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/1/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |

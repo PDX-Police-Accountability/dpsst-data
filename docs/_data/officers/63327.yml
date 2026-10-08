@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/25/2026
+  course: HBP2961D
+  title: ICAC 101
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/16/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation

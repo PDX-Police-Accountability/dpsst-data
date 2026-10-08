@@ -32,8 +32,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/9/2026 | 4/9/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 4/8/2025 | 4/8/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 ## Education
 | date | degree | school | major | hours |
@@ -51,8 +51,8 @@
 | 6/25/2026 | GLP1023D | Q2 Firearms Training | Passed | 0.0 | 3.00 |
 | 6/1/2026 | GLP1378D | Implicit Bias | Passed | 0.0 | 1.00 |
 | 6/1/2026 | GLP2911D | Implicit Bias | Passed | 0.0 | 1.00 |
-| 4/9/2026 | GLP0297D | First Aid/ Adult and Child CPR |  | 0.0 | 3.00 |
-| 3/10/2026 | GLP1097D | Ethics |  | 0.0 | 1.00 |
+| 4/9/2026 | GLP0297D | First Aid/ Adult and Child CPR | Passed | 0.0 | 3.00 |
+| 3/10/2026 | GLP1097D | Ethics | Passed | 0.0 | 1.00 |
 | 3/9/2026 | LOP0761C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 12/3/2025 | GLP0613C | Defensive Tactics Winter 2025 | Passed | 0.0 | 2.00 |
 | 10/24/2025 | OCP4356B | SFST Refresher | Passed | 0.0 | 4.00 |

@@ -43,6 +43,7 @@
 | 8/30/2026 | SDP1695D | Crisis Intervention Response for Veterans | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP0093D | Crisis Intervention Response for Youth | Passed | 0.0 | 1.00 |
+| 7/30/2026 | REG3947D | Ground Control | Passed | 0.0 | 1.00 |
 | 6/24/2026 | SDP4470D | Rifle/Handgun Range Day | Passed | 0.0 | 8.00 |
 | 6/18/2026 | REG0250D | Ground Control Choke Defense | Passed | 0.0 | 1.00 |
 | 6/8/2026 | REG2945D | Striking defense from the ground | Passed | 0.0 | 1.00 |

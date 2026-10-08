@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2026
+  course: PDP3463D
+  title: Tactical Medical Pistol Course
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 7/18/2026
   course: PDP2070D
   title: Thunder Ranch Urban Precision Rifle

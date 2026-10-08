@@ -43,6 +43,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2026
+  course: BNP2109D
+  title: ALPR / Senate Bill 1516 Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/28/2026
+  course: BNP0866D
+  title: ALPR Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/28/2026
+  course: BNP3315D
+  title: Aquatic Death Investigations  Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/28/2026
+  course: BNP0538D
+  title: FTO Leadership
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/28/2026
+  course: BNP0541D
+  title: Safeway East Active Shooter Review
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 8/20/2026
   course: BNP2472D
   title: UAS Monthly- Outdoor/Indoor Suspect Searches

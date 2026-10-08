@@ -130,18 +130,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/12/2026
+  course: HBP0130D
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 7/28/2026
   course: REG0736D
   title: DPSST 2026 Cyber Summit
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/13/2026
+  course: HBP3905D
+  title: Resolution 2906 and Federal Immigration Impacts
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/27/2026
   course: HBP4419D
   title: Supervisor Complaint Trng - Internal  External
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/14/2026
+  course: HBP0093D
+  title: COH - Equity in Recruitment
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/6/2026
   course: HBP3735C
   title: PoliceOne Hate Crimes Training for LE

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/10/2026
+  course: GSP2181D
+  title: First Aid / CPR Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/31/2026
   course: GSP3564D
   title: 2026 Ethics Training
@@ -66,6 +72,24 @@ training_records:
   course: GSP1541D
   title: Rifle In-service
   status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/14/2026
+  course: GSP1952D
+  title: SWAT Sniper Range
+  status: ''
+  score: '0.0'
+  hours: '10.00'
+- date: 8/13/2026
+  course: GSP4082D
+  title: SWAT -- River Rescue  Breakout
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/12/2026
+  course: GSP2230D
+  title: SWAT -- Pool Rescue Exercises
+  status: Passed
   score: '0.0'
   hours: '10.00'
 - date: 8/10/2026
@@ -4953,6 +4977,10 @@ training_records:
   score: '0.0'
   hours: '345.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 9/10/2026
+  expiration_date: 9/10/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

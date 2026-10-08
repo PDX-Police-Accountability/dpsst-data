@@ -43,6 +43,10 @@
 | 8/30/2026 | SDP0093D | Crisis Intervention Response for Youth | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP1695D | Crisis Intervention Response for Veterans | Passed | 0.0 | 1.00 |
+| 8/24/2026 | REG1503D | Guard Passing | Passed | 0.0 | 1.00 |
+| 8/17/2026 | REG3617D | Top side control | Passed | 0.0 | 1.00 |
+| 8/13/2026 | REG3313D | Striking | Passed | 0.0 | 1.00 |
+| 8/10/2026 | REG3911D | Ground Control | Passed | 0.0 | 1.00 |
 | 6/29/2026 | REG3361D | Ground Control | Passed | 0.0 | 1.00 |
 | 6/29/2026 | REG3258D | Grip Control | Passed | 0.0 | 1.00 |
 | 6/25/2026 | REG2137D | Ground Control | Passed | 0.0 | 1.00 |
@@ -58,6 +62,7 @@
 | 5/13/2026 | OAC2101C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 2.50 |
 | 5/13/2026 | OAC3967C | Leadership for Reducing Org Stress in LE | Passed | 0.0 | 3.00 |
 | 5/4/2026 | REG1862D | Side Control Top | Passed | 0.0 | 1.00 |
+| 5/4/2026 | REG3206D | Side Control Top | Passed | 0.0 | 1.00 |
 | 4/20/2026 | BPT2932D | Ground Control | Passed | 0.0 | 1.00 |
 | 4/13/2026 | BPT3069D | Ground Control | Passed | 0.0 | 1.00 |
 | 4/6/2026 | REG4055D | Ground Control | Passed | 0.0 | 1.00 |
