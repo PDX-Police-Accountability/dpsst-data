@@ -197,6 +197,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/2/2026
+  course: SPP0793D
+  title: Animal Law Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/6/2026
   course: SPP3132D
   title: Legal Update Training

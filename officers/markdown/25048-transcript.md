@@ -29,7 +29,6 @@
 | Certification Cards | First Aid and CPR | 2/3/2026 | 2/2/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Code of Ethics | Signed | 10/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -53,7 +52,7 @@
 | 3/11/2026 | AVP1012C | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 2/11/2026 | AVP1983C | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
-| 2/5/2026 | SAG1975D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
+| 2/5/2026 | SAG1975D | DOJ Government Ethics Laws | Passed | 0.0 | 0.00 |
 | 2/5/2026 | SAG3687D | Oregon TITAN Fusion Center ACISS | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG1684D | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG2916D | Legal Updates | Passed | 0.0 | 2.00 |
@@ -64,6 +63,8 @@
 | 2/2/2026 | SAG2588D | Report Writing | Passed | 0.0 | 1.00 |
 | 2/2/2026 | SAG3347D | WSIN training | Passed | 0.0 | 1.00 |
 | 2/2/2026 | SAG3232D | Evidence Handling | Passed | 0.0 | 1.00 |
+| 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |
 | 9/10/2025 | AVP1649B | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |
 | 9/10/2025 | AVP4578C | Monthly Leadership Meeting | Passed | 0.0 | 2.00 |

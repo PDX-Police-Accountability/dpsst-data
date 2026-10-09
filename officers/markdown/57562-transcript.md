@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2026 | OCP2091D | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 9/27/2026 | OCP2771D | EVO | Passed | 0.0 | 7.00 |
+| 9/27/2026 | OCP3318D | EVO- PIT Re-Certification | Passed | 0.0 | 1.00 |
 | 8/27/2026 | OCP2870D | Defensive Tactics | Instructed | 0.0 | 13.50 |
 | 8/7/2026 | OCP2936D | Pursuit Management | Passed | 0.0 | 1.00 |
 | 8/1/2026 | OCP1842D | Policy 419 ALPR | Passed | 0.0 | 0.25 |

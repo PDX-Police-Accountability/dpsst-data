@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/17/2026
+  course: UPR1706D
+  title: CJIS Online
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/22/2026
   course: UPR3579C
   title: Handgun Qualification

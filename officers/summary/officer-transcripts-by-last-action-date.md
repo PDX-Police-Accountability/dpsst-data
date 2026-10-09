@@ -174,6 +174,7 @@
 | * MISSING | 32016 |  |  |  |  |  | [md](../markdown/32016-transcript.md) - [yaml](../yaml/32016-transcript.yml) |
 | * MISSING | 32023 |  |  |  |  |  | [md](../markdown/32023-transcript.md) - [yaml](../yaml/32023-transcript.yml) |
 | * MISSING | 32114 |  |  |  |  |  | [md](../markdown/32114-transcript.md) - [yaml](../yaml/32114-transcript.yml) |
+| * MISSING | 32392 |  |  |  |  |  | [md](../markdown/32392-transcript.md) - [yaml](../yaml/32392-transcript.yml) |
 | * MISSING | 32393 |  |  |  |  |  | [md](../markdown/32393-transcript.md) - [yaml](../yaml/32393-transcript.yml) |
 | * MISSING | 32403 |  |  |  |  |  | [md](../markdown/32403-transcript.md) - [yaml](../yaml/32403-transcript.yml) |
 | * MISSING | 32784 |  |  |  |  |  | [md](../markdown/32784-transcript.md) - [yaml](../yaml/32784-transcript.yml) |
@@ -184,6 +185,7 @@
 | * MISSING | 34296 |  |  |  |  |  | [md](../markdown/34296-transcript.md) - [yaml](../yaml/34296-transcript.yml) |
 | * MISSING | 34371 |  |  |  |  |  | [md](../markdown/34371-transcript.md) - [yaml](../yaml/34371-transcript.yml) |
 | * MISSING | 35449 |  |  |  |  |  | [md](../markdown/35449-transcript.md) - [yaml](../yaml/35449-transcript.yml) |
+| * MISSING | 35808 |  |  |  |  |  | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
 | * MISSING | 36042 |  |  |  |  |  | [md](../markdown/36042-transcript.md) - [yaml](../yaml/36042-transcript.yml) |
 | * MISSING | 36610 |  |  |  |  |  | [md](../markdown/36610-transcript.md) - [yaml](../yaml/36610-transcript.yml) |
 | * MISSING | 36717 |  |  |  |  |  | [md](../markdown/36717-transcript.md) - [yaml](../yaml/36717-transcript.yml) |
@@ -370,7 +372,6 @@
 | Brown, Thomas M. | 32382 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-06-30 | [md](../markdown/32382-transcript.md) - [yaml](../yaml/32382-transcript.yml) |
 | Burleigh, David C. | 34368 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1998-07-05 | [md](../markdown/34368-transcript.md) - [yaml](../yaml/34368-transcript.yml) |
 | Rossetto, Catherine M. | 35807 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-06 | [md](../markdown/35807-transcript.md) - [yaml](../yaml/35807-transcript.yml) |
-| Quist, Amy S. | 35808 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
 | Mack, Jennifer D. | 37600 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/37600-transcript.md) - [yaml](../yaml/37600-transcript.yml) |
 | Hill, Anthony R. | 36236 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/36236-transcript.md) - [yaml](../yaml/36236-transcript.yml) |
 | Mathews, Stephanie D. | 36263 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-09-10 | [md](../markdown/36263-transcript.md) - [yaml](../yaml/36263-transcript.yml) |
@@ -382,7 +383,6 @@
 | Amend, Michelle R. | 36546 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-11-12 | [md](../markdown/36546-transcript.md) - [yaml](../yaml/36546-transcript.yml) |
 | Eisner, Melody R. | 36591 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-11-19 | [md](../markdown/36591-transcript.md) - [yaml](../yaml/36591-transcript.yml) |
 | Nelson, Andrea F. | 36692 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-11-19 | [md](../markdown/36692-transcript.md) - [yaml](../yaml/36692-transcript.yml) |
-| Massey, Nelson D. | 32392 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-12-13 | [md](../markdown/32392-transcript.md) - [yaml](../yaml/32392-transcript.yml) |
 | Chinn, Maki M. | 36716 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-12-17 | [md](../markdown/36716-transcript.md) - [yaml](../yaml/36716-transcript.yml) |
 | McCurley, Robert H. | 36154 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1999-01-10 | [md](../markdown/36154-transcript.md) - [yaml](../yaml/36154-transcript.yml) |
 | Douglas-Dalby, Daniel K. | 29222 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1999-02-07 | [md](../markdown/29222-transcript.md) - [yaml](../yaml/29222-transcript.yml) |

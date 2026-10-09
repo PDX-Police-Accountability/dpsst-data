@@ -59,6 +59,7 @@
 | 9/23/2026 | OAC0635D | Agency Culture  Building next Gen | Passed | 0.0 | 3.00 |
 | 9/8/2026 | SPP4097D | Report Writing Training | Passed | 0.0 | 4.00 |
 | 9/2/2026 | SPP4304D | Body Worn Camera Training | Passed | 0.0 | 1.00 |
+| 9/2/2026 | SPP0793D | Animal Law Training | Passed | 0.0 | 1.00 |
 | 7/6/2026 | SPP3132D | Legal Update Training | Passed | 0.0 | 1.00 |
 | 6/23/2026 | SPP3904C | Cybersecurity | Passed | 0.0 | 0.50 |
 | 6/23/2026 | SPP3398C | Fire Extinguisher Safety | Passed | 0.0 | 0.50 |

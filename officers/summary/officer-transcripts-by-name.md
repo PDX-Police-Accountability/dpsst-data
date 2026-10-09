@@ -174,6 +174,7 @@
 | * MISSING | 32016 |  |  |  |  |  | [md](../markdown/32016-transcript.md) - [yaml](../yaml/32016-transcript.yml) |
 | * MISSING | 32023 |  |  |  |  |  | [md](../markdown/32023-transcript.md) - [yaml](../yaml/32023-transcript.yml) |
 | * MISSING | 32114 |  |  |  |  |  | [md](../markdown/32114-transcript.md) - [yaml](../yaml/32114-transcript.yml) |
+| * MISSING | 32392 |  |  |  |  |  | [md](../markdown/32392-transcript.md) - [yaml](../yaml/32392-transcript.yml) |
 | * MISSING | 32393 |  |  |  |  |  | [md](../markdown/32393-transcript.md) - [yaml](../yaml/32393-transcript.yml) |
 | * MISSING | 32403 |  |  |  |  |  | [md](../markdown/32403-transcript.md) - [yaml](../yaml/32403-transcript.yml) |
 | * MISSING | 32784 |  |  |  |  |  | [md](../markdown/32784-transcript.md) - [yaml](../yaml/32784-transcript.yml) |
@@ -184,6 +185,7 @@
 | * MISSING | 34296 |  |  |  |  |  | [md](../markdown/34296-transcript.md) - [yaml](../yaml/34296-transcript.yml) |
 | * MISSING | 34371 |  |  |  |  |  | [md](../markdown/34371-transcript.md) - [yaml](../yaml/34371-transcript.yml) |
 | * MISSING | 35449 |  |  |  |  |  | [md](../markdown/35449-transcript.md) - [yaml](../yaml/35449-transcript.yml) |
+| * MISSING | 35808 |  |  |  |  |  | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
 | * MISSING | 36042 |  |  |  |  |  | [md](../markdown/36042-transcript.md) - [yaml](../yaml/36042-transcript.yml) |
 | * MISSING | 36610 |  |  |  |  |  | [md](../markdown/36610-transcript.md) - [yaml](../yaml/36610-transcript.yml) |
 | * MISSING | 36717 |  |  |  |  |  | [md](../markdown/36717-transcript.md) - [yaml](../yaml/36717-transcript.yml) |
@@ -1191,7 +1193,6 @@
 | Martley, Heather L. | 51830 | Portland Police Bureau | Active | Criminalist | Promotion | 2025-05-22 | [md](../markdown/51830-transcript.md) - [yaml](../yaml/51830-transcript.yml) |
 | Mason, Christine S. | 20384 | Portland Police Bureau | Active | Civilian Employee | Reclassed | 1990-10-11 | [md](../markdown/20384-transcript.md) - [yaml](../yaml/20384-transcript.yml) |
 | Mason, Ronald L. | 25247 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2024-11-21 | [md](../markdown/25247-transcript.md) - [yaml](../yaml/25247-transcript.yml) |
-| Massey, Nelson D. | 32392 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-12-13 | [md](../markdown/32392-transcript.md) - [yaml](../yaml/32392-transcript.yml) |
 | Mast, Timothy M. | 36874 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-20 | [md](../markdown/36874-transcript.md) - [yaml](../yaml/36874-transcript.yml) |
 | Masunari, Matthew K. | 56874 | Portland Police Bureau | Active | Police Officer | Hired | 2019-06-27 | [md](../markdown/56874-transcript.md) - [yaml](../yaml/56874-transcript.yml) |
 | Mathew, Donald L. | 60812 | Portland Police Bureau | Active | Police Officer | Hired | 2020-03-26 | [md](../markdown/60812-transcript.md) - [yaml](../yaml/60812-transcript.yml) |
@@ -1450,7 +1451,6 @@
 | Quick, Robert R. | 30665 | Portland Police Bureau | Active | Captain | Promotion | 2024-01-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Quinsland, Alexander P. | 50817 | Portland Police Bureau | Active | Sergeant | Promotion | 2025-08-28 | [md](../markdown/50817-transcript.md) - [yaml](../yaml/50817-transcript.yml) |
 | Quintero, Magali | 52834 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2014-05-31 | [md](../markdown/52834-transcript.md) - [yaml](../yaml/52834-transcript.yml) |
-| Quist, Amy S. | 35808 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
 | Raabe, Anthony J. | 31942 | Portland Police Bureau | Active | Civilian Employee | Hired | 1996-01-25 | [md](../markdown/31942-transcript.md) - [yaml](../yaml/31942-transcript.yml) |
 | Rabe, Caleb J. | 60964 | Portland Police Bureau | Active | Police Officer | Hired | 2020-06-25 | [md](../markdown/60964-transcript.md) - [yaml](../yaml/60964-transcript.yml) |
 | Rae, Marilyn | 23777 | Portland Police Bureau | Active | Civilian Employee | Hired | 1990-04-17 | [md](../markdown/23777-transcript.md) - [yaml](../yaml/23777-transcript.yml) |

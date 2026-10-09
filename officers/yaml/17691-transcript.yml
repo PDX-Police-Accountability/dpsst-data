@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/1/2026
+  course: MNS2787D
+  title: Radar/Lidar Instructor Training
+  status: ''
+  score: '0.0'
+  hours: '8.00'
 - date: 9/12/2026
   course: MNS3062D
   title: Fall EVO 2026

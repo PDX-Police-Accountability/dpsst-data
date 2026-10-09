@@ -478,7 +478,7 @@
 | Wallace, Roger P. | 32387 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-09-14 | [md](../markdown/32387-transcript.md) - [yaml](../yaml/32387-transcript.yml) |
 | Taaca, Timothy L. | 32388 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1997-07-17 | [md](../markdown/32388-transcript.md) - [yaml](../yaml/32388-transcript.yml) |
 | Edwards, John M. | 32391 | Portland Police Bureau | Inactive | Sergeant | Retired | 2026-05-26 | [md](../markdown/32391-transcript.md) - [yaml](../yaml/32391-transcript.yml) |
-| Massey, Nelson D. | 32392 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-12-13 | [md](../markdown/32392-transcript.md) - [yaml](../yaml/32392-transcript.yml) |
+| * MISSING | 32392 |  |  |  |  |  | [md](../markdown/32392-transcript.md) - [yaml](../yaml/32392-transcript.yml) |
 | * MISSING | 32393 |  |  |  |  |  | [md](../markdown/32393-transcript.md) - [yaml](../yaml/32393-transcript.yml) |
 | Gossman, Rema M. | 32395 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-06-07 | [md](../markdown/32395-transcript.md) - [yaml](../yaml/32395-transcript.yml) |
 | Hern, Paul W. | 32396 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32396-transcript.md) - [yaml](../yaml/32396-transcript.yml) |
@@ -580,7 +580,7 @@
 | Coffey, Ryan S. | 35623 | Portland Police Bureau | Active | Sergeant | Promotion | 2013-01-10 | [md](../markdown/35623-transcript.md) - [yaml](../yaml/35623-transcript.yml) |
 | McDaniel, Jeffrey J. | 35716 | Portland Police Bureau | Active | Sergeant | Return LOA | 2024-11-16 | [md](../markdown/35716-transcript.md) - [yaml](../yaml/35716-transcript.yml) |
 | Rossetto, Catherine M. | 35807 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-06 | [md](../markdown/35807-transcript.md) - [yaml](../yaml/35807-transcript.yml) |
-| Quist, Amy S. | 35808 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
+| * MISSING | 35808 |  |  |  |  |  | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
 | Stoner, Chad M. | 35816 | Portland Police Bureau | Inactive | Detective | Retired | 2023-07-17 | [md](../markdown/35816-transcript.md) - [yaml](../yaml/35816-transcript.yml) |
 | Storm, Richard L. | 35818 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-02-27 | [md](../markdown/35818-transcript.md) - [yaml](../yaml/35818-transcript.yml) |
 | Miller, Herbert P. | 35819 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-27 | [md](../markdown/35819-transcript.md) - [yaml](../yaml/35819-transcript.yml) |

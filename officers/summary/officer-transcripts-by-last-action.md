@@ -174,6 +174,7 @@
 | * MISSING | 32016 |  |  |  |  |  | [md](../markdown/32016-transcript.md) - [yaml](../yaml/32016-transcript.yml) |
 | * MISSING | 32023 |  |  |  |  |  | [md](../markdown/32023-transcript.md) - [yaml](../yaml/32023-transcript.yml) |
 | * MISSING | 32114 |  |  |  |  |  | [md](../markdown/32114-transcript.md) - [yaml](../yaml/32114-transcript.yml) |
+| * MISSING | 32392 |  |  |  |  |  | [md](../markdown/32392-transcript.md) - [yaml](../yaml/32392-transcript.yml) |
 | * MISSING | 32393 |  |  |  |  |  | [md](../markdown/32393-transcript.md) - [yaml](../yaml/32393-transcript.yml) |
 | * MISSING | 32403 |  |  |  |  |  | [md](../markdown/32403-transcript.md) - [yaml](../yaml/32403-transcript.yml) |
 | * MISSING | 32784 |  |  |  |  |  | [md](../markdown/32784-transcript.md) - [yaml](../yaml/32784-transcript.yml) |
@@ -184,6 +185,7 @@
 | * MISSING | 34296 |  |  |  |  |  | [md](../markdown/34296-transcript.md) - [yaml](../yaml/34296-transcript.yml) |
 | * MISSING | 34371 |  |  |  |  |  | [md](../markdown/34371-transcript.md) - [yaml](../yaml/34371-transcript.yml) |
 | * MISSING | 35449 |  |  |  |  |  | [md](../markdown/35449-transcript.md) - [yaml](../yaml/35449-transcript.yml) |
+| * MISSING | 35808 |  |  |  |  |  | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
 | * MISSING | 36042 |  |  |  |  |  | [md](../markdown/36042-transcript.md) - [yaml](../yaml/36042-transcript.yml) |
 | * MISSING | 36610 |  |  |  |  |  | [md](../markdown/36610-transcript.md) - [yaml](../yaml/36610-transcript.yml) |
 | * MISSING | 36717 |  |  |  |  |  | [md](../markdown/36717-transcript.md) - [yaml](../yaml/36717-transcript.yml) |
@@ -341,7 +343,6 @@
 | Wrigley, Nicole R. | 35113 | Portland Police Bureau | Active | Civilian Employee | Hired | 2003-10-23 | [md](../markdown/35113-transcript.md) - [yaml](../yaml/35113-transcript.yml) |
 | Diaz, Belarmino C. | 35403 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-04-02 | [md](../markdown/35403-transcript.md) - [yaml](../yaml/35403-transcript.yml) |
 | Rossetto, Catherine M. | 35807 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-06 | [md](../markdown/35807-transcript.md) - [yaml](../yaml/35807-transcript.yml) |
-| Quist, Amy S. | 35808 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
 | Hill, Anthony R. | 36236 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/36236-transcript.md) - [yaml](../yaml/36236-transcript.yml) |
 | Mathews, Stephanie D. | 36263 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-09-10 | [md](../markdown/36263-transcript.md) - [yaml](../yaml/36263-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
@@ -1233,7 +1234,6 @@
 | Brown, Thomas M. | 32382 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-06-30 | [md](../markdown/32382-transcript.md) - [yaml](../yaml/32382-transcript.yml) |
 | Wallace, Roger P. | 32387 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-09-14 | [md](../markdown/32387-transcript.md) - [yaml](../yaml/32387-transcript.yml) |
 | Taaca, Timothy L. | 32388 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1997-07-17 | [md](../markdown/32388-transcript.md) - [yaml](../yaml/32388-transcript.yml) |
-| Massey, Nelson D. | 32392 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-12-13 | [md](../markdown/32392-transcript.md) - [yaml](../yaml/32392-transcript.yml) |
 | Gossman, Rema M. | 32395 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-06-07 | [md](../markdown/32395-transcript.md) - [yaml](../yaml/32395-transcript.yml) |
 | Ruhl, Benjamin D. | 32402 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1996-08-06 | [md](../markdown/32402-transcript.md) - [yaml](../yaml/32402-transcript.yml) |
 | Hamilton, Michael G. | 33310 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2000-04-04 | [md](../markdown/33310-transcript.md) - [yaml](../yaml/33310-transcript.yml) |

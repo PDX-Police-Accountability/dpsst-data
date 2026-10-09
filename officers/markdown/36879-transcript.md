@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/17/2026 | UPR2613D | Glock 47 Handgun RCR Transition Course | Passed | 0.0 | 8.00 |
+| 9/17/2026 | UPR1706D | CJIS Online | Passed | 0.0 | 8.00 |
 | 4/22/2026 | UPR3579C | Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/22/2026 | UPR1535C | Patrol Rifle Qualification | Passed | 0.0 | 1.00 |
 | 4/22/2026 | UPR3258C | Karly's Law Training | Passed | 0.0 | 1.00 |

@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/6/2026
+  course: BNP4112D
+  title: Smith  Wesson Shield Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/30/2026
   course: BNP2109D
   title: ALPR / Senate Bill 1516 Training

@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2026 | BNP4112D | Smith  Wesson Shield Handgun Training | Passed | 0.0 | 1.50 |
 | 8/25/2026 | BNP3994D | Bend PD Ethics | Instructed | 0.0 | 2.00 |
 | 8/12/2026 | BNP1671D | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |
 | 8/5/2026 | BNP4133D | Open Range / Firearms Exertion Course | Passed | 0.0 | 1.00 |

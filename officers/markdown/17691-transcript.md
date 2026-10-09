@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/4/2026 | MNS4134D | Fall EVO 2026 | Instructed | 0.0 | 9.00 |
 | 10/4/2026 | MNS4134D | Fall EVO 2026 | Passed | 0.0 | 2.00 |
+| 10/1/2026 | MNS2787D | Radar/Lidar Instructor Training |  | 0.0 | 8.00 |
 | 9/12/2026 | MNS3062D | Fall EVO 2026 | Passed | 0.0 | 2.00 |
 | 9/12/2026 | MNS3062D | Fall EVO 2026 | Instructed | 0.0 | 8.50 |
 | 8/13/2026 | MNS3225D | Yamhill County Deflection Program | Passed | 0.0 | 0.50 |

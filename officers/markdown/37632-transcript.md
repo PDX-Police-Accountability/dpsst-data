@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/10/2026 | Multnomah County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 10/6/2025 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 11/30/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/18/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
