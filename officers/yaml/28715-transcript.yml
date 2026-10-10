@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2026
+  course: HBP3600D
+  title: Firearms Remediation Range
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/23/2026
+  course: HBP2222D
+  title: Handcuffing
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2026
+  course: HBP4330D
+  title: Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
 - date: 9/2/2026
   course: HBP0195D
   title: Respectful Workplace - Supervisor Trng (Ldrshp)
@@ -81,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/2/2026
+  course: HBP1223D
+  title: PA 2026-5, Reaction Drills, Tac De-esc, Srch/Sz
+  status: Instructed
+  score: '0.0'
+  hours: '9.50'
 - date: 8/24/2026
   course: HBP2916D
   title: Rifle School - Patrol Rifle Course
