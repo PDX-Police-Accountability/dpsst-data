@@ -219,7 +219,7 @@
 | * MISSING | 25631 |  |  |  |  |  | [md](../markdown/25631-transcript.md) - [yaml](../yaml/25631-transcript.yml) |
 | Lee, Kim E. | 25632 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-15 | [md](../markdown/25632-transcript.md) - [yaml](../yaml/25632-transcript.yml) |
 | * MISSING | 25636 |  |  |  |  |  | [md](../markdown/25636-transcript.md) - [yaml](../yaml/25636-transcript.yml) |
-| Beyer, Mitchell A. | 25750 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1993-07-05 | [md](../markdown/25750-transcript.md) - [yaml](../yaml/25750-transcript.yml) |
+| * MISSING | 25750 |  |  |  |  |  | [md](../markdown/25750-transcript.md) - [yaml](../yaml/25750-transcript.yml) |
 | Schmitt, Tori L. | 25861 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-12-02 | [md](../markdown/25861-transcript.md) - [yaml](../yaml/25861-transcript.yml) |
 | Gulsvig, Derik R. | 25882 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-13 | [md](../markdown/25882-transcript.md) - [yaml](../yaml/25882-transcript.yml) |
 | * MISSING | 25926 |  |  |  |  |  | [md](../markdown/25926-transcript.md) - [yaml](../yaml/25926-transcript.yml) |
@@ -1533,7 +1533,7 @@
 | Perry, Charles D. | 60923 | Portland Police Bureau | Active | Sergeant | Promotion | 2026-07-16 | [md](../markdown/60923-transcript.md) - [yaml](../yaml/60923-transcript.yml) |
 | Jones, Mary L. | 60924 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-05-05 | [md](../markdown/60924-transcript.md) - [yaml](../yaml/60924-transcript.yml) |
 | Cote, Emily M. | 60927 | Portland Police Bureau | Active | Police Officer | Hired | 2020-04-26 | [md](../markdown/60927-transcript.md) - [yaml](../yaml/60927-transcript.yml) |
-| * MISSING | 60932 |  |  |  |  |  | [md](../markdown/60932-transcript.md) - [yaml](../yaml/60932-transcript.yml) |
+| Richards, Garrett D. | 60932 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-10-05 | [md](../markdown/60932-transcript.md) - [yaml](../yaml/60932-transcript.yml) |
 | Sederholm, Alexander J. | 60962 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-08-26 | [md](../markdown/60962-transcript.md) - [yaml](../yaml/60962-transcript.yml) |
 | Rabe, Caleb J. | 60964 | Portland Police Bureau | Active | Police Officer | Hired | 2020-06-25 | [md](../markdown/60964-transcript.md) - [yaml](../yaml/60964-transcript.yml) |
 | Kline, Tyler W. | 60983 | Portland Police Bureau | Active | Police Officer | Hired | 2020-03-26 | [md](../markdown/60983-transcript.md) - [yaml](../yaml/60983-transcript.yml) |
@@ -1749,7 +1749,7 @@
 | Tran, Minh Q. | 65522 | Portland Police Bureau | Active | Police Officer | Hired | 2024-08-01 | [md](../markdown/65522-transcript.md) - [yaml](../yaml/65522-transcript.yml) |
 | MacKay, Maxwell O. | 65523 | Portland Police Bureau | Active | Police Officer | Hired | 2024-08-01 | [md](../markdown/65523-transcript.md) - [yaml](../yaml/65523-transcript.yml) |
 | Diehl, Eric J. | 65526 | Portland Police Bureau | Active | Police Officer | Hired | 2024-08-01 | [md](../markdown/65526-transcript.md) - [yaml](../yaml/65526-transcript.yml) |
-| * MISSING | 65590 |  |  |  |  |  | [md](../markdown/65590-transcript.md) - [yaml](../yaml/65590-transcript.yml) |
+| Topp, William M. | 65590 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2026-09-29 | [md](../markdown/65590-transcript.md) - [yaml](../yaml/65590-transcript.yml) |
 | Mongeau, Kyle B. | 65649 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-11-20 | [md](../markdown/65649-transcript.md) - [yaml](../yaml/65649-transcript.yml) |
 | Valladolid, Miguel R. | 65650 | Portland Police Bureau | Active | Police Officer | Hired | 2024-10-10 | [md](../markdown/65650-transcript.md) - [yaml](../yaml/65650-transcript.yml) |
 | Zivney, Hunter J. | 65654 | Portland Police Bureau | Active | Police Officer | Hired | 2024-10-10 | [md](../markdown/65654-transcript.md) - [yaml](../yaml/65654-transcript.yml) |

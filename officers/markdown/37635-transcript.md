@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/3/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 1/25/2027 | 27-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 9/10/2026 | EGP4393D | Legal Updates | Passed | 0.0 | 1.50 |
 | 9/10/2026 | EGP0700D | MRT Field Force Skills  Scenario Training | Passed | 0.0 | 3.00 |
 | 7/31/2026 | EGP3228D | LEDS Recertification  CJIS Training | Passed | 0.0 | 1.00 |

@@ -114,7 +114,7 @@
 | 11/4/2025 | PDP0872C | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 11/4/2025 | PDP0003C | 2025 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 11/4/2025 | PDP0016C | 2025-09 CAO Legal Updates for 02/2025 | Passed | 0.0 | 0.25 |
-| 9/19/2025 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 9/19/2025 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 8/27/2025 | REG1368B | SFST-DID (Hours included in BASIC) | Passed | 0.0 | 0.00 |
 | 8/7/2025 | REG1645B | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/2/2025 | PDP0096A | Radar Lidar Operator Course | Passed | 0.0 | 14.00 |

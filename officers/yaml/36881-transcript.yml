@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/4/2027
+  course: 27-0029
+  title: DPSST Supervision
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
 - date: 9/17/2026
   course: RSS2573D
   title: 2026 OHIA Major Crimes Conference
