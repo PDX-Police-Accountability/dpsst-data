@@ -1,0 +1,274 @@
+---
+header_record:
+  name: Wood, James A.
+  dpsst_identifier: '02648'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 3/17/2000
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 3/16/2000
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 3/25/1971
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 4/6/1972
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Intermediate
+  status: Expired
+  certificate_date: 9/13/1976
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 11/9/2011
+  course: 11-1276
+  title: Evidence / Property Management
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/13/2007
+  course: 07-1009
+  title: A Clinical Response to Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/25/2007
+  course: 07-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/6/2007
+  course: 07-0747
+  title: Corrections Overview
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/1/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/12/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '64.00'
+- date: 8/29/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '64.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 9/14/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 3/5/1992
+  course: 92K015
+  title: CHILD ABUSE INVESTIGATION:MDT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/30/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '67.00'
+- date: 12/1/1987
+  course: '879058'
+  title: LEDS MANUAL INTRODUCTORY LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/13/1987
+  course: 87P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/10/1987
+  course: '875006'
+  title: ADVANCED CRIME PREVENTION
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/20/1986
+  course: '859297'
+  title: IN-SERVICE TRAINING (PHASE II)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/5/1985
+  course: '855026'
+  title: ADVANCED CRIME PREVENTION COURSE
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/16/1985
+  course: 85P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/8/1985
+  course: '855003'
+  title: CRIMINAL PSYCHOLOGY
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/10/1985
+  course: '855001'
+  title: PSYCHOPATHOLOGY OF SERIAL MURDERERS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/4/1984
+  course: '845011'
+  title: 'PSYCHICS: USE AS INVESTIGATIVE TOOLS'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/1/1984
+  course: 84P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '64.00'
+- date: 5/18/1984
+  course: '845003'
+  title: SERIAL MURDER INVESTIGATION
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/21/1983
+  course: '839128'
+  title: CPR* EMERGENCY CARDIAC CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/13/1983
+  course: '839021'
+  title: PSYCHO-SEXUAL CRIMES
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/8/1981
+  course: '809129'
+  title: FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/1980
+  course: 80P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '73.00'
+- date: 9/22/1978
+  course: '785004'
+  title: CRASH INJURY MANAGEMENT
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/17/1978
+  course: '789049'
+  title: DRUG LAW ENFORCEMENT COURSE
+  status: Passed
+  score: '0.0'
+  hours: '73.00'
+- date: 9/13/1976
+  course: 76P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '773.00'
+- date: 3/16/1976
+  course: '765001'
+  title: OREGON TRAFFIC CODE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/1/1950
+  course: Misc
+  title: Miscellaneous
+  status: Passed
+  score: '0.0'
+  hours: '23.00'
+attribute_records: []
+education_records:
+- date: 6/10/1973
+  degree: Associate Science
+  school: Portland Community College
+  major: Corrections  Police Studies
+  hours: '93.0'

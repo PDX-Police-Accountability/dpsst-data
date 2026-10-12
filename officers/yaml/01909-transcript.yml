@@ -1,0 +1,339 @@
+---
+header_record:
+  name: Prechtl, Rolynn F.
+  dpsst_identifier: '01909'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 9/15/2020
+  agency: Washington County Sheriff's Office
+  action: Inactive
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 12/1/2005
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 12/1/1998
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 11/29/1973
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 11/27/1973
+  agency: Washington County Sheriff's Office
+  action: Terminated
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 4/1/1971
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Advanced
+  status: Expired
+  certificate_date: 8/6/1979
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 1/16/1975
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Intermediate
+  status: Expired
+  certificate_date: 4/9/1975
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 10/1/2008
+  course: '08-0144'
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/8/2008
+  course: '08-0144'
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/10/2007
+  course: 07-0820
+  title: Criminal Intelligence Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/5/2007
+  course: 07-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/14/2007
+  course: 07-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/10/2006
+  course: 06-0220
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/13/2005
+  course: 05-0702
+  title: IFAST Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/12/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/3/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/10/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 12/31/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/30/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/31/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '42.00'
+- date: 7/15/1995
+  course: 95X088
+  title: LEDS 1995 RECERTIFICATION TEST
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '44.00'
+- date: 5/27/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '44.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/26/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/14/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '67.00'
+- date: 5/29/1992
+  course: 92K008
+  title: FIRST CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/5/1992
+  course: 92K015
+  title: CHILD ABUSE INVESTIGATION:MDT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/23/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 5/30/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '96.00'
+- date: 12/31/1986
+  course: '869051'
+  title: LEDS MANUAL--INTRODUCTORY LEVEL CERT
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/20/1986
+  course: '859297'
+  title: IN-SERVICE TRAINING (PHASE II)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/15/1985
+  course: 85P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/8/1983
+  course: 83P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '42.00'
+- date: 7/8/1983
+  course: '839128'
+  title: CPR* EMERGENCY CARDIAC CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/19/1982
+  course: '829133'
+  title: DANGEROUS MOTORCYCLE GANGS
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/18/1981
+  course: '819160'
+  title: FALL RANGE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/30/1981
+  course: 81P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '136.00'
+- date: 1/8/1981
+  course: '809129'
+  title: FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/6/1979
+  course: 79P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '312.00'
+- date: 3/2/1979
+  course: '795004'
+  title: CRASH INJURY MANAGEMENT
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/17/1978
+  course: '785002'
+  title: HOMICIDE INVESTIGATION
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/16/1977
+  course: '775016'
+  title: AUTO THEFT INVESTIGATION
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 3/10/1976
+  course: '765001'
+  title: OREGON TRAFFIC CODE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/6/1975
+  course: '749035'
+  title: PORTLAND BASIC RECRUIT CLASS
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 1/1/1950
+  course: Misc
+  title: Miscellaneous
+  status: Passed
+  score: '0.0'
+  hours: '242.00'
+attribute_records: []
+education_records:
+- date: 6/14/1974
+  degree: No Degree
+  school: Portland Community College
+  major: Corrections  Police Studies
+  hours: '15.0'
+- date: 12/17/1968
+  degree: No Degree
+  school: Portland State University
+  major: Engineering
+  hours: '29.0'
+- date: 6/14/1966
+  degree: No Degree
+  school: All Other Education Institutes
+  major: Mathematics/statistics
+  hours: '22.5'

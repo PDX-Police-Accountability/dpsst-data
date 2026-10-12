@@ -1,0 +1,45 @@
+---
+header_record:
+  name: Freshour, Harold W.
+  dpsst_identifier: '00771'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 5/20/1987
+  agency: Multnomah County District Attorney
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 5/19/1987
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 5/17/1962
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 9/8/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/6/1991
+  course: 00U003
+  title: PURGED TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '1076.00'
+attribute_records: []
+education_records: []

@@ -1,0 +1,388 @@
+---
+header_record:
+  name: Karman, Richard J.
+  dpsst_identifier: '06231'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 10/7/2020
+  agency: Clackamas County Sheriff's Office
+  action: Inactive
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 4/21/2008
+  agency: Clackamas County Sheriff's Office
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 6/29/2002
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 4/11/1974
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 3/18/1975
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 1/10/2013
+  course: 13-0973
+  title: Veterans Awareness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/10/2013
+  course: 13-0439
+  title: Empowering Employees
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/1/2011
+  course: 11-0926
+  title: Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2009
+  course: '09-0914'
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/13/2008
+  course: '08-0954'
+  title: CPR / First Aid / AED / Bloodbourne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2007
+  course: 07-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/2/2004
+  course: 04-4621
+  title: Ethical Leadership in Command
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/24/2004
+  course: 04-0303
+  title: Resource Management Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/24/2004
+  course: 04-0303
+  title: Resource Management Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/21/2001
+  course: 01CP746
+  title: Portland Innovations Conference
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/14/2001
+  course: 01U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/9/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 12/7/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/14/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '68.00'
+- date: 2/17/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 9/25/1998
+  course: 98P393
+  title: 1998 NATIONAL COMMUNITY POLICING CONFERE
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 5/27/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '48.00'
+- date: 4/30/1998
+  course: 98U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '53.00'
+- date: 9/9/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '34.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 2/6/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/24/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 9/14/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '91.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 7/14/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 11/10/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/20/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/14/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '144.00'
+- date: 5/29/1992
+  course: 92K008
+  title: FIRST CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/5/1992
+  course: 92K015
+  title: CHILD ABUSE INVESTIGATION:MDT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/16/1990
+  course: '909184'
+  title: PROBLEM ORIENTED POLICING SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 6/29/1989
+  course: '899231'
+  title: OREGON'S CRIMINAL JUSTICE INFO. SYSTEM
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/25/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/30/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 3/1/1987
+  course: '879058'
+  title: LEDS MANUAL INTRODUCTORY LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/20/1986
+  course: '859297'
+  title: IN-SERVICE TRAINING (PHASE II)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/31/1985
+  course: 85P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/23/1985
+  course: 85P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/1/1984
+  course: 84P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '64.00'
+- date: 3/21/1984
+  course: 84Z007
+  title: MICROCOMPUTER SOFTWARE DEMONSTRATION
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/23/1983
+  course: '835041'
+  title: USING COMPUTERS IN LAW ENFORCEMENT
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/18/1983
+  course: '839128'
+  title: CPR* EMERGENCY CARDIAC CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/8/1983
+  course: '835050'
+  title: CRIME ANALYSIS TECHNIQUES WORKSHOP
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/13/1983
+  course: '839021'
+  title: PSYCHO-SEXUAL CRIMES
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/17/1982
+  course: '825048'
+  title: VISUAL INVESTIGATIVE ANALYSIS
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/20/1982
+  course: '829009'
+  title: MICRO COMPUTER SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/18/1981
+  course: '819160'
+  title: FALL RANGE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/22/1981
+  course: '819082'
+  title: TACTICAL CRIME ANALYSIS
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 1/8/1981
+  course: '809129'
+  title: FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/1980
+  course: 80P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '199.00'
+- date: 5/14/1980
+  course: '809051'
+  title: LEDS WORKSHOP
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 3/2/1978
+  course: '789035'
+  title: MOBILE TERMINAL INSTRUCT CLASS
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 3/12/1976
+  course: '765001'
+  title: OREGON TRAFFIC CODE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/1/1975
+  course: 75M050
+  title: FIELD TRAINING MANUAL
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 1/1/1950
+  course: Misc
+  title: Miscellaneous
+  status: Passed
+  score: '0.0'
+  hours: '647.00'
+attribute_records: []
+education_records: []

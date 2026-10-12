@@ -1,0 +1,598 @@
+---
+header_record:
+  name: Boek, Gary A.
+  dpsst_identifier: '08590'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Detective
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 6/16/2009
+  agency: Multnomah County District Attorney
+  action: Reclassed
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 7/10/2006
+  agency: Multnomah County District Attorney
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 6/30/2006
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 6/4/1998
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 2/16/1977
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 2/9/1978
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 12/31/2006
+  course: 06-1348
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2006
+  course: 06-1347
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 12/31/2005
+  course: 05-2978
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 12/31/2005
+  course: 05-2977
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
+- date: 1/27/2005
+  course: 05-0296
+  title: Child Abduction/Homicide Investigations
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 12/31/2004
+  course: 04-3581
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '19.00'
+- date: 12/31/2004
+  course: 04-3579
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 4/23/2004
+  course: 04-0529
+  title: Child Abuse Summit 2004
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 8/28/2003
+  course: 03-0872
+  title: OSIN Basic Criminal Intelligence Concepts Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/23/2003
+  course: 03-0686
+  title: Telephone Interviewing Skills
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 7/30/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 4/26/2002
+  course: 02CP568
+  title: Child Abuse Summit 2002
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 12/18/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/9/2001
+  course: 02CP041
+  title: Western Regional Symposium on Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
+- date: 11/9/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/25/2001
+  course: 01CP363
+  title: Child Homicide / Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/20/2001
+  course: 01CP262
+  title: Child Abuse Summit 2001
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 4/20/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 12/31/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/1/2000
+  course: 00P614
+  title: Western Regional Syposium on Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
+- date: 8/24/2000
+  course: 00P533
+  title: Crimes Against Children Conference
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 5/12/2000
+  course: 00P225
+  title: CLINICAL RESPONSE TO CHILD ABUSE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/28/2000
+  course: 00P213
+  title: CHILD ABUSE SUMMIT 2000
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 11/30/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '34.50'
+- date: 11/19/1999
+  course: 99P113
+  title: REID METHOD OF CRIMINAL INTERVIEWS  INT
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 2/26/1999
+  course: 99P046
+  title: ADVANCED INVESTIGATORS SCHOOL
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/15/1999
+  course: 99P153
+  title: SERGEANTS COMMAND SCHOOL
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 10/31/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '79.00'
+- date: 7/17/1998
+  course: 98P370
+  title: 'HOMICIDE INVESTIGATION: A PRACTICAL APPR'
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/1/1998
+  course: 98P357
+  title: A CLINICAL RESPONSE TO CHILD ABUSE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/1/1998
+  course: 98P271
+  title: Basic Detective Academy
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 4/7/1998
+  course: 98P224
+  title: 1998 OREGON POLICE CANINE ASSOC SPRING S
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/17/1997
+  course: 97P489
+  title: OPCA 1997 WORKING DOG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/7/1997
+  course: 97P265
+  title: OPCA 1997 SPRING SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/25/1996
+  course: 96P311
+  title: 1996 FALL SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/20/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/30/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '33.00'
+- date: 9/20/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '64.00'
+- date: 9/20/1995
+  course: 95X174
+  title: FALL 95-WORKING DOG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/17/1995
+  course: 95J007
+  title: INTRO TO DRUGGED DRIVER DETECTION
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/31/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '42.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '89.00'
+- date: 9/21/1994
+  course: 94J153
+  title: OPCA WORKING DOG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/10/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '44.00'
+- date: 9/22/1993
+  course: 93P040
+  title: FALL WORKING DOG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/26/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '35.00'
+- date: 3/2/1993
+  course: 93P011
+  title: OR POLICE CANINIE ASSOC SPRING SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/26/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/14/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '222.00'
+- date: 5/29/1992
+  course: 92K008
+  title: FIRST CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/20/1992
+  course: 92P013
+  title: POLICE K-9 SEMINAR WITH JOHANNES GREWE
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 3/5/1992
+  course: 92K015
+  title: CHILD ABUSE INVESTIGATION:MDT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/10/1991
+  course: 91K130
+  title: CANINE TRAINING SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/30/1991
+  course: 91U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/19/1990
+  course: '905030'
+  title: O.P.C.A. FALL SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/7/1990
+  course: '909176'
+  title: CANINE SERVICES - REGION III
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 3/12/1990
+  course: '909101'
+  title: O.P.C.A. DETECTION DOG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/9/1989
+  course: '899129'
+  title: PORTLAND POLICE CANINE TRAINING 89-1
+  status: Passed
+  score: '0.0'
+  hours: '400.00'
+- date: 5/25/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '120.00'
+- date: 5/3/1989
+  course: '899186'
+  title: INTRO. TO NARCOTIC DETECTION DOG TRAIN.
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/30/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '202.00'
+- date: 12/11/1987
+  course: '879404'
+  title: PORTLAND POLICE CANINE TRAINING CLASS II
+  status: Passed
+  score: '0.0'
+  hours: '400.00'
+- date: 4/8/1987
+  course: '879120'
+  title: POLICE CANINE SCENT WORK
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 3/1/1987
+  course: '879058'
+  title: LEDS MANUAL INTRODUCTORY LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/1986
+  course: 86P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '96.00'
+- date: 5/20/1986
+  course: '859297'
+  title: IN-SERVICE TRAINING (PHASE II)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/5/1985
+  course: 85P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 6/21/1985
+  course: '859192'
+  title: DOGMASTER TRAINING CLASS
+  status: Passed
+  score: '0.0'
+  hours: '400.00'
+- date: 3/29/1985
+  course: '859184'
+  title: PSYCHOPATHOLOGY OF THE SERIAL KILLER
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/1/1985
+  course: '859016'
+  title: POLICE DOG TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/13/1984
+  course: '849145'
+  title: PLAN  ORGANIZE A CANINE UNIT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/6/1984
+  course: 84P098
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/6/1984
+  course: 84P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '66.00'
+- date: 3/6/1984
+  course: 84P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 9/30/1983
+  course: '839139'
+  title: CAROTID CONTROL
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/1983
+  course: '839133'
+  title: POLICE K-9 DOGMASTER TRNG
+  status: Passed
+  score: '0.0'
+  hours: '400.00'
+- date: 12/18/1981
+  course: '819160'
+  title: FALL RANGE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/2/1981
+  course: '819187'
+  title: ABUSE INVESTIGATIONS
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 1/8/1981
+  course: '809129'
+  title: FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/1/1981
+  course: '819099'
+  title: INTOXILYZER MODEL 4O11-A
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/1980
+  course: 80P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '84.00'
+- date: 7/6/1979
+  course: '795007'
+  title: SEARCH AND SEIZURE
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/1/1978
+  course: 78M050
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 11/4/1977
+  course: '779110'
+  title: ADVANCED RECRUIT TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '320.00'
+- date: 4/8/1977
+  course: '771066'
+  title: OPA BASIC POLICE ACADEMY
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 3/23/1977
+  course: 77F066
+  title: 'OPA BASIC FIRST AID #66'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+attribute_records: []
+education_records: []

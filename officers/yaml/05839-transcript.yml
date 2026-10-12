@@ -1,0 +1,599 @@
+---
+header_record:
+  name: Russelle, Steven A.
+  dpsst_identifier: '05839'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Detective
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 9/15/2020
+  agency: Washington County Sheriff's Office
+  action: Inactive
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 12/1/2005
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 1/8/2003
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 4/4/1985
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 1/4/1978
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 12/31/1977
+  agency: Washington County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 4/1/1977
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 3/31/1977
+  agency: Washington County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 7/16/1973
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 2/15/2020
+  certificate: Corrections Officer
+  level: Basic
+  status: Expired
+  certificate_date: 3/1/1976
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Advanced
+  status: Expired
+  certificate_date: 11/22/1983
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 4/2/1979
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Intermediate
+  status: Expired
+  certificate_date: 11/22/1983
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 1/14/2016
+  course: F6Z00139
+  title: 'Active Shooter: Crisis Response  UCC Lessons'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2014
+  course: 14-0660
+  title: Culture / Diversity - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 3/13/2013
+  course: 13-0986
+  title: Hostage Exercise
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/9/2013
+  course: 13-0986
+  title: Hostage Exercise
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/8/2012
+  course: 12-0986
+  title: Hostage Exercise
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/28/2012
+  course: 12-0986
+  title: Hostage Exercise
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/15/2012
+  course: 12-0985
+  title: Hostage / Tactical Negotiation Team (HNT/TNT) Trng
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/25/2012
+  course: 12-0986
+  title: Hostage Exercise
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/13/2011
+  course: 11-0889
+  title: Response to Suicide Bombings
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/9/2010
+  course: 10-0986
+  title: Hostage Exercise
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/17/2008
+  course: '08-0832'
+  title: Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/10/2008
+  course: '08-0144'
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/9/2008
+  course: '08-0985'
+  title: Hostage / Tactical Negotiation Team (HNT/TNT) Trng
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/15/2008
+  course: '08-0721'
+  title: Electronics - Other
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/14/2008
+  course: '08-0985'
+  title: Hostage / Tactical Negotiation Team (HNT/TNT) Trng
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/22/2008
+  course: '08-0144'
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/21/2008
+  course: '08-0985'
+  title: Hostage / Tactical Negotiation Team (HNT/TNT) Trng
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/21/2008
+  course: '08-0276'
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/7/2007
+  course: 07-0673
+  title: School Violence
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/25/2007
+  course: 07-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/10/2007
+  course: 07-0820
+  title: Criminal Intelligence Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 7/17/2007
+  course: 07-1186
+  title: Search  Rescue
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 4/13/2007
+  course: 07-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/14/2007
+  course: 07-0982
+  title: Crisis Negotiations Team Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/24/2006
+  course: 06-0820
+  title: IFAST Spring 2006
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/13/2005
+  course: 05-0702
+  title: IFAST Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/16/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '56.50'
+- date: 12/17/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/11/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '47.50'
+- date: 3/20/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/12/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '42.00'
+- date: 7/29/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/15/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/30/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/22/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 5/6/1999
+  course: 99U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '85.00'
+- date: 12/31/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '111.00'
+- date: 11/19/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 10/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/30/1997
+  course: 97P294
+  title: HOSTAGE NEGOTIATION ADVANCED SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 2/20/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '44.00'
+- date: 11/10/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 5/12/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/1/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/22/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '110.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '70.00'
+- date: 2/9/1994
+  course: 94J043
+  title: VIN LOCATION; PRIMARY/SECONDARY/CONFIDEN
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 1/20/1994
+  course: 94P005
+  title: CAR JACKING/AUTO THEFT
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/12/1994
+  course: 94J022
+  title: TASK FORCE DEVELOPMENT AND OPERATIONS
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/10/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/20/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '76.00'
+- date: 9/14/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '423.00'
+- date: 5/30/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '87.00'
+- date: 9/23/1988
+  course: '889255'
+  title: DEA BASIC NARCOTIC SCHOOL
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 5/30/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/22/1987
+  course: '879004'
+  title: DIGNITARY PROTECTION
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/25/1986
+  course: '869344'
+  title: DESIGNER DRUG/CLANDESTINE DRUG LAB SEM.
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/23/1986
+  course: '869340'
+  title: OREGON WSIN TRAINING CONFERENCE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/10/1986
+  course: '869271'
+  title: BOOBY TRAP AND BOMB SURVIVAL
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/13/1986
+  course: '869263'
+  title: SUMMER TRAINING CONFERENCE - ONEA
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/8/1986
+  course: 86N003
+  title: ELECTRONIC SURVEILLANCE SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/10/1985
+  course: 85P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/22/1984
+  course: '845020'
+  title: VISUAL INVESTIGATIVE ANALYSIS
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 7/25/1984
+  course: '845019'
+  title: LINK ANALYSIS CHARTING TECHNIQUES
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/25/1984
+  course: 84P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '82.00'
+- date: 9/30/1983
+  course: '839139'
+  title: CAROTID CONTROL
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/14/1983
+  course: 83Z004
+  title: FIREARMS INSTRUCTOR WORKSHOP
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/14/1983
+  course: '839128'
+  title: CPR* EMERGENCY CARDIAC CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/18/1981
+  course: '819160'
+  title: FALL RANGE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/14/1981
+  course: '815014'
+  title: ADV FIREARMS INSTR TRNG COURSE
+  status: Passed
+  score: '0.0'
+  hours: '53.00'
+- date: 1/8/1981
+  course: '809129'
+  title: FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/1980
+  course: 80P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '78.00'
+- date: 4/18/1980
+  course: 80A034
+  title: 'ADVANCED OFFICER COURSE #33'
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/31/1978
+  course: '789029'
+  title: ADVANCED RECRUIT ACADEMY 78-1
+  status: Passed
+  score: '0.0'
+  hours: '320.00'
+- date: 1/1/1978
+  course: 78M050
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 7/15/1977
+  course: '771068'
+  title: 'OPA BASIC CLASS #68'
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 3/19/1976
+  course: '765001'
+  title: OREGON TRAFFIC CODE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/1/1976
+  course: 76P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '65.00'
+- date: 1/1/1950
+  course: Misc
+  title: Miscellaneous
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+attribute_records: []
+education_records:
+- date: 9/20/1982
+  degree: No Degree
+  school: Portland Community College
+  major: Corrections  Police Studies
+  hours: '34.0'
+- date: 6/20/1974
+  degree: No Degree
+  school: Portland Community College
+  major: Corrections  Police Studies
+  hours: '56.0'
