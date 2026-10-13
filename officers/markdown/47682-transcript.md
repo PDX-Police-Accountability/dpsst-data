@@ -4,7 +4,7 @@
 | name | Sutton, Jasmine M. |
 | dpsst_identifier | 47682 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,16 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/4/2026 | Portland Police Bureau | Layoff | Sergeant |  |  |
 | 7/18/2024 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 4/11/2019 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/2/2007 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/6/2023 | Police Officer | Advanced | Granted | 7/6/2023 |  |  |
-| 6/3/2022 | Police Officer | Intermediate | Granted | 6/3/2022 |  |  |
-| 5/17/2021 | Police Officer | Supervisory | Granted | 5/17/2021 |  |  |
-| 8/25/2008 | Police Officer | Basic | Granted | 8/25/2008 |  |  |
+| 7/6/2023 | Police Officer | Advanced | Granted | 7/6/2023 | 12/4/2026 |  |
+| 6/3/2022 | Police Officer | Intermediate | Granted | 6/3/2022 | 12/4/2026 |  |
+| 5/17/2021 | Police Officer | Supervisory | Granted | 5/17/2021 | 12/4/2026 |  |
+| 8/25/2008 | Police Officer | Basic | Granted | 8/25/2008 | 12/4/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

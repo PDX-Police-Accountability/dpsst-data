@@ -68,24 +68,6 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
-- date: 9/17/2026
-  course: RSS2573D
-  title: 2026 OHIA Major Crimes Conference
-  status: Passed
-  score: '0.0'
-  hours: '20.00'
-- date: 9/3/2026
-  course: BPT0161D
-  title: 'ICISF: Group Crisis Intervention'
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 9/1/2026
-  course: BPT2445D
-  title: 'ICISF: Assisting Individuals in Crisis'
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
 - date: 8/12/2026
   course: SAG2609D
   title: Firearms

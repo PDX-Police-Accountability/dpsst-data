@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/17/2026 | DOJ-Criminal Justice Division | Retired | Spec Agent |  |  |
 | 6/26/2025 | DOJ-Criminal Justice Division | Hired | Spec Agent |  |  |
 | 12/6/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 8/7/1998 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/8/2025 | Police Officer | Advanced | Reactivatd | 4/19/2011 |  |  |
-| 10/8/2025 | Police Officer | Basic | Reactivatd | 8/17/2000 |  |  |
-| 10/8/2025 | Police Officer | Intermediate | Reactivatd | 4/19/2011 |  |  |
+| 10/8/2025 | Police Officer | Advanced | Reactivatd | 4/19/2011 | 12/17/2026 |  |
+| 10/8/2025 | Police Officer | Basic | Reactivatd | 8/17/2000 | 12/17/2026 |  |
+| 10/8/2025 | Police Officer | Intermediate | Reactivatd | 4/19/2011 | 12/17/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

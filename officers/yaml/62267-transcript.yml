@@ -1,0 +1,966 @@
+---
+header_record:
+  name: Wood, Tyler J.
+  dpsst_identifier: '62267'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 2/13/2025
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 2/11/2025
+  agency: Canby Police Department
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 2/7/2022
+  agency: Canby Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 9/29/2026
+  certificate: Police Officer
+  level: Intermediate
+  status: Granted
+  certificate_date: 9/29/2026
+  expiration_date: ''
+  probation_date: ''
+- status_date: 3/21/2023
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 3/21/2023
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 6/27/2026
+  course: PDP3615C
+  title: 2026 Control Tactics Satellite Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 6/5/2026
+  course: PDP1622D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/5/2026
+  course: PDP3134D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/5/2026
+  course: PDP1781D
+  title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/17/2026
+  course: GSP0362C
+  title: UAS Ground School
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 5/17/2026
+  course: PDP1095C
+  title: 2026 Gresham UAS Pilot Training Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 5/17/2026
+  course: PDP3444C
+  title: 2026 Gresham UAS Pilot Training Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 5/14/2026
+  course: PDP2782D
+  title: '2026 Disability Series: d/Deaf  Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/26/2026
+  course: PDP4523C
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/11/2026
+  course: PDP3014C
+  title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/11/2026
+  course: PDP3624C
+  title: DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/4/2026
+  course: PDP4153C
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2026
+  course: PDP1573C
+  title: 2026 Recognizing  Preventing Positional Asphyxia
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/19/2026
+  course: PDP1502C
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/28/2025
+  course: PDP3067C
+  title: 2025 Federal Interaction Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2025
+  course: PDP1842C
+  title: 2025-12 Federal Interactions Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/5/2025
+  course: PDP0891C
+  title: '2025-12 CAO Legal Updates: Inventory Searches'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/4/2025
+  course: PDP1273C
+  title: PPB SFST Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/4/2025
+  course: PDP0762C
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/11/2025
+  course: PDP4084C
+  title: '2025-10 CAO Updates: Disorderly Conduct  ORS'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/11/2025
+  course: PDP3719C
+  title: 2025-10 CHO Executive Order, DIR 0625.00 Auto
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/18/2025
+  course: PDP3698B
+  title: 2025 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2025
+  course: PDP4526B
+  title: 2025 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/18/2025
+  course: PDP1232B
+  title: 2025 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/18/2025
+  course: PDP4544B
+  title: 2025 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/18/2025
+  course: PDP2961B
+  title: 2025 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/18/2025
+  course: PDP1044B
+  title: 2025-09 CAO Legal Updates for 2/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/18/2025
+  course: PDP3376B
+  title: 2025-10 CAO Legal Updates for 3/2025
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/18/2025
+  course: PDP1093B
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/18/2025
+  course: PDP2719B
+  title: '2025-10, Legal Updates: Miranda  Right to Counsel'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2025
+  course: PDP0507B
+  title: '2025-9, Legal Updates: State Crimes'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/9/2025
+  course: MISCMAIN
+  title: 2025 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/3/2025
+  course: PDP2365C
+  title: 2025-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/14/2025
+  course: PDP0762B
+  title: 2025 Disability Series Intellectual  Develop
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/14/2025
+  course: PDP1802B
+  title: '2025 Disability Series: Introduction to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2025
+  course: PDP1689B
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2025
+  course: PDP0806B
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2025
+  course: PDP1906B
+  title: ORS 181A.440 Airways Part 5
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/11/2025
+  course: PDP0088B
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/8/2025
+  course: PDP0049B
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/8/2025
+  course: PDP2960B
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2025
+  course: PDP0289B
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/3/2025
+  course: PDP1550B
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/3/2025
+  course: PDP1832B
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/3/2025
+  course: PDP2302B
+  title: Emergency Operations Plan (EOP) VLP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/14/2025
+  course: PDP1624B
+  title: 2021 Online In-Service Language Access
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/12/2025
+  course: PDP1223B
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/7/2025
+  course: MISCMAIN
+  title: 2025 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/7/2025
+  course: PDP0112B
+  title: 'Directive 0910.00 Update: De Minimis Force'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/5/2025
+  course: PDP1502B
+  title: Patrol Vehicle Operations Policy [PVO101]
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2025
+  course: PDP0160B
+  title: 2025 IS PVO Stop Stick
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 6/30/2025
+  course: PDP1554B
+  title: 2025 IS PVO Stop Stick Intro Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2025
+  course: PDP1046A
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/17/2025
+  course: PDP2691B
+  title: 2025-2 Advanced Academy Patrol Procedures (FA)
+  status: Passed
+  score: '0.0'
+  hours: '83.00'
+- date: 6/14/2025
+  course: PDP1398B
+  title: 2025-2 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '50.25'
+- date: 6/11/2025
+  course: PDP0438B
+  title: 2025-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '29.25'
+- date: 6/11/2025
+  course: PDP3937B
+  title: Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/11/2025
+  course: PDP0468B
+  title: 2025-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/10/2025
+  course: PDP3261B
+  title: 2025-2 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '60.25'
+- date: 6/10/2025
+  course: PDP1819B
+  title: 2025-2 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/10/2025
+  course: PDP0171B
+  title: Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/10/2025
+  course: PDP0041B
+  title: Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/5/2025
+  course: PDP1171B
+  title: 2025-2 Advanced Academy Walking Beat
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 6/3/2025
+  course: PDP2057B
+  title: 2025-2 Advanced Academy PDX Community Engagement
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 6/3/2025
+  course: PDP3308B
+  title: 2025-2 Advanced Academy Equity
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
+- date: 5/29/2025
+  course: PDP0269B
+  title: 2025-2 Advanced Academy Crisis Int. Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 5/29/2025
+  course: PDP1312B
+  title: 2025-2 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '28.50'
+- date: 5/26/2025
+  course: PDP0621B
+  title: AA 2025 Responding to a Mental Health Facility
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/26/2025
+  course: PDP4318B
+  title: 2025-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/20/2025
+  course: PDP3754B
+  title: 2025-2 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/13/2025
+  course: PDP0691B
+  title: 2025-2 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '7.75'
+- date: 4/24/2025
+  course: PDP0871B
+  title: 2025-2 Advanced Academy Legit/Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/24/2025
+  course: PDP1134B
+  title: 2025-2 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/23/2025
+  course: PDP3135B
+  title: AA 2025 Building Police Legitimacy through PJ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/23/2025
+  course: PDP2795B
+  title: AA 2025 Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/16/2025
+  course: PDP0592B
+  title: 2025-2 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/14/2025
+  course: PDP2922B
+  title: 2025-2 Advanced Academy Patrol Procedures (Other)
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/14/2025
+  course: PDP2157B
+  title: '2025-1 Revisiting Directive 0850.10: Custody'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/10/2025
+  course: PDP0998B
+  title: AA 2025 Behavioral Health Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/10/2025
+  course: PDP2699B
+  title: AA 2025 Project Respond
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2025
+  course: PDP2410C
+  title: 2025 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/17/2025
+  course: PDP1012A
+  title: FTEP Post Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '23.00'
+- date: 3/11/2025
+  course: PDP2208A
+  title: Hazmat/WMD Awareness/Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/4/2025
+  course: PDP0191A
+  title: 2025 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 3/3/2025
+  course: PDP2898A
+  title: Stop Stick Online Safety Training - Man Deploy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2025
+  course: PDP2504A
+  title: 2025 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/26/2025
+  course: PDP0013A
+  title: 2025 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 2/25/2025
+  course: PDP1486A
+  title: 2025 FTEP Blood Borne Pathogens (BBP)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2025
+  course: PDP1873A
+  title: 2025 FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/18/2025
+  course: PDP1418A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2025
+  course: CAP3631A
+  title: First Aid/CPR Adult  Child
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/18/2024
+  course: CAP4227A
+  title: Night Shoot - Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/9/2024
+  course: CAP4257A
+  title: Constitutional Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/22/2024
+  course: OCS2820A
+  title: Clackamas County New Hire Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 11/6/2024
+  course: CAP0944A
+  title: Handgun Night Shoot
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/30/2024
+  course: CAP1370A
+  title: DUII Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/16/2024
+  course: CAP1686A
+  title: Force on Force VCQB - Building Search
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/18/2024
+  course: CAP2363A
+  title: Precision Rifle
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/6/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/6/2024
+  course: RMP2900A
+  title: Basic Tactical Medical Instructor Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/28/2024
+  course: CAP0787A
+  title: Foundations in Ethics for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/25/2024
+  course: CAP3900A
+  title: Active Threat Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/17/2024
+  course: CAP2414A
+  title: Positional Shooting/Movement/Shoot_No Shoot
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/19/2024
+  course: CAP0529A
+  title: Drone Search And Rescure Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/13/2024
+  course: CAP3673A
+  title: Patrol Rifle Reload - Transition - Malfunctions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/15/2024
+  course: CAP1235A
+  title: Handgun Reload/Malfunctions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/6/2024
+  course: CAP3627A
+  title: Defensive Tactics/Arrest, Handcuffing  Search
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/24/2024
+  course: CAP0909A
+  title: Taser/40mm Use of Force Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/2/2024
+  course: LOP3739A
+  title: Emergency Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/24/2024
+  course: CAP2263A
+  title: Annual Handgun Qualification/Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/26/2023
+  course: CAP3832A
+  title: Leadership Lessons Greatest TED Talks in History
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/8/2023
+  course: CAP2134A
+  title: Low Light/VCQB
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/1/2023
+  course: CAP0862A
+  title: Ethics In Law Enforcement (PoliceOne Academy)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/29/2023
+  course: CAP3989A
+  title: Law Enforcement Drone Association Conference
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 9/29/2023
+  course: F6R1107A
+  title: LEDA Northwest Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 7/19/2023
+  course: CAP1704B
+  title: Handgun/Rifle Malfunctions - Injured Shooter
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/14/2023
+  course: CAP0211A
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/1/2023
+  course: CAP2373A
+  title: Part 107 Remote Pilot Certification Class
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
+- date: 5/17/2023
+  course: CAP3827
+  title: Handgun Assessments 40mm Deployment
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/6/2023
+  course: HBS16949
+  title: ARIDE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/3/2023
+  course: CAP3202A
+  title: Blood Borne Pathogens for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2023
+  course: CAP0500
+  title: Union Pacific RR Hazmat Management Railroading 101
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/15/2023
+  course: CAP15436
+  title: Patrol Rifle Qualification/Reloads and Movement
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/8/2023
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 2/1/2023
+  course: CAP27534
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/25/2023
+  course: CAP31130
+  title: Handgun Qualifications/Basic Shield Use
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/14/2022
+  course: CAP05723
+  title: Night Shoot
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/30/2022
+  course: CAP23455
+  title: Interefering with a Police Officer Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/5/2022
+  course: CAP4111
+  title: WMD/Terrorism Awareness for Emergency Responders
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/31/2022
+  course: CAP36835
+  title: Shaping an Ethical Workplace Culture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2022
+  course: CAP20916
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/21/2022
+  course: CAP05650
+  title: Precision Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/14/2022
+  course: F6R17303
+  title: 'Firearms: Vehicle Close Quarters Battle/40mm'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/9/2022
+  course: REG26174
+  title: RADAR/LIDAR Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/23/2022
+  course: F6R34771
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/19/2022
+  course: F6R15275
+  title: Active Threat Response/Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/10/2022
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 5/23/2022
+  course: F6R24564
+  title: LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/17/2022
+  course: F6R30756
+  title: CORE/RADAR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/16/2022
+  course: BPT41049
+  title: Statistical Transparency of Policing Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/21/2022
+  course: REG08525
+  title: Intox 8000 - Hours Included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 4/5/2022
+  course: '42639'
+  title: Traffic Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/1/2022
+  course: F6K43967
+  title: CPR First Aid Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/9/2022
+  course: CAP21226
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/8/2022
+  course: HUP41775
+  title: Surviving Deadly Encounters
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/2/2022
+  course: F6M39607
+  title: Handgun Fundamentals and Annual Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/2/2022
+  course: CAP10287
+  title: 40mm Less Lethal Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2026
+  expiration_date: 12/31/2028
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/31/2025
+  expiration_date: 1/31/2027
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 2/21/2022
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 8/9/2021
+  expiration_date: ''
+education_records:
+- date: 6/16/2019
+  degree: Associate Arts
+  school: Mt Hood Community College
+  major: ''
+  hours: '91.0'

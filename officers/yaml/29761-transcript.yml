@@ -83,6 +83,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 8/7/2026
+  course: E50-25A
+  title: Basic EMD Equivalency APCO or  IAED
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/24/2026
   course: HBY1679D
   title: Adult/Child/Infant First Aid/CPR/AED
