@@ -38,6 +38,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/11/2026 | PDP3585D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 8/12/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/12/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/12/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/12/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/12/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 7/29/2026 | PDP1255D | 2026 RRT Field Force Extrication In-Service Trng | Passed | 0.0 | 9.00 |
 | 7/24/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/24/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |

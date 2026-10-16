@@ -135,6 +135,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/11/2026
+  course: RMP2232D
+  title: 'Case Analysis: Silverton HS SWATTING Call'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/10/2026
+  course: RMP1085D
+  title: Ethical Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/10/2026
+  course: RMP0947D
+  title: Consequential Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/9/2026
+  course: RMP1589D
+  title: Essential Skills for PIOs
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/9/2026
+  course: RMP0369D
+  title: Public Communication in Critical Events
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/8/2026
+  course: RMP1149D
+  title: Kohberger Quadruple Homicide
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/7/2026
   course: SVP3257D
   title: CIS OSHA Wildfire Smoke Training

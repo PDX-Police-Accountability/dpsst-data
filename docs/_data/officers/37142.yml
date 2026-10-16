@@ -137,6 +137,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2026
+  course: SPP3536D
+  title: Active Bystandership for Law Enforcement Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/7/2026
+  course: SPP0029D
+  title: Active Bystandership for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/7/2026
+  course: SPP0811D
+  title: Active Bystandership for Law Enforcement UOF
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/25/2026
   course: OAC1070D
   title: 'Beyond Report Writing: AI for LE'

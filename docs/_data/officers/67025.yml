@@ -30,6 +30,90 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/16/2026
+  course: PDP1895D
+  title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/16/2026
+  course: PDP0245D
+  title: AA [CIT-112-A] Behavioral Health Unit Overview v2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/16/2026
+  course: PDP4308D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/15/2026
+  course: PDP3117D
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/14/2026
+  course: PDP3311D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/14/2026
+  course: PDP2711D
+  title: AA [PJU-101-H] Introduction to PJPl v2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/23/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/14/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/14/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/14/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/14/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/14/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/22/2026
+  course: PDP1320D
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/22/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/18/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation

@@ -24,6 +24,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/23/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/23/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/2/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/18/2026
   course: PDP0364C
   title: CPR/First Aid

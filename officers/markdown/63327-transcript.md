@@ -39,7 +39,14 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/11/2026 | PDP3585D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 9/10/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
+| 8/31/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 8/20/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/20/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/16/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/16/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/16/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 7/29/2026 | PDP1255D | 2026 RRT Field Force Extrication In-Service Trng | Passed | 0.0 | 9.00 |
+| 7/13/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 7/10/2026 | PDP0940D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 7/8/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/25/2026 | HBP2961D | ICAC 101 | Passed | 0.0 | 8.00 |

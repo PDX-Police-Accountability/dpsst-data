@@ -37,8 +37,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2026 | BPT3085D | Line of Duty Death/PTSD911 Training | Passed | 0.0 | 8.00 |
 | 9/22/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
+| 9/21/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 9/17/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 4.00 |
+| 9/16/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 9.00 |
+| 9/15/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 5.00 |
+| 9/2/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 8/20/2026 | HBP4076D | Retail Theft Symposium | Passed | 0.0 | 6.00 |
+| 7/22/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 7/22/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 7/22/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 7/22/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 7/22/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 7/10/2026 | PDP0940D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/14/2026 | PDP2055C | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 6/12/2026 | PDP1446C | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

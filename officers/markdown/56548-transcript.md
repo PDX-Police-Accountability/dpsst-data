@@ -34,7 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/8/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
+| 8/11/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/11/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/11/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/11/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/11/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 7/21/2026 | VND0666D | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 6/16/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/16/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

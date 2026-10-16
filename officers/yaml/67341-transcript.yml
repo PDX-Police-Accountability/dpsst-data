@@ -30,18 +30,42 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/2/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/1/2026
   course: PDP0497D
   title: FTEP Post DPSST Control Tactics
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/24/2026
+  course: PDP2249D
+  title: 2023-11 CAO Legal Updates for 11/2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/6/2026
   course: REG4461D
   title: SFST-DID (Hours included in Basic)
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 7/20/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/20/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/16/2026
   course: REG2962D
   title: INTOX 8000 (Hours included in Basic)

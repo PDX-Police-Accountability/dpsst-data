@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2026
+  course: BVP1301D
+  title: September 2026 CT IST 092926 PM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/24/2026
   course: BVP3956D
   title: Washington County Child Abuse MDT Training

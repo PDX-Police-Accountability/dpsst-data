@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 12/2/2027
   probation_date: ''
 training_records:
+- date: 9/1/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/29/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation

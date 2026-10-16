@@ -68,18 +68,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2026
+  course: PDP1389D
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/11/2026
   course: PDP3585D
   title: 2026 Rapid Response team (RRT) Monthly Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/27/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/8/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/8/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/8/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/8/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/8/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/10/2026
   course: PDP0940D
   title: 2026 Rapid Response team (RRT) Monthly Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/8/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/8/2026
+  course: PDP0036D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/8/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/12/2026
   course: PDP2236C
   title: 2026 Red Dot Sight for Pistol Transition Course

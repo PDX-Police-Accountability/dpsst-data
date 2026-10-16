@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2026
+  course: BVP0509D
+  title: September 2026 CT IST 092326 AM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/7/2026
   course: BVP1872D
   title: September 2026 Range 090726 PM

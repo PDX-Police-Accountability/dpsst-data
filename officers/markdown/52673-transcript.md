@@ -37,6 +37,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 9/1/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 9/1/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 9/1/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 9/1/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 9/1/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 9/1/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 7/3/2026 | PDP0533D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 7/3/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 7/3/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/5/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/5/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/19/2026 | 26-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |

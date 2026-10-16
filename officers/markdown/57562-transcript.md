@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2026 | OCP1453D | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 9/30/2026 | OCP2091D | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 9/27/2026 | OCP2771D | EVO | Passed | 0.0 | 7.00 |
 | 9/27/2026 | OCP3318D | EVO- PIT Re-Certification | Passed | 0.0 | 1.00 |

@@ -35,8 +35,14 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/17/2026 | REG3932D | Intoxilyzer 8000 Instructor Course | Passed | 0.0 | 7.00 |
 | 8/17/2026 | PDP3747D | Intoxilyzer 8000 Certification | Passed | 0.0 | 6.00 |
+| 8/10/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/10/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/10/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/10/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/10/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 8/2/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 7/30/2026 | PDP3513D | SFST Refresher | Instructed | 0.0 | 4.00 |
+| 7/30/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/25/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/25/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/12/2026 | REG0910C | Adult Learning Core | Passed | 0.0 | 2.00 |

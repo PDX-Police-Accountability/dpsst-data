@@ -34,7 +34,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/20/2026 | PDP0450D | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
+| 9/20/2026 | PDP1389D | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 9/20/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 9/20/2026 | PDP4491D | After Action Reports PowerPoint (2020) | Passed | 0.0 | 0.50 |
+| 9/20/2026 | PDP0053D | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.50 |
+| 9/20/2026 | PDP4445D | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
+| 9/14/2026 | PDP0783D | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
+| 9/10/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 9/9/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 9/9/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 9/9/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 9/9/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 9/9/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 9/8/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
+| 7/19/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/21/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/21/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/21/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

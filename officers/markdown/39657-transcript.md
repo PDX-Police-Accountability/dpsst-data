@@ -34,8 +34,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 9/10/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 8/20/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/20/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/20/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/20/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/20/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 8/4/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 7/29/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/29/2026 | PDP3143D | 2026-2 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
+| 7/14/2026 | PDP0533D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 7/3/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 4/16/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |
 | 4/16/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.25 |
 | 4/16/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |

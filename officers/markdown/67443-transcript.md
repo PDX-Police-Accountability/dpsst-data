@@ -29,10 +29,29 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/23/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/12/2026 | PDP4434D | FTEP Geography | Passed | 0.0 | 4.00 |
+| 10/12/2026 | PDP3168D | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
+| 10/8/2026 | PDP3792D | FTEP Post DPSST Firearms | Passed | 0.0 | 20.00 |
+| 10/7/2026 | PDP2957D | FTEP Post DPSST Control Tactics | Passed | 0.0 | 4.00 |
+| 10/6/2026 | PDP3925D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
+| 10/5/2026 | PDP0896D | FTEP HazmatWMD Awareness Gas Mask | Passed | 0.0 | 2.00 |
+| 10/1/2026 | PDP2362D | FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 9/30/2026 | PDP0239D | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 9/30/2026 | PDP1867D | Mobile Identification Device MIDD | Passed | 0.0 | 2.00 |
+| 9/30/2026 | PDP2104D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 9/30/2026 | PDP0840D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 9/30/2026 | PDP2960D | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
+| 9/30/2026 | PDP4353D | 2026-2 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
+| 9/30/2026 | PDP2871D | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
+| 9/30/2026 | PDP3672D | School Emergency Actions | Passed | 0.0 | 0.25 |
+| 9/29/2026 | PDP2505D | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 9/28/2026 | PDP0921D | 2025 IS - PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
+| 9/28/2026 | PDP2673D | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
+| 9/28/2026 | PDP4076D | [PVO-101] Patrol Vehicle Operations Policy v2 | Passed | 0.0 | 0.50 |
 | 9/2/2026 | REG3783D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/13/2026 | REG3111D | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 7/15/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 7/15/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 7/2/2026 | PDP1901D | New Radar Lidar Operator Course | Passed | 0.0 | 12.00 |
 | 7/2/2026 | REG0822D | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 6/29/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

@@ -30,6 +30,48 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/12/2026
+  course: PDP4434D
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/12/2026
+  course: PDP3168D
+  title: FTEP Post PVO Stop Sticks Box In
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/8/2026
+  course: PDP3792D
+  title: FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 10/7/2026
+  course: PDP2957D
+  title: FTEP Post DPSST Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/6/2026
+  course: PDP3925D
+  title: FTEP Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/5/2026
+  course: PDP0896D
+  title: FTEP HazmatWMD Awareness Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2026
+  course: PDP2362D
+  title: FTEP Introduction to Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/30/2026
   course: PDP0239D
   title: FTEP Report Writing
@@ -42,6 +84,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/30/2026
+  course: PDP3415D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP0476D
+  title: 'DIR 0910.00 Update: De Minimis Force (09/11/2024)'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP3672D
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/29/2026
+  course: PDP0921D
+  title: 2025 IS - PVO Stop Stick Hyperlink
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/29/2026
+  course: PDP2673D
+  title: 2025 PVO-101/Stop Stick Training for Post Academy
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 9/29/2026
+  course: PDP2871D
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/28/2026
+  course: PDP4076D
+  title: "[PVO-101] Patrol Vehicle Operations Policy v2"
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/10/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/2/2026
   course: REG3783D
   title: SFST-DID (Hours included in Basic)
@@ -54,6 +144,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 8/5/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/5/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/2/2026
   course: PDP1901D
   title: New Radar Lidar Operator Course

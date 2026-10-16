@@ -31,15 +31,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/3/2026 | PDP0796D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 6.00 |
 | 8/20/2026 | PDP1508D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 8/6/2026 | PDP0895D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 7/30/2026 | PDP2211D | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 7/23/2026 | PDP3768D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/22/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 7/22/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 7/22/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 7/22/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 7/22/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 7/20/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/20/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/20/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/16/2026 | PDP2296D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 7/13/2026 | PDP3530D | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 7/9/2026 | PDP4099D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 5.00 |
 | 7/2/2026 | PDP0919D | 2026 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/27/2026 | PDP3615C | 2026 Control Tactics Satellite Instructor Course | Passed | 0.0 | 18.00 |

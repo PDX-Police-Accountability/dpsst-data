@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/8/2026
+  course: OCP1453D
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/8/2026
+  course: OCP1453D
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '17.50'
 - date: 9/28/2026
   course: OCP1288D
   title: Firearms/Use of Force

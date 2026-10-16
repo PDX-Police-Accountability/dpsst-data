@@ -36,10 +36,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2026 | PSU3950D | FAS 2-Day Carbine | Passed | 0.0 | 16.00 |
+| 8/13/2026 | PSU1529D | Using Oleoresin Capsicum Course #DPTO254 | Passed | 0.0 | 1.00 |
 | 8/10/2026 | PSU2183D | Critical Incident Review | Passed | 0.0 | 0.25 |
 | 6/18/2026 | PHP3352C | Flashbang IDP | Passed | 0.0 | 8.00 |
 | 6/17/2026 | PHP2680C | Chemical Munitions IDP | Passed | 0.0 | 8.00 |
 | 6/16/2026 | PHP1762C | Impact Munitions IDP | Passed | 0.0 | 8.00 |
+| 6/7/2026 | PSU0841D | Carbine Fundamentals | Passed | 0.0 | 8.00 |
 | 4/29/2026 | PSU3450C | Active Shooter - Schools (ACTS108) | Passed | 0.0 | 1.00 |
 | 4/29/2026 | PSU4318C | Active Shooter (ACTS0100) | Passed | 0.0 | 1.00 |
 | 4/11/2026 | PSU2830C | Active Shooter - LE Response (ACTS1009) | Passed | 0.0 | 2.00 |

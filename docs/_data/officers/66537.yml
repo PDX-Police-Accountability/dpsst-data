@@ -24,12 +24,48 @@ certification_records:
   expiration_date: ''
   probation_date: 1/31/2027
 training_records:
+- date: 9/22/2026
+  course: PDP3117D
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/14/2026
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 7/23/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/23/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/23/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/24/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees

@@ -30,3 +30,4 @@
 | 2/13/2028 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/31/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 8/25/2026 | PDP2072D | Intro to Police Vehicle Operations | Passed | 0.0 | 1.00 |
+| 8/18/2026 | PDP1789D | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

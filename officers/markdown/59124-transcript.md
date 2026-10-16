@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2026 | BVP1301D | September 2026 CT IST 092926 PM | Passed | 0.0 | 3.00 |
 | 9/24/2026 | BVP3956D | Washington County Child Abuse MDT Training | Passed | 0.0 | 8.00 |
 | 9/11/2026 | BVP0907D | September 2026 Range 091126 PM | Passed | 0.0 | 3.00 |
 | 7/24/2026 | BVP0548D | PIT EVOC IST 072426AM | Passed | 0.0 | 3.00 |

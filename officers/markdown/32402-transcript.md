@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2026 | HBS3268D | 37th Annual ACFE Fraud Conf - Behavioral Ethics | Passed | 0.0 | 2.00 |
+| 7/15/2026 | HBS0787D | 37th Annual ACFE Fraud Conference | Passed | 0.0 | 18.00 |
 | 7/1/2026 | HBS2880D | Virtual - ACAP | Passed | 0.0 | 2.00 |
 | 7/1/2026 | HBS1116D | Virtual - A Blueprint for Financial Well | Passed | 0.0 | 0.50 |
 | 7/1/2026 | HBS3865D | Virtual - Duty to Intercede | Passed | 0.0 | 1.00 |

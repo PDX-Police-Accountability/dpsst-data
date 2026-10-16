@@ -35,9 +35,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2026 | PDP3495D | 2026 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
 | 9/23/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
+| 9/17/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 4.00 |
+| 9/16/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 9.00 |
+| 9/15/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 5.00 |
+| 8/20/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/20/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/20/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/20/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/20/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 8/11/2026 | OCS0977D | Glock Gen 5/6 Armorer Course | Passed | 0.0 | 8.00 |
+| 8/5/2026 | PDP3530D | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
+| 7/21/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 7/15/2026 | PDP1268D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 8.00 |
+| 7/13/2026 | PDP0533D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/21/2026 | PDP0116D | 2026 40mm Less Lethal New Operator Course | Instructed | 0.0 | 18.00 |
 | 6/5/2026 | PDP2452C | 2026 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/26/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

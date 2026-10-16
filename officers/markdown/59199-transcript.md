@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/28/2026 | JCP1579D | Gracie Survival Tactics Level 1 | Passed | 0.0 | 40.00 |
+| 8/21/2026 | JCP0820D | Gracie Survival Tactics Level 1 | Passed | 0.0 | 40.00 |
 | 6/30/2026 | EGP2210D | SWAT Search Skills | Instructed | 0.0 | 4.00 |
 | 6/24/2026 | EGP0810D | AVI Management/ AVI Debrief | Passed | 0.0 | 3.00 |
 | 6/24/2026 | EGP0804D | SWAT Shield Tactics | Passed | 0.0 | 4.50 |

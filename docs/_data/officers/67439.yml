@@ -30,6 +30,48 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/12/2026
+  course: PDP4434D
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/12/2026
+  course: PDP3168D
+  title: FTEP Post PVO Stop Sticks Box In
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/8/2026
+  course: PDP3792D
+  title: FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 10/7/2026
+  course: PDP2957D
+  title: FTEP Post DPSST Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/6/2026
+  course: PDP3925D
+  title: FTEP Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/5/2026
+  course: PDP0896D
+  title: FTEP HazmatWMD Awareness Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2026
+  course: PDP2362D
+  title: FTEP Introduction to Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/30/2026
   course: PDP0239D
   title: FTEP Report Writing
@@ -42,6 +84,90 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/30/2026
+  course: PDP2735D
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP0379D
+  title: '2026 Disability Series: d/Deaf and Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP4353D
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP3415D
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP1320D
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2026
+  course: PDP0476D
+  title: 'DIR 0910.00 Update: De Minimis Force (09/11/2024)'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP2871D
+  title: Emergency Operations Plan (EOP)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2026
+  course: PDP3672D
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/28/2026
+  course: PDP4076D
+  title: "[PVO-101] Patrol Vehicle Operations Policy v2"
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/2/2026
   course: REG3783D
   title: SFST-DID (Hours included in Basic)

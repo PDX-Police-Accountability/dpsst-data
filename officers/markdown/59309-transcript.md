@@ -37,6 +37,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2026 | PDP2711D | AA [PJU-101-H] Introduction to PJPl v2 | Passed | 0.0 | 0.50 |
+| 9/16/2026 | PDP4308D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
+| 8/31/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/31/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/31/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/31/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/31/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 8/31/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 7/12/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 7/8/2026 | PDP2726D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 7/3/2026 | PDP0533D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 7/3/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/20/2026 | PDP0693D | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
 | 6/20/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 6/20/2026 | PDP4379D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

@@ -37,6 +37,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2026 | PDP1910D | 2025 Supervisor In-Service Leadership in Action | Passed | 0.0 | 1.00 |
+| 9/25/2026 | PDP4088D | 2025 Sup In-Service: Critical Incidents - Control | Passed | 0.0 | 1.50 |
+| 9/25/2026 | PDP3495D | 2026 IS - Axon Annual Operator Update | Passed | 0.0 | 0.75 |
+| 9/25/2026 | PDP0622D | 2026 Investigators IS - Mass Casualty Incidents | Passed | 0.0 | 1.75 |
+| 9/25/2026 | PDP3166D | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 9/23/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 9/23/2026 | PDP3632D | 2026 Investigators IS - Device Warrant Searches | Passed | 0.0 | 1.75 |
+| 7/8/2026 | PDP0533D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 7/8/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 7/8/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 7/8/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/12/2026 | OCS1222C | FBI LEEDA Executive Leadership Institute | Passed | 0.0 | 28.00 |
 | 5/19/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/28/2026 | PDP0045C | IS-100.c Intro to Incident Command | Passed | 0.0 | 2.00 |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | BVP0509D | September 2026 CT IST 092326 AM | Passed | 0.0 | 3.00 |
 | 9/7/2026 | BVP1872D | September 2026 Range 090726 PM | Passed | 0.0 | 3.00 |
 | 7/8/2026 | BVP4488D | PIT EVOC IST 070826PM | Passed | 0.0 | 3.00 |
 | 6/23/2026 | BVP2487D | IST Taser10 Certification 062326 | Passed | 0.0 | 9.00 |

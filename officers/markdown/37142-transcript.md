@@ -49,6 +49,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2026 | SPP3536D | Active Bystandership for Law Enforcement Ethics | Passed | 0.0 | 1.00 |
+| 10/7/2026 | SPP0029D | Active Bystandership for Law Enforcement | Passed | 0.0 | 3.00 |
+| 10/7/2026 | SPP0811D | Active Bystandership for Law Enforcement UOF | Passed | 0.0 | 4.00 |
 | 9/25/2026 | OAC1070D | Beyond Report Writing: AI for LE | Passed | 0.0 | 2.00 |
 | 9/24/2026 | OAC3499D | From Success to Succession: Part 2 | Passed | 0.0 | 4.00 |
 | 9/24/2026 | OAC0955D | Handing the Baton of Leadership | Passed | 0.0 | 1.00 |

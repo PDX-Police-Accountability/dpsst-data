@@ -32,6 +32,9 @@
 | 9/21/2026 | PDP3550D | FTEP PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 9/17/2026 | PDP3762D | FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/16/2026 | PDP2404D | FTEP Orientation | Passed | 0.0 | 7.00 |
+| 9/16/2026 | PDP2673D | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
+| 9/16/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 9/16/2026 | PDP4076D | [PVO-101] Patrol Vehicle Operations Policy v2 | Passed | 0.0 | 0.50 |
 | 9/15/2026 | PDP4122D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 9/14/2026 | PDP0971D | FTEP HAZMAT/WMD APR Gas Mask | Passed | 0.0 | 2.00 |
 | 9/14/2026 | PDP0303D | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
@@ -41,11 +44,40 @@
 | 9/2/2026 | PDP0834D | 2026 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.50 |
 | 9/2/2026 | PDP2349D | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 9/1/2026 | PDP0497D | FTEP Post DPSST Control Tactics | Passed | 0.0 | 4.00 |
+| 8/31/2026 | PDP0696D | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
+| 8/31/2026 | PDP2291D | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
+| 8/31/2026 | PDP0943D | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 8/31/2026 | PDP2559D | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 8/31/2026 | PDP0932D | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 8/31/2026 | PDP3173D | Post Academy LMS Material | Passed | 0.0 | 1.00 |
 | 8/27/2026 | PDP1717D | CPR First Aid Certification | Passed | 0.0 | 4.00 |
 | 8/26/2026 | PDP1848D | FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 8/26/2026 | PDP2003D | LEDS Certification | Passed | 0.0 | 2.50 |
 | 8/25/2026 | PDP2072D | Intro to Police Vehicle Operations | Passed | 0.0 | 1.00 |
 | 8/24/2026 | PDP3413D | FTEP Policy and Procedure | Passed | 0.0 | 5.00 |
+| 8/20/2026 | PDP2176D | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 8/20/2026 | PDP4474D | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 8/19/2026 | PDP1584D | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
+| 8/19/2026 | PDP3690D | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP2505D | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP4082D | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP2571D | 2025-07 CAO Legal Updates for 10/2024 | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP1479D | 2025-07 CAO Legal Updates for 08-09/2024 | Passed | 0.0 | 0.50 |
+| 8/19/2026 | PDP2566D | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP3936D | 2025-10 CAO Legal Updates for March 2025 | Passed | 0.0 | 0.50 |
+| 8/19/2026 | PDP1411D | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP2437D | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP3990D | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 8/19/2026 | PDP1041D | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP0842D | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP0969D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 8/19/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
+| 8/18/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/18/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/18/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/18/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/18/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 2/3/2026 | PDP1426C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
 | 11/5/2025 | PDP3722C | 2025 Introduction to Interpreting in Policing | Passed | 0.0 | 9.00 |
 | 2/19/2025 | PDP3257A | 2025-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

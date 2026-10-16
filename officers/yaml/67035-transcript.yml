@@ -30,12 +30,60 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/16/2026
+  course: PDP1895D
+  title: AA [CIT-111-A] Project Respond  Portland Street
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/16/2026
+  course: PDP4308D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/16/2026
+  course: PDP2357D
+  title: AA [PJU-101-H] Introduction to PJPL
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/14/2026
   course: BKS1408D
   title: Firearms
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/10/2026
+  course: PDP3311D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/10/2026
+  course: PDP2711D
+  title: AA [PJU-101-H] Introduction to PJPl v2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/14/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/14/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/14/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/25/2026
   course: PDP2984D
   title: Cybersecurity Awareness for City Employees

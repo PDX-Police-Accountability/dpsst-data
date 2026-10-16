@@ -35,3 +35,4 @@
 | 8/26/2026 | PDP2003D | LEDS Certification | Passed | 0.0 | 2.50 |
 | 8/25/2026 | PDP2072D | Intro to Police Vehicle Operations | Passed | 0.0 | 1.00 |
 | 8/24/2026 | PDP3413D | FTEP Policy and Procedure | Passed | 0.0 | 5.00 |
+| 8/18/2026 | PDP1789D | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

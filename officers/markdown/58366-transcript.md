@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2026 | OSH0717D | Restoring Standards and Strengthing Culture | Passed | 0.0 | 1.00 |
 | 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 8/27/2026 | OSH1638D | Luring a Minor Through Text | Passed | 0.0 | 1.00 |
 | 8/27/2026 | OSH1843D | Crime Scene Processing | Passed | 0.0 | 1.00 |

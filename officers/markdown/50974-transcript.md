@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2026 | OCP1453D | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 9/9/2026 | OCP4112D | Effects of Sleep and Mental Health | Passed | 0.0 | 0.50 |
 | 8/27/2026 | OCP1670D | Huerta-Contretas  Almestica Case Law Update | Passed | 0.0 | 0.75 |
 | 8/27/2026 | OCP4506D | 40 MM / OC re-certification | Passed | 0.0 | 0.75 |

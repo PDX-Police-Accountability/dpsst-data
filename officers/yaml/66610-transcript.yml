@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/29/2026
+  course: PDP3117D
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/29/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/17/2026
   course: PDP1622D
   title: 2025 CAO Summaries of New Police Legislation

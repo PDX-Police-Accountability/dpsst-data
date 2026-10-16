@@ -29,6 +29,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/29/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/16/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 9/16/2026 | PDP4308D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
+| 9/16/2026 | PDP2711D | AA [PJU-101-H] Introduction to PJPl v2 | Passed | 0.0 | 0.50 |
+| 8/13/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 7/14/2026 | PDP3989D | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 7/9/2026 | PDP1163D | RegJIN RMS MRE | Passed | 0.0 | 14.00 |
 | 7/7/2026 | PDP3637D | Body Worn Camera | Passed | 0.0 | 3.00 |
@@ -36,6 +40,23 @@
 | 7/2/2026 | PDP1396D | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 7/2/2026 | PDP2948D | FTEP Geography | Passed | 0.0 | 2.50 |
 | 7/2/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP0696D | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
+| 7/1/2026 | PDP4291D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP4298D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP4150D | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 7/1/2026 | PDP2915D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP1389D | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP2566D | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP2735D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP0842D | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP4353D | 2026-2 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP1320D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP0943D | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP2559D | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP2176D | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP4474D | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP0932D | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
 | 6/29/2026 | PDP2618D | Air Purifying Respirator HAZMAT WMD | Passed | 0.0 | 2.00 |
 | 6/24/2026 | PDP2006D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 6/24/2026 | PDP4018D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |

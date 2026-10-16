@@ -50,6 +50,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2026
+  course: PDP1910D
+  title: 2025 Supervisor In-Service Leadership in Action
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/25/2026
+  course: PDP4088D
+  title: '2025 Sup In-Service: Critical Incidents - Control'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/25/2026
+  course: PDP3495D
+  title: 2026 IS - Axon Annual Operator Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/25/2026
+  course: PDP0622D
+  title: 2026 Investigators IS - Mass Casualty Incidents
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 9/25/2026
+  course: PDP3166D
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/23/2026
+  course: PDP3117D
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/23/2026
+  course: PDP3632D
+  title: 2026 Investigators IS - Device Warrant Searches
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 7/8/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/8/2026
+  course: PDP0036D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/8/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/8/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/12/2026
   course: OCS1222C
   title: FBI LEEDA Executive Leadership Institute

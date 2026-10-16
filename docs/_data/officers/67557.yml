@@ -36,6 +36,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 8/3/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/3/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/6/2026
   course: M10-23A
   title: DPSST Basic Police Course

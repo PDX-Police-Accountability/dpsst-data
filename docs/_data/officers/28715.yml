@@ -87,6 +87,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.50'
+- date: 9/17/2026
+  course: HBP1509D
+  title: TASER 10 Remediation
+  status: Instructed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/2/2026
   course: HBP0195D
   title: Respectful Workplace - Supervisor Trng (Ldrshp)

@@ -29,13 +29,64 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/29/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/22/2026 | PDP2711D | AA [PJU-101-H] Introduction to PJPl v2 | Passed | 0.0 | 0.50 |
+| 9/16/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 9/16/2026 | PDP4308D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
+| 8/15/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/15/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/3/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/3/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/3/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 7/14/2026 | PDP3989D | FTEP Orientation | Passed | 0.0 | 6.00 |
+| 7/13/2026 | PDP1873D | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
+| 7/13/2026 | PDP2641D | 2024-3 TT Pursuits | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP0696D | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
+| 7/13/2026 | PDP2291D | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP4150D | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 7/13/2026 | PDP2596D | 2023 Directive 0650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP3928D | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP0785D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
+| 7/13/2026 | PDP1411D | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP2735D | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP2437D | 2025-10, Legal Updates: Miranda and Right | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP3990D | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
+| 7/13/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP2468D | Directive 0640.37, Communication with Persons Who | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP2176D | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 7/13/2026 | PDP0943D | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
+| 7/13/2026 | PDP2559D | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |
+| 7/13/2026 | PDP4474D | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
+| 7/13/2026 | PDP0932D | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 7/13/2026 | PDP3173D | Post Academy LMS Material | Passed | 0.0 | 1.00 |
 | 7/9/2026 | PDP1163D | RegJIN RMS MRE | Passed | 0.0 | 14.00 |
 | 7/7/2026 | PDP3637D | Body Worn Camera | Passed | 0.0 | 3.00 |
 | 7/6/2026 | PDP3547D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 7/2/2026 | PDP1396D | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 7/2/2026 | PDP2948D | FTEP Geography | Passed | 0.0 | 2.50 |
 | 7/2/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP2104D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP0840D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP2863D | 2024 ECIT Dispatch Update Video | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP1948D | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP0921D | 2025 IS - PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
+| 7/1/2026 | PDP4291D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP2249D | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP4298D | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP0238D | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP2629D | 2018-5 TT 100% Collection and Submission FA | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP2394D | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP2915D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP0533D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP1389D | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP4082D | 2025-07 CAO Legal Updates for 11/2024 | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP2673D | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
+| 7/1/2026 | PDP1564D | 2025 Disability Series: Introduction to Disability | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP2566D | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP1041D | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP0842D | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP0379D | 2026 Disability Series: d/Deaf and Hard of Hearing | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP1956D | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
+| 7/1/2026 | PDP0476D | DIR 0910.00 Update: De Minimis Force (09/11/2024) | Passed | 0.0 | 0.25 |
 | 6/29/2026 | PDP2618D | Air Purifying Respirator HAZMAT WMD | Passed | 0.0 | 2.00 |
 | 6/24/2026 | PDP4018D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 6/24/2026 | PDP0374D | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |

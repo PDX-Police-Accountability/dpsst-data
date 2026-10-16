@@ -23,6 +23,24 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 7/20/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/20/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/20/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/28/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

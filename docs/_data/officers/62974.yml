@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/11/2026
+  course: OCP0002D
+  title: Responding To People With Mental Illness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/8/2026
+  course: OCP1453D
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 9/29/2026
   course: OCP3050D
   title: Airway Circulatory Anatomy and Physiology

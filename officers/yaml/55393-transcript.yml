@@ -38,9 +38,51 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/11/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/3/2026
   course: PDP0540D
   title: 2026 Trng BWC Body 4 Conversion Train the Trainer
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/17/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/17/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/17/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/17/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/17/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/17/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -68,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 7/2/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/2/2026
+  course: PDP0036D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/27/2026
   course: PDP3615C
   title: 2026 Control Tactics Satellite Instructor Course

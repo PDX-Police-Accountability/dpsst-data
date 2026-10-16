@@ -169,6 +169,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2026
+  course: REG2901D
+  title: IPSELI ONE
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 6/25/2026
   course: REG4134D
   title: Kirkpatrick Model Overview
@@ -199,6 +205,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/24/2026
+  course: REG3754D
+  title: Curriculum Revision Process
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/23/2026
   course: REG1272D
   title: Safety Training
@@ -217,6 +229,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/20/2026
+  course: REG2387D
+  title: IPESLI Facilitators Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/20/2026
+  course: REG3154D
+  title: IPESLI Facilitators Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/9/2026
   course: REG2866D
   title: IPSELI

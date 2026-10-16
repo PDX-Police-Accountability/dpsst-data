@@ -38,6 +38,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/28/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/27/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/10/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

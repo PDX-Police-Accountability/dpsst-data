@@ -51,6 +51,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2026 | SVP2802D | Service  Sacrifice Police Documentry | Passed | 0.0 | 0.50 |
+| 9/11/2026 | RMP2232D | Case Analysis: Silverton HS SWATTING Call | Passed | 0.0 | 2.00 |
+| 9/10/2026 | RMP1085D | Ethical Leadership | Passed | 0.0 | 4.00 |
+| 9/10/2026 | RMP0947D | Consequential Leadership | Passed | 0.0 | 4.00 |
+| 9/9/2026 | RMP1589D | Essential Skills for PIOs | Passed | 0.0 | 4.00 |
+| 9/9/2026 | RMP0369D | Public Communication in Critical Events | Passed | 0.0 | 4.00 |
+| 9/8/2026 | RMP1149D | Kohberger Quadruple Homicide | Passed | 0.0 | 4.00 |
 | 8/7/2026 | SVP3257D | CIS OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 8/2/2026 | SVP0153D | Temporary Warrant Update | Passed | 0.0 | 0.25 |
 | 7/21/2026 | SVP0563D | July Range  Quilification | Passed | 0.0 | 4.00 |

@@ -31,6 +31,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/18/2026
+  course: PDP3117D
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 7/25/2026
+  course: PDP0783D
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/25/2026
+  course: PDP0450D
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/25/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/25/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/25/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/25/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/25/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/25/2026
+  course: PDP4491D
+  title: After Action Reports PowerPoint (2020)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/25/2026
+  course: PDP0053D
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 7/25/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/25/2026
+  course: PDP4445D
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/21/2026
   course: PDP3949D
   title: 2026 Satellite Firearms Instructor School
@@ -40,6 +112,24 @@ training_records:
 - date: 7/16/2026
   course: PDP1781D
   title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP0036D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
   status: Passed
   score: '0.0'
   hours: '0.50'

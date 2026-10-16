@@ -30,6 +30,60 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/23/2026
+  course: PDP2711D
+  title: AA [PJU-101-H] Introduction to PJPl v2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/16/2026
+  course: PDP4308D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/14/2026
+  course: PDP3117D
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/29/2026
+  course: PDP3717D
+  title: 2025 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/24/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/24/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/24/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/24/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/17/2026
   course: PDP0976D
   title: Annual OSHA Heat Illness Prevention (CityLearner)

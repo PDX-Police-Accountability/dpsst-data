@@ -56,18 +56,66 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/21/2026
+  course: PDP3117D
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/11/2026
   course: PDP1451D
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/9/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/14/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/14/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/14/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/14/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/14/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/3/2026
   course: PDP0852D
   title: 2026 Patrol Rifle Operator Summer In-Service
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 7/10/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/9/2026
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

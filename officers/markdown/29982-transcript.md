@@ -43,10 +43,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2026 | 02923D | AI, Risk, Resilience and Performance in Modern | Passed | 0.0 | 5.00 |
 | 9/30/2026 | SVP2802D | Service  Sacrifice Police Documentry | Passed | 0.0 | 0.50 |
 | 9/18/2026 | 26-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 9/16/2026 | SVP3488D | E-Vehicle MVA Response and Hazards | Passed | 0.0 | 1.50 |
 | 9/16/2026 | SVP0403D | Hazardous Material Training Refresher | Passed | 0.0 | 1.00 |
+| 9/11/2026 | RMP2232D | Case Analysis: Silverton HS SWATTING Call | Passed | 0.0 | 2.00 |
+| 9/10/2026 | RMP0947D | Consequential Leadership | Passed | 0.0 | 4.00 |
+| 9/10/2026 | RMP1085D | Ethical Leadership | Passed | 0.0 | 4.00 |
+| 9/9/2026 | RMP0369D | Public Communication in Critical Events | Passed | 0.0 | 4.00 |
+| 9/9/2026 | RMP1589D | Essential Skills for PIOs | Passed | 0.0 | 4.00 |
+| 9/8/2026 | RMP1149D | Kohberger Quadruple Homicide | Passed | 0.0 | 4.00 |
 | 8/12/2026 | AVP4426D | Monthly Leadership Meeting | Passed | 0.0 | 1.00 |
 | 8/7/2026 | SVP3257D | CIS OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 8/3/2026 | SVP0528D | Inquiry Level LEDS Recertification | Passed | 0.0 | 1.00 |

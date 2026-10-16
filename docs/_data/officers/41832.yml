@@ -82,6 +82,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/31/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/31/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/31/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/16/2026
   course: PDP4398D
   title: CMIC-Chemical Agents and Tear Gas
@@ -91,6 +121,24 @@ training_records:
 - date: 7/7/2026
   course: PDP1781D
   title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/4/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/4/2026
+  course: PDP0036D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/4/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
   status: Passed
   score: '0.0'
   hours: '0.50'

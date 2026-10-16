@@ -31,12 +31,96 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2026
+  course: PDP0450D
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/20/2026
+  course: PDP1389D
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/20/2026
+  course: PDP3117D
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/20/2026
+  course: PDP4491D
+  title: After Action Reports PowerPoint (2020)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/20/2026
+  course: PDP0053D
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/20/2026
+  course: PDP4445D
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/14/2026
+  course: PDP0783D
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/10/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/9/2026
+  course: PDP2130D
+  title: 2026 Lead Exposure Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/9/2026
+  course: PDP2542D
+  title: 2026 Oregon State Lead Quick Facts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/9/2026
+  course: PDP0853D
+  title: 2026 OSHA Lead Exposure Quick Card
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/9/2026
+  course: PDP0193D
+  title: 2026 PPB Lead Exposures Information
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/8/2026
   course: PDP2597D
   title: 2026 Field Training Officer (FTO) In-Service
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/19/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/21/2026
   course: PDP0775D
   title: 2026-2 Range Qualification 40mm Less Lethal

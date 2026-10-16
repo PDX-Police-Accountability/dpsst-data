@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/11/2026 | OCP0002D | Responding To People With Mental Illness | Passed | 0.0 | 2.00 |
+| 10/8/2026 | OCP1453D | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 9/29/2026 | OCP3050D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 9/21/2026 | OCP2498D | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |

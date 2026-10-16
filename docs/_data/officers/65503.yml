@@ -30,6 +30,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/9/2026
+  course: PDP0533D
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/9/2026
+  course: PDP0036D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/9/2026
+  course: PDP0379D
+  title: '2026 Disability Series: d/Deaf and Hard of Hearing'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/9/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/9/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/9/2026
+  course: PDP1058D
+  title: HRAR 2.02, Workplace Harassment Discrimination
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/15/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

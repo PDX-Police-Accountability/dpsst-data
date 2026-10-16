@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/8/2026
+  course: OCP1453D
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 9/9/2026
   course: OCP4112D
   title: Effects of Sleep and Mental Health

@@ -68,6 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/19/2026
+  course: PDP1908D
+  title: ALPR Training (Motorola)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/28/2026
+  course: PDP0825D
+  title: Cybersecurity Awareness for City Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/26/2026
+  course: PDP0036D
+  title: 2025-2026 Police Interceptor Utility Summary
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/30/2026
   course: PDP1781D
   title: 2026-2 Range Qualification Primary Firearm

@@ -29,7 +29,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/16/2026 | PDP1895D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |
+| 9/16/2026 | PDP4308D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
+| 9/16/2026 | PDP2357D | AA [PJU-101-H] Introduction to PJPL | Passed | 0.0 | 0.50 |
 | 9/14/2026 | BKS1408D | Firearms | Passed | 0.0 | 4.00 |
+| 9/10/2026 | PDP3311D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
+| 9/10/2026 | PDP2711D | AA [PJU-101-H] Introduction to PJPl v2 | Passed | 0.0 | 0.50 |
+| 8/14/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/14/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/14/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 6/25/2026 | PDP2984D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/17/2026 | BKS2382D | Firearms Training and Qualification | Passed | 0.0 | 4.00 |
 | 6/17/2026 | BKS0193D | Firearms Training and Qualification | Passed | 0.0 | 4.00 |

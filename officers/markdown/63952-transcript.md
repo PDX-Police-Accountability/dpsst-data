@@ -32,10 +32,17 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/13/2026 | REG3313D | Striking | Passed | 0.0 | 1.00 |
+| 8/13/2026 | PDP3746D | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 8/6/2026 | REG3059D | Ground Control | Passed | 0.0 | 1.00 |
+| 8/3/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/3/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/3/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/3/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/3/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 7/30/2026 | REG3947D | Ground Control | Passed | 0.0 | 1.00 |
 | 7/27/2026 | REG1725D | Take downs, Strikes | Passed | 0.0 | 1.00 |
 | 7/9/2026 | PDP4354D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
+| 7/1/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/9/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
 | 6/9/2026 | PDP3134D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 6/9/2026 | PDP0976D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |

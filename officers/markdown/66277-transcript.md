@@ -30,8 +30,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2026 | HBP0105D | PoliceOne Foundation in Ethics for LE | Passed | 0.0 | 1.00 |
+| 9/4/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 9/2/2026 | HBP2104D | Respectful Workplace - Employee Training (Equity) | Passed | 0.0 | 1.00 |
 | 8/4/2026 | PDP0160D | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
+| 8/4/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 8/4/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 8/4/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 8/4/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 8/4/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 7/18/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 7/8/2026 | HBP2056D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |
 | 7/8/2026 | HBP4289D | In-Service 2026-3,Tactical Emrgncy Casualty Care | Passed | 0.0 | 1.50 |
 | 7/8/2026 | HBP3698D | Briefing Trng Bulletin-High Risk, Known Risk Stops | Passed | 0.0 | 0.50 |

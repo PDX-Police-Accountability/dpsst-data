@@ -55,6 +55,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/13/2026
+  course: PSU3950D
+  title: FAS 2-Day Carbine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 8/13/2026
+  course: PSU1529D
+  title: 'Using Oleoresin Capsicum Course #DPTO254'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/10/2026
   course: PSU2183D
   title: Critical Incident Review
@@ -76,6 +88,12 @@ training_records:
 - date: 6/16/2026
   course: PHP1762C
   title: Impact Munitions IDP
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/7/2026
+  course: PSU0841D
+  title: Carbine Fundamentals
   status: Passed
   score: '0.0'
   hours: '8.00'

@@ -34,6 +34,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2026 | PDP4169D | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
+| 9/16/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 9.00 |
+| 9/15/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 5.00 |
+| 9/7/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 9/2/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 9/2/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 9/2/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 9/2/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 9/2/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 7/27/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 7/21/2026 | PDP1602D | 2026 Satellite Firearms Instructor School | Passed | 0.0 | 90.00 |
 | 7/21/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/21/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -30,6 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/16/2026
+  course: PDP3117D
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/16/2026
+  course: PDP4308D
+  title: AA [ETH-101-H] Introduction to Ethics in Policing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/16/2026
+  course: PDP2711D
+  title: AA [PJU-101-H] Introduction to PJPl v2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/13/2026
+  course: PDP1796D
+  title: 2026 Lead Screening Consent Form
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/14/2026
   course: PDP3989D
   title: FTEP Orientation
@@ -69,6 +93,108 @@ training_records:
 - date: 7/2/2026
   course: PDP1781D
   title: 2026-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP0696D
+  title: 2025 Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 7/1/2026
+  course: PDP4291D
+  title: 2021 Online IS Language Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP4298D
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP4150D
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 7/1/2026
+  course: PDP2915D
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP1389D
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP2566D
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP2735D
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP0842D
+  title: '2025-7, Legal Updates: Search  Seizure'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP4353D
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP1320D
+  title: Annual HRAR 2.04 Gender Identity Nondiscrimination
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP1351D
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP0943D
+  title: ORS 181A.440 Airways Part 3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP2559D
+  title: ORS 181A.440 Airways Part 4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP2176D
+  title: ORS 181A.440 Airways Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/1/2026
+  course: PDP4474D
+  title: ORS 181A.440 Airways Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2026
+  course: PDP0932D
+  title: ORS 181A.440 Airways Part 5
   status: Passed
   score: '0.0'
   hours: '0.50'
