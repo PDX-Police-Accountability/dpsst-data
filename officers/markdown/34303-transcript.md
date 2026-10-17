@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/14/2026 | Hillsboro Police Department | Retired | Police Off |  |  |
 | 8/27/2025 | Hillsboro Police Department | Return LOA | Police Off |  |  |
 | 4/29/2025 | Hillsboro Police Department | LOA | Police Off |  |  |
 | 3/1/2002 | Hillsboro Police Department | Hired | Police Off |  |  |
@@ -23,9 +24,9 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 2/15/2020 | Corrections Officer | Basic | Expired | 2/8/1999 |  |  |
-| 3/25/2010 | Police Officer | Advanced | Granted | 3/25/2010 |  |  |
-| 7/23/2004 | Police Officer | Intermediate | Granted | 7/23/2004 |  |  |
-| 1/22/2003 | Police Officer | Basic | Granted | 1/22/2003 |  |  |
+| 3/25/2010 | Police Officer | Advanced | Granted | 3/25/2010 | 1/14/2027 |  |
+| 7/23/2004 | Police Officer | Intermediate | Granted | 7/23/2004 | 1/14/2027 |  |
+| 1/22/2003 | Police Officer | Basic | Granted | 1/22/2003 | 1/14/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
