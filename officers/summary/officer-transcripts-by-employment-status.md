@@ -284,6 +284,7 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
+| * MISSING | 66707 |  |  |  |  |  | [md](../markdown/66707-transcript.md) - [yaml](../yaml/66707-transcript.yml) |
 | Wood, James A. | 02648 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-03-17 | [md](../markdown/02648-transcript.md) - [yaml](../yaml/02648-transcript.yml) |
 | Cassity, Nancy S. | 12845 | Portland Police Bureau | Active | Civilian Employee | Hired | 1980-02-19 | [md](../markdown/12845-transcript.md) - [yaml](../yaml/12845-transcript.yml) |
 | Courtney, Lynn R. | 13609 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-07-09 | [md](../markdown/13609-transcript.md) - [yaml](../yaml/13609-transcript.yml) |
@@ -1129,7 +1130,6 @@
 | Coffey-Bermoy, Zain M. | 66701 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66701-transcript.md) - [yaml](../yaml/66701-transcript.yml) |
 | Garrison, Kaiden J. | 66702 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66702-transcript.md) - [yaml](../yaml/66702-transcript.yml) |
 | Warde, Caleb J. | 66706 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66706-transcript.md) - [yaml](../yaml/66706-transcript.yml) |
-| Spain, Wyatt P. | 66707 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66707-transcript.md) - [yaml](../yaml/66707-transcript.yml) |
 | Contreras Flores, Adrian | 66721 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66721-transcript.md) - [yaml](../yaml/66721-transcript.yml) |
 | Jensen, Donald C. | 66740 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66740-transcript.md) - [yaml](../yaml/66740-transcript.yml) |
 | Paxton, Christopher W. | 66775 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66775-transcript.md) - [yaml](../yaml/66775-transcript.yml) |

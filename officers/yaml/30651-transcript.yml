@@ -200,12 +200,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 6/24/2026
-  course: REG4285D
-  title: Curriculum Revision Process
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 6/24/2026
   course: REG3754D
   title: Curriculum Revision Process
   status: Passed
@@ -231,12 +225,6 @@ training_records:
   hours: '4.00'
 - date: 5/20/2026
   course: REG2387D
-  title: IPESLI Facilitators Training
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 5/20/2026
-  course: REG3154D
   title: IPESLI Facilitators Training
   status: Passed
   score: '0.0'

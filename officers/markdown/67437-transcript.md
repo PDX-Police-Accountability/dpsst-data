@@ -30,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/23/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/13/2026 | PDP0885D | FTEP Orientation Class | Passed | 0.0 | 7.00 |
 | 10/12/2026 | PDP4434D | FTEP Geography | Passed | 0.0 | 4.00 |
 | 10/12/2026 | PDP3168D | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 10/8/2026 | PDP3792D | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |

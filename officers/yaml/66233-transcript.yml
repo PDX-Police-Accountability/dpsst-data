@@ -16,13 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 7/16/2026
+- status_date: 10/16/2026
   certificate: Police Officer
   level: Basic
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 10/16/2026
   expiration_date: ''
-  probation_date: 10/24/2026
+  probation_date: ''
 training_records:
 - date: 9/24/2026
   course: PDP3117D

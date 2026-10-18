@@ -45,7 +45,6 @@
 | 6/25/2026 | REG4134D | Kirkpatrick Model Overview | Passed | 0.0 | 1.50 |
 | 6/25/2026 | REG4625D | Training Consistancy Workshop | Passed | 0.0 | 2.00 |
 | 6/24/2026 | REG3217D | Use Of Force Maintenance Session | Passed | 0.0 | 2.00 |
-| 6/24/2026 | REG4285D | Curriculum Revision Process | Passed | 0.0 | 1.00 |
 | 6/24/2026 | REG3754D | Curriculum Revision Process | Passed | 0.0 | 2.00 |
 | 6/23/2026 | REG1272D | Safety Training | Passed | 0.0 | 8.00 |
 | 6/22/2026 | REG4582D | Equity Maintenance Training | Passed | 0.0 | 2.50 |

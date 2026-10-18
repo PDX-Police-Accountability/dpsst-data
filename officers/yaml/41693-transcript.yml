@@ -101,6 +101,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/30/2026
+  course: MKP0673D
+  title: Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2026
+  course: MKP4624D
+  title: Madatory Reporter
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/15/2026
   course: MKP3538D
   title: First Amendment Auditors

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/13/2026
+  course: PDP0885D
+  title: FTEP Orientation Class
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/12/2026
   course: PDP4434D
   title: FTEP Geography

@@ -43,6 +43,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2026 | MKP2015D | Lexipol - September 2026 | Passed | 0.0 | 0.50 |
+| 9/30/2026 | MKP0673D | Karly's Law | Passed | 0.0 | 0.50 |
+| 9/30/2026 | MKP4624D | Madatory Reporter | Passed | 0.0 | 0.50 |
 | 9/15/2026 | MKP3538D | First Amendment Auditors | Passed | 0.0 | 2.50 |
 | 9/14/2026 | MKP3483D | Firearms Quarterly Qualification | Passed | 0.0 | 1.00 |
 | 9/1/2026 | MKP2902D | Report Writing | Passed | 0.0 | 0.50 |

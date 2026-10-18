@@ -58,13 +58,11 @@
 | 6/25/2026 | REG3223D | Ethics Maintenance Session | Passed | 0.0 | 1.00 |
 | 6/25/2026 | REG4625D | Training Consistancy Workshop | Passed | 0.0 | 2.00 |
 | 6/24/2026 | REG3217D | Use Of Force Maintenance Session | Passed | 0.0 | 2.00 |
-| 6/24/2026 | REG4285D | Curriculum Revision Process | Passed | 0.0 | 1.00 |
 | 6/24/2026 | REG3754D | Curriculum Revision Process | Passed | 0.0 | 2.00 |
 | 6/23/2026 | REG1272D | Safety Training | Passed | 0.0 | 8.00 |
 | 6/22/2026 | REG4582D | Equity Maintenance Training | Passed | 0.0 | 2.50 |
 | 6/22/2026 | REG0060D | Student Conduct Training | Passed | 0.0 | 4.00 |
 | 5/20/2026 | REG2387D | IPESLI Facilitators Training | Passed | 0.0 | 16.00 |
-| 5/20/2026 | REG3154D | IPESLI Facilitators Training | Passed | 0.0 | 16.00 |
 | 4/9/2026 | REG2866D | IPSELI | Passed | 0.0 | 24.00 |
 | 3/12/2026 | REG0656D | IPSELI # 3 | Passed | 0.0 | 24.00 |
 | 11/20/2025 | REG3996D | IPSELI Two | Passed | 0.0 | 24.00 |

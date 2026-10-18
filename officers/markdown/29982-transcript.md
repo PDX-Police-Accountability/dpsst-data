@@ -43,7 +43,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/8/2026 | 02923D | AI, Risk, Resilience and Performance in Modern | Passed | 0.0 | 5.00 |
 | 9/30/2026 | SVP2802D | Service  Sacrifice Police Documentry | Passed | 0.0 | 0.50 |
 | 9/18/2026 | 26-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 9/16/2026 | SVP3488D | E-Vehicle MVA Response and Hazards | Passed | 0.0 | 1.50 |

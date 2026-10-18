@@ -284,6 +284,7 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
+| * MISSING | 66707 |  |  |  |  |  | [md](../markdown/66707-transcript.md) - [yaml](../yaml/66707-transcript.yml) |
 | Hill, Daniel G. | 42502 | Clackamas County Sheriff's Office | Active | Sergeant | Promotion | 2022-12-10 | [md](../markdown/42502-transcript.md) - [yaml](../yaml/42502-transcript.yml) |
 | Burdick, Ryan D. | 41693 | Milwaukie Police Department | Active | Chief | Promotion | 2024-04-09 | [md](../markdown/41693-transcript.md) - [yaml](../yaml/41693-transcript.yml) |
 | Huteson, Scott J. | 42556 | Milwaukie Police Department | Inactive | Police Officer | Resigned | 2026-01-13 | [md](../markdown/42556-transcript.md) - [yaml](../yaml/42556-transcript.yml) |
@@ -1830,7 +1831,6 @@
 | Coffey-Bermoy, Zain M. | 66701 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66701-transcript.md) - [yaml](../yaml/66701-transcript.yml) |
 | Garrison, Kaiden J. | 66702 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66702-transcript.md) - [yaml](../yaml/66702-transcript.yml) |
 | Warde, Caleb J. | 66706 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66706-transcript.md) - [yaml](../yaml/66706-transcript.yml) |
-| Spain, Wyatt P. | 66707 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66707-transcript.md) - [yaml](../yaml/66707-transcript.yml) |
 | Chang, Tiffany V. | 66719 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-12-04 | [md](../markdown/66719-transcript.md) - [yaml](../yaml/66719-transcript.yml) |
 | Contreras Flores, Adrian | 66721 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66721-transcript.md) - [yaml](../yaml/66721-transcript.yml) |
 | Jensen, Donald C. | 66740 | Portland Police Bureau | Active | Police Officer | Hired | 2025-09-25 | [md](../markdown/66740-transcript.md) - [yaml](../yaml/66740-transcript.yml) |

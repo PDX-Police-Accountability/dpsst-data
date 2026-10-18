@@ -181,7 +181,7 @@ training_records:
   title: 2026-1 Range Qual Secondary Firearm (50 Rd)
   status: Passed
   score: '0.0'
-  hours: '0.50'
+  hours: '1.50'
 - date: 2/16/2026
   course: PDP3022C
   title: 2026 Investigators IS Control Tactics

@@ -38,7 +38,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/8/2026 | 02923D | AI, Risk, Resilience and Performance in Modern | Passed | 0.0 | 5.00 |
 | 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 8/31/2026 | TDP3870D | Dr Ben Stone--:Stronger Hearts, Stronger Leaders | Passed | 0.0 | 2.00 |
 | 6/1/2026 | TDP3395C | Duty to Intervene and Policy Review--2026 | Passed | 0.0 | 1.00 |
