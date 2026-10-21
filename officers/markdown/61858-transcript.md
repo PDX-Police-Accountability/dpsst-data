@@ -20,14 +20,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/7/2025 | Parole  Probation Officer | Intermediate | Granted | 7/7/2025 | 10/10/2026 |  |
-| 1/18/2023 | Parole  Probation Officer | Basic | Granted | 1/18/2023 | 10/10/2026 |  |
+| 10/10/2026 | Parole  Probation Officer | Basic | Lapsed | 1/18/2023 | 7/10/2031 |  |
+| 10/10/2026 | Parole  Probation Officer | Intermediate | Lapsed | 7/7/2025 | 7/10/2031 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/2/2026 | 6/30/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 3/28/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 5/30/2021 |  |
