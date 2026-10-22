@@ -87,8 +87,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/20/2026
-  course: PDP1502C
-  title: 2026-1 Range Qualification Primary Firearm
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -332,6 +332,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/5/2025
+  course: GSP0081D
+  title: Handgun In-service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/1/2025
   course: PDP0762B
   title: 2025 Disability Series Intellectual  Develop

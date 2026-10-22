@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/20/2026
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 6/4/2025
   certificate: Police Officer
   level: Intermediate
@@ -170,8 +177,8 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 1/13/2026
-  course: PDP1502C
-  title: 2026-1 Range Qualification Primary Firearm
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

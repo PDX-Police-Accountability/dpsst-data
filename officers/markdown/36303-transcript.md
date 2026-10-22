@@ -33,7 +33,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 5/8/2025 | 5/8/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 10/11/2000 |  |
@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/22/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 7/29/2026 | PDP2339D | K9 Unit Training | Passed | 0.0 | 4.50 |
 | 7/29/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
@@ -61,7 +62,7 @@
 | 5/19/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 5/14/2026 | PDP2806C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 5/7/2026 | PDP4399C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
-| 4/2/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/2/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 4/1/2026 | PDP2270C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 3/25/2026 | PDP2526C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 3/19/2026 | PDP1198C | 2026-1 IS ABLE | Passed | 0.0 | 2.25 |

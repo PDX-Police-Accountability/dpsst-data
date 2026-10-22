@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2026 | UPR3089D | Rail Investigation Safety Instructor Course | Passed | 0.0 | 16.00 |
 | 9/17/2026 | UPR2613D | Glock 47 Handgun RCR Transition Course | Passed | 0.0 | 8.00 |
 | 9/17/2026 | UPR1706D | CJIS Online | Passed | 0.0 | 8.00 |
 | 4/22/2026 | UPR3579C | Handgun Qualification | Passed | 0.0 | 1.00 |

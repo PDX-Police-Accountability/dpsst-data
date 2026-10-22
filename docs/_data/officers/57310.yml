@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/8/2026
   course: BPT3085D
   title: Line of Duty Death/PTSD911 Training
@@ -321,11 +327,17 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 2/4/2026
-  course: PDP1502C
-  title: 2026-1 Range Qualification Primary Firearm
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/4/2026
+  course: PDP4312D
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/27/2026
   course: PDP3783C
   title: 2026 Legal Interpreting in Policing In-Service
@@ -4343,8 +4355,8 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 12/31/2026
+  effective_date: 1/1/2027
+  expiration_date: 12/31/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/29/2025

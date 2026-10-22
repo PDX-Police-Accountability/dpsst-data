@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2026 | PDP2010D | OTOA Large Caliber Rifle Operator | Passed | 0.0 | 9.00 |
+| 9/11/2026 | GSP2568D | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 9/10/2026 | GSP1428D | SWAT - G3 Orientation | Passed | 0.0 | 6.00 |
 | 9/3/2026 | PDS2099D | Glock Armorer Course | Passed | 0.0 | 8.00 |
 | 8/26/2026 | PDS1141D | Legal Update | Passed | 0.0 | 4.00 |
 | 8/14/2026 | GSP1952D | SWAT Sniper Range | Passed | 0.0 | 10.00 |
@@ -52,9 +55,11 @@
 | 5/15/2026 | GSP1957D | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 5/14/2026 | GSP4107C | SWAT Firearms | Passed | 0.0 | 10.00 |
 | 5/13/2026 | GSP0614C | SWAT Firearms | Passed | 0.0 | 10.00 |
+| 4/27/2026 | PDS1657D | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
 | 4/10/2026 | GSP3480C | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 4/9/2026 | GSP3411C | SWAT Training | Passed | 0.0 | 10.00 |
 | 4/8/2026 | GSP0446C | SWAT Training | Passed | 0.0 | 5.00 |
+| 3/26/2026 | PDS0080D | Range IDC | Instructed | 0.0 | 4.00 |
 | 3/2/2026 | LOP0892C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/12/2026 | GSP2955C | SWAT Active Threat | Passed | 0.0 | 10.00 |
 | 2/11/2026 | GSP2552C | SWAT Firearms | Passed | 0.0 | 10.00 |
@@ -64,11 +69,14 @@
 | 2/2/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
 | 2/2/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 2/2/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 2/2/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 1/23/2026 | PDS3582C | Range IDC | Instructed | 0.0 | 4.00 |
 | 1/22/2026 | PDS2236C | Red Dot Firearms | Instructed | 0.0 | 24.00 |
+| 1/22/2026 | PDS2915D | Leadership | Passed | 0.0 | 2.50 |
 | 1/16/2026 | GSP3667C | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 1/15/2026 | GSP1673C | SWAT - Cautious Clearing with K9 | Passed | 0.0 | 10.00 |
 | 1/14/2026 | GSP3140C | SWAT - Firearms | Passed | 0.0 | 10.00 |
+| 1/13/2026 | PDS3005D | Force Inspector Training | Passed | 0.0 | 1.00 |
 | 1/12/2026 | PDS3582C | Range IDC | Passed | 0.0 | 4.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2025 | GSP3457C | SWAT Active Threat Training | Passed | 0.0 | 10.00 |

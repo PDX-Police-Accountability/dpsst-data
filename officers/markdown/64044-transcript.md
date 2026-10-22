@@ -47,6 +47,7 @@
 | 2/8/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
 | 2/8/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 2/8/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 2/8/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 10/23/2025 | PDS1052B | UNET Fall Range Qualification | Passed | 0.0 | 4.00 |
 | 10/4/2025 | PDS1396B | AIC Manipulation | Passed | 0.0 | 1.00 |
 | 10/4/2025 | PDS4426B | CPR-First Aid-AED | Passed | 0.0 | 2.00 |

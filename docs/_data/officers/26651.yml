@@ -93,6 +93,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 1/13/2026
+  course: PDS3005D
+  title: Force Inspector Training
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/9/2025
   course: PDS4511C
   title: Use of Force Report Writing

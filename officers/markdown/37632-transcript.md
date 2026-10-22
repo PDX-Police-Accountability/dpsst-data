@@ -52,6 +52,7 @@
 | 4/29/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 2/24/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 2/18/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 2/18/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 2/2/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 2/1/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 2/1/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |

@@ -146,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/19/2026
+  course: TGP4562D
+  title: Taser 10 User Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/31/2025
   course: TGP0352C
   title: Path of the Guardian - Legal Updates

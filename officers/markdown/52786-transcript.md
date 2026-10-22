@@ -46,6 +46,7 @@
 | 3/5/2026 | LOP3930C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/23/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 2/22/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
+| 2/22/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 1/31/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 1/31/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 1/31/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |

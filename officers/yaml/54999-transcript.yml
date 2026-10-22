@@ -134,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/12/2026
+  course: PDS0103D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/10/2026
   course: LOP2313C
   title: EVOC with Use of Force Scenarios

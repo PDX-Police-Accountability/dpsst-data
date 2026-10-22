@@ -47,6 +47,7 @@
 | 3/5/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
 | 3/5/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 3/5/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 3/5/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 2/13/2026 | PDS1311C | Suicide Intervention | Passed | 0.0 | 4.00 |
 | 2/13/2026 | PDS0663C | Wrap Restraint | Passed | 0.0 | 4.00 |
 | 11/27/2025 | PDS1000C | Life Safety Training | Passed | 0.0 | 0.50 |

@@ -47,7 +47,7 @@
 | 5/12/2026 | PDP1450C | FTEP Orientation | Instructed | 0.0 | 5.50 |
 | 3/31/2026 | PDP4137C | FTEP Orientation | Instructed | 0.0 | 4.00 |
 | 3/30/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
-| 3/26/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/26/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 3/25/2026 | PDP2229C | FTEP Orientation | Instructed | 0.0 | 6.25 |
 | 3/10/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 3/10/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

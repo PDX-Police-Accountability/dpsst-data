@@ -63,6 +63,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/13/2026
+  course: PDP2010D
+  title: OTOA Large Caliber Rifle Operator
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/11/2026
+  course: GSP2568D
+  title: SWAT Sniper Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/10/2026
+  course: GSP1428D
+  title: SWAT - G3 Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/3/2026
   course: PDS2099D
   title: Glock Armorer Course
@@ -141,6 +159,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/27/2026
+  course: PDS1657D
+  title: Defensive Tactics IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/10/2026
   course: GSP3480C
   title: SWAT Sniper Range
@@ -159,6 +183,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 3/26/2026
+  course: PDS0080D
+  title: Range IDC
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/2/2026
   course: LOP0892C
   title: EVOC with Use of Force Scenarios
@@ -213,6 +243,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/2/2026
+  course: PDS0103D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/23/2026
   course: PDS3582C
   title: Range IDC
@@ -225,6 +261,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '24.00'
+- date: 1/22/2026
+  course: PDS2915D
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 1/16/2026
   course: GSP3667C
   title: SWAT Sniper Range
@@ -243,6 +285,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 1/13/2026
+  course: PDS3005D
+  title: Force Inspector Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/12/2026
   course: PDS3582C
   title: Range IDC

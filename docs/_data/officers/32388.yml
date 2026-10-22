@@ -50,12 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2026
+  course: GSP3868D
+  title: Camp Rilea SWAT Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 9/11/2026
+  course: GSP2568D
+  title: SWAT Sniper Range
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/10/2026
   course: GSP2181D
   title: First Aid / CPR Training
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/10/2026
+  course: GSP1428D
+  title: SWAT - G3 Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/31/2026
   course: GSP3564D
   title: 2026 Ethics Training
@@ -341,6 +359,12 @@ training_records:
 - date: 10/15/2025
   course: GSP4095B
   title: SWAT Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/5/2025
+  course: GSP0081D
+  title: Handgun In-service
   status: Instructed
   score: '0.0'
   hours: '10.00'

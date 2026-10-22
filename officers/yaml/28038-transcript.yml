@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/2/2026
+  course: PDS0103D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/4/2026
   course: LOP1056C
   title: EVOC with Use of Force Scenarios
@@ -146,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/27/2026
+  course: PDS0049D
+  title: Red Dot Range
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 12/22/2025
   course: PDS3752C
   title: Firearms

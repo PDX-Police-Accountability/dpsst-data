@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/19/2026 | BKS1585D | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 9/16/2026 | PDP1895D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |
 | 9/16/2026 | PDP4308D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
 | 9/16/2026 | PDP2357D | AA [PJU-101-H] Introduction to PJPL | Passed | 0.0 | 0.50 |

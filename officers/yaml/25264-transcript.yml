@@ -110,12 +110,36 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 4/27/2026
+  course: PDS1657D
+  title: Defensive Tactics IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/17/2026
+  course: PDS4402D
+  title: Red Dot Range
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 4/15/2026
   course: PDS4219D
   title: Range
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 3/30/2026
+  course: PDS4618D
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/26/2026
+  course: PDS0080D
+  title: Range IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/16/2026
   course: PDS1039C
   title: Range Qualification
@@ -188,6 +212,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/10/2026
+  course: PDS0103D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/9/2026
   course: PDS4303C
   title: Defensive Tactics

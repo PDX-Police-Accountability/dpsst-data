@@ -136,6 +136,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 2/18/2026
+  course: PDS0103D
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/2/2026
   course: PDS1056D
   title: Wildfire Smoke Exposure

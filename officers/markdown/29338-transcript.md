@@ -46,7 +46,9 @@
 | 3/11/2026 | LOP2089D | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/25/2026 | PDS1349C | UAS TRAINING | Passed | 0.0 | 4.00 |
 | 2/25/2026 | PDS1604C | UAS TRAINING | Passed | 0.0 | 4.00 |
+| 2/5/2026 | PDS1788D | FLIR 380x-HDC | Passed | 0.0 | 18.00 |
 | 1/27/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
+| 1/27/2026 | PDS0049D | Red Dot Range | Passed | 0.0 | 27.00 |
 | 12/22/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 12/4/2025 | PDS0889C | OSHA  Respiratory Program | Passed | 0.0 | 1.00 |
 | 12/4/2025 | PDS2709C | PREA | Passed | 0.0 | 1.00 |

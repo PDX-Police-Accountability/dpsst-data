@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2026
+  course: EGP2832D
+  title: EVOC Skills Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/10/2026
   course: EGP4393D
   title: Legal Updates

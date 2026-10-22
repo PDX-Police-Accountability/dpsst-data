@@ -35,7 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/24/2026 | GSP3868D | Camp Rilea SWAT Training | Passed | 0.0 | 40.00 |
+| 9/11/2026 | GSP2568D | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 9/10/2026 | GSP2181D | First Aid / CPR Training | Passed | 0.0 | 4.00 |
+| 9/10/2026 | GSP1428D | SWAT - G3 Orientation | Passed | 0.0 | 6.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/20/2026 | GSP1340D | Post Academy Firearms Training | Instructed | 0.0 | 10.00 |
 | 8/17/2026 | GSP1541D | Rifle In-service | Instructed | 0.0 | 10.00 |
@@ -84,6 +87,7 @@
 | 10/17/2025 | GSP2564C | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 10/16/2025 | GSP3992C | SWAT Practical | Passed | 0.0 | 10.00 |
 | 10/15/2025 | GSP4095B | SWAT Training | Instructed | 0.0 | 10.00 |
+| 10/5/2025 | GSP0081D | Handgun In-service | Instructed | 0.0 | 10.00 |
 | 10/2/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 10/1/2025 | GSP1472B | 2025 Language Line Refresher Training | Passed | 0.0 | 0.50 |
 | 10/1/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |

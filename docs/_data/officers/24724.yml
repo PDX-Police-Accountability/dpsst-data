@@ -113,6 +113,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2026
+  course: HBS0230D
+  title: 'InService Session #2 EVO'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/9/2026
+  course: HBS1157D
+  title: 'InService Session #2 Firearms'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 9/16/2026
   course: HBS1206D
   title: Finance Training

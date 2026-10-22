@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 9/15/2026
+  course: BNS0341D
+  title: Axon BWC4 Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/13/2026
   course: PDP2130D
   title: 2026 Lead Exposure Screening
@@ -158,8 +164,8 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 1/22/2026
-  course: PDP1502C
-  title: 2026-1 Range Qualification Primary Firearm
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

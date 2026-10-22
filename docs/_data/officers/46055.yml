@@ -69,6 +69,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/20/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/21/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'
@@ -184,11 +190,17 @@ training_records:
   score: '0.0'
   hours: '2.25'
 - date: 3/16/2026
-  course: PDP1502C
-  title: 2026-1 Range Qualification Primary Firearm
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/16/2026
+  course: PDP4312D
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/9/2026
   course: PDP4079C
   title: 2026 Axon Taser 7 Operator Certification Course
@@ -5500,10 +5512,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/15/2025

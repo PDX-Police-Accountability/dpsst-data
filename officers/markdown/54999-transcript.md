@@ -51,6 +51,7 @@
 | 3/12/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
 | 3/12/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 3/12/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 3/12/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 3/10/2026 | LOP2313C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 12/29/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |

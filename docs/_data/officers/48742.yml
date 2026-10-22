@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/6/2026
+  course: PDP2518D
+  title: 2026 Executive  Command Lvl Community Engagement
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 9/30/2026
   course: PDP0825D
   title: Cybersecurity Awareness for City Employees
@@ -142,8 +148,8 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 1/29/2026
-  course: PDP1502C
-  title: 2026-1 Range Qualification Primary Firearm
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

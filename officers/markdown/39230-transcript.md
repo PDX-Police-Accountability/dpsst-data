@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2026 | EGP2832D | EVOC Skills Training | Passed | 0.0 | 3.00 |
 | 9/10/2026 | EGP4393D | Legal Updates | Passed | 0.0 | 1.50 |
 | 9/10/2026 | EGP0700D | MRT Field Force Skills  Scenario Training | Passed | 0.0 | 3.00 |
 | 4/9/2026 | EGP0287C | Taser Recertification | Passed | 0.0 | 3.50 |

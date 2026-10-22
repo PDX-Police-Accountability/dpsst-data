@@ -45,7 +45,11 @@
 | 6/5/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/3/2026 | REG3027D | Patrol Rifle IDC | Passed | 0.0 | 30.00 |
 | 5/19/2026 | PDS1930D | Firearms IDC | Instructed | 0.0 | 4.00 |
+| 4/27/2026 | PDS1657D | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
+| 4/17/2026 | PDS4402D | Red Dot Range | Instructed | 0.0 | 20.00 |
 | 4/15/2026 | PDS4219D | Range | Instructed | 0.0 | 2.00 |
+| 3/30/2026 | PDS4618D | Firearms | Instructed | 0.0 | 4.50 |
+| 3/26/2026 | PDS0080D | Range IDC | Passed | 0.0 | 4.00 |
 | 3/16/2026 | PDS1039C | Range Qualification | Instructed | 0.0 | 2.00 |
 | 3/13/2026 | LOP1483D | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/24/2026 | PDS4250D | Traffic Stops | Passed | 0.0 | 2.00 |
@@ -58,6 +62,7 @@
 | 2/10/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
 | 2/10/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 2/10/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 2/10/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 2/9/2026 | PDS4303C | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 2/6/2026 | PDS4099C | Red Dot Range | Instructed | 0.0 | 12.00 |
 | 1/22/2026 | PDS2236C | Red Dot Firearms | Instructed | 0.0 | 24.00 |

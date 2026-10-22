@@ -81,6 +81,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/15/2026
+  course: EGP2832D
+  title: EVOC Skills Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/10/2026
   course: EGP4393D
   title: Legal Updates

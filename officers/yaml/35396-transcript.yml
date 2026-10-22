@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/8/2026
+  course: SRP1354D
+  title: Internal Affairs Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/25/2026
   course: ALP1290D
   title: FBI LEEDA Supervisor Leadership Institute

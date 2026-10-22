@@ -61,7 +61,8 @@
 | 4/30/2026 | PDP3805C | 2026-1 IS Legal Updates | Passed | 0.0 | 2.25 |
 | 4/15/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 3/26/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
-| 3/26/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/26/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 3/26/2026 | PDP4312D | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 3/8/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/5/2026 | PDP3912C | 2026-1 IS Control Tactics | Passed | 0.0 | 2.50 |
 | 3/2/2026 | PDP3821C | 2026-1 IS Firearms Range | Passed | 0.0 | 1.50 |

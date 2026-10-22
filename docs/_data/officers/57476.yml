@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/22/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'
@@ -237,11 +243,17 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 2/19/2026
-  course: PDP1502C
-  title: 2026-1 Range Qualification Primary Firearm
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/19/2026
+  course: PDP4312D
+  title: 2026-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/16/2026
   course: PDP3022C
   title: 2026 Investigators IS Control Tactics

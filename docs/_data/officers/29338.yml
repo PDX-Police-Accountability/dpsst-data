@@ -116,12 +116,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/5/2026
+  course: PDS1788D
+  title: FLIR 380x-HDC
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 1/27/2026
   course: PDS1039C
   title: Range Qualification
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/27/2026
+  course: PDS0049D
+  title: Red Dot Range
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 12/22/2025
   course: PDS3752C
   title: Firearms

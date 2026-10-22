@@ -40,6 +40,7 @@
 | 2/26/2026 | PDS3410D | Foundations in Ethics | Passed | 0.0 | 1.00 |
 | 2/26/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
 | 2/26/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
+| 2/26/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 2/25/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 2/25/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/20/2026 | PDS3949D | ADA Policy | Passed | 0.0 | 0.50 |

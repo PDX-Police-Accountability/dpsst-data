@@ -50,6 +50,7 @@
 | 2/16/2026 | TGP3339C | First Aid and CPR | Passed | 0.0 | 0.50 |
 | 1/31/2026 | TGP3392C | Fleet 3, ALPR, and Axon Dashboard | Passed | 0.0 | 0.50 |
 | 1/28/2026 | TGP0109C | Cautious Clearing/Search Warrant Service Training | Passed | 0.0 | 8.00 |
+| 1/19/2026 | TGP4562D | Taser 10 User Course | Passed | 0.0 | 8.00 |
 | 12/31/2025 | TGP0352C | Path of the Guardian - Legal Updates | Passed | 0.0 | 8.00 |
 | 12/30/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/26/2025 | TGP4132C | Taser 10 Operator Online Pre-work | Passed | 0.0 | 4.00 |

@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2026 | PDP2518D | 2026 Executive  Command Lvl Community Engagement | Passed | 0.0 | 7.00 |
 | 9/25/2026 | OAC1070D | Beyond Report Writing: AI for LE | Passed | 0.0 | 2.00 |
 | 9/24/2026 | OAC3499D | From Success to Succession: Part 2 | Passed | 0.0 | 4.00 |
 | 9/24/2026 | OAC0955D | Handing the Baton of Leadership | Passed | 0.0 | 1.00 |
@@ -80,7 +81,7 @@
 | 2/23/2026 | PDP1598D | Two Hour Break Managing Time Risk Resolution | Passed | 0.0 | 4.00 |
 | 2/11/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/11/2026 | PDP3624C | DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
-| 2/9/2026 | PDP1502C | 2026-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/9/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 2/9/2026 | PDP0783C | 2026-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 2/3/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 1/26/2026 | PDP2284D | Gift of Time  Distance Advantages for SWAT | Passed | 0.0 | 1.00 |

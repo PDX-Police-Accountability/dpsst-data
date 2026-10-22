@@ -56,6 +56,7 @@
 | 2/3/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
 | 2/3/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 2/3/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 2/3/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 12/18/2025 | PDS1064C | Firearms | Passed | 0.0 | 2.00 |
 | 11/12/2025 | PDS2345C | Legal Update | Passed | 0.0 | 2.00 |
 | 11/7/2025 | PDS2306C | Defensive Tactics | Passed | 0.0 | 4.00 |

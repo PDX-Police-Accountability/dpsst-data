@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/12/2026 | BNS0316D | Juvenile Investigations Training | Passed | 0.0 | 1.00 |
+| 9/15/2026 | BNS0341D | Axon BWC4 Training | Passed | 0.0 | 4.00 |
 | 8/17/2026 | BNS2035D | Civil Commitment and Aid and Assist | Passed | 0.0 | 1.00 |
 | 7/20/2026 | BNS2496D | Ethos Academy - Ethics | Passed | 0.0 | 3.00 |
 | 6/30/2026 | BNS0240D | Online Oleoresin Capsicum Refresher | Passed | 0.0 | 1.00 |

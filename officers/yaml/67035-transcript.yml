@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/19/2026
+  course: BKS1585D
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/16/2026
   course: PDP1895D
   title: AA [CIT-111-A] Project Respond  Portland Street

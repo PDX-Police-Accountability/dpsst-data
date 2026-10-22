@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2026 | SRP1354D | Internal Affairs Training | Passed | 0.0 | 16.00 |
 | 9/25/2026 | ALP1290D | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 40.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/14/2026 | GSP4094D | Handgun In-service | Passed | 0.0 | 10.00 |

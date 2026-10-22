@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/4/2026 | REG1810D | EVOIC #1 | Passed | 0.0 | 40.00 |
+| 7/16/2026 | PDS1434D | PIT Certification | Passed | 0.0 | 4.50 |
 | 6/30/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 6/26/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
 | 5/22/2026 | PDS2859C | Field Training and Evaluation Program, 24 hr basic | Passed | 0.0 | 24.00 |
@@ -48,8 +49,10 @@
 | 3/13/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |
 | 3/13/2026 | PDS1056D | Wildfire Smoke Exposure | Passed | 0.0 | 0.50 |
 | 3/13/2026 | PDS2541D | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 3/13/2026 | PDS0103D | PREA | Passed | 0.0 | 2.00 |
 | 3/12/2026 | LOP2000D | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/23/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
+| 2/5/2026 | PDS1788D | FLIR 380x-HDC | Passed | 0.0 | 18.00 |
 | 12/17/2025 | PDS3752C | Firearms | Passed | 0.0 | 2.00 |
 | 12/15/2025 | PDS1661C | ACAP Training | Passed | 0.0 | 2.00 |
 | 12/13/2025 | PDS3606C | Tourniquets and Trauma Kits | Passed | 0.0 | 1.00 |

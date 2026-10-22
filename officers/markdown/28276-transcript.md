@@ -56,6 +56,7 @@
 | 9/10/2026 | RMP0947D | Consequential Leadership | Passed | 0.0 | 4.00 |
 | 9/9/2026 | RMP1589D | Essential Skills for PIOs | Passed | 0.0 | 4.00 |
 | 9/9/2026 | RMP0369D | Public Communication in Critical Events | Passed | 0.0 | 4.00 |
+| 9/9/2026 | AVP2264D | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 9/8/2026 | RMP1149D | Kohberger Quadruple Homicide | Passed | 0.0 | 4.00 |
 | 8/7/2026 | SVP3257D | CIS OSHA Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 8/2/2026 | SVP0153D | Temporary Warrant Update | Passed | 0.0 | 0.25 |

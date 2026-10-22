@@ -173,8 +173,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/25/2026
-  course: PDP1502C
-  title: 2026-1 Range Qualification Primary Firearm
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'
@@ -185,8 +185,8 @@ training_records:
   score: '0.0'
   hours: '2.50'
 - date: 2/24/2026
-  course: PDP1502C
-  title: 2026-1 Range Qualification Primary Firearm
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'
