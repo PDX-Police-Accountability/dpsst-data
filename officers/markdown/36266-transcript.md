@@ -26,8 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/3/2026 | 2/2/2028 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Signed | 2/25/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,7 +47,7 @@
 | 2/5/2026 | SAG2754C | Active Listening | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG3687D | Oregon TITAN Fusion Center ACISS | Passed | 0.0 | 2.00 |
 | 2/5/2026 | SAG1684D | Defensive Tactics | Passed | 0.0 | 2.00 |
-| 2/5/2026 | SAG1975D | DOJ Government Ethics Laws | Passed | 0.0 | 1.00 |
+| 2/5/2026 | SAG1975D | DOJ Government Ethics Laws | Passed | 0.0 | 0.00 |
 | 2/5/2026 | SAG2916D | Legal Updates | Passed | 0.0 | 2.00 |
 | 2/4/2026 | SAG3255D | OIS and Use of Force | Passed | 0.0 | 4.00 |
 | 2/4/2026 | SAG0031D | Building Searches | Passed | 0.0 | 4.00 |
@@ -66,6 +66,8 @@
 | 3/27/2025 | SAG0191A | Firearms training | Passed | 0.0 | 2.00 |
 | 2/25/2025 | SAG1209A | Firearms training | Passed | 0.0 | 2.00 |
 | 1/29/2025 | SAG1349A | Firearms training | Passed | 0.0 | 2.00 |
+| 12/31/2024 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2024 | SAG2864A | Firearms training | Passed | 0.0 | 2.00 |
 | 11/26/2024 | SAG0750A | Firearms training | Passed | 0.0 | 3.00 |
 | 9/25/2024 | PDP3523A | 2024-3 In-Service CAO Legal Updates Supplemental | Passed | 0.0 | 0.25 |

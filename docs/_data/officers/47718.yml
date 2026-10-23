@@ -64,6 +64,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/17/2026
   course: PDP3312D
   title: 2026 Crisis Negotiation Team (CNT) Annual Training
@@ -6115,8 +6121,8 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 12/31/2026
+  effective_date: 1/1/2027
+  expiration_date: 12/31/2027
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2026

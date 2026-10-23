@@ -36,6 +36,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/12/2026
+  course: HSU2527D
+  title: Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/12/2026
+  course: HSU1658D
+  title: Child Abuse Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/12/2026
+  course: HSU0234D
+  title: Tactical Combat Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/11/2026
+  course: HSU2709D
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/11/2026
+  course: HSU2296D
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/11/2026
+  course: HSU3838D
+  title: Manual Breaching Techniques
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/11/2026
+  course: HSU3271D
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/3/2026
   course: OCS1218D
   title: Third Degree Investigative Interviewing

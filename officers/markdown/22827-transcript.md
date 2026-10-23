@@ -47,6 +47,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2026 | HSU1658D | Child Abuse Investigations | Passed | 0.0 | 2.00 |
+| 10/12/2026 | HSU0234D | Tactical Combat Casualty Care | Passed | 0.0 | 2.00 |
+| 10/11/2026 | HSU2296D | Firearms | Passed | 0.0 | 4.00 |
 | 9/25/2026 | OAC1070D | Beyond Report Writing: AI for LE | Passed | 0.0 | 2.00 |
 | 9/24/2026 | OAC3499D | From Success to Succession: Part 2 | Passed | 0.0 | 4.00 |
 | 9/24/2026 | OAC0955D | Handing the Baton of Leadership | Passed | 0.0 | 1.00 |

@@ -69,6 +69,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/21/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/20/2026
   course: MISCMAIN
   title: 2026 LE Annual Maintenance Met

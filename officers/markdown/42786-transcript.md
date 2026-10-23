@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/11/2026 | HSU2296D | Firearms | Instructed | 0.0 | 4.00 |
 | 9/25/2026 | OAC1070D | Beyond Report Writing: AI for LE | Passed | 0.0 | 2.00 |
 | 9/24/2026 | OAC3499D | From Success to Succession: Part 2 | Passed | 0.0 | 4.00 |
 | 9/24/2026 | OAC0358D | From Success to Succession: Part 1 | Passed | 0.0 | 4.00 |

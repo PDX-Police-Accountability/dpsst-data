@@ -114,6 +114,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/11/2026
+  course: HSU2296D
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/25/2026
   course: OAC1070D
   title: 'Beyond Report Writing: AI for LE'

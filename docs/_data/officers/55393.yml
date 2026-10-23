@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/11/2026
   course: PDP0825D
   title: Cybersecurity Awareness for City Employees
@@ -4894,13 +4900,13 @@ training_records:
   hours: '2.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2027
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/25/2025
