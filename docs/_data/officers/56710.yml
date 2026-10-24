@@ -74,6 +74,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/14/2026
+  course: REG4184D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/10/2026
+  course: REG0698D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/3/2026
+  course: REG3486D
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/30/2026
   course: SDP1695D
   title: Crisis Intervention Response for Veterans

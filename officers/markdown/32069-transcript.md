@@ -39,7 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2026 | REG1562D | Ground Control | Passed | 0.0 | 1.00 |
 | 9/23/2026 | KCP0936D | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 16.00 |
+| 9/14/2026 | REG4184D | Ground Control | Passed | 0.0 | 1.00 |
 | 9/9/2026 | SDP1092D | HB2513 - ACAP Training Video | Passed | 0.0 | 2.00 |
 | 8/30/2026 | SDP0093D | Crisis Intervention Response for Youth | Passed | 0.0 | 1.00 |
 | 8/30/2026 | SDP3789D | Serving Behavioral and Cognitive Disabilities | Passed | 0.0 | 1.00 |

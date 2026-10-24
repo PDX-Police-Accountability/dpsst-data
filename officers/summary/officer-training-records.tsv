@@ -57551,6 +57551,7 @@ dpsst_identifier	date	course	title	status	score	hours
 27249	8/28/1992	92G173	BASIC POLICE CLASS NO. 173	Passed	0.0	320.00
 27249	8/26/1992	92K040	MEDIC FIRST AID	Passed	0.0	8.00
 27249	8/13/1992	92J007	INTOXILYZER	Passed	0.0	4.00
+27250	10/7/2026	32074D	Tactical Baton Refresher	Passed	0.0	4.00
 27250	8/12/2026	PSU1970D	Adult and Pediatric First Aid/CPR/AED	Passed	0.0	1.00
 27250	8/10/2026	PSU2183D	Critical Incident Review	Passed	0.0	0.25
 27250	7/19/2026	PSU2723D	Q3 Firearms	Passed	0.0	2.00
@@ -73912,6 +73913,7 @@ dpsst_identifier	date	course	title	status	score	hours
 28330	12/9/1994	94G189	BASIC POLICE CLASS #189	Passed	0.0	320.00
 28330	11/23/1994	94U001	Approved In-State Training	Passed	0.0	28.00
 28330	7/26/1993	93K046	LEDS INTRODUCTORY LEVEL	Passed	0.0	10.00
+28376	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 28376	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 28376	8/19/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 28376	8/19/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -91315,6 +91317,7 @@ dpsst_identifier	date	course	title	status	score	hours
 29217	11/27/1995	95U001	Approved In-State Training	Passed	0.0	4.00
 29217	1/26/1995	95U001	Approved In-State Training	Passed	0.0	4.00
 29217	2/12/1994	94U001	Approved In-State Training	Passed	0.0	7.00
+29221	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 29221	10/6/2026	BNP4112D	Smith  Wesson Shield Handgun Training	Passed	0.0	1.50
 29221	8/25/2026	BNP3994D	Bend PD Ethics	Instructed	0.0	2.00
 29221	8/12/2026	BNP1671D	Defensive Tactics Scenarios	Passed	0.0	1.00
@@ -115893,6 +115896,7 @@ dpsst_identifier	date	course	title	status	score	hours
 29993	12/14/1994	94U001	Approved In-State Training	Passed	0.0	24.00
 29993	12/12/1994	94U001	Approved In-State Training	Passed	0.0	8.00
 29993	12/9/1994	94G189	BASIC POLICE CLASS #189	Passed	0.0	320.00
+29997	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 29997	9/10/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 29997	7/22/2026	PDP1781D	2026-2 Range Qualification Primary Firearm	Passed	0.0	1.00
 29997	6/19/2026	PDP3134D	2025-2026 Police Interceptor Utility Summary	Passed	0.0	0.25
@@ -138980,7 +138984,9 @@ dpsst_identifier	date	course	title	status	score	hours
 32026	3/29/1996	96G200	BASIC POLICE CLASS NO. 200	Passed	0.0	320.00
 32026	3/7/1996	96X030	IMPLIED CONSENT/INTOX. 5000	Passed	0.0	4.00
 32026	12/31/1995	95U001	Approved In-State Training	Passed	0.0	2.00
+32069	10/19/2026	REG1562D	Ground Control	Passed	0.0	1.00
 32069	9/23/2026	KCP0936D	Pistol Mounted Optics Instructor Course	Passed	0.0	16.00
+32069	9/14/2026	REG4184D	Ground Control	Passed	0.0	1.00
 32069	9/9/2026	SDP1092D	HB2513 - ACAP Training Video	Passed	0.0	2.00
 32069	8/30/2026	SDP0093D	Crisis Intervention Response for Youth	Passed	0.0	1.00
 32069	8/30/2026	SDP3789D	Serving Behavioral and Cognitive Disabilities	Passed	0.0	1.00
@@ -170415,7 +170421,6 @@ dpsst_identifier	date	course	title	status	score	hours
 34352	2/19/2026	PDP4231C	2026 Investigators IS Exemption Review/Legal	Passed	0.0	1.00
 34352	2/19/2026	PDP4289C	2026 Investigators IS Tech Warrants and Testimony	Passed	0.0	2.00
 34352	2/19/2026	PDP0336C	2026 Investigators IS Mass Casualty Incident	Passed	0.0	2.00
-34352	2/17/2026	XDELETE	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	0.50
 34352	2/17/2026	PDP4312D	2026-1 Range Qualification Primary Firearm	Passed	0.0	1.00
 34352	2/3/2026	PDP4153C	2026-2 CAO Analysis of PPB Related Laws, 2025 Leg	Passed	0.0	0.25
 34352	1/12/2026	PDP2854C	2025 Federal Interaction Reporting	Passed	0.0	0.25
@@ -242041,6 +242046,7 @@ dpsst_identifier	date	course	title	status	score	hours
 37248	5/31/1999	99P296	DEFENSIVE TACTICS	Passed	0.0	2.00
 37248	5/20/1999	99P294	FATS TRAINING	Passed	0.0	1.00
 37248	5/20/1999	99B010	BP/SFST  DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
+37287	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 37287	9/2/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 37287	9/2/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 37287	9/2/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -296308,6 +296314,7 @@ dpsst_identifier	date	course	title	status	score	hours
 39875	12/22/2000	00B001	DPSST Basic Police	Passed	0.0	376.00
 39875	12/20/2000	00P078	SFST/DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 39875	11/10/2000	00P042	INTOXILYZER 5000	Passed	0.0	4.00
+39876	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 39876	9/24/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 39876	8/6/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 39876	8/6/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -315697,6 +315704,7 @@ dpsst_identifier	date	course	title	status	score	hours
 40927	9/27/2001	01CP079	Police Bike Certification	Passed	0.0	40.00
 40927	9/22/2001	01U001	Approved In-State Training	Passed	0.0	8.00
 40928	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+40928	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 40928	9/17/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 40928	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 40928	8/17/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -317687,6 +317695,7 @@ dpsst_identifier	date	course	title	status	score	hours
 40929	11/5/2001	01CP164	Intoxilyzer 5000 Training Course	Passed	0.0	4.00
 40929	9/27/2001	01CP079	Police Bike Certification	Passed	0.0	40.00
 40929	9/22/2001	01U001	Approved In-State Training	Passed	0.0	8.00
+40930	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 40930	9/23/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 40930	9/23/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 40930	9/23/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -334372,6 +334381,7 @@ dpsst_identifier	date	course	title	status	score	hours
 41513	2/14/2002	02CP255	SFST/Drugs that Impair Driving	Passed	0.0	24.00
 41513	2/4/2002	02CP447	Intoxilyzer 5000	Passed	0.0	4.00
 41513	1/14/2002	02U001	Approved In-State Training	Passed	0.0	406.00
+41636	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 41636	8/20/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 41636	8/20/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 41636	8/20/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -345520,6 +345530,7 @@ dpsst_identifier	date	course	title	status	score	hours
 41832	12/13/2002	02CP740	DPSST Basic Police COD	Passed	0.0	80.00
 41832	11/9/2002	02CP447	Intoxilyzer 5000	Passed	0.0	4.00
 41832	4/8/2002	02CP863	Portland Police Bureau Advanced Academy	Passed	0.0	508.00
+42016	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 42016	9/21/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 42016	8/24/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 42016	8/24/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -356430,6 +356441,7 @@ dpsst_identifier	date	course	title	status	score	hours
 42625	10/28/2002	02CP447	Intoxilyzer 5000	Passed	0.0	4.00
 42625	10/23/2002	02CP070	Tactical Ground Fighting	Passed	0.0	6.00
 42625	10/2/2002	03U001	Approved In-State Training	Passed	0.0	23.00
+42631	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 42631	9/17/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 42631	8/27/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 42631	8/27/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -359720,6 +359732,7 @@ dpsst_identifier	date	course	title	status	score	hours
 42653	1/17/2003	03-0254	Oregon State Police Intoxilizer 5000	Passed	0.0	6.00
 42653	1/16/2003	03-0422	SFST  Drugs that Impair Driving	Passed	0.0	24.00
 42653	11/13/2002	02U001	Approved In-State Training	Passed	0.0	30.00
+42660	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 42660	9/28/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 42660	8/17/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 42660	8/17/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -361494,6 +361507,7 @@ dpsst_identifier	date	course	title	status	score	hours
 42661	2/28/2003	02CP117	OR Police Corps Basic Academy	Passed	0.0	400.00
 42661	1/17/2003	03-0254	Oregon State Police Intoxilizer 5000	Passed	0.0	6.00
 42661	11/13/2002	02U001	Approved In-State Training	Passed	0.0	30.00
+42663	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 42663	9/29/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 42663	9/24/2026	PDP0741D	2026 SERT Training - SCENARIO	Passed	0.0	9.00
 42663	9/24/2026	PDP0741D	2026 SERT Training - SCENARIO	Instructed	0.0	9.00
@@ -366453,6 +366467,7 @@ dpsst_identifier	date	course	title	status	score	hours
 43320	9/12/2003	03-0021	DPSST Basic Police	Passed	0.0	400.00
 43320	8/12/2003	02U001	Approved In-State Training	Passed	0.0	5.00
 43320	7/28/2003	03-0254	Oregon State Police Intoxilizer 5000	Passed	0.0	6.00
+43480	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 43480	10/6/2026	PDP2518D	2026 Executive  Command Lvl Community Engagement	Passed	0.0	7.00
 43480	9/10/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 43480	9/8/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -381579,6 +381594,7 @@ dpsst_identifier	date	course	title	status	score	hours
 43618	1/15/2004	04-0066	Trespass Agreeement Update	Passed	0.0	0.50
 43618	1/8/2004	04-0288	Robbery I vs Robbery II At Trial	Passed	0.0	0.50
 43618	12/5/2003	03U001	Approved In-State Training	Passed	0.0	180.00
+43732	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 43732	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 43732	9/7/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 43732	8/30/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -385159,6 +385175,7 @@ dpsst_identifier	date	course	title	status	score	hours
 43867	2/19/2004	04-0142	Lidar Operators Course	Passed	0.0	16.00
 43867	2/13/2004	04-0215	Intoxilyzer 5000	Passed	0.0	0.00
 43867	2/11/2004	04-0216	Radar Operators Course	Unknown	0.0	8.00
+43868	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 43868	9/25/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 43868	9/16/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 43868	9/1/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -386687,6 +386704,7 @@ dpsst_identifier	date	course	title	status	score	hours
 43872	2/19/2004	04-0142	Lidar Operators Course	Passed	0.0	16.00
 43872	2/13/2004	04-0215	Intoxilyzer 5000	Passed	0.0	0.00
 43872	2/11/2004	04-0216	Radar Operators Course	Unknown	0.0	8.00
+43873	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 43873	7/22/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 43873	7/22/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 43873	7/22/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -392999,6 +393017,8 @@ dpsst_identifier	date	course	title	status	score	hours
 44195	4/11/2007	07-0949	AED	Passed	0.0	1.00
 44195	7/1/2005	05-0590	LEDS Recertification	Passed	0.0	2.00
 44195	10/5/2004	04-4552	Oregon Open Records Law - Managing Oregon	Passed	0.0	16.00
+44217	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+44217	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 44217	9/21/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 44217	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 44217	8/10/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -398873,6 +398893,7 @@ dpsst_identifier	date	course	title	status	score	hours
 44568	3/23/2011	11-0953	CPR / First Aid / AED	Passed	0.0	4.00
 44568	7/1/2009	09-0716	LEDS Recertification	Passed	0.0	1.00
 44568	7/1/2007	07-0716	LEDS Recertification	Passed	0.0	2.00
+44622	10/16/2026	OSH1688D	FA3	Passed	0.0	3.00
 44622	10/9/2026	OSH4438D	HRVS Refrsher	Instructed	0.0	1.00
 44622	9/25/2026	OSH4600D	FA3	Instructed	0.0	3.00
 44622	9/16/2026	OSH0659D	OSP Ethics 2026	Passed	0.0	1.00
@@ -398881,6 +398902,7 @@ dpsst_identifier	date	course	title	status	score	hours
 44622	6/15/2026	OSH1864C	DT2-Taser	Instructed	0.0	4.00
 44622	6/10/2026	OSH1477D	HVEU-Emergency Vehicle Oper.  High Risk Stops	Instructed	0.0	8.00
 44622	5/29/2026	OSH1660D	2nd Trimester Firearms-Rifle	Instructed	0.0	4.00
+44622	5/29/2026	OSH0250D	2nd Trimester Firearms- Rifle	Passed	0.0	4.00
 44622	5/22/2026	OSH4596C	DT2/TASER	Instructed	0.0	4.00
 44622	5/18/2026	OSH2451C	FA2 Rifle	Instructed	0.0	8.00
 44622	5/15/2026	OSH3264C	FA2 Rifle	Instructed	0.0	8.00
@@ -421583,6 +421605,7 @@ dpsst_identifier	date	course	title	status	score	hours
 46055	1/25/2027	27-0026	DPSST Middle Management	Registered	0.0	0.00
 46055	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 46055	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+46055	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 46055	9/21/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 46055	8/19/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 46055	8/19/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -421602,7 +421625,6 @@ dpsst_identifier	date	course	title	status	score	hours
 46055	4/8/2026	PDP0758C	2026-1 IS PT: Intent, Means  Opportunity	Passed	0.0	1.50
 46055	4/8/2026	PDP3821C	2026-1 IS Firearms Range	Passed	0.0	2.25
 46055	4/8/2026	PDP0065C	2026-1 IS Taser Update	Passed	0.0	2.25
-46055	3/16/2026	XDELETE	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	0.50
 46055	3/16/2026	PDP4312D	2026-1 Range Qualification Primary Firearm	Passed	0.0	1.00
 46055	3/9/2026	PDP4079C	2026 Axon Taser 7 Operator Certification Course	Passed	0.0	1.00
 46055	3/9/2026	PDP4523C	Annual CIU NTR Alarm Response Training - Reed	Passed	0.0	0.25
@@ -425134,6 +425156,7 @@ dpsst_identifier	date	course	title	status	score	hours
 46121	6/15/1992	PDP3043C	HST 203 History of the US	Passed	0.0	30.00
 46121	6/15/1992	PDP2686C	PSY 231 Human Seuxality	Passed	0.0	30.00
 46121	6/15/1992	PDP1338C	RD 115 Speed Reading  Voc	Passed	0.0	30.00
+46160	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 46160	9/23/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 46160	9/6/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 46160	9/6/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -432467,6 +432490,7 @@ dpsst_identifier	date	course	title	status	score	hours
 46431	3/1/2006	06-0157	Lidar	Passed	0.0	4.00
 46431	2/22/2006	06-0156	Radar	Passed	0.0	8.00
 46431	2/17/2006	06-0004	Intoxilyzer 5000	Passed	0.0	0.00
+46434	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 46434	8/21/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 46434	8/21/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 46434	8/21/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -437263,6 +437287,7 @@ dpsst_identifier	date	course	title	status	score	hours
 46622	4/27/2006	06-0156	Radar	Passed	0.0	8.00
 46622	4/14/2006	06-0004	Intoxilyzer 5000	Passed	0.0	0.00
 46622	3/8/2006	06-1176	Hostage Survival  Awareness	Passed	0.0	4.00
+46623	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 46623	9/2/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 46623	9/2/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 46623	9/2/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -446722,6 +446747,7 @@ dpsst_identifier	date	course	title	status	score	hours
 47314	9/24/2008	08-0953	CPR / First Aid / AED	Passed	0.0	6.00
 47314	9/22/2008	08-1136	OSHA	Passed	0.0	2.00
 47314	9/13/2006	06-0008	DPSST Basic Police	Cancelled	0.0	0.00
+47315	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 47315	9/28/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 47315	7/21/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 47315	7/21/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -449042,6 +449068,7 @@ dpsst_identifier	date	course	title	status	score	hours
 47618	10/30/2007	07-0809	Identity Theft Investigation	Passed	0.0	2.00
 47618	10/29/2007	07-0914	Personal / Professional Development - Other	Passed	0.0	2.00
 47618	6/19/2007	07-0915	Agency Policies / Procedures	Passed	0.0	1.50
+47651	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 47651	9/10/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 47651	8/20/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 47651	8/20/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -450043,6 +450070,7 @@ dpsst_identifier	date	course	title	status	score	hours
 47651	1/25/2007	07-1116	Legal/Legislative Update	Passed	0.0	2.00
 47651	1/22/2007	07-0952	CPR / First Aid	Passed	0.0	4.00
 47651	1/3/2007	07-0920	New Hire Orientation	Passed	0.0	3.00
+47653	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 47653	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 47653	9/10/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 47653	9/3/2026	PDP0540D	2026 Trng BWC Body 4 Conversion Train the Trainer	Instructed	0.0	1.50
@@ -450944,6 +450972,7 @@ dpsst_identifier	date	course	title	status	score	hours
 47653	1/25/2007	07-1116	Legal/Legislative Update	Passed	0.0	2.00
 47653	1/22/2007	07-0952	CPR / First Aid	Passed	0.0	4.00
 47653	1/3/2007	07-0920	New Hire Orientation	Passed	0.0	3.00
+47656	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 47656	9/22/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 47656	9/17/2026	PDP3312D	2026 Crisis Negotiation Team (CNT) Annual Training	Passed	0.0	4.00
 47656	9/17/2026	PDP3312D	2026 Crisis Negotiation Team (CNT) Annual Training	Instructed	0.0	4.00
@@ -477454,7 +477483,6 @@ dpsst_identifier	date	course	title	status	score	hours
 49119	3/7/2026	PDP4079C	2026 Axon Taser 7 Operator Certification Course	Passed	0.0	1.00
 49119	3/1/2026	PDP4523C	Annual CIU NTR Alarm Response Training - Reed	Passed	0.0	0.25
 49119	2/18/2026	PDP0531C	2026-1 Range Qualification 40mm Less Lethal Qual	Passed	0.0	0.50
-49119	2/18/2026	XDELETE	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	0.50
 49119	2/18/2026	PDP4312D	2026-1 Range Qualification Primary Firearm	Passed	0.0	1.00
 49119	2/17/2026	PDP3014C	2026 DIR 0630.05 Vehicle Interventions  Pursuits	Passed	0.0	0.25
 49119	2/17/2026	PDP4153C	2026-2 CAO Analysis of PPB Related Laws, 2025 Leg	Passed	0.0	0.25
@@ -493995,6 +494023,7 @@ dpsst_identifier	date	course	title	status	score	hours
 50003	10/16/2008	08-0126	Firearms Basic	Passed	0.0	20.00
 50003	10/15/2008	08-0388	ICS 100 / IS 100 - Introduction to ICS	Passed	0.0	3.00
 50003	10/13/2008	08-0924	Sexual Harassment	Passed	0.0	2.00
+50050	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 50050	9/15/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 50050	7/23/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 50050	7/23/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -497375,6 +497404,7 @@ dpsst_identifier	date	course	title	status	score	hours
 50090	11/5/2008	08-0267	Tactical Movement	Passed	0.0	1.00
 50090	10/19/2008	08-1038	Interview  Interrogation	Passed	0.0	0.50
 50157	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+50157	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 50157	9/14/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 50157	8/12/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 50157	8/12/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -498140,6 +498170,7 @@ dpsst_identifier	date	course	title	status	score	hours
 50157	11/17/2008	08-1136	OSHA	Passed	0.0	2.00
 50157	11/17/2008	08-0908	Internal Affairs	Passed	0.0	2.00
 50157	10/31/2008	08-0105	OC	Passed	0.0	4.00
+50180	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 50180	9/18/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 50180	9/8/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 50180	8/3/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -506529,6 +506560,7 @@ dpsst_identifier	date	course	title	status	score	hours
 50575	4/23/2009	09-0964	Bloodborne Pathogens	Passed	0.0	1.50
 50575	4/17/2009	09-0920	New Hire Orientation	Passed	0.0	3.00
 50594	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+50594	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 50594	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 50594	9/2/2026	PDP0540D	2026 Trng BWC Body 4 Conversion Train the Trainer	Passed	0.0	0.50
 50594	8/13/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -510833,6 +510865,7 @@ dpsst_identifier	date	course	title	status	score	hours
 50652	10/14/2009	09-0964	Bloodborne Pathogens	Passed	0.0	1.00
 50652	10/8/2009	09-0715	LEDS Inquiry Level	Passed	0.0	4.00
 50652	10/2/2009	09-0920	New Hire Orientation	Passed	0.0	3.00
+50653	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 50653	8/20/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 50653	8/20/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 50653	8/20/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -517597,6 +517630,7 @@ dpsst_identifier	date	course	title	status	score	hours
 50812	10/14/2009	09-0964	Bloodborne Pathogens	Passed	0.0	1.00
 50812	10/8/2009	09-0715	LEDS Inquiry Level	Passed	0.0	4.00
 50812	10/2/2009	09-0920	New Hire Orientation	Passed	0.0	3.00
+50814	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 50814	9/23/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 50814	9/17/2026	PDP3312D	2026 Crisis Negotiation Team (CNT) Annual Training	Passed	0.0	4.00
 50814	9/16/2026	PDP3312D	2026 Crisis Negotiation Team (CNT) Annual Training	Passed	0.0	9.00
@@ -518521,6 +518555,7 @@ dpsst_identifier	date	course	title	status	score	hours
 50814	10/14/2009	09-0964	Bloodborne Pathogens	Passed	0.0	1.00
 50814	10/8/2009	09-0715	LEDS Inquiry Level	Passed	0.0	4.00
 50814	10/2/2009	09-0920	New Hire Orientation	Passed	0.0	3.00
+50817	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 50817	9/17/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 50817	8/14/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 50817	8/14/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -524980,6 +525015,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51020	2/16/2010	10-0715	LEDS Inquiry Level	Passed	0.0	4.00
 51020	2/9/2010	10-0920	New Hire Orientation	Passed	0.0	4.00
 51049	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+51049	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 51049	9/16/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 51049	8/5/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 51049	8/5/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -533196,6 +533232,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51248	1/7/2011	11-0964	Bloodborne Pathogens	Passed	0.0	1.00
 51248	1/6/2011	11-0924	Sexual Harassment	Passed	0.0	3.00
 51248	3/3/2010	10-0008	DPSST Basic Police	Cancelled	0.0	0.00
+51250	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 51250	9/15/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 51250	8/20/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 51250	8/20/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -535052,6 +535089,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51553	3/31/2011	11-0715	LEDS Inquiry Level	Passed	0.0	4.00
 51553	2/13/2011	11-0953	CPR / First Aid / AED	Passed	0.0	4.00
 51553	2/11/2011	11-0562	Reserve Academy	Passed	0.0	280.00
+51727	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 51727	9/26/2026	PDP1389D	2025 Disability Series: I/DD	Passed	0.0	0.50
 51727	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 51727	8/27/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -540704,6 +540742,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51791	3/4/2011	11-0964	Bloodborne Pathogens	Passed	0.0	1.00
 51791	3/3/2011	11-0924	Sexual Harassment	Passed	0.0	3.00
 51791	3/17/2001	11-0126	Firearms Basic	Passed	0.0	1.00
+51792	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 51792	9/27/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 51792	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 51792	8/26/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -556243,6 +556282,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52316	12/12/2011	11-0702	Computer Software Applications	Passed	0.0	3.50
 52316	12/8/2011	11-0920	New Hire Orientation	Passed	0.0	1.00
 52316	12/8/2011	11-0126	Firearms Basic	Passed	0.0	1.00
+52318	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 52318	9/17/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 52318	7/27/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 52318	7/27/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -562276,7 +562316,6 @@ dpsst_identifier	date	course	title	status	score	hours
 52458	2/14/2012	12-1175	Radar / Lidar - Practical	Passed	0.0	16.00
 52458	2/14/2012	12-1179	Radar Operators Course	Passed	0.0	8.00
 52458	2/1/2012	11U002	Approved Out-of-State Training	Passed	0.0	880.00
-52668	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 52668	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 52668	9/29/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 52668	9/1/2026	PDP0540D	2026 Trng BWC Body 4 Conversion Train the Trainer	Passed	0.0	0.50
@@ -569226,6 +569265,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52689	9/27/2012	12-0010	SFST/DID- Training hours included in Basic	Passed	0.0	0.00
 52689	7/20/2012	12-0388	ICS 100 / IS 100 - Introduction to ICS	Passed	0.0	3.00
 52689	7/19/2012	12-0395	IS 700  NIMS, An Introduction	Passed	0.0	3.00
+52690	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 52690	8/27/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 52690	8/27/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 52690	8/27/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -576817,6 +576857,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52787	10/9/2012	12-1269	Field Training  Evaluation Program	Passed	0.0	6.50
 52787	10/9/2012	12-0715	LEDS Inquiry Level	Passed	0.0	4.00
 52787	10/9/2012	12-0964	Bloodborne Pathogens	Passed	0.0	1.00
+52792	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 52792	9/28/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 52792	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 52792	9/8/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -581744,6 +581785,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52834	9/30/2026	OCS3725D	2026 New Rifle Carrier	Passed	0.0	32.00
 52834	9/28/2026	OCS2025D	Shooting/Moving around vehicles, Shoot/No-Shoot	Passed	0.0	1.00
 52834	8/21/2026	OCS2306D	Marksmanship/Single Hand Shooting	Passed	0.0	1.00
+52834	7/30/2026	CMU0411D	Oregon 2026 School Safety Conference	Passed	0.0	22.00
 52834	7/18/2026	OCS2313D	Vehicle extractions	Passed	0.0	1.00
 52834	7/17/2026	OCS1014D	CNT Monthly Training - Scenario/Equipment	Passed	0.0	6.00
 52834	6/19/2026	OCS2213C	CNT Monthly Training - SWAT / CNT joint scenarios	Passed	0.0	8.00
@@ -582040,6 +582082,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52834	10/9/2012	12-1269	Field Training  Evaluation Program	Passed	0.0	6.50
 52834	10/9/2012	12-0715	LEDS Inquiry Level	Passed	0.0	4.00
 52834	10/9/2012	12-0964	Bloodborne Pathogens	Passed	0.0	1.00
+52835	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 52835	9/15/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 52835	8/4/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 52835	8/4/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -584893,6 +584936,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52981	1/10/2013	13-0126	Firearms Basic	Passed	0.0	1.00
 52981	1/10/2013	13-0920	New Hire Orientation	Passed	0.0	8.00
 52982	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+52982	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 52982	9/16/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 52982	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 52982	7/21/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -592822,6 +592866,7 @@ dpsst_identifier	date	course	title	status	score	hours
 54091	4/14/2014	14-0915	Agency Policies / Procedures	Passed	0.0	5.00
 54091	4/14/2014	14-0964	Bloodborne Pathogens	Passed	0.0	1.00
 54091	4/9/2014	14-0126	Firearms Basic	Passed	0.0	30.00
+54282	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 54282	9/16/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 54282	8/11/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 54282	7/22/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -594878,6 +594923,7 @@ dpsst_identifier	date	course	title	status	score	hours
 54378	3/8/2013	13-0396	IS 800 National Response Plan (NRP), An Intro	Passed	0.0	3.00
 54378	2/9/2013	13-0389	ICS 200 / IS 200 - Basic ICS	Passed	0.0	3.00
 54378	9/23/2012	12-0388	ICS 100 / IS 100 - Introduction to ICS	Passed	0.0	3.00
+54454	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 54454	9/16/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 54454	8/13/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 54454	8/13/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -595559,6 +595605,7 @@ dpsst_identifier	date	course	title	status	score	hours
 54454	5/21/2014	14-0114	Defensive Tactics	Passed	0.0	2.00
 54454	5/21/2014	14-0116	Handcuffing	Passed	0.0	1.00
 54454	5/21/2014	14-0246	Prisoner / Inmate - Other Use of Force Training	Passed	0.0	1.00
+54459	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 54459	9/23/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 54459	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 54459	8/29/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -604862,6 +604909,8 @@ dpsst_identifier	date	course	title	status	score	hours
 55316	10/29/2015	15-0010	SFST/DID- Training hours included in Basic	Passed	0.0	0.00
 55316	8/13/2015	PDP16385	IS-00100 Introduction to Incident Command	Passed	0.0	3.00
 55316	8/6/2015	15-1269	Field Training  Evaluation Program	Passed	0.0	8.00
+55317	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+55317	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 55317	9/23/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 55317	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 55317	9/9/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -608259,6 +608308,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55513	1/12/2016	16-0395	IS 700  NIMS, An Introduction	Passed	0.0	3.00
 55513	7/11/2015	15-0683	Crisis Intervention	Passed	0.0	36.00
 55553	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+55553	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 55553	9/22/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 55553	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 55553	9/10/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
@@ -611865,6 +611915,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55828	4/11/2016	PPB24378	Firearms - New Hires	Passed	0.0	30.00
 55828	4/5/2016	PPB24348	FTEP Policy  Procedure - New Hires	Passed	0.0	7.00
 55828	4/2/2016	F6C27081	LEDS Inquiry Level	Passed	0.0	4.00
+55940	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 55940	9/29/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 55940	9/24/2026	PDP0741D	2026 SERT Training - SCENARIO	Passed	0.0	9.00
 55940	9/3/2026	PDP0796D	2026 SERT Training - SCENARIO	Passed	0.0	6.00
@@ -614809,6 +614860,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56217	8/8/2016	F6C23345	Bloodborne Pathogens	Passed	0.0	1.00
 56217	8/8/2016	F6C40189	FTEP Policy  Procedure - New Hires	Passed	0.0	6.00
 56217	8/4/2016	F6C09019	Firearms - New Hires	Passed	0.0	24.00
+56260	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 56260	9/30/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 56260	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 56260	8/22/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -617218,6 +617270,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56549	10/25/2016	F6C13461	CPR/First Aid/AED	Passed	0.0	2.00
 56549	10/25/2016	F6C02639	2.2 Workplace Harrassment - New Hires	Passed	0.0	2.00
 56549	8/31/2016	F6C20300	RAPID	Passed	0.0	0.25
+56566	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 56566	9/22/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 56566	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 56566	9/1/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -622436,6 +622489,9 @@ dpsst_identifier	date	course	title	status	score	hours
 56709	6/25/2013	LCP23610	FEMA ICS-100	Passed	0.0	3.00
 56709	6/25/2013	PDP1912A	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
 56710	9/23/2026	SDP1092D	HB2513 - ACAP Training Video	Passed	0.0	2.00
+56710	9/14/2026	REG4184D	Ground Control	Passed	0.0	1.00
+56710	9/10/2026	REG0698D	Ground Control	Passed	0.0	1.00
+56710	9/3/2026	REG3486D	Ground Control	Passed	0.0	1.00
 56710	8/30/2026	SDP1695D	Crisis Intervention Response for Veterans	Passed	0.0	1.00
 56710	8/30/2026	SDP3789D	Serving Behavioral and Cognitive Disabilities	Passed	0.0	1.00
 56710	8/30/2026	SDP0093D	Crisis Intervention Response for Youth	Passed	0.0	1.00
@@ -622766,6 +622822,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56710	10/3/2016	HBS18747	Hazardous Communication	Passed	0.0	0.50
 56710	10/3/2016	HBS02614	Give Em The Pickle - Customer Service	Passed	0.0	0.50
 56710	10/3/2016	HBS37485	Workplace/Sexual Harassment	Passed	0.0	0.50
+56711	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 56711	9/17/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 56711	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 56711	9/3/2026	PDP0540D	2026 Trng BWC Body 4 Conversion Train the Trainer	Passed	0.0	0.50
@@ -623604,6 +623661,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56757	11/22/2016	PPB24105	IS-00100 Introduction to Incident Command	Passed	0.0	3.00
 56757	11/1/2016	F6C26824	IS-00100 Introduction to Incident Command	Passed	0.0	3.00
 56757	11/1/2016	F6C14463	IS-00700 National Incident Management System	Passed	0.0	3.00
+56758	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 56758	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 56758	9/9/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 56758	8/6/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -627493,6 +627551,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56960	2/2/2017	F6C11839	CPR/First Aid/AED	Passed	0.0	4.00
 56960	2/2/2017	PPB24625	CPR/First Aid/ AED - New Hires	Passed	0.0	2.00
 56960	1/31/2017	F6C18246	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
+56961	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 56961	9/14/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 56961	7/29/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 56961	7/29/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -631764,6 +631823,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57090	2/28/2017	PPB24787	Butane Hash Oil (BHO) Production	Passed	0.0	0.25
 57090	7/7/2010	PPB21051	IS-00700 NIMS-National Incident Management System	Passed	0.0	3.00
 57090	7/6/2010	PPB21050	IS-00100 Introduction to Incident Command System	Passed	0.0	3.00
+57091	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 57091	8/4/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 57091	8/4/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 57091	8/4/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -637718,6 +637778,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57309	5/31/2017	PPB24574	Bloodborne Pathogens - New Hires	Passed	0.0	1.00
 57309	5/30/2017	PPB24487	FTEP Policy  Procedure - New Hires	Passed	0.0	8.00
 57310	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+57310	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 57310	10/8/2026	BPT3085D	Line of Duty Death/PTSD911 Training	Passed	0.0	8.00
 57310	9/22/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 57310	9/21/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -638956,6 +639017,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57331	5/3/2017	PDP21455	IS-00200 ICS for Single Resources  Initial Action	Passed	0.0	3.00
 57331	5/2/2017	PPB24562	IS-00700 National Incident Management System	Passed	0.0	3.00
 57331	4/28/2017	PDP16385	IS-00100 Introduction to Incident Command	Passed	0.0	3.00
+57429	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 57429	9/8/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 57429	8/24/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 57429	8/24/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -642486,6 +642548,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57474	10/24/2017	PPB24487	FTEP Policy  Procedure - New Hires	Passed	0.0	8.00
 57476	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 57476	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+57476	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 57476	9/22/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 57476	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 57476	8/7/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -649163,6 +649226,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57743	8/2/2017	PPB24574	Bloodborne Pathogens - New Hires	Passed	0.0	1.00
 57743	8/2/2017	PPB24663	DOJ/VOYA - New Hires	Passed	0.0	3.00
 57743	8/29/2008	PPB19939	IS-00700 NIMS-National Incident Management System	Passed	0.0	3.00
+57758	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 57758	9/14/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 57758	9/4/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 57758	8/11/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -653099,6 +653163,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57809	10/31/2017	PPB24792	Responding to People in Elevated Positions	Passed	0.0	0.25
 57809	10/24/2017	PPB24487	FTEP Policy  Procedure - New Hires	Passed	0.0	8.00
 57813	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+57813	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 57813	9/23/2026	MNS1304D	Oregon Police Canine Association Conference	Passed	0.0	24.00
 57813	9/16/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 57813	7/21/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -654295,6 +654360,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57831	8/24/2017	PPB24731	Advanced Academy 2017-3 Introduction to PLPJ	Passed	0.0	1.00
 57831	1/3/2008	PPB19939	IS-00700 NIMS-National Incident Management System	Passed	0.0	3.00
 57831	12/5/2007	PPB19348	IS-00100 Introduction to Incident Command System	Passed	0.0	3.00
+58008	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 58008	8/31/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 58008	8/31/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 58008	8/31/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -654864,6 +654930,7 @@ dpsst_identifier	date	course	title	status	score	hours
 58008	10/31/2017	PPB24573	Gas Mask Fit  Training (APR)	Passed	0.0	2.00
 58008	10/31/2017	PPB24574	Bloodborne Pathogens - New Hires	Passed	0.0	1.00
 58008	10/24/2017	PPB24487	FTEP Policy  Procedure - New Hires	Passed	0.0	8.00
+58009	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 58009	9/8/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 58009	8/11/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 58009	8/11/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -667377,6 +667444,7 @@ dpsst_identifier	date	course	title	status	score	hours
 58873	8/9/2018	PDP40479	IS-00100.c Intro to Incident Command Sys (ICS 100)	Passed	0.0	3.00
 58873	8/9/2018	PDP19325	IS-00700.b National Incident Managment Sys (NIMS)	Passed	0.0	3.00
 58873	7/31/2018	PDP12795	FTEP Policy and Procedure	Passed	0.0	7.00
+58874	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 58874	9/29/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 58874	9/12/2026	PDP1351D	Annual OSHA Heat Illness Prevention (CityLearner)	Passed	0.0	0.50
 58874	9/12/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -671879,6 +671947,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59125	9/13/2018	PDP26066	FTEP Orientation	Passed	0.0	6.00
 59125	4/5/2018	PDP39936	Tips and Tech Hazard Tow vs. Private Request	Passed	0.0	0.25
 59125	4/5/2018	PDP18845	Disposition of Records Upon Retirement	Passed	0.0	0.25
+59189	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 59189	9/22/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 59189	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 59189	8/18/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -673126,6 +673195,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59217	10/8/2018	F6D27204	Bloodborne Pathogens	Passed	0.0	1.00
 59217	10/8/2018	F6D17141	OSHA	Passed	0.0	1.00
 59217	10/8/2018	F6D19516	Internal Affairs	Passed	0.0	2.00
+59309	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 59309	9/22/2026	PDP2711D	AA [PJU-101-H] Introduction to PJPl v2	Passed	0.0	0.50
 59309	9/16/2026	PDP4308D	AA [ETH-101-H] Introduction to Ethics in Policing	Passed	0.0	0.50
 59309	8/31/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -675282,6 +675352,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59490	2/14/2019	PDP19325	IS-00700.b National Incident Managment Sys (NIMS)	Passed	0.0	3.00
 59490	2/6/2019	PDP34229	FTEP Policy and Procedure	Passed	0.0	8.00
 59490	2/5/2019	PDP15967	CPR/First Aid	Passed	0.0	2.00
+59492	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 59492	9/8/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 59492	8/26/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 59492	8/5/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -677825,6 +677896,8 @@ dpsst_identifier	date	course	title	status	score	hours
 59687	5/7/2019	PDP13473	2019-1 Traffic Radar/LIDAR Training	Passed	0.0	18.00
 59687	4/30/2019	PDP04929	FTEP Policy and Procedure	Passed	0.0	8.00
 59687	4/25/2019	PDP02756	FTEP Pre-DPSST Firearms	Passed	0.0	20.00
+59709	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+59709	10/14/2026	BNP2043D	Skidcar	Passed	0.0	1.00
 59709	9/30/2026	BNP2109D	ALPR / Senate Bill 1516 Training	Passed	0.0	1.00
 59709	9/28/2026	BNP0866D	ALPR Updates	Passed	0.0	0.75
 59709	9/28/2026	BNP3315D	Aquatic Death Investigations  Child Abuse	Passed	0.0	0.50
@@ -681236,6 +681309,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59904	7/8/2019	PDP20309	Bloodborne Pathogens	Passed	0.0	1.00
 59904	7/8/2019	PDP10196	IS-00100.c (ICS 100)	Passed	0.0	3.00
 59904	7/4/2019	PDP18999	IS-00700.b (NIMS)	Passed	0.0	3.00
+59907	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 59907	8/6/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 59907	8/6/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 59907	8/6/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -689102,6 +689176,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60291	10/30/2019	PDP26485	DOJ Settlement Agreement	Passed	0.0	1.00
 60291	10/24/2019	PDP28275	CPR/First Aid	Passed	0.0	2.00
 60291	10/22/2019	PDP04999	FTEP Policy and Procedure	Passed	0.0	8.00
+60377	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 60377	9/18/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 60377	9/18/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 60377	9/18/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -690280,6 +690355,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60422	11/27/2019	PDP03445	2019 FTEP Radar LIDAR	Passed	0.0	14.00
 60422	11/26/2019	BPT00016	RADAR/LIDAR - Practical	Passed	0.0	16.00
 60431	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+60431	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 60431	9/2/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 60431	9/2/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 60431	9/2/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -704593,6 +704669,7 @@ dpsst_identifier	date	course	title	status	score	hours
 61099	10/19/2020	PDP21622	2020 FTEP Pre-DPSST Firearms	Passed	0.0	7.00
 61099	10/15/2020	PDP09501	2020 FTEP Pre-DPSST Firearms	Passed	0.0	14.00
 61099	7/7/2020	PDP38390	DOJ Settlement Agreement	Passed	0.0	1.00
+61100	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 61100	9/23/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 61100	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 61100	9/10/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
@@ -705051,6 +705128,7 @@ dpsst_identifier	date	course	title	status	score	hours
 61102	10/19/2020	PDP21622	2020 FTEP Pre-DPSST Firearms	Passed	0.0	7.00
 61102	10/15/2020	PDP09501	2020 FTEP Pre-DPSST Firearms	Passed	0.0	14.00
 61102	7/18/2020	PDP38390	DOJ Settlement Agreement	Passed	0.0	1.00
+61103	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 61103	9/19/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 61103	7/26/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 61103	7/26/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -710088,6 +710166,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62010	7/20/2021	PDP14760	2021 FTEP Policy and Procedure	Passed	0.0	7.00
 62010	3/13/2016	PDP37433	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
 62010	2/26/2016	PDP15445	IS-700 National Incident Management System	Passed	0.0	4.00
+62011	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 62011	9/23/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 62011	9/4/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 62011	9/4/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -711283,6 +711362,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62015	8/19/2021	PDP01228	2021 FTEP Pre-DPSST Firearms	Passed	0.0	17.00
 62015	7/20/2021	PDP41627	DOJ Settlement Agreement	Passed	0.0	1.00
 62016	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+62016	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 62016	9/15/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 62016	9/14/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 62016	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
@@ -711635,6 +711715,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62016	7/23/2021	PDP41627	DOJ Settlement Agreement	Passed	0.0	1.00
 62016	7/22/2021	PDP35087	2021 FTEP Pre-DPSST Use of Force Class	Passed	0.0	0.50
 62016	7/20/2021	PDP14760	2021 FTEP Policy and Procedure	Passed	0.0	7.00
+62017	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 62017	9/22/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 62017	9/17/2026	PDP3312D	2026 Crisis Negotiation Team (CNT) Annual Training	Passed	0.0	4.00
 62017	9/16/2026	PDP3312D	2026 Crisis Negotiation Team (CNT) Annual Training	Passed	0.0	9.00
@@ -712717,6 +712798,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62229	2/1/2022	PDP07813	CPR/First Aid	Passed	0.0	2.00
 62229	1/27/2022	PDP13641	2022 FTEP Pre-DPSST Firearms	Passed	0.0	21.00
 62229	9/23/2021	PDP41627	DOJ Settlement Agreement	Passed	0.0	1.00
+62260	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 62260	9/26/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 62260	7/30/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 62260	7/30/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -714218,6 +714300,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62390	4/5/2022	PDP4359A	CPR-First Aid	Passed	0.0	2.00
 62390	2/7/2022	PDP30218	2021 Training New Pistol Qualification	Passed	0.0	0.25
 62390	1/27/2022	PDP22752	DOJ Settlement Agreement	Passed	0.0	1.00
+62392	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 62392	9/14/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 62392	9/6/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 62392	8/17/2026	PDP0783D	2020 Trng Managing Critical Incidents Well Sgts	Passed	0.0	0.25
@@ -715591,6 +715674,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62522	4/5/2022	PDP28507	FTEP pre-DPSST firearms	Passed	0.0	7.00
 62522	4/5/2022	PDP4359A	CPR-First Aid	Passed	0.0	2.00
 62522	2/15/2022	PDP22752	DOJ Settlement Agreement	Passed	0.0	1.00
+62591	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 62591	6/25/2026	PDP1622D	2025 CAO Summaries of New Police Legislation	Passed	0.0	0.25
 62591	5/21/2026	PDP1198C	2026-1 IS ABLE	Passed	0.0	2.25
 62591	5/21/2026	PDP3912C	2026-1 IS Control Tactics	Passed	0.0	2.25
@@ -716022,6 +716106,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62597	3/22/2022	PDP06215	2020-10 City Attorney's Legal Update Oct. 2020	Passed	0.0	0.25
 62597	3/22/2022	PDP31907	2021-6 Tips  Techniques Crowd Control Vehicles	Passed	0.0	0.25
 62597	3/21/2022	PDP22752	DOJ Settlement Agreement	Passed	0.0	1.00
+62665	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 62665	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 62665	9/1/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 62665	8/18/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -716314,6 +716399,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62665	5/3/2022	PDP39381	FTEP Pre-DPSST Firearms Training	Passed	0.0	5.00
 62665	3/29/2022	PDP22752	DOJ Settlement Agreement	Passed	0.0	1.00
 62665	3/23/2022	PDP30218	2021 Training New Pistol Qualification	Passed	0.0	0.25
+62707	10/21/2026	32074D	Tactical Baton Refresher	Passed	0.0	4.00
 62707	9/13/2026	PSU3950D	FAS 2-Day Carbine	Passed	0.0	16.00
 62707	8/13/2026	PSU1529D	Using Oleoresin Capsicum Course #DPTO254	Passed	0.0	1.00
 62707	8/10/2026	PSU2183D	Critical Incident Review	Passed	0.0	0.25
@@ -716773,6 +716859,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62818	8/8/2022	PDP15565	Policy and Procedure Training	Passed	0.0	7.00
 62818	8/3/2022	PDP33543	Firearms Training	Passed	0.0	9.00
 62818	8/2/2022	PDP13212	Firearms Training	Passed	0.0	9.00
+62874	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 62874	9/14/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 62874	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 62874	9/5/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -718986,6 +719073,8 @@ dpsst_identifier	date	course	title	status	score	hours
 63034	9/27/2022	PDP12607	FTEP Policy  Procedure	Passed	0.0	7.00
 63034	7/19/2022	PDP00776	2021 Training New Pistol Qualification	Passed	0.0	0.25
 63034	7/19/2022	PDP38388	DOJ Settlement Agreement	Passed	0.0	1.00
+63052	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+63052	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 63052	9/23/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 63052	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 63052	9/5/2026	PDP1989D	2026 Patrol Rifle New Operator Courses	Passed	0.0	54.00
@@ -722827,6 +722916,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63323	1/3/2023	PDP40128	IS-800 National Response Framework	Passed	0.0	3.00
 63323	10/4/2022	PDP21221	DOJ Settlement Agreement	Passed	0.0	1.00
 63323	9/27/2022	PDP00776	2021 Training New Pistol Qualification	Passed	0.0	0.25
+63324	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 63324	9/21/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 63324	8/22/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 63324	8/22/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -723285,6 +723375,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63326	10/3/2022	PDP21221	DOJ Settlement Agreement	Passed	0.0	1.00
 63326	1/12/2021	PDP27971	IS-700 National Incident Management System	Passed	0.0	4.00
 63326	1/12/2021	PDP00961	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
+63327	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 63327	9/11/2026	PDP3585D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
 63327	9/10/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
 63327	8/31/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -729257,6 +729348,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63863	4/1/2020	PDP0880A	IS-700 National Incident Management System	Passed	0.0	4.00
 63863	4/1/2020	PDP0917A	IS-800 National Response Framework	Passed	0.0	3.00
 63863	10/20/2019	PDP3050A	ICS-100 Intro to the Incident Cmnd System	Passed	0.0	2.00
+63876	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 63876	9/4/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 63876	9/4/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 63876	9/4/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -729551,6 +729643,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63887	3/17/2023	PDP23023	2023 Microsoft Office Teams Usage Policy	Passed	0.0	0.25
 63887	3/15/2023	PDP14165	2023 Microsoft Excel Online Recording	Passed	0.0	1.00
 63887	3/15/2023	PDP12472	2023 Police SharePoint Governance	Passed	0.0	0.25
+63952	10/12/2026	REG3884D	Ground Control	Passed	0.0	1.00
 63952	8/13/2026	REG3313D	Striking	Passed	0.0	1.00
 63952	8/13/2026	PDP3746D	2025 AR In-Service Wrap Up	Passed	0.0	0.25
 63952	8/6/2026	REG3059D	Ground Control	Passed	0.0	1.00
@@ -732500,6 +732593,7 @@ dpsst_identifier	date	course	title	status	score	hours
 64423	9/19/2023	PDP3159A	2023 City of Portland Police SharePoint Policy	Passed	0.0	0.50
 64423	9/19/2023	PDP3046A	2023 Police SharePoint Governance	Passed	0.0	0.25
 64423	9/19/2023	PDP1139A	2023 Microsoft Office Teams Usage Policy	Passed	0.0	0.25
+64446	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 64446	9/10/2026	PDP3114D	CPR/First Aid	Passed	0.0	1.00
 64446	9/9/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 64446	9/9/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -733698,6 +733792,7 @@ dpsst_identifier	date	course	title	status	score	hours
 64594	11/14/2023	PDP2139A	2023 FTEP Policy  Procedure	Passed	0.0	7.00
 64594	11/2/2023	PDP3303A	2023 Active Stolen Vehicles Hotsheet	Passed	0.0	0.25
 64594	11/2/2023	PDP1743A	2023 Behavioral Health Unit Referrals	Passed	0.0	0.25
+64650	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 64650	9/11/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 64650	8/10/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 64650	8/10/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -738443,6 +738538,7 @@ dpsst_identifier	date	course	title	status	score	hours
 65143	5/22/2024	PDP3539A	2024 FTEP New Hire Firearms	Passed	0.0	25.00
 65143	5/20/2024	PDP3578A	2024 FTEP Policy  Procedure	Passed	0.0	7.00
 65143	5/14/2024	PDP3575A	CPR/First Aid	Passed	0.0	4.00
+65176	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 65176	9/16/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 65176	7/23/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 65176	7/23/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -741745,6 +741841,7 @@ dpsst_identifier	date	course	title	status	score	hours
 65649	10/28/2024	PDP1948A	CPR/First Aid	Passed	0.0	3.00
 65649	10/23/2024	PDP0149A	2024 FTEP Policy  Procedure	Passed	0.0	5.00
 65649	10/23/2024	PDP3668A	Amended DOJ Settlement Agreement	Passed	0.0	1.00
+65650	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 65650	8/2/2026	PDP0533D	2025 CAO Summaries of New Police Legislation	Passed	0.0	0.25
 65650	8/2/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 65650	8/2/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -742790,6 +742887,7 @@ dpsst_identifier	date	course	title	status	score	hours
 65776	1/14/2025	PDP4537A	CPR/First Aid	Passed	0.0	2.50
 65776	1/7/2025	PDP4284A	2025 FTEP Policy  Procedure	Passed	0.0	7.00
 65776	12/23/2024	PDP2451A	Amended DOJ Settlement Agreement	Passed	0.0	1.00
+65824	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 65824	7/7/2026	PDP0533D	2025 CAO Summaries of New Police Legislation	Passed	0.0	0.25
 65824	7/7/2026	PDP1351D	Annual OSHA Heat Illness Prevention (CityLearner)	Passed	0.0	0.50
 65824	7/7/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50

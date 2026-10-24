@@ -101,6 +101,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/30/2026
+  course: CMU0411D
+  title: Oregon 2026 School Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
 - date: 7/18/2026
   course: OCS2313D
   title: Vehicle extractions

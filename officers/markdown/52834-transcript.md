@@ -45,6 +45,7 @@
 | 9/30/2026 | OCS3725D | 2026 New Rifle Carrier | Passed | 0.0 | 32.00 |
 | 9/28/2026 | OCS2025D | Shooting/Moving around vehicles, Shoot/No-Shoot | Passed | 0.0 | 1.00 |
 | 8/21/2026 | OCS2306D | Marksmanship/Single Hand Shooting | Passed | 0.0 | 1.00 |
+| 7/30/2026 | CMU0411D | Oregon 2026 School Safety Conference | Passed | 0.0 | 22.00 |
 | 7/18/2026 | OCS2313D | Vehicle extractions | Passed | 0.0 | 1.00 |
 | 7/17/2026 | OCS1014D | CNT Monthly Training - Scenario/Equipment | Passed | 0.0 | 6.00 |
 | 6/19/2026 | OCS2213C | CNT Monthly Training - SWAT / CNT joint scenarios | Passed | 0.0 | 8.00 |

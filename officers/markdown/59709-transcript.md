@@ -23,8 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/27/2025 | 1/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 4/20/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 4/14/2019 |  |
@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/14/2026 | BNP2043D | Skidcar | Passed | 0.0 | 1.00 |
 | 9/30/2026 | BNP2109D | ALPR / Senate Bill 1516 Training | Passed | 0.0 | 1.00 |
 | 9/28/2026 | BNP0866D | ALPR Updates | Passed | 0.0 | 0.75 |
 | 9/28/2026 | BNP3315D | Aquatic Death Investigations  Child Abuse | Passed | 0.0 | 0.50 |

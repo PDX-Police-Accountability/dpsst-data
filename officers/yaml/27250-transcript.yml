@@ -79,6 +79,12 @@ certification_records:
   expiration_date: 10/7/2029
   probation_date: ''
 training_records:
+- date: 10/7/2026
+  course: 32074D
+  title: Tactical Baton Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/12/2026
   course: PSU1970D
   title: Adult and Pediatric First Aid/CPR/AED

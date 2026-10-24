@@ -35,7 +35,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/29/2025 | 1/31/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 8/6/2001 |  |
@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/6/2026 | BNP4112D | Smith  Wesson Shield Handgun Training | Passed | 0.0 | 1.50 |
 | 8/25/2026 | BNP3994D | Bend PD Ethics | Instructed | 0.0 | 2.00 |
 | 8/12/2026 | BNP1671D | Defensive Tactics Scenarios | Passed | 0.0 | 1.00 |

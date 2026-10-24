@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2026 | OSH1688D | FA3 | Passed | 0.0 | 3.00 |
 | 10/9/2026 | OSH4438D | HRVS Refrsher | Instructed | 0.0 | 1.00 |
 | 9/25/2026 | OSH4600D | FA3 | Instructed | 0.0 | 3.00 |
 | 9/16/2026 | OSH0659D | OSP Ethics 2026 | Passed | 0.0 | 1.00 |
@@ -45,6 +46,7 @@
 | 6/15/2026 | OSH1864C | DT2-Taser | Instructed | 0.0 | 4.00 |
 | 6/10/2026 | OSH1477D | HVEU-Emergency Vehicle Oper.  High Risk Stops | Instructed | 0.0 | 8.00 |
 | 5/29/2026 | OSH1660D | 2nd Trimester Firearms-Rifle | Instructed | 0.0 | 4.00 |
+| 5/29/2026 | OSH0250D | 2nd Trimester Firearms- Rifle | Passed | 0.0 | 4.00 |
 | 5/22/2026 | OSH4596C | DT2/TASER | Instructed | 0.0 | 4.00 |
 | 5/18/2026 | OSH2451C | FA2 Rifle | Instructed | 0.0 | 8.00 |
 | 5/15/2026 | OSH3264C | FA2 Rifle | Instructed | 0.0 | 8.00 |
