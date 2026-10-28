@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 8/16/2026 | TRN2442D | DOC - CRCI Fire Suppression Training v2026 Vol 2 | Passed | 0.0 | 1.00 |
 | 8/16/2026 | TRN2591D | DOC - Fire Alarm Panel Monitoring v2026 Vol 2 | Passed | 0.0 | 1.00 |
 | 5/12/2026 | TRN2352C | Tethered Restraints v2023 | Passed | 0.0 | 0.50 |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/15/2026
+  agency: DPSST Use Only
+  action: InstrApp
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 9/2/2021
   agency: Portland Police Bureau
   action: Retired

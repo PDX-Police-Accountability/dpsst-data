@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/23/2026 | OAC1431D | Beyond the Technology: Leading  through ALPR | Passed | 0.0 | 1.00 |
 | 9/23/2026 | OAC0635D | Agency Culture  Building next Gen | Passed | 0.0 | 3.00 |
 | 9/16/2026 | CAP3843D | CIS - Cyber Security Training | Passed | 0.0 | 0.50 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/15/2026 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 9/2/2021 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 4/18/2019 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 7/8/2004 | Portland Police Bureau | Promotion | Sergeant |  |  |

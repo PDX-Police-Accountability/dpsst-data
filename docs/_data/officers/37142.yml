@@ -94,6 +94,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/26/2026
+  certificate: Instructor
+  level: ''
+  status: Granted
+  certificate_date: 10/26/2026
+  expiration_date: ''
+  probation_date: ''
 - status_date: 10/4/2022
   certificate: Police Officer
   level: Executive

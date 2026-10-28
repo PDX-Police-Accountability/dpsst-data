@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 5/27/2026 | TRN3050D | CNT_SWAT - Joint Operations Drills | Passed | 0.0 | 8.00 |
 | 2/9/2026 | TRN4398C | Evidence Handling Crime Scene Preservation v2019 | Passed | 0.0 | 2.00 |
 | 1/29/2026 | TRN2333C | DOC - Armed Post Qualification (APQ) v2026 | Passed | 0.0 | 6.00 |

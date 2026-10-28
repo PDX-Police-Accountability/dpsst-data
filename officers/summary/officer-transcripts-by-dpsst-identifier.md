@@ -165,7 +165,7 @@
 | Foster, William S. | 23591 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-12-22 | [md](../markdown/23591-transcript.md) - [yaml](../yaml/23591-transcript.yml) |
 | Baldwin, Gregory R. | 23593 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-07-31 | [md](../markdown/23593-transcript.md) - [yaml](../yaml/23593-transcript.yml) |
 | * MISSING | 23649 |  |  |  |  |  | [md](../markdown/23649-transcript.md) - [yaml](../yaml/23649-transcript.yml) |
-| * MISSING | 23680 |  |  |  |  |  | [md](../markdown/23680-transcript.md) - [yaml](../yaml/23680-transcript.yml) |
+| Ellertson, Jan M. | 23680 | Portland Police Bureau | Inactive | Sergeant | Retired | 2015-05-14 | [md](../markdown/23680-transcript.md) - [yaml](../yaml/23680-transcript.yml) |
 | Livingston, Brett G. | 23705 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-10 | [md](../markdown/23705-transcript.md) - [yaml](../yaml/23705-transcript.yml) |
 | Dale, Brian J. | 23726 | Portland Police Bureau | Active | Detective | Promotion | 2021-02-04 | [md](../markdown/23726-transcript.md) - [yaml](../yaml/23726-transcript.yml) |
 | * MISSING | 23768 |  |  |  |  |  | [md](../markdown/23768-transcript.md) - [yaml](../yaml/23768-transcript.yml) |
@@ -173,12 +173,12 @@
 | Montgomery, John S. | 23815 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-06-13 | [md](../markdown/23815-transcript.md) - [yaml](../yaml/23815-transcript.yml) |
 | * MISSING | 23816 |  |  |  |  |  | [md](../markdown/23816-transcript.md) - [yaml](../yaml/23816-transcript.yml) |
 | * MISSING | 23818 |  |  |  |  |  | [md](../markdown/23818-transcript.md) - [yaml](../yaml/23818-transcript.yml) |
-| * MISSING | 23851 |  |  |  |  |  | [md](../markdown/23851-transcript.md) - [yaml](../yaml/23851-transcript.yml) |
+| Payne, Stephen L. | 23851 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1993-03-31 | [md](../markdown/23851-transcript.md) - [yaml](../yaml/23851-transcript.yml) |
 | * MISSING | 23932 |  |  |  |  |  | [md](../markdown/23932-transcript.md) - [yaml](../yaml/23932-transcript.yml) |
 | Gallagher, Michael O. | 23941 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-21 | [md](../markdown/23941-transcript.md) - [yaml](../yaml/23941-transcript.yml) |
 | * MISSING | 23954 |  |  |  |  |  | [md](../markdown/23954-transcript.md) - [yaml](../yaml/23954-transcript.yml) |
 | * MISSING | 23994 |  |  |  |  |  | [md](../markdown/23994-transcript.md) - [yaml](../yaml/23994-transcript.yml) |
-| * MISSING | 23996 |  |  |  |  |  | [md](../markdown/23996-transcript.md) - [yaml](../yaml/23996-transcript.yml) |
+| Gustafson, Rodney D. | 23996 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-25 | [md](../markdown/23996-transcript.md) - [yaml](../yaml/23996-transcript.yml) |
 | * MISSING | 23999 |  |  |  |  |  | [md](../markdown/23999-transcript.md) - [yaml](../yaml/23999-transcript.yml) |
 | * MISSING | 24002 |  |  |  |  |  | [md](../markdown/24002-transcript.md) - [yaml](../yaml/24002-transcript.yml) |
 | Anderson, John W. | 24003 | Portland Police Bureau | Inactive | Sergeant | Retired | 2015-06-24 | [md](../markdown/24003-transcript.md) - [yaml](../yaml/24003-transcript.yml) |
@@ -1162,7 +1162,7 @@
 | Moore, Gregory M. | 51791 | Portland Police Bureau | Active | Lieutenant | Promotion | 2025-01-16 | [md](../markdown/51791-transcript.md) - [yaml](../yaml/51791-transcript.yml) |
 | Pavon, Lino | 51792 | Portland Police Bureau | Active | Police Officer | Hired | 2012-04-16 | [md](../markdown/51792-transcript.md) - [yaml](../yaml/51792-transcript.yml) |
 | Browning, Bradley W. | 51793 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/51793-transcript.md) - [yaml](../yaml/51793-transcript.yml) |
-| Haase, Brandon D. | 51795 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-04-25 | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
+| * MISSING | 51795 |  |  |  |  |  | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
 | * MISSING | 51796 |  |  |  |  |  | [md](../markdown/51796-transcript.md) - [yaml](../yaml/51796-transcript.yml) |
 | Damerville, Justin D. | 51797 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2022-05-18 | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
 | Jenson, Andrew S. | 51804 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-04-11 | [md](../markdown/51804-transcript.md) - [yaml](../yaml/51804-transcript.yml) |

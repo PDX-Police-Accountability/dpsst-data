@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/23/2026 | CAP0250D | Vehicle Close Quarter Combat | Passed | 0.0 | 4.00 |
 | 9/16/2026 | CAP3843D | CIS - Cyber Security Training | Passed | 0.0 | 0.50 |
 | 9/16/2026 | CAP0502D | Creating a Culture of Civility  Respect | Passed | 0.0 | 2.00 |
