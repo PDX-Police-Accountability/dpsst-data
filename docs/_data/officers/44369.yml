@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2026
+  course: STP0652D
+  title: Qualification Makeup and Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/19/2026
   course: STP4157D
   title: RAID Team Training 40 mm Use Against Vehicles

@@ -79,12 +79,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 1/19/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 11/2/2025
   course: PDP4495C
   title: Emergency Operations Plan (EOP)

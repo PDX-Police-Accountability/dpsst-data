@@ -194,24 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/25/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 2/10/2026
   course: PDP4153C
   title: 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 1/12/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 1/12/2026
   course: PDP4195C
   title: 2026-1 Range Qual Secondary Firearm (25 Rd)

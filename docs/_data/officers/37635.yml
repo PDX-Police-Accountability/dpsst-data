@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/15/2026
+  course: EGP3568D
+  title: Firearm Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/10/2026
   course: EGP4393D
   title: Legal Updates

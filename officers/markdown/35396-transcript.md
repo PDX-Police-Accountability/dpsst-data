@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/8/2026 | SRP1354D | Internal Affairs Training | Passed | 0.0 | 16.00 |
 | 9/25/2026 | ALP1290D | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 40.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |

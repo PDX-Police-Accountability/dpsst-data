@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/3/2026
+  course: NGP2495D
+  title: Pistol, Rifle, 40mm training drills
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 8/28/2026
   course: NGP3272D
   title: Taser 10 CEW User Certification
@@ -102,12 +108,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/5/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 2/4/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia

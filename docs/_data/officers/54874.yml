@@ -158,12 +158,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 3/12/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 3/11/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -188,12 +182,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/4/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 2/3/2026
   course: PDP4427C
   title: 2026 Red Dot Sight for Pistol Transition Course

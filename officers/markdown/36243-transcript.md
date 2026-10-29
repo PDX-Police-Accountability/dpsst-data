@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2026 | HBS0341D | IMT Training - Tactical Combat Casualty Care | Passed | 0.0 | 5.00 |
 | 7/31/2026 | HBS2399D | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 7/28/2026 | EGP0601D | Police Motorcade Training | Passed | 0.0 | 6.00 |
 | 7/14/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Passed | 0.0 | 7.00 |

@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/23/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/20/2026 | PDP0019D | 2026 FTEP Control Tactics-Searches | Passed | 0.0 | 3.00 |
+| 10/15/2026 | PDP3022D | 2026 RegJIN RMS/MRE Training | Passed | 0.0 | 14.00 |
 | 10/13/2026 | PDP0885D | FTEP Orientation Class | Passed | 0.0 | 7.00 |
 | 10/12/2026 | PDP4434D | FTEP Geography | Passed | 0.0 | 4.00 |
 | 10/12/2026 | PDP3168D | FTEP Post PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
@@ -36,6 +38,7 @@
 | 10/7/2026 | PDP2957D | FTEP Post DPSST Control Tactics | Passed | 0.0 | 4.00 |
 | 10/6/2026 | PDP3925D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 10/5/2026 | PDP0896D | FTEP HazmatWMD Awareness Gas Mask | Passed | 0.0 | 2.00 |
+| 10/4/2026 | PDP0770D | 2026 Body Worn Camera Training | Passed | 0.0 | 4.00 |
 | 10/1/2026 | PDP2362D | FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 9/30/2026 | PDP0239D | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 9/30/2026 | PDP1867D | Mobile Identification Device MIDD | Passed | 0.0 | 2.00 |

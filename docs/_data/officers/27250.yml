@@ -80,8 +80,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 10/7/2026
-  course: XDELETE5
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: PSU0759D
+  title: Tactical Baton Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'

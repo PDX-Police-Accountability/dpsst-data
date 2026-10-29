@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/18/2026
   course: GSP1007D
   title: Handgun In-service
@@ -143,12 +149,6 @@ training_records:
 - date: 3/6/2026
   course: PDP3879C
   title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 3/6/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

@@ -13,12 +13,13 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 10/8/2026 | Portland Police Bureau | Hired | Police Off |  |  |
+| 10/7/2026 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 4/3/2023 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 10/8/2026 | Police Officer | Basic | Required |  |  | 4/8/2028 |
-| 1/4/2024 | Corrections Officer | Basic | Granted | 1/4/2024 |  |  |
+| 1/4/2024 | Corrections Officer | Basic | Granted | 1/4/2024 | 1/7/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

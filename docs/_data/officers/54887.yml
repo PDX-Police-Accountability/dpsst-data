@@ -140,12 +140,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 1/19/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 1/4/2026
   course: PDP2854C
   title: 2025 Federal Interaction Reporting

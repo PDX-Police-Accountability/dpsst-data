@@ -283,12 +283,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/3/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 12/4/2025
   course: PDP2743C
   title: 2025-10 CHO EO, DIR 0625.00 Automatic License

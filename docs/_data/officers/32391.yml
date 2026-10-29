@@ -198,12 +198,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 1/15/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 1/15/2026
   course: PDP0783C
   title: 2026-1 Range Qual Secondary Firearm (50 Rd)
   status: Passed

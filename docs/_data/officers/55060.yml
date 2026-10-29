@@ -290,21 +290,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/25/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 2/24/2026
   course: PDP0531C
   title: 2026-1 Range Qualification 40mm Less Lethal Qual
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 2/24/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

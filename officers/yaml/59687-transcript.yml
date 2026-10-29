@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2026
+  course: WLP0290D
+  title: Firearms Training / Qualifications / 40mm Launcher
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/29/2026
   course: WLP1761C
   title: Adult First Aid/CPR/AED-BL-r.21

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/19/2026
+  course: SDP0193D
+  title: Blueprint Investigative Immersion 5-Day Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/11/2026
   course: OCP0002D
   title: Responding To People With Mental Illness

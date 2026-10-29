@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/15/2026 | EGP2832D | EVOC Skills Training | Passed | 0.0 | 3.00 |
+| 10/15/2026 | EGP3568D | Firearm Qualification | Passed | 0.0 | 3.00 |
 | 8/28/2026 | JCP1579D | Gracie Survival Tactics Level 1 | Passed | 0.0 | 40.00 |
 | 8/21/2026 | JCP0820D | Gracie Survival Tactics Level 1 | Passed | 0.0 | 40.00 |
 | 6/30/2026 | EGP2210D | SWAT Search Skills | Instructed | 0.0 | 4.00 |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | WLP0290D | Firearms Training / Qualifications / 40mm Launcher | Passed | 0.0 | 3.00 |
 | 9/15/2026 | WLP4462D | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 8/26/2026 | OCA1706D | August MCT - Court Testimony | Passed | 0.0 | 1.25 |
 | 6/10/2026 | WLP2414C | Firearms Training | Passed | 0.0 | 3.00 |

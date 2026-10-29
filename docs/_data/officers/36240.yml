@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 8/31/2026
   course: GSP3564D
   title: 2026 Ethics Training
@@ -101,12 +107,6 @@ training_records:
 - date: 4/14/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 3/10/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

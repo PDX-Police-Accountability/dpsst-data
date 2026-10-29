@@ -690,12 +690,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/23/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 3/19/2026
   course: PDP2706C
   title: RegJin RMS/MRE Training

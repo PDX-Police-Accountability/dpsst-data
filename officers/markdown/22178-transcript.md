@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/13/2026 | GLP4276D | Tactical Medic / TCCC | Passed | 0.0 | 3.00 |
 | 8/29/2026 | GLP2868D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/29/2026 | GLP0414D | Basic Patrol Rifle Course and Qual | Passed | 0.0 | 5.00 |

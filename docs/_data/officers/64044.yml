@@ -15,6 +15,12 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 10/7/2026
+  agency: Multnomah County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 4/3/2023
   agency: Multnomah County Sheriff's Office
   action: Hired
@@ -34,7 +40,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 1/4/2024
-  expiration_date: ''
+  expiration_date: 1/7/2027
   probation_date: ''
 training_records:
 - date: 4/8/2028

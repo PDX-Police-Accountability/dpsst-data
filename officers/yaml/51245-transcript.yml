@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/16/2026
+  course: HSU3189D
+  title: Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/18/2026
   course: HSU0548C
   title: Spring In-Service 2026 De Escalation Practical

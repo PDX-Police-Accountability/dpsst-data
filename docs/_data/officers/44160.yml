@@ -129,12 +129,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 4/7/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 3/24/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
@@ -153,12 +147,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/20/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 2/18/2026
   course: PDP3022C
   title: 2026 Investigators IS Control Tactics
@@ -190,12 +178,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 2/16/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 2/16/2026
   course: PDP4312D
   title: 2026-1 Range Qualification Primary Firearm
   status: Passed
@@ -219,12 +201,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
-- date: 2/3/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 1/1/2026
   course: PDP1239C
   title: Annual Bloodborne Pathogens (CityLearner)

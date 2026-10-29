@@ -47,6 +47,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/22/2027 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 10/25/2026 | BNS2593D | Leadership Expectation | Passed | 0.0 | 1.00 |
+| 10/25/2026 | BNS3645D | Leadership Expectation | Passed | 0.0 | 1.00 |
 | 9/1/2026 | BNS0467D | Pepperball Refresher | Passed | 0.0 | 0.75 |
 | 9/1/2026 | BNS0467D | Pepperball Refresher | Instructed | 0.0 | 2.25 |
 | 9/1/2026 | BNS3738D | 40mm Refresher | Passed | 0.0 | 0.75 |

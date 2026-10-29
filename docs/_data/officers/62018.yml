@@ -30,6 +30,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/15/2026
+  course: PDP0352D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/8/2026
+  course: PDP2075D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/22/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'
@@ -252,12 +264,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 3/26/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 3/25/2026
   course: PDP4364C
   title: 2026 Focused Intervention Team (FIT) Training
@@ -339,12 +345,6 @@ training_records:
 - date: 1/26/2026
   course: PDP0531C
   title: 2026-1 Range Qualification 40mm Less Lethal Qual
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 1/26/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2026
+  course: MLP1967D
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/22/2026
   course: CAP2636D
   title: DV Strangulation Investigations

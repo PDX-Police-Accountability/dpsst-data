@@ -70,6 +70,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/19/2026
+  course: PDP3233D
+  title: 2026 Command In-Service
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 9/17/2026
   course: PDP3312D
   title: 2026 Crisis Negotiation Team (CNT) Annual Training
@@ -226,12 +232,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
-- date: 3/9/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 3/2/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

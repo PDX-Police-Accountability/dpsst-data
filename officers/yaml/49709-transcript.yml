@@ -124,6 +124,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/19/2026
+  course: PDP3233D
+  title: 2026 Command In-Service
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 10/6/2026
   course: PDP2518D
   title: 2026 Executive  Command Lvl Community Engagement
@@ -208,12 +214,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 3/25/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 3/25/2026
   course: PDP0783C
   title: 2026-1 Range Qual Secondary Firearm (50 Rd)

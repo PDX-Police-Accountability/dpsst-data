@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/22/2026 | GPN4300D | Case Management Trainning Dashboard OSP 2 | Passed | 0.0 | 2.00 |
 | 9/28/2026 | GPN3531D | Tactical First Aid | Passed | 0.0 | 1.00 |
 | 9/28/2026 | GPN2407D | Rifle IDC | Passed | 0.0 | 3.50 |
 | 9/1/2026 | CPP3172D | Glock Armorer | Passed | 0.0 | 8.00 |

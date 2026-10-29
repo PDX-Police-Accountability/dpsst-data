@@ -71,7 +71,6 @@
 | 2/7/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
 | 2/6/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |
 | 2/3/2026 | PDP1426C | 2026 Legal Interpreting in Policing In-Service | Passed | 0.0 | 9.00 |
-| 1/9/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/8/2026 | PDP2568C | 2021 Equity Training Series Introduction Video | Passed | 0.0 | 0.25 |
 | 1/8/2026 | PDP3313C | 2021 Online IS Equity Training Series Racism Pt 2 | Passed | 0.0 | 0.25 |
 | 1/3/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |

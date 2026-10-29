@@ -35,7 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2026 | PDA1661D | Focused Response for Veterans | Passed | 0.0 | 1.00 |
+| 10/22/2026 | PDA2320D | Creating Safe Scenes | Passed | 0.0 | 1.50 |
 | 8/12/2026 | PDA3876D | Use of Force Update | Passed | 0.0 | 1.50 |
+| 8/4/2026 | PDA0815D | Firearms Training | Passed | 0.0 | 8.00 |
 | 6/5/2026 | PDA3012D | Criminal Discovery Refresher | Passed | 0.0 | 1.00 |
 | 5/27/2026 | PDA4282D | Pop Smoke Homicide Case Study | Passed | 0.0 | 2.00 |
 | 5/26/2026 | PDA3979D | Cartel Dynamics | Passed | 0.0 | 2.00 |

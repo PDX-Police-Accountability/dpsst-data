@@ -65,7 +65,6 @@
 | 1/23/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/23/2026 | PDP2254C | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
 | 1/23/2026 | PDP1802C | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |
-| 1/17/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/3/2026 | PDP2225C | 2025-12 CAO Legal Updates Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2025 | PDP0762C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |

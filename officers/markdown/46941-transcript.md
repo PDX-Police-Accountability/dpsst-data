@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2026 | PDP0352D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 8/20/2026 | PDP4176D | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 8/20/2026 | PDP4176D | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 8/4/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
@@ -69,7 +70,6 @@
 | 3/15/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 3/12/2026 | PDP3879C | 2026-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/12/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
-| 3/12/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 2/18/2026 | PDP2030C | 2026 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 2/11/2026 | PDP2665C | 2026 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 2/9/2026 | PDP1727C | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |

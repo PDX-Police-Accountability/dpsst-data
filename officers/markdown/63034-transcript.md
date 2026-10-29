@@ -56,7 +56,6 @@
 | 1/13/2026 | PDP0723C | 2025-12 Federal Interactions Reporting | Passed | 0.0 | 0.25 |
 | 1/13/2026 | PDP4195C | 2026-1 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 1/7/2026 | PDP0679C | 2026-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 1/7/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/7/2026 | PDP2216C | 2026-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 12/14/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 11/13/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |

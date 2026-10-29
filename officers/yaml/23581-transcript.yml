@@ -56,12 +56,6 @@ certification_records:
   expiration_date: 1/28/2031
   probation_date: ''
 training_records:
-- date: 1/9/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 12/28/2025
   course: PDP0891C
   title: '2025-12 CAO Legal Updates: Inventory Searches'

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/24/2026 | GSP3868D | Camp Rilea SWAT Training | Passed | 0.0 | 40.00 |
 | 9/11/2026 | GSP2568D | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
 | 9/10/2026 | GSP2181D | First Aid / CPR Training | Passed | 0.0 | 4.00 |

@@ -74,6 +74,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/15/2026
+  course: PDP0352D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/24/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'
@@ -176,12 +182,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 3/12/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 3/2/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
@@ -254,12 +254,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/4/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 2/3/2026
   course: PDP4427C
   title: 2026 Red Dot Sight for Pistol Transition Course

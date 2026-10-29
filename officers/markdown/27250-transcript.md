@@ -36,7 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/7/2026 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 10/7/2026 | PSU0759D | Tactical Baton Refresher | Passed | 0.0 | 4.00 |
 | 8/12/2026 | PSU1970D | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 1.00 |
 | 8/10/2026 | PSU2183D | Critical Incident Review | Passed | 0.0 | 0.25 |
 | 7/19/2026 | PSU2723D | Q3 Firearms | Passed | 0.0 | 2.00 |

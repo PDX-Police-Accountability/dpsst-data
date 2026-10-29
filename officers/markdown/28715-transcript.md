@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/23/2026 | HBP3600D | Firearms Remediation Range | Instructed | 0.0 | 6.00 |
 | 9/23/2026 | HBP2222D | Handcuffing | Instructed | 0.0 | 1.00 |
 | 9/23/2026 | HBP4330D | Range | Instructed | 0.0 | 4.50 |

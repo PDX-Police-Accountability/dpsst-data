@@ -234,6 +234,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/8/2026
+  course: SPP20699
+  title: Legal update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/6/2026
   course: SPP3132D
   title: Legal Update Training

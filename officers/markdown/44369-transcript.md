@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2026 | STP0652D | Qualification Makeup and Firearms Training | Passed | 0.0 | 4.00 |
 | 8/19/2026 | STP4157D | RAID Team Training 40 mm Use Against Vehicles | Passed | 0.0 | 2.00 |
 | 8/19/2026 | STP3388D | Shooting In And Around Vehicles | Passed | 0.0 | 4.00 |
 | 8/6/2026 | STP0112D | Adult and Child First Aid/CPR/AED | Passed | 0.0 | 4.00 |

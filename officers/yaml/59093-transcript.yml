@@ -40,6 +40,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/27/2026
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 8/2/2024
   certificate: Emergency Medical Dispatcher
   level: Basic
@@ -213,24 +220,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
-- date: 3/9/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 2/3/2026
   course: PDP4427C
   title: 2026 Red Dot Sight for Pistol Transition Course
   status: Passed
   score: '0.0'
   hours: '27.00'
-- date: 2/3/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 1/29/2026
   course: PDP1554C
   title: 2025 All Sworn In-Service ABLE (Video)

@@ -168,12 +168,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
-- date: 4/5/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 3/24/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
@@ -213,12 +207,6 @@ training_records:
 - date: 2/3/2026
   course: PDP0531C
   title: 2026-1 Range Qualification 40mm Less Lethal Qual
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 2/3/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/20/2026
+  course: PDP0019D
+  title: 2026 FTEP Control Tactics-Searches
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/15/2026
+  course: PDP3022D
+  title: 2026 RegJIN RMS/MRE Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 10/13/2026
   course: PDP0885D
   title: FTEP Orientation Class
@@ -72,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/4/2026
+  course: PDP0770D
+  title: 2026 Body Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/1/2026
   course: PDP2362D
   title: FTEP Introduction to Property and Evidence

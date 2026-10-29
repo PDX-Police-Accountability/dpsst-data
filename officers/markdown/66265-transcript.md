@@ -50,7 +50,6 @@
 | 4/8/2026 | PDP1493C | 2026-1 Advanced Academy Law | Passed | 0.0 | 29.25 |
 | 4/7/2026 | PDP3455C | 2026-1 Advanced Academy Patrol Proc FA | Passed | 0.0 | 80.75 |
 | 4/3/2026 | PDP2077C | 2026-1 Advanced Academy PVO | Passed | 0.0 | 40.25 |
-| 4/1/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 4/1/2026 | PDP3341C | 2026-1 Advanced Academy Equity | Passed | 0.0 | 23.50 |
 | 4/1/2026 | PDP0272C | 2026-1 Advanced Academy PDX Community Engagement | Passed | 0.0 | 4.50 |
 | 3/31/2026 | PDP1774C | 2026-1 Advanced Academy MDT Operations | Passed | 0.0 | 1.25 |

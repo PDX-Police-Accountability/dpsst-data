@@ -40,6 +40,7 @@
 | 10/12/2026 | HSU1658D | Child Abuse Investigations | Passed | 0.0 | 2.00 |
 | 10/12/2026 | HSU0234D | Tactical Combat Casualty Care | Passed | 0.0 | 2.00 |
 | 10/12/2026 | HSU2527D | Force Scenarios | Passed | 0.0 | 4.00 |
+| 10/12/2026 | HSU3189D | Chief's Message | Passed | 0.0 | 2.00 |
 | 10/11/2026 | HSU2709D | EVOC | Passed | 0.0 | 2.00 |
 | 10/11/2026 | HSU2296D | Firearms | Passed | 0.0 | 4.00 |
 | 10/11/2026 | HSU3838D | Manual Breaching Techniques | Passed | 0.0 | 2.00 |

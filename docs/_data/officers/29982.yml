@@ -126,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/11/2026
+  course: RMP1091D
+  title: 'Case Analysis: Silverton HS SWATTING Call'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/10/2026
   course: RMP0947D
   title: Consequential Leadership
@@ -134,6 +140,18 @@ training_records:
   hours: '4.00'
 - date: 9/10/2026
   course: RMP1085D
+  title: Ethical Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/10/2026
+  course: RMP0520D
+  title: Consequential Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/10/2026
+  course: RMP0088D
   title: Ethical Leadership
   status: Passed
   score: '0.0'
@@ -156,8 +174,26 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/9/2026
+  course: RMP0338D
+  title: Essential Skills for PIOs
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/9/2026
+  course: RMP1577D
+  title: Public Communication in Critical Events
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/8/2026
   course: RMP1149D
+  title: Kohberger Quadruple Homicide
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/8/2026
+  course: RMP0389D
   title: Kohberger Quadruple Homicide
   status: Passed
   score: '0.0'

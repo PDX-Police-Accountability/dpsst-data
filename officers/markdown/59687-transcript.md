@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2026 | WLP0290D | Firearms Training / Qualifications / 40mm Launcher | Passed | 0.0 | 3.00 |
 | 5/29/2026 | WLP1761C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
 | 5/29/2026 | WLP0110D | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
 | 3/17/2026 | WLP2992C | WLPD 2026 TASER Recertification | Passed | 0.0 | 2.00 |

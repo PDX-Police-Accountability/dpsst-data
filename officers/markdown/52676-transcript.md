@@ -59,7 +59,6 @@
 | 4/13/2026 | PDP0695D | 2019 Leadership  Organizational Excellence LP | Passed | 0.0 | 0.25 |
 | 4/13/2026 | PDP4457D | 2019 Leadership  Organizational Excellence LP | Passed | 0.0 | 0.25 |
 | 4/13/2026 | PDP0217D | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |
-| 4/9/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 3/24/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/15/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/15/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

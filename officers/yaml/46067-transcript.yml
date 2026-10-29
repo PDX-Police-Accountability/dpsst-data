@@ -68,6 +68,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/15/2026
+  course: PDP0352D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/14/2026
+  course: PDP1202D
+  title: 2026 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/8/2026
+  course: PDP2075D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/30/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'
@@ -257,12 +275,6 @@ training_records:
 - date: 4/9/2026
   course: PDP3879C
   title: 2026-1 Range Qualification AR-15 Qual (20 Yard)
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 4/9/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

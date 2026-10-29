@@ -57,7 +57,6 @@
 | 5/6/2026 | PDP2782D | 2026 Disability Series: d/Deaf  Hard of Hearing | Passed | 0.0 | 0.50 |
 | 4/17/2026 | PDP2148C | 2026 Annual Honor Guard In-Service | Passed | 0.0 | 9.00 |
 | 4/13/2026 | PDP0531C | 2026-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
-| 4/13/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 4/13/2026 | PDP1459D | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 4/13/2026 | PDP2829D | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 4/12/2026 | PDP3226D | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |

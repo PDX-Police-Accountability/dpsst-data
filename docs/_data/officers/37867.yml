@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2026
+  course: PDP0352D
+  title: 2026 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/13/2026
   course: PDP2010D
   title: OTOA Large Caliber Rifle Operator
@@ -323,12 +329,6 @@ training_records:
 - date: 1/23/2026
   course: PDP0531C
   title: 2026-1 Range Qualification 40mm Less Lethal Qual
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 1/23/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

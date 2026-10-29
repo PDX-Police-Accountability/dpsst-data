@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2026 | MLP1967D | Firearms | Passed | 0.0 | 3.00 |
 | 7/22/2026 | CAP2636D | DV Strangulation Investigations | Passed | 0.0 | 2.00 |
 | 4/15/2026 | MLP3784D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 4/8/2026 | MLP1240D | Pistol Qualifications | Instructed | 0.0 | 3.00 |

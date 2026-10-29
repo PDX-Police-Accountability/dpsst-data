@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 8/29/2026 | GLP2868D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 7/9/2026 | GLP0428D | Firearms Qualification - 40mm Less Lethal | Passed | 0.0 | 1.00 |
 | 7/9/2026 | GLP2888D | Firearms Qualification - Glock 47 | Passed | 0.0 | 1.00 |

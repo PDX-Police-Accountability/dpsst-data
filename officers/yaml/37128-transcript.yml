@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 8/31/2026
   course: GSP3564D
   title: 2026 Ethics Training
@@ -86,12 +92,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/20/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 2/19/2026
   course: PDP3022C
   title: 2026 Investigators IS Control Tactics

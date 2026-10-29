@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2026 | SDP0193D | Blueprint Investigative Immersion 5-Day Course | Passed | 0.0 | 40.00 |
 | 10/11/2026 | OCP0002D | Responding To People With Mental Illness | Passed | 0.0 | 2.00 |
 | 10/8/2026 | OCP1453D | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 9/29/2026 | OCP3050D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

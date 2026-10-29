@@ -46,6 +46,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/9/2026 | HBS0230D | InService Session #2 EVO | Passed | 0.0 | 4.50 |
 | 10/9/2026 | HBS1157D | InService Session #2 Firearms | Passed | 0.0 | 4.50 |
+| 10/7/2026 | HBS0734D | Field Training Officer Updates | Passed | 0.0 | 2.00 |
 | 9/16/2026 | HBS1206D | Finance Training | Passed | 0.0 | 1.00 |
 | 9/15/2026 | HBS0584D | RDS Transition Course | Passed | 0.0 | 18.00 |
 | 8/27/2026 | HBS1391D | Leadership Training-EStaff  Mid-Mgrs | Passed | 0.0 | 8.00 |

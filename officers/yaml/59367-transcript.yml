@@ -218,12 +218,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
-- date: 4/5/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 3/28/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
@@ -266,12 +260,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 1/15/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 1/9/2026
   course: PDP2369C
   title: 2026 Enhanced Crisis Intervention Team (ECIT) Cert

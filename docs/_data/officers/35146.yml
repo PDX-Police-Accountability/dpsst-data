@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/22/2026
+  course: GPN4300D
+  title: Case Management Trainning Dashboard OSP 2
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/28/2026
   course: GPN3531D
   title: Tactical First Aid

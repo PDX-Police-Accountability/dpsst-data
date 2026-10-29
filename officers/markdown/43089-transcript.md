@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2026 | LGS3494D | Department Qualifications/Training | Instructed | 0.0 | 8.00 |
 | 8/5/2026 | VND3736D | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 8/5/2026 | VND1519D | 28 CFR 23 | Passed | 0.0 | 2.00 |
 | 7/31/2026 | LGS3083D | Adult CPR/First Aid | Passed | 0.0 | 1.50 |

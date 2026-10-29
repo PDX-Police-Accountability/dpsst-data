@@ -204,12 +204,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 1/23/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 1/10/2026
   course: PDP1573C
   title: 2026 Recognizing  Preventing Positional Asphyxia

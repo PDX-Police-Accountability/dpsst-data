@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2026
+  course: HBS0341D
+  title: IMT Training - Tactical Combat Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 7/31/2026
   course: HBS2399D
   title: LEDs Recertification

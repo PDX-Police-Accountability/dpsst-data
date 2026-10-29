@@ -45,6 +45,7 @@
 | 10/16/2026 | HSU0234D | Tactical Combat Casualty Care | Passed | 0.0 | 2.00 |
 | 10/16/2026 | HSU1658D | Child Abuse Investigations | Passed | 0.0 | 2.00 |
 | 10/16/2026 | HSU2527D | Force Scenarios | Instructed | 0.0 | 4.00 |
+| 10/16/2026 | HSU3189D | Chief's Message | Passed | 0.0 | 2.00 |
 | 10/11/2026 | HSU2296D | Firearms | Instructed | 0.0 | 4.00 |
 | 9/26/2026 | HSU0382D | Firearms | Passed | 0.0 | 4.00 |
 | 4/18/2026 | HSU0548C | Spring In-Service 2026 De Escalation Practical | Passed | 0.0 | 4.00 |

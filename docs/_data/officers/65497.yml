@@ -156,12 +156,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 1/29/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 1/4/2026
   course: PDP1812C
   title: 2026 Standard Field Sobriety Test (SFST) Refresher

@@ -50,12 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/22/2026
+  course: PDA1661D
+  title: Focused Response for Veterans
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2026
+  course: PDA2320D
+  title: Creating Safe Scenes
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/12/2026
   course: PDA3876D
   title: Use of Force Update
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 8/4/2026
+  course: PDA0815D
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/5/2026
   course: PDA3012D
   title: Criminal Discovery Refresher

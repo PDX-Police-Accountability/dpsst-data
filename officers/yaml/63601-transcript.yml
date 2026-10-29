@@ -246,12 +246,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
-- date: 1/6/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 1/5/2026
   course: PDP1554C
   title: 2025 All Sworn In-Service ABLE (Video)

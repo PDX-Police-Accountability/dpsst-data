@@ -145,12 +145,6 @@ training_records:
   score: '0.0'
   hours: '40.25'
 - date: 4/1/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 4/1/2026
   course: PDP3341C
   title: 2026-1 Advanced Academy Equity
   status: Passed
