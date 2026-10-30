@@ -21,10 +21,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 2/15/2020 | Corrections Officer | Basic | Expired | 6/29/2005 |  |  |
 | 2/1/2012 | Police Officer | Advanced | Granted | 2/1/2012 |  |  |
 | 9/21/2009 | Police Officer | Intermediate | Granted | 9/21/2009 |  |  |
 | 9/8/2008 | Police Officer | Basic | Granted | 9/8/2008 |  |  |
-| 10/15/2007 | Corrections Officer | Basic | Lapsed | 6/29/2005 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

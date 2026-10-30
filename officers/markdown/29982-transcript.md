@@ -21,7 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/23/2026 | Police Officer | Executive | Granted | 9/23/2026 |  |  |
+| 5/17/2026 | Police Officer | Executive | Granted | 5/17/2026 |  |  |
 | 5/17/2026 | Police Officer | Management | Granted | 5/17/2026 |  |  |
 | 10/3/2023 | Police Officer | Supervisory | Granted | 10/3/2023 |  |  |
 | 3/27/2018 | Instructor |  | Granted | 3/27/2018 |  |  |

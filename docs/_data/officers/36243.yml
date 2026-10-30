@@ -62,36 +62,15 @@ certification_records:
 - status_date: 11/8/2005
   certificate: Police Officer
   level: Basic
-  status: Granted
-  certificate_date: 11/8/2005
+  status: Reactivatd
+  certificate_date: 6/29/1999
   expiration_date: ''
   probation_date: ''
 - status_date: 11/8/2005
   certificate: Police Officer
   level: Intermediate
-  status: Granted
-  certificate_date: 11/8/2005
-  expiration_date: ''
-  probation_date: ''
-- status_date: 7/10/2004
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 5/11/2001
-  expiration_date: ''
-  probation_date: ''
-- status_date: 7/10/2004
-  certificate: Police Officer
-  level: Intermediate
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 9/13/2002
-  expiration_date: ''
-  probation_date: ''
-- status_date: 5/26/2000
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 6/29/1999
   expiration_date: ''
   probation_date: ''
 training_records:
