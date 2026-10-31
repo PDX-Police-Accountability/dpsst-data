@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/12/2026 | HSU2527D | Force Scenarios | Passed | 0.0 | 4.00 |
 | 10/12/2026 | HSU1658D | Child Abuse Investigations | Passed | 0.0 | 2.00 |
 | 10/12/2026 | HSU0234D | Tactical Combat Casualty Care | Passed | 0.0 | 2.00 |

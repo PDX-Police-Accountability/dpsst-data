@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 8/12/2026
   course: PDA3876D
   title: Use of Force Update

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/2/2026
+  agency: Oregon City Police Department
+  action: Reclassed
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 10/13/2023
   agency: Oregon City Police Department
   action: Hired
@@ -36,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/19/2026
   course: SDP0193D
   title: Blueprint Investigative Immersion 5-Day Course

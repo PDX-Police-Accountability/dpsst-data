@@ -131,6 +131,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 5/19/2026
+  course: LOP3035E
+  title: West Metro, NAMOA Training Conf. (3 days, 24hrs)
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/12/2026
   course: BVP1367C
   title: May 2026 Pistol Range IST 051226AM

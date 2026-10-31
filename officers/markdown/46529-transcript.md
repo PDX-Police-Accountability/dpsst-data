@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/23/2026 | GSP1357E | SFST Refresher with Wet Lab | Passed | 0.0 | 10.00 |
 | 9/18/2026 | GSP1007D | Handgun In-service | Passed | 0.0 | 10.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/25/2026 | GSP2800D | PVO In-service 2026 | Passed | 0.0 | 30.00 |

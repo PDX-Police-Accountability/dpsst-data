@@ -41,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/20/2026 | HBS0341D | IMT Training - Tactical Combat Casualty Care | Passed | 0.0 | 5.00 |
+| 10/7/2026 | HBS1219E | SFST Refresher | Passed | 0.0 | 3.50 |
+| 9/21/2026 | LOP0802E | West Metro-Fall 2026 Motor School 09/21-10/02 | Instructed | 0.0 | 40.00 |
 | 7/31/2026 | HBS2399D | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 7/28/2026 | EGP0601D | Police Motorcade Training | Passed | 0.0 | 6.00 |
 | 7/14/2026 | PDP2294D | 2026 Traffic Portland International Raceway Track | Passed | 0.0 | 7.00 |
@@ -53,15 +55,19 @@
 | 7/1/2026 | HBS4511D | Virtual - PREA | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS1627D | Virtual Cultural Awareness Diversity | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS4439D | Virtual - CIT - Crisis Response | Passed | 0.0 | 1.00 |
+| 5/19/2026 | LOP3035E | West Metro, NAMOA Training Conf. (3 days, 24hrs) | Passed | 0.0 | 24.00 |
 | 4/30/2026 | HBS0920C | IMT - Tactical Operations Center Level I | Passed | 0.0 | 2.00 |
 | 4/30/2026 | HBS3555C | IMT Training | Passed | 0.0 | 5.00 |
+| 4/27/2026 | LOP3958E | West Metro-Spring 2026 Motor School 04/27-05/08 | Instructed | 0.0 | 40.00 |
 | 4/12/2026 | HBS0595C | Inservice Session #1 DT's | Passed | 0.0 | 4.50 |
 | 4/12/2026 | HBS4068C | Inservice Session #1 Firearms | Passed | 0.0 | 4.50 |
 | 3/19/2026 | HBS2653C | Rifle Remediation | Passed | 0.0 | 4.00 |
 | 3/19/2026 | HBS1675C | MFF - Public Order | Passed | 0.0 | 9.00 |
+| 3/18/2026 | LOP3806E | West Metro - Monthly Motor Training March 2026 | Passed | 0.0 | 8.00 |
 | 2/24/2026 | HBS4205C | IMT Training | Passed | 0.0 | 8.00 |
 | 2/1/2026 | HBS3954C | Rifle Updates | Passed | 0.0 | 10.00 |
 | 1/22/2026 | VND4455C | NW Peer Support Conference - Responder Life | Passed | 0.0 | 16.00 |
+| 1/21/2026 | LOP4386E | West Metro - Monthly Motor Training April 2026 | Passed | 0.0 | 8.00 |
 | 12/18/2025 | HBS0506C | Virtual - WCSO Deflection Training | Passed | 0.0 | 1.50 |
 | 12/18/2025 | HBS1609C | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |
 | 12/18/2025 | HBS4389C | Virtual - Anti Bias Training for LE | Passed | 0.0 | 2.00 |

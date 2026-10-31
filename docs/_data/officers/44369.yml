@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2026
+  course: STP0636E
+  title: HB 2513 Airway, Circulatory and Anatomy Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/21/2026
   course: STP0652D
   title: Qualification Makeup and Firearms Training

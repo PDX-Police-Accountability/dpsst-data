@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/22/2026 | PDA1661D | Focused Response for Veterans | Passed | 0.0 | 1.00 |
 | 10/22/2026 | PDA2320D | Creating Safe Scenes | Passed | 0.0 | 1.50 |
 | 8/12/2026 | PDA3876D | Use of Force Update | Passed | 0.0 | 1.50 |

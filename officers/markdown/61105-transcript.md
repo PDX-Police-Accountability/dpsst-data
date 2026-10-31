@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/23/2026 | MNS1304D | Oregon Police Canine Association Conference | Passed | 0.0 | 24.00 |
 | 7/16/2026 | NGP2994D | Taser 10 CEW User Certification | Instructed | 0.0 | 8.00 |
 | 7/14/2026 | NGP2440D | Resiliency | Passed | 0.0 | 3.00 |

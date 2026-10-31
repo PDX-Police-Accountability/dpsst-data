@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/16/2026 | OSH1688D | FA3 | Passed | 0.0 | 3.00 |
 | 10/9/2026 | OSH4438D | HRVS Refrsher | Instructed | 0.0 | 1.00 |
 | 9/25/2026 | OSH4600D | FA3 | Instructed | 0.0 | 3.00 |

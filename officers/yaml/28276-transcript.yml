@@ -129,6 +129,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2026
+  course: SVP1045E
+  title: 40mm Training/qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/30/2026
   course: SVP2802D
   title: Service  Sacrifice Police Documentry

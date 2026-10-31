@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2026
+  course: HBP3771E
+  title: Patrol LT/SGT Mtg  Supervisor Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 9/24/2026
   course: BVP3956D
   title: Washington County Child Abuse MDT Training

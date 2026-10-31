@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/30/2026
   course: MKP2015D
   title: Lexipol - September 2026

@@ -39,6 +39,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/1/2026 | WBP4095E | Wildfire Smoke Training | Passed | 0.0 | 0.50 |
+| 10/1/2026 | WBP0889E | WPD Immigration Training | Passed | 0.0 | 1.00 |
+| 10/1/2026 | WBP4538E | ADA Training | Passed | 0.0 | 1.00 |
+| 10/1/2026 | WBP2681E | Heat Illness Prevention | Passed | 0.0 | 0.50 |
+| 10/1/2026 | WBP3517E | Implicit Bias | Passed | 0.0 | 1.00 |
+| 10/1/2026 | WBP1938E | Airborne and Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/1/2026 | WBP3156E | City of Woodburn Public Records Training | Passed | 0.0 | 0.50 |
+| 10/1/2026 | WBP2109E | Naloxone Treatment Protocol Training | Passed | 0.0 | 0.50 |
+| 10/1/2026 | WBP0768E | OR Statistical Transparency of Policing Program | Passed | 0.0 | 0.50 |
+| 9/30/2026 | WBP3428E | Firearms - Handgun  Quals | Instructed | 0.0 | 12.00 |
 | 9/1/2026 | WBP1597D | Firearms (Handgun Training) | Passed | 0.0 | 2.00 |
 | 6/23/2026 | WBP2573D | Glock Armoerers Course (AC) Gen 5 Plus | Passed | 0.0 | 8.00 |
 | 6/16/2026 | WBP3791C | OSP Forensic Lab Evidence Training | Passed | 0.0 | 2.25 |

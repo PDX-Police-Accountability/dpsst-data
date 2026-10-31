@@ -44,7 +44,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/8/2026 | LOP0886D | Firearms Training | Passed | 0.0 | 4.00 |
+| 10/8/2026 | LOP3734E | Firearms Training | Passed | 0.0 | 4.00 |
 | 10/7/2026 | LOP2378D | Taser 10 Recertification Training | Passed | 0.0 | 4.00 |
+| 9/30/2026 | LOP3017E | Bloodborne Pathogens Video | Passed | 0.0 | 1.00 |
+| 9/30/2026 | LOP2706E | Airway Circulatory Anatomy and Physiology Video | Passed | 0.0 | 2.00 |
+| 9/30/2026 | LOP4227E | Cumulative CIS equity video training | Passed | 0.0 | 3.00 |
+| 9/30/2026 | LOP0154E | CIS: Balancing Innovation (AI) and Ethics | Passed | 0.0 | 1.00 |
 | 7/28/2026 | REG0736D | DPSST 2026 Cyber Summit | Passed | 0.0 | 8.00 |
 | 7/13/2026 | LOP3002D | Active Threat | Passed | 0.0 | 9.00 |
 | 6/29/2026 | LOP1530D | sUAS Part 91 Operations | Passed | 0.0 | 1.00 |

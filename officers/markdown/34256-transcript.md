@@ -48,6 +48,7 @@
 | 6/25/2026 | BVP0818D | IST Taser10 Certification 062526 | Passed | 0.0 | 9.00 |
 | 6/6/2026 | BVP0875C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 5/22/2026 | BVP0702C | North Americam Motor Ofcrs Assoc Conference | Passed | 0.0 | 40.00 |
+| 5/19/2026 | LOP3035E | West Metro, NAMOA Training Conf. (3 days, 24hrs) | Passed | 0.0 | 24.00 |
 | 5/12/2026 | BVP1367C | May 2026 Pistol Range IST 051226AM | Passed | 0.0 | 3.00 |
 | 4/16/2026 | BVP1782C | Domestic Violence Investigations | Passed | 0.0 | 2.00 |
 | 4/16/2026 | BVP1991C | April 2026 Control Tactics IST 041626 PM | Passed | 0.0 | 3.00 |

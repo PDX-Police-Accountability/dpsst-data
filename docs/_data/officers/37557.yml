@@ -94,12 +94,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/8/2026
+  course: LOP3734E
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/7/2026
   course: LOP2378D
   title: Taser 10 Recertification Training
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/30/2026
+  course: LOP3017E
+  title: Bloodborne Pathogens Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2026
+  course: LOP2706E
+  title: Airway Circulatory Anatomy and Physiology Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2026
+  course: LOP4227E
+  title: Cumulative CIS equity video training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/30/2026
+  course: LOP0154E
+  title: 'CIS: Balancing Innovation (AI) and Ethics'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/28/2026
   course: REG0736D
   title: DPSST 2026 Cyber Summit

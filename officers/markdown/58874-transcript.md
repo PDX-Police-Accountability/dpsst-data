@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2026 | PDP3747E | 2026 RRT Grenadier Fall In-Service Training | Passed | 0.0 | 14.00 |
 | 10/9/2026 | PDP4314D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 9/29/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/12/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |

@@ -79,8 +79,20 @@ certification_records:
   expiration_date: 10/7/2029
   probation_date: ''
 training_records:
+- date: 10/28/2026
+  course: PSU1073E
+  title: Using Oleoresin Capsicum
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/7/2026
   course: PSU0759D
+  title: Tactical Baton Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/7/2026
+  course: PSU3227E
   title: Tactical Baton Refresher
   status: Passed
   score: '0.0'

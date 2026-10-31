@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/25/2026
   course: PDS1974D
   title: Firearms

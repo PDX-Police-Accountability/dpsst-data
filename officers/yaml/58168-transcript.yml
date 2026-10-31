@@ -115,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/22/2026
+  course: PLA3111E
+  title: 'Randy and Me: A Prosecutor''s Story'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/20/2026
   course: PDP2782D
   title: '2026 Disability Series: d/Deaf  Hard of Hearing'

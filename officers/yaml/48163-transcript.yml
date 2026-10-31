@@ -57,6 +57,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/17/2026
+  course: PDP3747E
+  title: 2026 RRT Grenadier Fall In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 9/14/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'

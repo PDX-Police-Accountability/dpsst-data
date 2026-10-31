@@ -166,6 +166,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/24/2026
   course: OSH0911D
   title: 3rd trimester firearms

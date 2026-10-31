@@ -76,6 +76,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/1/2026
+  course: WBP4095E
+  title: Wildfire Smoke Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/1/2026
+  course: WBP0889E
+  title: WPD Immigration Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2026
+  course: WBP4538E
+  title: ADA Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2026
+  course: WBP2681E
+  title: Heat Illness Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/1/2026
+  course: WBP3517E
+  title: Implicit Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2026
+  course: WBP1938E
+  title: Airborne and Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2026
+  course: WBP3156E
+  title: City of Woodburn Public Records Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/1/2026
+  course: WBP2109E
+  title: Naloxone Treatment Protocol Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/1/2026
+  course: WBP0768E
+  title: OR Statistical Transparency of Policing Program
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2026
+  course: WBP3428E
+  title: Firearms - Handgun  Quals
+  status: Instructed
+  score: '0.0'
+  hours: '12.00'
 - date: 9/1/2026
   course: WBP1597D
   title: Firearms (Handgun Training)

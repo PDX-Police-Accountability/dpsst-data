@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/21/2026
+  course: PSU3227E
+  title: Tactical Baton Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/13/2026
   course: PSU3950D
   title: FAS 2-Day Carbine

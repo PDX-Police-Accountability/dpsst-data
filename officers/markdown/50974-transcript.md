@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/8/2026 | OCP1453D | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 9/9/2026 | OCP4112D | Effects of Sleep and Mental Health | Passed | 0.0 | 0.50 |
 | 8/27/2026 | OCP1670D | Huerta-Contretas  Almestica Case Law Update | Passed | 0.0 | 0.75 |
@@ -64,6 +65,7 @@
 | 5/1/2026 | OCP2721C | Interim Directive 26-01 and HB 4138 | Passed | 0.0 | 0.25 |
 | 5/1/2026 | OCP2862C | Miranda and Invocation | Passed | 0.0 | 0.50 |
 | 5/1/2026 | OCP1205C | E Bike Enforcement | Passed | 0.0 | 0.25 |
+| 4/15/2026 | LOP4386E | West Metro - Monthly Motor Training April 2026 | Passed | 0.0 | 8.00 |
 | 4/7/2026 | OCP3038C | Defensive Tactics - Segmenting and Takedowns | Passed | 0.0 | 0.50 |
 | 4/3/2026 | OSH3543C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 2) | Passed | 0.0 | 7.00 |
 | 4/2/2026 | OSH4469C | 2026 OREGON DUII TASK FORCE TRAINING CONF. (DAY 1) | Passed | 0.0 | 8.00 |

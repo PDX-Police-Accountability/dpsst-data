@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/3/2026 | PDS2099D | Glock Armorer Course | Passed | 0.0 | 8.00 |
 | 4/28/2026 | PDS3030D | Spring Range AIT | Passed | 0.0 | 8.00 |
 | 4/9/2026 | PDS0931D | ConSim | Passed | 0.0 | 4.00 |

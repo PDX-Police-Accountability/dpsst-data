@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2026
+  course: PDP3747E
+  title: 2026 RRT Grenadier Fall In-Service Training
+  status: Instructed
+  score: '0.0'
+  hours: '14.00'
+- date: 10/17/2026
+  course: PDP3747E
+  title: 2026 RRT Grenadier Fall In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 10/9/2026
   course: PDP4314D
   title: 2026 Rapid Response team (RRT) Monthly Training

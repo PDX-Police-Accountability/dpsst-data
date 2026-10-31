@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/17/2026 | HSU2296D | Firearms | Passed | 0.0 | 4.00 |
 | 10/17/2026 | HSU3271D | Control Tactics | Passed | 0.0 | 2.00 |
 | 10/17/2026 | HSU2709D | EVOC | Passed | 0.0 | 2.00 |

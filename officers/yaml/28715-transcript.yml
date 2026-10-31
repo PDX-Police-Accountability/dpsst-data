@@ -75,6 +75,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/30/2026
+  course: HBP3771E
+  title: Patrol LT/SGT Mtg  Supervisor Training
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 9/23/2026
   course: HBP3600D
   title: Firearms Remediation Range

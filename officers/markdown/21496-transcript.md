@@ -59,6 +59,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/24/2026 | OSH0911D | 3rd trimester firearms | Passed | 0.0 | 3.00 |
 | 8/28/2026 | OSH4297D | ARIDE | Instructed | 0.0 | 16.00 |
 | 8/6/2026 | OSH1078D | OSP Ethics 2026 | Passed | 0.0 | 1.00 |

@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/8/2028 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/30/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 10/27/2026 | PDP1740E | FTEP Policy and Procedures | Passed | 0.0 | 6.00 |
 | 5/7/2026 | PDS0931D | ConSim | Passed | 0.0 | 4.00 |
 | 5/7/2026 | PDS1362D | Use of Force Reports | Passed | 0.0 | 4.00 |
 | 3/30/2026 | PDS3972C | UNET Range | Passed | 0.0 | 4.00 |

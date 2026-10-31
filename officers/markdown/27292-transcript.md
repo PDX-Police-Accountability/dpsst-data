@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 8/26/2026 | PDS3963D | Summer Sergeants Training | Passed | 0.0 | 4.00 |
 | 8/13/2026 | PDS2507D | Summer 2026 Sgt. Training | Passed | 0.0 | 4.00 |
 | 8/13/2026 | PDS3493D | Summer 2026 Sgt. Training | Passed | 0.0 | 4.00 |

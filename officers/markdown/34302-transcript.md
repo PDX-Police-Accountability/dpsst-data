@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/23/2026 | GSP1357E | SFST Refresher with Wet Lab | Instructed | 0.0 | 10.00 |
 | 9/2/2026 | GSP1714D | Handgun In-service | Passed | 0.0 | 10.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/7/2026 | GSP4304D | Adult and Child CPR First Aid | Passed | 0.0 | 4.00 |

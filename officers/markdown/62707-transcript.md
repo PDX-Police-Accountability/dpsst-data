@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/21/2026 | PSU0759D | Tactical Baton Refresher | Passed | 0.0 | 4.00 |
+| 10/21/2026 | PSU3227E | Tactical Baton Refresher | Passed | 0.0 | 4.00 |
 | 9/13/2026 | PSU3950D | FAS 2-Day Carbine | Passed | 0.0 | 16.00 |
 | 8/13/2026 | PSU1529D | Using Oleoresin Capsicum Course #DPTO254 | Passed | 0.0 | 1.00 |
 | 8/10/2026 | PSU2183D | Critical Incident Review | Passed | 0.0 | 0.25 |

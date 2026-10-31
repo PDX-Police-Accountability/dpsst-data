@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/27/2026 | PDP0414E | FTEP Geography | Passed | 0.0 | 4.00 |
 | 9/15/2026 | REG0582D | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/6/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 7/3/2026 | PDP2555D | 2026 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |

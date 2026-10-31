@@ -80,6 +80,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/23/2026
+  course: GSP1357E
+  title: SFST Refresher with Wet Lab
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/18/2026
   course: GSP1007D
   title: Handgun In-service

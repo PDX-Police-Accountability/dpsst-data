@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/27/2026
+  course: PDP0414E
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/10/2026
   course: REG0582D
   title: INTOX 8000 (Hours included in Basic)

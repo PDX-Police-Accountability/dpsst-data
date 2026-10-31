@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2026 | PDP3747E | 2026 RRT Grenadier Fall In-Service Training | Passed | 0.0 | 5.00 |
+| 10/17/2026 | PDP3747E | 2026 RRT Grenadier Fall In-Service Training | Instructed | 0.0 | 14.00 |
 | 10/9/2026 | PDP4314D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 9/11/2026 | PDP3585D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 9/10/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |

@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/8/2026
   course: OCP1453D
   title: Firearms/Use of Force
@@ -219,6 +225,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/15/2026
+  course: LOP4386E
+  title: West Metro - Monthly Motor Training April 2026
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/7/2026
   course: OCP3038C
   title: Defensive Tactics - Segmenting and Takedowns

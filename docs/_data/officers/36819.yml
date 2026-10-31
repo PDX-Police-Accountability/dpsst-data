@@ -74,6 +74,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/30/2026
+  course: LOP0154E
+  title: 'CIS: Balancing Innovation (AI) and Ethics'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2026
+  course: LOP3017E
+  title: Bloodborne Pathogens Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2026
+  course: LOP2706E
+  title: Airway Circulatory Anatomy and Physiology Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2026
+  course: LOP4227E
+  title: Cumulative CIS equity video training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/26/2026
   course: OCA1706D
   title: August MCT - Court Testimony

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/2/2026 | Oregon City Police Department | Reclassed | Detective |  |  |
 | 10/13/2023 | Oregon City Police Department | Hired | Police Off |  |  |
 | 10/12/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/21/2022 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -32,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/19/2026 | SDP0193D | Blueprint Investigative Immersion 5-Day Course | Passed | 0.0 | 40.00 |
 | 10/11/2026 | OCP0002D | Responding To People With Mental Illness | Passed | 0.0 | 2.00 |
 | 10/8/2026 | OCP1453D | Firearms/Use of Force | Passed | 0.0 | 3.50 |

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/8/2026 | OCP1453D | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 10/8/2026 | OCP1453D | Firearms/Use of Force | Instructed | 0.0 | 17.50 |
 | 9/28/2026 | OCP1288D | Firearms/Use of Force | Instructed | 0.0 | 5.00 |
