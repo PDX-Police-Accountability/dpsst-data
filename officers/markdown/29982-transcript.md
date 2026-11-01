@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/21/2026 | SVP4411E | Defensive Tactics Refresher | Passed | 0.0 | 2.50 |
 | 10/20/2026 | SVP1045E | 40mm Training/qualification | Passed | 0.0 | 2.00 |
 | 9/30/2026 | SVP2802D | Service  Sacrifice Police Documentry | Passed | 0.0 | 0.50 |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 7/15/2026 | HBS3268D | 37th Annual ACFE Fraud Conf - Behavioral Ethics | Passed | 0.0 | 2.00 |
 | 7/15/2026 | HBS0787D | 37th Annual ACFE Fraud Conference | Passed | 0.0 | 18.00 |
 | 7/1/2026 | HBS2880D | Virtual - ACAP | Passed | 0.0 | 2.00 |

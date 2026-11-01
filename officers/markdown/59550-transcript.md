@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/8/2026 | BNP4161D | SWAT-Weapon Proficiency | Passed | 0.0 | 8.00 |
 | 9/28/2026 | RMP1597D | Firearms Inservice Qualification | Passed | 0.0 | 8.00 |
 | 9/15/2026 | BNP0668D | SWAT- Ropes / rapelling | Passed | 0.0 | 2.00 |

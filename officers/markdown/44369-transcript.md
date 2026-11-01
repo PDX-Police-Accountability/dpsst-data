@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/26/2026 | STP0636E | HB 2513 Airway, Circulatory and Anatomy Training | Passed | 0.0 | 2.00 |
 | 10/21/2026 | STP0652D | Qualification Makeup and Firearms Training | Passed | 0.0 | 4.00 |
 | 8/19/2026 | STP4157D | RAID Team Training 40 mm Use Against Vehicles | Passed | 0.0 | 2.00 |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 8/20/2026 | HBS2948D | Virtual - PREA | Passed | 0.0 | 1.00 |
 | 8/20/2026 | HBS2862D | Virtual - ACAP | Passed | 0.0 | 2.00 |
 | 8/20/2026 | HBS0689D | Virtual - CIT - Crisis Response | Passed | 0.0 | 1.00 |

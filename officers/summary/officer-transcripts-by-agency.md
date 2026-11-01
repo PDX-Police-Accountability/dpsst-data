@@ -285,7 +285,7 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
-| * MISSING | 64107 |  |  |  |  |  | [md](../markdown/64107-transcript.md) - [yaml](../yaml/64107-transcript.yml) |
+| * MISSING | 64482 |  |  |  |  |  | [md](../markdown/64482-transcript.md) - [yaml](../yaml/64482-transcript.yml) |
 | Hill, Daniel G. | 42502 | Clackamas County Sheriff's Office | Active | Sergeant | Promotion | 2022-12-10 | [md](../markdown/42502-transcript.md) - [yaml](../yaml/42502-transcript.yml) |
 | Burdick, Ryan D. | 41693 | Milwaukie Police Department | Active | Chief | Promotion | 2024-04-09 | [md](../markdown/41693-transcript.md) - [yaml](../yaml/41693-transcript.yml) |
 | Huteson, Scott J. | 42556 | Milwaukie Police Department | Inactive | Police Officer | Resigned | 2026-01-13 | [md](../markdown/42556-transcript.md) - [yaml](../yaml/42556-transcript.yml) |
@@ -1695,6 +1695,7 @@
 | Harwood, Joseph J. | 64044 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/64044-transcript.md) - [yaml](../yaml/64044-transcript.yml) |
 | Orr, Riagan F. | 64051 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-09-12 | [md](../markdown/64051-transcript.md) - [yaml](../yaml/64051-transcript.yml) |
 | Edmonds-Funes, Daniel J. | 64096 | Portland Police Bureau | Active | Police Officer | Hired | 2023-05-11 | [md](../markdown/64096-transcript.md) - [yaml](../yaml/64096-transcript.yml) |
+| Maitlen, Nathaniel S. | 64107 | Portland Police Bureau | Active | Police Officer | Hired | 2023-04-13 | [md](../markdown/64107-transcript.md) - [yaml](../yaml/64107-transcript.yml) |
 | Gandara, Micah S. | 64163 | Portland Police Bureau | Active | Police Officer | Hired | 2023-05-11 | [md](../markdown/64163-transcript.md) - [yaml](../yaml/64163-transcript.yml) |
 | Stillwell, Spencer J. | 64166 | Portland Police Bureau | Active | Police Officer | Hired | 2023-05-11 | [md](../markdown/64166-transcript.md) - [yaml](../yaml/64166-transcript.yml) |
 | Monsef, Cyrus | 64193 | Portland Police Bureau | Active | Police Officer | Return LOA | 2025-03-10 | [md](../markdown/64193-transcript.md) - [yaml](../yaml/64193-transcript.yml) |
@@ -1710,7 +1711,6 @@
 | Lee, Martin M. | 64449 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64449-transcript.md) - [yaml](../yaml/64449-transcript.yml) |
 | Vlaski, Marko | 64450 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64450-transcript.md) - [yaml](../yaml/64450-transcript.yml) |
 | Wortman, Travis L. | 64475 | Portland Police Bureau | Active | Police Officer | Return LOA | 2026-01-01 | [md](../markdown/64475-transcript.md) - [yaml](../yaml/64475-transcript.yml) |
-| Cropp, Carson F. | 64482 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64482-transcript.md) - [yaml](../yaml/64482-transcript.yml) |
 | Trujillo, Michael A. | 64588 | Portland Police Bureau | Active | Police Officer | Hired | 2023-10-12 | [md](../markdown/64588-transcript.md) - [yaml](../yaml/64588-transcript.yml) |
 | Randall, David C. | 64594 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64594-transcript.md) - [yaml](../yaml/64594-transcript.yml) |
 | Sushak, Josiah K. | 64650 | Portland Police Bureau | Active | Police Officer | Hired | 2023-10-12 | [md](../markdown/64650-transcript.md) - [yaml](../yaml/64650-transcript.yml) |

@@ -285,7 +285,7 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
-| * MISSING | 64107 |  |  |  |  |  | [md](../markdown/64107-transcript.md) - [yaml](../yaml/64107-transcript.yml) |
+| * MISSING | 64482 |  |  |  |  |  | [md](../markdown/64482-transcript.md) - [yaml](../yaml/64482-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2024-11-07 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, Andrew D. | 63736 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63736-transcript.md) - [yaml](../yaml/63736-transcript.yml) |
@@ -608,7 +608,6 @@
 | Cronin, Lawrence K. | 60815 | Portland Police Bureau | Active | Police Officer | Hired | 2020-03-26 | [md](../markdown/60815-transcript.md) - [yaml](../yaml/60815-transcript.yml) |
 | Cronkhite, Corey J. | 57090 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-03-28 | [md](../markdown/57090-transcript.md) - [yaml](../yaml/57090-transcript.yml) |
 | Crooker, James W. | 49709 | Portland Police Bureau | Active | Commander | Promotion | 2026-05-21 | [md](../markdown/49709-transcript.md) - [yaml](../yaml/49709-transcript.yml) |
-| Cropp, Carson F. | 64482 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64482-transcript.md) - [yaml](../yaml/64482-transcript.yml) |
 | Cross, Jonathan P. | 66611 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-10-17 | [md](../markdown/66611-transcript.md) - [yaml](../yaml/66611-transcript.yml) |
 | Crouchley, Angela M. | 62008 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62008-transcript.md) - [yaml](../yaml/62008-transcript.yml) |
 | Cui, Vincent A. | 36881 | Portland Police Bureau | Inactive | Detective | Resigned | 2021-06-14 | [md](../markdown/36881-transcript.md) - [yaml](../yaml/36881-transcript.yml) |
@@ -1178,6 +1177,7 @@
 | Magnus, Gregory S. | 39230 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2003-09-17 | [md](../markdown/39230-transcript.md) - [yaml](../yaml/39230-transcript.yml) |
 | Mahn, Kevin R. | 54041 | Portland Police Bureau | Active | Police Officer | Hired | 2014-04-03 | [md](../markdown/54041-transcript.md) - [yaml](../yaml/54041-transcript.yml) |
 | Mahuna, Peter E. | 27540 | Portland Police Bureau | Inactive | Captain | Retired | 2018-11-06 | [md](../markdown/27540-transcript.md) - [yaml](../yaml/27540-transcript.yml) |
+| Maitlen, Nathaniel S. | 64107 | Portland Police Bureau | Active | Police Officer | Hired | 2023-04-13 | [md](../markdown/64107-transcript.md) - [yaml](../yaml/64107-transcript.yml) |
 | Mako, Dennis J. | 39010 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-10-29 | [md](../markdown/39010-transcript.md) - [yaml](../yaml/39010-transcript.yml) |
 | Maldonado Dones, Yamil J. | 67726 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67726-transcript.md) - [yaml](../yaml/67726-transcript.yml) |
 | Manipol, Jesse J. | 60707 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-06-10 | [md](../markdown/60707-transcript.md) - [yaml](../yaml/60707-transcript.yml) |
