@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/22/2026 | GPN4300D | Case Management Trainning Dashboard OSP 2 | Passed | 0.0 | 2.00 |
 | 9/28/2026 | GPN3531D | Tactical First Aid | Passed | 0.0 | 1.00 |

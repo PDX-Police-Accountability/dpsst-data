@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Leadership Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/18/2026 | PDP1910D | 2025 Supervisor In-Service Leadership in Action | Passed | 0.0 | 1.00 |
 | 9/18/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/7/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |

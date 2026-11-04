@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Leadership Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/19/2026 | PDP3233D | 2026 Command In-Service | Passed | 0.0 | 5.00 |
 | 9/28/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 7/21/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

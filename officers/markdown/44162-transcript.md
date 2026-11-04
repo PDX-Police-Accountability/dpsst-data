@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/30/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/17/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 4.00 |
 | 9/16/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 9.00 |

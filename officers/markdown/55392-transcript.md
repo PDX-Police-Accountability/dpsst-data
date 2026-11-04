@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/16/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/16/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 9/2/2026 | PDP0540D | 2026 Trng BWC Body 4 Conversion Train the Trainer | Passed | 0.0 | 0.50 |

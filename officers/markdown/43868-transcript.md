@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/22/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/25/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/16/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |

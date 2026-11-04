@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/14/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 8/11/2026 | PDP0783D | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
 | 8/11/2026 | PDP0450D | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |

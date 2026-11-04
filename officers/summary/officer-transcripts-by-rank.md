@@ -29,7 +29,6 @@
 | * MISSING | 17500 |  |  |  |  |  | [md](../markdown/17500-transcript.md) - [yaml](../yaml/17500-transcript.yml) |
 | * MISSING | 17544 |  |  |  |  |  | [md](../markdown/17544-transcript.md) - [yaml](../yaml/17544-transcript.yml) |
 | * MISSING | 17573 |  |  |  |  |  | [md](../markdown/17573-transcript.md) - [yaml](../yaml/17573-transcript.yml) |
-| * MISSING | 17691 |  |  |  |  |  | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | * MISSING | 17696 |  |  |  |  |  | [md](../markdown/17696-transcript.md) - [yaml](../yaml/17696-transcript.yml) |
 | * MISSING | 17699 |  |  |  |  |  | [md](../markdown/17699-transcript.md) - [yaml](../yaml/17699-transcript.yml) |
 | * MISSING | 17724 |  |  |  |  |  | [md](../markdown/17724-transcript.md) - [yaml](../yaml/17724-transcript.yml) |
@@ -179,7 +178,6 @@
 | * MISSING | 32784 |  |  |  |  |  | [md](../markdown/32784-transcript.md) - [yaml](../yaml/32784-transcript.yml) |
 | * MISSING | 33213 |  |  |  |  |  | [md](../markdown/33213-transcript.md) - [yaml](../yaml/33213-transcript.yml) |
 | * MISSING | 33646 |  |  |  |  |  | [md](../markdown/33646-transcript.md) - [yaml](../yaml/33646-transcript.yml) |
-| * MISSING | 33711 |  |  |  |  |  | [md](../markdown/33711-transcript.md) - [yaml](../yaml/33711-transcript.yml) |
 | * MISSING | 33734 |  |  |  |  |  | [md](../markdown/33734-transcript.md) - [yaml](../yaml/33734-transcript.yml) |
 | * MISSING | 34055 |  |  |  |  |  | [md](../markdown/34055-transcript.md) - [yaml](../yaml/34055-transcript.yml) |
 | * MISSING | 34296 |  |  |  |  |  | [md](../markdown/34296-transcript.md) - [yaml](../yaml/34296-transcript.yml) |
@@ -533,6 +531,7 @@
 | Chamberlin, Tracy R. | 32087 | Portland Police Bureau | Inactive | Detective | Retired | 2022-07-05 | [md](../markdown/32087-transcript.md) - [yaml](../yaml/32087-transcript.yml) |
 | Pontius, Jeffery D. | 32530 | Portland Police Bureau | Active | Detective | Promotion | 2011-11-10 | [md](../markdown/32530-transcript.md) - [yaml](../yaml/32530-transcript.yml) |
 | Harris, Sean W. | 32992 | Portland Police Bureau | Inactive | Detective | Retired | 2026-08-13 | [md](../markdown/32992-transcript.md) - [yaml](../yaml/32992-transcript.yml) |
+| Schmerber, Michael A. | 33711 | Portland Police Bureau | Active | Detective | Promotion | 2020-05-14 | [md](../markdown/33711-transcript.md) - [yaml](../yaml/33711-transcript.yml) |
 | Becker, Jeffrey S. | 34352 | Portland Police Bureau | Inactive | Detective | Retired | 2026-05-26 | [md](../markdown/34352-transcript.md) - [yaml](../yaml/34352-transcript.yml) |
 | Winters, William H. | 34381 | Portland Police Bureau | Active | Detective | Promotion | 2011-01-20 | [md](../markdown/34381-transcript.md) - [yaml](../yaml/34381-transcript.yml) |
 | Dran, Arjay H. | 34502 | Portland Police Bureau | Active | Detective | Return LOA | 2020-11-17 | [md](../markdown/34502-transcript.md) - [yaml](../yaml/34502-transcript.yml) |
@@ -1662,6 +1661,7 @@
 | Manninen, Michael F. | 67906 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67906-transcript.md) - [yaml](../yaml/67906-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Moore, Gary D. | 15650 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2018-07-04 | [md](../markdown/15650-transcript.md) - [yaml](../yaml/15650-transcript.yml) |
+| Wilkinson, Steven P. | 17691 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1995-01-01 | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | Ortez, Armond A. | 18966 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1986-07-31 | [md](../markdown/18966-transcript.md) - [yaml](../yaml/18966-transcript.yml) |
 | Cunningham, Craig A. | 21286 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1988-08-21 | [md](../markdown/21286-transcript.md) - [yaml](../yaml/21286-transcript.yml) |
 | Madsen, Eric H. | 21496 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1994-04-10 | [md](../markdown/21496-transcript.md) - [yaml](../yaml/21496-transcript.yml) |

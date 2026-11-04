@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/30/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/20/2026 | HBS0341D | IMT Training - Tactical Combat Casualty Care | Passed | 0.0 | 5.00 |
 | 10/7/2026 | HBS1219E | SFST Refresher | Passed | 0.0 | 3.50 |

@@ -26,8 +26,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/16/2028 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 1/11/2027 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
+| 2/8/2027 | M10-23A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
 | 8/10/2026 | PDP3990D | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 8/10/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
 | 8/10/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

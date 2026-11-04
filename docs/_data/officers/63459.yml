@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/2/2026
+  course: MISCMAIN
+  title: 2026 LE Basic 3 Year Maintenance Met
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/20/2026
   course: PDP3134D
   title: 2025-2026 Police Interceptor Utility Summary
