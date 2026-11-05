@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/30/2026 | SDP2360E | CJIS Security and Privacy Training | Passed | 0.0 | 1.00 |
 | 9/23/2026 | SDP1092D | HB2513 - ACAP Training Video | Passed | 0.0 | 2.00 |
 | 9/14/2026 | REG4184D | Ground Control | Passed | 0.0 | 1.00 |
 | 9/10/2026 | REG0698D | Ground Control | Passed | 0.0 | 1.00 |

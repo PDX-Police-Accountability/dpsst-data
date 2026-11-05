@@ -41,7 +41,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2026 | PDA4011E | Media Policy | Passed | 0.0 | 0.50 |
+| 10/15/2026 | PDA2212E | Ethical Considerations for Asset Forfeiture | Passed | 0.0 | 1.00 |
+| 9/11/2026 | PDA2004E | Reporting  Responding to Sexual Misconduct | Passed | 0.0 | 0.75 |
+| 9/4/2026 | PDA0206E | Use of Force - Legal and e-Recording of Interviews | Passed | 0.0 | 1.00 |
+| 9/3/2026 | PDA2134E | Task Force Officer (TFO) Basic: Fundamentals | Passed | 0.0 | 3.00 |
+| 8/28/2026 | PDA3757E | AG Guidelines for Vic  Wit Assistance | Passed | 0.0 | 1.50 |
+| 8/28/2026 | PDA1903E | Child and Adolescent Forensic Interview Program | Passed | 0.0 | 0.50 |
+| 8/28/2026 | PDA2650E | Privacy: It's Everbody's Business | Passed | 0.0 | 0.50 |
+| 8/21/2026 | PDA1493E | NSPM-7 Joint Mission Center | Passed | 0.0 | 1.00 |
 | 8/12/2026 | PDA3876D | Use of Force Update | Passed | 0.0 | 1.50 |
+| 6/23/2026 | PDA1826E | FC201 Financial Records Investigative Skills | Passed | 0.0 | 24.00 |
+| 4/30/2026 | PDA3775E | FC151 The Bank Secrecy Act | Passed | 0.0 | 1.50 |
+| 2/27/2026 | PDA0529E | FC109 Introduction to Scams in P2P Payment Apps | Passed | 0.0 | 1.25 |
+| 2/12/2026 | PDA1648E | Investigations:Asked and Answered | Passed | 0.0 | 1.25 |
+| 1/28/2026 | PDA0619E | FC104 Financial Investigations Basics | Passed | 0.0 | 1.00 |
 | 10/31/2025 | PDA3164C | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/16/2025 | PDA0273B | Defensive Tactics Application of OC Spray | Passed | 0.0 | 2.00 |
 | 10/9/2025 | PDA0352B | Tourniquet and Wound Packing | Passed | 0.0 | 1.00 |

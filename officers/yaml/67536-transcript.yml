@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/29/2026
+  course: PDP1240E
+  title: Introduction to Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/28/2026
+  course: PDP0185E
+  title: FTEP PVO Stop Sticks Box In
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/27/2026
   course: PDP0414E
   title: FTEP Geography

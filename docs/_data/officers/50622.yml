@@ -81,6 +81,42 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/27/2026
+  course: OCP1243E
+  title: General Assembly Speaker Series
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/26/2026
+  course: OCP4518E
+  title: Case Review- Attack That Killed LEO
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/26/2026
+  course: OCP0319E
+  title: Measuring What Matters - Onboarding
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2026
+  course: OCP1404E
+  title: Rachel Morin Case Study
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2026
+  course: OCP2078E
+  title: The Evolving Drone Threat
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2026
+  course: OCP3831E
+  title: Ft. Lauderdale Airport Active Shooter Debrief
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/8/2026
   course: OCP1453D
   title: Firearms/Use of Force

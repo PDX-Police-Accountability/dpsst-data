@@ -31,8 +31,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/7/2026 | HBP0105D | PoliceOne Foundation in Ethics for LE | Passed | 0.0 | 1.00 |
+| 9/17/2026 | HBP3043E | AA 2026-3, Barricaded Suspect | Passed | 0.0 | 4.00 |
+| 9/16/2026 | HBP0100E | AA 2026-3, Active Shooter Response | Passed | 0.0 | 5.50 |
+| 9/14/2026 | HBP3186E | AA 2026-3, Domestic Violence Prosecution | Passed | 0.0 | 3.00 |
+| 9/9/2026 | HBP1687E | AA 2026-3, DUII, SFST, Related Search Warrants | Passed | 0.0 | 2.00 |
+| 9/9/2026 | HBP2736E | AA 2026-3, Breaching | Passed | 0.0 | 1.50 |
 | 9/4/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 9/2/2026 | HBP2104D | Respectful Workplace - Employee Training (Equity) | Passed | 0.0 | 1.00 |
+| 9/1/2026 | HBP4136E | AA 2026-3, Arrest  Control, Gun Ret, Cuffing | Passed | 0.0 | 4.00 |
+| 9/1/2026 | HBP2380E | AA 2026-3, DV  Suicidal Subject Scenarios | Passed | 0.0 | 4.00 |
+| 8/31/2026 | HBP1921E | AA 2026-3, Building Clearing | Passed | 0.0 | 6.00 |
+| 8/30/2026 | HBP3421E | AA 2026-3, EVOC | Passed | 0.0 | 14.00 |
+| 8/13/2026 | HBP1166E | AA 2026-3, Extended Range Impact Munitions Refresh | Passed | 0.0 | 1.00 |
 | 8/4/2026 | PDP0160D | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |
 | 8/4/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
 | 8/4/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

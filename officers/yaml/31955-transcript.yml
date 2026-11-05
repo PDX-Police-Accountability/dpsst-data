@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/21/2026
+  agency: Canby Police Department
+  action: Promotion
+  rank: Chief
+  classification: ''
+  assignment: ''
 - date: 7/10/2026
   agency: Canby Police Department
   action: Promotion

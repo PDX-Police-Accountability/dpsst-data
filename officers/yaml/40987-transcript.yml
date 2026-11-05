@@ -68,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/1/2026
+  course: PDP2360E
+  title: Military Ordnance Recognition
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/17/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'

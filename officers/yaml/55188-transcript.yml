@@ -146,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/16/2026
+  course: PDP1409E
+  title: "(FCLP) Elder Fraud Prevention and Response Path"
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/3/2026
   course: PDP3014C
   title: 2026 DIR 0630.05 Vehicle Interventions  Pursuits

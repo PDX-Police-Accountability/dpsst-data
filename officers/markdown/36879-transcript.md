@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/20/2026 | 10/20/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/10/2025 | 4/10/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
@@ -35,6 +36,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2026 | UPR1978E | Officer Wellness | Passed | 0.0 | 1.00 |
+| 10/23/2026 | UPR2284E | Implicit Bias | Passed | 0.0 | 2.00 |
+| 10/23/2026 | UPR4514E | Case Law/Legal Updates | Passed | 0.0 | 2.00 |
+| 10/23/2026 | UPR4188E | Railroad Investigations | Passed | 0.0 | 4.00 |
+| 10/22/2026 | UPR2096E | Handgun Qualification | Passed | 0.0 | 1.00 |
+| 10/22/2026 | UPR1938E | Handgun Training | Passed | 0.0 | 4.00 |
+| 10/21/2026 | UPR2563E | ICAT Refresher | Passed | 0.0 | 4.00 |
+| 10/21/2026 | UPR3193E | Mental Illness Recognition for Law Enforcement | Passed | 0.0 | 2.00 |
+| 10/21/2026 | UPR2667E | Reality Based Training Scenarios | Passed | 0.0 | 4.00 |
+| 10/20/2026 | UPR4255E | Tactical Emergency Casualty Care | Passed | 0.0 | 2.00 |
+| 10/20/2026 | UPR4142E | Taser 10 Recertification | Passed | 0.0 | 4.00 |
+| 10/20/2026 | UPR2214E | Adult/Child CPR-First Aid-AED | Passed | 0.0 | 4.00 |
+| 10/19/2026 | UPR2653E | Defensive Driving | Passed | 0.0 | 4.00 |
+| 10/19/2026 | UPR3180E | Use of Force Reporting | Passed | 0.0 | 4.00 |
 | 10/7/2026 | UPR3089D | Rail Investigation Safety Instructor Course | Passed | 0.0 | 16.00 |
 | 9/17/2026 | UPR2613D | Glock 47 Handgun RCR Transition Course | Passed | 0.0 | 8.00 |
 | 9/17/2026 | UPR1706D | CJIS Online | Passed | 0.0 | 8.00 |

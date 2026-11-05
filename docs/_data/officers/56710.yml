@@ -74,6 +74,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/30/2026
+  course: SDP2360E
+  title: CJIS Security and Privacy Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/23/2026
   course: SDP1092D
   title: HB2513 - ACAP Training Video

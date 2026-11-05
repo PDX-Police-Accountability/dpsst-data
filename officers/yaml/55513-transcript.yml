@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2026
+  course: BVP3972E
+  title: EVOC IST October 2026 102326
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/25/2026
   course: BVP2692D
   title: September 2026 CT IST 092526 AM

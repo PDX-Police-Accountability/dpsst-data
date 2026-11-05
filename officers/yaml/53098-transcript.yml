@@ -74,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 10/23/2026
+  course: GSP0693E
+  title: SFST Refresher with Wet Lab
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/1/2026
   course: PDP2130D
   title: 2026 Lead Exposure Screening

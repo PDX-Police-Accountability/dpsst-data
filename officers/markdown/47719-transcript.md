@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2026 | BVP2424E | EVOC IST October 2026 101626 | Passed | 0.0 | 3.00 |
 | 9/23/2026 | BVP0509D | September 2026 CT IST 092326 AM | Passed | 0.0 | 3.00 |
 | 9/7/2026 | BVP1872D | September 2026 Range 090726 PM | Passed | 0.0 | 3.00 |
 | 7/8/2026 | BVP4488D | PIT EVOC IST 070826PM | Passed | 0.0 | 3.00 |

@@ -41,6 +41,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/27/2026 | OCP1243E | General Assembly Speaker Series | Passed | 0.0 | 4.50 |
+| 10/26/2026 | OCP4518E | Case Review- Attack That Killed LEO | Passed | 0.0 | 1.50 |
+| 10/26/2026 | OCP0319E | Measuring What Matters - Onboarding | Passed | 0.0 | 1.00 |
+| 10/24/2026 | OCP1404E | Rachel Morin Case Study | Passed | 0.0 | 1.00 |
+| 10/24/2026 | OCP2078E | The Evolving Drone Threat | Passed | 0.0 | 1.00 |
+| 10/24/2026 | OCP3831E | Ft. Lauderdale Airport Active Shooter Debrief | Passed | 0.0 | 1.00 |
 | 10/8/2026 | OCP1453D | Firearms/Use of Force | Passed | 0.0 | 3.50 |
 | 10/8/2026 | OCP1453D | Firearms/Use of Force | Instructed | 0.0 | 17.50 |
 | 9/28/2026 | OCP1288D | Firearms/Use of Force | Instructed | 0.0 | 5.00 |

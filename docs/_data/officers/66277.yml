@@ -30,6 +30,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/17/2026
+  course: HBP3043E
+  title: AA 2026-3, Barricaded Suspect
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/16/2026
+  course: HBP0100E
+  title: AA 2026-3, Active Shooter Response
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 9/14/2026
+  course: HBP3186E
+  title: AA 2026-3, Domestic Violence Prosecution
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/9/2026
+  course: HBP1687E
+  title: AA 2026-3, DUII, SFST, Related Search Warrants
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/9/2026
+  course: HBP2736E
+  title: AA 2026-3, Breaching
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/4/2026
   course: PDP0825D
   title: Cybersecurity Awareness for City Employees
@@ -39,6 +69,36 @@ training_records:
 - date: 9/2/2026
   course: HBP2104D
   title: Respectful Workplace - Employee Training (Equity)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2026
+  course: HBP4136E
+  title: AA 2026-3, Arrest  Control, Gun Ret, Cuffing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/1/2026
+  course: HBP2380E
+  title: AA 2026-3, DV  Suicidal Subject Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/31/2026
+  course: HBP1921E
+  title: AA 2026-3, Building Clearing
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/30/2026
+  course: HBP3421E
+  title: AA 2026-3, EVOC
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 8/13/2026
+  course: HBP1166E
+  title: AA 2026-3, Extended Range Impact Munitions Refresh
   status: Passed
   score: '0.0'
   hours: '1.00'

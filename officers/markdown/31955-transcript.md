@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/21/2026 | Canby Police Department | Promotion | Chief |  |  |
 | 7/10/2026 | Canby Police Department | Promotion | Actng Chf |  |  |
 | 10/6/2021 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 1/1/2021 | Canby Police Department | Reclassed | Captain |  |  |

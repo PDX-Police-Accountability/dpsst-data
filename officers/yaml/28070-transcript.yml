@@ -80,6 +80,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/31/2026
+  course: MNS2434E
+  title: Duty To Intercede - Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2026
+  course: MNS0536E
+  title: Managing Fatigue in 24/7 Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2026
+  course: MNS3834E
+  title: Public Free Speech
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/13/2026
   course: MNS3225D
   title: Yamhill County Deflection Program

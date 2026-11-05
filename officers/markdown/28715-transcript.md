@@ -45,9 +45,12 @@
 | 9/23/2026 | HBP2222D | Handcuffing | Instructed | 0.0 | 1.00 |
 | 9/23/2026 | HBP4330D | Range | Instructed | 0.0 | 4.50 |
 | 9/17/2026 | HBP1509D | TASER 10 Remediation | Instructed | 0.0 | 0.50 |
+| 9/17/2026 | HBP3043E | AA 2026-3, Barricaded Suspect | Instructed | 0.0 | 4.00 |
+| 9/16/2026 | HBP0100E | AA 2026-3, Active Shooter Response | Instructed | 0.0 | 5.50 |
 | 9/2/2026 | HBP0195D | Respectful Workplace - Supervisor Trng (Ldrshp) | Passed | 0.0 | 1.00 |
 | 9/2/2026 | HBP1992D | Respectful Workplace - Supervisor Trng (Equity) | Passed | 0.0 | 1.00 |
 | 9/2/2026 | HBP1223D | PA 2026-5, Reaction Drills, Tac De-esc, Srch/Sz | Instructed | 0.0 | 9.50 |
+| 8/31/2026 | HBP1921E | AA 2026-3, Building Clearing | Instructed | 0.0 | 6.00 |
 | 8/24/2026 | HBP2916D | Rifle School - Patrol Rifle Course | Instructed | 0.0 | 36.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 8/16/2026 | HSU0807D | Pistol Mounted Optics | Passed | 0.0 | 30.00 |

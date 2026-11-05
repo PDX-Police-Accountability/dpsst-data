@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/22/2026
+  course: BVP2065E
+  title: EVOC IST October 2026 102226
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/26/2026
   course: BVP0340D
   title: IST Taser10 Certification 062626

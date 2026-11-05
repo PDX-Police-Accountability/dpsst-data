@@ -7692,11 +7692,15 @@ dpsst_identifier	date	course	title	status	score	hours
 17432	7/27/1984	845019	LINK ANALYSIS CHARTING TECHNIQUES	Passed	0.0	7.00
 17432	4/6/1984	841114	BASIC POLICE CLASS #114	Passed	0.0	16.00
 17432	2/14/1984	84Q001	FIRST AID	Passed	0.0	8.00
+17691	10/16/2026	MNS4588E	Use of Force Legal Update - September	Passed	0.0	1.00
 17691	10/4/2026	MNS4134D	Fall EVO 2026	Instructed	0.0	9.00
 17691	10/4/2026	MNS4134D	Fall EVO 2026	Passed	0.0	2.00
 17691	10/1/2026	MNS2787D	Radar/Lidar Instructor Training	""	0.0	8.00
 17691	9/12/2026	MNS3062D	Fall EVO 2026	Passed	0.0	2.00
 17691	9/12/2026	MNS3062D	Fall EVO 2026	Instructed	0.0	8.50
+17691	8/31/2026	MNS3834E	Public Free Speech	Passed	0.0	1.00
+17691	8/31/2026	MNS2434E	Duty To Intercede - Use of Force	Passed	0.0	1.00
+17691	8/31/2026	MNS0536E	Managing Fatigue in 24/7 Operations	Passed	0.0	1.00
 17691	8/13/2026	MNS3225D	Yamhill County Deflection Program	Passed	0.0	0.50
 17691	6/23/2026	MNS3847D	Vehicle Ballistics Cover in a Gunfight	Passed	0.0	3.50
 17691	4/30/2026	MNS1093C	Reserve Academy EVO Day 2- DPSST track	Instructed	0.0	10.00
@@ -24728,6 +24732,7 @@ dpsst_identifier	date	course	title	status	score	hours
 23331	7/31/1992	92J061	DIGNITARY PROTECTION TRAINING	Passed	0.0	8.00
 23331	8/31/1990	90Z013	CAMPUS SECURITY BASIC COURSE	Passed	0.0	160.00
 23474	10/19/2026	PDP3233D	2026 Command In-Service	Passed	0.0	5.00
+23474	10/6/2026	PDP3786E	2026 Executive  Command Lvl Community Engagement	Passed	0.0	7.00
 23474	9/28/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 23474	8/15/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 23474	8/15/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -67431,6 +67436,9 @@ dpsst_identifier	date	course	title	status	score	hours
 28069	2/28/1993	92J071	BASIC POLICE RESERVE ACADEMY	Passed	0.0	280.00
 28069	1/26/1993	93U001	Approved In-State Training	Passed	0.0	3.00
 28070	9/12/2026	MNS3062D	Fall EVO 2026	Passed	0.0	4.00
+28070	8/31/2026	MNS2434E	Duty To Intercede - Use of Force	Passed	0.0	1.00
+28070	8/31/2026	MNS0536E	Managing Fatigue in 24/7 Operations	Passed	0.0	1.00
+28070	8/31/2026	MNS3834E	Public Free Speech	Passed	0.0	1.00
 28070	8/13/2026	MNS3225D	Yamhill County Deflection Program	Passed	0.0	0.50
 28070	6/23/2026	MNS3847D	Vehicle Ballistics Cover in a Gunfight	Passed	0.0	3.50
 28070	3/7/2026	MNS1771C	Building Clearing and K9 Introduction	Passed	0.0	1.50
@@ -78331,9 +78339,12 @@ dpsst_identifier	date	course	title	status	score	hours
 28715	9/23/2026	HBP2222D	Handcuffing	Instructed	0.0	1.00
 28715	9/23/2026	HBP4330D	Range	Instructed	0.0	4.50
 28715	9/17/2026	HBP1509D	TASER 10 Remediation	Instructed	0.0	0.50
+28715	9/17/2026	HBP3043E	AA 2026-3, Barricaded Suspect	Instructed	0.0	4.00
+28715	9/16/2026	HBP0100E	AA 2026-3, Active Shooter Response	Instructed	0.0	5.50
 28715	9/2/2026	HBP0195D	Respectful Workplace - Supervisor Trng (Ldrshp)	Passed	0.0	1.00
 28715	9/2/2026	HBP1992D	Respectful Workplace - Supervisor Trng (Equity)	Passed	0.0	1.00
 28715	9/2/2026	HBP1223D	PA 2026-5, Reaction Drills, Tac De-esc, Srch/Sz	Instructed	0.0	9.50
+28715	8/31/2026	HBP1921E	AA 2026-3, Building Clearing	Instructed	0.0	6.00
 28715	8/24/2026	HBP2916D	Rifle School - Patrol Rifle Course	Instructed	0.0	36.00
 28715	8/19/2026	HBP3441D	PoliceOne Foundations in Ethics for LE	Passed	0.0	1.00
 28715	8/16/2026	HSU0807D	Pistol Mounted Optics	Passed	0.0	30.00
@@ -135477,6 +135488,7 @@ dpsst_identifier	date	course	title	status	score	hours
 31943	1/22/1997	97U001	Approved In-State Training	Passed	0.0	24.00
 31943	5/17/1996	95U001	Approved In-State Training	Passed	0.0	24.00
 31943	5/6/1996	96U001	Approved In-State Training	Passed	0.0	6.00
+31951	10/20/2026	XDELETE3	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	4.00
 31951	9/17/2026	RSS2573D	2026 OHIA Major Crimes Conference	Passed	0.0	12.00
 31951	2/3/2026	SAG2918C	First Aid  CPR	Passed	0.0	4.00
 31951	5/16/2025	SAG0868A	4th Annual OCCIA Conference	Passed	0.0	8.00
@@ -169604,6 +169616,7 @@ dpsst_identifier	date	course	title	status	score	hours
 34301	4/6/2000	99P294	FATS TRAINING	Passed	0.0	1.00
 34302	10/27/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 34302	10/23/2026	GSP1357E	SFST Refresher with Wet Lab	Instructed	0.0	10.00
+34302	10/23/2026	GSP0693E	SFST Refresher with Wet Lab	Instructed	0.0	10.00
 34302	9/2/2026	GSP1714D	Handgun In-service	Passed	0.0	10.00
 34302	8/31/2026	GSP3564D	2026 Ethics Training	Passed	0.0	1.00
 34302	8/7/2026	GSP4304D	Adult and Child CPR First Aid	Passed	0.0	4.00
@@ -192606,6 +192619,7 @@ dpsst_identifier	date	course	title	status	score	hours
 35126	3/20/1998	98B001	DPSST Basic Police	Passed	0.0	320.00
 35126	2/26/1998	98P082	IMPLIED CONSENT/INTOXILYZER 5000	Passed	0.0	4.00
 35126	7/24/1947	10-0801	Homicide Investigation	Passed	0.0	4.00
+35127	10/20/2026	XDELETE3	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	4.00
 35127	8/12/2026	SAG2609D	Firearms	Passed	0.0	2.00
 35127	6/22/2026	SAG4549D	Firearms	Passed	0.0	2.00
 35127	4/9/2026	SAG4569C	Firearms	Passed	0.0	2.00
@@ -211854,6 +211868,7 @@ dpsst_identifier	date	course	title	status	score	hours
 36265	11/24/1998	98U001	Approved In-State Training	Passed	0.0	15.00
 36265	11/10/1998	98P082	IMPLIED CONSENT/INTOXILYZER 5000	Passed	0.0	4.00
 36265	10/29/1998	98B012	BP-SFST  DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
+36266	10/20/2026	XDELETE3	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	4.00
 36266	8/12/2026	SAG2609D	Firearms	Passed	0.0	2.00
 36266	7/16/2026	SAG1874D	Firearms	Passed	0.0	1.00
 36266	7/15/2026	SAG2806D	Oregon Assest Forfeiture	Passed	0.0	1.00
@@ -223820,6 +223835,7 @@ dpsst_identifier	date	course	title	status	score	hours
 36875	7/14/1999	99P162	ADVANCED POLICE CURRICULUM	Passed	0.0	360.00
 36875	6/27/1999	99B010	BP/SFST  DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 36875	4/27/1999	99P115	INTOXYLIZER 5000 CERTIFICATION	Passed	0.0	4.00
+36878	10/22/2026	BVP2065E	EVOC IST October 2026 102226	Passed	0.0	3.00
 36878	6/26/2026	BVP0340D	IST Taser10 Certification 062626	Instructed	0.0	4.50
 36878	5/6/2026	BVP2031C	May 2026 Pistol Range IST 050626AM	Passed	0.0	3.00
 36878	4/16/2026	BVP4383C	Homicide Investigations  Crime Scene Training	Passed	0.0	24.00
@@ -224357,6 +224373,20 @@ dpsst_identifier	date	course	title	status	score	hours
 36878	7/14/1999	99P162	ADVANCED POLICE CURRICULUM	Passed	0.0	360.00
 36878	6/27/1999	99B010	BP/SFST  DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 36878	4/24/1999	99P115	INTOXYLIZER 5000 CERTIFICATION	Passed	0.0	4.00
+36879	10/23/2026	UPR1978E	Officer Wellness	Passed	0.0	1.00
+36879	10/23/2026	UPR2284E	Implicit Bias	Passed	0.0	2.00
+36879	10/23/2026	UPR4514E	Case Law/Legal Updates	Passed	0.0	2.00
+36879	10/23/2026	UPR4188E	Railroad Investigations	Passed	0.0	4.00
+36879	10/22/2026	UPR2096E	Handgun Qualification	Passed	0.0	1.00
+36879	10/22/2026	UPR1938E	Handgun Training	Passed	0.0	4.00
+36879	10/21/2026	UPR2563E	ICAT Refresher	Passed	0.0	4.00
+36879	10/21/2026	UPR3193E	Mental Illness Recognition for Law Enforcement	Passed	0.0	2.00
+36879	10/21/2026	UPR2667E	Reality Based Training Scenarios	Passed	0.0	4.00
+36879	10/20/2026	UPR4255E	Tactical Emergency Casualty Care	Passed	0.0	2.00
+36879	10/20/2026	UPR4142E	Taser 10 Recertification	Passed	0.0	4.00
+36879	10/20/2026	UPR2214E	Adult/Child CPR-First Aid-AED	Passed	0.0	4.00
+36879	10/19/2026	UPR2653E	Defensive Driving	Passed	0.0	4.00
+36879	10/19/2026	UPR3180E	Use of Force Reporting	Passed	0.0	4.00
 36879	10/7/2026	UPR3089D	Rail Investigation Safety Instructor Course	Passed	0.0	16.00
 36879	9/17/2026	UPR2613D	Glock 47 Handgun RCR Transition Course	Passed	0.0	8.00
 36879	9/17/2026	UPR1706D	CJIS Online	Passed	0.0	8.00
@@ -225731,6 +225761,7 @@ dpsst_identifier	date	course	title	status	score	hours
 36880	4/27/1999	99P115	INTOXYLIZER 5000 CERTIFICATION	Passed	0.0	4.00
 36880	3/16/1999	99U001	Approved In-State Training	Passed	0.0	2.00
 36881	1/4/2027	27-0029	DPSST Supervision	Registered	0.0	0.00
+36881	10/20/2026	XDELETE3	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	4.00
 36881	8/12/2026	SAG2609D	Firearms	Passed	0.0	2.00
 36881	7/16/2026	SAG1874D	Firearms	Passed	0.0	1.00
 36881	7/15/2026	SAG2806D	Oregon Assest Forfeiture	Passed	0.0	1.00
@@ -228539,7 +228570,21 @@ dpsst_identifier	date	course	title	status	score	hours
 37126	7/14/1999	99B015	DPSST Basic Police	Passed	0.0	400.00
 37126	6/27/1999	99B010	BP/SFST  DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 37126	4/27/1999	99P115	INTOXYLIZER 5000 CERTIFICATION	Passed	0.0	4.00
+37127	10/16/2026	PDA4011E	Media Policy	Passed	0.0	0.50
+37127	10/15/2026	PDA2212E	Ethical Considerations for Asset Forfeiture	Passed	0.0	1.00
+37127	9/11/2026	PDA2004E	Reporting  Responding to Sexual Misconduct	Passed	0.0	0.75
+37127	9/4/2026	PDA0206E	Use of Force - Legal and e-Recording of Interviews	Passed	0.0	1.00
+37127	9/3/2026	PDA2134E	Task Force Officer (TFO) Basic: Fundamentals	Passed	0.0	3.00
+37127	8/28/2026	PDA3757E	AG Guidelines for Vic  Wit Assistance	Passed	0.0	1.50
+37127	8/28/2026	PDA1903E	Child and Adolescent Forensic Interview Program	Passed	0.0	0.50
+37127	8/28/2026	PDA2650E	Privacy: It's Everbody's Business	Passed	0.0	0.50
+37127	8/21/2026	PDA1493E	NSPM-7 Joint Mission Center	Passed	0.0	1.00
 37127	8/12/2026	PDA3876D	Use of Force Update	Passed	0.0	1.50
+37127	6/23/2026	PDA1826E	FC201 Financial Records Investigative Skills	Passed	0.0	24.00
+37127	4/30/2026	PDA3775E	FC151 The Bank Secrecy Act	Passed	0.0	1.50
+37127	2/27/2026	PDA0529E	FC109 Introduction to Scams in P2P Payment Apps	Passed	0.0	1.25
+37127	2/12/2026	PDA1648E	Investigations:Asked and Answered	Passed	0.0	1.25
+37127	1/28/2026	PDA0619E	FC104 Financial Investigations Basics	Passed	0.0	1.00
 37127	10/31/2025	PDA3164C	Handgun Firearms	Passed	0.0	4.50
 37127	10/16/2025	PDA0273B	Defensive Tactics Application of OC Spray	Passed	0.0	2.00
 37127	10/9/2025	PDA0352B	Tourniquet and Wound Packing	Passed	0.0	1.00
@@ -266860,6 +266905,7 @@ dpsst_identifier	date	course	title	status	score	hours
 38400	7/15/2004	04-0921	Fingerprinting - Basic	Passed	0.0	24.00
 38400	9/25/2003	03-0358	PPB Instructor Development Course	Passed	0.0	30.00
 38512	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+38512	10/9/2026	PDP3703E	HDS Public Safety Bomb Tech Recert	Passed	0.0	40.00
 38512	9/30/2026	PDP3078D	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
 38512	9/22/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 38512	9/16/2026	PDP2623D	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
@@ -278521,6 +278567,7 @@ dpsst_identifier	date	course	title	status	score	hours
 39011	8/18/2000	00P078	SFST/DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 39011	8/15/2000	00P042	INTOXILYZER 5000	Passed	0.0	4.00
 39064	10/22/2026	TDP0142D	Pro Poenix CAD RMS LE Technology	Passed	0.0	8.00
+39064	10/22/2026	XDELETE5	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	8.00
 39064	9/17/2026	RSS2573D	2026 OHIA Major Crimes Conference	Passed	0.0	20.00
 39064	8/31/2026	TDP3870D	Dr Ben Stone--:Stronger Hearts, Stronger Leaders	Passed	0.0	2.00
 39064	6/1/2026	TDP3395C	Duty to Intervene and Policy Review--2026	Passed	0.0	1.00
@@ -321315,6 +321362,7 @@ dpsst_identifier	date	course	title	status	score	hours
 40949	8/30/2001	01CP167	Radar Operators Course	Passed	0.0	24.00
 40949	12/18/1998	98U002	Approved Out-of-State Training	Passed	0.0	1094.50
 40987	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+40987	10/1/2026	PDP2360E	Military Ordnance Recognition	Passed	0.0	24.00
 40987	9/17/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 40987	9/16/2026	PDP2623D	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
 40987	9/9/2026	PDP3623D	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
@@ -372950,6 +372998,7 @@ dpsst_identifier	date	course	title	status	score	hours
 43492	2/20/2004	03CP992	Police Corps Academy Class 12-Enhanced	Passed	0.0	428.00
 43492	12/4/2003	03U001	Approved In-State Training	Passed	0.0	6.00
 43493	10/19/2026	PDP3233D	2026 Command In-Service	Passed	0.0	5.00
+43493	9/17/2026	PDP2307E	2026 OHIA Major Crimes Conference	Passed	0.0	20.00
 43493	9/10/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 43493	8/20/2026	PDP0533D	2025 CAO Summaries of New Police Legislation	Passed	0.0	0.25
 43493	8/20/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -411096,6 +411145,7 @@ dpsst_identifier	date	course	title	status	score	hours
 45515	6/1/2005	05-0038	Range 3000	Passed	0.0	0.50
 45515	4/29/2005	05-1497	OSP Intoxilyzer 5000	Passed	0.0	0.00
 45663	10/27/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+45663	10/20/2026	XDELETE3	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	4.00
 45663	8/12/2026	SAG2609D	Firearms	Passed	0.0	2.00
 45663	7/16/2026	SAG1874D	Firearms	Passed	0.0	1.00
 45663	6/22/2026	SAG4549D	Firearms	Passed	0.0	2.00
@@ -433317,6 +433367,7 @@ dpsst_identifier	date	course	title	status	score	hours
 46507	9/26/2007	07-0839	Radio Procedures	Passed	0.0	2.00
 46529	10/27/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 46529	10/23/2026	GSP1357E	SFST Refresher with Wet Lab	Passed	0.0	10.00
+46529	10/23/2026	GSP0693E	SFST Refresher with Wet Lab	Passed	0.0	10.00
 46529	9/18/2026	GSP1007D	Handgun In-service	Passed	0.0	10.00
 46529	8/31/2026	GSP3564D	2026 Ethics Training	Passed	0.0	1.00
 46529	8/25/2026	GSP2800D	PVO In-service 2026	Passed	0.0	30.00
@@ -445369,6 +445420,7 @@ dpsst_identifier	date	course	title	status	score	hours
 47109	8/24/2006	06-0156	Radar	Passed	0.0	8.00
 47109	8/18/2006	06-0004	Intoxilyzer 5000	Passed	0.0	0.00
 47109	5/9/2006	06-0140	First Aid	Passed	0.0	4.00
+47111	10/15/2026	BVP3470E	EVOC IST October 2026 101526	Passed	0.0	3.00
 47111	9/4/2026	BVP0210D	September 2026 Range 090426 AM	Passed	0.0	3.00
 47111	6/17/2026	BVP1918D	IST Taser10 Certification 061726	Passed	0.0	9.00
 47111	6/6/2026	BVP0875C	Unconscious Bias	Passed	0.0	0.50
@@ -454597,6 +454649,7 @@ dpsst_identifier	date	course	title	status	score	hours
 47718	4/12/2007	07-0010	SFST/DID-Training hours included in Basic Police	Passed	0.0	0.00
 47718	3/29/2007	07-0952	CPR / First Aid	Passed	0.0	4.00
 47718	1/24/2007	07-0920	New Hire Orientation	Passed	0.0	3.00
+47719	10/16/2026	BVP2424E	EVOC IST October 2026 101626	Passed	0.0	3.00
 47719	9/23/2026	BVP0509D	September 2026 CT IST 092326 AM	Passed	0.0	3.00
 47719	9/7/2026	BVP1872D	September 2026 Range 090726 PM	Passed	0.0	3.00
 47719	7/8/2026	BVP4488D	PIT EVOC IST 070826PM	Passed	0.0	3.00
@@ -507801,6 +507854,12 @@ dpsst_identifier	date	course	title	status	score	hours
 50621	4/23/2009	09-0964	Bloodborne Pathogens	Passed	0.0	1.50
 50621	4/17/2009	09-0920	New Hire Orientation	Passed	0.0	3.00
 50622	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+50622	10/27/2026	OCP1243E	General Assembly Speaker Series	Passed	0.0	4.50
+50622	10/26/2026	OCP4518E	Case Review- Attack That Killed LEO	Passed	0.0	1.50
+50622	10/26/2026	OCP0319E	Measuring What Matters - Onboarding	Passed	0.0	1.00
+50622	10/24/2026	OCP1404E	Rachel Morin Case Study	Passed	0.0	1.00
+50622	10/24/2026	OCP2078E	The Evolving Drone Threat	Passed	0.0	1.00
+50622	10/24/2026	OCP3831E	Ft. Lauderdale Airport Active Shooter Debrief	Passed	0.0	1.00
 50622	10/8/2026	OCP1453D	Firearms/Use of Force	Passed	0.0	3.50
 50622	10/8/2026	OCP1453D	Firearms/Use of Force	Instructed	0.0	17.50
 50622	9/28/2026	OCP1288D	Firearms/Use of Force	Instructed	0.0	5.00
@@ -515038,6 +515097,7 @@ dpsst_identifier	date	course	title	status	score	hours
 50724	10/2/2009	09-0920	New Hire Orientation	Passed	0.0	3.00
 50738	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 50738	10/15/2026	PDP0352D	2026 SERT Training - SCENARIO	Passed	0.0	9.00
+50738	9/25/2026	PDP2799E	Bridging the Experience Gap:Prep Next Gen	Passed	0.0	2.00
 50738	9/24/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 50738	8/27/2026	PDP4094D	Leadership  Consistency: Creating Relat Cult	Passed	0.0	2.00
 50738	8/20/2026	PDP1508D	Enhanced Tactical Medicine	Passed	0.0	16.00
@@ -585528,6 +585588,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52982	12/4/2013	13-1198	Building Searches	Passed	0.0	4.00
 52982	1/4/2013	13-0008	DPSST Basic Police	Cancelled	0.0	0.00
 53098	10/23/2026	GSP1357E	SFST Refresher with Wet Lab	Instructed	0.0	10.00
+53098	10/23/2026	GSP0693E	SFST Refresher with Wet Lab	Instructed	0.0	10.00
 53098	9/1/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 53098	9/1/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 53098	9/1/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -596126,6 +596187,7 @@ dpsst_identifier	date	course	title	status	score	hours
 54567	10/1/2014	14-1253	Tactical Emergency Medical Training	Passed	0.0	0.50
 54619	10/27/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 54619	9/2/2026	HBP2104D	Respectful Workplace - Employee Training (Equity)	Passed	0.0	1.00
+54619	8/30/2026	HBP3421E	AA 2026-3, EVOC	Instructed	0.0	14.00
 54619	8/19/2026	HBP3441D	PoliceOne Foundations in Ethics for LE	Passed	0.0	1.00
 54619	8/12/2026	HBP0130D	LEDS Recertification	Passed	0.0	0.75
 54619	7/22/2026	HBP4412D	In-Service 2026-3, Active Shooter	Passed	0.0	8.00
@@ -599508,6 +599570,7 @@ dpsst_identifier	date	course	title	status	score	hours
 54999	3/2/2015	15-1136	OSHA	Passed	0.0	1.00
 54999	1/1/2014	PDP01640	IS-00100.b Intro to Incident Command Sys (ICS 100)	Passed	0.0	3.00
 55060	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+55060	10/1/2026	PDP2360E	Military Ordnance Recognition	Passed	0.0	24.00
 55060	9/2/2026	PDP2513D	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
 55060	8/19/2026	PDP0713D	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Instructed	0.0	9.00
 55060	8/14/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -599532,6 +599595,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55060	6/4/2026	PDP1622D	2025 CAO Summaries of New Police Legislation	Passed	0.0	0.25
 55060	6/4/2026	PDP3134D	2025-2026 Police Interceptor Utility Summary	Passed	0.0	0.25
 55060	6/3/2026	PDP1357C	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
+55060	5/28/2026	PDP3875E	Bombing Prevention for Empowered Trainers	Passed	0.0	20.00
 55060	5/6/2026	PDP1309C	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
 55060	4/29/2026	PDP2097C	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
 55060	4/22/2026	PDP4233C	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
@@ -599598,6 +599662,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55060	9/18/2025	PDP1443C	2025-1 All Sworn In-Service Taser Update	Passed	0.0	2.25
 55060	9/18/2025	PDP2310C	2025-3 Range Qualification CEW	Passed	0.0	0.50
 55060	9/3/2025	PDP0601B	2025 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
+55060	8/29/2025	PDP0382E	Hazardous Devices School Level 3 Sustainment	Passed	0.0	36.00
 55060	8/20/2025	PDP4351B	2025 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
 55060	8/14/2025	MISCMAIN	2025 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 55060	8/7/2025	PDP2072B	2025 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	36.00
@@ -601714,6 +601779,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55188	5/13/2026	PDP2782D	2026 Disability Series: d/Deaf  Hard of Hearing	Passed	0.0	0.50
 55188	4/15/2026	PDP3211C	2026 Crisis Negotiation Team (CNT) Annual Training	Passed	0.0	8.00
 55188	3/18/2026	PDP1724C	2026 Crisis Negotiation Team (CNT) Annual Training	Passed	0.0	8.00
+55188	3/16/2026	PDP1409E	(FCLP) Elder Fraud Prevention and Response Path	Passed	0.0	8.00
 55188	3/3/2026	PDP3014C	2026 DIR 0630.05 Vehicle Interventions  Pursuits	Passed	0.0	0.25
 55188	3/3/2026	PDP4153C	2026-2 CAO Analysis of PPB Related Laws, 2025 Leg	Passed	0.0	0.25
 55188	3/3/2026	PDP4523C	Annual CIU NTR Alarm Response Training - Reed	Passed	0.0	0.25
@@ -607871,6 +607937,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55511	1/12/2016	16-0388	ICS 100 / IS 100 - Introduction to ICS	Passed	0.0	3.00
 55511	1/12/2016	16-0395	IS 700  NIMS, An Introduction	Passed	0.0	3.00
 55511	7/11/2015	15-0683	Crisis Intervention	Passed	0.0	36.00
+55513	10/23/2026	BVP3972E	EVOC IST October 2026 102326	Passed	0.0	3.00
 55513	9/25/2026	BVP2692D	September 2026 CT IST 092526 AM	Passed	0.0	3.00
 55513	9/11/2026	BVP0907D	September 2026 Range 091126 PM	Passed	0.0	3.00
 55513	8/26/2026	HBS3516D	TNT Range Day	Passed	0.0	7.00
@@ -622320,6 +622387,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56709	6/25/2013	LCP23610	FEMA ICS-100	Passed	0.0	3.00
 56709	6/25/2013	PDP1912A	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
 56710	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
+56710	10/30/2026	SDP2360E	CJIS Security and Privacy Training	Passed	0.0	1.00
 56710	9/23/2026	SDP1092D	HB2513 - ACAP Training Video	Passed	0.0	2.00
 56710	9/14/2026	REG4184D	Ground Control	Passed	0.0	1.00
 56710	9/10/2026	REG0698D	Ground Control	Passed	0.0	1.00
@@ -670992,6 +671060,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59104	9/13/2018	PDP26066	FTEP Orientation	Passed	0.0	6.00
 59104	4/6/2018	PDP39936	Tips and Tech Hazard Tow vs. Private Request	Passed	0.0	0.25
 59104	4/6/2018	PDP18845	Disposition of Records Upon Retirement	Passed	0.0	0.25
+59124	10/21/2026	BVP0166E	EVOC IST October 2026 102126	Passed	0.0	3.00
 59124	9/29/2026	BVP1301D	September 2026 CT IST 092926 PM	Passed	0.0	3.00
 59124	9/24/2026	BVP3956D	Washington County Child Abuse MDT Training	Passed	0.0	8.00
 59124	9/11/2026	BVP0907D	September 2026 Range 091126 PM	Passed	0.0	3.00
@@ -689385,6 +689454,8 @@ dpsst_identifier	date	course	title	status	score	hours
 60378	10/31/2019	PDP07898	IS-700 Ntnl Incident Mngmnt Systm, An Intro	Passed	0.0	3.00
 60378	10/24/2019	PDP28275	CPR/First Aid	Passed	0.0	2.00
 60378	10/22/2019	PDP04999	FTEP Policy and Procedure	Passed	0.0	8.00
+60421	10/20/2026	XDELETE3	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	4.00
+60421	10/20/2026	XDELETE3	Pending for Deletion Due to Duplicate or Other Rea	Instructed	0.0	4.00
 60421	8/12/2026	SAG2609D	Firearms	Passed	0.0	2.00
 60421	6/22/2026	SAG4549D	Firearms	Instructed	0.0	8.00
 60421	4/20/2026	SMP2865C	Axon Taser Instructor Course	Passed	0.0	16.00
@@ -697925,6 +697996,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60812	7/30/2020	PDP42151	ICS-100 Intro to the Incident Command Sys	Passed	0.0	3.00
 60812	7/21/2020	PDP40169	2020 FTEP Policy and Procedure	Passed	0.0	6.00
 60812	4/16/2020	PDP03131	DOJ Settlement Agreement	Passed	0.0	1.00
+60813	10/27/2026	OSH3611E	OSP 3rd Trimester Firearms	Passed	0.0	3.00
 60813	10/2/2026	OSH2686D	ATV Operator	Passed	0.0	3.00
 60813	6/22/2026	OSH1955D	2nd Tri Firearms	Passed	0.0	4.00
 60813	3/16/2026	OSH2956C	1st Tri Firearms	Passed	0.0	3.00
@@ -745221,8 +745293,18 @@ dpsst_identifier	date	course	title	status	score	hours
 66265	3/16/2023	PDP4237A	IS-700 Intro to Nat Incident Management System	Passed	0.0	4.00
 66265	3/10/2023	PDP1483A	ICS 100 Intro to Incident Command System	Passed	0.0	2.00
 66277	10/7/2026	HBP0105D	PoliceOne Foundation in Ethics for LE	Passed	0.0	1.00
+66277	9/17/2026	HBP3043E	AA 2026-3, Barricaded Suspect	Passed	0.0	4.00
+66277	9/16/2026	HBP0100E	AA 2026-3, Active Shooter Response	Passed	0.0	5.50
+66277	9/14/2026	HBP3186E	AA 2026-3, Domestic Violence Prosecution	Passed	0.0	3.00
+66277	9/9/2026	HBP1687E	AA 2026-3, DUII, SFST, Related Search Warrants	Passed	0.0	2.00
+66277	9/9/2026	HBP2736E	AA 2026-3, Breaching	Passed	0.0	1.50
 66277	9/4/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
 66277	9/2/2026	HBP2104D	Respectful Workplace - Employee Training (Equity)	Passed	0.0	1.00
+66277	9/1/2026	HBP4136E	AA 2026-3, Arrest  Control, Gun Ret, Cuffing	Passed	0.0	4.00
+66277	9/1/2026	HBP2380E	AA 2026-3, DV  Suicidal Subject Scenarios	Passed	0.0	4.00
+66277	8/31/2026	HBP1921E	AA 2026-3, Building Clearing	Passed	0.0	6.00
+66277	8/30/2026	HBP3421E	AA 2026-3, EVOC	Passed	0.0	14.00
+66277	8/13/2026	HBP1166E	AA 2026-3, Extended Range Impact Munitions Refresh	Passed	0.0	1.00
 66277	8/4/2026	PDP0160D	2026 Standard Field Sobriety Test (SFST) Refresher	Passed	0.0	4.00
 66277	8/4/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 66277	8/4/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
@@ -752249,6 +752331,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67448	5/11/2026	PDP0050C	2026 FTEP Policy and Procedure	Passed	0.0	6.00
 67448	5/4/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67467	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67467	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67467	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67467	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67467	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67467	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00
@@ -752258,6 +752342,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67467	6/23/2026	PDP2176C	2026 FTEP Policy and Procedure	Passed	0.0	7.00
 67467	6/23/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67485	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67485	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67485	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67485	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67485	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67485	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00
@@ -752267,6 +752353,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67485	6/23/2026	PDP2176C	2026 FTEP Policy and Procedure	Passed	0.0	7.00
 67485	6/23/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67535	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67535	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67535	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67535	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67535	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67535	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00
@@ -752276,6 +752364,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67535	6/23/2026	PDP2176C	2026 FTEP Policy and Procedure	Passed	0.0	7.00
 67535	6/23/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67536	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67536	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67536	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67536	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67536	9/15/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67536	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00
@@ -752284,6 +752374,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67536	6/24/2026	PDP1223D	CPR/First Aid	Passed	0.0	4.00
 67536	6/23/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67537	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67537	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67537	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67537	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67537	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67537	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00
@@ -752294,6 +752386,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67537	6/23/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67537	5/13/2026	PDP2782D	2026 Disability Series: d/Deaf  Hard of Hearing	Passed	0.0	0.50
 67551	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67551	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67551	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67551	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67551	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67551	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00
@@ -752303,6 +752397,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67551	6/23/2026	PDP2176C	2026 FTEP Policy and Procedure	Passed	0.0	7.00
 67551	6/23/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67556	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67556	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67556	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67556	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67556	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67556	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00
@@ -752312,6 +752408,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67556	6/23/2026	PDP2176C	2026 FTEP Policy and Procedure	Passed	0.0	7.00
 67556	6/23/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67557	12/16/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67557	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67557	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67557	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67557	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67557	8/3/2026	PDP1351D	Annual OSHA Heat Illness Prevention (CityLearner)	Passed	0.0	0.50
@@ -752326,6 +752424,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67557	6/4/2026	PDP0976D	Annual OSHA Heat Illness Prevention (CityLearner)	Passed	0.0	0.50
 67557	5/2/2026	PDP2782D	2026 Disability Series: d/Deaf  Hard of Hearing	Passed	0.0	0.50
 67565	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67565	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67565	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67565	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67565	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67565	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00
@@ -752334,6 +752434,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67565	6/23/2026	PDP2176C	2026 FTEP Policy and Procedure	Passed	0.0	7.00
 67565	6/23/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67566	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67566	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67566	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67566	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67566	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67566	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00
@@ -752344,6 +752446,8 @@ dpsst_identifier	date	course	title	status	score	hours
 67566	6/23/2026	PDP2243D	Amended DOJ Settlement Agreement (04/2022)	Passed	0.0	1.00
 67566	6/20/2026	PDP1622D	2025 CAO Summaries of New Police Legislation	Passed	0.0	0.25
 67589	12/18/2027	M11-19A	DPSST Police Officer Field Training Manual	Required	0.0	50.00
+67589	10/29/2026	PDP1240E	Introduction to Property and Evidence	Passed	0.0	2.00
+67589	10/28/2026	PDP0185E	FTEP PVO Stop Sticks Box In	Passed	0.0	4.00
 67589	10/27/2026	PDP0414E	FTEP Geography	Passed	0.0	4.00
 67589	9/10/2026	REG0582D	INTOX 8000 (Hours included in Basic)	Passed	0.0	0.00
 67589	7/6/2026	M10-23A	DPSST Basic Police Course	Registered	0.0	0.00

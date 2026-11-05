@@ -56,6 +56,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/9/2026
+  course: PDP3703E
+  title: HDS Public Safety Bomb Tech Recert
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/30/2026
   course: PDP3078D
   title: 2026 Explosive Disposal Unit (MEDU) Weekly Trng

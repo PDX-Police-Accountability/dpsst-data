@@ -84,12 +84,96 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2026
+  course: PDA4011E
+  title: Media Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/15/2026
+  course: PDA2212E
+  title: Ethical Considerations for Asset Forfeiture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/11/2026
+  course: PDA2004E
+  title: Reporting  Responding to Sexual Misconduct
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/4/2026
+  course: PDA0206E
+  title: Use of Force - Legal and e-Recording of Interviews
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/3/2026
+  course: PDA2134E
+  title: 'Task Force Officer (TFO) Basic: Fundamentals'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/28/2026
+  course: PDA3757E
+  title: AG Guidelines for Vic  Wit Assistance
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/28/2026
+  course: PDA1903E
+  title: Child and Adolescent Forensic Interview Program
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/28/2026
+  course: PDA2650E
+  title: 'Privacy: It''s Everbody''s Business'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/21/2026
+  course: PDA1493E
+  title: NSPM-7 Joint Mission Center
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/12/2026
   course: PDA3876D
   title: Use of Force Update
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 6/23/2026
+  course: PDA1826E
+  title: FC201 Financial Records Investigative Skills
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/30/2026
+  course: PDA3775E
+  title: FC151 The Bank Secrecy Act
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/27/2026
+  course: PDA0529E
+  title: FC109 Introduction to Scams in P2P Payment Apps
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 2/12/2026
+  course: PDA1648E
+  title: Investigations:Asked and Answered
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/28/2026
+  course: PDA0619E
+  title: FC104 Financial Investigations Basics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/31/2025
   course: PDA3164C
   title: Handgun Firearms

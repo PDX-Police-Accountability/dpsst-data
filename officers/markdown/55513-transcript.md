@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2026 | BVP3972E | EVOC IST October 2026 102326 | Passed | 0.0 | 3.00 |
 | 9/25/2026 | BVP2692D | September 2026 CT IST 092526 AM | Passed | 0.0 | 3.00 |
 | 9/11/2026 | BVP0907D | September 2026 Range 091126 PM | Passed | 0.0 | 3.00 |
 | 8/26/2026 | HBS3516D | TNT Range Day | Passed | 0.0 | 7.00 |
