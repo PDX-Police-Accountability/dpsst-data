@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/13/2026 | PDP3701D | FTEP Policy and Procedures | Passed | 0.0 | 8.00 |
+| 10/13/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 8/16/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
 | 8/16/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 8/12/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

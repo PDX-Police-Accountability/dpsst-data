@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 10/21/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/22/2026
   course: PDP3112D
   title: Body Worn Camera

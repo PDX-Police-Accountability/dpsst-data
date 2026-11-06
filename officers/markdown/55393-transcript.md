@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/18/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/11/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 9/3/2026 | PDP0540D | 2026 Trng BWC Body 4 Conversion Train the Trainer | Passed | 0.0 | 0.50 |
 | 8/17/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

@@ -47,7 +47,9 @@
 | 10/1/2026 | WBP2109E | Naloxone Treatment Protocol Training | Passed | 0.0 | 0.50 |
 | 10/1/2026 | WBP0768E | OR Statistical Transparency of Policing Program | Passed | 0.0 | 0.50 |
 | 10/1/2026 | WBP3156E | City of Woodburn Public Records Training | Passed | 0.0 | 0.50 |
+| 9/30/2026 | WBP1144E | WPD Q3 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 9/1/2026 | WBP1597D | Firearms (Handgun Training) | Passed | 0.0 | 2.00 |
+| 6/30/2026 | WBP2394E | WPD Q2 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 6/23/2026 | WBP2573D | Glock Armoerers Course (AC) Gen 5 Plus | Passed | 0.0 | 8.00 |
 | 5/19/2026 | WBP0117C | Tactical K9 with Breaching | Instructed | 0.0 | 3.00 |
 | 5/12/2026 | WBP0622C | Tactical K9 with Breaching | Instructed | 0.0 | 3.00 |

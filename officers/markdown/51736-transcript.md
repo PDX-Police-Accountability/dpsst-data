@@ -37,6 +37,16 @@
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/15/2026 | PDP0352D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/8/2026 | PDP2075D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 10/6/2026 | PDP3262E | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/6/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 10/6/2026 | PDP4390E | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 10/6/2026 | PDP0635E | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 10/6/2026 | PDP0203E | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 10/6/2026 | PDP2697E | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
+| 10/6/2026 | PDP2901E | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 10/5/2026 | PDP3974E | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 10/5/2026 | PDP3101E | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
+| 10/5/2026 | PDP1872E | Safe Training Procedures Video | Passed | 0.0 | 0.25 |
 | 9/24/2026 | PDP0741D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/22/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
 | 5/7/2026 | PDP1979C | 2026 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

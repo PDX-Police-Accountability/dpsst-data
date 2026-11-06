@@ -30,6 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/2/2026
+  course: PDP3691E
+  title: FTEP HAZMAT/WMD APR Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2026
+  course: PDP0332E
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2026
+  course: PDP0715E
+  title: School Emergency Actions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/29/2026
   course: PDP1240E
   title: Introduction to Property and Evidence
@@ -48,6 +66,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/26/2026
+  course: PDP0039E
+  title: 2025 All Sworn IS -PVO Stop Stick Hyperlink
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/26/2026
+  course: PDP1545E
+  title: 2025 PVO-101/Stop Stick Training for Post Academy
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/26/2026
+  course: PDP4018E
+  title: "[PVO-101] Patrol Vehicle Operations Policy v2"
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/10/2026
   course: REG0582D
   title: INTOX 8000 (Hours included in Basic)

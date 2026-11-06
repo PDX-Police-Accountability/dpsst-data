@@ -120,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/30/2026
+  course: SVP4431E
+  title: Service  Sacrifice Police Documentry
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/18/2026
   course: 26-0028
   title: DPSST Middle Management F22 Equivalency

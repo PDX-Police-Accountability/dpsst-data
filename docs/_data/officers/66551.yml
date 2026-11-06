@@ -30,6 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/24/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2026
+  course: PDP0823E
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/6/2026
+  course: PDP1640E
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/6/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 7/28/2026
   course: PDP2130D
   title: 2026 Lead Exposure Screening

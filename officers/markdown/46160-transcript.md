@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/22/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/19/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 10/15/2026 | PDP0352D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/23/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
 | 9/6/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

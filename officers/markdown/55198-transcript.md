@@ -34,6 +34,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/20/2026 | PDP4257E | 2026 FTO In-Service -  SEG Changes | Passed | 0.0 | 0.25 |
+| 10/20/2026 | PDP2986E | 2026 FTO In-Service -  Wellness 2.0 | Passed | 0.0 | 0.25 |
+| 10/20/2026 | PDP3841E | 2026 FTO In-Service - DA Report Writing for FTOs | Passed | 0.0 | 1.50 |
+| 10/20/2026 | PDP4597E | 2026 FTO In-Service - Make up Course | Passed | 0.0 | 3.75 |
+| 10/20/2026 | PDP1977E | 2026 FTO In-Service - Presentation Slides | Passed | 0.0 | 0.75 |
+| 10/20/2026 | PDP3533E | 2026 FTO In-Service -PVO for FTO Video | Passed | 0.0 | 0.75 |
+| 10/20/2026 | PDP2831E | 2026 FTO In-Service -Tracwire Rolling Log Review | Passed | 0.0 | 0.25 |
+| 10/11/2026 | PDP3101E | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 9/16/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 8/17/2026 | REG3932D | Intoxilyzer 8000 Instructor Course | Passed | 0.0 | 7.00 |
 | 8/2/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |

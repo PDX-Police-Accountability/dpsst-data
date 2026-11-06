@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/17/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 4.00 |
 | 9/16/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 9.00 |
 | 9/9/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

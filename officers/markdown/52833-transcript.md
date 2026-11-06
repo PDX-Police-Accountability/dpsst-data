@@ -33,7 +33,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/29/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/3/2026 | PDP3997E | 2023 Video Evid Basics for the Police UoF Invest | Passed | 0.0 | 1.50 |
+| 10/3/2026 | PDP2090E | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
+| 10/3/2026 | PDP3048E | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.50 |
+| 10/3/2026 | PDP1608E | After Action Reports PowerPoint (2020) | Passed | 0.0 | 0.50 |
+| 10/3/2026 | PDP4555E | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
 | 9/16/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/8/2026 | PDP2597D | 2026 Field Training Officer (FTO) In-Service | Passed | 0.0 | 9.00 |
 | 8/6/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

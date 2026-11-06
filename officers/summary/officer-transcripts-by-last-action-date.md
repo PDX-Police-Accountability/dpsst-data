@@ -1864,7 +1864,6 @@
 | Kuiper, Karly H. | 60143 | Portland Police Bureau | Active | Detective | Promotion | 2026-07-16 | [md](../markdown/60143-transcript.md) - [yaml](../yaml/60143-transcript.yml) |
 | Perry, Charles D. | 60923 | Portland Police Bureau | Active | Sergeant | Promotion | 2026-07-16 | [md](../markdown/60923-transcript.md) - [yaml](../yaml/60923-transcript.yml) |
 | Oropeza-Fernandez, Karen | 63325 | Portland Police Bureau | Active | Criminalist | Promotion | 2026-07-16 | [md](../markdown/63325-transcript.md) - [yaml](../yaml/63325-transcript.yml) |
-| Brake, Jillian K. | 67681 | Portland Police Bureau | Active | Police Officer | Hired | 2026-07-16 | [md](../markdown/67681-transcript.md) - [yaml](../yaml/67681-transcript.yml) |
 | McLeod, Casey M. | 52835 | Portland Police Bureau | Active | Detective | Promotion | 2026-07-21 | [md](../markdown/52835-transcript.md) - [yaml](../yaml/52835-transcript.yml) |
 | Shadron, John P. | 37126 | Portland Police Bureau | Inactive | Sergeant | Retired | 2026-07-31 | [md](../markdown/37126-transcript.md) - [yaml](../yaml/37126-transcript.yml) |
 | Frolov, Larry | 26855 | Portland Police Bureau | Inactive | Police Officer | Retired | 2026-08-06 | [md](../markdown/26855-transcript.md) - [yaml](../yaml/26855-transcript.yml) |
@@ -1913,3 +1912,4 @@
 | Manninen, Michael F. | 67906 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67906-transcript.md) - [yaml](../yaml/67906-transcript.yml) |
 | Lindsey, Christopher S. | 42661 | Portland Police Bureau | Active | Captain | Demotion | 2026-10-22 | [md](../markdown/42661-transcript.md) - [yaml](../yaml/42661-transcript.yml) |
 | Jackson, David | 47782 | Portland Police Bureau | Active | Commander | Promotion | 2026-10-22 | [md](../markdown/47782-transcript.md) - [yaml](../yaml/47782-transcript.yml) |
+| Brake, Jillian K. | 67681 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2026-11-02 | [md](../markdown/67681-transcript.md) - [yaml](../yaml/67681-transcript.yml) |

@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 10/26/2026 | PDP2901E | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 8/4/2026 | PDP0160D | 2026 Standard Field Sobriety Test (SFST) Refresher | Instructed | 0.0 | 4.00 |
 | 7/31/2026 | PDP0852D | 2026 Patrol Rifle Operator Summer In-Service | Passed | 0.0 | 10.00 |
 | 7/28/2026 | EGP0601D | Police Motorcade Training | Instructed | 0.0 | 6.00 |

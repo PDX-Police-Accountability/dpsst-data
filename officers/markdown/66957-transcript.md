@@ -29,6 +29,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/20/2026 | PDP0483E | AA [CIT-113-H] Responding to a MH Facility v2 | Passed | 0.0 | 0.50 |
+| 10/19/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 10/13/2026 | PDP0444E | AA [CIT-112-A] Behavioral Health Unit Overview v2 | Passed | 0.0 | 0.50 |
+| 10/8/2026 | PDP4151E | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 9/16/2026 | PDP4308D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
 | 9/16/2026 | PDP2711D | AA [PJU-101-H] Introduction to PJPl v2 | Passed | 0.0 | 0.50 |
 | 8/25/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

@@ -53,6 +53,7 @@
 | 10/30/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/21/2026 | SVP1045E | 40mm Training/qualification | Passed | 0.0 | 2.00 |
 | 9/30/2026 | SVP2802D | Service  Sacrifice Police Documentry | Passed | 0.0 | 0.50 |
+| 9/30/2026 | SVP4431E | Service  Sacrifice Police Documentry | Passed | 0.0 | 0.50 |
 | 9/11/2026 | RMP2232D | Case Analysis: Silverton HS SWATTING Call | Passed | 0.0 | 2.00 |
 | 9/11/2026 | RMP1091D | Case Analysis: Silverton HS SWATTING Call | Passed | 0.0 | 2.00 |
 | 9/10/2026 | RMP1085D | Ethical Leadership | Passed | 0.0 | 4.00 |

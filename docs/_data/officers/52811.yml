@@ -63,15 +63,63 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2026
+  course: GSP3053E
+  title: Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/15/2026
+  course: GSP1379E
+  title: SWAT Training - Warrant Contingencies
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/14/2026
+  course: GSP2713E
+  title: SWAT Training - Concealed Carry
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/13/2026
   course: PDP2010D
   title: OTOA Large Caliber Rifle Operator
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/24/2026
+  course: GSP3926E
+  title: SWAT Training - Rilea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/23/2026
+  course: GSP1394E
+  title: SWAT Training - Rilea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/22/2026
+  course: GSP2567E
+  title: SWAT Training - Rilea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/21/2026
+  course: GSP4071E
+  title: SWAT Training - Rilea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/11/2026
   course: GSP2568D
   title: SWAT Sniper Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/11/2026
+  course: GSP0170E
+  title: Sniper Training
   status: Passed
   score: '0.0'
   hours: '10.00'
@@ -81,6 +129,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 9/10/2026
+  course: GSP4322E
+  title: SWAT Training - G3 Orientation
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/9/2026
+  course: GSP2281E
+  title: SWAT Training - Laser Designator
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/3/2026
   course: PDS2099D
   title: Glock Armorer Course

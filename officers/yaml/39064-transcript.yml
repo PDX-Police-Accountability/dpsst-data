@@ -75,8 +75,8 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 10/22/2026
-  course: XDELETE5
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: TDP1202E
+  title: Pro Phoenix RMS/CAD end user training
   status: Passed
   score: '0.0'
   hours: '8.00'

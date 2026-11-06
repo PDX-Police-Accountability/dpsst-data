@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/15/2026 | SAG0820D | ICAC 201 | Passed | 0.0 | 8.00 |
 | 9/15/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 8/20/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

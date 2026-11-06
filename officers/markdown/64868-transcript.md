@@ -28,6 +28,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2026 | PDP0066E | 2025 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 10/2/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/24/2026 | PDP0741D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/10/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 9/5/2026 | PDP1989D | 2026 Patrol Rifle New Operator Courses | Passed | 0.0 | 54.00 |

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 10/15/2026 | PDP0352D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/24/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/10/2026 | PDP4169D | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |

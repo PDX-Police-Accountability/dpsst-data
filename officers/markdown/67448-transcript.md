@@ -31,8 +31,11 @@
 | 10/23/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/8/2026 | PDP3792D | FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 10/7/2026 | PDP2957D | FTEP Post DPSST Control Tactics | Passed | 0.0 | 4.00 |
+| 10/7/2026 | PDP0466E | 2026-2 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 10/6/2026 | PDP3925D | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |
 | 10/5/2026 | PDP0896D | FTEP HazmatWMD Awareness Gas Mask | Passed | 0.0 | 2.00 |
+| 10/5/2026 | PDP1702E | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 10/4/2026 | PDP2968E | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
 | 10/1/2026 | PDP2362D | FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 9/30/2026 | PDP0239D | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 9/30/2026 | PDP1867D | Mobile Identification Device MIDD | Passed | 0.0 | 2.00 |

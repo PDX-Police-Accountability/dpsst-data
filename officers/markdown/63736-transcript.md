@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/9/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 9/5/2026 | PDP1989D | 2026 Patrol Rifle New Operator Courses | Passed | 0.0 | 54.00 |
 | 8/12/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

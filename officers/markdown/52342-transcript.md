@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2026 | PDP1640E | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 9/15/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/15/2026 | PDP3204D | 2026 Investigators IS - Digital Data Analysis | Passed | 0.0 | 1.00 |
 | 9/15/2026 | PDP3632D | 2026 Investigators IS - Device Warrant Searches | Passed | 0.0 | 1.75 |

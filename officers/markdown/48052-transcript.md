@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/23/2026 | MNS1304D | Oregon Police Canine Association Conference | Passed | 0.0 | 24.00 |
 | 9/14/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 8/10/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

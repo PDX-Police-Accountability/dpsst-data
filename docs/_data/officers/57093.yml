@@ -48,12 +48,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/25/2026
+  course: PDP1977E
+  title: 2026 FTO In-Service - Presentation Slides
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/25/2026
+  course: PDP3533E
+  title: 2026 FTO In-Service -PVO for FTO Video
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/25/2026
+  course: PDP4257E
+  title: 2026 FTO In-Service -  SEG Changes
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/20/2026
   course: MISCMAIN
   title: 2026 LE Annual Maintenance Met
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/20/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/1/2026
   course: PDP0825D
   title: Cybersecurity Awareness for City Employees

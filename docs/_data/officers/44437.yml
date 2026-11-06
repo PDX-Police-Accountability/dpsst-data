@@ -50,6 +50,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/16/2026
+  course: PDP0176E
+  title: 2026 Investigators IS - Exemption Review Legal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/30/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'

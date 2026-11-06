@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 10/10/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 10/9/2026
   course: PDP4314D
   title: 2026 Rapid Response team (RRT) Monthly Training

@@ -62,6 +62,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/27/2026
+  course: PDP1640E
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/27/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/15/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'

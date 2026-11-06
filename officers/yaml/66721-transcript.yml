@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/26/2026
+  course: PDP0066E
+  title: 2025 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/24/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/13/2026
   course: PDP3701D
   title: FTEP Policy and Procedures

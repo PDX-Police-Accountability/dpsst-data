@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/5/2026
+  course: BVP3085E
+  title: Harassment Prevention for Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/22/2026
   course: BVP0702C
   title: North Americam Motor Ofcrs Assoc Conference

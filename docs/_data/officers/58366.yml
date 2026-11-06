@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/23/2026
+  course: OSH3126E
+  title: MCS Carlson Sex Abuse Case Study
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/17/2026
   course: RSS2573D
   title: 2026 OHIA Major Crimes Conference

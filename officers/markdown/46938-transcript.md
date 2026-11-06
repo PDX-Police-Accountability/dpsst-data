@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2026 | PDP1640E | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
+| 10/19/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/15/2026 | SAG0820D | ICAC 201 | Passed | 0.0 | 8.00 |
 | 9/14/2026 | SAG1426D | ICAC 101 | Passed | 0.0 | 8.00 |
 | 9/2/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

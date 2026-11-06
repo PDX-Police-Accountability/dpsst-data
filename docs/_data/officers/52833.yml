@@ -38,12 +38,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/21/2026
   course: MISCMAIN
   title: 2026 LE Annual Maintenance Met
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/3/2026
+  course: PDP3997E
+  title: 2023 Video Evid Basics for the Police UoF Invest
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/3/2026
+  course: PDP2090E
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/3/2026
+  course: PDP3048E
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/3/2026
+  course: PDP1608E
+  title: After Action Reports PowerPoint (2020)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2026
+  course: PDP4555E
+  title: HR Rule 2.02, Prohibition Against Workplace Harass
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/16/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'

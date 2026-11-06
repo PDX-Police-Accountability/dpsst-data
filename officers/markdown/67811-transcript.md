@@ -29,3 +29,5 @@
 | 4/8/2028 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/30/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/27/2026 | PDP1740E | FTEP Policy and Procedures | Passed | 0.0 | 6.00 |
+| 10/14/2026 | PDP3974E | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |
+| 10/14/2026 | PDP2156E | Amended DOJ Settlement Agreement (04/2022) | Passed | 0.0 | 1.00 |

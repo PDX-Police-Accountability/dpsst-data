@@ -61,6 +61,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 10/19/2026
+  course: PDP1640E
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2026
+  course: PDP3974E
+  title: 2025 CAO Summaries of New Police Legislation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2026
+  course: PDP2156E
+  title: Amended DOJ Settlement Agreement (04/2022)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/7/2026
   course: PDS0931D
   title: ConSim

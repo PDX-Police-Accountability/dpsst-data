@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/19/2026
   course: PDP3233D
   title: 2026 Command In-Service
@@ -113,6 +119,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 10/1/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/25/2026
   course: OAC1070D
   title: 'Beyond Report Writing: AI for LE'

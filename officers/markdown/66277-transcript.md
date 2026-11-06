@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 10/7/2026 | HBP0105D | PoliceOne Foundation in Ethics for LE | Passed | 0.0 | 1.00 |
 | 9/17/2026 | HBP3043E | AA 2026-3, Barricaded Suspect | Passed | 0.0 | 4.00 |
 | 9/16/2026 | HBP0100E | AA 2026-3, Active Shooter Response | Passed | 0.0 | 5.50 |

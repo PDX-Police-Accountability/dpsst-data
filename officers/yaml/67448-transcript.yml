@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/7/2026
+  course: PDP0466E
+  title: 2026-2 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/6/2026
   course: PDP3925D
   title: FTEP Post Basic CEW
@@ -54,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/5/2026
+  course: PDP1702E
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2026
+  course: PDP2968E
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/1/2026
   course: PDP2362D
   title: FTEP Introduction to Property and Evidence

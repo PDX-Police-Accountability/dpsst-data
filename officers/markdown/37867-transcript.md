@@ -35,6 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2026 | PDP4257E | 2026 FTO In-Service -  SEG Changes | Passed | 0.0 | 0.25 |
+| 10/21/2026 | PDP2986E | 2026 FTO In-Service -  Wellness 2.0 | Passed | 0.0 | 0.25 |
+| 10/21/2026 | PDP3841E | 2026 FTO In-Service - DA Report Writing for FTOs | Passed | 0.0 | 1.50 |
+| 10/21/2026 | PDP4597E | 2026 FTO In-Service - Make up Course | Passed | 0.0 | 3.75 |
+| 10/21/2026 | PDP1977E | 2026 FTO In-Service - Presentation Slides | Passed | 0.0 | 0.75 |
+| 10/21/2026 | PDP3533E | 2026 FTO In-Service -PVO for FTO Video | Passed | 0.0 | 0.75 |
+| 10/21/2026 | PDP2831E | 2026 FTO In-Service -Tracwire Rolling Log Review | Passed | 0.0 | 0.25 |
 | 10/15/2026 | PDP0352D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/13/2026 | PDP2010D | OTOA Large Caliber Rifle Operator | Instructed | 0.0 | 9.00 |
 | 9/28/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |

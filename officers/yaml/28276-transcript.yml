@@ -147,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/30/2026
+  course: SVP4431E
+  title: Service  Sacrifice Police Documentry
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/11/2026
   course: RMP2232D
   title: 'Case Analysis: Silverton HS SWATTING Call'

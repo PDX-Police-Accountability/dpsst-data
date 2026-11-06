@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: 8/15/2025
 training_records:
+- date: 10/2/2026
+  course: PDP0066E
+  title: 2025 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/2/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/24/2026
   course: PDP0741D
   title: 2026 SERT Training - SCENARIO

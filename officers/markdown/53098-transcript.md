@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/23/2026 | GSP1357E | SFST Refresher with Wet Lab | Instructed | 0.0 | 10.00 |
 | 10/23/2026 | GSP0693E | SFST Refresher with Wet Lab | Instructed | 0.0 | 10.00 |
+| 10/13/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/1/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
 | 9/1/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 9/1/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

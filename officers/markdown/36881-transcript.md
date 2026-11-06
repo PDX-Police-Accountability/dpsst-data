@@ -38,7 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/4/2027 | 27-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
-| 10/20/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 10/20/2026 | SAG2819E | Firearms - Night Range | Passed | 0.0 | 4.00 |
 | 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 7/16/2026 | SAG1874D | Firearms | Passed | 0.0 | 1.00 |
 | 7/15/2026 | SAG2806D | Oregon Assest Forfeiture | Passed | 0.0 | 1.00 |

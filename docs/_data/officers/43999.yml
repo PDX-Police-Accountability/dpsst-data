@@ -99,6 +99,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2026
+  course: PDP1640E
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/22/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'

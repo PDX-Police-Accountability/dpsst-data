@@ -29,9 +29,20 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/2/2026 | PDP3691E | FTEP HAZMAT/WMD APR Gas Mask | Passed | 0.0 | 4.00 |
 | 10/29/2026 | PDP1240E | Introduction to Property and Evidence | Passed | 0.0 | 2.00 |
 | 10/28/2026 | PDP0185E | FTEP PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 10/27/2026 | PDP0414E | FTEP Geography | Passed | 0.0 | 4.00 |
+| 10/26/2026 | PDP0039E | 2025 All Sworn IS -PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
+| 10/26/2026 | PDP1058E | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
+| 10/26/2026 | PDP1545E | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
+| 10/26/2026 | PDP0332E | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 10/26/2026 | PDP1994E | 2019-5 TT Enforcement of PO - Full Faith | Passed | 0.0 | 0.25 |
+| 10/26/2026 | PDP1418E | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 10/26/2026 | PDP1060E | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 10/26/2026 | PDP0466E | 2026-2 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
+| 10/26/2026 | PDP2758E | DIR 0640.37, Communication w/ Persons Who Have | Passed | 0.0 | 0.25 |
+| 10/26/2026 | PDP4018E | [PVO-101] Patrol Vehicle Operations Policy v2 | Passed | 0.0 | 0.50 |
 | 9/10/2026 | REG0582D | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/6/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 7/3/2026 | PDP2555D | 2026 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |

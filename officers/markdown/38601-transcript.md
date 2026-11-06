@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2026 | GSP1289E | Handgun In-service | Passed | 0.0 | 10.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/7/2026 | GSP4304D | Adult and Child CPR First Aid | Passed | 0.0 | 4.00 |
 | 7/28/2026 | GSP2406D | Karly's Law Training | Passed | 0.0 | 0.50 |

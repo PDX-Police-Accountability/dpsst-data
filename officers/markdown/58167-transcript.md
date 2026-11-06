@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP0428D | 2025 Supervisor In-Service Chiefs Hour Video | Passed | 0.0 | 1.00 |
 | 9/22/2026 | PDP1910D | 2025 Supervisor In-Service Leadership in Action | Passed | 0.0 | 1.00 |
 | 9/22/2026 | PDP0024D | 2025 Supervisors In-Service Managing Up Video | Passed | 0.0 | 1.00 |

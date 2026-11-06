@@ -41,6 +41,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/20/2026 | PDP0483E | AA [CIT-113-H] Responding to a MH Facility v2 | Passed | 0.0 | 0.50 |
+| 10/13/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 10/13/2026 | PDP4151E | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
+| 10/13/2026 | PDP0444E | AA [CIT-112-A] Behavioral Health Unit Overview v2 | Passed | 0.0 | 0.50 |
 | 9/22/2026 | PDP2711D | AA [PJU-101-H] Introduction to PJPl v2 | Passed | 0.0 | 0.50 |
 | 9/16/2026 | PDP4308D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
 | 9/16/2026 | PDP2357D | AA [PJU-101-H] Introduction to PJPL | Passed | 0.0 | 0.50 |

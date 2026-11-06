@@ -47,6 +47,7 @@
 | 7/29/2026 | HBS0926D | TNT-Cautious Clears/Explosive Breaching | Passed | 0.0 | 6.00 |
 | 7/22/2026 | HBS0670D | TNT Range Day | Passed | 0.0 | 6.00 |
 | 7/20/2026 | BVP2373D | PIT EVOC IST 072026PM | Passed | 0.0 | 3.00 |
+| 7/14/2026 | BVP3085E | Harassment Prevention for Employees | Passed | 0.0 | 0.50 |
 | 7/8/2026 | HBS3813D | Joint Team Scenario Training | Passed | 0.0 | 9.00 |
 | 6/24/2026 | HBS2007D | TNT-Hostage Rescue-Shotgun Breaching | Passed | 0.0 | 9.00 |
 | 6/23/2026 | BVP2487D | IST Taser10 Certification 062326 | Passed | 0.0 | 9.00 |

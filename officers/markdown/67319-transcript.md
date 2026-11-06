@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/25/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP3112D | Body Worn Camera | Passed | 0.0 | 3.00 |
 | 9/22/2026 | PDP2915D | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP4150D | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |

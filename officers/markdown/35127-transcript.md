@@ -40,7 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/20/2026 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 10/20/2026 | SAG2819E | Firearms - Night Range | Passed | 0.0 | 4.00 |
 | 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 6/22/2026 | SAG4549D | Firearms | Passed | 0.0 | 2.00 |
 | 4/9/2026 | SAG4569C | Firearms | Passed | 0.0 | 2.00 |

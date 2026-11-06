@@ -34,6 +34,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 10/1/2026 | PDP3262E | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/1/2026 | PDP4390E | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 10/1/2026 | PDP0635E | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 10/1/2026 | PDP0203E | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 10/1/2026 | PDP2697E | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 9/29/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 9/16/2026 | PDP3312D | 2026 Crisis Negotiation Team (CNT) Annual Training | Passed | 0.0 | 9.00 |
 | 7/22/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

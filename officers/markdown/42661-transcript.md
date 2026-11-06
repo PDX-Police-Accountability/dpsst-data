@@ -43,8 +43,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 10/19/2026 | PDP3233D | 2026 Command In-Service | Passed | 0.0 | 5.00 |
 | 10/6/2026 | PDP2518D | 2026 Executive  Command Lvl Community Engagement | Passed | 0.0 | 7.00 |
+| 10/1/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/25/2026 | OAC1070D | Beyond Report Writing: AI for LE | Passed | 0.0 | 2.00 |
 | 9/24/2026 | OAC3499D | From Success to Succession: Part 2 | Passed | 0.0 | 4.00 |
 | 9/24/2026 | OAC0955D | Handing the Baton of Leadership | Passed | 0.0 | 1.00 |

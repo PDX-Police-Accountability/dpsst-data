@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/27/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP3112D | Body Worn Camera | Passed | 0.0 | 3.00 |
 | 9/21/2026 | PDP3550D | FTEP PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 9/18/2026 | PDP1948D | 2024-3 CAO Legal Updates for BWC | Passed | 0.0 | 0.25 |

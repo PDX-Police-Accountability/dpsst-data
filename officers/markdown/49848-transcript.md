@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/15/2026 | PDP0352D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 10/13/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 10/8/2026 | PDP2075D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/24/2026 | PDP0741D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/10/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |

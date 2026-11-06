@@ -69,6 +69,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/21/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2026
+  course: PDP2060E
+  title: LE Sniper/Counter Sniper Thunder Ranch
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 10/1/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/19/2026
   course: PDP3463D
   title: Tactical Medical Pistol Course

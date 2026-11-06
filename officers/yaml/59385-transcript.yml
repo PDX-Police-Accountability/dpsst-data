@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/20/2026
+  agency: Portland State University DPS
+  action: Discharged
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 2/1/2025
   agency: Portland State University DPS
   action: Promotion
@@ -46,14 +52,14 @@ certification_records:
   level: Intermediate
   status: Granted
   certificate_date: 7/6/2022
-  expiration_date: ''
+  expiration_date: 12/20/2026
   probation_date: ''
 - status_date: 11/30/2021
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 11/30/2021
-  expiration_date: ''
+  expiration_date: 12/20/2026
   probation_date: ''
 training_records:
 - date: 2/26/2026

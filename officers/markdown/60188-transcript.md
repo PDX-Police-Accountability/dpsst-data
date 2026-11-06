@@ -35,6 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/8/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 10/3/2026 | PDP3997E | 2023 Video Evid Basics for the Police UoF Invest | Passed | 0.0 | 1.50 |
+| 10/3/2026 | PDP3048E | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.50 |
+| 10/3/2026 | PDP4555E | HR Rule 2.02, Prohibition Against Workplace Harass | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP0783D | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP4491D | After Action Reports PowerPoint (2020) | Passed | 0.0 | 0.50 |
 | 8/18/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |

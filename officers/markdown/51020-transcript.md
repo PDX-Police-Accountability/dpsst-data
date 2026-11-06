@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/15/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/11/2026 | PDP4169D | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 6/25/2026 | PDP0426D | Intermediate Comparison of Friction Ridge | Passed | 0.0 | 10.00 |
 | 6/20/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2026 | PDP1640E | 2026 Axon Taser 7 Operator Certification Course | Passed | 0.0 | 1.00 |
 | 9/22/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 7/21/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/21/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

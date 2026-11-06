@@ -34,7 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/3/2026 | PDP3262E | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
+| 10/3/2026 | PDP4390E | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
+| 10/3/2026 | PDP0635E | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
+| 10/3/2026 | PDP0203E | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
+| 10/3/2026 | PDP2697E | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 9/1/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 7/17/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 6/11/2026 | PDP1622D | 2025 CAO Summaries of New Police Legislation | Passed | 0.0 | 0.25 |

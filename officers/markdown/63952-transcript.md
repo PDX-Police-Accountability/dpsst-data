@@ -31,7 +31,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 10/12/2026 | REG3884D | Ground Control | Passed | 0.0 | 1.00 |
+| 10/12/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 8/13/2026 | REG3313D | Striking | Passed | 0.0 | 1.00 |
 | 8/13/2026 | PDP3746D | 2025 AR In-Service Wrap Up | Passed | 0.0 | 0.25 |
 | 8/6/2026 | REG3059D | Ground Control | Passed | 0.0 | 1.00 |

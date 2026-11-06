@@ -29,6 +29,22 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/26/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 10/21/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
+| 10/11/2026 | PDP2968E | 2025 Extreme Risk Protection Orders (ERPOs) | Passed | 0.0 | 0.25 |
+| 10/11/2026 | PDP1702E | 2025 Disability Series: Intro to Disability | Passed | 0.0 | 0.50 |
+| 10/11/2026 | PDP3281E | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 10/8/2026 | PDP2305E | 2025 Disability Series: I/DD | Passed | 0.0 | 0.50 |
+| 10/7/2026 | PDP4431E | 2025 Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.25 |
+| 10/7/2026 | PDP1058E | 2025 Bridging the Language Gap (Curricula) | Passed | 0.0 | 0.50 |
+| 10/7/2026 | PDP1060E | 2025-1 Bridging the Language Gap | Passed | 0.0 | 0.25 |
+| 10/7/2026 | PDP2758E | DIR 0640.37, Communication w/ Persons Who Have | Passed | 0.0 | 0.25 |
+| 10/5/2026 | PDP1776E | 2024 Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/5/2026 | PDP0529E | 2024 Deflection Center Video for Law Enforcement | Passed | 0.0 | 0.25 |
+| 10/5/2026 | PDP1718E | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
+| 10/5/2026 | PDP2479E | 2021 Online IS Procedural Justice | Passed | 0.0 | 0.75 |
+| 10/5/2026 | PDP2859E | 2025-10, Legal Updates: Miranda  Right to | Passed | 0.0 | 0.25 |
+| 10/5/2026 | PDP3101E | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 9/29/2026 | PDP4291D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 9/29/2026 | PDP1479D | 2025-07 CAO Legal Updates for 08-09/2024 | Passed | 0.0 | 0.50 |
 | 9/29/2026 | PDP1584D | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/20/2026 | Portland State University DPS | Discharged | Sergeant |  |  |
 | 2/1/2025 | Portland State University DPS | Promotion | Sergeant |  |  |
 | 9/14/2020 | Portland State University DPS | Hired | Police Off |  |  |
 | 3/31/2020 | Portland Police Bureau | Resigned | Police Off |  |  |
@@ -20,8 +21,8 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 8/17/2026 | Police Officer | Supervisory | App InProc |  |  |  |
-| 7/6/2022 | Police Officer | Intermediate | Granted | 7/6/2022 |  |  |
-| 11/30/2021 | Police Officer | Basic | Granted | 11/30/2021 |  |  |
+| 7/6/2022 | Police Officer | Intermediate | Granted | 7/6/2022 | 12/20/2026 |  |
+| 11/30/2021 | Police Officer | Basic | Granted | 11/30/2021 | 12/20/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

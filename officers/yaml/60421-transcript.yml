@@ -69,14 +69,14 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 10/20/2026
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: SAG2819E
+  title: Firearms - Night Range
   status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 10/20/2026
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: SAG2819E
+  title: Firearms - Night Range
   status: Instructed
   score: '0.0'
   hours: '4.00'

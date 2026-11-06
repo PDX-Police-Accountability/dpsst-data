@@ -45,6 +45,7 @@
 | 10/21/2026 | UPR2563E | ICAT Refresher | Passed | 0.0 | 4.00 |
 | 10/21/2026 | UPR3193E | Mental Illness Recognition for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/21/2026 | UPR2667E | Reality Based Training Scenarios | Passed | 0.0 | 4.00 |
+| 10/21/2026 | UPR3682E | Mental Illness Recognition for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/20/2026 | UPR4255E | Tactical Emergency Casualty Care | Passed | 0.0 | 2.00 |
 | 10/20/2026 | UPR4142E | Taser 10 Recertification | Passed | 0.0 | 4.00 |
 | 10/20/2026 | UPR2214E | Adult/Child CPR-First Aid-AED | Passed | 0.0 | 4.00 |

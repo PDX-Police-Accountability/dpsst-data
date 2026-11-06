@@ -30,6 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/30/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/19/2026
+  course: PDP0483E
+  title: AA [CIT-113-H] Responding to a MH Facility v2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/12/2026
+  course: PDP4151E
+  title: '2025-1 Revisiting DIR 0850.10: Custody, Civil'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/12/2026
+  course: PDP0444E
+  title: AA [CIT-112-A] Behavioral Health Unit Overview v2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/17/2026
   course: PDP4308D
   title: AA [ETH-101-H] Introduction to Ethics in Policing

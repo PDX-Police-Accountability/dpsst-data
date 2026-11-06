@@ -39,9 +39,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2026 | GSP3053E | Sniper Training | Passed | 0.0 | 10.00 |
+| 10/15/2026 | GSP1379E | SWAT Training - Warrant Contingencies | Passed | 0.0 | 10.00 |
+| 10/14/2026 | GSP2713E | SWAT Training - Concealed Carry | Passed | 0.0 | 10.00 |
 | 10/13/2026 | PDP2010D | OTOA Large Caliber Rifle Operator | Passed | 0.0 | 9.00 |
+| 9/24/2026 | GSP3926E | SWAT Training - Rilea | Passed | 0.0 | 10.00 |
+| 9/23/2026 | GSP1394E | SWAT Training - Rilea | Passed | 0.0 | 10.00 |
+| 9/22/2026 | GSP2567E | SWAT Training - Rilea | Passed | 0.0 | 10.00 |
+| 9/21/2026 | GSP4071E | SWAT Training - Rilea | Passed | 0.0 | 10.00 |
 | 9/11/2026 | GSP2568D | SWAT Sniper Range | Passed | 0.0 | 10.00 |
+| 9/11/2026 | GSP0170E | Sniper Training | Passed | 0.0 | 10.00 |
 | 9/10/2026 | GSP1428D | SWAT - G3 Orientation | Passed | 0.0 | 6.00 |
+| 9/10/2026 | GSP4322E | SWAT Training - G3 Orientation | Passed | 0.0 | 5.00 |
+| 9/9/2026 | GSP2281E | SWAT Training - Laser Designator | Passed | 0.0 | 10.00 |
 | 9/3/2026 | PDS2099D | Glock Armorer Course | Passed | 0.0 | 8.00 |
 | 8/26/2026 | PDS1141D | Legal Update | Passed | 0.0 | 4.00 |
 | 8/14/2026 | GSP1952D | SWAT Sniper Range | Passed | 0.0 | 10.00 |

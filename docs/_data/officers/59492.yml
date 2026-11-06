@@ -56,6 +56,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/14/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/8/2026
   course: PDP2597D
   title: 2026 Field Training Officer (FTO) In-Service

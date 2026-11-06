@@ -32,6 +32,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2026 | PDP2986E | 2026 FTO In-Service -  Wellness 2.0 | Passed | 0.0 | 0.25 |
+| 10/22/2026 | PDP4597E | 2026 FTO In-Service - Make up Course | Passed | 0.0 | 3.75 |
+| 10/22/2026 | PDP2831E | 2026 FTO In-Service -Tracwire Rolling Log Review | Passed | 0.0 | 0.25 |
+| 10/21/2026 | PDP4257E | 2026 FTO In-Service -  SEG Changes | Passed | 0.0 | 0.25 |
+| 10/21/2026 | PDP3841E | 2026 FTO In-Service - DA Report Writing for FTOs | Passed | 0.0 | 1.50 |
+| 10/21/2026 | PDP1977E | 2026 FTO In-Service - Presentation Slides | Passed | 0.0 | 0.75 |
+| 10/21/2026 | PDP3533E | 2026 FTO In-Service -PVO for FTO Video | Passed | 0.0 | 0.75 |
 | 7/29/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
 | 7/29/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 7/29/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

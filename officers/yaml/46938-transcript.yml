@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2026
+  course: PDP1640E
+  title: 2026 Axon Taser 7 Operator Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/15/2026
   course: SAG0820D
   title: ICAC 201

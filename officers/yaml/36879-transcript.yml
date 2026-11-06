@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/21/2026
+  course: UPR3682E
+  title: Mental Illness Recognition for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/20/2026
   course: UPR4255E
   title: Tactical Emergency Casualty Care

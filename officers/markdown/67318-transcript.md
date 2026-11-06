@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/7/2026 | PDP1080E | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 10/7/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/24/2026 | PDP4291D | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 9/24/2026 | PDP2249D | 2023-11 CAO Legal Updates for 11/2023 | Passed | 0.0 | 0.25 |
 | 9/24/2026 | PDP4150D | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |

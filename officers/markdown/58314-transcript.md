@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/28/2026 | PDP1908D | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 8/8/2026 | PDP0450D | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
 | 8/8/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

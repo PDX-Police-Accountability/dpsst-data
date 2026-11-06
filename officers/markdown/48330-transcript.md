@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/30/2026 | 9/30/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 7/20/2007 |  |
@@ -38,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 9/30/2026 | GSP4234E | First Aid / CPR Training | Passed | 0.0 | 4.00 |
 | 9/15/2026 | GSP3954D | UAS Monthly Training | Passed | 0.0 | 10.00 |
 | 9/11/2026 | GSP2810D | Handgun Training | Passed | 0.0 | 10.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |

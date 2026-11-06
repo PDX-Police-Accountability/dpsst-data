@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2026
+  course: PDP2567E
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/17/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'
@@ -811,6 +823,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 11/1/2026
+  expiration_date: 11/1/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

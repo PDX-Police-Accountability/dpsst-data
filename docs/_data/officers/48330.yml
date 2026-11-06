@@ -69,6 +69,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/30/2026
+  course: GSP4234E
+  title: First Aid / CPR Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/15/2026
   course: GSP3954D
   title: UAS Monthly Training
@@ -2368,6 +2374,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 9/30/2026
+  expiration_date: 9/30/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

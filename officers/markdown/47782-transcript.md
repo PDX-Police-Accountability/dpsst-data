@@ -49,6 +49,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/19/2026 | PDP3233D | 2026 Command In-Service | Passed | 0.0 | 5.00 |
+| 10/13/2026 | PDP3815E | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
+| 10/13/2026 | PDP0570E | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 10/6/2026 | PDP2518D | 2026 Executive  Command Lvl Community Engagement | Passed | 0.0 | 7.00 |
 | 9/14/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 7/22/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |

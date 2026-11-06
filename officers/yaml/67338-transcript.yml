@@ -30,6 +30,102 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/26/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/21/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/11/2026
+  course: PDP2968E
+  title: 2025 Extreme Risk Protection Orders (ERPOs)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/11/2026
+  course: PDP1702E
+  title: '2025 Disability Series: Intro to Disability'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/11/2026
+  course: PDP3281E
+  title: 2025-10 National Incident Based Reporting System
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2026
+  course: PDP2305E
+  title: '2025 Disability Series: I/DD'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/7/2026
+  course: PDP4431E
+  title: 2025 Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/7/2026
+  course: PDP1058E
+  title: 2025 Bridging the Language Gap (Curricula)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/7/2026
+  course: PDP1060E
+  title: 2025-1 Bridging the Language Gap
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/7/2026
+  course: PDP2758E
+  title: DIR 0640.37, Communication w/ Persons Who Have
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2026
+  course: PDP1776E
+  title: 2024 Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2026
+  course: PDP0529E
+  title: 2024 Deflection Center Video for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2026
+  course: PDP1718E
+  title: 2024 DIR 0640.80, Bias Event Response
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2026
+  course: PDP2479E
+  title: 2021 Online IS Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/5/2026
+  course: PDP2859E
+  title: '2025-10, Legal Updates: Miranda  Right to'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2026
+  course: PDP3101E
+  title: Annual OSHA Heat Illness Prevention (CityLearner)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/29/2026
   course: PDP4291D
   title: 2021 Online IS Language Access - Translation

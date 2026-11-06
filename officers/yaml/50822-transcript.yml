@@ -44,6 +44,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2026
+  course: PDP3997E
+  title: 2023 Video Evid Basics for the Police UoF Invest
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/29/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2026
+  course: PDP0355E
+  title: '2026 Disability Series: Brain Injury'
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 8/20/2026
   course: PDP2130D
   title: 2026 Lead Exposure Screening

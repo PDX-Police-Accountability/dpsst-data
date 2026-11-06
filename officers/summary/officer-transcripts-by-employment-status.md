@@ -1189,7 +1189,6 @@
 | Simmons, Adam J. | 67593 | Portland Police Bureau | Active | Police Officer | Hired | 2026-06-18 | [md](../markdown/67593-transcript.md) - [yaml](../yaml/67593-transcript.yml) |
 | Albertson, Conlan R. | 67594 | Portland Police Bureau | Active | Police Officer | Hired | 2026-06-18 | [md](../markdown/67594-transcript.md) - [yaml](../yaml/67594-transcript.yml) |
 | Parker, Tiffany | 67680 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67680-transcript.md) - [yaml](../yaml/67680-transcript.yml) |
-| Brake, Jillian K. | 67681 | Portland Police Bureau | Active | Police Officer | Hired | 2026-07-16 | [md](../markdown/67681-transcript.md) - [yaml](../yaml/67681-transcript.yml) |
 | McShane, Joseph P. | 67694 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67694-transcript.md) - [yaml](../yaml/67694-transcript.yml) |
 | Conners, Arina P. | 67702 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67702-transcript.md) - [yaml](../yaml/67702-transcript.yml) |
 | Newby, Caeden S. | 67709 | Portland Police Bureau | Active | Police Officer | Hired | 2026-08-13 | [md](../markdown/67709-transcript.md) - [yaml](../yaml/67709-transcript.yml) |
@@ -1912,4 +1911,5 @@
 | Chang, Tiffany V. | 66719 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-12-04 | [md](../markdown/66719-transcript.md) - [yaml](../yaml/66719-transcript.yml) |
 | Arellano-Hurtado, Christopher S. | 66824 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-12-05 | [md](../markdown/66824-transcript.md) - [yaml](../yaml/66824-transcript.yml) |
 | Power, Maxwell E. | 66984 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2026-09-01 | [md](../markdown/66984-transcript.md) - [yaml](../yaml/66984-transcript.yml) |
+| Brake, Jillian K. | 67681 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2026-11-02 | [md](../markdown/67681-transcript.md) - [yaml](../yaml/67681-transcript.yml) |
 | Elstad, Aaron E. | 67701 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2026-09-08 | [md](../markdown/67701-transcript.md) - [yaml](../yaml/67701-transcript.yml) |

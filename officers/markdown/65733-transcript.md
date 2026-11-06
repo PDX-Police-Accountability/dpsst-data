@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 9/27/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/15/2026 | MFP2539D | Legal Updates - First Amendment | Passed | 0.0 | 2.00 |
 | 9/15/2026 | MFP1385D | Patrol MRT | Passed | 0.0 | 4.00 |

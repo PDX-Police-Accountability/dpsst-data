@@ -39,6 +39,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/25/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
+| 10/20/2026 | PDP2986E | 2026 FTO In-Service -  Wellness 2.0 | Passed | 0.0 | 0.25 |
+| 10/20/2026 | PDP3841E | 2026 FTO In-Service - DA Report Writing for FTOs | Passed | 0.0 | 1.50 |
+| 10/20/2026 | PDP4597E | 2026 FTO In-Service - Make up Course | Passed | 0.0 | 3.75 |
+| 10/20/2026 | PDP1977E | 2026 FTO In-Service - Presentation Slides | Passed | 0.0 | 0.75 |
+| 10/20/2026 | PDP3533E | 2026 FTO In-Service -PVO for FTO Video | Passed | 0.0 | 0.75 |
+| 10/20/2026 | PDP2831E | 2026 FTO In-Service -Tracwire Rolling Log Review | Passed | 0.0 | 0.25 |
+| 10/20/2026 | PDP4257E | 2026 FTO In-Service -  SEG Changes | Passed | 0.0 | 0.25 |
+| 10/4/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 8/19/2026 | PDP1908D | ALPR Training (Motorola) | Passed | 0.0 | 1.50 |
 | 7/28/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 7/26/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |

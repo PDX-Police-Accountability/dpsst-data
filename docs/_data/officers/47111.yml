@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/13/2026
+  course: BVP3085E
+  title: Harassment Prevention for Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/7/2026
   course: BVP0670C
   title: May 2026 Pistol Range IST 050726PM

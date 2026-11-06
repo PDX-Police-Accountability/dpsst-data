@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2026
+  course: PDP1063E
+  title: 2026 Investigators IS - Device Warrant Searches
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 9/17/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'

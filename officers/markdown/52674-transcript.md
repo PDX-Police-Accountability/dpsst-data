@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/20/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/24/2026 | PDP0741D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 9/24/2026 | PDP0741D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 9/22/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |

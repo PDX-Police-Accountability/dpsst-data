@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/2/2026
+  course: PDP3691E
+  title: FTEP HAZMAT/WMD APR Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/29/2026
   course: PDP1240E
   title: Introduction to Property and Evidence

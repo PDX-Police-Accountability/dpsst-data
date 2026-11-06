@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: 1/31/2027
 training_records:
+- date: 10/21/2026
+  course: PDP3734E
+  title: 2026-10 CAO Analysis of PPB Related Laws, 2025
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/15/2026
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)
