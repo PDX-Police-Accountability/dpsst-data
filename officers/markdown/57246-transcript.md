@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | HBN3631E | Officer Involved Shooting Training (9-11am; 1-3pm) | Passed | 0.0 | 2.00 |
 | 9/15/2026 | HBN1184D | Team Defensive Tactics and Miranda Warning | Passed | 0.0 | 1.00 |
 | 8/6/2026 | HBN0591D | Trauma Informed Response Training (TIRT) | Passed | 0.0 | 3.00 |
 | 6/12/2026 | HBN1297C | Officer Safety Home Visit  Search/Seizure | Passed | 0.0 | 7.00 |

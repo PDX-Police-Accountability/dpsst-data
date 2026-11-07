@@ -28,3 +28,4 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2027 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
+| 10/1/2026 | SMY4394E | Neurobiology of Trauma | Passed | 0.0 | 2.00 |

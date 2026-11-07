@@ -80,6 +80,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/25/2026
+  course: HBS4457E
+  title: 'InService Session #2 Firearms'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/25/2026
+  course: HBS3060E
+  title: 'InService Session #2 Jail CIP/PTSD'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/25/2026
+  course: HBS4434E
+  title: 'InService Session #2 Jail Use Of Force'
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 8/20/2026
   course: HBS2948D
   title: Virtual - PREA

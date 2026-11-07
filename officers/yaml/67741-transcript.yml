@@ -36,5 +36,11 @@ training_records:
   status: Pending
   score: '0.0'
   hours: '0.00'
+- date: 10/1/2026
+  course: SMY4394E
+  title: Neurobiology of Trauma
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records: []
 education_records: []

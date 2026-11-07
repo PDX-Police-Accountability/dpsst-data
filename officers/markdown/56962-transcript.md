@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | HBN3631E | Officer Involved Shooting Training (9-11am; 1-3pm) | Passed | 0.0 | 2.00 |
+| 10/20/2026 | HBN3227E | Case Management | Passed | 0.0 | 1.00 |
 | 9/10/2026 | REG3696D | Defensive Tactcis Instructo Workshop / Refresher | Passed | 0.0 | 24.00 |
 | 8/27/2026 | REG3515D | Handgun Fundelmentals | Passed | 0.0 | 16.00 |
 | 8/18/2026 | HBN0591D | Trauma Informed Response Training (TIRT) | Passed | 0.0 | 3.00 |

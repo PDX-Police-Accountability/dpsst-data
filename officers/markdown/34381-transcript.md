@@ -4,7 +4,7 @@
 | name | Winters, William H. |
 | dpsst_identifier | 34381 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/26/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 1/20/2011 | Portland Police Bureau | Promotion | Detective |  |  |
 | 11/1/2001 | Portland Police Bureau | Transfered | Police Off |  |  |
 | 10/31/2001 | Portland Public Schools Police | Resigned | Police Off |  |  |
@@ -21,9 +22,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/26/2010 | Police Officer | Advanced | Granted | 10/26/2010 |  |  |
-| 10/26/2010 | Police Officer | Intermediate | Granted | 10/26/2010 |  |  |
-| 10/12/2001 | Police Officer | Basic | Granted | 10/12/2001 |  |  |
+| 10/26/2010 | Police Officer | Advanced | Granted | 10/26/2010 | 1/26/2027 |  |
+| 10/26/2010 | Police Officer | Intermediate | Granted | 10/26/2010 | 1/26/2027 |  |
+| 10/12/2001 | Police Officer | Basic | Granted | 10/12/2001 | 1/26/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

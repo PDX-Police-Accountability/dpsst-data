@@ -40,6 +40,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/30/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/25/2026 | HBS4457E | InService Session #2 Firearms | Passed | 0.0 | 4.50 |
+| 10/25/2026 | HBS3060E | InService Session #2 Jail CIP/PTSD | Passed | 0.0 | 1.00 |
+| 10/25/2026 | HBS4434E | InService Session #2 Jail Use Of Force | Passed | 0.0 | 3.50 |
 | 8/20/2026 | HBS2948D | Virtual - PREA | Passed | 0.0 | 1.00 |
 | 8/20/2026 | HBS2862D | Virtual - ACAP | Passed | 0.0 | 2.00 |
 | 8/20/2026 | HBS0689D | Virtual - CIT - Crisis Response | Passed | 0.0 | 1.00 |

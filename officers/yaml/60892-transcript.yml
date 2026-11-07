@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/26/2026
+  agency: Forest Grove Police Department
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 9/24/2025
   agency: Forest Grove Police Department
   action: Hired
@@ -33,14 +39,14 @@ certification_records:
   level: Intermediate
   status: Granted
   certificate_date: 1/27/2026
-  expiration_date: ''
+  expiration_date: 1/26/2027
   probation_date: ''
 - status_date: 12/1/2025
   certificate: Police Officer
   level: Basic
   status: Reactivatd
   certificate_date: 7/21/2021
-  expiration_date: ''
+  expiration_date: 1/26/2027
   probation_date: ''
 training_records:
 - date: 8/5/2026

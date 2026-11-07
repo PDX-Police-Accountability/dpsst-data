@@ -36,7 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
-| 10/16/2026 | GSP3053E | Sniper Training |  | 0.0 | 10.00 |
+| 10/16/2026 | GSP3053E | Sniper Training | Passed | 0.0 | 10.00 |
 | 10/15/2026 | GSP1379E | SWAT Training - Warrant Contingencies | Passed | 0.0 | 10.00 |
 | 10/14/2026 | GSP2713E | SWAT Training - Concealed Carry | Passed | 0.0 | 10.00 |
 | 9/24/2026 | GSP3868D | Camp Rilea SWAT Training | Passed | 0.0 | 40.00 |
@@ -45,7 +45,7 @@
 | 9/22/2026 | GSP2567E | SWAT Training - Rilea | Passed | 0.0 | 10.00 |
 | 9/21/2026 | GSP4071E | SWAT Training - Rilea | Passed | 0.0 | 10.00 |
 | 9/11/2026 | GSP2568D | SWAT Sniper Range | Instructed | 0.0 | 10.00 |
-| 9/11/2026 | GSP0170E | Sniper Training |  | 0.0 | 10.00 |
+| 9/11/2026 | GSP0170E | Sniper Training | Passed | 0.0 | 10.00 |
 | 9/10/2026 | GSP2181D | First Aid / CPR Training | Passed | 0.0 | 4.00 |
 | 9/10/2026 | GSP1428D | SWAT - G3 Orientation | Passed | 0.0 | 6.00 |
 | 9/10/2026 | GSP4322E | SWAT Training - G3 Orientation | Passed | 0.0 | 5.00 |
@@ -53,7 +53,7 @@
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/20/2026 | GSP1340D | Post Academy Firearms Training | Instructed | 0.0 | 10.00 |
 | 8/17/2026 | GSP1541D | Rifle In-service | Instructed | 0.0 | 10.00 |
-| 8/14/2026 | GSP1952D | SWAT Sniper Range |  | 0.0 | 10.00 |
+| 8/14/2026 | GSP1952D | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 8/13/2026 | GSP4082D | SWAT -- River Rescue  Breakout | Passed | 0.0 | 10.00 |
 | 8/12/2026 | GSP2230D | SWAT -- Pool Rescue Exercises | Passed | 0.0 | 10.00 |
 | 8/10/2026 | GSP0826D | Rifle In-service | Instructed | 0.0 | 10.00 |

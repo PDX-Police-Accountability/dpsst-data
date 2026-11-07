@@ -59,7 +59,7 @@ training_records:
 - date: 10/16/2026
   course: GSP3053E
   title: Sniper Training
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '10.00'
 - date: 10/15/2026
@@ -113,7 +113,7 @@ training_records:
 - date: 9/11/2026
   course: GSP0170E
   title: Sniper Training
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '10.00'
 - date: 9/10/2026
@@ -161,7 +161,7 @@ training_records:
 - date: 8/14/2026
   course: GSP1952D
   title: SWAT Sniper Range
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '10.00'
 - date: 8/13/2026

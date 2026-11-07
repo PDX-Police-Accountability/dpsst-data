@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2026
+  course: SDP0581E
+  title: Handgun Range Day
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/19/2026
   course: REG1562D
   title: Ground Control

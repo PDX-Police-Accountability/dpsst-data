@@ -41,6 +41,7 @@
 | 10/17/2026 | PDP2060E | LE Sniper/Counter Sniper Thunder Ranch | Passed | 0.0 | 50.00 |
 | 10/1/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/19/2026 | PDP3463D | Tactical Medical Pistol Course | Instructed | 0.0 | 30.00 |
+| 9/19/2026 | PDP1683E | Thunder Ranch Tac Med-Pistol | Instructed | 0.0 | 30.00 |
 | 7/22/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
 | 7/22/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 7/22/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

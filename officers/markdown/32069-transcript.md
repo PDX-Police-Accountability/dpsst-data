@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2026 | SDP0581E | Handgun Range Day | Instructed | 0.0 | 4.00 |
 | 10/19/2026 | REG1562D | Ground Control | Passed | 0.0 | 1.00 |
 | 9/23/2026 | KCP0936D | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 16.00 |
 | 9/14/2026 | REG4184D | Ground Control | Passed | 0.0 | 1.00 |

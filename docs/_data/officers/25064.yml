@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2026
+  course: MKL0918E
+  title: OGEC-Overview of Oregon Ethics Law
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/6/2026
   course: MKL2069C
   title: OLCC Defensive Tactics

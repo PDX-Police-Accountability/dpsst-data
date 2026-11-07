@@ -148,7 +148,7 @@ training_records:
   hours: '8.00'
 - date: 3/16/2026
   course: PDP1409E
-  title: "(FCLP) Elder Fraud Prevention and Response Path"
+  title: Elder Fraud Prevention and Response Path
   status: Passed
   score: '0.0'
   hours: '8.00'

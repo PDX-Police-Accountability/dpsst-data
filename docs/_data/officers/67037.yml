@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/13/2026
+  course: PDP4272E
+  title: AA [CIT-111-A] Project Respond  Portland St
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/16/2026
   course: PDP3117D
   title: '2026 Disability Series: Brain Injury'

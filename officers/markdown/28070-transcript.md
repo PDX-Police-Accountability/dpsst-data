@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2026 | MNS2621E | Cardiovascular Anatomy Phys for LEO | Passed | 0.0 | 2.00 |
+| 10/9/2026 | MNS1427E | Suicide  Crisis Lifeline | Passed | 0.0 | 2.00 |
+| 10/7/2026 | MNS4134E | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 9/12/2026 | MNS3062D | Fall EVO 2026 | Passed | 0.0 | 4.00 |
 | 8/31/2026 | MNS2434E | Duty To Intercede - Use of Force | Passed | 0.0 | 1.00 |
 | 8/31/2026 | MNS0536E | Managing Fatigue in 24/7 Operations | Passed | 0.0 | 1.00 |

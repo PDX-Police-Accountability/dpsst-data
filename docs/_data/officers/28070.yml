@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2026
+  course: MNS2621E
+  title: Cardiovascular Anatomy Phys for LEO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/9/2026
+  course: MNS1427E
+  title: Suicide  Crisis Lifeline
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/7/2026
+  course: MNS4134E
+  title: Anti-Bias Training for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/12/2026
   course: MNS3062D
   title: Fall EVO 2026

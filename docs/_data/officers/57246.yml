@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/2/2026
+  course: HBN3631E
+  title: Officer Involved Shooting Training (9-11am; 1-3pm)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/15/2026
   course: HBN1184D
   title: Team Defensive Tactics and Miranda Warning

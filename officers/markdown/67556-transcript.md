@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/4/2026 | PDP3526E | FTEP Control Tactics Searches | Passed | 0.0 | 3.00 |
 | 11/2/2026 | PDP3691E | FTEP HAZMAT/WMD APR Gas Mask | Passed | 0.0 | 4.00 |
 | 10/31/2026 | PDP0332E | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 10/31/2026 | PDP0715E | School Emergency Actions | Passed | 0.0 | 0.25 |

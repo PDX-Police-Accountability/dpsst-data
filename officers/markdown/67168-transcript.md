@@ -32,6 +32,7 @@
 | 7/29/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/13/2026 | PDP4151E | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 10/13/2026 | PDP0444E | AA [CIT-112-A] Behavioral Health Unit Overview v2 | Passed | 0.0 | 0.50 |
+| 10/13/2026 | PDP4272E | AA [CIT-111-A] Project Respond  Portland St | Passed | 0.0 | 0.75 |
 | 9/16/2026 | PDP4308D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
 | 9/16/2026 | PDP2711D | AA [PJU-101-H] Introduction to PJPl v2 | Passed | 0.0 | 0.50 |
 | 8/20/2026 | PDP1508D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
