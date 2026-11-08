@@ -5,13 +5,14 @@
 | dpsst_identifier | 47104 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/5/2026 | Portland Police Bureau | Promotion | Detective |  |  |
 | 6/29/2006 | Portland Police Bureau | Hired | Police Off |  |  |
 | 5/30/2006 | Out of State Employment | Resigned | Police Off |  |  |
 | 6/4/2004 | Out of State Employment | Hired | Police Off |  |  |
