@@ -146,7 +146,7 @@
 | * MISSING | 22520 |  |  |  |  |  | [md](../markdown/22520-transcript.md) - [yaml](../yaml/22520-transcript.yml) |
 | Pool, Deborah D. | 22571 | Portland Police Bureau | Inactive | Sergeant | Retired | 2015-10-15 | [md](../markdown/22571-transcript.md) - [yaml](../yaml/22571-transcript.yml) |
 | Johnson, Mark A. | 22655 | Portland Police Bureau | Inactive | Criminalist | Retired | 2020-08-10 | [md](../markdown/22655-transcript.md) - [yaml](../yaml/22655-transcript.yml) |
-| * MISSING | 22750 |  |  |  |  |  | [md](../markdown/22750-transcript.md) - [yaml](../yaml/22750-transcript.yml) |
+| Hergert, Mitchell D. | 22750 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-12 | [md](../markdown/22750-transcript.md) - [yaml](../yaml/22750-transcript.yml) |
 | Rendsland, Kimberly A. | 22821 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1989-09-24 | [md](../markdown/22821-transcript.md) - [yaml](../yaml/22821-transcript.yml) |
 | Frome, Michael A. | 22827 | Portland Police Bureau | Inactive | Deputy Chief | Retired | 2024-06-20 | [md](../markdown/22827-transcript.md) - [yaml](../yaml/22827-transcript.yml) |
 | Nelson, Jeffrey E. | 22862 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-06 | [md](../markdown/22862-transcript.md) - [yaml](../yaml/22862-transcript.yml) |

@@ -71,7 +71,6 @@
 | * MISSING | 22516 |  |  |  |  |  | [md](../markdown/22516-transcript.md) - [yaml](../yaml/22516-transcript.yml) |
 | * MISSING | 22518 |  |  |  |  |  | [md](../markdown/22518-transcript.md) - [yaml](../yaml/22518-transcript.yml) |
 | * MISSING | 22520 |  |  |  |  |  | [md](../markdown/22520-transcript.md) - [yaml](../yaml/22520-transcript.yml) |
-| * MISSING | 22750 |  |  |  |  |  | [md](../markdown/22750-transcript.md) - [yaml](../yaml/22750-transcript.yml) |
 | * MISSING | 23188 |  |  |  |  |  | [md](../markdown/23188-transcript.md) - [yaml](../yaml/23188-transcript.yml) |
 | * MISSING | 23191 |  |  |  |  |  | [md](../markdown/23191-transcript.md) - [yaml](../yaml/23191-transcript.yml) |
 | * MISSING | 23579 |  |  |  |  |  | [md](../markdown/23579-transcript.md) - [yaml](../yaml/23579-transcript.yml) |
@@ -501,6 +500,7 @@
 | Ober, Steven L. | 14393 | Portland Police Bureau | Inactive | Detective | Retired | 2011-07-29 | [md](../markdown/14393-transcript.md) - [yaml](../yaml/14393-transcript.yml) |
 | Estes, Matthew J. | 17106 | Portland Police Bureau | Inactive | Detective | Resigned | 2019-09-26 | [md](../markdown/17106-transcript.md) - [yaml](../yaml/17106-transcript.yml) |
 | Mudrick, Maury J. | 18761 | Portland Police Bureau | Inactive | Detective | Retired | 2014-09-05 | [md](../markdown/18761-transcript.md) - [yaml](../yaml/18761-transcript.yml) |
+| Hergert, Mitchell D. | 22750 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-12 | [md](../markdown/22750-transcript.md) - [yaml](../yaml/22750-transcript.yml) |
 | Nelson, Jeffrey E. | 22862 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-06 | [md](../markdown/22862-transcript.md) - [yaml](../yaml/22862-transcript.yml) |
 | Dale, Brian J. | 23726 | Portland Police Bureau | Active | Detective | Promotion | 2021-02-04 | [md](../markdown/23726-transcript.md) - [yaml](../yaml/23726-transcript.yml) |
 | Fonken, Loriann M. | 24243 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-12 | [md](../markdown/24243-transcript.md) - [yaml](../yaml/24243-transcript.yml) |

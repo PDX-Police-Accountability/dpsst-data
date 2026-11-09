@@ -71,7 +71,6 @@
 | * MISSING | 22516 |  |  |  |  |  | [md](../markdown/22516-transcript.md) - [yaml](../yaml/22516-transcript.yml) |
 | * MISSING | 22518 |  |  |  |  |  | [md](../markdown/22518-transcript.md) - [yaml](../yaml/22518-transcript.yml) |
 | * MISSING | 22520 |  |  |  |  |  | [md](../markdown/22520-transcript.md) - [yaml](../yaml/22520-transcript.yml) |
-| * MISSING | 22750 |  |  |  |  |  | [md](../markdown/22750-transcript.md) - [yaml](../yaml/22750-transcript.yml) |
 | * MISSING | 23188 |  |  |  |  |  | [md](../markdown/23188-transcript.md) - [yaml](../yaml/23188-transcript.yml) |
 | * MISSING | 23191 |  |  |  |  |  | [md](../markdown/23191-transcript.md) - [yaml](../yaml/23191-transcript.yml) |
 | * MISSING | 23579 |  |  |  |  |  | [md](../markdown/23579-transcript.md) - [yaml](../yaml/23579-transcript.yml) |
@@ -960,6 +959,7 @@
 | Palmiter, Stuart E. | 27244 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-11 | [md](../markdown/27244-transcript.md) - [yaml](../yaml/27244-transcript.yml) |
 | Jackson, Robert H. | 37241 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-11 | [md](../markdown/37241-transcript.md) - [yaml](../yaml/37241-transcript.yml) |
 | Hager, Tashia A. | 22213 | Portland Police Bureau | Inactive | Commander | Retired | 2020-08-12 | [md](../markdown/22213-transcript.md) - [yaml](../yaml/22213-transcript.yml) |
+| Hergert, Mitchell D. | 22750 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-12 | [md](../markdown/22750-transcript.md) - [yaml](../yaml/22750-transcript.yml) |
 | Fonken, Loriann M. | 24243 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-12 | [md](../markdown/24243-transcript.md) - [yaml](../yaml/24243-transcript.yml) |
 | Smith, Erin J. | 29991 | Portland Police Bureau | Inactive | Sergeant | Retired | 2020-08-12 | [md](../markdown/29991-transcript.md) - [yaml](../yaml/29991-transcript.yml) |
 | Lourenco, Stephanie K. | 37836 | Portland Police Bureau | Inactive | Captain | Retired | 2020-08-12 | [md](../markdown/37836-transcript.md) - [yaml](../yaml/37836-transcript.yml) |

@@ -71,7 +71,6 @@
 | * MISSING | 22516 |  |  |  |  |  | [md](../markdown/22516-transcript.md) - [yaml](../yaml/22516-transcript.yml) |
 | * MISSING | 22518 |  |  |  |  |  | [md](../markdown/22518-transcript.md) - [yaml](../yaml/22518-transcript.yml) |
 | * MISSING | 22520 |  |  |  |  |  | [md](../markdown/22520-transcript.md) - [yaml](../yaml/22520-transcript.yml) |
-| * MISSING | 22750 |  |  |  |  |  | [md](../markdown/22750-transcript.md) - [yaml](../yaml/22750-transcript.yml) |
 | * MISSING | 23188 |  |  |  |  |  | [md](../markdown/23188-transcript.md) - [yaml](../yaml/23188-transcript.yml) |
 | * MISSING | 23191 |  |  |  |  |  | [md](../markdown/23191-transcript.md) - [yaml](../yaml/23191-transcript.yml) |
 | * MISSING | 23579 |  |  |  |  |  | [md](../markdown/23579-transcript.md) - [yaml](../yaml/23579-transcript.yml) |
@@ -922,6 +921,7 @@
 | Hensey, Jason R. | 42309 | Portland Police Bureau | Active | Police Officer | Demotion | 2016-10-01 | [md](../markdown/42309-transcript.md) - [yaml](../yaml/42309-transcript.yml) |
 | Hensleigh, Carson E. | 63981 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63981-transcript.md) - [yaml](../yaml/63981-transcript.yml) |
 | Hensleigh, McKenzie L. | 64712 | Portland Police Bureau | Active | Police Officer | Hired | 2023-11-09 | [md](../markdown/64712-transcript.md) - [yaml](../yaml/64712-transcript.yml) |
+| Hergert, Mitchell D. | 22750 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-12 | [md](../markdown/22750-transcript.md) - [yaml](../yaml/22750-transcript.yml) |
 | Hering, Caleb A. | 65341 | Portland Police Bureau | Active | Police Officer | Hired | 2024-06-06 | [md](../markdown/65341-transcript.md) - [yaml](../yaml/65341-transcript.yml) |
 | Hern, Paul W. | 32396 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32396-transcript.md) - [yaml](../yaml/32396-transcript.yml) |
 | Hernandez, Ethan D. | 66538 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66538-transcript.md) - [yaml](../yaml/66538-transcript.yml) |
