@@ -4,7 +4,7 @@
 | name | Waddell, Cheryl M. |
 | dpsst_identifier | 29997 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/4/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 9/23/2004 | Portland Police Bureau | Promotion | Detective |  |  |
 | 2/4/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/11/1997 | Multnomah County Sheriff's Office | Resigned | Civln Emp |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 |  |  |
-| 2/15/2012 | Police Officer | Intermediate | Granted | 2/15/2012 |  |  |
-| 2/4/2000 | Police Officer | Basic | Granted | 2/4/2000 |  |  |
+| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 | 2/4/2027 |  |
+| 2/15/2012 | Police Officer | Intermediate | Granted | 2/15/2012 | 2/4/2027 |  |
+| 2/4/2000 | Police Officer | Basic | Granted | 2/4/2000 | 2/4/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

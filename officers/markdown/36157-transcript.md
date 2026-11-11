@@ -4,7 +4,7 @@
 | name | Christensen, Todd E. |
 | dpsst_identifier | 36157 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/4/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 11/3/2016 | Portland Police Bureau | Promotion | Detective |  |  |
 | 2/7/2009 | Portland Police Bureau | Demotn Vol | Police Off |  |  |
 | 6/26/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -21,9 +22,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/17/2009 | Police Officer | Advanced | Granted | 2/17/2009 |  |  |
-| 2/17/2009 | Police Officer | Intermediate | Granted | 2/17/2009 |  |  |
-| 9/8/2000 | Police Officer | Basic | Granted | 9/8/2000 |  |  |
+| 2/17/2009 | Police Officer | Advanced | Granted | 2/17/2009 | 2/4/2027 |  |
+| 2/17/2009 | Police Officer | Intermediate | Granted | 2/17/2009 | 2/4/2027 |  |
+| 9/8/2000 | Police Officer | Basic | Granted | 9/8/2000 | 2/4/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

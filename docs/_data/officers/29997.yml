@@ -3,12 +3,18 @@ header_record:
   name: Waddell, Cheryl M.
   dpsst_identifier: '29997'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/4/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 9/23/2004
   agency: Portland Police Bureau
   action: Promotion
@@ -39,21 +45,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 2/4/2027
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 2/4/2027
   probation_date: ''
 - status_date: 2/4/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/4/2000
-  expiration_date: ''
+  expiration_date: 2/4/2027
   probation_date: ''
 training_records:
 - date: 10/26/2026

@@ -3,12 +3,18 @@ header_record:
   name: Christensen, Todd E.
   dpsst_identifier: '36157'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/4/2026
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 11/3/2016
   agency: Portland Police Bureau
   action: Promotion
@@ -51,21 +57,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/17/2009
-  expiration_date: ''
+  expiration_date: 2/4/2027
   probation_date: ''
 - status_date: 2/17/2009
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/17/2009
-  expiration_date: ''
+  expiration_date: 2/4/2027
   probation_date: ''
 - status_date: 9/8/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 9/8/2000
-  expiration_date: ''
+  expiration_date: 2/4/2027
   probation_date: ''
 training_records:
 - date: 10/7/2026
