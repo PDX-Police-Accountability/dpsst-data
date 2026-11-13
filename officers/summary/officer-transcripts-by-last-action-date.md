@@ -284,7 +284,6 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
-| * MISSING | 66388 |  |  |  |  |  | [md](../markdown/66388-transcript.md) - [yaml](../yaml/66388-transcript.yml) |
 | Cassity, Nancy S. | 12845 | Portland Police Bureau | Active | Civilian Employee | Hired | 1980-02-19 | [md](../markdown/12845-transcript.md) - [yaml](../yaml/12845-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Ortez, Armond A. | 18966 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1986-07-31 | [md](../markdown/18966-transcript.md) - [yaml](../yaml/18966-transcript.yml) |
@@ -1636,6 +1635,7 @@
 | Odom-Crotchett, Mikayla B. | 62499 | Portland Police Bureau | Active | Criminalist | Promotion | 2025-05-22 | [md](../markdown/62499-transcript.md) - [yaml](../yaml/62499-transcript.yml) |
 | Avant, Zachary W. | 65020 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-03 | [md](../markdown/65020-transcript.md) - [yaml](../yaml/65020-transcript.yml) |
 | Liu, Simeni M. | 63530 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
+| Vincent, Tyler C. | 66388 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66388-transcript.md) - [yaml](../yaml/66388-transcript.yml) |
 | Sween, Norman J. | 66395 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66395-transcript.md) - [yaml](../yaml/66395-transcript.yml) |
 | Riddle, Carson D. | 66425 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66425-transcript.md) - [yaml](../yaml/66425-transcript.yml) |
 | Webb, Sharif L. | 65842 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2025-06-11 | [md](../markdown/65842-transcript.md) - [yaml](../yaml/65842-transcript.yml) |

@@ -284,7 +284,6 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
-| * MISSING | 66388 |  |  |  |  |  | [md](../markdown/66388-transcript.md) - [yaml](../yaml/66388-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2024-11-07 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, Andrew D. | 63736 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63736-transcript.md) - [yaml](../yaml/63736-transcript.yml) |
@@ -1790,6 +1789,7 @@
 | Venable, Rebecca I. | 36545 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2001-05-30 | [md](../markdown/36545-transcript.md) - [yaml](../yaml/36545-transcript.yml) |
 | Verbout, Christopher L. | 44441 | Portland Police Bureau | Active | Police Officer | Hired | 2004-07-08 | [md](../markdown/44441-transcript.md) - [yaml](../yaml/44441-transcript.yml) |
 | Vergara, Michele R. | 49920 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-07-08 | [md](../markdown/49920-transcript.md) - [yaml](../yaml/49920-transcript.yml) |
+| Vincent, Tyler C. | 66388 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66388-transcript.md) - [yaml](../yaml/66388-transcript.yml) |
 | Viuhkola, Crystal M. | 29197 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-31 | [md](../markdown/29197-transcript.md) - [yaml](../yaml/29197-transcript.yml) |
 | Vlaski, Marko | 64450 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64450-transcript.md) - [yaml](../yaml/64450-transcript.yml) |
 | Vlaski, Vladan | 63343 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-19 | [md](../markdown/63343-transcript.md) - [yaml](../yaml/63343-transcript.yml) |

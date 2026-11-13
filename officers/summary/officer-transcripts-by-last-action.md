@@ -284,7 +284,6 @@
 | * MISSING | 60196 |  |  |  |  |  | [md](../markdown/60196-transcript.md) - [yaml](../yaml/60196-transcript.yml) |
 | * MISSING | 60290 |  |  |  |  |  | [md](../markdown/60290-transcript.md) - [yaml](../yaml/60290-transcript.yml) |
 | * MISSING | 60564 |  |  |  |  |  | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
-| * MISSING | 66388 |  |  |  |  |  | [md](../markdown/66388-transcript.md) - [yaml](../yaml/66388-transcript.yml) |
 | Blazer, Jack V. | 37413 | Portland Police Bureau | Inactive | Police Officer | Deceased | 2020-01-30 | [md](../markdown/37413-transcript.md) - [yaml](../yaml/37413-transcript.yml) |
 | Leasure, Michael C. | 38997 | Portland Police Bureau | Active | Commander | Demotion | 2024-04-25 | [md](../markdown/38997-transcript.md) - [yaml](../yaml/38997-transcript.yml) |
 | Hensey, Jason R. | 42309 | Portland Police Bureau | Active | Police Officer | Demotion | 2016-10-01 | [md](../markdown/42309-transcript.md) - [yaml](../yaml/42309-transcript.yml) |
@@ -805,6 +804,7 @@
 | Gould, Alex C. | 66265 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66265-transcript.md) - [yaml](../yaml/66265-transcript.yml) |
 | Callies, Elleott W. | 66277 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66277-transcript.md) - [yaml](../yaml/66277-transcript.yml) |
 | Lomax, Miles K., Jr. | 66285 | Portland Police Bureau | Active | Police Officer | Hired | 2025-04-24 | [md](../markdown/66285-transcript.md) - [yaml](../yaml/66285-transcript.yml) |
+| Vincent, Tyler C. | 66388 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66388-transcript.md) - [yaml](../yaml/66388-transcript.yml) |
 | Sween, Norman J. | 66395 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66395-transcript.md) - [yaml](../yaml/66395-transcript.yml) |
 | Stanley, Luke A. | 66408 | Portland Police Bureau | Active | Police Officer | Hired | 2025-07-31 | [md](../markdown/66408-transcript.md) - [yaml](../yaml/66408-transcript.yml) |
 | Riddle, Carson D. | 66425 | Portland Police Bureau | Active | Police Officer | Hired | 2025-06-05 | [md](../markdown/66425-transcript.md) - [yaml](../yaml/66425-transcript.yml) |
