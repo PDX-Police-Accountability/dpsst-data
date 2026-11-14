@@ -299,6 +299,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 8/19/2026
+  course: PDP0990E
+  title: DIR 0630.05 Vehicle Interventions  Pursuits UPD
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/18/2026
   course: PDP2130D
   title: 2026 Lead Exposure Screening

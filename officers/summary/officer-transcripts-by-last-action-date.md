@@ -1097,7 +1097,7 @@
 | Crouchley, Angela M. | 62008 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62008-transcript.md) - [yaml](../yaml/62008-transcript.yml) |
 | Serrano, Cristina | 62011 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62011-transcript.md) - [yaml](../yaml/62011-transcript.yml) |
 | Buchanan, Kelsey M. | 62014 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62014-transcript.md) - [yaml](../yaml/62014-transcript.yml) |
-| Johnson, Jennifer J. | 62017 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62017-transcript.md) - [yaml](../yaml/62017-transcript.yml) |
+| Gellman, Jennifer J. | 62017 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62017-transcript.md) - [yaml](../yaml/62017-transcript.yml) |
 | Mount, Rory J. | 62018 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62018-transcript.md) - [yaml](../yaml/62018-transcript.yml) |
 | Allison-Damitz, Dylan P. | 57691 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-07-16 | [md](../markdown/57691-transcript.md) - [yaml](../yaml/57691-transcript.yml) |
 | Quackenbush, James P. | 36875 | Portland Police Bureau | Inactive | Lieutenant | Resigned | 2021-07-20 | [md](../markdown/36875-transcript.md) - [yaml](../yaml/36875-transcript.yml) |
@@ -1913,3 +1913,6 @@
 | Chow, Zachary K. | 56627 | Portland Police Bureau | Active | Detective | Promotion | 2026-11-05 | [md](../markdown/56627-transcript.md) - [yaml](../yaml/56627-transcript.yml) |
 | Sathoff, Christopher J. | 58857 | Portland Police Bureau | Active | Detective | Promotion | 2026-11-05 | [md](../markdown/58857-transcript.md) - [yaml](../yaml/58857-transcript.yml) |
 | Pavon, Lino | 51792 | Portland Police Bureau | Active | Police Officer | LOA | 2026-11-06 | [md](../markdown/51792-transcript.md) - [yaml](../yaml/51792-transcript.yml) |
+| Hampton, David J. | 67960 | Portland Police Bureau | Active | Police Officer | Hired | 2026-12-17 | [md](../markdown/67960-transcript.md) - [yaml](../yaml/67960-transcript.yml) |
+| Couture, Hailie M. | 67966 | Portland Police Bureau | Active | Police Officer | Hired | 2026-12-17 | [md](../markdown/67966-transcript.md) - [yaml](../yaml/67966-transcript.yml) |
+| Ferreira, Michael L. | 67975 | Portland Police Bureau | Active | Police Officer | Hired | 2027-01-28 | [md](../markdown/67975-transcript.md) - [yaml](../yaml/67975-transcript.yml) |

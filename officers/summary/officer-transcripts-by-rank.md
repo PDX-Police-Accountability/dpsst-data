@@ -1332,7 +1332,7 @@
 | Buchanan, Kelsey M. | 62014 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62014-transcript.md) - [yaml](../yaml/62014-transcript.yml) |
 | Weir, Jill D. | 62015 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2023-04-04 | [md](../markdown/62015-transcript.md) - [yaml](../yaml/62015-transcript.yml) |
 | Freund, Max A. | 62016 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-08 | [md](../markdown/62016-transcript.md) - [yaml](../yaml/62016-transcript.yml) |
-| Johnson, Jennifer J. | 62017 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62017-transcript.md) - [yaml](../yaml/62017-transcript.yml) |
+| Gellman, Jennifer J. | 62017 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62017-transcript.md) - [yaml](../yaml/62017-transcript.yml) |
 | Mount, Rory J. | 62018 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62018-transcript.md) - [yaml](../yaml/62018-transcript.yml) |
 | Graham, James R. | 62032 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-12-31 | [md](../markdown/62032-transcript.md) - [yaml](../yaml/62032-transcript.yml) |
 | Kaimuloa, Pono K. | 62229 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-09-25 | [md](../markdown/62229-transcript.md) - [yaml](../yaml/62229-transcript.yml) |
@@ -1657,6 +1657,9 @@
 | Espinosa Barrera, Benjamin, III | 67904 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67904-transcript.md) - [yaml](../yaml/67904-transcript.yml) |
 | Hincapie, George N. | 67905 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67905-transcript.md) - [yaml](../yaml/67905-transcript.yml) |
 | Manninen, Michael F. | 67906 | Portland Police Bureau | Active | Police Officer | Hired | 2026-10-08 | [md](../markdown/67906-transcript.md) - [yaml](../yaml/67906-transcript.yml) |
+| Hampton, David J. | 67960 | Portland Police Bureau | Active | Police Officer | Hired | 2026-12-17 | [md](../markdown/67960-transcript.md) - [yaml](../yaml/67960-transcript.yml) |
+| Couture, Hailie M. | 67966 | Portland Police Bureau | Active | Police Officer | Hired | 2026-12-17 | [md](../markdown/67966-transcript.md) - [yaml](../yaml/67966-transcript.yml) |
+| Ferreira, Michael L. | 67975 | Portland Police Bureau | Active | Police Officer | Hired | 2027-01-28 | [md](../markdown/67975-transcript.md) - [yaml](../yaml/67975-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Moore, Gary D. | 15650 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2018-07-04 | [md](../markdown/15650-transcript.md) - [yaml](../yaml/15650-transcript.yml) |
 | Wilkinson, Steven P. | 17691 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1995-01-01 | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |

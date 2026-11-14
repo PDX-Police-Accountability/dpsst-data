@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Johnson, Jennifer J. |
+| name | Gellman, Jennifer J. |
 | dpsst_identifier | 62017 |
 | agency | Portland Police Bureau |
 | employment_status | Active |

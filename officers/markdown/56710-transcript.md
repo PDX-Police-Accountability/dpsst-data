@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/28/2026 | 10/28/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/8/2025 | 1/8/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
@@ -41,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/30/2026 | SDP2360E | CJIS Security and Privacy Training | Passed | 0.0 | 1.00 |
+| 10/28/2026 | SDP0585E | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 6.00 |
 | 9/23/2026 | SDP1092D | HB2513 - ACAP Training Video | Passed | 0.0 | 2.00 |
 | 9/14/2026 | REG4184D | Ground Control | Passed | 0.0 | 1.00 |
 | 9/10/2026 | REG0698D | Ground Control | Passed | 0.0 | 1.00 |

@@ -56,6 +56,7 @@
 | 9/17/2026 | PDP3415D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 9/17/2026 | PDP1320D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 9/17/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
+| 9/17/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 9/16/2026 | PDP2404D | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 9/16/2026 | PDP2104D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 9/16/2026 | PDP0840D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |

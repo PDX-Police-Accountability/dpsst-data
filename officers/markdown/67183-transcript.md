@@ -94,6 +94,7 @@
 | 7/5/2026 | PDP0476D | DIR 0910.00 Update: De Minimis Force (09/11/2024) | Passed | 0.0 | 0.25 |
 | 7/5/2026 | PDP2871D | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 7/5/2026 | PDP3173D | Post Academy LMS Material | Passed | 0.0 | 1.00 |
+| 7/5/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 7/2/2026 | PDP1396D | 2026 FTEP Post DPSST Firearms | Passed | 0.0 | 25.00 |
 | 7/2/2026 | PDP2948D | FTEP Geography | Passed | 0.0 | 2.50 |
 | 7/2/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

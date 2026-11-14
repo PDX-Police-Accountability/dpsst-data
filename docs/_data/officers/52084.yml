@@ -542,6 +542,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 9/2/2026
+  course: PDP0990E
+  title: DIR 0630.05 Vehicle Interventions  Pursuits UPD
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/1/2026
   course: PDP0497D
   title: FTEP Post DPSST Control Tactics

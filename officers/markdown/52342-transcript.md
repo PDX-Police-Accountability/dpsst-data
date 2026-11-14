@@ -56,6 +56,7 @@
 | 9/10/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |
 | 9/10/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 9/10/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
+| 9/10/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP2854C | 2025 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP1059C | 2025-12 Federal Interaction Reporting | Passed | 0.0 | 0.25 |
 | 1/15/2026 | PDP1573C | 2026 Recognizing  Preventing Positional Asphyxia | Passed | 0.0 | 0.50 |

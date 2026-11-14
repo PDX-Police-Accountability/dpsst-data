@@ -121,6 +121,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 7/28/2026
+  course: PDP0990E
+  title: DIR 0630.05 Vehicle Interventions  Pursuits UPD
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/27/2026
   course: PDP0533D
   title: 2025 CAO Summaries of New Police Legislation

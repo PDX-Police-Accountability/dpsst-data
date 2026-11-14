@@ -66,6 +66,7 @@
 | 9/23/2026 | PDP2176D | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 9/23/2026 | PDP4474D | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 9/23/2026 | PDP0932D | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 9/23/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP3112D | Body Worn Camera | Passed | 0.0 | 3.00 |
 | 9/22/2026 | PDP1041D | 2025-9, Legal Updates: State Crimes | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP0842D | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |

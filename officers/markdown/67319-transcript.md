@@ -56,6 +56,7 @@
 | 9/21/2026 | PDP2176D | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 9/21/2026 | PDP4474D | ORS 181A.440 Airways Part 2 | Passed | 0.0 | 0.50 |
 | 9/21/2026 | PDP0932D | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 9/21/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 9/17/2026 | PDP3762D | FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/17/2026 | PDP2104D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 9/17/2026 | PDP0840D | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |

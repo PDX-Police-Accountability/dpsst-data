@@ -44,6 +44,7 @@
 | 10/30/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/20/2026 | HBS0341D | IMT Training - Tactical Combat Casualty Care | Passed | 0.0 | 5.00 |
 | 10/7/2026 | HBS1219E | SFST Refresher | Passed | 0.0 | 3.50 |
+| 10/7/2026 | HBS2716E | Sharp Performance Champion Info Session | Passed | 0.0 | 1.00 |
 | 9/21/2026 | LOP0802E | West Metro-Fall 2026 Motor School 09/21-10/02 | Instructed | 0.0 | 40.00 |
 | 7/31/2026 | HBS2399D | LEDs Recertification | Passed | 0.0 | 2.00 |
 | 7/28/2026 | EGP0601D | Police Motorcade Training | Passed | 0.0 | 6.00 |

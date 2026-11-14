@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/28/2026
+  course: SDP0585E
+  title: Adult/Child First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/23/2026
   course: SDP1092D
   title: HB2513 - ACAP Training Video
@@ -2085,6 +2091,10 @@ training_records:
   score: '0.0'
   hours: '0.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/28/2026
+  expiration_date: 10/28/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

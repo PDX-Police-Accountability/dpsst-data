@@ -38,6 +38,7 @@
 | 8/5/2026 | PDP0969D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 8/5/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
 | 8/5/2026 | PDP0932D | ORS 181A.440 Airways Part 5 | Passed | 0.0 | 0.50 |
+| 8/5/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 8/3/2026 | PDP1584D | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
 | 8/3/2026 | PDP3690D | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |
 | 8/3/2026 | PDP2505D | 2025-07 CAO Legal Updates for 07/2024 | Passed | 0.0 | 0.25 |

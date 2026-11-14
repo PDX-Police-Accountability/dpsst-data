@@ -117,6 +117,7 @@
 | 9/2/2026 | PDP2349D | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 9/2/2026 | PDP0969D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 9/2/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
+| 9/2/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 9/1/2026 | PDP0497D | FTEP Post DPSST Control Tactics | Passed | 0.0 | 4.00 |
 | 8/27/2026 | PDP1717D | CPR First Aid Certification | Passed | 0.0 | 4.00 |
 | 8/26/2026 | PDP2003D | LEDS Certification | Passed | 0.0 | 2.50 |

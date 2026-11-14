@@ -276,6 +276,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 7/8/2026
+  course: PDP0990E
+  title: DIR 0630.05 Vehicle Interventions  Pursuits UPD
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/7/2026
   course: PDP3637D
   title: Body Worn Camera

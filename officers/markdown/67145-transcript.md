@@ -70,6 +70,7 @@
 | 7/8/2026 | PDP3415D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 7/8/2026 | PDP1320D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 7/8/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
+| 7/8/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 7/7/2026 | PDP3637D | Body Worn Camera | Passed | 0.0 | 3.00 |
 | 7/7/2026 | PDP1584D | 2025-07 CAO Legal Updates for 12/2024 | Passed | 0.0 | 0.50 |
 | 7/7/2026 | PDP3690D | 2025-07 CAO Legal Updates for 01/2025 | Passed | 0.0 | 0.25 |

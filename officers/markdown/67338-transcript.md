@@ -83,6 +83,7 @@
 | 9/24/2026 | PDP1320D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
 | 9/24/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
 | 9/24/2026 | PDP3173D | Post Academy LMS Material | Passed | 0.0 | 1.00 |
+| 9/24/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP3112D | Body Worn Camera | Passed | 0.0 | 3.00 |
 | 9/21/2026 | PDP3550D | FTEP PVO Stop Sticks Box In | Passed | 0.0 | 4.00 |
 | 9/17/2026 | PDP3762D | FTEP Geography | Passed | 0.0 | 3.00 |

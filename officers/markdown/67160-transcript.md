@@ -86,6 +86,7 @@
 | 7/1/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
 | 7/1/2026 | PDP2468D | Directive 0640.37, Communication with Persons Who | Passed | 0.0 | 0.25 |
 | 7/1/2026 | PDP2176D | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
+| 7/1/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 6/29/2026 | PDP2618D | Air Purifying Respirator HAZMAT WMD | Passed | 0.0 | 2.00 |
 | 6/29/2026 | PDP3048D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 6/29/2026 | PDP4379D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |

@@ -372,6 +372,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/1/2026
+  course: PDP0990E
+  title: DIR 0630.05 Vehicle Interventions  Pursuits UPD
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/29/2026
   course: PDP2618D
   title: Air Purifying Respirator HAZMAT WMD
