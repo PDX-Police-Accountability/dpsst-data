@@ -57,6 +57,7 @@
 | 2/2/2026 | SAG2588D | Report Writing | Passed | 0.0 | 1.00 |
 | 2/2/2026 | SAG3347D | WSIN training | Passed | 0.0 | 1.00 |
 | 2/2/2026 | SAG3232D | Evidence Handling | Passed | 0.0 | 1.00 |
+| 2/2/2026 | SAG1411E | DOJ - Government Ethics Laws | Passed | 0.0 | 2.00 |
 | 1/14/2026 | SAG2745C | Firerms Training | Passed | 0.0 | 2.00 |
 | 12/11/2025 | SAG0233C | Firearms training | Passed | 0.0 | 3.00 |
 | 10/13/2025 | SAG3264C | Night Shoot | Passed | 0.0 | 4.00 |

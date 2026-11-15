@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2026 | APD0403E | Range Qualification and Pistol Training | Passed | 0.0 | 8.00 |
 | 9/23/2026 | APD3418D | Integrating Communications, Assessment and Tactics | Passed | 0.0 | 12.00 |
 | 9/22/2026 | APD3557D | Integrating Communications, Assessment and Tactics | Passed | 0.0 | 4.00 |
 | 4/30/2026 | APD4224C | Investigator / Detective Conference 4/28 to 4/30 | Passed | 0.0 | 21.00 |

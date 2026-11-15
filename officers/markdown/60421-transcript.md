@@ -62,6 +62,8 @@
 | 2/3/2026 | SAG2738D | Firearms Training | Passed | 0.0 | 4.00 |
 | 2/3/2026 | SAG2738D | Firearms Training | Instructed | 0.0 | 4.00 |
 | 2/2/2026 | SAG3232D | Evidence Handling | Passed | 0.0 | 1.00 |
+| 2/2/2026 | SAG3697E | Airway training video and discussion | Passed | 0.0 | 2.00 |
+| 2/2/2026 | SAG1411E | DOJ - Government Ethics Laws | Passed | 0.0 | 2.00 |
 | 1/14/2026 | SAG2745C | Firerms Training | Instructed | 0.0 | 7.00 |
 | 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
 | 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |

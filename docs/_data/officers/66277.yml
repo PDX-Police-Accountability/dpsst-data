@@ -48,9 +48,51 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.50'
+- date: 9/16/2026
+  course: HBP0505E
+  title: AA 2026-3, OIS / Post Critical Incidents
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/16/2026
+  course: HBP0055E
+  title: AA 2026-3, TNT Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/15/2026
+  course: HBP0445E
+  title: AA 2026-3, FPC, DVRC, SARC
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/14/2026
   course: HBP3186E
   title: AA 2026-3, Domestic Violence Prosecution
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/13/2026
+  course: HBP4560E
+  title: AA 2026-3, Street Level Interdiction
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/13/2026
+  course: HBP2023E
+  title: AA 2026-3, Traffic Stops/Known-Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '10.50'
+- date: 9/10/2026
+  course: HBP2085E
+  title: AA 2026-3, Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/10/2026
+  course: HBP2921E
+  title: AA 2026-3, Wellness / ASAP
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -66,15 +108,57 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/9/2026
+  course: HBP4313E
+  title: AA 2026-3, Reaction Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/9/2026
+  course: HBP1188E
+  title: AA 2026-3, Karly's Law, Child Abuse, Invstgtns
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/8/2026
+  course: HBP3145E
+  title: AA 2026-3, Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '6.75'
+- date: 9/7/2026
+  course: HBP1602E
+  title: AA 2026-3, CNU Familiarization  Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/4/2026
   course: PDP0825D
   title: Cybersecurity Awareness for City Employees
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/3/2026
+  course: HBP3758E
+  title: AA 2026-3, Search Warrant Writing
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/2/2026
   course: HBP2104D
   title: Respectful Workplace - Employee Training (Equity)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/2/2026
+  course: HBP4191E
+  title: AA 2026-3, Force Response Articulation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/2/2026
+  course: HBP4511E
+  title: AA 2026-3, K9 Familiarization
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -90,12 +174,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/1/2026
+  course: HBP2449E
+  title: AA 2026-3, Officer/Citizen Rescue
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/31/2026
   course: HBP1921E
   title: AA 2026-3, Building Clearing
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 8/31/2026
+  course: HBP3836E
+  title: AA 2026-3, TASER Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/31/2026
+  course: HBP0950E
+  title: AA 2026-3, TECC, First Aid, IFAK
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/30/2026
   course: HBP3421E
   title: AA 2026-3, EVOC

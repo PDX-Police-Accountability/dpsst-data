@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/3/2026
+  course: APD0403E
+  title: Range Qualification and Pistol Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/23/2026
   course: APD3418D
   title: Integrating Communications, Assessment and Tactics

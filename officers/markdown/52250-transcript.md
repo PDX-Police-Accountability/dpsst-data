@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2026 | MNP1004E | SFST Refresher w/ Wet Lab | Instructed | 0.0 | 6.00 |
 | 10/23/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 9/17/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/2/2026 | PDP0540D | 2026 Trng BWC Body 4 Conversion Train the Trainer | Passed | 0.0 | 0.50 |

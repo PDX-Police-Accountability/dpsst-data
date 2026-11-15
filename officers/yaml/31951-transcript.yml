@@ -74,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/2/2026
+  course: SAG3697E
+  title: Airway training video and discussion
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/2/2026
+  course: SAG1411E
+  title: DOJ - Government Ethics Laws
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/16/2025
   course: SAG0868A
   title: 4th Annual OCCIA Conference

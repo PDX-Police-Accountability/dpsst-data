@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/9/2026
+  course: EGP0656E
+  title: EPD Firearms Make -Up Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/15/2026
   course: EGP2832D
   title: EVOC Skills Training

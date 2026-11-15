@@ -5,13 +5,14 @@
 | dpsst_identifier | 40572 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/5/2026 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 11/16/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 11/1/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/31/2001 | Portland Public Schools Police | Resigned | Police Off |  |  |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 9/23/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 8/26/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
 | 8/26/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

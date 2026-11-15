@@ -5,13 +5,14 @@
 | dpsst_identifier | 52318 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/5/2026 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 2/20/2020 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 12/8/2011 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 10/27/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 10/22/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/19/2026 | PDP3233D | 2026 Command In-Service | Passed | 0.0 | 5.00 |

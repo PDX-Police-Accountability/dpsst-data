@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2026 | MKP2701E | Public Meetings Law | Passed | 0.0 | 0.50 |
 | 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/30/2026 | MKP2015D | Lexipol - September 2026 | Passed | 0.0 | 0.50 |
 | 9/30/2026 | MKP0673D | Karly's Law | Passed | 0.0 | 0.50 |

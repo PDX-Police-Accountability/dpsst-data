@@ -117,6 +117,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '5.50'
+- date: 9/13/2026
+  course: HBP2023E
+  title: AA 2026-3, Traffic Stops/Known-Risk Vehicle Stops
+  status: Instructed
+  score: '0.0'
+  hours: '10.50'
+- date: 9/9/2026
+  course: HBP4313E
+  title: AA 2026-3, Reaction Drills
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/2/2026
   course: HBP0195D
   title: Respectful Workplace - Supervisor Trng (Ldrshp)
@@ -135,12 +147,30 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.50'
+- date: 9/2/2026
+  course: HBP4191E
+  title: AA 2026-3, Force Response Articulation
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2026
+  course: HBP2449E
+  title: AA 2026-3, Officer/Citizen Rescue
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/31/2026
   course: HBP1921E
   title: AA 2026-3, Building Clearing
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 8/31/2026
+  course: HBP3836E
+  title: AA 2026-3, TASER Recertification
+  status: Instructed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/24/2026
   course: HBP2916D
   title: Rifle School - Patrol Rifle Course

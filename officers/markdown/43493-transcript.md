@@ -5,13 +5,14 @@
 | dpsst_identifier | 43493 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Detective |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/5/2026 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 2/8/2018 | Portland Police Bureau | Promotion | Detective |  |  |
 | 3/11/2004 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/20/2004 | Police Corps Academy-Participant | Resigned | Cadet |  |  |
@@ -36,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2027 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 11/5/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 10/19/2026 | PDP3233D | 2026 Command In-Service | Passed | 0.0 | 5.00 |
 | 10/15/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/17/2026 | PDP2307E | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |

@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/5/2026
+  course: PDP0246E
+  title: FTEP Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/5/2026
+  course: PDP4013E
+  title: Mobile Identification Device Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/4/2026
   course: PDP3526E
   title: FTEP Control Tactics Searches

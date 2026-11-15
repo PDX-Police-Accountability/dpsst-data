@@ -294,8 +294,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 8/19/2026
-  course: PDP0151D
-  title: DIR 0630.05 Vehicle Interventions  Pursuits UPD
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.00'

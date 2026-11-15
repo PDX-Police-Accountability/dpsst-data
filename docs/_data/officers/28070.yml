@@ -128,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 6/23/2026
+  course: MNS1466E
+  title: Use of Force In-Service
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 3/7/2026
   course: MNS1771C
   title: Building Clearing and K9 Introduction

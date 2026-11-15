@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 9/13/2026 | HBP4560E | AA 2026-3, Street Level Interdiction | Instructed | 0.0 | 1.50 |
 | 9/2/2026 | HBP2104D | Respectful Workplace - Employee Training (Equity) | Passed | 0.0 | 1.00 |
 | 8/30/2026 | HBP3421E | AA 2026-3, EVOC | Instructed | 0.0 | 14.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |

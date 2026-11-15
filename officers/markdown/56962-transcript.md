@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2026 | HBN0879E | Navigating Ethical Dilemmas | Passed | 0.0 | 1.50 |
 | 11/2/2026 | HBN3631E | Officer Involved Shooting Training (9-11am; 1-3pm) | Passed | 0.0 | 2.00 |
 | 10/20/2026 | HBN3227E | Case Management | Passed | 0.0 | 1.00 |
 | 9/10/2026 | REG3696D | Defensive Tactcis Instructo Workshop / Refresher | Passed | 0.0 | 24.00 |

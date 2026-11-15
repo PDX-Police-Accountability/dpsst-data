@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2026 | EGP0656E | EPD Firearms Make -Up Qualification | Passed | 0.0 | 3.00 |
 | 10/15/2026 | EGP2832D | EVOC Skills Training | Passed | 0.0 | 3.00 |
 | 10/15/2026 | EGP3568D | Firearm Qualification | Passed | 0.0 | 3.00 |
 | 9/10/2026 | EGP4393D | Legal Updates | Passed | 0.0 | 1.50 |

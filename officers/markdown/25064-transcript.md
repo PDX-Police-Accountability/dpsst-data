@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2026 | MKL2370E | OLCC Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/29/2026 | MKL0918E | OGEC-Overview of Oregon Ethics Law | Passed | 0.0 | 1.50 |
 | 4/6/2026 | MKL2069C | OLCC Defensive Tactics | Passed | 0.0 | 8.00 |
 | 2/13/2026 | MKL2952C | CJIS Recertification | Passed | 0.0 | 1.00 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/12/2026 | Washington County Sheriff's Office | Retired | Lieutenant |  |  |
 | 6/6/2026 | Washington County Sheriff's Office | LOA | Lieutenant |  |  |
 | 1/9/2026 | Washington County Sheriff's Office | LOA | Commander |  |  |
 | 1/9/2021 | Washington County Sheriff's Office | Promotion | Commander |  |  |
@@ -25,12 +26,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/2/2021 | Police Officer | Executive | Granted | 3/2/2021 |  |  |
-| 7/8/2020 | Police Officer | Management | Granted | 7/8/2020 |  |  |
-| 4/5/2018 | Police Officer | Supervisory | Granted | 4/5/2018 |  |  |
-| 3/10/2011 | Police Officer | Advanced | Granted | 3/10/2011 |  |  |
-| 6/3/2008 | Police Officer | Intermediate | Granted | 6/3/2008 |  |  |
-| 1/23/2003 | Police Officer | Basic | Granted | 1/23/2003 |  |  |
+| 3/2/2021 | Police Officer | Executive | Granted | 3/2/2021 | 2/12/2027 |  |
+| 7/8/2020 | Police Officer | Management | Granted | 7/8/2020 | 2/12/2027 |  |
+| 4/5/2018 | Police Officer | Supervisory | Granted | 4/5/2018 | 2/12/2027 |  |
+| 3/10/2011 | Police Officer | Advanced | Granted | 3/10/2011 | 2/12/2027 |  |
+| 6/3/2008 | Police Officer | Intermediate | Granted | 6/3/2008 | 2/12/2027 |  |
+| 1/23/2003 | Police Officer | Basic | Granted | 1/23/2003 | 2/12/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

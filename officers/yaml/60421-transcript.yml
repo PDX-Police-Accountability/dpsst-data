@@ -194,6 +194,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/2/2026
+  course: SAG3697E
+  title: Airway training video and discussion
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/2/2026
+  course: SAG1411E
+  title: DOJ - Government Ethics Laws
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/14/2026
   course: SAG2745C
   title: Firerms Training

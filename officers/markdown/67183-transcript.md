@@ -90,7 +90,7 @@
 | 7/5/2026 | PDP1479D | 2025-07 CAO Legal Updates for 08-09/2024 | Passed | 0.0 | 0.50 |
 | 7/5/2026 | PDP0785D | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
 | 7/5/2026 | PDP0969D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
-| 7/5/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
+| 7/5/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 7/5/2026 | PDP0476D | DIR 0910.00 Update: De Minimis Force (09/11/2024) | Passed | 0.0 | 0.25 |
 | 7/5/2026 | PDP2871D | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 7/5/2026 | PDP3173D | Post Academy LMS Material | Passed | 0.0 | 1.00 |

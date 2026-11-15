@@ -59,7 +59,7 @@
 | 9/23/2026 | PDP3990D | 2025-8 Deflection Intake and Reporting | Passed | 0.0 | 0.50 |
 | 9/23/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 9/23/2026 | PDP0969D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
-| 9/23/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
+| 9/23/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 9/23/2026 | PDP2468D | Directive 0640.37, Communication with Persons Who | Passed | 0.0 | 0.25 |
 | 9/23/2026 | PDP0943D | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 9/23/2026 | PDP2559D | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |

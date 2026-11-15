@@ -83,7 +83,7 @@
 | 7/1/2026 | PDP0842D | 2025-7, Legal Updates: Search  Seizure | Passed | 0.0 | 0.25 |
 | 7/1/2026 | PDP0969D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 7/1/2026 | PDP0379D | 2026 Disability Series: d/Deaf and Hard of Hearing | Passed | 0.0 | 0.50 |
-| 7/1/2026 | PDP0151D | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.00 |
+| 7/1/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 7/1/2026 | PDP2468D | Directive 0640.37, Communication with Persons Who | Passed | 0.0 | 0.25 |
 | 7/1/2026 | PDP2176D | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 7/1/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |

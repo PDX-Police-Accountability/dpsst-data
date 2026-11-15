@@ -34,14 +34,31 @@
 | 10/7/2026 | HBP0105D | PoliceOne Foundation in Ethics for LE | Passed | 0.0 | 1.00 |
 | 9/17/2026 | HBP3043E | AA 2026-3, Barricaded Suspect | Passed | 0.0 | 4.00 |
 | 9/16/2026 | HBP0100E | AA 2026-3, Active Shooter Response | Passed | 0.0 | 5.50 |
+| 9/16/2026 | HBP0505E | AA 2026-3, OIS / Post Critical Incidents | Passed | 0.0 | 2.00 |
+| 9/16/2026 | HBP0055E | AA 2026-3, TNT Familiarization | Passed | 0.0 | 1.00 |
+| 9/15/2026 | HBP0445E | AA 2026-3, FPC, DVRC, SARC | Passed | 0.0 | 1.50 |
 | 9/14/2026 | HBP3186E | AA 2026-3, Domestic Violence Prosecution | Passed | 0.0 | 3.00 |
+| 9/13/2026 | HBP4560E | AA 2026-3, Street Level Interdiction | Passed | 0.0 | 1.50 |
+| 9/13/2026 | HBP2023E | AA 2026-3, Traffic Stops/Known-Risk Vehicle Stops | Passed | 0.0 | 10.50 |
+| 9/10/2026 | HBP2085E | AA 2026-3, Property and Evidence | Passed | 0.0 | 3.00 |
+| 9/10/2026 | HBP2921E | AA 2026-3, Wellness / ASAP | Passed | 0.0 | 3.00 |
 | 9/9/2026 | HBP1687E | AA 2026-3, DUII, SFST, Related Search Warrants | Passed | 0.0 | 2.00 |
 | 9/9/2026 | HBP2736E | AA 2026-3, Breaching | Passed | 0.0 | 1.50 |
+| 9/9/2026 | HBP4313E | AA 2026-3, Reaction Drills | Passed | 0.0 | 2.00 |
+| 9/9/2026 | HBP1188E | AA 2026-3, Karly's Law, Child Abuse, Invstgtns | Passed | 0.0 | 2.00 |
+| 9/8/2026 | HBP3145E | AA 2026-3, Firearms Range | Passed | 0.0 | 6.75 |
+| 9/7/2026 | HBP1602E | AA 2026-3, CNU Familiarization  Communication | Passed | 0.0 | 1.50 |
 | 9/4/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
+| 9/3/2026 | HBP3758E | AA 2026-3, Search Warrant Writing | Passed | 0.0 | 3.00 |
 | 9/2/2026 | HBP2104D | Respectful Workplace - Employee Training (Equity) | Passed | 0.0 | 1.00 |
+| 9/2/2026 | HBP4191E | AA 2026-3, Force Response Articulation | Passed | 0.0 | 1.00 |
+| 9/2/2026 | HBP4511E | AA 2026-3, K9 Familiarization | Passed | 0.0 | 1.00 |
 | 9/1/2026 | HBP4136E | AA 2026-3, Arrest  Control, Gun Ret, Cuffing | Passed | 0.0 | 4.00 |
 | 9/1/2026 | HBP2380E | AA 2026-3, DV  Suicidal Subject Scenarios | Passed | 0.0 | 4.00 |
+| 9/1/2026 | HBP2449E | AA 2026-3, Officer/Citizen Rescue | Passed | 0.0 | 4.00 |
 | 8/31/2026 | HBP1921E | AA 2026-3, Building Clearing | Passed | 0.0 | 6.00 |
+| 8/31/2026 | HBP3836E | AA 2026-3, TASER Recertification | Passed | 0.0 | 2.50 |
+| 8/31/2026 | HBP0950E | AA 2026-3, TECC, First Aid, IFAK | Passed | 0.0 | 1.50 |
 | 8/30/2026 | HBP3421E | AA 2026-3, EVOC | Passed | 0.0 | 14.00 |
 | 8/13/2026 | HBP1166E | AA 2026-3, Extended Range Impact Munitions Refresh | Passed | 0.0 | 1.00 |
 | 8/4/2026 | PDP0160D | 2026 Standard Field Sobriety Test (SFST) Refresher | Passed | 0.0 | 4.00 |

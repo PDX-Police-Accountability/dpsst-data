@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '43493'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Detective
+  rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/5/2026
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 2/8/2018
   agency: Portland Police Bureau
   action: Promotion
@@ -56,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2027
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
+- date: 11/5/2027
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 10/19/2026
   course: PDP3233D
   title: 2026 Command In-Service

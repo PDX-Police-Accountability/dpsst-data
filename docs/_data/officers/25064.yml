@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2026
+  course: MKL2370E
+  title: OLCC Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/29/2026
   course: MKL0918E
   title: OGEC-Overview of Oregon Ethics Law
