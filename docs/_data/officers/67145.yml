@@ -271,12 +271,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 7/8/2026
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.00'
-- date: 7/8/2026
   course: PDP0990E
   title: DIR 0630.05 Vehicle Interventions  Pursuits UPD
   status: Passed

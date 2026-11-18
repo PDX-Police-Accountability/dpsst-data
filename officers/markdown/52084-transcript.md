@@ -116,7 +116,6 @@
 | 9/2/2026 | PDP0834D | 2026 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.50 |
 | 9/2/2026 | PDP2349D | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 9/2/2026 | PDP0969D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
-| 9/2/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 9/2/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 9/1/2026 | PDP0497D | FTEP Post DPSST Control Tactics | Passed | 0.0 | 4.00 |
 | 8/27/2026 | PDP1717D | CPR First Aid Certification | Passed | 0.0 | 4.00 |

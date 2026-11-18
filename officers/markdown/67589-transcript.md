@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/9/2026 | PDP1797E | FTEP Post DPSST Control Tactics | Passed | 0.0 | 4.00 |
 | 11/5/2026 | PDP0246E | FTEP Report Writing | Passed | 0.0 | 2.00 |
 | 11/5/2026 | PDP4013E | Mobile Identification Device Training | Passed | 0.0 | 2.00 |
 | 11/4/2026 | PDP3526E | FTEP Control Tactics Searches | Passed | 0.0 | 3.00 |

@@ -50,7 +50,6 @@
 | 7/15/2026 | PDP0036D | 2025-2026 Police Interceptor Utility Summary | Passed | 0.0 | 0.25 |
 | 7/15/2026 | PDP0969D | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 7/15/2026 | PDP1956D | DIR 660.10, Property  Evidence Procedures/2018-5 | Passed | 0.0 | 0.50 |
-| 7/15/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 7/15/2026 | PDP2176D | ORS 181A.440 Airways Part 1 | Passed | 0.0 | 0.25 |
 | 7/15/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 7/14/2026 | PDP2104D | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |

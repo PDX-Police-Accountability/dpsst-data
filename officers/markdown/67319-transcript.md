@@ -49,7 +49,6 @@
 | 9/21/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
 | 9/21/2026 | PDP0853D | 2026 OSHA Lead Exposure Quick Card | Passed | 0.0 | 0.25 |
 | 9/21/2026 | PDP0193D | 2026 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
-| 9/21/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 9/21/2026 | PDP2468D | Directive 0640.37, Communication with Persons Who | Passed | 0.0 | 0.25 |
 | 9/21/2026 | PDP0943D | ORS 181A.440 Airways Part 3 | Passed | 0.0 | 0.50 |
 | 9/21/2026 | PDP2559D | ORS 181A.440 Airways Part 4 | Passed | 0.0 | 0.50 |

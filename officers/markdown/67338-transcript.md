@@ -81,7 +81,6 @@
 | 9/24/2026 | PDP4353D | 2026-2 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 9/24/2026 | PDP3415D | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 9/24/2026 | PDP1320D | Annual HRAR 2.04 Gender Identity Nondiscrimination | Passed | 0.0 | 0.50 |
-| 9/24/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 9/24/2026 | PDP3173D | Post Academy LMS Material | Passed | 0.0 | 1.00 |
 | 9/24/2026 | PDP0990E | DIR 0630.05 Vehicle Interventions  Pursuits UPD | Passed | 0.0 | 0.25 |
 | 9/22/2026 | PDP3112D | Body Worn Camera | Passed | 0.0 | 3.00 |

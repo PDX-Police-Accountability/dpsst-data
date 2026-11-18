@@ -41,8 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2026 | MLP1490E | Firearms / Pistol Qualification | Passed | 0.0 | 1.00 |
 | 4/22/2026 | MLP3962C | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 4/22/2026 | MLP3784D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 4/8/2026 | MLP1768E | Firearms | Passed | 0.0 | 3.00 |
 | 4/1/2026 | MLP4349C | Why Emergency Preparedness Matters | Passed | 0.0 | 0.50 |
 | 3/31/2026 | MLP4035C | Overview of Oregon Ethics Law | Passed | 0.0 | 0.50 |
 | 3/31/2026 | MLP0886C | Intro to OR Public Records | Passed | 0.0 | 0.50 |

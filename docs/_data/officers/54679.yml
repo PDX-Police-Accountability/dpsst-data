@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2026
+  course: MLP1490E
+  title: Firearms / Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/22/2026
   course: MLP3962C
   title: Airway Circulatory Anatomy and Physiology
@@ -80,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/8/2026
+  course: MLP1768E
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/1/2026
   course: MLP4349C
   title: Why Emergency Preparedness Matters

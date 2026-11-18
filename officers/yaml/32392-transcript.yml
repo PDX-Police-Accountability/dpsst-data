@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 8/12/2026
+  course: TGP4151E
+  title: 'Hidden Homicide: Staged Crime Scenes'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/31/2026
   course: TGP4328D
   title: 2026 EOC/COOP Training

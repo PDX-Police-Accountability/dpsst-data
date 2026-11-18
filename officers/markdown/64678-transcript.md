@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/12/2026 | Police Officer | Intermediate | App Recd |  |  |  |
+| 11/16/2026 | Police Officer | Intermediate | Granted | 11/16/2026 |  |  |
 | 4/16/2025 | Police Officer | Basic | Granted | 4/16/2025 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2026 | VND1736E | Forensic Experiential Trauma Interview | Passed | 0.0 | 26.00 |
 | 9/15/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 8/10/2026 | PDP2130D | 2026 Lead Exposure Screening | Passed | 0.0 | 1.00 |
 | 8/10/2026 | PDP1796D | 2026 Lead Screening Consent Form | Passed | 0.0 | 0.25 |

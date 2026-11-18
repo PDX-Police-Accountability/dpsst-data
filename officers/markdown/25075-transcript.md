@@ -48,6 +48,7 @@
 | 10/1/2026 | WBP0768E | OR Statistical Transparency of Policing Program | Passed | 0.0 | 0.50 |
 | 10/1/2026 | WBP3156E | City of Woodburn Public Records Training | Passed | 0.0 | 0.50 |
 | 9/30/2026 | WBP1144E | WPD Q3 Firearms Qualifications | Passed | 0.0 | 0.50 |
+| 9/21/2026 | WBP2021E | Firearms - Range / Rifle | Instructed | 0.0 | 7.00 |
 | 9/1/2026 | WBP1597D | Firearms (Handgun Training) | Passed | 0.0 | 2.00 |
 | 6/30/2026 | WBP2394E | WPD Q2 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 6/23/2026 | WBP2573D | Glock Armoerers Course (AC) Gen 5 Plus | Passed | 0.0 | 8.00 |
