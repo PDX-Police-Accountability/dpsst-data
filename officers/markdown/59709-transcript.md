@@ -38,6 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2026 | BNP1559E | Vehicle Follows and Surveillance with UAS | Passed | 0.0 | 7.00 |
+| 11/2/2026 | BNP3162E | Daylight/Lowlight Handgun/Rifle Qualification | Passed | 0.0 | 1.50 |
+| 11/2/2026 | BNP4225E | Firearms Exertion Course | Passed | 0.0 | 0.75 |
+| 11/2/2026 | BNP0070E | Target Identification Drills | Passed | 0.0 | 0.75 |
+| 11/2/2026 | BNP4431E | Handgun/Rifle Fundementals | Passed | 0.0 | 0.75 |
+| 11/2/2026 | BNP3637E | Moving Targets | Passed | 0.0 | 0.75 |
+| 11/2/2026 | BNP2864E | Traffic Stop Scenarios | Passed | 0.0 | 0.75 |
+| 11/2/2026 | BNP0940E | Use of Force Scenarios | Passed | 0.0 | 0.75 |
 | 10/22/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/14/2026 | BNP2043D | Skidcar | Passed | 0.0 | 1.00 |
 | 9/30/2026 | BNP2109D | ALPR / Senate Bill 1516 Training | Passed | 0.0 | 1.00 |

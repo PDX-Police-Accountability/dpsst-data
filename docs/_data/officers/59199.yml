@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2026
+  course: VND0102E
+  title: Digital Forensics
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/15/2026
   course: EGP2832D
   title: EVOC Skills Training
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/13/2026
+  course: OSH1987E
+  title: October 2026 OSP Ropes Team Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/28/2026
   course: JCP1579D
   title: Gracie Survival Tactics Level 1

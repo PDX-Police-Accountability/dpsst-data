@@ -98,6 +98,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2026
+  course: OCS0209E
+  title: 2026 Fall Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/4/2026
+  course: OCS0209E
+  title: 2026 Fall Patrol Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
+- date: 10/29/2026
+  course: OCS0862E
+  title: Use of Force Decision Making MILO
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/27/2026
+  course: OCS1121E
+  title: Marksmanship, Pistol and Rifle Fundamentals
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/27/2026
+  course: OCS0258E
+  title: Marksmanship Fundamentals
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/20/2026
   course: OCS1343E
   title: Marksmanship - Zeroing
@@ -106,6 +136,12 @@ training_records:
   hours: '2.00'
 - date: 10/9/2026
   course: OCS3553E
+  title: SWAT Training - Precision Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/9/2026
+  course: OCS0254E
   title: SWAT Training - Precision Marksmanship
   status: Instructed
   score: '0.0'

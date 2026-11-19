@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2026 | OSH0475E | Legacy of Lola Baldwin | Passed | 0.0 | 1.00 |
+| 11/13/2026 | OSH2869E | Broken Treaties | Passed | 0.0 | 1.50 |
+| 11/12/2026 | OSH0693E | HRVS Refresher | Instructed | 0.0 | 1.00 |
 | 11/9/2026 | OSH3096E | FA3 | Instructed | 0.0 | 3.00 |
 | 10/29/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/16/2026 | OSH1688D | FA3 | Passed | 0.0 | 3.00 |

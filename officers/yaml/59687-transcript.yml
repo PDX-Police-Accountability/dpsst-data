@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2026
+  course: WLP3564E
+  title: Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/23/2026
   course: WLP0290D
   title: Firearms Training / Qualifications / 40mm Launcher

@@ -46,6 +46,7 @@
 | 7/6/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 6/12/2026 | OSH0314D | HIPS Mobile and Foot Surveillance | Passed | 0.0 | 30.00 |
 | 6/12/2026 | PDP3106D | Hiding in Plain Sight Mobile Surveillance Training | Passed | 0.0 | 27.00 |
+| 6/12/2026 | OSH3144E | HIPS Mobile and Foot Surveillance | Passed | 0.0 | 30.00 |
 | 6/10/2026 | PDP0775D | 2026-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/10/2026 | PDP1687D | 2026-2 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/10/2026 | PDP1781D | 2026-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

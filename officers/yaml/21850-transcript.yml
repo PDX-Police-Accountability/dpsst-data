@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2026
+  course: LOP4059E
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/6/2026
   course: VND1526D
   title: 'Beyond the Headlines: Use of Force update'
@@ -3108,6 +3114,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 11/12/2026
+  expiration_date: 11/30/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

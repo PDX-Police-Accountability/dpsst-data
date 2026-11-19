@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/29/2026
+  course: OCS0862E
+  title: Use of Force Decision Making MILO
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/15/2026
+  course: OCS0979E
+  title: October ITF DTs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/28/2026
   course: OCS2025D
   title: Shooting/Moving around vehicles, Shoot/No-Shoot

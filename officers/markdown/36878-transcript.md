@@ -38,9 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2026 | BVP0130E | Evacuation / Fire Extinguisher | Passed | 0.0 | 0.50 |
+| 11/5/2026 | BVP2436E | Ernie and Joe: Crisis Cops | Passed | 0.0 | 3.00 |
+| 11/5/2026 | BVP0512E | Motivational Ethics | Passed | 0.0 | 1.75 |
+| 11/5/2026 | BVP3292E | Implicit Bias in Policing | Passed | 0.0 | 1.00 |
 | 10/22/2026 | BVP2065E | EVOC IST October 2026 102226 | Passed | 0.0 | 3.00 |
 | 6/26/2026 | BVP0340D | IST Taser10 Certification 062626 | Instructed | 0.0 | 4.50 |
 | 6/8/2026 | BVP3085E | Harassment Prevention for Employees | Passed | 0.0 | 0.50 |
+| 6/8/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 5/6/2026 | BVP2031C | May 2026 Pistol Range IST 050626AM | Passed | 0.0 | 3.00 |
 | 4/16/2026 | BVP4383C | Homicide Investigations  Crime Scene Training | Passed | 0.0 | 24.00 |
 | 4/9/2026 | BVP4346C | April 2026 Control Tactics IST 040926 PM | Instructed | 0.0 | 3.00 |

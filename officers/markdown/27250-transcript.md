@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2026 | PSU0422E | Active Shooter ACTS0100 | Passed | 0.0 | 1.00 |
 | 10/28/2026 | PSU1073E | Using Oleoresin Capsicum | Passed | 0.0 | 1.00 |
 | 10/7/2026 | PSU0759D | Tactical Baton Refresher | Passed | 0.0 | 4.00 |
 | 10/7/2026 | PSU3227E | Tactical Baton Refresher | Passed | 0.0 | 4.00 |

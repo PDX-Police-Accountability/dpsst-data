@@ -43,8 +43,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2026 | OCS0209E | 2026 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
+| 11/4/2026 | OCS0209E | 2026 Fall Patrol Rifle | Instructed | 0.0 | 20.00 |
+| 10/29/2026 | OCS0862E | Use of Force Decision Making MILO | Passed | 0.0 | 1.00 |
+| 10/27/2026 | OCS1121E | Marksmanship, Pistol and Rifle Fundamentals | Instructed | 0.0 | 4.00 |
+| 10/27/2026 | OCS0258E | Marksmanship Fundamentals | Instructed | 0.0 | 3.00 |
 | 10/20/2026 | OCS1343E | Marksmanship - Zeroing | Instructed | 0.0 | 2.00 |
 | 10/9/2026 | OCS3553E | SWAT Training - Precision Marksmanship | Instructed | 0.0 | 6.00 |
+| 10/9/2026 | OCS0254E | SWAT Training - Precision Marksmanship | Instructed | 0.0 | 6.00 |
 | 9/30/2026 | OCS3725D | 2026 New Rifle Carrier | Instructed | 0.0 | 20.00 |
 | 9/29/2026 | OCS1502D | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 9/28/2026 | OCS2025D | Shooting/Moving around vehicles, Shoot/No-Shoot | Instructed | 0.0 | 16.00 |

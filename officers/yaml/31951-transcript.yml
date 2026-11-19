@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2026
+  course: VND3214E
+  title: Case Study of Chris Lovrien Murders
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/20/2026
   course: SAG2819E
   title: Firearms - Night Range
@@ -85,7 +91,13 @@ training_records:
   title: DOJ - Government Ethics Laws
   status: Passed
   score: '0.0'
-  hours: '2.00'
+  hours: '0.00'
+- date: 12/31/2025
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/16/2025
   course: SAG0868A
   title: 4th Annual OCCIA Conference
@@ -104,6 +116,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/31/2024
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/26/2024
   course: SAG1222A
   title: 2022 Oregon Sheriff's Airway training video
@@ -3872,13 +3896,13 @@ attribute_records:
   effective_date: 2/3/2026
   expiration_date: 2/3/2028
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/1/2010

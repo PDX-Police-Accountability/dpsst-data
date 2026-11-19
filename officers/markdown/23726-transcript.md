@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/1/2026 | Port of Portland Police Department | Hired | Police Off |  |  |
 | 2/4/2021 | Portland Police Bureau | Promotion | Detective |  |  |
 | 1/4/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/2/2001 | Gladstone Police Department | Resigned | Police Off |  |  |
@@ -22,7 +23,8 @@
 | 11/1/1995 | Gladstone Police Department | Reclassed | Police Off |  |  |
 | 1/6/1994 | Gladstone Police Department | Hired | Reserve |  |  |
 | 9/16/1992 | Gladstone Police Department | Resigned | Reserve |  |  |
-| 3/20/1990 | Gladstone Police Department | Hired | Reserve |  |  |
+| 5/1/1990 | Gladstone Police Department | Reclassed | Reserve |  |  |
+| 3/20/1990 | Gladstone Police Department | Hired | Cadet |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |

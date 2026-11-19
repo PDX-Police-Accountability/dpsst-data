@@ -144,6 +144,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/3/2026
+  course: SPP0674E
+  title: Firarms Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2026
+  course: SPP2824E
+  title: Use of Force:Policy or Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/28/2026
+  course: SPP0543E
+  title: October Legal Updates Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/7/2026
   course: SPP3536D
   title: Active Bystandership for Law Enforcement Ethics
@@ -162,6 +180,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/26/2026
+  course: SPP4163E
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/25/2026
   course: OAC1070D
   title: 'Beyond Report Writing: AI for LE'

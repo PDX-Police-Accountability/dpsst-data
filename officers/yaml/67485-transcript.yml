@@ -30,12 +30,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/12/2026
+  course: PDP4261E
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/11/2026
+  course: PDP0375E
+  title: Body Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/10/2026
+  course: PDP2504E
+  title: FTEP Post Basic CEW
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/9/2026
   course: PDP1797E
   title: FTEP Post DPSST Control Tactics
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/9/2026
+  course: PDP1879E
+  title: FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 11/5/2026
   course: PDP0246E
   title: FTEP Report Writing

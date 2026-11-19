@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | UPR0005E | Ethics and Professional Conduct in Law Enforcement | Passed | 0.0 | 1.00 |
 | 10/23/2026 | UPR1978E | Officer Wellness | Passed | 0.0 | 1.00 |
 | 10/23/2026 | UPR2284E | Implicit Bias | Passed | 0.0 | 2.00 |
 | 10/23/2026 | UPR4514E | Case Law/Legal Updates | Passed | 0.0 | 2.00 |

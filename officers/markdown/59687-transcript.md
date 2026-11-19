@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2026 | WLP3564E | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 9/23/2026 | WLP0290D | Firearms Training / Qualifications / 40mm Launcher | Passed | 0.0 | 3.00 |
 | 5/29/2026 | WLP1761C | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
 | 5/29/2026 | WLP0110D | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |

@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/25/2025 | Police Officer | Basic | Required |  |  | 3/25/2027 |
+| 11/17/2026 | Police Officer | Basic | App Recd |  |  | 3/25/2027 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/25/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/17/2026 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 10/26/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 10/13/2026 | PDP3701D | FTEP Policy and Procedures | Passed | 0.0 | 8.00 |
 | 10/13/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |

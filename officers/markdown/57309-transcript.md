@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2026 | OCS0209E | 2026 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
+| 10/29/2026 | OCS0862E | Use of Force Decision Making MILO | Passed | 0.0 | 1.00 |
 | 9/28/2026 | OCS2025D | Shooting/Moving around vehicles, Shoot/No-Shoot | Passed | 0.0 | 1.00 |
 | 9/18/2026 | OCS0752D | Clackamas County New Hire Patrol Tactics | Instructed | 0.0 | 15.00 |
 | 8/21/2026 | OCS2306D | Marksmanship/Single Hand Shooting | Passed | 0.0 | 1.00 |

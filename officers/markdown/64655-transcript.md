@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2026 | NGP0113E | Shaping an Ethical Workplace Culture | Passed | 0.0 | 1.00 |
 | 9/25/2026 | OSH4259D | SFST Refresher Course | Passed | 0.0 | 8.00 |
 | 9/3/2026 | NGP2495D | Pistol, Rifle, 40mm training drills | Passed | 0.0 | 16.00 |
 | 8/28/2026 | NGP3272D | Taser 10 CEW User Certification | Passed | 0.0 | 8.00 |

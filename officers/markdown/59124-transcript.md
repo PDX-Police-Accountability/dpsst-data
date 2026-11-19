@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2026 | BVP0512E | Motivational Ethics | Passed | 0.0 | 1.75 |
+| 11/8/2026 | BVP0130E | Evacuation / Fire Extinguisher | Passed | 0.0 | 0.50 |
+| 11/8/2026 | BVP2436E | Ernie and Joe: Crisis Cops | Passed | 0.0 | 3.00 |
+| 10/24/2026 | BVP3292E | Implicit Bias in Policing | Passed | 0.0 | 1.00 |
 | 10/21/2026 | BVP0166E | EVOC IST October 2026 102126 | Passed | 0.0 | 3.00 |
 | 9/29/2026 | BVP1301D | September 2026 CT IST 092926 PM | Passed | 0.0 | 3.00 |
 | 9/24/2026 | BVP3956D | Washington County Child Abuse MDT Training | Passed | 0.0 | 8.00 |
@@ -50,6 +54,7 @@
 | 6/23/2026 | SAG0099D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
 | 6/23/2026 | SAG4430D | 16th Annual Domestic Violence Academy | Passed | 0.0 | 8.00 |
 | 6/9/2026 | BVP3085E | Harassment Prevention for Employees | Passed | 0.0 | 0.50 |
+| 6/9/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 5/15/2026 | VND3496C | Washington County CIT Training | Passed | 0.0 | 40.00 |
 | 5/8/2026 | BVP3495C | May 2026 Pistol Range IST 050826PM | Passed | 0.0 | 3.00 |
 | 4/14/2026 | HBP1561C | Search and Seizure Fundamentals | Passed | 0.0 | 4.00 |

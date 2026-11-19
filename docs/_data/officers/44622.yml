@@ -62,6 +62,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2026
+  course: OSH0475E
+  title: Legacy of Lola Baldwin
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/13/2026
+  course: OSH2869E
+  title: Broken Treaties
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/12/2026
+  course: OSH0693E
+  title: HRVS Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/9/2026
   course: OSH3096E
   title: FA3

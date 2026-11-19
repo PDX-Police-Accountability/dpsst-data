@@ -69,12 +69,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2026
+  course: OCS0209E
+  title: 2026 Fall Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/2/2026
   course: MISCMAIN
   title: 2026 LE Basic 3 Year Leadership Maintenance Met
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/29/2026
+  course: OCS0862E
+  title: Use of Force Decision Making MILO
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2026
+  course: OCS0370E
+  title: EVOC trailer operator course
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 9/28/2026
   course: OCS2025D
   title: Shooting/Moving around vehicles, Shoot/No-Shoot

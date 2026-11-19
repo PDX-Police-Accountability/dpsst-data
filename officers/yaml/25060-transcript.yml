@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2026
+  course: WBP1978E
+  title: ConSim Training - Active Threat  Officer Down
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/1/2026
   course: WBP4095E
   title: Wildfire Smoke Training

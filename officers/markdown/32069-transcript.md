@@ -86,17 +86,9 @@
 | 1/12/2026 | BPT3810D | Standing/ Ground control | Passed | 0.0 | 1.00 |
 | 12/29/2025 | BPT4026C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
 | 12/29/2025 | BPT2670C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
-| 12/29/2025 | 37062E | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
-| 12/29/2025 | 08285E | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
 | 12/22/2025 | BPT0330C | Clinch Control | Passed | 0.0 | 1.00 |
-| 12/22/2025 | 32396E | Clinch Control | Passed | 0.0 | 1.00 |
 | 12/8/2025 | BPT2745C | Ground and Standing Control | Passed | 0.0 | 1.00 |
-| 12/8/2025 | 29623E | Ground and Standing Control | Passed | 0.0 | 1.00 |
-| 11/24/2025 | 36176E | Half Guard Bottom Defense | Passed | 0.0 | 1.00 |
-| 11/17/2025 | 38804E | Weapon Defense | Passed | 0.0 | 1.00 |
-| 11/10/2025 | 32969E | Ground Control | Passed | 0.0 | 1.00 |
 | 11/6/2025 | SDP2766C | Alison - Ethics in Law Enforcement Online Course | Passed | 0.0 | 3.00 |
-| 10/27/2025 | 03449E | Take down and Ground Control | Passed | 0.0 | 1.00 |
 | 10/22/2025 | SDP4358C | Amber Alert  PREA | Passed | 0.0 | 1.00 |
 | 10/22/2025 | SDP3562C | DT's 2 vs 1 control tactics | Passed | 0.0 | 2.50 |
 | 10/22/2025 | SDP2575C | Duty Equipment Update: Suppressors  Bodycams | Passed | 0.0 | 1.00 |

@@ -356,26 +356,8 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 12/29/2025
-  course: 37062E
-  title: Standing and Ground Sparring
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 12/29/2025
-  course: '08285E'
-  title: Standing and Ground Sparring
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 12/22/2025
   course: BPT0330C
-  title: Clinch Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 12/22/2025
-  course: 32396E
   title: Clinch Control
   status: Passed
   score: '0.0'
@@ -392,12 +374,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 12/8/2025
-  course: 29623E
-  title: Ground and Standing Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 12/5/2025
   course: MISCMAIN
   title: 2025 LE Annual Maintenance
@@ -407,18 +383,6 @@ training_records:
 - date: 12/4/2025
   course: PDP2960C
   title: Annual Bloodborne Pathogens (CityLearner)
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 12/4/2025
-  course: 23521E
-  title: Ground and Standing Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 12/1/2025
-  course: 07073E
-  title: Ground and Standing Control
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -452,18 +416,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 11/10/2025
-  course: 32969E
-  title: Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 10/27/2025
-  course: '03449E'
-  title: Take down and Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 10/23/2025
   course: PDP3698B
   title: 2025 Lead Exposure Training
@@ -506,18 +458,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 10/23/2025
-  course: 04177E
-  title: Half Guard Bottom Defense
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 10/20/2025
-  course: 15382E
-  title: Standing and Ground Control
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 10/17/2025
   course: PDP2365C
   title: 2025-3 Range Qualification Primary Firearm

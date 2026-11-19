@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2026 | OCS0209E | 2026 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 9/30/2026 | OCS3725D | 2026 New Rifle Carrier | Passed | 0.0 | 32.00 |
 | 9/28/2026 | OCS2025D | Shooting/Moving around vehicles, Shoot/No-Shoot | Passed | 0.0 | 1.00 |
 | 8/21/2026 | OCS2306D | Marksmanship/Single Hand Shooting | Passed | 0.0 | 1.00 |

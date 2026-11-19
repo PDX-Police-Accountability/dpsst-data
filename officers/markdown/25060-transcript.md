@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2026 | WBP1978E | ConSim Training - Active Threat  Officer Down | Passed | 0.0 | 3.00 |
 | 10/1/2026 | WBP4095E | Wildfire Smoke Training | Passed | 0.0 | 0.50 |
 | 10/1/2026 | WBP0889E | WPD Immigration Training | Passed | 0.0 | 1.00 |
 | 10/1/2026 | WBP4538E | ADA Training | Passed | 0.0 | 1.00 |

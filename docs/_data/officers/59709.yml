@@ -43,6 +43,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/10/2026
+  course: BNP1559E
+  title: Vehicle Follows and Surveillance with UAS
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/2/2026
+  course: BNP3162E
+  title: Daylight/Lowlight Handgun/Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/2/2026
+  course: BNP4225E
+  title: Firearms Exertion Course
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/2/2026
+  course: BNP0070E
+  title: Target Identification Drills
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/2/2026
+  course: BNP4431E
+  title: Handgun/Rifle Fundementals
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/2/2026
+  course: BNP3637E
+  title: Moving Targets
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/2/2026
+  course: BNP2864E
+  title: Traffic Stop Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/2/2026
+  course: BNP0940E
+  title: Use of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 10/22/2026
   course: MISCMAIN
   title: 2026 LE Annual Maintenance Met

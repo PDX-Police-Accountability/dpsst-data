@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/1/2026
+  agency: Port of Portland Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/4/2021
   agency: Portland Police Bureau
   action: Promotion
@@ -69,10 +75,16 @@ employment_records:
   rank: Reserve
   classification: ''
   assignment: ''
+- date: 5/1/1990
+  agency: Gladstone Police Department
+  action: Reclassed
+  rank: Reserve
+  classification: ''
+  assignment: ''
 - date: 3/20/1990
   agency: Gladstone Police Department
   action: Hired
-  rank: Reserve
+  rank: Cadet
   classification: ''
   assignment: ''
 certification_records:

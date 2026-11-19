@@ -26,8 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/3/2026 | 2/3/2028 |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Signed | 10/1/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,14 +36,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2026 | VND3214E | Case Study of Chris Lovrien Murders | Instructed | 0.0 | 4.00 |
 | 10/20/2026 | SAG2819E | Firearms - Night Range | Passed | 0.0 | 4.00 |
 | 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 12.00 |
 | 2/3/2026 | SAG2918C | First Aid  CPR | Passed | 0.0 | 4.00 |
 | 2/2/2026 | SAG3697E | Airway training video and discussion | Passed | 0.0 | 2.00 |
-| 2/2/2026 | SAG1411E | DOJ - Government Ethics Laws | Passed | 0.0 | 2.00 |
+| 2/2/2026 | SAG1411E | DOJ - Government Ethics Laws | Passed | 0.0 | 0.00 |
+| 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
 | 5/16/2025 | SAG0868A | 4th Annual OCCIA Conference | Passed | 0.0 | 8.00 |
 | 2/12/2025 | SAG0481A | Airway Anatomy training | Passed | 0.0 | 1.00 |
 | 1/29/2025 | SAG1349A | Firearms training | Passed | 0.0 | 2.00 |
+| 12/31/2024 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/26/2024 | SAG1222A | 2022 Oregon Sheriff's Airway training video | Passed | 0.0 | 1.45 |
 | 10/24/2024 | SAG4294A | Firearms training - Night Range 2024 | Passed | 0.0 | 3.00 |
 | 10/24/2024 | SAG3277A | Taser re-certification 2024 | Passed | 0.0 | 1.00 |

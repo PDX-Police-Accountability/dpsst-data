@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2026
+  course: NGP0113E
+  title: Shaping an Ethical Workplace Culture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/25/2026
   course: OSH4259D
   title: SFST Refresher Course

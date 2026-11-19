@@ -56,6 +56,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/13/2026
+  course: BVP0512E
+  title: Motivational Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 10/7/2026
+  course: BVP2436E
+  title: 'Ernie and Joe: Crisis Cops'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/7/2026
+  course: BVP0130E
+  title: Evacuation / Fire Extinguisher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/7/2026
+  course: BVP3292E
+  title: Implicit Bias in Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/4/2026
   course: BVP0210D
   title: September 2026 Range 090426 AM
@@ -77,6 +101,12 @@ training_records:
 - date: 5/13/2026
   course: BVP3085E
   title: Harassment Prevention for Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/13/2026
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

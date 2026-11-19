@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2026 | OCS0209E | 2026 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
+| 10/29/2026 | OCS0862E | Use of Force Decision Making MILO | Passed | 0.0 | 1.00 |
 | 9/28/2026 | OCS2025D | Shooting/Moving around vehicles, Shoot/No-Shoot | Passed | 0.0 | 1.00 |
 | 7/29/2026 | OCS1503D | Draw Speed/Marksmanship, Movement | Passed | 0.0 | 1.00 |
 | 6/30/2026 | OCS2360D | June 2026 Patrol Rifle | Passed | 0.0 | 1.00 |

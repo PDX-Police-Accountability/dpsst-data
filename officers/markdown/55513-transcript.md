@@ -41,6 +41,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/23/2026 | BVP3972E | EVOC IST October 2026 102326 | Passed | 0.0 | 3.00 |
+| 10/6/2026 | BVP0130E | Evacuation / Fire Extinguisher | Passed | 0.0 | 0.50 |
+| 10/6/2026 | BVP0512E | Motivational Ethics | Passed | 0.0 | 1.75 |
+| 9/30/2026 | HBS2719E | TNT Entry Training/Shield Firearms | Passed | 0.0 | 4.25 |
 | 9/25/2026 | BVP2692D | September 2026 CT IST 092526 AM | Passed | 0.0 | 3.00 |
 | 9/11/2026 | BVP0907D | September 2026 Range 091126 PM | Passed | 0.0 | 3.00 |
 | 8/26/2026 | HBS3516D | TNT Range Day | Passed | 0.0 | 7.00 |
@@ -48,6 +51,7 @@
 | 7/22/2026 | HBS0670D | TNT Range Day | Passed | 0.0 | 6.00 |
 | 7/20/2026 | BVP2373D | PIT EVOC IST 072026PM | Passed | 0.0 | 3.00 |
 | 7/14/2026 | BVP3085E | Harassment Prevention for Employees | Passed | 0.0 | 0.50 |
+| 7/14/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 7/8/2026 | HBS3813D | Joint Team Scenario Training | Passed | 0.0 | 9.00 |
 | 6/24/2026 | HBS2007D | TNT-Hostage Rescue-Shotgun Breaching | Passed | 0.0 | 9.00 |
 | 6/23/2026 | BVP2487D | IST Taser10 Certification 062326 | Passed | 0.0 | 9.00 |

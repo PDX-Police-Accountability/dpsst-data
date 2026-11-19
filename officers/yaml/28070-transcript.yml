@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2026
+  course: MNP4397E
+  title: 'Drone Trng: Scene documntn (JZ)  Legal/ORS (SV)'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/9/2026
   course: MNS2621E
   title: Cardiovascular Anatomy Phys for LEO

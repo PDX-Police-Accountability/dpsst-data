@@ -61,6 +61,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/6/2026
+  course: BVP0130E
+  title: Evacuation / Fire Extinguisher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2026
+  course: BVP0512E
+  title: Motivational Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 9/30/2026
+  course: HBS2719E
+  title: TNT Entry Training/Shield Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.25'
 - date: 9/25/2026
   course: BVP2692D
   title: September 2026 CT IST 092526 AM
@@ -100,6 +118,12 @@ training_records:
 - date: 7/14/2026
   course: BVP3085E
   title: Harassment Prevention for Employees
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/14/2026
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.50'

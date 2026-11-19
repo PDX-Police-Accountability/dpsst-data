@@ -36,10 +36,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/15/2026 | BVP3470E | EVOC IST October 2026 101526 | Passed | 0.0 | 3.00 |
+| 10/13/2026 | BVP0512E | Motivational Ethics | Passed | 0.0 | 1.75 |
+| 10/7/2026 | BVP2436E | Ernie and Joe: Crisis Cops | Passed | 0.0 | 3.00 |
+| 10/7/2026 | BVP0130E | Evacuation / Fire Extinguisher | Passed | 0.0 | 0.50 |
+| 10/7/2026 | BVP3292E | Implicit Bias in Policing | Passed | 0.0 | 1.00 |
 | 9/4/2026 | BVP0210D | September 2026 Range 090426 AM | Passed | 0.0 | 3.00 |
 | 6/17/2026 | BVP1918D | IST Taser10 Certification 061726 | Passed | 0.0 | 9.00 |
 | 6/6/2026 | BVP0875C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 5/13/2026 | BVP3085E | Harassment Prevention for Employees | Passed | 0.0 | 0.50 |
+| 5/13/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 5/7/2026 | BVP0670C | May 2026 Pistol Range IST 050726PM | Passed | 0.0 | 3.00 |
 | 4/9/2026 | BVP0950C | April 2026 Control Tactics IST 040926 AM | Passed | 0.0 | 3.00 |
 | 3/12/2026 | BVP1695C | EVOC 031226AM | Passed | 0.0 | 3.00 |

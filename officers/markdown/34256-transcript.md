@@ -43,11 +43,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2026 | BVP2436E | Ernie and Joe: Crisis Cops | Passed | 0.0 | 3.00 |
+| 10/9/2026 | BVP0512E | Motivational Ethics | Passed | 0.0 | 1.75 |
+| 10/9/2026 | BVP3292E | Implicit Bias in Policing | Passed | 0.0 | 1.00 |
 | 10/2/2026 | BVP1927D | September 2026 CT IST 100226 PM | Passed | 0.0 | 3.00 |
 | 9/11/2026 | BVP3843D | September 2026 Range 091126 PM | Passed | 0.0 | 3.00 |
 | 6/25/2026 | BVP0818D | IST Taser10 Certification 062526 | Passed | 0.0 | 9.00 |
 | 6/6/2026 | BVP0875C | Unconscious Bias | Passed | 0.0 | 0.50 |
 | 6/5/2026 | BVP3085E | Harassment Prevention for Employees | Passed | 0.0 | 0.50 |
+| 6/5/2026 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 5/22/2026 | BVP0702C | North Americam Motor Ofcrs Assoc Conference | Passed | 0.0 | 40.00 |
 | 5/19/2026 | LOP3035E | West Metro, NAMOA Training Conf. (3 days, 24hrs) | Passed | 0.0 | 24.00 |
 | 5/12/2026 | BVP1367C | May 2026 Pistol Range IST 051226AM | Passed | 0.0 | 3.00 |

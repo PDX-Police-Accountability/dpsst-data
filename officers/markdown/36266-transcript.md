@@ -25,8 +25,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/3/2026 | 2/2/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 2/25/2010 |  |
 ## Education
@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/20/2026 | SAG2819E | Firearms - Night Range | Passed | 0.0 | 4.00 |
 | 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 7/16/2026 | SAG1874D | Firearms | Passed | 0.0 | 1.00 |
@@ -57,9 +58,11 @@
 | 2/2/2026 | SAG3232D | Evidence Handling | Passed | 0.0 | 1.00 |
 | 2/2/2026 | SAG2588D | Report Writing | Passed | 0.0 | 1.00 |
 | 2/2/2026 | SAG3347D | WSIN training | Passed | 0.0 | 1.00 |
-| 2/2/2026 | SAG1411E | DOJ - Government Ethics Laws | Passed | 0.0 | 2.00 |
+| 2/2/2026 | SAG1411E | DOJ - Government Ethics Laws | Passed | 0.0 | 1.00 |
 | 2/2/2026 | SAG3697E | Airway training video and discussion | Passed | 0.0 | 2.00 |
 | 1/14/2026 | SAG2745C | Firerms Training | Passed | 0.0 | 2.00 |
+| 12/31/2025 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2025 | MISCMAIN | 2025 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 12/11/2025 | SAG0233C | Firearms training | Passed | 0.0 | 3.00 |
 | 7/9/2025 | SAG2878B | Firearms training | Passed | 0.0 | 1.00 |
 | 6/25/2025 | SAG4107B | First Aid Training | Passed | 0.0 | 4.00 |

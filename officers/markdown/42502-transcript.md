@@ -38,7 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2026 | OCS0209E | 2026 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Leadership Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/29/2026 | OCS0862E | Use of Force Decision Making MILO | Passed | 0.0 | 1.00 |
+| 10/24/2026 | OCS0370E | EVOC trailer operator course | Instructed | 0.0 | 5.00 |
 | 9/28/2026 | OCS2025D | Shooting/Moving around vehicles, Shoot/No-Shoot | Passed | 0.0 | 1.00 |
 | 8/21/2026 | OCS2306D | Marksmanship/Single Hand Shooting | Passed | 0.0 | 1.00 |
 | 7/29/2026 | OCS1503D | Draw Speed/Marksmanship, Movement | Passed | 0.0 | 1.00 |
