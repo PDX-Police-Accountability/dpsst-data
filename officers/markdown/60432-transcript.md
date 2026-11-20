@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/4/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 8/17/2026 | REG3932D | Intoxilyzer 8000 Instructor Course | Passed | 0.0 | 7.00 |

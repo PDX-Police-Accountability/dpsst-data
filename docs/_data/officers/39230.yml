@@ -100,6 +100,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2026
+  course: EGP1699E
+  title: 'The Duty to Intervene: Legal Updates  Policies'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/12/2026
+  course: EGP3374E
+  title: Deflection Program Update (Bias)
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/12/2026
+  course: EGP4044E
+  title: 'The Duty to Intervene: Legal Updates/Policies'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/12/2026
+  course: EGP2002E
+  title: Victim Advocacy Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/9/2026
   course: EGP0656E
   title: EPD Firearms Make -Up Qualification

@@ -27,8 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/29/2026 | 1/29/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 5/15/2012 |  |
 ## Education
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/30/2026 | HBP3771E | Patrol LT/SGT Mtg  Supervisor Training | Passed | 0.0 | 3.50 |
 | 9/23/2026 | HBP3600D | Firearms Remediation Range | Instructed | 0.0 | 6.00 |

@@ -46,8 +46,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/9/2026 | PDS2820E | Active Shooter | Passed | 0.0 | 0.75 |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
+| 11/2/2026 | PDS1642E | Patrol Tactics | Passed | 0.0 | 4.00 |
+| 10/13/2026 | PDS2886E | Range | Passed | 0.0 | 2.00 |
+| 9/16/2026 | PDS3411E | ConSim | Passed | 0.0 | 6.00 |
+| 9/16/2026 | PDS1605E | Less Lethal | Passed | 0.0 | 2.00 |
 | 3/12/2026 | PDS3774D | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 3/12/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 3/12/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |

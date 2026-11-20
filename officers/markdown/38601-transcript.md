@@ -24,8 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 8/7/2026 | 8/7/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 7/12/2005 |  |
 ## Education
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/7/2026 | GSP1289E | Handgun In-service | Passed | 0.0 | 10.00 |
 | 8/31/2026 | GSP3564D | 2026 Ethics Training | Passed | 0.0 | 1.00 |
 | 8/7/2026 | GSP4304D | Adult and Child CPR First Aid | Passed | 0.0 | 4.00 |

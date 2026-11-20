@@ -39,7 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2026 | MNP4397E | Drone Trng: Scene documntn (JZ)  Legal/ORS (SV) | Passed | 0.0 | 1.50 |
+| 10/30/2026 | MNS1487E | Daylight Firearms Qualification | Passed | 0.0 | 2.00 |
 | 10/9/2026 | MNS2621E | Cardiovascular Anatomy Phys for LEO | Passed | 0.0 | 2.00 |
 | 10/9/2026 | MNS1427E | Suicide  Crisis Lifeline | Passed | 0.0 | 2.00 |
 | 10/7/2026 | MNS4134E | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |

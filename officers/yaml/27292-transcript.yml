@@ -106,12 +106,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/10/2026
+  course: 33872E
+  title: November 2026 Crisis Negotiations Team Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/28/2026
   course: MISCMAIN
   title: 2026 LE Annual Maintenance Met
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/7/2026
+  course: PDS0216E
+  title: Sergeant's Monthly Meetings
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/14/2026
+  course: PDS1929E
+  title: UNET Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/26/2026
   course: PDS3963D
   title: Summer Sergeants Training
@@ -2994,13 +3018,17 @@ training_records:
   hours: '40.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2027
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026
-  expiration_date: 12/31/2026
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/6/2025

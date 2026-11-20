@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Leadership Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/30/2026 | HBP3771E | Patrol LT/SGT Mtg  Supervisor Training | Passed | 0.0 | 2.50 |
 | 9/24/2026 | BVP3956D | Washington County Child Abuse MDT Training | Passed | 0.0 | 8.00 |

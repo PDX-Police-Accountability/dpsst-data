@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/12/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 9/23/2026 | MNS1304D | Oregon Police Canine Association Conference | Passed | 0.0 | 24.00 |
 | 9/14/2026 | PDP1351D | Annual OSHA Heat Illness Prevention (CityLearner) | Passed | 0.0 | 0.50 |

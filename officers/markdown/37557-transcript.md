@@ -30,8 +30,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid | 11/12/2026 | 11/30/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | CPR | 11/13/2025 | 11/18/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid | 11/14/2024 | 11/14/2026 |
@@ -44,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2026 | LOP4059E | First Aid | Passed | 0.0 | 2.00 |
 | 10/8/2026 | LOP0886D | Firearms Training | Passed | 0.0 | 4.00 |
 | 10/8/2026 | LOP3734E | Firearms Training | Passed | 0.0 | 4.00 |

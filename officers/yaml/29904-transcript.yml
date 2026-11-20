@@ -48,9 +48,27 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/13/2026
+  course: PDS2886E
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/26/2026
   course: PDS1141D
   title: Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/4/2026
+  course: PDS2822E
+  title: Firearms
   status: Passed
   score: '0.0'
   hours: '4.00'

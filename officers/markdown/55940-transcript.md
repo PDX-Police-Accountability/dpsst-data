@@ -21,8 +21,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/16/2025 | 4/16/2027 |
 | Code of Ethics | Signed | 4/22/2016 |  |
 ## Education
@@ -31,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/30/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 10/22/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/15/2026 | PDP0352D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

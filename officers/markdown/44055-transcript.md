@@ -24,9 +24,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2027 | 12/31/2029 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/16/2025 | 4/16/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 1/1/1950 |
 | Code of Ethics | Signed | 4/14/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Leadership Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/24/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
 | 9/28/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |

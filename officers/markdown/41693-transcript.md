@@ -31,7 +31,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 1/31/2025 | 1/31/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 4/5/2002 |  |
@@ -42,7 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/9/2026 | MKP2701E | Public Meetings Law | Passed | 0.0 | 0.50 |
+| 10/30/2026 | MKP3516E | Harassment Prevention | Passed | 0.0 | 1.00 |
 | 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/30/2026 | MKP2015D | Lexipol - September 2026 | Passed | 0.0 | 0.50 |
 | 9/30/2026 | MKP0673D | Karly's Law | Passed | 0.0 | 0.50 |

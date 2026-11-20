@@ -32,8 +32,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 4/9/2026 | 4/9/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +46,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/14/2026 | GLP2923E | Bagpiping - Pipe Band Fundamentals | Instructed | 0.0 | 8.00 |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/13/2026 | GLP4276D | Tactical Medic / TCCC | Passed | 0.0 | 3.00 |
 | 8/29/2026 | GLP2868D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

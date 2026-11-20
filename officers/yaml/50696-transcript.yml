@@ -99,6 +99,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/18/2026
+  course: MISCMAIN
+  title: 2026 LE Leadership 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/28/2026
   course: PDP3734E
   title: 2026-10 CAO Analysis of PPB Related Laws, 2025
@@ -5198,6 +5204,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2027
   expiration_date: 12/31/2027
+- topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2027
+  expiration_date: 12/31/2029
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/20/2025
@@ -5205,7 +5215,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2024
-  expiration_date: 12/31/2026
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/21/2009

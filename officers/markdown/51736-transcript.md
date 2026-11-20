@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/15/2026 | PDP0352D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/8/2026 | PDP2075D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

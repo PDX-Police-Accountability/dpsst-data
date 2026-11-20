@@ -38,7 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2026 | PDS1642E | Patrol Tactics | Passed | 0.0 | 4.00 |
+| 10/23/2026 | PDS2886E | Range | Passed | 0.0 | 2.00 |
 | 9/4/2026 | REG1810D | EVOIC #1 | Passed | 0.0 | 40.00 |
+| 7/17/2026 | PDS3172E | PIT Instructor Course | Passed | 0.0 | 24.00 |
 | 7/16/2026 | PDS1434D | PIT Certification | Passed | 0.0 | 4.50 |
 | 6/30/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 6/26/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |

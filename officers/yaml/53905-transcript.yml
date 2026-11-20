@@ -75,6 +75,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/18/2026
+  course: MISCMAIN
+  title: 2026 LE Leadership 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/2/2026
   course: MISCMAIN
   title: 2026 LE Basic 3 Year Leadership Maintenance Met
@@ -4847,6 +4853,10 @@ training_records:
   hours: '28.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2027
+  expiration_date: 12/31/2029
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026
   expiration_date: 12/31/2026
@@ -4857,7 +4867,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2024
-  expiration_date: 12/31/2026
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/10/2014

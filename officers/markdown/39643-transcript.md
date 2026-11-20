@@ -88,16 +88,24 @@
 | 12/30/2025 | PDP0891C | 2025-12 CAO Legal Updates: Inventory Searches | Passed | 0.0 | 0.25 |
 | 12/29/2025 | BPT4026C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
 | 12/29/2025 | BPT2670C | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
+| 12/29/2025 | SDP4246E | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
+| 12/29/2025 | SDP4055E | Standing and Ground Sparring | Passed | 0.0 | 1.00 |
 | 12/22/2025 | BPT0330C | Clinch Control | Passed | 0.0 | 1.00 |
+| 12/22/2025 | SDP3481E | Clinch Control | Passed | 0.0 | 1.00 |
 | 12/10/2025 | PDP2559C | 2025 Intoxilyzer 8000 Certification Training | Passed | 0.0 | 9.00 |
 | 12/8/2025 | BPT2745C | Ground and Standing Control | Passed | 0.0 | 1.00 |
+| 12/8/2025 | SDP3996E | Ground and Standing Control | Passed | 0.0 | 1.00 |
 | 12/5/2025 | MISCMAIN | 2025 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/4/2025 | PDP2960C | Annual Bloodborne Pathogens (CityLearner) | Passed | 0.0 | 1.00 |
+| 12/4/2025 | SDP0998E | Ground and Standing Control | Passed | 0.0 | 1.00 |
+| 12/1/2025 | SDP0768E | Ground and Standing Control | Passed | 0.0 | 1.00 |
 | 11/20/2025 | PDP4495C | Emergency Operations Plan (EOP) | Passed | 0.0 | 0.25 |
 | 11/13/2025 | PDP0935C | 2025-10 CAO Legal Updates for 03/2025 | Passed | 0.0 | 0.50 |
 | 11/13/2025 | PDP4084C | 2025-10 CAO Updates: Disorderly Conduct  ORS | Passed | 0.0 | 0.25 |
 | 11/13/2025 | PDP3719C | 2025-10 CHO Executive Order, DIR 0625.00 Auto | Passed | 0.0 | 0.25 |
 | 11/13/2025 | PDP0072C | 2025-10 National Incident Based Reporting System | Passed | 0.0 | 0.25 |
+| 11/10/2025 | SDP4604E | Ground Control | Passed | 0.0 | 1.00 |
+| 10/27/2025 | SDP4203E | Take down and Ground Control | Passed | 0.0 | 1.00 |
 | 10/23/2025 | PDP3698B | 2025 Lead Exposure Training | Passed | 0.0 | 1.00 |
 | 10/23/2025 | PDP4526B | 2025 Lead Screening Consent Form | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP1232B | 2025 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |
@@ -105,6 +113,8 @@
 | 10/23/2025 | PDP2961B | 2025 PPB Lead Exposures Information | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP1044B | 2025-09 CAO Legal Updates for 2/2025 | Passed | 0.0 | 0.25 |
 | 10/23/2025 | PDP2719B | 2025-10, Legal Updates: Miranda  Right to Counsel | Passed | 0.0 | 0.25 |
+| 10/23/2025 | SDP3214E | Half Guard Bottom Defense | Passed | 0.0 | 1.00 |
+| 10/20/2025 | SDP0189E | Standing and Ground Control | Passed | 0.0 | 1.00 |
 | 10/17/2025 | PDP2365C | 2025-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 10/10/2025 | PDP2558C | 2025-1 All Sworn In-Service Active Threat, LRE | Passed | 0.0 | 4.50 |
 | 10/10/2025 | PDP0918C | 2025-1 All Sworn In-Service CT Refresher (CIT/MH) | Passed | 0.0 | 0.50 |

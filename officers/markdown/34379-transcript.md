@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | PDS1642E | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 9/16/2026 | PPP0689D | AB4 | Passed | 0.0 | 1.00 |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
 | 3/13/2026 | LOP1672C | EVOC | Passed | 0.0 | 4.00 |

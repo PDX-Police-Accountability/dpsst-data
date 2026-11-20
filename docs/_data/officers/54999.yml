@@ -104,6 +104,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2026
+  course: MISCMAIN
+  title: 2026 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/9/2026
   course: PDS2820E
   title: Active Shooter
@@ -116,6 +122,30 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/2/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/13/2026
+  course: PDS2886E
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/16/2026
+  course: PDS3411E
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/16/2026
+  course: PDS1605E
+  title: Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/12/2026
   course: PDS3774D
   title: Missing/Vulnerable Persons

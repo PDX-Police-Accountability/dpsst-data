@@ -28,8 +28,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 5/29/2026 | 5/29/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 10/29/2010 |  |
 ## Education
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/23/2026 | WLP0290D | Firearms Training / Qualifications / 40mm Launcher | Passed | 0.0 | 3.00 |
 | 9/15/2026 | WLP4462D | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 8/26/2026 | OCA1706D | August MCT - Court Testimony | Passed | 0.0 | 1.25 |

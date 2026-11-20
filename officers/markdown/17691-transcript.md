@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2026 | MNS1487E | Daylight Firearms Qualification | Passed | 0.0 | 2.00 |
 | 10/16/2026 | MNS4588E | Use of Force Legal Update - September | Passed | 0.0 | 1.00 |
 | 10/4/2026 | MNS4134D | Fall EVO 2026 | Instructed | 0.0 | 9.00 |
 | 10/4/2026 | MNS4134D | Fall EVO 2026 | Passed | 0.0 | 2.00 |

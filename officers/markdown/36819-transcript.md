@@ -27,8 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid | 11/4/2026 | 11/30/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | CPR | 11/13/2025 | 11/18/2027 |
 | Certification Cards | First Aid and CPR | 4/9/2025 | 4/9/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/4/2026 | LOP4059E | First Aid | Passed | 0.0 | 2.00 |
 | 10/7/2026 | LOP2378D | Taser 10 Recertification Training | Passed | 0.0 | 4.00 |
 | 9/30/2026 | LOP0154E | CIS: Balancing Innovation (AI) and Ethics | Passed | 0.0 | 1.00 |

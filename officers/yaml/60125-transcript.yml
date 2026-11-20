@@ -43,12 +43,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/6/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/23/2026
+  course: PDS2886E
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/4/2026
   course: REG1810D
   title: 'EVOIC #1'
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 7/17/2026
+  course: PDS3172E
+  title: PIT Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/16/2026
   course: PDS1434D
   title: PIT Certification

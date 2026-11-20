@@ -41,7 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2026 | PDS1642E | Patrol Tactics | Passed | 0.0 | 4.00 |
+| 10/13/2026 | PDS2886E | Range | Passed | 0.0 | 2.00 |
 | 8/26/2026 | PDS1141D | Legal Update | Passed | 0.0 | 4.00 |
+| 8/14/2026 | PDS2822E | Firearms | Passed | 0.0 | 4.00 |
+| 7/17/2026 | PDS1195E | Less Lethal | Passed | 0.0 | 1.00 |
 | 7/8/2026 | HDA4309D | Leadership in Investigations | Passed | 0.0 | 4.00 |
 | 7/8/2026 | HDA1808D | Synthetic Opioids | Passed | 0.0 | 4.00 |
 | 7/7/2026 | HDA4087D | Jeremy Brown Shooting | Passed | 0.0 | 2.00 |

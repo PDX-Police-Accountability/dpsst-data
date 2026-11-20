@@ -61,6 +61,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2026
+  course: MISCMAIN
+  title: 2026 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/4/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/2/2026
   course: MISCMAIN
   title: 2026 LE Basic 3 Year Maintenance Met
@@ -73,6 +85,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/13/2026
+  course: PDS2886E
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/27/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/25/2026
   course: PDS1974D
   title: Firearms
@@ -2342,6 +2366,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2027
+  expiration_date: 12/31/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/3/2026
@@ -2349,7 +2377,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026
-  expiration_date: 12/31/2026
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

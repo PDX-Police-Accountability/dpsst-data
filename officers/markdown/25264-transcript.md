@@ -38,13 +38,48 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 11/4/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 11/2/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 10/30/2026 | PDS1642E | Patrol Tactics | Passed | 0.0 | 4.00 |
+| 10/28/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 10/26/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 10/23/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 10/19/2026 | PDS0162E | Patrol Tactics IDC | Passed | 0.0 | 6.00 |
+| 9/24/2026 | PDS4009E | Range IDC | Instructed | 0.0 | 2.00 |
+| 9/23/2026 | PDS1305E | Red Dot Range | Instructed | 0.0 | 8.00 |
+| 9/22/2026 | PDS0587E | Red Dot Range | Instructed | 0.0 | 8.00 |
+| 9/22/2026 | PDS0323E | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 9/16/2026 | PDS3411E | ConSim | Passed | 0.0 | 6.00 |
+| 9/16/2026 | PDS1605E | Less Lethal | Passed | 0.0 | 2.00 |
 | 9/3/2026 | PDS2099D | Glock Armorer Course | Passed | 0.0 | 8.00 |
+| 9/2/2026 | PDS3187E | UNET Range IDC | Passed | 0.0 | 4.00 |
+| 8/21/2026 | PDS2822E | Firearms | Instructed | 0.0 | 4.00 |
+| 8/19/2026 | PDS2822E | Firearms | Instructed | 0.0 | 4.00 |
+| 8/17/2026 | PDS2822E | Firearms | Instructed | 0.0 | 4.00 |
+| 8/12/2026 | PDS2822E | Firearms | Instructed | 0.0 | 4.00 |
+| 8/5/2026 | PDS2774E | Springfield Saint Armorer Course | Passed | 0.0 | 8.00 |
+| 8/4/2026 | PDS3692E | Taser 7 | Passed | 0.0 | 2.00 |
+| 8/3/2026 | PDS2822E | Firearms | Instructed | 0.0 | 4.00 |
+| 7/31/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 7/29/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 7/27/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 7/22/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 7/20/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 7/17/2026 | PDS2297E | Range IDC | Passed | 0.0 | 6.00 |
+| 7/17/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 7/15/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 7/13/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 7/10/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 7/8/2026 | PDS1195E | Less Lethal | Instructed | 0.0 | 1.00 |
+| 6/26/2026 | PDS3108E | Post Academy | Instructed | 0.0 | 42.00 |
 | 6/23/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/15/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/8/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/5/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/3/2026 | REG3027D | Patrol Rifle IDC | Passed | 0.0 | 30.00 |
 | 5/19/2026 | PDS1930D | Firearms IDC | Instructed | 0.0 | 4.00 |
+| 4/29/2026 | PDS3793E | Patrol Tactics | Instructed | 0.0 | 6.00 |
 | 4/27/2026 | PDS1657D | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
 | 4/17/2026 | PDS4402D | Red Dot Range | Instructed | 0.0 | 20.00 |
 | 4/15/2026 | PDS4219D | Range | Instructed | 0.0 | 2.00 |

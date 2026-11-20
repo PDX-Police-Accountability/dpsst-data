@@ -29,16 +29,35 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/11/2026 | PDP1068E | 2026-3 Advanced Academy Control Tactics | Passed | 0.0 | 54.50 |
+| 11/11/2026 | PDP2021E | 2026-3 Advanced Academy Wellness | Passed | 0.0 | 8.50 |
+| 11/11/2026 | PDP0696E | 2026-3 Advanced Academy Firearms | Passed | 0.0 | 31.25 |
+| 11/11/2026 | PDP3282E | 2026-3 Advanced Academy Law | Passed | 0.0 | 29.00 |
+| 11/10/2026 | PDP3634E | 2026-3 Advanced Academy Patrol Tactics | Passed | 0.0 | 83.25 |
+| 11/8/2026 | PDP4595E | 2026-3 Advanced Academy PVO | Passed | 0.0 | 38.25 |
+| 11/4/2026 | PDP0667E | 2026-3 Advanced Academy Crisis Int Training | Passed | 0.0 | 21.00 |
+| 11/4/2026 | PDP3010E | 2026-3 Advanced Academy Public Order | Passed | 0.0 | 9.00 |
+| 11/3/2026 | PDP0528E | 2026-3 Advanced Academy Fitness | Passed | 0.0 | 6.50 |
+| 11/3/2026 | PDP2913E | 2026-3 Advanced Academy MDT Operations | Passed | 0.0 | 1.25 |
+| 10/29/2026 | PDP3259E | 2026-3 Advanced Academy CEW | Passed | 0.0 | 1.25 |
 | 10/28/2026 | PDP3734E | 2026-10 CAO Analysis of PPB Related Laws, 2025 | Passed | 0.0 | 0.25 |
+| 10/28/2026 | PDP3100E | 2026-3 Advanced Academy Able Training | Passed | 0.0 | 9.00 |
+| 10/21/2026 | PDP1940E | 2026-3 Advanced Academy PDX Comm Engage | Passed | 0.0 | 4.50 |
 | 10/19/2026 | BKS1585D | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 10/8/2026 | PDP0444E | AA [CIT-112-A] Behavioral Health Unit Overview v2 | Passed | 0.0 | 0.50 |
 | 10/8/2026 | PDP0483E | AA [CIT-113-H] Responding to a MH Facility v2 | Passed | 0.0 | 0.50 |
+| 10/8/2026 | PDP2243E | 2026-3 Advanced Academy Equity | Passed | 0.0 | 13.50 |
 | 10/1/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 10/1/2026 | PDP4151E | 2025-1 Revisiting DIR 0850.10: Custody, Civil | Passed | 0.0 | 0.50 |
+| 9/29/2026 | PDP2130E | 2026-3 Advanced Academy Cares Child Abuse | Passed | 0.0 | 2.25 |
+| 9/24/2026 | PDP2398E | 2026-3 Advanced Academy Legit  Proc Just | Passed | 0.0 | 1.00 |
+| 9/24/2026 | PDP1610E | 2026-3 Advanced Academy Ethics | Passed | 0.0 | 1.00 |
+| 9/23/2026 | PDP0926E | 2026-3 Advanced Academy Trauma Info Inter | Passed | 0.0 | 2.25 |
 | 9/16/2026 | PDP1895D | AA [CIT-111-A] Project Respond  Portland Street | Passed | 0.0 | 0.75 |
 | 9/16/2026 | PDP4308D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
 | 9/16/2026 | PDP2357D | AA [PJU-101-H] Introduction to PJPL | Passed | 0.0 | 0.50 |
 | 9/14/2026 | BKS1408D | Firearms | Passed | 0.0 | 4.00 |
+| 9/14/2026 | PDP2997E | 2026-3 Advanced Academy Patrol Tactics | Passed | 0.0 | 9.50 |
 | 9/10/2026 | PDP3311D | AA [ETH-101-H] Introduction to Ethics in Policing | Passed | 0.0 | 0.50 |
 | 9/10/2026 | PDP2711D | AA [PJU-101-H] Introduction to PJPl v2 | Passed | 0.0 | 0.50 |
 | 8/14/2026 | PDP2542D | 2026 Oregon State Lead Quick Facts | Passed | 0.0 | 0.25 |

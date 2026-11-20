@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2027 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/16/2026 | PDP1010E | RegJIN RMS MRE | Passed | 0.0 | 7.00 |
 | 11/12/2026 | PDP4261E | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 11/11/2026 | PDP0375E | Body Worn Camera | Passed | 0.0 | 3.00 |
 | 11/10/2026 | PDP2504E | FTEP Post Basic CEW | Passed | 0.0 | 9.00 |

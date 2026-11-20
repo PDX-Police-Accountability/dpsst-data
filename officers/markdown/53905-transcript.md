@@ -27,9 +27,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2027 | 12/31/2029 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/29/2025 | 4/29/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 1/1/1950 |
 | Code of Ethics | Signed | 3/10/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/5/2027 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 11/18/2026 | MISCMAIN | 2026 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Leadership Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/18/2026 | PDP1910D | 2025 Supervisor In-Service Leadership in Action | Passed | 0.0 | 1.00 |
 | 9/18/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |

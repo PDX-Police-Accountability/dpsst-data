@@ -30,6 +30,84 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/11/2026
+  course: PDP1068E
+  title: 2026-3 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '54.50'
+- date: 11/11/2026
+  course: PDP2021E
+  title: 2026-3 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
+- date: 11/11/2026
+  course: PDP3282E
+  title: 2026-3 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
+- date: 11/11/2026
+  course: PDP0696E
+  title: 2026-3 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '31.25'
+- date: 11/10/2026
+  course: PDP3634E
+  title: 2026-3 Advanced Academy Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '83.25'
+- date: 11/8/2026
+  course: PDP4595E
+  title: 2026-3 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '38.25'
+- date: 11/4/2026
+  course: PDP0667E
+  title: 2026-3 Advanced Academy Crisis Int Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 11/4/2026
+  course: PDP3010E
+  title: 2026-3 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 11/3/2026
+  course: PDP0528E
+  title: 2026-3 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 11/3/2026
+  course: PDP2913E
+  title: 2026-3 Advanced Academy MDT Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/29/2026
+  course: PDP3259E
+  title: 2026-3 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/28/2026
+  course: PDP3100E
+  title: 2026-3 Advanced Academy Able Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/21/2026
+  course: PDP1940E
+  title: 2026-3 Advanced Academy PDX Comm Engage
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 10/20/2026
   course: PDP0483E
   title: AA [CIT-113-H] Responding to a MH Facility v2
@@ -54,6 +132,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 10/8/2026
+  course: PDP2243E
+  title: 2026-3 Advanced Academy Equity
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
+- date: 9/29/2026
+  course: PDP2130E
+  title: 2026-3 Advanced Academy Cares Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 9/24/2026
+  course: PDP2398E
+  title: 2026-3 Advanced Academy Legit  Proc Just
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/24/2026
+  course: PDP1610E
+  title: 2026-3 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2026
+  course: PDP0926E
+  title: 2026-3 Advanced Academy Trauma Info Inter
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 9/22/2026
   course: PDP2711D
   title: AA [PJU-101-H] Introduction to PJPl v2
@@ -72,6 +180,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/14/2026
+  course: PDP2997E
+  title: 2026-3 Advanced Academy Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '9.50'
 - date: 8/15/2026
   course: PDP2130D
   title: 2026 Lead Exposure Screening

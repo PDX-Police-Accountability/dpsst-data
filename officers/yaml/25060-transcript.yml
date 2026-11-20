@@ -82,6 +82,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/6/2026
+  course: PDS2323E
+  title: Remedial Training  Coaching Specialist
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/1/2026
   course: WBP4095E
   title: Wildfire Smoke Training

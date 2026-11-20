@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/16/2026
+  course: PDP1010E
+  title: RegJIN RMS MRE
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 11/12/2026
   course: PDP4261E
   title: FTEP Orientation

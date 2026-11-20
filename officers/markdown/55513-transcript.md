@@ -25,9 +25,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/8/2026 | 1/7/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/11/2018 |  |
 ## Education
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/23/2026 | BVP3972E | EVOC IST October 2026 102326 | Passed | 0.0 | 3.00 |
 | 10/6/2026 | BVP0130E | Evacuation / Fire Extinguisher | Passed | 0.0 | 0.50 |
 | 10/6/2026 | BVP0512E | Motivational Ethics | Passed | 0.0 | 1.75 |

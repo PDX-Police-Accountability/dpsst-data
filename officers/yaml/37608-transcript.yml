@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/6/2026
+  course: PDS1245E
+  title: Flying While Armed
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/28/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/23/2026
+  course: PDS2886E
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/12/2026
+  course: PDS2822E
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/18/2026
   course: PDS3384D
   title: Airway and Circulatory Training
@@ -62,6 +86,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/18/2026
+  course: PDS0210E
+  title: De-Escalation-CIT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/18/2026
+  course: PDS0501E
+  title: Mental Health First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/16/2026
+  course: PDS3961E
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/16/2026
+  course: PDS0483E
+  title: Use of Force Reports
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/20/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed

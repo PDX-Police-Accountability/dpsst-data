@@ -27,8 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2027 | 12/31/2029 |
 | Certification Cards | First Aid and CPR | 4/7/2025 | 4/7/2027 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 1/1/1950 |
 | Code of Ethics | Signed | 6/25/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/21/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/17/2026 | PDP3747E | 2026 RRT Grenadier Fall In-Service Training | Passed | 0.0 | 14.00 |
 | 10/9/2026 | PDP4314D | 2026 Rapid Response team (RRT) Monthly Training | Passed | 0.0 | 9.00 |

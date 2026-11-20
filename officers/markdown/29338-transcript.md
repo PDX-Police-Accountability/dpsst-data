@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2026 | PDS1642E | Patrol Tactics | Passed | 0.0 | 4.00 |
+| 7/31/2026 | PDS1195E | Less Lethal | Passed | 0.0 | 1.00 |
 | 6/17/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
 | 5/17/2026 | GSP0362C | UAS Ground School | Passed | 0.0 | 30.00 |
 | 4/14/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |

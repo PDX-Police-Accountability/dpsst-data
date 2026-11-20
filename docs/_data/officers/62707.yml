@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/10/2026
+  course: PSU0766E
+  title: Taser 10 Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 10/21/2026
   course: PSU0759D
   title: Tactical Baton Refresher

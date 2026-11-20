@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2026
+  course: MISCMAIN
+  title: 2026 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/28/2026
   course: PDP3734E
   title: 2026-10 CAO Analysis of PPB Related Laws, 2025

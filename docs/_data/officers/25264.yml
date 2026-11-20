@@ -68,12 +68,216 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/6/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/4/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/2/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/30/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/28/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/26/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/23/2026
+  course: PDS1642E
+  title: Patrol Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/19/2026
+  course: PDS0162E
+  title: Patrol Tactics IDC
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/24/2026
+  course: PDS4009E
+  title: Range IDC
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/23/2026
+  course: PDS1305E
+  title: Red Dot Range
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/22/2026
+  course: PDS0587E
+  title: Red Dot Range
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/22/2026
+  course: PDS0323E
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/16/2026
+  course: PDS3411E
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/16/2026
+  course: PDS1605E
+  title: Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/3/2026
   course: PDS2099D
   title: Glock Armorer Course
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/2/2026
+  course: PDS3187E
+  title: UNET Range IDC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/21/2026
+  course: PDS2822E
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/19/2026
+  course: PDS2822E
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/17/2026
+  course: PDS2822E
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/12/2026
+  course: PDS2822E
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/5/2026
+  course: PDS2774E
+  title: Springfield Saint Armorer Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/4/2026
+  course: PDS3692E
+  title: Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/3/2026
+  course: PDS2822E
+  title: Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/31/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/29/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/27/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/22/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/20/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/17/2026
+  course: PDS2297E
+  title: Range IDC
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 7/17/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/15/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/13/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/10/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/8/2026
+  course: PDS1195E
+  title: Less Lethal
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/26/2026
+  course: PDS3108E
+  title: Post Academy
+  status: Instructed
+  score: '0.0'
+  hours: '42.00'
 - date: 6/23/2026
   course: PDS1974D
   title: Firearms
@@ -110,6 +314,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 4/29/2026
+  course: PDS3793E
+  title: Patrol Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/27/2026
   course: PDS1657D
   title: Defensive Tactics IDC

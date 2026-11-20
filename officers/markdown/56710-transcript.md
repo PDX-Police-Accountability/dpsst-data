@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/30/2026 | SDP2360E | CJIS Security and Privacy Training | Passed | 0.0 | 1.00 |
 | 10/28/2026 | SDP0585E | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 6.00 |

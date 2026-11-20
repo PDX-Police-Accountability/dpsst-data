@@ -351,8 +351,26 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/29/2025
+  course: SDP4246E
+  title: Standing and Ground Sparring
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/29/2025
+  course: SDP4055E
+  title: Standing and Ground Sparring
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/22/2025
   course: BPT0330C
+  title: Clinch Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/22/2025
+  course: SDP3481E
   title: Clinch Control
   status: Passed
   score: '0.0'
@@ -363,12 +381,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/8/2025
+  course: SDP3996E
+  title: Ground and Standing Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/24/2025
+  course: SDP4173E
+  title: Half Guard Bottom Defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/17/2025
+  course: SDP1170E
+  title: Weapon Defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2025
+  course: SDP4604E
+  title: Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/6/2025
   course: SDP2766C
   title: Alison - Ethics in Law Enforcement Online Course
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/27/2025
+  course: SDP4203E
+  title: Take down and Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/22/2025
   course: SDP4358C
   title: Amber Alert  PREA

@@ -33,8 +33,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 11/6/2025 | 11/4/2027 |
 | Code of Ethics | Signed | 7/7/2003 |  |
 ## Education
@@ -46,7 +47,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/10/2026 | 33872E | November 2026 Crisis Negotiations Team Training | Passed | 0.0 | 16.00 |
 | 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/7/2026 | PDS0216E | Sergeant's Monthly Meetings | Passed | 0.0 | 1.00 |
+| 9/14/2026 | PDS1929E | UNET Range | Passed | 0.0 | 4.00 |
 | 8/26/2026 | PDS3963D | Summer Sergeants Training | Passed | 0.0 | 4.00 |
 | 8/13/2026 | PDS2507D | Summer 2026 Sgt. Training | Passed | 0.0 | 4.00 |
 | 8/13/2026 | PDS3493D | Summer 2026 Sgt. Training | Passed | 0.0 | 4.00 |

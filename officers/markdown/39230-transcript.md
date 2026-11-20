@@ -45,6 +45,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2026 | EGP1699E | The Duty to Intervene: Legal Updates  Policies | Passed | 0.0 | 2.00 |
+| 11/12/2026 | EGP3374E | Deflection Program Update (Bias) | Passed | 0.0 | 0.75 |
+| 11/12/2026 | EGP4044E | The Duty to Intervene: Legal Updates/Policies | Passed | 0.0 | 1.00 |
+| 11/12/2026 | EGP2002E | Victim Advocacy Training | Passed | 0.0 | 1.00 |
 | 11/9/2026 | EGP0656E | EPD Firearms Make -Up Qualification | Passed | 0.0 | 3.00 |
 | 10/15/2026 | EGP2832D | EVOC Skills Training | Passed | 0.0 | 3.00 |
 | 10/15/2026 | EGP3568D | Firearm Qualification | Passed | 0.0 | 3.00 |

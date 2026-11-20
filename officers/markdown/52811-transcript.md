@@ -39,10 +39,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 11/4/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 11/2/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 10/30/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 10/28/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 10/26/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 10/23/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 10/22/2026 | PDS2886E | Range | Passed | 0.0 | 2.00 |
+| 10/19/2026 | PDS0162E | Patrol Tactics IDC | Passed | 0.0 | 6.00 |
 | 10/16/2026 | GSP3053E | Sniper Training | Passed | 0.0 | 10.00 |
 | 10/15/2026 | GSP1379E | SWAT Training - Warrant Contingencies | Passed | 0.0 | 10.00 |
 | 10/14/2026 | GSP2713E | SWAT Training - Concealed Carry | Passed | 0.0 | 10.00 |
 | 10/13/2026 | PDP2010D | OTOA Large Caliber Rifle Operator | Passed | 0.0 | 9.00 |
+| 10/6/2026 | PDS2323E | Remedial Training  Coaching Specialist | Passed | 0.0 | 16.00 |
 | 9/24/2026 | GSP3926E | SWAT Training - Rilea | Passed | 0.0 | 10.00 |
 | 9/23/2026 | GSP1394E | SWAT Training - Rilea | Passed | 0.0 | 10.00 |
 | 9/22/2026 | GSP2567E | SWAT Training - Rilea | Passed | 0.0 | 10.00 |
@@ -53,10 +63,17 @@
 | 9/10/2026 | GSP4322E | SWAT Training - G3 Orientation | Passed | 0.0 | 5.00 |
 | 9/9/2026 | GSP2281E | SWAT Training - Laser Designator | Passed | 0.0 | 10.00 |
 | 9/3/2026 | PDS2099D | Glock Armorer Course | Passed | 0.0 | 8.00 |
+| 9/1/2026 | PDS2252E | Strategic Planning | Passed | 0.0 | 4.00 |
 | 8/26/2026 | PDS1141D | Legal Update | Passed | 0.0 | 4.00 |
 | 8/14/2026 | GSP1952D | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 8/13/2026 | GSP4082D | SWAT -- River Rescue  Breakout |  | 0.0 | 10.00 |
 | 8/12/2026 | GSP2230D | SWAT -- Pool Rescue Exercises | Passed | 0.0 | 10.00 |
+| 8/5/2026 | PDS2774E | Springfield Saint Armorer Course | Passed | 0.0 | 8.00 |
+| 8/4/2026 | PDS2822E | Firearms | Instructed | 0.0 | 4.00 |
+| 7/20/2026 | PDS1195E | Less Lethal | Passed | 0.0 | 1.00 |
+| 7/17/2026 | PDS3172E | PIT Instructor Course | Passed | 0.0 | 24.00 |
+| 7/17/2026 | PDS2297E | Range IDC | Passed | 0.0 | 6.00 |
+| 7/6/2026 | PDS2737E | Range | Instructed | 0.0 | 3.00 |
 | 6/11/2026 | GSP0474D | Ballistic Shield Training | Passed | 0.0 | 5.00 |
 | 6/10/2026 | GSP0414D | Ballistic Shield Training | Passed | 0.0 | 10.00 |
 | 6/4/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |

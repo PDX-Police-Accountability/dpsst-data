@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2026 | PSU0766E | Taser 10 Instructor Course | Passed | 0.0 | 24.00 |
 | 10/21/2026 | PSU0759D | Tactical Baton Refresher | Passed | 0.0 | 4.00 |
 | 10/21/2026 | PSU3227E | Tactical Baton Refresher | Passed | 0.0 | 4.00 |
 | 9/13/2026 | PSU3950D | FAS 2-Day Carbine | Passed | 0.0 | 16.00 |

@@ -34,7 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2026 | PDS1642E | Patrol Tactics | Passed | 0.0 | 4.00 |
+| 10/13/2026 | PDS2886E | Range | Passed | 0.0 | 2.00 |
 | 8/26/2026 | PDS1141D | Legal Update | Passed | 0.0 | 4.00 |
+| 8/4/2026 | PDS2822E | Firearms | Passed | 0.0 | 4.00 |
 | 6/25/2026 | PDS1168D | Kinetic Impact Projectile Refresher | Passed | 0.0 | 0.50 |
 | 6/25/2026 | PDS0770D | Implicit Bias | Passed | 0.0 | 1.00 |
 | 6/25/2026 | PDS4464D | Taser Recertification | Passed | 0.0 | 1.00 |

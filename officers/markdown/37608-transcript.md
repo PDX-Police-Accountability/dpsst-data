@@ -36,8 +36,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/6/2026 | PDS1245E | Flying While Armed | Passed | 0.0 | 1.00 |
+| 10/28/2026 | PDS1642E | Patrol Tactics | Passed | 0.0 | 4.00 |
+| 10/23/2026 | PDS2886E | Range | Passed | 0.0 | 2.00 |
+| 8/12/2026 | PDS2822E | Firearms | Passed | 0.0 | 4.00 |
 | 6/18/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 6/18/2026 | PDS1385D | NARCAN | Passed | 0.0 | 0.50 |
+| 6/18/2026 | PDS0210E | De-Escalation-CIT | Passed | 0.0 | 8.00 |
+| 6/18/2026 | PDS0501E | Mental Health First Aid | Passed | 0.0 | 8.00 |
+| 6/16/2026 | PDS3961E | ConSim | Passed | 0.0 | 4.00 |
+| 6/16/2026 | PDS0483E | Use of Force Reports | Passed | 0.0 | 4.00 |
 | 3/20/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/26/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/26/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |
