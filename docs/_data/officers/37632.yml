@@ -124,6 +124,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/29/2026
+  course: PDS3438E
+  title: Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 5/12/2026
+  course: PDS1222E
+  title: Red Dot Range
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 5/6/2026
+  course: PDS3946E
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/29/2026
   course: PDS4219D
   title: Range

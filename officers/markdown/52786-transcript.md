@@ -43,6 +43,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/30/2026 | PDS2886E | Range | Passed | 0.0 | 2.00 |
 | 6/16/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
+| 5/28/2026 | PDS3946E | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 5/13/2026 | PDS0565E | Red Dot Range | Passed | 0.0 | 20.00 |
 | 4/27/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/5/2026 | LOP3930C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/23/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |

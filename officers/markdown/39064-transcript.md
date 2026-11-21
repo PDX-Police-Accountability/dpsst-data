@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2026 | TDP4224E | Fall Low Light Firearms Qual and Training | Passed | 0.0 | 4.00 |
 | 10/22/2026 | TDP0142D | Pro Poenix CAD RMS LE Technology | Passed | 0.0 | 8.00 |
 | 10/22/2026 | TDP1202E | Pro Phoenix RMS/CAD end user training | Passed | 0.0 | 8.00 |
 | 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |

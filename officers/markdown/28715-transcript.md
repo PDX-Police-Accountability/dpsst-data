@@ -29,7 +29,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/29/2026 | 1/29/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 5/15/2012 |  |
 ## Education
@@ -41,8 +40,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/17/2026 | HBP1444E | In-Service 2026-4, ERIM Refresher | Instructed | 0.0 | 0.75 |
+| 11/17/2026 | HBP0789E | In-Service 2026-4, Taser 10 Recert | Instructed | 0.0 | 2.75 |
+| 10/28/2026 | HBP3804E | In-Service 2026-4, Taser 10 Recert | Instructed | 0.0 | 2.75 |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/21/2026 | HBP0262E | In-Service 2026-4, Taser 10 Recert | Instructed | 0.0 | 5.50 |
+| 10/14/2026 | HBP1304E | In-Service 2026-4, Range | Instructed | 0.0 | 3.00 |
+| 10/14/2026 | HBP2917E | In-Service 2026-4, Taser 10 Recert | Instructed | 0.0 | 5.50 |
+| 10/7/2026 | HBP1484E | In-Service 2026-4, FPC and SAFE Familiarization | Passed | 0.0 | 0.50 |
+| 10/7/2026 | HBP1891E | In-Service 2026-4,  Taser 10 Recert | Instructed | 0.0 | 5.50 |
 | 9/30/2026 | HBP3771E | Patrol LT/SGT Mtg  Supervisor Training | Passed | 0.0 | 3.50 |
+| 9/30/2026 | HBP0089E | In-Service 2026-4, ERIM Refresher - FTI Day | Passed | 0.0 | 0.50 |
+| 9/30/2026 | HBP0512E | In-Service 2026-4, Taser 10 Recert - FTI Day | Passed | 0.0 | 2.00 |
 | 9/23/2026 | HBP3600D | Firearms Remediation Range | Instructed | 0.0 | 6.00 |
 | 9/23/2026 | HBP2222D | Handcuffing | Instructed | 0.0 | 1.00 |
 | 9/23/2026 | HBP4330D | Range | Instructed | 0.0 | 4.50 |

@@ -50,6 +50,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2026 | PDS3438E | Patrol Rifle | Passed | 0.0 | 30.00 |
+| 5/12/2026 | PDS1222E | Red Dot Range | Passed | 0.0 | 20.00 |
+| 5/6/2026 | PDS3946E | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/29/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 2/24/2026 | PDS1039C | Range Qualification | Passed | 0.0 | 2.00 |
 | 2/18/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |

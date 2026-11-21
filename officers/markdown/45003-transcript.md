@@ -46,6 +46,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2026 | MISCMAIN | 2026 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Leadership Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/7/2026 | HBP1650E | In-Service 2026-4, ERIM Refresher | Passed | 0.0 | 0.75 |
+| 10/7/2026 | HBP1484E | In-Service 2026-4, FPC and SAFE Familiarization | Passed | 0.0 | 0.50 |
+| 10/7/2026 | HBP4425E | In-Service 2026-4, Range | Passed | 0.0 | 3.00 |
+| 10/7/2026 | HBP1891E | In-Service 2026-4,  Taser 10 Recert | Passed | 0.0 | 2.75 |
 | 9/30/2026 | HBP3771E | Patrol LT/SGT Mtg  Supervisor Training | Passed | 0.0 | 2.50 |
 | 9/24/2026 | BVP3956D | Washington County Child Abuse MDT Training | Passed | 0.0 | 8.00 |
 | 9/3/2026 | HBP1010D | 764 Extremist Network | Passed | 0.0 | 2.00 |

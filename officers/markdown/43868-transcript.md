@@ -25,7 +25,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/6/2025 | 5/6/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 2/12/2004 |  |

@@ -66,6 +66,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/23/2026
+  course: BVP4402E
+  title: Collection and Preservation of Evidence
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2026
+  course: BVP2785E
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/21/2026
   course: BVP0166E
   title: EVOC IST October 2026 102126
@@ -1353,10 +1365,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/8/2026
   expiration_date: 1/7/2028
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/18/2025

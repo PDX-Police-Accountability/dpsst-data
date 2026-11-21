@@ -28,7 +28,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/29/2026 | 1/29/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Code of Ethics | Signed | 1/11/2016 |  |
 | Code of Ethics | Signed | 7/16/2015 |  |
 ## Education
@@ -42,6 +41,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/28/2026 | HBP3534E | In-Service 2026-4, ERIM Refresher | Passed | 0.0 | 0.75 |
+| 10/28/2026 | HBP2803E | In-Service 2026-4, FPC and SAFE Familiarization | Passed | 0.0 | 0.50 |
+| 10/28/2026 | HBP2311E | In-Service 2026-4, Range | Passed | 0.0 | 3.00 |
+| 10/28/2026 | HBP3804E | In-Service 2026-4, Taser 10 Recert | Passed | 0.0 | 2.75 |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 9/13/2026 | HBP4560E | AA 2026-3, Street Level Interdiction | Instructed | 0.0 | 1.50 |
 | 9/2/2026 | HBP2104D | Respectful Workplace - Employee Training (Equity) | Passed | 0.0 | 1.00 |

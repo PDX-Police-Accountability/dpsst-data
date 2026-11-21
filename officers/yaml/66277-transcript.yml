@@ -24,6 +24,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2026
+  course: HBP3424E
+  title: In-Service 2026-4, FPC and SAFE Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/14/2026
+  course: HBP4538E
+  title: In-Service 2026-4, ERIM Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/14/2026
+  course: HBP1304E
+  title: In-Service 2026-4, Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/14/2026
+  course: HBP2917E
+  title: In-Service 2026-4, Taser 10 Recert
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
 - date: 10/13/2026
   course: PDP0355E
   title: '2026 Disability Series: Brain Injury'

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | BPT3484E | EmergencyVehOperations Inst Course Shadow Hrs | Passed | 0.0 | 96.00 |
 | 11/4/2026 | OCS0209E | 2026 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Leadership Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/29/2026 | OCS0862E | Use of Force Decision Making MILO | Passed | 0.0 | 1.00 |

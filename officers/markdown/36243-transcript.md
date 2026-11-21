@@ -29,7 +29,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 2/28/2025 | 2/28/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Signed | 5/11/2001 |  |
@@ -60,6 +59,7 @@
 | 7/1/2026 | HBS4511D | Virtual - PREA | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS1627D | Virtual Cultural Awareness Diversity | Passed | 0.0 | 1.00 |
 | 7/1/2026 | HBS4439D | Virtual - CIT - Crisis Response | Passed | 0.0 | 1.00 |
+| 6/30/2026 | HBS3752E | IMT Training | Passed | 0.0 | 6.50 |
 | 5/19/2026 | LOP3035E | West Metro, NAMOA Training Conf. (3 days, 24hrs) | Passed | 0.0 | 24.00 |
 | 4/30/2026 | HBS0920C | IMT - Tactical Operations Center Level I | Passed | 0.0 | 2.00 |
 | 4/30/2026 | HBS3555C | IMT Training | Passed | 0.0 | 5.00 |

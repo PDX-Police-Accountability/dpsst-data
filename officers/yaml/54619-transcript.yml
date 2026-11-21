@@ -61,6 +61,30 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/28/2026
+  course: HBP3534E
+  title: In-Service 2026-4, ERIM Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/28/2026
+  course: HBP2803E
+  title: In-Service 2026-4, FPC and SAFE Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/28/2026
+  course: HBP2311E
+  title: In-Service 2026-4, Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/28/2026
+  course: HBP3804E
+  title: In-Service 2026-4, Taser 10 Recert
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
 - date: 10/27/2026
   course: MISCMAIN
   title: 2026 LE Annual Maintenance Met
@@ -1550,10 +1574,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2026
   expiration_date: 12/31/2028
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/11/2016

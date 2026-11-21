@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2026 | BNS3170E | Taser 10 Operator | Passed | 0.0 | 8.00 |
+| 10/27/2026 | BNS2921E | October Firearms/Qualifications | Passed | 0.0 | 2.00 |
 | 10/12/2026 | BNS0316D | Juvenile Investigations Training | Passed | 0.0 | 1.00 |
 | 9/15/2026 | BNS0341D | Axon BWC4 Training | Passed | 0.0 | 4.00 |
 | 8/17/2026 | BNS2035D | Civil Commitment and Aid and Assist | Passed | 0.0 | 1.00 |

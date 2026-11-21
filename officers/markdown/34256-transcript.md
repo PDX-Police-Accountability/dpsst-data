@@ -34,7 +34,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/5/2026 | 1/4/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 2/27/2003 |  |
 ## Education
@@ -49,6 +48,7 @@
 | 10/9/2026 | BVP0512E | Motivational Ethics | Passed | 0.0 | 1.75 |
 | 10/9/2026 | BVP3292E | Implicit Bias in Policing | Passed | 0.0 | 1.00 |
 | 10/2/2026 | BVP1927D | September 2026 CT IST 100226 PM | Passed | 0.0 | 3.00 |
+| 10/1/2026 | BVP4402E | Collection and Preservation of Evidence | Passed | 0.0 | 0.25 |
 | 9/11/2026 | BVP3843D | September 2026 Range 091126 PM | Passed | 0.0 | 3.00 |
 | 6/25/2026 | BVP0818D | IST Taser10 Certification 062526 | Passed | 0.0 | 9.00 |
 | 6/6/2026 | BVP0875C | Unconscious Bias | Passed | 0.0 | 0.50 |

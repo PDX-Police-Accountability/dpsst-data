@@ -47,6 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/22/2027 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 11/12/2026 | BNS2921E | October Firearms/Qualifications | Passed | 0.0 | 1.00 |
 | 10/26/2026 | BNS0018E | Supervisor Update | Passed | 0.0 | 2.50 |
 | 10/26/2026 | BNS1996E | Animal Abuse | Passed | 0.0 | 1.00 |
 | 10/25/2026 | BNS2593D | Leadership Expectation | Passed | 0.0 | 1.00 |

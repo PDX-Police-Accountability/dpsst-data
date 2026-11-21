@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2026 | HBP4425E | In-Service 2026-4, Range | Passed | 0.0 | 3.00 |
+| 10/7/2026 | HBP1650E | In-Service 2026-4, ERIM Refresher | Passed | 0.0 | 0.75 |
+| 10/7/2026 | HBP1484E | In-Service 2026-4, FPC and SAFE Familiarization | Passed | 0.0 | 0.50 |
+| 10/7/2026 | HBP1891E | In-Service 2026-4,  Taser 10 Recert | Passed | 0.0 | 2.75 |
 | 9/22/2026 | HBP1986D | Preventing the Plea | Passed | 0.0 | 5.50 |
 | 9/17/2026 | RSS2573D | 2026 OHIA Major Crimes Conference | Passed | 0.0 | 6.00 |
 | 9/3/2026 | HBP1010D | 764 Extremist Network | Passed | 0.0 | 2.00 |

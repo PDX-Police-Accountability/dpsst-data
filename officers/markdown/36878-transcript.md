@@ -42,6 +42,8 @@
 | 11/5/2026 | BVP2436E | Ernie and Joe: Crisis Cops | Passed | 0.0 | 3.00 |
 | 11/5/2026 | BVP0512E | Motivational Ethics | Passed | 0.0 | 1.75 |
 | 11/5/2026 | BVP3292E | Implicit Bias in Policing | Passed | 0.0 | 1.00 |
+| 11/5/2026 | BVP4402E | Collection and Preservation of Evidence | Passed | 0.0 | 0.25 |
+| 11/5/2026 | BVP2785E | PREA | Passed | 0.0 | 0.50 |
 | 10/22/2026 | BVP2065E | EVOC IST October 2026 102226 | Passed | 0.0 | 3.00 |
 | 6/26/2026 | BVP0340D | IST Taser10 Certification 062626 | Instructed | 0.0 | 4.50 |
 | 6/8/2026 | BVP3085E | Harassment Prevention for Employees | Passed | 0.0 | 0.50 |

@@ -28,7 +28,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/3/2026 | 2/3/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/10/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 9/23/2020 |  |
@@ -49,6 +48,8 @@
 | 10/13/2026 | PDS2886E | Range | Passed | 0.0 | 2.00 |
 | 7/27/2026 | PDS1195E | Less Lethal | Passed | 0.0 | 1.00 |
 | 6/25/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
+| 5/29/2026 | PDS3438E | Patrol Rifle | Passed | 0.0 | 30.00 |
+| 5/17/2026 | PDS3946E | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/21/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/6/2026 | LOP1766C | EVOC with Use of Force Scenarios | Passed | 0.0 | 9.00 |
 | 2/24/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |

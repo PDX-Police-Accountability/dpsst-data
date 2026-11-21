@@ -29,7 +29,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
 | Certification Cards | First Aid and CPR | 4/24/2025 | 4/24/2027 |
 | Code of Ethics | Signed | 9/2/2008 |  |
@@ -44,6 +43,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/7/2026 | HBP1650E | In-Service 2026-4, ERIM Refresher | Passed | 0.0 | 0.75 |
+| 10/7/2026 | HBP4425E | In-Service 2026-4, Range | Passed | 0.0 | 3.00 |
+| 10/7/2026 | HBP1484E | In-Service 2026-4, FPC and SAFE Familiarization | Passed | 0.0 | 0.50 |
+| 10/7/2026 | HBP1891E | In-Service 2026-4,  Taser 10 Recert | Passed | 0.0 | 2.75 |
 | 9/2/2026 | HBP2104D | Respectful Workplace - Employee Training (Equity) | Passed | 0.0 | 1.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 7/22/2026 | HBP4412D | In-Service 2026-3, Active Shooter | Passed | 0.0 | 8.00 |

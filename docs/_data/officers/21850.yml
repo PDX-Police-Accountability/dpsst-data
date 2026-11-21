@@ -3128,10 +3128,6 @@ attribute_records:
   value: First Aid
   effective_date: 11/12/2026
   expiration_date: 11/30/2028
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: CPR
   effective_date: 11/13/2025

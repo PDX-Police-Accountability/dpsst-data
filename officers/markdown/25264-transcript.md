@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2026 | PDS2177E | Quartermaster Training | Passed | 0.0 | 2.00 |
 | 11/6/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
 | 11/4/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
 | 11/2/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
@@ -75,10 +76,22 @@
 | 6/26/2026 | PDS3108E | Post Academy | Instructed | 0.0 | 42.00 |
 | 6/23/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/15/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
+| 6/11/2026 | PDS3733E | Less Lethal | Instructed | 0.0 | 4.00 |
+| 6/11/2026 | PDS2046E | Range | Instructed | 0.0 | 4.00 |
+| 6/11/2026 | PDS3065E | Rifle | Instructed | 0.0 | 4.00 |
+| 6/11/2026 | PDS0722E | Less Lethal | Instructed | 0.0 | 4.00 |
 | 6/8/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/5/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/3/2026 | REG3027D | Patrol Rifle IDC | Passed | 0.0 | 30.00 |
+| 5/29/2026 | PDS3946E | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 5/28/2026 | PDS3946E | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 5/26/2026 | PDS3946E | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 5/20/2026 | PDS3946E | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 5/19/2026 | PDS1930D | Firearms IDC | Instructed | 0.0 | 4.00 |
+| 5/13/2026 | PDS0565E | Red Dot Range | Instructed | 0.0 | 20.00 |
+| 5/8/2026 | PDS3946E | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 5/6/2026 | PDS3946E | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 5/1/2026 | PDS4557E | ConSim | Passed | 0.0 | 6.00 |
 | 4/29/2026 | PDS3793E | Patrol Tactics | Instructed | 0.0 | 6.00 |
 | 4/27/2026 | PDS1657D | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
 | 4/17/2026 | PDS4402D | Red Dot Range | Instructed | 0.0 | 20.00 |

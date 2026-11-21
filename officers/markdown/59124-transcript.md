@@ -24,7 +24,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/8/2026 | 1/7/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/18/2025 | 7/31/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 12/18/2023 |  |
@@ -40,6 +39,8 @@
 | 11/8/2026 | BVP0130E | Evacuation / Fire Extinguisher | Passed | 0.0 | 0.50 |
 | 11/8/2026 | BVP2436E | Ernie and Joe: Crisis Cops | Passed | 0.0 | 3.00 |
 | 10/24/2026 | BVP3292E | Implicit Bias in Policing | Passed | 0.0 | 1.00 |
+| 10/23/2026 | BVP4402E | Collection and Preservation of Evidence | Passed | 0.0 | 0.25 |
+| 10/23/2026 | BVP2785E | PREA | Passed | 0.0 | 0.50 |
 | 10/21/2026 | BVP0166E | EVOC IST October 2026 102126 | Passed | 0.0 | 3.00 |
 | 9/29/2026 | BVP1301D | September 2026 CT IST 092926 PM | Passed | 0.0 | 3.00 |
 | 9/24/2026 | BVP3956D | Washington County Child Abuse MDT Training | Passed | 0.0 | 8.00 |

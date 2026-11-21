@@ -35,6 +35,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 5/17/2026
+  course: PDS3946E
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/21/2026
   course: PDS4219D
   title: Range

@@ -75,18 +75,78 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/17/2026
+  course: HBP1444E
+  title: In-Service 2026-4, ERIM Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/17/2026
+  course: HBP0789E
+  title: In-Service 2026-4, Taser 10 Recert
+  status: Instructed
+  score: '0.0'
+  hours: '2.75'
+- date: 10/28/2026
+  course: HBP3804E
+  title: In-Service 2026-4, Taser 10 Recert
+  status: Instructed
+  score: '0.0'
+  hours: '2.75'
 - date: 10/27/2026
   course: MISCMAIN
   title: 2026 LE Annual Maintenance Met
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/21/2026
+  course: HBP0262E
+  title: In-Service 2026-4, Taser 10 Recert
+  status: Instructed
+  score: '0.0'
+  hours: '5.50'
+- date: 10/14/2026
+  course: HBP1304E
+  title: In-Service 2026-4, Range
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/14/2026
+  course: HBP2917E
+  title: In-Service 2026-4, Taser 10 Recert
+  status: Instructed
+  score: '0.0'
+  hours: '5.50'
+- date: 10/7/2026
+  course: HBP1484E
+  title: In-Service 2026-4, FPC and SAFE Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/7/2026
+  course: HBP1891E
+  title: In-Service 2026-4,  Taser 10 Recert
+  status: Instructed
+  score: '0.0'
+  hours: '5.50'
 - date: 9/30/2026
   course: HBP3771E
   title: Patrol LT/SGT Mtg  Supervisor Training
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 9/30/2026
+  course: HBP0089E
+  title: In-Service 2026-4, ERIM Refresher - FTI Day
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2026
+  course: HBP0512E
+  title: In-Service 2026-4, Taser 10 Recert - FTI Day
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/23/2026
   course: HBP3600D
   title: Firearms Remediation Range
@@ -7626,10 +7686,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/29/2026
   expiration_date: 1/29/2028
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2025

@@ -30,6 +30,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2026 | HBP3424E | In-Service 2026-4, FPC and SAFE Familiarization | Passed | 0.0 | 0.50 |
+| 10/14/2026 | HBP4538E | In-Service 2026-4, ERIM Refresher | Passed | 0.0 | 0.75 |
+| 10/14/2026 | HBP1304E | In-Service 2026-4, Range | Passed | 0.0 | 3.00 |
+| 10/14/2026 | HBP2917E | In-Service 2026-4, Taser 10 Recert | Passed | 0.0 | 2.75 |
 | 10/13/2026 | PDP0355E | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
 | 10/7/2026 | HBP0105D | PoliceOne Foundation in Ethics for LE | Passed | 0.0 | 1.00 |
 | 9/17/2026 | HBP3043E | AA 2026-3, Barricaded Suspect | Passed | 0.0 | 4.00 |

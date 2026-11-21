@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/10/2026
+  course: PDS2177E
+  title: Quartermaster Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/6/2026
   course: PDS1642E
   title: Patrol Tactics
@@ -297,6 +303,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 5/29/2026
+  course: PDS3438E
+  title: Patrol Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 5/19/2026
   course: PDS1930D
   title: Firearms IDC
@@ -321,6 +333,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 5/12/2026
+  course: PDS1222E
+  title: Red Dot Range
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
+- date: 5/6/2026
+  course: PDS3946E
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/27/2026
   course: PDS1657D
   title: Defensive Tactics IDC

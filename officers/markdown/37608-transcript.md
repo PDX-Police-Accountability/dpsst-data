@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/9/2026 | 6/9/2028 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 4/9/2025 | 4/9/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
@@ -40,12 +41,23 @@
 | 10/28/2026 | PDS1642E | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 10/23/2026 | PDS2886E | Range | Passed | 0.0 | 2.00 |
 | 8/12/2026 | PDS2822E | Firearms | Passed | 0.0 | 4.00 |
+| 6/21/2026 | PDS0644E | ICS-100 | Passed | 0.0 | 2.00 |
+| 6/21/2026 | PDS0394E | ICS-700 | Passed | 0.0 | 4.00 |
 | 6/18/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 6/18/2026 | PDS1385D | NARCAN | Passed | 0.0 | 0.50 |
 | 6/18/2026 | PDS0210E | De-Escalation-CIT | Passed | 0.0 | 8.00 |
 | 6/18/2026 | PDS0501E | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 6/16/2026 | PDS3961E | ConSim | Passed | 0.0 | 4.00 |
 | 6/16/2026 | PDS0483E | Use of Force Reports | Passed | 0.0 | 4.00 |
+| 6/11/2026 | PDS3733E | Less Lethal | Passed | 0.0 | 4.00 |
+| 6/11/2026 | PDS2046E | Range | Passed | 0.0 | 4.00 |
+| 6/11/2026 | PDS3065E | Rifle | Passed | 0.0 | 4.00 |
+| 6/11/2026 | PDS0722E | Less Lethal | Passed | 0.0 | 4.00 |
+| 6/10/2026 | PDS0594E | Use of Force | Passed | 0.0 | 4.00 |
+| 6/9/2026 | PDS4293E | New Hire Orientation | Passed | 0.0 | 12.00 |
+| 6/9/2026 | PDS0876E | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
+| 6/8/2026 | PDS3596E | Ethics  IAU | Passed | 0.0 | 2.00 |
+| 6/8/2026 | PDS2931E | PREA | Passed | 0.0 | 2.00 |
 | 3/20/2026 | PDP4523C | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 2/26/2026 | PDP3014C | 2026 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 2/26/2026 | PDP4153C | 2026-2 CAO Analysis of PPB Related Laws, 2025 Leg | Passed | 0.0 | 0.25 |

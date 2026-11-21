@@ -98,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/28/2026
+  course: PDS3946E
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/13/2026
+  course: PDS0565E
+  title: Red Dot Range
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 4/27/2026
   course: PDS4219D
   title: Range

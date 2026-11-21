@@ -35,7 +35,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 11/6/2025 | 11/4/2027 |
 | Code of Ethics | Signed | 7/7/2003 |  |
 ## Education
@@ -61,6 +60,7 @@
 | 6/2/2026 | PDS1362D | Use of Force Reports | Passed | 0.0 | 4.00 |
 | 6/1/2026 | PDS3728D | Medications for Addiction Treatment | Passed | 0.0 | 0.50 |
 | 5/19/2026 | PDS0868D | May Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
+| 5/12/2026 | PDS1925E | CNT Range | Passed | 0.0 | 8.00 |
 | 4/23/2026 | PDS0768C | MCDC Quarterly Sergeants Meeting | Passed | 0.0 | 1.25 |
 | 4/16/2026 | PDS3384D | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 4/15/2026 | PDS1365D | PREA | Passed | 0.0 | 0.00 |

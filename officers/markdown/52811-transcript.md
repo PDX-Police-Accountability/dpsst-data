@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2026 | PDS2177E | Quartermaster Training | Passed | 0.0 | 2.00 |
 | 11/6/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
 | 11/4/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
 | 11/2/2026 | PDS1642E | Patrol Tactics | Instructed | 0.0 | 8.00 |
@@ -78,10 +79,13 @@
 | 6/10/2026 | GSP0414D | Ballistic Shield Training | Passed | 0.0 | 10.00 |
 | 6/4/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
 | 6/3/2026 | PDS1974D | Firearms | Instructed | 0.0 | 4.00 |
+| 5/29/2026 | PDS3438E | Patrol Rifle | Instructed | 0.0 | 30.00 |
 | 5/19/2026 | PDS1930D | Firearms IDC | Passed | 0.0 | 4.00 |
 | 5/15/2026 | GSP1957D | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 5/14/2026 | GSP4107C | SWAT Firearms | Passed | 0.0 | 10.00 |
 | 5/13/2026 | GSP0614C | SWAT Firearms | Passed | 0.0 | 10.00 |
+| 5/12/2026 | PDS1222E | Red Dot Range | Instructed | 0.0 | 20.00 |
+| 5/6/2026 | PDS3946E | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 4/27/2026 | PDS1657D | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
 | 4/10/2026 | GSP3480C | SWAT Sniper Range | Passed | 0.0 | 10.00 |
 | 4/9/2026 | GSP3411C | SWAT Training | Passed | 0.0 | 10.00 |

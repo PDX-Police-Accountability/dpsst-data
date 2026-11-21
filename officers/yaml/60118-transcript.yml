@@ -103,6 +103,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/29/2026
+  course: PDS3438E
+  title: Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 5/17/2026
+  course: PDS3946E
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/21/2026
   course: PDS4219D
   title: Range
@@ -2374,10 +2386,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/3/2026
   expiration_date: 2/3/2028
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

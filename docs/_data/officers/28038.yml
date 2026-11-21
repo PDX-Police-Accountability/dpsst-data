@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/19/2026
+  course: PDS3946E
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/17/2026
   course: GSP0362C
   title: UAS Ground School

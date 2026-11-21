@@ -74,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/21/2026
+  course: PDS0644E
+  title: ICS-100
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/21/2026
+  course: PDS0394E
+  title: ICS-700
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/18/2026
   course: PDS3384D
   title: Airway and Circulatory Training
@@ -110,6 +122,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/11/2026
+  course: PDS3733E
+  title: Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/11/2026
+  course: PDS2046E
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/11/2026
+  course: PDS3065E
+  title: Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/11/2026
+  course: PDS0722E
+  title: Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/10/2026
+  course: PDS0594E
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/9/2026
+  course: PDS4293E
+  title: New Hire Orientation
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 6/9/2026
+  course: PDS0876E
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/8/2026
+  course: PDS3596E
+  title: Ethics  IAU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/8/2026
+  course: PDS2931E
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/20/2026
   course: PDP4523C
   title: Annual CIU NTR Alarm Response Training - Reed
@@ -5127,6 +5193,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/9/2026
+  expiration_date: 6/9/2028
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2026

@@ -27,7 +27,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/8/2026 | 1/7/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Code of Ethics | Signed | 3/4/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +41,8 @@
 | 10/7/2026 | BVP2436E | Ernie and Joe: Crisis Cops | Passed | 0.0 | 3.00 |
 | 10/7/2026 | BVP0130E | Evacuation / Fire Extinguisher | Passed | 0.0 | 0.50 |
 | 10/7/2026 | BVP3292E | Implicit Bias in Policing | Passed | 0.0 | 1.00 |
+| 10/7/2026 | BVP4402E | Collection and Preservation of Evidence | Passed | 0.0 | 0.25 |
+| 10/7/2026 | BVP2785E | PREA | Passed | 0.0 | 0.50 |
 | 9/4/2026 | BVP0210D | September 2026 Range 090426 AM | Passed | 0.0 | 3.00 |
 | 6/17/2026 | BVP1918D | IST Taser10 Certification 061726 | Passed | 0.0 | 9.00 |
 | 6/6/2026 | BVP0875C | Unconscious Bias | Passed | 0.0 | 0.50 |

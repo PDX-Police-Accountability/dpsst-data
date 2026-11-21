@@ -4433,10 +4433,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 7/21/2026
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2026
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/24/2025

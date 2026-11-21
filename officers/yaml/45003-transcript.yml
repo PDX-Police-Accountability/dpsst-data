@@ -112,6 +112,30 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/7/2026
+  course: HBP1650E
+  title: In-Service 2026-4, ERIM Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/7/2026
+  course: HBP1484E
+  title: In-Service 2026-4, FPC and SAFE Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/7/2026
+  course: HBP4425E
+  title: In-Service 2026-4, Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/7/2026
+  course: HBP1891E
+  title: In-Service 2026-4,  Taser 10 Recert
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
 - date: 9/30/2026
   course: HBP3771E
   title: Patrol LT/SGT Mtg  Supervisor Training

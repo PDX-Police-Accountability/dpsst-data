@@ -51,6 +51,7 @@
 | 12/1/2025 | HBS2930C | Virtual - Crowd Control | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS3694C | Virtual - Suicide Prevention in Jails | Passed | 0.0 | 1.00 |
 | 12/1/2025 | HBS1742C | Virtual-Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
+| 12/1/2025 | HBS4632E | AXON BWC | Passed | 0.0 | 4.00 |
 | 11/24/2025 | HBS0044C | Recruit-IS700  NIMS, An Introduction | Passed | 0.0 | 1.25 |
 | 11/24/2025 | HBS4351C | Recruit-IS800 Nat'l Response, An Intro | Passed | 0.0 | 1.25 |
 | 11/24/2025 | HBS1713C | Recruit-ICS100/IS An Intro To ICS | Passed | 0.0 | 2.00 |

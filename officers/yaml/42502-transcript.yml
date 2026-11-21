@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2026
+  course: BPT3484E
+  title: EmergencyVehOperations Inst Course Shadow Hrs
+  status: Passed
+  score: '0.0'
+  hours: '96.00'
 - date: 11/4/2026
   course: OCS0209E
   title: 2026 Fall Patrol Rifle

@@ -50,6 +50,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2026 | HBP3424E | In-Service 2026-4, FPC and SAFE Familiarization | Passed | 0.0 | 0.50 |
+| 10/14/2026 | HBP4538E | In-Service 2026-4, ERIM Refresher | Passed | 0.0 | 0.75 |
+| 10/14/2026 | HBP1304E | In-Service 2026-4, Range | Passed | 0.0 | 3.00 |
+| 10/14/2026 | HBP2917E | In-Service 2026-4, Taser 10 Recert | Passed | 0.0 | 2.75 |
 | 9/2/2026 | HBP1992D | Respectful Workplace - Supervisor Trng (Equity) | Passed | 0.0 | 1.00 |
 | 9/2/2026 | HBP0195D | Respectful Workplace - Supervisor Trng (Ldrshp) | Passed | 0.0 | 1.00 |
 | 8/19/2026 | HBP3441D | PoliceOne Foundations in Ethics for LE | Passed | 0.0 | 1.00 |

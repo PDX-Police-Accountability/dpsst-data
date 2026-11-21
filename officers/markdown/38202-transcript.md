@@ -30,7 +30,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/3/2025 | 10/3/2027 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,6 +51,7 @@
 | 7/7/2026 | HDA4087D | Jeremy Brown Shooting | Passed | 0.0 | 2.00 |
 | 7/7/2026 | HDA0135D | Transnational Marijuana Investigations | Passed | 0.0 | 4.00 |
 | 6/12/2026 | PDS1974D | Firearms | Passed | 0.0 | 4.00 |
+| 5/13/2026 | PDS3946E | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/28/2026 | PDS4219D | Range | Passed | 0.0 | 2.00 |
 | 3/18/2026 | PDS1438C | Deep Dive | Passed | 0.0 | 8.00 |
 | 3/4/2026 | PDS1020C | Equipment Management and Dock Dive | Instructed | 0.0 | 8.00 |

@@ -27,7 +27,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/14/2026 | 1/13/2028 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2026 | 12/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Code of Ethics | Signed | 2/8/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +43,8 @@
 | 10/16/2026 | BVP2424E | EVOC IST October 2026 101626 | Passed | 0.0 | 3.00 |
 | 10/14/2026 | BVP3292E | Implicit Bias in Policing | Passed | 0.0 | 1.00 |
 | 10/2/2026 | BVP0130E | Evacuation / Fire Extinguisher | Passed | 0.0 | 0.50 |
+| 10/2/2026 | BVP4402E | Collection and Preservation of Evidence | Passed | 0.0 | 0.25 |
+| 10/2/2026 | BVP2785E | PREA | Passed | 0.0 | 0.50 |
 | 9/23/2026 | BVP0509D | September 2026 CT IST 092326 AM | Passed | 0.0 | 3.00 |
 | 9/7/2026 | BVP1872D | September 2026 Range 090726 PM | Passed | 0.0 | 3.00 |
 | 7/17/2026 | BVP3085E | Harassment Prevention for Employees | Passed | 0.0 | 0.50 |

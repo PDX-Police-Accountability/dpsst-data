@@ -94,6 +94,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/5/2026
+  course: BVP4402E
+  title: Collection and Preservation of Evidence
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2026
+  course: BVP2785E
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/22/2026
   course: BVP2065E
   title: EVOC IST October 2026 102226
