@@ -105,9 +105,9 @@ training_records:
 - date: 4/27/2026
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Withdrew
+  status: Incomplete
   score: '0.0'
-  hours: '640.00'
+  hours: '0.00'
 - date: 4/22/2026
   course: PDP1235C
   title: 2026 FTEP New Hire Firearms

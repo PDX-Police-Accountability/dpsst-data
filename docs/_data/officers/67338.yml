@@ -492,6 +492,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/28/2026
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
 - date: 8/11/2026
   course: REG4005D
   title: CORE-RADAR-LIDAR Classroom
@@ -522,12 +528,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
-- date: 4/27/2026
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 4/23/2026
   course: PDP0959D
   title: ICS-100 Intro to the Incident Command Syst

@@ -106,12 +106,12 @@
 | 8/31/2026 | PDP0921D | 2025 IS - PVO Stop Stick Hyperlink | Passed | 0.0 | 0.75 |
 | 8/31/2026 | PDP2673D | 2025 PVO-101/Stop Stick Training for Post Academy | Passed | 0.0 | 1.25 |
 | 8/31/2026 | PDP4304D | Patrol Vehicle Operations Policy  [PVO101] | Passed | 0.0 | 0.50 |
+| 8/28/2026 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 8/11/2026 | REG4005D | CORE-RADAR-LIDAR Classroom | Passed | 0.0 | 8.00 |
 | 8/6/2026 | REG4461D | SFST-DID (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/16/2026 | REG2962D | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 7/2/2026 | PDP1901D | New Radar Lidar Operator Course | Passed | 0.0 | 12.00 |
 | 7/2/2026 | REG0822D | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
-| 4/27/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 4/23/2026 | PDP0959D | ICS-100 Intro to the Incident Command Syst | Passed | 0.0 | 2.00 |
 | 4/23/2026 | PDP2413D | ICS 200 Basic Incident Command Syst for Init Resp | Passed | 0.0 | 4.00 |
 | 4/23/2026 | PDP2447D | IS-700 NIMS An Introduction | Passed | 0.0 | 4.00 |
