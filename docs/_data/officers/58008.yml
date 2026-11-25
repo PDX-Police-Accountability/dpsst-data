@@ -3,12 +3,18 @@ header_record:
   name: Petty, Michelle E.
   dpsst_identifier: '58008'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/18/2026
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/19/2017
   agency: Portland Police Bureau
   action: Hired
@@ -21,21 +27,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/2/2025
-  expiration_date: ''
+  expiration_date: 2/18/2027
   probation_date: ''
 - status_date: 10/2/2025
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/2/2025
-  expiration_date: ''
+  expiration_date: 2/18/2027
   probation_date: ''
 - status_date: 11/5/2018
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 11/5/2018
-  expiration_date: ''
+  expiration_date: 2/18/2027
   probation_date: ''
 training_records:
 - date: 10/26/2026

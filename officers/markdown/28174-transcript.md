@@ -4,7 +4,7 @@
 | name | Nilsen, Matthew J. |
 | dpsst_identifier | 28174 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/16/2026 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 5/27/2021 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 12/6/2008 | Portland Police Bureau | Demotion | Police Off |  |  |
 | 1/24/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -23,8 +24,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/28/2023 | Police Officer | Supervisory | Granted | 9/28/2023 |  |  |
-| 7/25/1996 | Police Officer | Basic | Granted | 7/25/1996 |  |  |
+| 9/28/2023 | Police Officer | Supervisory | Granted | 9/28/2023 | 2/16/2027 |  |
+| 7/25/1996 | Police Officer | Basic | Granted | 7/25/1996 | 2/16/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
