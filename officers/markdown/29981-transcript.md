@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2026 | WLP3167E | Active Threat Response for Patrol | Instructed | 0.0 | 3.00 |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/23/2026 | WLP0290D | Firearms Training / Qualifications / 40mm Launcher | Passed | 0.0 | 3.00 |
 | 9/15/2026 | WLP4462D | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |

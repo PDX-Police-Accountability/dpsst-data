@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/9/2026 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 11/2/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/27/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/22/2026 | GPN4300D | Case Management Trainning Dashboard OSP 2 | Passed | 0.0 | 2.00 |
@@ -53,6 +54,7 @@
 | 6/3/2026 | GPN3733D | Con Sims | Passed | 0.0 | 3.00 |
 | 6/2/2026 | GPN3733D | Con Sims | Instructed | 0.0 | 22.00 |
 | 5/13/2026 | UOP0349C | Patient Evaluation for Law Enforcement | Passed | 0.0 | 2.00 |
+| 5/13/2026 | UOP1925E | Patient Evaluation for Law Enforcement | Passed | 0.0 | 2.00 |
 | 5/12/2026 | GPN2450D | Search and Seizure | Passed | 0.0 | 2.00 |
 | 5/8/2026 | REG3877D | Patrol Rifle Instructor Development Course | Passed | 0.0 | 30.00 |
 | 4/23/2026 | GPN3810D | Firearms/Use of Force | Instructed | 0.0 | 8.00 |

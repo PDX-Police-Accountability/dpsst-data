@@ -4,7 +4,7 @@
 | name | Sharp, Jeffrey P. |
 | dpsst_identifier | 34582 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/12/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 3/25/2004 | Portland Police Bureau | Promotion | Detective |  |  |
 | 10/24/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/1/2010 | Police Officer | Advanced | Granted | 10/1/2010 |  |  |
-| 10/1/2010 | Police Officer | Intermediate | Granted | 10/1/2010 |  |  |
-| 7/27/1998 | Police Officer | Basic | Granted | 7/27/1998 |  |  |
+| 10/1/2010 | Police Officer | Advanced | Granted | 10/1/2010 | 2/12/2027 |  |
+| 10/1/2010 | Police Officer | Intermediate | Granted | 10/1/2010 | 2/12/2027 |  |
+| 7/27/1998 | Police Officer | Basic | Granted | 7/27/1998 | 2/12/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

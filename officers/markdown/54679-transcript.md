@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | MLP0713E | Night Shoot/Rifle  Pistol Qual | Passed | 0.0 | 2.00 |
 | 10/21/2026 | MLP1490E | Firearms / Pistol Qualification | Passed | 0.0 | 1.00 |
 | 4/22/2026 | MLP3962C | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 4/22/2026 | MLP3784D | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

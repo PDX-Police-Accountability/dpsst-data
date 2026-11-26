@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2026 | PDA2127E | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 8/12/2026 | PDA3876D | Use of Force Update | Passed | 0.0 | 1.50 |
 | 4/7/2026 | PDA0182C | Government Ethics | Passed | 0.0 | 1.00 |

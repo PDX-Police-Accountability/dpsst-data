@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2026 | OSH4270E | OSP Ethics 2026 | Passed | 0.0 | 1.00 |
 | 10/27/2026 | OSH3611E | OSP 3rd Trimester Firearms | Passed | 0.0 | 3.00 |
 | 10/2/2026 | OSH2686D | ATV Operator | Passed | 0.0 | 3.00 |
 | 6/22/2026 | OSH1955D | 2nd Tri Firearms | Passed | 0.0 | 4.00 |

@@ -40,6 +40,7 @@
 | 8/21/2026 | TGP0746D | National LE  Corporate Crimes Convention | Passed | 0.0 | 28.00 |
 | 8/21/2026 | TGP3835D | Covert Surveillance Training | Passed | 0.0 | 18.00 |
 | 8/12/2026 | TGP4151E | Hidden Homicide: Staged Crime Scenes | Passed | 0.0 | 8.00 |
+| 6/17/2026 | TGP0565E | Axon Investigate Metrologist Certification | Passed | 0.0 | 8.00 |
 | 5/31/2026 | TGP4328D | 2026 EOC/COOP Training | Passed | 0.0 | 0.25 |
 | 5/29/2026 | TGP2515D | Handgun | Passed | 0.0 | 4.00 |
 | 5/29/2026 | TGP2515D | Handgun | Instructed | 0.0 | 48.00 |

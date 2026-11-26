@@ -44,6 +44,7 @@
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/20/2026 | SAG2819E | Firearms - Night Range | Passed | 0.0 | 4.00 |
 | 10/20/2026 | SAG2819E | Firearms - Night Range | Instructed | 0.0 | 4.00 |
+| 9/18/2026 | PPP4026E | Master Handgun Instructor | Passed | 0.0 | 40.00 |
 | 8/12/2026 | SAG2609D | Firearms | Passed | 0.0 | 2.00 |
 | 6/22/2026 | SAG4549D | Firearms | Instructed | 0.0 | 8.00 |
 | 4/20/2026 | SMP2865C | Axon Taser Instructor Course | Passed | 0.0 | 16.00 |

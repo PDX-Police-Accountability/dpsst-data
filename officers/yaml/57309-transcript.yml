@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2026
+  course: OCS1832E
+  title: Pistol Mounted Optic Course
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 11/4/2026
   course: OCS0209E
   title: 2026 Fall Patrol Rifle

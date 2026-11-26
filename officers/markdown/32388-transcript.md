@@ -100,6 +100,7 @@
 | 10/16/2025 | GSP3992C | SWAT Practical | Passed | 0.0 | 10.00 |
 | 10/15/2025 | GSP4095B | SWAT Training | Instructed | 0.0 | 10.00 |
 | 10/5/2025 | GSP0081D | Handgun In-service | Instructed | 0.0 | 10.00 |
+| 10/5/2025 | GSP3194E | Handgun In-service | Instructed | 0.0 | 10.00 |
 | 10/2/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |
 | 10/1/2025 | GSP1472B | 2025 Language Line Refresher Training | Passed | 0.0 | 0.50 |
 | 10/1/2025 | GSP0901B | 2025 Ethics Training | Passed | 0.0 | 1.00 |

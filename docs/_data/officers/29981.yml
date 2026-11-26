@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2026
+  course: WLP3167E
+  title: Active Threat Response for Patrol
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/18/2026
   course: MISCMAIN
   title: 2026 LE Annual Maintenance

@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 9/25/2026
+  course: HBS1280E
+  title: LE Sniper Course
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 8/4/2026
   course: PDP2130D
   title: 2026 Lead Exposure Screening

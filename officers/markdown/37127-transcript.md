@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2026 | PDA2127E | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/16/2026 | PDA4011E | Media Policy | Passed | 0.0 | 0.50 |
 | 10/15/2026 | PDA2212E | Ethical Considerations for Asset Forfeiture | Passed | 0.0 | 1.00 |
 | 9/11/2026 | PDA2004E | Reporting  Responding to Sexual Misconduct | Passed | 0.0 | 0.75 |

@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2026 | OCS1832E | Pistol Mounted Optic Course | Instructed | 0.0 | 20.00 |
+| 11/17/2026 | OCS0162E | PMO Instructor Transition Course | Passed | 0.0 | 8.00 |
 | 11/4/2026 | OCS0209E | 2026 Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 11/4/2026 | OCS0209E | 2026 Fall Patrol Rifle | Instructed | 0.0 | 20.00 |
 | 10/29/2026 | OCS0862E | Use of Force Decision Making MILO | Passed | 0.0 | 1.00 |

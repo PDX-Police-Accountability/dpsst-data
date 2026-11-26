@@ -52,6 +52,7 @@
 | 9/30/2026 | HBP3771E | Patrol LT/SGT Mtg  Supervisor Training | Passed | 0.0 | 3.50 |
 | 9/30/2026 | HBP0089E | In-Service 2026-4, ERIM Refresher - FTI Day | Passed | 0.0 | 0.50 |
 | 9/30/2026 | HBP0512E | In-Service 2026-4, Taser 10 Recert - FTI Day | Passed | 0.0 | 2.00 |
+| 9/30/2026 | HBP4559E | In-Service 2026-4, Range - FTI Day | Passed | 0.0 | 4.00 |
 | 9/23/2026 | HBP3600D | Firearms Remediation Range | Instructed | 0.0 | 6.00 |
 | 9/23/2026 | HBP2222D | Handcuffing | Instructed | 0.0 | 1.00 |
 | 9/23/2026 | HBP4330D | Range | Instructed | 0.0 | 4.50 |

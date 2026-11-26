@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2026
+  course: MLP0713E
+  title: Night Shoot/Rifle  Pistol Qual
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/21/2026
   course: MLP1490E
   title: Firearms / Pistol Qualification

@@ -55,6 +55,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2026
+  course: PSU3878E
+  title: 2026 Q4 Firearms / BUIS Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/20/2026
+  course: PSU1126E
+  title: 'WT-801: RDS Transition Course'
+  status: Passed
+  score: '0.0'
+  hours: '19.50'
 - date: 11/10/2026
   course: PSU0766E
   title: Taser 10 Instructor Course

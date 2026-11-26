@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/22/2026
+  course: OSH4270E
+  title: OSP Ethics 2026
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/27/2026
   course: OSH3611E
   title: OSP 3rd Trimester Firearms

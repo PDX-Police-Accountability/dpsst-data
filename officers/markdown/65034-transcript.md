@@ -4,7 +4,7 @@
 | name | Moosavi, Sayed J. |
 | dpsst_identifier | 65034 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/17/2026 | Portland Police Bureau | Hired | Police Off |  |  |
 | 3/24/2025 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 2/15/2024 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/17/2026 | Police Officer | Basic | Required |  |  | 2/17/2028 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

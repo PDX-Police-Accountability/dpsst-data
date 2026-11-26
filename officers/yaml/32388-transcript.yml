@@ -440,6 +440,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 10/5/2025
+  course: GSP3194E
+  title: Handgun In-service
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/2/2025
   course: GSP0901B
   title: 2025 Ethics Training

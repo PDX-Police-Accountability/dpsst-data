@@ -75,6 +75,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/9/2026
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/2/2026
   course: MISCMAIN
   title: 2026 LE Basic 3 Year Maintenance Met
@@ -149,6 +155,12 @@ training_records:
   hours: '22.00'
 - date: 5/13/2026
   course: UOP0349C
+  title: Patient Evaluation for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/13/2026
+  course: UOP1925E
   title: Patient Evaluation for Law Enforcement
   status: Passed
   score: '0.0'

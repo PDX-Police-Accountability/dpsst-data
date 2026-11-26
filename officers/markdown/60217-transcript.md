@@ -40,6 +40,7 @@
 | 10/8/2026 | PDP2075D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 10/8/2026 | PDP2075D | 2026 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
 | 9/27/2026 | PDP3117D | 2026 Disability Series: Brain Injury | Passed | 0.0 | 0.75 |
+| 9/25/2026 | HBS1280E | LE Sniper Course | Passed | 0.0 | 36.00 |
 | 9/7/2026 | PDP0825D | Cybersecurity Awareness for City Employees | Passed | 0.0 | 0.50 |
 | 9/3/2026 | PDP0796D | 2026 SERT Training - SCENARIO | Passed | 0.0 | 6.00 |
 | 8/20/2026 | PDP1508D | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |

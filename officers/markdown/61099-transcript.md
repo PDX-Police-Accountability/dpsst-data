@@ -4,7 +4,7 @@
 | name | Robles, Karina P. |
 | dpsst_identifier | 61099 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/12/2026 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/28/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/3/2026 | Police Officer | Intermediate | Granted | 2/3/2026 |  |  |
-| 1/24/2022 | Police Officer | Basic | Granted | 1/24/2022 |  |  |
+| 2/3/2026 | Police Officer | Intermediate | Granted | 2/3/2026 | 2/12/2027 |  |
+| 1/24/2022 | Police Officer | Basic | Granted | 1/24/2022 | 2/12/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

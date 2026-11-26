@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/16/2026 | BNP3065E | Ethical Decision Making for Law Enforcement | Passed | 0.0 | 1.00 |
 | 10/6/2026 | BNP4112D | Smith  Wesson Shield Handgun Training | Passed | 0.0 | 1.50 |
 | 9/30/2026 | BNP2109D | ALPR / Senate Bill 1516 Training | Passed | 0.0 | 1.00 |
 | 9/25/2026 | OAC1070D | Beyond Report Writing: AI for LE | Passed | 0.0 | 2.00 |

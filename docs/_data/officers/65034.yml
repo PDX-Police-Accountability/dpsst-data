@@ -3,12 +3,18 @@ header_record:
   name: Moosavi, Sayed J.
   dpsst_identifier: '65034'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/17/2026
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/24/2025
   agency: Portland Police Bureau
   action: Resigned
@@ -21,7 +27,14 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 8/17/2026
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 2/17/2028
 training_records:
 - date: 10/21/2026
   course: PDP3734E

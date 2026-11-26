@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/13/2028 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/5/2026 | REG0649E | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 8/31/2026 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 8/27/2026 | PDP1717D | CPR First Aid Certification | Passed | 0.0 | 4.00 |
 | 8/26/2026 | PDP2003D | LEDS Certification | Passed | 0.0 | 2.50 |

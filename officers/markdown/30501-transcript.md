@@ -4,7 +4,7 @@
 | name | Prosser, Todd A. |
 | dpsst_identifier | 30501 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/18/2026 | Portland Police Bureau | Retired | Detective |  |  |
 | 7/8/2004 | Portland Police Bureau | Promotion | Detective |  |  |
 | 2/1/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/4/1996 | University of Oregon Police Department | Resigned | CPS |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/1/2010 | Police Officer | Advanced | Granted | 10/1/2010 |  |  |
-| 10/1/2010 | Police Officer | Intermediate | Granted | 10/1/2010 |  |  |
-| 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 |  |  |
+| 10/1/2010 | Police Officer | Advanced | Granted | 10/1/2010 | 2/18/2027 |  |
+| 10/1/2010 | Police Officer | Intermediate | Granted | 10/1/2010 | 2/18/2027 |  |
+| 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 | 2/18/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

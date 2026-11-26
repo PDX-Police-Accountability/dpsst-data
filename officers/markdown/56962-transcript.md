@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2026 | HBS0958E | PP Update Firearms Training | Passed | 0.0 | 12.00 |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/5/2026 | HBN0879E | Navigating Ethical Dilemmas | Passed | 0.0 | 1.50 |
 | 11/2/2026 | HBN3631E | Officer Involved Shooting Training (9-11am; 1-3pm) | Passed | 0.0 | 2.00 |

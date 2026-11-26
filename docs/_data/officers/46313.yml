@@ -86,9 +86,27 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/2/2026
+  course: PPP1777E
+  title: OC Deployment and Rendering Aid
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/1/2026
+  course: PPP2739E
+  title: Taser 7 Use of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/30/2026
   course: PPP1546C
   title: Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/23/2026
+  course: PPP1263E
+  title: Taser Training
   status: Passed
   score: '0.0'
   hours: '1.00'

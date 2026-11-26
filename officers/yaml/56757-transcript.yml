@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/1/2026
+  course: PPP2739E
+  title: Taser 7 Use of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/6/2026
   course: PPP1137C
   title: RRT April Training
@@ -110,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 3/26/2026
+  course: PPP1263E
+  title: Taser Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/10/2026
   course: LOP1909C
   title: EVOC

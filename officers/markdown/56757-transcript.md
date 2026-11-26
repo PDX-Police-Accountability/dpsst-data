@@ -44,8 +44,10 @@
 | 9/16/2026 | PPP0689D | AB4 | Passed | 0.0 | 1.00 |
 | 5/21/2026 | VND4322C | 28 CFR 23 | Passed | 0.0 | 2.00 |
 | 5/21/2026 | PPP3215C | 28 CFR 23 | Passed | 0.0 | 2.00 |
+| 5/1/2026 | PPP2739E | Taser 7 Use of Force Scenarios | Passed | 0.0 | 0.50 |
 | 4/6/2026 | PPP1137C | RRT April Training | Passed | 0.0 | 10.00 |
 | 4/3/2026 | PDS4384C | Basic Detective Academy | Passed | 0.0 | 40.00 |
+| 3/26/2026 | PPP1263E | Taser Training | Passed | 0.0 | 1.00 |
 | 3/10/2026 | LOP1909C | EVOC | Passed | 0.0 | 4.00 |
 | 2/4/2026 | PPP4466C | Active Shooter and Winning Mindset | Instructed | 0.0 | 28.00 |
 | 1/13/2026 | PPP4574C | 2026 Annual Qualification Handgun  Rifle | Passed | 0.0 | 4.00 |

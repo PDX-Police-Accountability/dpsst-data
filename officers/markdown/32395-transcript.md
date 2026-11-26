@@ -39,8 +39,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2026 | PPP0689D | AB4 | Passed | 0.0 | 1.00 |
+| 5/1/2026 | PPP2739E | Taser 7 Use of Force Scenarios | Passed | 0.0 | 0.50 |
+| 4/29/2026 | PPP0443E | Airport Explosive Detection K9 Training April 2026 | Passed | 0.0 | 40.00 |
+| 4/22/2026 | PPP3208E | Airport Explosive Detection K9 Training June 2026 | Passed | 0.0 | 30.00 |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
 | 3/25/2026 | PPP0208C | Airport Explosive Detection K9 Training March | Passed | 0.0 | 30.00 |
+| 3/23/2026 | PPP1263E | Taser Training | Passed | 0.0 | 1.00 |
 | 3/13/2026 | LOP1672C | EVOC | Passed | 0.0 | 4.00 |
 | 3/11/2026 | PPP1747C | District Attorney Updates with DA Nathan Vasquez | Passed | 0.0 | 1.00 |
 | 2/25/2026 | PPP4507C | Airport Explosive Detection K9 Training February | Passed | 0.0 | 30.00 |

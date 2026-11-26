@@ -45,6 +45,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/18/2026 | LOP0513E | School of Leadership | Passed | 0.0 | 4.00 |
 | 11/12/2026 | LOP4059E | First Aid | Passed | 0.0 | 2.00 |
 | 10/8/2026 | LOP0886D | Firearms Training | Passed | 0.0 | 4.00 |
 | 10/8/2026 | LOP3734E | Firearms Training | Passed | 0.0 | 4.00 |

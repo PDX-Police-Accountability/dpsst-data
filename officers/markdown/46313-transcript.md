@@ -41,7 +41,10 @@
 | 9/16/2026 | PPP0689D | AB4 | Passed | 0.0 | 1.00 |
 | 6/13/2026 | PPP1255C | Duty to Render Aid and Duty to Intervene | Passed | 0.0 | 0.50 |
 | 6/2/2026 | PPP3243C | OC Deployment and Rendering Aid | Passed | 0.0 | 0.50 |
+| 6/2/2026 | PPP1777E | OC Deployment and Rendering Aid | Passed | 0.0 | 0.50 |
+| 5/1/2026 | PPP2739E | Taser 7 Use of Force Scenarios | Passed | 0.0 | 0.50 |
 | 3/30/2026 | PPP1546C | Safety | Passed | 0.0 | 1.00 |
+| 3/23/2026 | PPP1263E | Taser Training | Passed | 0.0 | 1.00 |
 | 2/23/2026 | PPP0470C | Case Law Updates and Report Writing | Passed | 0.0 | 2.00 |
 | 2/9/2026 | PPP4466C | Active Shooter and Winning Mindset | Passed | 0.0 | 4.00 |
 | 1/20/2026 | PPP0818C | Wellness | Passed | 0.0 | 1.00 |

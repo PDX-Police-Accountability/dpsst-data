@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2026 | PSU3878E | 2026 Q4 Firearms / BUIS Qualification | Passed | 0.0 | 0.50 |
+| 11/20/2026 | PSU1126E | WT-801: RDS Transition Course | Passed | 0.0 | 19.50 |
 | 11/10/2026 | PSU0766E | Taser 10 Instructor Course | Passed | 0.0 | 24.00 |
 | 10/21/2026 | PSU0759D | Tactical Baton Refresher | Passed | 0.0 | 4.00 |
 | 10/21/2026 | PSU3227E | Tactical Baton Refresher | Passed | 0.0 | 4.00 |

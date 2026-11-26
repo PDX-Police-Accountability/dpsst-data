@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/17/2026
+  course: TGP0565E
+  title: Axon Investigate Metrologist Certification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/31/2026
   course: TGP4328D
   title: 2026 EOC/COOP Training

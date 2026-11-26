@@ -74,6 +74,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/1/2026
+  course: PPP2739E
+  title: Taser 7 Use of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/29/2026
+  course: PPP0443E
+  title: Airport Explosive Detection K9 Training April 2026
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/22/2026
+  course: PPP3208E
+  title: Airport Explosive Detection K9 Training June 2026
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 3/30/2026
   course: PPP1546C
   title: Safety
@@ -86,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 3/23/2026
+  course: PPP1263E
+  title: Taser Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/13/2026
   course: LOP1672C
   title: EVOC

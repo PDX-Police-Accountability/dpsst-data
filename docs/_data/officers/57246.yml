@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2026
+  course: HBS0958E
+  title: PP Update Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 11/18/2026
   course: MISCMAIN
   title: 2026 LE Annual Maintenance

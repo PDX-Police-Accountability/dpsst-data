@@ -40,7 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2026 | OCS1762E | Crisis Intervention:Overall Effective Models | Passed | 0.0 | 4.00 |
 | 10/29/2026 | OCS0862E | Use of Force Decision Making MILO | Passed | 0.0 | 1.00 |
+| 10/23/2026 | OCS1785E | Crisis intervention: First look | Passed | 0.0 | 1.00 |
+| 10/16/2026 | OCS4392E | Shield of resilience | Passed | 0.0 | 1.00 |
 | 7/31/2026 | OCS0139D | 2026 3rd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 7/29/2026 | OCS1503D | Draw Speed/Marksmanship, Movement | Passed | 0.0 | 1.00 |
 | 4/30/2026 | OCS2198C | 2026 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |

@@ -94,6 +94,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/18/2026
+  course: LOP0513E
+  title: School of Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/12/2026
   course: LOP4059E
   title: First Aid
