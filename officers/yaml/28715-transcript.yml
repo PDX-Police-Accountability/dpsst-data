@@ -75,6 +75,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/18/2026
+  course: HBP1043E
+  title: In-Service 2026-4, Taser 10 Recert
+  status: Instructed
+  score: '0.0'
+  hours: '2.75'
 - date: 11/17/2026
   course: HBP1444E
   title: In-Service 2026-4, ERIM Refresher

@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/18/2026 | HBP1043E | In-Service 2026-4, Taser 10 Recert | Instructed | 0.0 | 2.75 |
 | 11/17/2026 | HBP1444E | In-Service 2026-4, ERIM Refresher | Instructed | 0.0 | 0.75 |
 | 11/17/2026 | HBP0789E | In-Service 2026-4, Taser 10 Recert | Instructed | 0.0 | 2.75 |
 | 10/28/2026 | HBP3804E | In-Service 2026-4, Taser 10 Recert | Instructed | 0.0 | 2.75 |

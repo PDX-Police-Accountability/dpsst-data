@@ -41,9 +41,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2026 | PDA2372E | Defensive Tactics  Use of OC Spray refresher | Passed | 0.0 | 2.00 |
 | 11/13/2026 | PDA2127E | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/16/2026 | PDA4011E | Media Policy | Passed | 0.0 | 0.50 |
 | 10/15/2026 | PDA2212E | Ethical Considerations for Asset Forfeiture | Passed | 0.0 | 1.00 |
+| 10/8/2026 | PDA3288E | Implicit Bias Training for Law Enforcement | Passed | 0.0 | 1.50 |
+| 10/8/2026 | PDA3901E | Airways Training | Passed | 0.0 | 2.00 |
+| 10/8/2026 | PDA4498E | Creating Safe Scenes | Passed | 0.0 | 1.50 |
+| 10/8/2026 | PDA0241E | Intro to PS De-Escalation Tactics for Vets | Passed | 0.0 | 2.00 |
+| 9/30/2026 | PDA4498E | Creating Safe Scenes | Passed | 0.0 | 1.50 |
 | 9/11/2026 | PDA2004E | Reporting  Responding to Sexual Misconduct | Passed | 0.0 | 0.75 |
 | 9/4/2026 | PDA0206E | Use of Force - Legal and e-Recording of Interviews | Passed | 0.0 | 1.00 |
 | 9/3/2026 | PDA2134E | Task Force Officer (TFO) Basic: Fundamentals | Passed | 0.0 | 3.00 |

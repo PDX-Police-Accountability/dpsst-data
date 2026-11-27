@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/18/2026 | PDA2372E | Defensive Tactics  Use of OC Spray refresher | Passed | 0.0 | 2.00 |
 | 11/13/2026 | PDA2127E | Handgun Firearms | Passed | 0.0 | 4.50 |
 | 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/22/2026 | PDA1661D | Focused Response for Veterans | Passed | 0.0 | 1.00 |

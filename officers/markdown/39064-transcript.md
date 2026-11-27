@@ -27,7 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/20/2025 | 5/30/2027 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 4/15/2002 |  |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/8/2026 | TDP4224E | Fall Low Light Firearms Qual and Training | Passed | 0.0 | 4.00 |
 | 10/22/2026 | TDP0142D | Pro Poenix CAD RMS LE Technology | Passed | 0.0 | 8.00 |
 | 10/22/2026 | TDP1202E | Pro Phoenix RMS/CAD end user training | Passed | 0.0 | 8.00 |

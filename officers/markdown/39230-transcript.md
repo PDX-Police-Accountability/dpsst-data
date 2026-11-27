@@ -32,9 +32,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | CPR | 1/15/2026 | 1/15/2028 |
 | Certification Cards | First Aid and CPR | 1/15/2026 | 1/15/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
@@ -45,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2026 | EGP1699E | The Duty to Intervene: Legal Updates  Policies | Passed | 0.0 | 2.00 |
 | 11/12/2026 | EGP3374E | Deflection Program Update (Bias) | Passed | 0.0 | 0.75 |
 | 11/12/2026 | EGP4044E | The Duty to Intervene: Legal Updates/Policies | Passed | 0.0 | 1.00 |

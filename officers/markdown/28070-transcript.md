@@ -28,9 +28,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2027 | 12/31/2029 |
 | Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/16/2025 | 1/16/2027 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 1/1/1950 |
 | Code of Ethics | Signed | 12/16/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,7 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/18/2026 | MISCMAIN | 2026 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/18/2026 | MNS2002E | Responding To A Jumper | Passed | 0.0 | 2.00 |
 | 11/12/2026 | MNP4397E | Drone Trng: Scene documntn (JZ)  Legal/ORS (SV) | Passed | 0.0 | 1.50 |
 | 10/30/2026 | MNS1487E | Daylight Firearms Qualification | Passed | 0.0 | 2.00 |
 | 10/9/2026 | MNS2621E | Cardiovascular Anatomy Phys for LEO | Passed | 0.0 | 2.00 |

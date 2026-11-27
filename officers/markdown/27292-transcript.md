@@ -48,6 +48,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/10/2026 | XDELETE6 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
+| 11/10/2026 | PDS2500E | November 2026 Crisis Negotiations Team Training | Passed | 0.0 | 16.00 |
 | 10/28/2026 | MISCMAIN | 2026 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 10/7/2026 | PDS0216E | Sergeant's Monthly Meetings | Passed | 0.0 | 1.00 |
 | 9/14/2026 | PDS1929E | UNET Range | Passed | 0.0 | 4.00 |

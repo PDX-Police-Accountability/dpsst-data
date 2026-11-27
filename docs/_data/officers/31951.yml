@@ -67,7 +67,7 @@ training_records:
   title: Firearms - Night Range
   status: Passed
   score: '0.0'
-  hours: '4.00'
+  hours: '0.00'
 - date: 9/17/2026
   course: RSS2573D
   title: 2026 OHIA Major Crimes Conference
@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/31/2025
+  course: MAINTMUF
+  title: Maintenance Makeup Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/16/2025
   course: SAG0868A
   title: 4th Annual OCCIA Conference

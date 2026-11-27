@@ -23,8 +23,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2027 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/11/2026 | 1/31/2028 |
-| Maintenance Requirements | LE Annual | 1/1/2026 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2026 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Code of Ethics | Law Enforcement Signed | 7/12/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 8/4/2020 |  |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2026 | MISCMAIN | 2026 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/22/2026 | OSH4270E | OSP Ethics 2026 | Passed | 0.0 | 1.00 |
 | 10/27/2026 | OSH3611E | OSP 3rd Trimester Firearms | Passed | 0.0 | 3.00 |
 | 10/2/2026 | OSH2686D | ATV Operator | Passed | 0.0 | 3.00 |

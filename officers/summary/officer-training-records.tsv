@@ -6297,8 +6297,13 @@ dpsst_identifier	date	course	title	status	score	hours
 17080	3/25/1988	889166	FINGERPRINT-IDENTIFICATION	Passed	0.0	40.00
 17080	4/10/1985	859203	LEDS SYSTEM CHANGES	Passed	0.0	3.00
 17080	6/21/1984	849161	BASIC OR CRIM JUST INFO SYSTEM	Passed	0.0	8.00
+17106	11/18/2026	PDA2372E	Defensive Tactics  Use of OC Spray refresher	Passed	0.0	2.00
+17106	11/16/2026	PDA3901E	Airways Training	Passed	0.0	2.00
+17106	11/16/2026	PDA4498E	Creating Safe Scenes	Passed	0.0	1.50
+17106	11/16/2026	PDA0241E	Intro to PS De-Escalation Tactics for Vets	Passed	0.0	2.00
 17106	11/13/2026	PDA2127E	Handgun Firearms	Passed	0.0	4.50
 17106	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+17106	9/30/2026	PDA3288E	Implicit Bias Training for Law Enforcement	Passed	0.0	1.50
 17106	8/12/2026	PDA3876D	Use of Force Update	Passed	0.0	1.50
 17106	4/7/2026	PDA0182C	Government Ethics	Passed	0.0	1.00
 17106	4/7/2026	PDA0008C	Government Ethics	Passed	0.0	1.00
@@ -11149,6 +11154,7 @@ dpsst_identifier	date	course	title	status	score	hours
 19502	8/29/1986	861127	BASIC POLICE CLASS #127	Passed	0.0	320.00
 19502	8/22/1986	86F001	FIRST AID/CPR	Passed	0.0	8.00
 19502	8/5/1986	869099	INTOXILYZER MODEL 4011-A	Passed	0.0	4.00
+19896	11/24/2026	CYS3776E	Legal Updates	Passed	0.0	1.00
 19896	9/23/2026	JDN4558D	Handgun qualifications	Passed	0.0	0.50
 19896	9/23/2026	JDN3264D	Rifle qualifications	Passed	0.0	0.50
 19896	9/23/2026	JDN3262D	Firearms Training and Tac-Med Refresher	Passed	0.0	2.00
@@ -48144,6 +48150,7 @@ dpsst_identifier	date	course	title	status	score	hours
 26706	3/24/1995	95A094	BASIC CORRECTIONS CLASS NO. 94	Passed	0.0	200.00
 26706	11/10/1993	93U001	Approved In-State Training	Passed	0.0	2.00
 26706	2/18/1992	91J079	BASIC POLICE RESERVE ACADEMY	Passed	0.0	282.00
+26711	11/25/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 26711	10/14/2026	HBP3424E	In-Service 2026-4, FPC and SAFE Familiarization	Passed	0.0	0.50
 26711	10/14/2026	HBP4538E	In-Service 2026-4, ERIM Refresher	Passed	0.0	0.75
 26711	10/14/2026	HBP1304E	In-Service 2026-4, Range	Passed	0.0	3.00
@@ -58228,6 +58235,7 @@ dpsst_identifier	date	course	title	status	score	hours
 27250	8/13/1992	92J007	INTOXILYZER	Passed	0.0	4.00
 27292	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 27292	11/10/2026	XDELETE6	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	16.00
+27292	11/10/2026	PDS2500E	November 2026 Crisis Negotiations Team Training	Passed	0.0	16.00
 27292	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 27292	10/7/2026	PDS0216E	Sergeant's Monthly Meetings	Passed	0.0	1.00
 27292	9/14/2026	PDS1929E	UNET Range	Passed	0.0	4.00
@@ -60526,566 +60534,6 @@ dpsst_identifier	date	course	title	status	score	hours
 27543	12/1/1992	92K040	MEDIC FIRST AID	Passed	0.0	8.00
 27543	11/5/1992	92J007	INTOXILYZER	Passed	0.0	4.00
 27543	10/13/1992	92K232	HAZARDOUS MATERIALS AWARENESS	Passed	0.0	4.00
-27544	12/14/2020	PDP12780	2020 CHO Stops App Update	Passed	0.0	0.50
-27544	12/14/2020	PDP37866	2020 Roles/Resp PPB on Mental Health Related Calls	Passed	0.0	1.00
-27544	12/14/2020	PDP07824	2020-10 City Attorney's Office Legal Updates 10/20	Passed	0.0	0.25
-27544	12/14/2020	PDP37950	2020-7 City Attorney's Office Legal Updates 7/2020	Passed	0.0	0.72
-27544	12/14/2020	PDP29257	2020-8 City Attorney's Office Legal Updates 8/2020	Passed	0.0	0.25
-27544	12/14/2020	PDP10147	2020-9 City Attorney's Office Legal Updates 9/2020	Passed	0.0	0.25
-27544	12/1/2020	PDP29902	2020-8 TipsTech Extreme Risk Protection Orders	Passed	0.0	0.25
-27544	11/20/2020	MISCMAIN	2020 LE Annual Maintenance	Completed	0.0	0.00
-27544	11/7/2020	PDP27995	2020 Presumpt Declination DUIIs Invl Hosp BAC	Passed	0.0	0.25
-27544	11/6/2020	PDP02076	2020 City of Portland Bloodborne Pathogens	Passed	0.0	0.75
-27544	11/6/2020	PDP34280	2020-6 City Attorney's Office Legal Updates 6/2020	Passed	0.0	0.25
-27544	10/28/2020	PDP36872	2020 City Attorney's Off Don't Shoot PDX/Hernandez	Passed	0.0	0.25
-27544	10/28/2020	PDP19293	2020 City Attorney's Off Index Newspapers/SimonTRO	Passed	0.0	0.25
-27544	10/28/2020	PDP11585	2020 City Attorney's Off IPO/McNally Refresh Train	Passed	0.0	0.50
-27544	10/28/2020	PDP44040	2020 City Attorney's Office ACLU/Bushong TRO Tng	Passed	0.0	0.25
-27544	10/20/2020	PDP06968	2020-9 Tips  Techniques Car Voucher Program	Passed	0.0	0.25
-27544	10/6/2020	PDP23847	2020-2 Range Qualification Primary Firearm	Passed	0.0	0.50
-27544	10/6/2020	PDP03569	2020-2 Range Qualification Shotgun	Passed	0.0	0.25
-27544	10/6/2020	PDP19472	2020-2 Range Qualification Shotgun Function Check	Passed	0.0	0.25
-27544	10/5/2020	PDP30990	2020 Training Segmenting Video	Passed	0.0	0.25
-27544	10/5/2020	PDP11258	2020-5 City Attorney's Office Legal Updates 5/2020	Passed	0.0	0.50
-27544	10/5/2020	PDP13911	2020-6 Tips  Techniques Public Safety Statement	Passed	0.0	0.25
-27544	10/5/2020	PDP00994	2020-7 TipsTech Phillips Laser Protective Eyewear	Passed	0.0	0.25
-27544	9/22/2020	PDP16273	2020 FTEP Pre-DPSST Firearms	Instructed	0.0	10.00
-27544	9/15/2020	PDP25410	2020 CIU NTR Alarm Response Training	Passed	0.0	0.25
-27544	9/15/2020	PDP27440	2020-4 City Attorney's Office Legal Updates 4/2020	Passed	0.0	0.50
-27544	7/15/2020	PDP42651	2020-3 City Attorney's Office Legal Updates 3/2020	Passed	0.0	0.50
-27544	7/15/2020	PDP38171	2020-5 Tips  Tech Drug Packaging/Crime Lab Sub	Passed	0.0	0.25
-27544	6/23/2020	PDP24243	2020-2 City Attorney's Office Legal Updates 2/2020	Passed	0.0	0.50
-27544	6/11/2020	PDP08328	2020 City Attorney's Gathright Decision Refresher	Passed	0.0	0.25
-27544	5/28/2020	PDP30186	2020 InService Patrol Proc-Emergency Entry Class	Passed	0.0	2.00
-27544	5/11/2020	PDP15453	2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor	Passed	0.0	0.25
-27544	4/23/2020	PDP18308	2020-3 TipsTech Using Online Report for Addl Prop	Passed	0.0	0.25
-27544	4/8/2020	PDP11465	2020 YSD School Critical Incident Plans Video	Passed	0.0	0.25
-27544	3/31/2020	PDP03147	2020 Sworn InService CTs-Clinch and Grappling	Passed	0.0	2.00
-27544	3/31/2020	PDP15195	2020 Sworn InService CTs-Thumb Pectoral Index	Passed	0.0	2.00
-27544	3/30/2020	PDP00504	2020 InService EAP Dead Frce Incdnt:What Hapns Nxt	Passed	0.0	1.50
-27544	3/30/2020	PDP12740	2020 Training Sworn In-Service Ethics  Leadership	Passed	0.0	1.50
-27544	3/30/2020	PDP36368	2020 Training Sworn InService Wellness Mindfulness	Passed	0.0	1.00
-27544	3/30/2020	PDP09408	2020 Training Sworn In-Service Wellness Nutrition	Passed	0.0	1.00
-27544	3/26/2020	PDP19553	2020 InService Police Response Criminal Extremism	Passed	0.0	1.00
-27544	3/26/2020	PDP16593	2020 Training Sworn InService Wellness HeartHealth	Passed	0.0	1.00
-27544	3/25/2020	PDP00208	2020 BHR 2.02	Passed	0.0	1.00
-27544	3/25/2020	PDP20622	2020 City Attorney InService LegalUpdate/PubRecord	Passed	0.0	1.50
-27544	3/25/2020	PDP09085	2020 Training All Sworn In-Service CEW	Passed	0.0	1.50
-27544	3/25/2020	PDP28252	2020 In-Service Mobile Field Force Class Video	Passed	0.0	1.00
-27544	3/23/2020	PDP07236	2020 Training InService Wellness Stress/Resilience	Passed	0.0	1.50
-27544	3/17/2020	PDP33428	2020-1 CHO Force Inspector Updates for Q1	Passed	0.0	0.25
-27544	3/16/2020	PDP15754	2020-1 Range Qualification Primary Firearm	Passed	0.0	0.50
-27544	3/16/2020	PDP16258	2020-1 Range Qualification Shotgun	Passed	0.0	0.25
-27544	3/16/2020	PDP15893	2020-1 Range Qualification Shotgun Function Check	Passed	0.0	0.25
-27544	3/9/2020	PDP09165	2019-12 City Attorney's Office Legal Updates 12/19	Passed	0.0	0.50
-27544	3/9/2020	PDP09893	2020 SERT Patrol Armored Vehicle Use Video	Passed	0.0	0.25
-27544	3/9/2020	PDP40578	2020-1 City Attorney's Office Legal Updates 1/2020	Passed	0.0	0.50
-27544	2/6/2020	PDP24494	2020 Chief's Office Uniform Guide Video	Passed	0.0	0.25
-27544	1/27/2020	PDP08320	2020 Training Active Threat Review Video	Passed	0.0	0.25
-27544	1/7/2020	PDP23987	2020 Threat Assess/Referral Program (TARP) App	Passed	0.0	0.25
-27544	1/6/2020	PDP42566	2019-11 City Attorney's Office Legal Updates 11/19	Passed	0.0	0.25
-27544	1/6/2020	PDP14732	2020 Youth Educating Police Training	Passed	0.0	0.75
-27544	1/5/2020	PDP11761	2019-10 City Attorney's Office Legal Updates 10/19	Passed	0.0	0.25
-27544	12/27/2019	MISCMAIN	2019 LE Annual Maintenance	Completed	0.0	0.00
-27544	12/18/2019	PDP35628	2019 Training Sworn InService-ActiveThreat:Practic	Passed	0.0	9.00
-27544	12/17/2019	PDP37462	2019 Sworn InService-Pro Justice:Diff Vet Driver	Passed	0.0	0.50
-27544	12/17/2019	PDP27768	2019 Training Sworn In-Service - Control Tactics	Passed	0.0	2.00
-27544	12/17/2019	PDP17934	2019 Training Sworn In-Service-CEW/Taser:Practical	Passed	0.0	1.50
-27544	12/17/2019	PDP15175	2019 Training Sworn InService-Firearm:Target Focus	Passed	0.0	2.00
-27544	12/17/2019	PDP37902	2019 Training Sworn Member In-Service - PVO: HRVS	Passed	0.0	2.00
-27544	12/16/2019	PDP21868	2019 Sworn In-Service-CIT/MH Crisis Response Upd	Passed	0.0	1.00
-27544	12/16/2019	PDP23047	2019 Sworn In-Service-Functional Mvmt Stretch	Passed	0.0	1.00
-27544	12/16/2019	PDP04820	2019 Training Sworn InService-Leadership:Org Excel	Passed	0.0	1.00
-27544	11/25/2019	PDP34815	2019 MCDA Unavoidable Lull Opinion Update	Passed	0.0	0.25
-27544	11/25/2019	PDP36636	2019 Training Bloodborne Pathogens	Passed	0.0	0.75
-27544	11/25/2019	PDP36450	2019 Training Bloodborne Pathogens	Passed	0.0	0.75
-27544	11/25/2019	PDP08945	2019-3 Range Qualification Primary Firearm	Passed	0.0	0.50
-27544	11/25/2019	PDP16502	2019-3 Range Qualification Shotgun	Passed	0.0	0.25
-27544	11/25/2019	PDP23516	2019-3 Range Qualification Shotgun Function Check	Passed	0.0	0.25
-27544	11/18/2019	PDP31997	2019 Chief's Office SPLC Aryan Prison Gangs	Passed	0.0	0.25
-27544	11/18/2019	PDP19197	2019 Chief's Office SPLC Racists Skinheads	Passed	0.0	0.25
-27544	10/30/2019	PDP19532	2019-9 City Attorney's Office Legal Updates 9/2019	Passed	0.0	0.25
-27544	10/11/2019	PDP03093	2019 Chief's Office SPLC Antigovernment Extremists	Passed	0.0	0.25
-27544	10/11/2019	PDP08055	2019 Chiefs Office SPLC Sovereign Citizen Movement	Passed	0.0	0.25
-27544	10/11/2019	PDP14274	2019 City of Portland PBEM NET Roll Call Video	Passed	0.0	0.25
-27544	10/11/2019	PDP09647	2019-8 City Attorney's Office Legal Updates 8/2019	Passed	0.0	0.25
-27544	9/16/2019	PDP01504	2019-7 City Attorney's Office Legal Updates 7/2019	Passed	0.0	0.25
-27544	9/12/2019	PDP07809	2019 Chief's Office SPLC Hate Crimes	Passed	0.0	0.25
-27544	9/12/2019	PDP24727	2019 Chief's Office SPLC The Rise of the Lone Wolf	Passed	0.0	0.25
-27544	9/12/2019	PDP13537	2019 Training Public Safety Support Specialist Vid	Passed	0.0	0.25
-27544	9/12/2019	PDP40096	2019-2 CHO Force Inspector Updates for Q2	Passed	0.0	0.25
-27544	8/27/2019	PDP02916	2019 CHO SPLC Law Enforce Response to Hate Events	Passed	0.0	0.25
-27544	7/30/2019	PDP12126	2019-2 Range Qualification Firearms Training	Passed	0.0	0.75
-27544	7/30/2019	PDP09382	2019-2 Range Qualification Primary Firearm	Passed	0.0	0.50
-27544	7/30/2019	PDP36182	2019-2 Range Qualification Shotgun Function Check	Passed	0.0	0.25
-27544	7/30/2019	PDP12797	2019-2 Range Qualification Shotgun	Passed	0.0	0.25
-27544	6/25/2019	PDP15828	City Attorney's Office Legal Updates for May 2019	Passed	0.0	0.25
-27544	6/25/2019	PDP14658	CPR/First Aid	Passed	0.0	1.50
-27544	6/10/2019	PDP03202	2019-7 UPD TipsTech CAD Study Codes-Track Pursuit	Passed	0.0	0.25
-27544	6/5/2019	PDP38543	City Attorney's Office Legal Updates April 2019	Passed	0.0	0.50
-27544	6/4/2019	PDP14360	PSD Directive 630.61, Stolen Vehicles	Passed	0.0	0.25
-27544	5/23/2019	PDP22335	2019-1 PSD Force Inspector Updates for Q1	Passed	0.0	0.25
-27544	5/23/2019	PDP27572	2019-7 TipsTech CAD Study Codes to Track Pursuits	Passed	0.0	0.25
-27544	5/13/2019	PDP40036	2019 Training Choke and Carotid Awareness Video	Passed	0.0	0.25
-27544	5/13/2019	PDP17498	2019-4 Tips  Techniques Emailing Security Reports	Passed	0.0	0.25
-27544	5/13/2019	PDP21682	2019-5 Tips  Tech Enforce of Protection Orders	Passed	0.0	0.25
-27544	5/13/2019	PDP30979	2019-6 Tips and Techniques Training Roster	Passed	0.0	0.25
-27544	5/13/2019	PDP23426	City Attorney's Office Legal Updates February 2019	Passed	0.0	0.25
-27544	5/13/2019	PDP37791	City Attorney's Office Legal Updates March 2019	Passed	0.0	0.25
-27544	4/3/2019	PDP40931	2019-3 TipsTech ECIT Dispatch Criteria/BOEC Trng	Passed	0.0	0.25
-27544	4/2/2019	PDP23225	2018 City Attorney's Office Legal Updates for Q12	Passed	0.0	1.00
-27544	3/26/2019	PDP20004	2019 Personnel Hearing Conservation Training OSHA	Passed	0.0	0.25
-27544	3/26/2019	PDP21511	2018-5 Updated 100% Collection/Submission Model	Passed	0.0	0.25
-27544	3/26/2019	PDP37957	2019-2 TT Use of Force/De-escalation QA	Passed	0.0	0.25
-27544	3/26/2019	PDP30216	2019-1 Range Qualification Firearms Training	Passed	0.0	0.75
-27544	3/26/2019	PDP23421	2019-1 Range Qualification Primary Firearm	Passed	0.0	0.50
-27544	3/26/2019	PDP33365	2019-1 Range Qualification Shotgun Function Check	Passed	0.0	0.25
-27544	3/26/2019	PDP12870	2019-1 Range Qualification Shotgun	Passed	0.0	0.25
-27544	2/26/2019	PDP12115	2019-1 TT Ext Vest Equip Requirements and Recs	Passed	0.0	0.25
-27544	2/18/2019	PDP17574	2019 Det Sexual Assault Kit Tracking System App	Passed	0.0	0.25
-27544	2/18/2019	PDP25362	2019-1 City Attorney's Legal Updates for Jan 2019	Passed	0.0	0.50
-27544	1/23/2019	PDP11710	2018-4 City Attorney's Office Legal Updates for Q4	Passed	0.0	0.50
-27544	1/23/2019	PDP14745	2019 Training Seat Belt Video	Passed	0.0	0.25
-27544	1/3/2019	MISCMAIN	2018 LE AnnualRequired Maintenance	Completed	0.0	0.00
-27544	12/18/2018	PDP28385	2018-3 In-Service CEW Skills	Passed	0.0	2.00
-27544	12/18/2018	PDP24157	2018-3 In-Service Control Tactics	Passed	0.0	2.00
-27544	12/18/2018	PDP08972	2018-3 In-Service Firearms	Passed	0.0	2.00
-27544	12/18/2018	PDP13128	2018-3 In-Service Patrol Procedures Scenarios	Passed	0.0	2.00
-27544	12/17/2018	PDP25295	2018-3 In-Service Ambush Attacks/Post Shooting	Passed	0.0	1.00
-27544	12/17/2018	PDP33128	2018-3 In-Service CEW	Passed	0.0	1.50
-27544	12/17/2018	PDP05693	2018-3 In-Service Decision Making Exercise	Passed	0.0	1.00
-27544	12/17/2018	PDP36060	2018-3 In-Service Legal Updates	Passed	0.0	1.00
-27544	12/17/2018	PDP01810	2018-3 In-Service Procedural Justice	Passed	0.0	4.00
-27544	12/6/2018	PDP00554	2018 100% Collection and Submission Model Video	Passed	0.0	0.25
-27544	12/6/2018	PDP02905	2018-5 Tips  Tech 100% Collection and Submission	Passed	0.0	0.25
-27544	11/27/2018	PDP09911	2018 Annual Hearing Conservation Training for OSHA	Passed	0.0	0.25
-27544	10/10/2018	PDP21953	City Attorney's Legal Updates	Passed	0.0	0.25
-27544	10/4/2018	PDP15551	Fentanyl: The Real Deal	Passed	0.0	0.25
-27544	9/25/2018	PDP21493	2018-3 Range Qualification Primary Firearm	Passed	0.0	0.50
-27544	9/25/2018	PDP02546	2018-3 Range Qualification Shotgun Function Check	Passed	0.0	0.25
-27544	9/25/2018	PDP29426	2018-3 Range Qualification Shotgun	Passed	0.0	0.25
-27544	9/15/2018	MISCMAIN	2018 LE Basic 3 Year Maintenance	Completed	0.0	0.00
-27544	9/4/2018	PDP27651	2018 ITD MDC Console Replacement Videos-GetacV110	Passed	0.0	0.75
-27544	8/22/2018	PDP26441	RegJIN MRE Tree View Training	Passed	0.0	3.00
-27544	8/14/2018	PDP26970	Tips and Techniques Shooting though Barriers	Passed	0.0	0.25
-27544	7/3/2018	PDP41145	2018-2 Shotgun Qualification	Passed	0.0	0.50
-27544	7/3/2018	PDP15633	2018-2 Primary Sidearm Qualification	Passed	0.0	0.50
-27544	6/28/2018	PDP33173	SSD Stops Application	Passed	0.0	0.50
-27544	6/1/2018	PDP22051	Detectives How to Spot a Skimmer	Passed	0.0	0.25
-27544	6/1/2018	PDP27736	City Attorneys Office Legal Updates for Q4	Passed	0.0	0.50
-27544	5/22/2018	PDP40516	2018-2 Bloodborne Pathogens	Passed	0.0	1.00
-27544	5/22/2018	PDP07302	2018-2 In-Service Implicit Bias	Passed	0.0	3.00
-27544	5/22/2018	PDP00683	2018-2 In-Service Decision Point Analysis	Passed	0.0	2.50
-27544	5/22/2018	PDP20126	2018-2 In-Service Legal Updates	Passed	0.0	2.00
-27544	4/11/2018	PDP39936	Tips and Tech Hazard Tow vs. Private Request	Passed	0.0	0.25
-27544	4/11/2018	PDP18845	Disposition of Records Upon Retirement	Passed	0.0	0.25
-27544	3/23/2018	PDP42272	IFAK Refresher Video	Passed	0.0	0.25
-27544	3/14/2018	PDP11353	2017-3 Legal Updates for Q3	Passed	0.0	0.50
-27544	3/1/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	2/28/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	4.00
-27544	2/26/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	2/23/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	8.00
-27544	2/20/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	8.00
-27544	2/19/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	8.00
-27544	2/16/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	8.00
-27544	2/15/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	2/14/2018	PDP00965	PVO Scenario Based K9 Handler Training	Instructed	0.0	4.00
-27544	2/14/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	2/13/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	2/12/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	2/8/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	2/7/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	8.00
-27544	2/6/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	2/5/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	4.00
-27544	2/2/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	2/1/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/31/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	8.00
-27544	1/29/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/26/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/25/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/24/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/23/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/22/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/19/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/18/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/18/2018	PDP01076	BHU Mental Health Template Video Non-ECIT Officers	Passed	0.0	0.25
-27544	1/17/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	6.00
-27544	1/16/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Instructed	0.0	8.00
-27544	1/15/2018	PDP07748	2018-1 In-Service PVO High Speed Lapping	Passed	0.0	2.00
-27544	1/15/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Passed	0.0	2.00
-27544	1/15/2018	PDP32196	2018-1 In-Service PVO Precision Movement Course	Passed	0.0	2.00
-27544	1/15/2018	PDP22757	2018-1 In-Service Police Vehicle Operation Lecture	Passed	0.0	1.00
-27544	1/15/2018	PDP34636	2018-1 In-Service PVO Skid Car Operations	Passed	0.0	2.00
-27544	12/27/2017	PDP29646	Reducing DA Case Rejects 1 of 2	Passed	0.0	0.50
-27544	12/5/2017	PPB24634	2017-2 In-Servce Evaluations/Training Debrief	Passed	0.0	1.00
-27544	12/5/2017	PPB24639	2017-2 In-Service Firearms	Passed	0.0	2.00
-27544	12/5/2017	PPB24640	2017-2 In-Service TECC	Passed	0.0	2.00
-27544	12/5/2017	PPB24641	2017-2 In-Service Use of Force Scenarios	Passed	0.0	2.00
-27544	12/5/2017	PPB24642	2017-2 In-Service Defensive Tactics	Passed	0.0	2.00
-27544	12/4/2017	PPB24632	2017-2 In Service Employee Assistance Program	Passed	0.0	1.00
-27544	12/4/2017	PPB24633	2017-2 In-Service Chief's Hour and Evaluation	Passed	0.0	2.00
-27544	12/4/2017	PPB24635	2017-2 In-Service Use of Force	Passed	0.0	4.00
-27544	12/4/2017	PPB24636	2017-2 In-Service Crowd Control	Passed	0.0	1.00
-27544	12/4/2017	PPB24637	2017-2 In-Service Pursuit Policy	Passed	0.0	1.00
-27544	10/31/2017	PPB24790	OSP - FICS Training	Passed	0.0	0.25
-27544	10/31/2017	PPB24792	Responding to People in Elevated Positions	Passed	0.0	0.25
-27544	10/31/2017	PPB24793	Fentanyl Safety	Passed	0.0	0.25
-27544	6/30/2017	PPB24454	Handgun Qualification - Primary Sidearm	Passed	0.0	0.50
-27544	6/30/2017	PPB24460	Shotgun Qualification	Passed	0.0	0.50
-27544	4/30/2017	PPB24669	Mental Health Template: ECIT Trained Officers	Passed	0.0	0.25
-27544	4/30/2017	PPB24670	Mental Health Template: Non-ECIT Trained Officers	Passed	0.0	0.25
-27544	4/30/2017	PPB24788	Window of Opportunity	Passed	0.0	0.25
-27544	4/25/2017	PPB24474	Firearms - In Service 2017	Passed	0.0	2.00
-27544	4/25/2017	PPB24475	Taser - In Service 2017	Passed	0.0	1.00
-27544	4/25/2017	PPB24476	CPR/First Aid/ AED	Passed	0.0	2.00
-27544	4/25/2017	PPB24477	Patrol Tactics - Control/Cover Scenarios	Passed	0.0	2.00
-27544	4/25/2017	PPB24478	Defensive Tactics - In Service 2017	Passed	0.0	2.00
-27544	4/24/2017	PPB24466	Patrol Tactics - Control/Cover Officer Safety	Passed	0.0	2.00
-27544	4/24/2017	PPB24467	Crisis Communication - In Service 2017	Passed	0.0	2.00
-27544	4/24/2017	PPB24468	Bloodborne Pathogens - In Service 2017	Passed	0.0	0.50
-27544	4/24/2017	PPB24469	Legal Updates - In Service 2017	Passed	0.0	1.00
-27544	4/24/2017	PPB24470	HRAR 2.02 Workplace Harrassment Refresher	Passed	0.0	1.50
-27544	4/24/2017	PPB24471	Dir 635.20 Filming the Police In Service 2017	Passed	0.0	0.50
-27544	4/24/2017	PPB24473	Taser Update - In Service 2017	Passed	0.0	1.50
-27544	2/28/2017	F6C13191	Handgun Qualification-Primary Sidearm	Passed	0.0	0.50
-27544	2/28/2017	F6C25706	Shotgun Qualification	Passed	0.0	0.50
-27544	1/3/2017	PPB24457	Mobile Field Force - Refresher Training	Passed	0.0	4.00
-27544	12/31/2016	F6C15902	Roll Call Videos	Passed	0.0	0.75
-27544	10/31/2016	F6C04096	Handgun Qualification-Primary Sidearm	Passed	0.0	0.50
-27544	10/31/2016	F6C08264	Shotgun Qualification	Passed	0.0	0.50
-27544	10/12/2016	PPB24090	LEDS Recertification - Inquiry Level	Passed	0.0	1.00
-27544	10/11/2016	F6C03986	Directive 850.20 Response to Mental Health Crisis	Passed	0.0	1.00
-27544	10/11/2016	F6C41082	Defensive Tactics-Takedowns In-Service 2016	Passed	0.0	1.00
-27544	10/11/2016	F6C21978	Taser X2 Transition In-Service 2016	Passed	0.0	3.50
-27544	10/11/2016	F6C11731	Use of Force Scenarios In-Service 2016	Passed	0.0	1.50
-27544	10/11/2016	F6C27656	PVO In-Service 2016	Passed	0.0	1.75
-27544	10/10/2016	F6C14062	AR-15-In-Service 2016	Passed	0.0	2.00
-27544	10/10/2016	F6C34554	Equity Training	Passed	0.0	4.00
-27544	10/10/2016	F6C01591	TECC In-Service 2016	Passed	0.0	2.00
-27544	10/10/2016	F6C20891	Bloodborne Pathogens 2016	Passed	0.0	0.50
-27544	8/30/2016	F6C01393	RegJIN New Hire Training	Passed	0.0	20.00
-27544	6/30/2016	F6C40819	Handgun Qualificaiton - Secondary Sidearm	Passed	0.0	0.50
-27544	6/30/2016	F6C32309	Handgun Qualification - Primary Sidearm	Passed	0.0	0.50
-27544	6/30/2016	F6C20466	Shotgun Qualification	Passed	0.0	0.50
-27544	2/29/2016	F6C23868	Shotgun Qualification	Passed	0.0	0.50
-27544	2/29/2016	F6C35721	Handgun Qualification Primary Sidearm	Passed	0.0	0.50
-27544	12/31/2015	15-1262	Video Training Courses	Passed	0.0	1.25
-27544	12/31/2015	MISCMAIN	2015 Police Maintenance Basic	Completed	0.0	0.00
-27544	12/11/2015	15-0600	Versadex Software Applications	Passed	0.0	4.00
-27544	12/10/2015	15-0272	Taser Refresher Training	Passed	0.0	2.00
-27544	12/10/2015	15-0100	Active Shooter	Passed	0.0	1.00
-27544	12/10/2015	15-0121	Patrol Tactics - DT Focus	Passed	0.0	4.50
-27544	12/10/2015	15-0114	Defensive Tactics	Passed	0.0	4.50
-27544	12/10/2015	15-0129	Firearms Training	Passed	0.0	4.50
-27544	12/10/2015	15-0801	Homicide Investigation	Passed	0.0	2.00
-27544	12/10/2015	15-0915	Agency Policies / Procedures	Passed	0.0	0.50
-27544	12/10/2015	15-0915	Agency Policies / Procedures	Passed	0.0	3.00
-27544	12/10/2015	15-0925	Use of Force Policy	Passed	0.0	1.00
-27544	12/10/2015	15-0964	Bloodborne Pathogens	Passed	0.0	1.00
-27544	12/10/2015	15-1125	Forfeitures - Civil / Criminal	Passed	0.0	0.50
-27544	12/10/2015	15-1203	EVOC	Passed	0.0	2.00
-27544	12/10/2015	15-1203	EVOC	Instructed	0.0	22.00
-27544	12/10/2015	15-1210	Emotional Survival	Passed	0.0	2.00
-27544	12/10/2015	15-1223	Patrol Tactics	Passed	0.0	4.50
-27544	12/10/2015	15-0121	Patrol Tactics - DT Focus	Passed	0.0	2.00
-27544	11/11/2015	15-0953	CPR / First Aid / AED	Passed	0.0	2.00
-27544	10/31/2015	15-0169	Shotgun Qualification	Passed	0.0	0.50
-27544	10/31/2015	15-0141	Handgun Qualification	Passed	0.0	0.50
-27544	8/31/2015	PPB24184	MPU Weekly Training	Passed	0.0	16.25
-27544	8/26/2015	PPB24764	Mounted Patrol Fire Nuisance Training	Instructed	0.0	2.00
-27544	7/31/2015	PPB24184	MPU Weekly Training	Passed	0.0	12.50
-27544	6/30/2015	15-0141	Handgun Qualification	Passed	0.0	0.50
-27544	6/30/2015	15-0169	Shotgun Qualification	Passed	0.0	0.50
-27544	6/30/2015	PPB24184	MPU Weekly Training	Passed	0.0	6.50
-27544	4/30/2015	PPB24184	MPU Weekly Training	Passed	0.0	4.50
-27544	3/31/2015	PPB24184	MPU Weekly Training	Passed	0.0	4.50
-27544	2/28/2015	15-0141	Handgun Qualification	Passed	0.0	0.50
-27544	2/28/2015	15-0169	Shotgun Qualification	Passed	0.0	0.50
-27544	2/28/2015	15-0600	Versadex Software Applications	Passed	0.0	10.00
-27544	2/4/2015	15-1220	Mounted Patrol	Passed	0.0	1.00
-27544	1/28/2015	15-1220	Mounted Patrol	Passed	0.0	1.00
-27544	12/31/2014	14-0716	LEDS Recertification	Passed	0.0	1.00
-27544	12/31/2014	14-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	0.75
-27544	12/11/2014	14-0924	Sexual Harassment	Passed	0.0	1.00
-27544	11/21/2014	PPB24185	MPU Weekly Training	Passed	0.0	1.00
-27544	11/12/2014	PPB24185	MPU Weekly Training	Passed	0.0	0.75
-27544	10/31/2014	14-0141	Handgun Qualification	Passed	0.0	0.50
-27544	10/31/2014	14-0169	Shotgun Qualification	Passed	0.0	0.50
-27544	10/3/2014	14-1220	Mounted Patrol	Passed	0.0	32.00
-27544	9/30/2014	14-0711	Computer Training - Other	Passed	0.0	18.00
-27544	8/13/2014	F6Y00074	Mounted Patrol Trng	Passed	0.0	3.00
-27544	6/30/2014	14-0141	Handgun Qualification	Passed	0.0	0.50
-27544	6/30/2014	14-0169	Shotgun Qualification	Passed	0.0	0.50
-27544	5/25/2014	PPB24795	RRT Response to Mass Casualty Incidents	Passed	0.0	20.00
-27544	5/21/2014	14-0964	Bloodborne Pathogens	Passed	0.0	1.00
-27544	5/21/2014	14-0129	Firearms Training	Passed	0.0	2.00
-27544	5/21/2014	14-0114	Defensive Tactics	Passed	0.0	2.00
-27544	5/21/2014	14-0263	Contact  Cover Workshop	Passed	0.0	2.00
-27544	5/21/2014	14-0268	Tactical Survival	Instructed	0.0	8.00
-27544	5/21/2014	14-0268	Tactical Survival	Passed	0.0	2.00
-27544	5/21/2014	14-0431	Incident Management	Passed	0.0	3.75
-27544	5/21/2014	14-0720	Mobile Video	Passed	0.0	1.00
-27544	5/21/2014	14-1116	Legal/Legislative Update	Passed	0.0	1.25
-27544	5/21/2014	14-0915	Agency Policies / Procedures	Passed	0.0	0.50
-27544	5/21/2014	14-1203	EVOC	Passed	0.0	1.00
-27544	4/15/2014	14-0268	Tactical Survival	Instructed	0.0	8.00
-27544	4/8/2014	14-0268	Tactical Survival	Passed	0.0	2.00
-27544	3/12/2014	F6Y00075	Mounted Patrol Trng	Passed	0.0	3.00
-27544	2/28/2014	14-0141	Handgun Qualification	Passed	0.0	0.50
-27544	2/28/2014	14-0169	Shotgun Qualification	Passed	0.0	0.50
-27544	12/19/2013	13-1220	Mounted Patrol	Passed	0.0	1.00
-27544	12/18/2013	13-1220	Mounted Patrol	Passed	0.0	1.00
-27544	11/19/2013	13-0101	Active Shooter - Tactical Response	Passed	0.0	20.00
-27544	11/18/2013	13-0964	Bloodborne Pathogens	Passed	0.0	1.00
-27544	10/31/2013	13-0260	Vehicle Assault / Hostage Rescue	Passed	0.0	1.50
-27544	10/31/2013	13-0275	Use of Deadly Force	Passed	0.0	4.50
-27544	10/31/2013	13-1250	Driving - Other	Passed	0.0	3.00
-27544	10/31/2013	13-0272	Taser Refresher Training	Passed	0.0	4.50
-27544	10/29/2013	13-0915	Agency Policies / Procedures	Passed	0.0	0.50
-27544	10/29/2013	13-0925	Use of Force Policy	Passed	0.0	2.75
-27544	10/29/2013	13-0684	Effective Contacts with Mentally Ill Citizens	Passed	0.0	1.00
-27544	10/29/2013	13-0634	Report Writing	Passed	0.0	2.00
-27544	10/29/2013	13-1285	K-9 Tactical	Passed	0.0	1.50
-27544	9/30/2013	13-0141	Handgun Qualification	Passed	0.0	0.50
-27544	9/30/2013	13-0169	Shotgun Qualification	Passed	0.0	0.50
-27544	9/19/2013	13-0953	CPR / First Aid / AED	Passed	0.0	4.50
-27544	9/19/2013	13-1253	Tactical Emergency Medical Training	Passed	0.0	0.50
-27544	6/30/2013	13-0141	Handgun Qualification	Passed	0.0	0.50
-27544	6/30/2013	13-0141	Handgun Qualification	Passed	0.0	0.50
-27544	6/30/2013	13-0169	Shotgun Qualification	Passed	0.0	0.50
-27544	6/17/2013	13-1203	EVOC	Passed	0.0	4.00
-27544	5/23/2013	13-0101	Active Shooter - Tactical Response	Instructed	0.0	6.00
-27544	4/30/2013	13-0141	Handgun Qualification	Passed	0.0	0.50
-27544	4/30/2013	13-0169	Shotgun Qualification	Passed	0.0	0.50
-27544	2/8/2013	13-0914	Personal / Professional Development - Other	Passed	0.0	4.00
-27544	12/31/2012	12-0476	Workplace Substance Abuse	Passed	0.0	1.00
-27544	12/31/2012	12-0924	Sexual Harassment	Passed	0.0	1.00
-27544	12/31/2012	12-0716	LEDS Recertification	Passed	0.0	1.00
-27544	12/31/2012	12-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	1.25
-27544	12/31/2012	MISCMAIN	2012 Police Maintenance Basic	Completed	0.0	0.00
-27544	11/20/2012	12-1192	All Terrain Vehicle (ATV) Operation	Instructed	0.0	20.00
-27544	11/15/2012	12-1192	All Terrain Vehicle (ATV) Operation	Instructed	0.0	20.00
-27544	11/8/2012	12-0117	High Risk Vehicle Stops	Passed	0.0	4.00
-27544	11/8/2012	12-0117	High Risk Vehicle Stops	Instructed	0.0	88.00
-27544	11/8/2012	12-0129	Firearms Training	Instructed	0.0	8.00
-27544	9/14/2012	12-0593	Conference - Other	Passed	0.0	31.50
-27544	8/24/2012	12-0899	WMD Technical Emergency Response	Passed	0.0	34.00
-27544	5/24/2012	12-0683	Crisis Intervention	Passed	0.0	10.00
-27544	5/23/2012	12-0129	Firearms Training	Instructed	0.0	56.00
-27544	5/23/2012	12-0253	Crowd / Riot Control	Passed	0.0	4.00
-27544	5/23/2012	12-0272	Taser Refresher Training	Passed	0.0	4.00
-27544	5/23/2012	12-0272	Taser Refresher Training	Instructed	0.0	8.00
-27544	5/23/2012	12-0964	Bloodborne Pathogens	Passed	0.0	1.00
-27544	5/23/2012	12-0683	Crisis Intervention	Passed	0.0	20.00
-27544	5/23/2012	12-0969	Mental Health	Passed	0.0	2.00
-27544	5/23/2012	12-0915	Agency Policies / Procedures	Passed	0.0	1.00
-27544	5/23/2012	12-1223	Patrol Tactics	Instructed	0.0	68.00
-27544	3/15/2012	12-1192	All Terrain Vehicle (ATV) Operation	Instructed	0.0	30.00
-27544	1/28/2012	12-1007	Instructor Course - Other	Passed	0.0	32.00
-27544	12/31/2011	11-0716	LEDS Recertification	Passed	0.0	1.00
-27544	12/31/2011	11-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	3.00
-27544	11/23/2011	11-0121	Patrol Tactics - DT Focus	Passed	0.0	4.00
-27544	11/23/2011	11-0121	Patrol Tactics - DT Focus	Instructed	0.0	4.00
-27544	11/23/2011	11-0964	Bloodborne Pathogens	Passed	0.0	1.00
-27544	11/23/2011	11-0129	Firearms Training	Instructed	0.0	8.00
-27544	11/23/2011	11-0129	Firearms Training	Passed	0.0	4.00
-27544	11/2/2011	11-0953	CPR / First Aid / AED	Passed	0.0	4.00
-27544	10/6/2011	11-0126	Firearms Basic	Instructed	0.0	30.00
-27544	9/28/2011	11-0593	Conference - Other	Passed	0.0	24.00
-27544	9/22/2011	11-1007	Instructor Course - Other	Instructed	0.0	20.00
-27544	7/28/2011	11-1206	Pursuit Intervention Techniques (PIT)	Instructed	0.0	24.00
-27544	5/31/2011	11-0602	Gordon Graham Seminar	Passed	0.0	8.00
-27544	5/18/2011	11-0121	Patrol Tactics - DT Focus	Passed	0.0	1.00
-27544	5/18/2011	11-0915	Agency Policies / Procedures	Passed	0.0	1.00
-27544	5/18/2011	11-0795	Domestic Violence Investigations	Passed	0.0	1.00
-27544	5/18/2011	11-0964	Bloodborne Pathogens	Passed	0.0	1.00
-27544	5/18/2011	11-1203	EVOC	Passed	0.0	4.00
-27544	5/18/2011	11-1203	EVOC	Instructed	0.0	272.00
-27544	5/18/2011	11-1093	Civil Law	Passed	0.0	1.00
-27544	5/18/2011	11-0928	Workplace - Other	Passed	0.0	0.50
-27544	5/18/2011	11-1116	Legal/Legislative Update	Passed	0.0	3.00
-27544	5/18/2011	11-0126	Firearms Basic	Instructed	0.0	30.00
-27544	4/25/2011	11-0699	CAD / MDS / MDT System	Passed	0.0	8.00
-27544	3/31/2011	11-0715	LEDS Inquiry Level	Passed	0.0	4.00
-27544	3/13/2011	11-1203	EVOC	Instructed	0.0	4.00
-27544	12/31/2010	10-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	2.00
-27544	12/14/2010	10-0790	Forensics - Other	Passed	0.0	4.00
-27544	12/14/2010	10-0964	Bloodborne Pathogens	Passed	0.0	1.00
-27544	12/14/2010	10-1203	EVOC	Instructed	0.0	104.00
-27544	7/23/2010	10-1192	All Terrain Vehicle (ATV) Operation	Instructed	0.0	27.00
-27544	7/1/2010	09-0126	Firearms Basic	Instructed	0.0	26.00
-27544	6/17/2010	10-0894	HazMat  Weapons of Mass Destruction	Passed	0.0	0.50
-27544	6/17/2010	10-0894	HazMat  Weapons of Mass Destruction	Passed	0.0	0.50
-27544	5/27/2010	10-0175	Tactical Firearms	Instructed	0.0	4.00
-27544	5/27/2010	10-0175	Tactical Firearms	Passed	0.0	4.00
-27544	5/27/2010	10-0121	Patrol Tactics - DT Focus	Passed	0.0	4.00
-27544	2/26/2010	10-1204	EVOC / PIT	Passed	0.0	4.25
-27544	2/26/2010	10-1204	EVOC / PIT	Instructed	0.0	4.25
-27544	2/26/2010	10-1203	EVOC	Passed	0.0	4.25
-27544	2/26/2010	10-1203	EVOC	Instructed	0.0	284.75
-27544	2/16/2010	10-1282	Dignitary Protection	Instructed	0.0	20.00
-27544	2/10/2010	10-0209	K-9 Use of Force Training	Passed	0.0	4.00
-27544	12/31/2009	09-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	1.50
-27544	12/3/2009	09-0175	Tactical Firearms	Instructed	0.0	4.00
-27544	12/2/2009	09-0952	CPR / First Aid	Passed	0.0	4.00
-27544	11/30/2009	09-0175	Tactical Firearms	Instructed	0.0	16.00
-27544	11/17/2009	09-0129	Firearms Training	Instructed	0.0	10.00
-27544	10/31/2009	09-0175	Tactical Firearms	Instructed	0.0	20.00
-27544	9/30/2009	09-0175	Tactical Firearms	Instructed	0.0	16.00
-27544	9/17/2009	09-0593	Conference - Other	Passed	0.0	24.00
-27544	7/1/2009	09-0716	LEDS Recertification	Passed	0.0	1.00
-27544	6/4/2009	09-0121	Patrol Tactics - DT Focus	Passed	0.0	4.25
-27544	6/4/2009	09-0129	Firearms Training	Passed	0.0	4.25
-27544	6/4/2009	09-5000	Instructor	Instructed	0.0	34.00
-27544	5/27/2009	09-1282	Dignitary Protection	Passed	0.0	4.50
-27544	5/27/2009	09-0276	Use of Force - Other	Passed	0.0	4.50
-27544	2/15/2009	09-0709	Mobile Data Terminal (MDT)	Passed	0.0	1.50
-27544	12/31/2008	08-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	3.50
-27544	11/25/2008	08-0126	Firearms Basic	Instructed	0.0	8.00
-27544	11/24/2008	08-1206	Pursuit Intervention Techniques (PIT)	Instructed	0.0	40.00
-27544	11/24/2008	08-0126	Firearms Basic	Instructed	0.0	8.00
-27544	10/17/2008	08-1197	Motorcycle Operator Training	Passed	0.0	88.00
-27544	9/24/2008	08-1197	Motorcycle Operator Training	Passed	0.0	4.00
-27544	8/31/2008	08-1282	Dignitary Protection	Instructed	0.0	16.00
-27544	8/21/2008	08-0126	Firearms Basic	Instructed	0.0	8.00
-27544	7/15/2008	08-0952	CPR / First Aid	Passed	0.0	4.00
-27544	6/19/2008	08-0126	Firearms Basic	Instructed	0.0	10.00
-27544	6/18/2008	08-0126	Firearms Basic	Instructed	0.0	10.00
-27544	6/18/2008	08-0126	Firearms Basic	Passed	0.0	10.00
-27544	5/23/2008	08-0126	Firearms Basic	Instructed	0.0	7.00
-27544	5/1/2008	08-1282	Dignitary Protection	Passed	0.0	24.00
-27544	4/30/2008	08-0964	Bloodborne Pathogens	Passed	0.0	1.00
-27544	4/30/2008	08-1116	Legal/Legislative Update	Passed	0.0	1.00
-27544	4/30/2008	08-1116	Legal/Legislative Update	Passed	0.0	2.00
-27544	4/24/2008	08-0100	Active Shooter	Passed	0.0	2.00
-27544	4/24/2008	08-0121	Patrol Tactics - DT Focus	Passed	0.0	2.30
-27544	4/23/2008	08-0647	Community Policing	Passed	0.0	2.00
-27544	4/23/2008	08-0830	Investigative Interviews	Passed	0.0	1.80
-27544	4/23/2008	08-0915	Agency Policies / Procedures	Passed	0.0	1.00
-27544	4/18/2008	08-1197	Motorcycle Operator Training	Passed	0.0	80.00
-27544	2/29/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/29/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/28/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/28/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/27/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/27/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/26/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/26/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/25/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/25/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/22/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/22/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/21/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/20/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/20/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/19/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/18/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/18/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/15/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/15/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/14/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/14/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/13/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/13/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/12/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/12/2008	08-1204	EVOC / PIT	Passed	0.0	5.50
-27544	2/11/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/11/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/8/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/8/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/7/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/7/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/6/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/6/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/5/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/5/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	2/4/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	2/4/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/31/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/31/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/30/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/30/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/29/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/29/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/25/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/25/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/24/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/24/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/23/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/23/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/22/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/22/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/21/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/21/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/18/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/18/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/17/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/17/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/15/2008	08-0276	Use of Force - Other	Instructed	0.0	2.50
-27544	1/15/2008	08-1204	EVOC / PIT	Instructed	0.0	5.50
-27544	1/14/2008	08-0276	Use of Force - Other	Passed	0.0	2.50
-27544	1/14/2008	08-0925	Use of Force Policy	Passed	0.0	1.00
-27544	1/14/2008	08-1204	EVOC / PIT	Passed	0.0	5.50
-27544	12/31/2007	07-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	4.30
-27544	12/31/2007	07-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	1.00
-27544	12/28/2007	07-0126	Firearms Basic	Instructed	0.0	9.00
-27544	10/10/2007	07-1250	Driving - Other	Instructed	0.0	10.00
-27544	10/10/2007	07-1250	Driving - Other	Passed	0.0	10.00
-27544	8/10/2007	07-0129	Firearms Training	Instructed	0.0	9.00
-27544	7/1/2007	07-0716	LEDS Recertification	Passed	0.0	2.00
-27544	6/30/2007	07-0133	Range	Passed	0.0	1.00
-27544	6/13/2007	07-0129	Firearms Training	Passed	0.0	3.00
-27544	5/31/2007	07-0964	Bloodborne Pathogens	Passed	0.0	1.00
-27544	5/31/2007	07-1116	Legal/Legislative Update	Passed	0.0	2.00
-27544	5/31/2007	07-1116	Legal/Legislative Update	Passed	0.0	2.00
-27544	4/11/2007	07-0593	Conference - Other	Passed	0.0	16.00
-27544	3/31/2007	07-0133	Range	Passed	0.0	1.00
-27544	3/8/2007	07-1204	EVOC / PIT	Instructed	0.0	9.00
-27544	3/7/2007	07-1204	EVOC / PIT	Instructed	0.0	9.00
-27544	3/6/2007	07-1204	EVOC / PIT	Instructed	0.0	9.00
-27544	3/5/2007	07-1204	EVOC / PIT	Instructed	0.0	9.00
-27544	2/22/2007	07-1204	EVOC / PIT	Instructed	0.0	9.00
-27544	2/21/2007	07-1204	EVOC / PIT	Instructed	0.0	9.00
-27544	2/21/2007	07-1204	EVOC / PIT	Passed	0.0	9.00
-27544	12/31/2006	06-1348	PPB - Firearms/Use of Force	Passed	0.0	107.50
-27544	12/31/2006	06-1347	PPB - Other LE Classes	Passed	0.0	30.90
-27544	7/31/2006	06-2019	PVO Instructor's Course	Instructed	0.0	80.00
-27544	7/31/2006	06-2019	PVO Instructor's Course	Passed	0.0	80.00
-27544	6/25/2006	06-0211	Firearms - AR15	Instructed	0.0	8.00
-27544	6/25/2006	06-0211	Firearms - AR15	Passed	0.0	8.00
-27544	12/31/2005	05-2977	PPB - Other LE Classes	Passed	0.0	42.00
-27544	12/31/2005	05-2978	PPB - Firearms/Use of Force	Passed	0.0	1.00
-27544	7/1/2005	05-0590	LEDS Recertification	Passed	0.0	2.00
-27544	5/9/2005	05-1010	Narcotic ID Kits/Basic Competency	Passed	0.0	1.50
-27544	12/31/2004	04-3581	PPB - Firearms/Use of Force	Passed	0.0	20.00
-27544	12/31/2004	04-3579	PPB - Other LE Classes	Passed	0.0	88.50
-27544	12/30/2003	03-0426	Lidar Operators Course	Passed	0.0	6.00
-27544	11/19/2003	03-0254	Oregon State Police Intoxilizer 5000	Passed	0.0	6.00
-27544	9/12/2002	02U001	Approved In-State Training	Passed	0.0	290.00
-27544	7/26/2002	02CP274	DPSST EVOC Instructor Course	Passed	0.0	216.00
-27544	12/20/2001	01U001	Approved In-State Training	Passed	0.0	19.50
-27544	9/27/2001	01U001	Approved In-State Training	Passed	0.0	91.00
-27544	3/12/2001	01U001	Approved In-State Training	Passed	0.0	56.00
-27544	8/5/2000	00U001	Approved In-State Training	Passed	0.0	18.00
-27544	5/16/1997	97U001	Approved In-State Training	Passed	0.0	40.00
-27544	3/31/1997	97U001	Approved In-State Training	Passed	0.0	2.00
-27544	12/31/1996	96U001	Approved In-State Training	Passed	0.0	2.00
-27544	8/31/1996	96U001	Approved In-State Training	Passed	0.0	2.00
-27544	8/12/1996	96U001	Approved In-State Training	Passed	0.0	1.00
-27544	5/17/1996	96U001	Approved In-State Training	Passed	0.0	40.00
-27544	12/31/1995	95U001	Approved In-State Training	Passed	0.0	2.00
-27544	11/30/1995	95U001	Approved In-State Training	Passed	0.0	2.00
-27544	7/31/1995	95U001	Approved In-State Training	Passed	0.0	42.00
-27544	3/31/1995	95U001	Approved In-State Training	Passed	0.0	2.00
-27544	10/14/1994	94J091	POLICE BICYCLE OPERATIONS	Passed	0.0	24.00
-27544	10/4/1994	94U001	Approved In-State Training	Passed	0.0	39.00
-27544	11/10/1993	93U001	Approved In-State Training	Passed	0.0	14.00
-27544	8/13/1993	93T001	Police Field Training Manual	Passed	0.0	50.00
-27544	6/4/1993	93J042	ADVANCED ACADEMY SESSION	Passed	0.0	352.00
-27544	12/4/1992	92G175	BASIC POLICE CLASS NO. 175	Passed	0.0	320.00
-27544	12/2/1992	92K040	MEDIC FIRST AID	Passed	0.0	8.00
-27544	11/5/1992	92J007	INTOXILYZER	Passed	0.0	4.00
-27544	10/13/1992	92K232	HAZARDOUS MATERIALS AWARENESS	Passed	0.0	4.00
 27546	7/31/2020	MISCMAIN	2020 LE Annual Maintenance	Completed	0.0	0.00
 27546	6/22/2020	PDP30186	2020 InService Patrol Proc-Emergency Entry Class	Passed	0.0	2.00
 27546	6/11/2020	PDP08328	2020 City Attorney's Gathright Decision Refresher	Passed	0.0	0.25
@@ -67530,7 +66978,9 @@ dpsst_identifier	date	course	title	status	score	hours
 28069	11/10/1993	93U001	Approved In-State Training	Passed	0.0	7.00
 28069	2/28/1993	92J071	BASIC POLICE RESERVE ACADEMY	Passed	0.0	280.00
 28069	1/26/1993	93U001	Approved In-State Training	Passed	0.0	3.00
+28070	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 28070	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
+28070	11/18/2026	MNS2002E	Responding To A Jumper	Passed	0.0	2.00
 28070	11/12/2026	MNP4397E	Drone Trng: Scene documntn (JZ)  Legal/ORS (SV)	Passed	0.0	1.50
 28070	10/30/2026	MNS1487E	Daylight Firearms Qualification	Passed	0.0	2.00
 28070	10/9/2026	MNS2621E	Cardiovascular Anatomy Phys for LEO	Passed	0.0	2.00
@@ -76655,7 +76105,9 @@ dpsst_identifier	date	course	title	status	score	hours
 28647	11/10/1993	93U001	Approved In-State Training	Passed	0.0	7.00
 28647	11/5/1993	93G180	BASIC POLICE CLASS NO. 180	Passed	0.0	320.00
 28647	10/14/1993	93J011	IMPLIED CONSENT/INTOXILYZER 5000	Passed	0.0	4.00
+28653	11/18/2026	PDA2372E	Defensive Tactics  Use of OC Spray refresher	Passed	0.0	2.00
 28653	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+28653	10/9/2026	PDA0241E	Intro to PS De-Escalation Tactics for Vets	Passed	0.0	2.00
 28653	8/12/2026	PDA3876D	Use of Force Update	Passed	0.0	1.50
 28653	4/7/2026	PDA0182C	Government Ethics	Passed	0.0	1.00
 28653	4/7/2026	PDA0008C	Government Ethics	Passed	0.0	1.00
@@ -78443,6 +77895,7 @@ dpsst_identifier	date	course	title	status	score	hours
 28711	12/10/1993	93G181	BASIC POLICE CLASS NO. 181	Passed	0.0	320.00
 28711	11/11/1993	93J011	IMPLIED CONSENT/INTOXILYZER 5000	Passed	0.0	4.00
 28715	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
+28715	11/18/2026	HBP1043E	In-Service 2026-4, Taser 10 Recert	Instructed	0.0	2.75
 28715	11/17/2026	HBP1444E	In-Service 2026-4, ERIM Refresher	Instructed	0.0	0.75
 28715	11/17/2026	HBP0789E	In-Service 2026-4, Taser 10 Recert	Instructed	0.0	2.75
 28715	10/28/2026	HBP3804E	In-Service 2026-4, Taser 10 Recert	Instructed	0.0	2.75
@@ -88918,8 +88371,13 @@ dpsst_identifier	date	course	title	status	score	hours
 29199	4/29/1994	94U001	Approved In-State Training	Passed	0.0	28.00
 29199	4/22/1994	94G184	BASIC POLICE CLASS #184	Passed	0.0	320.00
 29199	3/31/1994	94J015	INTOXILYZER 5000	Passed	0.0	2.00
+29200	11/18/2026	PDA2372E	Defensive Tactics  Use of OC Spray refresher	Passed	0.0	2.00
 29200	11/13/2026	PDA2127E	Handgun Firearms	Passed	0.0	4.50
+29200	11/10/2026	PDA3288E	Implicit Bias Training for Law Enforcement	Passed	0.0	1.50
+29200	11/10/2026	PDA3901E	Airways Training	Passed	0.0	2.00
+29200	11/10/2026	PDA4498E	Creating Safe Scenes	Passed	0.0	1.50
 29200	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+29200	10/8/2026	PDA0241E	Intro to PS De-Escalation Tactics for Vets	Passed	0.0	2.00
 29200	8/12/2026	PDA3876D	Use of Force Update	Passed	0.0	1.50
 29200	4/7/2026	PDA0182C	Government Ethics	Passed	0.0	1.00
 29200	4/7/2026	PDA0008C	Government Ethics	Passed	0.0	1.00
@@ -122720,6 +122178,7 @@ dpsst_identifier	date	course	title	status	score	hours
 30666	5/24/1996	96U001	Approved In-State Training	Passed	0.0	6.00
 30666	1/17/1996	96U001	Approved In-State Training	Passed	0.0	3.00
 30861	1/22/2027	REQSUPV	REQUIRED TRAINING:  Supervision	Required	0.0	0.00
+30861	11/25/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 30861	11/12/2026	BNS2921E	October Firearms/Qualifications	Passed	0.0	1.00
 30861	10/26/2026	BNS0018E	Supervisor Update	Passed	0.0	2.50
 30861	10/26/2026	BNS1996E	Animal Abuse	Passed	0.0	1.00
@@ -135639,12 +135098,13 @@ dpsst_identifier	date	course	title	status	score	hours
 31943	5/17/1996	95U001	Approved In-State Training	Passed	0.0	24.00
 31943	5/6/1996	96U001	Approved In-State Training	Passed	0.0	6.00
 31951	11/4/2026	VND3214E	Case Study of Chris Lovrien Murders	Instructed	0.0	4.00
-31951	10/20/2026	SAG2819E	Firearms - Night Range	Passed	0.0	4.00
+31951	10/20/2026	SAG2819E	Firearms - Night Range	Passed	0.0	0.00
 31951	9/17/2026	RSS2573D	2026 OHIA Major Crimes Conference	Passed	0.0	12.00
 31951	2/3/2026	SAG2918C	First Aid  CPR	Passed	0.0	4.00
 31951	2/2/2026	SAG3697E	Airway training video and discussion	Passed	0.0	2.00
 31951	2/2/2026	SAG1411E	DOJ - Government Ethics Laws	Passed	0.0	0.00
 31951	12/31/2025	MAINTMUH	Maintenance Makeup Ethics	Passed	0.0	1.00
+31951	12/31/2025	MAINTMUF	Maintenance Makeup Firearms/Use of Force	Passed	0.0	4.00
 31951	5/16/2025	SAG0868A	4th Annual OCCIA Conference	Passed	0.0	8.00
 31951	2/12/2025	SAG0481A	Airway Anatomy training	Passed	0.0	1.00
 31951	1/29/2025	SAG1349A	Firearms training	Passed	0.0	2.00
@@ -143090,6 +142550,7 @@ dpsst_identifier	date	course	title	status	score	hours
 32308	6/28/1996	96G202	BASIC POLICE COURSE NO. 202	Passed	0.0	320.00
 32308	6/6/1996	96X030	IMPLIED CONSENT/INTOX. 5000	Passed	0.0	4.00
 32308	4/16/1996	97T001	Police Field Training Manual	Passed	0.0	50.00
+32358	11/18/2026	PDA2372E	Defensive Tactics  Use of OC Spray refresher	Passed	0.0	2.00
 32358	11/13/2026	PDA2127E	Handgun Firearms	Passed	0.0	4.50
 32358	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 32358	8/12/2026	PDA3876D	Use of Force Update	Passed	0.0	1.50
@@ -180509,6 +179970,7 @@ dpsst_identifier	date	course	title	status	score	hours
 34582	8/20/1997	97P220	SFST/DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 34582	7/28/1997	97P197	MEDIC FIRST AID	Passed	0.0	8.00
 34583	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
+34583	11/18/2026	PDA2372E	Defensive Tactics  Use of OC Spray refresher	Passed	0.0	2.00
 34583	11/13/2026	PDA2127E	Handgun Firearms	Passed	0.0	4.50
 34583	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 34583	10/22/2026	PDA1661D	Focused Response for Veterans	Passed	0.0	1.00
@@ -189220,6 +188682,7 @@ dpsst_identifier	date	course	title	status	score	hours
 34790	8/6/1998	98B012	BP-SFST  DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 34790	12/18/1997	97U001	Approved In-State Training	Passed	0.0	6.00
 34790	10/18/1997	97U001	Approved In-State Training	Passed	0.0	8.00
+34792	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 34792	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 34792	11/11/2026	PDP1068E	2026-3 Advanced Academy Control Tactics	Passed	0.0	54.50
 34792	11/11/2026	PDP2021E	2026-3 Advanced Academy Wellness	Passed	0.0	8.50
@@ -193148,8 +192611,10 @@ dpsst_identifier	date	course	title	status	score	hours
 35127	3/25/1998	98U001	Approved In-State Training	Passed	0.0	18.00
 35127	3/20/1998	98B001	DPSST Basic Police	Passed	0.0	320.00
 35127	2/26/1998	98P082	IMPLIED CONSENT/INTOXILYZER 5000	Passed	0.0	4.00
+35146	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 35146	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 35146	11/9/2026	XDELETE	Pending for Deletion Due to Duplicate or Other Rea	Passed	0.0	3.00
+35146	11/9/2026	GPN2790E	LSCMI Refresher	Passed	0.0	3.00
 35146	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 35146	10/27/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 35146	10/22/2026	GPN4300D	Case Management Trainning Dashboard OSP 2	Passed	0.0	2.00
@@ -195043,7 +194508,11 @@ dpsst_identifier	date	course	title	status	score	hours
 35226	12/18/1998	98P474	PPB ADVANCED ACADEMY 98-3	Passed	0.0	419.00
 35226	5/15/1998	98B001	DPSST Basic Police	Passed	0.0	320.00
 35226	4/30/1998	98P082	IMPLIED CONSENT/INTOXILYZER 5000	Passed	0.0	4.00
+35227	11/18/2026	PDA2372E	Defensive Tactics  Use of OC Spray refresher	Passed	0.0	2.00
 35227	11/13/2026	PDA2127E	Handgun Firearms	Passed	0.0	4.50
+35227	11/11/2026	PDA0241E	Intro to PS De-Escalation Tactics for Vets	Passed	0.0	2.00
+35227	11/11/2026	PDA3901E	Airways Training	Passed	0.0	2.00
+35227	11/11/2026	PDA4498E	Creating Safe Scenes	Passed	0.0	1.50
 35227	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 35227	9/17/2026	RSS2573D	2026 OHIA Major Crimes Conference	Passed	0.0	20.00
 35227	8/12/2026	PDA3876D	Use of Force Update	Passed	0.0	1.50
@@ -210868,6 +210337,7 @@ dpsst_identifier	date	course	title	status	score	hours
 36242	11/13/1998	98B014	DPSST Basic Police	Passed	0.0	376.00
 36242	10/19/1998	98P082	IMPLIED CONSENT/INTOXILYZER 5000	Passed	0.0	4.00
 36242	10/15/1998	98B012	BP-SFST  DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
+36243	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 36243	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 36243	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 36243	10/30/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -216325,6 +215795,7 @@ dpsst_identifier	date	course	title	status	score	hours
 36533	9/26/2007	07-0839	Radio Procedures	Passed	0.0	2.00
 36533	11/7/2003	03-1289	CISM Basic Group	Passed	0.0	16.00
 36533	4/30/2003	03-0818	Critical Incidents Stress Management EAP Protocol	Passed	0.0	20.00
+36545	11/25/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 36545	10/7/2026	HBP4425E	In-Service 2026-4, Range	Passed	0.0	3.00
 36545	10/7/2026	HBP1650E	In-Service 2026-4, ERIM Refresher	Passed	0.0	0.75
 36545	10/7/2026	HBP1484E	In-Service 2026-4, FPC and SAFE Familiarization	Passed	0.0	0.50
@@ -228870,9 +228341,15 @@ dpsst_identifier	date	course	title	status	score	hours
 37126	7/14/1999	99B015	DPSST Basic Police	Passed	0.0	400.00
 37126	6/27/1999	99B010	BP/SFST  DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 37126	4/27/1999	99P115	INTOXYLIZER 5000 CERTIFICATION	Passed	0.0	4.00
+37127	11/18/2026	PDA2372E	Defensive Tactics  Use of OC Spray refresher	Passed	0.0	2.00
 37127	11/13/2026	PDA2127E	Handgun Firearms	Passed	0.0	4.50
 37127	10/16/2026	PDA4011E	Media Policy	Passed	0.0	0.50
 37127	10/15/2026	PDA2212E	Ethical Considerations for Asset Forfeiture	Passed	0.0	1.00
+37127	10/8/2026	PDA3288E	Implicit Bias Training for Law Enforcement	Passed	0.0	1.50
+37127	10/8/2026	PDA3901E	Airways Training	Passed	0.0	2.00
+37127	10/8/2026	PDA4498E	Creating Safe Scenes	Passed	0.0	1.50
+37127	10/8/2026	PDA0241E	Intro to PS De-Escalation Tactics for Vets	Passed	0.0	2.00
+37127	9/30/2026	PDA4498E	Creating Safe Scenes	Passed	0.0	1.50
 37127	9/11/2026	PDA2004E	Reporting  Responding to Sexual Misconduct	Passed	0.0	0.75
 37127	9/4/2026	PDA0206E	Use of Force - Legal and e-Recording of Interviews	Passed	0.0	1.00
 37127	9/3/2026	PDA2134E	Task Force Officer (TFO) Basic: Fundamentals	Passed	0.0	3.00
@@ -246244,6 +245721,7 @@ dpsst_identifier	date	course	title	status	score	hours
 37607	8/19/1999	99B010	BP/SFST  DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 37607	8/11/1999	99P296	DEFENSIVE TACTICS	Passed	0.0	2.00
 37607	7/23/1999	99P115	INTOXYLIZER 5000 CERTIFICATION	Passed	0.0	4.00
+37608	11/25/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 37608	11/6/2026	PDS1245E	Flying While Armed	Passed	0.0	1.00
 37608	10/28/2026	PDS1642E	Patrol Tactics	Passed	0.0	4.00
 37608	10/23/2026	PDS2886E	Range	Passed	0.0	2.00
@@ -251334,6 +250812,7 @@ dpsst_identifier	date	course	title	status	score	hours
 37633	8/7/1998	98P534	Police Corps Academy Class 5-Phase 1	Passed	0.0	555.00
 37635	5/3/2027	REQMGMT	REQUIRED TRAINING:  Management	Required	0.0	0.00
 37635	1/25/2027	27-0026	DPSST Middle Management	Registered	0.0	0.00
+37635	11/25/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 37635	11/12/2026	EGP1699E	The Duty to Intervene: Legal Updates  Policies	Passed	0.0	2.00
 37635	11/12/2026	EGP3374E	Deflection Program Update (Bias)	Passed	0.0	0.75
 37635	11/12/2026	EGP4044E	The Duty to Intervene: Legal Updates/Policies	Passed	0.0	1.00
@@ -278935,6 +278414,7 @@ dpsst_identifier	date	course	title	status	score	hours
 39011	9/11/2000	00B001	DPSST Basic Police	Passed	0.0	400.00
 39011	8/18/2000	00P078	SFST/DRUGS THAT IMPAIR DRIVING	Passed	0.0	24.00
 39011	8/15/2000	00P042	INTOXILYZER 5000	Passed	0.0	4.00
+39064	11/25/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 39064	11/8/2026	TDP4224E	Fall Low Light Firearms Qual and Training	Passed	0.0	4.00
 39064	10/22/2026	TDP0142D	Pro Poenix CAD RMS LE Technology	Passed	0.0	8.00
 39064	10/22/2026	TDP1202E	Pro Phoenix RMS/CAD end user training	Passed	0.0	8.00
@@ -279334,6 +278814,7 @@ dpsst_identifier	date	course	title	status	score	hours
 39117	7/1/2005	05-0590	LEDS Recertification	Passed	0.0	2.00
 39117	3/7/2002	02J40	ICS: Planning- OSP	Passed	0.0	13.00
 39117	10/17/2001	01P050	ICS: Introduction	Passed	0.0	13.00
+39230	11/25/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 39230	11/12/2026	EGP1699E	The Duty to Intervene: Legal Updates  Policies	Passed	0.0	2.00
 39230	11/12/2026	EGP3374E	Deflection Program Update (Bias)	Passed	0.0	0.75
 39230	11/12/2026	EGP4044E	The Duty to Intervene: Legal Updates/Policies	Passed	0.0	1.00
@@ -350999,6 +350480,7 @@ dpsst_identifier	date	course	title	status	score	hours
 42391	5/13/2003	03-0395	Mobile Data Computer Training	Passed	0.0	5.00
 42391	2/1/2003	02CP939	Clackamas County Inter-Agency Reserve Academy	Passed	0.0	314.50
 42391	1/11/2003	03-0254	Oregon State Police Intoxilizer 5000	Passed	0.0	6.00
+42427	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 42427	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 42427	10/19/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 42427	9/17/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
@@ -356931,6 +356413,768 @@ dpsst_identifier	date	course	title	status	score	hours
 42625	10/28/2002	02CP447	Intoxilyzer 5000	Passed	0.0	4.00
 42625	10/23/2002	02CP070	Tactical Ground Fighting	Passed	0.0	6.00
 42625	10/2/2002	03U001	Approved In-State Training	Passed	0.0	23.00
+42631	10/26/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
+42631	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
+42631	9/17/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
+42631	8/27/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
+42631	8/27/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
+42631	8/27/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
+42631	8/27/2026	PDP0853D	2026 OSHA Lead Exposure Quick Card	Passed	0.0	0.25
+42631	8/27/2026	PDP0193D	2026 PPB Lead Exposures Information	Passed	0.0	0.25
+42631	7/13/2026	PDP1781D	2026-2 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	7/13/2026	PDP1351D	Annual OSHA Heat Illness Prevention (CityLearner)	Passed	0.0	0.50
+42631	7/13/2026	PDP3530D	Safe Training Procedures Video	Passed	0.0	0.25
+42631	6/16/2026	PDP1622D	2025 CAO Summaries of New Police Legislation	Passed	0.0	0.25
+42631	6/16/2026	PDP3134D	2025-2026 Police Interceptor Utility Summary	Passed	0.0	0.25
+42631	6/16/2026	PDP0976D	Annual OSHA Heat Illness Prevention (CityLearner)	Passed	0.0	0.50
+42631	6/16/2026	PDP2984D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
+42631	5/8/2026	PDP2120C	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
+42631	5/7/2026	PDP2782D	2026 Disability Series: d/Deaf  Hard of Hearing	Passed	0.0	0.50
+42631	4/10/2026	PDP3320C	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
+42631	3/13/2026	PDP2511C	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
+42631	3/7/2026	PDP4523C	Annual CIU NTR Alarm Response Training - Reed	Passed	0.0	0.25
+42631	2/13/2026	PDP3809C	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
+42631	2/10/2026	PDP3014C	2026 DIR 0630.05 Vehicle Interventions  Pursuits	Passed	0.0	0.25
+42631	2/10/2026	PDP4153C	2026-2 CAO Analysis of PPB Related Laws, 2025 Leg	Passed	0.0	0.25
+42631	2/10/2026	PDP3624C	DIR 0630.05 Vehicle Interventions  Pursuits	Passed	0.0	0.25
+42631	2/10/2026	PDP2917C	Safe Training Procedures Video	Passed	0.0	0.25
+42631	1/19/2026	PDP2854C	2025 Federal Interaction Reporting	Passed	0.0	0.25
+42631	1/19/2026	PDP1059C	2025-12 Federal Interaction Reporting	Passed	0.0	0.25
+42631	1/19/2026	PDP1573C	2026 Recognizing  Preventing Positional Asphyxia	Passed	0.0	0.50
+42631	12/8/2025	PDP0891C	2025-12 CAO Legal Updates: Inventory Searches	Passed	0.0	0.25
+42631	12/5/2025	MISCMAIN	2025 LE Annual Maintenance	Completed	0.0	0.00
+42631	11/20/2025	PDP4384C	2025-1 All Sworn In-Service ABLE Refresher	Passed	0.0	2.25
+42631	11/20/2025	PDP0017C	2025-1 All Sworn In-Service Firearms Range	Passed	0.0	2.25
+42631	11/20/2025	PDP0355C	2025-1 All Sworn In-Service Intro to Public Order	Passed	0.0	2.25
+42631	11/20/2025	PDP1443C	2025-1 All Sworn In-Service Taser Update	Passed	0.0	2.25
+42631	11/18/2025	PDP2310C	2025-3 Range Qualification CEW	Passed	0.0	0.50
+42631	11/17/2025	PDP2365C	2025-3 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	11/17/2025	PDP0989C	2025-3 Range Qual Secondary Firearm (50 Round)	Passed	0.0	0.50
+42631	11/9/2025	PDP4084C	2025-10 CAO Updates: Disorderly Conduct  ORS	Passed	0.0	0.25
+42631	11/9/2025	PDP3719C	2025-10 CHO Executive Order, DIR 0625.00 Auto	Passed	0.0	0.25
+42631	11/9/2025	PDP4495C	Emergency Operations Plan (EOP)	Passed	0.0	0.25
+42631	10/15/2025	PDP3698B	2025 Lead Exposure Training	Passed	0.0	1.00
+42631	10/15/2025	PDP4526B	2025 Lead Screening Consent Form	Passed	0.0	0.25
+42631	10/15/2025	PDP1232B	2025 Oregon State Lead Quick Facts	Passed	0.0	0.25
+42631	10/15/2025	PDP4544B	2025 OSHA Lead Exposure Quick Card	Passed	0.0	0.25
+42631	10/15/2025	PDP2961B	2025 PPB Lead Exposures Information	Passed	0.0	0.25
+42631	10/15/2025	PDP3376B	2025-10 CAO Legal Updates for 3/2025	Passed	0.0	0.50
+42631	10/15/2025	PDP1093B	2025-10 National Incident Based Reporting System	Passed	0.0	0.25
+42631	10/15/2025	PDP2719B	2025-10, Legal Updates: Miranda  Right to Counsel	Passed	0.0	0.25
+42631	10/15/2025	PDP0507B	2025-9, Legal Updates: State Crimes	Passed	0.0	0.25
+42631	10/8/2025	PDP1044B	2025-09 CAO Legal Updates for 2/2025	Passed	0.0	0.25
+42631	9/8/2025	PDP1832B	2025-7, Legal Updates: Search  Seizure	Passed	0.0	0.25
+42631	7/24/2025	PDP0762B	2025 Disability Series Intellectual  Develop	Passed	0.0	0.50
+42631	7/23/2025	PDP0468B	2025-2 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	7/14/2025	PDP1802B	2025 Disability Series: Introduction to Disability	Passed	0.0	0.50
+42631	5/9/2025	PDP3675B	2025 Rapid Response Team (RRT) Monthly Training	Passed	0.0	8.00
+42631	5/9/2025	PDP2059B	ORS 181A.440 Airways Part 3	Passed	0.0	0.50
+42631	5/9/2025	PDP1738B	ORS 181A.440 Airways Part 4	Passed	0.0	0.50
+42631	5/9/2025	PDP1481B	ORS 181A.440 Airways Part 5	Passed	0.0	0.50
+42631	4/22/2025	PDP0241A	CPR/First Aid	Passed	0.0	1.75
+42631	4/17/2025	PDP2267B	ORS 181A.440 Airways Part 1	Passed	0.0	0.25
+42631	4/17/2025	PDP0359B	ORS 181A.440 Airways Part 2	Passed	0.0	0.50
+42631	4/14/2025	PDP3090B	2024-5 Naloxone (Narcan) Admin Guidelines	Passed	0.0	0.25
+42631	4/14/2025	PDP4404B	2025 Extreme Risk Protection Orders (ERPOs)	Passed	0.0	0.25
+42631	4/14/2025	PDP2347B	2025-2 CAO Legal Updates for 12/2023-02/2024	Passed	0.0	0.50
+42631	4/14/2025	PDP3882B	2025-3 CAO Legal Updates for 03/2024-06/2024	Passed	0.0	0.75
+42631	3/25/2025	PDP3257A	2025-1 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	3/19/2025	PDP2978A	HR 2.04 Gender Identity Nondiscrimination	Passed	0.0	0.50
+42631	2/18/2025	PDP3024B	2025-1 All Sworn In-Service Intro to Public Order	Passed	0.0	2.25
+42631	2/18/2025	PDP2657B	2025-1 All Sworn In-Service PVO	Passed	0.0	2.25
+42631	2/10/2025	PDP2171A	2025 Sworn In-Service Axon Annual Oper Update	Passed	0.0	0.75
+42631	2/10/2025	PDP2607A	2025 Sworn In-Service PVO Stop Stick External	Passed	0.0	0.75
+42631	2/10/2025	PDP0221A	2025 Sworn In-Service PVO Stop Stick Intro Video	Passed	0.0	0.25
+42631	2/10/2025	PDP3248A	2025 Sworn In-Service PVO Stop Sticks	Passed	0.0	1.00
+42631	1/15/2025	PDP0362A	2024 Safe Training Procedures	Passed	0.0	0.25
+42631	1/15/2025	PDP3367A	2025 Bridging the Language Gap	Passed	0.0	0.50
+42631	1/15/2025	PDP1564A	2025-1 Bridging the Language Gap	Passed	0.0	0.25
+42631	1/15/2025	PDP1398A	2025-1 City Att Legal Updates for Sep  Oct 2023	Passed	0.0	0.25
+42631	1/15/2025	PDP3324A	2025-1 City Attorney Legal Updates for Nov 2023	Passed	0.0	0.75
+42631	1/15/2025	PDP2899A	Dir 0640.37 Comm with Persons Limited English	Passed	0.0	0.25
+42631	1/15/2025	PDP3860A	SOP 14-1 Safety Proc for Training Complex	Passed	0.0	0.25
+42631	1/15/2025	PDP2157B	2025-1 Revisiting Directive 0850.10: Custody	Passed	0.0	0.25
+42631	1/10/2025	PDP4370A	2025 Rapid Response Team (RRT) Monthly Training	Passed	0.0	9.00
+42631	1/9/2025	MISCMAIN	2024 LE Annual Maintenance	Completed	0.0	0.00
+42631	12/21/2024	PDP3001A	2024 Deflection Center Video for Law Enforcement	Passed	0.0	0.25
+42631	12/9/2024	PDP1444A	2024 ECIT Dispatch Update Video	Passed	0.0	0.25
+42631	12/9/2024	PDP0578A	Emergency Operations Plan (EOP) VLP	Passed	0.0	0.25
+42631	12/3/2024	PDP1039A	2024-3 All Sworn In-Service CAO Legal Updates	Passed	0.0	2.50
+42631	12/3/2024	PDP1764A	2024-3 All Sworn In-Service MFF: APR	Passed	0.0	1.00
+42631	12/3/2024	PDP3474A	2024-3 All Sworn In-Service MFF PO Events	Passed	0.0	1.50
+42631	12/3/2024	PDP0945A	2024-3 All Sworn In-Service MFF: Use of Force TT	Passed	0.0	1.00
+42631	12/2/2024	PDP3186A	2024-3 All Sworn In-Service ABLE (CIT)	Passed	0.0	1.00
+42631	12/2/2024	PDP1550A	2024-3 All Sworn In-Service ABLE (Ethics)	Passed	0.0	1.00
+42631	12/2/2024	PDP3558A	2024-3 All Sworn In-Service Patrol Procedures	Passed	0.0	2.50
+42631	11/27/2024	PDP1877A	2024-3 All Sworn In-Service Control Tactics	Passed	0.0	1.00
+42631	11/27/2024	PDP3396A	2024-3 All Sworn In-Service MFF: Scenarios	Passed	0.0	0.75
+42631	11/27/2024	PDP3683A	2024-3 All Sworn In-Service MFF: Formations	Passed	0.0	0.75
+42631	10/5/2024	PDP1215A	2024-9 CAO Legal Updates for 09/2024	Passed	0.0	0.50
+42631	9/16/2024	PDP3714A	2024-3 Range Qualification CEW	Passed	0.0	0.50
+42631	9/16/2024	PDP4038A	2024-3 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	9/16/2024	PDP3296A	2024-3 Range Qualification Secondary Firearm 25 Rd	Passed	0.0	0.50
+42631	9/9/2024	PDP1283A	Directive 0910.00 Update: De Minimis Force	Passed	0.0	0.25
+42631	9/9/2024	PDP1882A	School Emergency Actions	Passed	0.0	0.25
+42631	8/27/2024	PDP1434A	2024 Body Worn Camera Training	Passed	0.0	2.00
+42631	8/16/2024	PDP0553A	2024 Rapid Response Team (RRT) Monthly Training	Passed	0.0	9.00
+42631	7/17/2024	PDP3890A	2023-4 CAO Legal Updates for 04/2023	Passed	0.0	0.25
+42631	7/17/2024	PDP1954A	2024 Lead Exposure Training	Passed	0.0	0.75
+42631	7/17/2024	PDP0311A	2024 Oregon State Lead Quick Facts	Passed	0.0	0.25
+42631	7/17/2024	PDP3193A	2024 OSHA Lead Exposure Quick Card	Passed	0.0	0.25
+42631	7/17/2024	PDP0737A	2024 OSHA Heat Illness Prevention with CityLearner	Passed	0.0	1.00
+42631	7/17/2024	PDP2119A	2024 PPB Lead Exposures Information	Passed	0.0	0.25
+42631	7/17/2024	PDP3146A	2024-4 CAO Legal Updates for 04/2024	Passed	0.0	0.25
+42631	7/17/2024	PDP4454A	2024-7 CAO Legal Updates for 07/2024	Passed	0.0	0.25
+42631	7/17/2024	PDP0918A	City of Portland Bloodborne Pathogens	Passed	0.0	1.00
+42631	7/12/2024	PDP2620A	2024 Rapid Response Team (RRT) Monthly Training	Passed	0.0	9.00
+42631	7/1/2024	PDP2564A	2024 Safe Training Procedures	Passed	0.0	0.25
+42631	7/1/2024	PDP1749A	2024-3 Tips  Techniques Pursuits	Passed	0.0	0.25
+42631	7/1/2024	PDP2096A	2024-3 CAO Legal Updates for BWC	Passed	0.0	0.25
+42631	6/27/2024	MISCMAIN	2024 LE Basic 3 Year Maintenance	Completed	0.0	0.00
+42631	6/14/2024	PDP0886A	2024 Rapid Response Team (RRT) Monthly Training	Passed	0.0	9.00
+42631	5/23/2024	PDP2151A	2024 Investigator In-Service Case Study	Passed	0.0	2.00
+42631	5/15/2024	PDP3757A	SOP 3-8 Sergeant Mentorship Program Guidelines	Passed	0.0	0.25
+42631	5/6/2024	PDP0018A	2024-2 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	5/6/2024	PDP0909A	2024-2 Range Qual Secondary Firearm (50 Rd)	Passed	0.0	0.50
+42631	4/11/2024	PDP4034A	2024 DIR 0640.80, Bias Event Response	Passed	0.0	0.25
+42631	3/19/2024	PDP3609A	2024-1 Range Qualification Primary Firearm	Passed	0.0	1.00
+42631	3/6/2024	PDP2966A	2024-1 All Sworn In-Service MFF Classroom	Passed	0.0	1.00
+42631	3/6/2024	PDP1595A	2024-1 All Sworn In-Service MFF Scenarios	Passed	0.0	2.00
+42631	3/6/2024	PDP1281A	2024-1 All Sworn In-Service Taser 7	Passed	0.0	3.00
+42631	3/6/2024	PDP0063A	2024-1 All Sworn In-Service Wellness	Passed	0.0	1.50
+42631	12/19/2023	PDP2720A	2023-2 All Sworn In-Service BWC Policy	Passed	0.0	2.00
+42631	12/19/2023	PDP0387A	2023-2 All Sworn In-Service BWC Test	Passed	0.0	0.50
+42631	12/19/2023	PDP1554A	2023-2 All Sworn In-Service Legal Updates	Passed	0.0	1.50
+42631	12/19/2023	PDP4443A	2023-2 All Sworn In-Service ABLE Scenario	Passed	0.0	1.00
+42631	12/19/2023	PDP3722A	2023-2 All Sworn In-Service Firearms 2	Passed	0.0	2.50
+42631	12/19/2023	PDP2759A	2023-2 All Sworn In-Service PP Scenarios	Passed	0.0	1.50
+42631	12/18/2023	PDP0831A	2023-2 All Sworn In-Service Crime Scene Mgmt	Passed	0.0	1.50
+42631	12/18/2023	PDP2672A	2023-2 All Sworn In-Service PP Mental Health 2	Passed	0.0	1.50
+42631	12/18/2023	PDP2894A	2023-2 All Sworn In-Service Firearms 1	Passed	0.0	2.50
+42631	12/18/2023	PDP1295A	2023-2 All Sworn In-Service PP Mental Health 1	Passed	0.0	1.00
+42631	12/18/2023	PDP3497A	2023-2 All Sworn In-Service TII Equity 1	Passed	0.0	1.00
+42631	12/18/2023	PDP2976A	2023-2 All Sworn In-Service TII Equity 2	Passed	0.0	1.50
+42631	12/15/2023	PDP3700A	2023 DIR 0630.05 Vehicle Interventions  Pursuits	Passed	0.0	0.25
+42631	12/15/2023	PDP4150A	DIR 0630.05 Chief's Message	Passed	0.0	0.25
+42631	11/22/2023	PDP3224A	2023-3 Range Qualification CEW	Passed	0.0	0.50
+42631	11/15/2023	PDP0003A	2023-3 Range Qualification Primary Firearm	Passed	0.0	1.00
+42631	10/30/2023	PDP4251A	2023 Active Stolen Vehicles Hotsheet	Passed	0.0	0.25
+42631	10/30/2023	PDP1153A	2023 Behavioral Health Unit Referrals	Passed	0.0	0.25
+42631	10/24/2023	PDP1196A	2023-2 All Sworn In-Service Firearms 2	Passed	0.0	2.50
+42631	10/19/2023	PDP3240A	2023-2 All Sworn In-Service Firearms 1	Passed	0.0	2.50
+42631	9/18/2023	PDP2384A	2022-10 CAO Legal Updates for 10/2022	Passed	0.0	0.25
+42631	9/18/2023	PDP2438A	2022-11 CAO Legal Updates for 11/2022	Passed	0.0	0.25
+42631	9/18/2023	PDP1263A	2022-12 CAO Legal Updates for 12/2022	Passed	0.0	0.25
+42631	9/18/2023	PDP3765A	2022-9 CAO Legal Updates for 09/2022	Passed	0.0	0.25
+42631	8/21/2023	MISCMAIN	2023 LE Annual Maintenance	Completed	0.0	0.00
+42631	8/21/2023	PDP0196A	2023 Axon CEW Annual Update	Passed	0.0	0.50
+42631	8/21/2023	PDP1348A	2023 DIR 0620.00 BWC Use and Management	Passed	0.0	0.25
+42631	8/21/2023	PDP0934A	2023 Portland Community Justice Partnership	Passed	0.0	0.25
+42631	8/21/2023	PDP2150A	2023 Restorative Justice Referrals and Reporting	Passed	0.0	0.25
+42631	8/21/2023	PDP3557A	2023-2 TT BWC Pilot Policy and Procedure FAQ	Passed	0.0	0.25
+42631	7/25/2023	PDP0519A	2023-2 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	7/25/2023	PDP2153A	2023-2 Range Qual Secondary Firearm (50 rd)	Passed	0.0	0.50
+42631	6/22/2023	PDP2248A	2023 Field Drug Test Kits	Passed	0.0	0.25
+42631	6/22/2023	PDP1276A	2023 Lead Exposure Training	Passed	0.0	1.25
+42631	6/22/2023	PDP0078A	2023 Red Dot Sights Training	Passed	0.0	0.25
+42631	6/22/2023	PDP0022A	City of Portland Bloodborne Pathogens	Passed	0.0	1.00
+42631	5/23/2023	PDP1390A	2021-9 TT  Protecting Workers from the Dangers	Passed	0.0	0.25
+42631	5/23/2023	PDP2848A	2022-6 CAO Legal Updates for 06/2022	Passed	0.0	0.25
+42631	5/23/2023	PDP2465A	2022-7 CAO Legal Updates for 07/2022	Passed	0.0	0.25
+42631	5/23/2023	PDP4227A	2023 OSHA Heat Illness Prevention with CityLearner	Passed	0.0	1.00
+42631	5/2/2023	PDP4462A	CPR/First Aid	Passed	0.0	1.75
+42631	5/2/2023	PDP0226A	2023 Directive 650.00 Consent Searches	Passed	0.0	0.25
+42631	4/5/2023	PDP0942A	2023 Training PS3 Support Specialist Coach School	Instructed	0.0	8.00
+42631	4/3/2023	PDP4280A	2023 City of Portland Police SharePoint Policy	Passed	0.0	0.50
+42631	4/3/2023	PDP3730A	2023 Microsoft Office Teams Usage Policy	Passed	0.0	0.25
+42631	4/3/2023	PDP1104A	2023 Microsoft OneDrive Usage Policy	Passed	0.0	0.25
+42631	4/3/2023	PDP2994A	2023 Microsoft PowerPoint Online Recorded Training	Passed	0.0	1.00
+42631	4/3/2023	PDP0062A	2023 Microsoft_Cloud Storage with OD and SP	Passed	0.0	1.00
+42631	4/3/2023	PDP0862A	2023 Police SharePoint Governance	Passed	0.0	0.25
+42631	4/3/2023	PDP1487A	2023 New Patrol Vehicles	Passed	0.0	0.25
+42631	3/30/2023	PDP36377	2023-1 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	3/11/2023	PDP33827	2022-12 CAO Case Law Updates for 12/2022	Passed	0.0	0.25
+42631	3/6/2023	PDP14165	2023 Microsoft Excel Online Recording	Passed	0.0	1.00
+42631	3/6/2023	PDP40514	2023 Microsoft Outlook Online Recording	Passed	0.0	1.00
+42631	3/6/2023	PDP00872	2023 Microsoft Word Online Recording	Passed	0.0	1.00
+42631	2/18/2023	PDP35372	2022 Naxolone Administration	Passed	0.0	0.25
+42631	2/18/2023	PDP06854	2023 Karly's Law - Oregon Child Abuse Solutions	Passed	0.0	0.50
+42631	2/18/2023	PDP27304	2023 Naxolone Narcan Distribution	Passed	0.0	0.25
+42631	2/18/2023	PDP09073	2023 Terminator Tire Deflation Device	Passed	0.0	0.25
+42631	2/18/2023	PDP30154	Annual CIU NTR Alarm Response Trng Reed Research	Passed	0.0	0.25
+42631	2/8/2023	MISCMAIN	2022 LE Annual Maintenance	Completed	0.0	0.00
+42631	1/18/2023	PDP0808A	2023-1 All Sworn In-Service Crowd Mgmt.	Passed	0.0	2.00
+42631	1/18/2023	PDP1243A	2023-1 All Sworn In-Service Crowd Mgmt.	Passed	0.0	2.00
+42631	1/18/2023	PDP2387A	2023-1 All Sworn In-Service Field Arrest	Passed	0.0	0.50
+42631	1/18/2023	PDP1421A	2023-1 All Sworn In-Service Internal Affairs	Passed	0.0	1.00
+42631	1/18/2023	PDP2123A	2023-1 All Sworn In-Service Scenarios	Passed	0.0	3.50
+42631	1/18/2023	PDP3773A	2023-1 All Sworn In-Service Mobile Field Force	Passed	0.0	1.00
+42631	1/17/2023	PDP1261A	2023-1 All Sworn In-Service Legal Updates	Passed	0.0	2.00
+42631	1/17/2023	PDP1448A	2023-1 All Sworn In-Service MFF Other	Passed	0.0	5.00
+42631	1/17/2023	PDP0098A	2023-1 All Sworn In-Service Wellness	Passed	0.0	1.00
+42631	1/5/2023	PDP42753	2022 Respiratory Protection: Yearly Screening	Passed	0.0	0.25
+42631	1/5/2023	PDP33753	2022-3 TT Oregon Ballot Measure 114	Passed	0.0	0.50
+42631	1/5/2023	PDP16862	DIR 0635.10 PPB Response to Public Order Events	Passed	0.0	0.25
+42631	1/5/2023	PDP33178	Oregon Ballot Measure 114	Passed	0.0	0.25
+42631	12/7/2022	PDP36927	2022-5 CAO Legal Updates for 05/2022	Passed	0.0	0.25
+42631	11/28/2022	PDP42069	2022-3 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	11/16/2022	PDP37226	2022-11 EO Clarification Regarding DIR 1010  1015	Passed	0.0	0.25
+42631	11/3/2022	PDP40447	2022 MCDA Probable Cause Refresher Training	Passed	0.0	0.25
+42631	11/3/2022	PDP01766	2022 Post Shooting Response	Passed	0.0	0.50
+42631	11/3/2022	PDP21461	OIS Supervisor Checklist	Passed	0.0	0.25
+42631	11/2/2022	PDP07952	2022-2 In-Service HRAR 2.02 Refresher	Passed	0.0	1.00
+42631	10/10/2022	PDP36211	2022 Crowd Management	Passed	0.0	0.50
+42631	10/10/2022	PDP28840	2022-3 CAO Legal Updates for 03/2022	Passed	0.0	0.25
+42631	10/10/2022	PDP27396	2022-4 CAO Legal Updates for 04/2022	Passed	0.0	0.25
+42631	10/10/2022	PDP10530	DIR 850.22, 850.21, 850.25, 850.20 with KC	Passed	0.0	1.25
+42631	9/23/2022	PDP11045	2022-3 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	9/12/2022	PDP32096	DIR 0910.00, Use of Force Reporting, Review,  Inv	Passed	0.0	0.25
+42631	9/12/2022	PDP37114	DIR 1010.00, Use of Force (effective 11/15/2022)	Passed	0.0	0.25
+42631	9/12/2022	PDP39675	DIR 1015.00, Less Lethal Weapons and Tools	Passed	0.0	0.25
+42631	8/30/2022	PDP01374	2022-2 In-Service ABLE/Active Bystandarship for LE	Passed	0.0	2.00
+42631	8/30/2022	PDP03645	2022-2 In-Service Legal Updates/Directive 1010.00	Passed	0.0	2.00
+42631	8/30/2022	PDP38421	2022-2 In-Service Patrol Procedures/Drills	Passed	0.0	2.00
+42631	8/30/2022	PDP37066	2022-2 In-Service Mental Health/CIT Updates	Passed	0.0	1.00
+42631	8/2/2022	PDP05995	2022 OSHA Heat Illness Prevention with CityLearner	Passed	0.0	1.00
+42631	8/2/2022	PDP30324	2022-1 CAO Legal Updates for 01/2022	Passed	0.0	0.25
+42631	8/2/2022	PDP14206	2022-1 Tips and Techniques Corrective Action Guide	Passed	0.0	0.75
+42631	8/2/2022	PDP36163	2022-2- CAO Legal Updates 02/2022	Passed	0.0	0.25
+42631	8/2/2022	PDP05316	2022-7 Executive Order: Corrective Action Guide	Passed	0.0	0.25
+42631	8/2/2022	PDP26686	Amended DOJ Settlement Agreement	Passed	0.0	1.00
+42631	8/2/2022	PDP38585	AXON CEW Annual Update	Passed	0.0	1.00
+42631	8/1/2022	PDP16854	2022-2 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	8/1/2022	PDP33829	2022-2 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	7/18/2022	PDP13658	2022 DIR 650.00 Search, Seizures, and Inventories	Passed	0.0	0.25
+42631	7/18/2022	PDP11567	2022 DIR 835.20 Managing Public Spaces	Passed	0.0	0.25
+42631	7/18/2022	PDP25814	2022 Voice Record Pro App	Passed	0.0	0.25
+42631	6/27/2022	PDP08041	City of Portland Bloodborne Pathogens	Passed	0.0	1.00
+42631	6/27/2022	PDP18820	Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info	Passed	0.0	0.25
+42631	6/17/2022	CQS04567	Call-Out Forms	Passed	0.0	1.00
+42631	5/26/2022	PDP15870	2022 In-Service Patrol Proc. Mental Hlth Scenarios	Passed	0.0	0.50
+42631	5/26/2022	PDP38760	2022 In-Service Patrol Procedures - Principles	Passed	0.0	1.50
+42631	5/26/2022	PDP12187	2022 In-Service Patrol Procedures - Scenarios	Passed	0.0	1.50
+42631	5/20/2022	MFS30888	EVOC / PIT, Spikes, Blocking, Stops, Radio, Cones	Passed	0.0	4.00
+42631	5/3/2022	PDP05147	2022 Language  Culture - Informal Interpreters	Passed	0.0	0.25
+42631	5/3/2022	PDP23522	2022 Queer Policy - Policy Scenarios	Passed	0.0	0.25
+42631	4/4/2022	PDP38945	2021-11 CAO Legal Updates for November 2021	Passed	0.0	0.25
+42631	4/4/2022	PDP42276	2021-12 CAO Legal Updates for December 2021	Passed	0.0	0.25
+42631	4/4/2022	PDP21588	2022 PIT and Ramming	Passed	0.0	0.25
+42631	4/4/2022	PDP03522	2022 Queer Policy Pronouns	Passed	0.0	0.25
+42631	4/4/2022	PDP03030	Dir 0630.60, Vehicle Disposition and Impoundment	Passed	0.0	0.25
+42631	4/4/2022	PDP44125	2022 HB 2513 Airways - ACAP	Passed	0.0	2.00
+42631	3/24/2022	PDP06390	2021-10 City Attorney's Legal Update for Oct. 2021	Passed	0.0	0.25
+42631	3/24/2022	PDP10575	2022 EAP-Crisis Planning	Passed	0.0	0.25
+42631	3/24/2022	PDP25308	2022 Vocabulary in LGBTQIA2S+/Queer Community	Passed	0.0	0.25
+42631	3/22/2022	PDP12489	2022-1 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	3/21/2022	PDP31806	2022-1 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	2/21/2022	PDP17743	2021-8 City Attorney's Legal Updates - Aug. 2021	Passed	0.0	0.25
+42631	2/21/2022	PDP23946	2021-9 City Attorney's Legal Update for Sept. 2021	Passed	0.0	0.25
+42631	2/21/2022	PDP04336	CIU NTR Alarm Resp. Reed Research Nuclear Reactor	Passed	0.0	0.25
+42631	2/21/2022	PDP34522	Interacting with Member LGBTQIA2S+ Chief's Message	Passed	0.0	0.25
+42631	1/17/2022	PDP14510	Directive 630.15 Foot Pursuits Video Part 2	Passed	0.0	0.25
+42631	1/17/2022	PDP11483	Directive 630.15 Foot Pursuits Video Part 1	Passed	0.0	0.25
+42631	1/17/2022	PDP34045	2022 Training 3M N Series Helmet	Passed	0.0	0.25
+42631	1/17/2022	PDP02637	2022-1 Chief's Office Bill 2928: Crowd Control	Passed	0.0	0.15
+42631	1/17/2022	PDP04025	Foot Pursuits (effective 01/14/2022)	Passed	0.0	0.50
+42631	12/31/2021	21-CVDL1	2021 LE Annual Maint-Not Met COVID19	Incomplete	0.0	0.00
+42631	12/12/2021	PDP19371	2021-3 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	11/30/2021	PDP11856	2021-3 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	11/17/2021	PDP07854	2021 Language Access-Util Bilingual Bureau Members	Passed	0.0	0.25
+42631	11/17/2021	PDP38017	2021-12 TipsTech Request Emer Ping Cell Device	Passed	0.0	0.25
+42631	11/17/2021	PDP38207	2021-3 City Attorney's Legal Updates for 3/2021	Passed	0.0	0.50
+42631	11/17/2021	PDP34501	2021-4 City Attorney's Legal Updates for 4/2021	Passed	0.0	0.25
+42631	11/17/2021	PDP26000	2021-5 City Attorney's Legal Updates for 5/2021	Passed	0.0	0.25
+42631	11/17/2021	PDP38317	2021-6 City Attorney's Legal Updates for 6/2021	Passed	0.0	0.25
+42631	11/17/2021	PDP16654	2021-7 City Attorney's Legal Updates for 7/2021	Passed	0.0	0.25
+42631	10/24/2021	PDP24543	2020-11 City Attorney's Legal Updates for 11/2020	Passed	0.0	0.25
+42631	10/24/2021	PDP18806	2020-12 CAO Legal Updates for 12/2020-Updated	Passed	0.0	0.25
+42631	10/24/2021	PDP27760	2021-1 City Attorney's Legal Updates for 1/2021	Passed	0.0	0.50
+42631	10/24/2021	PDP44558	2020-12 CAO Legal Updates for 12.2020-Updated	Passed	0.0	0.25
+42631	10/24/2021	PDP15092	2021-10 TipsTech CiteInLieuWarrants Notifications	Passed	0.0	0.25
+42631	10/24/2021	PDP16282	2021-11 TipsTech Unlawful Street Takeovers.Events	Passed	0.0	0.25
+42631	10/24/2021	PDP18114	2021-2 City Attorney's Legal Updates for 2/2021	Passed	0.0	0.25
+42631	9/19/2021	PDP12662	2021-9 Tips  Tech Dangers of High/Extreme Heat	Passed	0.0	0.25
+42631	9/19/2021	PDP04285	2021 OSHA Heat Illness Prevention Video	Passed	0.0	0.25
+42631	9/19/2021	PDP16333	2021 Training Emergency Entry Recap Video	Passed	0.0	0.25
+42631	9/9/2021	PDP04708	2021 External Training ABLE Training Ethics	Passed	0.0	4.00
+42631	9/9/2021	PDP02692	2021 External Training ABLE Training Use of Force	Passed	0.0	4.00
+42631	8/23/2021	PDP34409	2021 City of Portland Bloodborne Pathogens	Passed	0.0	1.00
+42631	8/23/2021	PDP23514	2021 Training Response to Calls Involving Youth	Passed	0.0	0.75
+42631	7/27/2021	PDP39968	2021-2 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	7/27/2021	PDP34869	2021-2 Range Qualification Shotgun	Passed	0.0	0.25
+42631	7/27/2021	PDP30376	2021-2 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	7/25/2021	PDP36127	2021 Cadet Program Cadet Advisors Meeting	Passed	0.0	3.50
+42631	7/25/2021	PDP22491	2021-8 Tips  Tech Ballot Measure 110 - Update	Passed	0.0	0.25
+42631	7/21/2021	PDP07900	CPR/First Aid	Passed	0.0	1.75
+42631	7/19/2021	PDP16058	2021 Language Access - LanguageLine	Passed	0.0	0.25
+42631	7/19/2021	PDP05749	2021 Language Access - LEP Testimonial	Passed	0.0	0.25
+42631	7/19/2021	PDP04678	2021-7 Tips  Tech Bureau Issued Utility Knives	Passed	0.0	0.25
+42631	7/19/2021	PDP19421	Online In-Service Directive 870.25 Holding Rooms	Passed	0.0	0.25
+42631	6/6/2021	PDP02154	2021 Language Access-Translation  Interpretation	Passed	0.0	0.25
+42631	6/6/2021	PDP13788	2021 Procedural Justice	Passed	0.0	0.75
+42631	5/24/2021	PDP42579	2021 Crowd Control Training Procedural Justice	Passed	0.0	0.75
+42631	5/24/2021	PDP13551	2021 Equity Training Series Racism Part 2	Passed	0.0	0.25
+42631	5/24/2021	PDP22460	2021 Language Access Introduction	Passed	0.0	0.25
+42631	4/20/2021	PDP04969	2020 CAO Don't Shoot PDX.Hernandez (resend)	Passed	0.0	0.25
+42631	4/20/2021	PDP15470	2020 Hernandez TRO Don't Shoot PDX v Portland	Passed	0.0	0.50
+42631	4/20/2021	PDP44416	2020 CAO IPO.McNally Refresh Train (resend)	Passed	0.0	0.50
+42631	4/20/2021	PDP02504	2020 CAO Newspapers.SimonTRO (resend)	Passed	0.0	0.25
+42631	4/20/2021	PDP40889	2020 City Attorney's ACLU.Bushong TRO (resend)	Passed	0.0	0.25
+42631	4/20/2021	PDP17522	2021 Crime Victims' Rights	Passed	0.0	0.25
+42631	4/20/2021	PDP21086	2021 Equity Training Series Racism Part 1	Passed	0.0	0.25
+42631	4/20/2021	PDP01753	2021 Hernandez Opinion/Order Don't Shoot PDX v PDX	Passed	0.0	0.25
+42631	4/20/2021	PDP15799	2021 Legal Updates	Passed	0.0	0.75
+42631	4/20/2021	PDP12819	2021 The Advanced SEND Protocol Video	Passed	0.0	0.25
+42631	4/20/2021	PDP12061	2021 Training Crowd Control Vehicles	Passed	0.0	0.25
+42631	4/20/2021	PDP04445	2021-6 Tips  Techniques Crowd Control Vehicles	Passed	0.0	0.25
+42631	3/22/2021	PDP02745	2021 Interoception and Mindful Movement	Passed	0.0	0.75
+42631	3/22/2021	PDP22216	2021 Chicago Case Study	Passed	0.0	0.25
+42631	2/22/2021	PDP24601	2021 Equity Training Series - Preparation	Passed	0.0	0.50
+42631	2/22/2021	PDP32331	2021 Mental Wellness	Passed	0.0	1.25
+42631	2/22/2021	PDP41550	2021-5 TipsTech LMS KnowledgeBank/Document Search	Passed	0.0	0.25
+42631	2/22/2021	PDP03228	Annual CIU NTR Alarm Response Training	Passed	0.0	0.25
+42631	1/27/2021	MISCMAIN	2021 LE Basic 3 Year Maintenance	Completed	0.0	0.00
+42631	1/17/2021	PDP05106	2021 Legal Bulletin Effects Measure 110 on Invstgn	Passed	0.0	0.50
+42631	1/17/2021	PDP17893	2021 Measure 110 Bullet Points	Passed	0.0	0.25
+42631	1/12/2021	PDP11460	2021 Box-In Refresher	Passed	0.0	0.25
+42631	1/12/2021	PDP18136	2021 CEW Annual Update	Passed	0.0	1.00
+42631	1/12/2021	PDP05057	2021 Equity Training Series Introduction	Passed	0.0	0.25
+42631	1/12/2021	PDP13891	2021 TECC Refresher	Passed	0.0	0.75
+42631	1/6/2021	MISCMAIN	2020 LE Annual Maintenance	Completed	0.0	0.00
+42631	1/5/2021	PDP18966	2021-1 Tips Techniques HB 4205	Passed	0.0	0.25
+42631	1/5/2021	PDP10276	2021-2 Tips  Tech Domestic Violence Investigation	Passed	0.0	0.25
+42631	1/5/2021	PDP25688	2021-3 Tips  Tech Ballot Measure 110 Summary	Passed	0.0	0.25
+42631	12/14/2020	PDP07824	2020-10 City Attorney's Office Legal Updates 10/20	Passed	0.0	0.25
+42631	12/6/2020	PDP12780	2020 CHO Stops App Update	Passed	0.0	0.50
+42631	12/6/2020	PDP37950	2020-7 City Attorney's Office Legal Updates 7/2020	Passed	0.0	0.72
+42631	12/6/2020	PDP29257	2020-8 City Attorney's Office Legal Updates 8/2020	Passed	0.0	0.25
+42631	12/6/2020	PDP10147	2020-9 City Attorney's Office Legal Updates 9/2020	Passed	0.0	0.25
+42631	11/17/2020	PDP08481	2021 Training In-Service Dry Run	Passed	0.0	4.00
+42631	11/17/2020	PDP27728	2021 Training In-Service Train the Trainer	Passed	0.0	3.00
+42631	11/8/2020	PDP27995	2020 Presumpt Declination DUIIs Invl Hosp BAC	Passed	0.0	0.25
+42631	11/8/2020	PDP21977	2020 Roles/Resp PPB on Mental Health Related Calls	Passed	0.0	1.00
+42631	10/28/2020	PDP34280	2020-6 City Attorney's Office Legal Updates 6/2020	Passed	0.0	0.25
+42631	10/25/2020	PDP19293	2020 City Attorney's Off Index Newspapers/SimonTRO	Passed	0.0	0.25
+42631	10/25/2020	PDP36872	2020 City Attorney's Off Don't Shoot PDX/Hernandez	Passed	0.0	0.25
+42631	10/25/2020	PDP11585	2020 City Attorney's Off IPO/McNally Refresh Train	Passed	0.0	0.50
+42631	10/25/2020	PDP02076	2020 City of Portland Bloodborne Pathogens	Passed	0.0	0.75
+42631	10/25/2020	PDP44040	2020 City Attorney's Office ACLU/Bushong TRO Tng	Passed	0.0	0.25
+42631	10/18/2020	PDP33124	2020-8 TipsTech Extreme Risk Protection Orders	Passed	0.0	0.25
+42631	10/18/2020	PDP06968	2020-9 Tips  Techniques Car Voucher Program	Passed	0.0	0.25
+42631	10/12/2020	PDP20000	2020-2 Range Qual Secondary Firearm (25 Rd)	Passed	0.0	0.50
+42631	10/12/2020	PDP23847	2020-2 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	10/12/2020	PDP03569	2020-2 Range Qualification Shotgun	Passed	0.0	0.25
+42631	10/12/2020	PDP19472	2020-2 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	10/11/2020	PDP11258	2020-5 City Attorney's Office Legal Updates 5/2020	Passed	0.0	0.50
+42631	9/28/2020	PDP28050	2020 Training Segmenting Video	Passed	0.0	0.25
+42631	9/28/2020	PDP27440	2020-4 City Attorney's Office Legal Updates 4/2020	Passed	0.0	0.50
+42631	9/28/2020	PDP19551	2020-6 Tips  Techniques Public Safety Statement	Passed	0.0	0.25
+42631	9/28/2020	PDP21266	2020-7 TipsTech Phillips Laser Protective Eyewear	Passed	0.0	0.25
+42631	9/14/2020	PDP25410	2020 CIU NTR Alarm Response Training	Passed	0.0	0.25
+42631	7/22/2020	PDP42651	2020-3 City Attorney's Office Legal Updates 3/2020	Passed	0.0	0.50
+42631	7/8/2020	PDP38171	2020-5 Tips  Tech Drug Packaging/Crime Lab Sub	Passed	0.0	0.25
+42631	7/6/2020	PDP26027	2020-2 City Attorney's Office Legal Updates 2/2020	Passed	0.0	0.50
+42631	5/28/2020	PDP09085	2020 Training All Sworn In-Service CEW	Passed	0.0	1.50
+42631	5/27/2020	PDP20622	2020 City Attorney InService LegalUpdate/PubRecord	Passed	0.0	1.50
+42631	5/27/2020	PDP00504	2020 InService EAP Dead Frce Incdnt:What Hapns Nxt	Passed	0.0	1.50
+42631	5/27/2020	PDP12740	2020 Training Sworn In-Service Ethics  Leadership	Passed	0.0	1.50
+42631	5/27/2020	PDP28252	2020 In-Service Mobile Field Force Class Video	Passed	0.0	1.00
+42631	5/27/2020	PDP30186	2020 InService Patrol Proc-Emergency Entry Class	Passed	0.0	2.00
+42631	5/27/2020	PDP19553	2020 InService Police Response Criminal Extremism	Passed	0.0	1.00
+42631	5/27/2020	PDP16593	2020 Training Sworn InService Wellness HeartHealth	Passed	0.0	1.00
+42631	5/27/2020	PDP36368	2020 Training Sworn InService Wellness Mindfulness	Passed	0.0	1.00
+42631	5/27/2020	PDP09408	2020 Training Sworn In-Service Wellness Nutrition	Passed	0.0	1.00
+42631	5/18/2020	PDP08328	2020 City Attorney's Gathright Decision Refresher	Passed	0.0	0.25
+42631	5/18/2020	PDP15453	2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor	Passed	0.0	0.25
+42631	5/18/2020	PDP07236	2020 Training InService Wellness Stress/Resilience	Passed	0.0	1.50
+42631	4/22/2020	PDP11465	2020 YSD School Critical Incident Plans Video	Passed	0.0	0.25
+42631	4/22/2020	PDP18308	2020-3 TipsTech Using Online Report for Addl Prop	Passed	0.0	0.25
+42631	3/31/2020	PDP00208	2020 BHR 2.02	Passed	0.0	1.00
+42631	3/17/2020	PDP33428	2020-1 CHO Force Inspector Updates for Q1	Passed	0.0	0.25
+42631	3/9/2020	PDP09165	2019-12 City Attorney's Office Legal Updates 12/19	Passed	0.0	0.50
+42631	3/9/2020	PDP18400	Undefined	Passed	0.0	0.25
+42631	3/9/2020	PDP24494	2020 Chief's Office Uniform Guide Video	Passed	0.0	0.25
+42631	3/9/2020	PDP09893	2020 SERT Patrol Armored Vehicle Use Video	Passed	0.0	0.25
+42631	3/9/2020	PDP40578	2020-1 City Attorney's Office Legal Updates 1/2020	Passed	0.0	0.50
+42631	2/18/2020	PDP15754	2020-1 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	2/18/2020	PDP16258	2020-1 Range Qualification Shotgun	Passed	0.0	0.25
+42631	2/18/2020	PDP15893	2020-1 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	1/27/2020	PDP42566	2019-11 City Attorney's Office Legal Updates 11/19	Passed	0.0	0.25
+42631	1/27/2020	PDP23987	2020 Threat Assess/Referral Program (TARP) App	Passed	0.0	0.25
+42631	1/27/2020	PDP08320	2020 Training Active Threat Review Video	Passed	0.0	0.25
+42631	1/27/2020	PDP14732	2020 Youth Educating Police Training	Passed	0.0	0.75
+42631	12/27/2019	MISCMAIN	2019 LE Annual Maintenance	Completed	0.0	0.00
+42631	12/21/2019	PDP12568	2019 MCDA Unavoidable Lull Opinion Update	Passed	0.0	0.25
+42631	12/21/2019	PDP40375	2019 Training Bloodborne Pathogens	Passed	0.0	0.75
+42631	12/21/2019	PDP36450	2019 Training Bloodborne Pathogens	Passed	0.0	0.75
+42631	12/21/2019	PDP13980	2019-10 City Attorney's Legal Updates for 10/2019	Passed	0.0	0.25
+42631	11/12/2019	PDP08945	2019-3 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	11/12/2019	PDP16502	2019-3 Range Qualification Shotgun	Passed	0.0	0.25
+42631	11/12/2019	PDP23516	2019-3 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	11/10/2019	PDP31997	2019 Chief's Office SPLC Aryan Prison Gangs	Passed	0.0	0.25
+42631	11/10/2019	PDP19197	2019 Chief's Office SPLC Racists Skinheads	Passed	0.0	0.25
+42631	11/10/2019	PDP14274	2019 City of Portland PBEM NET Roll Call Video	Passed	0.0	0.25
+42631	11/10/2019	PDP19532	2019-9 City Attorney's Office Legal Updates 9/2019	Passed	0.0	0.25
+42631	11/10/2019	PDP09647	2019-8 City Attorney's Office Legal Updates 8/2019	Passed	0.0	0.25
+42631	11/4/2019	PDP11535	2019 Chief's Office SPLC Antigovernment Extremists	Passed	0.0	0.25
+42631	11/4/2019	PDP04129	2019 Chiefs Office SPLC Sovereign Citizen Movement	Passed	0.0	0.25
+42631	10/23/2019	PDP37462	2019 Sworn InService-Pro Justice:Diff Vet Driver	Passed	0.0	0.50
+42631	10/23/2019	PDP27768	2019 Training Sworn In-Service - Control Tactics	Passed	0.0	2.00
+42631	10/23/2019	PDP17934	2019 Training Sworn In-Service-CEW/Taser:Practical	Passed	0.0	1.50
+42631	10/23/2019	PDP15175	2019 Training Sworn InService-Firearm:Target Focus	Passed	0.0	2.00
+42631	10/23/2019	PDP37902	2019 Training Sworn Member In-Service - PVO: HRVS	Passed	0.0	2.00
+42631	10/22/2019	PDP35628	2019 Training Sworn InService-ActiveThreat:Practic	Passed	0.0	9.00
+42631	10/21/2019	PDP21868	2019 Sworn In-Service-CIT/MH Crisis Response Upd	Passed	0.0	1.00
+42631	10/21/2019	PDP23047	2019 Sworn In-Service-Functional Mvmt Stretch	Passed	0.0	1.00
+42631	10/21/2019	PDP04820	2019 Training Sworn InService-Leadership:Org Excel	Passed	0.0	1.00
+42631	9/17/2019	PDP07809	2019 Chief's Office SPLC Hate Crimes	Passed	0.0	0.25
+42631	9/17/2019	PDP24727	2019 Chief's Office SPLC The Rise of the Lone Wolf	Passed	0.0	0.25
+42631	9/17/2019	PDP13537	2019 Training Public Safety Support Specialist Vid	Passed	0.0	0.25
+42631	9/17/2019	PDP40096	2019-2 CHO Force Inspector Updates for Q2	Passed	0.0	0.25
+42631	9/17/2019	PDP01504	2019-7 City Attorney's Office Legal Updates 7/2019	Passed	0.0	0.25
+42631	8/21/2019	PDP24526	Youth Services Division Annual In-Service 2019	Passed	0.0	8.00
+42631	8/18/2019	PDP02916	2019 CHO SPLC Law Enforce Response to Hate Events	Passed	0.0	0.25
+42631	7/26/2019	PDP27613	2019-5 City Attorney's Office Legal Updates 5/2019	Passed	0.0	0.25
+42631	7/17/2019	PDP17463	2019-2 Range Qualification 40mm Less Lethal Qual	Passed	0.0	0.50
+42631	7/17/2019	PDP12126	2019-2 Range Qualification Firearms Training	Passed	0.0	0.75
+42631	7/17/2019	PDP09382	2019-2 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	7/17/2019	PDP36182	2019-2 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	7/17/2019	PDP12797	2019-2 Range Qualification Shotgun	Passed	0.0	0.25
+42631	6/27/2019	PDP13135	CPR/First Aid	Passed	0.0	1.50
+42631	6/26/2019	PDP10984	Stop the Bleed: Bleeding Control Basic v.1.0	Passed	0.0	2.00
+42631	6/9/2019	PDP40036	2019 Training Choke and Carotid Awareness Video	Passed	0.0	0.25
+42631	6/9/2019	PDP22335	2019-1 PSD Force Inspector Updates for Q1	Passed	0.0	0.25
+42631	6/9/2019	PDP17498	2019-4 Tips  Techniques Emailing Security Reports	Passed	0.0	0.25
+42631	6/9/2019	PDP21682	2019-5 Tips  Tech Enforce of Protection Orders	Passed	0.0	0.25
+42631	6/9/2019	PDP30979	2019-6 Tips and Techniques Training Roster	Passed	0.0	0.25
+42631	6/9/2019	PDP27572	2019-7 TipsTech CAD Study Codes to Track Pursuits	Passed	0.0	0.25
+42631	6/9/2019	PDP38543	City Attorney's Office Legal Updates April 2019	Passed	0.0	0.50
+42631	6/9/2019	PDP23426	City Attorney's Office Legal Updates February 2019	Passed	0.0	0.25
+42631	6/9/2019	PDP37791	City Attorney's Office Legal Updates March 2019	Passed	0.0	0.25
+42631	6/9/2019	PDP14360	PSD Directive 630.61, Stolen Vehicles	Passed	0.0	0.25
+42631	4/21/2019	PDP23225	2018 City Attorney's Office Legal Updates for Q12	Passed	0.0	1.00
+42631	4/21/2019	PDP41799	2018-5 TipsTech 100% Collect/Submn Model-UPDATED	Passed	0.0	0.25
+42631	4/21/2019	PDP26370	2019 Annual Hearing Conservation Training for OSHA	Passed	0.0	0.25
+42631	4/21/2019	PDP38075	2019 Sex Assault Kit Tracking System (SAKTS) Video	Passed	0.0	0.25
+42631	4/21/2019	PDP26559	2019-2 Tips  Tech Use of Force/De-escalation QA	Passed	0.0	0.25
+42631	4/21/2019	PDP40931	2019-3 TipsTech ECIT Dispatch Criteria/BOEC Trng	Passed	0.0	0.25
+42631	4/5/2019	PDP05539	Oregon Washington Lawmen's Association Conf	Passed	0.0	12.00
+42631	3/19/2019	PDP25362	2019-1 City Attorney's Legal Updates for Jan 2019	Passed	0.0	0.50
+42631	3/19/2019	PDP12115	2019-1 TT Ext Vest Equip Requirements and Recs	Passed	0.0	0.25
+42631	3/12/2019	PDP34766	2019-1 Range Qualification 40mm Less Lethal	Passed	0.0	0.50
+42631	3/12/2019	PDP30216	2019-1 Range Qualification Firearms Training	Passed	0.0	0.75
+42631	3/12/2019	PDP23421	2019-1 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	3/12/2019	PDP33365	2019-1 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	3/11/2019	PDP12870	2019-1 Range Qualification Shotgun	Passed	0.0	0.25
+42631	2/10/2019	PDP11710	2018-4 City Attorney's Office Legal Updates for Q4	Passed	0.0	0.50
+42631	2/10/2019	PDP14745	2019 Training Seat Belt Video	Passed	0.0	0.25
+42631	12/2/2018	PDP09911	2018 Annual Hearing Conservation Training for OSHA	Passed	0.0	0.25
+42631	12/2/2018	PDP00554	2018 100% Collection and Submission Model Video	Passed	0.0	0.25
+42631	12/2/2018	PDP02905	2018-5 Tips  Tech 100% Collection and Submission	Passed	0.0	0.25
+42631	12/1/2018	PDP28385	2018-3 In-Service CEW Skills	Passed	0.0	2.00
+42631	12/1/2018	PDP24157	2018-3 In-Service Control Tactics	Passed	0.0	2.00
+42631	12/1/2018	PDP08972	2018-3 In-Service Firearms	Passed	0.0	2.00
+42631	12/1/2018	PDP13128	2018-3 In-Service Patrol Procedures Scenarios	Passed	0.0	2.00
+42631	11/30/2018	PDP25295	2018-3 In-Service Ambush Attacks/Post Shooting	Passed	0.0	1.00
+42631	11/30/2018	PDP33128	2018-3 In-Service CEW	Passed	0.0	1.50
+42631	11/30/2018	PDP05693	2018-3 In-Service Decision Making Exercise	Passed	0.0	1.00
+42631	11/30/2018	PDP36060	2018-3 In-Service Legal Updates	Passed	0.0	1.00
+42631	11/30/2018	PDP01810	2018-3 In-Service Procedural Justice	Passed	0.0	4.00
+42631	11/28/2018	PDP05428	2018-3 Qualification 40mm Less Lethal	Passed	0.0	0.50
+42631	11/28/2018	PDP21493	2018-3 Range Qualification Primary Firearm	Passed	0.0	0.50
+42631	11/28/2018	PDP10077	2018-3 Range Qualification Secondary Firearm	Passed	0.0	0.50
+42631	11/28/2018	PDP02546	2018-3 Range Qualification Shotgun Function Check	Passed	0.0	0.25
+42631	11/28/2018	PDP29426	2018-3 Range Qualification Shotgun	Passed	0.0	0.25
+42631	10/7/2018	MISCMAIN	2018 LE Annual Maintenance	Completed	0.0	0.00
+42631	10/7/2018	PDP21953	City Attorney's Legal Updates	Passed	0.0	0.25
+42631	10/7/2018	PDP15551	Fentanyl: The Real Deal	Passed	0.0	0.25
+42631	9/15/2018	MISCMAIN	2018 LE Basic 3 Year Maintenance	Completed	0.0	0.00
+42631	9/9/2018	PDP27651	2018 ITD MDC Console Replacement Videos-GetacV110	Passed	0.0	0.75
+42631	8/23/2018	PDP12961	Youth Services Division In-Service	Passed	0.0	10.00
+42631	8/21/2018	PDP02320	Taser Test Date	Passed	0.0	9.00
+42631	8/20/2018	PDP26970	Tips and Techniques Shooting though Barriers	Passed	0.0	0.25
+42631	8/1/2018	PDP33959	Oregon School Resource Officers Association Conf	Passed	0.0	20.00
+42631	8/1/2018	F6D03140	OSROA School Safety Conference	Passed	0.0	20.00
+42631	7/26/2018	PDP40516	2018-2 Bloodborne Pathogens	Passed	0.0	1.00
+42631	7/26/2018	PDP00683	2018-2 In-Service Decision Point Analysis	Passed	0.0	2.50
+42631	7/26/2018	PDP07302	2018-2 In-Service Implicit Bias	Passed	0.0	3.00
+42631	7/26/2018	PDP20126	2018-2 In-Service Legal Updates	Passed	0.0	2.00
+42631	7/24/2018	PDP26441	RegJIN MRE Tree View Training	Passed	0.0	3.00
+42631	7/15/2018	PDP33173	SSD Stops Application	Passed	0.0	0.50
+42631	6/26/2018	PDP22051	Detectives How to Spot a Skimmer	Passed	0.0	0.25
+42631	6/26/2018	PDP27736	City Attorneys Office Legal Updates for Q4	Passed	0.0	0.50
+42631	6/12/2018	PDP31241	2018-2 40mm Less Lethal Qualification	Passed	0.0	0.50
+42631	6/12/2018	PDP15633	2018-2 Primary Sidearm Qualification	Passed	0.0	0.50
+42631	6/12/2018	PDP41145	2018-2 Shotgun Qualification	Passed	0.0	0.50
+42631	4/17/2018	PDP39936	Tips and Tech Hazard Tow vs. Private Request	Passed	0.0	0.25
+42631	4/17/2018	PDP18845	Disposition of Records Upon Retirement	Passed	0.0	0.25
+42631	4/16/2018	F6W20420	Safety Procedures	Passed	0.0	2.00
+42631	4/2/2018	PDP42272	IFAK Refresher Video	Passed	0.0	0.25
+42631	4/2/2018	PDP11353	2017-3 Legal Updates for Q3	Passed	0.0	0.50
+42631	2/15/2018	PDP13947	40mm Less Lethal Transition Course	Passed	0.0	10.00
+42631	1/30/2018	PDP01076	BHU Mental Health Template Video Non-ECIT Officers	Passed	0.0	0.25
+42631	1/23/2018	PDP07748	2018-1 In-Service PVO High Speed Lapping	Passed	0.0	2.00
+42631	1/23/2018	PDP04533	2018-1 In-Service  PVO Pursuit Intervention Tech	Passed	0.0	2.00
+42631	1/23/2018	PDP32196	2018-1 In-Service PVO Precision Movement Course	Passed	0.0	2.00
+42631	1/23/2018	PDP22757	2018-1 In-Service Police Vehicle Operation Lecture	Passed	0.0	1.00
+42631	1/23/2018	PDP34636	2018-1 In-Service PVO Skid Car Operations	Passed	0.0	2.00
+42631	11/30/2017	PPB24634	2017-2 In-Servce Evaluations/Training Debrief	Passed	0.0	1.00
+42631	11/30/2017	PPB24639	2017-2 In-Service Firearms	Passed	0.0	2.00
+42631	11/30/2017	PPB24640	2017-2 In-Service TECC	Passed	0.0	2.00
+42631	11/30/2017	PPB24641	2017-2 In-Service Use of Force Scenarios	Passed	0.0	2.00
+42631	11/30/2017	PPB24642	2017-2 In-Service Defensive Tactics	Passed	0.0	2.00
+42631	11/29/2017	PPB24632	2017-2 In Service Employee Assistance Program	Passed	0.0	1.00
+42631	11/29/2017	PPB24633	2017-2 In-Service Chief's Hour and Evaluation	Passed	0.0	2.00
+42631	11/29/2017	PPB24635	2017-2 In-Service Use of Force	Passed	0.0	4.00
+42631	11/29/2017	PPB24636	2017-2 In-Service Crowd Control	Passed	0.0	1.00
+42631	11/29/2017	PPB24637	2017-2 In-Service Pursuit Policy	Passed	0.0	1.00
+42631	11/29/2017	PDP13037	40mm Less Lethal Transition	Passed	0.0	10.00
+42631	11/15/2017	F6C42260	Peer Support Resiliency Team Training	Passed	0.0	0.50
+42631	8/2/2017	F6A08851	OSROA School Safety Conference	Passed	0.0	20.00
+42631	7/31/2017	PPB24789	Legal Holds 2017	Passed	0.0	0.25
+42631	6/30/2017	PPB24454	Handgun Qualification - Primary Sidearm	Passed	0.0	0.50
+42631	6/30/2017	PPB24460	Shotgun Qualification	Passed	0.0	0.50
+42631	5/23/2017	PPB24474	Firearms - In Service 2017	Passed	0.0	2.00
+42631	5/23/2017	PPB24475	Taser - In Service 2017	Passed	0.0	1.00
+42631	5/23/2017	PPB24476	CPR/First Aid/ AED	Passed	0.0	2.00
+42631	5/23/2017	PPB24477	Patrol Tactics - Control/Cover Scenarios	Passed	0.0	2.00
+42631	5/23/2017	PPB24478	Defensive Tactics - In Service 2017	Passed	0.0	2.00
+42631	5/22/2017	PPB24466	Patrol Tactics - Control/Cover Officer Safety	Passed	0.0	2.00
+42631	5/22/2017	PPB24467	Crisis Communication - In Service 2017	Passed	0.0	2.00
+42631	5/22/2017	PPB24468	Bloodborne Pathogens - In Service 2017	Passed	0.0	0.50
+42631	5/22/2017	PPB24469	Legal Updates - In Service 2017	Passed	0.0	1.00
+42631	5/22/2017	PPB24470	HRAR 2.02 Workplace Harrassment Refresher	Passed	0.0	1.50
+42631	5/22/2017	PPB24471	Dir 635.20 Filming the Police In Service 2017	Passed	0.0	0.50
+42631	5/22/2017	PPB24473	Taser Update - In Service 2017	Passed	0.0	1.50
+42631	2/28/2017	F6C13191	Handgun Qualification-Primary Sidearm	Passed	0.0	0.50
+42631	2/28/2017	F6C19360	Less Lethal Qualification	Passed	0.0	0.50
+42631	2/28/2017	F6C25706	Shotgun Qualification	Passed	0.0	0.50
+42631	1/13/2017	PPB24457	Mobile Field Force - Refresher Training	Passed	0.0	4.00
+42631	12/31/2016	F6C15902	Roll Call Videos	Passed	0.0	0.50
+42631	10/31/2016	F6C04096	Handgun Qualification-Primary Sidearm	Passed	0.0	0.50
+42631	10/31/2016	F6C27856	Less Lethal Qualification	Passed	0.0	0.50
+42631	10/31/2016	F6C08264	Shotgun Qualification	Passed	0.0	0.50
+42631	10/25/2016	F6C01131	Directive 850.20 Response to Mental Health Crisis	Passed	0.0	1.00
+42631	10/25/2016	F6C21872	Taser X2 Transition In-Service 2016	Passed	0.0	3.50
+42631	10/25/2016	F6C11318	Defensive Tactics-Takedowns In-Service 2016	Passed	0.0	1.00
+42631	10/25/2016	F6C07632	Use of Force Scenarios In-Service 2016	Passed	0.0	1.50
+42631	10/25/2016	F6C42559	PVO In-Service 2016	Passed	0.0	1.75
+42631	10/24/2016	F6C02400	AR-15-In-Service 2016	Passed	0.0	2.00
+42631	10/24/2016	F6C03028	Equity Training	Passed	0.0	4.00
+42631	10/24/2016	F6C17698	TECC In-Service 2016	Passed	0.0	2.00
+42631	10/24/2016	F6C17600	Bloodborne Pathogens	Passed	0.0	0.50
+42631	6/30/2016	F6C32309	Handgun Qualification - Primary Sidearm	Passed	0.0	0.50
+42631	6/30/2016	F6C39733	Less Lethal Qualification	Passed	0.0	0.50
+42631	6/30/2016	F6C20466	Shotgun Qualification	Passed	0.0	0.50
+42631	2/29/2016	F6C23868	Shotgun Qualification	Passed	0.0	0.50
+42631	2/29/2016	F6C35721	Handgun Qualification Primary Sidearm	Passed	0.0	0.50
+42631	2/29/2016	F6C36540	Less Leathal Qualification	Passed	0.0	0.50
+42631	12/31/2015	15-1262	Video Training Courses	Passed	0.0	0.75
+42631	12/31/2015	MISCMAIN	2015 Police Maintenance Basic	Completed	0.0	0.00
+42631	12/10/2015	15-0272	Taser Refresher Training	Passed	0.0	2.00
+42631	12/10/2015	15-0100	Active Shooter	Passed	0.0	1.00
+42631	12/10/2015	15-0121	Patrol Tactics - DT Focus	Passed	0.0	4.50
+42631	12/10/2015	15-0114	Defensive Tactics	Passed	0.0	4.50
+42631	12/10/2015	15-0129	Firearms Training	Passed	0.0	4.50
+42631	12/10/2015	15-0801	Homicide Investigation	Passed	0.0	2.00
+42631	12/10/2015	15-0915	Agency Policies / Procedures	Passed	0.0	0.50
+42631	12/10/2015	15-0915	Agency Policies / Procedures	Passed	0.0	3.00
+42631	12/10/2015	15-0925	Use of Force Policy	Passed	0.0	1.00
+42631	12/10/2015	15-0964	Bloodborne Pathogens	Passed	0.0	1.00
+42631	12/10/2015	15-1125	Forfeitures - Civil / Criminal	Passed	0.0	0.50
+42631	12/10/2015	15-1203	EVOC	Passed	0.0	2.00
+42631	12/10/2015	15-1210	Emotional Survival	Passed	0.0	2.00
+42631	12/10/2015	15-1223	Patrol Tactics	Passed	0.0	4.50
+42631	12/10/2015	15-0121	Patrol Tactics - DT Focus	Passed	0.0	2.00
+42631	12/7/2015	15-0600	Versadex Software Applications	Passed	0.0	4.00
+42631	10/31/2015	15-0169	Shotgun Qualification	Passed	0.0	0.50
+42631	10/31/2015	15-0147	Firearms - Less Lethal	Passed	0.0	0.50
+42631	10/31/2015	15-0141	Handgun Qualification	Passed	0.0	0.50
+42631	10/22/2015	15-0953	CPR / First Aid / AED	Passed	0.0	2.00
+42631	9/11/2015	15-0253	Crowd / Riot Control	Passed	0.0	30.00
+42631	8/31/2015	15-0147	Firearms - Less Lethal	Passed	0.0	0.50
+42631	7/31/2015	15-0141	Handgun Qualification	Passed	0.0	0.50
+42631	7/31/2015	15-0169	Shotgun Qualification	Passed	0.0	0.50
+42631	4/18/2015	15-0253	Crowd / Riot Control	Passed	0.0	20.00
+42631	2/28/2015	15-0141	Handgun Qualification	Passed	0.0	0.50
+42631	2/28/2015	15-0147	Firearms - Less Lethal	Passed	0.0	0.50
+42631	2/28/2015	15-0169	Shotgun Qualification	Passed	0.0	0.50
+42631	1/31/2015	15-0600	Versadex Software Applications	Passed	0.0	10.00
+42631	12/31/2014	14-0716	LEDS Recertification	Passed	0.0	1.00
+42631	12/31/2014	14-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	0.75
+42631	12/11/2014	14-0924	Sexual Harassment	Passed	0.0	1.00
+42631	11/30/2014	14-0141	Handgun Qualification	Passed	0.0	0.50
+42631	11/30/2014	14-0147	Firearms - Less Lethal	Passed	0.0	0.50
+42631	11/30/2014	14-0169	Shotgun Qualification	Passed	0.0	0.50
+42631	9/30/2014	14-0711	Computer Training - Other	Passed	0.0	18.00
+42631	7/31/2014	14-0169	Shotgun Qualification	Passed	0.0	0.50
+42631	7/31/2014	14-0141	Handgun Qualification	Passed	0.0	0.50
+42631	5/25/2014	PPB24795	RRT Response to Mass Casualty Incidents	Passed	0.0	20.00
+42631	5/21/2014	14-0964	Bloodborne Pathogens	Passed	0.0	1.00
+42631	5/21/2014	14-0129	Firearms Training	Passed	0.0	2.00
+42631	5/21/2014	14-0114	Defensive Tactics	Passed	0.0	2.00
+42631	5/21/2014	14-0263	Contact  Cover Workshop	Passed	0.0	2.00
+42631	5/21/2014	14-0268	Tactical Survival	Passed	0.0	2.00
+42631	5/21/2014	14-0431	Incident Management	Passed	0.0	3.75
+42631	5/21/2014	14-0720	Mobile Video	Passed	0.0	1.00
+42631	5/21/2014	14-1116	Legal/Legislative Update	Passed	0.0	1.25
+42631	5/21/2014	14-0915	Agency Policies / Procedures	Passed	0.0	0.50
+42631	5/21/2014	14-1203	EVOC	Passed	0.0	1.00
+42631	3/31/2014	14-0141	Handgun Qualification	Passed	0.0	0.50
+42631	3/31/2014	14-0147	Firearms - Less Lethal	Passed	0.0	0.50
+42631	3/31/2014	14-0169	Shotgun Qualification	Passed	0.0	0.50
+42631	11/30/2013	13-0141	Handgun Qualification	Passed	0.0	0.50
+42631	11/30/2013	13-0169	Shotgun Qualification	Passed	0.0	0.50
+42631	11/18/2013	13-0964	Bloodborne Pathogens	Passed	0.0	1.00
+42631	11/4/2013	13-1195	Bicycle Patrol	Passed	0.0	40.00
+42631	10/31/2013	13-0260	Vehicle Assault / Hostage Rescue	Passed	0.0	1.50
+42631	10/31/2013	13-0275	Use of Deadly Force	Passed	0.0	4.50
+42631	10/31/2013	13-1250	Driving - Other	Passed	0.0	3.00
+42631	10/31/2013	13-0272	Taser Refresher Training	Passed	0.0	4.50
+42631	10/29/2013	13-0915	Agency Policies / Procedures	Passed	0.0	0.50
+42631	10/29/2013	13-0925	Use of Force Policy	Passed	0.0	2.75
+42631	10/29/2013	13-0684	Effective Contacts with Mentally Ill Citizens	Passed	0.0	1.00
+42631	10/29/2013	13-0634	Report Writing	Passed	0.0	2.00
+42631	10/29/2013	13-1285	K-9 Tactical	Passed	0.0	1.50
+42631	9/18/2013	13-0253	Crowd / Riot Control	Passed	0.0	10.00
+42631	9/17/2013	13-0253	Crowd / Riot Control	Passed	0.0	10.00
+42631	9/16/2013	13-0253	Crowd / Riot Control	Passed	0.0	10.00
+42631	7/31/2013	13-0141	Handgun Qualification	Passed	0.0	0.50
+42631	7/31/2013	13-0147	Firearms - Less Lethal	Passed	0.0	0.50
+42631	7/31/2013	13-0169	Shotgun Qualification	Passed	0.0	0.50
+42631	5/17/2013	13-0779	Fingerprinting	Passed	0.0	0.50
+42631	4/13/2013	13-0253	Crowd / Riot Control	Passed	0.0	9.00
+42631	4/12/2013	13-1255	Tactical Response Team (TRT) Training	Passed	0.0	4.00
+42631	4/12/2013	13-0253	Crowd / Riot Control	Passed	0.0	4.50
+42631	4/3/2013	13-0953	CPR / First Aid / AED	Passed	0.0	4.50
+42631	2/28/2013	13-0147	Firearms - Less Lethal	Passed	0.0	0.50
+42631	2/28/2013	13-0169	Shotgun Qualification	Passed	0.0	0.50
+42631	2/28/2013	13-0141	Handgun Qualification	Passed	0.0	0.50
+42631	2/12/2013	13-0101	Active Shooter - Tactical Response	Passed	0.0	20.00
+42631	1/18/2013	13-0990	GREAT Instructor Training	Passed	0.0	16.00
+42631	1/16/2013	13-0990	GREAT Instructor Training	Passed	0.0	60.00
+42631	12/31/2012	12-0476	Workplace Substance Abuse	Passed	0.0	1.00
+42631	12/31/2012	12-0924	Sexual Harassment	Passed	0.0	1.00
+42631	12/31/2012	12-0716	LEDS Recertification	Passed	0.0	1.00
+42631	12/31/2012	12-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	1.75
+42631	12/31/2012	MISCMAIN	2012 Police Maintenance Basic	Completed	0.0	0.00
+42631	11/26/2012	12-0721	Electronics - Other	Passed	0.0	10.00
+42631	5/23/2012	12-0129	Firearms Training	Passed	0.0	4.00
+42631	5/23/2012	12-0253	Crowd / Riot Control	Passed	0.0	4.00
+42631	5/23/2012	12-0272	Taser Refresher Training	Passed	0.0	4.00
+42631	5/23/2012	12-0964	Bloodborne Pathogens	Passed	0.0	1.00
+42631	5/23/2012	12-0969	Mental Health	Passed	0.0	2.00
+42631	5/23/2012	12-0774	Crime Scene Investigation	Passed	0.0	1.50
+42631	5/23/2012	12-0915	Agency Policies / Procedures	Passed	0.0	1.00
+42631	5/23/2012	12-1093	Civil Law	Passed	0.0	1.00
+42631	5/23/2012	12-1116	Legal/Legislative Update	Passed	0.0	2.00
+42631	5/23/2012	12-0918	Employee Assistance Program	Passed	0.0	0.50
+42631	5/23/2012	12-1223	Patrol Tactics	Passed	0.0	4.00
+42631	3/11/2012	12-0804	Narcotics Investigations	Passed	0.0	3.00
+42631	2/10/2012	12-0148	Less Lethal / Bean Bag	Passed	0.0	20.00
+42631	12/31/2011	11-0716	LEDS Recertification	Passed	0.0	1.00
+42631	12/31/2011	11-0114	Defensive Tactics	Passed	0.0	2.50
+42631	12/31/2011	11-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	1.75
+42631	11/23/2011	11-0964	Bloodborne Pathogens	Passed	0.0	1.00
+42631	5/18/2011	11-0121	Patrol Tactics - DT Focus	Passed	0.0	1.00
+42631	5/18/2011	11-0121	Patrol Tactics - DT Focus	Passed	0.0	4.00
+42631	5/18/2011	11-0129	Firearms Training	Passed	0.0	4.00
+42631	5/18/2011	11-0915	Agency Policies / Procedures	Passed	0.0	1.00
+42631	5/18/2011	11-0795	Domestic Violence Investigations	Passed	0.0	1.00
+42631	5/18/2011	11-0964	Bloodborne Pathogens	Passed	0.0	1.00
+42631	5/18/2011	11-1203	EVOC	Passed	0.0	4.00
+42631	5/18/2011	11-1093	Civil Law	Passed	0.0	1.00
+42631	5/18/2011	11-0928	Workplace - Other	Passed	0.0	0.50
+42631	5/18/2011	11-1116	Legal/Legislative Update	Passed	0.0	3.00
+42631	4/27/2011	11-0443	Leadership	Passed	0.0	8.00
+42631	4/25/2011	11-0699	CAD / MDS / MDT System	Passed	0.0	8.00
+42631	3/29/2011	11-0953	CPR / First Aid / AED	Passed	0.0	4.00
+42631	12/31/2010	10-1274	Briefing Trg - Multiple Topics,Consolidated Roster	Passed	0.0	3.50
+42631	8/31/2010	10-0114	Defensive Tactics	Passed	0.0	2.50
+42631	6/22/2010	10T001	Police Field Training Manual	Passed	0.0	50.00
+42631	5/27/2010	10-0121	Patrol Tactics - DT Focus	Passed	0.0	4.00
+42631	5/27/2010	10-0175	Tactical Firearms	Passed	0.0	4.00
+42631	5/27/2010	10-1116	Legal/Legislative Update	Passed	0.0	2.00
+42631	5/27/2010	10-0915	Agency Policies / Procedures	Passed	0.0	1.00
+42631	5/27/2010	10-0658	Racial Profiling	Passed	0.0	1.00
+42631	5/27/2010	10-1276	Evidence / Property Management	Passed	0.0	1.00
+42631	5/27/2010	10-1116	Legal/Legislative Update	Passed	0.0	2.00
+42631	5/27/2010	10-0682	Coping with Special Needs	Passed	0.0	1.00
+42631	5/27/2010	10-0964	Bloodborne Pathogens	Passed	0.0	1.00
+42631	4/28/2010	10-0253	Crowd / Riot Control	Passed	0.0	0.50
+42631	2/26/2010	10-1204	EVOC / PIT	Passed	0.0	4.25
+42631	2/26/2010	10-1203	EVOC	Passed	0.0	4.25
+42631	12/31/2009	09-0129	Firearms Training	Passed	0.0	51.75
+42631	12/31/2009	09-0114	Defensive Tactics	Passed	0.0	59.00
+42631	12/31/2009	09-0121	Patrol Tactics - DT Focus	Passed	0.0	63.50
+42631	12/30/2009	09-0683	Crisis Intervention	Passed	0.0	29.00
+42631	12/23/2009	09-1204	EVOC / PIT	Passed	0.0	11.00
+42631	12/21/2009	09-1182	Geography	Passed	0.0	3.50
+42631	12/17/2009	09-0101	Active Shooter - Tactical Response	Passed	0.0	13.00
+42631	12/15/2009	09-0854	Gas Mask Training	Passed	0.0	1.00
+42631	12/10/2009	09-0660	Culture / Diversity - Other	Passed	0.0	2.00
+42631	12/10/2009	09-1122	Law  Legal - Other	Passed	0.0	49.50
+42631	12/8/2009	09-0839	Radio Procedures	Passed	0.0	9.00
+42631	11/30/2009	09-0273	Taser X26 Certification	Passed	0.0	9.50
+42631	11/24/2009	09-1122	Law  Legal - Other	Passed	0.0	5.50
+42631	11/19/2009	09-0925	Use of Force Policy	Passed	0.0	4.00
+42631	11/17/2009	09-0795	Domestic Violence Investigations	Passed	0.0	15.00
+42631	11/5/2009	09-1122	Law  Legal - Other	Passed	0.0	16.50
+42631	11/2/2009	09-1252	Tactical Communication	Passed	0.0	5.00
+42631	10/20/2009	09-0127	Firearms Basic Classroom	Passed	0.0	4.25
+42631	10/16/2009	09-0008	DPSST Basic Police	Passed	0.0	640.00
+42631	9/18/2009	09-0011	Intoxilyzer 8000-Training hours included in Basic	Passed	0.0	0.00
+42631	9/3/2009	09-0010	SFST/DID- Training hours included in Basic	Passed	0.0	0.00
+42631	8/26/2009	09-1173	Lidar Operators Course	Passed	0.0	4.00
+42631	8/11/2009	09-1178	Radar / Lidar Training - Home Agency Approved	Passed	0.0	8.00
+42631	7/21/2009	09-0952	CPR / First Aid	Passed	0.0	4.00
+42631	5/21/2009	09-0103	ASP Baton	Passed	0.0	4.00
+42631	5/21/2009	09-1269	Field Training  Evaluation Program	Passed	0.0	4.00
+42631	5/21/2009	09-0129	Firearms Training	Passed	0.0	42.00
+42631	5/21/2009	09-0114	Defensive Tactics	Passed	0.0	41.00
+42631	5/21/2009	09-0121	Patrol Tactics - DT Focus	Passed	0.0	23.00
+42631	5/20/2009	09-1122	Law  Legal - Other	Passed	0.0	13.00
+42631	5/19/2009	09-0677	School / Child Training - Other	Passed	0.0	6.00
+42631	5/7/2009	09-0105	OC	Passed	0.0	2.00
+42631	5/7/2009	09-0245	Prisoner Restraint	Passed	0.0	2.00
+42631	5/6/2009	09-1094	Civil Liability Training	Passed	0.0	4.00
+42631	5/5/2009	09-1182	Geography	Passed	0.0	4.00
+42631	4/28/2009	09-0709	Mobile Data Terminal (MDT)	Passed	0.0	1.50
+42631	4/28/2009	09-0839	Radio Procedures	Passed	0.0	4.00
+42631	4/27/2009	09-0914	Personal / Professional Development - Other	Passed	0.0	3.00
+42631	4/27/2009	09-1122	Law  Legal - Other	Passed	0.0	3.00
+42631	4/23/2009	09-0964	Bloodborne Pathogens	Passed	0.0	1.50
+42631	4/17/2009	09-0920	New Hire Orientation	Passed	0.0	3.00
+42631	3/9/2009	09-0924	Sexual Harassment	Passed	0.0	2.00
+42631	2/2/2009	09-0207	K-9 Patrol Dog Training	Passed	0.0	4.00
+42631	1/5/2009	09-1198	Building Searches	Passed	0.0	4.00
+42631	10/6/2008	08-0114	Defensive Tactics	Passed	0.0	2.00
+42631	9/5/2008	08-0141	Handgun Qualification	Passed	0.0	2.00
+42631	8/4/2008	08-0953	CPR / First Aid / AED	Passed	0.0	2.00
+42631	6/2/2008	08-0170	Shotgun Training	Passed	0.0	4.00
+42631	6/2/2008	08-0169	Shotgun Qualification	Passed	0.0	1.00
+42631	3/8/2008	08-0870	AWR-160 WMD Awareness Level Training	Passed	0.0	6.00
+42631	1/12/2008	08-0249	Range 3000	Passed	0.0	1.00
+42631	1/12/2008	08-0114	Defensive Tactics	Passed	0.0	7.00
+42631	11/18/2007	07-1192	All Terrain Vehicle (ATV) Operation	Passed	0.0	5.00
+42631	10/1/2007	07-0114	Defensive Tactics	Passed	0.0	8.00
+42631	9/28/2007	07-0132	Firearms Qualification	Passed	0.0	2.00
+42631	8/6/2007	07-0150	Strategies of Low Light Engagements	Passed	0.0	4.00
+42631	5/7/2007	07-0953	CPR / First Aid / AED	Passed	0.0	2.00
+42631	4/30/2007	07-0272	Taser Refresher Training	Passed	0.0	1.00
+42631	4/30/2007	07-0132	Firearms Qualification	Passed	0.0	2.00
+42631	8/7/2006	06-0700	Strategies for Low Light Engagements	Passed	0.0	4.00
+42631	6/12/2006	06-0159	Taser X26	Passed	0.0	4.00
+42631	10/3/2005	05-1448	Gang Intelligence	Passed	0.0	4.00
+42631	9/23/2005	PDP22935	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
+42631	9/23/2005	PDP09921	IS-700 National Incident Management System	Passed	0.0	3.00
+42631	6/6/2005	05-0761	OC (Oleoresin Capsicum)	Passed	0.0	4.00
+42631	5/2/2005	05-0032	Defensive Tactics	Passed	0.0	2.00
+42631	11/29/2004	04-4355	Firearms - Fall 2004 Training	Passed	0.0	1.00
+42631	9/8/2003	03-0682	Oleoresin Capsicum	Passed	0.0	4.00
+42631	8/11/2003	03-0945	Expandable Baton Recert	Passed	0.0	4.00
+42631	2/1/2003	02CP939	Clackamas County Inter-Agency Reserve Academy	Passed	0.0	314.50
+42631	1/11/2003	03-0254	Oregon State Police Intoxilizer 5000	Passed	0.0	6.00
 42649	10/23/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 42649	10/10/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 42649	9/12/2026	PDP4169D	2026 Axon Taser 7 Operator Certification Course	Passed	0.0	1.00
@@ -384928,6 +385172,7 @@ dpsst_identifier	date	course	title	status	score	hours
 43867	2/19/2004	04-0142	Lidar Operators Course	Passed	0.0	16.00
 43867	2/13/2004	04-0215	Intoxilyzer 5000	Passed	0.0	0.00
 43867	2/11/2004	04-0216	Radar Operators Course	Unknown	0.0	8.00
+43868	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 43868	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 43868	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 43868	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -390043,6 +390288,7 @@ dpsst_identifier	date	course	title	status	score	hours
 44124	1/15/2004	04-0682	Criminal Laws	Passed	0.0	4.00
 44124	1/13/2004	04-0565	Use of Force Lecture	Passed	0.0	4.00
 44124	1/10/2004	04-1024	Ethics  Sexual Harrassment	Passed	0.0	7.00
+44160	11/25/2026	MISCMAIN	2026 LE Leadership 3 Year Maintenance	Completed	0.0	0.00
 44160	11/18/2026	MISCMAIN	2026 LE Leadership 3 Year Maintenance	Completed	0.0	0.00
 44160	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Leadership Maintenance Met	Completed	0.0	0.00
 44160	9/15/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -391002,6 +391248,7 @@ dpsst_identifier	date	course	title	status	score	hours
 44160	6/2/2004	04-0368	Lidar Operators Course	Passed	0.0	6.00
 44160	5/27/2004	04-0216	Radar Operators Course	Passed	0.0	8.00
 44160	5/24/2004	04-0215	Intoxilyzer 5000	Passed	0.0	0.00
+44162	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 44162	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 44162	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 44162	10/27/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -395298,6 +395545,7 @@ dpsst_identifier	date	course	title	status	score	hours
 44436	8/26/2004	04-0368	Lidar Operators Course	Passed	0.0	6.00
 44436	8/16/2004	04-0216	Radar Operators Course	Passed	0.0	8.00
 44436	8/9/2004	04-0215	Intoxilyzer 5000	Passed	0.0	0.00
+44437	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 44437	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 44437	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 44437	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -398664,6 +398912,7 @@ dpsst_identifier	date	course	title	status	score	hours
 44568	3/23/2011	11-0953	CPR / First Aid / AED	Passed	0.0	4.00
 44568	7/1/2009	09-0716	LEDS Recertification	Passed	0.0	1.00
 44568	7/1/2007	07-0716	LEDS Recertification	Passed	0.0	2.00
+44622	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 44622	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 44622	11/13/2026	OSH0475E	Legacy of Lola Baldwin	Passed	0.0	1.00
 44622	11/13/2026	OSH2869E	Broken Treaties	Passed	0.0	1.50
@@ -405414,6 +405663,7 @@ dpsst_identifier	date	course	title	status	score	hours
 45002	3/31/2007	07-0133	Range	Passed	0.0	1.00
 45002	3/31/2006	06-0158	Radar/Lidar	Passed	0.0	16.00
 45002	7/1/2005	05-0590	LEDS Recertification	Passed	0.0	2.00
+45003	11/25/2026	MISCMAIN	2026 LE Leadership 3 Year Maintenance	Completed	0.0	0.00
 45003	11/18/2026	MISCMAIN	2026 LE Leadership 3 Year Maintenance	Completed	0.0	0.00
 45003	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Leadership Maintenance Met	Completed	0.0	0.00
 45003	10/7/2026	HBP1650E	In-Service 2026-4, ERIM Refresher	Passed	0.0	0.75
@@ -405960,6 +406210,7 @@ dpsst_identifier	date	course	title	status	score	hours
 45024	5/28/2008	08-0711	Computer Training - Other	Passed	0.0	2.00
 45024	5/31/2007	07-0790	Forensics - Other	Passed	0.0	3.00
 45024	2/13/2007	07-0952	CPR / First Aid	Passed	0.0	4.00
+45063	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 45063	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 45063	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 45063	9/23/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -411580,6 +411831,7 @@ dpsst_identifier	date	course	title	status	score	hours
 45663	7/13/2005	05-2119	Radar	Passed	0.0	8.00
 45663	6/27/2005	05-0038	Range 3000	Passed	0.0	0.50
 45663	6/21/2005	05-0038	Range 3000	Passed	0.0	0.50
+45665	11/25/2026	MISCMAIN	2026 LE Leadership 3 Year Maintenance	Completed	0.0	0.00
 45665	11/18/2026	MISCMAIN	2026 LE Leadership 3 Year Maintenance	Completed	0.0	0.00
 45665	10/26/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 45665	10/6/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -412437,6 +412689,7 @@ dpsst_identifier	date	course	title	status	score	hours
 45665	7/13/2005	05-2119	Radar	Passed	0.0	8.00
 45665	6/23/2005	05-0038	Range 3000	Passed	0.0	0.50
 45665	6/22/2005	05-0038	Range 3000	Passed	0.0	0.50
+45681	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 45681	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 45681	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 45681	10/22/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -424958,6 +425211,7 @@ dpsst_identifier	date	course	title	status	score	hours
 46121	6/15/1992	PDP3043C	HST 203 History of the US	Passed	0.0	30.00
 46121	6/15/1992	PDP2686C	PSY 231 Human Seuxality	Passed	0.0	30.00
 46121	6/15/1992	PDP1338C	RD 115 Speed Reading  Voc	Passed	0.0	30.00
+46160	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 46160	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 46160	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 46160	10/19/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -448184,6 +448438,7 @@ dpsst_identifier	date	course	title	status	score	hours
 47555	12/12/2007	07-0703	Data System	Passed	0.0	3.50
 47555	11/8/2007	07-0834	Investigation Training - Other	Passed	0.0	8.00
 47555	11/8/2007	07-0914	Personal / Professional Development - Other	Passed	0.0	8.00
+47562	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 47562	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 47562	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 47562	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -449901,6 +450156,7 @@ dpsst_identifier	date	course	title	status	score	hours
 47651	1/25/2007	07-1116	Legal/Legislative Update	Passed	0.0	2.00
 47651	1/22/2007	07-0952	CPR / First Aid	Passed	0.0	4.00
 47651	1/3/2007	07-0920	New Hire Orientation	Passed	0.0	3.00
+47653	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 47653	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 47653	10/26/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 47653	10/18/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -462417,6 +462673,7 @@ dpsst_identifier	date	course	title	status	score	hours
 48042	5/30/2007	07-1173	Lidar Operators Course	Passed	0.0	4.00
 48042	5/15/2007	07-1179	Radar Operators Course	Passed	0.0	8.00
 48042	4/26/2007	07-0952	CPR / First Aid	Passed	0.0	4.00
+48052	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 48052	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 48052	10/12/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 48052	9/23/2026	MNS1304D	Oregon Police Canine Association Conference	Passed	0.0	24.00
@@ -463268,6 +463525,7 @@ dpsst_identifier	date	course	title	status	score	hours
 48103	2/26/2008	08-0918	Employee Assistance Program	Passed	0.0	6.00
 48103	10/11/2007	07-1210	Emotional Survival	Passed	0.0	5.00
 48103	9/26/2007	07-0839	Radio Procedures	Passed	0.0	2.00
+48158	11/25/2026	MISCMAIN	2026 LE Leadership 3 Year Maintenance	Completed	0.0	0.00
 48158	11/18/2026	MISCMAIN	2026 LE Leadership 3 Year Maintenance	Completed	0.0	0.00
 48158	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Leadership Maintenance Met	Completed	0.0	0.00
 48158	10/22/2026	PDP1640E	2026 Axon Taser 7 Operator Certification Course	Passed	0.0	1.00
@@ -473063,6 +473321,7 @@ dpsst_identifier	date	course	title	status	score	hours
 48662	12/31/2014	14-0716	LEDS Recertification	Passed	0.0	1.00
 48662	12/11/2014	14-0924	Sexual Harassment	Passed	0.0	1.00
 48662	7/1/2009	09-0716	LEDS Recertification	Passed	0.0	1.00
+48728	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 48728	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 48728	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 48728	10/27/2026	PDP1640E	2026 Axon Taser 7 Operator Certification Course	Passed	0.0	1.00
@@ -524919,6 +525178,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51020	2/17/2010	10-0126	Firearms Basic	Passed	0.0	24.00
 51020	2/16/2010	10-0715	LEDS Inquiry Level	Passed	0.0	4.00
 51020	2/9/2010	10-0920	New Hire Orientation	Passed	0.0	4.00
+51049	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51049	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51049	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 51049	10/27/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -527565,6 +527825,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51073	2/13/2010	10-1228	Vehicle Stops	Passed	0.0	3.00
 51073	2/8/2010	10-0109	Confrontational Simulation	Passed	0.0	3.00
 51073	12/6/2009	09-0141	Handgun Qualification	Passed	0.0	8.00
+51155	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51155	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51155	10/27/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 51155	9/21/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -529083,6 +529344,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51204	3/10/2010	10-0953	CPR / First Aid / AED	Passed	0.0	4.50
 51204	3/10/2010	10-0953	CPR / First Aid / AED	Passed	0.0	4.00
 51204	2/13/2010	10-1075	Intoxilyzer 8000	Passed	0.0	8.00
+51225	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51225	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51225	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 51225	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -533156,6 +533418,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51248	1/7/2011	11-0964	Bloodborne Pathogens	Passed	0.0	1.00
 51248	1/6/2011	11-0924	Sexual Harassment	Passed	0.0	3.00
 51248	3/3/2010	10-0008	DPSST Basic Police	Cancelled	0.0	0.00
+51250	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51250	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 51250	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 51250	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -536497,6 +536760,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51733	9/30/2009	PPB20597	Enforcing Bike Laws Roll Call Video	Passed	0.0	0.25
 51733	6/23/2009	PPB20598	LEDS Inquiry Level	Passed	0.0	4.00
 51733	3/17/2001	11-0126	Firearms Basic	Passed	0.0	1.00
+51736	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51736	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51736	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 51736	10/15/2026	PDP0352D	2026 SERT Training - SCENARIO	Passed	0.0	9.00
@@ -537434,6 +537698,7 @@ dpsst_identifier	date	course	title	status	score	hours
 51736	1/7/2011	11-0915	Agency Policies / Procedures	Passed	0.0	5.00
 51736	1/7/2011	11-0964	Bloodborne Pathogens	Passed	0.0	1.00
 51736	1/6/2011	11-0924	Sexual Harassment	Passed	0.0	3.00
+51737	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51737	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 51737	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 51737	10/22/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -570671,6 +570936,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52693	10/4/2012	12-0010	SFST/DID- Training hours included in Basic	Passed	0.0	0.00
 52693	7/20/2012	12-0388	ICS 100 / IS 100 - Introduction to ICS	Passed	0.0	3.00
 52693	7/19/2012	12-0395	IS 700  NIMS, An Introduction	Passed	0.0	3.00
+52707	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 52707	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 52707	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 52707	9/17/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -574061,6 +574327,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52778	9/11/2012	12-0964	Bloodborne Pathogens	Passed	0.0	1.00
 52778	9/11/2012	12-1269	Field Training  Evaluation Program	Passed	0.0	6.00
 52778	9/10/2012	12-0924	Sexual Harassment	Passed	0.0	2.00
+52779	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 52779	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 52779	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 52779	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -578246,9 +578513,11 @@ dpsst_identifier	date	course	title	status	score	hours
 52801	10/9/2012	12-1269	Field Training  Evaluation Program	Passed	0.0	6.50
 52801	10/9/2012	12-0715	LEDS Inquiry Level	Passed	0.0	4.00
 52801	10/9/2012	12-0964	Bloodborne Pathogens	Passed	0.0	1.00
+52803	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 52803	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 52803	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 52803	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
+52803	9/30/2026	OSH4504E	ARIDE	Instructed	0.0	16.00
 52803	9/14/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 52803	7/29/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 52803	7/29/2026	PDP0853D	2026 OSHA Lead Exposure Quick Card	Passed	0.0	0.25
@@ -584930,6 +585199,7 @@ dpsst_identifier	date	course	title	status	score	hours
 52981	1/14/2013	13-0126	Firearms Basic	Passed	0.0	10.00
 52981	1/10/2013	13-0126	Firearms Basic	Passed	0.0	1.00
 52981	1/10/2013	13-0920	New Hire Orientation	Passed	0.0	8.00
+52982	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 52982	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 52982	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 52982	10/22/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -585667,6 +585937,7 @@ dpsst_identifier	date	course	title	status	score	hours
 53098	10/23/2026	GSP1357E	SFST Refresher with Wet Lab	Instructed	0.0	10.00
 53098	10/23/2026	GSP0693E	SFST Refresher with Wet Lab	Instructed	0.0	10.00
 53098	10/13/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
+53098	9/30/2026	OSH4504E	ARIDE	Instructed	0.0	12.00
 53098	9/1/2026	PDP2130D	2026 Lead Exposure Screening	Passed	0.0	1.00
 53098	9/1/2026	PDP1796D	2026 Lead Screening Consent Form	Passed	0.0	0.25
 53098	9/1/2026	PDP2542D	2026 Oregon State Lead Quick Facts	Passed	0.0	0.25
@@ -588098,6 +588369,7 @@ dpsst_identifier	date	course	title	status	score	hours
 53470	12/31/2013	13-0713	LEDS Certification	Passed	0.0	4.00
 53470	12/4/2013	13-1198	Building Searches	Passed	0.0	4.00
 53470	11/26/2013	14-0001	DPSST Basic Corrections	Cancelled	0.0	0.00
+53471	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 53471	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 53471	10/8/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 53471	9/2/2026	PDP0540D	2026 Trng BWC Body 4 Conversion Train the Trainer	Passed	0.0	0.50
@@ -599414,7 +599686,9 @@ dpsst_identifier	date	course	title	status	score	hours
 54919	3/2/2015	15-1029	Workplace Harassment	Passed	0.0	2.00
 54919	2/25/2015	15-0861	NIMS/ICS Course - Other Topic Area	Passed	0.0	2.00
 54919	2/9/2015	PDP16385	IS-00100 Introduction to Incident Command	Passed	0.0	3.00
+54999	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 54999	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
+54999	11/12/2026	PDS0290E	MIDD Training	Passed	0.0	2.00
 54999	11/9/2026	PDS2820E	Active Shooter	Passed	0.0	0.75
 54999	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 54999	11/2/2026	PDS1642E	Patrol Tactics	Passed	0.0	4.00
@@ -605664,6 +605938,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55317	10/22/2015	15-0010	SFST/DID- Training hours included in Basic	Passed	0.0	0.00
 55317	8/13/2015	PDP16385	IS-00100 Introduction to Incident Command	Passed	0.0	3.00
 55317	8/6/2015	15-1269	Field Training  Evaluation Program	Passed	0.0	8.00
+55392	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 55392	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 55392	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 55392	10/28/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -608994,6 +609269,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55553	2/9/2016	PDP16592	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
 55553	2/9/2016	PDP36384	IS-700 National Incident Management System	Passed	0.0	3.00
 55553	1/15/2016	16-0827	Informants	Passed	0.0	4.00
+55562	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 55562	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 55562	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 55562	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -611355,6 +611631,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55750	2/3/2016	F6C00023	Major Crime Scene - Detective Notification	Passed	0.0	3.00
 55750	1/12/2016	16-0388	ICS 100 / IS 100 - Introduction to ICS	Passed	0.0	3.00
 55750	1/12/2016	16-0395	IS 700  NIMS, An Introduction	Passed	0.0	3.00
+55828	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 55828	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 55828	10/20/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 55828	9/10/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -612866,6 +613143,7 @@ dpsst_identifier	date	course	title	status	score	hours
 55940	4/12/2016	F6B00709	CPR/First Aid/AED	Passed	0.0	2.00
 55940	4/11/2016	PPB24378	Firearms - New Hires	Passed	0.0	30.00
 55940	4/5/2016	PPB24348	FTEP Policy  Procedure - New Hires	Passed	0.0	7.00
+56132	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56132	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56132	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 56132	10/23/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -614309,6 +614587,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56159	7/5/2016	F6C02966	Radar Operator Course	Passed	0.0	8.00
 56159	6/1/2016	F6C19419	CPR/First Aid/AED	Passed	0.0	2.00
 56159	6/1/2016	F6C25179	LEDS Inquiry Level	Passed	0.0	4.00
+56217	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56217	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56217	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 56217	10/12/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -616080,6 +616359,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56277	8/8/2016	F6C23345	Bloodborne Pathogens	Passed	0.0	1.00
 56277	8/8/2016	F6C40189	FTEP Policy  Procedure - New Hires	Passed	0.0	6.00
 56277	8/4/2016	F6C09019	Firearms - New Hires	Passed	0.0	24.00
+56541	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56541	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56541	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 56541	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -617366,6 +617646,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56549	10/25/2016	F6C13461	CPR/First Aid/AED	Passed	0.0	2.00
 56549	10/25/2016	F6C02639	2.2 Workplace Harrassment - New Hires	Passed	0.0	2.00
 56549	8/31/2016	F6C20300	RAPID	Passed	0.0	0.25
+56566	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56566	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56566	10/13/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 56566	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
@@ -618061,6 +618342,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56575	3/9/2017	F6C35331	ICS 100/IS 100-Introduction to ICS	Passed	0.0	3.00
 56575	3/9/2017	F6C31690	IS 700-NIMS An Introduction	Passed	0.0	3.00
 56575	2/4/2017	F6A04045	Tactical Emergency Medical Training	Passed	0.0	4.00
+56593	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56593	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56593	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 56593	9/14/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -618685,6 +618967,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56593	10/26/2016	F6C06474	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
 56593	10/25/2016	F6C13461	CPR/First Aid/AED	Passed	0.0	2.00
 56593	10/25/2016	F6C02639	2.2 Workplace Harrassment - New Hires	Passed	0.0	2.00
+56627	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56627	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56627	10/8/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 56627	9/15/2026	SAG0820D	ICAC 201	Passed	0.0	8.00
@@ -619315,6 +619598,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56627	10/25/2016	F6C13461	CPR/First Aid/AED	Passed	0.0	2.00
 56627	10/25/2016	F6C02639	2.2 Workplace Harrassment - New Hires	Passed	0.0	2.00
 56627	8/31/2016	F6C20300	RAPID	Passed	0.0	0.25
+56628	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56628	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56628	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 56628	10/22/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -619933,6 +620217,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56628	10/26/2016	F6C06474	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
 56628	10/25/2016	F6C13461	CPR/First Aid/AED	Passed	0.0	2.00
 56628	10/25/2016	F6C02639	2.2 Workplace Harrassment - New Hires	Passed	0.0	2.00
+56629	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56629	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56629	10/1/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 56629	9/30/2026	PDP3078D	2026 Explosive Disposal Unit (MEDU) Weekly Trng	Passed	0.0	9.00
@@ -620644,6 +620929,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56629	10/26/2016	F6C06474	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
 56629	10/25/2016	F6C13461	CPR/First Aid/AED	Passed	0.0	2.00
 56629	10/25/2016	F6C02639	2.2 Workplace Harrassment - New Hires	Passed	0.0	2.00
+56653	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56653	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56653	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 56653	9/15/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -621566,6 +621852,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56655	7/31/2018	PDP12795	FTEP Policy and Procedure	Passed	0.0	7.00
 56655	6/27/2017	17T002	Corrections Field Training Manual	Completed	0.0	50.00
 56655	3/22/2017	16-0036	DOC Basic Corrections	Passed	0.0	249.50
+56694	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56694	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56694	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 56694	10/8/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -622208,6 +622495,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56694	10/26/2016	F6C06474	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
 56694	10/25/2016	F6C13461	CPR/First Aid/AED	Passed	0.0	2.00
 56694	10/25/2016	F6C02639	2.2 Workplace Harrassment - New Hires	Passed	0.0	2.00
+56709	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56709	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56709	10/24/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 56709	10/5/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -622594,6 +622882,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56709	3/10/2014	PDP1912A	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
 56709	6/25/2013	LCP23610	FEMA ICS-100	Passed	0.0	3.00
 56709	6/25/2013	PDP1912A	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
+56710	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56710	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56710	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 56710	10/30/2026	SDP2360E	CJIS Security and Privacy Training	Passed	0.0	1.00
@@ -622932,6 +623221,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56710	10/3/2016	HBS18747	Hazardous Communication	Passed	0.0	0.50
 56710	10/3/2016	HBS02614	Give Em The Pickle - Customer Service	Passed	0.0	0.50
 56710	10/3/2016	HBS37485	Workplace/Sexual Harassment	Passed	0.0	0.50
+56711	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56711	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56711	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 56711	10/25/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -625235,6 +625525,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56803	2/2/2017	PPB24486	2.2 - Workplace Harrassment - New Hires	Passed	0.0	2.00
 56803	2/2/2017	PPB24625	CPR/First Aid/ AED - New Hires	Passed	0.0	2.00
 56803	1/31/2017	F6C18246	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
+56874	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56874	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56874	10/26/2026	PDP1977E	2026 FTO In-Service - Presentation Slides	Passed	0.0	0.75
 56874	10/26/2026	PDP4257E	2026 FTO In-Service -  SEG Changes	Passed	0.0	0.25
@@ -626290,6 +626581,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56909	1/13/2017	F6C19243	Firearms-New Hires	Passed	0.0	7.00
 56909	1/12/2017	F6C05463	Advanced Academy 2017-1 Ethics	Passed	0.0	4.00
 56909	1/12/2017	F6C21432	Advanced Academy 2017-1 Orientation/Expectations	Passed	0.0	1.00
+56911	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56911	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56911	10/15/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 56911	9/22/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
@@ -626908,6 +627200,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56911	2/2/2017	F6C11839	CPR/First Aid/AED	Passed	0.0	4.00
 56911	2/2/2017	PPB24625	CPR/First Aid/ AED - New Hires	Passed	0.0	2.00
 56911	1/31/2017	F6C18246	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
+56923	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56923	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56923	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 56923	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -627675,6 +627968,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56960	2/2/2017	F6C11839	CPR/First Aid/AED	Passed	0.0	4.00
 56960	2/2/2017	PPB24625	CPR/First Aid/ AED - New Hires	Passed	0.0	2.00
 56960	1/31/2017	F6C18246	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
+56961	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56961	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56961	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 56961	10/21/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -629475,6 +629769,7 @@ dpsst_identifier	date	course	title	status	score	hours
 56964	2/2/2017	PPB24486	2.2 - Workplace Harrassment - New Hires	Passed	0.0	2.00
 56964	2/2/2017	PPB24625	CPR/First Aid/ AED - New Hires	Passed	0.0	2.00
 56964	1/31/2017	F6C18246	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
+56974	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56974	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 56974	10/20/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 56974	9/4/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -631172,6 +631467,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57047	2/2/2017	PPB24486	2.2 - Workplace Harrassment - New Hires	Passed	0.0	2.00
 57047	2/2/2017	PPB24625	CPR/First Aid/ AED - New Hires	Passed	0.0	2.00
 57047	1/31/2017	F6C18246	FTEP Policy  Procedure-New Hires	Passed	0.0	8.00
+57050	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57050	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57050	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 57050	10/27/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -633886,6 +634182,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57093	3/7/2017	F6C01577	Bloodborne Pathogens-New Hires	Passed	0.0	1.00
 57093	3/7/2017	PPB24487	FTEP Policy  Procedure - New Hires	Passed	0.0	8.00
 57093	3/7/2017	PPB24574	Bloodborne Pathogens - New Hires	Passed	0.0	1.00
+57119	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57119	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57119	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 57119	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -637037,6 +637334,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57306	5/30/2017	PPB24487	FTEP Policy  Procedure - New Hires	Passed	0.0	8.00
 57306	12/12/2016	ALP03146	Firearms/Night Range	Passed	0.0	4.00
 57306	7/30/2016	ALP37013	Firearms Qualification	Passed	0.0	1.00
+57307	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57307	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57307	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 57307	9/21/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -637924,6 +638222,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57309	5/31/2017	PPB24573	Gas Mask Fit  Training (APR)	Passed	0.0	2.00
 57309	5/31/2017	PPB24574	Bloodborne Pathogens - New Hires	Passed	0.0	1.00
 57309	5/30/2017	PPB24487	FTEP Policy  Procedure - New Hires	Passed	0.0	8.00
+57310	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57310	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57310	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 57310	10/29/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -639759,6 +640058,7 @@ dpsst_identifier	date	course	title	status	score	hours
 57429	5/31/2017	PPB24573	Gas Mask Fit  Training (APR)	Passed	0.0	2.00
 57429	5/31/2017	PPB24574	Bloodborne Pathogens - New Hires	Passed	0.0	1.00
 57429	5/30/2017	PPB24487	FTEP Policy  Procedure - New Hires	Passed	0.0	8.00
+57430	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57430	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 57430	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 57430	9/21/2026	PDP3117D	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -666629,6 +666929,7 @@ dpsst_identifier	date	course	title	status	score	hours
 58781	7/11/2018	PDP30615	FTEP 2.02 Training	Passed	0.0	2.00
 58781	7/11/2018	PDP39723	FTEP Blood Borne Pathogens	Passed	0.0	1.00
 58781	7/9/2018	PDP09314	FTEP Policy and Procedure	Passed	0.0	7.25
+58857	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 58857	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 58857	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 58857	10/23/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -668170,6 +668471,7 @@ dpsst_identifier	date	course	title	status	score	hours
 58874	7/11/2018	PDP30615	FTEP 2.02 Training	Passed	0.0	2.00
 58874	7/11/2018	PDP39723	FTEP Blood Borne Pathogens	Passed	0.0	1.00
 58874	7/9/2018	PDP09314	FTEP Policy and Procedure	Passed	0.0	7.25
+58932	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 58932	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 58932	10/8/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 58932	9/20/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -672618,6 +672920,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59189	10/23/2018	PDP32858	FTEP 2.02 Training	Passed	0.0	2.00
 59189	10/23/2018	PDP29133	FTEP Blood Borne Pathogens	Passed	0.0	1.00
 59189	10/23/2018	PDP01137	CPR/First Aid	Passed	0.0	2.00
+59199	11/25/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 59199	11/12/2026	EGP3374E	Deflection Program Update (Bias)	Passed	0.0	0.75
 59199	11/12/2026	EGP1699E	The Duty to Intervene: Legal Updates  Policies	Passed	0.0	2.00
 59199	11/12/2026	EGP2002E	Victim Advocacy Training	Passed	0.0	1.00
@@ -672979,6 +673282,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59199	12/5/2018	PDP07898	IS-700 Ntnl Incident Mngmnt Systm, An Intro	Passed	0.0	3.00
 59199	12/1/2018	PDP32963	ICS-100 Intro to the Incident Cmmnd Systm	Passed	0.0	3.00
 59199	10/16/2018	TRN18019	DOC-ODOC-G2015 Medic First Aid, CPR, AED v2017	Passed	0.0	6.00
+59217	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 59217	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 59217	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 59217	10/27/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -675569,6 +675873,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59490	2/14/2019	PDP19325	IS-00700.b National Incident Managment Sys (NIMS)	Passed	0.0	3.00
 59490	2/6/2019	PDP34229	FTEP Policy and Procedure	Passed	0.0	8.00
 59490	2/5/2019	PDP15967	CPR/First Aid	Passed	0.0	2.00
+59492	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 59492	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 59492	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 59492	10/14/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -680636,6 +680941,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59776	5/7/2019	PDP13473	2019-1 Traffic Radar/LIDAR Training	Passed	0.0	18.00
 59776	4/30/2019	PDP04929	FTEP Policy and Procedure	Passed	0.0	8.00
 59776	4/25/2019	PDP02756	FTEP Pre-DPSST Firearms	Passed	0.0	20.00
+59830	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 59830	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 59830	10/29/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 59830	10/8/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -681543,6 +681849,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59904	7/8/2019	PDP20309	Bloodborne Pathogens	Passed	0.0	1.00
 59904	7/8/2019	PDP10196	IS-00100.c (ICS 100)	Passed	0.0	3.00
 59904	7/4/2019	PDP18999	IS-00700.b (NIMS)	Passed	0.0	3.00
+59907	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 59907	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 59907	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 59907	10/5/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -682228,6 +682535,7 @@ dpsst_identifier	date	course	title	status	score	hours
 59979	7/31/2019	PDP09025	IS-00100.c  Intro to Incident Cmnd Sys (ICS 100)	Passed	0.0	3.00
 59979	7/31/2019	PDP42808	2019 City of Portland FTEP Bloodborne Pathogens	Passed	0.0	1.00
 59979	7/30/2019	PDP27669	CPR/First Aid	Passed	0.0	2.00
+60098	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60098	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60098	10/9/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 60098	9/2/2026	PDP0540D	2026 Trng BWC Body 4 Conversion Train the Trainer	Passed	0.0	0.50
@@ -683086,7 +683394,9 @@ dpsst_identifier	date	course	title	status	score	hours
 60101	7/31/2019	PDP42808	2019 City of Portland FTEP Bloodborne Pathogens	Passed	0.0	1.00
 60101	7/30/2019	PDP27669	CPR/First Aid	Passed	0.0	2.00
 60101	7/30/2019	PDP06312	DOJ Settlement Agreement	Passed	0.0	1.00
+60118	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60118	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
+60118	11/12/2026	PDS0290E	MIDD Training	Passed	0.0	2.00
 60118	11/4/2026	PDS1642E	Patrol Tactics	Passed	0.0	4.00
 60118	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 60118	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -683879,6 +684189,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60125	9/5/2019	PDP03446	IS-00100.c Intro to Incident Command Sys (ICS 100)	Passed	0.0	3.00
 60125	9/5/2019	PDP34073	IS-00700.b Natl Incident Mngmt System (NIMS)	Passed	0.0	3.00
 60125	9/3/2019	PDP06312	DOJ Settlement Agreement	Passed	0.0	1.00
+60133	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60133	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60133	10/22/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 60133	10/1/2026	PDP2901E	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -684323,6 +684634,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60133	9/5/2019	PDP03446	IS-00100.c Intro to Incident Command Sys (ICS 100)	Passed	0.0	3.00
 60133	9/5/2019	PDP34073	IS-00700.b Natl Incident Mngmt System (NIMS)	Passed	0.0	3.00
 60133	9/3/2019	PDP06312	DOJ Settlement Agreement	Passed	0.0	1.00
+60143	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60143	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60143	10/30/2026	VND1736E	Forensic Experiential Trauma Interview	Passed	0.0	26.00
 60143	10/1/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -685729,6 +686041,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60154	7/11/2019	PDP06312	DOJ Settlement Agreement	Passed	0.0	1.00
 60154	7/4/2019	PDP03446	IS-00100.c Intro to Incident Command Sys (ICS 100)	Passed	0.0	3.00
 60154	7/4/2019	PDP34073	IS-00700.b Natl Incident Mngmt System (NIMS)	Passed	0.0	3.00
+60155	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60155	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60155	10/27/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 60155	10/27/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -687124,6 +687437,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60188	10/3/2019	PDP18999	IS-00700.b (NIMS)	Passed	0.0	3.00
 60188	10/1/2019	PDP26485	DOJ Settlement Agreement	Passed	0.0	1.00
 60188	9/30/2019	PDP20408	2019 FTEP Policy and Procedure	Passed	0.0	6.00
+60189	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60189	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60189	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 60189	10/26/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -688032,6 +688346,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60211	3/4/2020	PDP19329	DOJ Settlement Agreement	Passed	0.0	1.00
 60211	2/5/2020	PDP17581	2020 City of Portland FTEP Bloodborne Pathogens	Passed	0.0	2.00
 60211	2/4/2020	PDP03927	2020 FTEP Policy and Procedure	Passed	0.0	8.00
+60217	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60217	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60217	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 60217	10/15/2026	PDP0352D	2026 SERT Training - SCENARIO	Passed	0.0	9.00
@@ -688583,6 +688898,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60217	10/3/2019	PDP18999	IS-00700.b (NIMS)	Passed	0.0	3.00
 60217	10/1/2019	PDP26485	DOJ Settlement Agreement	Passed	0.0	1.00
 60217	9/30/2019	PDP20408	2019 FTEP Policy and Procedure	Passed	0.0	6.00
+60235	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60235	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60235	10/26/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 60235	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -689447,6 +689763,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60291	10/30/2019	PDP26485	DOJ Settlement Agreement	Passed	0.0	1.00
 60291	10/24/2019	PDP28275	CPR/First Aid	Passed	0.0	2.00
 60291	10/22/2019	PDP04999	FTEP Policy and Procedure	Passed	0.0	8.00
+60377	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60377	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 60377	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 60377	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -690223,6 +690540,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60421	11/27/2019	PDP03445	2019 FTEP Radar LIDAR	Passed	0.0	14.00
 60421	11/26/2019	BPT00016	RADAR/LIDAR - Practical	Passed	0.0	16.00
 60421	11/21/2019	PDP36692	DOJ Settlement Agreement	Passed	0.0	1.00
+60422	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60422	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60422	10/15/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 60422	9/10/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -690633,6 +690951,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60422	12/5/2019	PDP16107	2019 City of Portland FTEP Bloodborne Pathogens	Passed	0.0	2.00
 60422	11/27/2019	PDP03445	2019 FTEP Radar LIDAR	Passed	0.0	14.00
 60422	11/26/2019	BPT00016	RADAR/LIDAR - Practical	Passed	0.0	16.00
+60431	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60431	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60431	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 60431	10/20/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -691106,6 +691425,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60431	11/15/2019	PDP30617	2019-5 TT Protection Orders Full Faith and Credit	Passed	0.0	0.25
 60431	11/15/2019	PDP26858	2019-6 Tips and Techniques Training Roster	Passed	0.0	0.25
 60431	11/15/2019	PDP36692	DOJ Settlement Agreement	Passed	0.0	1.00
+60432	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60432	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60432	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 60432	10/4/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -691754,6 +692074,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60434	12/5/2019	PDP16107	2019 City of Portland FTEP Bloodborne Pathogens	Passed	0.0	2.00
 60434	11/27/2019	PDP03445	2019 FTEP Radar LIDAR	Passed	0.0	14.00
 60434	11/26/2019	BPT00016	RADAR/LIDAR - Practical	Passed	0.0	16.00
+60435	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60435	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60435	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 60435	10/22/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -692217,6 +692538,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60435	4/20/2019	PDP23620	IS-00100.c Intro to Incident Command Sys (ICS 100)	Passed	0.0	3.00
 60435	4/20/2019	PDP43567	IS-00200.b Single Res   Initial Action Incident	Passed	0.0	3.00
 60435	4/20/2019	PDP07432	IS-700.b National Incident Management System	Passed	0.0	3.00
+60436	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60436	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60436	10/22/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 60436	10/15/2026	PDP0352D	2026 SERT Training - SCENARIO	Passed	0.0	9.00
@@ -693021,6 +693343,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60450	11/4/2019	PDP30194	2019 External Training HQPT Introduction	Passed	0.0	0.25
 60450	7/10/2017	PDP09107	IS-700.a National Incident Management System	Passed	0.0	3.00
 60450	7/2/2017	PDP01640	IS-00100.b Intro to Incident Command Sys (ICS 100)	Passed	0.0	3.00
+60455	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60455	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60455	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 60455	10/15/2026	PDP0352D	2026 SERT Training - SCENARIO	Passed	0.0	9.00
@@ -693440,6 +693763,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60455	11/27/2019	PDP03445	2019 FTEP Radar LIDAR	Passed	0.0	14.00
 60455	11/26/2019	BPT00016	RADAR/LIDAR - Practical	Passed	0.0	16.00
 60455	11/21/2019	PDP36692	DOJ Settlement Agreement	Passed	0.0	1.00
+60460	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60460	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60460	10/19/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 60460	9/15/2026	PDP1351D	Annual OSHA Heat Illness Prevention (CityLearner)	Passed	0.0	0.50
@@ -695551,6 +695875,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60562	7/21/2020	PDP40169	2020 FTEP Policy and Procedure	Passed	0.0	6.00
 60562	5/7/2020	PDP03131	DOJ Settlement Agreement	Passed	0.0	1.00
 60563	1/20/2020	M10-19A	DPSST Basic Police Course	Cancelled	0.0	0.00
+60587	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60587	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60587	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 60587	10/4/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -696060,6 +696385,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60588	7/21/2020	PDP40169	2020 FTEP Policy and Procedure	Passed	0.0	6.00
 60588	4/13/2020	PDP03131	DOJ Settlement Agreement	Passed	0.0	1.00
 60588	12/23/2019	F6D27341	LEDS Inquiry Certification	Passed	0.0	6.00
+60590	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60590	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60590	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 60590	10/27/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -697680,6 +698006,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60707	2/10/2020	PDP35138	2020 FTEP Pre-DPSST Firearms	Passed	0.0	21.00
 60707	2/5/2020	PDP17581	2020 City of Portland FTEP Bloodborne Pathogens	Passed	0.0	2.00
 60707	2/4/2020	PDP03927	2020 FTEP Policy and Procedure	Passed	0.0	8.00
+60735	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60735	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 60735	10/22/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 60735	9/22/2026	PDP2597D	2026 Field Training Officer (FTO) In-Service	Passed	0.0	9.00
@@ -698471,6 +698798,7 @@ dpsst_identifier	date	course	title	status	score	hours
 60812	7/30/2020	PDP42151	ICS-100 Intro to the Incident Command Sys	Passed	0.0	3.00
 60812	7/21/2020	PDP40169	2020 FTEP Policy and Procedure	Passed	0.0	6.00
 60812	4/16/2020	PDP03131	DOJ Settlement Agreement	Passed	0.0	1.00
+60813	11/25/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 60813	11/22/2026	OSH4270E	OSP Ethics 2026	Passed	0.0	1.00
 60813	10/27/2026	OSH3611E	OSP 3rd Trimester Firearms	Passed	0.0	3.00
 60813	10/2/2026	OSH2686D	ATV Operator	Passed	0.0	3.00
@@ -713856,6 +714184,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62287	3/8/2022	PDP09207	FTEP Post DPSST Firearms Training	Passed	0.0	4.50
 62287	2/7/2022	PDP30218	2021 Training New Pistol Qualification	Passed	0.0	0.25
 62287	10/20/2021	PDP13112	DOJ Settlement Agreement	Passed	0.0	1.00
+62320	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62320	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62320	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 62320	10/31/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -714609,6 +714938,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62390	4/5/2022	PDP4359A	CPR-First Aid	Passed	0.0	2.00
 62390	2/7/2022	PDP30218	2021 Training New Pistol Qualification	Passed	0.0	0.25
 62390	1/27/2022	PDP22752	DOJ Settlement Agreement	Passed	0.0	1.00
+62392	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62392	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 62392	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 62392	10/16/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -715462,6 +715792,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62452	3/2/2022	PDP02637	2022-1 Chief's Office Bill 2928: Crowd Control	Passed	0.0	0.15
 62452	2/7/2022	PDP30218	2021 Training New Pistol Qualification	Passed	0.0	0.25
 62452	1/27/2022	PDP22752	DOJ Settlement Agreement	Passed	0.0	1.00
+62499	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62499	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62499	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 62499	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -715694,6 +716025,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62499	1/28/2022	PDP15445	IS-700 National Incident Management System	Passed	0.0	4.00
 62499	1/26/2022	F6R40252	First Aid	Passed	0.0	3.50
 62499	1/19/2022	F6R19154	Adult/Child CPR	Passed	0.0	6.00
+62522	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62522	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62522	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 62522	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -716419,6 +716751,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62597	3/22/2022	PDP06215	2020-10 City Attorney's Legal Update Oct. 2020	Passed	0.0	0.25
 62597	3/22/2022	PDP31907	2021-6 Tips  Techniques Crowd Control Vehicles	Passed	0.0	0.25
 62597	3/21/2022	PDP22752	DOJ Settlement Agreement	Passed	0.0	1.00
+62665	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62665	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62665	10/13/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 62665	10/9/2026	PDP4314D	2026 Rapid Response team (RRT) Monthly Training	Passed	0.0	9.00
@@ -717866,6 +718199,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62958	7/27/2016	PDP06577	IS-315 CERT Supplemental Training: The ICS	Passed	0.0	3.00
 62958	3/12/2016	PDP31247	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
 62958	3/12/2016	PDP10447	ICS-200 Basic Incident Cmmnd Systm for Intl Resp	Passed	0.0	3.00
+62959	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62959	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62959	10/28/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 62959	10/17/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -718132,6 +718466,7 @@ dpsst_identifier	date	course	title	status	score	hours
 62959	8/30/2022	PDP38997	IS-700 National Incident Management System	Passed	0.0	4.00
 62959	6/22/2022	PDP18510	2021 Training New Pistol Qualification	Passed	0.0	0.25
 62959	6/8/2022	PDP41684	DOJ Settlement Agreement	Passed	0.0	1.00
+62974	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 62974	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 62974	11/17/2026	OCP3512E	Crisis Intervention Training - Crisis Response	Passed	0.0	1.00
 62974	10/28/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -718868,6 +719203,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63018	8/8/2022	PDP39549	2019 Training Seat Belt Video	Passed	0.0	0.25
 63018	7/18/2022	PDP00776	2021 Training New Pistol Qualification	Passed	0.0	0.25
 63018	7/18/2022	PDP38388	DOJ Settlement Agreement	Passed	0.0	1.00
+63033	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63033	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63033	10/27/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 63033	10/27/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -719397,6 +719733,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63034	9/27/2022	PDP12607	FTEP Policy  Procedure	Passed	0.0	7.00
 63034	7/19/2022	PDP00776	2021 Training New Pistol Qualification	Passed	0.0	0.25
 63034	7/19/2022	PDP38388	DOJ Settlement Agreement	Passed	0.0	1.00
+63052	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63052	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 63052	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 63052	10/30/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -720918,6 +721255,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63087	9/6/2022	PDP00776	2021 Training New Pistol Qualification	Passed	0.0	0.25
 63087	9/6/2022	PDP38388	DOJ Settlement Agreement	Passed	0.0	1.00
 63120	11/7/2022	M10-22A	DPSST Basic Police Course	Cancelled	0.0	0.00
+63164	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63164	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63164	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 63164	10/23/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -721383,6 +721721,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63180	10/27/2022	PDP43959	Firearms Training	Passed	0.0	6.00
 63180	10/26/2022	PDP04111	Firearms Training	Passed	0.0	8.00
 63180	10/3/2022	PDP21221	DOJ Settlement Agreement	Passed	0.0	1.00
+63210	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63210	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63210	10/23/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 63210	10/5/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -721592,6 +721931,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63210	9/30/2022	PDP38388	DOJ Settlement Agreement	Passed	0.0	1.00
 63210	9/30/2022	PDP21221	DOJ Settlement Agreement	Passed	0.0	1.00
 63210	9/27/2022	PDP00776	2021 Training New Pistol Qualification	Passed	0.0	0.25
+63211	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63211	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63211	10/7/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 63211	9/10/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -721817,6 +722157,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63211	10/25/2022	PDP34098	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
 63211	10/25/2022	PDP35120	IS-700 National Incident Management System	Passed	0.0	4.00
 63212	12/12/2022	M10-22A	DPSST Basic Police Course	Cancelled	0.0	0.00
+63214	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63214	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63214	10/28/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 63214	10/21/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -722060,6 +722401,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63214	9/12/2022	PDP36163	2022-2- CAO Legal Updates 02/2022	Passed	0.0	0.25
 63214	9/6/2022	PDP00776	2021 Training New Pistol Qualification	Passed	0.0	0.25
 63214	9/6/2022	PDP38585	AXON CEW Annual Update	Passed	0.0	1.00
+63215	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63215	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63215	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 63215	10/22/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -722510,6 +722852,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63218	11/29/2022	PDP34065	Firearms Training	Passed	0.0	7.00
 63218	10/19/2022	PDP34098	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
 63218	10/19/2022	PDP35120	IS-700 National Incident Management System	Passed	0.0	4.00
+63285	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63285	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63285	10/14/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 63285	9/9/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -722937,6 +723280,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63296	11/30/2022	PDP16923	Firearms Training	Passed	0.0	6.00
 63296	11/29/2022	PDP34065	Firearms Training	Passed	0.0	7.00
 63296	10/4/2022	PDP21221	DOJ Settlement Agreement	Passed	0.0	1.00
+63322	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63322	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63322	10/23/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 63322	10/11/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -723253,6 +723597,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63323	1/3/2023	PDP40128	IS-800 National Response Framework	Passed	0.0	3.00
 63323	10/4/2022	PDP21221	DOJ Settlement Agreement	Passed	0.0	1.00
 63323	9/27/2022	PDP00776	2021 Training New Pistol Qualification	Passed	0.0	0.25
+63324	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63324	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 63324	10/22/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
 63324	10/19/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
@@ -723469,6 +723814,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63324	1/12/2023	PDP32121	Pre Academy Firearms Training	Passed	0.0	7.00
 63324	1/11/2023	PDP02685	Pre Academy Firearms Training	Passed	0.0	7.00
 63324	1/10/2023	PDP37324	Pre Academy Firearms Training	Passed	0.0	7.00
+63325	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63325	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63325	10/6/2026	PDP0355E	2026 Disability Series: Brain Injury	Passed	0.0	0.75
 63325	8/25/2026	PDP0825D	Cybersecurity Awareness for City Employees	Passed	0.0	0.50
@@ -723970,6 +724316,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63327	12/5/2022	PDP01145	Firearms Training	Passed	0.0	7.00
 63327	10/5/2022	PDP21221	DOJ Settlement Agreement	Passed	0.0	1.00
 63327	8/18/2021	F1520946	Advance Leaders Course (ALC)	Passed	0.0	200.00
+63328	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63328	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63328	10/26/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
 63328	10/20/2026	MISCMAIN	2026 LE Annual Maintenance Met	Completed	0.0	0.00
@@ -724498,6 +724845,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63344	12/5/2022	PDP01145	Firearms Training	Passed	0.0	7.00
 63344	11/29/2022	PDP00648	FTEP Policy  Procedure	Passed	0.0	7.00
 63344	10/4/2022	PDP21194	2021 Training New Pistol Qualification	Passed	0.0	0.25
+63345	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63345	11/18/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63345	11/2/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance Met	Completed	0.0	0.00
 63345	10/22/2026	PDP3734E	2026-10 CAO Analysis of PPB Related Laws, 2025	Passed	0.0	0.25
@@ -728096,6 +728444,7 @@ dpsst_identifier	date	course	title	status	score	hours
 63719	6/3/2017	PDP2648	ICS-100 Intro to the Incident Cmmnd System	Passed	0.0	3.00
 63719	6/3/2017	PDP0786	ICS-200 Basic Incident Cmmnd Systm for Intl Resp	Passed	0.0	3.00
 63719	6/3/2017	PDP3526	IS-700 National Incident Management System	Passed	0.0	3.00
+63721	11/25/2026	MISCMAIN	2026 LE Basic 3 Year Maintenance	Completed	0.0	0.00
 63721	11/18/2026	MISCMAIN	2026 LE Annual Maintenance	Completed	0.0	0.00
 63721	11/11/2026	PDP1068E	2026-3 Advanced Academy Control Tactics	Passed	0.0	54.50
 63721	11/11/2026	PDP2021E	2026-3 Advanced Academy Wellness	Passed	0.0	7.50

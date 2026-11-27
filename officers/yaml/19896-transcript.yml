@@ -207,6 +207,12 @@ certification_records:
   expiration_date: 6/6/2030
   probation_date: ''
 training_records:
+- date: 11/24/2026
+  course: CYS3776E
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/23/2026
   course: JDN4558D
   title: Handgun qualifications

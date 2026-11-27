@@ -84,6 +84,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2026
+  course: PDA2372E
+  title: Defensive Tactics  Use of OC Spray refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/13/2026
   course: PDA2127E
   title: Handgun Firearms
@@ -102,6 +108,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/8/2026
+  course: PDA3288E
+  title: Implicit Bias Training for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/8/2026
+  course: PDA3901E
+  title: Airways Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/8/2026
+  course: PDA4498E
+  title: Creating Safe Scenes
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/8/2026
+  course: PDA0241E
+  title: Intro to PS De-Escalation Tactics for Vets
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2026
+  course: PDA4498E
+  title: Creating Safe Scenes
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/11/2026
   course: PDA2004E
   title: Reporting  Responding to Sexual Misconduct

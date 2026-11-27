@@ -59,6 +59,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/24/2026 | CYS3776E | Legal Updates | Passed | 0.0 | 1.00 |
 | 9/23/2026 | JDN4558D | Handgun qualifications | Passed | 0.0 | 0.50 |
 | 9/23/2026 | JDN3264D | Rifle qualifications | Passed | 0.0 | 0.50 |
 | 9/23/2026 | JDN3262D | Firearms Training and Tac-Med Refresher | Passed | 0.0 | 2.00 |
